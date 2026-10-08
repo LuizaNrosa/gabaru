@@ -1,0 +1,39 @@
+import type { Metadata, Viewport } from "next";
+import { AuthProvider } from "@/context/auth-context";
+import { LogoDefs } from "@/components/logo";
+import "./globals.css";
+
+export const metadata: Metadata = {
+  title: {
+    default: "GABARU · A gente estuda junto até você gabaritar",
+    template: "%s · GABARU",
+  },
+  description:
+    "Matemática e física para ETEC, Coluni, ENEM, FUVEST, UNICAMP, UNESP, ITA, IME e concursos.",
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://gabaru.com.br"),
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  themeColor: "#f7f4ee",
+};
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="pt-BR">
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@200..800&family=Atkinson+Hyperlegible+Mono:wght@200..800&display=swap"
+          rel="stylesheet"
+        />
+      </head>
+      <body className="min-h-screen bg-paper font-sans text-ink antialiased">
+        <LogoDefs />
+        <AuthProvider>{children}</AuthProvider>
+      </body>
+    </html>
+  );
+}

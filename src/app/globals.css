@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+/* Paleta "mesa de estudo": papel, caneta e marca-texto.
+   Proporção alvo: 90% papel e tinta, 8% lima (grifo), 2% rosa (ação).
+   Regras: lima só como fundo atrás de texto ink. Rosa só em ação e no "Gabaritou".
+   Rosa e lima nunca se encostam. Erro usa anil + forma, nunca vermelho. */
+@theme {
+  --color-paper: #f7f4ee;
+  --color-ink: #16161d;
+  --color-rosa: #c8105f;
+  --color-lima: #c8f53c;
+  --color-anil: #3b3fb6;
+
+  --color-n1: #e9e5dc;
+  --color-n2: #d9d4ca;
+  --color-n3: #8a857b;
+  --color-n4: #6b675f;
+  --color-n5: #4a4740;
+
+  --font-sans: "Atkinson Hyperlegible Next", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "Atkinson Hyperlegible Mono", ui-monospace, monospace;
+}
+
+html {
+  background: var(--color-paper);
+}
+
+body {
+  margin: 0;
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+mark {
+  background: var(--color-lima);
+  color: var(--color-ink);
+  padding: 0 0.15em;
+}
+
+a {
+  text-decoration-color: var(--color-rosa);
+  text-underline-offset: 3px;
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-anil);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+}

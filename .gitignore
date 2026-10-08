@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env.*.local
+*.pem
+*-firebase-adminsdk-*.json
+next-env.d.ts
+*.tsbuildinfo
+.vercel
+.DS_Store

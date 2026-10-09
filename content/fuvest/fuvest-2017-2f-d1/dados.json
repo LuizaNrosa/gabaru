@@ -1,0 +1,72 @@
+{
+ "id": "fuvest-2017-2f-d1",
+ "banca": "FUVEST",
+ "exame": "Vestibular FUVEST",
+ "ano": 2017,
+ "dia": null,
+ "fase": 2,
+ "descricao": "2ª fase, 1º dia (Língua Portuguesa e Literatura; discursiva). numero = grupo×100 + questão dentro do grupo.",
+ "total": 10,
+ "questoes": [
+  {
+   "numero": 101,
+   "imagem": "img/fuvest-2017-2f-d1-q101.webp",
+   "texto": "01\nConsidere a imagem abaixo, extraída da apresentação do filme A Amazônia, que faz parte da campanha “A\nnatureza está falando”.\nNo áudio desse filme, a atriz Camila Pitanga interpreta o seguinte texto:\nEu sou a Amazônia, a maior floresta tropical do mundo. Eu mando chuva quando vocês precisam. Eu\nmantenho seu clima estável. Em minhas florestas, existem plantas que curam suas doenças. Muitas delas vocês\nainda nem descobriram. Mas vocês estão tirando tudo de mim. A cada segundo, vocês cortam uma das minhas\nárvores, enchem de sujeira os meus rios, colocam fogo, e eu não posso mais proteger as pessoas que vivem aqui.\nQuanto mais vocês tiram, menos eu tenho para oferecer. Menos água, menos curas, menos oxigênio. Se eu\nmorrer, vocês também morrem, mas eu crescerei de novo...\na) Por estar em primeira pessoa, o texto constitui exemplo de uma determinada figura de linguagem. Identifique\nessa figura e explique seu uso, tendo em vista o efeito que o filme visa alcançar.\nb) No referido áudio, é possível perceber, no final da locução da atriz, uma entonação especial, representada na\ntranscrição por meio de reticências. Tendo em vista que uma das funções desse sinal de pontuação é sugerir\numa ideia não expressa que cabe ao leitor inferir, identifique a ideia sugerida, neste caso.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 102,
+   "imagem": "img/fuvest-2017-2f-d1-q102.webp",
+   "texto": "02\nA praga dos selfies\nDe uma coisa tenho certeza. A foto pelo celular vale apenas pelo momento. Não será feito um álbum de\nfotografias, como no passado, onde víamos as imagens, lembrávamos da família, de férias, de alegrias. As\nimagens ficarão esquecidas em um imenso arquivo. Talvez uma ou outra, mais especial, seja revivida. Todas as\noutras, que ideia. Só valem pelo prazer de fazer o selfie. Mostrar a alguns amigos. Mas o significado original da\nfoto de família ou com amigos, que seria preservar o momento, está perdido. Vale pelo instante, como até\ngrandes amores são hoje em dia. É o sorriso, o clique, e obrigado. A conquista: uma foto com alguém conhecido.\nW. Carrasco, “A praga dos selfies”. Época, 26.09.2016.\na) Para que o emprego da palavra “onde”, sublinhada no texto, seja considerado correto, a que termo\nantecedente ela deve se referir? Justifique sua resposta.\nb) Reescreva a frase “Todas as outras, que ideia.”, substituindo os dois sinais de pontuação nela empregados\npor outros, de tal maneira que fique mais evidente a entonação que ela tem no contexto.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 103,
+   "imagem": "img/fuvest-2017-2f-d1-q103.webp",
+   "texto": "03\nLeia o seguinte texto, extraído de uma matéria jornalística sobre supercomputadores:\nSupercomputadores são usados para cálculos de simulação pesada. Um exemplo recorrente do uso desse\ntipo de equipamento é a de simulação climática: com quatrilhões por segundo de processamento, torna  se\npossível que um computador tenha capacidade de calcular as oscilações meteorológicas. Isso ajuda a prevenir\ndesastres, ou a preparar políticas de apoio à agricultura, se antecipando a cenários os mais variados.\nEvidentemente, há outros usos, como pesquisas científicas que precisam também simular cenários, com\numa ampla gama de variáveis. Estudos militares e de desenvolvimento de tecnologia também se beneficiam do\npoder computacional desse tipo de equipamento.\nwww.techtudo.com.br, 24.06.2016.\na) Reescreva o trecho “é a de simulação climática: com quatrilhões por segundo de processamento”, levando\nem conta a correção e a clareza.\nb) A palavra “cenários” (sublinhada no texto) foi empregada com o mesmo sentido em suas duas ocorrências?\nJustifique sua resposta.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 104,
+   "imagem": "img/fuvest-2017-2f-d1-q104.webp",
+   "texto": "04\nExamine a seguinte citação:\nÉ menor pecado elogiar um mau livro, sem lê  lo, do que depois de o haver lido. Por isso, agradeço\nimediatamente depois de receber o volume.\nCarlos Drummond de Andrade, Passeios na ilha.\na) Explique por que o autor agradece “imediatamente depois de receber o volume”.\nb) Levando em conta o contexto, reescreva duas vezes o trecho “sem lê lo”, substituindo “sem” por “sem que”,\nna primeira vez, e por “mesmo não”, na segunda.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 105,
+   "imagem": "img/fuvest-2017-2f-d1-q105.webp",
+   "texto": "05\na) A dificuldade explicitada no último quadrinho verifica  se apenas na redação de cartas ou ocorre também na\nredação dos gêneros textuais romance e conto? Justifique sua resposta.\nb) O texto que compõe as falas dos quadrinhos pertence inteiramente à modalidade escrita da língua\nportuguesa? Justifique sua resposta, com base em elementos presentes no texto.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 106,
+   "imagem": "img/fuvest-2017-2f-d1-q106.webp",
+   "texto": "06\nLeia este texto, publicado em 1905.\nPor toda parte, a verbiagem,* oca, inútil e vã, a retórica [...] pomposa, a erudição míope, o aparato de\nsabedoria resumem toda a elaboração intelectual. [...] Aceitam se e proclamam se os mais altos representantes\nda intelectualidade: os retóricos inveterados, cuja palavra abundante e preciosa impõe se como sinal de gênio,\nembora não se encontrem nos seus longos discursos e muitos volumes nem uma ideia original, nem uma só\nobservação própria. E disto ninguém se escandaliza; o escândalo viria se houvera originalidade.\nManoel Bomfim, A América Latina: males de origem. Adaptado.\n*verbiagem: falatório longo mas com pouco sentido ou utilidade; verborragia.\na) O sentido que se atribui, no texto, à palavra “retórica” é o de “arte da eloquência, arte de bem argumentar;\narte da palavra” (Houaiss)? Justifique.\nb) Mantendo  se o sentido que eles têm no contexto, que outra forma os verbos “se encontrem” e “houvera”\npoderiam assumir?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 107,
+   "imagem": "img/fuvest-2017-2f-d1-q107.webp",
+   "texto": "07\nConsidere o excerto em que Araripe Júnior, crítico associado ao Naturalismo, refere  se ao “estilo” praticado\n“nesta terra”, isto é, no Brasil.\nO estilo, nesta terra, é como o sumo da pinha, que, quando viça, lasca, deforma se, e, pelas fendas\nirregulares, poreja o mel dulcíssimo, que as aves vêm beijar; ou como o ácido do ananás do Amazonas, que\ndesespera de sabor, deixando a língua a verter sangue, picada e dolorida.\na) O modo pelo qual o crítico explica a feição que o “estilo” assume “nesta terra” indica que ele compartilha\ncom o Naturalismo um postulado fundamental. Qual é esse postulado? Explique resumidamente.\nb) As características de estilo sugeridas pelo crítico, no excerto, aplicam  se ao romance O cortiço, de Aluísio\nAzevedo? Justifique sucintamente sua resposta.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 108,
+   "imagem": "img/fuvest-2017-2f-d1-q108.webp",
+   "texto": "08\nLeia o trecho de Vidas secas, de Graciliano Ramos, para, em seguida, responder ao que se pede.\nAí Fabiano parou, sentou se, lavou os pés duros, procurando retirar das gretas fundas o barro que lá havia.\nSem se enxugar, tentou calçar se  e foi uma dificuldade: os calcanhares das meias de algodão formaram bolos\nnos peitos dos pés e as botinas de vaqueta resistiram como virgens. Sinha Vitória levantou a saia, sentou se no\nchão e limpou se também. Os dois meninos entraram no riacho, esfregaram os pés, saíram, calçaram as\nchinelinhas e ficaram espiando os movimentos dos pais. Sinha Vitória aprontava se e erguia se, mas Fabiano\nsoprava arreliado. Tinha vencido a obstinação de uma daquelas amaldiçoadas botinas; a outra emperrava, e ele,\ncom os dedos nas alças, fazia esforços inúteis. Sinha Vitória dava palpites que irritavam o marido. Não havia meio\nde introduzir o diabo do calcanhar no tacão. A um arranco mais forte, a alça de trás rebentou se, e o vaqueiro\nmeteu as mãos pela borracha, energicamente. Nada conseguindo, levantou se resolvido a entrar na rua assim\nmesmo, coxeando, uma perna mais comprida que a outra. Com raiva excessiva, a que se misturava alguma\nesperança, deu uma patada violenta no chão. A carne comprimiu se, os ossos estalaram, a meia molhada rasgou\nse e o pé amarrotado se encaixou entre as paredes de vaqueta. Fabiano soltou um suspiro largo de satisfação e\ndor.\na) O trecho pertence à parte de Vidas secas intitulada “Festa”, na qual se narra a ida da família de sertanejos,\nacompanhada da cachorra Baleia, à cidade, onde deve participar de uma festividade pública. Considerada\nesta questão no contexto do livro, como se passa essa participação e o que ela mostra a respeito da\nsocialização da família?\nb) O tratamento narrativo dado aos eventos apresentados no trecho confere a ele um tom que contrasta com\no que é dominante, no conjunto de Vidas secas. Qual é esse tom? Explique sucintamente.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 109,
+   "imagem": "img/fuvest-2017-2f-d1-q109.webp",
+   "texto": "09\nLeia o trecho do conto “A hora e vez de Augusto Matraga”, de Sagarana, de João Guimarães Rosa, para responder\nao que se pede.\nE aí o povo encheu a rua, à distância, para ver. Porque não havia mais balas, e seu Joãozinho Bem  Bem\nmais o Homem do Jumento tinham rodado cá para fora da casa, só em sangue e em molambos de roupas\npendentes. E eles negaceavam e pulavam, numa dança ligeira, de sorriso na boca e de faca na mão.\nSe entregue, mano velho, que eu não quero lhe matar...\nJoga a faca fora, dá viva a Deus, e corre, seu Joãozinho Bem  Bem...\nMano velho! Agora é que tu vai dizer: quantos palmos é que tem, do calcanhar ao cotovelo!...\nSe arrepende dos pecados, que senão vai sem contrição, e vai direitinho p’ra o inferno, meu parente\nseu Joãozinho Bem  Bem!...\nÚi, estou morto...\na) Nesse trecho, em que se narra a luta entre Nhô Augusto e seu Joãozinho Bem  Bem, os combatentes, ao\nmesmo tempo em que se agridem, dispensam, um ao outro, um tratamento que demonstra estima e\nconsideração. No âmbito dos valores que são postos em jogo no conto, como se explica esse tratamento?\nb) No trecho, Nhô Augusto é designado como “o Homem do Jumento”. Considerando  se essa designação no\nintertexto religioso, muito presente no conto, como se pode interpretá  la? Justifique sua resposta.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 110,
+   "imagem": "img/fuvest-2017-2f-d1-q110.webp",
+   "texto": "10\nLeia o excerto de Mayombe, de Pepetela, no qual as personagens “dirigente” e Comandante Sem Medo discutem\no comportamento do combatente chamado Mundo Novo. As indicações [d] e [C] identificam, respectivamente,\nas falas iniciais do “dirigente” e do Comandante Sem Medo, que se alternam, no diálogo.\n[d] (...) A propósito do Mundo Novo: a que chamas tu ser dogmático?\n[C] Ser dogmático? Sabes tão bem como eu.\nDepende, as palavras são relativas. Sem Medo sorriu.\nTens razão, as palavras são relativas. Ele é demasiado rígido na sua conceção da disciplina, não vê as\ncondições existentes, quer aplicar o esquema tal qual o aprendeu. A isso eu chamo dogmático, penso que é a\nverdadeira aceção da palavra. A sua verdade é absoluta e toda feita, recusa  se a pô  la em dúvida, mesmo que\nfosse para a discutir e a reforçar em seguida, com os dados da prática. Como os católicos que recusam pôr em\ndúvida a existência de Deus, porque isso poderia perturbá  los.\nE tu, Sem Medo? As tuas ideias não são absolutas?\nTodo o homem tende para isso, sobretudo se teve uma educação religiosa. Muitas vezes tenho de fazer\num esforço para evitar de engolir como verdade universal qualquer constatação particular.\na) Que relação se estabelece, no excerto, entre a forma dialogal e as ideias expressas pelo Comandante Sem\nMedo?\nb) No plano da narração de Mayombe, isto é, no seu modo de organizar e distribuir o discurso narrativo,\nemprega  se algum recurso para evitar que o próprio romance, considerado no seu conjunto, recaia no\ndogmatismo criticado no excerto? Explique resumidamente.",
+   "gabarito": "discursiva"
+  }
+ ]
+}

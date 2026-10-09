@@ -1,0 +1,552 @@
+{
+ "id": "fuvest-2020-1f",
+ "banca": "FUVEST",
+ "exame": "Vestibular FUVEST",
+ "ano": 2020,
+ "dia": null,
+ "fase": 1,
+ "descricao": "1ª fase, Conhecimentos Gerais, caderno V (múltipla escolha). Gabarito oficial do caderno V.",
+ "total": 90,
+ "questoes": [
+  {
+   "numero": 1,
+   "imagem": "img/fuvest-2020-1f-q001.webp",
+   "texto": "01\nEm\nXangai,\numa\nloja\nespecializada em café oferece\numa opção diferente para\nadoçar a bebida. A chamada\nsweet little rain consiste em\numa xícara de café sobre a qual\né pendurado um algodão‐doce,\nmaterial rico em sacarose, o\nque passa a impressão de\nexistir uma nuvem pairando\nsobre o café, conforme\nilustrado na imagem.\nDisponível em https://www.boredpanda.com/.\nO café quente é então adicionado na xícara e, passado um\ntempo, gotículas começam a pingar sobre a bebida, simulando\numa chuva doce e reconfortante. A adição de café quente inicia\no processo descrito, pois\n(A) a temperatura do café é suficiente para liquefazer a\nsacarose do algodão‐doce, fazendo com que este goteje\nna forma de sacarose líquida.\n(B) o vapor de água que sai do café quente irá condensar na\nsuperfície do algodão‐doce, gotejando na forma de água\npura.\n(C) a sacarose que evapora do café quente condensa na\nsuperfície do algodão‐doce e goteja na forma de uma\nsolução de sacarose em água.\n(D) o vapor de água encontra o algodão‐doce e solubiliza a\nsacarose, que goteja na forma de uma solução de sacarose\nem água.\n(E) o vapor de água encontra o algodão‐doce e vaporiza a\nsacarose, que goteja na forma de uma solução de sacarose\nem água.\nNote e adote:\nTemperatura de fusão da sacarose à pressão ambiente = 186 °C;\nSolubilidade da sacarose a 20 °C = 1,97 kg/L de água.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 2,
+   "imagem": "img/fuvest-2020-1f-q002.webp",
+   "texto": "02\nEquipamentos domésticos chamados de vaporizadores para\nroupa utilizam o vapor de água gerado por um sistema de\nresistências elétricas a partir de água líquida. Um equipamento\ncom potência nominal de 1.600 W foi utilizado para passar\nroupas por 20 minutos, consumindo 540 mL de água. Em relação\nao gasto total de energia do equipamento, o gasto de energia\nutilizado apenas para vaporizar a água, após ela já ter atingido a\ntemperatura de ebulição, equivale a, aproximadamente,\n(A) 0,04%.\n(B) 0,062%.\nNote e adote:\n(C) 4,6%.\nEntalpia de vaporização da água a 100 °C = 40 kJ/mol;\n(D) 40%.\nMassa molar da água = 18 g/mol;\n(E) 62%.\nDensidade da água = 1 g/mL.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 3,
+   "imagem": "img/fuvest-2020-1f-q003.webp",
+   "texto": "03\nPesquisadores (...) conseguiram controlar reações químicas de\num modo inovador. Usaram feixes de laser para promover um\nesbarrão entre dois átomos e uni‐los, criando uma molécula.\nUtilizando pinças ópticas (feixes de laser altamente focados\ncapazes de aprisionar objetos microscópicos), os 5\npesquisadores empurraram um átomo do elemento químico\ncésio (Cs) contra um átomo de sódio (Na) até que colidissem.\nUm terceiro laser foi lançado sobre ambos, fornecendo\nenergia extra para criar a molécula NaCs. Na natureza, as\nmoléculas formam‐se a partir da interação de átomos por 10\nacaso. Por suas características químicas, césio e sódio jamais\noriginariam uma molécula espontaneamente. (...)\nMolécula criada em laboratório. Disponível em http://revistapesquisa.fapesp.br/.\nAdaptado.\nCom base nas informações do texto e em seus\nconhecimentos, é correto afirmar que\n(A) o Cs é um elemento químico radioativo e, devido a essa\ncaracterística química, a molécula de NaCs não se formaria\nsem esse modo inovador (L.2), que estabiliza o\ndecaimento.\n(B) o raio atômico do Na é maior que o do Cs, portanto, a sua\nenergia de ionização também é maior. O esbarrão (L.3) entre\nos átomos retira um elétron do Na, permitindo a ligação.\n(C) o terceiro laser (L.8) usado no experimento serviu para\nretirar um nêutron do Cs, tornando‐o um cátion e\npossibilitando a reação com o Na.\n(D) na natureza, com esses elementos se esbarrando por\nacaso (L.10‐11), a tendência seria formar CsNa, e não\nNaCs, justificando o caráter inovador do experimento.\n(E) o Cs e o Na não formariam uma molécula espontaneamente\n(L.11‐12), uma vez que ambos têm grande tendência a\nformarem cátions e ligações iônicas.\nV",
+   "gabarito": "E"
+  },
+  {
+   "numero": 4,
+   "imagem": "img/fuvest-2020-1f-q004.webp",
+   "texto": "04\nAo se preparar molho de tomate (considere apenas a fervura\nde tomate batido com água e azeite), é possível observar que\na fração aquosa (fase inferior) fica vermelha logo no início e a\nfração oleosa (fase superior), inicialmente com a cor\ncaracterística do azeite, começa a ficar avermelhada\nconforme o preparo do molho. Por outro lado, ao se preparar\numa sopa de beterraba (considere apenas a fervura de\nbeterraba batida com água e azeite), a fração aquosa (fase\ninferior) fica com a cor rosada e a fração oleosa (fase superior)\npermanece com sua coloração típica durante todo o processo,\nnão tendo sua cor alterada.\nConsiderando as informações apresentadas no texto e no\nquadro, a principal razão para a diferença de coloração\ndescrita é que a fração oleosa\n(A) fica mais quente do que a aquosa, degradando a betanina;\no mesmo não é observado com o licopeno, devido à sua\ncadeia carbônica longa.\n(B) está mais exposta ao ar, que oxida a betanina; o mesmo\nnão é observado com o licopeno, devido à grande\nquantidade de duplas ligações.\n(C) é apolar e a betanina, polar, havendo pouca interação; o\nmesmo não é observado com o licopeno, que é apolar e\nirá interagir com o azeite.\n(D) é apolar e a aquosa, polar, mantendo‐se separadas; o\nlicopeno age como um surfactante misturando as fases,\ncolorindo a oleosa, enquanto a betanina não.\n(E) tem alta viscosidade, facilitando a difusão do licopeno,\ncomposto de menor massa molar; o mesmo não é\nobservado para a betanina, com maior massa.\nNote e adote:\nMassas molares (g/mol):\nLicopeno = 537; betanina = 551.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 5,
+   "imagem": "img/fuvest-2020-1f-q005.webp",
+   "texto": "05\nNuma determinada condição experimental e com o\ncatalisador adequado, ocorre uma reação, conforme\nrepresentada no gráfico, que relaciona porcentagem do\ncomposto pelo tempo de reação.\nUma representação adequada para esse processo é:\n(A) limoneno ⇌ p‐cimeno → ‐terpineno\n(B) limoneno\n‐terpineno\n(C) limoneno\np‐cimeno ⇌\n‐terpineno\n(D) limoneno\np‐cimeno\n(E) limoneno → ‐terpineno → p‐cimeno",
+   "gabarito": "E"
+  },
+  {
+   "numero": 6,
+   "imagem": "img/fuvest-2020-1f-q006.webp",
+   "texto": "06\nOs chamados “remédios homeopáticos” são produzidos\nseguindo a farmacotécnica homeopática, que se baseia em\ndiluições sequenciais de determinados compostos naturais. A\ndosagem utilizada desses produtos é da ordem de poucos mL.\nUma das técnicas de diluição homeopática é chamada de diluição\ncentesimal (CH), ou seja, uma parte da solução é diluída em 99\npartes de solvente e a\nsolução resultante é\nhomogeneizada (ver\nesquema).\nAlguns desses produtos\nhomeopáticos são pro‐\nduzidos com até 200\ndiluições centesimais\nsequenciais (200CH).\nConsiderando uma solução de partida de 100 mL com\nconcentração 1 mol/L de princípio ativo, a partir de qual diluição\ncentesimal a solução passa a não ter, em média, nem mesmo\numa molécula do princípio ativo?\n(A) 12ª diluição (12CH).\n(B) 24ª diluição (24CH).\nNote e adote:\n(C) 51ª diluição (51CH).\nNúmero de Avogadro = 6×10 23 .\n(D) 99ª diluição (99CH).\n(E) 200ª diluição (200CH).\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 7,
+   "imagem": "img/fuvest-2020-1f-q007.webp",
+   "texto": "07\nO gás hélio disponível comercialmente pode ser gerado pelo\ndecaimento radioativo, sobretudo do urânio, conforme\nesquematizado pela série de decaimento. Desde a formação\nda Terra, há 4,5 bilhões de anos, apenas metade do 238 U\ndecaiu para a formação de He.\nCom base nessas informações e em seus conhecimentos, é\ncorreto afirmar:\n(A) O decaimento de um átomo de 238 U produz, ao final da\nsérie de decaimento, apenas um átomo de He.\n(B) O decaimento do 238 U para 234 U gera a mesma quantidade\nde He que o decaimento do 234 U para 230 Th.\n(C) Daqui a 4,5 bilhões de anos, a quantidade de He no planeta\nTerra será o dobro da atual.\n(D) O decaimento do 238 U para 234 U gera a mesma quantidade\nde He que o decaimento do 214 Pb para 214 Po.\n(E) A produção de He ocorre pela sequência de decaimento a\npartir do 206 Pb.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 8,
+   "imagem": "img/fuvest-2020-1f-q008.webp",
+   "texto": "08\nOs movimentos das moléculas antes e depois de uma reação\nquímica obedecem aos princípios físicos de colisões. Para\ntanto, cada átomo é representado como um corpo pontual\ncom uma certa massa, ocupando uma posição no espaço e\ncom uma determinada velocidade (representada na forma\nvetorial). Costumeiramente, os corpos pontuais são\nrepresentados como esferas com diâmetros proporcionais à\nmassa atômica. As colisões ocorrem conservando a\nquantidade de movimento.\nConsiderando um referencial no qual as moléculas neutras\nencontram‐se paradas antes e após a colisão, a alternativa\nque melhor representa o arranjo de íons e moléculas instantes\nantes e instantes depois de uma colisão que leva à reação\nF − + H 3 CC l → CH 3 F + C l −\né\nAntes da colisão\nApós a colisão\nÍon\nNeutro\nNeutro\nÍon\n(A)\n(B)\n(C)\n(D)\n(E)\nNote e adote:\nMassas atômicas: H = 1 u.m.a., C = 12 u.m.a., F = 19 u.m.a. e C l = 35 u.m.a.\nConsidere que apenas o isótopo de cloro C l = 35 u.m.a. participa da reação.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 9,
+   "imagem": "img/fuvest-2020-1f-q009.webp",
+   "texto": "09\nQuando o nosso corpo é lesionado por uma pancada, logo se\ncria um hematoma que, ao longo do tempo, muda de cor.\nInicialmente, o hematoma torna‐se avermelhado pelo\nacúmulo de hemoglobina. Em seguida, surge uma coloração\nazulada, decorrente da perda do O 2 ligado ao Fe do grupo\nheme. Essa coloração torna‐se, então, esverdeada\n(biliverdina) e, após isso, surge um tom amarelado na pele\n(bilirrubina). Essa sequência de cores ocorre pela\ntransformação do grupo heme da hemoglobina, como\nrepresentado a seguir:\nCom base nas informações e nas representações, é correto\nafirmar:\n(A) A conversão da biliverdina em bilirrubina ocorre por meio\nde uma redução.\n(B) A biliverdina, assim como a hemoglobina, é capaz de\ntransportar O 2 para as células do corpo, pois há oxigênio\nligado na molécula.\n(C) As três estruturas apresentadas contêm o grupo funcional\namida.\n(D) A degradação do grupo heme para a formação da\nbiliverdina produz duas cetonas.\n(E) O grupo heme, a biliverdina e a bilirrubina são isômeros.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 10,
+   "imagem": "img/fuvest-2020-1f-q010.webp",
+   "texto": "10\nA reação de cetonas com hidrazinas, representada pela\nequação química\npode ser explorada para a quantificação de compostos cetônicos\ngerados, por exemplo, pela respiração humana. Para tanto, uma\nhidrazina específica, a 2,4‐dinitrofenilhidrazina, é utilizada\ncomo reagente, gerando um produto que possui cor intensa.\nConsidere que a 2,4‐dinitrofenilhidrazina seja utilizada para\nquantificar o seguinte composto:\nNesse caso, a estrutura do composto colorido formado será:\n(A)\n(B)\n(C)\n(D)\n(E)",
+   "gabarito": "B"
+  },
+  {
+   "numero": 11,
+   "imagem": "img/fuvest-2020-1f-q011.webp",
+   "texto": "11\nEm supermercados, é comum encontrar alimentos chamados\nde liofilizados, como frutas, legumes e carnes. Alimentos\nliofilizados continuam próprios para consumo após muito\ntempo, mesmo sem refrigeração. O termo “liofilizado”, nesses\nalimentos, refere‐se ao processo de congelamento e posterior\ndesidratação por sublimação da água. Para que a sublimação\nda água ocorra, é necessária uma combinação de condições,\ncomo mostra o gráfico de pressão por temperatura, em que\nas linhas representam transições de fases.\nApesar de ser um processo que requer, industrialmente, uso\nde certa tecnologia, existem evidências de que os povos pré‐\ncolombianos que viviam nas regiões mais altas dos Andes\nconseguiam liofilizar alimentos, possibilitando estocá‐los por\nmais tempo. Assinale a alternativa que explica como ocorria o\nprocesso de liofilização natural:\n(A) A sublimação da água ocorria devido às baixas\ntemperaturas e à alta pressão atmosférica nas montanhas.\n(B) Os alimentos, após congelados naturalmente nos períodos\nfrios, eram levados para a parte mais baixa das montanhas,\nonde a pressão atmosférica era menor, o que possibilitava\na sublimação.\n(C) Os alimentos eram expostos ao sol para aumentar a\ntemperatura, e a baixa pressão atmosférica local favorecia\na solidificação.\n(D) As temperaturas eram baixas o suficiente nos períodos\nfrios para congelar os alimentos, e a baixa pressão\natmosférica nas altas montanhas possibilitava a\nsublimação.\n(E) Os alimentos, após congelados naturalmente, eram\nprensados para aumentar a pressão, de forma que a\nsublimação ocorresse.\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 12,
+   "imagem": "img/fuvest-2020-1f-q012.webp",
+   "texto": "12\nPara exemplificar probabilidade, um grupo de estudantes fez\numa atividade envolvendo química, conforme o\nprocedimento descrito.\nCada estudante recebeu um recipiente contendo 800 mL de\nágua destilada com algumas gotas do indicador de pH\nalaranjado de metila e soluções de HCl e NaOH em diversas\nconcentrações.\nCada estudante deveria jogar apenas uma vez dois dados, um\namarelo e um vermelho, ambos contendo os números de 1 a 6.\n• Ao jogar o dado vermelho, o estudante deveria adicionar ao\nrecipiente 100 mL de solução do ácido clorídrico na\nconcentração 10 −n mol/L, sendo n o número marcado no dado\n(por exemplo, se saísse o número 1 no dado, a solução seria\nde 10 −1 mol/L; se saísse 6, a solução seria de 10 −6 mol/L).\n• Ao jogar o dado amarelo, o estudante deveria executar o\nmesmo procedimento, mas substituindo o ácido por NaOH,\ntotalizando assim 1,0 L de solução.\n• O estudante deveria observar a cor da solução ao final do\nexperimento.\nA professora mostrou a tabela com alguns valores de pH\nresultantes conforme os números tirados nos dados. Ela\npediu, então, aos estudantes que utilizassem seus\nconhecimentos e a tabela para prever em quais combinações\nde dados a cor final do indicador seria vermelha.\nDado amarelo (adição de base)\nNúmero tirado\nnos dados\n1\n2\n3\n4\n5\n6\n1\n7,0\n2,1\n2,0\n(adição de ácido)\nDado vermelho\n2\n3,1\n3\n7,0\n4,1\n4\n7,0\n5\n11,9\n8,9\n6\n7,9\n7,0\nA probabilidade de, após realizar o procedimento descrito, a\nsolução final preparada por um estudante ser vermelha é de:\n(A) 1/12\n(B) 1/6\n(C) 1/4\n(D) 11/36\n(E) 5/12\nNote e adote:\nConsidere a seguinte relação entre pH do meio e coloração do indicador\nalaranjado de metila:\nMenor que 3,3\n3,3 a 4,4\nMaior que 4,4\nVermelho\nLaranja\nAmarelo",
+   "gabarito": "C"
+  },
+  {
+   "numero": 13,
+   "imagem": "img/fuvest-2020-1f-q013.webp",
+   "texto": "13\nCarros que saem da cidade A rumo a alguma das cidades\nturísticas E, F e G fazem caminhos diversos, passando por pelo\nmenos uma das cidades B, C e D, apenas no sentido indicado\npelas setas, como mostra a figura. Os números indicados nas\nsetas são as probabilidades, dentre esses carros, de se ir de\numa cidade a outra.\nNesse cenário, a probabilidade de um carro ir de A a F é\n(A) 0,120.\n(B) 0,216.\n(C) 0,264.\n(D) 0,336.\n(E) 0,384.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 14,
+   "imagem": "img/fuvest-2020-1f-q014.webp",
+   "texto": "14\nSe, em 15 anos, o salário mínimo teve um aumento nominal\nde 300% e a inflação foi de 100%, é correto afirmar que o\naumento real do salário mínimo, nesse período, foi de\n(A) 50%.\n(B) 100%.\n(C) 150%.\n(D) 200%.\n(E) 250%.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 15,
+   "imagem": "img/fuvest-2020-1f-q015.webp",
+   "texto": "15\nO cilindro de papelão central de uma fita crepe tem raio\nexterno de 3 cm. A fita tem espessura de 0,01 cm e dá 100\nvoltas completas. Considerando que, a cada volta, o raio\nexterno do rolo é\naumentado no valor da\nespessura da fita, o\ncomprimento total da fita\né de, aproximadamente,\n(A) 9,4 m.\n(B) 11,0 m.\n(C) 18,8 m.\n(D) 22,0 m.\n(E) 25,1 m.\nNote e adote:\n  3,14.\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 16,
+   "imagem": "img/fuvest-2020-1f-q016.webp",
+   "texto": "16\nUm objeto é formado por 4 hastes rígidas conectadas em seus\nextremos por articulações, cujos centros são os vértices de um\nparalelogramo. As hastes movimentam‐se de tal forma que o\nparalelogramo permanece sempre no mesmo plano. A cada\nconfiguração desse objeto, associa‐se , a medida do menor\nângulo interno do paralelogramo. A área da região delimitada\npelo paralelogramo quando = 90° é .\nPara que a área da região delimitada pelo paralelogramo seja\n2 , o valor de é, necessariamente, igual a\n(A) 15°.\n(B) 22,5°.\n(C) 30°.\n(D) 45°.\n(E) 60°.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 17,
+   "imagem": "img/fuvest-2020-1f-q017.webp",
+   "texto": "17\nA menor esfera na qual um paralelepípedo reto‐retângulo de\nmedidas 7 cm × 4 cm × 4 cm está inscrito tem diâmetro de\n(A) 9 cm.\n(B) 10 cm.\n(C) 11 cm.\n(D) 12 cm.\n(E) 15 cm.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 18,
+   "imagem": "img/fuvest-2020-1f-q018.webp",
+   "texto": "18\nA dona de uma lanchonete observou que, vendendo um\ncombo a R$ 10,00, 200 deles são vendidos por dia, e que, para\ncada redução de R$ 1,00 nesse preço, ela vende 100 combos\na mais. Nessas condições, qual é a máxima arrecadação diária\nque ela espera obter com a venda desse combo?\n(A) R$ 2.000,00\n(B) R$ 3.200,00\n(C) R$ 3.600,00\n(D) R$ 4.000,00\n(E) R$ 4.800,00",
+   "gabarito": "C"
+  },
+  {
+   "numero": 19,
+   "imagem": "img/fuvest-2020-1f-q019.webp",
+   "texto": "19\nA função de Euler determina, para cada número natural , a\nquantidade de números naturais menores do que\ncujo\nmáximo divisor comum com\né igual a 1. Por exemplo,\n(6) = 2 pois os números menores do que 6 com tal\npropriedade são 1 e 5. Qual o valor máximo de\n, para de\n20 a 25?\n(A) 19\n(B) 20\n(C) 22\n(D) 24\n(E) 25\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 20,
+   "imagem": "img/fuvest-2020-1f-q020.webp",
+   "texto": "20\nSe 3\n9\n7\n, para todo número\nreal , o valor de\né\n(A) 3.\n(B) 5.\n(C) 6.\n(D) 9.\n(E) 12.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 21,
+   "imagem": "img/fuvest-2020-1f-q021.webp",
+   "texto": "21\nUma agência de turismo vendeu um total de 78 passagens\npara os destinos: Lisboa, Paris e Roma. Sabe‐se que o número\nde passagens vendidas para Paris foi o dobro do número de\npassagens vendidas para os outros dois destinos\nconjuntamente. Sabe‐se também que, para Roma, foram\nvendidas duas passagens a mais que a metade das vendidas\npara Lisboa. Qual foi o total de passagens vendidas,\nconjuntamente, para Paris e Roma?\n(A) 26\n(B) 38\n(C) 42\n(D) 62\n(E) 68",
+   "gabarito": "D"
+  },
+  {
+   "numero": 22,
+   "imagem": "img/fuvest-2020-1f-q022.webp",
+   "texto": "22\nUm ponto , do plano cartesiano pertence ao conjunto\nse é equidistante dos eixos\ne\ne pertence ao círculo de\nequação\n2\n6\n2 0. É correto afirmar que\n(A) é um conjunto vazio.\n(B) tem exatamente 2 pontos, um no primeiro quadrante e\noutro no segundo quadrante.\n(C) tem exatamente 2 pontos, ambos no primeiro quadrante.\n(D) tem exatamente 3 pontos, sendo dois no primeiro\nquadrante e outro no segundo quadrante.\n(E) tem exatamente 4 pontos, sendo dois no primeiro\nquadrante e dois no segundo quadrante.\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 23,
+   "imagem": "img/fuvest-2020-1f-q023.webp",
+   "texto": "23\nUma cidade é dividida em dois Setores: o Setor Sul, com área\nde 10 km 2 , e o Setor Norte, com área de 30 km 2 . Após um final\nde semana, foram divulgados os seguintes totais\npluviométricos:\nDia\nSul\nNorte\nsábado\n7 mm\n11 mm\ndomingo\n9 mm\n17 mm\nÉ correto afirmar que o total pluviométrico desse final de\nsemana na cidade inteira foi de\n(A) 15 mm.\n(B) 17 mm.\n(C) 22 mm.\n(D) 25 mm.\n(E) 28 mm.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 24,
+   "imagem": "img/fuvest-2020-1f-q024.webp",
+   "texto": "24\nBill Waterson, Calvin and Hobbes. Disponível em https://www.gocomics.com/.\nAs possíveis soluções, em polegadas (inches, em inglês), para\no problema matemático proposto no quadrinho, no caso em\nque os pontos , e estão em uma mesma reta, são\n(A)\ne 10.\n, 5 e 10.\n(B)\ne 10.\n(C) ,\n(D) e 10.\ne 5.\n(E)",
+   "gabarito": "A"
+  },
+  {
+   "numero": 25,
+   "imagem": "img/fuvest-2020-1f-q025.webp",
+   "texto": "TEXTO PARA AS QUESTÕES DE 25 A 27\nAssigning female genders to digital assistants such as\nApple’s Siri and Amazon’s Alexa is helping entrench harmful\ngender biases, according to a UN agency.\nResearch released by Unesco claims that the often\nsubmissive and flirty responses offered by the systems to many\nqueries – including outright abusive ones – reinforce ideas of\nwomen as subservient.\n“Because the speech of most voice assistants is female, it\nsends a signal that women are obliging, docile and eager‐to‐\nplease helpers, available at the touch of a button or with a\nblunt voice command like ‘hey’ or ‘OK’”, the report said.\n“The assistant holds no power of agency beyond what the\ncommander asks of it. It honours commands and responds to\nqueries regardless of their tone or hostility. In many\ncommunities, this reinforces commonly held gender biases\nthat women are subservient and tolerant of poor treatment.”\nThe Unesco publication was entitled “I’d Blush if I Could”;\na reference to the response Apple’s Siri assistant offers to the\nphrase: “You’re a slut.” Amazon’s Alexa will respond: “Well,\nthanks for the feedback.”\nThe paper said such firms were “staffed by overwhelmingly\nmale engineering teams” and have built AI (Artificial\nIntelligence) systems that “cause their feminised digital\nassistants to greet verbal abuse with catch‐me‐if‐you‐can\nflirtation”.\nSaniye Gülser Corat, Unesco’s director for gender equality,\nsaid: “The world needs to pay much closer attention to how,\nwhen and whether AI technologies are gendered and,\ncrucially, who is gendering them.”\nThe Guardian, May, 2019. Adaptado.\n25\nConforme o texto, em relação às mulheres, um efeito\ndecorrente do fato de assistentes digitais reforçarem\nestereótipos de gênero é\n(A) a inclusão de uma única voz nos dispositivos.\n(B) a normalização de formas de assédio sexista.\n(C) o poder de influência positiva sobre as pessoas.\n(D) o incremento de vendas e customização de robôs.\n(E) a busca por formas que reflitam problemas sociais.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 26,
+   "imagem": "img/fuvest-2020-1f-q026.webp",
+   "texto": "26\nSegundo o texto, o título do relatório publicado pela\nUnesco ‐ “I´d Blush if I Could” ‐, no que diz respeito aos\nassistentes digitais, indica\n(A) resposta padrão para comandos que incluem impropérios.\n(B) capacidade tecnológica para selecionar temas sensíveis ao\ngrande público.\n(C) preocupação dos fabricantes de dispositivos eletrônicos\ncom usuários conservadores.\n(D) perda de controle das formas de interação entre seres\nhumanos e máquinas.\n(E) necessidade de elaboração de sistemas integrados de\nreconhecimento de voz.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 27,
+   "imagem": "img/fuvest-2020-1f-q027.webp",
+   "texto": "TEXTO PARA AS QUESTÕES DE 25 A 27\nAssigning female genders to digital assistants such as\nApple’s Siri and Amazon’s Alexa is helping entrench harmful\ngender biases, according to a UN agency.\nResearch released by Unesco claims that the often\nsubmissive and flirty responses offered by the systems to many\nqueries – including outright abusive ones – reinforce ideas of\nwomen as subservient.\n“Because the speech of most voice assistants is female, it\nsends a signal that women are obliging, docile and eager‐to‐\nplease helpers, available at the touch of a button or with a\nblunt voice command like ‘hey’ or ‘OK’”, the report said.\n“The assistant holds no power of agency beyond what the\ncommander asks of it. It honours commands and responds to\nqueries regardless of their tone or hostility. In many\ncommunities, this reinforces commonly held gender biases\nthat women are subservient and tolerant of poor treatment.”\nThe Unesco publication was entitled “I’d Blush if I Could”;\na reference to the response Apple’s Siri assistant offers to the\nphrase: “You’re a slut.” Amazon’s Alexa will respond: “Well,\nthanks for the feedback.”\nThe paper said such firms were “staffed by overwhelmingly\nmale engineering teams” and have built AI (Artificial\nIntelligence) systems that “cause their feminised digital\nassistants to greet verbal abuse with catch‐me‐if‐you‐can\nflirtation”.\nSaniye Gülser Corat, Unesco’s director for gender equality,\nsaid: “The world needs to pay much closer attention to how,\nwhen and whether AI technologies are gendered and,\ncrucially, who is gendering them.”\nThe Guardian, May, 2019. Adaptado.\n27\nDe acordo com o texto, na opinião de Saniye Gülser Corat,\ntecnologias que envolvem Inteligência Artificial, entre outros\naspectos,\n(A) são desenvolvidas segundo normas prescritas em\nconvenções internacionais.\n(B) devem ser monitoradas por empresas multinacionais\ngeridas por mulheres.\n(C) funcionam melhor quando associadas a dispositivos\nsincronizados em escala mundial.\n(D) dependem de atualização constante para garantia de\ndesempenho satisfatório.\n(E) requerem avaliação ampla, quanto à possível presença de\nelementos tendenciosos em sua concepção.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 28,
+   "imagem": "img/fuvest-2020-1f-q028.webp",
+   "texto": "28\nDisponível em https://www.facebook.com/groups/englishmemes/.\nO efeito de comicidade que se obtém do meme decorre,\nsobretudo, da\n(A) repetição da palavra “never”.\n(B) ambiguidade gerada pela expressão “buy her flowers”.\n(C) asserção “your wife says”.\n(D) contradição presente na frase “To be honest”.\n(E) pergunta “is that true?”.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 29,
+   "imagem": "img/fuvest-2020-1f-q029.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 29 E 30\nScientists have long touted DNA’s potential as an ideal\nstorage medium; it’s dense, easy to replicate, and stable over\nmillennia. But in order to replace existing silicon‐chip or\nmagnetic‐tape storage technologies, DNA will have to get a lot\ncheaper to predictably read, write, and package.\nThat’s where scientists like Hyunjun Park come in. He and\nthe other cofounders of Catalog, an MIT DNA‐storage spinoff\nemerging out of stealth on Tuesday, are building a machine\nthat will write a terabyte of data a day, using 500 trillion\nmolecules of DNA.\nIf successful, DNA storage could be the answer to a\nuniquely 21st‐century problem: information overload. Five\nyears ago humans had produced 4.4 zettabytes of data; that's\nset to explode to 160 zettabytes (each year!) by 2025. Current\ninfrastructure can handle only a fraction of the coming data\ndeluge, which is expected to consume all the world's\nmicrochip‐grade silicon by 2040.\n“Today’s technology is already close to the physical limits\nof scaling,” says Victor Zhirnov, chief scientist of the\nSemiconductor Research Corporation. “DNA has an\ninformation‐storage density several orders of magnitude\nhigher than any other known storage technology.”\nHow dense exactly? Imagine formatting every movie ever\nmade into DNA; it would be smaller than the size of a sugar\ncube. And it would last for 10,000 years.\nWired, June, 2018. Disponível em https://www.wired.com/. Adaptado.\n29\nAfirma‐se no texto que, no futuro, a tecnologia de gravação\nem moléculas de DNA\n(A) será utilizada para sequenciar trilhões de moléculas\ndestinadas à pesquisa médica.\n(B) deverá ter seu uso expandido no campo da genética e\náreas afins.\n(C) continuará sendo inviável comparada a tecnologias\nconvencionais.\n(D) terá de ser adaptada para o propósito de ler, codificar e\nguardar dados.\n(E) poderá ser a solução para o problema de espaço de\narmazenamento de informação digital.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 30,
+   "imagem": "img/fuvest-2020-1f-q030.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 29 E 30\nScientists have long touted DNA’s potential as an ideal\nstorage medium; it’s dense, easy to replicate, and stable over\nmillennia. But in order to replace existing silicon‐chip or\nmagnetic‐tape storage technologies, DNA will have to get a lot\ncheaper to predictably read, write, and package.\nThat’s where scientists like Hyunjun Park come in. He and\nthe other cofounders of Catalog, an MIT DNA‐storage spinoff\nemerging out of stealth on Tuesday, are building a machine\nthat will write a terabyte of data a day, using 500 trillion\nmolecules of DNA.\nIf successful, DNA storage could be the answer to a\nuniquely 21st‐century problem: information overload. Five\nyears ago humans had produced 4.4 zettabytes of data; that's\nset to explode to 160 zettabytes (each year!) by 2025. Current\ninfrastructure can handle only a fraction of the coming data\ndeluge, which is expected to consume all the world's\nmicrochip‐grade silicon by 2040.\n“Today’s technology is already close to the physical limits\nof scaling,” says Victor Zhirnov, chief scientist of the\nSemiconductor Research Corporation. “DNA has an\ninformation‐storage density several orders of magnitude\nhigher than any other known storage technology.”\nHow dense exactly? Imagine formatting every movie ever\nmade into DNA; it would be smaller than the size of a sugar\ncube. And it would last for 10,000 years.\nWired, June, 2018. Disponível em https://www.wired.com/. Adaptado.\n30\nConforme o texto, cientistas preveem que, em pouco mais de\n20 anos,\n(A) a geração de dados pela humanidade chegará à marca de\n160 zettabytes.\n(B) a armazenagem de todos os dados produzidos esgotará o\nestoque mundial de microchips de silício.\n(C) a densidade das moléculas de DNA terá aumentado\nexponencialmente.\n(D) o custo para gravação de dados digitais será maior que\nhoje.\n(E) as novas tecnologias de informação serão bem mais\nduradouras que as atuais.\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 31,
+   "imagem": "img/fuvest-2020-1f-q031.webp",
+   "texto": "31\nHarlem\nWhat happens to a dream deferred?\nDoes it dry up\nlike a raisin in the sun?\nOr fester like a sore—\nAnd then run?\nDoes it stink like rotten meat?\nOr crust and sugar over—\nlike a syrupy sweet?\nMaybe it just sags\nlike a heavy load.\nOr does it explode?\nLangston Hughes, Selected Poems of Langston Hughes (1990).\nDisponível em http://www.poetryfoundation.org/.\nAs tentativas de resposta do poeta à pergunta “What happens\nto a dream deferred?” evocam imagens de\n(A) animosidade e revolta.\n(B) remorso e compaixão.\n(C) deterioração e destruição.\n(D) empatia e complacência.\n(E) aprisionamento e passividade.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 32,
+   "imagem": "img/fuvest-2020-1f-q032.webp",
+   "texto": "32\nCantiga de enganar\n(...)\nO mundo não tem sentido.\nTalvez nem seja talvez.\nO mundo e suas canções\nO mundo não vale a pena,\nde timbre mais comovido\nmas a pena não existe.\nestão calados, e a fala\nMeu bem, façamos de conta.\nque de uma para outra sala\nDe sofrer e de olvidar,\nouvimos em certo instante\nde lembrar e de fruir,\né silêncio que faz eco\nde escolher nossas lembranças\ne que volta a ser silêncio\ne revertê‐las, acaso\nno negrume circundante.\nse lembrem demais em nós.\nSilêncio: que quer dizer?\nFaçamos, meu bem, de conta\nQue diz a boca do mundo?\n– mas a conta não existe –\nMeu bem, o mundo é fechado,\nque é tudo como se fosse,\nse não for antes vazio.\nou que, se fora, não era.\nO mundo é talvez: e é só.\n(...)\nCarlos Drummond de Andrade, Claro Enigma.\nEm Claro Enigma, a ideia de engano surge sob a perspectiva\ndo sujeito maduro, já afastado das ilusões, como se lê no\nverso‐síntese “Tu não me enganas, mundo, e não te engano a\nti.” (“Legado”). O excerto de “Cantiga de enganar” apresenta\na relação do eu com o mundo mediada\n(A) pela música, que ressoa em canções líricas.\n(B) pela cor, brilhante na claridade solar.\n(C) pela afirmação de valores sólidos.\n(D) pela memória, que corre fluida no tempo.\n(E) pelo despropósito de um faz‐de‐conta.\nTEXTOS PARA AS QUESTÕES DE 33 A 35\nOs textos literários são obras de discurso, a que falta a imediata\nreferencialidade da linguagem corrente; poéticos, abolem,\n“destroem” o mundo circundante, cotidiano, graças à função\nirrealizante da imaginação que os constrói. E prendem‐nos na\nteia de sua linguagem, a que devem o poder de apelo estético que\nnos enleia; seduz‐nos o mundo outro, irreal, neles configurado\n(...). No entanto, da adesão a esse “mundo de papel”, quando\nretornamos ao real, nossa experiência, ampliada e renovada pela\nexperiência da obra, à luz do que nos revelou, possibilita\nredescobri‐lo, sentindo‐o e pensando‐o de maneira diferente e\nnova. A ilusão, a mentira, o fingimento da ficção, aclara o real ao\ndesligar‐se dele, transfigurando‐o; e aclara‐o já pelo insight que\nem nós provocou.\nBenedito Nunes, “Ética e leitura”, de Crivo de Papel.\nO que eu precisava era ler um romance fantástico, um\nromance besta, em que os homens e as mulheres fossem\ncriações absurdas, não andassem magoando‐se, traindo‐se.\nHistórias fáceis, sem almas complicadas. Infelizmente essas\nleituras já não me comovem.\nGraciliano Ramos, Angústia.\nRomance desagradável, abafado, ambiente sujo, povoado de\nratos, cheio de podridões, de lixo. Nenhuma concessão ao\ngosto do público. Solilóquio doido, enervante.\nGraciliano Ramos, Memórias do Cárcere, em nota a respeito de seu livro\nAngústia.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 33,
+   "imagem": "img/fuvest-2020-1f-q033.webp",
+   "texto": "33\nO argumento de Benedito Nunes, em torno da natureza\nartística da literatura, leva a considerar que a obra só assume\nfunção transformadora se\n(A) estabelece um contraponto entre a fantasia e o mundo.\n(B) utiliza a linguagem para informar sobre o mundo.\n(C) instiga no leitor uma atitude reflexiva diante do mundo.\n(D) oferece ao leitor uma compensação anestesiante do mundo.\n(E) conduz o leitor a ignorar o mundo real.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 34,
+   "imagem": "img/fuvest-2020-1f-q034.webp",
+   "texto": "34\nSe o discurso literário “aclara o real ao desligar‐se dele,\ntransfigurando‐o”, pode‐se dizer que Luís da Silva, o narrador‐\nprotagonista de Angústia, já não se comove com a leitura de\n“histórias fáceis, sem almas complicadas” porque\n(A) rejeita, como jornalista, a escrita de ficção.\n(B) prefere alienar‐se com narrativas épicas.\n(C) é indiferente às histórias de fundo sentimental.\n(D) está engajado na militância política.\n(E) se afunda na negatividade própria do fracassado.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 35,
+   "imagem": "img/fuvest-2020-1f-q035.webp",
+   "texto": "35\nPara Graciliano Ramos, Angústia não faz concessão ao gosto\ndo público na medida em que compõe uma atmosfera\n(A) dramática, ao representar as tensões de seu tempo.\n(B) grotesca, ao eliminar a expressão individual.\n(C) satírica, ao reduzir os eventos ao plano do riso.\n(D) ingênua, ao simular o equilíbrio entre sujeito e mundo.\n(E) alegórica, ao exaltar as imagens de sujeira.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 36,
+   "imagem": "img/fuvest-2020-1f-q036.webp",
+   "texto": "36\nLeia o trecho extraído de uma notícia veiculada na internet:\n“O carro furou o pneu e bateu no meio fio, então eles foram\nobrigados a parar. O refém conseguiu acionar a população,\nque depois pegou dois dos três indivíduos e tentaram linchar\neles. O outro conseguiu fugir, mas foi preso momentos depois\npor uma viatura do 5º BPM”, afirmou o major.\nDisponível em https://www.gp1.com.br/.\nNo português do Brasil, a função sintática do sujeito não\npossui, necessariamente, uma natureza de agente, ainda que\no verbo esteja na voz ativa, tal como encontrado em:\n(A) “O carro furou o pneu”.\n(B) “e bateu no meio fio”.\n(C) “O refém conseguiu acionar a população”.\n(D) “tentaram linchar eles”.\n(E) “afirmou o major”.\nTEXTO PARA AS QUESTÕES 37 E 38",
+   "gabarito": "A"
+  },
+  {
+   "numero": 37,
+   "imagem": "img/fuvest-2020-1f-q037.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 37 E 38\namora\na palavra amora\nseria talvez menos doce\ne um pouco menos vermelha\nse não trouxesse em seu corpo\n(como um velado esplendor)\na memória da palavra amor\na palavra amargo\nseria talvez mais doce\ne um pouco menos acerba\nse não trouxesse em seu corpo\n(como uma sombra a espreitar)\na memória da palavra amar\nMarco Catalão, Sob a face neutra.\n37\nÉ correto afirmar que o poema\n(A) aborda o tema da memória, considerada uma faculdade\nque torna o ser humano menos amargo e sombrio.\n(B) enfoca a hesitação do eu lírico diante das palavras, o que\nvem expresso pela repetição da palavra “talvez”.\n(C) apresenta natureza romântica, sendo as palavras “amora”\ne “amargo” metáforas do sentimento amoroso.\n(D) possui reiterações sonoras que resultam em uma tensão\ninusitada entre os termos “amor” e “amar”.\n(E) ressalta os significados das palavras tal como se verificam\nno seu uso mais corrente.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 38,
+   "imagem": "img/fuvest-2020-1f-q038.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 37 E 38\namora\na palavra amora\nseria talvez menos doce\ne um pouco menos vermelha\nse não trouxesse em seu corpo\n(como um velado esplendor)\na memória da palavra amor\na palavra amargo\nseria talvez mais doce\ne um pouco menos acerba\nse não trouxesse em seu corpo\n(como uma sombra a espreitar)\na memória da palavra amar\nMarco Catalão, Sob a face neutra.\n38\n(D) contradição.\n(E) condição.\nTal como se lê no poema,\n(A) a palavra “amora” é substantivo, e “amargo”, adjetivo.\n(B) o verbo “amar” ameniza o amargor da palavra “amargo”.\n(C) o substantivo “corpo” apresenta sentido denotativo.\n(D) o substantivo “amor” intensifica o dulçor da palavra “amora”.\n(E) o verbo “amar” e o substantivo “amor” são intercambiáveis.\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 39,
+   "imagem": "img/fuvest-2020-1f-q039.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 39 E 40\nUma planta é perturbada na sua sesta* pelo exército que a\npisa.\nMas mais frágil fica a bota.\nGonçalo M. Tavares, 1: poemas.\n*sesta: repouso após o almoço.\n39\nConsiderando que se trata de um texto literário, uma\ninterpretação que seja capaz de captar a sua complexidade\nabordará o poema como\n(A) uma defesa da natureza.\n(B) um ataque às forças armadas.\n(C) uma defesa dos direitos humanos.\n(D) uma defesa da resistência civil.\n(E) um ataque à passividade.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 40,
+   "imagem": "img/fuvest-2020-1f-q040.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 39 E 40\nUma planta é perturbada na sua sesta* pelo exército que a\npisa.\nMas mais frágil fica a bota.\nGonçalo M. Tavares, 1: poemas.\n*sesta: repouso após o almoço.\n40\nO ditado popular que se relaciona melhor com o poema é:\n(A) Para bom entendedor, meia palavra basta.\n(B) Água mole em pedra dura tanto bate até que fura.\n(C) Quem com ferro fere, com ferro será ferido.\n(D) Um dia é da caça, o outro é do caçador.\n(E) Uma andorinha só não faz verão.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 41,
+   "imagem": "img/fuvest-2020-1f-q041.webp",
+   "texto": "41\nO Twitter é uma das redes sociais mais importantes no Brasil\ne no mundo. (...) Um estudo identificou que as fake news são\n70% mais propensas a serem retweetadas do que fatos\nverdadeiros. (...) Outra conclusão importante do trabalho diz\nrespeito aos famosos bots: ao contrário do que muitos\npensam, esses robôs não são os grandes responsáveis por\ndisseminar notícias falsas. Nem mesmo comparando com\noutros robozinhos: tanto os que espalham informações\nmentirosas quanto aqueles que divulgam dados verdadeiros\nalcançaram o mesmo número de pessoas.\nSuper Interessante, “No Twitter, fake news se espalham 6 vezes mais rápido\nque notícias verdadeiras”. Maio/2019.\nNo período “Nem mesmo comparando com outros\nrobozinhos: tanto os que espalham informações mentirosas\nquanto aqueles que divulgam dados verdadeiros alcançaram\no mesmo número de pessoas.”, os dois‐pontos são utilizados\npara introduzir uma\n(A) conclusão.\n(B) concessão.\n(C) explicação.\n(D) contradição.\n(E) condição.\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 42,
+   "imagem": "img/fuvest-2020-1f-q042.webp",
+   "texto": "42\nAgora, o Manuel Fulô, este, sim! Um sujeito pingadinho, quase\nmenino – “pepino que encorujou desde pequeno” – cara de\nbobo de fazenda, do segundo tipo –; porque toda fazenda tem\no seu bobo, que é, ou um velhote baixote, de barba rara no\nqueixo, ou um eterno rapazola, meio surdo, gago, glabro* e\nalvar**. Mas gostava de fechar a cara e roncar voz, todo\nenfarruscado, para mostrar brabeza, e só por descuido sorria,\num sorriso manhoso de dono de hotel. E, em suas feições de\ncaburé*** insalubre, amigavam‐se as marcas do sangue\naimoré e do gálico herdado: cabelo preto, corrido, que boi\nlambeu; dentes de fio em meia‐lua; malares pontudos; lobo da\norelha aderente; testa curta, fugidia; olhinhos de viés e nariz\npeba, mongol.\nGuimarães Rosa, “Corpo fechado”, de Sagarana.\n*sem pelos, sem barba **tolo ***mestiço\nO retrato de Manuel Fulô, tal como aparece no fragmento,\npermite afirmar que\n(A) há clara antipatia do narrador para com a personagem,\nque por isso é caracterizada como “bobo de fazenda”.\n(B) estão presentes traços de diferentes etnias, de modo a\nrefletir a mescla de culturas própria ao estilo do livro.\n(C) a expressão “caburé insalubre” denota o determinismo\nbiológico que norteia o livro.\n(D) é irônico o trecho “para mostrar brabeza”, pois ao fim da\nnarrativa Manuel Fulô sofre derrota na luta física.\n(E) se apontam em sua fisionomia os “olhinhos de viés” para\ncaracterizar a personagem como ingênua.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 43,
+   "imagem": "img/fuvest-2020-1f-q043.webp",
+   "texto": "43\nO feminismo negro não é uma luta meramente identitária, até\nporque branquitude e masculinidade também são\nidentidades. Pensar feminismos negros é pensar projetos\ndemocráticos. Hoje afirmo isso com muita tranquilidade, mas\nminha experiência de vida foi marcada pelo incômodo de uma\nincompreensão fundamental. Não que eu buscasse respostas\npara tudo. Na maior parte da minha infância e adolescência,\nnão tinha consciência de mim. Não sabia por que sentia\nvergonha de levantar a mão quando a professora fazia uma\npergunta já supondo que eu não saberia a resposta. Por que\neu ficava isolada na hora do recreio. Por que os meninos\ndiziam na minha cara que não queriam formar par com a\n“neguinha” na festa junina. Eu me sentia estranha e\ninadequada, e, na maioria das vezes, fazia as coisas no\nautomático, me esforçando para não ser notada.\nDjamila Ribeiro, Quem tem medo do feminismo negro?.\nO trecho que melhor define a “incompreensão fundamental”\n(L.6) referida pela autora é:\n(A) “não que eu buscasse respostas para tudo” (L.6‐7).\n(B) “não tinha consciência de mim” (L.8).\n(C) “Por que eu ficava isolada na hora do recreio” (L.10‐11).\n(D) “me esforçando para não ser notada” (L.15).\n(E) “sentia vergonha de levantar a mão” (L.8‐9).",
+   "gabarito": "B"
+  },
+  {
+   "numero": 44,
+   "imagem": "img/fuvest-2020-1f-q044.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 44 E 45\nE Sofia? interroga impaciente a leitora, tal qual Orgon: Et\nTartufe? Ai, amiga minha, a resposta é naturalmente a\nmesma, – também ela comia bem, dormia largo e fofo, –\ncoisas que, aliás, não impedem que uma pessoa ame, quando\nquer amar. Se esta última reflexão é o motivo secreto da vossa\npergunta, deixai que vos diga que sois muito indiscreta, e que\neu não me quero senão com dissimulados.\nRepito, comia bem, dormia largo e fofo. Chegara ao fim da\ncomissão das Alagoas, com elogios da imprensa; a Atalaia\nchamou‐lhe “o anjo da consolação”. E não se pense que este\nnome a alegrou, posto que a lisonjeasse; ao contrário,\nresumindo em Sofia toda a ação da caridade, podia mortificar\nas novas amigas, e fazer‐lhe perder em um dia o trabalho de\nlongos meses. Assim se explica o artigo que a mesma folha\ntrouxe no número seguinte, nomeando, particularizando e\nglorificando as outras comissárias – “estrelas de primeira\ngrandeza”.\nMachado de Assis, Quincas Borba.\n44\nNo excerto, o autor recorre à intertextualidade, dialogando\ncom a comédia de Molière, Tartufo (1664), cuja personagem\ncentral é um impostor da fé. Tal é a fama da peça que o nome\npróprio se incorporou ao vocabulário, inclusive em português,\ncomo substantivo comum, para designar o “indivíduo\nhipócrita” ou o “falso devoto”. No contexto maior do\nromance, sugere‐se que a tartufice\n(A) se cola à imagem da leitora, indiscreta quanto aos amores\nalheios.\n(B) é ação isolada de Sofia, arrivista social e benemérita\nfingida.\n(C) diz respeito ao filósofo Quincas Borba, o que explica o\ntítulo do livro.\n(D) se produz na imprensa, apesar de esta se esquivar da\neloquência vazia.\n(E) se estende à sociedade, na qual o cinismo é o trunfo dos\nfortes.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 45,
+   "imagem": "img/fuvest-2020-1f-q045.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 44 E 45\nE Sofia? interroga impaciente a leitora, tal qual Orgon: Et\nTartufe? Ai, amiga minha, a resposta é naturalmente a\nmesma, – também ela comia bem, dormia largo e fofo, –\ncoisas que, aliás, não impedem que uma pessoa ame, quando\nquer amar. Se esta última reflexão é o motivo secreto da vossa\npergunta, deixai que vos diga que sois muito indiscreta, e que\neu não me quero senão com dissimulados.\nRepito, comia bem, dormia largo e fofo. Chegara ao fim da\ncomissão das Alagoas, com elogios da imprensa; a Atalaia\nchamou‐lhe “o anjo da consolação”. E não se pense que este\nnome a alegrou, posto que a lisonjeasse; ao contrário,\nresumindo em Sofia toda a ação da caridade, podia mortificar\nas novas amigas, e fazer‐lhe perder em um dia o trabalho de\nlongos meses. Assim se explica o artigo que a mesma folha\ntrouxe no número seguinte, nomeando, particularizando e\nglorificando as outras comissárias – “estrelas de primeira\ngrandeza”.\nMachado de Assis, Quincas Borba.\n45\nConsiderando o contexto, o trecho “E não se pense que este\nnome a alegrou, posto que a lisonjeasse” (L.10‐11) pode ser\nreescrito, sem prejuízo de sentido, da seguinte maneira: E não\nse pense que este nome a alegrou,\n(A) apesar de lisonjeá‐la.\n(B) antes a lisonjeou.\n(C) porque a lisonjeava.\n(D) a fim de lisonjeá‐la.\n(E) tanto quanto a lisonjeava.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 46,
+   "imagem": "img/fuvest-2020-1f-q046.webp",
+   "texto": "46\nHoje fizeram o enterro de Bela. Todos na Chácara se\nconvenceram de que ela estava morta, menos eu. Se eu\npudesse não deixaria enterrá‐la ainda. Disse isso mesmo a\nvovó, mas ela disse que não se pode fazer assim. Bela estava\nigualzinha à que ela era no dia em que chegou da Formação,\nsó um pouquinho mais magra.\nTodos dizem que o sofrimento da morte é a luta da alma\npara se largar do corpo. Eu perguntei a vovó: “Como é que a\nalma dela saiu sem o menor sofrimento, sem ela fazer uma\ncaretinha que fosse?”. Vovó disse que tudo isso é mistério, que\nnunca a gente pode saber essas coisas com certeza. Uns\nsofrem muito quando a alma se despega do corpo, outros\nmorrem de repente sem sofrer.\nHelena Morley, Minha Vida de Menina.\nPerguntas\nNuma incerta hora fria\nperguntei ao fantasma\nque força nos prendia,\nele a mim, que presumo\nestar livre de tudo\neu a ele, gasoso,\n(...)\nNo voo que desfere\nsilente e melancólico,\nrumo da eternidade,\nele apenas responde\n(se acaso é responder\na mistérios, somar‐lhes\num mistério mais alto):\nAmar, depois de perder.\nCarlos Drummond de Andrade, Claro Enigma.\nAs perguntas da menina e do poeta versam sobre a morte. É\ncorreto afirmar que\n(A) ambos guardam uma dimensão transcendente e católica,\nde origem mineira.\n(B) ambos ouvem respostas que lhes esclarecem em\ndefinitivo as dúvidas existenciais.\n(C) a menina mostra curiosidade acerca da morte como\nepisódio e o poeta especula o sentido filosófico da morte.\n(D) a menina está inquieta por conhecer o destino das almas,\nenquanto o poeta critica o ceticismo.\n(E) as duas respostas reforçam os mistérios da vida ao\nacolherem crenças populares.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 47,
+   "imagem": "img/fuvest-2020-1f-q047.webp",
+   "texto": "47\nA certa personagem desvanecida\nUm soneto começo em vosso gabo*:\nContemos esta regra por primeira,\nJá lá vão duas, e esta é a terceira,\nJá este quartetinho está no cabo.\nNa quinta torce agora a porca o rabo;\nA sexta vá também desta maneira:\nNa sétima entro já com grã** canseira,\nE saio dos quartetos muito brabo.\nAgora nos tercetos que direi?\nDirei que vós, Senhor, a mim me honrais\nGabando‐vos a vós, e eu fico um rei.\nNesta vida um soneto já ditei;\nSe desta agora escapo, nunca mais:\nLouvado seja Deus, que o acabei.\nGregório de Matos\n*louvor **grande\nTipo zero\nVocê é um tipo que não tem tipo\nCom todo tipo você se parece\nE sendo um tipo que assimila tanto tipo\nPassou a ser um tipo que ninguém esquece\nQuando você penetra num salão\nE se mistura com a multidão\nVocê se torna um tipo destacado\nDesconfiado todo mundo fica\nQue o seu tipo não se classifica\nVocê passa a ser um tipo desclassificado\nEu até hoje nunca vi nenhum\nTipo vulgar tão fora do comum\nQue fosse um tipo tão observado\nVocê ficou agora convencido\nQue o seu tipo já está batido\nMas o seu tipo é o tipo do tipo esgotado\nNoel Rosa\nO soneto de Gregório de Matos e o samba de Noel Rosa,\nembora distantes na forma e no tempo, aproximam‐se por\nironizarem\n(A) o processo de composição do texto.\n(B) a própria inferioridade ante o retratado.\n(C) a singularidade de um caráter nulo.\n(D) o sublime que se oculta na vulgaridade.\n(E) a intolerância para com os gênios.\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 48,
+   "imagem": "img/fuvest-2020-1f-q048.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 48 E 49\nÓbitos por cepas de bactérias resistentes a antibióticos\nvêm crescendo. Um estudo do governo britânico estima que,\nem escala global, os óbitos por cepas resistentes já cheguem\na 700 mil por ano. E as coisas têm piorado. Além das bactérias,\njá estão surgindo fungos resistentes, como a Candida auris.\nQualquer solução passa por um esforço multinacional de\nações coordenadas. O crescente número de governos\nisolacionistas e até antidarwinistas não dá razões para\notimismo. Há urgência. O estudo britânico calcula que, se\nnada for feito, em 2050, as mortes por infecções resistentes\nchegarão a 10 milhões ao ano.\nHélio Schwartsman, “Mortes anunciadas”. Folha de São Paulo, Abril/2019.\nAdaptado.\n48\nO autor expressa preocupação com o fato de que as soluções\npara o problema apontado passam por um esforço\nmultinacional, em face ao crescente número de governos\nisolacionistas, porque\n(A) áreas de menor índice de desenvolvimento\nsocioeconômico são as únicas atingidas devido à falta de\nrecursos empregados em saúde e educação.\n(B) as cepas resistentes surgem exclusivamente nos países\nque se negam a aderir a acordos sanitários comuns,\nconstituindo ameaças globais.\n(C) desafios atuais em meio ambiente e saúde são globais e\nsoluções dependem da adesão de cada país aos protocolos\ninternacionais.\n(D) o comércio internacional é o principal responsável por\nespalhar doenças nesses países, tornando‐os vulneráveis,\napesar de os programas de vacinação terem alcance mundial.\n(E) a pesquisa nesta área é de âmbito nacional e, portanto,\nnovas drogas não terão alcance mundial, mas apenas\nregional.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 49,
+   "imagem": "img/fuvest-2020-1f-q049.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 48 E 49\nÓbitos por cepas de bactérias resistentes a antibióticos\nvêm crescendo. Um estudo do governo britânico estima que,\nem escala global, os óbitos por cepas resistentes já cheguem\na 700 mil por ano. E as coisas têm piorado. Além das bactérias,\njá estão surgindo fungos resistentes, como a Candida auris.\nQualquer solução passa por um esforço multinacional de\nações coordenadas. O crescente número de governos\nisolacionistas e até antidarwinistas não dá razões para\notimismo. Há urgência. O estudo britânico calcula que, se\nnada for feito, em 2050, as mortes por infecções resistentes\nchegarão a 10 milhões ao ano.\nHélio Schwartsman, “Mortes anunciadas”. Folha de São Paulo, Abril/2019.\nAdaptado.\n49\nVárias espécies do gênero Candida, que pertence ao grupo de\nfungos unicelulares, reproduzem‐se por brotamento\n(gemulação), espalhando‐se rapidamente. No grupo dos\nfungos pluricelulares, a rápida colonização de novos\nambientes deve‐se, em grande parte, ao fato de que esse\ngrupo possui\n(A) esporos haploides que germinam e colonizam o ambiente.\n(B) reprodução assexuada, produzindo descendentes que são\ngenotipicamente diferentes.\n(C) zigotos haploides que crescem aceleradamente com\nmitoses sucessivas.\n(D) cistos de resistência que encapsulam adultos diploides.\n(E) fases autotróficas, podendo viver sem disponibilidade de\nalimento externo.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 50,
+   "imagem": "img/fuvest-2020-1f-q050.webp",
+   "texto": "50\nBoa parte da floresta amazônica brasileira cresce sobre solos\npobres. Sua exuberância, portanto, deve‐se ao fato de que\numa grande proporção dos nutrientes advindos da própria\nfloresta retorna à vegetação. Quando se derruba a floresta de\numa área de dezenas de quilômetros quadrados e, em\nseguida, ateia‐se fogo no local como preparo para o plantio,\nesse ciclo é interrompido, o que causa uma série de efeitos.\nIdentifique corretamente a relação dos efeitos mencionados\nem I, II e III com a derrubada e a queima da floresta.\nI ‐ Diminuição de curto prazo da fertilidade do solo\npela queima da vegetação.\nII ‐ Perda de biodiversidade pelo efeito direto do\n(A)\nfogo sobre os animais silvestres.\nIII ‐ Diminuição da evaporação da água da chuva que\natinge o solo exposto.\nI ‐ Aumento de curto prazo da fertilidade do solo\npelo efeito direto do calor do fogo sobre o solo\nsuperficial.\n(B)\nII ‐ Diminuição da diversidade de animais silvestres\ndevido à remoção da vegetação.\nIII ‐ Diminuição da temperatura do solo exposto\ncomo efeito direto da remoção da vegetação.\nI ‐ Aumento de curto prazo da fertilidade do solo\npela deposição de cinzas.\nII ‐ Perda de biodiversidade devido à remoção da\n(C)\nvegetação.\nIII ‐ Aumento temporário da evaporação da água da\nchuva que atinge o solo exposto.\nI ‐ Aumento de curto prazo da fertilidade do solo\npelo efeito direto do calor do fogo sobre o solo\nsuperficial.\n(D)\nII ‐ Perda de biodiversidade pelo efeito direto do\nfogo sobre a vegetação.\nIII ‐ Diminuição temporária de absorção da água da\nchuva pelo solo exposto.\nI ‐ Aumento de longo prazo da fertilidade do solo\npela deposição de cinzas.\nII ‐ Aumento da diversidade de animais silvestres\n(E)\ndevido à remoção da vegetação.\nIII ‐ Aumento da erosão do solo exposto devido à\nremoção da vegetação.\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 51,
+   "imagem": "img/fuvest-2020-1f-q051.webp",
+   "texto": "51\nQual das curvas representa o crescimento de um inseto\nhemimetábolo, desde seu nascimento até a fase adulta?\n(A)\n(D)\n(B)\n(E)\n(C)",
+   "gabarito": "E"
+  },
+  {
+   "numero": 52,
+   "imagem": "img/fuvest-2020-1f-q052.webp",
+   "texto": "52\nAnalise o esquema de uma célula adulta.\nAs estruturas I, II, III e IV caracterizam‐se pela presença,\nrespectivamente, de\n(A) glicídeo, lipídeo, água e ácido nucleico.\n(B) proteína, glicídeo, água e ácido nucleico.\n(C) lipídeo, proteína, glicídeo e ácido nucleico.\n(D) lipídeo, glicídeo, ácido nucleico e água.\n(E) glicídeo, proteína, ácido nucleico e água.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 53,
+   "imagem": "img/fuvest-2020-1f-q053.webp",
+   "texto": "53\nAnalise a seguinte genealogia de uma doença:\nFoi levantada a hipótese de que a doença possui padrão de\nherança dominante ligada ao cromossomo X. O que levou a tal\nconclusão foi a\n(A) incidência da doença em mulheres e homens.\n(B) transmissão do alelo mutante apenas às filhas de um\nhomem afetado.\n(C) presença de pessoas afetadas em todas as gerações.\n(D) transmissão do alelo mutante às filhas e aos filhos de uma\nmulher afetada.\n(E) presença de pelo menos um dos genitores afetados.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 54,
+   "imagem": "img/fuvest-2020-1f-q054.webp",
+   "texto": "54\nAnalise os esquemas simplificados das células 1 e 2:\nCélulas como as representadas em 1 e 2 podem ser\nencontradas, respectivamente, no\n(A) sangue e no fígado.\n(B) osso e no pâncreas.\n(C) músculo esquelético e no pâncreas.\n(D) músculo cardíaco e no osso.\n(E) pâncreas e no fígado.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 55,
+   "imagem": "img/fuvest-2020-1f-q055.webp",
+   "texto": "55\nConsidere uma sequência de DNA com 100 pares de bases de\ncomprimento contendo 32 timinas.\nQuantas citosinas, guaninas e adeninas essa sequência terá,\nrespectivamente?\n(A) 32, 68, 68.\n(B) 68, 32, 68.\n(C) 68, 68, 32.\n(D) 32, 18, 18.\n(E) 18, 32, 18.\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 56,
+   "imagem": "img/fuvest-2020-1f-q056.webp",
+   "texto": "56\nA combinação entre baixa biodiversidade, altas concentrações\nde poluentes e baixas concentrações de oxigênio dissolvido,\nque é verificada nos rios que passam por grandes centros\nurbanos no Brasil, deve‐se principalmente à(ao)\n(A) descarte de garrafas PET e sacolas plásticas, aumentando\na cadeia de produção de microplásticos.\n(B) aumento de intervenções de engenharia, como a\nconstrução de pontes e dragagens.\n(C) aquecimento da água do rio devido ao aumento da\ntemperatura média nas metrópoles.\n(D) descarte de esgoto doméstico e industrial sem\ntratamento.\n(E) ocorrência mais frequente de longos períodos de\nestiagem, aumentando a evaporação.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 57,
+   "imagem": "img/fuvest-2020-1f-q057.webp",
+   "texto": "57\nUm paciente, com câncer sanguíneo (linfoma) e infectado por\nHIV, fez quimioterapia e recebeu um transplante de células‐\ntronco da medula óssea de um doador resistente ao HIV. Como\nresultado, tanto o câncer como o HIV retroagiram neste\npaciente. O receptor mais usado pelo HIV para entrar nas\ncélulas do corpo é o CCR5. Um pequeno número de pessoas\nresistentes ao HIV tem duas cópias mutadas do gene do\nreceptor CCR5. Isso significa que o vírus não pode penetrar nas\ncélulas sanguíneas do corpo que costumam ser infectadas. O\npaciente recebeu células‐tronco da medula óssea de um\ndoador que tem essa mutação genética específica, o que fez\ncom que também ficasse resistente ao HIV.\nDisponível em https://www.bbc.com/. Março/2019. Adaptado.\nA terapia celular a que o texto se refere\n(A) permitirá que eventuais futuros filhos do paciente\ntransplantado também possuam células resistentes à\ninfecção pelo HIV.\n(B) possibilitou a produção, pelas células sanguíneas do\npaciente após o transplante, de receptores CCR5 aos quais\no vírus HIV não se liga.\n(C) promoveu mutações no gene CCR5 das células do\npaciente, ocasionando a produção de proteína à qual o HIV\nnão se liga.\n(D) gerou novos alelos mutantes que interagem com o gene\ndo receptor CCR5 do paciente, ocasionando a resistência à\nentrada do HIV nas células do paciente.\n(E) confirma que o alelo mutante que confere resistência à\ninfecção pelo HIV é dominante sobre o alelo selvagem do\ngene CCR5.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 58,
+   "imagem": "img/fuvest-2020-1f-q058.webp",
+   "texto": "58\nPesquisadores do Museu Nacional, no Rio de Janeiro,\nencontraram o crânio e uma parte do fêmur de Luzia, o\nesqueleto humano mais antigo descoberto na América que\nrevolucionou as teorias científicas sobre a ocupação do\ncontinente. Os fósseis foram achados há alguns dias (não foi\ndivulgado quando) junto aos escombros do edifício,\nparcialmente destruído por um incêndio em 2 de setembro. O\ncrânio está fragmentado, porque a cola que mantinha os seus\npedaços juntos se foi com o calor, mas a equipe está bastante\notimista com suas condições.\nJúlia Barbon, Folha de São Paulo, Outubro/2018. Adaptado.\nO esqueleto de Luzia,\n(A) adquirido por D. Pedro II em 1876, foi incorporado à sua\ncoleção pessoal, a mesma que deu origem ao Museu\nNacional no período republicano.\n(B) descoberto na década de 1970 em Minas Gerais, permitiu\nquestionar a teoria de que a ocupação das Américas se deu\npor apenas uma onda migratória.\n(C) estudado por diferentes equipes de antropólogos,\ncomprovou que grupos saídos diretamente da África\nforam os primeiros habitantes das Américas.\n(D) encontrado na atual Serra da Capivara, no Estado do Piauí,\npertenceu à cultura que elaborou suas famosas pinturas\nrupestres.\n(E) mantido em uma coleção particular fora do país, estava\nexposto para comemoração dos 150 anos da passagem de\nCharles Darwin pelo Brasil.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 59,
+   "imagem": "img/fuvest-2020-1f-q059.webp",
+   "texto": "59\nAfirmo, portanto, que tínhamos atingido já o ano bem farto\nda Encarnação do Filho de Deus, de 1348, quando, na mui\nexcelsa cidade de Florença, (...) sobreveio a mortífera\npestilência. (...) apareciam no começo, tanto em homens como\nnas mulheres, ou na virilha ou na axila, algumas inchações (...)\nchamava‐as o populacho de bubões (...).\nGiovanni Boccaccio, Decamerão.\nA respeito da Peste Negra do século XIV, é correto afirmar:\n(A) Provocou gravíssima queda demográfica, que afetou\ngrande parte da produção econômica europeia.\n(B) Originou‐se no Oriente, penetrou no continente europeu\npelos portos e manteve‐se restrita à Península Itálica.\n(C) Foi provocada pela fome e pela desnutrição dos\ncamponeses e favoreceu o processo de centralização\npolítica.\n(D) Foi contida pelo caráter de subsistência da economia\neuropeia, que dificultava o contato humano e, assim, o\ncontágio.\n(E) Estimulou as investidas contra os territórios muçulmanos\nno movimento conhecido como Segunda Cruzada.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 60,
+   "imagem": "img/fuvest-2020-1f-q060.webp",
+   "texto": "60\nA imagem a seguir refere‐se às principais rotas de comércio\nda África do Norte e Ocidental, no século XV.\nEric Wolf, A Europa e os Povos sem História (trad.). São Paulo: Edusp, 2005.\nEm relação às rotas comerciais representadas no mapa, é\ncorreto afirmar que elas\n(A) indicam que a melhoria das condições ambientais do Saara\npermitiu a construção de estradas pelo deserto.\n(B) foram construídas pelo poder islâmico do Cairo, que\npromoveu a unificação de toda a África do Norte.\n(C) mostram a decadência econômica do comércio do Saara\noriental, em razão da crise do Império Egípcio.\n(D) atingem a região ao sudoeste do Saara, local de origem do\nouro que chegava aos portos do Mediterrâneo.\n(E) representam o poder do Império de Songai, cuja capital\nera Timbuctu, que unificou todo o território entre o\nAtlântico e o mar Vermelho.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 61,
+   "imagem": "img/fuvest-2020-1f-q061.webp",
+   "texto": "61\nA chamada “questão trabalhista” no Brasil foi objeto de\nconflitos, debates e regulamentações entre os anos 1920 e\n1946. Identifique uma das dimensões deste processo.\n(A) O liberalismo oligárquico atribuiu ao Estado, por meio da\nreforma de 1924, o papel de mediador entre o operariado\ne o patronato.\n(B) A Constituição de 1934 garantiu o direito à organização\nsindical e abriu espaço para a proteção dos direitos dos\ntrabalhadores.\n(C) O direito de greve e a regulamentação do salário mínimo\nforam algumas das novidades previstas na Consolidação\ndas Leis do Trabalho (1943).\n(D) A criação do sindicato único contribuiu para a emergência\nde lideranças combativas ao obrigar todos os\ntrabalhadores a se filiarem a tais associações.\n(E) A Carteira de Trabalho foi um instrumento de controle e\ndominação, que distinguia o trabalhador e esvaziava o\npoder dos sindicatos.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 62,
+   "imagem": "img/fuvest-2020-1f-q062.webp",
+   "texto": "62\nA representação cartográfica a seguir refere‐se à viagem de\ncircunavegação, iniciada em Sanlúcar de Barrameda, na\nAndaluzia, em 20 de setembro de 1519, e comandada pelo\nportuguês Fernão de Magalhães, a serviço da monarquia da\nEspanha. A despeito da repercussão da viagem para o\ndesenvolvimento dos conhecimentos náuticos e para a\nexploração do Oceano Pacífico, Battista Agnese foi um dos\npoucos cartógrafos a registrar a empreitada de Magalhães.\nBattista Agnese, Atlas Portulano, 1545. Biblioteca Digital Mundial.\nDisponível em https://www.wdl.org/pt/.\nA representação cartográfica de Battista Agnese\n(A) revelava a permanência das técnicas e sentidos simbólicos\nda cosmografia medieval, que orientaram os navegadores\nibéricos na época da expansão ultramarina.\n(B) estava vinculada aos dogmas cristãos e procurava conciliar o\nregistro da viagem de Fernão de Magalhães com a perspectiva\nde Terra Plana ainda presente entre letrados cristãos.\n(C) estava baseada nos relatos dos navegadores, no acúmulo\nde conhecimentos acerca das rotas marítimas e em\nestimativas de distâncias a partir de cálculos matemáticos\ne da planificação do globo terrestre.\n(D) apresentava o Oceano Pacífico em suas reais dimensões\nde acordo com o entendimento de Fernão de Magalhães e\nde Cristóvão Colombo e em desacordo com as\nperspectivas cristãs.\n(E) estava assentada nos conhecimentos e detalhamentos\ngeográficos bíblicos e nas formulações cosmológicas de\nPtolomeu, fundamentais para o sucesso da viagem de\nFernão de Magalhães.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 63,
+   "imagem": "img/fuvest-2020-1f-q063.webp",
+   "texto": "63\nAs tentativas holandesas de conquista dos territórios\nportugueses na América tinham por objetivo central\n(A) a apropriação do complexo açucareiro escravista do\nAtlântico Sul, então monopolizado pelos portugueses.\n(B) a formação de núcleos de povoamento para absorverem a\ncrescente população protestante dos Países Baixos.\n(C) a exploração das minas de ouro recém‐descobertas no interior,\nsomente acessíveis pelo controle de portos no Atlântico.\n(D) a ocupação de áreas até então pouco exploradas pelos\nportugueses, como o Maranhão e o Vale Amazônico.\n(E) a criação de uma base para a ocupação definitiva das áreas\nde mineração da América espanhola.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 64,
+   "imagem": "img/fuvest-2020-1f-q064.webp",
+   "texto": "64\nAo primeiro brilho da alvorada chegou do horizonte uma\nnuvem negra, que era conduzida [pelo] senhor da tempestade\n(...). Surgiram então os deuses do abismo; Nergal destruiu as\nbarragens que represavam as águas do inferno; Ninurta, o\ndeus da guerra, pôs abaixo os diques (...). Por seis dias e seis\nnoites os ventos sopraram; enxurradas, inundações e\ntorrentes assolaram o mundo; a tempestade e o dilúvio\nexplodiam em fúria como dois exércitos em guerra. Na\nalvorada do sétimo dia o temporal (...) amainou (...) o dilúvio\nserenou (...) toda a humanidade havia virado argila (...). Na\nmontanha de Nisir o barco ficou preso (...). Na alvorada do\nsétimo dia eu soltei uma pomba e deixei que se fosse. Ela voou\npara longe, mas, não encontrando um lugar para pousar,\nretornou. Então soltei um corvo. A ave viu que as águas\nhaviam abaixado; ela comeu, (...) grasnou e não mais voltou\npara o barco. Eu então abri todas as portas e janelas, expondo\na nave aos quatro ventos. Preparei um sacrifício e derramei\nvinho sobre o topo da montanha em oferenda aos deuses (...).\nA Epopeia de Gilgamesh, São Paulo: Martins Fontes, 2001.\nCom base no texto, registrado aproximadamente no século VII a.C.\ne que se refere a um antigo mito da Mesopotâmia, bem como em\nseus conhecimentos, é possível dizer que a sociedade descrita era\n(A) mercantil, pacífica, politeísta e centralizada.\n(B) agrária, militarizada, monoteísta e democrática.\n(C) manufatureira, naval, monoteísta e federalizada.\n(D) mercantil, guerreira, monoteísta e federalizada.\n(E) agrária, guerreira, politeísta e centralizada.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 65,
+   "imagem": "img/fuvest-2020-1f-q065.webp",
+   "texto": "65\nDepois de 20 anos na escola\nNão é difícil aprender\nTodas as manhas do seu jogo sujo\nNão é assim que tem que ser\nVamos fazer nosso dever de casa\nE aí então vocês vão ver\nSuas crianças derrubando reis\nFazer comédia no cinema com as suas leis\nSomos os filhos da revolução\nSomos burgueses sem religião\nSomos o futuro da nação\nGeração Coca‐Cola.\nDado Villa‐Lobos e Renato Russo, Geração Coca‐Cola, 1984.\nEsses versos\n(A) remetem ao período da Campanha das Diretas Já e\napresentam esperanças em relação à implantação de um\nregime democrático no Brasil.\n(B) revelam a indignação e rebeldia da juventude com os\nrumos da chamada Nova República, especialmente contra\no Colégio Eleitoral e o bipartidarismo.\n(C) propõem um repúdio por parte da juventude brasileira em\nrelação às questões políticas e comportamentais durante\na transição democrática.\n(D) oferecem uma visão positiva acerca do período militar no Brasil\ne demonstram ceticismo com respeito à transição democrática.\n(E) reforçam a capacidade de mobilização e reivindicação da\njuventude pela liberdade de expressão e criação de novas\nuniversidades públicas.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 66,
+   "imagem": "img/fuvest-2020-1f-q066.webp",
+   "texto": "66\nDocumentos da Agência Central de Inteligência Americana\n(CIA) mostram que o Brasil quis liderar a Operação Condor e\nsó não conseguiu porque enfrentou resistência dos outros\npaíses membros – Argentina, Chile, Uruguai, Paraguai e\nBolívia. (...) Os documentos da CIA fazem parte do Projeto de\nDesclassificação Argentina (The Dirty War, 1976‐1983), do\ngoverno americano, e incluem mais de 40 mil páginas. Duas\ndezenas delas fazem menções ao Brasil (...).\nMarcelo Godoy, O Estado de São Paulo. Abril/2019.\nA respeito da Operação Condor, é correto afirmar:\n(A) Ainda que tivesse um alvo comum de repressão política,\nela não implicava o alinhamento automático dos regimes\nditatoriais de cada país.\n(B) Ao encontrar resistência dos demais países que dela\nparticipavam, o Brasil passou a criticar publicamente suas\nações.\n(C) Em vista da oposição norte‐americana à iniciativa, a\ncooperação entre os países membros não foi implantada.\n(D) O governo ditatorial paraguaio assumiu a posição de\nliderança no acordo firmado entre seus países fundadores.\n(E) Limitou‐se à troca de informações sobre os opositores\npolíticos que buscaram exílio em cada um desses países.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 67,
+   "imagem": "img/fuvest-2020-1f-q067.webp",
+   "texto": "67\nA entrega pacífica do governo a um adversário pressupunha\num elevado nível de automoderação. O mesmo determinou a\nboa vontade de um governo em não usar os seus grandes\nrecursos do poder na humilhação ou destruição de\npredecessores hostis ou opositores (...). As técnicas militares\nderam lugar às técnicas verbais do debate feitas de retórica e\nde persuasão, a maior parte das quais exigia mais contenção\ngeral, identificando, de modo nítido, esta mudança com um\navanço da civilização.\nNorbert Elias, A busca da excitação. Lisboa: Difel, 1992.\nO processo histórico britânico ofereceu, entre os séculos XVII\ne XIX, modelos institucionais e práticas políticas importantes.\nA respeito deles, é correto afirmar que\n(A) os debates acalorados no Parlamento, que\ndesencadearam uma série de lutas sociais no século XVIII,\nforam apenas superados no início do século XIX com a\ninstauração do Regime Parlamentar.\n(B) após o turbulento século XVII, marcado por sucessivas\nlutas sociais e golpes de Estado, a pacificação entre as\nclasses dominantes ocorreu com o fortalecimento do\nRegime Parlamentar ao longo do século XVIII.\n(C) a instauração da República de Cromwell e do\nparlamentarismo, em meados do século XVIII, foi\nresponsável pelo fim das turbulências políticas\ncaracterísticas do absolutismo monárquico.\n(D) o avanço da civilização mencionado no texto ocorreu com\no estabelecimento do princípio da tolerância religiosa\nentre anglicanos, calvinistas e católicos pelo Parlamento\nno final do século XVIII.\n(E) o estabelecimento do parlamento bicameral, com\nrepresentação para os nobres e para a burguesia enriquecida,\ne do direito de voto universal, ambos no século XVIII, foram\nresponsáveis pela contenção das lutas sociais na Grã‐Bretanha.\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 68,
+   "imagem": "img/fuvest-2020-1f-q068.webp",
+   "texto": "68\nDe acordo com o historiador Martyn Lyons, “nos temores\ncontemporâneos em relação ao acesso ilimitado a sites\nperigosos da Internet, e às dificuldades enfrentadas por\ngovernos de diversos países no policiamento da distribuição\nda informação, ouve‐se o eco do pânico causado pela\ninvenção da imprensa”.\nMartyn Lyons, A história da leitura de Gutenberg a Bill Gates, RJ: Casa da\nPalavra, 1999.\nEscolha a alternativa que demonstre corretamente os\nelementos de continuidade e de descontinuidade entre a\n“revolução do impresso” e a “revolução eletrônica”\napontados pelo autor.\n(A) As chamadas “revolução do impresso” e “revolução\neletrônica” não somente favoreceram a multiplicação e\ndemocratização do acesso à informação como também\nauxiliaram a formação de um público mais vasto e mais\ncrítico.\n(B) A implementação das novas tecnologias de comunicação\neliminou a diferença entre os usuários e os excluídos do\nuniverso da cultura escrita, tal como se prometera no\ninício de sua adoção.\n(C) A manutenção de índices elevados de circulação de fake\nnews nas redes sociais demonstra que a “revolução da\ncomunicação” depende de quem domina e de quem usa\nas tecnologias.\n(D) Diferentemente do Index Librorum Prohibitorum\npromulgado para a atuação da Inquisição no controle da\nexpansão do Protestantismo durante o século XVI, os\natuais marcos regulatórios da Internet limitam‐se ao\ncontrole da pornografia.\n(E) O advento da tipografia não foi necessariamente\nrevolucionário, pois não mudou a natureza nem o assunto\ndos livros; já a tecnologia digital suprimiu todas as formas\nanteriores de comunicação, da oral à impressa.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 69,
+   "imagem": "img/fuvest-2020-1f-q069.webp",
+   "texto": "69\nEm julho de 1969, os astronautas Neil Armstrong e Buzz Aldrin\nfizeram o primeiro pouso tripulado na superfície da Lua, enquanto\nseu colega Michael Collins permaneceu a bordo do módulo de\ncomando Columbia em órbita lunar. Considerando que o Columbia\nestivesse em uma órbita perfeitamente circular a uma altitude de\n260 km acima da superfície da Lua, o tempo decorrido (em horas\nterrestres ‐ h) entre duas passagens do Columbia exatamente\nacima do mesmo ponto da superfície lunar seria de\n(A) 0,5 h.\nNote e adote:\n(B) 2 h.\nConstante gravitacional: G  9 x 10 −13 km 3 /(kg h 2 );\n(C) 4 h.\nRaio da Lua = 1.740 km;\n(D) 8 h.\nMassa da Lua  8 × 10 22 kg;\n(E) 72 h.\n  3.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 70,
+   "imagem": "img/fuvest-2020-1f-q070.webp",
+   "texto": "70\nEm 20 de maio de 2019, as unidades de base do Sistema\nInternacional de Unidades (SI) passaram a ser definidas a partir de\nvalores exatos de algumas constantes físicas. Entre elas, está a\nconstante de Planck , que relaciona a energia de um fóton\n(quantum de radiação eletromagnética) com a sua frequência na\nforma\n.\nA unidade da constante de Planck em termos das unidades de base\ndo SI (quilograma, metro e segundo) é:\n(A) kg m 2 /s\n(B) kg s/m 2\n(C) m 2 s/kg\n(D) kg s/m\n(E) kg m 2 /s 3",
+   "gabarito": "A"
+  },
+  {
+   "numero": 71,
+   "imagem": "img/fuvest-2020-1f-q071.webp",
+   "texto": "71\nA transmissão de dados de telefonia celular por meio de\nondas eletromagnéticas está sujeita a perdas que aumentam\ncom a distância entre a antena transmissora e a antena\nreceptora. Uma aproximação frequentemente usada para\nexpressar a perda , em decibéis (dB), do sinal em função de\n, no espaço livre de obstáculos, é dada pela expressão\n4\n20 log\n,\nem que  é o comprimento de onda do sinal. O gráfico a seguir\nmostra (em dB) versus (em metros) para um determinado\ncomprimento de onda .\nCom base no gráfico, a frequência do sinal é aproximadamente\n(A) 2,5 GHz.\nNote e adote:\n(B) 5 GHz.\nVelocidade da luz no vácuo: c = 3×10 8 m/s;\n(C) 12 GHz.\n  3;\n(D) 40 GHz.\n1 GHz = 10 9 Hz.\n(E) 100 GHz.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 72,
+   "imagem": "img/fuvest-2020-1f-q072.webp",
+   "texto": "72\nUm estímulo nervoso em um dos dedos do pé de um indivíduo\ndemora cerca de 30 ms para chegar ao cérebro. Nos membros\ninferiores, o pulso elétrico, que conduz a informação do estímulo,\né transmitido pelo nervo ciático, chegando à base do tronco em\n20 ms. Da base do tronco ao cérebro, o pulso é conduzido na\nmedula espinhal. Considerando que a altura média do brasileiro\né de 1,70 m e supondo uma razão média de 0,6 entre o\ncomprimento dos membros inferiores e a altura de uma pessoa,\npode‐se concluir que as velocidades médias de propagação do\npulso nervoso desde os dedos do pé até o cérebro e da base do\ntronco até o cérebro são, respectivamente:\n(A) 51 m/s e 51 m/s\n(B) 51 m/s e 57 m/s\n(C) 57 m/s e 57 m/s\n(D) 57 m/s e 68 m/s\n(E) 68 m/s e 68 m/s",
+   "gabarito": "D"
+  },
+  {
+   "numero": 73,
+   "imagem": "img/fuvest-2020-1f-q073.webp",
+   "texto": "73\nA velocidade de escape de um corpo celeste é a mínima\nvelocidade que um objeto deve ter nas proximidades da\nsuperfície desse corpo para escapar de sua atração\ngravitacional. Com base nessa informação e em seus\nconhecimentos sobre a interpretação cinética da\ntemperatura, considere as seguintes afirmações a respeito da\nrelação entre a velocidade de escape e a atmosfera de um\ncorpo celeste.\nI. Corpos celestes com mesma velocidade de escape retêm\natmosferas igualmente densas, independentemente da\ntemperatura de cada corpo.\nII. Moléculas de gás nitrogênio escapam da atmosfera de um\ncorpo celeste mais facilmente do que moléculas de gás\nhidrogênio.\nIII. Comparando corpos celestes com temperaturas médias\niguais, aquele com a maior velocidade de escape tende a\nreter uma atmosfera mais densa.\nApenas é correto o que se afirma em\n(A) I.\n(B) II.\n(C) III.\n(D) I e II.\n(E) I e III.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 74,
+   "imagem": "img/fuvest-2020-1f-q074.webp",
+   "texto": "74\nUm equipamento de bungee jumping está sendo projetado\npara ser utilizado em um viaduto de 30 m de altura. O elástico\nutilizado tem comprimento relaxado de 10 m. Qual deve ser o\nmínimo valor da constante elástica desse elástico para que ele\npossa ser utilizado com segurança no salto por uma pessoa\ncuja massa, somada à do equipamento de proteção a ela\nconectado, seja de 120 kg?\n(A) 30 N/m\nNote e adote:\n(B) 80 N/m\nDespreze a massa do elástico, as forças\n(C) 90 N/m\ndissipativas e as dimensões da pessoa;\n(D) 160 N/m\nAceleração da gravidade = 10 m/s 2 .\n(E) 180 N/m",
+   "gabarito": "E"
+  },
+  {
+   "numero": 75,
+   "imagem": "img/fuvest-2020-1f-q075.webp",
+   "texto": "75\nUm fabricante projetou resistores para utilizar em uma lâmpada\nde resistência . Cada um deles deveria ter resistência . Após a\nfabricação, ele notou que alguns deles foram projetados\nerroneamente, de forma que cada um deles possui uma\nresistência\n/2. Tendo em vista que a lâmpada\nqueimará se for percorrida por uma corrente elétrica superior\na /\n, em qual(is) dos circuitos a lâmpada queimará?\n(A) 1, apenas.\n(B) 2, apenas.\n(C) 1 e 3, apenas.\n(D) 2 e 3, apenas.\n(E) 1, 2 e 3.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 76,
+   "imagem": "img/fuvest-2020-1f-q076.webp",
+   "texto": "76\nNo dia 10 de abril de 2019, a equipe do Event Horizon\nTelescope (EHT, “Telescópio Horizonte de Eventos”) divulgou\na primeira imagem de um buraco negro, localizado no centro\nda galáxia M87, obtida por um conjunto de telescópios com\ndiâmetro efetivo equivalente ao da Terra, de 12.700 km.\nDevido ao fenômeno físico da difração, instrumentos óticos\npossuem um limite de resolução angular, que corresponde à\nmínima separação angular entre dois objetos que podem ser\nidentificados separadamente quando observados à distância.\nO gráfico mostra o limite de resolução de um telescópio,\nmedido em radianos, como função do seu diâmetro, para\nondas luminosas de comprimento de onda de 1,3 mm, igual\nao daquelas captadas pelo EHT. Note a escala logarítmica dos\neixos do gráfico.\nSabe‐se que o tamanho equivalente a um pixel na foto do\nburaco negro corresponde ao valor da menor distância entre\ndois objetos naquela galáxia para que eles possam ser\nidentificados separadamente pelo EHT. Com base nas\ninformações anteriores e na análise do gráfico, e sabendo que\na distância da Terra até a galáxia M87 é de 5 × 10 20 km,\nindique o valor mais próximo do tamanho do pixel.\n(A) 5 × 10 1 km\n(B) 5 × 10 4 km\n(C) 5 × 10 7 km\n(D) 5 × 10 10 km\n(E) 5 × 10 13 km\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 77,
+   "imagem": "img/fuvest-2020-1f-q077.webp",
+   "texto": "77\nUm solenoide muito longo é percorrido por uma corrente\nelétrica , conforme mostra a figura 1.\nFigura 1\nEm um determinado instante, uma partícula de carga\npositiva desloca‐se com velocidade instantânea\nperpendicular ao eixo do solenoide, na presença de um\ncampo elétrico na direção do eixo do solenoide. A figura 2\nilustra essa situação, em uma seção reta definida por um\nplano que contém o eixo do solenoide.\nFigura 2\nO diagrama que representa corretamente as forças elétrica\ne magnética atuando sobre a partícula é:\n(A)\n(D)\n(B)\n(E)\n(C)",
+   "gabarito": "A"
+  },
+  {
+   "numero": 78,
+   "imagem": "img/fuvest-2020-1f-q078.webp",
+   "texto": "78\nUm drone voando na horizontal, em relação ao solo (como\nindicado pelo sentido da seta na figura), deixa cair um pacote de\nlivros. A melhor descrição da trajetória realizada pelo pacote de\nlivros, segundo um observador em repouso no solo, é dada pelo\npercurso descrito na\n(A) trajetória 1.\n(B) trajetória 2.\n(C) trajetória 3.\n(D) trajetória 4.\n(E) trajetória 5.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 79,
+   "imagem": "img/fuvest-2020-1f-q079.webp",
+   "texto": "79\nUm pêndulo simples é composto por uma haste metálica leve,\npresa a um eixo bem lubrificado, e por uma esfera pequena de\nmassa muito maior que a da haste, presa à sua extremidade\noposta. O período para pequenas oscilações de um pêndulo\né proporcional à raiz quadrada da razão entre o comprimento\nda haste metálica e a aceleração da gravidade local. Considere\neste pêndulo nas três situações:\n1. Em um laboratório localizado ao nível do mar, na\nAntártida, a uma temperatura de 0 °C.\n2. No mesmo laboratório, mas agora a uma temperatura de\n250 K.\n3. Em um laboratório no qual a temperatura é de 32 °F, em\numa base lunar, cuja aceleração da gravidade é igual a um\nsexto daquela da Terra.\nIndique a alternativa correta a respeito da comparação entre\nos períodos de oscilação 1 , 2 e 3 do pêndulo nas situações\n1, 2 e 3, respectivamente.\n(A)\n1 <\n2 <\n3\n(B)\n1 =\n3 <\n2\n(C)\n2 <\n1 <\n3\n(D)\n3 <\n2 <\n1\n(E)\n1 <\n2 =\n3",
+   "gabarito": "C"
+  },
+  {
+   "numero": 80,
+   "imagem": "img/fuvest-2020-1f-q080.webp",
+   "texto": "80\nSegundo o Instituto Nacional de Meteorologia (INMET), foram\nregistradas temperaturas reduzidas no mês de junho de 2016,\ntal como na madrugada do dia 13, em que se alcançou a\nmínima de 3,5°C na estação meteorológica da Serra da\nCantareira, na cidade de São Paulo. Além disso, de acordo com\no Instituto, também ocorreram precipitações acima da média,\ncom mais de 200 mm no total daquele mês.\nDisponível em https://www.meteo.psu.edu/. Adaptado.\nAssociando a representação esquemática aos eventos\ndescritos, analise as seguintes afirmações:\nI. O ar mais frio e denso eleva o ar mais quente, podendo originar\nnuvens com potencial para tempestades e precipitações.\nII. Instabilidades atmosféricas podem ser geradas em razão de o ar\nquente ser elevado rapidamente pelo sistema frontal.\nIII. O encontro de massas de ar estabiliza as condições atmosféricas\ncom o avanço e dissipação da massa de ar tropical.\nÉ correto apenas o que se afirma em\n(A) I.\n(B) II.\n(C) I e II.\n(D) I e III.\n(E) II e III.\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 81,
+   "imagem": "img/fuvest-2020-1f-q081.webp",
+   "texto": "81\nUm vídeo do astrônomo Carl Sagan em seu programa dos anos\n1980, Cosmos, conta a história de Eratóstenes, demonstrando\ncomo os gregos antigos já haviam descoberto que a Terra é\numa esfera (geoide). Para fazer isso, Eratóstenes observou a\nsombra de duas colunas no solstício de verão; uma coluna foi\ncolocada em Alexandria e outra em Siena (atualmente\nAssuan), ambas no Egito. Ele notou que em Siena, ao meio dia,\no Sol ficava em seu ponto mais alto e a coluna lá instalada\nprojetava uma sombra com ângulo diferente daquela\nprojetada em Alexandria. Sagan explica então que, se a Terra\nfosse plana, ambas as estruturas produziriam sombras iguais,\nmas como o planeta é esférico, o sombreamento varia.\nDisponível em https://revistagalileu.globo.com/. Adaptado. 2019.\nDisponível em https://www.youtube.com/. Adaptado.\nA esfericidade do Planeta Terra demonstrada por Eratóstenes\ne relembrada por Carl Sagan explica, em conjunto com outros\nfatores,\n(A) a ocorrência de dias mais longos e com maior insolação no\nHemisfério em que está ocorrendo o inverno e de dias\nmais curtos e com menor insolação no Hemisfério em que\nestá ocorrendo o verão.\n(B) a ocorrência das estações do ano, sendo que, no\nHemisfério Norte, há o solstício de verão em dezembro e,\nno Hemisfério Sul, o solstício de inverno em junho.\n(C) a existência de zonas climáticas, em razão das variações de\naltitude que intensificam a radiação solar nos polos Norte\ne Sul.\n(D) a ocorrência das estações do ano, que caracterizam o\nEquinócio de primavera no Hemisfério Sul em março e o\nEquinócio de outono no Hemisfério Norte em setembro.\n(E) a existência de zonas climáticas, em função da maior\nintensidade da radiação solar na região equatorial quando\ncomparada à incidência nos polos.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 82,
+   "imagem": "img/fuvest-2020-1f-q082.webp",
+   "texto": "82\nEm reportagem publicada em 2018, a revista FAPESP\napresenta uma pesquisa da Superintendência de Controle de\nEndemias (SUCEN) que usou informações de data e local de\nmortes de macacos por um determinado vírus. A partir do\nestudo, construiu‐se um modelo epidemiológico que descreve\no sentido de deslocamento e os corredores ecológicos\nfuncionais (corredores prováveis) do vírus.\nDisponível em http://revistapesquisa.fapesp.br/.\nCom base nas informações e no mapa, o corredor ecológico\nfuncional desse vírus, que atingiu a maior abrangência territorial\nno Estado de São Paulo durante o ano de 2017, avançou\nprincipalmente por quais regiões e causou qual enfermidade?\n(A) Sul de Minas Gerais e Vale do rio Ribeira de Iguape;\nChikungunya.\n(B) Sul de Minas Gerais e São José do Rio Preto; Dengue.\n(C) Vale do rio Ribeira de Iguape e Região Metropolitana de\nSão Paulo; Zika.\n(D) Sul de Minas Gerais e Campinas; Febre Amarela.\n(E) Litoral de São Paulo e Vale do rio Ribeira de Iguape; Gripe.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 83,
+   "imagem": "img/fuvest-2020-1f-q083.webp",
+   "texto": "83\nO processo de desertificação é definido como a degradação\nambiental e socioambiental, particularmente nas zonas\náridas, semiáridas e subúmidas, resultantes de vários fatores\ne vetores, incluindo as variações e alterações climáticas e as\natividades humanas.\nBRASIL, Ministério do Meio Ambiente. Disponível em http://www.mma.gov.br/.\nDentre as medidas mais adequadas para mitigação dos efeitos\nda desertificação encontra(m)‐se\n(A) a construção de rodovias que permitam às populações\nmais diretamente atingidas pela seca se deslocarem\ndiariamente para áreas mais úmidas.\n(B) o uso das áreas de meia encosta como alternativa para\nexpansão das áreas de produção de culturas temporárias\ne lavouras permanentes.\n(C) o plantio de espécies exóticas que apresentam\ncrescimento rápido e podem reduzir os efeitos da\ndesertificação e da seca, como o eucalipto, por exemplo.\n(D) a prevenção, recuperação e reabilitação de terras parcial ou\ntotalmente degradadas com a recomposição de espécies\nnativas.\n(E) os programas de incentivo para a instalação de fossas\nsépticas que dispensam a implantação de um sistema\nhídrico de saneamento básico.\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 84,
+   "imagem": "img/fuvest-2020-1f-q084.webp",
+   "texto": "84\nBrasil: Estabelecimentos de agricultura familiar\ne não familiar\nHervé Théry e Neli Aparecida Mello‐Théry. Atlas do Brasil: disparidades e\ndinâmicas do território. 3ª edição, 2018. Adaptado.\nSobre a produção agrícola brasileira e os dados apresentados\nnos cartogramas, é correto afirmar:\n(A) A agricultura familiar, que utiliza a maior extensão de\nterras agricultáveis do país, foi responsável pela produção\nda maior parte do volume agrícola exportado.\n(B) A agricultura familiar, que utiliza uma extensão de terras\nmenor que a agricultura não familiar, tem destaque na\nprodução de alimentos para o mercado interno.\n(C) A agricultura não familiar, que detém a maior extensão de\nterras agricultáveis do país, consiste em uma barreira ao\ndesenvolvimento das atividades ligadas ao agronegócio.\n(D) A agricultura não familiar, que apresenta o maior número\nde estabelecimentos rurais no país, é responsável pela\nprodução de parte das chamadas commodities brasileiras.\n(E) A concentração fundiária foi superada no país em função de\na agricultura familiar ocupar, com seus estabelecimentos, a\nmaior parte das terras.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 85,
+   "imagem": "img/fuvest-2020-1f-q085.webp",
+   "texto": "85\nÉ de grande relevância aqui o fato de que uma grande\nproporção do trânsito de internet do mundo passa pelos\nEstados Unidos (...). Isso significa que a NSA (a agência de\nsegurança nacional dos EUA) poderia acessar uma quantidade\nalarmante de ligações telefônicas simplesmente escolhendo\nas instalações certas. O que é ainda mais inacreditável: essas\ninstalações não passam de alguns prédios, conhecidos como\n“hotéis de telecomunicação”, que hospedam os principais\ncentros de conexão de internet e telefonia do planeta todo.\nStephen Graham, Cidades Sitiadas: o novo urbanismo militar, 2016.\nAdaptado.\nA respeito da configuração espacial e geopolítica retratada no\nexcerto e no mapa, é possível afirmar que\n(A) essa é a razão do grande déficit econômico dos Estados\nUnidos atualmente, uma vez que a maior parte dos\nnegócios e transações é feita pela internet.\n(B) essa situação explica o fato de que os Estados Unidos\ntenham, atualmente, a maior dívida pública do planeta, já\nque os custos com o tratamento de dados são muito altos.\n(C) em um mundo cada vez mais dependente dos fluxos\nimateriais de informação, a presença de objetos técnicos\nfixos torna‐se irrelevante para a posição geopolítica dos\nEstados Unidos.\n(D) o mapa representa, por meio do “trânsito de internet” e\ndo fluxo de “ligações telefônicas”, uma globalização que\nintegrou completamente tanto os norte‐americanos\nquanto as populações da África.\n(E) a presença de fixos, como algumas instalações de\narmazenagem e conexão, influencia a orientação de fluxos\ne dá aos EUA uma posição de destaque no contexto\ngeopolítico.\nV",
+   "gabarito": "E"
+  },
+  {
+   "numero": 86,
+   "imagem": "img/fuvest-2020-1f-q086.webp",
+   "texto": "86\nO Ciclone Tropical Idai atingiu o litoral de Moçambique na\nnoite de quinta‐feira (21/03/2019), provocando grandes\ndanos na cidade de Beira. Cerca de 500 mil pessoas ficaram\nsem energia, afetando também o setor de comunicações.\nDisponível em https://www.climatempo.com.br/. Adaptado.\nEssa notícia refere‐se ao Ciclone Tropical que atingiu\nprincipalmente Moçambique, Zimbábue e Malaui. Eventos\ndessa magnitude e superiores – o Ciclone Idai atingiu apenas\na categoria 2 em uma escala de 1 a 5 – ocorrem em outros\nlocais do planeta e não repercutem da mesma forma, com a\nperda de centenas de vidas. Isso ocorre em função\n(A) da grande presença de populações não nativas, que não\ntêm tradição em lidar com eventos dessa natureza.\n(B) do relevo de planalto que caracteriza Moçambique,\nZimbábue e Malaui, em especial na zona costeira.\n(C) da presença de rede hidrográfica e florestas que\ncontribuem para a formação de ciclones dessa natureza e\nmagnitude.\n(D) da presença de águas superficiais do oceano Índico, com\ntemperaturas mais reduzidas que o habitual, em especial\nno Canal de Moçambique.\n(E) das características socioeconômicas da região com\npopulações vulneráveis e reduzida capacidade do poder\npúblico em prestar atendimento à população.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 87,
+   "imagem": "img/fuvest-2020-1f-q087.webp",
+   "texto": "87\nEm Barcelona, em 2012 e 2013, a cada 15 minutos uma família\nrecebia ordem de despejo. Desde então, o panorama da\nhabitação mudou totalmente. “(...) Estamos assistindo uma onda\nde especulação imobiliária (...) que agora se foca no aluguel”,\nexplica Daniel Pardo da Associação de Moradores para um\nTurismo Sustentável. “Este fenômeno pôs em marcha um\nprocesso acelerado e violento de expulsão de inquilinos”,\nacrescenta. Onde a pressão da especulação imobiliária\ninternacional e a indústria do turismo causaram um aumento\nsubstancial nos preços dos aluguéis, os catalães têm hoje de\ngastar mais de 46% dos seus salários com o aluguel. Para os\njovens até os 35 anos, a taxa de esforço aumenta até os 65% (...).\n“Não queremos que os habitantes de Barcelona sejam\nsubstituídos por pessoas com maior poder de compra”, diz a\nporta‐voz do Sindicato dos Inquilinos. Só em Barcelona, 15 fundos\nde investimento imobiliário possuem 3.000 apartamentos.\n“Os habitantes querem a sua cidade de volta”. Reportagem de Ulrike Prinz\npara o Goethe‐Institut Madrid. Maio/2018. Adaptado.\nOs conceitos que explicam as dinâmicas urbanas descritas no\nexcerto são:\n(A) Financeirização e Industrialização.\n(B) Gentrificação e Segregação.\n(C) Aglomeração e Conurbação.\n(D) Industrialização e Segregação.\n(E) Conurbação e Gentrificação.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 88,
+   "imagem": "img/fuvest-2020-1f-q088.webp",
+   "texto": "88\nDois eventos marcaram a diplomacia brasileira em relação ao\nOriente Médio no início de 2019. Um deles foi o voto contra a\nresolução da ONU que pedia a desocupação militar das\nColinas de Golã e sua devolução à Síria. Outro evento foi o\nanúncio de transferência da embaixada brasileira de Tel Aviv\npara Jerusalém, mesmo não tendo sido levada adiante até\nsetembro de 2019. Em relação a esses eventos, é correto\nafirmar que eles representam\nI ‐ uma aproximação do Brasil em relação à posição dos\nEUA.\n(A)\nII ‐ um potencial distanciamento do Brasil em relação à\nposição da maioria dos países do Conselho de\nSegurança da ONU.\nI ‐ um distanciamento do Brasil em relação à posição\nda Palestina e uma aproximação em relação ao\nconjunto de países árabes.\n(B)\nII ‐ uma potencial aproximação do Brasil em relação à\nposição da maioria dos países do Conselho de\nSegurança da ONU.\nI ‐ um distanciamento do Brasil em relação à posição\nde Israel e uma aproximação em relação aos\npalestinos.\n(C)\nII ‐ um potencial distanciamento do Brasil em relação à\nposição da maioria dos países do Conselho de\nSegurança da ONU.\nI ‐ um distanciamento do Brasil em relação à posição\ndos EUA.\n(D)\nII ‐ uma potencial aproximação do Brasil em relação à\nposição da maioria dos países do Conselho de\nSegurança da ONU.\nI ‐ uma aproximação do Brasil em relação à posição da\nSíria.\n(E)\nII ‐ um potencial distanciamento do Brasil em relação à\nposição da maioria dos países do Conselho de\nSegurança da ONU.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 89,
+   "imagem": "img/fuvest-2020-1f-q089.webp",
+   "texto": "89\nNo Brasil, várias cidades registram ocupação irregular de\nencostas em áreas sujeitas a deslizamentos de terra (também\nchamados de escorregamentos). O Instituto de Pesquisas\nTecnológicas (IPT) trabalha no levantamento, mapeamento,\nrecuperação e estabilização dessas áreas de risco. Um\nexemplo deste trabalho foram aqueles executados desde a\ndécada de 1970 referentes aos deslizamentos dos morros de\nSantos e São Vicente‐SP, cuja região é acometida há tempos\npor esses problemas, inclusive com a ocorrência de vítimas\nfatais. Para investigar os deslizamentos de terra nas áreas\nserranas tropicais brasileiras, o Instituto realizou\nlevantamentos topográficos, geológicos e geomorfológicos,\nestudando também a distribuição dos tipos de vegetação\nexistentes e as categorias de ocupação urbana dos morros.\nRepresentação de deslizamento de terra (escorregamento) na\nregião de Santos e São Vicente\nDisponível em https://www.ipt.br/. Adaptado. 2019.\nBaseando‐se nas informações do texto e na figura, é correto\nafirmar que\n(A) as características topográficas, geológicas e geomorfológicas\nde uma área de risco estão naturalmente ligadas aos\nescorregamentos, sendo que estradas de terra minimizam\na ocorrência de deslizamentos.\n(B) a ocorrência de escorregamentos é causada pela ação\nhumana, cuja ocupação de encostas provoca o\nempobrecimento de solo, que acaba sendo mobilizado\npela diminuição de fertilidade.\n(C) o problema da ocupação de encostas e risco de\nescorregamentos inclui o contato entre a rocha e o solo,\ncuja facilidade de deslizamento é aumentada em função\nda inclinação do terreno e da maior ocorrência de chuvas.\n(D) os deslizamentos de terra fazem parte de um conjunto de\nfenômenos naturais pontuais e incomuns na superfície da\ncrosta terrestre e, portanto, não participam da escultura\ndo relevo continental e do modelado.\n(E) os escorregamentos são causados em especial pelo fato de o\nsolo tornar‐se mais leve que a rocha subjacente durante as\nchuvas prolongadas de verão, facilitando seu deslizamento\nao longo das encostas pouco ou nada inclinadas.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 90,
+   "imagem": "img/fuvest-2020-1f-q090.webp",
+   "texto": "90\nSe muita gente hoje enxerga a Terra como um sistema\ndinâmico de conexões entre atmosfera, águas, rochas e\nbiodiversidade, isso se deve, em larga medida, a Alexander\nvon Humboldt (1769 – 1859). O vulcão Chimborazo (6.268 m\nde altitude), no atual Equador, foi utilizado por Humboldt\ncomo exemplo para apresentar com clareza, pela primeira\nvez, como cada faixa altitudinal em regiões montanhosas é um\nmicrocosmo de climas e biodiversidade.\nDisponível em https://www1.folha.uol.com.br/ciencia/. Adaptado.\nRepresentação esquemática do vulcão Chimborazo\nDisponível em https://www.pinterest.com/. Adaptado. 2019.\nConsiderando a relação entre vegetação e altitude, da base\naté o topo das zonas do vulcão representado, é possível obter\na sequência:\n(A) Floresta Temperada, Floresta de Coníferas, Floresta\nTropical, Exposição de Rocha, Tundra, Neve e Gelo.\n(B) Floresta Temperada, Floresta Tropical, Floresta de\nConíferas, Exposição de Rocha, Tundra, Neve e Gelo.\n(C) Floresta Tropical, Floresta de Coníferas, Floresta\nTemperada, Tundra, Exposição de Rocha, Neve e Gelo.\n(D) Floresta Tropical, Floresta Temperada, Floresta de\nConíferas, Tundra, Exposição de Rocha, Neve e Gelo.\n(E) Floresta Tropical, Floresta de Coníferas, Tundra, Floresta\nTemperada, Exposição de Rocha, Neve e Gelo.\nV",
+   "gabarito": "D"
+  }
+ ]
+}

@@ -1,0 +1,228 @@
+{
+ "id": "fuvest-2015-2f-d3",
+ "banca": "FUVEST",
+ "exame": "Vestibular FUVEST",
+ "ano": 2015,
+ "dia": null,
+ "fase": 2,
+ "descricao": "2ª fase, 3º dia (provas específicas, discursivas). numero = grupo×100 + questão dentro do grupo.",
+ "total": 36,
+ "questoes": [
+  {
+   "numero": 101,
+   "imagem": "img/fuvest-2015-2f-d3-q101.webp",
+   "texto": "M01\nNa figura, na página de respostas, a circunferência de centro em\ne raio\ntangencia o lado\ndo triângulo\n2 e o ângulo\nno ponto e tangencia a reta\nno ponto . Os pontos ,\ne\nsão colineares,\né reto. Determine, em função de ,\na) a medida do lado\ndo triângulo\n;\nb) a medida do segmento\n.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 102,
+   "imagem": "img/fuvest-2015-2f-d3-q102.webp",
+   "texto": "M02\nResolva as inequações:\n6\n0;\na)\nb) log\n6\n2.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 103,
+   "imagem": "img/fuvest-2015-2f-d3-q103.webp",
+   "texto": "M03\nNo cubo\n, representado na figura, na página de respostas, cada aresta tem medida 1. Seja um\nponto na semirreta de origem que passa por . Denote por o ângulo\ne por a medida do segmento\n.\na) Exprima cos em função de .\nb) Para que valores de\no ângulo\né obtuso?\nc) Mostre que, se\n4, então\nmede menos do que 45 .",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 104,
+   "imagem": "img/fuvest-2015-2f-d3-q104.webp",
+   "texto": "M04\nResolva os três itens abaixo.\na) Calcule cos 3 /8 e sen 3 /8 .\n2\n2\n0 para o qual\nb) Dado o número complexo\n√2\n√2, encontre o menor inteiro\nseja\nreal.\nc) Encontre um polinômio de coeficientes inteiros que possua como raiz e que não possua raiz real.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 105,
+   "imagem": "img/fuvest-2015-2f-d3-q105.webp",
+   "texto": "M05\nA função\nestá definida da seguinte maneira: para cada inteiro ímpar ,\n1 , se\n1\n1\n, se\n1\na) Esboce o gráfico de\npara 0\n6.\n1\nb) Encontre os valores de , 0\n6, tais que\n. .\n5",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 106,
+   "imagem": "img/fuvest-2015-2f-d3-q106.webp",
+   "texto": "M06\nUm “alfabeto minimalista” é constituído por apenas dois símbolos, representados por  e #. Uma palavra de\n1, é formada por escolhas sucessivas de um desses dois símbolos. Por exemplo, # é uma\ncomprimento ,\npalavra de comprimento 1 e ## é uma palavra de comprimento 4.\nUsando esse alfabeto minimalista,\na) quantas palavras de comprimento menor do que 6 podem ser formadas?\npara o qual é possível formar 1.000.000 de palavras de tamanho menor ou igual\nb) qual é o menor valor de\na ?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 201,
+   "imagem": "img/fuvest-2015-2f-d3-q201.webp",
+   "texto": "F01\nUma criança com uma bola nas mãos está sentada em um “gira‐gira” que roda com velocidade angular\nconstante e frequência f = 0,25 Hz.\na) Considerando que a distância da bola ao centro do “gira‐gira” é 2 m, determine os módulos da velocidade\nሬ Ԧ T e da aceleração a\nV\nሬԦ da bola, em relação ao chão.\nNum certo instante, a criança arremessa a bola horizontalmente em direção ao centro do “gira‐gira”, com\nvelocidade ሬ V Ԧ R de módulo 4 m/s, em relação a si.\nDetermine, para um instante imediatamente após o lançamento,\nሬ Ԧ da bola em relação ao chão;\nb) o módulo da velocidade U\nc) o ângulo  entre as direções das velocidades ሬ U Ԧ e ሬ V Ԧ R da bola.\nNote e adote:\nπ = 3",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 202,
+   "imagem": "img/fuvest-2015-2f-d3-q202.webp",
+   "texto": "F02\nO aquecimento de um forno elétrico é baseado na conversão de energia elétrica em energia térmica em um\nresistor. A resistência R do resistor desse forno, submetido a uma diferença de potencial V constante, varia com\na sua temperatura T. Na figura da página de respostas é mostrado o gráfico da função R(T ) = R 0 +  (T – T 0 ), sendo\nR 0 o valor da resistência na temperatura T 0 e  uma constante.\nAo se ligar o forno, com o resistor a 20 o C, a corrente é 10 A. Ao atingir a temperatura T M , a corrente é 5 A.\nDetermine a\na) constante  ;\nb) diferença de potencial V;\nc) temperatura T M ;\nd) potência P dissipada no resistor na temperatura T M .",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 203,
+   "imagem": "img/fuvest-2015-2f-d3-q203.webp",
+   "texto": "F03\nUm recipiente hermeticamente fechado e termicamente isolado, com volume de 750 l , contém ar inicialmente\nà pressão atmosférica de 1 atm e à temperatura de 27 o C. No interior do recipiente, foi colocada uma pequena\nvela acesa, de 2,5 g. Sabendo‐se que a massa da vela é consumida a uma taxa de 0,1 g/min e que a queima da\nvela produz energia à razão de 3,6 x 10 4 J/g, determine\na) a potência W da vela acesa;\nb) a quantidade de energia E produzida pela queima completa da vela;\nc) o aumento  T da temperatura do ar no interior do recipiente, durante a queima da vela;\nd) a pressão P do ar no interior do recipiente, logo após a queima da vela.\nNote e adote:\nO ar deve ser tratado como gás ideal.\nO volume de 1 mol de gás ideal à pressão atmosférica de 1 atm e à temperatura de 27 C é 25 l .\no\nCalor molar do ar a volume constante: C v = 30 J/(mol K).\nConstante universal dos gases: R = 0,08 atm l /(mol K).\n0 °C = 273 K.\nDevem ser desconsideradas a capacidade térmica do recipiente e a variação da massa de gás no\nseu interior devido à queima da vela.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 204,
+   "imagem": "img/fuvest-2015-2f-d3-q204.webp",
+   "texto": "F04\nO espelho principal de um dos maiores telescópios refletores do mundo, localizado nas Ilhas Canárias, tem\n10 m de diâmetro e distância focal de 15 m. Supondo que, inadvertidamente, o espelho seja apontado\ndiretamente para o Sol, determine\na) o diâmetro D da imagem do Sol;\nb) a densidade S de potência no plano da imagem, em W/m 2 ;\nc) a variação  T da temperatura de um disco de alumínio de massa 0,6 kg colocado no plano da imagem,\nconsiderando que ele tenha absorvido toda a energia incidente durante 4 s.\nNote e adote:\nπ = 3\nO espelho deve ser considerado esférico.\n11\nDistância Terra‐Sol = 1,5 x 10\nm.\n9\nDiâmetro do Sol = 1,5 x 10 m.\nCalor específico do Al = 1 J/(g K).\nDensidade de potência solar incidindo sobre o espelho principal do telescópio = 1 kW/m 2 .\nO diâmetro do disco de alumínio é igual ao da imagem do Sol.\nDesconsidere perdas de calor pelo disco de alumínio.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 205,
+   "imagem": "img/fuvest-2015-2f-d3-q205.webp",
+   "texto": "F05\nUma criança de 30 kg está em repouso no topo de um escorregador plano de 2,5 m de altura, inclinado 30 o em\nrelação ao chão horizontal. Num certo instante, ela começa a deslizar e percorre todo o escorregador.\nDetermine\na) a energia cinética E e o módulo Q da quantidade de movimento da criança, na metade do percurso;\nb) o módulo F da força de contato entre a criança e o escorregador;\nc) o módulo a da aceleração da criança.\nNote e adote:\nForças dissipativas devem ser ignoradas.\nA aceleração local da gravidade é 10 m/s 2 .\nsen 30 = cos 60 = 0,5\no\no\nsen 60 = cos 30 = 0,9\no\no",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 206,
+   "imagem": "img/fuvest-2015-2f-d3-q206.webp",
+   "texto": "F06\nA região entre duas placas metálicas, planas e\nparalelas está esquematizada na figura ao lado. As\nlinhas tracejadas representam o campo elétrico\nuniforme existente entre as placas. A distância entre\nas placas é 5 mm e a diferença de potencial entre\nelas é 300 V. As coordenadas dos pontos A, B e C são\nmostradas na figura. Determine\na) os módulos E A , E B e E C do campo elétrico nos\npontos A, B e C, respectivamente;\nb) as diferenças de potencial V AB e V BC entre os\npontos A e B e entre os pontos B e C,\nrespectivamente;\nc) o trabalho  realizado pela força elétrica sobre um elétron que se desloca do ponto C ao ponto A.\nNote e adote:\nO sistema está em vácuo.\n19\nCarga do elétron = 1,6 x 10\nC.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 301,
+   "imagem": "img/fuvest-2015-2f-d3-q301.webp",
+   "texto": "Q01\nO metabissulfito de potássio (K 2 S 2 O 5 ) e o dióxido de\nenxofre (SO 2 ) são amplamente utilizados na\nconservação de alimentos como sucos de frutas,\nretardando a deterioração provocada por bactérias,\nfungos e leveduras. Ao ser dissolvido em soluções\naquosas ácidas ou básicas, o metabissulfito pode se\ntransformar nas espécies químicas SO 2 , HSO 3  ou SO 32 ,\ndependendo do pH da solução, como é mostrado no\ngráfico.\nA equação a seguir representa a formação dos íons HSO 3  em solução aquosa.\na) Escreva as equações químicas balanceadas que representam a formação das espécies químicas SO 2 (aq) e\nSO 32 (aq) a partir dos íons S 2 O 52 (aq).\nb) Reações indesejáveis no organismo podem ocorrer quando a ingestão de íons S 2 O 52 , HSO 3  ou SO 32\nultrapassa um valor conhecido como IDA (ingestão diária aceitável, expressa em quantidade de\nSO 2 /dia/massa corpórea), que, neste caso, é igual a 1,1 x 10 5 mol de SO 2 por dia para cada quilograma de\nmassa corpórea. Uma pessoa que pesa 50 kg tomou, em um dia, 200 mL de uma água de coco\nindustrializada que continha 64 mg/L de SO 2 . Essa pessoa ultrapassou o valor da IDA? Explique, mostrando\nos cálculos.\nDados: massa molar (g/mol) O ....... 16\nS ........ 32",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 302,
+   "imagem": "img/fuvest-2015-2f-d3-q302.webp",
+   "texto": "Q02\nO hidrogênio tem sido apontado como possível fonte de energia do futuro. Algumas montadoras de\nautomóveis estão construindo carros experimentais que podem funcionar utilizando gasolina ou hidrogênio\nlíquido como combustível.\nConsidere a tabela a seguir, contendo dados obtidos nas mesmas condições, sobre a energia específica\n(quantidade de energia liberada pela combustão completa de 1 g de combustível) e o conteúdo de energia por\nvolume (quantidade de energia liberada pela combustão completa de 1 L de combustível), para cada um desses\ncombustíveis:\nEnergia específica\nConteúdo de energia por volume\nCombustível\n(10 3 kJ/L)\n(kJ/g)\nGasolina líquida\n47\n35\nHidrogênio líquido\n142\n10\na) Com base nos dados da tabela, calcule a razão entre as densidades da gasolina líquida e do hidrogênio\nlíquido (d gasolina( l ) / d hidrogênio( l ) ). Mostre os cálculos.\nb) Explique por que, embora a energia específica do hidrogênio líquido seja maior do que a da gasolina líquida,\no conteúdo de energia por volume do hidrogênio líquido é menor do que o da gasolina líquida.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 303,
+   "imagem": "img/fuvest-2015-2f-d3-q303.webp",
+   "texto": "Q03\nA preparação de um biodiesel, em uma aula experimental, foi feita utilizando‐se etanol, KOH e\nóleo de soja, que é constituído principalmente por triglicerídeos. A reação que ocorre nessa\npreparação de biodiesel é chamada transesterificação, em que um éster reage com um álcool,\nobtendo‐se um outro éster. Na reação feita nessa aula, o KOH foi utilizado como catalisador.\nO procedimento foi o seguinte:\n1ª etapa: Adicionou‐se 1,5 g de KOH a 35 mL de etanol, agitando‐se continuamente a mistura.\n2ª etapa: Em um erlenmeyer, foram colocados 100 mL de óleo de soja, aquecendo‐se em\nbanho‐maria, a uma temperatura de 45ᵒC. Adicionou‐se a esse óleo de soja a solução de\ncatalisador, agitando‐se por mais 20 minutos.\n3ª etapa: Transferiu‐se a mistura formada para um funil de separação, e esperou‐se a\nseparação das fases, conforme representado na figura ao lado.\na) Toda a quantidade de KOH, empregada no procedimento descrito, se dissolveu no volume\nde etanol empregado na primeira etapa? Explique, mostrando os cálculos.\nb) Considere que a fórmula estrutural do triglicerídeo contido no óleo de soja é a\nmostrada ao lado.\nEscreva, no espaço indicado na página de respostas, a fórmula estrutural do\nbiodiesel formado.\nc) Se, na primeira etapa desse procedimento, a solução de KOH em etanol fosse\nsubstituída por um excesso de solução de KOH em água, que produtos se\nformariam? Responda, completando o esquema da página de respostas com as\nfórmulas estruturais dos dois compostos que se formariam e balanceando a equação química.\nDado: solubilidade do KOH em etanol a 25ᵒC = 40 g em 100 mL",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 304,
+   "imagem": "img/fuvest-2015-2f-d3-q304.webp",
+   "texto": "Q04\nCompostos com um grupo NO 2 ligado a um anel aromático\npodem ser reduzidos, sendo o grupo NO 2 transformado em NH 2 ,\ncomo representado ao lado.\nCompostos alifáticos ou aromáticos\ncom grupo NH 2 , por sua vez, podem\nser transformados em amidas ao\nreagirem com anidrido acético. Essa\ntransformação é chamada de\nacetilação do grupo amino, como\nexemplificado ao lado.\nEssas transformações são utilizadas para a produção industrial do\nparacetamol, que é um fármaco empregado como analgésico e\nantitérmico.\na) Qual é o reagente de partida que, após passar por redução e em seguida por acetilação, resulta no\nparacetamol? Escreva a fórmula estrutural desse reagente, no quadro da página de respostas.\nO fenol (C 6 H 5 OH) também pode reagir com anidrido acético. Nessa transformação, forma‐se acetato de fenila.\nb) Na etapa de acetilação do processo industrial de produção do paracetamol, formam‐se, também, ácido\nacético e um subproduto diacetilado (mas monoacetilado no nitrogênio). Complete o esquema da página\nde respostas, de modo a representar a equação química balanceada de formação do subproduto citado.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 305,
+   "imagem": "img/fuvest-2015-2f-d3-q305.webp",
+   "texto": "Q05\nA figura ao lado ilustra as estabilidades relativas das\nespécies que apresentam estado de oxidação +2 e +4\ndos elementos da mesma família: carbono, silício,\ngermânio, estanho e chumbo.\nAs estabilidades relativas podem ser interpretadas\npela comparação entre potenciais padrão de redução\ndas espécies +4 formando as espécies +2, como\nrepresentado a seguir para os elementos chumbo\n(Pb), germânio (Ge) e estanho (Sn):\nOs potenciais padrão de redução dessas três semirreações, E o 1 , E o 2 e E o 3 , foram determinados\nexperimentalmente, obtendo‐se os valores 0,12 V, 0,094 V e 1,5 V, não necessariamente nessa ordem.\nSabe‐se que, quanto maior o valor do potencial padrão de redução, maior o caráter oxidante da espécie\nquímica.\na) Considerando as informações da figura, atribua, na tabela da página de respostas, os valores experimentais\naos potenciais padrão de redução E o 1 , E o 2 e E o 3 .\nb) O elemento carbono pode formar óxidos, nos quais a proporção entre carbono e oxigênio está relacionada\nao estado de oxidação do carbono. Comparando os óxidos CO e CO 2 , qual seria o mais estável? Explique,\ncom base na figura apresentada acima.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 306,
+   "imagem": "img/fuvest-2015-2f-d3-q306.webp",
+   "texto": "Q06\nO glicerol pode ser polimerizado em uma reação de condensação catalisada por ácido sulfúrico, com\neliminação de moléculas de água, conforme se representa a seguir:\na) Considerando a estrutura do monômero, pode‐se prever que o polímero deverá ser formado por cadeias\nramificadas. Desenhe a fórmula estrutural de um segmento do polímero, mostrando quatro moléculas do\nmonômero ligadas e formando uma cadeia ramificada.\nPara investigar a influência da concentração do catalisador sobre o grau de polimerização do glicerol (isto é, a\nporcentagem de moléculas de glicerol que reagiram), foram efetuados dois ensaios:\nAo final desses ensaios, os polímeros 1 e 2 foram analisados separadamente. Amostras de cada um deles foram\nmisturadas com diferentes solventes, observando‐se em que extensão ocorria a dissolução parcial de cada\namostra. A tabela a seguir mostra os resultados dessas análises:\nSolubilidade (% em massa)\nAmostra\nHexano\nEtanol\n(solvente apolar)\n(solvente polar)\npolímero 1\n3\n13\npolímero 2\n2\n3\nb) Qual dos polímeros formados deve apresentar menor grau de polimerização? Explique sua resposta,\nfazendo referência à solubilidade das amostras em etanol.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 401,
+   "imagem": "img/fuvest-2015-2f-d3-q401.webp",
+   "texto": "B01\nNo heredograma abaixo estão representadas pessoas que têm uma doença genética muito rara, cuja herança é\ndominante. A doença é causada por mutação em um gene localizado no cromossomo 6. Essa mutação,\nentretanto, só se manifesta, causando a doença, em 80% das pessoas heterozigóticas.\na) Usando os algarismos romanos e arábicos correspondentes, identifique as pessoas que são certamente\nheterozigóticas quanto a essa mutação. Justifique sua resposta.\nb) Qual é a probabilidade de uma criança, que II‐5 venha a ter, apresentar a doença? Justifique sua resposta.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 402,
+   "imagem": "img/fuvest-2015-2f-d3-q402.webp",
+   "texto": "B02\nAnalise o gráfico abaixo, relativo à mortalidade de fêmeas férteis do camarão‐da‐areia (Crangon\nseptemspinosa) em água aerada, em diferentes temperaturas e salinidades, durante determinado período.\na) Qual dos seguintes conceitos  ecossistema, hábitat, nicho ecológico  está implícito nesse gráfico?\nb) Os dados de mortalidade representados nesse gráfico referem‐se a que nível de organização: espécie,\npopulação ou comunidade?\nc) Temperatura e salinidade são fatores abióticos que, nesse caso, provocaram mortalidade das fêmeas do\ncamarão‐da‐areia. Cite dois fatores bióticos que também possam produzir mortalidade.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 403,
+   "imagem": "img/fuvest-2015-2f-d3-q403.webp",
+   "texto": "B03\nEm certa doença humana, enzimas digestivas intracelulares (hidrolases) são transportadas do complexo\ngolgiense para a membrana celular e secretadas, em vez de serem encaminhadas para as organelas em que\natuam.\nNos indivíduos clinicamente normais,\na) em que organelas celulares essas enzimas digestivas atuam?\nb) além de materiais capturados do meio externo, que outros materiais são digeridos pela célula?\nc) qual é o destino dos produtos da digestão intracelular?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 404,
+   "imagem": "img/fuvest-2015-2f-d3-q404.webp",
+   "texto": "B04\nA figura abaixo mostra órgãos do sistema digestório humano.\nIdentifique com a letra correspondente, nomeando‐o,\na) o órgão cuja secreção contém bicarbonato de sódio, além de várias enzimas digestivas;\nb) o principal órgão responsável pela absorção de nutrientes;\nc) o órgão em que se inicia a digestão de proteínas;\nd) o órgão que produz substâncias que auxiliam a digestão de gorduras, mas que não produz enzimas.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 405,
+   "imagem": "img/fuvest-2015-2f-d3-q405.webp",
+   "texto": "B05\nNo processo de adaptação ao ambiente terrestre, animais e plantas sofreram modificações morfológicas e\nfuncionais.\nConsidere a classificação tradicional das plantas em algas, briófitas, pteridófitas, gimnospermas e\nangiospermas.\na) Qual(is) desses grupos de plantas independe(m) da água para a fecundação? Que estrutura permite o\nencontro dos gametas, em substituição à água?\nb) As briófitas, primeiro grupo de plantas preponderantemente terrestre, têm tamanho reduzido. As\npteridófitas, surgidas posteriormente, são plantas de grande tamanho, que chegaram a constituir extensas\nflorestas. Que relação existe entre o mecanismo de transporte de água e o tamanho das plantas nesses\ngrupos?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 406,
+   "imagem": "img/fuvest-2015-2f-d3-q406.webp",
+   "texto": "B06\nO rígido exoesqueleto dos artrópodes é periodicamente substituído para que seu corpo possa crescer. Após as\nmudas, com o revestimento do corpo ainda flexível, o animal cresce. O gráfico abaixo representa o crescimento\ndesses animais.\nNas coordenadas da página de respostas, represente\na) o crescimento de alguns moluscos, cujo exoesqueleto agrega material de maneira contínua, permitindo o\ncrescimento continuado do animal;\nb) o crescimento de mamíferos, que têm endoesqueleto ósseo e crescem até se tornarem adultos.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 501,
+   "imagem": "img/fuvest-2015-2f-d3-q501.webp",
+   "texto": "H01\nExamine a seguinte imagem:\nLouis‐Michel van Loo & Claude‐Joseph Vernet, O Marquês de Pombal, 1766.\na) Identifique e analise dois elementos representados na imagem, relativos ao contexto sociopolítico de\nPortugal na segunda metade do século XVIII.\nb) Aponte e explique uma medida relativa ao Brasil, adotada por Portugal nessa mesma época.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 502,
+   "imagem": "img/fuvest-2015-2f-d3-q502.webp",
+   "texto": "H02\nO movimento político conhecido como “Confederação do Equador”, ocorrido em 1824 em Pernambuco e em\nprovíncias vizinhas, contou com a liderança de figuras como Manuel Carvalho Paes de Andrade e Frei Joaquim\ndo Amor Divino Caneca. Relacione esse movimento com\na) o projeto político desenvolvido pela Corte do Rio de Janeiro, na mesma época;\nb) outros dois movimentos ocorridos em Pernambuco, em anos anteriores.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 503,
+   "imagem": "img/fuvest-2015-2f-d3-q503.webp",
+   "texto": "H03\nLeia os dois fragmentos abaixo.\nI. É necessário, pois, aceitar como princípio e ponto de partida o fato de que existe uma hierarquia de raças e\ncivilizações, e que nós pertencemos a raça e civilização superiores, reconhecendo ainda que a superioridade\nconfere direitos, mas, em contrapartida, impõe obrigações estritas. A legitimação básica da conquista de\npovos nativos é a convicção de nossa superioridade, não simplesmente nossa superioridade mecânica,\neconômica e militar, mas nossa superioridade moral. Nossa dignidade se baseia nessa qualidade, e ela\nfunda nosso direito de dirigir o resto da humanidade. O poder material é apenas um meio para esse fim.\nDeclaração do francês Jules Harmand, em 1910. Apud: Edward Said.\nCultura e imperialismo. São Paulo: Companhia das Letras, 1995. Adaptado.\nII. (...) apesar das suas diferenças, os ingleses e os franceses viam o Oriente como uma entidade geográfica —\ne cultural, política, demográfica, sociológica e histórica — sobre cujos destinos eles acreditavam ter um\ndireito tradicional. Para eles, o Oriente não era nenhuma descoberta repentina, mas uma área ao leste da\nEuropa cujo valor principal era definido uniformemente em termos de Europa, mais particularmente em\ntermos que reivindicavam especificamente para a Europa — para a ciência, a erudição, o entendimento e a\nadministração da Europa — o crédito por ter transformado o Oriente naquilo que era.\nEdward Said. Orientalismo. São Paulo: Companhia das Letras, 1990.\na) Identifique a principal ideia defendida no texto I e explique sua relação com a expansão imperialista\neuropeia no final do século XIX.\nb) Relacione o texto I com o texto II, quanto à concepção política neles presente.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 504,
+   "imagem": "img/fuvest-2015-2f-d3-q504.webp",
+   "texto": "H04\nOs cartazes acima circularam durante a Guerra Civil Espanhola (1936‐1939).\na) Identifique, em cada um dos cartazes, um elemento que permita associá‐los, respectivamente, às principais\nforças políticas envolvidas nessa guerra.\nb) Caracterize as principais propostas das forças políticas representadas nos cartazes.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 505,
+   "imagem": "img/fuvest-2015-2f-d3-q505.webp",
+   "texto": "H05\nA cidade do Rio de Janeiro abre o século XX defrontando‐se com perspectivas extremamente promissoras.\nAproveitando‐se de seu papel privilegiado na intermediação dos recursos da economia cafeeira e de sua\ncondição de centro político do país, a sociedade carioca via acumularem‐se no seu interior vastos recursos\nenraizados principalmente no comércio e nas finanças, mas derivando já para as aplicações industriais. A\nmudança da natureza das atividades econômicas do Rio foi de monta, portanto, a transformá‐lo no maior\ncentro cosmopolita da nação, em íntimo contato com a produção e o comércio europeus e americanos,\nabsorvendo‐os e irradiando‐os para todo o país. Muito cedo, no entanto, ficou evidente o anacronismo da velha\nestrutura urbana do Rio de Janeiro diante das demandas dos novos tempos.\nNicolau Sevcenko. Literatura como missão. Tensões sociais e criação cultural na Primeira República.\nSão Paulo: Brasiliense, 1983. Adaptado.\na) Cite dois exemplos que justifiquem o mencionado “anacronismo da velha estrutura urbana do Rio de\nJaneiro”.\nb) Cite duas importantes mudanças socioeconômicas pelas quais a cidade do Rio de Janeiro passou no\nprincípio do século XX.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 506,
+   "imagem": "img/fuvest-2015-2f-d3-q506.webp",
+   "texto": "H06\nEm 25 de abril de 1984, a Câmara dos Deputados do Brasil rejeitou a Emenda Constitucional que propunha o\nrestabelecimento das eleições diretas para a presidência da República. Durante quase nove meses, situação e\noposição realizaram articulações políticas, visando à escolha do novo presidente. Em 15 de janeiro de 1985,\nTancredo Neves foi eleito presidente do Brasil por um Colégio Eleitoral.\na) Explique em que consistia esse Colégio Eleitoral e como ele era composto.\nb) Identifique e caracterize a articulação política vitoriosa na eleição presidencial de 1985.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 601,
+   "imagem": "img/fuvest-2015-2f-d3-q601.webp",
+   "texto": "G01\nSegundo o IBGE, aglomerado\nsubnormal “é um conjunto constituído de, no\nmínimo, 51 unidades habitacionais (barracos,\ncasas, etc.) carentes, em sua maioria, de\nserviços públicos essenciais. O conceito de\naglomerado subnormal foi utilizado pela\nprimeira vez no Censo Demográfico 1991.\nPossui certo grau de generalização, de forma\na abarcar a diversidade de assentamentos\nexistentes no País, conhecidos como: favela,\ninvasão, grota, baixada, comunidade, vila,\nressaca, mocambo, palafita, entre outros”.\nAglomerados subnormais. IBGE, 2011. Adaptado.\nCom base no texto e no mapa,\na) identifique duas características dos\naglomerados subnormais, sendo uma\nrelativa à questão fundiária e outra ao\npadrão de urbanização;\nb) explique a concentração espacial dos\naglomerados subnormais na região Sudeste e o processo que levou a essa concentração.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 602,
+   "imagem": "img/fuvest-2015-2f-d3-q602.webp",
+   "texto": "G02\nA Convenção das Nações Unidas sobre Direito\ndo Mar estabelece as linhas de base a partir das quais\npassam a ser contados o mar territorial, a zona\ncontígua, a zona econômica exclusiva e o limite\nexterior da plataforma continental, bem como os\ncritérios para o delineamento do limite exterior da\nplataforma.\nwww.marinha.mil.br. Acesso em 30/10/2014. Adaptado.\nCom base nessa Convenção, da qual o Brasil é\nsignatário, o governo brasileiro propôs às Nações\nUnidas a ampliação do limite exterior de sua\nplataforma continental para até 350 milhas náuticas\n(648 km), o que resultaria em uma área total com\ncerca de 4,4 milhões de quilômetros quadrados, a\nqual vem sendo chamada pela Marinha do Brasil de\n“Amazônia Azul”.\nConsiderando o mapa e seus conhecimentos,\na) explique a importância geoestratégica da\ndelimitação de áreas/zonas marítimas para as\nnações litorâneas;\nb) identifique e explique duas razões da importância econômica da chamada Amazônia Azul para o Brasil.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 603,
+   "imagem": "img/fuvest-2015-2f-d3-q603.webp",
+   "texto": "G03\nCom base nas informações acima e em seus conhecimentos, identifique\na) dois fatores responsáveis pelo crescimento do número de shopping centers no Brasil entre 2008 e 2014.\nb) duas tendências da distribuição geográfica dos shopping centers pelas diferentes regiões brasileiras,\nconsiderando o crescimento no período 2011‐2014. Justifique sua resposta.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 604,
+   "imagem": "img/fuvest-2015-2f-d3-q604.webp",
+   "texto": "G04\nObserve o mapa.\nCom base no mapa e em seus conhecimentos sobre os EUA,\na) aponte duas razões da importância geopolítica desse país, na atualidade, considerando sua localização e\ndimensão territorial;\nb) explique a importância econômica, para esse país, da região circundada no mapa, considerando os recursos\nnaturais e os aspectos humanos.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 605,
+   "imagem": "img/fuvest-2015-2f-d3-q605.webp",
+   "texto": "G05\nConsidere o texto abaixo para responder à questão.\nO que houve em Canudos e continua a acontecer hoje, no campo como nas grandes cidades brasileiras,\nfoi o choque do Brasil “oficial e mais claro” com o Brasil “real e mais escuro” (...). Euclides da Cunha, formado,\ncomo todos nós, pelo Brasil oficial, de repente, ao chegar ao sertão, viu‐se ofuscado pelo Brasil real de Antônio\nConselheiro e seus seguidores. Sua intuição de escritor de gênio e seu nobre caráter de homem de bem\ncolocaram‐no imediatamente ao lado do Conselheiro, para honra e glória do escritor. De modo que, entre\noutros erros e contradições, só lhe ocorreu, além da corajosa denúncia do crime, pregar uma “modernização”\nque consistiria, finalmente, em conformar o Brasil real pelos moldes do Brasil oficial. Isto é, uma modernização\nfalsificadora e falsa, que, como a que estão tentando fazer agora, é talvez pior do que uma invasão declarada.\nEsta apenas destrói e assola, enquanto a falsa modernização, no campo como na cidade, descaracteriza, assola,\ndestrói e avilta o povo do Brasil real.\nAriano Suassuna. Folha de S. Paulo, 30/11/1999. Adaptado.\na) Identifique e explique dois elementos da questão agrária brasileira contemporânea que justificam a\nexpressão “falsa modernização no campo”.\nb) Descreva uma característica comum entre o movimento de Canudos e os movimentos sociais que atuam no\ncampo brasileiro na atualidade.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 606,
+   "imagem": "img/fuvest-2015-2f-d3-q606.webp",
+   "texto": "G06\nObserve o mapa a seguir.\na) Aponte, sobre a região ártica, um interesse geoeconômico, indicando três países nele envolvidos.\nb) Explique a ocorrência de um impacto ambiental relacionado a uma importante atividade econômica\ndesenvolvida nessa região.",
+   "gabarito": "discursiva"
+  }
+ ]
+}

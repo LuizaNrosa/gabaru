@@ -1,0 +1,108 @@
+{
+ "id": "fuvest-2017-2f-d2",
+ "banca": "FUVEST",
+ "exame": "Vestibular FUVEST",
+ "ano": 2017,
+ "dia": null,
+ "fase": 2,
+ "descricao": "2ª fase, 2º dia (discursiva). numero = grupo×100 + questão dentro do grupo.",
+ "total": 16,
+ "questoes": [
+  {
+   "numero": 101,
+   "imagem": "img/fuvest-2017-2f-d2-q101.webp",
+   "texto": "01\nhttps://dubdui.wordpress.com/tag/phubbing. Acessado em 21.07.2016.\nBaseando  se na tirinha cômica “Mama Taxi”, responda, em português, ao que se pede.\na) A que se refere a pergunta feita no segundo quadro pela motorista à passageira? Justifique sua\nresposta.\nb) Qual foi a resposta dada pela passageira à pergunta feita pela motorista no segundo quadro? Qual foi a\nação assumida pela passageira na sequência de sua resposta?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 102,
+   "imagem": "img/fuvest-2017-2f-d2-q102.webp",
+   "texto": "02\nShakespeare biography has\nlong circled a set of mysteries: Was\nhe Protestant or secretly Catholic?\nGay or straight? Loving toward his\nwife, or coldly dismissive?\nThe man left no surviving letters\nor autobiographical testimony.\nBut now, a researcher has\nuncovered nearly a dozen previously\nunknown records that shed clearer\nlight on another much  discussed side\nof the man: the social climber.\nThe documents, discovered by\nHeather Wolfe, the curator of\nmanuscripts\nat\nthe\nFolger\nShakespeare Library in Washington, relate to a coat of arms that was granted to Shakespeare’s father in 1596,\nattesting to his and his son’s status as gentlemen.\nThe documents suggest both how deeply invested Shakespeare was in gaining that recognition — a rarity\nfor a man from the theater — and how directly he may have been drawn into colorful bureaucratic infighting that\nthreatened to strip it away.\nThe new evidence “really helps us get a little bit closer to the man himself,” Ms. Wolfe said. “It shows him\nshaping himself and building his reputation in a very intentional way.”\nThe new documents also come with a nice bonus: they clearly refute skeptics who continue to argue that\nWilliam Shakespeare of Stratford  upon  Avon was not actually the author of the works attributed to him.\nThe New York Times, June 29, 2016. Adaptado.\nCom base na leitura do texto e redigindo em português, atenda ao que se pede.\na) Cite dois aspectos indicativos do caráter misterioso da biografia de Shakespeare.\nb) Em que reside a importância da descoberta, pela pesquisadora Heather Wolfe, de novos documentos\nrelativos a um brasão de armas conferido ao pai de Shakespeare em 1596?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 103,
+   "imagem": "img/fuvest-2017-2f-d2-q103.webp",
+   "texto": "03\nO biogás, produzido por digestão anaeróbia de resíduos orgânicos, contém principalmente metano e dióxido de\ncarbono, além de outros gases em pequenas quantidades, como é o caso do sulfeto de hidrogênio.\nPara que o biogás seja utilizado como combustível, é necessário purificá  lo, aumentando o teor de metano e\neliminando os demais componentes, que diminuem o seu poder calorífico e causam danos às tubulações.\nConsidere uma amostra de biogás cuja composição, em massa, seja 64,0 % de metano (CH 4 ), 32,0 % de dióxido\nde carbono (CO 2 ) e 4,0 % de sulfeto de hidrogênio (H 2 S).\na) Calcule a energia liberada na combustão de um quilograma dessa amostra de biogás.\nb) Calcule o ganho de energia, por quilograma, se for utilizado biogás totalmente isento de impurezas, em lugar\nda amostra que contém os outros gases.\nc) Além de aumentar o poder calorífico, a purificação do biogás representa uma diminuição do dano ambiental\nprovocado pela combustão. Explique por quê.\nd) Em aterros sanitários, ocorre a formação de biogás, que pode\nser recolhido. Em um aterro sanitário, tubos foram\nintroduzidos para captação dos gases em duas diferentes\nprofundidades, como é mostrado na figura. Em qual dos\ntubos, A ou B, é recolhido biogás com maior poder calorífico?\nExplique.\nNote e adote:\nCalor de combustão (kJ/kg)\nCH 4\n55 10 3\n15 10 3\nH 2 S",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 104,
+   "imagem": "img/fuvest-2017-2f-d2-q104.webp",
+   "texto": "04\nAtualmente, é possível criar peças a partir do processo de impressão 3D. Esse processo consiste em depositar\nfinos fios de polímero, uns sobre os outros, formando objetos tridimensionais de formas variadas. Um dos\npolímeros que pode ser utilizado tem a estrutura mostrada a seguir:\nNa impressão de esferas maciças idênticas de 12,6 g, foram consumidos, para cada uma, 50 m desse polímero,\nna forma de fios cilíndricos de 0,4 mm de espessura.\nPara uso em um rolamento, essas esferas foram tratadas com graxa. Após certo tempo, durante a inspeção do\nrolamento, as esferas foram extraídas e, para retirar a graxa, submetidas a procedimentos diferentes. Algumas\ndessas esferas foram colocadas em um frasco ao qual foi adicionada uma mistura de água e sabão (procedimento\nA), enquanto outras esferas foram colocadas em outro frasco, ao qual foi adicionado removedor, que é uma\nmistura de hidrocarbonetos líquidos (procedimento B).\na) Em cada um dos procedimentos, A e B, as esferas ficaram no fundo do frasco ou flutuaram? Explique sua\nresposta.\nb) Em qual procedimento de limpeza, A ou B, pode ter ocorrido dano à superfície das esferas? Explique.\nNote e adote:\nConsidere que não existe qualquer espaço entre os fios do polímero, no interior ou na superfície das esferas.\nx, y, z = número de repetições do monômero.\nDensidade (g/mL): Água e sabão = 1,2; Removedor = 1,0.\n1 m 3 = 10 6 mL.\n =3",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 105,
+   "imagem": "img/fuvest-2017-2f-d2-q105.webp",
+   "texto": "05\nA aorta da baleia é de diâmetro maior do que o cano principal do sistema hidráulico da Torre de Londres, e a\nágua que passa por ali tem menos ímpeto e velocidade do que o sangue que jorra do seu coração.\nHerman Melville, Moby Dick.\na) Calcule a vazão (volume/unidade de tempo) em cada um dos sistemas esquematizados a seguir.\nNote e adote:\nSuponha os sistemas como sendo cilindros circulares retos.\nAtrito na parede da aorta e do cano é desprezível.\n=3\nb) A figura representa a pressão do sangue em seu percurso ao longo do sistema circulatório da baleia. As letras\nA, B, C, D e E correspondem a diferentes vasos sanguíneos.\nQuais são as letras que correspondem, respectivamente, à aorta e às grandes veias?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 106,
+   "imagem": "img/fuvest-2017-2f-d2-q106.webp",
+   "texto": "06\nUma determinada malformação óssea de mãos e pés tem herança autossômica dominante. Entretanto, o alelo\nmutante que causa essa alteração óssea não se manifesta em 30% das pessoas heterozigóticas, que, portanto,\nnão apresentam os defeitos de mãos e pés.\nConsidere um casal em que a mulher é heterozigótica e apresenta essa alteração óssea, e o homem é\nhomozigótico quanto ao alelo normal.\na) Que genótipos podem ter as crianças clinicamente normais desse casal? Justifique sua resposta.\nb) Qual é a probabilidade de que uma criança que esse casal venha a ter não apresente as alterações de mãos\ne pés? Justifique sua resposta.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 107,
+   "imagem": "img/fuvest-2017-2f-d2-q107.webp",
+   "texto": "07\nO gráfico ilustra estimativas das áreas continentais ocupadas por ecossistemas terrestres naturais (floresta\nprimária e campos naturais), por ecossistemas de uso humano (floresta secundária e silvicultura, áreas de\npastagem e lavouras), pela água em estado líquido, pelo gelo, além de outras áreas terrestres, desde o século\nXIV até o final do século XX. Observa  se que, a partir da Revolução Industrial, iniciada em meados do século XVIII,\na extensão das áreas ocupadas por esses ecossistemas sofreu alterações.\na) “A redução de áreas de florestas primárias, a partir da Revolução Industrial, deveu  se majoritariamente à\nexpansão das áreas de lavoura no mundo”. Os dados representados no gráfico apoiam essa afirmação?\nJustifique sua resposta.\nb) Mantidas as condições ambientais deste início do século XXI, o que se pode prever, quanto à área ocupada\npelo gelo, no final do século?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 108,
+   "imagem": "img/fuvest-2017-2f-d2-q108.webp",
+   "texto": "08\nAs origens da oposição dos britânicos à União Europeia (UE), que estão na justificativa do Brexit, remontam ao\nfato de que, historicamente, eles nunca abraçaram uma identidade europeia. O Brexit representa um duro golpe\nao projeto de integração europeu cujas origens datam do pós Segunda Guerra Mundial.\nBBC Brasil, junho de 2016. Adaptado.\na) Aponte e explique o contexto geopolítico relacionado à origem do projeto de integração europeia.\nb) Aponte um motivo de ordem econômica e outro de ordem social relacionados ao interesse dos britânicos na\nsaída da UE.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 109,
+   "imagem": "img/fuvest-2017-2f-d2-q109.webp",
+   "texto": "09\nAs imagens mostram a situação do local da Barragem de Fundão, em Mariana/MG, antes e depois do acidente\nde 05 de novembro de 2015. Essa ocorrência consistiu no rompimento da barragem, que resultou em mortes e\nna liberação de milhões de toneladas de lama, que acabaram por atingir o distrito de Bento Rodrigues, no vale\ndo rio Doce.\na) Do ponto de vista econômico, qual é a importância da região de Mariana/MG onde se encontrava a referida\nbarragem? Explique, apontando dois exemplos.\nb) Indique uma consequência do acidente em relação ao meio ambiente e outra quanto ao impacto social no\nvale do rio Doce.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 110,
+   "imagem": "img/fuvest-2017-2f-d2-q110.webp",
+   "texto": "10\nDurante as obras relativas ao projeto urbanístico Porto Maravilha, na zona portuária do Rio de Janeiro, foram\nencontradas, na escavação da área, as lajes de pedra do antigo Cais do Valongo. Esse cais de pedra foi construído\nno local que era utilizado para o desembarque de africanos escravizados desde o século XVIII. Quase um quarto\nde todos os africanos escravizados nas Américas chegou pelo Rio de Janeiro, podendo esta cidade ser\nconsiderada o maior porto escravagista do mundo.\na) Considerando as atividades econômicas importantes do século XVIII que utilizavam predominantemente mão\nde obra escravizada, escreva, na legenda do mapa da página de respostas, duas dessas atividades e as localize\nno mapa utilizando os números I e II.\nb) Indique dois motivos que explicam por que, no Brasil, durante o período colonial, a mão de obra escravizada\ndos indígenas foi substituída pela mão de obra escravizada dos africanos.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 111,
+   "imagem": "img/fuvest-2017-2f-d2-q111.webp",
+   "texto": "11\nO gráfico mostra a progressão da\npopulação humana ao longo do tempo\nem relação aos sistemas agrários no\nmundo.\nA partir do gráfico,\na) compare o crescimento demográfico\nocorrido após a Revolução agrícola\nneolítica com o crescimento\ndemográfico da Revolução agrícola\nda Idade Média e explique a\ndiferença entre ambos;\nb) comente os dados do gráfico\nsegundo os princípios da teoria\ndemográfica malthusiana.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 112,
+   "imagem": "img/fuvest-2017-2f-d2-q112.webp",
+   "texto": "12\nCanção do exílio\nCanto do regresso à pátria\nMinha terra tem palmeiras,\nMinha terra tem palmares\nOnde canta o Sabiá;\nOnde gorjeia o mar\nAs aves que aqui gorjeiam,\nOs passarinhos daqui\nNão gorjeiam como lá.\nNão cantam como os de lá\nNosso céu tem mais estrelas,\nMinha terra tem mais rosas\nNossas várzeas têm mais flores,\nE quase que mais amores\nNossos bosques têm mais vida,\nMinha terra tem mais ouro\nNossa vida mais amores.\nMinha terra tem mais terra\n[...]\n[...]\nNão permita Deus que eu morra,\nNão permita Deus que eu morra\nSem que eu volte para lá;\nSem que volte pra São Paulo\nSem que desfrute os primores\nSem que veja a Rua 15\nQue não encontro por cá;\nE o progresso de São Paulo.\nSem qu’inda aviste as palmeiras,\nOswald de Andrade, Pau  Brasil.\nOnde canta o Sabiá.\nGonçalves Dias, Primeiros cantos.\na) Considerando que os poemas foram escritos, respectivamente, em 1843 e 1924, caracterize seus contextos\nhistóricos sob os pontos de vista político e social.\nb) Comparando os dois poemas, indique uma diferença estética e uma diferença ideológica entre ambos.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 113,
+   "imagem": "img/fuvest-2017-2f-d2-q113.webp",
+   "texto": "13\nUm caminhão deve transportar, em uma única viagem, dois materiais diferentes,  e , cujos volumes em m 3\nsão denotados por  e  , respectivamente. Sabe  se que todo o material transportado será vendido. A densidade\ndesses materiais e o lucro por unidade de volume na venda de cada um deles são dados na tabela a seguir.\nMaterial\nDensidade\nLucro\n\n125 kg/m 3\nR$ 120,00/m 3\n\n400 kg/m 3\nR$ 240,00/m 3\nPara realizar esse transporte, as seguintes restrições são impostas:\no volume total máximo de material transportado deve ser de 50 m 3 ;\nI.\nII. a massa total máxima de material transportado deve ser de 10 toneladas.\nConsiderando essas restrições:\na) esboce, no plano cartesiano preparado na página de respostas, a região correspondente aos pares (  ,  ) de\nvolumes dos materiais  e que podem ser transportados pelo caminhão;\nb) supondo que a quantidade transportada do material seja exatamente 10 m 3 , determine a quantidade de\nmaterial  que deve ser transportada para que o lucro total seja máximo;\nc) supondo que a quantidade total de material transportado seja de 36 m 3 , determine o par (  ,  ) que maximiza\no lucro total.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 114,
+   "imagem": "img/fuvest-2017-2f-d2-q114.webp",
+   "texto": "14\nUm balão  sobe verticalmente com aceleração constante de\n2 m/s 2 a partir de um ponto  localizado no solo a 36 m de um\nobservador , que permanece em repouso no solo. A medida\nem radianos do ângulo de elevação do balão em relação ao\n .\nobservador no instante é denotada por\nSabe  se que a massa do balão é de 90 kg.\na) Supondo que as forças que determinam o movimento do\nbalão sejam o seu peso e o empuxo, calcule o volume do\nbalão.\nb) Suponha que, no instante   , o balão se encontre no ponto  e que sua velocidade seja nula. Determine\n\n\n   e o instante  em que   .\na velocidade média do balão entre o instante  em que\n\n\nAdote:\nAceleração da gravidade: 10 m/s 2\nDensidade do ar: 1,2 kg/m 3",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 115,
+   "imagem": "img/fuvest-2017-2f-d2-q115.webp",
+   "texto": "15\nUm atleta de peso 700 N corre 100 metros rasos em 10 segundos. Os gráficos dos módulos da sua velocidade\nhorizontal, v, e da sua aceleração horizontal, a, ambas em função do tempo t, estão na página de respostas.\nDetermine\na) a distância d que o atleta percorreu durante os primeiros 7 segundos da corrida;\nb) o módulo F da componente horizontal da força resultante sobre o atleta no instante t = 1 s;\nc) a energia cinética E do atleta no instante t = 10 s;\nd) a potência mecânica média P utilizada, durante a corrida, para acelerar o atleta na direção horizontal.\nNote e adote:\nAceleração da gravidade = 10 m/s 2",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 116,
+   "imagem": "img/fuvest-2017-2f-d2-q116.webp",
+   "texto": "16\nA determinação da massa da molécula de insulina é parte do estudo de sua estrutura. Para medir essa massa, as\nmoléculas de insulina são previamente ionizadas, adquirindo, cada molécula, a carga de um elétron. Esses íons\n(  ) são liberados com velocidade inicial nula a partir de uma amostra submetida a um potencial V = 20 kV. Os\níons são acelerados devido à diferença de potencial entre a amostra e um tubo metálico, em potencial nulo, no\nqual passam a se mover com velocidade constante. Para a calibração da medida, adiciona  se à amostra um\nmaterial padrão cujas moléculas também são ionizadas, adquirindo, cada uma, a carga de um elétron; esses íons\n(  ) têm massa conhecida igual a 2846 u. A situação está esquematizada na figura.\na) Determine a energia cinética E dos íons, quando estão dentro do tubo.\nO gráfico na página de respostas mostra o número N de íons em função do tempo t despendido para percorrerem\no comprimento L do tubo. Determine\nb) a partir dos tempos indicados no gráfico, a razão R =\nentre os módulos das velocidades  , de um íon de\n\ninsulina, e  , de um íon  , em movimento dentro do tubo;\n\n , respectivamente, de um íon de insulina e de um íon  ;\nc) a razão R  =\nentre as massas\n e\n\nd) a massa\n de um íon de insulina, em unidades de massa atômica (u).\nNote e adote:\nA amostra e o tubo estão em vácuo.\nu = unidade de massa atômica.\nCarga do elétron: e = 1,6 10  19 C\n1  s = 10  6 s",
+   "gabarito": "discursiva"
+  }
+ ]
+}

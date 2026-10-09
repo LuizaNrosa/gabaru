@@ -1,0 +1,552 @@
+{
+ "id": "fuvest-2022-1f",
+ "banca": "FUVEST",
+ "exame": "Vestibular FUVEST",
+ "ano": 2022,
+ "dia": null,
+ "fase": 1,
+ "descricao": "1ª fase, Conhecimentos Gerais, caderno V (múltipla escolha). Gabarito oficial do caderno V.",
+ "total": 90,
+ "questoes": [
+  {
+   "numero": 1,
+   "imagem": "img/fuvest-2022-1f-q001.webp",
+   "texto": "01\nA deficiência na enzima G6PD é uma condição recessiva ligada\nao cromossomo X, que pode ser diagnosticada no teste do\npezinho expandido. Pessoas com deficiência nesta enzima são\nsuscetíveis à anemia hemolítica ao serem expostas à\ncloroquina ou primaquina, drogas amplamente prescritas por\nmédicos no tratamento da malária. No Brasil, a prevalência de\ndeficiência em G6PD na população geral varia de acordo com\nas áreas mostradas no mapa:\nDombrowski, J G et al. (2017), Malar J, 16:253, doi:10.1186/s12936-017-\n1889-6 e Monteiro, W M et al. (2014), Mem Inst Oswaldo Cruz, 109:5, 553-\n568, doi:10.1590/0074-0276140123. Adaptados.\nIndique a afirmação correta sobre a segurança da prescrição\nde cloroquina nesse contexto.\n(A) Não é necessário fazer o teste do pezinho expandido em\nfilhos de casais da região Nordeste do Brasil que\napresentem deficiência da G6PD, já que menos de 3% dos\ntestes serão positivos.\n(B) Aproximadamente 8,5 milhões de pessoas da região\nCentro-Oeste do Brasil têm somente um alelo recessivo\npara a deficiência em G6PD, sendo assintomáticas.\n(C) Cerca de 900 mil pessoas da região Norte do Brasil podem\ndesenvolver anemia hemolítica devido ao tratamento com\ncloroquina, sendo a maioria do sexo masculino.\n(D) Descendentes de casais que não apresentam deficiência\nem G6PD têm mais de 25% de chance de possuírem o alelo\nrecessivo e podem ser tratados com cloroquina em áreas\nonde a malária não seja endêmica.\n(E) Os pacientes do sexo masculino devem ser investigados\nquanto à presença de anemia hemolítica na família\npaterna caso vivam em regiões onde a malária é\nendêmica.\nNote e adote:\nPopulação de três regiões brasileiras: Norte = 18 milhões; Nordeste = 58\nmilhões; Centro-Oeste = 17 milhões.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 2,
+   "imagem": "img/fuvest-2022-1f-q002.webp",
+   "texto": "02\nPor mais bem informado que você possa ser, não dá para\nbaixar a guarda. Mas por que as notícias falsas – mesmo\naquelas mais improváveis – parecem tão convincentes para\ntantas pessoas? Van Bavel, professor de psicologia e ciência\nneural da Universidade de Nova York, se especializou em\nentender como as crenças políticas e identidades de grupo\ninfluenciam a mente, e descobriu que a identificação com\nposições políticas pode interferir em como o cérebro processa\nas informações.\nTendemos a rejeitar fatos que ameaçam nosso senso de\nidentidade e sempre buscar informações que confirmem\nnossas próprias crenças, seja por meio de memórias seletivas,\nleituras de fontes que estão do nosso lado ou mesmo\ninterpretando os fatos de determinada maneira. Isso tudo\nestá relacionado a não querermos ter nossas ideias, gostos,\nidentidade questionados, e por isso temos dificuldade em\naceitar o que contradiz aquilo em que acreditamos.\nAna Prado. “A ciência explica por que caímos em fake news”.\nSuperinteressante. 15/06/2018. Adaptado.\nDe acordo com o texto,\n(A) as pessoas bem informadas estão protegidas de\npolêmicas, uma vez que o modo como processam os fatos\ntornam suas opiniões mais convincentes.\n(B) o posicionamento político garante a disseminação de\nnotícias verdadeiras e resulta de crenças já estabelecidas\nsocialmente.\n(C) a rejeição a questionamentos impede que se admitam\npontos de vista antagônicos, em razão da tendência de se\nconfirmar crenças pessoais.\n(D) as memórias seletivas auxiliam na rejeição de fatos\ncontrários à realidade, já que conduzem à interpretação\ndas reportagens de modo imparcial.\n(E) os fatos hostis normalmente são preteridos por grande\nparte da sociedade, embora sejam utilizados como\nidentificador cultural.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 3,
+   "imagem": "img/fuvest-2022-1f-q003.webp",
+   "texto": "03\nNas histórias em quadrinhos, o Pantera Negra ganha\nhabilidades físicas e mentais sobre-humanas ao ingerir ou\naplicar sobre seu corpo uma solução da erva em formato de\ncoração, cujos efeitos perduram durante a vida do herói, mas\nnão são transmitidos aos descendentes. Essa planta cresce em\nWakanda, região da África equatorial oriental, onde um\nmeteorito contendo um metal chamado Vibranium caiu há 10\nmil anos e provocou mutações na planta. Uma explicação\ncoerente com o conhecimento científico para o que ocorreu\nnessa situação ficcional é que a erva\n(A) sofreu mutações em células somáticas pela ação do\nVibranium na época em que o meteorito atingiu Wakanda.\n(B) promoveu mutações no RNA das células do Pantera Negra.\n(C) provocou mutações dominantes relacionadas aos super-\npoderes nas células germinativas do Pantera Negra.\n(D) é uma planta característica de ambientes de tundra.\n(E) estava em estação de floração quando o meteorito caiu,\ncausando mutações em suas células germinativas.\nV",
+   "gabarito": "E"
+  },
+  {
+   "numero": 4,
+   "imagem": "img/fuvest-2022-1f-q004.webp",
+   "texto": "04\nDisponível em http://www.malvados.com.br/.\nConsiderando a ironia da tirinha, é possível inferir que\n(A) o serviço de transporte público é gerido pelo Estado.\n(B) a qualidade do transporte é uma forma de punição.\n(C) os responsáveis pelo transporte são punidos no Brasil.\n(D) o brasileiro é um povo que tolera a criminalidade.\n(E) o transporte público é responsável pela mobilidade urbana.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 5,
+   "imagem": "img/fuvest-2022-1f-q005.webp",
+   "texto": "05\nO gráfico mostra dados coletados na cidade do Rio de Janeiro,\nentre fevereiro e abril de 2020, período que inclui o início das\nmedidas de restrição de circulação na cidade por causa da\npandemia de COVID-19. Para cada dia, representado por um\nsímbolo no gráfico, foram coletadas duas grandezas: uma média\nda energia de vibração sísmica durante o dia (na abscissa) e o índice\n𝐹 (na ordenada), que é a fração de pessoas que saiu de casa\nalguma vez naquele dia. A energia sísmica média foi medida em\n(nm/s) 2 na faixa de frequências que tem causas humanas. Os\ntriângulos representam domingos e feriados; os quadrados\nreferem-se aos sábados; e os círculos correspondem aos dias úteis\nda semana. Para cada um desses subconjuntos de dados, uma reta\nmédia foi obtida, expressando a relação aproximada entre as duas\ngrandezas medidas.\nDias, F L et al. (2020), Geophysical Research Letters, 47:16,\ndoi:10.1029/2020GL088748. Adaptado.\nSobre o estudo descrito, o que é possível inferir a partir dos dados\napresentados?\n(A) Em nenhum sábado, a energia sísmica média registrada\nsuperou 380 (nm/s) 2 .\n(B) Em todos os dias úteis da semana, pelo menos 20% das pessoas\npermaneceram o tempo todo em casa.\n(C) Em alguns dos dias de domingo ou feriado, a energia sísmica\nmédia foi maior do que 600 (nm/s) 2 .\n(D) Em dias úteis da semana, a energia sísmica média foi maior ou\nigual do que em sábados, domingos e feriados, para o mesmo\nnúmero de pessoas que saiu de casa em um dia.\n(E) Aos sábados, uma medição de energia sísmica média de\n190 (nm/s) 2 indica que mais de 60% das pessoas saíram de casa\nnesse dia.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 6,
+   "imagem": "img/fuvest-2022-1f-q006.webp",
+   "texto": "06\nOs mapas mostram uma parte do município de São Paulo. O\nmapa I refere-se à população vacinada contra Sars-Cov-2; o\nmapa II refere-se à taxa de mortalidade por COVID-19; e o\nmapa III refere-se ao Índice de Desenvolvimento Humano.\nTons mais claros indicam valores menores e tons mais\nescuros, valores maiores.\nDisponível em https://www.labcidade.fau.usp.br/. Maio/2021. Adaptado.\nA partir desses dados, é correto afirmar que\n(A) a efetividade da campanha de vacinação coincide com as\náreas de maior IDH.\n(B) a virulência das variantes de Sars-Cov-2 é menor em áreas\nde menor IDH.\n(C) as vacinas em áreas de menor IDH demandam maior\ntempo para a resposta imunológica do indivíduo.\n(D) a taxa de mortalidade varia porque a população no centro\ndo município é maior e mais agregada.\n(E) a prevalência das variantes de Sars-Cov-2 é maior em áreas\nde maior IDH.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 7,
+   "imagem": "img/fuvest-2022-1f-q007.webp",
+   "texto": "07\nUm aumento no consumo de água e produtos agrícolas por\nparte da população brasileira geralmente vem atrelado a um\naumento na pressão exercida sobre o meio ambiente.\nSelecione a alternativa que apresenta duas soluções\nsustentáveis, de amplo alcance nacional e economicamente\nviáveis, para diminuir a expansão dos cultivos sobre a\nvegetação nativa e para garantir recursos hídricos de\nqualidade para as gerações futuras.\nI - Aumento da exportação de produtos agrope-\ncuários.\n(A)\nII - Criação em larga escala de represas de pequeno\nporte.\nI - Aumento progressivo da produtividade dos\ncultivos já existentes.\n(B)\nII - Programa amplo de preservação de matas\nciliares.\nI - Diminuição do comércio interno de produtos\nagrícolas.\n(C)\nII - Aumento da utilização dos aquíferos para abas-\ntecimento dos cultivos.\nI - Aumento da exportação de produtos agrope-\ncuários.\n(D)\nII - Programa amplo de preservação de matas\nciliares.\nI - Diminuição do comércio interno de produtos\nagrícolas.\n(E)\nII - Criação em larga escala de represas de pequeno\nporte.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 8,
+   "imagem": "img/fuvest-2022-1f-q008.webp",
+   "texto": "08\nOs gráficos mostram três trajetórias distintas com relação ao\nnúmero de espécies animais e vegetais, após desmatamento\nde áreas da floresta Amazônica:\nApós os desmatamentos, os gráficos I, II e III correspondem,\nrespectivamente, a uma área que foi\n(A) usada para pastagem e depois para cultivo de soja; usada\npara cultivo de soja nos primeiros 20 anos e depois\nabandonada; abandonada logo após o desmatamento.\n(B) abandonada logo após o desmatamento; usada como\npastagem nos primeiros 20 anos e depois abandonada;\nusada para pastagem e depois para cultivo de soja.\n(C) usada como pastagem nos primeiros 20 anos e depois\nabandonada; abandonada logo após o desmatamento;\nusada para pastagem e depois para cultivo de soja.\n(D) usada como pastagem nos primeiros 20 anos e depois\nabandonada; usada para pastagem e depois para cultivo\nde soja; abandonada logo após o desmatamento.\n(E) usada para pastagem e depois para cultivo de soja;\nabandonada logo após o desmatamento; usada para cultivo\nde soja nos primeiros 20 anos e depois abandonada.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 9,
+   "imagem": "img/fuvest-2022-1f-q009.webp",
+   "texto": "09\nO gráfico representa o volume celular de um protozoário ciliado\nem um gradiente de salinidade:\nA partir desses dados, é correto afirmar que o protozoário\nciliado é\n(A) de água salobra e seu equilíbrio osmótico ocorre por difusão\npassiva em ambientes hiposmóticos.\n(B) de água doce e possui mecanismos de controle osmótico em\nambientes hiperosmóticos.\n(C) marinho e possui mecanismos de controle osmótico em\nambientes hiperosmóticos.\n(D) de água doce e não possui mecanismos de controle osmótico\nem ambientes hiposmóticos.\n(E) marinho e não possui mecanismos de controle osmótico em\nambientes hiposmóticos.\nNote e adote:\nO volume celular do ciliado em seu habitat natural é o referencial 1.\n0% corresponde a água doce pura.\nV",
+   "gabarito": "E"
+  },
+  {
+   "numero": 10,
+   "imagem": "img/fuvest-2022-1f-q010.webp",
+   "texto": "10\nO gráfico mostra linhas de tendência de cinco parâmetros da\nágua (eixo y), medidos por pesquisadores, durante os estágios\niniciais do processo de eutrofização de uma lagoa, a partir do\nmomento em que começou a haver aporte de esgoto não\ntratado e antes de haver a estabilização do sistema.\nEntretanto, os técnicos da companhia de saneamento\nnotaram que nem todas as tendências mostradas no gráfico\nestão corretas.\nSão corretas apenas as linhas de tendência representadas em\n(A) 1, 2 e 3.\n(B) 1, 2 e 4.\n(C) 2, 3 e 5.\n(D) 2, 4 e 5.\n(E) 3, 4 e 5.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 11,
+   "imagem": "img/fuvest-2022-1f-q011.webp",
+   "texto": "11\nO gráfico representa a proporção de células em diferentes\nfases do ciclo celular de dois tecidos humanos (1 e 2), bem\ncomo o efeito do tratamento do tecido 2 com uma substância\nque afeta a divisão celular:\nOs tecidos 1 e 2 e uma aplicação médica do efeito do\ntratamento são, respectivamente:\n(A) muscular, tumoral e quimioterapia.\n(B) ósseo, ovariano e fertilização in vitro.\n(C) nervoso, tumoral e transplante.\n(D) epitelial, ósseo e transfusão sanguínea.\n(E) tumoral, nervoso e radioterapia.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 12,
+   "imagem": "img/fuvest-2022-1f-q012.webp",
+   "texto": "12\nAnalise o esquema e as estruturas (X, Y e Z) da planta para\ncompletar a frase a seguir.\nÀs 14h de um dia ensolarado, em condições hídricas ótimas, a\nestrutura identificada por _I_ encontra-se _II_, possibilitando\na absorção de água do solo e entrada de CO 2 , que é utilizado\npela estrutura representada por _III_ para realização da\nfotossíntese.\nAs lacunas I, II e III podem ser preenchidas corretamente por:\nI\nII\nIII\n(A)\nZ\naberta\nY\n(B)\nZ\nfechada\nX\n(C)\nY\nvazia\nX\n(D)\nX\ncheia\nZ\n(E)\nX\nvazia\nY",
+   "gabarito": "A"
+  },
+  {
+   "numero": 13,
+   "imagem": "img/fuvest-2022-1f-q013.webp",
+   "texto": "13\nO esquema a seguir representa o aparecimento de bactérias\nmutantes em uma colônia e o resultado de sua exposição a\nquatro diferentes condições de cultura:\nDisponível em https://edepot.wur.nl/376546/. Adaptado.\nAssinale a alternativa com a relação correta entre as mutações\ne as condições de cultura.\n(A) A mutação X inativa os transportadores de glicose, e a\ncondição I tem esse açúcar como fonte exclusiva de carbono.\nV\n(B) A mutação X promove melhor eficiência do equilíbrio\nosmótico, e a condição III tem alta salinidade.\n(C) A mutação Y confere resistência ao antibiótico penicilina, e\no meio de cultura da condição II contém esse antibiótico.\n(D) As mutações X e Y conferem vantagem adaptativa às\nbactérias na condição IV.\n(E) A frequência de novas mutações será maior na condição IV.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 14,
+   "imagem": "img/fuvest-2022-1f-q014.webp",
+   "texto": "14\nO quadrinho a seguir mostra uma paródia entre situações\ncotidianas e descobertas científicas.\nQuais feitos científicos de Mendeleev, de Watson e Crick e de\nThomson estão relacionados com o quadrinho?\n(A) Proposição de um modelo atômico, descoberta da\nestrutura dos polímeros, descoberta da radioatividade.\n(B) Organização dos elementos químicos em uma Tabela\nPeriódica, descoberta da estrutura do DNA, proposição de\num modelo atômico.\n(C) Compreensão da reatividade dos elementos químicos,\nrepresentação simbólica dos elementos, descoberta das\ninterações moleculares.\n(D) Definição de entalpia, representação simbólica dos\nelementos, caracterização e propriedades dos coloides.\n(E) Balanceamento de equações químicas, descoberta da\npilha, organização dos elementos químicos em uma Tabela\nPeriódica.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 15,
+   "imagem": "img/fuvest-2022-1f-q015.webp",
+   "texto": "15\nNo texto do filósofo francês Maurice Merleau-Ponty é\nestabelecida uma conexão entre as relações sociais e a\nracionalidade dos indivíduos:\nA sociedade humana não é uma comunidade de espíritos\nracionais, só se pode compreendê-la assim nos países\nfavorecidos, em que o equilíbrio vital e econômico foi obtido\nlocalmente e por certo tempo.\nMaurice Merleau-Ponty, Fenomenologia da percepção, p.89.\nQual sentença, se tomada como verdadeira, reforça a posição\nexprimida pelo filósofo no trecho?\n(A) A racionalidade é uma potência espiritual que se impõe\nsobre as circunstâncias históricas.\n(B) O equilíbrio vital e econômico é uma força irracional que\nse contrapõe aos espíritos racionais.\n(C) Nos países favorecidos, as pessoas são naturalmente mais\nracionais.\n(D) A racionalidade das relações sociais depende da estabilidade\nde circunstâncias históricas.\n(E) Os espíritos racionais são responsáveis pelo equilíbrio vital\ne econômico dos países favorecidos.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 16,
+   "imagem": "img/fuvest-2022-1f-q016.webp",
+   "texto": "16\nA figura sintetiza, de forma simplificada, a variação da pressão\nsanguínea (mmHg), da velocidade de circulação sanguínea\n(cm/s) e da área total (cm 2 ) em relação aos diversos tipos de\nvasos do sistema sanguíneo humano (artérias, arteríolas,\ncapilares, vênulas e veias):\nCom base na figura, é correto afirmar que\n(A) a velocidade aumenta nas vênulas, o que permite às\nhemoglobinas descarregarem o O 2 .\n(B) a pressão sanguínea cai nos capilares, vênulas e veias pela\npresença de válvulas nesses vasos.\n(C) a pressão diminui a partir dos capilares, o que evita\nacidentes vasculares em vasos menores.\n(D) a área aumenta na região dos capilares, o que permite\nmaior eficiência nas trocas gasosas.\n(E) a velocidade é inversamente proporcional à área por conta\ndo batimento sistólico do coração.\nTEXTO PARA AS QUESTÕES 17 E 18",
+   "gabarito": "D"
+  },
+  {
+   "numero": 17,
+   "imagem": "img/fuvest-2022-1f-q017.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 17 E 18\nNo modelo hegemônico, quase todo o treinamento é\nreservado para o desenvolvimento muscular, sobrando muito\npouco tempo para a mobilidade, a flexibilidade, o treino\nrestaurativo, o relaxamento e o treinamento cardiovascular. Na\nteoria, seria algo em torno de 70% para o fortalecimento, 20%\npara o cárdio e 10% para a flexibilidade e outros. Na prática,\nmuitos alunos direcionam 100% do tempo para o fortalecimento.\nComo a prática cardiovascular é infinitamente mais\nsignificativa e determinante para a nossa saúde orgânica como\num todo, podendo ser considerada o “coração” de um\ntreinamento consciente e saudável, essa ordem deveria ser\nrevista.\nNuno Cobra Jr. “Fitness não é saúde”. Uol. 06/05/2021. Adaptado.\nV\n17\nSem alteração de sentido, o segundo parágrafo do texto\npoderia ser reescrito da seguinte maneira:\n(A) Ainda que a prática cardiovascular seja infinitamente mais\nsignificativa e determinante para a nossa saúde orgânica\ncomo um todo, essa ordem deveria ser revista, podendo\nser considerada o “coração” de um treinamento\nconsciente e saudável.\n(B) Para evitar que a prática cardiovascular se torne\ninfinitamente mais significativa e determinante para a\nnossa saúde orgânica como um todo, podendo ser\nconsiderada o “coração” de um treinamento consciente e\nsaudável, essa ordem deveria ser revista.\n(C) Quando a prática cardiovascular for infinitamente mais\nsignificativa e determinante para a nossa saúde orgânica\ncomo um todo, essa ordem deveria ser revista, podendo\nser considerada o “coração” de um treinamento\nconsciente e saudável.\n(D) Quanto mais a prática cardiovascular é infinitamente mais\nsignificativa e determinante para a nossa saúde orgânica\ncomo um todo, podendo ser considerada o “coração” de\num treinamento consciente e saudável, essa ordem\ndeveria ser revista.\n(E) Essa ordem deveria ser revista: a prática cardiovascular é\ninfinitamente mais significativa e determinante para a\nnossa saúde orgânica como um todo, podendo ser\nconsiderada o “coração” de um treinamento consciente e\nsaudável.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 18,
+   "imagem": "img/fuvest-2022-1f-q018.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 17 E 18\nNo modelo hegemônico, quase todo o treinamento é\nreservado para o desenvolvimento muscular, sobrando muito\npouco tempo para a mobilidade, a flexibilidade, o treino\nrestaurativo, o relaxamento e o treinamento cardiovascular. Na\nteoria, seria algo em torno de 70% para o fortalecimento, 20%\npara o cárdio e 10% para a flexibilidade e outros. Na prática,\nmuitos alunos direcionam 100% do tempo para o fortalecimento.\nComo a prática cardiovascular é infinitamente mais\nsignificativa e determinante para a nossa saúde orgânica como\num todo, podendo ser considerada o “coração” de um\ntreinamento consciente e saudável, essa ordem deveria ser\nrevista.\nNuno Cobra Jr. “Fitness não é saúde”. Uol. 06/05/2021. Adaptado.\nV\n18\nDentre as expressões destacadas, a que exerce a mesma função\nsintática do termo sublinhado em “o treino restaurativo, o\nrelaxamento e o treinamento cardiovascular” é:\n(A) um atleta de seleção precisa de treinamento intenso.\n(B) o amor ao esporte é fundamental para o atleta.\n(C) a população incorpora radicalmente atitudes saudáveis.\n(D) muitas pessoas se beneficiam de alimentos verdes.\n(E) todo tipo de atividade física faz bem à saúde mental.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 19,
+   "imagem": "img/fuvest-2022-1f-q019.webp",
+   "texto": "19\nPor narrativas paralelas entende-se um procedimento literário\nsegundo o qual dois ou mais fios narrativos pertencentes a níveis\ndistintos de realidade se desenrolam intercaladamente formando\num todo. Considerando-se a sua estrutura, as duas narrativas que\npodem ser identificadas com base nessa definição são:\n(A) Quincas Borba e Nove noites\n(B) Campo geral e Terra sonâmbula\n(C) Angústia e Campo geral\n(D) Nove noites e Terra sonâmbula\n(E) Quincas Borba e Angústia\nLEIA OS SEGUINTES TEXTOS DE MACHADO DE ASSIS PARA\nRESPONDER ÀS QUESTÕES DE 20 A 22:\nI.\nSuave mari magno*\nLembra-me que, em certo dia,\nNa rua, ao sol de verão,\nEnvenenado morria\nUm pobre cão.\nArfava, espumava e ria,\nDe um riso espúrio e bufão,\nVentre e pernas sacudia\nNa convulsão.\nNenhum, nenhum curioso\nPassava, sem se deter,\nSilencioso,\nJunto ao cão que ia morrer,\nComo se lhe desse gozo\nVer padecer.\nMachado de Assis. Ocidentais.\n*Expressão latina, retirada de Lucrécio (Da natureza das coisas), a\nqual aparece no seguinte trecho: Suave, mari magno, turbantibus\naequora ventis/ E terra magnum alterius spectare laborem. (“É\nagradável, enquanto no mar revoltoso os ventos levantam as águas,\nobservar da terra os grandes esforços de um outro.”).\nII.\nTão certo é que a paisagem depende do ponto de vista, e\nque o melhor modo de apreciar o chicote é ter-lhe o cabo\nna mão.\nMachado de Assis. Quincas Borba, cap. XVIII.\nIII.\nSofia soltou um grito de horror e acordou. Tinha ao pé do\nleito o marido:\n– Que foi? perguntou ele.\n– Ah! respirou Sofia. Gritei, não gritei?\n(...)\n– Sonhei que estavam matando você.\nPalha ficou enternecido. Havê-la feito padecer por ele,\nainda que em sonhos, encheu-o de piedade, mas de uma\npiedade gostosa, um sentimento particular, íntimo,\nprofundo, – que o faria desejar outros pesadelos, para que\no assassinassem aos olhos dela, e para que ela gritasse\nangustiada, convulsa, cheia de dor e de pavor.\nMachado de Assis. Quincas Borba, cap. CLXI.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 20,
+   "imagem": "img/fuvest-2022-1f-q020.webp",
+   "texto": "20\nA visão do eu-lírico no texto I\n(A) volta-se nostálgica para as imagens de uma lembrança.\n(B) centra-se com desprezo na figura do animal agonizante.\n(C) apreende displicentemente o movimento dos transeuntes.\n(D) ganha distância da cena para captar todos os seus aspectos.\n(E) apresenta o espectador da crueldade como um ser incomum.\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 21,
+   "imagem": "img/fuvest-2022-1f-q021.webp",
+   "texto": "21\nA analogia consiste em um recurso de expressão comumente\nutilizado para ilustrar um raciocínio por meio da semelhança\nque se observa entre dois fatos ou ideias. No texto II, a\nanalogia construída a partir da imagem do chicote pretende\nsugerir que\n(A) o instrumento do castigo nem sempre cai em mãos justas.\n(B) o apreço aos objetos independe do uso que se faz deles.\n(C) o cabo é metáfora de mérito, e a ponta, metáfora de culpa.\n(D) o mais fraco, por ser compassivo, é incapaz de desfrutar do\npoder.\n(E) o prazer verdadeiro se experimenta no lado dos dominantes.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 22,
+   "imagem": "img/fuvest-2022-1f-q022.webp",
+   "texto": "22\nNo texto III, ao analisar a interioridade de Palha, o narrador\ndescobre, no pensamento oculto do negociante,\n(A) a ternura que lhe inspira a mulher, capaz de toda abnegação.\n(B) a piedade que lhe causa a mulher, a quem só guarda desprezo.\n(C) a vaidade que beira o sadismo, ao ver a mulher sofrer por ele.\n(D) o gozo vingativo, visto que a mulher o trai com Carlos Maria.\n(E) o remorso do infiel, pois ele trai a mulher com Maria Benedita.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 23,
+   "imagem": "img/fuvest-2022-1f-q023.webp",
+   "texto": "23\nLargo em sentir, em respirar sucinto,\nPeno, e calo, tão fino, e tão atento,\nQue fazendo disfarce do tormento\nMostro que o não padeço, e sei que o sinto.\nO mal, que fora encubro, ou que desminto,\nDentro no coração é que o sustento:\nCom que, para penar é sentimento,\nPara não se entender, é labirinto.\nNinguém sufoca a voz nos seus retiros;\nDa tempestade é o estrondo efeito:\nLá tem ecos a terra, o mar suspiros.\nMas oh do meu segredo alto conceito!\nPois não me chegam a vir à boca os tiros\nDos combates que vão dentro no peito.\nGregório de Matos e Guerra\nNo soneto, o eu lírico:\n(A) expressa um conflito que confirma a imagem pública do\npoeta, conhecido pelo epíteto de “o Boca do Inferno”.\n(B) opta por sufocar a própria voz como estratégia\napaziguadora de suas perturbações de foro íntimo.\n(C) explora a censura que o autor sofreu em sua época, ao ser\nimpedido de dar expressão aos seus sentimentos.\n(D) estabelece, nos tercetos, um contraponto semântico entre\nas metáforas da natureza e da guerra.\n(E) revela-se como um ser atormentado, ao mesmo tempo\nque omite a natureza de seu sofrimento.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 24,
+   "imagem": "img/fuvest-2022-1f-q024.webp",
+   "texto": "24\nNun´Álvares Pereira\nQue auréola te cerca?\nÉ a espada que, volteando,\nFaz que o ar alto perca\nSeu azul negro e brando.\nMas que espada é que, erguida,\nFaz esse halo no céu?\nÉ Excalibur, a ungida,\nQue o Rei Artur te deu.\n´Sperança consumada,\nS. Portugal em ser,\nErgue a luz da tua espada\nPara a estrada se ver!\nFernando Pessoa. In: “A Coroa”, Parte I, Mensagem.\nA primeira parte de Mensagem, organizada como um\ncorrelativo poético do Brasão das Armas de Portugal, perfila\numa série de figuras míticas e históricas que teriam sido\nresponsáveis pela formação nacional portuguesa. A seleção\nde Nun´Álvares Pereira para ocupar o lugar da Coroa\n(A) sugere, pela imagem do halo de luz, que a verdadeira\nnobreza é de espírito.\n(B) destaca, através da referência ao mito arturiano, o seu\nsangue bretão.\n(C) distingue, por meio do substantivo “´sperança”, um\nregente digno de seu posto.\n(D) enaltece, pela repetição da palavra espada, a guerra como\nestrada para o futuro.\n(E) indica, associada ao adjetivo “consumada”, uma visão\ndesenganada da história.\nTEXTO PARA AS QUESTÕES 25 E 26",
+   "gabarito": "A"
+  },
+  {
+   "numero": 25,
+   "imagem": "img/fuvest-2022-1f-q025.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 25 E 26\nA taxação de livros tem um efeito cascata que acaba\ncustando caro não apenas ao leitor, como também ao mercado\neditorial – que há anos não anda bem das pernas – e, em última\ninstância, ao desenvolvimento econômico do país. A gente\nexplica. Taxar um produto significa, quase sempre, um aumento\nno valor do produto final. Isso porque ao menos uma parte desse\nimposto será repassada ao consumidor, especialmente se\nconsiderarmos que as editoras e livrarias enfrentam há anos uma\ncrise que agora está intensificada pela pandemia e não poderiam\nretirar o valor desse imposto de seu já apertado lucro. Livros mais\ncaros também resultam em queda de vendas, que, por sua vez,\nenfraquece ainda mais editoras e as impede de investir em novas\npublicações – especialmente aquelas de menor apelo comercial,\nmas igualmente importantes para a pluralidade de ideias. Já deu\npara perceber a confusão, não é? Mas, além disso, qual seria o\ncusto de uma sociedade com menos leitores e menos livros?\nTaís Ilhéu. “Por que taxar os livros pode gerar retrocesso social e econômico\nno país”. Guia do Estudante. Setembro/2020. Adaptado.\nV\n25\nDe acordo com o texto, os eventos sequenciais aos quais\nalude a expressão “efeito cascata” são:\n(A) livros mais caros, decréscimo de vendas, estímulo às editoras,\nsupressão de investimento em novas publicações.\n(B) aumento do valor do produto final, queda de vendas,\nencolhimento das editoras, aumento do investimento em\nnovas obras.\n(C) livros mais caros, instabilidade nas vendas,\nenfraquecimento das editoras, expansão das publicações.\n(D) aumento do valor do produto final, contração nas vendas,\nesgotamento das editoras, falta de investimento em novas\npublicações.\n(E) livros mais caros, equilíbrio nas vendas, diminuição das\neditoras, carência de investimento em novas publicações.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 26,
+   "imagem": "img/fuvest-2022-1f-q026.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 25 E 26\nA taxação de livros tem um efeito cascata que acaba\ncustando caro não apenas ao leitor, como também ao mercado\neditorial – que há anos não anda bem das pernas – e, em última\ninstância, ao desenvolvimento econômico do país. A gente\nexplica. Taxar um produto significa, quase sempre, um aumento\nno valor do produto final. Isso porque ao menos uma parte desse\nimposto será repassada ao consumidor, especialmente se\nconsiderarmos que as editoras e livrarias enfrentam há anos uma\ncrise que agora está intensificada pela pandemia e não poderiam\nretirar o valor desse imposto de seu já apertado lucro. Livros mais\ncaros também resultam em queda de vendas, que, por sua vez,\nenfraquece ainda mais editoras e as impede de investir em novas\npublicações – especialmente aquelas de menor apelo comercial,\nmas igualmente importantes para a pluralidade de ideias. Já deu\npara perceber a confusão, não é? Mas, além disso, qual seria o\ncusto de uma sociedade com menos leitores e menos livros?\nTaís Ilhéu. “Por que taxar os livros pode gerar retrocesso social e econômico\nno país”. Guia do Estudante. Setembro/2020. Adaptado.\nV\n26\nNo texto, os pronomes\nem\nnegrito\nreferem-se,\nrespectivamente, a:\n(A) taxação de livros, mercado editorial, crise, queda de vendas.\n(B) taxação de livros, leitor, crise, queda de vendas.\n(C) efeito cascata, mercado editorial, crise, queda de vendas.\n(D) efeito cascata, mercado editorial, livrarias, livros.\n(E) efeito cascata, leitor, crise, livros.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 27,
+   "imagem": "img/fuvest-2022-1f-q027.webp",
+   "texto": "27\nChega um momento em que a tensão eu/mundo se exprime\nmediante uma perspectiva crítica, imanente à escrita, o que torna\no romance não mais uma variante literária da rotina social, mas\no seu avesso; logo, o oposto do discurso ideológico do homem\nmédio. O romancista “imitaria” a vida, sim, mas qual vida?\nAquela cujo sentido dramático escapa a homens e mulheres\nentorpecidos ou automatizados por seus hábitos cotidianos. A\nvida como objeto de busca e construção, e não a vida como\nencadeamento de tempos vazios e inertes. Caso essa pobre vida-\nmorte deva ser tematizada, ela aparecerá como tal, degradada,\nsem a aura positiva com que as palavras “realismo” e “realidade”\nsão usadas nos discursos que fazem a apologia conformista da\n“vida como ela é”... A escrita da resistência, a narrativa\natravessada pela tensão crítica, mostra, sem retórica nem alarde\nideológico, que essa “vida como ela é” é, quase sempre, o\nramerrão de um mecanismo alienante, precisamente o contrário\nda vida plena e digna de ser vivida.\nÉ nesse sentido que se pode dizer que a narrativa descobre a\nvida verdadeira, e que esta abraça e transcende a vida real. A\nliteratura, com ser ficção, resiste à mentira. É nesse horizonte que\no espaço da literatura, considerado em geral como lugar da\nfantasia, pode ser o lugar da verdade mais exigente.\nAlfredo Bosi. “Narrativa e resistência”. Adaptado.\nO conceito de resistência, expresso pela tensão do indivíduo\nperante o mundo, adquire perspectiva crítica na escrita do\nromance quando o autor\n(A) rompe a superfície enganosa da realidade.\n(B) forja um realismo rente à vida mesquinha.\n(C) é neutro ao figurar a vacuidade do presente.\n(D) conserva o discurso positivo da ordem.\n(E) consegue sobrepor a fantasia à verdade.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 28,
+   "imagem": "img/fuvest-2022-1f-q028.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 28 E 29\nA escrita faz de tal modo parte de nossa civilização que\npoderia servir de definição dela própria. A história da\nhumanidade se divide em duas imensas eras: antes e a partir\nda escrita. Talvez venha o dia de uma terceira era — depois da\nescrita. Vivemos os séculos da civilização escrita. Todas as\nnossas sociedades baseiam-se no escrito. A lei escrita substitui\na lei oral, o contrato escrito substitui a convenção verbal, a\nreligião escrita se seguiu à tradição lendária. E sobretudo não\nexiste história que não se funde sobre textos.\nCharles Higounet. A história da escrita. Adaptado.\n28\nA escrita poderia servir de definição da nossa civilização, uma\nvez que\n(A) a terceira era está prestes a acontecer.\n(B) o escrito respalda as atividades humanas.\n(C) as convenções verbais substituíram o escrito.\n(D) a oralidade deixou de ser usada em períodos remotos.\n(E) os textos pararam de se modificar a partir da escrita.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 29,
+   "imagem": "img/fuvest-2022-1f-q029.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 28 E 29\nA escrita faz de tal modo parte de nossa civilização que\npoderia servir de definição dela própria. A história da\nhumanidade se divide em duas imensas eras: antes e a partir\nda escrita. Talvez venha o dia de uma terceira era — depois da\nescrita. Vivemos os séculos da civilização escrita. Todas as\nnossas sociedades baseiam-se no escrito. A lei escrita substitui\na lei oral, o contrato escrito substitui a convenção verbal, a\nreligião escrita se seguiu à tradição lendária. E sobretudo não\nexiste história que não se funde sobre textos.\nCharles Higounet. A história da escrita. Adaptado.\n29\nA locução conjuntiva “de tal modo…que” e o advérbio\n“sobretudo”, respectivamente, expressam noção de:\n(A) conformidade e dúvida.\n(B) consequência e realce.\n(C) condição e negação.\n(D) consequência e negação.\n(E) condição e realce.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 30,
+   "imagem": "img/fuvest-2022-1f-q030.webp",
+   "texto": "30\nAtualmente, no Brasil, coexistem dois sistemas de placas de\nidentificação de automóveis: o padrão Mercosul (o mais\nrecente) e aquele que se iniciou em 1990 (o sistema anterior,\nusado ainda pela maioria dos carros em circulação). No\nsistema anterior, utilizavam-se 3 letras (em um alfabeto de 26\nletras) seguidas de 4 algarismos (de 0 a 9). No padrão\nMercosul adotado no Brasil para automóveis, são usadas 4\nletras e 3 algarismos, com 3 letras nas primeiras 3 posições e\na quarta letra na quinta posição, podendo haver repetições de\nletras ou de números. A figura ilustra os dois tipos de placas.\nDessa forma, o número de placas possíveis do padrão Mercosul\nbrasileiro de automóveis é maior do que o do sistema anterior em\n(A) 1,5 vezes.\n(B) 2 vezes.\n(C) 2,6 vezes.\n(D) 2,8 vezes.\n(E) 3 vezes.\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 31,
+   "imagem": "img/fuvest-2022-1f-q031.webp",
+   "texto": "31\nO sistema de numeração conhecido como chinês científico (ou\nem barras) surgiu provavelmente há mais de dois milênios. O\nsistema é essencialmente posicional, de base 10, com o\nprimeiro algarismo à direita representando a unidade. A\nprimeira linha horizontal de símbolos da figura mostra como\nse representam os algarismos 1, 2, 3, 4, 5, 6, 7, 8 e 9 quando\naparecem em posições ímpares (unidades, centenas etc.), e a\nsegunda linha quando tais algarismos aparecem em posições\npares (dezenas, milhares etc.). Nesse sistema, passou-se a\nusar um círculo para representar o algarismo zero a partir da\nDinastia Sung (960-1126).\nHoward Eves, Introdução à História da Matemática. Tradução: Hygino H.\nDomingues. Editora Unicamp, 2011 (5ª ed.).\nAssinale a alternativa que representa o número 91625 nesse\nsistema de numeração.\n(A)\n(B)\n(C)\n(D)\n(E)",
+   "gabarito": "A"
+  },
+  {
+   "numero": 32,
+   "imagem": "img/fuvest-2022-1f-q032.webp",
+   "texto": "32\nUm vídeo tem três minutos de duração. Se o vídeo for\nreproduzido, desde o seu início, com velocidade de 1,5 vezes\na velocidade original, o tempo de reprodução do vídeo inteiro\nserá de\n(A) 1min30s.\n(B) 1min50s.\n(C) 2min00s.\n(D) 2min30s.\n(E) 2min50s.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 33,
+   "imagem": "img/fuvest-2022-1f-q033.webp",
+   "texto": "33\nUma indústria produz três modelos de cadeiras (indicadas por\n𝑀 , 𝑀 e 𝑀 ), cada um deles em duas opções de cores: preta\ne vermelha (indicadas por P e V, respectivamente). A tabela\nmostra o número de cadeiras produzidas semanalmente\nconforme a cor e o modelo:\nAs porcentagens de cadeiras com defeito são de 2% do\nmodelo 𝑀 , 5% do modelo 𝑀 e 8% do modelo 𝑀 . As cadeiras\nque não apresentam defeito são denominadas boas.\nA tabela que indica o número de cadeiras produzidas\nsemanalmente com defeito (D) e boas (B), de acordo com a\ncor, é:\n(A)\n(B)\n(C)\n(D)\n(E)",
+   "gabarito": "C"
+  },
+  {
+   "numero": 34,
+   "imagem": "img/fuvest-2022-1f-q034.webp",
+   "texto": "34\nOs funcionários de um salão de beleza compraram um\npresente no valor de R$ 200,00 para a recepcionista do\nestabelecimento. No momento da divisão igualitária do valor,\ndois deles desistiram de participar e, por causa disso, cada\npessoa que ficou no grupo precisou pagar R$ 5,00 a mais que\na quantia originalmente prevista. O valor pago por pessoa que\npermaneceu na divisão do custo do presente foi:\n(A) R$ 10,00\n(B) R$ 15,00\n(C) R$ 20,00\n(D) R$ 25,00\n(E) R$ 40,00\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 35,
+   "imagem": "img/fuvest-2022-1f-q035.webp",
+   "texto": "35\nUma empresa construiu um poço para armazenar água de\nreúso. O custo para construir o primeiro metro foi de\nR$ 1.000,00, e cada novo metro custou R$ 200,00 a mais do que\no imediatamente anterior. Se o custo total da construção foi de\nR$ 48.600,00, a profundidade do poço é:\n(A) 15 m\n(B) 18 m\n(C) 21 m\n(D) 24 m\n(E) 27 m",
+   "gabarito": "B"
+  },
+  {
+   "numero": 36,
+   "imagem": "img/fuvest-2022-1f-q036.webp",
+   "texto": "36\nUm deltaedro é um poliedro cujas faces são todas triângulos\nequiláteros. Se um deltaedro convexo possui 8 vértices, então\no número de faces desse deltaedro é:\n(A) 4\n(B) 6\n(C) 8\n(D) 10\n(E) 12\nNote e adote:\nEm poliedros convexos, vale a relação de Euler 𝐹 − 𝐴 + 𝑉 = 2, em que 𝐹\né o número de faces, 𝐴 é o número de arestas e 𝑉 é o número de vértices\ndo poliedro.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 37,
+   "imagem": "img/fuvest-2022-1f-q037.webp",
+   "texto": "37\nA figura mostra um quadrado e um círculo, ambos com centro no\nponto 𝑂. O quadrado tem lado medindo 1 unidade de medida\n(u.m.) e o círculo tem raio igual a 2 u.m. O ponto 𝐴 está sobre o\ncontorno do quadrado, o ponto 𝐵 está sobre o contorno do círculo,\ne o segmento 𝐴𝐵 tem tamanho 2 u.m.\nQuando o ângulo 𝜃 = 𝐴𝑂 𝐵 for máximo, seu cosseno será:\n(A)\n(B)\n(C)\n√\n(D)\n√\n(E)",
+   "gabarito": "A"
+  },
+  {
+   "numero": 38,
+   "imagem": "img/fuvest-2022-1f-q038.webp",
+   "texto": "38\nSuponha que o polinômio 𝑝(𝑥) = 𝑥 + 𝑚𝑥 − 2, em que 𝑚 é\num número real, tenha uma raiz real dupla 𝑎 e uma raiz real\nsimples 𝑏. O valor da soma de 𝑚 com 𝑎 é:\n(A) 0\n(B) –1\n(C) −2\n(D) −3\n(E) −4",
+   "gabarito": "E"
+  },
+  {
+   "numero": 39,
+   "imagem": "img/fuvest-2022-1f-q039.webp",
+   "texto": "39\nQuatro tanques cilíndricos são vistos de cima (em planta\nbaixa) conforme a figura. Todos têm 10 m de raio e seus\ncentros se posicionam em vértices dos dois quadrados\ntracejados adjacentes, ambos com 30 m de lado. Uma fita de\nisolamento, esticada e paralela ao solo, envolve os 4 tanques,\ndando uma volta completa (linha em laranja na figura).\nO comprimento da fita, em metros, é:\n(A) 20𝜋 + 30(3 + √2)\n(B) 20𝜋 + 30(4 + √2)\n(C) 25𝜋 + 15(4 + √2)\n(D) 25𝜋 + 30(4 + √2)\n(E) 25𝜋 + 30(4 + 2√2)\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 40,
+   "imagem": "img/fuvest-2022-1f-q040.webp",
+   "texto": "40\nEm fevereiro de 2021, um grupo de físicos da Universidade\nFederal de Minas Gerais (UFMG) publicou um artigo que foi\ncapa da importante revista Nature. O texto a seguir foi\nretirado de uma reportagem do site da UFMG sobre o artigo:\nO nanoscópio, prossegue Ado Jorio (professor da UFMG),\nilumina a amostra com um microscópio óptico usual. O foco\nda luz tem o tamanho de um círculo de 1 micrômetro de\ndiâmetro. “O que o nanoscópio faz é inserir uma nanoantena,\nque tem uma ponta com diâmetro de 10 nanômetros, dentro\ndesse foco de 1 micrômetro e escanear essa ponta. A imagem\ncom resolução nanométrica é formada por esse processo de\nescaneamento da nanoantena, que localiza o campo\neletromagnético da luz em seu ápice”, afirma o professor.\nItamar Rigueira Jr. “Nanoscópio da UFMG possibilita compreender estrutura que\ntorna grafeno supercondutor”. Adaptado. Disponível em\nhttps://ufmg.br/comunicacao/noticias/.\nGadelha A C et al. (2021), Nature, 590, 405-409, doi: 10.1038/s41586-021-03252-5.\nCom base nos dados mencionados no texto, a razão entre o\ndiâmetro do foco da luz de um microscópio óptico usual e o\ndiâmetro da ponta da nanoantena utilizada no nanoscópio é\nda ordem de:\n(A) 0,0001\n(B) 0,01\n(C) 1\n(D) 100\n(E) 10000",
+   "gabarito": "D"
+  },
+  {
+   "numero": 41,
+   "imagem": "img/fuvest-2022-1f-q041.webp",
+   "texto": "41\nA quantidade de bactérias em um líquido é diretamente\nproporcional à medida da turbidez desse líquido. O gráfico\nmostra, em escala logarítmica, o crescimento da turbidez 𝑥 de\num líquido ao longo do tempo 𝑡 (medido em minutos), isto é,\nmostra log 𝑥 em função de 𝑡. Os dados foram coletados de\n30 em 30 minutos, e uma curva de interpolação foi obtida\npara inferir valores intermediários.\nDisponível em https://fankhauserblog.wordpress.com/.\nCom base no gráfico, em quantas vezes a população de\nbactérias aumentou, do instante 𝑡 para o instante 𝑡 ?\n(A) 2\n(B) 4\n(C) 5\n(D) 10\n(E) 100",
+   "gabarito": "D"
+  },
+  {
+   "numero": 42,
+   "imagem": "img/fuvest-2022-1f-q042.webp",
+   "texto": "TEXTO PARA AS QUESTÕES DE 42 A 44\nFatbergs\nare\na\ngrowing scourge infesting\ncities around the world—\nsome are more than 800\nfeet long and weigh more\nthan four humpback\nwhales. These gross globs,\nwhich can cause sewer\nsystems to block up and even overflow, have been plaguing the\nU.S., Great Britain and Australia for the past decade, forcing\ngovernments and utilities companies to send workers down into\nthe sewers armed with water hoses, vacuums and scrapers with\nthe unenviable task of prying them loose.\n\"It is hard not to think of [fatbergs] as a tangible symbol of the\nway we live now, the ultimate product of our disposable, out of\nsight, out of mind culture,\" wrote journalist Tim Adams in The\nGuardian.\nAt their core, fatbergs are the accumulation of oil and grease\nthat's been poured down the drain, congealing around flushed\nnonbiological waste like tampons, condoms and baby wipes.\nWhen fat sticks to the side of sewage pipes, the wipes and other\ndetritus get stuck, accumulating layer upon layer of gunk in a sort\nof slimy snowball effect.\nFatbergs also collect other kinds of debris—London fatbergs\nhave been cracked open to reveal pens, false teeth and even\nwatches.\nRestaurants are a big contributor to fatbergs: Thames Water,\nthe London utilities company, found nine out of 10 fast-food\neateries lacked adequate grease traps to stop fat from entering\nthe sewers. Homeowners also contribute to the problem by\npouring grease and fat down the sink.\nEven though its component materials are soft, fatbergs\nthemselves can be tough as rocks. Researchers have found a host\nof dangerous bacteria in fatbergs, including listeria and e.coli.\nFatbergs are notorious for their fetid smell, which can make\neven the hardiest sewer workers gag, and chipping away at one\ncan release noxious gases.\nThe key to fatberg prevention is remembering the four Ps:\nPee, poo, puke and (toilet) paper are the only things that should\nbe flushed.\nNewsweek, 14 March, 2019. Adaptado.\n42\nO texto informa que, na opinião do jornalista Tim Adams, os\nfatbergs\n(A) integram a paisagem londrina, causando impacto em razão\nde suas dimensões.\n(B) constituem representação real dos hábitos humanos\natuais.\n(C) simbolizam aspectos culturais submetidos a análises\nracionais.\n(D) desafiam o repertório tecnológico da engenharia de águas.\n(E) demonstram incentivo para que moradores consolidem\nseus costumes.\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 43,
+   "imagem": "img/fuvest-2022-1f-q043.webp",
+   "texto": "43\nDe acordo com o texto, o processo de bloqueio do fluxo de\nesgoto, provocado pelos fatbergs, ocorre\n(A) por falha no sistema de limpeza das galerias a cargo das\nprefeituras.\n(B) por conta do diâmetro estreito dos canos antigos.\n(C) pela solidificação da água na tubulação, em virtude das\nbaixas temperaturas.\n(D) pela aderência da gordura e outros detritos nas laterais da\ntubulação.\n(E) pelo descolamento de placas de concreto dentro da rede\nde abastecimento de água.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 44,
+   "imagem": "img/fuvest-2022-1f-q044.webp",
+   "texto": "TEXTO PARA AS QUESTÕES DE 42 A 44\nFatbergs\nare\na\ngrowing scourge infesting\ncities around the world—\nsome are more than 800\nfeet long and weigh more\nthan four humpback\nwhales. These gross globs,\nwhich can cause sewer\nsystems to block up and even overflow, have been plaguing the\nU.S., Great Britain and Australia for the past decade, forcing\ngovernments and utilities companies to send workers down into\nthe sewers armed with water hoses, vacuums and scrapers with\nthe unenviable task of prying them loose.\n\"It is hard not to think of [fatbergs] as a tangible symbol of the\nway we live now, the ultimate product of our disposable, out of\nsight, out of mind culture,\" wrote journalist Tim Adams in The\nGuardian.\nAt their core, fatbergs are the accumulation of oil and grease\nthat's been poured down the drain, congealing around flushed\nnonbiological waste like tampons, condoms and baby wipes.\nWhen fat sticks to the side of sewage pipes, the wipes and other\ndetritus get stuck, accumulating layer upon layer of gunk in a sort\nof slimy snowball effect.\nFatbergs also collect other kinds of debris—London fatbergs\nhave been cracked open to reveal pens, false teeth and even\nwatches.\nRestaurants are a big contributor to fatbergs: Thames Water,\nthe London utilities company, found nine out of 10 fast-food\neateries lacked adequate grease traps to stop fat from entering\nthe sewers. Homeowners also contribute to the problem by\npouring grease and fat down the sink.\nEven though its component materials are soft, fatbergs\nthemselves can be tough as rocks. Researchers have found a host\nof dangerous bacteria in fatbergs, including listeria and e.coli.\nFatbergs are notorious for their fetid smell, which can make\neven the hardiest sewer workers gag, and chipping away at one\ncan release noxious gases.\nThe key to fatberg prevention is remembering the four Ps:\nPee, poo, puke and (toilet) paper are the only things that should\nbe flushed.\nNewsweek, 14 March, 2019. Adaptado.\n44\nConsiderado o contexto, os quatro elementos associados à\nprevenção dos fatbergs têm em comum o fato de\n(A) conterem pouca gordura.\n(B) ocorrerem em quantidade reduzida.\n(C) serem considerados matéria orgânica.\n(D) terem sua frequência controlada.\n(E) estarem livres de bactérias.\nTEXTO PARA AS QUESTÕES DE 45 A 47",
+   "gabarito": "C"
+  },
+  {
+   "numero": 45,
+   "imagem": "img/fuvest-2022-1f-q045.webp",
+   "texto": "TEXTO PARA AS QUESTÕES DE 45 A 47\nIf you take a look at my smartphone, you’ll know that I like\nto order out. But am I helping the small local businesses? You\nwould think that if you own a restaurant you’d be thrilled to\nhave an outsourced service that would take care of your\ndelivery operations while leveraging their marketing might to\nexpand your businesses’ brand. However, restaurant owners\nhave complained of lack of quality control once their food goes\nout the door. They don’t like that the delivery people are the\nface of their product when it gets into the customer’s hand.\nSome of the delivery services have been accused of listing\nrestaurants on their apps without the owners’ permission, and\noftentimes publish menu items and prices that are incorrect or\nout of date.\nBut there is another reason why restaurant owners aren’t\nfond of delivery services. It’s the costs, which, for some, are\nbecoming unsustainable. Even with the increased revenues\nfrom the delivery services, the fees wind up killing a\nrestaurant’s margins to the extent that it’s at best marginally\nprofitable. Therefore, some restaurants are pushing harder to\ndrive orders from their own websites and offering special deals\nfor customers that use their in-house delivery people.\nThe simple fact is that these delivery apps are here to stay.\nThey are enormously popular and have significantly grown. I\nbelieve that restaurant owners that resist these apps are\nhurting their brands by missing out on potential customers.\nThe good news is that the delivery platforms are not as evil as\nsome would portray them. They have some skin in the game.\nThey are competing against other services. They want their\nlisted restaurants to profit. Maybe instead of fighting, the\nnation’s restaurant industry needs to proactively embrace the\ndelivery service industry and figure out ways to profitably work\ntogether.\nThe Guardian. 02 December, 2020. Adaptado.\n45\nDe acordo com o texto, para os proprietários de restaurante, a\nprincipal vantagem dos aplicativos de entrega de comida é que eles\n(A) procuram oferecer taxas atraentes para a utilização de sua\ntecnologia.\n(B) demonstram preocupação crescente com a qualidade do\nserviço que oferecem.\n(C) melhoram a avaliação dos restaurantes pela imprensa\nespecializada.\n(D) garantem que suas listas de restaurantes e menus sejam\natualizadas de modo criterioso.\n(E) possuem uma estrutura de marketing que possibilita\nexpansão do círculo de clientes.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 46,
+   "imagem": "img/fuvest-2022-1f-q046.webp",
+   "texto": "46\nSegundo o texto, uma das soluções encontradas pelos donos\nde restaurante para amenizar os problemas com os serviços\nde entrega é\n(A) o contato telefônico com clientes para ouvir comentários\ne reclamações.\n(B) a verificação constante das páginas dos aplicativos para\nevitar erros e imprecisões.\n(C) o oferecimento de vantagens para clientes que usam os\nserviços de entrega do próprio restaurante.\n(D) a listagem de seus restaurantes em diversos aplicativos\npara encorajar a competição entre eles.\n(E) a disseminação, junto aos clientes, de uma imagem relativa\naos serviços de aplicativos como incompetentes.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 47,
+   "imagem": "img/fuvest-2022-1f-q047.webp",
+   "texto": "TEXTO PARA AS QUESTÕES DE 45 A 47\nIf you take a look at my smartphone, you’ll know that I like\nto order out. But am I helping the small local businesses? You\nwould think that if you own a restaurant you’d be thrilled to\nhave an outsourced service that would take care of your\ndelivery operations while leveraging their marketing might to\nexpand your businesses’ brand. However, restaurant owners\nhave complained of lack of quality control once their food goes\nout the door. They don’t like that the delivery people are the\nface of their product when it gets into the customer’s hand.\nSome of the delivery services have been accused of listing\nrestaurants on their apps without the owners’ permission, and\noftentimes publish menu items and prices that are incorrect or\nout of date.\nBut there is another reason why restaurant owners aren’t\nfond of delivery services. It’s the costs, which, for some, are\nbecoming unsustainable. Even with the increased revenues\nfrom the delivery services, the fees wind up killing a\nrestaurant’s margins to the extent that it’s at best marginally\nprofitable. Therefore, some restaurants are pushing harder to\ndrive orders from their own websites and offering special deals\nfor customers that use their in-house delivery people.\nThe simple fact is that these delivery apps are here to stay.\nThey are enormously popular and have significantly grown. I\nbelieve that restaurant owners that resist these apps are\nhurting their brands by missing out on potential customers.\nThe good news is that the delivery platforms are not as evil as\nsome would portray them. They have some skin in the game.\nThey are competing against other services. They want their\nlisted restaurants to profit. Maybe instead of fighting, the\nnation’s restaurant industry needs to proactively embrace the\ndelivery service industry and figure out ways to profitably work\ntogether.\nThe Guardian. 02 December, 2020. Adaptado.\n47\nEm “I believe that restaurant owners that resist these apps are\nhurting their brands by missing out on potential customers”\n(3º parágrafo), a expressão sublinhada pode ser substituída,\nsem prejuízo de sentido, por:\n(A) harming.\n(B) deceiving.\n(C) challenging.\n(D) losing.\n(E) disturbing.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 48,
+   "imagem": "img/fuvest-2022-1f-q048.webp",
+   "texto": "48\nLying, thinking\nLast night\nHow to find my soul a home\nWhere water is not thirsty\nAnd bread loaf is not stone\nI came up with one thing\nAnd I don't believe I'm wrong\nThat nobody,\nBut nobody\nCan make it out here alone\nAlone - Maya Angelou\nOs versos do poema\n(A) afirmam os sentimentos de autonomia e autossuficiência.\n(B) mostram a derrota diante das dificuldades.\n(C) expressam o resultado das reflexões feitas.\n(D) indicam a distância intransponível entre amigos.\n(E) mostram arrependimento em relação às decisões do passado.\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 49,
+   "imagem": "img/fuvest-2022-1f-q049.webp",
+   "texto": "49\nConsiderando os elementos visuais e verbais da figura, é\npossível interpretar a fala da mulher como\n(A) sinal da sua insatisfação com o local escolhido para o\nencontro.\n(B) sentimento de inferioridade, por não possuir um telefone\ncelular.\n(C) constatação de que relações pessoais acarretam exclusão\ndas redes sociais.\n(D) resposta aos apelos pela troca equitativa de informações.\n(E) expressão sarcástica em protesto pela ausência de\ninterlocução.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 50,
+   "imagem": "img/fuvest-2022-1f-q050.webp",
+   "texto": "50\nUm bom café deve ser preparado a uma temperatura pouco\nacima de 80 o C. Para evitar queimaduras na boca, deve ser\nconsumido a uma temperatura mais baixa. Uma xícara contém\n60 mL de café a uma temperatura de 80 o C. Qual a quantidade de\nleite gelado (a uma temperatura de 5 o C) deve ser misturada ao\ncafé para que a temperatura final do café com leite seja de 65 o C?\n(A) 5 mL\n(B) 10 mL\n(C) 15 mL\n(D) 20 mL\n(E) 25 mL\nNote e adote:\nConsidere que o calor específico e a densidade do café e do leite sejam idênticos.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 51,
+   "imagem": "img/fuvest-2022-1f-q051.webp",
+   "texto": "51\nUma criança deixa cair de uma mesma altura duas maçãs, uma\ndelas duas vezes mais pesada do que a outra. Ignorando a\nresistência do ar e desprezando as dimensões das maçãs frente à\naltura inicial, o que é correto afirmar a respeito das energias\ncinéticas das duas maçãs na iminência de atingirem o solo?\n(A) A maçã mais pesada possui tanta energia cinética quanto\na maçã mais leve.\n(B) A maçã mais pesada possui o dobro da energia cinética da\nmaçã mais leve.\n(C) A maçã mais pesada possui a metade da energia cinética\nda maçã mais leve.\n(D) A maçã mais pesada possui o quádruplo da energia\ncinética da maçã mais leve.\n(E) A maçã mais pesada possui um quarto da energia cinética\nda maçã mais leve.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 52,
+   "imagem": "img/fuvest-2022-1f-q052.webp",
+   "texto": "52\nUma bola de bilhar vermelha está inicialmente em repouso a\n40 cm de duas das bordas (lateral e superior da figura) de uma\nmesa de bilhar, como mostra a figura. Uma bola branca de\nmesma massa e tamanho é lançada em direção à vermelha\ncom velocidade 𝑣⃗ paralela à borda lateral.\nAs duas bolas colidem e, algum tempo depois, a bola vermelha\nestá prestes a cair na caçapa posicionada na junção das duas\nbordas. No mesmo instante, a bola branca toca a borda\nsuperior da mesa a uma distância d da bola vermelha,\nconforme figura.\nO valor de d é aproximadamente:\n(A) 20 cm\n(B) 40 cm\n(C) 60 cm\n(D) 80 cm\n(E) 100 cm\nNote e adote:\nDespreze efeitos dissipativos (como deslizamentos com atrito) e considere a\ncolisão entre as bolas como sendo perfeitamente elástica.\nConsidere que o diâmetro das bolas seja muito menor que as distâncias\nmencionadas e que não ocorram outras colisões intermediárias.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 53,
+   "imagem": "img/fuvest-2022-1f-q053.webp",
+   "texto": "53\nConsidere a situação indi-\ncada na figura, em que um\nmotor, com o auxílio de uma\npolia, ergue verticalmente\numa caixa de massa 12 kg. A\ncaixa contém materiais frá-\ngeis e deve ser erguida com\nvelocidade constante. Qual é\na magnitude da força vertical\nque o motor deve exercer\npara realizar a tarefa?\n(A) 0 N\nNote e adote:\n(B) 30 N\nDespreze efeitos de atrito.\n(C) 60 N\nAceleração da gravidade: g = 10 m/s 2 .\n(D) 120 N\n(E) 240 N\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 54,
+   "imagem": "img/fuvest-2022-1f-q054.webp",
+   "texto": "54\nDois fios muito longos transportam, cada um deles, uma\ncorrente elétrica de intensidade I, conforme indicado na\nfigura. Uma partícula de carga +Q, situada a uma distância R\nde cada um dos fios, move-se com velocidade constante ao\nlongo da direção z.\nO módulo e sentido da força magnética atuando sobre a carga\ndevido ao campo magnético produzido pelos fios são dados por:\n(A) 0\n(B) Qμ 0 I/πR e aponta na direção −y\n(C) Qμ 0 I/πR e aponta na direção y\n(D) Qμ 0 I/πR e aponta na direção −x\n(E) Qμ 0 I/πR e aponta na direção x\nNote e adote:\nO campo magnético produzido por um fio muito longo transportando uma\ncorrente de valor I tem módulo aproximadamente dado por μ 0 I/2πr, sendo r a\ndistância do fio até o ponto e μ 0 corresponde a constante de permeabilidade\nmagnética.",
+   "gabarito": "anulada"
+  },
+  {
+   "numero": 55,
+   "imagem": "img/fuvest-2022-1f-q055.webp",
+   "texto": "55\nUm componente eletrônico tem curva característica mostrada no\ngráfico a seguir:\nA resistência elétrica do componente na região em que ele se\ncomporta como um resistor ôhmico vale aproximadamente:\n(A) 0,4 Ω\n(B) 0,6 Ω\n(C) 0,8 Ω\n(D) 1,0 Ω\n(E) 1,2 Ω",
+   "gabarito": "C"
+  },
+  {
+   "numero": 56,
+   "imagem": "img/fuvest-2022-1f-q056.webp",
+   "texto": "56\nO canhão de Newton, esquematizado na figura, é um\nexperimento mental imaginado por Isaac Newton para\nmostrar que sua lei da gravitação era universal. Disparando o\ncanhão horizontalmente do alto de uma montanha, a bala\ncairia na Terra em virtude da força da gravidade. Com uma\nmaior velocidade inicial, a bala iria mais longe antes de\nretornar à Terra. Com a velocidade certa, o projétil daria uma\nvolta completa em torno da Terra, sempre “caindo” sob ação\nda gravidade, mas nunca alcançando a Terra. Newton concluiu\nque esse movimento orbital seria da mesma natureza do\nmovimento da Lua em torno da Terra.\nQual deveria ser a velocidade inicial de um projétil lançado\nhorizontalmente do alto do Everest (a uma distância\naproximada de 6.400 km do centro da Terra) para colocá-lo\nem órbita em torno da Terra?\n(A) 8 km/s\n(B) 11,2 km/s\n(C) 80 km/s\n(D) 112 km/s\n(E) 8.000 km/s\nNote e adote:\nDespreze a resistência do ar.\nAceleração da gravidade: g = 10 m/s 2 .",
+   "gabarito": "A"
+  },
+  {
+   "numero": 57,
+   "imagem": "img/fuvest-2022-1f-q057.webp",
+   "texto": "57\nEm virtude do movimento das placas tectônicas, a distância entre\na América do Sul e a África aumenta, nos dias atuais, cerca de\n2,0 cm a cada ano. Supondo que essa velocidade tivesse sido\nconstante ao longo do tempo, e tomando uma distância atual de\ncerca de 5.000 km entre os limites dessas duas massas\ncontinentais, indique a melhor estimativa para quanto tempo\nteria transcorrido desde quando ambas estavam unidas em um\núnico supercontinente.\n(A) 250.000 anos\n(B) 2.500.000 anos\n(C) 25.000.000 anos\n(D) 250.000.000 anos\n(E) 2.500.000.000 anos\nNote e adote:\nO valor obtido, embora da ordem de magnitude correta, não é o mesmo\ncalculado por estimativas mais precisas.\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 58,
+   "imagem": "img/fuvest-2022-1f-q058.webp",
+   "texto": "58\nUma mancha de petróleo com mais de 3000 km de extensão se\nespalhou por praias e manguezais da costa da região nordeste e\nparte do sudeste, atingindo áreas marinhas protegidas como o\nParque Nacional Marinho de Abrolhos, um dos principais bancos\nde corais e berço de biodiversidade do Atlântico Sul. Desde que\nfoi detectada pela primeira vez, no dia 30 de agosto de 2019, a\nmancha de petróleo atingiu cerca de 900 locais em mais de 127\nmunicípios em 11 estados. A origem do petróleo está estimada\nem algum local a leste do litoral do estado de Pernambuco,\ndistante, aproximadamente, 600 km da linha de costa.\nDisponível em https://www.wwf.org.br/. 2019. Adaptado.\nCom base em seus conhecimentos sobre o litoral brasileiro e\nas correntes marítimas superficiais que margeiam a costa,\nassinale a alternativa correta que aponta o fator que\ncontribuiu para a dispersão do petróleo.\n(A) As reentrâncias e os recortes do litoral brasileiro, com sua\ngeomorfologia costeira, foram responsáveis pelo impacto\nambiental causado pelo derramamento de petróleo.\n(B) A presença de correntes marítimas frias em superfície,\ncaracterísticas dessa região, com elevado potencial de\ntransporte de sedimentos, acentuou a dispersão do petróleo.\n(C) A corrente marítima das Falkland (Malvinas), que margeia a\ncosta brasileira até o litoral da região nordeste, com águas\nfrias em superfície, potencializou a dispersão do petróleo.\n(D) A reduzida profundidade média do litoral brasileiro\nfavoreceu a dispersão do petróleo ao longo da costa de\nnorte a sul, resultando em impactos negativos, em\nespecial para a fauna marinha.\n(E) A corrente marítima do Brasil, que é caracterizada pelo\nmovimento de águas superficiais quentes ao longo da\nlinha de costa e provenientes do Atlântico Equatorial,\nespalhou o petróleo.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 59,
+   "imagem": "img/fuvest-2022-1f-q059.webp",
+   "texto": "59\nA escala cartográfica expressa as dimensões presentes em um\nmapa e a sua correspondência no terreno, ou seja, é uma\nabstração adotada que permite transpor a realidade terrestre\npara o mapa mantendo as proporções. Considerando a\ndistância de 6 cm entre dois municípios em um mapa com\nescala numérica de 1 : 1.000.000, qual é a distância, em linha\nreta, entre eles?\n(A) 0,6 km\n(B) 6 km\n(C) 6,6 km\n(D) 60 km\n(E) 600 km",
+   "gabarito": "D"
+  },
+  {
+   "numero": 60,
+   "imagem": "img/fuvest-2022-1f-q060.webp",
+   "texto": "60\nEventos climáticos extremos marcaram este ano com vários\nexemplos no mundo, atingindo populações inteiras, tanto em\nambientes rurais como urbanos. Dentre esses eventos, pode-se\ndestacar as inundações na Alemanha no mês de julho, com\nregiões acometidas por fortes chuvas.\nÁrea urbana de Schuld, Oeste da Alemanha, antes (à esquerda) e depois (à\ndireita) da inundação de julho/2021. Disponível em https://www.dw.com/.\nUm dos motivos que podem ser relacionados ao evento de\ninundação da área destacada é:\n(A) O fato de o rio meandrante desviar da área urbana instalada\nnas suas margens, pois o vale estreito é periodicamente\ninundado, em especial nos eventos climáticos extremos,\nque submergem os morros na cidade.\n(B) A extensão do assentamento urbano que não respeitou os\nlimites do canal fluvial, acabando por aterrá-lo, o que\nlevou à inundação diante de um evento climático extremo,\njá que os rios não podem ser encobertos.\n(C) A área urbana, que se encontra em um fundo de vale plano\nonde há a presença de um canal de rio meandrante, o qual\npode ter suas águas periodicamente extravasadas para a\nplanície de inundação.\n(D) O insucesso da prevenção da inundação por meio da\nretificação do rio, pois se esperava que, mesmo com\nvolumes excessivos de chuvas, as águas do canal fluvial\nnão poderiam ser extravasadas para as margens.\n(E) Como a área urbana se encontra em um fundo de vale\nrugoso, existe maior facilidade para o assentamento,\nporém com o risco de o rio entrelaçado desviar seu curso\núnico, causando inundações laterais.\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 61,
+   "imagem": "img/fuvest-2022-1f-q061.webp",
+   "texto": "61\nO mapa mostra a topografia, os aspectos da paisagem e o tipo\nde cobertura vegetal da superfície numa determinada área,\ncom um observador que, localizado próximo ao leito do rio, vê\na paisagem direcionando seu olhar para o quadrante nordeste.\nO cenário a ser visto pelo observador, considerando os aspectos\nevidenciados no mapa, é:\n(A)\n(D)\n(B)\n(E)\n(C)",
+   "gabarito": "B"
+  },
+  {
+   "numero": 62,
+   "imagem": "img/fuvest-2022-1f-q062.webp",
+   "texto": "62\nNo dia 23 de março de 2021 o mega navio Ever Given, de\n220.000 toneladas e 400 m de comprimento, encalhou no Canal\nde Suez no Egito em rota para o porto de Rotterdam, Holanda,\nficando atravessado e preso pelas extremidades. O navio\nreflutuou no dia 29 do mesmo mês em razão das condições de\nvento e maré, além da operação promovida por rebocadores.\nDisponível em https://www.noaa.gov/, https://edition.cnn.com/ e\nhttps://www.tide-forecast.com/. Adaptados.\nCom base nos dados fornecidos e em seus conhecimentos, pode-\nse atribuir o reflutuamento do Ever Given às seguintes condições:\n(A) Formação de um gradiente de pressão entre Ásia e África,\ncom ventos de Sudoeste e rebaixamento do nível da água\ndo mar pela maré de quadratura.\n(B) Formação de um gradiente de pressão entre Europa e\nÁfrica, com ventos de Noroeste e elevação do nível da\nágua do mar pela maré de sizígia.\n(C) Formação de um gradiente de pressão entre Europa e\nÁfrica, com ventos de Sudeste e elevação do nível da água\ndo mar pela maré de quadratura.\n(D) Formação de um gradiente de pressão entre África e\nEuropa, com ventos de Nordeste e rebaixamento do nível\nda água do mar pela maré de sizígia.\n(E) Formação de um gradiente de pressão entre Ásia e Europa,\ncom predomínio de calmarias e vazante do nível da água\ndo mar pela maré neutra.\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 63,
+   "imagem": "img/fuvest-2022-1f-q063.webp",
+   "texto": "63\nUma forma de conservação do Cerrado é a prática de\nqueimadas controladas que simulam o ciclo natural do fogo.\nObserve a imagem que retrata os efeitos visuais de uma\nqueimada controlada em um trecho de Cerrado da Estação\nEcológica de Santa Bárbara, no interior do estado de São Paulo.\nNessa área foram conduzidos experimentos com queimadas\ncontroladas, e os resultados sugerem que essa prática é\nbenéfica para a flora, cujas plantas rebrotam rapidamente\ndepois da passagem do fogo. Nos grupos vegetais em que as\nqueimadas produziram mais efeitos positivos foi registrado\naté um discreto aumento de espécies vegetais. Antes das\nqueimadas, os pesquisadores contabilizaram 38 espécies de\ngramíneas e 68 de outras ervas. Depois, esses números\nsubiram para 44 e 74, respectivamente.\nDurigan G et al. (2020), Front. For. Glob. Change, 3:13,\ndoi:10.3389/ffgc.2020.00013. Adaptado.\nNo bioma Cerrado, de acordo com a informação do texto, a\nprática de queimadas controladas\n(A) contribui para a manutenção da biodiversidade local.\n(B) constitui uma técnica de ponta para o plantio agrícola.\n(C) é uma técnica tradicional denominada agricultura itinerante.\n(D) tem como objetivo permitir a pecuária extensiva.\n(E) apresenta desvantagem em termos de ganho para a flora.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 64,
+   "imagem": "img/fuvest-2022-1f-q064.webp",
+   "texto": "64\nFonte: El trabajo de cuidados y los trabajadores del cuidado para um futuro com\ntrabajo decente / OIT (2019). Adaptado.\nConforme definição da Organização Internacional do Trabalho\n(OIT), o trabalho de cuidado envolve dois tipos de atividades: as\ndiretas, como alimentar um bebê ou cuidar de um doente, e as\nindiretas, como cozinhar ou limpar. O gráfico apresenta a\ndesigualdade de gênero no trabalho de cuidado no mundo,\nexpressa pela diferença entre homens e mulheres quanto ao\ntempo e à remuneração. A partir dos dados apresentados, é\ncorreto afirmar que as regiões com maior e menor desigualdade\nsão, respectivamente:\n(A) África; Europa/Ásia Central\n(B) Américas; África\n(C) Américas; Ásia/Pacífico\n(D) Países Árabes; Américas\n(E) África; Ásia/Pacífico",
+   "gabarito": "D"
+  },
+  {
+   "numero": 65,
+   "imagem": "img/fuvest-2022-1f-q065.webp",
+   "texto": "65\nTexto 1\nMinha pele, Luanda\nAntessala, Aruanda\nTipo T'Challa, Wakanda\nVeneno Black Mamba\nBandoleiro em bando\nQué o comando dessas banda?\n'Sa noite cês vão ver mais sangue\nDo que Hotel Ruanda\nTexto 2\nNão sei onde ela tinha ido à escola, mas ela sabia ler e escrever.\nSaber escrever era algo perigoso se você tinha um pai exilado no\nBurundi. Logo começam a suspeitar que está se correspondendo\ncom os tutsis que preparam seu retorno a Ruanda, que você é\numa espiã dando informações aos que estão desse lado da\nfronteira e poderia facilitar a volta dos tutsis.\nEsses textos foram retirados, respectivamente, da música\n“Pantera Negra”, de Emicida, e do livro “A mulher de pés\ndescalços”, de Scholastique Mukasonga, e fazem referência à\nguerra civil em Ruanda. Sobre esse conflito, é correto afirmar:\n(A) Ocorrido no início do século XX, teve como principal\nestopim a disputa por recursos minerais no território de\nRuanda, na divisa com Senegal.\n(B) Ex-colônia belga e inglesa, Ruanda conquistou sua\nindependência com auxílio norte-americano nos anos\n2000, desencadeando a guerra civil.\n(C) Trata-se de um conflito resultante da disputa entre\ndiferentes grupos religiosos, que resultou na morte de\nmais de 800 mil Hutus e Tutsis.\n(D) Apoiados pelos russos e pelos franceses, os Tutsis\ntomaram o poder com um golpe de estado na década de\n1970, iniciando as tensões que resultaram na guerra civil.\n(E) Ocorrido na década de 1990, teve como origem a disputa\nétnico-cultural (Tutsis e Hutus) nos territórios de Ruanda e\nBurundi.\nV",
+   "gabarito": "E"
+  },
+  {
+   "numero": 66,
+   "imagem": "img/fuvest-2022-1f-q066.webp",
+   "texto": "66\nA pandemia da COVID-19 acendeu o alerta sobre os impactos\nque a rápida disseminação de enfermidades produz em um\nmundo cada vez mais globalizado. Além disso, ressaltou a\nimportância das pesquisas científicas na descoberta, tratamento\ne controle de doenças tropicais negligenciadas, muitas delas\nrecorrentes em diferentes países do mundo. Os mapas a seguir\nindicam as taxas de incidência de doenças tropicais\nnegligenciadas (total de casos por milhão de habitantes) e o\nProduto Interno Bruto (PIB) per capita dos respectivos países.\nFabrício Marques. “Uma agenda para as doenças esquecidas”. Revista\nPesquisa FAPESP, abril/2021. Adaptado.\nEm relação à incidência de doenças tropicais negligenciadas,\né correto afirmar:\n(A) Na África, é maior nos países com os maiores PIB per\ncapita, em especial na região subsaariana.\n(B) Na Ásia, é menor nos países com os menores PIB per\ncapita, com destaque para Ásia Setentrional.\n(C) Na América do Sul, é menor nos países da América Platina,\ncom os menores PIB per capita da região.\n(D) Na América do Norte, com elevado PIB per capita, a\nincidência é menor em comparação ao Oriente Médio.\n(E) Na Oceania, apesar do PIB per capita elevado, verifica-se\nalta incidência, com destaque para a Austrália.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 67,
+   "imagem": "img/fuvest-2022-1f-q067.webp",
+   "texto": "67\nA escassez global de semicondutores continua a ter estranhas\nrepercussões, sobretudo do ponto de vista geopolítico. Há um\nano as indústrias lutam para se abastecer com chips\neletrônicos que equipam aparelhos do dia a dia, de\ncomputadores a torradeiras, passando pelas máquinas de\nlavar e consoles de videogames. O episódio atual, no entanto,\nsurge em um contexto marcado por um questionamento geral\na respeito dos benefícios da globalização e do declínio da\natividade industrial no Ocidente.\nEvgeny Morzorov. “Devemos temer um colapso eletrônico?”. Le Monde\nDiplomatique Brasil, agosto/2021. Adaptado.\nO texto refere-se a uma questão geopolítica contemporânea:\na disputa pelos semicondutores na indústria mundial. Sobre\nesse assunto, indique a alternativa correta:\n(A) A produção de semicondutores está concentrada no\nsudeste asiático, nos países da 1ª e 2ª geração dos Tigres\nAsiáticos, tais como Taiwan, Coreia do Sul, Cingapura e\nIndonésia.\n(B) Nos últimos 20 anos, EUA e Europa vêm perdendo\ndestaque na produção de semicondutores em decorrência\nda queda acentuada de investimentos em pesquisa e\ninovação.\n(C) A crise da falta de semicondutores revela um dos efeitos\nnegativos da globalização: a independência da cadeia\nprodutiva em escala mundial, pouco suscetível a\ndesequilíbrios de oferta e demanda.\n(D) A Nova Divisão Internacional do Trabalho indica o predomínio\ngeoeconômico dos países do sudeste asiático, principais\nprodutores de semicondutores, que têm ampliado, através da\nChina, sua participação nesse setor desde sua democratização.\n(E) A escassez de semicondutores é resultado de uma\ninterrupção momentânea da produção, em especial no\nsudeste asiático, devido à falta de matéria-prima, que é o\ninício da cadeia produtiva.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 68,
+   "imagem": "img/fuvest-2022-1f-q068.webp",
+   "texto": "68\nA produção do vidro tem por base a modificação da estrutura\ncristalina do quartzo (SiO 2 ) por meio do seu aquecimento e da\nadição de óxidos alcalinos, dentre eles o Na 2 O. Esse processo\nadiciona cátions sódio à estrutura do quartzo, tornando-a\namorfa. Alguns vidros, como os utilizados em telas de\nsmartphones, passam ainda por processo de troca iônica para\naumentar a resistência a quedas e riscos. Para isso, o vidro é\nbanhado em uma solução salina contendo íons potássio.\nDessa forma, o potássio substitui o sódio na estrutura, sem\nque o volume do vidro se altere.\nCom base nessas informações, é correto afirmar que os íons\npotássio\n(A) são maiores do que os íons sódio, dessa forma, a estrutura\ntorna-se mais preenchida e mais resistente ao choque\nfísico.\n(B) são mais resistentes ao choque físico do que os íons sódio,\ne esse caráter é conferido ao vidro.\n(C) são menores do que os íons sódio, tornando a estrutura\nmenos preenchida e o vidro mais flexível.\n(D) fazem com que a estrutura do vidro deixe de ser amorfa\nquando substituem os íons sódio, tornando o vidro menos\nresistente ao choque físico.\n(E) têm o mesmo tamanho que os íons sódio, visto que ambos\nsão metais alcalinos, permitindo sua completa\nsubstituição no vidro.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 69,
+   "imagem": "img/fuvest-2022-1f-q069.webp",
+   "texto": "69\nUma das formulações para os adesivos “silicones” usados na\nconstrução civil é chamada de “silicone acético”. Essa\nnomenclatura é utilizada porque o componente ativo libera\nácido acético durante a formação do precursor, espécie que\npromoverá\na\npolimerização,\ncomo\nrepresentado\ngenericamente a seguir.\n(R = cadeia orgânica)\nConsiderando essas informações, qual dos componentes\nativos a seguir faria com que a formulação fosse considerada\ncomo “silicone acético”?\n(A)\n(B)\n(C)\n(D)\n(E)",
+   "gabarito": "B"
+  },
+  {
+   "numero": 70,
+   "imagem": "img/fuvest-2022-1f-q070.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 70 E 71\nOxigênio (O 2 ) e ozônio (O 3 ) estão em constante processo de\nconsumo e produção na estratosfera, como representado pelas\nequações químicas a seguir. As reações I e II ilustram etapas da\nprodução de ozônio a partir de oxigênio, e a reação III mostra a\nrestauração de oxigênio a partir de ozônio.\nReação\nΔH (kcal/mol de O 2 )\nI\nO 2 → 2 O .\n−118\n2 O 2 + 2 O . → 2 O 3\nII\nΔH II\nIII\n2 O 3 → 3 O 2\n+21\n70\nA reação global balanceada, composta pelas etapas I e II, que\nrepresenta a formação de ozônio é:\n(A) 3 O → O 3\n(B) 4 O 2 → 4 O 3\n(C) 2 O 3 → 3 O 2\n(D) 3 O 2 → 2 O 3\n(E) 3 O 3 → 2 O 2",
+   "gabarito": "D"
+  },
+  {
+   "numero": 71,
+   "imagem": "img/fuvest-2022-1f-q071.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 70 E 71\nOxigênio (O 2 ) e ozônio (O 3 ) estão em constante processo de\nconsumo e produção na estratosfera, como representado pelas\nequações químicas a seguir. As reações I e II ilustram etapas da\nprodução de ozônio a partir de oxigênio, e a reação III mostra a\nrestauração de oxigênio a partir de ozônio.\nReação\nΔH (kcal/mol de O 2 )\nI\nO 2 → 2 O .\n−118\n2 O 2 + 2 O . → 2 O 3\nII\nΔH II\nIII\n2 O 3 → 3 O 2\n+21\n71\nO ΔH II , relacionado à reação II, pode ser calculado a partir dos\ndados fornecidos para as reações I e III. O valor de ΔH II , em\nkcal/mol de O 2 consumido, é igual a:\n(A) −90,5\n(B) −55,0\n(C) +27,5\n(D) +48,5\n(E) +55,0",
+   "gabarito": "C"
+  },
+  {
+   "numero": 72,
+   "imagem": "img/fuvest-2022-1f-q072.webp",
+   "texto": "72\nAlguns equipamentos de visão noturna têm seu\nfuncionamento baseado no efeito fotoelétrico, uma das\nprimeiras descobertas que contribuíram para o surgimento da\nmecânica quântica. Nesses equipamentos, fótons de\nfrequência f emitidos por um objeto incidem sobre uma\nsuperfície metálica. Elétrons são então liberados da superfície\ne acelerados por um campo elétrico. Em seguida, o sinal\neletrônico é amplificado e produz uma imagem do objeto.\nDiferentemente do que a física clássica prevê, apenas os\nelétrons com energia hf acima de uma certa energia mínima\nE 0 são liberados da superfície metálica.\nConsiderando a incidência de fótons com frequência da\nordem de 10 14 Hz, a ordem de grandeza do valor limite de E 0\npara que o equipamento funcione deve ser:\n(A) 10 −50 J\n(B) 10 −40 J\n(C) 10 −30 J\n(D) 10 −20 J\n(E) 10 −10 J\nNote e adote:\nConstante de Planck: h = 6,63 × 10 − 34 J.s\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 73,
+   "imagem": "img/fuvest-2022-1f-q073.webp",
+   "texto": "73\nAs reações de hidrólise de ésteres, quando realizadas em meio\naquoso, podem ser catalisadas pela adição de ácido, sendo a\nreação mais lenta em meios próximos da neutralidade.\n(R = cadeia orgânica)\nDuas reações idênticas para a hidrólise desse éster foram\nrealizadas nas mesmas condições, variando apenas o pH do\nmeio: uma delas foi conduzida em pH=2 e outra em pH=6. Qual\ndos seguintes diagramas representa de forma mais adequada a\nquantidade de ácido graxo formada em função do tempo de\nreação para as hidrólises em pH=2 e pH=6?\n(A)\n(B)\n(C)\n(D)\n(E)",
+   "gabarito": "A"
+  },
+  {
+   "numero": 74,
+   "imagem": "img/fuvest-2022-1f-q074.webp",
+   "texto": "74\nCálculos renais, conhecidos popularmente por “pedras nos rins”,\nconsistem principalmente em oxalato de cálcio, CaC 2 O 4 , espécie\ncuja constante de solubilidade (K ps ) é de aproximadamente\n2 × 10 −9 . Os íons oxalato, presentes em muitos vegetais, reagem\ncom os íons cálcio para formar oxalato de cálcio, que pode\ngradualmente se acumular nos rins. Supondo que a concentração\nde íons cálcio no plasma sanguíneo seja de cerca de\n5 × 10 −3 mol/L, qual seria a concentração mínima, em mol/L, de\níons oxalato para que CaC 2 O 4 precipitasse?\n(A) 4 × 10 −13\nNote e adote:\n(B) 10 × 10 −12\nDesconsidere a presença de quaisquer\n(C) 4 × 10 −7\noutros íons e considere que a\n(D) 2,5 × 10 −6\nconcentração no plasma é determinante\n(E) 1 × 10 −5\npara a precipitação do oxalato.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 75,
+   "imagem": "img/fuvest-2022-1f-q075.webp",
+   "texto": "75\nUm marcador radioativo ( 24 Na) foi injetado em um ponto de\num cano de água subterrâneo e, na sequência, com um\ndetector sobre o solo, foi medida a radioatividade ao longo do\npercurso do cano. A figura a seguir esquematiza o local de\ninjeção do marcador e o perfil da radioatividade detectada ao\nlongo do cano.\nAssinale a alternativa que melhor explica o perfil da\nradioatividade.\n(A) No trecho 2 o cano está completamente entupido, por isso\na radioatividade diminui no trecho 3.\n(B) No trecho 2 há uma fissura no cano, o que resulta em\nacúmulo de marcador nesse trecho do solo.\n(C) O marcador radioativo flui no sentido contrário ao fluxo da\nágua, acumulando-se no meio do cano.\n(D) No trecho 3 a radioatividade é menor porque foi consu-\nmida por reações químicas ao longo do trecho 2.\n(E) No trecho 2 a radioatividade diminui devido ao fato de a\nmeia-vida do marcador ser curta.\nNote e adote:\nTempo de meia-vida do 24 Na = 15 horas.\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 76,
+   "imagem": "img/fuvest-2022-1f-q076.webp",
+   "texto": "76\nO hidróxido de alumínio (A l (OH) 3 ), ao precipitar em solução\naquosa, forma um sólido gelatinoso que pode ser usado como\nagente floculante no tratamento de água. Essa precipitação pode\nocorrer pela adição de um hidróxido solúvel a uma solução\naquosa ácida contendo um sal de alumínio solúvel, como o A l C l 3 .\nEntretanto, adicionando-se excesso de hidróxido ao meio, há a\nformação de íons A l (OH) 4− , espécie solúvel em água, e o\nprecipitado se solubiliza novamente. Dessa forma, dependendo\ndo pH do meio, uma dentre as espécies A l (OH) 4 − (aq), A l (OH) 3 (s)\ne A l 3+ (aq) estará presente na solução em quantidade maior que\nas demais, como exemplificado no esquema.\nA alternativa que mostra corretamente qual das espécies estará\nem quantidade maior que as duas outras em cada faixa de pH é:\n(A)\n(B)\n(C)\n(D)\n(E)",
+   "gabarito": "E"
+  },
+  {
+   "numero": 77,
+   "imagem": "img/fuvest-2022-1f-q077.webp",
+   "texto": "77\nPara o monitoramento ambiental no entorno de um posto de\ngasolina, coletou-se uma amostra de solo que foi submetida de\nforma integral à análise de naftaleno, um composto presente na\ngasolina. A concentração encontrada foi de 2,0 mg de naftaleno\npor kg de solo úmido. Sabendo que essa amostra de solo contém\n20% de água, qual é o resultado dessa análise por kg de solo seco?\n(A) 0,4 mg/kg\n(B) 1,6 mg/kg\n(C) 2,0 mg/kg\n(D) 2,2 mg/kg\n(E) 2,5 mg/kg",
+   "gabarito": "E"
+  },
+  {
+   "numero": 78,
+   "imagem": "img/fuvest-2022-1f-q078.webp",
+   "texto": "78\nO cátion Ba 2+ pode apresentar toxicidade aos humanos,\ndependendo de sua concentração e forma química. Por exemplo,\nBaSO 4 é pouco tóxico, sendo usado como contraste radiológico,\npor ser insolúvel em solução aquosa, enquanto BaCO 3 e Ba(NO 3 ) 2\nsão muito tóxicos, pois liberam Ba 2+ no organismo. Em um\nlaboratório foram feitos dois testes de solubilidade para\nidentificar o conteúdo de três frascos não rotulados que\npoderiam ser de Ba(NO 3 ) 2 , BaCO 3 ou BaSO 4 . Os resultados dos\ndois testes de solubilidade são apresentados a seguir.\nTeste I:\nTeste II:\nAdição de HC l diluído\nFrasco\nAdição de H 2 O destilada\nà temperatura ambiente\nà temperatura ambiente\n1\nInsolúvel, não houve\nInsolúvel, não houve\nliberação de gás\nliberação de gás\n2\nInsolúvel, não houve\nSolúvel, houve liberação\nliberação de gás\nde gás incolor\n3\nSolúvel, não houve\nSolúvel, não houve\nliberação de gás\nliberação de gás\nConsiderando os ensaios realizados, indique quais são os\ncompostos contidos nos frascos 1, 2 e 3, respectivamente.\nFrascos\n1\n2\n3\n(A)\nBaSO 4\nBaCO 3\nBa(NO 3 ) 2\n(B)\nBaCO 3\nBaSO 4\nBa(NO 3 ) 2\n(C)\nBa(NO 3 ) 2\nBaCO 3\nBaSO 4\n(D)\nBaSO 4\nBa(NO 3 ) 2\nBaCO 3\n(E)\nBaCO 3\nBa(NO 3 ) 2\nBaSO 4",
+   "gabarito": "A"
+  },
+  {
+   "numero": 79,
+   "imagem": "img/fuvest-2022-1f-q079.webp",
+   "texto": "79\nAo opor operários sob vigilância e operários a domicílio, a\nfábrica reduziu os seus custos sem se ver necessariamente\nobrigada a adotar uma tecnologia mais eficaz. O argumento\nda superioridade tecnológica não é, portanto, nem necessário\nnem suficiente para explicar o advento e o êxito da fábrica.\nStephen Marglin. “Origens e funções do parcelamento das tarefas”. Revista\nde Administração de Empresas, v.18, nº4. Rio de Janeiro, 1978, p.14.\nAdaptado.\nDe acordo com o economista norte-americano, o triunfo da\norganização econômica fabril deve ser compreendido\n(A) por meio do maciço investimento na tecnologia das\ngrandes máquinas, diminuindo os custos da produção.\n(B) pela capacidade de controlar e padronizar as diferentes\netapas do processo produtivo por meio da disciplina.\n(C) pelo processo de concentração de operários, que\nestimulou a disputa por vagas e a diminuição dos salários.\n(D) através da substituição das formas artesanais das oficinas\ndomésticas pela estrutura de guildas e corporações.\n(E) por meio de estratégias de gestão que incidiam na divisão\ndo trabalho e na introdução de bônus por produtividade.\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 80,
+   "imagem": "img/fuvest-2022-1f-q080.webp",
+   "texto": "80\nCândido Portinari. “Os retirantes” (1944). In: Marília Balbi. Portinari: pintor do\nBrasil. São Paulo: Boitempo, 2003, p. 142.\nIdentifique a alternativa mais adequada para expressar as\nrelações entre arte e sociedade no quadro:\n(A) A obra retrata o êxodo rural de um grupo de nordestinos,\nfugindo da fome, da seca e da miséria.\n(B) O quadro critica a incapacidade da SUDENE em propor\npolíticas públicas para a população nordestina.\n(C) A pintura veicula uma mensagem de esperança, ao opor o céu\nazul aos tons terrosos para designar a aridez da paisagem.\n(D) A imagem do grupo com corpos esquálidos e doentes\nevidencia uma visão preconceituosa sobre os nordestinos.\n(E) A tela expressa fortes convicções religiosas, ao retratar o\ncalvário dos nordestinos como uma passagem bíblica.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 81,
+   "imagem": "img/fuvest-2022-1f-q081.webp",
+   "texto": "81\nAntônio Vicente Mendes Maciel, Conselheiro de\nalcunha, (...) era cearense e nasceu (...) a 13 de março de 1830.\n(...) Aprendeu a ler, escrever e contar. (...) Andou estudando\nlatim, enxertando frases da língua de Horácio nos seus longos\n\"conselhos\", geralmente baseados na Bíblia sagrada, que\nconhecia razoavelmente. (...) Era apenas um peregrino,\nacompanhado de numeroso séquito; pequenos agricultores,\nnegros 13 de Maio, caboclos de aldeamentos, gente sem\nrecursos, doentes. (...)\nEm 1893 (...) Antônio Vicente se estabeleceu em\nCanudos (...). Rebatizou a localidade, dando-lhe o nome de\nBelo Monte. Criou um clima de tranquilidade local.\nRespeitavam-no. Seu monarquismo era utopia.\nDe vários pontos do sertão apareciam os\nconselheiristas (...). Caminhavam para lá movidos pela fé.\nQueriam morar ali, sem pensar em conquistar novas terras.\nNem restaurar a monarquia. Cá de fora, não entenderam\nassim. Interesses políticos e patrimoniais deram novos rumos\ne destino sangrento ao sertão do Conselheiro. (...)\nJosé Calazans. “O Bom Jesus do sertão”. Caderno Mais, Folha de S. Paulo.\nSão Paulo, 21/09/1997.\nO texto sugere que Antonio Conselheiro\n(A) representou a luta da Igreja Católica contra o regime\nrepublicano recém-instaurado no Brasil.\n(B) fez uso da sua educação formal para colocar em xeque os\ndogmas do catolicismo no Brasil.\n(C) defendeu a restauração da Monarquia por identificar-se\ncom os interesses políticos e patrimoniais das elites locais.\n(D) atraiu pessoas pobres do sertão nordestino com\nmensagens de fé e de acolhimento na comunidade.\n(E) liderou uma insurreição contra as estruturas sociais e\npolíticas implementadas pela República.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 82,
+   "imagem": "img/fuvest-2022-1f-q082.webp",
+   "texto": "82\nSe vamos à essência da nossa formação, veremos que na\nrealidade nos constituímos para fornecer açúcar, tabaco,\nalguns outros gêneros; mais tarde ouro e diamantes; depois,\nalgodão, e em seguida café, para o comércio europeu.\nCaio Prado Jr. Formação do Brasil Contemporâneo. São Paulo: Companhia\ndas Letras, 2011, p. 29.\nSobre o sentido da colonização do Brasil, é correto afirmar:\n(A) Permitiu o desenvolvimento de um extenso parque\nindustrial.\n(B) Caracterizou-se pela forte presença da mão de obra\nassalariada.\n(C) Esteve voltado, principalmente, para o mercado externo.\n(D) Baseou-se na produção de manufaturas têxteis ou alimentares.\n(E) Garantiu a expansão da pequena propriedade agrícola.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 83,
+   "imagem": "img/fuvest-2022-1f-q083.webp",
+   "texto": "83\nA revolta dos Malês, ocorrida em Salvador em 1835,\n(A) foi uma revolta organizada por escravizados e libertos,\ncontra a escravidão e a imposição da religião católica.\n(B) expressava as aspirações de liberdade dos escravos\nurbanos impedidos de comprar as suas cartas de alforria.\n(C) externava a indignação da população urbana branca com\nas práticas da violência e dos castigos públicos.\n(D) reivindicava mais autonomia para as províncias,\ncontrapondo-se à política centralizadora empregada pelos\ngestores imperiais.\n(E) fracassou em decorrência das dificuldades encontradas na\narregimentação de escravos dos engenhos do Recôncavo.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 84,
+   "imagem": "img/fuvest-2022-1f-q084.webp",
+   "texto": "84\nA respeito da Guerra do Peloponeso no séc. V a.C., é correto\nafirmar:\n(A) O conflito resultou das disputas comerciais e militares\nentre a Liga de Delos, liderada pela cidade-estado de\nAtenas, e os interesses assírios.\n(B) A guerra afetou a autonomia política e administrativa das\ncidades-estados, dando lugar à organização imperial.\n(C) A hegemonia ateniense foi dissolvida com o triunfo da Liga\ndo Peloponeso e as colônias na Ásia Menor foram\ndevolvidas aos persas.\n(D) A guerra marcou a decadência do militarismo espartano\nfrente aos exércitos atenienses, que defendiam a\ndemocracia.\n(E) O desabastecimento de escravos e a desorganização da\nprodução agrícola contribuíram para a perda da\nhegemonia grega no Mediterrâneo.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 85,
+   "imagem": "img/fuvest-2022-1f-q085.webp",
+   "texto": "85\nLeonardo da Vinci: Leben und Werk. Stuttgart, Zürich: Belser Verlag, 1989, p. 171.\nO “Homem Vitruviano” foi desenhado por Leonardo da Vinci\n(1452-1519) com base em um tratado sobre Arquitetura\nescrito e ilustrado por Marcus Vitruvius no século I a.C., na\nRoma Antiga. A obra ganhou versões impressas e traduções\nnos séculos XV e XVI.\nO desenho de Da Vinci expressa propostas do movimento\nRenascentista ao\n(A) buscar perpetuar obras da Antiguidade Clássica por meio\nda cópia e da salvaguarda.\n(B) censurar os estudos da anatomia humana herdados da\nAntiguidade Clássica.\n(C) retomar a percepção da simetria e das proporções\nhumanas como ideal do Belo.\n(D) apoiar-se no legado da Antiguidade greco-romana para\nreafirmar o teocentrismo.\n(E) separar a arte do pensamento humanista e do\nconhecimento matemático.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 86,
+   "imagem": "img/fuvest-2022-1f-q086.webp",
+   "texto": "86\nA noção de ditadura variou ao longo da História e dependeu das\ncaracterísticas políticas de cada sociedade.\nA esse respeito, assinale a alternativa correta:\n(A) Na Roma Antiga, durante o período republicano, a\nditadura era uma magistratura de caráter extraordinário,\ndelimitada legalmente e estabelecida por um período\ndeterminado, com uma finalidade definida.\n(B) Com o golpe do 18 Brumário (1799), instaurou-se uma\nditadura parlamentar na França, sob o comando de\nNapoleão Bonaparte, cujo objetivo fundamental era\nreescrever a Constituição francesa.\n(C) A ditadura militar brasileira, estabelecida em 1964, teve\ncomo característica o poder exclusivo das Forças Armadas\ne o fechamento das instâncias parlamentares durante\ntoda a sua vigência.\n(D) O conceito da ditadura do proletariado foi elaborado por\nKarl Marx, defendido por anarquistas e comunistas, e\nprevia a instauração permanente de um regime\nautoritário, como o da antiga União Soviética.\n(E) A ditadura nazista caracterizava-se por um complexo\narranjo institucional baseado na articulação política entre\no Poder Executivo, as Forças Armadas, o Parlamento\nalemão e os poderes legislativos municipais.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 87,
+   "imagem": "img/fuvest-2022-1f-q087.webp",
+   "texto": "87\nMartín Fierro acredita na importância da contribuição\nintelectual da América, prévia tesourada a todo cordão\numbilical. Acentuar e generalizar para as demais\nmanifestações intelectuais o movimento de independência\niniciado, no idioma, por Ruben Darío, não significa,\nentretanto, que haveremos de renunciar, nem muito menos\nque finjamos desconhecer que todas as manhãs nos servimos\nde um creme dental sueco, de umas toalhas francesas e de um\nsabonete inglês.\nMartín Fierro tem fé em nossa fonética, em nossa visão,\nem nossas maneiras, em nosso ouvido, em nossa capacidade\ndigestiva e de assimilação.\n“Manifesto Martín Fierro”, de Oliverio Girondo, 15/5/1924. In: Jorge\nSchwartz, Vanguardas latino-americanas: polêmicas, manifestos e textos\ncríticos. São Paulo: EDUSP; Iluminuras; FAPESP, 1995, p. 116.\nA revista de vanguarda literária Martín Fierro foi fundada em\nBuenos Aires, na Argentina, em 1924. O “Manifesto”,\npublicado no seu nº 4, apresentava sintonias com o\nmovimento modernista paulistano, ao\n(A) propor a ruptura com tradições estéticas e valorizar a\nautonomia criativa local, sem desprezar os intercâmbios\ncom a Europa.\n(B) defender a obediência aos modelos artísticos da França e\nda Inglaterra, reconhecendo sua contribuição intelectual.\n(C) repudiar o movimento de independência iniciado, na\nlíngua espanhola, pelo poeta nicaraguense Ruben Darío.\n(D) buscar inspiração nos modos de expressão popular e\nartística originários da América e revolucionar os hábitos\nde consumo.\n(E) condenar a inquietação intelectual e a experimentação\nliterária em favor da cultura de massas e do conformismo.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 88,
+   "imagem": "img/fuvest-2022-1f-q088.webp",
+   "texto": "88\nRobert Capa. Omaha Beach, 6 de junho de 1944. In: Robert Capa. São Paulo, Cosac\nNaify, 2012; foto 39.\nYevgeny Khaldei. Berlim, maio de 1945. In: Letícia Yazbek, Aventuras da História.\nDisponível em https://aventurasnahistoria.uol.com.br/noticias/historia-hoje/.\nAs fotos de Robert Capa e de Yevgeny Khaldei foram produzidas\npara documentar eventos da Segunda Guerra Mundial. Referem-\nse, respectivamente,\n(A) ao desembarque dos Aliados para libertar a França da\nocupação nazista e ao avanço decisivo das forças Aliadas\nfrente à Alemanha.\n(B) aos conflitos no Canal da Mancha, que deram início à Primeira\nGuerra Mundial, e à tomada de Berlim pelas tropas soviéticas.\n(C) à fuga de membros da Resistência francesa para a Inglaterra\napós a invasão nazista e ao início da construção do Muro de\nBerlim.\n(D) às batalhas no Mediterrâneo, que deram início à Segunda\nGuerra Mundial, e à incorporação da Alemanha à “cortina de\nferro”.\n(E) ao confronto entre a República de Vichy e a Resistência\nfrancesa e à vitória da União Soviética sobre os Aliados.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 89,
+   "imagem": "img/fuvest-2022-1f-q089.webp",
+   "texto": "89\nNo cerne da ideologia Bannon há uma série de contrastes\nextraordinariamente simplificadores entre bom e mau,\nsagrado e profano. Essa série semiótica cria perigosos outros,\ncuja existência contínua ameaça a boa gente que constitui o\nque Bannon descreve como a “verdadeira América”(...). Numa\nordem social democrática, o conflito entre oponentes\npartidários é agonístico, não antagonístico. Bannon vê de\noutra forma. Não há espaço para a cortesia em seu universo\n(...).\nJeffrey Alexander. “Vociferando contra o iluminismo: A ideologia de Steve\nBannon”. Sociologia & Antropologia, vol. 08, n. 3, set-dez, 2018.\nO antagonismo é a luta entre inimigos, enquanto o agonismo\nrepresenta a luta entre adversários. (...) o propósito da política\ndemocrática é transformar antagonismo em agonismo. Isso\ndemanda oferecer canais por meio dos quais às paixões coletivas\nserão dados mecanismos de expressarem-se sobre questões que,\nainda que permitindo possibilidade suficiente de identificação,\nnão construirão o opositor como inimigo, mas como adversário.\nChantal Mouffe. “Por um modelo agonístico de democracia”. Revista de\nSociologia e Política, Curitiba, n. 25, nov. 2005, p. 11-23.\nA primeira citação foi retirada de um texto em que o sociólogo\nJeffrey Alexander desenvolve o que compreende ser a\nideologia de Steve Bannon, assessor do ex-presidente norte-\namericano Donald Trump. A segunda citação foi extraída de\num artigo em que a cientista política Chantal Mouffe\ndesenvolve a noção de “pluralismo agonístico”. A partir da\nperspectiva apresentada nas citações, é correto afirmar que a\nideologia de Steve Bannon\n(A) defende uma ordem social agonística baseada na divisão\nentre grupos e nos conflitos entre inimigos políticos.\n(B) sustenta uma ordem social baseada em consensos e que\nnão admite conflitos entre adversários.\n(C) defende a possibilidade de conflitos entre adversários,\nmas não admite a lógica antagonística da aniquilação e\nexclusão do inimigo.\n(D) defende uma ordem social dividida entre bom e mau e que\ntransforma o antagonismo em agonismo.\n(E) sustenta uma ordem social antagonística fundada na\ndivisão da sociedade entre lados opostos que devem ser\nentendidos como inimigos.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 90,
+   "imagem": "img/fuvest-2022-1f-q090.webp",
+   "texto": "90\nO IPHAN - Instituto do Patrimônio Histórico e Artístico\nNacional e a Prefeitura da Cidade do Rio de Janeiro envidaram\nesforços no sentido de deixar exposta para a contemplação da\npopulação parte do Sítio Arqueológico do Cais do Valongo,\ncom o objetivo de apresentar ao visitante, através daquele\npequeno, mas representativo espaço, a materialização do\nmomento mais trágico da nossa história, fazendo com que ele\nnão seja esquecido. (...)\nA história do Cais do Valongo e do seu entorno está\nindissoluvelmente ligada à história universal, por ter sido a\nporta de entrada do maior volume de africanos escravizados\nnas Américas. O Rio de Janeiro era, então, a mais afro-\natlântica das cidades costeiras do território brasileiro (...).\nDisponível em http://portal.iphan.gov.br/.\nO texto integra a proposta elaborada pelo IPHAN, em 2016,\npara inscrição do Sítio Arqueológico do Cais do Valongo na\nlista do Patrimônio Mundial. Com base no documento, a\nhistória do Cais do Valongo se entrelaça à história universal,\npois se relaciona ao\n(A) tráfico de africanos escravizados para a América de\ncolonização portuguesa.\n(B) Rio de Janeiro como única cidade escravista das Américas\nna época colonial.\n(C) trabalho de escavação realizado por arqueólogos\nestrangeiros no passado.\n(D) fluxo de escravizados do Brasil para outras partes das\nAméricas, após as independências.\n(E) esforço do IPHAN para silenciar a história da escravidão no\nmundo atlântico.\nV",
+   "gabarito": "A"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "fuvest-2022-2f-d1",
+ "banca": "FUVEST",
+ "exame": "Vestibular FUVEST",
+ "ano": 2022,
+ "dia": null,
+ "fase": 2,
+ "descricao": "2ª fase, 1º dia (Língua Portuguesa e Literatura; discursiva). numero = grupo×100 + questão dentro do grupo.",
+ "total": 10,
+ "questoes": [
+  {
+   "numero": 101,
+   "imagem": "img/fuvest-2022-2f-d1-q101.webp",
+   "texto": "01\n \n\n                ! \"\n    \n #\n$%& &'()'*+% , -.+/&'0.1 .&+*(+. 2*3/-. 4'5%/ 67 .-%( ).&. 8&*.& /9 8%8.&\n:; <=>?@>=A; <@BA; C@ DAE>FG =@AH IJ@ KGB;@DJ>J KL@DA=A? @? MNNOP Q? A?>DG G @BKGBR=GJ BA AHC@>A K@=RA E@S @\nGT@=@K@J AHDJ?A; <@BA; CG AB>?AH IJ@ R>BLA @BKGBR=ACG ?G=RG BG ?@>G CG ?ARG R@?<G; ABR@;P UV@<G>;W @? MNXXW J? KAK>IJ@\n?@ C>;;@ IJ@ R>BLA AHDJ?A; RA?YZ?W <@=DJBRGJ ;@ @J IJ@=>AW @=A? J?A; G>RGP [JBRABCG KG? A; IJ@ @J R>BLAW \\] CAEA <A=A\nTAS@= J? <@CA^G CG KGKA=UW KGBRA [G;Z _>`JBAP\naA=A KG?<H@RA= A <@^AW @H@ <=@K>;GJ KGBRA= KG? ?A>; CGA^b@; C@ A?>DG; @ KGBL@K>CG;P [G;Z ?@;?G KL@DGJ A =GCA=\n<@HA THG=@;RA AR=]; CA; <@BA; CG Y>KLGW ?A; BFG @BKGBR=AEA BACAP c; ABG; <A;;AEA?W @ @H@ ;@DJ>A <=GKJ=ABCG @ @;<@=ABCGP\nde @? MNXf @BKGBR=GJ BGEA; <@BA;P V@;;A E@SW J? KGH@DA G <=GKJ=GJ <A=A IJ@ @H@ J;A;;@ ;@J; CGR@; A=Rg;R>KG; <A=A\nK=>A= J? A?A==ACG= C@ KAY@HG KG? <@BAP [G;Z RG<GJ TAS@= @ A>BCA KGB;@DJ>J T>KA= KG? AHDJ?A; <A=A KGHGKA= @? ;@J KGKA=P\n[G;Z H@?Y=A CA; KGBE@=;A; KG? A?>DG; RGKACG=@; C@ RA?YG= IJ@ ;@?<=@ TAHA? IJ@ ;@ J? AB>?AH GJ J?A ]=EG=@ ;GT=@J\nGJ ?G==@J <A=A IJ@ KGB;@DJ>;;@? <=GCJS>= G >B;R=J?@BRG ?J;>KAHW G ?gB>?G IJ@ @H@; C@E@=>A? R@= Z =@;<@>RGP\nh i  \n       jjkjl    \"m  n  \n  jljkj o   \npq rstuvwxy z {y|}v~z ~p ysty{{z pv{ p{{x{}p~z |z z|}ys}z ~z p| |vz ztpp|~zp z z tzy{{z ~y tz~xz\n~z zp y|vz|p~z |p |z}vp\nq tz|}y p x|z {v|}}vp ~y tz y{tyv}z  |p}xyp y ystuvwxy zz p ysty{{z z|}vxv tpp z {y|}v~z ~z }}xuz y\n~z }ys}z",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 102,
+   "imagem": "img/fuvest-2022-2f-d1-q102.webp",
+   "texto": "02\n>KG >?AD>BABCG ;@W @? J?A E>;>RA  KA;A C@ A?>DG;W AHDJZ? ?@ =@K@Y@= C@ KA=A T@KLACA GJ C@?G=A= <A=A AY=>= A <G=RAW ;@?\nC@?GB;R=A= G ?gB>?G C@ AKGHL>?@BRGP _AHE@S @J <@=KA G R@;FG CG @BKGBR=GW C@>ABCG RGCA ?>BLA @?<GHDA^FG CG HACG C@ TG=AP\naA=A ?>?W BFG Z C>T@=@BR@ CG ;@=E>^G @? J? =@;RAJ=ABR@P aG= ?A>; IJ@ A KG?>CA ;@\\A ?@J <GBRG <=>BK><AHW \\] <@=C> H>R@=AH?@BR@ A\nTG?@ IJABCG TJ> >DBG=ACAW <=@;@BK>@> @==G; @ ?A>; @==G; C@ ABGRA^b@; C@ <=ARG;W KAJ;ABCG @;R=@;;@ BG; KG?@B;A>; @ BA KGS>BLAW\n;@? KGBRA= A; AR>RJC@; C@;AD=AC]E@>; CA Y=>DACAW IJABCG =@;GHE@ C>;KJR>= BG ?@>G CG ;AHFGP V@ GJR=G HACGW K=>@> HA^G; KG?\n=@;RAJ=ABR@; @ YA=@; <G= KGBRA CG AR@BC>?@BRG >?<@K]E@HW CG; IJA>; G; KG?@; @ Y@Y@; BFG ;FG B@K@;;A=>A?@BR@ ?A=AE>HLG;G;P c\nTARG C@ ?@ ;@BR>= AKGHL>CA @ Y@? AR@BC>CA KAJ;A J? D=ABC@ <@;G BAIJ>HG IJ@ RABRG ;@ TAHA BA DA;R=GBG?>A A @<@=>BK>AP\n  ¡ ¢£  ¤ ¥¦¡ §¨©ª«¬­ ®¨¯°¡ ±²³´µ¶·¡ £¤¸¤²¡\npq rstuvwxy z {y|}v~z ~z }yz uv}ypuy|}y |z }y¹z ºz pv{ wxy p zv~p {y»p yx tz|}z tv|vtpu » ty~v uv}ypuy|}y\np zy wxp|~z xv v¼|zp~p\nq ½yy{y¾p z ysy}z px{p|~z y{}y{{y |z{ zy|{pv{ y |p zv|¹p {y z|}p p{ p}v}x~y{ ~y{p¼p~¾yv{ ~p v¼p~p\n{x{}v}xv|~z z{ }yz{ ¼vp~z{ tz zx}z{ ~y {y|}v~z ywxv¾puy|}y\nA",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 103,
+   "imagem": "img/fuvest-2022-2f-d1-q103.webp",
+   "texto": "03\n \n \n     \n \n    \n     \n   !  \n    \n  \"  ! \n   !  \n  \"  ! \n \n !  \n \n#      \n !  \n$   !    \n#      \n  \"  ! \n$   !    \n+! % &,\n -\n  \"  ! \n. -   !  !\n% &'   \n!  \n(\" \"  ! !\n* /  0 \n)\n   \n* !0 0\n*   &  & \n* ,   \n12345 6789:7; <; =5>>8?<8@ ABCDE\nFG HIJKLMNO MNFLP PQR RP NSLTOUPRP OV RJRPLWQR FJUOPOSXFYRP SF KOXUF YF ZFSWQR O OIOVJKL[LMNO ZRV YRLP TOUPRP\\\n]G ^RSPLYOUFSYR F FV]L_NLYFYO JUOPOSXO SR TOUPR `aP YLFP POV PRK UFLFSYRbc XUFSP[RUVO F RUFWQR UOYNdLYF YO _OUeSYLR OV\nYNFP JRPPfTOLP RUFWgOP YOPOSTRKTLYFPc ZRSXOVJKFSYR RP YL[OUOSXOP POSXLYRP YR TOUPR\\",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 104,
+   "imagem": "img/fuvest-2022-2f-d1-q104.webp",
+   "texto": "04\nh  #  ( /  #  (    #  ( i $ 0! # j      0 k0 !  0 / \n! !0 !   !  !      /  0&   0 / \"  !     j0 \n!l  &    i $  # j   j!/ !   \"  )/ !     j !\n%  k   % \"    0  i m!     &    !       /  & \n!   0     !       &- !    ! 0      & ' i n  \"  !\n #  ( i    !   o/ !0       ,  00 / - - 0   ! p!/\n0! !      ! &,       h! ! ! -   0    /\n &    /    !i q   0  / ,        /  ! 0 \"  0 \" !   /\n\" !l / q* 0    %  ** !i r !    0    !    XOZsSR VNPLZ/  ! \n 0  00/   0 \n   &- t  ! ! i r  #  (  / ! !/ %  \n!   !0    & u 0 !     !   &    !    v u  ! \n !   !   -/    0  ,&    !j / !  & !   0   !  0 \n hw& 0  !x/  ! ! 0  !  l   !l 00 / ,   y/   ,/\n 00  ! i\nz3>{35 |}}3?~;9E      E 35 <; 8?;395 ;459<@ E <88<5E\nFG JRSXO F [L_NUF YO KLS_NF_OV NXLKLdFYF JFUF YOPZUOTOU R `PO_NSYR LRb O OIJKLMNO ZRVR R PON NPR ZRSXUL]NL JFUF F\nZFUFZXOULdFWQR OV ZNUPR SR XOIXR\\\n]G ^RV ]FPO SR XOIXRc OIJKLMNO OV MNO ZRSPLPXO R `XOUZOLUR LR YO FSOLURb\\\nA",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 105,
+   "imagem": "img/fuvest-2022-2f-d1-q105.webp",
+   "texto": "05\n \n           \n\n!\"! # $!%\"# &'%()# *+!#,%)- ' *./!- .!0,%)(1'\" 2%  .!0#,%134! 5' #'0,)5! 5!# 615%!# 7 ' 89\n(\n!0#)5'%05! ! .!0,':,! 5 ,)%)0/; .!\"! ! '010.)5!% #' &< 0! =>,)\"! 615%!9",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 106,
+   "imagem": "img/fuvest-2022-2f-d1-q106.webp",
+   "texto": "06\n? @ABCD EFGEH IJ KGILJ M IJ NABDIFD OPLBJQ DK RCAEDH D IE SEHDCFBIE M ITJ LBU ADCVDBFJ EJC WEHJADC LJ RCHTX YTJ LBU ADCVDBFJQ LD\nZDBFJ EH[GKQ \\ KDIFEHBLELD LJC ]AE^DCQ @JKJ _GDADK EH[GIC AE@BCFECX `BU ADCVDBFJ \\ HGFE EIFB[E DIFAD aEIEFBCKJ D VAE[KEFBCKJX\nbIFAD aEIEFBCKJ D VHGAEHBCKJX bIFAD aEIEFBCKJ D FJHDAcI@BEX N dd LD CDFDK^AJ ITJ FDK E WDA IDK KDCKJ @JK E _GDCFTJ LD CD\nE ?KPAB@E P ^JE JG K]Q CD J @EVBFEHBCKJ P EKDEeELJA JG FAEICVEADIFDQ CD E [HJ^EHBUEeTJ LDWDABE @DCCEA JG ITJX `BU ADCVDBFJQ\nBCFJ CBKQ \\ ADBWBILB@EeTJ FfVB@E LJC aEI]FB@JCg CD ZGH[J EH[J KEGQ DHBKBIJhJQ ZGIFJ @JK CDGC WBUBIiJCX jXXXk OBIiE VAlVABE BIacI@BE\nDK mDAGCEHPK FJAIJGhKD GK DCVD@BEHBCFE DK aEIEFBCKJ @JKVEAELJX mDAGCEHPK LE KBIiE BIacI@BEQ H] VDHJC BLJC LJC EIJC dnopQ\nDAE @iDBE LD VAJaDFEC DCVJIFcIDJCQ qDLDIFJADC D ODCCBECX ODCKJ EFGEHKDIFDQ @ELE GK LJC ZDAJCJHBKBFEIJC FDK CGE alAKGHE\nVDCCJEH LD CEHWEeTJ BICFEIFcIDEX rJLJC LBUDK _GD WBDAEK E mDAGCEHPK M D E_GB @BFJ GKE aAECD aEKJCE LD GKE WDHiE @EIeTJ M\nVEAE @JICFAGfhHE D VEAE CDADK @JICFAGfLJC VJA DHEX `D aEFJQ EH[GIC LDHDC D EH[GKEC LDHECQ ZGLDGCQ @ABCFTJC D KGeGHKEIJCQ\nADEHKDIFD WBDAEK E mDAGCEHPK ITJ FEIFJ VEAE @JICFAGfhHEQ VEAE CDADK @JICFAGfLJC VJA DHEQ KEC EIFDC VEAE CDADK @AG@BaB@ELJCQ\nJG VEAE @AG@BaB@EA JGFAJCQ JG EK^EC EC @JBCECX s] GK FAEICFJAIJ KDIFEH AD@JIiD@BLJQ GKE LJDIeE KDIFEH LDCB[IELE tCfILAJKD\nLD mDAGCEHPKug EC VDCCJEC WTJ VAE mDAGCEHPKQ BIEHEK J KEAEWBHiJCJ EA FAEICVEADIFD LE KJIFEIiE DQ DK CD[GBLEQ\nADVDIFBIEKDIFDQ BIaHEKEKhCD D VvDK aJ[J IGKE KDC_GBFEQ IGKE B[ADZE JG CBIE[J[EX NGQ LD JGFAE aJAKEQ FBAEK EC AJGVECQ\nCJ^DK IGKE VDLAE D @JKDeEK E VAJaDFBUEAX YBI[GPK DC@GFEQ ZEKEBCX\nw x yz {|}~ | }~|     \n !\"!  *#05%!\"' 5' '%1#>\"- 2!5' #'% %'>.)!05  *%')&)05).34! ,2). 5!# $0,).!#-9\n( # 51# !.!%%<0.)# 5 2>&% *,%0#2%'0,'- 2%'#'0,\" ! \"'#\"! #'0,)5! 0! ,':,!9 1#,)$)61'\nA",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 107,
+   "imagem": "img/fuvest-2022-2f-d1-q107.webp",
+   "texto": "07\n \n\n \n\n     \n         \n           \n! \n \"    \n\n #    \n \"        \n$      %    \n%     \n&       '\n&    '\n& !    '\n()*+,- .*/00,12 23 412*)235 6789:; <=>?@;5\nAB CDE FGH A HIJEHKKLD HM NOPQRK   KGKSNTAU OD TVTGQD WD JDHMAU GM THDE WH NEDONAX\nYB ZA SNESGOKT[OSNA WD JDHMAU DK THEMDK \\YEGTD EDMAOSH] H \\^DQ_HTNOK]U SDMD ^DEMAK QNTHE`ENAKU EHJEHKHOTAM WN^HEHOTHK aNKbHK\nWH MGOWDU HKTAYHQHSHOWD HOTEH KN GM SDOTEAKTH KNMYcQNSDd eDMHOTHd",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 108,
+   "imagem": "img/fuvest-2022-2f-d1-q108.webp",
+   "texto": "08\nf    g #  g f %    g #   f    h i #  f   #\n#   f      #   f     #    j       f    k  \n f        l   m    n     f       \ng     %              #        o    \n  p  k  q    r          p\nf       !      #  i f   f   %       \nl  f g g    f   f !  f  f   f g     \ng               #     \"  s g       s g    n\n    s g   \nt/u30 v*)w) x y.z-{/*-, 23 /0 )/-31|3}~ 031-)w30 2, {*,1z-|) ) -3/ )0zw, *){z+z)1, t)0,- ,* ,{)-z, 2, )1|)* 30 ,031)w30 ),- {z1/31|) )1,-\n2, )/|,* 23 6 8?@;5\nAB eDMD DK aAQDEHK TNSDK WHKSENTDK JDE GYHM EAPA SDOKTNTGHM A EHKNKTROSNA H QDPD A THOKLDB FGH ^DEMA D JDOTD WH aNKTA HM\nh X\nYB eAEASTHENH D JHE^NQ WH GQNLD AaAEHKU WH MDWD A HIJQNSAE JDE FGH D SEDONKTA D SDOKNWHEA GM NONMNPD WD \\JATENMOND SDMGM]d\nA",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 109,
+   "imagem": "img/fuvest-2022-2f-d1-q109.webp",
+   "texto": "09\n                           \n                            \n                          !     \n    \"   # $        \"        % \"  \n       # &'    (      '             \n             )             (  \n         \n*+,+ -./012,34 5+416 789:; <=>8?6\n  '     '   '         @ '   ' A    )   \n  A   \n                     B    C   ' D   \n   )                %        \"   E\n                  F        G \"H      \n %         \n*+,+ -./012,34 5+416 IJK3L2/1 3 M3203NO.L/P1QR STU89VW86\nXY Z[\\ ]^_ `ab^acade X[ \\_f[\\gX\\ Xh i_\\h[jXb_jh g[ f[jk[ g_ lXgXhe h_ f[d[m_ kXjk[ _ k_d m[jkXg_ g_ fn[\\X\\o\npY q[jhag_\\Xjg[ Xh ag_aXh g[ X^k[\\ _d k[\\j[ gXh iXcXm\\Xh  'e @ ' _   e i[g_rh_ gas_\\ ]^_  t u ^dX\nvwxyz{|o }_h_jm[cmX X h^X \\_hi[hkX f[d pXh_ jX c_ak^\\X gX [p\\X~",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 110,
+   "imagem": "img/fuvest-2022-2f-d1-q110.webp",
+   "texto": "10\n                             \n                   !          \n                  C       A !       \n                             \n                  \"     '         \nt            \nIN/+4 214/K3/2+4 01L110 O03+4Q6 531,+6 +KM1 3 ,+ 1.K+R 6\nXY ^Xc i_\\h[jXb_d g_   u _hkabdXkasXgX i_c[ d_hd[ d[kam[ Xi\\_h_jkXg[ jX dXku\\aXo ^hkala]^_ X h^X\n\\_hi[hkX~\npY [ \\[dXjf_ g_ `aX q[^k[e f[d[ X i_\\h[jXb_d [d[ Zajk[ \\_i\\_h_jkX ^dX f\\ kafX X[ gak[ ¡n[d_d famacasXg[¢o\nA",
+   "gabarito": "discursiva"
+  }
+ ]
+}

@@ -236,6 +236,7 @@ def recortar(pdf, pecas, destino, regua=False):
 
 
 _CACHE = {}
+NAO_LARGO = {int(x) for x in os.environ.get("NAO_LARGO", "").split(",") if x}  # questões que não são de largura total (força)
 EXTRAS = []  # marcadores injetados à mão: [pagina_idx, y, numero, coluna]
 REGUA = [False]
 FOLGA = [-3.0]  # fim da questão anterior = y0 do marcador + FOLGA (muda em provas com marcador colado)
@@ -325,6 +326,7 @@ def marcar_sequencia(pages, total=63, colunas=False):
         if sum(1 for l in p["lines"] if re.match(r"^\(A\)", l["text"].strip())) >= 2:
             ini = pi
             break
+    ini = int(os.environ.get("INI_PAGE", ini))
     cands = {}
     for pi in range(ini, len(pages)):
         pg = pages[pi]
@@ -445,7 +447,7 @@ def processar_moderno(pdf, pages, saida, rotulo):
             continue
         largo = {}
         for (y, q, c) in pg["marc"]:
-            if c == 0 and (W > 700 or tinta_na_calha(pdf, pi, W, y, pg)):  # W>700: ampliadas, coluna única
+            if c == 0 and q not in NAO_LARGO and (W > 700 or tinta_na_calha(pdf, pi, W, y, pg)):  # W>700: ampliadas, coluna única
                 prox = [yy for (yy, _, _) in pg["marc"] if yy > y + 5]
                 fim_ = (min(prox) + FOLGA[0]) if prox else (fim_largura_total(pdf, pi, W, y, base) if REGUA[0] else base)
                 largo[q] = (y, fim_)
@@ -582,7 +584,7 @@ def main():
             p["G"] = float(sys.argv[4])
     modo = "moderno" if sum(len(achar_marcadores(p)) for p in pages) > 20 else "antigo"
     if len(sys.argv) > 5 and sys.argv[5].startswith("numeros"):
-        print("marcadores numéricos:", marcar_sequencia(pages, colunas=sys.argv[5] == "numeros-col"))
+        print("marcadores numéricos:", marcar_sequencia(pages, total=int(os.environ.get("TOTAL", 63)), colunas="col" in sys.argv[5]))
         FOLGA[0] = 1.0
         modo = "moderno"
     resultado = []

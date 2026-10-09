@@ -17,7 +17,8 @@ def main():
     destino = content / "questoes"
     total = 0
     indice = []
-    for pasta in sorted((content / "enem").iterdir()):
+    pastas = sorted((content / "enem").iterdir()) + (sorted((content / "fuvest").iterdir()) if (content / "fuvest").exists() else [])
+    for pasta in pastas:
         dj = pasta / "dados.json"
         cj = classes / f"{pasta.name}.json"
         if not dj.exists() or not cj.exists():
@@ -42,6 +43,7 @@ def main():
                 f"exame: {dados['exame']}",
                 f"ano: {dados['ano']}",
                 f"dia: {dados['dia'] if dados['dia'] else 'null'}",
+                f"fase: {dados.get('fase') or 'null'}",
                 f"numero: {q['numero']}",
                 "origem: oficial",
                 f"disciplina: {c['disciplina']}",
@@ -49,7 +51,7 @@ def main():
                 f"habilidade: {c['habilidade'] if c.get('habilidade') else 'null'}",
                 f"tema: \"{c['tema']}\"",
                 f"classificacao_confianca: {c['confianca']}",
-                "gabarito: pendente",
+                f"gabarito: {q.get('gabarito') or 'pendente'}",
                 f"imagem: {img if img else 'null'}",
             ]
             if c.get("obs"):
@@ -61,7 +63,7 @@ def main():
             q.update(disciplina=c["disciplina"], subtopico=c["subtopico"], habilidade=c.get("habilidade"), tema=c["tema"],
                      confianca=c["confianca"], obs=c.get("obs", ""), arquivo=f"questoes/{c['disciplina']}/{c['subtopico']}/{nome}.md")
             q["imagem"] = f"questoes/{c['disciplina']}/{c['subtopico']}/{img}" if img else None
-            indice.append(dict(id=nome, ano=dados["ano"], dia=dados["dia"], numero=q["numero"], disciplina=c["disciplina"], subtopico=c["subtopico"], habilidade=c.get("habilidade"), tema=c["tema"], arquivo=q["arquivo"]))
+            indice.append(dict(id=nome, banca=dados["banca"], exame=dados["exame"], fase=dados.get("fase"), gabarito=q.get("gabarito") or "pendente", ano=dados["ano"], dia=dados["dia"], numero=q["numero"], disciplina=c["disciplina"], subtopico=c["subtopico"], habilidade=c.get("habilidade"), tema=c["tema"], arquivo=q["arquivo"]))
             total += 1
         json.dump(dados, open(dj, "w"), ensure_ascii=False, indent=1)
         shutil.rmtree(pasta / "img", ignore_errors=True)
@@ -71,7 +73,7 @@ def main():
     for i in indice:
         por.setdefault(i["disciplina"], {}).setdefault(i["subtopico"], 0)
         por[i["disciplina"]][i["subtopico"]] += 1
-    linhas = ["# Banco de questões oficiais", "", "Questões de provas oficiais, separadas por disciplina e subtópico. Gabaritos pendentes. Cada questão tem imagem + `.md` com metadados.", ""]
+    linhas = ["# Banco de questões oficiais", "", "Questões de provas oficiais, separadas por disciplina e subtópico. Gabarito oficial incluído quando a prova foi enviada com ele (FUVEST 1ª fase); nas demais, pendente. Cada questão tem imagem + `.md` com metadados.", ""]
     for d, subs in sorted(por.items(), key=lambda x: -sum(x[1].values())):
         linhas.append(f"## {DISC_NOME.get(d, d)} — {sum(subs.values())}")
         for s, n in sorted(subs.items(), key=lambda x: -x[1]):

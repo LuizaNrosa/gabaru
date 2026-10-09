@@ -1,0 +1,228 @@
+{
+ "id": "fuvest-2021-2f-esp",
+ "banca": "FUVEST",
+ "exame": "Vestibular FUVEST",
+ "ano": 2021,
+ "dia": null,
+ "fase": 2,
+ "descricao": "2ª fase, provas específicas (discursivas). numero = grupo×100 + questão dentro do grupo.",
+ "total": 36,
+ "questoes": [
+  {
+   "numero": 101,
+   "imagem": "img/fuvest-2021-2f-esp-q101.webp",
+   "texto": "M01\nA figura mostra o esboço de um estacionamento com forma retangular de dimensões 40m por 100m. O proprietário instalou\n4 câmeras de segurança distribuídas conforme a figura. A câmera A cobre a região I, as câmeras B e C cobrem a região II e a\ncâmera D cobre a região III. A figura apresenta as regiões I, II e III em cor e fornece as medidas necessárias.\na) Determine a área da região I.\nb) Determine a área da região II.\nc) Qual é a porcentagem da área da região que não é vigiada por câmera alguma, em relação à área total do estacionamento?\nNote e adote:\nA figura apresentada não está, necessariamente, em escala.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 102,
+   "imagem": "img/fuvest-2021-2f-esp-q102.webp",
+   "texto": "M02\nSão dados os pontos no plano cartesiano 𝑃 = (3; 3), 𝑃 = (5; 1), 𝑃 = (3; −1) e 𝑃 = (−2; 5).\na) Determine a equação da reta que passa por 𝑃 e é paralela à reta que passa por 𝑃 e 𝑃 .\nb) Determine a equação da circunferência que passa pelos pontos 𝑃 , 𝑃 e 𝑃 .\nc) Sendo 𝐶 a circunferência do item (b) e 𝑃 o ponto de intersecção de 𝐶 com o eixo 𝑂𝑥, que está mais próximo da origem,\ndetermine a equação da reta tangente a 𝐶 em 𝑃.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 103,
+   "imagem": "img/fuvest-2021-2f-esp-q103.webp",
+   "texto": "M03\nÉ dado o sistema linear\n2𝑥 + 3𝑦 = 5\n,\n𝑝𝑥 + 𝑞𝑦 = 2\nem que 𝑝 e 𝑞 são números reais.\na) Determine todos os valores de 𝑝 e 𝑞 para que o sistema seja possível e indeterminado (isto é, tenha mais do que uma\nsolução).\nb) Determine todos os valores de 𝑝 e 𝑞 para que o sistema tenha solução (𝑥; 𝑦) com 𝑥 = 0.\nc) Determine todos os valores de 𝑝 e 𝑞 para que o sistema não tenha solução.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 104,
+   "imagem": "img/fuvest-2021-2f-esp-q104.webp",
+   "texto": "M04\nUm parque industrial com 24 indústrias foi estruturado de forma que seu sistema de esgoto tivesse a estrutura mostrada na\nfigura. Um serviço de inspeção no ponto O detectou uma substância proibida que pode ter vindo de qualquer uma das\nindústrias, com igual probabilidade. Para autuar as indústrias irregulares, o serviço se decidiu pela seguinte estratégia: usar 6\nkits de teste em amostras coletadas nos pontos A, B, C, D, E e F , no primeiro dia e, no segundo dia, fazer o mesmo nas saídas\nde todas as indústrias dos grupos apontados como contaminados no primeiro dia. Um dos cenários examinados pelo serviço\nde inspeção foi o de haver exatamente quatro indústrias irregulares.\na) Quantas são as formas possíveis de exatamente quatro indústrias irregulares estarem distribuídas entre as 24 indústrias do\nparque?\nb) Qual é a probabilidade, havendo exatamente quatro indústrias irregulares, de que o gasto total de kits de testes nos dois\ndias seja 22?\nc) Qual é a probabilidade, havendo exatamente quatro indústrias irregulares, de que o gasto total de kits de testes usados\nnos dois dias seja 14 ou menos?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 105,
+   "imagem": "img/fuvest-2021-2f-esp-q105.webp",
+   "texto": "M05\nO perímetro de uma figura plana é o comprimento de seu contorno. O diâmetro de uma figura plana é a maior distância entre\ndois pontos do contorno dessa figura. Calcule a razão entre o perímetro e o diâmetro em cada uma das figuras planas nos casos\na seguir:\na) Um retângulo com lados de medidas 3 e 4.\nb) O triângulo obtusângulo ABC mostrado na Figura 1.\nc) A região colorida dentro do círculo de raio 𝑟 mostrada na Figura 2.\nFigura 1\nFigura 2",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 106,
+   "imagem": "img/fuvest-2021-2f-esp-q106.webp",
+   "texto": "M06\nConsidere a função 𝑓: ℝ → ℝ dada por 𝑓(𝑥) = 𝑝 + 𝑞 cos(𝑟𝑥 − 𝑠), em que 𝑝, 𝑞, 𝑟 e 𝑠 são números reais e o cosseno é calculado\nsobre valores em radianos.\na) Qual é o valor máximo de 𝑓 para o caso em que 𝑝 = 𝑞 = 𝑟 = 𝑠 = 1?\nb) Quais são os valores do período e da amplitude de 𝑓, para o caso em que 𝑝 = −1, 𝑞 = 2, 𝑟 = 𝜋 e 𝑠 = 0?\nc) Determine valores de 𝑝, 𝑞, 𝑟 e 𝑠 no caso em que o gráfico de 𝑓 é igual ao mostrado na figura a seguir.\nNote e adote:\nA amplitude de uma função é a diferença entre seus valores máximo e mínimo.\nO gráfico apresentado refere-se somente ao item (c).",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 201,
+   "imagem": "img/fuvest-2021-2f-esp-q201.webp",
+   "texto": "F01\nUm plano de inclinação θ situa-se sobre uma mesa\nhorizontal de altura 4h, conforme indicado na figura. Um\ncarrinho de massa m parte do repouso no ponto A,\nlocalizado a uma altura h em relação à superfície da mesa,\naté atingir o ponto B na parte inferior do plano para então\nexecutar um movimento apenas sob a ação da gravidade\naté atingir o solo a uma distância horizontal D da base da\nmesa, conforme mostra a figura. Ao utilizarmos rampas com\ndiferentes inclinações θ (com o carrinho sempre partindo\nde uma mesma altura h), obtemos diferentes alcances\nhorizontais D.\na) Calcule o intervalo de tempo decorrido entre a partida do carrinho, situado inicialmente no topo do plano inclinado, até\natingir o solo, considerando o valor para a inclinação θ = 90 o .\nb) Usando a conservação da energia mecânica e supondo agora uma inclinação θ qualquer, obtenha o módulo do vetor\nvelocidade |𝑣⃑| com que o carrinho deixa a superfície do plano inclinado.\nc) Encontre o valor do alcance D supondo que a inclinação do plano seja de θ = 45 o .\nNote e adote:\nConsidere conhecido o módulo 𝑔 da aceleração da gravidade. Despreze o efeito de forças dissipativas.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 202,
+   "imagem": "img/fuvest-2021-2f-esp-q202.webp",
+   "texto": "F02\nUm modelo simplificado de uma panela de pressão\nconsiste em um recipiente cilíndrico provido de uma\ntampa com borda emborrachada que previne a saída de\nvapor. No centro da tampa, sobre um orifício de área 𝐴,\nrepousa uma válvula de massa 𝑚 que pode se deslocar\nverticalmente, sem atrito, e que impede que a pressão 𝑃\ninterna à panela ultrapasse um valor limite. A pressão\natmosférica e a aceleração da gravidade no local de\noperação da panela são, respectivamente, 𝑃 e 𝑔.\na) Liste todas as forças que atuam verticalmente sobre a válvula num instante em que ela está em perfeito contato com a\ntampa da panela.\nb) Deseja-se que a panela atinja uma pressão interna de operação não inferior a 2𝑃 . Por outro lado, os materiais de que é\nfeita a panela são capazes de suportar uma pressão interna máxima igual a 3, 5𝑃 , além da qual a panela explode. Qual\ndeve ser a faixa de valores da massa 𝑚 da válvula para que a panela funcione segundo as especificações?\nc) Suponha que a panela, vedada, esteja sobre a chama do fogão e que seu interior esteja completamente ocupado por uma\nmistura de ar com vapor de água, totalizando 𝑁 mols de gás que pode ser considerado ideal. Nesse momento, a pressão\ninterna é 𝑃 , e a energia cinética média das moléculas no gás é 𝐸 . Ao longo de mais algum tempo, com a panela ainda\nperfeitamente vedada, a chama do fogão transfere energia para o gás e eleva a energia cinética média das moléculas para\num valor 𝐸 , que é 10% maior do que 𝐸 . Determine a razão entre o valor 𝑃 da pressão interna nesse instante final e seu\nvalor inicial 𝑃 .\nNote e adote:\nConsidere que a área de contato entre a válvula e os seus pontos de apoio na panela é desprezível frente à área A.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 203,
+   "imagem": "img/fuvest-2021-2f-esp-q203.webp",
+   "texto": "F03\nPainéis solares fotovoltaicos têm sido cada vez mais usados em\ninstalações elétricas domésticas e industriais. Considere um painel solar\nconectado a um resistor variável de resistência R v . Ajustando-se o valor\nde R v , são medidas a corrente e a ddp entre os terminais do resistor e é\nobtida a curva mostrada na figura 1. Com base nos dados do gráfico:\na) Calcule a resistência R v quando a ddp é de 6 V.\nb) Em quais dos pontos marcados (1, 2 ou 3) a potência fornecida ao\nresistor é maior? Justifique sua resposta.\nUm parâmetro importante para o funcionamento de painéis solares é a\nirradiância da luz solar (medida em W/m 2 ), que corresponde ao fluxo de\nenergia por unidade de área perpendicular à direção do fluxo. A\nirradiância depende de vários fatores, tais como as condições\natmosféricas e a latitude do local. Em um dado local e horário, a direção\nFigura 1\nda luz solar (linhas vermelhas na figura 2) faz um ângulo de 30 o com a\ndireção perpendicular ao solo. A figura 2 mostra duas situações para um\npainel solar nessa localidade: (I) o painel está inclinado em 30 o em\nrelação ao solo e (II) o painel está paralelo ao solo.\nc) Considerando que a irradiância é a mesma nas duas situações e que,\nna situação (I), a energia por unidade de tempo coletada no painel\nsolar é P 1 , calcule P 2 , que é a energia por unidade de tempo coletada\nna situação (II).\nNote e adote:\nsen 60 =\n√\n≈ 0,86 ; cos 60 =\nFigura 2",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 204,
+   "imagem": "img/fuvest-2021-2f-esp-q204.webp",
+   "texto": "F04\nUma pessoa de altura ℎ posiciona-se de pé em um quarto vazio, no qual três das\nquatro paredes são escuras, enquanto a parede restante é um espelho quase perfeito.\nO quarto é iluminado por uma única lâmpada, aproximadamente esférica e situada a\numa altura 2ℎ. A figura 1 mostra uma vista superior, e a figura 2, uma vista lateral do\nquarto. Na figura 2, “O” indica a posição da pessoa e “E”, a posição do espelho. As\ndimensões da lâmpada são muito menores que os demais comprimentos relevantes.\nNessas condições, são formadas duas sombras da pessoa no piso do quarto. Na folha\nde resposta, há diagramas nos quais o círculo representa a pessoa e os tons mais\nclaros/escuros indicam uma sombra menos/mais intensa.\nFigura 2\nFigura 1\na) Dentre os diagramas da folha de respostas, indique aquele que melhor corresponde ao padrão de sombras que, na situação\ndescrita, seria observado na sala.\nb) Determine os comprimentos das sombras 𝐴𝑂 e 𝑂𝐵 considerando os dados fornecidos.\nA intensidade da radiação luminosa é definida como a energia luminosa transportada por unidade de área por unidade de\ntempo. Para fontes luminosas esféricas pontuais, a intensidade luminosa em um certo ponto deve diminuir com o inverso\ndo quadrado da distância do ponto à fonte luminosa.\nc) Desprezando as dimensões da cabeça da pessoa em relação aos demais comprimentos relevantes, tomando ℎ = 𝐷 e\nsupondo que não haja reflexão relevante da luz em qualquer outra superfície que não a parede espelhada, determine a\nrazão numérica entre a intensidade luminosa no ponto F e aquela no ponto T, localizados na cabeça da pessoa e indicados\nna figura 2.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 205,
+   "imagem": "img/fuvest-2021-2f-esp-q205.webp",
+   "texto": "F05\nCada vez mais, os motores elétricos fazem parte do nosso cotidiano,\ninclusive com a perspectiva de seu uso em veículos elétricos. A figura\nilustra o funcionamento de um motor elétrico dc simples.\nUm fio de cobre com seção de área de 0,01 mm 2 é enrolado na forma\nde espiras retangulares de dimensões L = 5cm e W = 2cm. O conjunto\né fixado a um rotor apoiado por colunas, de modo que esteja livre\npara girar em torno do eixo do rotor.\nO conjunto é colocado entre dois ímãs permanentes que geram um\ncampo magnético de 0,1 T. Uma corrente elétrica percorre a espira\nquando seus terminais fazem contato com “escovas” condutoras\nconectadas a uma bateria de 9 V. Considere que, durante o contato,\no campo magnético está paralelo ao lado mais curto das espiras,\ncomo mostrado na figura.\na) Calcule a resistência elétrica de uma única espira.\nConsiderando a situação em que o fio é enrolado em 10 espiras e os terminais do fio estão em contato com as escovas:\nb) Calcule a corrente no fio.\nc) Calcule o módulo da força magnética exercida em cada um dos segmentos (1), (2), (3) e (4) mostrados na figura.\nNote e adote:\nDespreze o comprimento dos terminais e efeitos de indução.\nResistividade elétrica do cobre: 𝜌 = 1,7 × 10 Ω.cm",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 206,
+   "imagem": "img/fuvest-2021-2f-esp-q206.webp",
+   "texto": "F06\nUm caminhão carregando uma caixa trafega em linha\nreta a uma velocidade de 36 km/h. O coeficiente de\natrito estático entre a superfície da caixa e a\nsuperfície da carroceria é de 0,4 e não há ganchos ou\namarras prendendo a caixa ao caminhão. Sabendo\ndisso e ao notar um sinal vermelho à frente, o\nmotorista freia suavemente o caminhão para que a\ncaixa não deslize.\na) Desenhe um diagrama de corpo livre indicando as forças que atuam sobre a caixa durante a frenagem.\nb) Calcule a distância mínima que o caminhão percorre entre o instante de início da frenagem e a parada total do veículo para\nque a caixa permaneça sem deslizar.\nc) Se o motorista frear totalmente o caminhão em 1,5 s, a caixa deslizará na carroceria? Justifique.\nNote e adote:\nConsidere que a força exercida pelos freios do caminhão seja feita de modo que a aceleração do caminhão seja constante durante a frenagem.\nAceleração da gravidade: 𝑔 = 10 m/s 2",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 301,
+   "imagem": "img/fuvest-2021-2f-esp-q301.webp",
+   "texto": "Q01\nApós os desastres nucleares em Hiroshima, Fukushima e Chernobyl, girassóis foram plantados ao longo da região afetada para\nque estes absorvessem elementos tóxicos do solo, incluindo isótopos radioativos. Essa técnica é chamada de fitorremediação.\nOs resultados de um estudo realizado para avaliar a capacidade do girassol de absorver urânio do solo são mostrados na figura\na seguir, que apresenta a massa total de urânio absorvida do solo por quilograma de girassol (raízes e brotos), em função do\ntempo desde o plantio. A concentração inicial de U no solo era de 240 mg/kg, dos quais 1% correspondia ao 234 U.\na) Com base na figura, em qual semana após o plantio os girassóis (raízes e brotos) deveriam ser colhidos para que a maior\nmassa de urânio fosse retirada do ambiente de uma única vez?\nb) É correto afirmar que os isótopos radioativos de urânio do solo contaminado, quando absorvidos pelos girassóis, deixam\nde ser radioativos, de forma que os girassóis possam ser comercializados com segurança? Justifique com base no tempo de\nmeia-vida.\nc) Se a colheita for realizada na segunda semana após o plantio, quantos quilogramas de girassol (raízes e brotos) precisarão\nser retirados de cada tonelada de solo para que a concentração do 234 U no solo seja reduzida para 0,6 mg/kg?\nNote e adote:\nConsidere que não ocorreu separação isotópica na absorção do urânio pelas raízes e brotos, ou seja, o percentual de 234 U nesse material também é de 1%.\nMeia vida do 234 U = 240.000 anos.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 302,
+   "imagem": "img/fuvest-2021-2f-esp-q302.webp",
+   "texto": "Q02\nRecentemente, um estudo científico associou a detecção de fosfina (PH 3 ) na atmosfera em Vênus com uma possível existência\nde vida no planeta. Na Terra, a fosfina pode ser encontrada naturalmente em ambientes onde ocorre a degradação de matéria\norgânica, como pântanos. Por ser mais densa que o ar, grande quantidade de fosfina se acumula sobre as superfícies de corpos\nd’água e áreas baixas, muitas vezes reagindo espontaneamente com oxigênio, formando ácido fosfórico (H 3 PO 4 ).\na) Utilizando os menores coeficientes estequiométricos inteiros possíveis, escreva a equação balanceada para o processo de\ncombustão descrito para a fosfina.\nb) Os ambientes onde se encontram altas quantidades de fosfina são compatíveis com a vida de seres aeróbios ou anaeróbios?\nJustifique sua resposta com base na reatividade da fosfina.\nc) Em ambientes como os pântanos, além da fosfina, também é produzido metano (CH 4 ). Com base na energia de ativação e\nna energia liberada na combustão de cada espécie, explique por que a combustão da fosfina é a primeira a ocorrer na\nnatureza e por que ela é capaz de iniciar a combustão do metano.\nNote e adote:\nEnergia de ativação da combustão: fosfina = 13 kJ/mol e metano = 105 kJ/mol.\nΔH de combustão: fosfina = -1154 kJ/mol e metano = - 885 kJ/mol.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 303,
+   "imagem": "img/fuvest-2021-2f-esp-q303.webp",
+   "texto": "Q03\nO gás N 2 é relevante para diversos processos tecnológicos e industriais por ser considerado um gás inerte e, portanto, ser\nutilizado para evitar contato do processo com espécies reativas presentes na atmosfera. Uma das características que faz o N 2\nser inerte é a força de ligação entre átomos de N.\nO N 2 utilizado comercialmente costuma ser obtido por separação do ar atmosférico, composto majoritariamente por N 2 , O 2 ,\nCO 2 , Hélio e Argônio.\na) No preparo de uma amostra de N 2 para uso industrial, quatro misturas de gases foram obtidas, conforme apresentado na\ntabela. Qual ou quais dessas misturas seria(m) adequada(s) para processos que não podem ser realizados na presença de\ngases oxidantes?\nMistura 1\nMistura 2\nMistura 3\nMistura 4\nN 2 , O 2 , Argônio\nN 2 , CO 2 , Hélio\nN 2 , Hélio, Argônio\nN 2 , O 2 , CO 2\nb) Desenhe as estruturas de Lewis para N 2 e O 2 e explique, com base nessas estruturas, por que a ligação entre os átomos de\nN no N 2 é mais forte do que a ligação entre átomos de O no O 2 .\nUma forma de obter um fluxo de nitrogênio gasoso de grande pureza é por meio da evaporação do nitrogênio líquido\narmazenado no interior de um botijão criogênico. Considere que um botijão como esse foi preenchido com 70 L de nitrogênio\nlíquido que, quando evaporado, pode ser retirado como nitrogênio gasoso do cilindro.\nc) Calcule, em L, o volume de nitrogênio gasoso que pode ser coletado à temperatura de 30 o C e pressão ambiente de 1 atm, a\npartir desse botijão. Considere que todo líquido pode ser aproveitado e que não houve perdas.\nNote e adote:\nDensidade do nitrogênio líquido: 0,8 g/mL\nVolume molar de gás ideal a 1 atm e 30 °C: 25 L\nMassa molar (g/mol): N 2 = 28\nDistribuição eletrônica N: 1s 2 , 2s 2 , 2p 3 ; O: 1s 2 , 2s 2 , 2p 4",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 304,
+   "imagem": "img/fuvest-2021-2f-esp-q304.webp",
+   "texto": "Q04\nO diagrama ao lado representa algumas\nespécies que podem ser formadas quando o Fe\nmetálico é exposto a diferentes condições de pH\ne potencial de redução medidos contra o\neletrodo padrão de hidrogênio. As regiões\nrelativas às espécies Fe(OH) 2 e FeO 42- estão\nassociadas às regiões marcadas como (I) e (II) no\ndiagrama, não necessariamente nessa ordem.\na) Para evitar a corrosão de um objeto de ferro\nmetálico, este foi submetido a pH e potencial\nadequados, formando uma camada de Fe 3 O 4\nna superfície. Explique como essa camada\nprevine a corrosão do interior do objeto.\nb) Escreva a semirreação de redução associada\nao processo representado pela seta,\nindicando o valor de potencial a partir do\nqual a reação acontece.\nc) Associe, corretamente, na tabela da folha de resposta, cada uma das regiões (I) e (II) com as espécies Fe(OH) 2 e FeO 42- .\nJustifique a associação feita com base nos potenciais de redução apresentados no diagrama.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 305,
+   "imagem": "img/fuvest-2021-2f-esp-q305.webp",
+   "texto": "Q05\nOs polímeros superabsorventes são compostos com alta capacidade de absorver água.\nUm desses polímeros é o poliacrilato de sódio (NaPA), mostrado na figura. O NaPA é\nformado a partir da polimerização de seu precursor, um ácido orgânico, seguida da\nneutralização dos grupos ácidos com hidróxido de sódio.\na) Desenhe, na folha de resposta, o monômero precursor do poliacrilato de sódio, na\nEstrutura do polímero aniônico poliacrilato\nforma ácida.\nO gráfico ao lado mostra a capacidade de absorção de água\npelo NaPA para diferentes quantidades de sal (0; 1,0; 2,5; e\n5,0%). No caso desse experimento, foi usado o cloreto de\nsódio, mas o mesmo resultado é observado para outros sais.\nb) O NaPA é bastante utilizado como absorvedor em fraldas\ndescartáveis. Nesse caso, a absorção da urina pela fralda\nserá mais ou menos eficiente do que a da água destilada?\nExplique.\nc) Indique qual o tipo de interação mais forte que ocorre\nentre a água e o polímero e explique o efeito da\nquantidade de sal na absorção de água, representado no\ngráfico.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 306,
+   "imagem": "img/fuvest-2021-2f-esp-q306.webp",
+   "texto": "Q06\nO teor de carbonato de cálcio (CaCO 3 ), usado como abrasivo em cremes dentais, pode ser determinado por meio da chamada\nretrotitulação. Nesse método, adiciona-se excesso de HC l , resultando na completa dissolução do CaCO 3 (reação I); em seguida,\ntitula-se o que sobrou de HC l com NaOH até a neutralização da solução (reação II). Sabendo-se a quantidade de NaOH, pode-\nse calcular o número de mols que sobrou de HC l . Pela diferença entre o que sobrou de HC l e o número de mols inicial de HC l ,\né possível determinar o teor de CO 32- na amostra.\n(reação I) CaCO 3 (s) + 2HC l (aq) → CaC l 2 (aq) + H 2 O ( l ) + CO 2 (g)\n(reação II) HC l (aq) + NaOH (aq) → NaC l (aq) + H 2 O ( l )\nPara estudar uma amostra, o seguinte procedimento foi realizado:\nEtapa 1\nPesagem de 5,0 g de creme dental comercial.\nAdição de 20,0 mL de solução 2,0 mol.L -1 de HC l , seguida por agitação e aquecimento até que a reação I se\nEtapa 2\ncomplete.\nEtapa 3\nApós a solução esfriar, adição de água à solução da etapa 2 até completar um volume final de 50,0 mL e\nagitação.\nEtapa 4\nTitulação do HC l presente na amostra com NaOH 0,5 mol.L -1 até a completa neutralização (reação II).\nEtapa 5\nMedida do volume de NaOH usado para titulação. Resultado: Volume de NaOH usado = 30,0 mL.\na) Cite a importância do aquecimento na etapa 2.\nb) Alguns cremes dentais usam dióxido de silício (SiO 2 ) como abrasivo em vez de CaCO 3 . Para esses produtos, o mesmo\nprocedimento de retrotitulação serviria para calcular o teor do abrasivo (SiO 2 )? Justifique.\nc) Calcule a porcentagem em massa (massa de CaCO 3 por massa de creme dental) de abrasivo na amostra estudada, conforme\nos valores dados no procedimento.\nNote e adote:\nConsidere que não há qualquer outra espécie ácida ou básica no creme dental em quantidade suficiente para interferir no procedimento.\nMassa molar (g/mol): CaCO 3 = 100.\nSiO 2 é um óxido ácido.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 401,
+   "imagem": "img/fuvest-2021-2f-esp-q401.webp",
+   "texto": "B01\nOs gráficos mostram o número de indivíduos de duas espécies de peixes (espécie A e espécie B), no início e no final de um\nexperimento realizado em tanques (cinco sombreados e cinco expostos ao sol). Nos tanques expostos ao sol, os\nmicrocrustáceos, alimento exclusivo dos peixes, atingem maior tamanho devido à maior abundância de fitoplâncton. Por outro\nlado, nos tanques sombreados, há menos fitoplâncton e os microcrustáceos atingem tamanho menor. Os peixes da espécie A\nalimentam-se somente de microcrustáceos pequenos, enquanto os peixes da espécie B alimentam-se de microcrustáceos de\ntodos os tamanhos. A quantidade de larvas de microcrustáceos colocadas mensalmente foi a mesma em todos os tanques. A\ncapacidade de suporte de cada um dos tanques foi de 100 peixes.\na) Qual foi a razão, ao final do experimento, entre o número de indivíduos da espécie B nos tanques expostos ao sol em\nrelação ao número de indivíduos dessa mesma espécie nos tanques sombreados?\nb) Considerando apenas os tanques expostos ao sol, desenhe no gráfico da folha de respostas uma linha que indique como\nvariou a razão entre o número de indivíduos da espécie B e o número de indivíduos da espécie A, no início e no fim\nexperimento.\nc) Cite a interação biológica entre as duas espécies de peixe que explica a diferença no número final de indivíduos dessas\nespécies nos tanques expostos ao sol. Justifique.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 402,
+   "imagem": "img/fuvest-2021-2f-esp-q402.webp",
+   "texto": "B02\nA hemocromatose juvenil é uma doença rara que pode ser causada por uma mutação no gene HJV, a qual resulta em proteína\nhemojuvelina com função comprometida. Nessa condição, o indivíduo acumula muito ferro proveniente da alimentação em\nseu organismo, o que pode levar à falência de órgãos como o fígado, pâncreas e coração. Diversas mutações já foram associadas\na esta forma de hemocromatose juvenil, dentre elas a substituição do aminoácido glicina na posição 320 pelos aminoácidos\nvalina ou alanina (G320V ou G320A) e a formação de códon de parada prematuro. O heredograma a seguir representa uma\nfamília na qual há uma pessoa afetada.\na) Cite uma complicação para a saúde humana decorrente da insuficiência de atividade do pâncreas.\nb) Pela análise do heredograma, qual é o padrão mais provável de herança genética da hemocromatose juvenil? Justifique sua resposta.\nc) Considere a sequência parcial do RNAm da hemojuvelina selvagem (os números acima das trincas de nucleotídeos indicam\na correspondência dos aminoácidos):\nConsiderando apenas um evento de mutação em cada caso, que alteração na trinca 320 do RNAm leva à substituição do\naminoácido glicina por: 1) valina; 2) alanina; 3) códon de parada? O que acontece com a estrutura primária da proteína no\ncaso de haver um códon de parada prematuro no RNAm?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 403,
+   "imagem": "img/fuvest-2021-2f-esp-q403.webp",
+   "texto": "B03\nO gráfico a seguir mostra como é a taxa de crescimento das populações de 5 espécies diferentes de bactérias em relação à\ntemperatura.\nCom base no gráfico, responda:\na) Considerando a temperatura média dos mamíferos como sendo semelhante à humana, qual(is) espécie(s) pode(m) ser\nsimbiótica(s) com mamíferos?\nb) Considerando intervalos de 5 o C (por exemplo, 0-5 o C, 5-10 o C, etc), qual(is) o(s) intervalo(s) de temperatura apresenta(m) a\nmaior diversidade de bactérias? Justifique sua resposta.\nc) Qual(is) espécie(s) não sobreviveria(m) à temperatura ambiental de 65 o C? Cite um processo fisiológico-bioquímico que\nocorre com macromoléculas e que impede a sobrevivência dessa(s) espécie(s)?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 404,
+   "imagem": "img/fuvest-2021-2f-esp-q404.webp",
+   "texto": "B04\nO esquema representa um costão rochoso e alguns dos organismos comuns que nele vivem.\nCom base no esquema, responda:\na) Qual é o organismo que apresenta maior densidade populacional nesse trecho de costão rochoso representado no\nesquema?\nb) Cite um fator biótico e um fator abiótico que podem atuar neste ambiente.\nc) Com relação ao esquema, preencha as lacunas da frase que se encontra na folha de respostas, utilizando os níveis de\norganização a seguir (é possível fazer ajustes de concordância de plural e singular):\nmolécula → célula → tecido → órgão → sistema→ organismo ou indivíduo → população → comunidade → ecossistema →\nbioma → biosfera",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 405,
+   "imagem": "img/fuvest-2021-2f-esp-q405.webp",
+   "texto": "B05\nAnalise a resposta imunológica à infecção do organismo pelo coronavírus do tipo SARS-CoV-2, associado à COVID-19, a variação\nna quantidade de vírus no organismo, os sintomas (quando presentes) e as possibilidades de diagnóstico da infecção por dois\nmétodos (X e Y) ao longo de 20 dias após a infecção.\nAbbas, et al. Imunologia Celular e Molecular, 2011, e J. Bras. Patol. Med. Lab., https://doi.org/10.5935/1676-2444.20200049. Adaptados.\na) Cite uma função da febre nos primeiros 5 dias da infecção por SARS-CoV-2.\nb) Dos métodos citados, identifique e justifique aquele mais indicado para o diagnóstico da infecção por SARS-CoV-2 pela\npresença de anticorpos. Segundo o gráfico apresentado, em qual dia após a infecção o diagnóstico será mais preciso\nutilizando este método?\nc) A resposta imunológica à infecção por SARS-CoV-2 pode causar inflamação pulmonar. Isso resulta em acúmulo de líquido\nnos pulmões, o que prejudica a troca gasosa, diminuindo a saturação de oxigênio no sangue. Como o acúmulo de líquidos\nnos pulmões interfere na troca gasosa? O que acontece com o pH do sangue quando ocorre diminuição da saturação de\noxigênio?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 406,
+   "imagem": "img/fuvest-2021-2f-esp-q406.webp",
+   "texto": "B06\nAs diversas espécies e variedades de linhagens relacionadas ao trigo (gênero Triticum) estão entre as primeiras a terem sido\ndomesticadas pelo ser humano, em um processo conhecido por revolução neolítica ou agrícola, iniciado há cerca de 12 mil\nanos. Uma hipótese para a evolução da monocotiledônea trigo, que inclui as variedades atuais (Triticum turgidum durum e\nTriticum aestivum aestivum), está representada a seguir. As siglas AA/BB/DD indicam o número diploide de cromossomos (2n)\nde cada espécie.\nAdaptada de Haas et al., 2019, Domestication and crop evolution of wheat and barley: Genes, genomics, and future directions. J. Integr. Plant Biol., 61: 204-225.\na) O processo evolutivo descrito corresponde a uma forma de seleção artificial. Em que ele se diferencia da seleção natural?\nb) Na tabela da folha de respostas, associe cada órgão citado (caule, flor e fruto) a um exemplo de monocotiledônea que seja\nutilizada pelo ser humano.\nc) Indique a ploidia de Triticum turgidum durum e Triticum aestivum aestivum, considerando que 2n=14 no genoma ancestral\nde Triticum urartu, Aegilops sp. e Aegilops tauschii.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 501,
+   "imagem": "img/fuvest-2021-2f-esp-q501.webp",
+   "texto": "G01\nConsiderado um dos programas de infraestrutura mais\nambiciosos já concebidos, a Nova Rota da Seda chinesa foi\nanunciada pelo presidente Xi Jinping, em 2013. O programa\ninclui diversos projetos de desenvolvimento e investimento e\nenvolve regiões da Ásia, Europa, África e América Latina.\nLauren Johnston, pesquisadora da Escola de Estudos\nOrientais e Africanos da Universidade de Londres, acredita\nque a maioria dos acordos de investimento da Nova Rota da\nSeda tem beneficiado as partes envolvidas. \"Para os governos\nque precisam de acesso ao financiamento, seja para novas\ninfraestruturas ou para o desenvolvimento social, os\nbenefícios continuam superando os custos potenciais\".\nBBC News Brasil: https://www.bbc.com/. Adaptado.\nCustos dos projetos que integram a Nova Rota da Seda chinesa\nProjeto\nCusto*\nDescrição\n1 - Ferrovia Londres\nND\nLinha cargueira entre China e Inglaterra.\n2 - Ferrovia Laos\n5,9\nTransporte de passageiros em trens de alta velocidade.\n3 - Túnel Uzbequistão\n1,9\nTúnel mais longo da Ásia Central conectado à malha ferroviária.\n4 - Ferrovia Rússia\n16,7\nTrens de passageiros conectando Moscou a Pequim.\n5 - Ferrovia Tailândia\n12,0\nTransporte de passageiros entre China e Tailândia.\n6 - Corredor de Dutos da Ásia Central\n7,3\nGasodutos do Cazaquistão para a China.\n7 - Corredor de Infraestrutura - Paquistão\n54,0\nRodovias, ferrovias, gasodutos, oleodutos e redes de telefonia e internet até a Caxemira.\n8 - Ferrovia Etiópia - Djibuti\n4,0\nFerrovia projetada para cargas e passageiros.\n9 - Ferrovia Budapeste - Belgrado\n2,9\nPrimeiro trecho de trajeto que deverá chegar a Atenas.\n*Em bilhões de dólares (US$) / ND = Não Divulgado\nDisponível em https://super.abril.com.br/. Adaptado.\nA partir dos elementos apresentados, responda:\na) O que foi, originalmente, a chamada Rota da Seda?\nb) Cite e explique um objetivo econômico da China com a implementação desse projeto.\nc) Explique um impacto econômico negativo e um impacto social positivo em apenas um dos seguintes projetos:\n2- Ferrovia Laos; 7- Corredor de Infraestrutura- Paquistão; 8- Ferrovia Etiópia - Djibuti.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 502,
+   "imagem": "img/fuvest-2021-2f-esp-q502.webp",
+   "texto": "G02\nObservação: Cada setor censitário possui de 250 a 350 domicílios.\nCenso IBGE 2010 e Google Earth 2020. Adaptado.\nA imagem e os mapas mostram diferenças na ocupação do espaço urbano em uma área da cidade de São Paulo, cujos limites\nestão destacados em laranja.\na) Baseado nos pontos cardeais, onde ocorre a maior concentração de domicílios na área destacada?\nb) Explique por que no mapa prismático há uma grande área rebaixada (em vermelho), enquanto uma pequena área ao sul\ncaracteriza-se como uma forma elevada (em azul).\nc) Cite dois problemas de infraestrutura urbana presentes nas áreas representadas em vermelho.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 503,
+   "imagem": "img/fuvest-2021-2f-esp-q503.webp",
+   "texto": "G03\nPara diversos cientistas da atualidade, as modificações provocadas no planeta pelas atividades humanas nos últimos séculos\nsão irreversíveis e justificariam a criação de um novo tempo geológico, denominado Antropoceno. Neste, haveria mudanças\nsignificativas na superfície, na atmosfera, na quantidade e na distribuição dos seres vivos no globo. No entanto, ao longo da\nhistória geológica da Terra, em especial no Fanerozoico, já ocorreram grandes reduções do número de espécies em episódios\nchamados de extinções em massa. Um desses episódios, por exemplo, ocorreu no final da Era Mesozoica, há 65 milhões de\nanos, e fez desaparecer os dinossauros.\nLuiz Eduardo Anelli. O Guia Completo dos Dinossauros do Brasil. 2010. Adaptado.\na) Na figura da Folha de Respostas, indique por meio de um círculo o pico de extinção dos dinossauros.\nb) Cite duas condições naturais adversas à vida que poderiam levar a extinções em massa no planeta conforme demonstrado\nno gráfico.\nc) Explique uma evidência na superfície terrestre e uma na atmosfera que colabora para a proposição do Antropoceno como\num novo tempo geológico.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 504,
+   "imagem": "img/fuvest-2021-2f-esp-q504.webp",
+   "texto": "G04\nAgosto de 2020 mostrou-se favorável à geração de energia eólica no Brasil. Em uma mesma semana, o Operador Nacional do\nSistema Elétrico registrou três recordes de geração média de energia e, no dia 6 de agosto, os sistemas chegaram a produzir\n9.049 MWmed. Este montante é suficiente para abastecer 94,4% da demanda elétrica de todos os estados da região Nordeste.\nDisponível em http://www.ons.org.br/Paginas/Noticias/. Adaptado.\nSobre a produção de energia eólica, responda:\na) Cite qual é o elemento do clima que dá origem à energia eólica.\nb) Explique um aspecto ambiental positivo e um negativo associado à produção de energia eólica.\nc) Explique um impacto social positivo e um negativo associado à produção de energia eólica.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 505,
+   "imagem": "img/fuvest-2021-2f-esp-q505.webp",
+   "texto": "G05\nLeia o texto e observe o mapa.\nNos estados de Rondônia, Mato Grosso, Tocantins, Pará e\nMaranhão, algumas áreas classificadas como Cerrado são,\nna verdade, partes da Floresta Amazônica. Em outras,\nocorre o inverso. Há, ainda, blocos de mata que são uma\ncombinação dos dois tipos de vegetação. Utilizando\nimagens de satélite atuais, pesquisadores examinaram\numa área de 613 mil km 2 e reconheceram que a\ndiversidade de formas de vegetação na região dificulta\ndiferenciar Amazônia de Cerrado. Mostraram também que\no limite é mais sinuoso e complexo do que os definidos\nanteriormente entre 1970 e 1985. Como resultado,\nidentificaram-se 151 áreas de Cerrado em áreas\nanteriormente classificadas como Amazônia e 152.182 km 2\nde áreas de transição, principalmente no Cerrado. Essas\náreas de transição, com os dois tipos de vegetação, podem\nse estender por até 250 quilômetros de um lado ou de\noutro da linha atual.\nDisponível em https://revistapesquisa.fapesp.br/. Adaptado.\nAcerca do texto e do mapa, responda:\na) Qual o conceito biogeográfico que caracteriza as áreas de transição entre dois biomas?\nb) Explique como essa transição complexa pode ter impactado as áreas a serem preservadas na floresta Amazônica. Dê um exemplo.\nc) Os limites entre os biomas brasileiros, vistos a partir dos mapas produzidos entre 1970 e 1985, apresentam diferenças\nquando comparados com a cartografia dos limites atuais. Descreva a tecnologia utilizada em cada um dos momentos para\na produção cartográfica.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 506,
+   "imagem": "img/fuvest-2021-2f-esp-q506.webp",
+   "texto": "G06\nO crescimento populacional a partir da década de 1950, no entender da teoria _____________, determinaria a existência de\numa população excedente às possibilidades do desenvolvimento econômico nos países do 3º Mundo e, assim, explicaria seu\nsubdesenvolvimento. Ficavam evidentes o receio de comprometer os recursos naturais mundiais e a pressão e ameaça política\nrepresentadas por essa população excedente. Nessa teoria estava presente o pavor da prolificidade de ‘raças inferiores’.\nAmélia Damiani. População e Geografia, 1991. Adaptado.\nA partir do excerto,\na) preencha, na Folha de Respostas, qual palavra denomina a teoria.\nb) explique dois argumentos que contrariam a teoria citada.\nc) cite e explique uma política social influenciada por essa teoria.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 601,
+   "imagem": "img/fuvest-2021-2f-esp-q601.webp",
+   "texto": "H01\nDe acordo com o historiador Nicolau Sevcenko, é possível identificar um “confronto entre o impulso libertador, presente nos\nanseios de mudança social, e o caráter autoritário, elitista do planejamento reformador” em muitas obras produzidas por\nescritores identificados com o pensamento Iluminista.\n“Apresentação”. Restif de La Bretonne. Noites revolucionárias. São Paulo: Estação Liberdade, 1989.\na) Cite um pensador identificado com o Iluminismo.\nb) Identifique dois elementos do Iluminismo que contribuíram para a crítica do Antigo Regime.\nc) Indique uma medida marcada pelo “impulso libertador” e outra pelo “planejamento reformador” adotada durante a\nConvenção Nacional ou sob o Diretório.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 602,
+   "imagem": "img/fuvest-2021-2f-esp-q602.webp",
+   "texto": "H02\nNo dia 18 de setembro de 1850, o Parlamento brasileiro aprovou a lei nº 601 que ficou conhecida como a “Lei de Terras”.\na) Indique uma alteração no regime da propriedade fundiária no Brasil prevista pela lei.\nb) Quais os beneficiários desse dispositivo jurídico no século XIX?\nc) Mencione dois efeitos dessa legislação sobre as formas de organização do trabalho na economia cafeeira.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 603,
+   "imagem": "img/fuvest-2021-2f-esp-q603.webp",
+   "texto": "H03\n“Em 1945, 1954 e 1964, datas de movimentos vitoriosos contra o presidente do país, a pressão civil no sentido de intervenção\nmilitar no processo político cresceu e foi comunicada aos militares através de contatos pessoais, manifestos públicos e\neditoriais da imprensa. [...] Normalmente, os pedidos de intervenção afirmavam que o presidente estava agindo de maneira\nilegal e que, em face destas condições, a cláusula de ‘obediência dentro dos limites da lei’ os dispensava do dever de obedecer\nao chefe do executivo”.\nStepan, A. Os militares na política. Rio de Janeiro: 1975, p. 73.\na) Identifique um partido político que atuou na oposição aos presidentes nos três momentos citados no texto.\nb) Indique duas diferenças entre as crises políticas enfrentadas pelo presidente Vargas em 1945 e 1954.\nc) Caracterize uma medida econômico-social que teria contribuído para as crises de 1954 e 1964.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 604,
+   "imagem": "img/fuvest-2021-2f-esp-q604.webp",
+   "texto": "H04\n“Assim se realizam, no correr do século IV, a transformação do cristianismo de religião perseguida em religião do estado e a\ntransformação de um deus rejeitado em um Deus oficial. Os homens e as mulheres que vivem na Europa ocidental passam, em\npoucos decênios, do culto de uma multiplicidade de deuses a um Deus único”.\nLE GOFF, J. O Deus da Idade Média. Conversas com Jean-Luc Pouthier. Rio de Janeiro: Civilização Brasileira, 2007, p. 19-20.\na) Indique uma motivação que levou o Império Romano a adotar o cristianismo como religião oficial em seus domínios.\nb) Aponte dois exemplos da incorporação de elementos do paganismo às práticas devocionais cristãs na passagem da\nAntiguidade para a Idade Média.\nc) Indique duas características do cesaropapismo que se desenvolveu na cristandade oriental.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 605,
+   "imagem": "img/fuvest-2021-2f-esp-q605.webp",
+   "texto": "H05\nNo dia 12 de outubro de 1492, três navios a serviço da coroa de Castela, comandados pelo navegador genovês Cristóvão\nColombo, chegaram às atuais Bahamas. Relacione tal acontecimento com a\na) concepção medieval-cristã de que a Terra era uma criação de Deus;\nb) competição mercantil interestatal europeia de fins do século XV;\nc) memória construída em torno dele em dois momentos dos séculos XX ou XXI.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 606,
+   "imagem": "img/fuvest-2021-2f-esp-q606.webp",
+   "texto": "H06\nComércio exterior do Brasil entre 1536 e 1822\nR. Simonsen, História econômica do Brasil. 7ª ed. São Paulo: Companhia Ed. Nacional, 1977.\nA partir da análise do gráfico, no qual a ordenada corresponde a valores totais de exportação (em milhões de libras esterlinas)\ne a abcissa a intervalos de tempo (em décadas), justifique\na) o declínio nos valores do açúcar entre, aproximadamente, 1650 e 1710;\nb) a diferença entre os valores totais e a somatória dos valores de açúcar e ouro por volta de 1760;\nc) a diferença entre os valores de açúcar e ouro por volta de 1810.",
+   "gabarito": "discursiva"
+  }
+ ]
+}

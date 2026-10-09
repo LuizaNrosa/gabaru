@@ -1,0 +1,228 @@
+{
+ "id": "fuvest-2022-2f-d2",
+ "banca": "FUVEST",
+ "exame": "Vestibular FUVEST",
+ "ano": 2022,
+ "dia": null,
+ "fase": 2,
+ "descricao": "2ª fase, 2º dia (discursiva). numero = grupo×100 + questão dentro do grupo.",
+ "total": 36,
+ "questoes": [
+  {
+   "numero": 101,
+   "imagem": "img/fuvest-2022-2f-d2-q101.webp",
+   "texto": "M01\nUma sequência de números naturais é construída da seguinte forma: seu primeiro termo 𝑡 é escolhido como sendo um\nnúmero natural qualquer. Se 𝑡 for par, então 𝑡 = e, se 𝑡 for ímpar, então 𝑡 = 3𝑡 + 1. Os termos seguintes 𝑡 são obtidos\nde acordo com essa mesma regra. Por exemplo, se 𝑡 = 3, então 𝑡 = 10, 𝑡 = 5, 𝑡 = 16 e assim por diante.\nDessa forma, a partir de 𝑡 ∈ ℕ, para cada 𝑛 ∈ ℕ, 𝑛 ≥ 2, a sequência 𝑡 é definida como\n𝑡\n, . se 𝑡\nfor par\n2\n𝑡 =\n.\n3𝑡\n+ 1 , . se 𝑡\nfor ímpar\na) Para 𝑡 = 22, determine 𝑡 .\nb) Determine todos os possíveis 𝑡 para os quais 𝑡 = 10.\nc) Para 𝑡 = 26, determine 𝑡\n.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 102,
+   "imagem": "img/fuvest-2022-2f-d2-q102.webp",
+   "texto": "M02\nUma função 𝑓 está definida no intervalo [−2 , 9] da seguinte forma: para 𝑥 ∈ [−2 , 2], 𝑓 leva 𝑥 em 𝑥 e, no restante do\ndomínio, o seu gráfico é formado por dois segmentos de reta conforme mostra a figura.\na) Apresente todos os intervalos do domínio da função 𝑓 nos quais ela é crescente.\nb) Determine os valores de 𝑓 nos pontos 𝑥 = − , 𝑥 = e 𝑥 = 8.\nc) Para cada valor de 𝑥 ∈ ]0 , 9[ , considere o retângulo 𝑅 com vértices nos pontos 𝐴 = (𝑥 , 0), 𝐵 = (9 , 0), 𝐶 = (9 , 𝑓(𝑥)) e\n𝐷 = 𝑥 , 𝑓(𝑥) . Escreva a expressão da área de 𝑅 , em função de 𝑥, para 𝑥 no intervalo ]0 , 9[.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 103,
+   "imagem": "img/fuvest-2022-2f-d2-q103.webp",
+   "texto": "M03\nConsidere o conjunto 𝐶 de pontos do plano cartesiano da forma (𝑚 , 𝑛), com 𝑚 e 𝑛 pertencentes a {3, 4, 5, 6, 7, 8, 9}.\na) Apresente todos os pontos (𝑚 , 𝑛) de 𝐶 para os quais o produto 𝑚 ∙ 𝑛 é maior do que 60.\nb) Sorteando-se um ponto (𝑚 , 𝑛) de 𝐶, com iguais probabilidades para todos os pontos, qual é a probabilidade de que a\nfração\nseja redutível?\nc) Sorteando-se, com iguais probabilidades, dois pontos distintos de 𝐶, qual é a probabilidade de que a distância entre eles\nseja igual a √13?\nNote e Adote:\nUma fração\né redutível quando 𝑚 e 𝑛 possuem um divisor natural em comum, além do 1.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 104,
+   "imagem": "img/fuvest-2022-2f-d2-q104.webp",
+   "texto": "M04\nUma pirâmide 𝐏 tem base quadrada 𝐴 𝐵 𝐶 𝐷 de lado medindo 1 𝑢. 𝑚., apoiada em um plano Π, e quatro faces que são\ntriângulos equiláteros, ligando a base ao ápice 𝐸 de 𝐏. Os dezesseis pontos 𝐴 , 𝐴 , 𝐴 , 𝐵 , 𝐵 , 𝐵 , 𝐶 , 𝐶 , 𝐶 , 𝐷 , 𝐷 , 𝐷 , 𝐸 , 𝐸 , 𝐸\ne 𝐸 , indicados na figura, dividem cada aresta da pirâmide em três segmentos de igual medida.\nUm novo sólido 𝐒, em destaque na figura, é produzido subtraindo-se de 𝐏 as cinco pirâmides 𝐴 𝐴 𝐴 𝐴 , 𝐵 𝐵 𝐵 𝐵 , 𝐶 𝐶 𝐶 𝐶 ,\n𝐷 𝐷 𝐷 𝐷 e 𝐸 𝐸 𝐸 𝐸 𝐸 . Determine:\na) o perímetro da face de 𝐒 que se apoia em Π, cujos vértices são 𝐴 , 𝐴 , 𝐵 , 𝐵 , 𝐶 , 𝐶 , 𝐷 e 𝐷 .\nb) o volume de 𝐒.\nc) a distância entre 𝐴 e 𝐸 .",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 105,
+   "imagem": "img/fuvest-2022-2f-d2-q105.webp",
+   "texto": "M05\nConsidere, no plano cartesiano, a circunferência com centro no ponto (0 , 3) e com raio 2 e, para cada 𝑎 ∈ ℝ, 𝑎 ≠ 0, a parábola\ncuja equação é 𝑦 = 𝑎𝑥 + 1.\na) Para 𝑎 = −1, encontre o ponto comum entre a circunferência e a parábola.\nb) Para 𝑎 = 1, apresente 3 pontos em comum entre a circunferência e a parábola.\nc) Encontre todos os valores de 𝑎 para os quais a circunferência e a parábola possuam exatamente 3 pontos em comum.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 106,
+   "imagem": "img/fuvest-2022-2f-d2-q106.webp",
+   "texto": "M06\nUma empresa distribuidora de alimentos tem latas de ervilha (E) e latas de milho (M), em dois pesos, 1 kg e 2kg, totalizando 4\n(quatro) tipos de latas: E1 e E2 (ervilha, em pesos de 1kg e 2kg, respectivamente) e M1 e M2 (milho, em pesos de 1kg e 2kg,\nrespectivamente). Essas latas são agrupadas em pacotes para envio aos comerciantes. Dois pacotes de latas são considerados\niguais se contiverem a mesma quantidade de latas de cada tipo, independentemente da maneira como são organizadas no\npacote.\na) Quantos pacotes diferentes pesando, cada um, exatamente 200kg (duzentos quilos) podem ser montados usando-se\napenas latas dos tipos E1 e E2? Na contagem, deve-se também levar em conta pacotes formados por apenas 1 tipo dessas\nlatas.\nb) Quantos pacotes diferentes pesando, cada um, exatamente 200kg (duzentos quilos) podem ser montados usando-se\napenas latas dos tipos E1, E2 e M1? Na contagem, deve-se também levar em conta pacotes formados por apenas 1 ou 2\ntipos dessas latas.\nc) Quantos pacotes diferentes pesando, cada um, exatamente 20kg (vinte quilos) podem ser montados usando-se latas dos\ntipos E1, E2, M1 e M2? Na contagem, deve-se também levar em conta pacotes formados por apenas 1, 2 ou 3 tipos dessas\nlatas.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 201,
+   "imagem": "img/fuvest-2022-2f-d2-q201.webp",
+   "texto": "F01\nDiversos processos celulares presentes no corpo\nhumano envolvem fenômenos elétricos. Um dos mais\nimportantes é o fato de uma membrana celular, que\nsepara o interior celular do exterior, apresentar um\nacúmulo de ânions (cargas negativas) e cátions (cargas\npositivas) nas superfícies interna e externa,\nrespectivamente, o que resulta no surgimento de uma\ndiferença de potencial 𝑈 ao longo da membrana.\nConsidere que 𝑈 cresce linearmente de 0 a 𝑈 na\nregião entre 𝑥 = 0 e 𝑥 = 𝑑, como mostra a figura.\na) Indique o sentido do vetor campo elétrico no interior da membrana (se está apontando para o interior ou para o exterior da\ncélula). Justifique sua resposta.\nb) Obtenha o módulo do campo elétrico (em V/m) considerando que a membrana tenha espessura 𝑑 = 64 Å e que 𝑈 = 0,08 V.\nc) Supondo agora uma membrana em que o campo elétrico tenha intensidade 10 7 V/m, encontre a razão 𝐹 /𝐹 , em que 𝐹 é o\nmódulo da força eletrostática e 𝐹 é o módulo da força gravitacional, ambas exercidas sobre um íon monovalente localizado\nna região 0 < 𝑥 < 𝑑, conforme a figura.\nNote e adote:\n1Å = 10 −10 m\nCarga de um íon monovalente = 1,6 × 10 −19 C.\nConsidere, para efeitos de cálculo desta questão, a massa de um íon como 10 −30 kg.\nAceleração da gravidade: g = 10m/s 2 .",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 202,
+   "imagem": "img/fuvest-2022-2f-d2-q202.webp",
+   "texto": "F02\nA conversão de energia mecânica das ondas do\nmar é uma promissora fonte alternativa de\nenergia limpa, e vários protótipos têm sido\ndesenvolvidos para este fim. Uma das possíveis\naplicações é o uso de câmaras de ar pressurizadas\nque usem a oscilação das ondas do mar para fazer\ngirar o eixo de um dínamo ou de uma turbina,\ngerando energia elétrica.\nConsidere o esquema mostrado na figura: uma\nboia flutua no mar e seu movimento vertical faz\nmover o pistão 1 de área A que comprime o ar em\numa câmara pressurizada a uma pressão P 0 . A\ndistância máxima entre o pistão 1 e o topo da\ncâmara é L. Um segundo pistão (pistão 2) de área\nA/10 colocado horizontalmente na lateral\nsuperior da câmara é acoplado a um mecanismo\nque faz girar um dínamo.\nConsidere inicialmente que ambos os pistões são livres para se movimentarem sem atrito e que a pressão e a temperatura do\ngás no interior da câmara não se alterem significativamente.\na) Se as ondas do mar forem ondas perfeitamente harmônicas com velocidade de 3 m/s e a distância entre as cristas for de\n5 m, calcule o período de rotação do dínamo.\nb) Se a amplitude das ondas do mar é h, calcule a distância horizontal máxima d percorrida pelo pistão 2.\nConsidere agora uma situação em que o gerador é desativado, travando-se o pistão 2, de modo que ele não possa se mover.\nc) Calcule a pressão máxima na câmara considerando que a temperatura do gás em seu interior não varie. Expresse sua resposta\nem termos da pressão inicial na câmara P 0 , e de L e h.\nNote e adote:\nConsidere o gás no interior da câmara como sendo ideal e em equilíbrio termodinâmico em todas as etapas do processo.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 203,
+   "imagem": "img/fuvest-2022-2f-d2-q203.webp",
+   "texto": "F03\nO laser consiste em uma fonte de luz coerente e monocromática, sendo largamente utilizado em leitores de códigos de barras\ne também em aplicações na física, na medicina e em outras áreas. Seu princípio de funcionamento é baseado na emissão\nestimulada de fótons. Em um tipo comum de laser, uma quantidade de átomos é excitada para um estado de energia E 2 . Em\nseguida alguns desses átomos são estimulados a decair para um estado de energia menor E 1 , emitindo um fóton com energia\ndada pela diferença entre E 2 e E 1 . De modo similar, esse decaimento estimula outros átomos a emitirem fótons formando um\nprocesso em cadeia com geração de luz.\na) Qual tipo de laser emite fótons com maior energia: o de luz vermelha ou o de luz azul? Justifique sua resposta.\nb) Determine a frequência (em Hz) de um fóton com comprimento de onda na região de cor laranja mostrada na figura.\nc) Determine o comprimento de onda de um fóton (em nm) considerando um laser cujas energias E 2 e E 1 correspondem\naproximadamente a 20,2 eV e 18,7 eV, respectivamente.\nNote e adote:\nA energia E de um fóton relaciona-se com sua frequência f por meio da relação E = hf, onde h = 4 × 10 −15 eV.s e a frequência é dada em Hz.\nVelocidade da luz no vácuo: c = 3 × 10 8 m/s.\nLegenda para daltônicos: Gráfico do espectro visível com cores em função do comprimento de onda, que se inicia no azul (lado esquerdo a 400 nm),\npassando pelo verde (500 nm), amarelo (550 nm), laranja (600 nm) e terminando no vermelho (lado direito a 700 nm).",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 204,
+   "imagem": "img/fuvest-2022-2f-d2-q204.webp",
+   "texto": "F04\nUma bola de borracha de massa 𝑚 = 50 gramas é abandonada do repouso, a partir de uma certa altura ℎ. A resistência do ar\nnão é desprezível, e o movimento da bola durante 0,6 segundo após o início da queda é registrado por uma câmera de alta\nresolução. Considerando o esquema da situação inicial e os gráficos da dependência temporal da altura 𝑦 e da velocidade\nvertical 𝑣 da bola, responda às questões a seguir.\na) No instante t = 0,2 s, a força resultante que atua sobre a bola tem sentido para cima, sentido para baixo ou tem intensidade\nnula? Justifique sua resposta.\nb) Calcule a energia cinética perdida pela bola entre os instantes imediatamente antes e imediatamente depois do choque com\no solo.\nc) Calcule o módulo da força média de resistência do ar atuando sobre a bola entre o instante inicial e o instante imediatamente\nantes de ela atingir o solo pela primeira vez.\nNote e adote:\nDespreze as dimensões da bola frente à altura inicial.\nAceleração da gravidade: g = 10 m/s .",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 205,
+   "imagem": "img/fuvest-2022-2f-d2-q205.webp",
+   "texto": "F05\nDuas esferas de massa 𝑚, ambas carregadas eletricamente com a mesma carga 𝑞, estão localizadas nas extremidades de fios\nisolantes, de comprimento 𝐿, presos ao teto, e formam o arranjo estático mostrado na figura.\na) Na folha de respostas, faça um diagrama de corpo livre da esfera 1, indicando todas as forças que atuam sobre ela.\nb) Determine a razão 𝑞 /𝑚 em termos do comprimento 𝐿 dos fios, da aceleração da gravidade 𝑔 e da constante eletrostática\ndo vácuo 𝑘.\nc) Considere que as mesmas esferas são desconectadas dos fios e conectadas às extremidades de uma mola de constante\nelástica igual a 50 N/m. O conjunto é deixado sobre uma superfície isolante e sem atrito, atingindo o equilíbrio quando a\nforça elétrica entre elas é de 0,1 N. Nessas condições, qual será o valor da energia armazenada na mola?\nNote e adote:\nDespreze as dimensões das esferas frente ao comprimento dos fios.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 206,
+   "imagem": "img/fuvest-2022-2f-d2-q206.webp",
+   "texto": "F06\nO último relatório do Painel Intergovernamental\nsobre Mudanças Climáticas da ONU (IPCC) mostra\nque uma parcela significativa do aumento dos\nníveis dos oceanos vem da expansão térmica da\nágua. Essa expansão ocorre principalmente nas\ncamadas superiores dos oceanos, até cerca de\n700 m de profundidade.\nO gráfico a seguir mostra a variação da razão\nv(T) / v(T=6 o C) onde v(T) é o volume de 1 g de\nágua (em cm 3 ) à pressão ambiente (também\nchamado de volume específico) em função da\ntemperatura T expressa em graus Celsius.\nFonte: Engineering ToolBox, (2004). Water - Specific Volume. Disponível em\nhttps://www.engineeringtoolbox.com/water-specific-volume-weight-d_661.html/.\na) Se uma coluna de água inicialmente a uma temperatura de 1 o C for aquecida até 3 o C, sua altura aumenta ou diminui?\nJustifique com base nos dados do gráfico.\nb) Considere uma coluna de água cuja altura a 6 o C é de 700 m. Assumindo que toda a expansão volumétrica ocorra na direção\nvertical e que sua massa não varie, estime, com base nos dados do gráfico, a variação de altura da coluna quando esta é\naquecida de 6 o C até 9 o C. Expresse seu resultado em centímetros.\nc) Considere uma coluna de água de 700 m de altura que sofre um aumento de temperatura de 2 o C. Assumindo que a massa\ndessa coluna de água não varie, desprezando a variação da massa específica da água com a temperatura e admitindo que\nesta seja constante e igual a 1 g/cm 3 , calcule o calor absorvido pela coluna por unidade de área de superfície. Expresse seu\nresultado em J/m 2 .\nNote e adote:\nConsidere que o volume específico da água (definida pelo inverso da massa específica) não varie com a profundidade.\nCalor específico da água: 4,2 J/(g o C).",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 301,
+   "imagem": "img/fuvest-2022-2f-d2-q301.webp",
+   "texto": "Q01\nPara se obter o café descafeinado, sem que ocorra a perda dos compostos de sabor e aroma, pode ser realizada a extração seletiva.\nPara promover essa extração, pode-se, por exemplo, utilizar um solvente concentrado com os compostos que não se desejam\nextrair. Um dos procedimentos para a descafeinação do café por extração seletiva é apresentado no diagrama a seguir:\nCom base nas informações do texto, do diagrama e em seus conhecimentos, responda:\na) Entre as soluções A, B, C e D, qual(is) pode(m) ser considerada(s) descafeinada(s)?\nb) Os grãos de café (I) estão descafeinados? Por que eles não são aproveitados para preparar café?\nc) Na etapa de extração dos compostos do café a partir dos grãos crus é feito o cozimento. Sabendo-se que o comportamento\nde solubilidade dos compostos do café é similar ao da maioria dos compostos orgânicos, qual a relação entre a temperatura",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 302,
+   "imagem": "img/fuvest-2022-2f-d2-q302.webp",
+   "texto": "Q02\nPara possibilitar a exploração de Marte, é necessário viabilizar a viagem de retorno à Terra. Uma das formas de tornar os voos de\nretorno possíveis é produzir combustível a partir da água encontrada em Marte. Para tanto, o hidrogênio seria gerado por eletrólise\nda água e, posteriormente, utilizado na reação de Sabatier. Nessa reação, o combustível é gerado pela reação do hidrogênio com\ndióxido de carbono em temperaturas e pressões elevadas na presença de um catalisador de níquel, resultando na produção de\nmetano e água e na liberação de aproximadamente 165 kJ de energia por mol de CO 2 .\na) No gráfico da folha de respostas, está representada a quantidade de metano gerado pela reação de Sabatier em função do\ntempo na temperatura T 1 , depois que o equilíbrio foi estabelecido. Nesse mesmo gráfico, represente a quantidade de\nmetano em função do tempo em uma temperatura T 2 maior que T 1 , após o estabelecimento do equilíbrio.\nb) No gráfico da folha de respostas, está representada a quantidade de metano gerado pela reação de Sabatier em função do\ntempo na presença de Ni. No mesmo gráfico, represente a quantidade de metano esperada em função do tempo\nna ausência de Ni. Explique o efeito do catalisador na energia de ativação da reação de Sabatier.\nc) Escreva a equação balanceada da reação de Sabatier. Considerando apenas a composição atmosférica da Terra e de Marte\napresentada na tabela a seguir, explique, com base nesse equilíbrio químico, por que essa reação não seria indicada para\ngerar metano na Terra.\nComposição atmosférica considerando os principais componentes:\nTerra\nMarte\nNitrogênio (78,0%)\nDióxido de carbono (95,3%)\nOxigênio (21,0%)\nNitrogênio (2,7%)\nArgônio (0,9%)\nArgônio (1,6%)\nDióxido de carbono (0,04%)",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 303,
+   "imagem": "img/fuvest-2022-2f-d2-q303.webp",
+   "texto": "Q03\nAs afirmações a seguir baseiam-se na descrição da CETESB (Companhia Ambiental do Estado de São Paulo):\nAfirmação 1: “O dióxido de enxofre (SO 2 ) é liberado para a atmosfera por gases vulcânicos e fontes antropogênicas,\nprincipalmente atividades industriais que processam materiais contendo enxofre, como termelétricas, fabricação de\nfertilizantes, fundição de alumínio e aço, produção de ácido sulfúrico e papel.”\nAfirmação 2: “O dióxido de enxofre é um gás incolor com forte odor pungente. É muito irritante quando em contato com\nsuperfícies úmidas, pois se transforma em trióxido de enxofre (SO 3 ) e passa rapidamente a ácido sulfúrico (H 2 SO 4 ).”\na) Represente a estrutura de Lewis do dióxido de enxofre.\nb) A afirmação 2 refere-se à formação da chuva ácida. Represente a reação balanceada da formação da chuva ácida a partir\nde SO 3 e a reação balanceada da chuva ácida com o carbonato de cálcio (CaCO 3 ), que é um dos componentes de construções\nque são danificadas por ela.\nc) Considere uma determinada amostra de carvão que contém 1% em massa de enxofre. Quando esse carvão é queimado, o\nenxofre é convertido em dióxido de enxofre pela reação S(s) + O 2 (g) → SO 2 (g). Para evitar a poluição do ar, este dióxido de\nenxofre pode ser tratado com óxido de cálcio para formar sulfito de cálcio, como representado pela reação\nSO 2 (g) + CaO(s) → CaSO 3 (s). Calcule a massa diária, em quilogramas, de CaO necessária para tratar o SO 2 em uma usina que\nconsome 3,2 × 10 6 kg de carvão por dia.\nNote e adote:\nDistribuição eletrônica: O = 1s 2 , 2s 2 , 2p 4 ; S = 1s 2 , 2s 2 , 2p 6 , 3s 2 , 3p 4 .\nMassas molares (g/mol): O = 16; S = 32; Ca = 40.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 304,
+   "imagem": "img/fuvest-2022-2f-d2-q304.webp",
+   "texto": "Q04\nConsidere as substâncias cujas estruturas estão representadas a seguir:\néter metil-terc-butílico\néter dietílico\netanol\n1-butanol\na) Considerando que tanto o etanol quanto o 1-butanol interagem por ligação de hidrogênio com a água, por que o etanol é\nmais solúvel em água do que o 1-butanol à mesma temperatura?\nb) Escreva, no quadro da folha de respostas, as estruturas de dois álcoois que são isômeros do 1-butanol.\nc) O 1-butanol e o éter dietílico são compostos que possuem a mesma fórmula química, C 4 H 10 O, porém pontos de ebulição\ndiferentes, sendo que um deles entra em ebulição a 34,6 °C e o outro, a 117 °C a 1 atm. Preencha o quadro, na folha de\nrespostas, relacionando os nomes das substâncias com os respectivos pontos de ebulição. Justifique sua resposta.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 305,
+   "imagem": "img/fuvest-2022-2f-d2-q305.webp",
+   "texto": "Q05\nNas vias públicas, é possível encontrar totens conforme os representados na figura. Em um deles há a inscrição “COMGAS”,\nindicando que ali passa um gasoduto da empresa distribuidora de gás; no outro está escrito “PROT CATÓDICA”, o que indica\nque há uma proteção catódica no gasoduto.\nSabendo que o gasoduto é constituído de aço, responda:\na) No sistema do gasoduto apresentado, o gasoduto é o ânodo ou o cátodo da célula eletroquímica? Justifique a sua resposta.\nb) Considere os seguintes potenciais de redução dos metais ( ɛ °):\nSemirreação\nɛ ° (V)\nCu + 2 e → Cu\n2+\n−\n0\n+ 0,34\nSn 2+ + 2 e − → Sn 0\n− 0,14\nFe 2+ + 2 e − → Fe 0\n− 0,44\nZn 2+ + 2 e − → Zn 0\n− 0,76\nQual(is) desses metais pode(m) ser utilizado(s) para a proteção catódica do gasoduto? Esse(s) metal(is) será(ão) o polo\npositivo ou negativo da célula eletroquímica?\nc) Considere que a composição molar do gás transportado pelo gasoduto Brasil-Bolívia é de, aproximadamente, 93,5%\nmetano, 4,1% etano e 2,4% N 2 . Calcule a massa, em kg, de etano existente em uma seção de 1 m 3 do duto sabendo que a\npressão no interior do duto é de 100 atm à temperatura de 27 °C. Apresente os cálculos.\nNote e adote:\nConstante universal dos gases ideais: R = 8,2 × 10 −5 m 3 atm K −1 mol −1 .\nT(K) = T(°C) + 273\nMassas molares (g/mol): H = 1; C = 12.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 306,
+   "imagem": "img/fuvest-2022-2f-d2-q306.webp",
+   "texto": "Q06\nO limite de detecção de um método analítico é a menor quantidade de um determinado composto numa amostra que esse\nmétodo é capaz de detectar. Caso algum composto esteja em concentração inferior a tal limite, não se pode determinar a sua\npresença, tampouco a sua concentração.\nA tabela nutricional a seguir foi encontrada numa embalagem de pão de queijo:\nQuantidade por porção (70 g)\nValor energético 113 kcal\nCarboidratos\n14 g\nProteínas\n2,4 g\nGorduras Trans\n0,0 g\nGorduras Saturadas\n2,1 g\nGorduras Totais\n5,3 g\nFibra alimentar\n0,0 g\nSódio\n140 mg\nUma vez que a quantificação de todos os compostos é realizada por métodos analíticos específicos, responda as questões:\na) Por que, na porção de pão de queijo apresentada, as quantidades de gorduras trans e fibra alimentar não são,\nnecessariamente, zero?\nb) Gorduras podem ser entendidas como ácidos graxos de cadeia carbônica longa. O termo “trans” faz referência à isomeria\ngeométrica da molécula de ácido graxo. Gorduras saturadas podem apresentar isomeria trans? Explique com base na\nestrutura da molécula de ácido graxo.\nc) Caso tivesse sido utilizado um método analítico para determinação de sódio cujo limite de detecção fosse de 0,03 g de sódio\npor g de pão de queijo, teria sido possível detectar esse elemento nesse pão de queijo? Justifique apresentando os cálculos.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 401,
+   "imagem": "img/fuvest-2022-2f-d2-q401.webp",
+   "texto": "B01\nA extinção de espécies animais é causada principalmente pela destruição dos seus habitats, e uma das principais formas de\nevitar essa ameaça é o estabelecimento de áreas protegidas. A tabela fornece, para cada bioma terrestre brasileiro, as\nporcentagens de cobertura, em relação à sua área original, de ambientes utilizados pelo ser humano e de áreas protegidas, a\nporcentagem da fauna que se encontra ameaçada de extinção e a população humana.\n% ambientes utilizados\n% fauna ameaçada de\npopulação humana\n% áreas protegidas 2\npelo ser humano 1\nextinção 3\n(milhões) 4\nAmazônia\n15,1\n28,0\n3,6\n18,5\nCaatinga\n36,2\n8,8\n10,6\n23,2\nCerrado\n44,9\n8,3\n9,1\n31,1\nMata Atlântica\n66,6\n9,5\n14,7\n106,2\nPampa\n44,1\n3,0\n8,2\n6,2\nPantanal\n16,2\n4,6\n2,9\n0,3\n1. MapBiomas (2021).\n2. WWF factsheet: Unidades de Conservação no Brasil (2019).\n3. Livro Vermelho da Fauna Brasileira Ameaçada de Extinção (2018).\n4. Censo IBGE (2010).\nConsiderando somente os dados fornecidos na tabela, responda:\na) Utilizando os eixos fornecidos na folha de resposta, construa um gráfico relacionando as porcentagens de ambientes\nutilizados pelo ser humano e de fauna ameaçada de extinção em todos os biomas brasileiros. Adicione ao gráfico uma reta\nque sintetize a tendência indicada pelos pontos.\nb) Apresente duas razões que justifiquem por que a porcentagem de fauna ameaçada de extinção na Mata Atlântica é cerca\nde quatro vezes maior que na Amazônia.\na) c) É correto afirmar que a porcentagem de animais ameaçados de extinção tende a diminuir à medida que aumenta a\nporcentagem de áreas protegidas nos biomas brasileiros? Justifique a sua resposta utilizando duas evidências baseadas na\nproporção de ambientes utilizados pelo ser humano e/ou na população humana do bioma.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 402,
+   "imagem": "img/fuvest-2022-2f-d2-q402.webp",
+   "texto": "B02\nA figura mostra um cladograma simplificado das hipóteses filogenéticas já propostas para a evolução da vida na Terra. Ele inclui\ndois grupos de bactérias, seis de protistas, dois de animais, dois de fungos e dois de plantas, e seus pontos A a P indicam o\nsurgimento de características específicas durante a evolução.\nBurki et al. 2020, TREE 35(1): 43-55. Adaptado.\nCom base no cladograma apresentado, responda:\na) Cite uma característica que aparece no ponto E da hipótese filogenética.\nb) Na folha de resposta, classifique os grupos “bactérias”, “protistas”, “animais”, “fungos” e “plantas” como monofiléticos ou\nnão monofiléticos.\nc) Indique dois pontos (de A a P) da hipótese filogenética em que há o aparecimento da condição multicelular. Cite uma\ncaracterística de qualquer grupo que só foi possível devido à evolução da multicelularidade.\nNote e adote:\nGrupos monofiléticos, algumas vezes referidos como grupos naturais, são aqueles em que todas as suas linhagens têm uma única origem evolutiva\nexclusiva, isto é, essa origem não é compartilhada com linhagens de outros grupos.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 403,
+   "imagem": "img/fuvest-2022-2f-d2-q403.webp",
+   "texto": "B03\nA figura ilustra o ciclo de vida da giárdia:\nBayer Healthcare. Adaptado.\na) Cite uma medida para evitar a giardíase.\nb) Qual a relação ecológica entre a giárdia e o mamífero? Justifique sua resposta.\nc) Sabendo que há perda das microvilosidades intestinais devido à giardíase, explique o que acontece com a absorção de\nsubstâncias pelo organismo do mamífero? Indique um exemplo de substância absorvida pelo intestino delgado e uma pelo\nintestino grosso.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 404,
+   "imagem": "img/fuvest-2022-2f-d2-q404.webp",
+   "texto": "B04\nA figura ilustra as etapas do ciclo de vida do ipê-\namarelo:\na) Qual é o modo de dispersão das sementes do\nipê-amarelo?\nb) Cite uma etapa do ciclo representado que\npossua células com número haploide de\ncromossomos. Cite outra etapa que possua\ncélulas com número diploide.\nc) Cite uma etapa presente no ciclo de vida do ipê-\namarelo que não aparece no ciclo de\nsamambaias e justifique seu significado\nevolutivo.\nGuia Pedagógico do Jardim Botânico. Adaptado.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 405,
+   "imagem": "img/fuvest-2022-2f-d2-q405.webp",
+   "texto": "B05\nOs grandes centros urbanos sofrem efeitos de vários tipos de poluição, provenientes de diferentes fontes de poluentes.\na) Cite um poluente resultante da lavagem de louças nas residências.\nb) Cite um impacto direto à saúde humana causado pela poluição do ar característica dos grandes centros urbanos. Justifique\nsua resposta.\nc) Proponha uma medida de controle de poluição que teria grande impacto na redução da emissão de CO 2 em áreas centrais\nde grandes cidades. Justifique sua resposta.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 406,
+   "imagem": "img/fuvest-2022-2f-d2-q406.webp",
+   "texto": "B06\nA figura apresenta dois tipos diferentes de sistema circulatório: o aberto, de moluscos, e o fechado, de peixes. As setas mostram\no sentido da circulação nos sistemas, e as cores vermelha e azul em peixes significam sangue oxigenado e não oxigenado,\nrespectivamente.\na) Cite um grupo, além dos peixes, que possui sistema circulatório fechado.\nb) Indique as estruturas correspondentes às letras A, C, E, G e I na tabela da folha de respostas.\nc) Embora moluscos (exceto cefalópodes) e insetos tenham sistema circulatório aberto, a resposta aos estímulos em insetos é\nmuito mais rápida que em moluscos. Considerando-se as trocas gasosas, por que ocorre essa diferença?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 501,
+   "imagem": "img/fuvest-2022-2f-d2-q501.webp",
+   "texto": "G01\nEm 1975, as encostas de uma escarpa na Etiópia (África) foram severamente degradadas pelo pisoteio do gado. A recuperação\ndessas encostas degradadas pela erosão do solo pode ocorrer se a atividade humana respeitar os ciclos naturais e a resiliência\nde um ambiente, como mostram as imagens e o gráfico a seguir.\nSlaymaker, O., Spencer, T., Embleton-Hamann, C. Geomorphology and Global Environmental Change. Cambridge University Press, 2011. Adaptado.\nCom base no exemplo e em seus conhecimentos, responda:\na) O que é resiliência de um ambiente?\nb) Segundo os dados apresentados, o que houve com a erosão do solo e qual foi a prática conservacionista utilizada?\nExplique o que é erosão do solo e exemplifique uma prática agrícola conservacionista diferente da demonstrada na imagem\nde 2006.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 502,
+   "imagem": "img/fuvest-2022-2f-d2-q502.webp",
+   "texto": "G02\nO Sistema Nacional de Meteorologia e demais órgãos responsáveis pelo monitoramento climático do país emitiram alerta de\nemergência hídrica associado à escassez de precipitação para a região hidrográfica da Bacia do Paraná, que abrange os estados\nde Minas Gerais, Goiás, Mato Grosso do Sul, São Paulo e Paraná, para o período de junho a setembro/2021. A análise das\nchuvas de outubro/2019 a abril/2021 indica que houve predomínio de déficit de precipitação, principalmente a partir de\nfevereiro/2021.\nINMET, 2021. Adaptado.\nCom base nas informações apresentadas no texto e em seus conhecimentos sobre os aspectos socioeconômicos dessa região\nbrasileira, responda:\na) Conceitue crise hídrica.\nb) Indique dois impactos econômicos negativos resultantes da redução das precipitações.\nc) Explique duas medidas de mitigação dos efeitos da crise hídrica que podem ser adotadas pela população residente nessa\nregião.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 503,
+   "imagem": "img/fuvest-2022-2f-d2-q503.webp",
+   "texto": "G03\nObserve os gráficos a seguir.\nGráfico 1: Geração de energia elétrica por tipo de fonte (Terawatts -hora\nGráfico 2: Geração de energia elétrica por fontes renováveis\nTWh) e participação das fontes renováveis (%) no Brasil (2001-2019)\nPIB – IBGE. “Geração de energia elétrica”. Revista FAPESP, edição 297, nov. 2020. Adaptado.\nA partir dos dados apresentados,\na) apresente uma diferença entre a matriz energética do Brasil e da China.\nb) aponte duas razões que dificultam ao Brasil assumir a liderança no ranking mundial de geração de energia elétrica por fontes\nrenováveis.\nc) explique duas razões para o aumento da produção de energia não renovável no Brasil entre 2011 e 2015.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 504,
+   "imagem": "img/fuvest-2022-2f-d2-q504.webp",
+   "texto": "G04\nEm agosto de 2021, ocorreu desestabilização do terreno\ncom a exploração de sal-gema em Maceió, capital de\nAlagoas, atingindo cerca de 57 mil pessoas em cinco\nbairros da cidade. O incidente teve início com tremores\nde terra três anos antes, seguidos de afundamentos de\nterreno. O bairro do Pinheiro, um dos mais atingidos,\nteve suas casas condenadas pela Defesa Civil por risco\nde desabarem.\nFolha de São Paulo, 02 de Agosto de 2021. Adaptado.\nConsiderando as informações fornecidas e seus\nconhecimentos, responda:\na) Que tipo de falha geológica é representada na\nfigura?\nb) Indique e explique uma causa de desestabilização do\nterreno devido à exploração de sal-gema no caso\ncitado.\nc) Indique e explique uma consequência negativa do\nproblema ambiental citado para a dinâmica urbana\nSBG-CPRM, 2019. Adaptado.\nde Maceió/AL.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 505,
+   "imagem": "img/fuvest-2022-2f-d2-q505.webp",
+   "texto": "G05\nOs mapas A e B representam as alterações climáticas observadas na América do Sul durante os meses do verão (dezembro,\njaneiro e fevereiro), e o mapa C, as áreas suscetíveis à desertificação no Brasil.\nA\nB\nC\nDisponível em http://enos.cptec.inpe.br/. Adaptado.\nAtlas das áreas suscetíveis à desertificação do Brasil / MMA, Secretaria de Recursos Hídricos, 2007. Adaptado.\nEl Niño é um fenômeno atmosférico-oceânico caracterizado por um aquecimento anormal das águas superficiais no oceano Pacífico\nTropical, que pode afetar o clima regional e global, mudando os padrões de vento em nível mundial, alterando, assim, o regime das\nchuvas em regiões tropicais e de latitudes médias. La Niña representa um fenômeno oceânico-atmosférico com características\nopostas às do El Niño e se caracteriza por um esfriamento anormal nas águas superficiais do Oceano Pacífico Tropical.\nA partir dos mapas e do texto, responda:\na) Qual dos mapas, A ou B, representa as alterações climáticas na América do Sul em anos de ocorrência de La Niña? Justifique\na sua resposta.\nb) Conceitue desertificação e descreva uma característica da vegetação predominante nas áreas suscetíveis à desertificação\ndelimitadas no mapa C.\nc) Cite uma alteração climática e uma consequência ambiental para a população nas áreas suscetíveis à desertificação em anos\nde El Niño.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 506,
+   "imagem": "img/fuvest-2022-2f-d2-q506.webp",
+   "texto": "G06\nO retorno dos Talibãs ao poder no\nAfeganistão após anos de intervenção\nestadunidense trouxe à tona discussões\ngeopolíticas sobre as dinâmicas\ndemográficas do país, bem como sobre\nos interesses de diversos países na\nregião. O mapa a seguir indica\ncaracterísticas acerca da geografia do\nAfeganistão.\nSobre esse assunto,\na) cite um país que, assim como os EUA,\nencontrou dificuldades no processo\nde invasão do território afegão.\nb) indique duas causas para o fracasso da\ninvasão estadunidense no Afeganistão.\nc) indique dois países e explique seus\nrespectivos interesses geopolíticos\nna região.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 601,
+   "imagem": "img/fuvest-2022-2f-d2-q601.webp",
+   "texto": "H01\nAnalise a imagem:\nEl Greco, Alegoria da Santa Aliança (Sonho de Filipe II), 1579. El Escorial, Espanha. Óleo sobre tela. PUPPI, Lionello. El Grecco. Florença: Sadea Editore, 1977, prancha 8.\nA partir da pintura de El Greco:\na) Identifique um aspecto religioso característico do império espanhol ao final do século XVI.\nb) Identifique e explique um aspecto social característico do império espanhol ao final do século XVI.\nc) Explique o papel da religião na formulação das justificativas para a colonização da América.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 602,
+   "imagem": "img/fuvest-2022-2f-d2-q602.webp",
+   "texto": "H02\n“A busca da felicidade” é ainda mais familiar aos americanos do que “devemos cultivar nosso jardim” o é para os franceses. É a\nfrase mais memorável da Declaração de Independência americana, o clímax retórico da enunciação de Thomas Jefferson dos\ndireitos naturais e da teoria revolucionária: “Consideramos como verdades evidentes que todos os homens são criados iguais, que\na todos o Criador dotou de certos direitos inalienáveis, entre os quais estão a vida, a liberdade e a busca da felicidade”. O que\nJefferson entendia por “busca da felicidade”? (...). Frequentemente, os analistas do discurso político estabelecem um significado\nmostrando o que não é dito, tanto quanto o que é dito. “Vida, liberdade e propriedade” foi a fórmula-padrão nos debates políticos\ndo mundo de língua inglesa durante os séculos XVII e XVIII. (...) Se a “busca da felicidade” deve ser vista como um recurso de\nretórica, seu significado deve fundar-se, pelo menos em parte, numa comparação implícita com o direito de propriedade.\nDARNTON, Robert. Os dentes falsos de George Washington: um guia não convencional para o século XVIII. São Paulo: Companhia das Letras, 2005, p. 112-113.\na) Indique um dos direitos naturais do Homem evocados por Thomas Jefferson na Declaração de Independência americana.\nb) Qual é a relação estabelecida pelo texto entre “busca da felicidade” e “direito de propriedade”?\nc) É possível afirmar que a Declaração de Independência dos Estados Unidos contém uma teoria revolucionária? Justifique.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 603,
+   "imagem": "img/fuvest-2022-2f-d2-q603.webp",
+   "texto": "H03\nO material publicitário apareceu em 1935 nas páginas do Almanaque Fontoura, distribuído gratuitamente nas farmácias e que\nreunia curiosidades e informações. A partir da leitura da propaganda, responda:\na) Qual o tema da propaganda?\nb) Quem é o Jeca Tatu e que categoria social ele representa?\nc) Aponte duas razões do emprego do personagem Jeca Tatu na propaganda.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 604,
+   "imagem": "img/fuvest-2022-2f-d2-q604.webp",
+   "texto": "H04\nNo dia 22 de agosto de 1988, o Governo Federal fundou a primeira instituição pública voltada para promoção e preservação\ndos valores culturais, históricos, sociais e econômicos decorrentes da influência negra na formação da sociedade brasileira: a\nFundação Cultural Palmares (FCP), entidade vinculada ao Ministério da Cidadania. Ao longo dos anos, a FCP tem trabalhado\npara promover uma política cultural igualitária e inclusiva, que contribua para a valorização da história e das manifestações\nculturais e artísticas negras brasileiras como patrimônios nacionais.\n“Apresentação”. www.palmares.gov.br\nA partir da leitura do excerto e de seus conhecimentos sobre o tema:\na) Justifique o nome da instituição.\nb) Identifique o contexto em que a instituição foi criada.\nc) Cite duas políticas públicas, hoje vigentes no Brasil, que estejam em sintonia com as orientações dessa instituição\nmencionadas no texto.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 605,
+   "imagem": "img/fuvest-2022-2f-d2-q605.webp",
+   "texto": "H05\nÀ medida que a construção prosseguia, Rondon iniciava a segunda fase do seu projeto: a crucial exploração das terras da bacia\namazônica onde hoje está situado o estado de Rondônia, pois a linha telegráfica atravessaria aquelas terras. Essa era a região\nque incendiava a imaginação de Rondon e seus oficiais, e também a de muitos brasileiros das cidades costeiras. Era o Brasil\ndesconhecido. (...) Na verdade, o projeto do telégrafo parecia dar muito mais satisfação a Rondon pela chance de explorar\naquelas terras do que pela construção da linha telegráfica (...) Rondon planejou uma expedição em 1907 para descobrir a\nnascente do rio Juruena e fazer contato com os indígenas conhecidos como nambikwara.\nDIACON, Todd A. Rondon: o marechal da floresta. São Paulo: Companhia das Letras, 2006, p. 32-33.\na) Indique qual a importância da expansão da linha telegráfica no Brasil dessa época.\nb) Explique o sentido da frase “Era o Brasil desconhecido”.\nc) Caracterize a política indigenista desenvolvida por Cândido Rondon para “aquelas terras”.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 606,
+   "imagem": "img/fuvest-2022-2f-d2-q606.webp",
+   "texto": "H06\nNo dia 01 de janeiro de 1849 foi divulgado na imprensa pernambucana o “Manifesto ao Mundo”, escrito por Borges da Fonseca,\nque apresentava as seguintes reivindicações:\nProtestamos só largar as armas, quando virmos instalada uma Assembleia Constituinte. Esta Assembleia deve realizar os\nseguintes princípios: 1. O voto livre e universal do Povo Brasileiro; 2. A plena e absoluta liberdade de comunicar os pensamentos\npor meio da imprensa; 3. O trabalho como garantia de vida para o cidadão Brasileiro; 4. O comércio a retalho só para os\ncidadãos brasileiros; 5. A inteira e efetiva independência dos poderes constituídos; 6. A extinção do poder moderador e do\ndireito de agraciar; 7. O elemento federal na nova organização; 8. Completa reforma do poder judicial, em ordem a segurar as\ngarantias dos direitos individuais dos Cidadãos; 9. Extinção da lei do juro convencional; 10. Extinção do atual sistema de\nrecrutamento.\nVamireh Chacon (sel. e intro.). Nunes Machado. Perfis parlamentares. Brasília: Câmara dos Deputados, 1978, p.22.\na) Como ficou conhecido esse movimento na história imperial brasileira?\nb) Explique o teor de duas das reivindicações indicadas no Manifesto.\nc) Indique dois elementos comuns entre o evento pernambucano e as revoluções europeias de 1848.",
+   "gabarito": "discursiva"
+  }
+ ]
+}

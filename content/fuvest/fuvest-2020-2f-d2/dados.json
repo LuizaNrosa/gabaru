@@ -1,0 +1,228 @@
+{
+ "id": "fuvest-2020-2f-d2",
+ "banca": "FUVEST",
+ "exame": "Vestibular FUVEST",
+ "ano": 2020,
+ "dia": null,
+ "fase": 2,
+ "descricao": "2ª fase, 2º dia (discursiva). numero = grupo×100 + questão dentro do grupo.",
+ "total": 36,
+ "questoes": [
+  {
+   "numero": 101,
+   "imagem": "img/fuvest-2020-2f-d2-q101.webp",
+   "texto": "M01\nA figura apresenta uma parte de uma tabela na qual cada linha e cada coluna seguem de acordo com o padrão representado.\nCom relação a essa tabela de números:\na) Escolha um quadrado 3 × 3 e, exibindo a soma de seus 9 números, verifique que o resultado é múltiplo de 9.\nb) Um quadrado com 16 números tem por soma de todos esses números o valor de 1.056 (mil e cinquenta e seis). Descubra\no menor número desse quadrado.\nc) A soma de todos os números de um quadrado × , com menor número igual a 4, é de 108.000 (cento e oito mil). Qual é\no valor de ?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 102,
+   "imagem": "img/fuvest-2020-2f-d2-q102.webp",
+   "texto": "M02\nO Floco de Neve de Koch (ou Estrela de Koch) é uma construção geométrica recursiva cujos primeiros passos se desenvolvem\nda seguinte forma:\nPasso 0: começa‐se com um triângulo\nPasso 1: divide‐se cada lado do\nPasso 2: repete‐se o procedimento\nequilátero de lados de medida 1.\ntriângulo do Passo 0 em 3 segmentos\ndescrito no Passo 1 em cada lado da\niguais e constrói‐se um triângulo\nfigura obtida no passo anterior.\nequilátero com base em cada\nsegmento do meio.\nOs passos seguintes (Passo 3, Passo 4, Passo 5, ...) seguem o mesmo procedimento descrito no Passo 1, em cada lado da figura\nobtida no passo anterior. Considerando os passos descritos e os próximos passos, responda:\na) Qual é o número de lados da figura no Passo 3?\nb) Qual é o perímetro da figura no Passo 5?\nc) A partir de qual Passo o número de lados da figura supera 6.000.000.000.000 (seis trilhões)?\nNote e adote:\nlog\n2 ≅ 0,301",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 103,
+   "imagem": "img/fuvest-2020-2f-d2-q103.webp",
+   "texto": "M03\nUm jogo educativo possui 16 peças nos formatos: círculo, triângulo, quadrado e estrela, e cada formato é apresentado em 4\ncores: amarelo, branco, laranja e verde. Dois jogadores distribuem entre si quantidades iguais dessas peças, de forma aleatória.\nO conjunto de 8 peças que cada jogador recebe é chamado de coleção.\na) Quantas são as possíveis coleções que um jogador pode receber?\nb) Qual é a probabilidade de que os dois jogadores recebam a mesma quantidade de peças amarelas?\nc) A regra do jogo estabelece pontuações para as peças, da seguinte forma: círculo = 1 ponto, triângulo = 2 pontos,\nquadrado = 3 pontos e estrela = 4 pontos. Quantas são as possíveis coleções que valem 26 pontos ou mais?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 104,
+   "imagem": "img/fuvest-2020-2f-d2-q104.webp",
+   "texto": "M04\nSão dados:\n uma circunferência de centro e raio 5;\n quatro pontos , , e\nem de tal forma que as retas tangentes a\nnesses pontos formam um trapézio\n,\ncomo na figura;\n\nsen\n15.\ne\nDetermine\na) a medida de\n;\nb) a medida de\ne\n;\nc) a área da região delimitada pelo trapézio\n.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 105,
+   "imagem": "img/fuvest-2020-2f-d2-q105.webp",
+   "texto": "M05\nÉ dada a função : 0, π →\nsen\ncos\n∈ 0, π .\ndefinida por\n, para todo\n∈ 0, π para os quais\n1 .\na) Apresente três valores\n∈ 0, π para os quais\nb) Determine os valores\n.\nsen 2\n⩾\nc) Determine os valores\n∈ 0, π para os quais\n.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 106,
+   "imagem": "img/fuvest-2020-2f-d2-q106.webp",
+   "texto": "M06\nResolva os três itens abaixo:\na) Considere o conjunto formado pelos números complexos que cumprem a condição Re\nIm . Cada elemento desse\nconjunto será objeto da transformação que leva um número complexo em seu conjugado. Represente no plano complexo\n(ou plano de Argand‐Gauss) da folha de respostas o conjunto resultante após essa transformação.\n1 e para os quais\nb) Determine o lugar geométrico dos pontos\ndo plano complexo tais que\né um número\nimaginário puro.\nc) Determine as partes reais de todos os números complexos tais que as representações de , e 1 no plano complexo sejam\nvértices de um triângulo equilátero.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 201,
+   "imagem": "img/fuvest-2020-2f-d2-q201.webp",
+   "texto": "F01\nUma pessoa produz oscilações periódicas em uma longa corda formada por duas porções de materiais diferentes 1 e 2, nos\nquais a velocidade de propagação das ondas é, respectivamente, de 5 m/s e 4 m/s. Segurando a extremidade feita do material\n1, a pessoa abaixa e levanta sua mão regularmente, completando um ciclo a cada 0,5 s, de modo que as ondas propagam‐se\ndo material 1 para o material 2, conforme mostrado na figura. Despreze eventuais efeitos de reflexão das ondas.\na) Circule, dentre os vetores na folha de respostas, aquele que melhor representa a velocidade do ponto P da corda no instante\nmostrado na figura.\nb) Calcule a frequência e o comprimento de onda no material 1.\nc) Calcule a frequência e o comprimento de onda no material 2.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 202,
+   "imagem": "img/fuvest-2020-2f-d2-q202.webp",
+   "texto": "F02\nUm mol de um gás ideal monoatômico é resfriado adiabaticamente de uma temperatura inicial T 1 até uma temperatura final\nT 1 /3.\nCom base nessas informações, responda:\na) O gás sofreu expansão ou compressão ao final do processo? Justifique sua resposta.\nb) Encontre o valor do trabalho realizado pelo gás nesse processo em termos da constante universal dos gases ideais R e de T 1 .\nc) Encontre a razão entre as pressões final e inicial do gás após o processo.\nNote e adote:\nEm um processo adiabático, não há troca de calor com o ambiente.\nEnergia interna por mol de um gás ideal monoatômico: U = 3RT/2.\nPara o processo adiabático em questão, vale a relação PV 5/3 = constante.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 203,
+   "imagem": "img/fuvest-2020-2f-d2-q203.webp",
+   "texto": "F03\nA tomografia por emissão de pósitrons (PET) é uma técnica de imagem por contraste na qual se utilizam marcadores com\nradionuclídeos emissores de pósitrons. O radionuclídeo mais utilizado em PET é o isótopo 18 do flúor, que decai para um núcleo\nde oxigênio‐18, emitindo um pósitron. O número de isótopos de flúor‐18 decai de forma exponencial, com um tempo de meia‐\nvida de aproximadamente 110 minutos.\nA imagem obtida pela técnica de PET é decorrente da detecção de dois fótons emitidos em sentidos opostos devido à\naniquilação, por um elétron, do pósitron resultante do decaimento. A detecção é feita por um conjunto de detectores\nmontados num arranjo radial. Ao colidir com um dos detectores, o fóton gera cargas no material do detector, as quais, por sua\nvez, resultam em um sinal elétrico registrado no computador do equipamento de tomografia. A intensidade do sinal é\nproporcional ao número de núcleos de flúor‐18 existentes no início do processo.\na) Após a realização de uma imagem PET, o médico percebeu um problema no funcionamento do equipamento e o reparo\ndurou 3h40min. Calcule a razão entre a intensidade do sinal da imagem obtida após o reparo do equipamento e a da\nprimeira imagem.\nb) Calcule a energia de cada fóton gerado pelo processo de aniquilação elétron‐pósitron considerando que o pósitron e o\nelétron estejam praticamente em repouso. Esta é a energia mínima possível para esse fóton.\nc) A carga elétrica gerada dentro do material do detector pela absorção do fóton é proporcional à energia desse fóton.\nSabendo‐se que é necessária a energia de 3 eV para gerar o equivalente à carga de um elétron no material, estime a carga\ntotal gerada quando um fóton de energia 600 keV incide no detector.\nNote e adote:\nO elétron e o pósitron, sua antipartícula, possuem massas iguais e cargas de sinais opostos.\nRelação de Einstein para a energia de repouso de uma partícula: E = mc 2 .\nCarga do elétron = 1,6×10 ‐19 C\nMassa do elétron: m = 9×10 ‐31 kg\nVelocidade da luz: c = 3×10 8 m/s\n1 eV = 1,6×10 ‐19 J\n“Tempo de meia‐vida”: tempo necessário para que o número de núcleos radioativos caia para metade do valor inicial.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 204,
+   "imagem": "img/fuvest-2020-2f-d2-q204.webp",
+   "texto": "F04\nEm um ambiente do qual se retirou praticamente todo o ar, as placas de um capacitor estão arranjadas paralelamente e\ncarregadas com cargas de mesma magnitude Q e sinais contrários, produzindo, na região entre as placas, um campo elétrico\nque pode ser considerado uniforme, com módulo igual a 10 6 V/m. Uma partícula carregada negativamente, com carga de\nmódulo igual a 10 ‐9 C, é lançada com velocidade de módulo V 0 igual a 100 m/s ao longo da linha que passa exatamente pelo\ncentro da região entre as placas, como mostrado na figura. A distância d entre as placas é igual a 1 mm. Despreze os efeitos\ngravitacionais.\na) Aponte, entre as trajetórias 1 e 2 mostradas na figura, aquela que mais se aproxima do movimento da partícula na região\nentre as placas.\nb) Sabendo que a massa da partícula é igual a 10 µg, determine a que distância horizontal x a partícula atingirá uma das placas,\nsupondo que elas sejam suficientemente longas.\nc) Quais seriam o sentido e o módulo de um eventual campo magnético a ser aplicado na região entre as placas,\nperpendicularmente ao plano da página, para que a partícula, em vez de seguir uma trajetória curva, permaneça movendo‐\nse na mesma direção e no mesmo sentido com que foi lançada?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 205,
+   "imagem": "img/fuvest-2020-2f-d2-q205.webp",
+   "texto": "F05\nEm janeiro de 2019, a sonda chinesa Chang'e 4 fez o primeiro pouso suave de um objeto terrestre no lado oculto da Lua,\nreavivando a discussão internacional sobre programas de exploração lunar.\nConsidere que a trajetória de uma sonda com destino à Lua passa por um ponto P, localizado a 2/3 d T L do centro da Terra e a\n1/3 d T L do centro da Lua, sendo d T L a distância entre os centros da Terra e da Lua.\na) Considerando que a massa da Terra é cerca de 82 vezes maior que a massa da Lua, determine a razão F T / F L entre os módulos\nda força gravitacional que a Terra e a Lua, respectivamente, exercem sobre a sonda no ponto P.\nAo chegar próximo à Lua, a sonda foi colocada em uma órbita lunar circular a uma altura igual ao raio da Lua (R L ), acima de sua\nsuperfície, como mostra a figura. Desprezando os efeitos da força gravitacional da Terra e de outros corpos celestes ao longo\nda órbita da sonda,\nb) determine a velocidade orbital da sonda em torno da Lua em termos da constante gravitacional G, da massa da Lua M L e\ndo raio da Lua R L ;\nc) determine a variação da energia mecânica da nave quando a altura da órbita, em relação à superfície da Lua, é reduzida\npara 0,5 R L . Expresse seu resultado em termos de G, R L , M L e da massa da sonda m S .\nNote e adote:\nO módulo da força gravitacional entre dois objetos de massas M e m separados por uma distância d é dado por\nA energia potencial gravitacional correspondente é dada por\n.\nAssuma a distância da Terra à Lua como sendo constante.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 206,
+   "imagem": "img/fuvest-2020-2f-d2-q206.webp",
+   "texto": "F06\nUma equilibrista de massa M desloca‐se sobre uma tábua uniforme de comprimento L e massa m apoiada (sem fixação) sobre\nduas colunas separadas por uma distância D (D<L) de modo que o centro da tábua esteja equidistante das colunas. O ponto de\napoio da equilibrista está a uma distância d (tal que D/2<d<L/2) do centro da tábua, como mostra a figura.\na) Considerando que a tábua está em equilíbrio, faça um diagrama indicando todas as forças que atuam sobre a tábua e seus\nrespectivos pontos de aplicação.\nb) Calcule o torque resultante exercido pelos pesos da equilibrista e da tábua em relação ao ponto A (ponto de apoio da tábua\nna coluna mais próxima da equilibrista). Escreva sua resposta em termos de grandezas mencionadas no enunciado (M, L,\nm, D, d) e da aceleração da gravidade g.\nc) Calcule a distância máxima d máx da equilibrista ao centro da tábua para que o conjunto permaneça em equilíbrio estático.\nConsidere os seguintes dados: comprimento da tábua: L = 5 m; massa da tábua: m = 20 kg, massa da equilibrista: M = 60 kg, distância\nentre as colunas: D = 3 m.\nNote e adote:\nDespreze as espessuras da tábua e da coluna.\nUse g = 10 m/s 2",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 301,
+   "imagem": "img/fuvest-2020-2f-d2-q301.webp",
+   "texto": "Q01\nAs concentrações de alguns íons em amostras de água estão representadas nos gráficos a seguir. A origem de cada amostra\n(1, 2 e 3) foi omitida, mas pode corresponder a: amostra de água do mar; amostra de água de chuva numa região costeira;\namostra de água doce de rio.\nMaria Lúcia A. Moura Campos, Introdução à Biogeoquímica de Ambientes Aquáticos. Editora Átomo: 2010.\na) O bicarbonato na água pode vir de diferentes fontes. Cite uma fonte de bicarbonato comum às três amostras.\nb) Preencha a tabela da folha de respostas com a correspondência entre as amostras 1, 2 e 3 e o ambiente em que foram\ncoletadas.\nÉ esperado que a concentração de íons cloreto na água coletada da chuva em um ambiente continental seja igual, maior ou\nmenor à de ambientes costeiros (ambos sem poluição)? Justifique sua resposta.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 302,
+   "imagem": "img/fuvest-2020-2f-d2-q302.webp",
+   "texto": "Q02\nO experimento conhecido como “chuva de ouro” consiste na recristalização, à\ntemperatura ambiente, de iodeto de chumbo (PbI 2 ). A formação desse sal pode\nocorrer a partir da mistura entre nitrato de chumbo (Pb(NO 3 ) 2 ) e iodeto de potássio\n(KI). Outro produto dessa reação é o nitrato de potássio (KNO 3 ) em solução aquosa.\nTanto o Pb(NO 3 ) 2 quanto o KI são sais brancos solúveis em água à temperatura\nambiente, enquanto o PbI 2 é um sal amarelo intenso e pouco solúvel nessa\ntemperatura, precipitando como uma chuva dourada.\nEm um laboratório, o mesmo experimento foi realizado em dois frascos. Em ambos,\n100 mL de solução 0,1 mol.L ‐1 de Pb(NO 3 ) 2 e 100 mL de solução 0,2 mol.L ‐1 de KI foram\nmisturados. Ao primeiro frasco foi também adicionado 20 mL de água destilada,\nenquanto ao segundo frasco foi adicionado 20 mL de solução 0,1 mol.L ‐1 de iodeto de\nsódio (NaI).\nA tabela a seguir apresenta os dados de solubilidade dos produtos da reação em\ndiferentes temperaturas.\nMassa molar\nSolubilidade em água em diferentes temperaturas (g.L ‐1 )\n(g.mol ‐1 )\n4 o C\n32 o C\n80 o C\nPbI 2\n461,0\n0,410\n0,922\n3,151\nKNO 3\n101,1\n135\n315\n1700\nResponda aos itens a seguir considerando os dados do enunciado e o equilíbrio químico de solubilidade do iodeto de chumbo:\nPbI 2 (s) ⇌ Pb 2+ (aq) + 2I ‐ (aq)\na) Indique se o procedimento do segundo frasco favorece ou inibe a formação de mais sólido amarelo.\nb) Para separar o precipitado da solução do primeiro frasco e obter o PbI 2 sólido e seco, foi recomendado que, após a\nprecipitação, fosse realizada uma filtração em funil com papel de filtro, seguida de lavagem do precipitado com água para\nse retirar o KNO 3 formado e, na sequência, esse precipitado fosse colocado para secar. Nesse caso, para se obter a maior\nquantidade do PbI 2 , é mais recomendado o uso de água fria (4 °C) ou quente (80 °C)? Justifique.\nc) Encontre a constante do produto de solubilidade (K PS ) do iodeto de chumbo a 32 °C.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 303,
+   "imagem": "img/fuvest-2020-2f-d2-q303.webp",
+   "texto": "Q03\nO médico Hans Krebs e o químico Feodor Lynen foram laureados com o Prêmio Nobel de Fisiologia e Medicina em 1953 e 1964,\nrespectivamente, por suas contribuições ao esclarecimento do mecanismo do catabolismo de açúcares e lipídios, que foi\nessencial à compreensão da obesidade. Ambos lançaram mão de reações clássicas da Química Orgânica, representadas de\nforma simplificada pelo esquema que mostra a conversão de uma cadeia saturada em uma cetona, em que cada etapa é\ncatalisada por uma enzima (E) específica:\na) Complete, no espaço determinado na folha de respostas, a fórmula estrutural do produto (IV) formado pela oxidação do\nálcool representado na estrutura (III).\nb) Identifique pelo número qual das espécies (I, II ou III) possui isomeria geométrica (cis ‐ trans) e desenhe os isômeros.\nc) Se R 1 e R 2 forem cadeias carbônicas curtas, os compostos representados por (III) serão bastante solúveis em água, enquanto que,\nse R 1 e/ou R 2 forem cadeias carbônicas longas, os compostos representados por (III) serão pouco solúveis ou insolúveis em água.\nPor outro lado, os compostos representados por (I) e (II) serão pouco solúveis ou insolúveis em água independentemente do\ntamanho das cadeias. Explique a diferença do comportamento observado entre as espécies (I) e (II) e a espécie (III).\nNote e adote:\nConsidere R 1 e R 2 como cadeias carbônicas saturadas diferentes, contendo apenas átomos de carbono e hidrogênio.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 304,
+   "imagem": "img/fuvest-2020-2f-d2-q304.webp",
+   "texto": "Q04\nO lítio foi identificado no século XIX a partir das observações do naturalista e estadista brasileiro José Bonifácio de Andrada e\nSilva. Em 2019, esse elemento ganhou destaque devido ao Prêmio Nobel de Química, entregue aos pesquisadores John\nGoodenough, Stanley Whittingham e Akira Yoshino pelas pesquisas que resultaram na bateria recarregável de íon lítio. Durante\no desenvolvimento dessa bateria, foi utilizado um eletrodo de CoO 2 (s) (semirreação I) em conjunto com um eletrodo de lítio\nmetálico intercalado em grafita (LiC 6 (s)) (semirreação II) ou um eletrodo de lítio metálico (Li(s)) (semirreação III).\n(I)\nCoO 2 (s) + Li + (aq) + 1e – → LiCoO 2 (s)\nE° = + 1,00 V\n(II)\nLi + (aq) + C 6 (s) + 1e – → LiC 6 (s)\nE° = ‐ 2,84 V\n+\n–\n(III)\nLi (aq) + 1e → Li(s)\nE°= ‐ 3,04 V\nConsiderando essas semirreações:\na) Escreva a reação global da bateria que utiliza o lítio metálico como um dos eletrodos.\nb) Indique qual dos dois materiais, lítio metálico ou lítio metálico intercalado em grafita, será um agente redutor mais forte.\nJustifique com os valores de potencial de redução padrão.\nEm 1800, José Bonifácio descobriu o mineral petalita, de fórmula XAl Si 4 O 10 (na qual X é um metal alcalino). Em 1817, ao assumir\nque X = Na, o químico sueco Johan Arfwedson observou que a petalita apresentaria uma porcentagem de metal alcalino\nsuperior ao determinado experimentalmente. Ao não encontrar outros substitutos conhecidos que explicassem essa\nincongruência, ele percebeu que estava diante de um novo elemento químico, o Lítio (Li).\nc) Explique, mostrando os cálculos, como a observação feita por Arfwedson permitiu descobrir que o elemento novo era o\nLítio.\nNote e adote:\nMassas molares (g.mol ‐1 ): Li = 7; O = 16; Na = 23; Al = 27; Si = 28.\n% em massa de Al na petalita: 8,8%.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 305,
+   "imagem": "img/fuvest-2020-2f-d2-q305.webp",
+   "texto": "Q05\nArla 32 é uma solução de aproximadamente 32 g de ureia (H 2 NCONH 2 ) em 100 mL de água utilizada em veículos a diesel para\ndiminuir as emissões de óxidos de nitrogênio (NO e NO 2 ), que podem causar problemas ambientais quando em excesso na\natmosfera. A solução de Arla, ao ser adicionada aos gases de escape do motor, em alta temperatura, forma amônia (reação I).\nEm uma segunda etapa, a amônia formada reage com NO 2 e gera gás nitrogênio e água (reação II).\n(I)\nH 2 NCONH 2 (aq) + H 2 O(l) → 2NH 3 (g) + CO 2 (g)\n(II)\n8NH 3 (g) + 6NO 2 (g) → 7N 2 (g) + 12H 2 O(g)\na) Escreva a fórmula de Lewis da ureia.\nb) Calcule quantos litros de solução de Arla 32 são necessários para consumir todo o NO 2 produzido em uma viagem de\n100 km, considerando que a quantidade de NO 2 formado por esse veículo é de 460 mg por km rodado. Indique os cálculos.\nc) Considerando que a reação entre NH 3 e NO forma os mesmos produtos que a reação II, o volume gasto de Arla 32 para\nconsumir o NO seria menor, igual ou maior ao usado para consumir uma mesma quantidade em mol de NO 2 ? Justifique\nmostrando a reação entre NH 3 e NO.\nNote e adote:\nConsiderar todas as reações com 100% de rendimento.\nMassas molares: ureia = 60 g.mol ‐1 ; NO 2 = 46 g.mol ‐1\nDistribuição eletrônica: H: 1s 1 ; C: 1s 2 2s 2 2p 2 ; N: 1s 2 2s 2 2p 3 ; O: 1s 2 2s 2 2p 4",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 306,
+   "imagem": "img/fuvest-2020-2f-d2-q306.webp",
+   "texto": "Q06\nMuitos metais (M n+ ) em água, dependendo do pH da solução, formam hidróxidos (M(OH) n ) insolúveis.\nEsse comportamento pode ser descrito pela equação (I), que\nrelaciona o valor de pH com o logaritmo da concentração do\nmetal (log [M n+ ]), para uma dada temperatura, em que K PS é\na constante do produto de solubilidade do hidróxido do\nmetal.\nEquação (I): log\nlog\n14\nO comportamento da equação (I) é representado no gráfico, no qual as linhas mostram o valor de pH e log[M n+ ] em que se\ninicia a precipitação de cada um dos metais. Em condições mais alcalinas do que a apresentada na linha de cada metal, será\nobservada a espécie insolúvel como hidróxido e, em condições mais ácidas do que a apresentada na linha, será observada a\nespécie em sua forma solúvel.\na) Pinte, no gráfico da folha de respostas, a região onde o Cr 3+ se encontra na forma solúvel e o Ti 4+ se encontra na forma de\nTi(OH) 4 insolúvel.\nb) As linhas que representam Mg 2+ e Ca 2+ possuem a mesma inclinação, mas diferem da inclinação das linhas que representam\nCr 3+ e X n+ , que possuem a mesma inclinação entre si. Indique a carga n de X n+ e justifique com base na equação (I).\nc) Indique qual das espécies tem maior valor de K PS : Ca(OH) 2 ou Mg(OH) 2 . Justifique com base nas informações dadas.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 401,
+   "imagem": "img/fuvest-2020-2f-d2-q401.webp",
+   "texto": "B01\nIndivíduos intolerantes à lactose não conseguem digerir esse açúcar presente no leite. A principal causa da intolerância à\nlactose é a diminuição da produção da enzima lactase, especialmente na idade adulta. A indústria de laticínios beneficia‐se da\nbiotecnologia para incluir uma lactase de levedura nos alimentos, fazendo com que a lactose seja digerida antes de ser\nconsumida, gerando, assim, os produtos lácteos sem lactose.\na) Considerando que o pH ótimo para funcionamento da lactase é de aproximadamente 7,5, em que região do sistema\ndigestório humano ocorre a atividade dessa enzima?\nb) A região codificadora dos genes é precedida e controlada por uma região regulatória. Uma mutação (C para T) na região\ndestacada na tabela aconteceu há cerca de 10 mil anos em pessoas do norte europeu e foi conservada, resultando em\nmanutenção da expressão do gene na idade adulta e consequente permanência da habilidade de digerir a lactose. Essa\nmutação aconteceu em que região do gene? Baseado nessa mutação, qual é o padrão de herança da característica\n“Tolerância à lactose na idade adulta”?\nIndivíduo\nFenótipo\nSequência (19 mil nucleotídeos antes do primeiro éxon)\nAlelo 1 cromossomo 2: TAAGATAATGTAGTCCCTGG\n1\nTolerante à lactose\nAlelo 2 cromossomo 2: TAAGATAATGTAGTCCCTGG\nAlelo 1 cromossomo 2: TAAGATAATGTAGTCCCTGG\n2\nTolerante à lactose\nAlelo 2 cromossomo 2: TAAGATAATGTAGCCCCTGG\nAlelo 1 cromossomo 2: TAAGATAATGTAGCCCCTGG\n3\nTolerante à lactose\nAlelo 2 cromossomo 2: TAAGATAATGTAGTCCCTGG\nAlelo 1 cromossomo 2: TAAGATAATGTAGCCCCTGG\n4\nIntolerante à lactose\nAlelo 2 cromossomo 2: TAAGATAATGTAGCCCCTGG\nc) Bactérias transgênicas que expressam o gene da lactase de levedura (organismo eucariótico) são utilizadas para a produção\ndessa enzima em larga escala. Cite uma manipulação em laboratório necessária no gene da lactase de levedura para que\nele possa ser expresso em bactérias. Justifique sua resposta.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 402,
+   "imagem": "img/fuvest-2020-2f-d2-q402.webp",
+   "texto": "B02\nEm um cerrado campestre bem preservado, ocorre a teia trófica representada no esquema.\na) Cite uma espécie dessa teia alimentar que ocupa mais de um nível trófico, especificando quais são eles.\nb) Cite cinco espécies de uma cadeia alimentar que faça parte dessa teia. Desenhe um esquema da pirâmide de energia desse\nambiente.\nc) Com relação à dinâmica dessa teia alimentar, descreva o efeito indireto da extinção local do bem‐te‐vi sobre a população\ndo predador de topo dessa teia (ou seja, aquele que preda sem ser predado por nenhum outro componente da teia). Caso\no capim‐cabelo‐de‐porco venha a sofrer uma grande queda em sua biomassa, qual interação biológica seria esperada entre\nos consumidores primários que se alimentam desse recurso?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 403,
+   "imagem": "img/fuvest-2020-2f-d2-q403.webp",
+   "texto": "B03\nO catabolismo de proteínas e ácidos nucleicos gera grupos aminos que, quando acumulados no organismo, são tóxicos e\nprecisam ser excretados na forma de ácido úrico, amônia ou ureia.\na) Ordene ácido úrico, amônia e ureia do mais para o menos tóxico, considerando os animais em geral.\nb) Dentre os três compostos, qual é o mais abundante na excreção de um peixe ósseo de água doce e qual é o mais abundante\nna urina do ser humano?\nc) Há uma relação entre a osmolaridade sanguínea (i), a secreção do hormônio antidiurético (ADH) (ii), o volume reabsorvido\nde água (iii) e o volume de urina (iv).\nO que ocorre com os itens (i) a (iv) quando uma pessoa bebe água excessivamente? Responda diretamente na tabela da\nFolha de Respostas se cada item “aumenta”\n, “diminui”\nou “permanece inalterado”\n.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 404,
+   "imagem": "img/fuvest-2020-2f-d2-q404.webp",
+   "texto": "B04\nAnalise os gráficos relativos ao comportamento de plantas sujeitas a diferentes condições ambientais:\na) Em relação ao gráfico I, em que horário aproximado do dia se espera maior quantidade de estômatos abertos?\nb) Considerando os gráficos II e III, como representativos de indivíduos da mesma espécie, indique aquele associado a plantas\nem estresse hídrico e aquele associado à maior taxa de fotossíntese no período de maior luminosidade.\nc) Pela análise do gráfico IV, qual planta cresce melhor na sombra? Qual é a intensidade mínima de luz, aproximadamente,\npara que a planta B consuma mais CO 2 do que produza?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 405,
+   "imagem": "img/fuvest-2020-2f-d2-q405.webp",
+   "texto": "B05\nA curva do gráfico mostra a variação da altura média de plantas durante a sucessão primária, em uma área na qual a vegetação\nnativa, de floresta tropical úmida, foi totalmente destruída pelo derrame de lava de um vulcão. No início da sucessão, o solo\nera composto por rocha nua (lava consolidada). Na parte superior do gráfico, estão representadas três fases da sucessão (1, 2\ne 3).\na) Cite um grupo de organismos pioneiros que possa ter predominado na fase 1 da sucessão.\nb) No gráfico de sua Folha de Respostas, desenhe uma curva que represente a tendência quanto à biomassa da comunidade\nvegetal em relação ao tempo decorrido durante essa sucessão, indicando sua fase climáxica.\nc) A que se deve o aumento na altura média das plantas na fase 2 e sua estabilização na fase 3? Em qual(is) fase(s) da sucessão\napresentada(s) no gráfico a quantidade de oxigênio liberado pelas plantas por meio da fotossíntese é semelhante à\nquantidade de oxigênio utilizado por elas na respiração?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 406,
+   "imagem": "img/fuvest-2020-2f-d2-q406.webp",
+   "texto": "B06\nAo investigarem as razões para um evento de maré vermelha que ocorreu em uma região costeira do Brasil, os cientistas e\ntécnicos encontraram uma relação entre a pluviosidade na área, o tratamento e destino de esgotos domésticos nos municípios\nvizinhos e a abundância de algumas espécies de microalgas com toxinas (nocivas à saúde humana) do grupo dos dinoflagelados,\nsegundo o gráfico abaixo.\na) Qual é o mês de ocorrência da maré vermelha?\nb) Como esse aumento da concentração de dinoflagelados chega na dieta de uma pessoa e como ela pode evitar uma\nintoxicação?\nc) Pelo demonstrado no gráfico, qual a razão para o rápido aumento na abundância de dinoflagelados no evento de maré\nvermelha? E para seu rápido declínio?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 501,
+   "imagem": "img/fuvest-2020-2f-d2-q501.webp",
+   "texto": "G01\nA minissérie de TV com cartaz ao lado é uma ficção que remete à história de um\ndos piores desastres nucleares que ocorreram no século XX: a explosão na usina\nnuclear de Chernobyl, na Ucrânia sob domínio soviético, em 26 de abril de 1986.\nEm razão de problemas operacionais e de projeto, um dos reatores da usina lançou\numa nuvem na atmosfera, atingindo outras partes da então União Soviética e\nregiões da Europa Ocidental.\nApesar de relevante, Chernobyl corria o risco de desaparecer na névoa do passado\nda Guerra Fria, ao mesmo tempo em que novas gerações cresciam com seus\npróprios traumas. Para os ucranianos, é conflito sempre presente com a Rússia.\nDisponível em https://exame.abril.com.br/mundo/.\na) Aponte a causa dos impactos na saúde humana sugerida no cartaz.\nb) Cite e explique um aspecto positivo do uso da energia nuclear.\nc) Qual a relação entre o desenvolvimento da tecnologia nuclear e o contexto da\nGuerra Fria?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 502,
+   "imagem": "img/fuvest-2020-2f-d2-q502.webp",
+   "texto": "G02\nIntroduzido nos anos 1990, o fator previdenciário vinculou o acesso à aposentadoria ao envelhecimento da população, visando\nà sustentabilidade financeira da previdência. Assim, cada aumento da expectativa de vida implica em aumento do tempo\nnecessário de contribuição para manutenção do mesmo valor do benefício. (...) Ao desconsiderar as diferenças raciais em\nrelação à expectativa de vida, o fator previdenciário é um fator de discriminação racial no Brasil. Tal evidência não pode ser\nignorada pelas políticas públicas, sob o risco de ficar cada vez mais distante a meta de alcançar um país mais justo.\nDisponível em http://dssbr.org/site/2012/01/fator‐previdenciario‐fator‐de‐discriminacao‐racial/.\na) Numa pirâmide etária, que aspecto visual (em relação à sua forma) permite estimar a proporção da população idosa em\nrelação ao total da população?\nb) Cite e explique dois fatores de natureza socioeconômica que contribuem para a diferenciação entre as pirâmides etárias.\nc) Usando dados da comparação entre as pirâmides etárias, explique por que o texto afirma que “o fator previdenciário é um\nfator de discriminação racial no Brasil”.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 503,
+   "imagem": "img/fuvest-2020-2f-d2-q503.webp",
+   "texto": "G03\nDisponível em http://www.iucn.org/. Adaptado.\nConsiste em uma área úmida, definida como “ecossistema costeiro, de transição entre os ambientes terrestre e marinho,\ncaracterístico de regiões tropicais e subtropicais, sujeito ao regime das marés”. (SCHAEFFER‐NOVELLI, 1995).\na) Qual é o ecossistema representado em destaque no mapa e descrito no excerto?\nb) Aponte as razões da ocorrência desse ecossistema na faixa destacada do mapa e explique uma de suas funções ambientais.\nc) Cite e explique dois fatores antrópicos que ameaçam esse ecossistema no Brasil.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 504,
+   "imagem": "img/fuvest-2020-2f-d2-q504.webp",
+   "texto": "G04\nA RENCA (Reserva Nacional do Cobre e Associados) é uma área de 46.450 km 2 criada em 1984 que comporta diversos tipos de jazidas\nminerais, onde a CPRM (Companhia de Pesquisa de Recursos Minerais) detém exclusividade na condução de trabalhos de pesquisa\ngeológica, determinando a viabilidade quanto às atividades de extração. Há séculos, essa área é ocupada por povos originários que\ntiveram em suas terras a prospecção mineral. A demarcação das terras indígenas nessa área teve início somente a partir da década\nde 1990.\nDisponível em https://www.socioambiental.org/. Adaptado.\na) Cite uma aplicação econômica de um dos minérios que podem ser encontrados na região.\nb) Utilizando a legenda do mapa, destaque dois conflitos sociais passíveis de ocorrência na região.\nc) Cite e explique dois tipos de impactos ambientais decorrentes da exploração minerária.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 505,
+   "imagem": "img/fuvest-2020-2f-d2-q505.webp",
+   "texto": "G05\nAnalise os dados de precipitação média anual para as localidades.\nLocalidade e estado\nPrecipitação média anual (mm)\nCoordenadas Geográficas\nRio de Janeiro, RJ\n1.287,0\nLatitude: 22° 54' Sul, Longitude: 43° 10' Oeste e\naltitude 08 m.\nCabo Frio, RJ\n784,5\nLatitude: 22° 52' Sul, Longitude: 42° 01' Oeste e\naltitude de 10 m.\nMacaé, RJ\n1.126,0\nLatitude: 22° 22' Sul, Longitude: 41° 47' Oeste e\naltitude de 07 m.\nDisponível em https://pt.climate‐data.org/.\n\"A velha identificação desse setor costeiro de exceção ‐ o 'cabo frio' ‐ possibilitou interpretar a combinação de fatores que\nresponde pela presença de aludido reduto de caatingas na referida região\". (AB´SÁBER, 2003).\nCom base na análise dos dados de precipitação média anual, na localização das estações meteorológicas e em seus\nconhecimentos sobre a dinâmica climática e oceanográfica da região, responda:\na) Que fenômeno oceanográfico ocorre nas águas oceânicas da região de Cabo Frio‐RJ?\nb) Qual é a atividade de extração mineral conhecidamente associada à região de Cabo Frio‐RJ? Explique como um fenômeno\nnatural que ocorre na região corrobora para a existência dessa atividade.\nc) Qual a explicação física para a redução das precipitações em Cabo Frio‐RJ e qual sua manifestação na paisagem continental?",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 506,
+   "imagem": "img/fuvest-2020-2f-d2-q506.webp",
+   "texto": "G06\nChina contra‐ataca tarifas americanas com uma das armas\nque mais irritam Trump\nO Banco Central da China, no dia 5 de agosto de 2019,\npermitiu que o yuan, moeda oficial do país, ultrapassasse\npela primeira vez uma barreira de onze anos na relação com\no dólar americano. A cotação do yuan ficou acima de 7 para\n1, num claro contra‐ataque de Pequim às novas tarifas\nanunciadas pelo presidente Trump sobre US$ 300 bilhões\nem produtos chineses.\nO mercado teme que a medida provoque ainda mais a ira do\npresidente Trump, que acusa Pequim de desvalorizar\nartificialmente sua moeda para impulsionar as exportações.\n“Devido ao unilateralismo, ao _______(I)_________\ncomercial e às tarifas impostas à China, o yuan se depreciou\nem relação ao dólar americano, quebrando a barreira dos 7\npara 1”, diz nota do Banco Central chinês.\nDisponível em https://www.gazetadopovo.com.br/\nDisponível em https://www.bbc.com/portuguese/internacional/. Adaptado.\nConsiderando o excerto e o gráfico, responda:\na) A palavra omitida no texto é um conceito que caracteriza a posição dos EUA ao tarifar os produtos chineses. Qual é esse\nconceito? Responda na folha de respostas.\nb) Utilizando elementos do gráfico, caracterize a relação comercial entre os EUA e a China.\nc) Explique como a desvalorização cambial do Yuan influencia a balança comercial entre esses países.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 601,
+   "imagem": "img/fuvest-2020-2f-d2-q601.webp",
+   "texto": "H01\nOs efeitos sociais do futebol enquanto elemento de uma dinâmica cultura popular impelira o estado colonial a intervir sobre\neste universo. Depois da abolição [...] do indigenato, o desporto servirá para alimentar a propaganda luso‐tropicalista,\nnomeadamente depois das vitórias do Benfica de Coluna e Eusébio (este só na segunda) na Taça dos Campeões Europeus em\n1961 e 1962, mais tarde, com a participação da seleção no Mundial de 1966.\nNuno Domingos, “Desporto moderno e situações coloniais: o caso do futebol em Lourenço Marques”. In: MELO, V. A. de e outros (orgs.)\nMais que um jogo: o esporte e o continente africano. Rio de Janeiro: Apicuri, 2010.\na) Explique a relação entre Moçambique e Portugal na década de 1960.\nb) Quais as relações da propaganda luso‐tropicalista portuguesa com a imagem da democracia racial no Brasil?\nc) As conquistas do Benfica e o desempenho da seleção portuguesa no Mundial de 1966 fortaleceram a propaganda oficial do\ngoverno português? Justifique.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 602,
+   "imagem": "img/fuvest-2020-2f-d2-q602.webp",
+   "texto": "H02\nO suplício tem então uma função jurídico‐política. É um cerimonial para reconstituir a soberania lesada por um instante\n[...]. A execução pública, por rápida e cotidiana que seja, se insere em toda a série dos grandes rituais do poder eclipsado e\nrestaurado (coroação, entrada do rei numa cidade conquistada, submissão dos súditos revoltados). [...]\nO suplício não restabelecia a justiça; reativava o poder. No século XVII, e ainda no começo do XVIII, ele não era, com\ntodo o seu teatro de terror, o resíduo ainda não extinto de uma outra época. Suas crueldades, sua ostentação, a violência\ncorporal, o jogo desmesurado de forcas, o cerimonial cuidadoso, enfim, todo o seu aparato se engrenava no funcionamento\npolítico da penalidade. [...]\nMas nessa cena de terror o papel do povo é ambíguo. Ele é chamado como espectador: é convocado para assistir às\nexposições, às confissões públicas; os pelourinhos, as forcas e os cadafalsos são erguidos nas praças públicas ou à beira dos\ncaminhos; os cadáveres dos supliciados muitas vezes são colocados bem em evidência perto do local de seus crimes. As pessoas\nnão só têm que saber, mas também ver com seus próprios olhos. Porque é necessário que tenham medo; mas também porque\ndevem ser testemunhas e garantias da punição, e porque até certo ponto devem tomar parte nela.\nMichel Foucault, Vigiar e Punir. Petrópolis: Vozes, 1983.\na) Identifique uma das práticas punitivas descritas no texto empregadas na sociedade colonial brasileira.\nb) Explique as relações entre a exibição do poder monárquico e as punições judiciais na sociedade do Antigo Regime europeu.\nc) A participação do povo nas execuções conferia a elas um caráter democrático? Justifique.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 603,
+   "imagem": "img/fuvest-2020-2f-d2-q603.webp",
+   "texto": "H03\nLeia o poema e responda ao que se pede.\nMas a taba cresceu... Tigueras* agressivas,\nPara trás! Agora o asfalto anda em Tabatinguera.\nMal se esgueira um pajé entre locomotivas\nE o forde assusta os manes** lentos do Anhanguera.\n[...]\nSegue pra forca da Tabatinguera. Lento\nO cortejo acompanha a rubra cadeirinha\nPro Ipiranga. Será que em tão pequeno assento\nA marquesa botou sua imperial bundinha!...\nMário de Andrade, “Tabatinguera”, Losango Cáqui (1924). In: Poesias completas v.1. São Paulo: Martins Fontes, 1979.\n* área plantada onde já se fez a colheita.\n** alma dos mortos, restos mortais.\na) Identifique um aspecto mencionado no poema que justifique a expressão “a taba cresceu”.\nb) Destaque um argumento histórico e outro de caráter estético para o emprego de expressões indígenas no poema.\nc) Explique as condições históricas que favoreceram a citação do “asfalto”, das “locomotivas” e do “forde”.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 604,
+   "imagem": "img/fuvest-2020-2f-d2-q604.webp",
+   "texto": "H04\nA semente da integração nacional seria, pois, lançada pela nova Corte como um prolongamento da administração e da\nestrutura colonial, um ato de vontade de portugueses adventícios, cimentada pela dependência e colaboração dos nativos e\nforjada pela pressão dos ingleses que queriam desfrutar do comércio sem ter de administrar. A insegurança social cimentaria\na união das classes dominantes nativas com a “vontade de ser brasileiros” dos portugueses imigrados que vieram fundar um\nnovo Império nos trópicos. A luta entre as facções locais levaria fatalmente à procura de um apoio mais sólido no poder central.\nOs conflitos inerentes à sociedade não se identificam com a ruptura política com a Mãe Pátria, e continuam como antes,\nrelegados para a posteridade.\nMaria Odila Leite da Silva Dias, A interiorização da metrópole e outros estudos. São Paulo: Alameda, 2005.\na) Caracterize o período histórico de que trata o texto.\nb) Descreva os projetos dos principais grupos políticos do período.\nc) Explique a frase: “Os conflitos inerentes à sociedade não se identificam com a ruptura política com a Mãe Pátria, e\ncontinuam como antes, relegados para a posteridade”.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 605,
+   "imagem": "img/fuvest-2020-2f-d2-q605.webp",
+   "texto": "H05\nObserve a imagem e leia o texto.\nFelipe Guamán Poma de Ayala, o autor da imagem, foi um cronista\nameríndio de ascendência incaica que viveu no Peru entre 1534 e 1615. A\nimagem faz parte de sua Nueva Corónica y Buen Gobierno, finalizada no\ncomeço do século XVII e endereçada ao rei Felipe III, sendo acompanhada\nda seguinte legenda, traduzida do espanhol:\n“Pobre dos índios, de seis animais que comem e a que temem os pobres\ndos índios deste reino: serpente, corregedor; tigre, espanhóis das cidades;\nleão, encomendero; cadela, padre da doutrina; gato, escrivão; rato, cacique\nprincipal. Estes ditos animais que não temem a Deus esfolam aos pobres\níndios deste reino, e não há remédio, pobre Jesus Cristo”.\na) Identifique a situação do Peru quando da elaboração da obra.\nb) Descreva as estruturas de poder político e econômico que são comentadas na imagem e no texto que a acompanha.\nc) Analise as tensões no mundo indígena sugeridas por texto e imagem.",
+   "gabarito": "discursiva"
+  },
+  {
+   "numero": 606,
+   "imagem": "img/fuvest-2020-2f-d2-q606.webp",
+   "texto": "H06\nEm 29 de outubro de 1956, uma grave crise política descambou em uma intervenção militar na região do Canal de Suez e da\nPenínsula do Sinai (Egito).\na) Indique a importância dessa região nos quadros da política internacional do período.\nb) Mencione as potências envolvidas diretamente nesse conflito e os seus respectivos interesses.\nc) Explique as tensões associadas à articulação política entre os diversos Estados árabes nesse período.",
+   "gabarito": "discursiva"
+  }
+ ]
+}

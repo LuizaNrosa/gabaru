@@ -1,0 +1,552 @@
+{
+ "id": "fuvest-2019-1f",
+ "banca": "FUVEST",
+ "exame": "Vestibular FUVEST",
+ "ano": 2019,
+ "dia": null,
+ "fase": 1,
+ "descricao": "1ª fase, Conhecimentos Gerais, caderno V (múltipla escolha). Gabarito oficial do caderno V.",
+ "total": 90,
+ "questoes": [
+  {
+   "numero": 1,
+   "imagem": "img/fuvest-2019-1f-q001.webp",
+   "texto": "01\nA figura exemplifica o comportamento de povos indígenas que\nviveram no Brasil há 1.000 anos. Eles construíam suas casas\nescavadas na terra, faziam fogueiras e manuseavam objetos.\nEscavações revelam hábitos de antigos povos que ocuparam o Sul do país.\nFolha de S.Paulo. 20/03/2016. Adaptado.\nCom base nos dados apresentados e em seus conhecimentos,\nassinale a alternativa correta quanto à época geológica desses\nsítios arqueológicos, quanto ao elemento químico analisado\ncoerente com as práticas humanas exemplificadas na figura e\nquanto ao método de datação.\n(A) Holoceno, silício e datação por quantificação de isótopos\nestáveis.\n(B) Jurássico, carbono e datação por decaimento radioativo de\nisótopos.\n(C) Holoceno, carbono e datação por decaimento radioativo de\nisótopos.\n(D) Jurássico, silício e datação por decaimento radioativo de\nisótopos.\n(E) Jurássico, carbono e datação por quantificação de isótopos\nestáveis.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 2,
+   "imagem": "img/fuvest-2019-1f-q002.webp",
+   "texto": "02\nO capitalismo neoliberal, após os anos 1980, caracteriza‐se\n(A) pela prevalência da agricultura e pecuária no PIB dos países\ndesenvolvidos.\n(B) pelo crescimento da concentração da riqueza e das finanças\nem detrimento dos setores produtivos e pela tendência à\ndiminuição dos direitos sociais.\n(C) pela adoção de políticas que restringem a fluidez dos\ncapitais e distribuem mais equitativamente a riqueza.\n(D) pelo fortalecimento do papel do Estado nos direitos sociais\ne pela diminuição do papel das finanças em relação ao PIB\nmundial.\n(E) pela formação de blocos econômicos entre países\nperiféricos, que impediram a livre circulação de capitais e\ncontiveram o aumento das desigualdades.\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 3,
+   "imagem": "img/fuvest-2019-1f-q003.webp",
+   "texto": "03\nNo planeta Terra, há processos escultores, tais como a ação do\ngelo, o intemperismo e a ação do vento. A atuação de tais\nprocessos pode ser representada em gráficos elaborados\nsegundo variações médias de temperatura e precipitação\nanual. Considere as características do deserto do Saara, da\nAntártida e de uma floresta tropical e identifique o gráfico em\nque estão corretamente localizados.\n(A)\n(D)\n(B)\n(E)\n(C)",
+   "gabarito": "A"
+  },
+  {
+   "numero": 4,
+   "imagem": "img/fuvest-2019-1f-q004.webp",
+   "texto": "04\nA curva de temperatura do ar ilustrada na figura caracteriza um\nfenômeno meteorológico que é mais frequente no outono e no\ninverno. Em ambientes urbanos com elevado número de\nindústrias e poluição veicular, esse fenômeno pode ocasionar\nquadros de elevadas concentrações de poluentes, provocando\nproblemas à saúde da população e danos à fauna e à flora.\nCETESB. https://cetesb.sp.gov.br/qualidade‐ar/\nO texto e a ilustração apresentados referem‐se\n(A) à camada de ozônio.\n(B) à inversão térmica.\n(C) ao efeito estufa natural.\n(D) à chuva ácida.\n(E) ao smog fotoquímico.\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 5,
+   "imagem": "img/fuvest-2019-1f-q005.webp",
+   "texto": "05\nA tabela mostra o número total de refugiados no mundo em\n2017, segundo relatório do Alto Comissariado das Nações\nUnidas Para Refugiados (UNHCR ou ACNUR em português).\nRefugiados do Mundo*\nPrincipais\nQuantidade de\nPrincipais países Quantidade\npaíses de\npessoas\nque abrigam\nde pessoas\norigem dos\n(em milhões)\nrefugiados\n(em milhões)\nrefugiados\nSíria\n6,3\nTurquia\n3,5\nAfeganistão\n2,6\nPaquistão\n1,4\nSudão do Sul\n2,4\nUganda\n1,4\nMyanmar\n1,2\nLíbano\n0,9\nSomália\n0,9\nRepública\n0,9\nIslâmica do Irã\nSudão\n0,7\nAlemanha\n0,9\n*Nestes dados não estão computados os palestinos.\nUNHCR‐ GLOBAL TRENDS, 2017. Adaptado.\nSobre os refugiados e sua distribuição no mundo, é correto\nafirmar:\n(A) Os provenientes do Sudão do Sul e da Somália são acolhidos\nna Turquia, onde encontram oferta de empregos nas\natividades comerciais, tradição econômica do país, desde o\nséculo XVII.\n(B) A maioria provém da África, devido aos processos de\ndesertificação, e tem como destino o Oriente Médio e a\nEuropa.\n(C) O Irã recebe majoritariamente refugiados de países da\nÁfrica Subsaariana, dentre os quais se destacam o Sudão e\no Sudão do Sul.\n(D) Os de origem síria são a maior população nesta condição, e\nestão sendo acolhidos em vários países do Extremo Oriente\ne da África, os quais apoiam o governo sírio na guerra civil\nque ocorre nesse país desde 2011.\n(E) São majoritariamente provenientes do Oriente Médio,\nÁfrica e Ásia, deslocam‐se, forçadamente, devido a longas\nguerras, em grande parte para países e/ou regiões\nfronteiriços.\nV",
+   "gabarito": "E"
+  },
+  {
+   "numero": 6,
+   "imagem": "img/fuvest-2019-1f-q006.webp",
+   "texto": "06\nA Litosfera é fragmentada em placas que deslizam, convergem\ne se separam umas em relação às outras à medida que se\nmovimentam sobre a Astenosfera. Essa dinâmica compõe a\nTectônica de Placas, reconhecida inicialmente pelo cientista\nalemão Alfred Wegener, que elaborou a teoria da Deriva\nContinental no início do século XX, tal como demonstrado a\nseguir.\nWegener, A. The Origin of Continents and Oceans. 1924. Adaptado.\nAs bases da teoria de Wegener seguiram inúmeras evidências\ndeixadas na superfície dos continentes ao longo do tempo\ngeológico. Considerando as figuras e seus conhecimentos,\nindique o fator básico que influenciou o raciocínio de Wegener.\n(A) As repartições internas atuais dos continentes no\nHemisfério Norte.\n(B) A continuidade dos sistemas fluviais entre América e África.\n(C) As ligações atuais entre os continentes no Hemisfério Sul.\n(D) A semelhança entre os contornos da costa sul‐americana e\nafricana.\n(E) A distribuição das águas constituindo um só oceano.\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 7,
+   "imagem": "img/fuvest-2019-1f-q007.webp",
+   "texto": "07\nSegundo a Organização das Nações Unidas para a Alimentação\ne a Agricultura (FAO), anualmente, 1,3 bilhão de toneladas de\nalimentos (30% da produção total no planeta) é perdido em\ndois processos: o desperdício que se relaciona ao descarte de\nalimentos em bom estado e a perda ao longo da cadeia\nprodutiva. O desperdício representa 46% e é muito maior nas\nregiões mais ricas. As perdas relativas ao circuito de produção\nrepresentam 54% do total e são maiores nos países em\ndesenvolvimento.\nhttps://nacoesunidas.org/fao‐30‐de‐toda‐a‐comida‐produzida‐no‐mundo‐vai‐\nparar‐no‐lixo. Adaptado.\nPercentual de pessoas em estado de insegurança alimentar grave*\nLocal\n2017\nÁfrica\n29,8%\nAmérica Latina\n9,8%\nÁsia\n6,9%\nAmérica Setentrional e Europa\n1,4%\nMundo\n10,2%\nFAO. El estado de la seguridad alimentaria y la nutrición en el mundo. 2018.\nAdaptado.\n*pessoa que está sem alimento e/ou que ficou um dia todo sem comer várias\nvezes ao ano.\nCom base nas informações da FAO e em seus conhecimentos,\nindique a afirmação correta.\n(A) A produção de alimentos vem decaindo mundialmente\ndevido aos problemas na logística de produção, o que tem\nprovocado aumento da insegurança alimentar.\n(B) Nos continentes mais desenvolvidos, a perda de alimentos\ndevido ao sistema de transporte e armazenamento é a\nprincipal causa da inexistência da insegurança alimentar.\n(C) O fato de parte significativa da população africana estar em\nestado de insegurança alimentar ocorre devido ao\ndesperdício das monoculturas de cereais.\n(D) O controle rigoroso do desperdício explica o baixo\npercentual de pessoas em situação de insegurança\nalimentar na América Setentrional e na Europa.\n(E) Os dois diferentes processos que causam a enorme perda\nde alimentos no mundo refletem as desigualdades\neconômicas e sociais existentes entre os continentes.\nV",
+   "gabarito": "E"
+  },
+  {
+   "numero": 8,
+   "imagem": "img/fuvest-2019-1f-q008.webp",
+   "texto": "08\nMDIC ‐ www.mdic.gov.br. Adaptado.\nCom base no gráfico referente à pauta das exportações\nbrasileiras, é correto afirmar que, no período analisado, houve\n(A) ampliação do setor secundário, especialmente de bens de\ncapital intermediários.\n(B) consolidação do Brasil como exportador de alta tecnologia,\ncujo percentual vem se ampliando na pauta de exportações\nbrasileiras.\n(C) fortalecimento do setor primário e declínio do setor de\nmaior valor agregado.\n(D) maior peso do setor primário, pela primeira vez na história\neconômica brasileira.\n(E) diminuição da agroindústria nas exportações e aumento do\npeso dos bens manufaturados.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 9,
+   "imagem": "img/fuvest-2019-1f-q009.webp",
+   "texto": "09\nO gráfico mostra as temperaturas médias mensais históricas de\ncinco cidades, todas localizadas em altitudes próximas do nível\ndo mar: Alexandria (Egito), Barcelona (Espanha), Buenos\nAires (Argentina), Santos (SP, Brasil), São Luís (MA, Brasil).\nFonte: Weatherbase\nNo\ngráfico,\nessas\ncidades\nestão\nrepresentadas,\nrespectivamente, pelos símbolos:\n(A)\n(B)\n(C)\n(D)\n(E)\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 10,
+   "imagem": "img/fuvest-2019-1f-q010.webp",
+   "texto": "10\nA metropolização de São Paulo foi induzida pela\nindustrialização no século XX. Nas últimas décadas, o\ndeslocamento de parte da indústria da metrópole e o\ncrescimento do setor terciário avançado revelam a primazia do\ncapital financeiro, que se articula com o setor imobiliário e\nproduz, por exemplo, os edifícios corporativos, sede deste\nterciário.\nCarlos, A.F.A. São Paulo: do capital industrial ao capital financeiro. In: Carlos,\nA.F.A. e Oliveira. A.U. Geografias de São Paulo: a metrópole do século XXI.\nSão Paulo. Adaptado.\nConjuntos comerciais verticais lançados no município de São Paulo\nde 1992 a 2015\nEmpresa Brasileira de Estudos de Patrimônio: Embraesp. 2015. Adaptado.\nCom base no texto e no mapa, é correto afirmar que\n(A) o crescimento do terciário avançado indica o aumento de\nestabelecimentos industriais, ambos dispersos em São\nPaulo.\n(B) a produção industrial em São Paulo está concentrada nas\náreas centrais, o que induziu a proliferação de edifícios\ncorporativos.\n(C) os edifícios corporativos concentram a produção de\nmanufaturados e, em São Paulo, estão concentrados nas\náreas de maior densidade populacional.\n(D) o setor terciário avançado ocupa os edifícios corporativos e\nestá concentrado em poucos distritos da metrópole de São\nPaulo no momento atual.\n(E) a desconcentração industrial em São Paulo foi\nacompanhada da dispersão do setor terciário avançado.\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 11,
+   "imagem": "img/fuvest-2019-1f-q011.webp",
+   "texto": "11\nExamine a imagem e o gráfico.\nGoogle Earth, 2018.\nA sequência correta dos compartimentos geomorfológicos no\ntraçado A – B apresentados na imagem e no perfil é:\n1\n2\n3\n(A)\nplanalto\nescarpa\nplanície litorânea\n(B)\nescarpa\nplanalto\ndepressão periférica\n(C)\nescarpa\nplanalto\nplanície litorânea\n(D)\nplanalto\nescarpa\ndepressão periférica\n(E)\ndepressão periférica\nescarpa\nplanície litorânea",
+   "gabarito": "A"
+  },
+  {
+   "numero": 12,
+   "imagem": "img/fuvest-2019-1f-q012.webp",
+   "texto": "12\nÀ medida que a parcela de ar se eleva na atmosfera, nos limites\nda troposfera, a temperatura do ar decai a uma razão de 1 °C a\ncada 100 metros (Razão Adiabática Seca ‐ RAS) ou 0,6 °C a cada\n100 metros (Razão Adiabática Úmida ‐ RAU).\nConsiderando os conceitos e a ilustração, é correto afirmar que\nas temperaturas do ar, em graus Celsius, T1 e T2, são,\nrespectivamente,\n(A) 8,0 e 26,0.\nNote e adote:\n(B) 12,8 e 28,0.\nUtilize RAS ou RAU de acordo com a\n(C) 12,0 e 26,0.\npresença ou não de ar saturado.\n(D) 12,0 e 20,4.\n(E) 11,6 e 20,4.\nT ar : temperatura do ar.\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 13,
+   "imagem": "img/fuvest-2019-1f-q013.webp",
+   "texto": "13\nOs grandes aviões comerciais voam em altitudes onde o ar é\nrarefeito e a pressão atmosférica é baixa. Devido a isso, eles\ntêm o seu interior pressurizado em uma pressão igual à\natmosférica na altitude de 2.000 m. A figura mostra o gráfico da\npressão atmosférica em função da altitude.\nA força, em N, a que fica submetida uma janela plana de vidro,\nde 20 x 30 cm 2 , na cabine de passageiros na altitude de\n10.000 m, é, aproximadamente,\n(A) 12.400\n(B) 6.400\n(C) 4.800\n(D) 3.200\n(E) 1.600",
+   "gabarito": "D"
+  },
+  {
+   "numero": 14,
+   "imagem": "img/fuvest-2019-1f-q014.webp",
+   "texto": "14\nO consumo calórico de um animal de sangue quente é\nproporcional à área superficial de seu corpo. Um animal com\nmassa 3,5 kg consome 250 kcal diárias. O gráfico relaciona a\nárea superficial desse animal com sua massa.\nConsiderando o gráfico, conclui‐se que, se a massa deste animal\ndobrar, o seu novo consumo diário de energia, em kcal, será,\naproximadamente,\n(A) 130\n(B) 250\n(C) 310\n(D) 390\n(E) 500",
+   "gabarito": "D"
+  },
+  {
+   "numero": 15,
+   "imagem": "img/fuvest-2019-1f-q015.webp",
+   "texto": "15\nEm uma fábrica, um técnico deve medir a velocidade angular\nde uma polia girando. Ele apaga as luzes do ambiente e ilumina\na peça somente com a luz de uma lâmpada estroboscópica, cuja\nfrequência pode ser continuamente variada e precisamente\nconhecida. A polia tem uma mancha branca na lateral. Ele\nobserva que, quando a frequência de flashes é 9 Hz, a mancha\nna polia parece estar parada. Então aumenta vagarosamente a\nfrequência do piscar da lâmpada e só quando esta atinge 12 Hz\né que, novamente, a mancha na polia parece estar parada. Com\nbase nessas observações, ele determina que a velocidade\nangular da polia, em rpm, é\n(A) 2.160\n(B) 1.260\n(C) 309\n(D) 180\n(E) 36",
+   "gabarito": "A"
+  },
+  {
+   "numero": 16,
+   "imagem": "img/fuvest-2019-1f-q016.webp",
+   "texto": "16\nDois corpos de massas iguais são soltos, ao mesmo tempo, a\npartir do repouso, da altura h 1 e percorrem os diferentes\ntrajetos (A) e (B), mostrados na figura, onde x 1 > x 2 e h 1 > h 2 .\nConsidere as seguintes afirmações:\nI. As energias cinéticas finais dos corpos em (A) e em (B) são\ndiferentes.\nII. As energias mecânicas dos corpos, logo antes de\ncomeçarem a subir a rampa, são iguais.\nIII. O tempo para completar o percurso independe da\ntrajetória.\nIV. O corpo em (B) chega primeiro ao final da trajetória.\nV. O trabalho realizado pela força peso é o mesmo nos dois\ncasos.\nÉ correto somente o que se afirma em\n(A) I e III.\n(B) II e V.\nNote e adote:\n(C) IV e V.\nDesconsidere forças dissipativas.\n(D) II e III.\n(E) I e V.\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 17,
+   "imagem": "img/fuvest-2019-1f-q017.webp",
+   "texto": "17\nUm rapaz de massa corre numa pista horizontal e pula sobre\num skate de massa\n, que se encontra inicialmente em\nrepouso. Com o impacto, o skate adquire velocidade e o\nconjunto rapaz+skate segue em direção a uma rampa e atinge\numa altura máxima . A velocidade do rapaz, imediatamente\nantes de tocar no skate, é dada por\n√\n(A)\n√\n(B)\n√ 2\n(C)\n(D)\n√ 2\n√\n(E)\nNote e adote:\nConsidere que o sistema rapaz + skate não perde\nenergia devido a forças dissipativas, após a colisão.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 18,
+   "imagem": "img/fuvest-2019-1f-q018.webp",
+   "texto": "18\nTrês pequenas esferas carregadas com carga positiva ocupam\nos vértices de um triângulo, como mostra a figura. Na parte\ninterna do triângulo, está afixada outra pequena esfera, com\ncarga negativa q. As distâncias dessa carga às outras três\npodem ser obtidas a partir da figura.\nSendo = 2  10 ‐4 C, = –2  10 ‐5 C e\n= 6 m, a força elétrica\nresultante sobre a carga\n(A) é nula.\n(B) tem direção do eixo y, sentido para baixo e módulo 1,8 N.\n(C) tem direção do eixo y, sentido para cima e módulo 1,0 N.\n(D) tem direção do eixo y, sentido para baixo e módulo 1,0 N.\n(E) tem direção do eixo y, sentido para cima e módulo 0,3 N.\nNote e adote:\nA constante k 0 da lei de Coulomb vale 9  10 9 N m 2 /C 2\nV",
+   "gabarito": "E"
+  },
+  {
+   "numero": 19,
+   "imagem": "img/fuvest-2019-1f-q019.webp",
+   "texto": "19\nUma pessoa observa uma vela através de uma lente de vidro\nbiconvexa, como representado na figura.\nConsidere que a vela está posicionada entre a lente e o seu\nponto focal F. Nesta condição, a imagem observada pela pessoa\né\n(A) virtual, invertida e maior.\n(B) virtual, invertida e menor.\n(C) real, direita e menor.\n(D) real, invertida e maior.\n(E) virtual, direita e maior.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 20,
+   "imagem": "img/fuvest-2019-1f-q020.webp",
+   "texto": "20\nUma bateria de tensão e resistência interna\né ligada em\nsérie com um resistor de resistência . O esquema do circuito\nestá apresentado na figura. A potência dissipada pelo resistor\né dada por\n(A)\n(B)\n(C)\n(D)\n(E)",
+   "gabarito": "C"
+  },
+  {
+   "numero": 21,
+   "imagem": "img/fuvest-2019-1f-q021.webp",
+   "texto": "21\nEm uma garrafa térmica, são colocados 200 g de água à\ntemperatura de 30 o C e uma pedra de gelo de 50 g, à\ntemperatura de –10 o C. Após o equilíbrio térmico,\n(A) todo o gelo derreteu e a temperatura de equilíbrio é 7 °C.\n(B) todo o gelo derreteu e a temperatura de equilíbrio\né 0,4 °C.\n(C) todo o gelo derreteu e a temperatura de equilíbrio é 20 °C.\n(D) nem todo o gelo derreteu e a temperatura de equilíbrio\né 0 °C.\n(E) o gelo não derreteu e a temperatura de equilíbrio é –2 °C.\nNote e adote:\ncalor latente de fusão do gelo = 80 cal/g;\ncalor específico do gelo = 0,5 cal/g o C;\ncalor específico da água = 1,0 cal/g o C.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 22,
+   "imagem": "img/fuvest-2019-1f-q022.webp",
+   "texto": "22\nNo diagrama P x V da figura, A, B e C representam\ntransformações possíveis de um gás entre os estados I e II.\nCom relação à variação U da energia interna do gás e ao\ntrabalho W por ele realizado, entre esses estados, é correto\nafirmar que\n(A) U A = U B = U C e W C > W B > W A .\n(B) U A > U C > U B e W C = W A < W B .\n(C) U A < U B < U C e W C > W B > W A .\n(D) U A = U B = U C e W C = W A > W B .\n(E) U A > U B > U C e W C = W B = W A .",
+   "gabarito": "A"
+  },
+  {
+   "numero": 23,
+   "imagem": "img/fuvest-2019-1f-q023.webp",
+   "texto": "23\nTrês amigos vão acampar e descobrem que nenhum deles\ntrouxe fósforos. Para acender o fogo e fazer o almoço, resolvem\nimprovisar e prendem um pedaço de filme plástico\ntransparente num aro de “cipó”. Colocam um pouco de água\nsobre o plástico, formando uma poça de aproximadamente\n14 cm de diâmetro e 1 cm de profundidade máxima, cuja forma\npode ser aproximada pela de uma calota esférica. Quando o sol\nestá a pino, para aproveitamento máximo da energia solar, a\ndistância, em cm, entre o centro do filme e a palha seca usada\npara iniciar o fogo, é, aproximadamente,\n(A) 75\nNote e adote:\n(B) 50\nPara uma lente plano‐convexa,\n1\n,\n(C) 25\nsendo n o índice de refração da lente e R o seu\n(D) 14\nraio de curvatura.\n(E) 7\nÍndice de refração da água = 1,33.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 24,
+   "imagem": "img/fuvest-2019-1f-q024.webp",
+   "texto": "24\nUm chuveiro elétrico que funciona em 220 V possui uma chave\nque comuta entre as posições “verão” e “inverno”. Na posição\n“verão”, a sua resistência elétrica tem o valor 22 Ω, enquanto\nna posição “inverno” é 11 Ω. Considerando que na posição\n“verão” o aumento de temperatura da água, pelo chuveiro, é\n5 °C, para o mesmo fluxo de água, a variação de temperatura,\nna posição “inverno”, em °C, é\n(A) 2,5\n(B) 5,0\n(C) 10,0\n(D) 15,0\n(E) 20,0\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 25,
+   "imagem": "img/fuvest-2019-1f-q025.webp",
+   "texto": "25\nNas margens de um rio, verificava‐se a seguinte cadeia trófica:\no capim ali presente servia de alimento para gafanhotos, que,\npor sua vez, eram predados por passarinhos, cuja espécie só\nocorria naquele ambiente e tinha exclusivamente os\ngafanhotos como alimento; tais passarinhos eram predados por\ngaviões da região.\nA lama tóxica que vazou de uma empresa mineradora matou\nquase totalmente o capim ali existente. É correto afirmar que,\nem seguida, o consumidor secundário\n(A) teve sua população reduzida como consequência direta do\naumento da biomassa no primeiro nível trófico da cadeia.\n(B) teve sua população reduzida como consequência indireta\nda diminuição da biomassa no primeiro nível trófico da\ncadeia.\n(C) não teve sua população afetada, pois o efeito da lama tóxica\nse deu sobre o primeiro nível trófico da cadeia e não sobre\no segundo.\n(D) não teve sua população afetada, pois a lama tóxica não teve\nefeito direto sobre ele, mas sim sobre um nível trófico\ninferior.\n(E) teve sua população aumentada como consequência direta\ndo aumento da biomassa no segundo nível trófico da\ncadeia.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 26,
+   "imagem": "img/fuvest-2019-1f-q026.webp",
+   "texto": "26\nA tabela lista características bióticas e abióticas associadas a\nalguns biomas brasileiros.\nTipo de\nVolume de\nZona\nBioma\nvegetação\nchuvas\nclimática\npredominante\nmoderado a\ntropical,\nI\narbóreo\ngrande\nsubtropical\nII\nherbáceo\nmoderado\ntemperada\nequatorial,\nIII\narbóreo\ngrande\ntropical\narbóreo,\ntropical,\nIV\narbustivo e\nmoderado\nsubtropical\nherbáceo\nEscolha a alternativa que lista os biomas corretos, na ordem em\nque aparecem nas linhas da tabela (I a IV).\n(A) I‐Floresta Amazônica; II‐Cerrado; III‐Mata Atlântica;\nIV‐Caatinga.\n(B) I‐ Floresta Amazônica; II‐Pampas; III‐Mata Atlântica;\nIV‐Cerrado.\n(C) I‐Mata Atlântica; II‐Cerrado; III‐Floresta Amazônica;\nIV‐Caatinga.\n(D) I‐Mata Atlântica; II‐Pampas; III‐Floresta Amazônica;\nIV‐Cerrado.\n(E) I‐Pampas; II‐Mata Atlântica; III‐Cerrado;\nIV‐ Floresta Amazônica.\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 27,
+   "imagem": "img/fuvest-2019-1f-q027.webp",
+   "texto": "27\nO aquecimento global resulta do seguinte fenômeno: parte da\nenergia solar incidente sobre a Terra é irradiada de volta ao\nespaço, sendo bloqueada, em grande parte, por gases de efeito\nestufa, o que aumenta a temperatura do planeta. As\nalternativas apresentam: I‐ o motivo pelo qual os raios solares\nconseguem penetrar a atmosfera terrestre, mas, ao serem\nrefletidos, são barrados, em grande parte, pelos gases de efeito\nestufa; II‐ uma das causas diretas do aumento da concentração\nde gases de efeito estufa na atmosfera.\nOs itens I e II estão corretamente indicados em:\n(A)\nI\nA energia solar incide na atmosfera em\ncomprimentos de onda menores e é refletida\nem comprimentos de onda maiores.\nII\nDestruição de florestas nativas.\n(B)\nI\nA energia solar incide na atmosfera em\ncomprimentos de onda maiores e é refletida em\ncomprimentos de onda menores.\nII\nRepresamento dos rios para abastecimento de\nhidrelétricas.\n(C)\nI\nA energia solar incide na atmosfera e é refletida\nem ondas de mesmo comprimento.\nII\nPlantio de árvores exóticas no lugar de árvores\nnativas.\n(D)\nI\nA energia solar incide na atmosfera em\ncomprimentos de onda maiores e é refletida em\ncomprimentos de onda menores.\nII\nUso de combustível fóssil.\n(E)\nI\nA energia solar incide na atmosfera em\ncomprimentos de onda menores e é refletida\nem comprimentos de onda maiores.\nII\nUso da água dos rios para o abastecimento\ndomiciliar.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 28,
+   "imagem": "img/fuvest-2019-1f-q028.webp",
+   "texto": "28\nUm organismo multicelular, fotossintetizante, que possui\nsistema vascular e não possui frutos ou sementes é uma\n(A) alga.\n(B) briófita.\n(C) pteridófita.\n(D) gimnosperma.\n(E) angiosperma.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 29,
+   "imagem": "img/fuvest-2019-1f-q029.webp",
+   "texto": "29\nA esquistossomose é uma doença que tem forte impacto na\nsaúde pública brasileira. Os grupos do parasita (I) e do seu\nhospedeiro intermediário (II) e a forma de infestação (III) são:\n(A) I‐protozoário; II‐artrópode; III‐picada de mosquito.\n(B) I‐nematódeo; II‐molusco; III‐penetração pela pele.\n(C) I‐protozoário; II‐artrópode; III‐picada de barbeiro.\n(D) I‐platelminto; II‐mamífero; III‐ingestão de carne crua.\n(E) I‐platelminto; II‐molusco; III‐penetração pela pele.\nV",
+   "gabarito": "E"
+  },
+  {
+   "numero": 30,
+   "imagem": "img/fuvest-2019-1f-q030.webp",
+   "texto": "30\nO gráfico representa a concentração de alguns hormônios\nobservados durante a gravidez de uma mulher.\nIdentifique os hormônios H1 e H2, respectivamente, e o motivo\nda queda abrupta de suas concentrações no sangue ao final do\nperíodo de gestação.\nH1\nH2\nMotivo\n(A)\nprogesterona\nFSH\neliminação da\nplacenta\n(B)\nFSH\nLH\nreinício da\nmenstruação\n(C)\nFSH\nestrógeno\nreinício da\nmenstruação\n(D)\nprogesterona\nestrógeno\neliminação da\nplacenta\n(E)\nFSH\nprogesterona\ninício da\nlactação",
+   "gabarito": "D"
+  },
+  {
+   "numero": 31,
+   "imagem": "img/fuvest-2019-1f-q031.webp",
+   "texto": "31\nO processo de acidificação dos oceanos, decorrente das\nmudanças climáticas globais, afeta diretamente as colônias de\ncorais, influenciando na formação de recifes. Assinale a\nalternativa que completa corretamente a explicação para esse\nfenômeno.\nO dióxido de carbono dissolvido no oceano\n(A) gera menor quantidade de íons de hidrogênio, o que\ndiminui o pH da água, liberando maior quantidade de íons\ncálcio, que, por sua vez, se ligam aos carbonatos,\naumentando o tamanho dos recifes.\n(B) é absorvido pelo fitoplâncton, entrando no processo\nfotossintético, e o oxigênio liberado permanece na água do\nmar, oxidando e matando os recifes de coral.\n(C) leva à formação de ácido carbônico, que, dissociado, gera,\nao final, íons de hidrogênio e de carbonato, que se ligam,\nimpedindo a formação do carbonato de cálcio que compõe\nos recifes de coral.\n(D) é absorvido pelo fitoplâncton, entrando no processo\nfotossintético, e o oxigênio liberado torna a água do mar\nmais oxigenada, aumentando a atividade dos corais e o\ntamanho de seus recifes.\n(E) reage com a água, produzindo ácido carbônico, que\npermanece no oceano e corrói os recifes de coral, que são\nformados por carbonato de cálcio.\nV",
+   "gabarito": "E"
+  },
+  {
+   "numero": 32,
+   "imagem": "img/fuvest-2019-1f-q032.webp",
+   "texto": "32\nO esquema representa, de maneira bastante simplificada, uma\ndas possíveis hipóteses de relação de parentesco entre grupos\nanimais, assinalados pelo nome comum de alguns de seus\nrepresentantes. Na base do esquema, a característica que une\ntodos em um mesmo grupo é a deuterostomia.\nIdentifique quais seriam as características I, II, III, IV, V que\njustificariam os respectivos grupos.\n(A) I‐notocorda; II‐pulmão; III‐âmnio; IV‐pelo; V‐ovo com casca.\nI‐escamas; II‐encéfalo; III‐pulmão; IV‐glândulas mamárias;\n(B)\nV‐âmnio.\nI‐mandíbula; II‐4 membros locomotores; III‐pulmão;\n(C)\nIV‐ventrículo subdividido em 2 câmaras; V‐ovo com casca.\nI‐notocorda; II‐4 membros locomotores; III‐pulmão;\n(D)\nIV‐glândulas mamárias; V‐pena.\nI‐âmnio; II‐pulmão; III‐mandíbula;\n(E)\nIV‐ventrículo subdividido em 2 câmaras; V‐escama.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 33,
+   "imagem": "img/fuvest-2019-1f-q033.webp",
+   "texto": "33\nUma alteração genética é determinada por um gene com\nherança autossômica recessiva. O heredograma mostra\nfamílias em que essa condição está presente.\nO casal III2 e III3 está esperando um menino. Considerando\nque, nessa população, uma em cada 50 pessoas é\nheterozigótica para essa alteração, a probabilidade de que esse\nmenino seja afetado é\n(A) 1/100\n(B) 1/200\n(C) 1/1.000\n(D) 1/25.000\n(E) 1/40.000\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 34,
+   "imagem": "img/fuvest-2019-1f-q034.webp",
+   "texto": "34\nDesde 2013, a cobertura vacinal para doenças como caxumba,\nsarampo, rubéola e poliomielite vem caindo ano a ano em todo\no país, devido, entre outros motivos, ____I____. Contudo,\nsabe‐se que a vacina é o único meio de prevenir essas doenças\ne consiste na inoculação de _____II_____.\nAs lacunas I e II podem ser corretamente preenchidas por:\n(A)\nà baixa incidência dessas doenças atualmente, não\nI\nrepresentando mais riscos à saúde pública.\nanticorpos que estimulam uma resposta imunológica\nII\npassiva contra uma doença específica, em pessoas\nsaudáveis.\n(B)\na movimentos antivacinação, que têm se expandido\nI\npelo mundo.\nvírus patogênicos modificados em laboratório,\nII\ncausando a cura pela competição com os vírus não\nmodificados da pessoa doente.\n(C)\na movimentos antivacinação, que têm se expandido\nI\npelo mundo.\nantígenos do agente patogênico, estimulando uma\nII\nresposta imunológica ativa, em pessoas saudáveis.\n(D)\nao alto custo dessas vacinas, não coberto pelo\nI\nsistema público, o que as torna inacessíveis a grande\nparte da população.\nantígenos do agente patogênico para garantir a cura\nII\nem um curto espaço de tempo, em pessoas doentes.\n(E)\nà baixa incidência dessas doenças atualmente, não\nI\nrepresentando mais riscos à saúde pública.\nanticorpos específicos produzidos em outro\nII\norganismo, que se multiplicam e eliminam o agente\npatogênico, em pessoas doentes.\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 35,
+   "imagem": "img/fuvest-2019-1f-q035.webp",
+   "texto": "35\nA reação de água com ácido clorídrico produz o ânion cloreto e\no cátion hidrônio. A estrutura que representa corretamente o\ncátion hidrônio é\n(A)\n(D)\n(B)\n(E)\n(C)",
+   "gabarito": "A"
+  },
+  {
+   "numero": 36,
+   "imagem": "img/fuvest-2019-1f-q036.webp",
+   "texto": "36\nUma amostra sólida, sem cavidades ou poros, poderia ser\nconstituída por um dos seguintes materiais metálicos: alumínio,\nbronze, chumbo, ferro ou titânio. Para identificá‐la, utilizou‐se\numa balança, um recipiente de volume constante e água.\nEfetuaram‐se as seguintes operações: 1) pesou‐se a amostra;\n2) pesou‐se o recipiente completamente cheio de água;\n3) colocou‐se a amostra no recipiente vazio, completando seu\nvolume com água e determinou‐se a massa desse conjunto. Os\nresultados obtidos foram os seguintes:\nDadas as densidades da água e dos metais, pode‐se concluir\nque a amostra desconhecida é constituída de\n(A) alumínio.\nNote e adote:\n(B) bronze.\nDensidades (g/cm 3 ):\n(C) chumbo.\nágua = 1,0; alumínio = 2,7; bronze = 8,8;\n(D) ferro.\nchumbo = 11,3; ferro = 7,9; titânio = 4,5.\n(E) titânio.\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 37,
+   "imagem": "img/fuvest-2019-1f-q037.webp",
+   "texto": "37\nUm antiácido comercial em pastilhas possui, em sua\ncomposição, entre outras substâncias, bicarbonato de sódio,\ncarbonato de sódio e ácido cítrico. Ao ser colocada em água, a\npastilha dissolve‐se completamente e libera gás carbônico, o\nque causa a efervescência. Para entender a influência de alguns\nfatores sobre a velocidade de dissolução da pastilha, adicionou‐\nse uma pastilha a cada um dos quatro recipientes descritos na\ntabela, medindo‐se o tempo até a sua dissolução completa.\nTempo medido até a\nSolução\ncompleta dissolução da\npastilha (em segundos)\n1. Água mineral sem gás à\n36\ntemperatura ambiente (25 o C)\n2. Água mineral com gás à\n35\ntemperatura ambiente (25 o C)\n3. Água mineral sem gás deixada\n53\nem geladeira (4 o C)\n4. Água mineral com gás deixada\n55\nem geladeira (4 o C)\nPara todos os experimentos, foi usada água mineral da mesma\nmarca. Considere a água com gás como tendo gás carbônico\ndissolvido.\nCom base nessas informações, é correto afirmar que\n(A) o uso da água com gás, ao invés da sem gás, diminuiu a\nvelocidade de dissolução da pastilha em cerca de 50%, uma\nvez que, como já possui gás carbônico, há o deslocamento\ndo equilíbrio para a formação dos reagentes.\n(B) o uso da água com gás, ao invés da sem gás, aumentou a\nvelocidade de dissolução da pastilha em cerca de 33%, uma\nvez que o gás carbônico acidifica a água, aumentando a\nvelocidade de consumo do carbonato de sódio.\n(C) nem a mudança de temperatura nem a adição de gás\ncarbônico na solução afetaram a velocidade da reação, uma\nvez que o sistema não se encontra em equilíbrio.\n(D) o aumento da temperatura da água, de 4 °C para 25 °C,\nlevou a um aumento na velocidade da reação, uma vez que\naumentou a frequência e a energia de colisão entre as\nmoléculas envolvidas na reação.\n(E) o aumento da temperatura da água, de 4 °C para 25 °C,\nlevou a um aumento na velocidade da reação, uma vez que\nfacilita a liberação de gás carbônico da solução, deslocando\no equilíbrio para a formação dos reagentes.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 38,
+   "imagem": "img/fuvest-2019-1f-q038.webp",
+   "texto": "38\nConsiderando que baterias de Li‐FeS 2 podem gerar uma\nvoltagem nominal de 1,5 V, o que as torna úteis no cotidiano e\nque a primeira reação de descarga dessas baterias é\n2 Li + FeS 2  Li 2 FeS 2 , é correto afirmar:\n(A) O lítio metálico é oxidado na primeira descarga.\n(B) O ferro é oxidado e o lítio é reduzido na primeira descarga.\n(C) O lítio é o cátodo dessa bateria.\n(D) A primeira reação de descarga forma lítio metálico.\n(E) O lítio metálico e o dissulfeto ferroso estão em contato\ndireto dentro da bateria.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 39,
+   "imagem": "img/fuvest-2019-1f-q039.webp",
+   "texto": "39\nPeptídeos podem ser analisados pelo tratamento com duas\nenzimas. Uma delas, uma carboxipeptidase, quebra mais\nrapidamente a ligação peptídica entre o aminoácido que tem\num grupo carboxílico livre e o seguinte. O tratamento com outra\nenzima, uma aminopeptidase, quebra, mais rapidamente, a ligação\npeptídica entre o aminoácido que tem um grupo amino livre e\no anterior. Isso permite identificar a sequência dos aminoácidos\nno peptídeo.\nUm tripeptídeo, formado pelos aminoácidos lisina, fenilalanina\ne glicina, não necessariamente nessa ordem, foi submetido a\ntratamento com carboxipeptidase, resultando em uma mistura\nde um dipeptídeo e fenilalanina. O tratamento do mesmo\ntripeptídeo com aminopeptidase resultou em uma mistura de\num outro dipeptídeo e glicina.\nO número de combinações possíveis para os três aminoácidos\ne a fórmula estrutural do peptídeo podem ser,\nrespectivamente,\n(A)\n3 combinações e\n(B)\n3 combinações e\n(C)\n6 combinações e\n(D)\n6 combinações e\n(E)\n6 combinações e\nNote e adote:\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 40,
+   "imagem": "img/fuvest-2019-1f-q040.webp",
+   "texto": "40\nEm um experimento, determinadas massas de ácido maleico e\nacetona foram misturadas a 0 °C, preparando‐se duas misturas\nidênticas. Uma delas (X) foi resfriada a ‐78 °C, enquanto a outra\n(M) foi mantida a 0 °C. A seguir, ambas as misturas (M e X)\nforam filtradas, resultando nas misturas N e Y. Finalmente, um\ndos componentes de cada mistura foi totalmente retirado por\ndestilação. Os recipientes (marcados pelas letras O e Z)\nrepresentam o que restou de cada mistura após a destilação.\nNas figuras, as moléculas de cada componente estão\nrepresentadas por retângulos ou triângulos.\nTanto no recipiente M como no recipiente X, estão\nrepresentadas soluções ___I___ de ___II___, cuja solubilidade\n___III___ com a diminuição da temperatura. A uma\ndeterminada temperatura, as concentrações em M e N e em X\ne Y são ___IV___. Em diferentes instantes, as moléculas\nrepresentadas por um retângulo pertencem a um composto\nque pode estar ___V___ ou no estado ___VI___.\nAs lacunas que correspondem aos números de I a VI devem ser\ncorretamente preenchidas por:\n(A)\nI\nsaturadas\n(D)\nI\nheterogêneas\nII\nacetona\nII\nacetona\nIII\naumenta\nIII\naumenta\nIV\ndiferentes\nIV\ndiferentes\nV\nsólido\nV\nsólido\nVI\nlíquido\nVI\nsólido\n(B)\nI\nhomogêneas\n(E)\nI\nsaturadas\nII\nácido maleico\nII\nácido maleico\nIII\ndiminui\nIII\ndiminui\nIV\niguais\nIV\niguais\nV\ndissolvido\nV\nsólido\nVI\nlíquido\nVI\nlíquido\n(C)\nI\nsaturadas\nII\nácido maleico\nIII\ndiminui\nIV\niguais\nV\ndissolvido\nVI\nsólido\nNote e adote:\nComposto\nPonto de fusão (°C)\nPonto de ebulição (°C)\nÁcido maleico\n138\n202\nAcetona\n‐95\n56\nConsidere que não houve perda do solvente durante a filtração.\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 41,
+   "imagem": "img/fuvest-2019-1f-q041.webp",
+   "texto": "41\nO gráfico a seguir indica a temperatura de ebulição de\nbromoalcanos (C n H 2n+1 Br) para diferentes tamanhos de cadeia\ncarbônica.\n9\nF\n18,998\n17\nCl\n35,453\n35\nBr\n79,904\n53\nI\n126,904\nConsiderando as propriedades periódicas dos halogênios, a\nalternativa que descreve adequadamente o comportamento\nexpresso no gráfico de temperaturas de ebulição versus\ntamanho de cadeia carbônica para C n H 2n+1 F ( ) e C n H 2n+1 I ( • ) é:\n(A)\n(D)\n(B)\n(E)\n(C)\nNote e adote:\nP.E. = ponto de ebulição\nV",
+   "gabarito": "E"
+  },
+  {
+   "numero": 42,
+   "imagem": "img/fuvest-2019-1f-q042.webp",
+   "texto": "42\nO cinamaldeído é um dos principais compostos que dão o sabor\ne o aroma da canela. Quando exposto ao ar, oxida conforme a\nequação balanceada:\nUma amostra de 19,80 g desse composto puro foi exposta ao\nar por 74 dias e depois pesada novamente, sendo que a massa\nfinal aumentou em 1,20 g. A porcentagem desse composto que\nfoi oxidada no período foi de\n(A) 10%\nNote e adote:\n(B) 25%\nMassas molares (g/mol):\n(C) 50%\nCinamaldeído = 132; O 2 = 32\nConsidere que não houve perda de cinamaldeído\n(D) 75%\nou do produto de oxidação por evaporação .\n(E) 90%",
+   "gabarito": "C"
+  },
+  {
+   "numero": 43,
+   "imagem": "img/fuvest-2019-1f-q043.webp",
+   "texto": "43\nUma postagem de humor na internet trazia como título “Provas\nde que gatos são líquidos” e usava, como essas provas, fotos\nreais de gatos, como as reproduzidas aqui.\nBored Panda. https://www.boredpanda.com. Adaptado.\nO efeito de humor causado na associação do título com as fotos\nbaseia‐se no fato de que líquidos\n(A) metálicos, em repouso, formam uma superfície refletora de\nluz, como os pelos dos gatos.\n(B) têm volume constante e forma variável, propriedade que os\ngatos aparentam ter.\n(C) moleculares são muito viscosos, como aparentam ser os\ngatos em repouso.\n(D) são muito compressíveis, mantendo forma mas ajustando o\nvolume ao do recipiente, como os gatos aparentam ser.\n(E) moleculares são voláteis, necessitando estocagem em\nrecipientes fechados, como os gatos aparentam ser.\nNote e adote:\nConsidere temperatura e pressão ambientes.\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 44,
+   "imagem": "img/fuvest-2019-1f-q044.webp",
+   "texto": "44\nA bola de futebol que foi utilizada na Copa de 2018 foi chamada\nTelstar 18. Essa bola contém uma camada interna de borracha\nque pertence a uma classe de polímeros genericamente\nchamada de EPDM. A fórmula estrutural de um exemplo desses\npolímeros é\nPolímeros podem ser produzidos pela polimerização de\ncompostos insaturados (monômeros) como exemplificado para\no polipropileno (um homopolímero):\nOs monômeros que podem ser utilizados para preparar o co‐\npolímero do tipo EPDM, cuja fórmula estrutural foi\napresentada, são\n(A)\n(B)\n(C)\n(D)\n(E)\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 45,
+   "imagem": "img/fuvest-2019-1f-q045.webp",
+   "texto": "45\nUm grão de milho de pipoca, visto a olho nu,\napresenta\nduas\nregiões\ndistintas,\nrepresentadas por A e B na figura. Em A,\nocorre o tecido acumulador de amido, usado,\npela planta, para nutrir o embrião. Em B, os\ntecidos vegetais possuem maior teor de água.\nAo ser aquecida, parte da água transforma‐se em vapor,\naumentando a pressão interna do grão. Quando a temperatura\natinge 177 o C, a pressão se torna suficiente para romper o grão,\nque vira uma pipoca.\nUm estudo feito por um grupo de pesquisadores determinou\nque o interior do grão tem 4,5 mg de água da qual, no momento\nimediatamente anterior ao seu rompimento, apenas 9% está\nna fase vapor, atuando como um gás ideal e ocupando 0,1 mL.\nDessa forma, foi possível calcular a pressão P final no momento\nimediatamente anterior ao rompimento do grão.\nA associação correta entre região do milho e P final é dada por:\n(A) A = endosperma e P final = 8,3 atm.\n(B) B = endosperma e P final = 5,9 atm.\n(C) A = xilema e P final = 22,1 atm.\n(D) B = xilema e P final = 5,9 atm.\n(E) B = endosperma e P final = 92,0 atm.\nNote e adote:\nConstante universal dos gases: R = 0,082 L.atm/(K.mol);\nK = °C + 273;\nMassas molares (g/mol): H = 1; O = 16.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 46,
+   "imagem": "img/fuvest-2019-1f-q046.webp",
+   "texto": "46\nEm uma família, o número de irmãs de cada filha é igual à\nmetade do número de irmãos. Cada filho tem o mesmo número\nde irmãos e irmãs.\nO número total de filhos e filhas da família é\n(A) 4\n(B) 5\n(C) 7\n(D) 10\n(E) 15",
+   "gabarito": "C"
+  },
+  {
+   "numero": 47,
+   "imagem": "img/fuvest-2019-1f-q047.webp",
+   "texto": "47\nSe a função :\n2 →\né definida por\ne a\nfunção :\n2 →\né definida por\n, então\né igual a\n(A)\n(B)\n(C) 2\n(D) 2\n3\n(E)",
+   "gabarito": "E"
+  },
+  {
+   "numero": 48,
+   "imagem": "img/fuvest-2019-1f-q048.webp",
+   "texto": "48\nConsidere a função polinomial :\n→\ndefinida por\n,\nem que , , ∈ e\n0. No plano cartesiano , a única\n2 com o gráfico de é o ponto 2; 2 e\nintersecção da reta\n0 com o gráfico de é o ponto\na intersecção da reta\n0; 6 . O valor de\né\n(A) –2\n(B) 0\n(C) 2\n(D) 4\n(E) 6\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 49,
+   "imagem": "img/fuvest-2019-1f-q049.webp",
+   "texto": "49\nUm dono de restaurante assim descreveu a evolução do\nfaturamento quinzenal de seu negócio, ao longo dos dez\nprimeiros meses após a inauguração: “Até o final dos três\nprimeiros meses, tivemos uma velocidade de crescimento mais\nou menos constante, quando então sofremos uma queda\nabrupta, com o faturamento caindo à metade do que tinha sido\natingido. Em seguida, voltamos a crescer, igualando, um mês e\nmeio depois dessa queda, o faturamento obtido ao final do\nterceiro mês. Agora, ao final do décimo mês, estamos\nestabilizando o faturamento em um patamar 50% acima do\nfaturamento obtido ao final do terceiro mês”.\nConsiderando que, na ordenada, o faturamento quinzenal está\nrepresentado em unidades desconhecidas, porém uniformemente\nespaçadas, qual dos gráficos é compatível com a descrição do\ncomerciante?\n(A)\n(D)\n(B)\n(E)\n(C)",
+   "gabarito": "E"
+  },
+  {
+   "numero": 50,
+   "imagem": "img/fuvest-2019-1f-q050.webp",
+   "texto": "50\nForma‐se uma pilha de folhas de papel, em que cada folha tem\n0,1 mm de espessura. A pilha é formada da seguinte maneira:\ncoloca‐se uma folha na primeira vez e, em cada uma das vezes\nseguintes, tantas quantas já houverem sido colocadas\nanteriormente. Depois de 33 dessas operações, a altura da\npilha terá a ordem de grandeza\n(A) da altura de um poste.\n(B) da altura de um prédio de 30 andares.\n(C) do comprimento da Av. Paulista.\n(D) da distância da cidade de São Paulo (SP) à cidade do Rio de\nJaneiro (RJ).\n(E) do diâmetro da Terra.\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 51,
+   "imagem": "img/fuvest-2019-1f-q051.webp",
+   "texto": "51\nA figura mostra uma escada maciça de quatro degraus, todos\neles com formato de um paralelepípedo reto‐retângulo. A base\nde cada degrau é um retângulo de dimensões 20 cm por 50 cm,\ne a diferença de altura entre o piso e o primeiro degrau e entre\nos degraus consecutivos é de 10 cm. Se essa escada for\nprolongada para ter 20 degraus, mantendo o mesmo padrão,\nseu volume será igual a\n(A) 2,1 m 3\n(B) 2,3 m 3\n(C) 3,0 m 3\n(D) 4,2 m 3\n(E) 6,0 m 3",
+   "gabarito": "A"
+  },
+  {
+   "numero": 52,
+   "imagem": "img/fuvest-2019-1f-q052.webp",
+   "texto": "52\nUma empresa estuda cobrir um vão entre dois prédios (com\nformato de paralelepípedos reto‐retângulos) que têm paredes\nlaterais paralelas, instalando uma lona na forma de um\nquadrilátero, com pontas presas nos pontos , , e ,\nconforme indicação da figura.\nSabendo que a lateral de um prédio tem 80 m de altura e 28 m\nde largura, que a lateral do outro prédio tem 60 m de altura e\n20 m de largura e que essas duas paredes laterais distam 15 m\numa da outra, a área total dessa lona seria de\n(A) 300 m 2\n(B) 360 m 2\n(C) 600 m 2\n(D) 720 m 2\n(E) 1.200 m 2",
+   "gabarito": "C"
+  },
+  {
+   "numero": 53,
+   "imagem": "img/fuvest-2019-1f-q053.webp",
+   "texto": "53\nSe log\nlog\n0, então\n, para\n√\n(A)\n√\n(B)\n√\n(C)\n√\n√2 ∙ √\n(D)\n√2\n(E)\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 54,
+   "imagem": "img/fuvest-2019-1f-q054.webp",
+   "texto": "54\nUm triângulo retângulo com vértices denominados , e\napoia‐se sobre uma linha horizontal, que corresponde ao solo,\ne gira sem escorregar no sentido horário. Isto é, se a posição\ninicial é aquela mostrada na figura, o movimento começa com\numa rotação em torno do vértice até o vértice tocar o solo,\napós o que passa a ser uma rotação em torno de , até o vértice\ntocar o solo, e assim por diante.\nUsando as dimensões indicadas na figura (\n1 e\n2),\nqual é o comprimento da trajetória percorrida pelo vértice ,\ndesde a posição mostrada, até a aresta\napoiar‐se no solo\nnovamente?\n(A)\n√\n(B)\n(C)\n√\n(D)\n√\n(E)",
+   "gabarito": "C"
+  },
+  {
+   "numero": 55,
+   "imagem": "img/fuvest-2019-1f-q055.webp",
+   "texto": "55\nUma seta aponta para a posição zero no instante inicial. A cada\nrodada, ela poderá ficar no mesmo lugar ou mover‐se uma\nunidade para a direita ou mover‐se uma unidade para a\nesquerda, cada uma dessas três possibilidades com igual\nprobabilidade.\nQual é a probabilidade de que, após 5 rodadas, a seta volte à\nposição inicial?\n(A)\n(B)\n(C)\n(D)\n(E)\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 56,
+   "imagem": "img/fuvest-2019-1f-q056.webp",
+   "texto": "56\nO gráfico mostra a evolução diária, em certo intervalo de tempo\nnão especificado na abscissa, de dois índices econômicos,\nnormalizados para que suas médias, no mesmo período, sejam\nambas iguais a 1. O valor do índice 1 no dia é e o valor do\níndice 2 no dia é . O gráfico ilustra como cada um dos índices\ne\nvaria em função de , mostrando os pontos ,\n(pontos escuros) e ,\n(pontos claros).\nPara entender melhor a relação entre os dois índices, um novo\ngráfico foi feito com os pares , , isto é, com o índice 1 na\nabscissa contra o índice 2 na ordenada. O resultado foi:\n(A)\n(D)\n(B)\n(E)\n(C)\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 57,
+   "imagem": "img/fuvest-2019-1f-q057.webp",
+   "texto": "57\nExamine o cartum.\nITURRUSGARAI, Adão. A vida como ela yeah. Folha de S. Paulo, ago.2018.\nO efeito de humor que se obtém no cartum decorre,\nprincipalmente,\n(A) da expressão facial da personagem.\n(B) do uso de uma ferramenta fora de contexto.\n(C) da situação rotineira exposta pela imagem.\n(D) da ambiguidade presente na expressão “quebre a cara”.\n(E) do emprego de linguagem popular.\nTEXTO PARA AS QUESTÕES 58 E 59",
+   "gabarito": "D"
+  },
+  {
+   "numero": 58,
+   "imagem": "img/fuvest-2019-1f-q058.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 58 E 59\nMito, na acepção aqui empregada, não significa mentira,\nfalsidade ou mistificação. Tomo de empréstimo a formulação\nde Hans Blumenberg do mito político como um processo\ncontínuo de trabalho de uma narrativa que responde a uma\nnecessidade prática de uma sociedade em determinado 5\nperíodo. Narrativa simbólica que é, o mito político coloca em\nsuspenso o problema da verdade. Seu discurso não pretende ter\nvalidade factual, mas também não pode ser percebido como\nmentira (do contrário, não seria mito). O mito político confere\num sentido às circunstâncias que envolvem os indivíduos: ao 10\nfazê‐los ver sua condição presente como parte de uma história\nem curso, ajuda a compreender e suportar o mundo em que\nvivem.\nENGELKE, Antonio. O anjo redentor. Piauí, ago. 2018, ed. 143, p. 24.\n58\nDe acordo com o texto, o “mito político”\n(A) prejudica o entendimento do mundo real.\n(B) necessita da abstração do tempo.\n(C) depende da verificação da verdade.\n(D) é uma fantasia desvinculada da realidade.\n(E) atende a situações concretas.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 59,
+   "imagem": "img/fuvest-2019-1f-q059.webp",
+   "texto": "TEXTO PARA AS QUESTÕES 58 E 59\nMito, na acepção aqui empregada, não significa mentira,\nfalsidade ou mistificação. Tomo de empréstimo a formulação\nde Hans Blumenberg do mito político como um processo\ncontínuo de trabalho de uma narrativa que responde a uma\nnecessidade prática de uma sociedade em determinado 5\nperíodo. Narrativa simbólica que é, o mito político coloca em\nsuspenso o problema da verdade. Seu discurso não pretende ter\nvalidade factual, mas também não pode ser percebido como\nmentira (do contrário, não seria mito). O mito político confere\num sentido às circunstâncias que envolvem os indivíduos: ao 10\nfazê‐los ver sua condição presente como parte de uma história\nem curso, ajuda a compreender e suportar o mundo em que\nvivem.\nENGELKE, Antonio. O anjo redentor. Piauí, ago. 2018, ed. 143, p. 24.\n59\nSobre o sujeito da oração “em que vivem” (L. 12‐13), é correto\nafirmar:\n(A) Expressa indeterminação, cabendo ao leitor deduzir a quem\nse refere a ação verbal.\n(B) Está oculto e visa evitar a repetição da palavra\n“circunstâncias” (L. 10).\n(C) É uma função sintática preenchida pelo pronome “que”\n(L. 12).\n(D) É indeterminado, tendo em vista que não é possível\nidentificar a quem se refere a ação verbal.\n(E) Está oculto e seu referente é o mesmo do pronome “os” em\n“fazê‐los” (L. 11).\nV",
+   "gabarito": "E"
+  },
+  {
+   "numero": 60,
+   "imagem": "img/fuvest-2019-1f-q060.webp",
+   "texto": "60\nSim, estou me associando à campanha nacional contra os\nverbos que acabam em \"ilizar\". Se nada for feito, daqui a pouco\neles serão mais numerosos do que os terminados simplesmente\nem \"ar\". Todos os dias os maus tradutores de livros de\ninfelizes, que imediatamente são operacionalizados pela mídia,\nreinicializando palavras que já existiam e eram perfeitamente\nclaras e eufônicas.\nA doença está tão disseminada que muitos verbos honestos,\ncair em desgraça entre pessoas de ouvidos sensíveis. Depois que\nvocê fica alérgico a disponibilizar, como você vai admitir,\ndigamos, \"viabilizar\"? É triste demorar tanto tempo para a\ngente se dar conta de que \"desincompatibilizar\" sempre foi um\nFREIRE, Ricardo. Complicabilizando. Época, ago. 2003.\nCom base no texto, é correto afirmar:\n(A) A “campanha nacional” a que se refere o autor tem por\nobjetivo banir da língua portuguesa os verbos terminados\nem “ilizar”.\n(B) O autor considera o emprego de verbos como\n“reinicializando” (L. 7) e “viabilizar” (L. 13) uma verdadeira\n“doença”.\n(C) A maioria dos verbos terminados em “(i)lizar”, presentes no\ntexto, foi incorporada à língua por influência estrangeira.\n(D) O autor, no final do primeiro parágrafo, acaba usando\ninvoluntariamente os verbos que ele condena.\n(E) Os prefixos “des” e “in”, que entram na formação do verbo\n“desincompatibilizar” (L. 14), têm sentido oposto, por isso o\nautor o considera um “palavrão”.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 61,
+   "imagem": "img/fuvest-2019-1f-q061.webp",
+   "texto": "61\nSeria difícil encontrar hoje um crítico literário respeitável\nque gostasse de ser apanhado defendendo como uma ideia a\nvelha antítese estilo e conteúdo. A esse respeito prevalece um\nreligioso consenso. Todos estão prontos a reconhecer que estilo\ne conteúdo são indissolúveis, que o estilo fortemente individual\nde cada escritor importante é um elemento orgânico de sua\nobra e jamais algo meramente “decorativo”.\nNa prática da crítica, entretanto, a velha antítese persiste\npraticamente inexpugnada.\nSusan Sontag. “Do estilo”. Contra a interpretação.\nConsideradas no contexto, as expressões “religioso consenso”,\n“orgânico” e “inexpugnada”, sublinhadas no texto, podem ser\nsubstituídas, sem alteração de sentido, respectivamente, por:\n(A) místico entendimento; biológico; invencível.\n(B) piedoso acordo; puro; inesgotável.\n(C) secular conformidade; natural; incompreensível.\n(D) fervorosa unanimidade; visceral; insuperada.\n(E) espiritual ajuste; vital; indomada.\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 62,
+   "imagem": "img/fuvest-2019-1f-q062.webp",
+   "texto": "62\nExamine o anúncio.\nMinistério Público do Trabalho no Rio Grande do Sul.\nNo contexto do anúncio, a frase “A diferença tem que ser só\numa letra” pressupõe a\n(A) necessidade de leis de proteção para todos que trabalham.\n(B) existência de desigualdade entre homens e mulheres no\nmercado de trabalho.\n(C) permanência de preconceito racial na contratação de\nmulheres para determinadas profissões.\n(D) importância de campanhas dirigidas para a mulher\ntrabalhadora.\n(E) discriminação de gênero que se manifesta na própria\nlinguagem.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 63,
+   "imagem": "img/fuvest-2019-1f-q063.webp",
+   "texto": "63\nI. Diante da dificuldade, municípios de diferentes regiões do\npaís realizaram um segundo “dia D” neste sábado. O\nprimeiro ocorreu em 18 de agosto. A adesão, no entanto,\nainda ficou abaixo do esperado. Agora, a recomendação é\nque estados e municípios façam busca ativa para garantir\nque todo o público‐alvo da campanha seja vacinado.\nFolha de S. Paulo. São Paulo. 03/09/2018.\nII. Pensar sobre a vaga, buscar conhecer a empresa e o que ela\nbusca já faz de você alguém especial. Muitos que procuram\no balcão de emprego não compreendem que os detalhes são\nfundamentais para conseguir a recolocação. Agora, não\npense que você vai conseguir na primeira investida, a busca\npor um novo emprego requer paciência e persistência, tenha\nvocê 20 anos ou 50.\nBalcão de Emprego. Disponível em: <https://empregabrasil.com.br/>\nO termo “Agora” pode ser substituído, respectivamente, em I e\nII e sem prejuízo de sentidos nos dois textos, por\n(A) Neste momento; Por conseguinte.\n(B) Neste ínterim; De fato.\n(C) Portanto; Ademais.\n(D) Todavia; Então.\n(E) Doravante; Mas.\nV",
+   "gabarito": "E"
+  },
+  {
+   "numero": 64,
+   "imagem": "img/fuvest-2019-1f-q064.webp",
+   "texto": "64\nI. Surge então a pergunta: se a fantasia funciona como\nrealidade; se não conseguimos agir senão mutilando o\nnosso eu; se o que há de mais profundo em nós é no fim de\ncontas a opinião dos outros; se estamos condenados a não\natingir o que nos parece realmente valioso –, qual a\ndiferença entre o bem e o mal, o justo e o injusto, o certo e\no errado? O autor passou a vida a ilustrar esta pergunta, que\né modulada de maneira exemplar no primeiro e mais\nconhecido dos seus grandes romances de maturidade.\nII. É preciso todavia lembrar que essa ligação com o problema\ngeográfico e social só adquire significado pleno, isto é, só\natua sobre o leitor, graças à elevada qualidade artística do\nlivro. O seu autor soube transpor o ritmo mesológico para a\nprópria estrutura da narrativa, mobilizando recursos que a\nfazem parecer movida pela mesma fatalidade sem saída.\n(...) Da consciência mortiça da personagem podem emergir\nos transes periódicos em que se estorce o homem esmagado\npela paisagem e pelos outros homens.\nNos fragmentos I e II, aqui adaptados, o crítico Antonio Candido\navalia duas obras literárias, que são, respectivamente,\n(A) A Relíquia e Sagarana.\n(B) O Cortiço e Iracema.\n(C) Sagarana e O Cortiço.\n(D) Mayombe e Minha Vida de Menina.\n(E) Memórias Póstumas de Brás Cubas e Vidas Secas.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 65,
+   "imagem": "img/fuvest-2019-1f-q065.webp",
+   "texto": "65\nAtente para as seguintes afirmações relativas ao desfecho do\nromance A Relíquia, de Eça de Queirós:\nI. O autor revela, por meio de Teodorico, sua descrença num\nJesus divinizado, imagem que é substituída pela ideia de\nConsciência.\nII. Ao ser sincero com Crispim, Teodorico conquista a vida de\nburguês que sempre almejou.\nIII. Teodorico dá ouvidos à mensagem de Cristo, arrepende‐se\nde sua hipocrisia beata e abraça a fé católica.\nEstá correto o que se afirma apenas em\n(A) I.\n(B) II.\n(C) I e II.\n(D) II e III.\n(E) I e III.\nV\nTEXTOS PARA AS QUESTÕES 66 E 67\nO povo que chupa o caju, a manga, o cambucá e a jabuticaba,\npode falar uma língua com igual pronúncia e o mesmo espírito\ndo povo que sorve o figo, a pera, o damasco e a nêspera?\nJosé de Alencar. Bênção Paterna. Prefácio a Sonhos d’ouro.\nA graciosa ará, sua companheira e amiga, brinca junto dela. Às\nvezes sobe aos ramos da árvore e de lá chama a virgem pelo\nnome, outras remexe o uru de palha matizada, onde traz a\nselvagem seus perfumes, os alvos fios do crautá, as agulhas da\njuçara com que tece a renda e as tintas de que matiza o\nalgodão.\nJosé de Alencar. Iracema.\nGlossário:\n“ará”: periquito; “uru”: cesto; “crautá”: espécie de bromélia; “juçara”: tipo de\npalmeira espinhosa.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 66,
+   "imagem": "img/fuvest-2019-1f-q066.webp",
+   "texto": "66\nCom base nos trechos acima, é adequado afirmar:\n(A) Para Alencar, a literatura brasileira deveria ser capaz de\nrepresentar os valores nacionais com o mesmo espírito do\neuropeu que sorve o figo, a pera, o damasco e a nêspera.\n(B) Ao discutir, no primeiro trecho, a importação de ideias e\ncostumes, Alencar propõe uma literatura baseada no\nabrasileiramento da língua portuguesa, como se verifica no\nsegundo trecho.\n(C) O contraste entre os verbos “chupar” e “sorver”,\nempregados no primeiro trecho, revela o rebaixamento de\nlinguagem buscado pelo escritor em Iracema.\n(D) Em Iracema, a construção de uma literatura exótica, tal\ncomo se verifica no segundo trecho, pautou‐se pela recusa\nde nossos elementos naturais.\n(E) Ambos os trechos são representativos da tendência\nescapista de nosso romantismo, na medida em que\nvalorizam os elementos naturais em detrimento da\nrealidade rotineira.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 67,
+   "imagem": "img/fuvest-2019-1f-q067.webp",
+   "texto": "67\nNo trecho “outras remexe o uru de palha matizada”, a palavra\nsublinhada expressa ideia de\n(A) concessão.\n(B) finalidade.\n(C) adição.\n(D) tempo.\n(E) consequência.\nV\nTEXTOS PARA AS QUESTÕES 68 E 69\nSonetilho do falso\nUlisses\nFernando Pessoa\nOnde nasci, morri.\nO mito é o nada que é tudo.\nOnde morri, existo.\nO mesmo sol que abre os céus\nE das peles que visto\nÉ um mito brilhante e mudo ‐\nmuitas há que não vi.\nO corpo morto de Deus,\nVivo e desnudo.\n5\nSem mim como sem ti\nposso durar. Desisto\nEste, que aqui aportou,\nde tudo quanto é misto\nFoi por não ser existindo.\ne que odiei ou senti.\nSem existir nos bastou.\nPor não ter vindo foi vindo\nNem Fausto nem Mefisto,\nE nos criou.\n10 à deusa que se ri\ndeste nosso oaristo*,\nAssim a lenda se escorre\nA entrar na realidade,\neis‐me a dizer: assisto\nE a fecundá‐la decorre.\nalém, nenhum, aqui,\nEm baixo, a vida, metade\nmas não sou eu, nem isto.\nDe nada, morre.\nCarlos Drummond de Andrade.\nClaro Enigma.\nFernando Pessoa. Mensagem.\n* conversa íntima entre casais.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 68,
+   "imagem": "img/fuvest-2019-1f-q068.webp",
+   "texto": "68\nConsiderando os poemas, assinale a alternativa correta.\n(A) As noções de que a identidade do poeta independe de sua\nexistência biográfica, no “Sonetilho”, e de que o mito se\nperpetua para além da vida, em “Ulisses”, produzem uma\nanalogia entre os poemas.\n(B) As referências a Mefisto (“diabo”, na lenda alemã de\nFausto) e a Deus no “Sonetilho” e em “Ulisses”,\nrespectivamente, associadas ao polo de opostos “morte” e\n“vida”, revelam uma perspectiva cristã comum aos poemas.\n(C) O resgate da forma clássica, no “Sonetilho”, e a referência à\nprimeira pessoa do plural, em “Ulisses”, denotam um\nmesmo espírito agregador e comunitário.\n(D) O eu lírico de cada poema se identifica, respectivamente,\ncom seus títulos. No poema de Drummond, trata‐se de\nalguém referido como “falso Fernando Pessoa”, já no\npoema de Pessoa, o eu lírico é “Ulisses”.\n(E) Os versos “As coisas tangíveis / tornam‐se insensíveis / à\npalma da mão. // Mas as coisas findas, / muito mais que\nlindas, / essas ficarão”, de outro poema de Claro Enigma,\nsugerem uma relação de contraste com os poemas citados.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 69,
+   "imagem": "img/fuvest-2019-1f-q069.webp",
+   "texto": "69\nO oxímoro é uma “figura em que se combinam palavras de\nsentido oposto que parecem excluir‐se mutuamente, mas que,\nno contexto, reforçam a expressão” (HOUAISS, 2001). No\npoema “Sonetilho do falso Fernando Pessoa”, o emprego dessa\nfigura de linguagem ocorre em:\n(A) “Onde morri, existo” (L. 2).\n(B) “E das peles que visto / muitas há que não vi” (L. 3‐4).\n(C) “Desisto / de tudo quanto é misto / e que odiei ou senti”\n(L. 6‐8).\n(D) “à deusa que se ri / deste nosso oaristo” (L. 10‐11).\n(E) “mas não sou eu, nem isto” (L. 14).",
+   "gabarito": "A"
+  },
+  {
+   "numero": 70,
+   "imagem": "img/fuvest-2019-1f-q070.webp",
+   "texto": "70\nE grita a piranha cor de palha, irritadíssima:\n– Tenho dentes de navalha, e com um pulo de ida‐e‐volta\nresolvo a questão!...\n– Exagero... – diz a arraia – eu durmo na areia, de ferrão a\nprumo, e sempre há um descuidoso que vem se espetar.\n– Pois, amigas, – murmura o gimnoto*, mole, carregando a\nbateria – nem quero pensar no assunto: se eu soltar três\npensamentos elétricos, bate‐poço, poço em volta, até vocês\nduas boiarão mortas...\n*peixe elétrico.\nEsse texto, extraído de Sagarana, de Guimarães Rosa,\n(A) antecipa o destino funesto do ex‐militar Cassiano Gomes e\ndo marido traído Turíbio Todo, em “Duelo”, ao qual serve\ncomo epígrafe.\n(B) assemelha‐se ao caráter existencial da disputa entre\nBrilhante, Dansador e Rodapião na novela “Conversa de\nBois”.\n(C) reúne as três figurações do protagonista da novela “A hora\ne vez de Augusto Matraga”, assim denominados: Augusto\nEstêves, Nhô Augusto e Augusto Matraga.\n(D) representa o misticismo e a atmosfera de feitiçaria que\nenvolve o preto velho João Mangalô e sua desavença com o\nnarrador‐personagem José, em “São Marcos”.\n(E) constitui uma das cantigas de “O burrinho Pedrês”, em que\na sagacidade da boiada se sobressai à ignorância do\nburrinho.\nTEXTOS PARA AS QUESTÕES 71 E 72\nI.\nCinquenta anos! Não era preciso confessá‐lo. Já se vai\nsentindo que o meu estilo não é tão lesto* como nos primeiros\ndias. Naquela ocasião, cessado o diálogo com o oficial da\nmarinha, que enfiou a capa e saiu, confesso que fiquei um pouco\ntriste. Voltei à sala, lembrou‐me dançar uma polca, embriagar‐\nme das luzes, das flores, dos cristais, dos olhos bonitos, e do\nburburinho surdo e ligeiro das conversas particulares. E não me\narrependo; remocei. Mas, meia hora depois, quando me retirei\ndo baile, às quatro da manhã, o que é que fui achar no fundo do\ncarro? Os meus cinquenta anos.\n*ágil\nII.\nMeu caro crítico,\nAlgumas páginas atrás, dizendo eu que tinha\ncinquenta anos, acrescentei: “Já se vai sentindo que o meu\nestilo não é tão lesto como nos primeiros dias”. Talvez aches\nesta frase incompreensível, sabendo‐se o meu atual estado;\nmas eu chamo a tua atenção para a sutileza daquele\npensamento. O que eu quero dizer não é que esteja agora mais\nvelho do que quando comecei o livro. A morte não envelhece.\nQuero dizer, sim, que em cada fase da narração da minha vida\nexperimento a sensação correspondente. Valha‐me Deus! é\npreciso explicar tudo.\nMachado de Assis, Memórias Póstumas de Brás Cubas.",
+   "gabarito": "A"
+  },
+  {
+   "numero": 71,
+   "imagem": "img/fuvest-2019-1f-q071.webp",
+   "texto": "71\nEntre os dois trechos do romance, nota‐se o movimento que vai\nda memória de vivências à revisão que o defunto autor faz de\num mesmo episódio. A citação, pertencente a outro capítulo do\nmesmo livro, que melhor sintetiza essa duplicidade narrativa,\né:\n(A) “A conclusão, portanto, é que há duas forças capitais: o\namor, que multiplica a espécie, e o nariz, que a subordina\nao indivíduo”.\n(B) “Obra de finado. Escrevi‐a com a pena da galhofa e a tinta\nda melancolia, e não é difícil perceber o que poderá sair\ndesse conúbio”.\n(C) “Mas o livro é enfadonho, cheira a sepulcro, traz certa\ncontração cadavérica; vício grave, e aliás ínfimo, porque o\nmaior defeito do livro és tu, leitor”.\n(D) “Viver não é a mesma cousa que morrer; assim o afirmam\ntodos os joalheiros desse mundo, gente muito vista na\ngramática”.\n(E) “Não havia ali a atmosfera somente da águia e do beija‐flor;\nhavia também a da lesma e do sapo”.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 72,
+   "imagem": "img/fuvest-2019-1f-q072.webp",
+   "texto": "72\nA passagem final do texto II – “Valha‐me Deus! é preciso\nexplicar tudo.” – denota um elemento presente no estilo do\nromance, ou seja,\n(A) o realismo, visto no rigor explicativo dos fatos.\n(B) a religiosidade, que se socorre do auxílio divino.\n(C) o humor, capaz de relativizar as ideias.\n(D) a metalinguagem, que imprime linearidade à narração.\n(E) a ironia, própria do discurso positivo.\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 73,
+   "imagem": "img/fuvest-2019-1f-q073.webp",
+   "texto": "TEXTO PARA AS QUESTÕES DE 73 A 75\nWhat time is it? That simple question probably is asked more\noften today than ever. In our clock‐studded, cell‐phone society,\nthe answer is never more than a glance away, and so we can\nblissfully partition our days into ever smaller increments for ever\nmore tightly scheduled tasks, confident that we will always\n5\nknow it is 7:03 P.M.\nModern scientific revelations about time, however, make\nthe question endlessly frustrating. If we seek a precise\nknowledge of the time, the elusive infinitesimal of “now”\ndissolves into a scattering flock of nanoseconds. Bound by the\n10\nspeed of light and the velocity of nerve impulses, our\nperceptions of the present sketch the world as it was an instant\nago—for all that our consciousness pretends otherwise, we can\nnever catch up.\nEven in principle, perfect synchronicity escapes us. Relativity\n15\ndictates that, like a strange syrup, time flows slower on moving\ntrains than in the stations and faster in the mountains than in\nthe valleys. The time for our wristwatch or digital screen is not\nexactly the same as the time for our head.\nOur intuitions are deeply paradoxical. Time heals all\n20\nwounds, but it is also the great destroyer. Time is relative but\nalso relentless. There is time for every purpose under heaven,\nbut there is never enough.\nScientific American, October 24, 2014. Adaptado.\n73\nNo texto, a pergunta “What time is it?” (L. 1), inserida no\ndebate da ciência moderna sobre a noção de tempo,\n(A) corrobora a crença de que a passagem do tempo é uma\ngarantia de renovação para a humanidade.\n(B) consiste na prova de que “o agora” é a realização de uma\ntroca harmoniosa com o mundo.\n(C) representa a obsessão dos seres humanos pelo controle da\nvida com auxílio do relógio.\n(D) revela o esforço empreendido pelas pessoas na distribuição\ndas tarefas ao longo do dia.\n(E) mostra o descompasso e a imprecisão relativos à percepção\ndo presente e do passado.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 74,
+   "imagem": "img/fuvest-2019-1f-q074.webp",
+   "texto": "74\nNo texto, a expressão que melhor representa o caráter\nsupostamente exato do tempo é:\n(A) “In our clock‐studded, cell‐phone society” (L. 2).\n(B) “never more than a glance away” (L. 3).\n(C) “confident that we will always know it is 7:03 P.M.” (L. 5‐6).\n(D) “Bound by the speed of light” (L. 10‐11).\n(E) “like a strange syrup” (L. 16).\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 75,
+   "imagem": "img/fuvest-2019-1f-q075.webp",
+   "texto": "TEXTO PARA AS QUESTÕES DE 73 A 75\nWhat time is it? That simple question probably is asked more\noften today than ever. In our clock‐studded, cell‐phone society,\nthe answer is never more than a glance away, and so we can\nblissfully partition our days into ever smaller increments for ever\nmore tightly scheduled tasks, confident that we will always\n5\nknow it is 7:03 P.M.\nModern scientific revelations about time, however, make\nthe question endlessly frustrating. If we seek a precise\nknowledge of the time, the elusive infinitesimal of “now”\ndissolves into a scattering flock of nanoseconds. Bound by the\n10\nspeed of light and the velocity of nerve impulses, our\nperceptions of the present sketch the world as it was an instant\nago—for all that our consciousness pretends otherwise, we can\nnever catch up.\nEven in principle, perfect synchronicity escapes us. Relativity\n15\ndictates that, like a strange syrup, time flows slower on moving\ntrains than in the stations and faster in the mountains than in\nthe valleys. The time for our wristwatch or digital screen is not\nexactly the same as the time for our head.\nOur intuitions are deeply paradoxical. Time heals all\n20\nwounds, but it is also the great destroyer. Time is relative but\nalso relentless. There is time for every purpose under heaven,\nbut there is never enough.\nScientific American, October 24, 2014. Adaptado.\n75\nDe acordo com o texto, considera‐se contraditório, em relação\nà percepção humana do tempo,\n(A) seu poder de cura e destruição.\n(B) sua natureza pública e privada.\n(C) seu caráter ordenado e irregular.\n(D) seu sentido de submissão e liberdade.\n(E) seu grau de abundância e desperdício.\nTEXTO PARA AS QUESTÕES DE 76 A 79",
+   "gabarito": "A"
+  },
+  {
+   "numero": 76,
+   "imagem": "img/fuvest-2019-1f-q076.webp",
+   "texto": "TEXTO PARA AS QUESTÕES DE 76 A 79\nFor most, The Gateway International Bridge functions as\nit should, allowing people to get between the U.S. and\nMexico. But on a hot Sunday afternoon, a dozen migrants at\nthe mouth of the bridge weren’t getting anywhere at all.\nAt a press conference the next day, President Trump once\nagain touted the border wall he has promised supporters.\n“The wall is getting longer and taller and stronger each and\nevery day”, he said, even though construction has not\nwas false, but his Administration has effectively erected an\ninvisible one.\nIt is built, in part, from situations like the one at the\nbridge, which illustrates the problem with this kind of\ncriminals also punish those who are trying to follow the\nrules.\nThose migrants who spoke to TIME at the bridge had\nvaried stories but shared a determination to cross. Some\nlong could it take to get processed? And if they did\nultimately apply for asylum, it remained to be seen whether\ntheir stories would qualify. The regulations governing such\nmatters are complicated, and the vast majority who apply\nimmigration courts, not at the border.\nTIME, August 23, 2018. Adaptado.\n76\nDe acordo com o texto, para ingresso nos Estados Unidos, o\ncruzamento da fronteira entre este país e o México, no local\ndenominado The Gateway International Bridge, é\n(A) dificultado para alguns migrantes.\n(B) negado para casos de reincidentes.\n(C) adiado para os migrantes que seguem as regras.\n(D) condicionado à nacionalidade do solicitante.\n(E) liberado para os migrantes com documentação válida.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 77,
+   "imagem": "img/fuvest-2019-1f-q077.webp",
+   "texto": "77\nA frase nominal “this kind of barrier” (L. 14‐15) refere‐se\n(A) ao muro de Trump na fronteira com o México.\n(B) à ponte The Gateway International Bridge.\n(C) a protestos de migrantes na fronteira.\n(D) ao muro invisível criado por práticas do governo Trump.\n(E) a medidas adotadas nos tribunais de imigração.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 78,
+   "imagem": "img/fuvest-2019-1f-q078.webp",
+   "texto": "78\nSegundo o texto, após ingresso nos Estados Unidos, os\nmigrantes que requerem asilo\n(A) têm seu processo julgado com mais rapidez.\n(B) precisam comprovar sua idoneidade.\n(C) aguardam na fronteira, onde sua petição é avaliada.\n(D) são mais determinados a permanecer no país.\n(E) têm seu pedido negado com frequência.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 79,
+   "imagem": "img/fuvest-2019-1f-q079.webp",
+   "texto": "TEXTO PARA AS QUESTÕES DE 76 A 79\nFor most, The Gateway International Bridge functions as\nit should, allowing people to get between the U.S. and\nMexico. But on a hot Sunday afternoon, a dozen migrants at\nthe mouth of the bridge weren’t getting anywhere at all.\nAt a press conference the next day, President Trump once\nagain touted the border wall he has promised supporters.\n“The wall is getting longer and taller and stronger each and\nevery day”, he said, even though construction has not\nwas false, but his Administration has effectively erected an\ninvisible one.\nIt is built, in part, from situations like the one at the\nbridge, which illustrates the problem with this kind of\ncriminals also punish those who are trying to follow the\nrules.\nThose migrants who spoke to TIME at the bridge had\nvaried stories but shared a determination to cross. Some\nlong could it take to get processed? And if they did\nultimately apply for asylum, it remained to be seen whether\ntheir stories would qualify. The regulations governing such\nmatters are complicated, and the vast majority who apply\nimmigration courts, not at the border.\nTIME, August 23, 2018. Adaptado.\n79\nCom base no texto e nos fatos que envolveram a política\nimigratória dos EUA em junho de 2018, é correto afirmar:\n(A) O presidente Donald Trump, por pressão do Conselho de\nDireitos Humanos da Organização das Nações Unidas\n(ONU), flexibilizou a punição aos imigrantes ilegais,\npassando a tratar os casos em cortes de imigração e não\nmais por meio de indiciamento criminal.\n(B) O presidente Donald Trump finalizou a construção do muro\nna fronteira México‐EUA, desde a costa leste até a oeste,\ncom o objetivo de conter a nova onda imigratória de\nvenezuelanos e hondurenhos.\n(C) Imigrantes mexicanos que seguiram as regras oficiais para\nimigração nos EUA obtiveram concessão de asilo político em\ncurto prazo, especialmente nas cortes da Califórnia,\ntradicional reduto conservador e base eleitoral do\npresidente Donald Trump.\n(D) A construção de uma barreira física entre México e EUA visa,\nsegundo o presidente Donald Trump, consolidar um estado\nfronteiriço, no qual os imigrantes deverão permanecer\nalgum tempo antes de ingressarem em outras partes do\npaís.\n(E) As barreiras construídas entre México e EUA são, além de\nfísicas, também psicológicas, como pôde ser visto no caso\nem que milhares de crianças imigrantes foram separadas de\nsuas famílias.\nV",
+   "gabarito": "E"
+  },
+  {
+   "numero": 80,
+   "imagem": "img/fuvest-2019-1f-q080.webp",
+   "texto": "80\n(…) o “arco do triunfo” é um fragmento de muro que, embora\nisolado da muralha, tem a forma de uma porta da cidade. (...)\nOs primeiros exemplos documentados são estruturas do século\nII a.C., mas os principais arcos de triunfo são os do Império,\ncomo os arcos de Tito, de Sétimo Severo ou de Constantino,\ntodos no foro romano, e todos de grande beleza pela elegância\nde suas proporções.\nPEREIRA, J. R. A., Introdução à arquitetura. Das origens ao século XXI. Porto\nAlegre: Salvaterra, 2010, p. 81.\nDentre os vários aspectos da arquitetura romana, destaca‐se a\nmonumentalidade de suas construções. A relação entre o “arco\ndo triunfo” e a História de Roma está baseada\n(A) no processo de formação da urbe romana e de edificação\nde entradas defensivas contra invasões de povos\nconsiderados bárbaros.\n(B) nas celebrações religiosas das divindades romanas\nvinculadas aos ritos de fertilidade e aos seus ancestrais\netruscos.\n(C) nas celebrações das vitórias militares romanas que\npermitiram a expansão territorial, a consolidação territorial\ne o estabelecimento do sistema escravista.\n(D) na edificação de monumentos comemorativos em memória\ndas lutas dos plebeus e do alargamento da cidadania\nromana.\n(E) nos registros das perseguições ao cristianismo e da\ndestruição de suas edificações monásticas.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 81,
+   "imagem": "img/fuvest-2019-1f-q081.webp",
+   "texto": "81\nOs comentadores do texto sagrado (…) reconhecem a\nsubmissão da mulher ao homem como um dos momentos da\ndivisão hierárquica que regula as relações entre Deus, Cristo e\na humanidade, encontrando ainda a origem e o fundamento\ndivino daquela submissão na cena primária da criação de Adão\ne Eva e no seu destino antes e depois da queda.\nCASAGRANDE, C., A mulher sob custódia, in: História das Mulheres, Lisboa:\nAfrontamento, 1993, v. 2, p. 122‐123.\nO excerto refere‐se à apreensão de determinadas passagens\nbíblicas pela cristandade medieval, especificamente em relação\nà condição das mulheres na sociedade feudal. A esse respeito,\né correto afirmar:\n(A) As mulheres originárias da nobreza podiam ingressar nos\nconventos e ministrar os sacramentos como os homens de\nmesma condição social.\n(B) A culpabilização das mulheres pela expulsão do Paraíso\nTerrestre servia de justificativa para sua subordinação social\naos homens.\n(C) As mulheres medievais eram impedidas do exercício das\natividades políticas, ao contrário do que acontecera no\nmundo greco‐romano.\n(D) As mulheres medievais eram iletradas e tinham o acesso à\ncultura e às artes proibido, devido à sua condição social e\nnatural.\n(E) A submissão das mulheres medievais aos homens esteve\ndesvinculada de normatizações acerca da sexualidade.\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 82,
+   "imagem": "img/fuvest-2019-1f-q082.webp",
+   "texto": "82\nLasar Segall, Navio de Emigrantes, 1939‐41, óleo com areia sobre tela.\nEsta imagem é a reprodução de\n(A) uma pintura impressionista, marcada por pinceladas soltas\ne pela temática da emigração americana para o continente\neuropeu.\n(B) um mosaico cubista, caracterizado pelas formas\ngeométricas que procuram salientar a esperança daqueles\nque se dirigem para terras estrangeiras.\n(C) uma pintura expressionista, que reforça o sofrimento dos\nque se deslocavam em um contexto de perseguições e\nintolerâncias.\n(D) um painel surrealista, que procurava destacar o\nsubconsciente atormentado daqueles que deixavam seus\nlocais de origem.\n(E) uma pintura futurista, influenciada pelas referências de\nmodernização tecnológica características da primeira\nmetade do século XX.",
+   "gabarito": "C"
+  },
+  {
+   "numero": 83,
+   "imagem": "img/fuvest-2019-1f-q083.webp",
+   "texto": "83\nSobre a revolução cultural ocorrida na China, a partir de 1966,\né correto afirmar que se tratou de\n(A) movimento dirigido por intelectuais e estudantes contra o\ngoverno ditatorial de Mao Tsé‐Tung.\n(B) proposta encaminhada pelos camponeses em busca da\nretomada das raízes xintoístas da China imperial.\n(C) reação dos intelectuais refratários ao regime comunista que\npretendia restaurar o mandarinato.\n(D) expurgo de cunho anti‐intelectualista que recusava as\ninfluências ocidental e soviética.\n(E) um processo que culminou nas reivindicações de livre‐\npensamento e na abertura da China para o mercado.\nV",
+   "gabarito": "D"
+  },
+  {
+   "numero": 84,
+   "imagem": "img/fuvest-2019-1f-q084.webp",
+   "texto": "84\nExamine a tabela.\nPorcentagem da variação do desempenho\neconômico do Brasil\nAnos\nProduto\nIndústria\nAgricultura\nInterno Bruto\n(PIB)\n1971\n12,0\n12,0\n11,3\n1972\n11,1\n13,0\n4,1\n1973\n13,6\n16,3\n3,6\n1974\n9,7\n9,2\n8,2\n1975\n5,4\n5,9\n4,8\n1976\n9,7\n12,4\n2,9\n1977\n5,7\n3,9\n11,8\n1978\n5,0\n7,2\n‐2,6\n1979\n6,4\n6,4\n5,0\n1980\n7,2\n7,9\n6,3\n1981\n‐1,6\n‐5,5\n6,4\n1982\n0,9\n0,6\n‐2,5\n1983\n‐3,2\n‐6,8\n2,2\n1984\n4,5\n6,0\n3,2\nFISHLOW, A., Uma história de dois presidentes: a economia política da gestão\nda crise. STEPHAN, A. (org), Democratizando o Brasil. Rio de Janeiro: Paz e\nTerra: 1988, p. 144\nOs dados da tabela referem‐se a anos transcorridos durante a\nDitadura Militar no Brasil. O desempenho econômico nesse\nperíodo entrelaçou‐se ao panorama político do país. Nesse\nsentido, é correto afirmar:\n(A) Os sinais de esgotamento do “milagre brasileiro”,\nassociados à crise internacional do petróleo entre 1973 e\n1974, foram os responsáveis pelo recrudescimento da\npolítica repressiva dos governos militares.\n(B) As eleições pluripartidárias de 1982 ocorreram em meio à\nrecessão de 1981 e 1983, no governo de João Baptista\nFigueiredo, e caracterizaram‐se como um passo importante\nno processo de democratização do país.\n(C) A crise internacional do petróleo de 1979 e seus efeitos na\neconomia brasileira provocaram uma queda abrupta no PIB\nnacional e o fim imediato do regime, por falta de\nsustentação política.\n(D) As oscilações do PIB brasileiro, registradas na tabela,\ncorrespondem igualmente às variações das taxas de\ncrescimento e retração na indústria e na agricultura e aos\nprocessos de intensificação da repressão política e da\ncensura.\n(E) A crise internacional do petróleo de 1979 não afetou a\nagricultura brasileira, mas coincidiu com as primeiras\neleições pluripartidárias desde 1966, marcadas pela\nestrondosa vitória dos partidos de oposição.\nV",
+   "gabarito": "B"
+  },
+  {
+   "numero": 85,
+   "imagem": "img/fuvest-2019-1f-q085.webp",
+   "texto": "85\nSob qualquer aspecto, este [a Revolução Industrial] foi\nprovavelmente o mais importante acontecimento na história do\nmundo, pelo menos desde a invenção da agricultura e das\ncidades. E foi iniciado pela Grã‐Bretanha. É evidente que isto\nnão foi acidental.\nEric Hobsbawm, A Era das Revoluções. São Paulo: Paz e Terra, 2005.\n19ª edição, p. 52.\nA Revolução Industrial, ocorrida na Inglaterra nos decênios\nfinais do século XVIII,\n(A) deveu‐se ao pioneirismo científico e tecnológico dos\nbritânicos, aliado a uma grande oferta de mão de obra\nespecializada e a uma política estatal pacifista e voltada\npara o comércio.\n(B) originou‐se das profundas transformações agrárias\nexpressas pela concentração fundiária, perda da posse da\nterra pelo campesinato e formação de uma mão de obra\nassalariada.\n(C) vinculou‐se à derrocada da aristocracia e à ascensão da\nburguesia, orientada pela política mercantilista e\nsintetizada na filosofia de Adam Smith.\n(D) resultou da supressão de leis protecionistas de inspiração\nmercantilista e do combate ao tráfico negreiro, com vistas à\nconquista de mercados externos consumidores.\n(E) decorreu da ampla difusão de um ideário Ilustrado, o qual\nteria promovido aquilo que o sociólogo alemão Max Weber\ndescreve como o “espírito do capitalismo”.",
+   "gabarito": "B"
+  },
+  {
+   "numero": 86,
+   "imagem": "img/fuvest-2019-1f-q086.webp",
+   "texto": "86\nDécio Villares, A República (Museu Republicano, RJ, ca 1900)\nProduzida no contexto da implantação da ordem republicana\nno Brasil, esta imagem\n(A) caracteriza representação cívica inspirada na Revolução\nFrancesa, adequada ao projeto democrático estabelecido\npelos republicanos brasileiros.\n(B) faz uso alegórico de um tema clássico para expressar o\nrepúdio à exclusão da participação feminina nas instituições\npolíticas do Império.\n(C) é uma alegoria da liberdade, da pátria e da nação, que\ncontrasta com os limites da cidadania na nova ordem\nbrasileira.\n(D) emprega símbolo católico como estratégia para obter a\nadesão da Igreja e diminuir a animosidade dos movimentos\nmessiânicos.\n(E) é expressão artística do projeto positivista de divulgar uma\nconcepção da sociedade brasileira sintonizada com os ideais\nde eugenia.\nV",
+   "gabarito": "C"
+  },
+  {
+   "numero": 87,
+   "imagem": "img/fuvest-2019-1f-q087.webp",
+   "texto": "87\nÉ difícil acreditar que a Revolução Francesa teria sido muito\ndiferente, mesmo que a Revolução Americana nunca tivesse\nacontecido. É fácil mostrar que os americanos não tentaram\numa semelhante ruptura substancial com o passado, como\nfizeram os franceses. No entanto, (...) as duas revoluções foram\nmuito parecidas.\nRobert R. Palmer, The Age of The Democratic Revolution: The Challenge,\nPrinceton, Princeton University Presse, vol I, 1959, p.267.\nCom base no texto e em seus conhecimentos acerca da\nRevolução Francesa e do revolucionário processo de\nindependência dos Estados Unidos, assinale a afirmação\ncorreta.\n(A) A revolução norte‐americana repercutiu pouco nos\nmovimentos liberais da Europa e, mesmo na França da\népoca da Ilustração, seu impacto foi mais de ordem\neconômica do que política.\n(B) O processo de independência dos Estados Unidos foi\nmarcado pela ausência de divisões internas entre os colonos\ne pela exclusão das camadas populares da sociedade no\nprocesso político.\n(C) O processo de independência dos Estados Unidos foi\nconsumado pela redação de uma Constituição, cuja\nelaboração ficou a cargo de notáveis, que representavam os\ninteresses das classes proprietárias.\n(D) A guerra da independência norte‐americana caracterizou‐\nse pela ausência de radicalismo político e social, o que se\ndeveu à menor penetração dos ideais Ilustrados nos últimos\nanos do período colonial.\n(E) A revolução norte‐americana repercutiu não só na\nIlustração europeia e na Revolução Francesa, como\ndemonstrou de modo teórico e prático a viabilidade de um\ngrande Estado republicano e democrático.",
+   "gabarito": "E"
+  },
+  {
+   "numero": 88,
+   "imagem": "img/fuvest-2019-1f-q088.webp",
+   "texto": "88\nEm junho de 1995, a seleção de rugby da África do Sul\nconquistou a Copa do Mundo dessa modalidade esportiva ao\nvencer a equipe da Nova Zelândia por 15 a 12, na cidade de\nJohannesburgo. O capitão sul‐africano, François Pienaar,\nrecebeu a taça destinada à seleção campeã das mãos de Nelson\nMandela.\nEsse acontecimento esportivo\n(A) é um dos marcos do fim do Apartheid, devido à constituição\nde uma primeira seleção multirracial representando a África\ndo Sul.\n(B) tornou‐se uma das justificativas para o veto à participação\nda África do Sul em eventos esportivos devido à proibição\nda presença de atletas brancos.\n(C) permitiu a vitória eleitoral de Mandela, apoiado\nmassivamente pelos bôeres insuflados pelo nacionalismo\nsul‐africano.\n(D) desencadeou uma série de conflitos raciais entre negros e\nbrancos devido às rivalidades entre os atletas da seleção\nsul‐africana.\n(E) foi realizado graças a um esforço conjunto de Nelson\nMandela e de Frederik de Klerk, agraciados, por isso, com o\nprêmio Nobel da Paz.\nV",
+   "gabarito": "A"
+  },
+  {
+   "numero": 89,
+   "imagem": "img/fuvest-2019-1f-q089.webp",
+   "texto": "89\nObserve as imagens das duas charges de Angelo Agostini\npublicadas no periódico Vida Fluminense. Ambas oferecem\nrepresentações sobre a Guerra do Paraguai, que causaram\nforte impacto na opinião pública. A imagem I retrata Solano\nLópez como o “Nero do século XIX”; a imagem II figura um\nsoldado brasileiro que retorna dos campos de batalha.\nI\nII\n12/06/1869\n11/06/1870\nSobre as imagens, é correto afirmar, respectivamente:\n(A) Atribui um caráter redentor ao chefe da tropa paraguaia;\nfixa o assombro do soldado brasileiro ao constatar a\npersistência da opressão escravista.\n(B) Denuncia os efeitos da guerra entre a população brasileira;\nilustra a manutenção da violência entre a população cativa.\n(C) Reconhece os méritos militares do general López; denota a\nincongruência entre o recrutamento de negros libertos e a\nmanutenção da escravidão.\n(D) Personifica o culpado pelo morticínio do povo paraguaio;\nestimula o debate sobre o fim do trabalho escravo no Brasil.\n(E) Fixa atributos de barbárie ao ditador Solano López; sublinha\na incompatibilidade entre o Exército e o exercício da\ncidadania.",
+   "gabarito": "D"
+  },
+  {
+   "numero": 90,
+   "imagem": "img/fuvest-2019-1f-q090.webp",
+   "texto": "90\nA história do século XIX foi marcada pela tensão entre tradições\npolíticas e intelectuais que apelava, ora para a força do\nnacionalismo, ora para o vigor das ideias internacionalistas.\nIndique a alternativa que traduz uma destas tradições.\n(A) A formulação de alianças militares, a união de forças\nmonárquicas e abolição das fronteiras políticas\ncontribuíram para minar o poder dos Estados‐Nacionais.\n(B) O 1º de Maio e os rituais trabalhistas manifestavam a\nascensão de partidos e de movimentos de massa, expressão\ndo nacionalismo da classe trabalhadora.\n(C) As guerras de caráter religioso que eclodiram na Europa\ndemonstram um enfraquecimento do poder universal da\nIgreja Católica e a ascensão de tradições religiosas nacionais.\n(D) O apelo ao direito de autodeterminação dos povos\nquestionou o poder das casas dinásticas e contribuiu para a\nposterior fragmentação dos grandes impérios europeus.\n(E) O culto do progresso e da liberdade despertou os ideais\nrepublicanos e democráticos que contribuíram para o\nestabelecimento de federações supranacionais.\nV",
+   "gabarito": "D"
+  }
+ ]
+}

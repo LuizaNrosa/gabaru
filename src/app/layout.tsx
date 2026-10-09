@@ -1,6 +1,8 @@
 import type { Metadata, Viewport } from "next";
 import { AuthProvider } from "@/context/auth-context";
 import { LogoDefs } from "@/components/logo";
+import { SiteHeader } from "@/components/site-header";
+import { SiteFooter } from "@/components/site-footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -32,7 +34,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body className="min-h-screen bg-paper font-sans text-ink antialiased">
         <LogoDefs />
-        <AuthProvider>{children}</AuthProvider>
+        <AuthProvider>
+          <SiteHeader />
+          {children}
+          <SiteFooter />
+        </AuthProvider>
       </body>
     </html>
   );

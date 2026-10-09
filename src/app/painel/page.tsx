@@ -2,7 +2,6 @@
 
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
-import { SiteHeader } from "@/components/site-header";
 import { friendlyAuthError, useAuth } from "@/context/auth-context";
 import { getClientAuth } from "@/lib/firebase/client";
 
@@ -36,7 +35,6 @@ export default function PainelPage() {
 
   return (
     <>
-      <SiteHeader />
       <main className="mx-auto w-full max-w-2xl px-5 pt-16">
         {loading || !user ? (
           <p className="text-n5">Carregando...</p>

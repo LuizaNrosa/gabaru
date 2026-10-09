@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import { verifyRequestUser } from "@/lib/firebase/admin";
 import { getStripe } from "@/lib/stripe";
+import { limitar, origemPermitida } from "@/lib/seguranca";
 
 export const runtime = "nodejs";
 
@@ -9,9 +10,15 @@ export const runtime = "nodejs";
  * Ajuste `mode` para "subscription" se STRIPE_PRICE_ID for um preço recorrente.
  */
 export async function POST(req: Request) {
+  if (!origemPermitida(req)) {
+    return NextResponse.json({ error: "Origem não permitida." }, { status: 403 });
+  }
   const user = await verifyRequestUser(req);
   if (!user) {
     return NextResponse.json({ error: "Não autenticado." }, { status: 401 });
+  }
+  if (!limitar(`checkout:${user.uid}`, 5, 60_000)) {
+    return NextResponse.json({ error: "Muitas tentativas. Aguarde um minuto." }, { status: 429 });
   }
 
   const priceId = process.env.STRIPE_PRICE_ID;

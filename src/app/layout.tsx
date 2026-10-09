@@ -12,6 +12,8 @@ export const metadata: Metadata = {
   },
   description:
     "Matemática e física para ETEC, Coluni, ENEM, FUVEST, UNICAMP, UNESP, ITA, IME e concursos.",
+  // Enquanto o site está em construção, buscadores não indexam. Para liberar: NEXT_PUBLIC_INDEXAR=1 no Render.
+  robots: process.env.NEXT_PUBLIC_INDEXAR === "1" ? { index: true, follow: true } : { index: false, follow: false },
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://gabaru.com.br"),
 };
 

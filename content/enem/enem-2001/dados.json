@@ -1,0 +1,326 @@
+{
+ "id": "enem-2001",
+ "banca": "INEP",
+ "exame": "ENEM",
+ "ano": 2001,
+ "dia": null,
+ "descricao": "Prova única (caderno amarelo)",
+ "total": 63,
+ "questoes": [
+  {
+   "numero": 1,
+   "imagem": "img/enem-2001-q001.webp",
+   "texto": "1\nO mundo é grande\nO mundo é grande e cabe\nNesta janela sobre o mar.\nO mar é grande e cabe\nNa cama e no colchão de amar.\nO amor é grande e cabe\nNo breve espaço de beijar.\nANDRADE, Carlos Drummond de. Poesia e prosa. Rio de Janeiro: Nova Aguilar, 1983.\nNeste poema, o poeta realizou uma opção estilística: a reiteração de determinadas construções\ne expressões lingüísticas, como o uso da mesma conjunção para estabelecer a relação entre as\nfrases. Essa conjunção estabelece, entre as idéias relacionadas, um sentido de\n(A) oposição.\n(B) comparação.\n(C) conclusão.\n(D) alternância.\n(E) finalidade."
+  },
+  {
+   "numero": 2,
+   "imagem": "img/enem-2001-q002.webp",
+   "texto": "2\nUm engenheiro, para calcular a área de uma cidade, copiou sua planta numa folha de papel\nde boa qualidade, recortou e pesou numa balança de precisão, obtendo 40 g. Em seguida,\nrecortou, do mesmo desenho, uma praça de dimensões reais 100 m x 100m, pesou o recorte\nna mesma balança e obteve 0,08g. Com esses dados foi possível dizer que a área da cidade,\nem metros quadrados, é de, aproximadamente,\n(A)\n800.\n(B)\n10000.\n(C) 320000.\n(D) 400000.\n(E) 5000000."
+  },
+  {
+   "numero": 3,
+   "imagem": "img/enem-2001-q003.webp",
+   "texto": "3\nNuma rodovia pavimentada, ocorreu o tombamento de um caminhão que transportava ácido\nsulfúrico concentrado. Parte da sua carga fluiu para um curso d'água não poluído que deve\nter sofrido, como conseqüência,\nI.\nmortandade de peixes acima da normal no local do derrame de ácido e em suas\nproximidades.\nII. variação do pH em função da distância e da direção da corrente de água.\nIII. danos permanentes na qualidade de suas águas.\nIV. aumento momentâneo da temperatura da água no local do derrame.\nÉ correto afirmar que, dessas conseqüências, apenas podem ocorrer\n(A) I e II.\n(B) II e III.\n(C) II e IV.\n(D) I, II e IV.\n(E) II, III e IV."
+  },
+  {
+   "numero": 4,
+   "imagem": "img/enem-2001-q004.webp",
+   "texto": "4\n“... Um operário desenrola o arame, o outro o endireita, um terceiro corta, um quarto o afia\nnas pontas para a colocação da cabeça do alfinete; para fazer a cabeça do alfinete requerem-\nse 3 ou 4 operações diferentes; ...”\nSMITH, Adam. A Riqueza das Nações. Investigação sobre a sua Natureza e suas Causas. Vol. I. São Paulo: Nova Cultural, 1985.\nJornal do Brasil, 19 de fevereiro de1997.\nA respeito do texto e do quadrinho são feitas as seguintes afirmações:\nI. Ambos retratam a intensa divisão do trabalho, à qual são submetidos os operários.\nII. O texto refere-se à produção informatizada e o quadrinho, à produção artesanal.\nIII. Ambos contêm a idéia de que o produto da atividade industrial não depende do\nconhecimento de todo o processo por parte do operário.\nDentre essas afirmações, apenas\n(A) I está correta.\n(B) II está correta.\n(C) III está correta.\n(D) I e II estão corretas.\n(E) I e III estão corretas."
+  },
+  {
+   "numero": 5,
+   "imagem": "img/enem-2001-q005.webp",
+   "texto": "5\nUma empresa de alimentos imprimiu em suas embalagens um cartão de apostas do\nseguinte tipo:\nCada cartão de apostas possui 7 figuras de bolas de futebol e 8 sinais de “X” distribuídos\nentre os 15 espaços possíveis, de tal forma que a probabilidade de um cliente ganhar o\nprêmio nunca seja igual a zero.\nEm determinado cartão existem duas bolas na linha 4 e duas bolas na linha 5. Com esse\ncartão, a probabilidade de o cliente ganhar o prêmio é\n(A)\n1/27.\n(B)\n1/36.\n(C)\n1/54.\n(D)\n1/72.\n(E)\n1/108."
+  },
+  {
+   "numero": 6,
+   "imagem": "img/enem-2001-q006.webp",
+   "texto": "6\nA figura apresenta as fronteiras entre os países envolvidos na Questão Palestina e um corte,\nno mapa, da área indicada.\nAdaptado da revista Hérodote, números 29 e 30.\nCom base na análise dessa figura e considerando o conflito entre árabes e israelenses,\npode-se afirmar que, para Israel, é importante manter ocupada a área litigiosa por tratar-se\nde uma região\n(A) de planície, propícia à atividade agropecuária.\n(B) estratégica, dado que abrange as duas margens do rio Jordão.\n(C) habitada, majoritariamente, por colônias israelenses.\n(D) que garante a hegemonia israelense sobre o mar Mediterrâneo.\n(E) estrategicamente situada devido ao relevo e aos recursos hídricos."
+  },
+  {
+   "numero": 7,
+   "imagem": "img/enem-2001-q007.webp",
+   "texto": "7\nAtualmente, sistemas de purificação de emissões poluidoras estão sendo exigidos por lei em\num número cada vez maior de países. O controle das emissões de dióxido de enxofre\ngasoso, provenientes da queima de carvão que contém enxofre, pode ser feito pela reação\ndesse gás com uma suspensão de hidróxido de cálcio em água, sendo formado um produto\nnão poluidor do ar.\nA queima do enxofre e a reação do dióxido de enxofre com o hidróxido de cálcio, bem como\nas massas de algumas das substâncias envolvidas nessas reações, podem ser assim\nrepresentadas:\nenxofre (32 g) + oxigênio (32 g) → dióxido de enxofre (64 g)\ndióxido de enxofre (64 g) + hidróxido de cálcio (74 g) → produto não poluidor\nDessa forma, para absorver todo o dióxido de enxofre produzido pela queima de uma\ntonelada de carvão (contendo 1% de enxofre), é suficiente a utilização de uma massa de\nhidróxido de cálcio de, aproximadamente,\n(A) 23 kg.\n(B) 43 kg.\n(C) 64 kg.\n(D) 74 kg.\n(E) 138 kg."
+  },
+  {
+   "numero": 8,
+   "imagem": "img/enem-2001-q008.webp",
+   "texto": "8\nOs provérbios constituem um produto da sabedoria popular e, em geral, pretendem\ntransmitir um ensinamento. A alternativa em que os dois provérbios remetem a\nensinamentos semelhantes é:\n(A) “Quem diz o que quer, ouve o que não quer” e “Quem ama o feio, bonito lhe parece”.\n(B) “Devagar se vai ao longe” e “De grão em grão, a galinha enche o papo”.\n(C) “Mais vale um pássaro na mão do que dois voando” e “Não se deve atirar pérolas aos\nporcos”.\n(D) “Quem casa quer casa” e “Santo de casa não faz milagre”.\n(E) “Quem com ferro fere, com ferro será ferido” e “Casa de ferreiro, espeto de pau”."
+  },
+  {
+   "numero": 9,
+   "imagem": "img/enem-2001-q009.webp",
+   "texto": "9\nEm muitas regiões do Estado do Amazonas, o volume de madeira de uma árvore cortada é\navaliado de acordo com uma prática dessas regiões:\nI - Dá-se uma volta completa em torno do tronco com um barbante.\nII - O barbante é dobrado duas vezes pela ponta e, em seguida, seu comprimento é medido\ncom fita métrica.\n1ª dobra\n2ª dobra\nIII - O valor obtido com essa medida é multiplicado por ele mesmo e depois multiplicado\npelo comprimento do tronco. Esse é o volume estimado de madeira.\nOutra estimativa pode ser obtida pelo cálculo formal do volume do tronco, considerando-o\num cilindro perfeito.\nA diferença entre essas medidas é praticamente equivalente às perdas de madeira no\nprocesso de corte para comercialização.\nPode-se afirmar que essas perdas são da ordem de\n(A) 30%.\n(B) 22%.\n(C) 15%.\n(D) 12%.\n(E) 5%.\nA possível escassez de água é uma das maiores preocupações da atualidade, considerada\npor alguns especialistas como o desafio maior do novo século. No entanto, tão importante\nquanto aumentar a oferta é investir na preservação da qualidade e no reaproveitamento da\nágua de que dispomos hoje."
+  },
+  {
+   "numero": 10,
+   "imagem": "img/enem-2001-q010.webp",
+   "texto": "10\nA ação humana tem provocado algumas alterações quantitativas e qualitativas da água:\nI. Contaminação de lençóis freáticos.\nII. Diminuição da umidade do solo.\nIII. Enchentes e inundações.\nPode-se afirmar que as principais ações humanas associadas às alterações I, II e III são,\nrespectivamente,\n(A) uso de fertilizantes e aterros sanitários / lançamento de gases poluentes / canalização de\ncórregos e rios.\n(B) lançamento de gases poluentes / lançamento de lixo nas ruas / construção de aterros\nsanitários.\n(C) uso de fertilizantes e aterros sanitários / desmatamento / impermeabilização do solo urbano.\n(D) lançamento de lixo nas ruas / uso de fertilizantes / construção de aterros sanitários.\n(E) construção de barragens / uso de fertilizantes / construção de aterros sanitários."
+  },
+  {
+   "numero": 11,
+   "imagem": "img/enem-2001-q011.webp",
+   "texto": "11\nAlgumas medidas podem ser propostas com relação aos problemas da água:\nI. Represamento de rios e córregos próximo às cidades de maior porte.\nII. Controle da ocupação urbana, especialmente em torno dos mananciais.\nIII. Proibição do despejo de esgoto industrial e doméstico sem tratamento nos rios e\nPara orçar um contrato publicitário, uma agência precisa avaliar a probabilidade que um\nrepresas.\nIV. Transferência de volume de água entre bacias hidrográficas para atender as cidades\nmorador tem de, circulando livremente pelo município, encontrar-se na área de alcance de\nque já apresentam alto grau de poluição em seus mananciais.\npelo menos uma das emissoras.\nAs duas ações que devem ser tratadas como prioridades para a preservação da qualidade\nEssa probabilidade é de, aproximadamente,\ndos recursos hídricos são\n(A) 20%.\n(A) I e II.\n(B) 25%.\n(B) I e IV.\n(C) 30%.\n(C) II e III.\n(D) 35%.\n(D) II e IV.\n(E) 40%.\n(E) III e IV."
+  },
+  {
+   "numero": 12,
+   "imagem": "img/enem-2001-q012.webp",
+   "texto": "12\nMurilo Mendes, em um de seus poemas, dialoga com a carta de Pero Vaz de Caminha:\n“A terra é mui graciosa,\nTão fértil eu nunca vi.\nA gente vai passear,\nNo chão espeta um caniço,\nNo dia seguinte nasce\nBengala de castão de oiro.\nTem goiabas, melancias,\nBanana que nem chuchu.\nQuanto aos bichos, tem-nos muito,\nDe plumagens mui vistosas.\nTem macaco até demais\nDiamantes tem à vontade\nEsmeralda é para os trouxas.\nReforçai, Senhor, a arca,\nCruzados não faltarão,\nVossa perna encanareis,\nSalvo o devido respeito.\nFicarei muito saudoso\nSe for embora daqui”.\nMENDES, Murilo. Murilo Mendes — poesia completa e prosa. Rio de Janeiro: Nova Aguilar, 1994.\nArcaísmos e termos coloquiais misturam-se nesse poema, criando um efeito de contraste,\ncomo ocorre em:\n(A) A terra é mui graciosa / Tem macaco até demais\n(B) Salvo o devido respeito / Reforçai, Senhor, a arca\n(C) A gente vai passear / Ficarei muito saudoso\n(D) De plumagens mui vistosas / Bengala de castão de oiro\n(E) No chão espeta um caniço / Diamantes tem à vontade"
+  },
+  {
+   "numero": 13,
+   "imagem": "img/enem-2001-q013.webp",
+   "texto": "13\nO setor residencial brasileiro é, depois da indústria, o que mais consome energia elétrica. A\nparticipação do setor residencial no consumo total de energia cresceu de forma bastante\nacelerada nos últimos anos. Esse crescimento pode ser explicado\nI.\npelo processo de urbanização no país, com a migração da população rural para as\ncidades.\nII. pela busca por melhor qualidade de vida, com a maior utilização de sistemas de\nrefrigeração, iluminação e aquecimento.\nIII. pela substituição de determinadas fontes de energia - a lenha, por exemplo - pela\nenergia elétrica.\nDentre as explicações apresentadas\n(A) apenas III é correta.\n(B) apenas I e II são corretas.\n(C) apenas I e III são corretas.\n(D) apenas II e III são corretas.\n(E) I, II e III são corretas."
+  },
+  {
+   "numero": 14,
+   "imagem": "img/enem-2001-q014.webp",
+   "texto": "14\nUm município de 628 km² é atendido por duas emissoras de rádio cujas antenas A e B\nalcançam um raio de 10km do município, conforme mostra a figura:\nPara orçar um contrato publicitário, uma agência precisa avaliar a probabilidade que um\nmorador tem de, circulando livremente pelo município, encontrar-se na área de alcance de\npelo menos uma das emissoras.\nEssa probabilidade é de, aproximadamente,\n(A) 20%.\n(B) 25%.\n(C) 30%.\n(D) 35%.\n(E) 40%."
+  },
+  {
+   "numero": 15,
+   "imagem": "img/enem-2001-q015.webp",
+   "texto": "15\nO hemograma é um exame laboratorial que informa o número de hemácias, glóbulos\nbrancos e plaquetas presentes no sangue. A tabela apresenta os valores considerados\nnormais para adultos. Os gráficos mostram os resultados do hemograma de 5 estudantes\nadultos. Todos os resultados são expressos em número de elementos por mm 3 de sangue.\n450\nValores normais para adultos\nHemácias\n4,5 a 5,9 milhões/mm 3\nPlaquetas (mil/mm3)\nG. brancos\n5 a 10 mil/mm 3\n300\n300\nPlaquetas\n200 a 400 mil/mm 3\n250\n80\nAbel\nLuísa\nJosé\nMaria Roberto\n13\n7\nGlóbulos brancos (mil/mm3)\n11\nHemácias (milhões/mm3)\n5,9\n5,5\n5\n6\n5,5\n3,2\n3,5\nAbel\nLuísa\nJosé\nMaria Roberto\nAbel\nLuísa\nJosé\nMaria Roberto\nPodem estar ocorrendo deficiência no sistema de defesa do organismo, prejuízos no\ntransporte de gases respiratórios e alterações no processo de coagulação sanguínea,\nrespectivamente, com os estudantes\n(A) Maria, José e Roberto.\n(B) Roberto, José e Abel.\n(C) Maria, Luísa e Roberto.\n(D) Roberto, Maria e Luísa.\n(E) Luísa, Roberto e Abel.\nA distribuição média, por tipo de equipamento, do consumo de energia elétrica nas\nresidências no Brasil é apresentada no gráfico.\nMáquina de\nOutros\nChuveiro\nlavar\n5%\nTV\n5%\n25%\n10%\nFerro\nelétrico\nLâmpadas\n5%\nincandescentes\n20%\nGeladeira\n30%"
+  },
+  {
+   "numero": 16,
+   "imagem": "img/enem-2001-q016.webp",
+   "texto": "16\nEm associação com os dados do gráfico, considere as variáveis:\nI. Potência do equipamento.\nII. Horas de funcionamento.\nIII. Número de equipamentos.\nO valor das frações percentuais do consumo de energia depende de\n(A) I, apenas.\n(B) II, apenas.\n(C) I e II, apenas.\n(D) II e III, apenas.\n(E) I, II e III."
+  },
+  {
+   "numero": 17,
+   "imagem": "img/enem-2001-q017.webp",
+   "texto": "17\nComo medida de economia, em uma residência com 4 moradores, o consumo mensal médio\nde energia elétrica foi reduzido para 300 kWh. Se essa residência obedece à distribuição\ndada no gráfico, e se nela há um único chuveiro de 5000 W, pode-se concluir que o banho\ndiário de cada morador passou a ter uma duração média, em minutos, de\n(A)\n2,5.\n(B)\n5,0.\n(C)\n7,5.\n(D)\n10,0.\n(E)\n12,0."
+  },
+  {
+   "numero": 18,
+   "imagem": "img/enem-2001-q018.webp",
+   "texto": "18\nO franciscano Roger Bacon foi condenado, entre 1277 e 1279, por dirigir ataques aos\nteólogos, por uma suposta crença na alquimia, na astrologia e no método experimental, e\ntambém por introduzir, no ensino, as idéias de Aristóteles. Em 1260, Roger Bacon escreveu:\n“Pode ser que se fabriquem máquinas graças às quais os maiores navios, dirigidos por um\núnico homem, se desloquem mais depressa do que se fossem cheios de remadores; que se\nconstruam carros que avancem a uma velocidade incrível sem a ajuda de animais; que se\nfabriquem máquinas voadoras nas quais um homem (...) bata o ar com asas como um pássaro.\n(...) Máquinas que permitam ir ao fundo dos mares e dos rios”\n(apud. BRAUDEL, Fernand. Civilização material, economia e capitalismo: séculos XV-XVIII, São Paulo: Martins Fontes, 1996, vol. 3.).\nConsiderando a dinâmica do processo histórico, pode-se afirmar que as idéias de Roger\nBacon\n(A) inseriam-se plenamente no espírito da Idade Média ao privilegiarem a crença em Deus\ncomo o principal meio para antecipar as descobertas da humanidade.\n(B) estavam em atraso com relação ao seu tempo ao desconsiderarem os instrumentos\nintelectuais oferecidos pela Igreja para o avanço científico da humanidade.\n(C) opunham-se ao desencadeamento da Primeira Revolução Industrial, ao rejeitarem a\naplicação da matemática e do método experimental nas invenções industriais.\n(D) eram fundamentalmente voltadas para o passado, pois não apenas seguiam\nAristóteles, como também baseavam-se na tradição e na teologia.\n(E) inseriam-se num movimento que convergiria mais tarde para o Renascimento, ao\ncontemplarem a possibilidade de o ser humano controlar a natureza por meio das\ninvenções."
+  },
+  {
+   "numero": 19,
+   "imagem": "img/enem-2001-q019.webp",
+   "texto": "19\n“Os progressos da medicina condicionaram a sobrevivência de número cada vez maior de\nindivíduos com constituições genéticas que só permitem o bem-estar quando seus efeitos são\ndevidamente controlados através de drogas ou procedimentos terapêuticos. São exemplos os\ndiabéticos e os hemofílicos, que só sobrevivem e levam vida relativamente normal ao\nreceberem suplementação de insulina ou do fator VIII da coagulação sanguínea”.\nSALZANO, M. Francisco. Ciência Hoje: SBPC: 21(125), 1996.\nEssas afirmações apontam para aspectos importantes que podem ser relacionados à\nevolução humana. Pode-se afirmar que, nos termos do texto,\n(A) os avanços da medicina minimizam os efeitos da seleção natural sobre as populações.\n(B) os usos da insulina e do fator VIII da coagulação sanguínea funcionam como agentes\nmodificadores do genoma humano.\n(C) as drogas medicamentosas impedem a transferência do material genético defeituoso\nao longo das gerações.\n(D) os procedimentos terapêuticos normalizam o genótipo dos hemofílicos e diabéticos.\n(E) as intervenções realizadas pela medicina interrompem a evolução biológica do ser\nhumano."
+  },
+  {
+   "numero": 20,
+   "imagem": "img/enem-2001-q020.webp",
+   "texto": "20\nOxímoro (ou paradoxo) é uma construção textual que agrupa significados que se excluem\nmutuamente. Para Garfield, a frase de saudação de Jon (tirinha abaixo) expressa o maior de\ntodos os oxímoros.\nFolha de S. Paulo. 31 de julho de 2000.\nNas alternativas abaixo, estão transcritos versos retirados do poema “O operário em\nconstrução”. Pode-se afirmar que ocorre um oxímoro em\n(A) \"Era ele que erguia casas\nOnde antes só havia chão.\"\n(B) \"... a casa que ele fazia\nSendo a sua liberdade\nEra a sua escravidão.\"\n(C) \"Naquela casa vazia\nQue ele mesmo levantara\nUm mundo novo nascia\nDe que sequer suspeitava.\"\n(D) \"... o operário faz a coisa\nE a coisa faz o operário.\"\n(E) \"Ele, um humilde operário\nUm operário que sabia\nExercer a profissão.\"\nMORAES, Vinícius de. Antologia Poética. São Paulo: Companhia das Letras, 1992."
+  },
+  {
+   "numero": 21,
+   "imagem": "img/enem-2001-q021.webp",
+   "texto": "21\nPelas normas vigentes, o litro do álcool hidratado que abastece os veículos deve ser\nconstituído de 96% de álcool puro e 4% de água (em volume). As densidades desses\ncomponentes são dadas na tabela.\nSubstância\nDensidade (g/l)\nÁgua\n1000\nÁlcool\n800\nUm técnico de um órgão de defesa do consumidor inspecionou cinco postos suspeitos de\nvenderem álcool hidratado fora das normas. Colheu uma amostra do produto em cada\nposto, mediu a densidade de cada uma, obtendo:\nPosto\nDensidade do combustível (g/l)\nI\n822\nII\n820\nIII\n815\nIV\n808\nV\n805\nA partir desses dados, o técnico pôde concluir que estavam com o combustível adequado\nsomente os postos\n(A) I e II.\n(B) I e III.\n(C) II e IV.\n(D) III e V.\n(E) IV e V.\nO esquema representa o ciclo do enxofre na natureza, sem considerar a intervenção\nhumana.\nAdaptado de BRIMBLECOMBE, P. Air Composition and Chemistry. Cambridge. Cambridge University Press, 1996."
+  },
+  {
+   "numero": 22,
+   "imagem": "img/enem-2001-q022.webp",
+   "texto": "22\nO ciclo representado mostra que a atmosfera, a litosfera, a hidrosfera e a biosfera,\nnaturalmente,\nI.\nsão poluídas por compostos de enxofre.\nII.\nsão destinos de compostos de enxofre.\nIII.\ntransportam compostos de enxofre.\nIV.\nsão fontes de compostos de enxofre.\nDessas afirmações, estão corretas, apenas,\n(A) I e II.\n(B) I e III.\n(C) II e IV.\n(D) I, II e III.\n(E) II, III e IV."
+  },
+  {
+   "numero": 23,
+   "imagem": "img/enem-2001-q023.webp",
+   "texto": "23\nAlgumas atividades humanas interferiram significativamente no ciclo natural do enxofre,\nalterando as quantidades das substâncias indicadas no esquema. Ainda hoje isso ocorre,\napesar do grande controle por legislação.\nPode-se afirmar que duas dessas interferências são resultantes da\n(A) queima de combustíveis em veículos pesados e da produção de metais a partir de\nsulfetos metálicos.\n(B) produção de metais a partir de óxidos metálicos e da vulcanização da borracha.\n(C) queima de combustíveis em veículos leves e da produção de metais a partir de óxidos\nmetálicos.\n(D) queima de combustíveis em indústria e da obtenção de matérias-primas a partir da\nágua do mar.\n(E) vulcanização da borracha e da obtenção de matérias-primas a partir da água do mar."
+  },
+  {
+   "numero": 24,
+   "imagem": "img/enem-2001-q024.webp",
+   "texto": "24\nUm fabricante de brinquedos recebeu o projeto de uma caixa que deverá conter cinco\npequenos sólidos, colocados na caixa por uma abertura em sua tampa. A figura representa a\nplanificação da caixa, com as medidas dadas em centímetros.\nOs sólidos são fabricados nas formas de\nI.\num cone reto de altura 1 cm e raio da base 1,5 cm.\nII.\num cubo de aresta 2 cm.\nIII.\numa esfera de raio 1,5 cm.\nIV.\num paralelepípedo retangular reto, de dimensões 2 cm, 3 cm e 4 cm.\nV.\num cilindro reto de altura 3 cm e raio da base 1 cm.\nO fabricante não aceitou o projeto, pois percebeu que, pela abertura dessa caixa, só poderia\ncolocar os sólidos dos tipos\n(A) I, II e III.\n(B) I, II e V.\n(C) I, II, IV e V.\n(D) II, III, IV e V.\n(E) III, IV e V."
+  },
+  {
+   "numero": 25,
+   "imagem": "img/enem-2001-q025.webp",
+   "texto": "25\nUma região industrial lança ao ar gases como o dióxido de enxofre e óxidos de nitrogênio,\ncausadores da chuva ácida. A figura mostra a dispersão desses gases poluentes.\nConsiderando o ciclo da água e a dispersão dos gases, analise as seguintes possibilidades:\nI.\nAs águas de escoamento superficial e de precipitação que atingem o manancial\npoderiam causar aumento de acidez da água do manancial e provocar a morte de\npeixes.\nII. A precipitação na região rural poderia causar aumento de acidez do solo e exigir\nprocedimentos corretivos, como a calagem.\nIII. A precipitação na região rural, embora ácida, não afetaria o ecossistema, pois a\ntranspiração dos vegetais neutralizaria o excesso de ácido.\nDessas possibilidades,\n(A)\npode ocorrer apenas a I.\n(B)\npode ocorrer apenas a II.\n(C)\npodem ocorrer tanto a I quanto a II.\n(D)\npodem ocorrer tanto a I quanto a III.\n(E)\npodem ocorrer tanto a II quanto a III."
+  },
+  {
+   "numero": 26,
+   "imagem": "img/enem-2001-q026.webp",
+   "texto": "26\nVárias estratégias estão sendo consideradas para a recuperação da diversidade biológica de\num ambiente degradado, dentre elas, a criação de vertebrados em cativeiro. Com esse\nobjetivo, a iniciativa mais adequada, dentre as alternativas abaixo, seria criar\n(A) machos de umas espécies e fêmeas de outras, para possibilitar o acasalamento entre\nelas e o surgimento de novas espécies.\n(B) muitos indivíduos da espécie mais representativa, de forma a manter a identidade e a\ndiversidade do ecossistema.\n(C) muitos indivíduos de uma única espécie, para garantir uma população geneticamente\nheterogênea e mais resistente.\n(D) um número suficiente de indivíduos, do maior número de espécies, que garanta a\ndiversidade genética de cada uma delas.\n(E) vários indivíduos de poucas espécies, de modo a garantir, para cada espécie, uma\npopulação geneticamente homogênea."
+  },
+  {
+   "numero": 27,
+   "imagem": "img/enem-2001-q027.webp",
+   "texto": "27\nNas conversas diárias, utiliza-se freqüentemente a palavra “próprio” e ela se ajusta a várias\nsituações. Leia os exemplos de diálogos:\nI\n- A Vera se veste diferente!\n- É mesmo, é que ela tem um estilo próprio.\npróprio\nII\n- A Lena já viu esse filme uma dezena de vezes! Eu não consigo ver o\nque ele tem de tão maravilhoso assim.\n- É que ele é próprio para adolescente.\nIII\n- Dora, o que eu faço? Ando tão preocupada com o Fabinho! Meu filho\nestá impossível!\n- Relaxa, Tânia! É próprio da idade. Com o tempo, ele se acomoda.\nNas ocorrências I, II e III, “próprio” é sinônimo de, respectivamente,\n(A) adequado, particular, típico.\n(B) peculiar, adequado, característico.\n(C) conveniente, adequado, particular.\n(D) adequado, exclusivo, conveniente.\n(E) peculiar, exclusivo, característico."
+  },
+  {
+   "numero": 28,
+   "imagem": "img/enem-2001-q028.webp",
+   "texto": "28\nUm produtor de larvas aquáticas para alimentação de peixes ornamentais usou veneno para\ncombater parasitas, mas suspendeu o uso do produto quando os custos se revelaram\nantieconômicos.\nO gráfico registra a evolução das populações de larvas e parasitas.\nO aspecto biológico, ressaltado a partir da leitura do gráfico, que pode ser considerado o\nmelhor argumento para que o produtor não retome o uso do veneno é:\n(A) A densidade populacional das larvas e dos parasitas não é afetada pelo uso do veneno.\n(B) A população de larvas não consegue se estabilizar durante o uso do veneno.\n(C) As populações mudam o tipo de interação estabelecida ao longo do tempo.\n(D) As populações associadas mantêm um comportamento estável durante todo o período.\n(E) Os efeitos das interações negativas diminuem ao longo do tempo, estabilizando as\npopulações."
+  },
+  {
+   "numero": 29,
+   "imagem": "img/enem-2001-q029.webp",
+   "texto": "29\nNum determinado bairro há duas empresas de ônibus, ANDABEM e BOMPASSEIO, que fazem\no trajeto levando e trazendo passageiros do subúrbio ao centro da cidade. Um ônibus de\ncada uma dessas empresas parte do terminal a cada 30 minutos, nos horários indicados na\ntabela.\nHorário dos ônibus\nANDABEM\nBOMPASSEIO\n…\n...\n6h00min\n6h10min\n6h30min\n6h40min\n7h00min\n7h10min\n7h30min\n7h40min\n…\n…\nCarlos mora próximo ao terminal de ônibus e trabalha na cidade. Como não tem hora certa\npara chegar ao trabalho e nem preferência por qualquer das empresas, toma sempre o\nprimeiro ônibus que sai do terminal. Nessa situação, pode-se afirmar que a probabilidade\nde Carlos viajar num ônibus da empresa ANDABEM é\n(A) um quarto da probabilidade de ele viajar num ônibus da empresa BOMPASSEIO.\n(B) um terço da probabilidade de ele viajar num ônibus da empresa BOMPASSEIO.\n(C) metade da probabilidade de ele viajar num ônibus da empresa BOMPASSEIO.\n(D) duas vezes maior do que a probabilidade de ele viajar num ônibus da empresa\nBOMPASSEIO.\n(E) três vezes maior do que a probabilidade de ele viajar num ônibus da empresa\nBOMPASSEIO.\nI - Para o filósofo inglês Thomas Hobbes (1588-1679), o estado de natureza é um estado\nde guerra universal e perpétua. Contraposto ao estado de natureza, entendido como\nestado de guerra, o estado de paz é a sociedade civilizada.\nDentre outras tendências que dialogam com as idéias de Hobbes, destaca-se a definida pelo\ntexto abaixo.\nII - Nem todas as guerras são injustas e correlativamente, nem toda paz é justa, razão pela\nqual a guerra nem sempre é um desvalor, e a paz nem sempre um valor.\nBOBBIO, N. MATTEUCCI, N PASQUINO, G. Dicionário de Política, 5ª ed. Brasília: Universidade de Brasília;\nSão Paulo: Imprensa Oficial do Estado, 2000."
+  },
+  {
+   "numero": 30,
+   "imagem": "img/enem-2001-q030.webp",
+   "texto": "30\nComparando as idéias de Hobbes (texto I) com a tendência citada no texto II, pode-se\nafirmar que\n(A) em ambos, a guerra é entendida como inevitável e injusta.\n(B) para Hobbes, a paz é inerente à civilização e, segundo o texto II, ela não é um valor\nabsoluto.\n(C) de acordo com Hobbes, a guerra é um valor absoluto e, segundo o texto II, a paz é\nsempre melhor que a guerra.\n(D) em ambos, a guerra ou a paz são boas quando o fim é justo.\n(E) para Hobbes, a paz liga-se à natureza e, de acordo com o texto II, à civilização."
+  },
+  {
+   "numero": 31,
+   "imagem": "img/enem-2001-q031.webp",
+   "texto": "31\nTropas da Aliança do Tratado do Atlântico Norte (OTAN) invadiram o Iraque em 1991 e\natacaram a Sérvia em 1999.\nPara responder aos críticos dessas ações, a OTAN usaria, possivelmente, argumentos\nbaseados\n(A) na teoria da guerra perpétua de Hobbes.\n(B) tanto na teoria de Hobbes como na tendência expressa no texto II.\n(C) no fato de que as regiões atacadas não possuíam sociedades civilizadas.\n(D) na teoria de que a guerra pode ser justa quando o fim é justo.\n(E) na necessidade de pôr fim à guerra entre os dois países citados."
+  },
+  {
+   "numero": 32,
+   "imagem": "img/enem-2001-q032.webp",
+   "texto": "32\nExistem diferentes formas de representação plana da superfície da Terra (planisfério).\nOs planisférios de Mercator e de Peters são atualmente os mais utilizados.\nMercator\nPeters\nApesar de usarem projeções, respectivamente, conforme e equivalente, ambas utilizam como\nbase da projeção o modelo:\n(A)\n(B)\n(C)\n(D)\n(E)"
+  },
+  {
+   "numero": 33,
+   "imagem": "img/enem-2001-q033.webp",
+   "texto": "33\nNuma região, originalmente ocupada por Mata Atlântica, havia, no passado, cinco espécies\nde pássaros de um mesmo gênero. Nos dias atuais, essa região se reduz a uma reserva de\nfloresta primária, onde ainda ocorrem as cinco espécies, e a fragmentos de floresta\ndegradada, onde só se encontram duas das cinco espécies.\nO desaparecimento das três espécies nas regiões degradadas pode ser explicado pelo fato\nde que, nessas regiões, ocorreu\n(A) aumento do volume e da freqüência das chuvas.\n(B) diminuição do número e da diversidade de hábitats.\n(C) diminuição da temperatura média anual.\n(D) aumento dos níveis de gás carbônico e de oxigênio na atmosfera.\n(E) aumento do grau de isolamento reprodutivo interespecífico."
+  },
+  {
+   "numero": 34,
+   "imagem": "img/enem-2001-q034.webp",
+   "texto": "34\nO trecho a seguir é parte do poema “Mocidade e morte”, do poeta romântico Castro Alves:\nOh! eu quero viver, beber perfumes\nNa flor silvestre, que embalsama os ares;\nVer minh'alma adejar pelo infinito,\nQual branca vela n'amplidão dos mares.\nNo seio da mulher há tanto aroma...\nNos seus beijos de fogo há tanta vida...\n–– Árabe errante, vou dormir à tarde\nÀ sombra fresca da palmeira erguida.\nMas uma voz responde-me sombria:\nTerás o sono sob a lájea fria.\nALVES, Castro. Os melhores poemas de Castro Alves. Seleção de Lêdo Ivo. São Paulo: Global, 1983.\nEsse poema, como o próprio título sugere, aborda o inconformismo do poeta com a\nantevisão da morte prematura, ainda na juventude.\nA imagem da morte aparece na palavra\n(A) embalsama.\n(B) infinito.\n(C) amplidão.\n(D) dormir.\n(E) sono."
+  },
+  {
+   "numero": 35,
+   "imagem": "img/enem-2001-q035.webp",
+   "texto": "35\nConsidere os seguintes acontecimentos ocorridos no Brasil:\n- Goiás, 1987 - Um equipamento contendo césio radioativo, utilizado em medicina\nnuclear, foi encontrado em um depósito de sucatas e aberto por pessoa que\ndesconhecia o seu conteúdo. Resultado: mortes e conseqüências ambientais sentidas\naté hoje.\n- Distrito Federal, 1999 - Cilindros contendo cloro, gás bactericida utilizado em\ntratamento de água, encontrados em um depósito de sucatas, foram abertos por pessoa\nque desconhecia o seu conteúdo. Resultado: mortes, intoxicações e conseqüências\nambientais sentidas por várias horas.\nPara evitar que novos acontecimentos dessa natureza venham a ocorrer, foram feitas as\nseguintes propostas para a atuação do Estado:\nI.\nProibir o uso de materiais radioativos e gases tóxicos.\nII.\nControlar rigorosamente a compra, uso e destino de materiais radioativos e de\nrecipientes contendo gases tóxicos.\nIII. Instruir usuários sobre a utilização e descarte destes materiais.\nIV. Realizar campanhas de esclarecimentos à população sobre os riscos da radiação e da\ntoxicidade de determinadas substâncias.\nDessas propostas, são adequadas apenas\n(A) I e II.\n(B) I e III.\n(C) II e III.\n(D) I, III e IV.\n(E) II, III e IV."
+  },
+  {
+   "numero": 36,
+   "imagem": "img/enem-2001-q036.webp",
+   "texto": "36\nO consumo total de energia nas residências brasileiras envolve diversas fontes, como\neletricidade, gás de cozinha, lenha, etc. O gráfico mostra a evolução do consumo de energia\nelétrica residencial, comparada com o consumo total de energia residencial, de 1970 a\n1995.\n50\nConsumo de Energia (x 10 tep)\n6\n40\n30\nenergia total\n20\nenergia elétrica\n10\n0\n1970\n1975\n1980\n1985\n1990\n1995\n*tep = toneladas equivalentes de petróleo\nFonte: valores calculados através dos dados obtidos de: http://infoener.iee.usp.br/1999.\nVerifica-se que a participação percentual da energia elétrica no total de energia gasto nas\nresidências brasileiras cresceu entre 1970 e 1995, passando, aproximadamente, de\n(A) 10% para 40%.\n(B) 10% para 60%.\n(C) 20% para 60%.\n(D) 25% para 35%.\n(E) 40% para 80%."
+  },
+  {
+   "numero": 37,
+   "imagem": "img/enem-2001-q037.webp",
+   "texto": "37\nSegundo um especialista em petróleo (Estado de S. Paulo, 5 de março de 2000), o consumo\ntotal de energia mundial foi estimado em 8,3 bilhões de toneladas equivalentes de petróleo\n(tep) para 2001. A porcentagem das diversas fontes da energia consumida no globo é\nrepresentada no gráfico.\n50\npetróleo\n% da energia mundial\n40\ncarvão\n30\ngás\n20\nnuclear\n10\nhidrelétrica\noutros\n0\nFontes de energia\nSegundo as informações apresentadas, para substituir a energia nuclear utilizada é\nnecessário, por exemplo, aumentar a energia proveniente do gás natural em cerca de\n(A) 10%.\n(B) 18%.\n(C) 25%.\n(D) 33%.\n(E) 50%."
+  },
+  {
+   "numero": 38,
+   "imagem": "img/enem-2001-q038.webp",
+   "texto": "38\nFolha de S. Paulo. 06 de outubro de 1992.\nO problema enfrentado pelo migrante e o sentido da expressão “sustança” expressos nos\nquadrinhos, podem ser, respectivamente, relacionados a\n(A) rejeição / alimentos básicos.\n(B) discriminação / força de trabalho.\n(C) falta de compreensão / matérias-primas.\n(D) preconceito / vestuário.\n(E) legitimidade / sobrevivência."
+  },
+  {
+   "numero": 39,
+   "imagem": "img/enem-2001-q039.webp",
+   "texto": "39\nOs dados da tabela mostram uma tendência de diminuição, no Brasil, do número de filhos\npor mulher.\nEvolução das Taxas de Fecundidade\nÉpoca\nNúmero de filhos por mulher\nSéculo XIX\n7\n1960\n6,2\n1980\n4,01\n1991\n2,9\n1996\n2,32\nFonte: IBGE, contagem da população de 1996.\nDentre as alternativas, a que melhor explica essa tendência é:\n(A) Eficiência da política demográfica oficial por meio de campanhas publicitárias.\n(B) Introdução de legislações específicas que desestimulam casamentos precoces.\n(C) Mudança na legislação que normatiza as relações de trabalho, suspendendo incentivos\npara trabalhadoras com mais de dois filhos.\n(D) Aumento significativo de esterilidade decorrente de fatores ambientais.\n(E) Maior esclarecimento da população e maior participação feminina no mercado de\ntrabalho."
+  },
+  {
+   "numero": 40,
+   "imagem": "img/enem-2001-q040.webp",
+   "texto": "40\nNas últimas eleições presidenciais de um determinado país, onde 9% dos eleitores votaram\nem branco e 11% anularam o voto, o vencedor obteve 51% dos votos válidos. Não são\nconsiderados válidos os votos em branco e nulos.\nPode-se afirmar que o vencedor, de fato, obteve de todos os eleitores um percentual de\nvotos da ordem de\n(A) 38%.\n(B) 41%.\n(C) 44%.\n(D) 47%.\n(E) 50%."
+  },
+  {
+   "numero": 41,
+   "imagem": "img/enem-2001-q041.webp",
+   "texto": "41\nA partir do primeiro semestre de 2000, a ocorrência de casos humanos de febre amarela\nsilvestre extrapolou as áreas endêmicas, com registro de casos em São Paulo e na Bahia,\nonde os últimos casos tinham ocorrido em 1953 e 1948. Para controlar a febre amarela\nsilvestre e prevenir o risco de uma reurbanização da doença, foram propostas as seguintes\nações:\nI.\nExterminar os animais que servem de reservatório do vírus causador da doença.\nII.\nCombater a proliferação do mosquito transmissor.\nIII. Intensificar a vacinação nas áreas onde a febre amarela é endêmica e em suas regiões\nlimítrofes.\nÉ efetiva e possível de ser implementada uma estratégia envolvendo\n(A) a ação II, apenas.\n(B) as ações I e II, apenas.\n(C) as ações I e III, apenas.\n(D) as ações II e III, apenas.\n(E) as ações I, II e III."
+  },
+  {
+   "numero": 42,
+   "imagem": "img/enem-2001-q042.webp",
+   "texto": "42\nNo trecho abaixo, o narrador, ao descrever a personagem, critica sutilmente um outro estilo\nde época: o romantismo.\n“Naquele tempo contava apenas uns quinze ou dezesseis anos; era talvez a mais atrevida\ncriatura da nossa raça, e, com certeza, a mais voluntariosa. Não digo que já lhe coubesse a\nprimazia da beleza, entre as mocinhas do tempo, porque isto não é romance, em que o autor\nsobredoura a realidade e fecha os olhos às sardas e espinhas; mas também não digo que lhe\nmaculasse o rosto nenhuma sarda ou espinha, não. Era bonita, fresca, saía das mãos da\nnatureza, cheia daquele feitiço, precário e eterno, que o indivíduo passa a outro indivíduo,\npara os fins secretos da criação.”\nASSIS, Machado de. Memórias Póstumas de Brás Cubas. Rio de Janeiro: Jackson,1957.\nA frase do texto em que se percebe a crítica do narrador ao romantismo está transcrita na\nalternativa:\n(A) ... o autor sobredoura a realidade e fecha os olhos às sardas e espinhas ...\n(B) ... era talvez a mais atrevida criatura da nossa raça ...\n(C) Era bonita, fresca, saía das mãos da natureza, cheia daquele feitiço, precário e eterno, ...\n(D) Naquele tempo contava apenas uns quinze ou dezesseis anos ...\n(E) ... o indivíduo passa a outro indivíduo, para os fins secretos da criação."
+  },
+  {
+   "numero": 43,
+   "imagem": "img/enem-2001-q043.webp",
+   "texto": "43\nBoa parte da água utilizada nas mais diversas atividades humanas não retorna ao ambiente\ncom qualidade para ser novamente consumida. O gráfico mostra alguns dados sobre esse\nfato, em termos dos setores de consumo.\nConsumo e restituição de água no mundo\n(em bilhões de m³ / ano)\n3500\n3000\n2500\nColetividade\n2000\nIndústria e energia\n1500\nAgricultura\n1000\nTotal\n500\n0\nConsumo\nRestituição sem qualidade\nFonte: Adaptado de MARGAT, Jean-François. A água ameaçada pelas atividades humanas. In WIKOWSKI, N. (Coord).\nCiência e tecnologia hoje. São Paulo: Ensaio, 1994.\nCom base nesses dados, é possível afirmar que\n(A) mais da metade da água usada não é devolvida ao ciclo hidrológico.\n(B) as atividades industriais são as maiores poluidoras de água.\n(C) mais da metade da água restituída sem qualidade para o consumo contém algum teor\nde agrotóxico ou adubo.\n(D) cerca de um terço do total da água restituída sem qualidade é proveniente das\natividades energéticas.\n(E) o consumo doméstico, dentre as atividades humanas, é o que mais consome e repõe\nágua com qualidade."
+  },
+  {
+   "numero": 44,
+   "imagem": "img/enem-2001-q044.webp",
+   "texto": "44\nO gráfico compara o número de homicídios por grupo de 100.000 habitantes entre 1995 e\n1998 nos EUA, em estados com e sem pena de morte.\n40\nHomicídios por 100.000\n30\n20\n10\n0\n1995\n1996\n1997\n1998\nano\nEstados com pena de morte\nEstados sem pena de morte\nCarta Capital, 6 de dezembro de 2000.\nCom base no gráfico, pode-se afirmar que\n(A) a taxa de homicídios cresceu apenas nos estados sem pena de morte.\n(B) nos estados com pena de morte a taxa de homicídios é menor que nos estados sem\npena de morte.\n(C) no período considerado, os estados com pena de morte apresentaram taxas maiores de\nhomicídios.\n(D) entre 1996 e 1997, a taxa de homicídios permaneceu estável nos estados com pena de\nmorte.\n(E) a taxa de homicídios nos estados com pena de morte caiu pela metade no período\nconsiderado."
+  },
+  {
+   "numero": 45,
+   "imagem": "img/enem-2001-q045.webp",
+   "texto": "45\nO texto abaixo reproduz parte de um diálogo entre dois personagens de um romance.\n-\nQuer dizer que a Idade Média durou dez horas? – Perguntou Sofia.\n-\nSe cada hora valer cem anos, então sua conta está certa. Podemos imaginar que Jesus\nnasceu à meia-noite, que Paulo saiu em peregrinação missionária pouco antes da meia-\nnoite e meia e morreu quinze minutos depois, em Roma. Até as três da manhã a fé cristã\nfoi mais ou menos proibida. (...) Até as dez horas as escolas dos mosteiros detiveram o\nmonopólio da educação. Entre dez e onze horas são fundadas as primeiras\nuniversidades.\nAdaptado de GAARDER, Jostein. O Mundo de Sofia, Romance da História da Filosofia. São Paulo: Cia das Letras, 1997.\nO ano de 476 d.C., época da queda do Império Romano do Ocidente, tem sido usado como\nmarco para o início da Idade Média. De acordo com a escala de tempo apresentada no\ntexto, que considera como ponto de partida o início da Era Cristã, pode-se afirmar que\n(A) as Grandes Navegações tiveram início por volta das quinze horas.\n(B) a Idade Moderna teve início um pouco antes das dez horas.\n(C) o Cristianismo começou a ser propagado na Europa no início da Idade Média.\n(D) as peregrinações do apóstolo Paulo ocorreram após os primeiros 150 anos da Era\nCristã.\n(E) os mosteiros perderam o monopólio da educação no final da Idade Média."
+  },
+  {
+   "numero": 46,
+   "imagem": "img/enem-2001-q046.webp",
+   "texto": "46\nDe acordo com reportagem sobre resultados recentes de estudos populacionais,\n\"... a população mundial deverá ser de 9,3 bilhões de pessoas em 2050. Ou seja, será 50%\nmaior que os 6,1 bilhões de meados do ano 2000.(...) Essas são as principais conclusões do\nrelatório Perspectivas da População Mundial – Revisão 2000, preparado pela Organização\ndas Nações Unidas (ONU). (...) Apenas seis países respondem por quase metade desse\naumento: Índia (21%), China (12%), Paquistão (5%), Nigéria (4%), Bangladesh (4%) e\nIndonésia (3%).\nEsses elevados índices de expansão contrastam com os dos países mais desenvolvidos.\nEm 2000, por exemplo, a população da União Européia teve um aumento de 343 mil pessoas,\nenquanto a Índia alcançou esse mesmo crescimento na primeira semana de 2001. (...)\nOs Estados Unidos serão uma exceção no grupo dos países desenvolvidos. O país se\ntornará o único desenvolvido entre os 20 mais populosos do mundo.\"\nO Estado de S. Paulo, 03 de março de 2001.\nConsiderando as causas determinantes de crescimento populacional, pode-se afirmar que,\n(A)\nna Europa, altas taxas de crescimento vegetativo explicam o seu crescimento\npopulacional em 2000.\n(B)\nnos países citados, baixas taxas de mortalidade infantil e aumento da expectativa de\nvida são as responsáveis pela tendência de crescimento populacional.\n(C)\nnos Estados Unidos, a atração migratória representa um importante fator que poderá\ncolocá-lo entre os países mais populosos do mundo.\n(D)\nnos países citados, altos índices de desenvolvimento humano explicam suas altas\ntaxas de natalidade.\n(E)\nnos países asiáticos e africanos, as condições de vida favorecem a reprodução\nhumana."
+  },
+  {
+   "numero": 47,
+   "imagem": "img/enem-2001-q047.webp",
+   "texto": "47\n“...O Brasil tem potencial para produzir pelo menos 15 mil megawatts por hora de energia a\npartir de fontes alternativas.\nSomente nos Estados da região Sul, o potencial de geração de energia por intermédio das\nsobras agrícolas e florestais é de 5.000 megawatts por hora.\nPara se ter uma idéia do que isso representa, a usina hidrelétrica de Ita, uma das maiores do\npaís, na divisa entre o Rio Grande do Sul e Santa Catarina, gera 1.450 megawatts de energia\npor hora.”\nEsse texto, transcrito de um jornal de grande circulação, contém, pelo menos, um erro\nconceitual ao apresentar valores de produção e de potencial de geração de energia. Esse\nerro consiste em\n(A) apresentar valores muito altos para a grandeza energia.\n(B) usar unidade megawatt para expressar os valores de potência.\n(C) usar unidades elétricas para biomassa.\n(D) fazer uso da unidade incorreta megawatt por hora.\n(E) apresentar valores numéricos incompatíveis com as unidades."
+  },
+  {
+   "numero": 48,
+   "imagem": "img/enem-2001-q048.webp",
+   "texto": "48\nA pesca não predatória pressupõe que cada peixe retirado de seu hábitat já tenha procriado,\npelo menos uma vez. Para algumas espécies, isso ocorre depois dos peixes apresentarem a\nmáxima variação anual de seu peso.\nO controle de pesca no Pantanal é feito com base no peso de cada espécie.\nA tabela fornece o peso do pacu, uma dessas espécies, em cada ano.\nIdade (anos)\n1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12 13\nPeso (kg)\n1,1 1,7 2,6 3,9 5,1 6,1\n7\n7,8 8,5 8,9 9,1 9,3 9,4\nConsiderando esses dados, a pesca do pacu deve ser autorizada para espécimes com peso\nde, no mínimo,\n(A)\n4 kg.\n(B)\n5 kg.\n(C)\n7 kg.\n(D)\n9 kg.\n(E) 11 kg.\nA refrigeração e o congelamento de alimentos são responsáveis por uma parte significativa\ndo consumo de energia elétrica numa residência típica."
+  },
+  {
+   "numero": 49,
+   "imagem": "img/enem-2001-q049.webp",
+   "texto": "49\nPara diminuir as perdas térmicas de uma geladeira, podem ser tomados alguns cuidados\noperacionais:\nI.\nDistribuir os alimentos nas prateleiras deixando espaços vazios entre eles, para que\nocorra a circulação do ar frio para baixo e do quente para cima.\nII.\nManter as paredes do congelador com camada bem espessa de gelo, para que o\naumento da massa de gelo aumente a troca de calor no congelador.\nIII. Limpar o radiador (\"grade\" na parte de trás) periodicamente, para que a gordura e a\npoeira que nele se depositam não reduzam a transferência de calor para o ambiente.\nPara uma geladeira tradicional é correto indicar, apenas,\n(A) a operação I.\n(B) a operação II.\n(C) as operações I e II.\n(D) as operações I e III.\n(E) as operações II e III."
+  },
+  {
+   "numero": 50,
+   "imagem": "img/enem-2001-q050.webp",
+   "texto": "50\nA padronização insuficiente e a ausência de controle na fabricação podem também resultar em\nperdas significativas de energia através das paredes da geladeira. Essas perdas, em função da\nespessura das paredes, para geladeiras e condições de uso típicas, são apresentadas na tabela.\nEspessura das paredes (cm)\nPerda térmica mensal (kWh)\n2\n65\n4\n35\n6\n25\n10\n15\nConsiderando uma família típica, com consumo médio mensal de 200 kWh, a perda térmica\npelas paredes de uma geladeira com 4 cm de espessura, relativamente a outra de 10 cm,\ncorresponde a uma porcentagem do consumo total de eletricidade da ordem de\n(A) 30%.\n(B) 20%.\n(C) 10%.\n(D) 5%.\n(E) 1%."
+  },
+  {
+   "numero": 51,
+   "imagem": "img/enem-2001-q051.webp",
+   "texto": "51\nA figura mostra o tubo de imagens dos aparelhos de televisão usado para produzir as\nimagens sobre a tela. Os elétrons do feixe emitido pelo canhão eletrônico são acelerados\npor uma tensão de milhares de volts e passam por um espaço entre bobinas onde são\ndefletidos por campos magnéticos variáveis, de forma a fazerem a varredura da tela.\nNos manuais que acompanham os televisores é comum encontrar, entre outras, as seguintes\nrecomendações:\nI.\nNunca abra o gabinete ou toque as peças no interior do televisor.\nII.\nNão coloque seu televisor próximo de aparelhos domésticos com motores elétricos ou\nímãs.\nEstas recomendações estão associadas, respectivamente, aos aspectos de\n(A) riscos pessoais por alta tensão / perturbação ou deformação de imagem por campos externos.\n(B) proteção dos circuitos contra manipulação indevida / perturbação ou deformação de\nimagem por campos externos.\n(C) riscos pessoais por alta tensão / sobrecarga dos circuitos internos por ações externas.\n(D) proteção dos circuitos contra a manipulação indevida / sobrecarga da rede por fuga de\ncorrente.\n(E) proteção dos circuitos contra manipulação indevida / sobrecarga dos circuitos internos\npor ação externa."
+  },
+  {
+   "numero": 52,
+   "imagem": "img/enem-2001-q052.webp",
+   "texto": "52\nA tabela apresenta a taxa de desemprego dos jovens entre 15 e 24 anos estratificada com\nbase em diferentes categorias.\nRegião\nHomens\nMulheres\nNorte\n15,3\n23,8\nNordeste\n10,7\n18,8\nCentro-Oeste\n13,3\n20,6\nSul\n11,6\n19,4\nSudeste\n16,9\n25,7\nGrau de Instrução\nMenos de 1 ano\n7,4\n16,1\nDe 1 a 3 anos\n8,9\n16,4\nDe 4 a 7 anos\n15,1\n22,8\nDe 8 a 10 anos\n17,8\n27,8\nDe 11 a 14 anos\n12,6\n19,6\nMais de 15 anos\n11,0\n7,3\nFonte: PNAD/IBGE, 1998.\nConsiderando apenas os dados acima e analisando as características de candidatos a\nemprego, é possível concluir que teriam menor chance de consegui-lo,\n(A) mulheres, concluintes do ensino médio, moradoras da cidade de São Paulo.\n(B) mulheres, concluintes de curso superior, moradoras da cidade do Rio de Janeiro.\n(C) homens, com curso de pós-graduação, moradores de Manaus.\n(D) homens, com dois anos do ensino fundamental, moradores de Recife.\n(E) mulheres, com ensino médio incompleto, moradoras de Belo Horizonte."
+  },
+  {
+   "numero": 53,
+   "imagem": "img/enem-2001-q053.webp",
+   "texto": "53\nEm um colégio, 40% da arrecadação das mensalidades correspondem ao pagamento dos\nsalários dos seus professores. A metade dos alunos desse colégio é de estudantes carentes,\nque pagam mensalidades reduzidas. O diretor propôs um aumento de 5% nas mensalidades\nde todos os alunos para cobrir os gastos gerados por reajuste de 5% na folha de pagamento\ndos professores.\nA associação de pais e mestres concorda com o aumento nas mensalidades mas não com o\níndice proposto.\nPode-se afirmar que\n(A) o diretor fez um cálculo incorreto e o reajuste proposto nas mensalidades não é\nsuficiente para cobrir os gastos adicionais.\n(B) o diretor fez os cálculos corretamente e o reajuste nas mensalidades que ele propõe\ncobrirá exatamente os gastos adicionais.\n(C) a associação está correta em não concordar com o índice proposto pelo diretor, pois a\narrecadação adicional baseada nesse índice superaria em muito os gastos adicionais.\n(D) a associação, ao recusar o índice de reajuste proposto pelo diretor, não levou em conta\no fato de alunos carentes pagarem mensalidades reduzidas.\n(E) o diretor deveria ter proposto um reajuste maior nas mensalidades, baseado no fato de\nque a metade dos alunos paga mensalidades reduzidas."
+  },
+  {
+   "numero": 54,
+   "imagem": "img/enem-2001-q054.webp",
+   "texto": "54\nOs textos referem-se à integração do índio à chamada civilização brasileira.\nI - “Mais uma vez, nós, os povos indígenas, somos vítimas de um pensamento que separa e\nque tenta nos eliminar cultural, social e até fisicamente. A justificativa é a de que somos\napenas 250 mil pessoas e o Brasil não pode suportar esse ônus.(...) É preciso congelar essas\nidéias colonizadoras, porque elas são irreais e hipócritas e também genocidas.(...) Nós, índios,\nqueremos falar, mas queremos ser escutados na nossa língua, nos nossos costumes.”\nMarcos Terena, presidente do Comitê Intertribal Articulador dos Direitos Indígenas na ONU e fundador das Nações Indígenas,\nFolha de S. Paulo, 31 de agosto de 1994.\nII - “O Brasil não terá índios no final do século XXI (...) E por que isso? Pela razão muito\nsimples que consiste no fato de o índio brasileiro não ser distinto das demais comunidades\nprimitivas que existiram no mundo. A história não é outra coisa senão um processo\ncivilizatório, que conduz o homem, por conta própria ou por difusão da cultura, a passar do\npaleolítico ao neolítico e do neolítico a um estágio civilizatório.”\nHélio Jaguaribe, cientista político, Folha de S. Paulo, 2 de setembro de 1994.\nPode-se afirmar, segundo os textos, que\n(A) tanto Terena quanto Jaguaribe propõem idéias inadequadas, pois o primeiro deseja a\naculturação feita pela “civilização branca”, e o segundo, o confinamento de tribos.\n(B) Terena quer transformar o Brasil numa terra só de índios, pois pretende mudar até\nmesmo a língua do país, enquanto a idéia de Jaguaribe é anticonstitucional, pois fere o\ndireito à identidade cultural dos índios.\n(C) Terena compreende que a melhor solução é que os brancos aprendam a língua tupi\npara entender melhor o que dizem os índios. Jaguaribe é de opinião que, até o final do\nséculo XXI, seja feita uma limpeza étnica no Brasil.\n(D) Terena defende que a sociedade brasileira deve respeitar a cultura dos índios e\nJaguaribe acredita na inevitabilidade do processo de aculturação dos índios e de sua\nincorporação à sociedade brasileira.\n(E) Terena propõe que a integração indígena deve ser lenta, gradativa e progressiva, e\nJaguaribe propõe que essa integração resulte de decisão autônoma das comunidades\nindígenas."
+  },
+  {
+   "numero": 55,
+   "imagem": "img/enem-2001-q055.webp",
+   "texto": "55\nO quadro apresenta as 10 cidades mais populosas do mundo em 1900 e os resultados de\nprojeções das populações para 2001 e 2015.\n1900\nPop.*\n2001\nPop.*\n2015\nPop.*\nLondres\n6,6\nTóquio\n29\nTóquio\n29\nNova York\n3,4\nCidade do México\n18\nBombaim\n26\nParis\n2,7\nSão Paulo\n17\nLagos, Nigéria\n25\nBerlim\n1,9\nBombaim\n17\nSão Paulo\n20\nChicago\n1,7\nNova York\n16\nKarachi, Paquistão\n19\nViena\n1,7\nXangai\n14\nDacar, Bangladesh\n19\nTóquio\n1,5\nLos Angeles\n13\nCidade do México\n19\nWuhan, China\n1,5\nLagos, Nigéria\n13\nXangai\n18\nFiladélfia\n1,3\nCalcutá\n13\nNova York\n18\nSão Petersburgo\n1,3\nBuenos Aires\n12\nCalcutá\n17\n* em milhões de habitantes\nRevista Veja, 24 de janeiro de 2001.\nAs variações populacionais apresentadas no quadro permitem observar que\n(A) as maiores cidades do mundo atual devem crescer mais nos primeiros 15 anos deste\nséculo do que cresceram em todo o século XX.\n(B) atualmente as cidades mais populosas do mundo pertencem aos países\nsubdesenvolvidos.\n(C) Tóquio, que hoje é a maior cidade do mundo, no início do século XX ainda não era\nconsiderada uma grande cidade.\n(D) no início do século XX, as cidades com mais de 1 milhão de habitantes estavam\nlocalizadas em países que hoje são desenvolvidos.\n(E) o crescimento populacional das grandes cidades, nas primeiras décadas do século XXI,\nocorrerá principalmente nos países hoje subdesenvolvidos."
+  },
+  {
+   "numero": 56,
+   "imagem": "img/enem-2001-q056.webp",
+   "texto": "56\nDados do Censo Brasileiro 2000 mostram que, na última década, o número de favelas tem\ncrescido consideravelmente, com significativa alteração na sua distribuição pelas regiões do\nPaís.\nConsiderando a dinâmica migratória do período, pode-se afirmar que esse processo está\nrelacionado\n(A) ao declínio acentuado da industrialização no Sudeste, que deslocou grandes parcelas\nda população urbana para outras regiões do país.\n(B) à ampliação do número de zonas francas de comércio em grandes metrópoles, o que\natraiu a população rural para essas áreas.\n(C) ao deslocamento das correntes migratórias rurais para os cinturões verdes criados em\ntorno dos centros urbanos.\n(D) à instalação, na Região Nordeste, de inúmeras empresas de alta tecnologia, atraindo\nde volta a população que migrara para o Sudeste.\n(E) à mudança no destino das correntes migratórias, que passaram a buscar as cidades de\nmédio e grande portes, além de São Paulo e Rio de Janeiro."
+  },
+  {
+   "numero": 57,
+   "imagem": "img/enem-2001-q057.webp",
+   "texto": "57\nO texto foi extraído da peça Tróilo e Créssida de William Shakespeare, escrita,\nprovavelmente, em 1601.\n“Os próprios céus, os planetas, e este centro\nreconhecem graus, prioridade, classe,\nconstância, marcha, distância, estação, forma,\nfunção e regularidade, sempre iguais;\neis porque o glorioso astro Sol\nestá em nobre eminência entronizado\ne centralizado no meio dos outros,\ne o seu olhar benfazejo corrige\nos maus aspectos dos planetas malfazejos,\ne, qual rei que comanda, ordena\nsem entraves aos bons e aos maus.\"\n(personagem Ulysses, Ato I, cena III).\nSHAKESPEARE, W. Tróilo e Créssida: Porto: Lello & Irmão, 1948.\nA descrição feita pelo dramaturgo renascentista inglês se aproxima da teoria\n(A) geocêntrica do grego Claudius Ptolomeu.\n(B) da reflexão da luz do árabe Alhazen.\n(C) heliocêntrica do polonês Nicolau Copérnico.\n(D) da rotação terrestre do italiano Galileu Galilei.\n(E) da gravitação universal do inglês Isaac Newton."
+  },
+  {
+   "numero": 58,
+   "imagem": "img/enem-2001-q058.webp",
+   "texto": "58\nO quadro apresenta a produção de algodão de uma cooperativa de agricultores entre 1995\ne 1999.\nSafra\n1995\n1996\n1997\n1998\n1999\nProdução\n30\n40\n50\n60\n80\n(em mil toneladas)\nProdutividade\n1.500\n2.500\n2.500\n2.500\n4.000\n(em kg/hectare)\nO gráfico que melhor representa a área plantada (AP) no período considerado é:\n(A)\n(B)\n(C)\n(D)\n(E)"
+  },
+  {
+   "numero": 59,
+   "imagem": "img/enem-2001-q059.webp",
+   "texto": "59\nO gráfico mostra a porcentagem da força de trabalho brasileira em 40 anos, com relação aos\nsetores agrícola, de serviços e industrial/mineral.\n1940\n1960\n1980\n70\n60\n50\nAgricultura\n% 40\nServiços\nIndústria/mineração\n30\n20\n10\n0\nA leitura do gráfico permite constatar que:\n(A) Em 40 anos, o Brasil deixou de ser essencialmente agrícola para se tornar uma\nsociedade quase que exclusivamente industrial.\n(B) A variação da força de trabalho agrícola foi mais acentuada no período de 1940 a\n1960.\n(C) Por volta de 1970, a força de trabalho agrícola tornou-se equivalente à industrial e de\nmineração.\n(D) Em 1980, metade dos trabalhadores brasileiros constituía a força de trabalho do setor\nagrícola.\n(E) De 1960 a 1980, foi equivalente o crescimento percentual de trabalhadores nos setores\nindustrial/mineral e de serviços."
+  },
+  {
+   "numero": 60,
+   "imagem": "img/enem-2001-q060.webp",
+   "texto": "60\nA Mata Atlântica, que originalmente se estendia por todo o litoral brasileiro, do Ceará ao\nRio Grande do Sul, ostenta hoje o triste título de uma das florestas mais devastadas do\nmundo. Com mais de 1 milhão de quilômetros quadrados, hoje restam apenas 5% da\nvegetação original, como mostram as figuras.\nAdaptado Atlas Nacional do Brasil, IBGE, 1992/ http://www.sosmatatlantica.org.br\nConsiderando as características histórico-geográficas do Brasil e a partir da análise das\nfiguras é correto afirmar que\n(A) as transformações climáticas, especialmente na Região Nordeste, interferiram\nfortemente na diminuição dessa floresta úmida.\n(B) nas três últimas décadas, o grau de desenvolvimento regional impediu que a\ndevastação da Mata Atlântica fosse maior do que a registrada.\n(C) as atividades agrícolas, aliadas ao extrativismo vegetal, têm se constituído, desde o\nperíodo colonial, na principal causa da devastação da Mata Atlântica.\n(D) a taxa de devastação dessa floresta tem seguido o sentido oposto ao do crescimento\npopulacional de cada uma das Regiões afetadas.\n(E) o crescimento industrial, na década de 50, foi o principal fator de redução da cobertura\nvegetal na faixa litorânea do Brasil, especialmente da região Nordeste."
+  },
+  {
+   "numero": 61,
+   "imagem": "img/enem-2001-q061.webp",
+   "texto": "61\nA população rural do Brasil tem decrescido nas últimas décadas. De acordo com dados do\nIBGE, na década de 80, a população rural era de aproximadamente 37 milhões; no ano\n2000 havia cerca de 31 milhões de brasileiros morando no campo. O gráfico apresenta o\ncomportamento da agricultura no Brasil nas duas últimas décadas em relação à produção e\nà área cultivada.\nAdaptado de Boletim Técnico O agrônomo, Instituto Agronômico de Campinas,\nVolume 51, nº 213, 1999.\nLevando em consideração as mudanças ocorridas no campo nas últimas duas décadas e\nanalisando o comportamento do gráfico, é correto afirmar que\n(A) as áreas destinadas à lavoura têm aumentado consideravelmente, graças ao\ncrescimento do mercado consumidor.\n(B) a produção agrícola aumentou juntamente com a área cultivada, devido à abertura do\nmercado para exportação.\n(C) a densidade demográfica nas áreas cultivadas tem crescido junto com a produção\nagrícola.\n(D) a área destinada à agricultura não aumentou, mas a produtividade tem crescido,\ngraças à aplicação de novas tecnologias.\n(E) a produção agrícola do País cresceu no período considerado, enquanto a produtividade\ndo homem do campo diminuiu."
+  },
+  {
+   "numero": 62,
+   "imagem": "img/enem-2001-q062.webp",
+   "texto": "62\nRui Guerra e Chico Buarque de Holanda escreveram uma peça para teatro chamada Calabar,\npondo em dúvida a reputação de traidor que foi atribuída a Calabar, pernambucano que\najudou decisivamente os holandeses na invasão do Nordeste brasileiro, em 1632.\n- Calabar traiu o Brasil que ainda não existia? Traiu Portugal, nação que explorava a\ncolônia onde Calabar havia nascido? Calabar, mulato em uma sociedade escravista e\ndiscriminatória, traiu a elite branca?\nOs textos referem-se também a esta personagem.\nTexto I: “...dos males que causou à Pátria, a História, a inflexível História, lhe chamará infiel,\ndesertor e traidor, por todos os séculos”\nVisconde de Porto Seguro, in: SOUZA JÚNIOR, A. Do Recôncavo aos Guararapes. Rio de Janeiro: Bibliex, 1949.\nTexto II: “Sertanista experimentado, em 1627 procurava as minas de Belchior Dias com a\ngente da Casa da Torre; ajudara Matias de Albuquerque na defesa do Arraial, onde fora\nferido, e desertara em conseqüência de vários crimes praticados...” (os crimes referidos são o\nde contrabando e roubo).\nCALMON, P. História do Brasil. Rio de Janeiro: José Olympio, 1959.\nPode-se afirmar que:\n(A) A peça e os textos abordam a temática de maneira parcial e chegam às mesmas\nconclusões.\n(B) A peça e o texto I refletem uma postura tolerante com relação à suposta traição de\nCalabar, e o texto II mostra uma posição contrária à atitude de Calabar.\n(C) Os textos I e II mostram uma postura contrária à atitude de Calabar, e a peça\ndemonstra uma posição indiferente em relação ao seu suposto ato de traição.\n(D) A peça e o texto II são neutros com relação à suposta traição de Calabar, ao contrário\ndo texto I, que condena a atitude de Calabar.\n(E) A peça questiona a validade da reputação de traidor que o texto I atribui a Calabar,\nenquanto o texto II descreve ações positivas e negativas dessa personagem."
+  },
+  {
+   "numero": 63,
+   "imagem": "img/enem-2001-q063.webp",
+   "texto": "63\nSEU OLHAR\n(Gilberto Gil, 1984)\nNa eternidade\nEu quisera ter\nTantos anos-luz\nQuantos fosse precisar\nPra cruzar o túnel\nDo tempo do seu olhar\nGilberto Gil usa na letra da música a palavra composta anos-\nanos - luz.\nluz O sentido prático, em\ngeral, não é obrigatoriamente o mesmo que na ciência. Na Física, um ano luz é uma medida\nque relaciona a velocidade da luz e o tempo de um ano e que, portanto, se refere a\n(A) tempo.\n(B) aceleração.\n(C) distância.\n(D) velocidade.\n(E) luminosidade."
+  }
+ ]
+}

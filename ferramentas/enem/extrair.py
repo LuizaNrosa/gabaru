@@ -75,6 +75,60 @@ def calcular_calha(pages):
     return g
 
 
+def carregar_ocr(pdf, tessdata="/tmp/tessdata", dpi=200):
+    """Alternativa ao pdftotext para PDFs com camada de texto corrompida: OCR (tesseract, por) por página."""
+    import csv, io, tempfile, hashlib
+    cache = Path("/tmp/enem/ocr") / (Path(pdf).stem + ".json")
+    if cache.exists():
+        return json.load(open(cache))
+    cache.parent.mkdir(parents=True, exist_ok=True)
+    info = subprocess.run(["pdfinfo", pdf], capture_output=True, text=True).stdout
+    n = int(re.search(r"Pages:\s+(\d+)", info).group(1))
+    f = 72.0 / dpi
+    pages = []
+    with tempfile.TemporaryDirectory() as td:
+        for pi in range(1, n + 1):
+            base = os.path.join(td, "p")
+            subprocess.run(["pdftoppm", "-r", str(dpi), "-f", str(pi), "-l", str(pi), "-gray", "-png", "-singlefile", pdf, base], check=True)
+            im = Image.open(base + ".png")
+            W, H = im.width * f, im.height * f
+            r = subprocess.run(["tesseract", base + ".png", "stdout", "-l", "por", "--tessdata-dir", tessdata, "--psm", "3", "tsv"],
+                               capture_output=True, text=True)
+            rows = list(csv.DictReader(io.StringIO(r.stdout), delimiter="\t", quoting=csv.QUOTE_NONE))
+            grupos = {}
+            for w in rows:
+                if w["level"] != "5" or not (w["text"] or "").strip():
+                    continue
+                k = (w["block_num"], w["par_num"], w["line_num"])
+                x0, y0, ww, hh = int(w["left"]) * f, int(w["top"]) * f, int(w["width"]) * f, int(w["height"]) * f
+                grupos.setdefault(k, []).append((x0, y0, x0 + ww, y0 + hh, w["text"]))
+            lines = []
+            for ws in grupos.values():
+                ws.sort()
+                lines.append(dict(x0=ws[0][0], y0=min(w[1] for w in ws), x1=max(w[2] for w in ws), y1=max(w[3] for w in ws),
+                                  text=" ".join(w[4] for w in ws), words=ws))
+            lines.sort(key=lambda l: (l["y0"], l["x0"]))
+            pages.append(dict(W=W, H=H, lines=lines))
+            os.remove(base + ".png")
+    json.dump(pages, open(cache, "w"))
+    return pages
+
+
+def texto_ilegivel(pages):
+    """True se a camada de texto parece lixo (poucas linhas com palavras funcionais do português)."""
+    palavras = re.compile(r"\b(de|que|o|a|os|as|e|do|da|em|para|um|uma|com|não|se)\b", re.I)
+    linhas = [l["text"] for p in pages[2:10] for l in p["lines"] if len(l["text"].split()) >= 5]
+    if len(linhas) < 20:
+        return False
+    return sum(1 for t in linhas if palavras.search(t)) / len(linhas) < 0.45
+
+
+def finalizar_paginas(pages):
+    calcular_calha(pages)
+    calcular_gm(pages)
+    return pages
+
+
 def calcular_gm(pages):
     """Âncora de coluna dos marcadores 'Questão' (maior vão entre os x0 dos rótulos)."""
     xs = sorted(l["x0"] for p in pages for l in p["lines"] if re.match(r"^QUESTÃO(\s+\d{1,3})?$", l["text"].strip(), re.I))
@@ -182,6 +236,7 @@ def recortar(pdf, pecas, destino, regua=False):
 
 
 _CACHE = {}
+EXTRAS = []  # marcadores injetados à mão: [pagina_idx, y, numero, coluna]
 REGUA = [False]
 FOLGA = [-3.0]  # fim da questão anterior = y0 do marcador + FOLGA (muda em provas com marcador colado)
 
@@ -239,12 +294,13 @@ def achar_marcadores(pg):
             pg["xr"].append(l["x0"])
         if m:
             out.append((l["y0"], int(m.group(1)), 0 if l["x0"] < pg.get("Gm", pg["G"]) else 1))
-        elif len(l["words"]) > 2 and re.search(r"QUESTÃO\s+\d{1,3}$", t, re.I):
+        elif len(l["words"]) > 2 and re.search(r"QUEST[ÃA]O\s+\d{1,3}\b", t, re.I):
             ws = l["words"]
-            if ws[-2][4].upper() == "QUESTÃO" and re.match(r"^\d{1,3}$", ws[-1][4]):
-                out.append((l["y0"], int(ws[-1][4]), 0 if ws[-2][0] < pg.get("Gm", pg["G"]) else 1))
-                if ws[-2][0] >= pg.get("Gm", pg["G"]):
-                    pg["xr"].append(ws[-2][0])
+            for i in range(len(ws) - 1):
+                if ws[i][4].upper() == "QUESTÃO" and re.match(r"^\d{1,3}$", ws[i + 1][4]):
+                    out.append((ws[i][1], int(ws[i + 1][4]), 0 if ws[i][0] < pg.get("Gm", pg["G"]) else 1))
+                    if ws[i][0] >= pg.get("Gm", pg["G"]):
+                        pg["xr"].append(ws[i][0])
         elif RE_Q0.match(t):
             for n in pg["lines"]:
                 if n is l:
@@ -319,11 +375,34 @@ def processar_moderno(pdf, pages, saida, rotulo):
     for pi, pg in enumerate(pages):
         W = pg["W"]
         pg["marc"] = pg["marc_fixed"] if "marc_fixed" in pg else achar_marcadores(pg)
+        pg["marc"] = sorted(pg["marc"] + [(e[1], e[2], e[3]) for e in EXTRAS if e[0] == pi])
         pg["comp"] = []
         for l in pg["lines"]:
             m = RE_TXT.match(l["text"].strip())
             if m and l["y0"] > 30:
                 pg["comp"].append((l["y0"], faixa_texto(m.group(3)), 0 if l["x0"] < pg.get("Gm", pg["G"]) else 1))
+    # provas recentes: questões 1–5 aparecem duas vezes (opção inglês / opção espanhol); espanhol vira 101–105
+    lang = None
+    for pg in pages:
+        ev = []
+        for l in pg["lines"]:
+            m = re.search(r"op[çc][ãa]o:?\s+(ingl[êe]s|espanhol)", l["text"], re.I)
+            if m:
+                ev.append((0 if l["x0"] < pg.get("Gm", pg["G"]) else 1, l["y0"], "h", m.group(1).lower()))
+            elif re.match(r"^Quest[õo]es de 06", l["text"].strip(), re.I):
+                ev.append((0 if l["x0"] < pg.get("Gm", pg["G"]) else 1, l["y0"], "h", None))
+        for (y, q, c) in pg["marc"]:
+            ev.append((c, y, "m", q))
+        ev.sort(key=lambda e: (e[0], e[1]))
+        novos = []
+        for (c, y, t, v) in ev:
+            if t == "h":
+                lang = None if v is None else ("espanhol" if v.startswith("esp") else "ingles")
+            else:
+                if v > 5:
+                    lang = None
+                novos.append((y, v + 100 if (lang == "espanhol" and v <= 5) else v, c))
+        pg["marc"] = sorted(novos)
     com = [i for i, p in enumerate(pages) if p["marc"]]
     if not com:
         return {}, set()
@@ -331,21 +410,42 @@ def processar_moderno(pdf, pages, saida, rotulo):
     topo_linha = min(m[0] for i in com for m in pages[i]["marc"]) - 3
     atual = None
     pecas, largos, compart = {}, set(), {}
-    for pi in range(ini, fim + 1):
+    atual_largo = None  # questão de largura total que continua na página seguinte (ampliadas)
+    for pi in range(ini, min(len(pages), fim + 3)):
+        if pi > fim and atual_largo is None:
+            break
         pg = pages[pi]
-        if not pg["marc"]:
-            continue
         W, H = pg["W"], pg["H"]
         rod = [l["y0"] for l in pg["lines"] if RE_RODAPE_PG.search(l["text"]) and l["y0"] > H * 0.8]
         if rod:
             base = min(rod) - 3
         else:
-            rod2 = [l["y0"] for l in pg["lines"] if l["y0"] > H * 0.9 and re.search(r"AMARELA|PROVA|ENEM|^\d{1,2}$", l["text"].strip())]
-            base = (min(rod2) - 0.5) if rod2 else H - 30
+            rod2 = [l["y0"] for l in pg["lines"] if l["y0"] > H * 0.9 and re.search(r"AMARELA|PROVA|ENEM", l["text"].strip())]
+            # número de página só vale se estiver na linha de algum rodapé textual (senão pode ser alternativa "7", "9")
+            rod2 += [l["y0"] for l in pg["lines"] if l["y0"] > H * 0.9 and re.match(r"^\d{1,2}$", l["text"].strip()) and any(abs(l["y0"] - r) < 4 for r in rod2)]
+            base = (min(rod2) - 3) if rod2 else H - 30
+        for l in pg["lines"]:
+            if re.search(r"Transcreva a sua Reda", l["text"]):  # início do rascunho da redação na mesma folha
+                base = min(base, l["y0"] - 48)
         topo = topo_linha
+        if atual_largo is not None and pi > fim:
+            # páginas depois da última questão: só vale continuação de texto real (não capa/rascunho/redação)
+            corpo = [l for l in pg["lines"] if topo <= l["y0"] < base]
+            if len(corpo) < 3 or any(re.search(r"Exame Nacional|RASCUNHO|Folha de Redação", l["text"], re.I) for l in pg["lines"]):
+                atual_largo = None
+                continue
+            base = min(base, max(l["y1"] for l in corpo) + 4)
+        if atual_largo is not None:
+            y_prim = min([m[0] for m in pg["marc"]] or [base + 3])
+            if y_prim - topo > 10:
+                pecas.setdefault(atual_largo, []).append((pi, pg["XL"], pg["XR"], topo, (y_prim + FOLGA[0]) if pg["marc"] else base))
+            if pg["marc"]:
+                atual_largo = None
+        if not pg["marc"]:
+            continue
         largo = {}
         for (y, q, c) in pg["marc"]:
-            if c == 0 and tinta_na_calha(pdf, pi, W, y, pg):
+            if c == 0 and (W > 700 or tinta_na_calha(pdf, pi, W, y, pg)):  # W>700: ampliadas, coluna única
                 prox = [yy for (yy, _, _) in pg["marc"] if yy > y + 5]
                 fim_ = (min(prox) + FOLGA[0]) if prox else (fim_largura_total(pdf, pi, W, y, base) if REGUA[0] else base)
                 largo[q] = (y, fim_)
@@ -395,9 +495,11 @@ def processar_moderno(pdf, pages, saida, rotulo):
                 if v in largo:
                     pecas.setdefault(v, []).append((pi, pg["XL"], pg["XR"], y - 3, largo[v][1]))
                     atual = None
+                    atual_largo = v if largo[v][1] >= base - 1 else None
                     continue
                 add(pecas, v, xa, xb, y - 3, y2)
                 atual = v
+                atual_largo = None
     # peça de coluna 0 sem nada começando na coluna 1 ao lado: alternativas em linha podem passar da calha
     for q in list(pecas):
         novos = []
@@ -470,6 +572,11 @@ def main():
     pdf, saida, rotulo = sys.argv[1:4]
     Path(saida).mkdir(parents=True, exist_ok=True)
     pages = carregar(pdf)
+    if (len(sys.argv) > 5 and "ocr" in sys.argv[5]) or texto_ilegivel(pages):
+        print("camada de texto ilegível: usando OCR")
+        pages = finalizar_paginas(carregar_ocr(pdf))
+    if len(sys.argv) > 6:
+        EXTRAS.extend(json.load(open(sys.argv[6])))
     if len(sys.argv) > 4 and sys.argv[4] != "-":
         for p in pages:
             p["G"] = float(sys.argv[4])
@@ -480,7 +587,9 @@ def main():
         modo = "moderno"
     resultado = []
     if modo == "moderno":
-        REGUA[0] = sum(1 for p in pages for l in p["lines"] if re.match(r"^QUESTÃO \d{1,3}$", l["text"].strip())) > 20
+        REGUA[0] = sum(1 for p in pages for l in p["lines"] if re.match(r"^QUESTÃO \d{1,3}$", l["text"].strip())) > 20 and pages[0]["W"] < 700  # ampliadas (A3-ish) não têm régua de encerramento
+        if os.environ.get("SEM_REGUA"):
+            REGUA[0] = False  # provas 2020+: o filete de encerramento é fino e confunde com bordas de tabela/gráfico
         pecas, largos = processar_moderno(pdf, pages, saida, rotulo)
         for q in sorted(pecas):
             ps = []

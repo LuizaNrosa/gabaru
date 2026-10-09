@@ -9,318 +9,759 @@
  "questoes": [
   {
    "numero": 1,
-   "imagem": "img/enem-2006-q001.webp",
-   "texto": "1\nQuestão\nO rapaz chegou-se para junto da moça e disse:\n— Antônia, ainda não me acostumei com o seu\n[ corpo, com a sua cara.\nA moça olhou de lado e esperou.\n— Você não sabe quando a gente é criança e de\n[ repente vê uma lagarta listrada?\nA moça se lembrava:\n— A gente fica olhando...\nA meninice brincou de novo nos olhos dela.\nO rapaz prosseguiu com muita doçura:\n— Antônia, você parece uma lagarta listrada.\nA moça arregalou os olhos, fez exclamações.\nO rapaz concluiu:\n— Antônia, você é engraçada! Você parece louca.\nManuel Bandeira. Poesia completa & prosa.\nRio de Janeiro: Nova Aguilar, 1985.\nNo poema de Bandeira, importante representante da\npoesia modernista, destaca-se como característica da\nescola literária dessa época\nA a reiteração de palavras como recurso de construção\nde rimas ricas.\nB a utilização expressiva da linguagem falada em\nsituações do cotidiano.\nC a criativa simetria de versos para reproduzir o ritmo do\ntema abordado.\nD a escolha do tema do amor romântico, caracterizador\ndo estilo literário dessa época.\nE o recurso ao diálogo, gênero discursivo típico do\nRealismo."
+   "imagem": "questoes/literatura/escolas-literarias/enem-2006-q001.webp",
+   "texto": "1\nQuestão\nO rapaz chegou-se para junto da moça e disse:\n— Antônia, ainda não me acostumei com o seu\n[ corpo, com a sua cara.\nA moça olhou de lado e esperou.\n— Você não sabe quando a gente é criança e de\n[ repente vê uma lagarta listrada?\nA moça se lembrava:\n— A gente fica olhando...\nA meninice brincou de novo nos olhos dela.\nO rapaz prosseguiu com muita doçura:\n— Antônia, você parece uma lagarta listrada.\nA moça arregalou os olhos, fez exclamações.\nO rapaz concluiu:\n— Antônia, você é engraçada! Você parece louca.\nManuel Bandeira. Poesia completa & prosa.\nRio de Janeiro: Nova Aguilar, 1985.\nNo poema de Bandeira, importante representante da\npoesia modernista, destaca-se como característica da\nescola literária dessa época\nA a reiteração de palavras como recurso de construção\nde rimas ricas.\nB a utilização expressiva da linguagem falada em\nsituações do cotidiano.\nC a criativa simetria de versos para reproduzir o ritmo do\ntema abordado.\nD a escolha do tema do amor romântico, caracterizador\ndo estilo literário dessa época.\nE o recurso ao diálogo, gênero discursivo típico do\nRealismo.",
+   "disciplina": "literatura",
+   "subtopico": "escolas-literarias",
+   "habilidade": "LC-H15",
+   "tema": "Modernismo em poema de Manuel Bandeira",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/literatura/escolas-literarias/enem-2006-q001.md"
   },
   {
    "numero": 2,
-   "imagem": "img/enem-2006-q002.webp",
-   "texto": "2\nQuestão\nAs linhas nas duas figuras geram um efeito que se associa\nao seguinte ditado popular:\nA\nOs últimos serão os primeiros.\nB\nOs opostos se atraem.\nC\nQuem espera sempre alcança.\nD\nAs aparências enganam.\nE\nQuanto maior a altura, maior o tombo."
+   "imagem": "questoes/artes/artes-visuais/enem-2006-q002.webp",
+   "texto": "2\nQuestão\nAs linhas nas duas figuras geram um efeito que se associa\nao seguinte ditado popular:\nA\nOs últimos serão os primeiros.\nB\nOs opostos se atraem.\nC\nQuem espera sempre alcança.\nD\nAs aparências enganam.\nE\nQuanto maior a altura, maior o tombo.",
+   "disciplina": "artes",
+   "subtopico": "artes-visuais",
+   "habilidade": "LC-H1",
+   "tema": "Ilusão de ótica com linhas e perspectiva",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/artes/artes-visuais/enem-2006-q002.md"
   },
   {
    "numero": 3,
-   "imagem": "img/enem-2006-q003.webp",
-   "texto": "3\nQuestão\nQuando o português chegou\nDebaixo de uma bruta chuva\nVestiu o índio\nQue pena!\nFosse uma manhã de Sol\nO índio tinha despido\nO português.\nOswald de Andrade. Poesias reunidas.\nRio de Janeiro: Civilização Brasileira, 1978.\nO primitivismo observável no poema acima, de Oswald de\nAndrade, caracteriza de forma marcante\nA\no regionalismo do Nordeste.\nB\no concretismo paulista.\nC\na poesia Pau-Brasil.\nD\no simbolismo pré-modernista.\nE\no tropicalismo baiano."
+   "imagem": "questoes/literatura/escolas-literarias/enem-2006-q003.webp",
+   "texto": "3\nQuestão\nQuando o português chegou\nDebaixo de uma bruta chuva\nVestiu o índio\nQue pena!\nFosse uma manhã de Sol\nO índio tinha despido\nO português.\nOswald de Andrade. Poesias reunidas.\nRio de Janeiro: Civilização Brasileira, 1978.\nO primitivismo observável no poema acima, de Oswald de\nAndrade, caracteriza de forma marcante\nA\no regionalismo do Nordeste.\nB\no concretismo paulista.\nC\na poesia Pau-Brasil.\nD\no simbolismo pré-modernista.\nE\no tropicalismo baiano.",
+   "disciplina": "literatura",
+   "subtopico": "escolas-literarias",
+   "habilidade": "LC-H15",
+   "tema": "Primitivismo de Oswald de Andrade, Pau-Brasil",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/literatura/escolas-literarias/enem-2006-q003.md"
   },
   {
    "numero": 4,
-   "imagem": "img/enem-2006-q004.webp",
-   "texto": "4\nQuestão\nDepois de um bom jantar: feijão com carne-seca,\norelha de porco e couve com angu, arroz-mole\nengordurado, carne de vento assada no espeto, torresmo\nenxuto de toicinho da barriga, viradinho de milho verde e\num prato de caldo de couve, jantar encerrado por um prato\nfundo de canjica com torrões de açúcar, Nhô Tomé\nsaboreou o café forte e se estendeu na rede. A mão direita\nsob a cabeça, à guisa de travesseiro, o indefectível cigarro\nde palha entre as pontas do indicador e do polegar,\nenvernizados pela fumaça, de unhas encanoadas e\nlongas, ficou-se de pança para o ar, modorrento, a olhar\npara as ripas do telhado.\nQuem come e não deita, a comida não aproveita,\npensava Nhô Tomé... E pôs-se a cochilar. A sua modorra\ndurou pouco; Tia Policena, ao passar pela sala, bradou\nassombrada:\n— Êêh! Sinhô! Vai drumi agora? Não! Num\npresta... Dá pisadêra e póde morrê de ataque de cabeça!\nDespois do armoço num far-má... mais despois da janta?!”\nCornélio Pires. Conversas ao pé do fogo. São Paulo:\nImprensa Oficial do Estado de São Paulo, 1987.\nNesse trecho, extraído de texto publicado originalmente em\n1921, o narrador\nA apresenta, sem explicitar juízos de valor, costumes da\népoca, descrevendo os pratos servidos no jantar e a\natitude de Nhô Tomé e de Tia Policena.\nB desvaloriza a norma culta da língua porque incorpora à\nnarrativa usos próprios da linguagem regional das\npersonagens.\nC condena os hábitos descritos, dando voz a Tia\nPolicena, que tenta impedir Nhô Tomé de deitar-se\napós as refeições.\nD utiliza a diversidade sociocultural e lingüística para\ndemonstrar seu desrespeito às populações das zonas\nrurais do início do século XX.\nE manifesta preconceito em relação a Tia Policena ao\ntranscrever a fala dela com os erros próprios da\nregião."
+   "imagem": "questoes/portugues/variacao-linguistica-e-gramatica/enem-2006-q004.webp",
+   "texto": "4\nQuestão\nDepois de um bom jantar: feijão com carne-seca,\norelha de porco e couve com angu, arroz-mole\nengordurado, carne de vento assada no espeto, torresmo\nenxuto de toicinho da barriga, viradinho de milho verde e\num prato de caldo de couve, jantar encerrado por um prato\nfundo de canjica com torrões de açúcar, Nhô Tomé\nsaboreou o café forte e se estendeu na rede. A mão direita\nsob a cabeça, à guisa de travesseiro, o indefectível cigarro\nde palha entre as pontas do indicador e do polegar,\nenvernizados pela fumaça, de unhas encanoadas e\nlongas, ficou-se de pança para o ar, modorrento, a olhar\npara as ripas do telhado.\nQuem come e não deita, a comida não aproveita,\npensava Nhô Tomé... E pôs-se a cochilar. A sua modorra\ndurou pouco; Tia Policena, ao passar pela sala, bradou\nassombrada:\n— Êêh! Sinhô! Vai drumi agora? Não! Num\npresta... Dá pisadêra e póde morrê de ataque de cabeça!\nDespois do armoço num far-má... mais despois da janta?!”\nCornélio Pires. Conversas ao pé do fogo. São Paulo:\nImprensa Oficial do Estado de São Paulo, 1987.\nNesse trecho, extraído de texto publicado originalmente em\n1921, o narrador\nA apresenta, sem explicitar juízos de valor, costumes da\népoca, descrevendo os pratos servidos no jantar e a\natitude de Nhô Tomé e de Tia Policena.\nB desvaloriza a norma culta da língua porque incorpora à\nnarrativa usos próprios da linguagem regional das\npersonagens.\nC condena os hábitos descritos, dando voz a Tia\nPolicena, que tenta impedir Nhô Tomé de deitar-se\napós as refeições.\nD utiliza a diversidade sociocultural e lingüística para\ndemonstrar seu desrespeito às populações das zonas\nrurais do início do século XX.\nE manifesta preconceito em relação a Tia Policena ao\ntranscrever a fala dela com os erros próprios da\nregião.",
+   "disciplina": "portugues",
+   "subtopico": "variacao-linguistica-e-gramatica",
+   "habilidade": "LC-H25",
+   "tema": "Linguagem regional em texto de Cornélio Pires",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/portugues/variacao-linguistica-e-gramatica/enem-2006-q004.md"
   },
   {
    "numero": 5,
-   "imagem": "img/enem-2006-q005.webp",
-   "texto": "Texto para as questões 5 e 6\nA linguagem\n1\nna ponta da língua\ntão fácil de falar\ne de entender.\n4\nA linguagem\nna superfície estrelada de letras,\n7\nsabe lá o que quer dizer?\nProfessor Carlos Góis, ele é quem sabe,\ne vai desmatando\n10\no amazonas de minha ignorância.\nFiguras de gramática, esquipáticas,\natropelam-me, aturdem-me, seqüestram-me.\n13\nJá esqueci a língua em que comia,\nem que pedia para ir lá fora,\nem que levava e dava pontapé,\n16\na língua, breve língua entrecortada\ndo namoro com a priminha.\nO português são dois; o outro, mistério.\nCarlos Drummond de Andrade. Esquecer para\nlembrar. Rio de Janeiro: José Olympio, 1979.\nQuestão\n5\nExplorando a função emotiva da linguagem, o poeta\nexpressa o contraste entre marcas de variação de usos da\nlinguagem em\nA situações formais e informais.\nB diferentes regiões do país.\nC escolas literárias distintas.\nD textos técnicos e poéticos.\nE diferentes épocas."
+   "imagem": "questoes/portugues/variacao-linguistica-e-gramatica/enem-2006-q005.webp",
+   "texto": "Texto para as questões 5 e 6\nA linguagem\n1\nna ponta da língua\ntão fácil de falar\ne de entender.\n4\nA linguagem\nna superfície estrelada de letras,\n7\nsabe lá o que quer dizer?\nProfessor Carlos Góis, ele é quem sabe,\ne vai desmatando\n10\no amazonas de minha ignorância.\nFiguras de gramática, esquipáticas,\natropelam-me, aturdem-me, seqüestram-me.\n13\nJá esqueci a língua em que comia,\nem que pedia para ir lá fora,\nem que levava e dava pontapé,\n16\na língua, breve língua entrecortada\ndo namoro com a priminha.\nO português são dois; o outro, mistério.\nCarlos Drummond de Andrade. Esquecer para\nlembrar. Rio de Janeiro: José Olympio, 1979.\nQuestão\n5\nExplorando a função emotiva da linguagem, o poeta\nexpressa o contraste entre marcas de variação de usos da\nlinguagem em\nA situações formais e informais.\nB diferentes regiões do país.\nC escolas literárias distintas.\nD textos técnicos e poéticos.\nE diferentes épocas.",
+   "disciplina": "portugues",
+   "subtopico": "variacao-linguistica-e-gramatica",
+   "habilidade": "LC-H26",
+   "tema": "Variação linguística em poema de Drummond",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/portugues/variacao-linguistica-e-gramatica/enem-2006-q005.md"
   },
   {
    "numero": 6,
-   "imagem": "img/enem-2006-q006.webp",
-   "texto": "Texto para as questões 5 e 6\nA linguagem\n1\nna ponta da língua\ntão fácil de falar\ne de entender.\n4\nA linguagem\nna superfície estrelada de letras,\n7\nsabe lá o que quer dizer?\nProfessor Carlos Góis, ele é quem sabe,\ne vai desmatando\n10\no amazonas de minha ignorância.\nFiguras de gramática, esquipáticas,\natropelam-me, aturdem-me, seqüestram-me.\n13\nJá esqueci a língua em que comia,\nem que pedia para ir lá fora,\nem que levava e dava pontapé,\n16\na língua, breve língua entrecortada\ndo namoro com a priminha.\nO português são dois; o outro, mistério.\nCarlos Drummond de Andrade. Esquecer para\nlembrar. Rio de Janeiro: José Olympio, 1979.\n6\nQuestão\nNo poema, a referência à variedade padrão da língua está\nexpressa no seguinte trecho:\nA “A linguagem / na ponta da língua” (v.1 e 2).\nB “A linguagem / na superfície estrelada de letras” (v.5 e 6).\nC “[a língua] em que pedia para ir lá fora” (v.14).\nD “[a língua] em que levava e dava pontapé” (v.15).\nE “[a língua] do namoro com a priminha” (v.17)."
+   "imagem": "questoes/portugues/variacao-linguistica-e-gramatica/enem-2006-q006.webp",
+   "texto": "Texto para as questões 5 e 6\nA linguagem\n1\nna ponta da língua\ntão fácil de falar\ne de entender.\n4\nA linguagem\nna superfície estrelada de letras,\n7\nsabe lá o que quer dizer?\nProfessor Carlos Góis, ele é quem sabe,\ne vai desmatando\n10\no amazonas de minha ignorância.\nFiguras de gramática, esquipáticas,\natropelam-me, aturdem-me, seqüestram-me.\n13\nJá esqueci a língua em que comia,\nem que pedia para ir lá fora,\nem que levava e dava pontapé,\n16\na língua, breve língua entrecortada\ndo namoro com a priminha.\nO português são dois; o outro, mistério.\nCarlos Drummond de Andrade. Esquecer para\nlembrar. Rio de Janeiro: José Olympio, 1979.\n6\nQuestão\nNo poema, a referência à variedade padrão da língua está\nexpressa no seguinte trecho:\nA “A linguagem / na ponta da língua” (v.1 e 2).\nB “A linguagem / na superfície estrelada de letras” (v.5 e 6).\nC “[a língua] em que pedia para ir lá fora” (v.14).\nD “[a língua] em que levava e dava pontapé” (v.15).\nE “[a língua] do namoro com a priminha” (v.17).",
+   "disciplina": "portugues",
+   "subtopico": "variacao-linguistica-e-gramatica",
+   "habilidade": "LC-H27",
+   "tema": "Variedade padrão no poema de Drummond",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/portugues/variacao-linguistica-e-gramatica/enem-2006-q006.md"
   },
   {
    "numero": 7,
-   "imagem": "img/enem-2006-q007.webp",
-   "texto": "7\nQuestão\nNo poema Procura da poesia, Carlos Drummond de\nAndrade expressa a concepção estética de se fazer com\npalavras o que o escultor Michelângelo fazia com\nmármore. O fragmento abaixo exemplifica essa afirmação.\n(...)\nPenetra surdamente no reino das palavras.\nLá estão os poemas que esperam ser escritos.\n(...)\nChega mais perto e contempla as palavras.\nCada uma\ntem mil faces secretas sob a face neutra\ne te pergunta, sem interesse pela resposta,\npobre ou terrível, que lhe deres:\ntrouxeste a chave?\nCarlos Drummond de Andrade. A rosa do povo.\nRio de Janeiro: Record, 1997, p. 13-14.\nEsse fragmento poético ilustra o seguinte tema\nconstante entre autores modernistas:\nA a nostalgia do passado colonialista revisitado.\nB a preocupação com o engajamento político e social da\nliteratura.\nC o trabalho quase artesanal com as palavras,\ndespertando sentidos novos.\nD a produção de sentidos herméticos na busca da\nperfeição poética.\nE a contemplação da natureza brasileira na perspectiva\nufanista da pátria."
+   "imagem": "questoes/literatura/analise-de-poemas-e-prosa/enem-2006-q007.webp",
+   "texto": "7\nQuestão\nNo poema Procura da poesia, Carlos Drummond de\nAndrade expressa a concepção estética de se fazer com\npalavras o que o escultor Michelângelo fazia com\nmármore. O fragmento abaixo exemplifica essa afirmação.\n(...)\nPenetra surdamente no reino das palavras.\nLá estão os poemas que esperam ser escritos.\n(...)\nChega mais perto e contempla as palavras.\nCada uma\ntem mil faces secretas sob a face neutra\ne te pergunta, sem interesse pela resposta,\npobre ou terrível, que lhe deres:\ntrouxeste a chave?\nCarlos Drummond de Andrade. A rosa do povo.\nRio de Janeiro: Record, 1997, p. 13-14.\nEsse fragmento poético ilustra o seguinte tema\nconstante entre autores modernistas:\nA a nostalgia do passado colonialista revisitado.\nB a preocupação com o engajamento político e social da\nliteratura.\nC o trabalho quase artesanal com as palavras,\ndespertando sentidos novos.\nD a produção de sentidos herméticos na busca da\nperfeição poética.\nE a contemplação da natureza brasileira na perspectiva\nufanista da pátria.",
+   "disciplina": "literatura",
+   "subtopico": "analise-de-poemas-e-prosa",
+   "habilidade": "LC-H16",
+   "tema": "Concepção estética em Procura da poesia",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/literatura/analise-de-poemas-e-prosa/enem-2006-q007.md"
   },
   {
    "numero": 8,
-   "imagem": "img/enem-2006-q008.webp",
-   "texto": "8\nQuestão\nNo romance Vidas Secas, de Graciliano Ramos, o\nvaqueiro Fabiano encontra-se com o patrão para receber o\nsalário. Eis parte da cena:\nNão se conformou: devia haver engano. (...)\n1\nCom certeza havia um erro no papel do branco. Não\nse descobriu o erro, e Fabiano perdeu os estribos.\n4\nPassar a vida inteira assim no toco, entregando o\nque era dele de mão beijada! Estava direito aquilo?\nTrabalhar como negro e nunca arranjar carta de\n7\nalforria?\nO patrão zangou-se, repeliu a insolência,\nachou bom que o vaqueiro fosse procurar serviço\n10\nnoutra fazenda.\nAí Fabiano baixou a pancada e amunhecou.\nBem, bem. Não era preciso barulho não.\nGraciliano Ramos. Vidas Secas. 91.ª ed.\nRio de Janeiro: Record, 2003.\nNo fragmento transcrito, o padrão formal da linguagem\nconvive com marcas de regionalismo e de coloquialismo no\nvocabulário. Pertence à variedade do padrão formal da\nlinguagem o seguinte trecho:\nA\n“Não se conformou: devia haver engano” (ℓ.1).\nB\n“e Fabiano perdeu os estribos” (ℓ.3).\nC\n“Passar a vida inteira assim no toco” (ℓ.4).\nD\n“entregando o que era dele de mão beijada!” (ℓ.4-5).\nE\n“Aí Fabiano baixou a pancada e amunhecou” (ℓ.11).\nPara responder às questões 9 e 10, analise o quadro a seguir, que esquematiza a história da Terra.\nMILHÕES\nERA\nPERÍODO\nEVOLUÇÃO BIOLÓGICA\nDE ANOS\nFaunas e floras atuais\nPrimeiras manifestações de arte\nQUATERNÁRIO\n0,01\nSepulturas mais antigas\nExtinção dos mastodontes e dinotérios\n1,8\nAparecimento dos bois, cavalos e veados\nCENOZÓICA\nPrimeiros utensílios de pedra\n5,3\nNEOGÊNICO\nAparecimento dos hominídeos\n23,8\n34,6\nPrimeiros roedores\nPALEOGÊNICO\n56\nPrimeiros primatas\n65\nÚltimos dinossauros\nMESOZÓICA\nCRETÁCEO\nPrimeiras angiospermas\n145\nJURÁSSICO\n208\nTRIÁSSICO\nPrimeiras aves\nPrimeiros dinossauros\n245\nPERMIANO\n290\nCARBONÍFERO\nAparecimento dos répteis\n363\nPALEOZÓICA\nDEVONIANO\nAparecimento dos anfíbios\nPrimeiras gimnospermas\n409\nPrimeiras plantas e primeiros animais terrestres\nSILURIANO\nPrimeiros peixes\n439\nORDOVICIANO\n510\nCAMBRIANO\n544\n1.000\nReprodução sexuada\n1.400\nPrimeiros depósitos de carvão (algas)\nPRÉ-CAMBRIANO\n1.800\nOxigênio livre na atmosfera\n2.000\nAparecimento de organismos eucariontes\n3.100\nPrimeiros microrganismos procariontes\n3.500\nPrimeiros vestígios de vida\n4.600\nFormação da Terra"
+   "imagem": "questoes/portugues/variacao-linguistica-e-gramatica/enem-2006-q008.webp",
+   "texto": "8\nQuestão\nNo romance Vidas Secas, de Graciliano Ramos, o\nvaqueiro Fabiano encontra-se com o patrão para receber o\nsalário. Eis parte da cena:\nNão se conformou: devia haver engano. (...)\n1\nCom certeza havia um erro no papel do branco. Não\nse descobriu o erro, e Fabiano perdeu os estribos.\n4\nPassar a vida inteira assim no toco, entregando o\nque era dele de mão beijada! Estava direito aquilo?\nTrabalhar como negro e nunca arranjar carta de\n7\nalforria?\nO patrão zangou-se, repeliu a insolência,\nachou bom que o vaqueiro fosse procurar serviço\n10\nnoutra fazenda.\nAí Fabiano baixou a pancada e amunhecou.\nBem, bem. Não era preciso barulho não.\nGraciliano Ramos. Vidas Secas. 91.ª ed.\nRio de Janeiro: Record, 2003.\nNo fragmento transcrito, o padrão formal da linguagem\nconvive com marcas de regionalismo e de coloquialismo no\nvocabulário. Pertence à variedade do padrão formal da\nlinguagem o seguinte trecho:\nA\n“Não se conformou: devia haver engano” (ℓ.1).\nB\n“e Fabiano perdeu os estribos” (ℓ.3).\nC\n“Passar a vida inteira assim no toco” (ℓ.4).\nD\n“entregando o que era dele de mão beijada!” (ℓ.4-5).\nE\n“Aí Fabiano baixou a pancada e amunhecou” (ℓ.11).\nPara responder às questões 9 e 10, analise o quadro a seguir, que esquematiza a história da Terra.\nMILHÕES\nERA\nPERÍODO\nEVOLUÇÃO BIOLÓGICA\nDE ANOS\nFaunas e floras atuais\nPrimeiras manifestações de arte\nQUATERNÁRIO\n0,01\nSepulturas mais antigas\nExtinção dos mastodontes e dinotérios\n1,8\nAparecimento dos bois, cavalos e veados\nCENOZÓICA\nPrimeiros utensílios de pedra\n5,3\nNEOGÊNICO\nAparecimento dos hominídeos\n23,8\n34,6\nPrimeiros roedores\nPALEOGÊNICO\n56\nPrimeiros primatas\n65\nÚltimos dinossauros\nMESOZÓICA\nCRETÁCEO\nPrimeiras angiospermas\n145\nJURÁSSICO\n208\nTRIÁSSICO\nPrimeiras aves\nPrimeiros dinossauros\n245\nPERMIANO\n290\nCARBONÍFERO\nAparecimento dos répteis\n363\nPALEOZÓICA\nDEVONIANO\nAparecimento dos anfíbios\nPrimeiras gimnospermas\n409\nPrimeiras plantas e primeiros animais terrestres\nSILURIANO\nPrimeiros peixes\n439\nORDOVICIANO\n510\nCAMBRIANO\n544\n1.000\nReprodução sexuada\n1.400\nPrimeiros depósitos de carvão (algas)\nPRÉ-CAMBRIANO\n1.800\nOxigênio livre na atmosfera\n2.000\nAparecimento de organismos eucariontes\n3.100\nPrimeiros microrganismos procariontes\n3.500\nPrimeiros vestígios de vida\n4.600\nFormação da Terra",
+   "disciplina": "portugues",
+   "subtopico": "variacao-linguistica-e-gramatica",
+   "habilidade": "LC-H27",
+   "tema": "Padrão formal e coloquial em Vidas Secas",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/portugues/variacao-linguistica-e-gramatica/enem-2006-q008.md"
   },
   {
    "numero": 9,
-   "imagem": "img/enem-2006-q009.webp",
-   "texto": "9\nQuestão\nConsiderando o esquema acima, assinale a opção correta.\nA\nQuando os primeiros hominídeos apareceram na Terra, os répteis já existiam há mais de 500 milhões de anos.\nB\nQuando a espécie Homo sapiens surgiu no planeta, América do Sul e África estavam fisicamente unidas.\nC\nNo Pré-Cambriano, surgiram, em meio líquido, os primeiros vestígios de vida no planeta.\nD\nA fragmentação da Pangéia ocasionou o desaparecimento dos dinossauros.\nA Era Mesozóica durou menos que a Cenozóica."
+   "imagem": "questoes/biologia/evolucao/enem-2006-q009.webp",
+   "texto": "9\nQuestão\nConsiderando o esquema acima, assinale a opção correta.\nA\nQuando os primeiros hominídeos apareceram na Terra, os répteis já existiam há mais de 500 milhões de anos.\nB\nQuando a espécie Homo sapiens surgiu no planeta, América do Sul e África estavam fisicamente unidas.\nC\nNo Pré-Cambriano, surgiram, em meio líquido, os primeiros vestígios de vida no planeta.\nD\nA fragmentação da Pangéia ocasionou o desaparecimento dos dinossauros.\nA Era Mesozóica durou menos que a Cenozóica.",
+   "disciplina": "biologia",
+   "subtopico": "evolucao",
+   "habilidade": "CN-H16",
+   "tema": "Escala do tempo geológico e evolução da vida",
+   "confianca": "media",
+   "obs": "Interdisciplinar (biologia/geografia/historia); esquema da história da Terra",
+   "arquivo": "questoes/biologia/evolucao/enem-2006-q009.md"
   },
   {
    "numero": 10,
-   "imagem": "img/enem-2006-q010.webp",
-   "texto": "Questão 10\nEntre as opções a seguir, assinale a que melhor representa a história da Terra em uma escala de 0 a 100, com\ncomprimentos iguais para intervalos de tempo de mesma duração.\n100 faunas e floras\n100 faunas e floras\n100 faunas e floras\n100\nfaunas e floras\n100 faunas e floras\natuais\natuais\natuais\natuais\natuais\nprimeiros peixes\nprimeiros peixes\nprimeiros vestígios\nprimeiros peixes\nprimeiros peixes\nde vida\neucariontes\neucariontes\neucariontes\nA 50\nB\n50\nC\nD\n50\nE\n50\n50\neucariontes\neucariontes\nprimeiros vestígios\nprimeiros vestígios\nde vida\nde vida\nprimeiros peixes\nprimeiros vestígios\nprimeiros vestígios\nde vida\n0\nformação da Terra\n0\nformação da Terra\nde vida\n0\nformação da Terra\n0\nformação da Terra\n0\nformação da Terra"
+   "imagem": "questoes/matematica/grandezas-medidas-e-escalas/enem-2006-q010.webp",
+   "texto": "Questão 10\nEntre as opções a seguir, assinale a que melhor representa a história da Terra em uma escala de 0 a 100, com\ncomprimentos iguais para intervalos de tempo de mesma duração.\n100 faunas e floras\n100 faunas e floras\n100 faunas e floras\n100\nfaunas e floras\n100 faunas e floras\natuais\natuais\natuais\natuais\natuais\nprimeiros peixes\nprimeiros peixes\nprimeiros vestígios\nprimeiros peixes\nprimeiros peixes\nde vida\neucariontes\neucariontes\neucariontes\nA 50\nB\n50\nC\nD\n50\nE\n50\n50\neucariontes\neucariontes\nprimeiros vestígios\nprimeiros vestígios\nde vida\nde vida\nprimeiros peixes\nprimeiros vestígios\nprimeiros vestígios\nde vida\n0\nformação da Terra\n0\nformação da Terra\nde vida\n0\nformação da Terra\n0\nformação da Terra\n0\nformação da Terra",
+   "disciplina": "matematica",
+   "subtopico": "grandezas-medidas-e-escalas",
+   "habilidade": "MT-H11",
+   "tema": "Representar tempo geológico em escala linear",
+   "confianca": "media",
+   "obs": "Alternativas são gráficos; não verificadas",
+   "arquivo": "questoes/matematica/grandezas-medidas-e-escalas/enem-2006-q010.md"
   },
   {
    "numero": 11,
-   "imagem": "img/enem-2006-q011.webp",
-   "texto": "Questão 11\nSegundo a explicação mais difundida sobre o\npovoamento da América, grupos asiáticos teriam chegado\na esse continente pelo Estreito de Bering, há 18 mil anos.\nA partir dessa região, localizada no extremo noroeste do\ncontinente americano, esses grupos e seus descendentes\nteriam migrado, pouco a pouco, para outras áreas,\nchegando até a porção sul do continente. Entretanto, por\nmeio de estudos arqueológicos realizados no Parque\nNacional da Serra da Capivara (Piauí), foram descobertos\nvestígios da presença humana que teriam até 50 mil anos\nde idade.\nValidadas, as provas\nmateriais\nencontradas\npelos\narqueólogos no Piauí\nA comprovam que grupos de origem africana cruzaram o\noceano Atlântico até o Piauí há 18 mil anos.\nB confirmam que o homem surgiu primeiramente na\nAmérica do Norte e, depois, povoou os outros\ncontinentes.\nC contestam a teoria de que o homem americano surgiu\nprimeiro na América do Sul e, depois, cruzou o Estreito\nde Bering.\nD confirmam que grupos de origem asiática cruzaram o\nEstreito de Bering há 18 mil anos.\nE contestam a teoria de que o povoamento da América\nteria iniciado há 18 mil anos."
+   "imagem": "questoes/historia/historia-cultura-e-sociedade/enem-2006-q011.webp",
+   "texto": "Questão 11\nSegundo a explicação mais difundida sobre o\npovoamento da América, grupos asiáticos teriam chegado\na esse continente pelo Estreito de Bering, há 18 mil anos.\nA partir dessa região, localizada no extremo noroeste do\ncontinente americano, esses grupos e seus descendentes\nteriam migrado, pouco a pouco, para outras áreas,\nchegando até a porção sul do continente. Entretanto, por\nmeio de estudos arqueológicos realizados no Parque\nNacional da Serra da Capivara (Piauí), foram descobertos\nvestígios da presença humana que teriam até 50 mil anos\nde idade.\nValidadas, as provas\nmateriais\nencontradas\npelos\narqueólogos no Piauí\nA comprovam que grupos de origem africana cruzaram o\noceano Atlântico até o Piauí há 18 mil anos.\nB confirmam que o homem surgiu primeiramente na\nAmérica do Norte e, depois, povoou os outros\ncontinentes.\nC contestam a teoria de que o homem americano surgiu\nprimeiro na América do Sul e, depois, cruzou o Estreito\nde Bering.\nD confirmam que grupos de origem asiática cruzaram o\nEstreito de Bering há 18 mil anos.\nE contestam a teoria de que o povoamento da América\nteria iniciado há 18 mil anos.",
+   "disciplina": "historia",
+   "subtopico": "historia-cultura-e-sociedade",
+   "habilidade": "CH-H1",
+   "tema": "Povoamento da América e Serra da Capivara",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/historia/historia-cultura-e-sociedade/enem-2006-q011.md"
   },
   {
    "numero": 12,
-   "imagem": "img/enem-2006-q012.webp",
-   "texto": "Questão 12\nEntre 8 mil e 3 mil anos atrás, ocorreu\no\ndesaparecimento de grandes mamíferos que viviam na\nAmérica do Sul. Os mapas a seguir apresentam a vegetação\ndessa região antes e depois de uma grande mudança\nclimática que tornou essa região mais quente e mais úmida.\nSavana fechada\nSavana aberta\nFloresta aberta com\nenclave de savana\nFloresta fechada\nSavana aberta\nSavana fechada\nSavanas\nGramínea e\ntemperadas\nestepe\nFloresta\nfechada\nDeserto e\nPatagônia\nestepe fria\nEntre 20 mil e 13 mil anos\nEntre 8 mil e 3 mil anos\nRevista Pesquisa Fapesp, n.º 98, 2004.\nAs hipóteses a seguir foram levantadas para explicar o\ndesaparecimento dos grandes mamíferos na América do Sul.\nI Os seres humanos, que só puderam ocupar a América\ndo Sul depois que o clima se tornou mais úmido,\nmataram os grandes animais.\nII Os maiores mamíferos atuais precisam de vastas áreas\nabertas para manterem o seu modo de vida, áreas\nessas que desapareceram da América do Sul com a\nmudança climática, o que pode ter provocado a extinção\ndos grandes mamíferos sul-americanos.\nIII A mudança climática foi desencadeada pela queda de\num grande asteróide, a qual causou o desaparecimento\ndos grandes mamíferos e das aves.\nÉ cientificamente aceitável o que se afirma\nA\napenas em I.\nB\napenas em II.\nC\napenas em III.\nD\napenas em I e III.\nE\nem I, II e III."
+   "imagem": "questoes/biologia/evolucao/enem-2006-q012.webp",
+   "texto": "Questão 12\nEntre 8 mil e 3 mil anos atrás, ocorreu\no\ndesaparecimento de grandes mamíferos que viviam na\nAmérica do Sul. Os mapas a seguir apresentam a vegetação\ndessa região antes e depois de uma grande mudança\nclimática que tornou essa região mais quente e mais úmida.\nSavana fechada\nSavana aberta\nFloresta aberta com\nenclave de savana\nFloresta fechada\nSavana aberta\nSavana fechada\nSavanas\nGramínea e\ntemperadas\nestepe\nFloresta\nfechada\nDeserto e\nPatagônia\nestepe fria\nEntre 20 mil e 13 mil anos\nEntre 8 mil e 3 mil anos\nRevista Pesquisa Fapesp, n.º 98, 2004.\nAs hipóteses a seguir foram levantadas para explicar o\ndesaparecimento dos grandes mamíferos na América do Sul.\nI Os seres humanos, que só puderam ocupar a América\ndo Sul depois que o clima se tornou mais úmido,\nmataram os grandes animais.\nII Os maiores mamíferos atuais precisam de vastas áreas\nabertas para manterem o seu modo de vida, áreas\nessas que desapareceram da América do Sul com a\nmudança climática, o que pode ter provocado a extinção\ndos grandes mamíferos sul-americanos.\nIII A mudança climática foi desencadeada pela queda de\num grande asteróide, a qual causou o desaparecimento\ndos grandes mamíferos e das aves.\nÉ cientificamente aceitável o que se afirma\nA\napenas em I.\nB\napenas em II.\nC\napenas em III.\nD\napenas em I e III.\nE\nem I, II e III.",
+   "disciplina": "biologia",
+   "subtopico": "evolucao",
+   "habilidade": "CN-H16",
+   "tema": "Extinção de grandes mamíferos e mudança climática",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/biologia/evolucao/enem-2006-q012.md"
   },
   {
    "numero": 13,
-   "imagem": "img/enem-2006-q013.webp",
-   "texto": "Questão 13\nOs cruzados avançavam em silêncio, encontrando\npor todas as partes ossadas humanas, trapos e bandeiras.\nNo meio desse quadro sinistro, não puderam ver, sem\nestremecer de dor, o acampamento onde Gauthier havia\ndeixado as mulheres e crianças. Lá, os cristãos tinham\nsido surpreendidos pelos muçulmanos, mesmo no\nmomento em que os sacerdotes celebravam o sacrifício da\nMissa. As mulheres, as crianças, os velhos, todos os que a\nfraqueza ou a doença conservava sob as tendas,\nperseguidos até os altares, tinham sido levados para a\nescravidão ou imolados por um inimigo cruel. A multidão\ndos cristãos, massacrada naquele lugar, tinha ficado sem\nsepultura.\nJ. F. Michaud. História das cruzadas. São Paulo:\nEditora das Américas, 1956 (com adaptações).\nFoi, de fato, na sexta-feira 22 do tempo de\nChaaban, do ano de 492 da Hégira, que os franj* se\napossaram da Cidade Santa, após um sítio de 40 dias. Os\nexilados ainda tremem cada vez que falam nisso, seu olhar\nse esfria como se eles ainda tivessem diante dos olhos\naqueles guerreiros louros, protegidos de armaduras, que\nespelham pelas ruas o sabre cortante, desembainhado,\ndegolando homens, mulheres e crianças, pilhando as\ncasas, saqueando as mesquitas.\n*franj = cruzados.\nAmin Maalouf. As Cruzadas vistas pelos árabes.\n2.ª ed. São Paulo: Brasiliense, 1989 (com adaptações).\nAvalie as seguintes afirmações a respeito dos textos\nacima, que tratam das Cruzadas.\nI Os textos referem-se ao mesmo assunto — as\nCruzadas, ocorridas no período medieval —, mas\napresentam visões distintas sobre a realidade dos\nconflitos religiosos desse período histórico.\nII Ambos os textos narram partes de conflitos ocorridos\nentre cristãos e muçulmanos durante a Idade Média e\nrevelam como a violência contra mulheres e crianças\nera prática comum entre adversários.\nIII Ambos narram conflitos ocorridos durante as Cruzadas\nmedievais e revelam como as disputas dessa época,\napesar de ter havido alguns confrontos militares, foram\nresolvidas com base na idéia do respeito e da tolerância\ncultural e religiosa.\nÉ correto apenas o que se afirma em\nA\nI.\nB\nII.\nC\nIII.\nD\nI e II.\nE\nII e III."
+   "imagem": "questoes/historia/historia-antiga-e-medieval/enem-2006-q013.webp",
+   "texto": "Questão 13\nOs cruzados avançavam em silêncio, encontrando\npor todas as partes ossadas humanas, trapos e bandeiras.\nNo meio desse quadro sinistro, não puderam ver, sem\nestremecer de dor, o acampamento onde Gauthier havia\ndeixado as mulheres e crianças. Lá, os cristãos tinham\nsido surpreendidos pelos muçulmanos, mesmo no\nmomento em que os sacerdotes celebravam o sacrifício da\nMissa. As mulheres, as crianças, os velhos, todos os que a\nfraqueza ou a doença conservava sob as tendas,\nperseguidos até os altares, tinham sido levados para a\nescravidão ou imolados por um inimigo cruel. A multidão\ndos cristãos, massacrada naquele lugar, tinha ficado sem\nsepultura.\nJ. F. Michaud. História das cruzadas. São Paulo:\nEditora das Américas, 1956 (com adaptações).\nFoi, de fato, na sexta-feira 22 do tempo de\nChaaban, do ano de 492 da Hégira, que os franj* se\napossaram da Cidade Santa, após um sítio de 40 dias. Os\nexilados ainda tremem cada vez que falam nisso, seu olhar\nse esfria como se eles ainda tivessem diante dos olhos\naqueles guerreiros louros, protegidos de armaduras, que\nespelham pelas ruas o sabre cortante, desembainhado,\ndegolando homens, mulheres e crianças, pilhando as\ncasas, saqueando as mesquitas.\n*franj = cruzados.\nAmin Maalouf. As Cruzadas vistas pelos árabes.\n2.ª ed. São Paulo: Brasiliense, 1989 (com adaptações).\nAvalie as seguintes afirmações a respeito dos textos\nacima, que tratam das Cruzadas.\nI Os textos referem-se ao mesmo assunto — as\nCruzadas, ocorridas no período medieval —, mas\napresentam visões distintas sobre a realidade dos\nconflitos religiosos desse período histórico.\nII Ambos os textos narram partes de conflitos ocorridos\nentre cristãos e muçulmanos durante a Idade Média e\nrevelam como a violência contra mulheres e crianças\nera prática comum entre adversários.\nIII Ambos narram conflitos ocorridos durante as Cruzadas\nmedievais e revelam como as disputas dessa época,\napesar de ter havido alguns confrontos militares, foram\nresolvidas com base na idéia do respeito e da tolerância\ncultural e religiosa.\nÉ correto apenas o que se afirma em\nA\nI.\nB\nII.\nC\nIII.\nD\nI e II.\nE\nII e III.",
+   "disciplina": "historia",
+   "subtopico": "historia-antiga-e-medieval",
+   "habilidade": "CH-H4",
+   "tema": "Cruzadas vistas por cristãos e árabes",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/historia/historia-antiga-e-medieval/enem-2006-q013.md"
   },
   {
    "numero": 14,
-   "imagem": "img/enem-2006-q014.webp",
-   "texto": "Questão 14\nO que chamamos de corte principesca era,\nessencialmente, o palácio do príncipe. Os músicos eram\ntão indispensáveis nesses grandes palácios quanto os\npasteleiros, os cozinheiros e os criados. Eles eram o que\nse chamava, um tanto pejorativamente, de criados de libré.\nA maior parte dos músicos ficava satisfeita quando tinha\ngarantida a subsistência, como acontecia com as outras\npessoas de classe média na corte; entre os que não se\nsatisfaziam, estava o pai de Mozart. Mas ele também se\ncurvou às circunstâncias a que não podia escapar.\nNorbert Elias. Mozart: sociologia de um gênio.\nEd. Jorge Zahar, 1995, p. 18 (com adaptações).\nConsiderando-se que a sociedade do Antigo Regime\ndividia-se tradicionalmente em estamentos: nobreza, clero\ne 3.° Estado, é correto afirmar que o autor do texto, ao\nfazer referência a “classe média”, descreve a sociedade\nutilizando a noção posterior de classe social a fim de\nA aproximar da nobreza cortesã a condição de classe\ndos músicos, que pertenciam ao 3.° Estado.\nB destacar a consciência de classe que possuíam os\nmúsicos, ao contrário dos demais trabalhadores\nmanuais.\nC indicar que os músicos se encontravam na mesma\nsituação que os demais membros do 3.° Estado.\nD distinguir, dentro do 3.° Estado, as condições em que\nviviam os “criados de libré” e os camponeses.\nE comprovar a existência, no interior da corte, de uma\nluta de classes entre os trabalhadores manuais."
+   "imagem": "questoes/historia/historia-moderna/enem-2006-q014.webp",
+   "texto": "Questão 14\nO que chamamos de corte principesca era,\nessencialmente, o palácio do príncipe. Os músicos eram\ntão indispensáveis nesses grandes palácios quanto os\npasteleiros, os cozinheiros e os criados. Eles eram o que\nse chamava, um tanto pejorativamente, de criados de libré.\nA maior parte dos músicos ficava satisfeita quando tinha\ngarantida a subsistência, como acontecia com as outras\npessoas de classe média na corte; entre os que não se\nsatisfaziam, estava o pai de Mozart. Mas ele também se\ncurvou às circunstâncias a que não podia escapar.\nNorbert Elias. Mozart: sociologia de um gênio.\nEd. Jorge Zahar, 1995, p. 18 (com adaptações).\nConsiderando-se que a sociedade do Antigo Regime\ndividia-se tradicionalmente em estamentos: nobreza, clero\ne 3.° Estado, é correto afirmar que o autor do texto, ao\nfazer referência a “classe média”, descreve a sociedade\nutilizando a noção posterior de classe social a fim de\nA aproximar da nobreza cortesã a condição de classe\ndos músicos, que pertenciam ao 3.° Estado.\nB destacar a consciência de classe que possuíam os\nmúsicos, ao contrário dos demais trabalhadores\nmanuais.\nC indicar que os músicos se encontravam na mesma\nsituação que os demais membros do 3.° Estado.\nD distinguir, dentro do 3.° Estado, as condições em que\nviviam os “criados de libré” e os camponeses.\nE comprovar a existência, no interior da corte, de uma\nluta de classes entre os trabalhadores manuais.",
+   "disciplina": "historia",
+   "subtopico": "historia-moderna",
+   "habilidade": "CH-H9",
+   "tema": "Sociedade de estamentos e noção de classe",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/historia/historia-moderna/enem-2006-q014.md"
   },
   {
    "numero": 15,
-   "imagem": "img/enem-2006-q015.webp",
-   "texto": "Questão 15\nNo princípio do século XVII, era bem insignificante e\nquase miserável a Vila de São Paulo. João de Laet dava-\nlhe 200 habitantes, entre portugueses e mestiços, em 100\ncasas; a Câmara, em 1606, informava que eram 190 os\nmoradores, dos quais 65 andavam homiziados*.\n*homiziados: escondidos da justiça\nNelson Werneck Sodré. Formação histórica\ndo Brasil. São Paulo: Brasiliense, 1964.\nNa época da invasão holandesa, Olinda era a\ncapital e a cidade mais rica de Pernambuco. Cerca de 10%\nda população, calculada em aproximadamente 2.000\npessoas, dedicavam-se ao comércio, com o qual muita\ngente fazia fortuna. Cronistas da época afirmavam que os\nhabitantes ricos de Olinda viviam no maior luxo.\nHildegard Féist. Pequena história do Brasil holandês.\nSão Paulo: Moderna, 1998 (com adaptações).\nOs textos acima retratam, respectivamente, São Paulo e\nOlinda no início do século XVII, quando Olinda era maior e\nmais rica. São Paulo é, atualmente, a maior metrópole\nbrasileira e uma das maiores do planeta. Essa mudança\ndeveu-se, essencialmente, ao seguinte fator econômico:\nA maior desenvolvimento do cultivo da cana-de-açúcar\nno planalto de Piratininga do que na Zona da Mata\nNordestina.\nB atraso no desenvolvimento econômico da região de\nOlinda e Recife, associado à escravidão, inexistente\nem São Paulo.\nC avanço da construção naval em São Paulo, favorecido\npelo comércio dessa cidade com as Índias.\nD desenvolvimento sucessivo da economia mineradora,\ncafeicultora e industrial no Sudeste.\nE destruição do sistema produtivo de algodão em\nPernambuco quando da ocupação holandesa."
+   "imagem": "questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2006-q015.webp",
+   "texto": "Questão 15\nNo princípio do século XVII, era bem insignificante e\nquase miserável a Vila de São Paulo. João de Laet dava-\nlhe 200 habitantes, entre portugueses e mestiços, em 100\ncasas; a Câmara, em 1606, informava que eram 190 os\nmoradores, dos quais 65 andavam homiziados*.\n*homiziados: escondidos da justiça\nNelson Werneck Sodré. Formação histórica\ndo Brasil. São Paulo: Brasiliense, 1964.\nNa época da invasão holandesa, Olinda era a\ncapital e a cidade mais rica de Pernambuco. Cerca de 10%\nda população, calculada em aproximadamente 2.000\npessoas, dedicavam-se ao comércio, com o qual muita\ngente fazia fortuna. Cronistas da época afirmavam que os\nhabitantes ricos de Olinda viviam no maior luxo.\nHildegard Féist. Pequena história do Brasil holandês.\nSão Paulo: Moderna, 1998 (com adaptações).\nOs textos acima retratam, respectivamente, São Paulo e\nOlinda no início do século XVII, quando Olinda era maior e\nmais rica. São Paulo é, atualmente, a maior metrópole\nbrasileira e uma das maiores do planeta. Essa mudança\ndeveu-se, essencialmente, ao seguinte fator econômico:\nA maior desenvolvimento do cultivo da cana-de-açúcar\nno planalto de Piratininga do que na Zona da Mata\nNordestina.\nB atraso no desenvolvimento econômico da região de\nOlinda e Recife, associado à escravidão, inexistente\nem São Paulo.\nC avanço da construção naval em São Paulo, favorecido\npelo comércio dessa cidade com as Índias.\nD desenvolvimento sucessivo da economia mineradora,\ncafeicultora e industrial no Sudeste.\nE destruição do sistema produtivo de algodão em\nPernambuco quando da ocupação holandesa.",
+   "disciplina": "historia",
+   "subtopico": "historia-do-brasil-colonia-e-imperio",
+   "habilidade": "CH-H18",
+   "tema": "Olinda e São Paulo no século XVII",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2006-q015.md"
   },
   {
    "numero": 16,
-   "imagem": "img/enem-2006-q016.webp",
-   "texto": "Questão 16\nNo início do século XIX, o naturalista alemão Carl Von\nMartius esteve no Brasil em missão científica para fazer\nobservações sobre a flora e a fauna nativas e sobre a\nsociedade indígena. Referindo-se ao indígena, ele afirmou:\n“Permanecendo em grau inferior da humanidade,\nmoralmente, ainda na infância, a civilização não o altera,\nnenhum exemplo o excita e nada o impulsiona para um\nnobre desenvolvimento progressivo (...). Esse estranho e\ninexplicável estado do indígena americano, até o presente,\ntem feito fracassarem todas as tentativas para conciliá-lo\ninteiramente com a Europa vencedora e torná-lo um\ncidadão satisfeito e feliz.”\nCarl Von Martius. O estado do direito entre os autóctones\ndo Brasil. Belo Horizonte/São Paulo: Itatiaia/EDUSP, 1982.\nCom base nessa descrição, conclui-se que o naturalista\nVon Martius\nA apoiava a independência do Novo Mundo, acreditando\nque os índios, diferentemente do que fazia a missão\neuropéia, respeitavam a flora e a fauna do país.\nB discriminava preconceituosamente as populações\noriginárias da América e advogava o extermínio dos\níndios.\nC defendia uma posição progressista para o século XIX:\na de tornar o indígena cidadão satisfeito e feliz.\nD procurava impedir o processo de aculturação, ao\ndescrever cientificamente a cultura das populações\noriginárias da América.\nE desvalorizava os patrimônios étnicos e culturais das\nsociedades indígenas e reforçava a missão\n“civilizadora européia”, típica do século XIX."
+   "imagem": "questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2006-q016.webp",
+   "texto": "Questão 16\nNo início do século XIX, o naturalista alemão Carl Von\nMartius esteve no Brasil em missão científica para fazer\nobservações sobre a flora e a fauna nativas e sobre a\nsociedade indígena. Referindo-se ao indígena, ele afirmou:\n“Permanecendo em grau inferior da humanidade,\nmoralmente, ainda na infância, a civilização não o altera,\nnenhum exemplo o excita e nada o impulsiona para um\nnobre desenvolvimento progressivo (...). Esse estranho e\ninexplicável estado do indígena americano, até o presente,\ntem feito fracassarem todas as tentativas para conciliá-lo\ninteiramente com a Europa vencedora e torná-lo um\ncidadão satisfeito e feliz.”\nCarl Von Martius. O estado do direito entre os autóctones\ndo Brasil. Belo Horizonte/São Paulo: Itatiaia/EDUSP, 1982.\nCom base nessa descrição, conclui-se que o naturalista\nVon Martius\nA apoiava a independência do Novo Mundo, acreditando\nque os índios, diferentemente do que fazia a missão\neuropéia, respeitavam a flora e a fauna do país.\nB discriminava preconceituosamente as populações\noriginárias da América e advogava o extermínio dos\níndios.\nC defendia uma posição progressista para o século XIX:\na de tornar o indígena cidadão satisfeito e feliz.\nD procurava impedir o processo de aculturação, ao\ndescrever cientificamente a cultura das populações\noriginárias da América.\nE desvalorizava os patrimônios étnicos e culturais das\nsociedades indígenas e reforçava a missão\n“civilizadora européia”, típica do século XIX.",
+   "disciplina": "historia",
+   "subtopico": "historia-do-brasil-colonia-e-imperio",
+   "habilidade": "CH-H1",
+   "tema": "Visão eurocêntrica sobre o indígena no século XIX",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2006-q016.md"
   },
   {
    "numero": 17,
-   "imagem": "img/enem-2006-q017.webp",
-   "texto": "Questão 17\nA moderna democracia brasileira foi construída\nentre saltos e sobressaltos. Em 1954, a crise culminou no\nsuicídio do presidente Vargas. No ano seguinte, outra crise\nquase impediu a posse do presidente eleito, Juscelino\nKubitschek. Em 1961, o Brasil quase chegou à guerra civil\ndepois da inesperada renúncia do presidente Jânio\nQuadros. Três anos mais tarde, um golpe militar depôs o\npresidente João Goulart, e o país viveu durante vinte anos\nem regime autoritário.\nA partir dessas informações, relativas à\nhistória\nrepublicana brasileira, assinale a opção correta.\nA Ao término do governo João Goulart, Juscelino\nKubitschek foi eleito presidente da República.\nB A renúncia de Jânio Quadros representou a primeira\ngrande crise do regime republicano brasileiro.\nC Após duas décadas de governos militares, Getúlio\nVargas foi eleito presidente em eleições diretas.\nD A trágica morte de Vargas determinou o fim da carreira\npolítica de João Goulart.\nE No período republicano citado, sucessivamente, um\npresidente morreu, um teve sua posse contestada, um\nrenunciou e outro foi deposto."
+   "imagem": "questoes/historia/historia-do-brasil-republica/enem-2006-q017.webp",
+   "texto": "Questão 17\nA moderna democracia brasileira foi construída\nentre saltos e sobressaltos. Em 1954, a crise culminou no\nsuicídio do presidente Vargas. No ano seguinte, outra crise\nquase impediu a posse do presidente eleito, Juscelino\nKubitschek. Em 1961, o Brasil quase chegou à guerra civil\ndepois da inesperada renúncia do presidente Jânio\nQuadros. Três anos mais tarde, um golpe militar depôs o\npresidente João Goulart, e o país viveu durante vinte anos\nem regime autoritário.\nA partir dessas informações, relativas à\nhistória\nrepublicana brasileira, assinale a opção correta.\nA Ao término do governo João Goulart, Juscelino\nKubitschek foi eleito presidente da República.\nB A renúncia de Jânio Quadros representou a primeira\ngrande crise do regime republicano brasileiro.\nC Após duas décadas de governos militares, Getúlio\nVargas foi eleito presidente em eleições diretas.\nD A trágica morte de Vargas determinou o fim da carreira\npolítica de João Goulart.\nE No período republicano citado, sucessivamente, um\npresidente morreu, um teve sua posse contestada, um\nrenunciou e outro foi deposto.",
+   "disciplina": "historia",
+   "subtopico": "historia-do-brasil-republica",
+   "habilidade": null,
+   "tema": "Crises políticas de 1954 a 1964",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/historia/historia-do-brasil-republica/enem-2006-q017.md"
   },
   {
    "numero": 18,
-   "imagem": "img/enem-2006-q018.webp",
-   "texto": "Questão 18\nOs textos a seguir foram extraídos de duas crônicas publicadas no\nano em que a seleção brasileira conquistou o tricampeonato\nmundial de futebol.\nO General Médici falou em consistência moral. Sem isso,\ntalvez a vitória nos escapasse, pois a disciplina consciente,\nlivremente aceita, é vital na preparação espartana para o rude\nteste do campeonato. Os brasileiros portaram-se não apenas\ncomo técnicos ou profissionais, mas como brasileiros, como\ncidadãos deste grande país, cônscios de seu papel de\nrepresentantes de seu povo. Foi a própria afirmação do valor do\nhomem brasileiro, como salientou bem o presidente da República.\nQue o chefe do governo aproveite essa pausa, esse minuto de\neuforia e de efusão patriótica, para meditar sobre a situação do\npaís. (...) A realidade do Brasil é a explosão patriótica do povo ante\na vitória na Copa.\nDanton Jobim. Última Hora, 23/6/1970 (com adaptações).\nO que explodiu mesmo foi a alma, foi a paixão do povo:\numa explosão incomparável de alegria, de entusiasmo, de orgulho.\n(...) Debruçado em minha varanda de Ipanema, [um velho amigo]\nperguntava: — Será que algum terrorista se aproveitou do delírio\ncoletivo para adiantar um plano seu qualquer, agindo com frieza e\nprecisão? Será que, de outro lado, algum carrasco policial teve\nânimo para voltar a torturar sua vítima logo que o alemão apitou o\nfim do jogo?\nRubem Braga. Última Hora, 25/6/1970 (com adaptações).\nAvalie as seguintes afirmações a respeito dos dois textos e do\nperíodo histórico em que foram escritos.\nI Para os dois autores, a conquista do tricampeonato mundial de\nfutebol provocou uma explosão de alegria popular.\nII Os dois textos salientam o momento político que o país\natravessava ao mesmo tempo em que conquistava o\ntricampeonato.\nIII À época da conquista do tricampeonato mundial de futebol, o\nBrasil vivia sob regime militar, que, embora politicamente\nautoritário, não chegou a fazer uso de métodos violentos contra\nseus opositores.\nÉ correto apenas o que se afirma em\nA I.\nB II.\nC III.\nD I e II.\nE II e III."
+   "imagem": "questoes/historia/historia-do-brasil-republica/enem-2006-q018.webp",
+   "texto": "Questão 18\nOs textos a seguir foram extraídos de duas crônicas publicadas no\nano em que a seleção brasileira conquistou o tricampeonato\nmundial de futebol.\nO General Médici falou em consistência moral. Sem isso,\ntalvez a vitória nos escapasse, pois a disciplina consciente,\nlivremente aceita, é vital na preparação espartana para o rude\nteste do campeonato. Os brasileiros portaram-se não apenas\ncomo técnicos ou profissionais, mas como brasileiros, como\ncidadãos deste grande país, cônscios de seu papel de\nrepresentantes de seu povo. Foi a própria afirmação do valor do\nhomem brasileiro, como salientou bem o presidente da República.\nQue o chefe do governo aproveite essa pausa, esse minuto de\neuforia e de efusão patriótica, para meditar sobre a situação do\npaís. (...) A realidade do Brasil é a explosão patriótica do povo ante\na vitória na Copa.\nDanton Jobim. Última Hora, 23/6/1970 (com adaptações).\nO que explodiu mesmo foi a alma, foi a paixão do povo:\numa explosão incomparável de alegria, de entusiasmo, de orgulho.\n(...) Debruçado em minha varanda de Ipanema, [um velho amigo]\nperguntava: — Será que algum terrorista se aproveitou do delírio\ncoletivo para adiantar um plano seu qualquer, agindo com frieza e\nprecisão? Será que, de outro lado, algum carrasco policial teve\nânimo para voltar a torturar sua vítima logo que o alemão apitou o\nfim do jogo?\nRubem Braga. Última Hora, 25/6/1970 (com adaptações).\nAvalie as seguintes afirmações a respeito dos dois textos e do\nperíodo histórico em que foram escritos.\nI Para os dois autores, a conquista do tricampeonato mundial de\nfutebol provocou uma explosão de alegria popular.\nII Os dois textos salientam o momento político que o país\natravessava ao mesmo tempo em que conquistava o\ntricampeonato.\nIII À época da conquista do tricampeonato mundial de futebol, o\nBrasil vivia sob regime militar, que, embora politicamente\nautoritário, não chegou a fazer uso de métodos violentos contra\nseus opositores.\nÉ correto apenas o que se afirma em\nA I.\nB II.\nC III.\nD I e II.\nE II e III.",
+   "disciplina": "historia",
+   "subtopico": "historia-do-brasil-republica",
+   "habilidade": "CH-H4",
+   "tema": "Copa de 1970 e ditadura militar",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/historia/historia-do-brasil-republica/enem-2006-q018.md"
   },
   {
    "numero": 19,
-   "imagem": "img/enem-2006-q019.webp",
-   "texto": "Questão 19\nA tabela ao lado indica a posição\nA B C D\nrelativa de quatro times de futebol na\nA\ncIassificação geral de um torneio, em dois\n*\nanos consecutivos. O símbolo ● significa\nB *\n*\nque o time indicado na linha ficou, no ano\nC * *\n*\nde 2004, à frente do indicado na coluna. O\nsímbolo * significa que o time indicado na\nD\nlinha ficou, no ano de 2005, à frente do\nindicado na coluna.\nA probabilidade de que um desses quatro times, escolhido ao\nacaso, tenha obtido a mesma classificação no torneio, em 2004 e\n2005, é igual a\nA 0,00.\nB 0,25.\nC 0,50.\nD 0,75.\nE 1,00."
+   "imagem": "questoes/matematica/probabilidade/enem-2006-q019.webp",
+   "texto": "Questão 19\nA tabela ao lado indica a posição\nA B C D\nrelativa de quatro times de futebol na\nA\ncIassificação geral de um torneio, em dois\n*\nanos consecutivos. O símbolo ● significa\nB *\n*\nque o time indicado na linha ficou, no ano\nC * *\n*\nde 2004, à frente do indicado na coluna. O\nsímbolo * significa que o time indicado na\nD\nlinha ficou, no ano de 2005, à frente do\nindicado na coluna.\nA probabilidade de que um desses quatro times, escolhido ao\nacaso, tenha obtido a mesma classificação no torneio, em 2004 e\n2005, é igual a\nA 0,00.\nB 0,25.\nC 0,50.\nD 0,75.\nE 1,00.",
+   "disciplina": "matematica",
+   "subtopico": "probabilidade",
+   "habilidade": "MT-H28",
+   "tema": "Probabilidade com tabela de classificação de times",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/matematica/probabilidade/enem-2006-q019.md"
   },
   {
    "numero": 20,
-   "imagem": "img/enem-2006-q020.webp",
-   "texto": "Questão 20\nUm time de futebol amador ganhou uma\ntaça ao vencer um campeonato. Os jogadores\ndecidiram que o prêmio seria guardado na casa de\num deles. Todos quiseram guardar a taça em suas\ncasas. Na discussão para se decidir com quem\nficaria o troféu, travou-se o seguinte diálogo:\nPedro, camisa 6: — Tive uma idéia. Nós\nsomos 11 jogadores e nossas camisas estão\nnumeradas de 2 a 12. Tenho dois dados com as\nfaces numeradas de 1 a 6. Se eu jogar os dois\ndados, a soma dos números das faces que ficarem\npara cima pode variar de 2 (1 + 1) até 12 (6 + 6).\nVamos jogar os dados, e quem tiver a camisa com\no número do resultado vai guardar a taça.\nTadeu, camisa 2: — Não sei não... Pedro\nsempre foi muito esperto... Acho que ele está\nlevando alguma vantagem nessa proposta...\nRicardo, camisa 12: — Pensando bem...\nVocê pode estar certo, pois, conhecendo o Pedro,\né capaz que ele tenha mais chances de ganhar que\nnós dois juntos...\nDesse diálogo conclui-se que\nA Tadeu e Ricardo estavam equivocados, pois a\nprobabilidade de ganhar a guarda da taça era\na mesma para todos.\nB Tadeu tinha razão e Ricardo estava\nequivocado, pois, juntos, tinham mais chances\nde ganhar a guarda da taça do que Pedro.\nC Tadeu tinha razão e Ricardo estava\nequivocado, pois, juntos, tinham a mesma\nchance que Pedro de ganhar a guarda da taça.\nD Tadeu e Ricardo tinham razão, pois os dois\njuntos tinham menos chances de ganhar a\nguarda da taça do que Pedro.\nE não é possível saber qual dos jogadores tinha\nrazão, por se tratar de um resultado\nprobabilístico, que depende exclusivamente da\nsorte.\nRASCUNHO"
+   "imagem": "questoes/matematica/probabilidade/enem-2006-q020.webp",
+   "texto": "Questão 20\nUm time de futebol amador ganhou uma\ntaça ao vencer um campeonato. Os jogadores\ndecidiram que o prêmio seria guardado na casa de\num deles. Todos quiseram guardar a taça em suas\ncasas. Na discussão para se decidir com quem\nficaria o troféu, travou-se o seguinte diálogo:\nPedro, camisa 6: — Tive uma idéia. Nós\nsomos 11 jogadores e nossas camisas estão\nnumeradas de 2 a 12. Tenho dois dados com as\nfaces numeradas de 1 a 6. Se eu jogar os dois\ndados, a soma dos números das faces que ficarem\npara cima pode variar de 2 (1 + 1) até 12 (6 + 6).\nVamos jogar os dados, e quem tiver a camisa com\no número do resultado vai guardar a taça.\nTadeu, camisa 2: — Não sei não... Pedro\nsempre foi muito esperto... Acho que ele está\nlevando alguma vantagem nessa proposta...\nRicardo, camisa 12: — Pensando bem...\nVocê pode estar certo, pois, conhecendo o Pedro,\né capaz que ele tenha mais chances de ganhar que\nnós dois juntos...\nDesse diálogo conclui-se que\nA Tadeu e Ricardo estavam equivocados, pois a\nprobabilidade de ganhar a guarda da taça era\na mesma para todos.\nB Tadeu tinha razão e Ricardo estava\nequivocado, pois, juntos, tinham mais chances\nde ganhar a guarda da taça do que Pedro.\nC Tadeu tinha razão e Ricardo estava\nequivocado, pois, juntos, tinham a mesma\nchance que Pedro de ganhar a guarda da taça.\nD Tadeu e Ricardo tinham razão, pois os dois\njuntos tinham menos chances de ganhar a\nguarda da taça do que Pedro.\nE não é possível saber qual dos jogadores tinha\nrazão, por se tratar de um resultado\nprobabilístico, que depende exclusivamente da\nsorte.\nRASCUNHO",
+   "disciplina": "matematica",
+   "subtopico": "probabilidade",
+   "habilidade": "MT-H28",
+   "tema": "Soma de dois dados e chances dos jogadores",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/matematica/probabilidade/enem-2006-q020.md"
   },
   {
    "numero": 21,
-   "imagem": "img/enem-2006-q021.webp",
-   "texto": "Questão 21\nO relatório anual (2002) da Organização para a Cooperação\ne Desenvolvimento Econômico (OCDE) revela transformações na\norigem dos fluxos migratórios. Observa-se aumento das migrações\nde chineses, filipinos, russos e ucranianos com destino aos países-\nmembros da OCDE. Também foi registrado aumento de fluxos\nmigratórios provenientes da América Latina.\nTrends in international migration — 2002.\nInternet: <www.ocde.org> (com adaptações).\nNo mapa seguinte, estão destacados, com a cor preta, os países\nque mais receberam esses fluxos migratórios em 2002.\nAs migrações citadas estão relacionadas, principalmente, à\nA\nameaça de terrorismo em países pertencentes à OCDE.\nB\npolítica dos países mais ricos de incentivo à imigração.\nC\nperseguição religiosa em países muçulmanos.\nD\nrepressão política em países do Leste Europeu.\nE\nbusca de oportunidades de emprego."
+   "imagem": "questoes/geografia/populacao-e-demografia/enem-2006-q021.webp",
+   "texto": "Questão 21\nO relatório anual (2002) da Organização para a Cooperação\ne Desenvolvimento Econômico (OCDE) revela transformações na\norigem dos fluxos migratórios. Observa-se aumento das migrações\nde chineses, filipinos, russos e ucranianos com destino aos países-\nmembros da OCDE. Também foi registrado aumento de fluxos\nmigratórios provenientes da América Latina.\nTrends in international migration — 2002.\nInternet: <www.ocde.org> (com adaptações).\nNo mapa seguinte, estão destacados, com a cor preta, os países\nque mais receberam esses fluxos migratórios em 2002.\nAs migrações citadas estão relacionadas, principalmente, à\nA\nameaça de terrorismo em países pertencentes à OCDE.\nB\npolítica dos países mais ricos de incentivo à imigração.\nC\nperseguição religiosa em países muçulmanos.\nD\nrepressão política em países do Leste Europeu.\nE\nbusca de oportunidades de emprego.",
+   "disciplina": "geografia",
+   "subtopico": "populacao-e-demografia",
+   "habilidade": "CH-H8",
+   "tema": "Fluxos migratórios para países da OCDE",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/geografia/populacao-e-demografia/enem-2006-q021.md"
   },
   {
    "numero": 22,
-   "imagem": "img/enem-2006-q022.webp",
-   "texto": "Questão 22\nOs mapas a seguir revelam como as fronteiras e suas\nrepresentações gráficas são mutáveis.\nAlema- Rep.\nPolônia\nPolônia\nnha Checa\nUcrânia\nAlema- Checoslováquia\nURSS\nEslováquia\nnha\nia\nria\nstr\nÁust\nÁu\nHungria\nHungria\nEslovênia\nCroácia\no\no\nBósnia Herzegovina\ngr\nIugoslávia\negr\nNe\nr N\nr\nMa\nSérvia e\nMa\nMontenegro\nTurquia\nTurquia\nGuerra Fria (1945-1989)\nPós-Guerra Fria\nEssas significativas mudanças nas fronteiras de países da\nEuropa Oriental nas duas últimas décadas do século XX, direta\nou indiretamente, resultaram\nA do fortalecimento geopolítico da URSS e de seus países\naliados, na ordem internacional.\nB da crise do capitalismo na Europa, representada\nprincipalmente pela queda do muro de Berlim.\nC da luta de antigas e tradicionais comunidades nacionais e\nreligiosas oprimidas por Estados criados antes da Segunda\nGuerra Mundial.\nD do avanço do capitalismo e da ideologia neoliberal no\nmundo ocidental.\nE da necessidade de alguns países subdesenvolvidos\nampliarem seus territórios."
+   "imagem": "questoes/geografia/geopolitica-e-globalizacao/enem-2006-q022.webp",
+   "texto": "Questão 22\nOs mapas a seguir revelam como as fronteiras e suas\nrepresentações gráficas são mutáveis.\nAlema- Rep.\nPolônia\nPolônia\nnha Checa\nUcrânia\nAlema- Checoslováquia\nURSS\nEslováquia\nnha\nia\nria\nstr\nÁust\nÁu\nHungria\nHungria\nEslovênia\nCroácia\no\no\nBósnia Herzegovina\ngr\nIugoslávia\negr\nNe\nr N\nr\nMa\nSérvia e\nMa\nMontenegro\nTurquia\nTurquia\nGuerra Fria (1945-1989)\nPós-Guerra Fria\nEssas significativas mudanças nas fronteiras de países da\nEuropa Oriental nas duas últimas décadas do século XX, direta\nou indiretamente, resultaram\nA do fortalecimento geopolítico da URSS e de seus países\naliados, na ordem internacional.\nB da crise do capitalismo na Europa, representada\nprincipalmente pela queda do muro de Berlim.\nC da luta de antigas e tradicionais comunidades nacionais e\nreligiosas oprimidas por Estados criados antes da Segunda\nGuerra Mundial.\nD do avanço do capitalismo e da ideologia neoliberal no\nmundo ocidental.\nE da necessidade de alguns países subdesenvolvidos\nampliarem seus territórios.",
+   "disciplina": "geografia",
+   "subtopico": "geopolitica-e-globalizacao",
+   "habilidade": "CH-H7",
+   "tema": "Mudanças de fronteiras no Leste Europeu",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/geografia/geopolitica-e-globalizacao/enem-2006-q022.md"
   },
   {
    "numero": 23,
-   "imagem": "img/enem-2006-q023.webp",
-   "texto": "Texto para as questões 23 e 24\nNos últimos anos, ocorreu redução gradativa\nda taxa de crescimento populacional em quase todos\nos continentes. A seguir, são apresentados dados\nrelativos aos países mais populosos em 2000 e\ntambém as projeções para 2050.\nPaíses mais populosos em 2000\n(em milhões de habitantes)\n1.400\n1.275\n1.200\n1.008\n1.000\n800\n600\n400\n283\n212\n200\n170\nChina\nÍndia\nEUA\nIndonésia\nBrasil\nPaíses mais populosos - previsão para 2050\n(em milhões de habitantes)\n1.800\n1.572\n1.600\n1.462\n1.400\n1.200\n1.000\n800\n600\n397\n400\n344\n311\n200\nÍndia\nChina\nEUA\nPaquistão\nIndonésia\nInternet: <www.ibge.gov.br>.\nQuestão 23\nCom base nas informações acima, é correto afirmar\nque, no período de 2000 a 2050,\nA a taxa de crescimento populacional da China\nserá negativa.\nB a população do Brasil duplicará.\nC a taxa de crescimento da população da\nIndonésia será menor que a dos EUA.\nD a população do Paquistão crescerá mais de\n100%.\nE a China será o país com a maior taxa de\ncrescimento populacional do mundo."
+   "imagem": "questoes/matematica/estatistica-tabelas-e-graficos/enem-2006-q023.webp",
+   "texto": "Texto para as questões 23 e 24\nNos últimos anos, ocorreu redução gradativa\nda taxa de crescimento populacional em quase todos\nos continentes. A seguir, são apresentados dados\nrelativos aos países mais populosos em 2000 e\ntambém as projeções para 2050.\nPaíses mais populosos em 2000\n(em milhões de habitantes)\n1.400\n1.275\n1.200\n1.008\n1.000\n800\n600\n400\n283\n212\n200\n170\nChina\nÍndia\nEUA\nIndonésia\nBrasil\nPaíses mais populosos - previsão para 2050\n(em milhões de habitantes)\n1.800\n1.572\n1.600\n1.462\n1.400\n1.200\n1.000\n800\n600\n397\n400\n344\n311\n200\nÍndia\nChina\nEUA\nPaquistão\nIndonésia\nInternet: <www.ibge.gov.br>.\nQuestão 23\nCom base nas informações acima, é correto afirmar\nque, no período de 2000 a 2050,\nA a taxa de crescimento populacional da China\nserá negativa.\nB a população do Brasil duplicará.\nC a taxa de crescimento da população da\nIndonésia será menor que a dos EUA.\nD a população do Paquistão crescerá mais de\n100%.\nE a China será o país com a maior taxa de\ncrescimento populacional do mundo.",
+   "disciplina": "matematica",
+   "subtopico": "estatistica-tabelas-e-graficos",
+   "habilidade": "MT-H24",
+   "tema": "Projeção populacional dos países mais populosos",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/matematica/estatistica-tabelas-e-graficos/enem-2006-q023.md"
   },
   {
    "numero": 24,
-   "imagem": "img/enem-2006-q024.webp",
-   "texto": "Texto para as questões 23 e 24\nNos últimos anos, ocorreu redução gradativa\nda taxa de crescimento populacional em quase todos\nos continentes. A seguir, são apresentados dados\nrelativos aos países mais populosos em 2000 e\ntambém as projeções para 2050.\nPaíses mais populosos em 2000\n(em milhões de habitantes)\n1.400\n1.275\n1.200\n1.008\n1.000\n800\n600\n400\n283\n212\n200\n170\nChina\nÍndia\nEUA\nIndonésia\nBrasil\nPaíses mais populosos - previsão para 2050\n(em milhões de habitantes)\n1.800\n1.572\n1.600\n1.462\n1.400\n1.200\n1.000\n800\n600\n397\n400\n344\n311\n200\nÍndia\nChina\nEUA\nPaquistão\nIndonésia\nInternet: <www.ibge.gov.br>.\nQuestão 24\nCom base nas informações dos gráficos mostrados,\nsuponha que, no período 2050-2100, a taxa de\ncrescimento populacional da Índia seja a mesma\nprojetada para o período 2000-2050. Sendo assim,\nno início do século XXII, a população da Índia, em\nbilhões de habitantes, será\nA\ninferior a 2,0.\nB\nsuperior a 2,0 e inferior a 2,1.\nC\nsuperior a 2,1 e inferior a 2,2.\nD\nsuperior a 2,2 e inferior a 2,3.\nE\nsuperior a 2,3."
+   "imagem": "questoes/matematica/porcentagem-e-matematica-financeira/enem-2006-q024.webp",
+   "texto": "Texto para as questões 23 e 24\nNos últimos anos, ocorreu redução gradativa\nda taxa de crescimento populacional em quase todos\nos continentes. A seguir, são apresentados dados\nrelativos aos países mais populosos em 2000 e\ntambém as projeções para 2050.\nPaíses mais populosos em 2000\n(em milhões de habitantes)\n1.400\n1.275\n1.200\n1.008\n1.000\n800\n600\n400\n283\n212\n200\n170\nChina\nÍndia\nEUA\nIndonésia\nBrasil\nPaíses mais populosos - previsão para 2050\n(em milhões de habitantes)\n1.800\n1.572\n1.600\n1.462\n1.400\n1.200\n1.000\n800\n600\n397\n400\n344\n311\n200\nÍndia\nChina\nEUA\nPaquistão\nIndonésia\nInternet: <www.ibge.gov.br>.\nQuestão 24\nCom base nas informações dos gráficos mostrados,\nsuponha que, no período 2050-2100, a taxa de\ncrescimento populacional da Índia seja a mesma\nprojetada para o período 2000-2050. Sendo assim,\nno início do século XXII, a população da Índia, em\nbilhões de habitantes, será\nA\ninferior a 2,0.\nB\nsuperior a 2,0 e inferior a 2,1.\nC\nsuperior a 2,1 e inferior a 2,2.\nD\nsuperior a 2,2 e inferior a 2,3.\nE\nsuperior a 2,3.",
+   "disciplina": "matematica",
+   "subtopico": "porcentagem-e-matematica-financeira",
+   "habilidade": "MT-H25",
+   "tema": "Taxa de crescimento populacional da Índia",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/matematica/porcentagem-e-matematica-financeira/enem-2006-q024.md"
   },
   {
    "numero": 25,
-   "imagem": "img/enem-2006-q025.webp",
-   "texto": "Questão 25\nOs gráficos 1 e 2 a seguir mostram, em milhões de reais, o\ntotal do valor das vendas que uma empresa realizou em\ncada mês, nos anos de 2004 e 2005.\nVendas em 2004\n8,0\n7,5\n7,0\nmilhões de reais\n6,5\n6,0\n5,5\n5,0\n4,5\n4,0\nJ\nF\nM\nA\nM\nJ\nJ\nA\nS\nO\nN\nD\nmeses\nGráfico 1\nVendas em 2005\n8,0\n7,5\n7,0\nmilhões de reais\n6,5\n6,0\n5,5\n5,0\n4,5\n4,0\nJ\nF\nM\nA\nM\nJ\nJ\nA\nS\nO\nN\nD\nmeses\nGráfico 2\nComo mostra o gráfico 1, durante o ano de 2004, houve,\nem cada mês, crescimento das vendas em relação ao mês\nanterior. A diretoria dessa empresa, porém, considerou\nmuito lento o ritmo de crescimento naquele ano. Por isso,\nestabeleceu como meta mensal para o ano de 2005 o\ncrescimento das vendas em ritmo mais acelerado que o de\n2004. Pela análise do gráfico 2, conclui-se que a meta para\n2005 foi atingida em\nA\njaneiro, fevereiro e outubro.\nB\nfevereiro, março e junho.\nC\nmarço, maio e agosto.\nD\nabril, agosto e novembro.\nE\njulho, setembro e dezembro."
+   "imagem": "questoes/matematica/estatistica-tabelas-e-graficos/enem-2006-q025.webp",
+   "texto": "Questão 25\nOs gráficos 1 e 2 a seguir mostram, em milhões de reais, o\ntotal do valor das vendas que uma empresa realizou em\ncada mês, nos anos de 2004 e 2005.\nVendas em 2004\n8,0\n7,5\n7,0\nmilhões de reais\n6,5\n6,0\n5,5\n5,0\n4,5\n4,0\nJ\nF\nM\nA\nM\nJ\nJ\nA\nS\nO\nN\nD\nmeses\nGráfico 1\nVendas em 2005\n8,0\n7,5\n7,0\nmilhões de reais\n6,5\n6,0\n5,5\n5,0\n4,5\n4,0\nJ\nF\nM\nA\nM\nJ\nJ\nA\nS\nO\nN\nD\nmeses\nGráfico 2\nComo mostra o gráfico 1, durante o ano de 2004, houve,\nem cada mês, crescimento das vendas em relação ao mês\nanterior. A diretoria dessa empresa, porém, considerou\nmuito lento o ritmo de crescimento naquele ano. Por isso,\nestabeleceu como meta mensal para o ano de 2005 o\ncrescimento das vendas em ritmo mais acelerado que o de\n2004. Pela análise do gráfico 2, conclui-se que a meta para\n2005 foi atingida em\nA\njaneiro, fevereiro e outubro.\nB\nfevereiro, março e junho.\nC\nmarço, maio e agosto.\nD\nabril, agosto e novembro.\nE\njulho, setembro e dezembro.",
+   "disciplina": "matematica",
+   "subtopico": "estatistica-tabelas-e-graficos",
+   "habilidade": "MT-H24",
+   "tema": "Crescimento mensal de vendas em gráficos",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/matematica/estatistica-tabelas-e-graficos/enem-2006-q025.md"
   },
   {
    "numero": 26,
-   "imagem": "img/enem-2006-q026.webp",
-   "texto": "Questão 26\nUma cooperativa de radiotáxis tem como meta\natender, em no máximo 15 minutos, a pelo menos 95% das\nchamadas que recebe. O controle dessa meta é feito\nininterruptamente por um funcionário que utiliza um\nequipamento de rádio para monitoramento. A cada 100\nchamadas, ele registra o número acumulado de chamadas\nque não foram atendidas em 15 minutos. Ao final de um\ndia, a cooperativa apresentou o seguinte desempenho:\ntotal acumulado\n100\n200\n300\n400\n482\nde chamadas\nnúmero acumulado de\nchamadas não atendidas\n6\n11\n17\n21\n24\nem 15 minutos\nEsse desempenho mostra que, nesse dia, a meta\nestabelecida foi atingida\nA\nnas primeiras 100 chamadas.\nB\nnas primeiras 200 chamadas.\nC\nnas primeiras 300 chamadas.\nD\nnas primeiras 400 chamadas.\nE\nao final do dia."
+   "imagem": "questoes/matematica/porcentagem-e-matematica-financeira/enem-2006-q026.webp",
+   "texto": "Questão 26\nUma cooperativa de radiotáxis tem como meta\natender, em no máximo 15 minutos, a pelo menos 95% das\nchamadas que recebe. O controle dessa meta é feito\nininterruptamente por um funcionário que utiliza um\nequipamento de rádio para monitoramento. A cada 100\nchamadas, ele registra o número acumulado de chamadas\nque não foram atendidas em 15 minutos. Ao final de um\ndia, a cooperativa apresentou o seguinte desempenho:\ntotal acumulado\n100\n200\n300\n400\n482\nde chamadas\nnúmero acumulado de\nchamadas não atendidas\n6\n11\n17\n21\n24\nem 15 minutos\nEsse desempenho mostra que, nesse dia, a meta\nestabelecida foi atingida\nA\nnas primeiras 100 chamadas.\nB\nnas primeiras 200 chamadas.\nC\nnas primeiras 300 chamadas.\nD\nnas primeiras 400 chamadas.\nE\nao final do dia.",
+   "disciplina": "matematica",
+   "subtopico": "porcentagem-e-matematica-financeira",
+   "habilidade": "MT-H25",
+   "tema": "Meta de 95% de chamadas atendidas",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/matematica/porcentagem-e-matematica-financeira/enem-2006-q026.md"
   },
   {
    "numero": 27,
-   "imagem": "img/enem-2006-q027.webp",
-   "texto": "Questão 27\nO gráfico abaixo foi extraído de matéria publicada no\ncaderno Economia & Negócios do jornal O Estado de\nS. Paulo, em 11/6/2006.\nInflação - acumulado em 12 meses no Brasil e nos\nEUA, segundo índices de preços ao consumidor\nBRASIL - IPC-FIPE*\nEUA - CPI**\nEM PORCENTAGEM\n16,00\n14,00\n12,00\n10,00\n8,00\n6,00\n4,00\n3,55\n2,00\n2,57\n0\n2001\n2002\n2003\n2004\n2005\n2006\n* Índice de Preços ao Consumidor da FIPE\n** Consumer Price Index\nFonte: Fundação Instituto de Pesquisas Econômicas (FIPE)\nÉ um título adequado para a matéria jornalística em que\nesse gráfico foi apresentado:\nA Brasil: inflação acumulada em 12 meses menor que a\ndos EUA\nB Inflação do terceiro mundo supera pela sétima vez a\ndo primeiro mundo\nC Inflação brasileira estável no período de 2001 a 2006\nD Queda no índice de preços ao consumidor no período\n2001-2005\nE EUA: ataques terroristas causam hiperinflação\nRASCUNHO"
+   "imagem": "questoes/matematica/estatistica-tabelas-e-graficos/enem-2006-q027.webp",
+   "texto": "Questão 27\nO gráfico abaixo foi extraído de matéria publicada no\ncaderno Economia & Negócios do jornal O Estado de\nS. Paulo, em 11/6/2006.\nInflação - acumulado em 12 meses no Brasil e nos\nEUA, segundo índices de preços ao consumidor\nBRASIL - IPC-FIPE*\nEUA - CPI**\nEM PORCENTAGEM\n16,00\n14,00\n12,00\n10,00\n8,00\n6,00\n4,00\n3,55\n2,00\n2,57\n0\n2001\n2002\n2003\n2004\n2005\n2006\n* Índice de Preços ao Consumidor da FIPE\n** Consumer Price Index\nFonte: Fundação Instituto de Pesquisas Econômicas (FIPE)\nÉ um título adequado para a matéria jornalística em que\nesse gráfico foi apresentado:\nA Brasil: inflação acumulada em 12 meses menor que a\ndos EUA\nB Inflação do terceiro mundo supera pela sétima vez a\ndo primeiro mundo\nC Inflação brasileira estável no período de 2001 a 2006\nD Queda no índice de preços ao consumidor no período\n2001-2005\nE EUA: ataques terroristas causam hiperinflação\nRASCUNHO",
+   "disciplina": "matematica",
+   "subtopico": "estatistica-tabelas-e-graficos",
+   "habilidade": "MT-H26",
+   "tema": "Título adequado para gráfico de inflação",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/matematica/estatistica-tabelas-e-graficos/enem-2006-q027.md"
   },
   {
    "numero": 28,
-   "imagem": "img/enem-2006-q028.webp",
-   "texto": "Questão 28\nNo Brasil, verifica-se que a Lua,\nquando está na fase cheia,\nnasce por volta das 18 horas e\nse põe por volta das 6 horas. Na\nfase nova, ocorre o inverso: a\nLua nasce às 6 horas e se põe\nàs 18 horas, aproximadamente.\nNas\nfases\ncrescente\ne\nminguante, ela nasce e se põe em horários intermediários.\nSendo assim, a Lua na fase ilustrada na figura acima\npoderá ser observada no ponto mais alto de sua trajetória\nno céu por volta de\nA\nmeia-noite.\nB\ntrês horas da madrugada.\nC\nnove horas da manhã.\nD\nmeio-dia.\nE\nseis horas da tarde."
+   "imagem": "questoes/fisica/gravitacao/enem-2006-q028.webp",
+   "texto": "Questão 28\nNo Brasil, verifica-se que a Lua,\nquando está na fase cheia,\nnasce por volta das 18 horas e\nse põe por volta das 6 horas. Na\nfase nova, ocorre o inverso: a\nLua nasce às 6 horas e se põe\nàs 18 horas, aproximadamente.\nNas\nfases\ncrescente\ne\nminguante, ela nasce e se põe em horários intermediários.\nSendo assim, a Lua na fase ilustrada na figura acima\npoderá ser observada no ponto mais alto de sua trajetória\nno céu por volta de\nA\nmeia-noite.\nB\ntrês horas da madrugada.\nC\nnove horas da manhã.\nD\nmeio-dia.\nE\nseis horas da tarde.",
+   "disciplina": "fisica",
+   "subtopico": "gravitacao",
+   "habilidade": "CN-H20",
+   "tema": "Fases da Lua e horário de passagem meridiana",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/fisica/gravitacao/enem-2006-q028.md"
   },
   {
    "numero": 29,
-   "imagem": "img/enem-2006-q029.webp",
-   "texto": "Questão 29\nA poluição ambiental tornou-se grave problema a\nser enfrentado pelo mundo contemporâneo. No gráfico\nseguinte, alguns países estão agrupados de acordo com\nas respectivas emissões médias anuais de CO 2 per capita.\nBrasil, Índia, Indonésia, países da\nAmérica Central e Caribe\nChina, México, Chile, Argentina,\npaíses da União Européia e\nVenezuela\nJapão, Canadá, Rússia, Ucrânia,\nPolônia e África do Sul\nEUA e Austrália\n0\n5\n10 15 20 25 30 35\n40\ntoneladas de CO 2 per capita\nO Estado de S. Paulo, 22/7/2004 (com adaptações).\nConsiderando as características dos países citados, bem\ncomo as emissões médias anuais de CO 2 per capita\nindicadas no gráfico, assinale a opção correta.\nA O índice de emissão de CO 2 per capita dos países da\nUnião Européia se equipara ao de alguns países\nemergentes.\nB A China lança, em média, mais CO 2 per capita na\natmosfera que os EUA.\nC A soma das emissões de CO 2 per capita de Brasil,\nÍndia e Indonésia é maior que o total lançado pelos\nEUA.\nD A emissão de CO 2 é tanto maior quanto menos\ndesenvolvido é o país.\nE A média de lançamento de CO 2 em regiões e países\ndesenvolvidos é superior a 15 toneladas por pessoa\nao ano."
+   "imagem": "questoes/geografia/geografia-ambiental/enem-2006-q029.webp",
+   "texto": "Questão 29\nA poluição ambiental tornou-se grave problema a\nser enfrentado pelo mundo contemporâneo. No gráfico\nseguinte, alguns países estão agrupados de acordo com\nas respectivas emissões médias anuais de CO 2 per capita.\nBrasil, Índia, Indonésia, países da\nAmérica Central e Caribe\nChina, México, Chile, Argentina,\npaíses da União Européia e\nVenezuela\nJapão, Canadá, Rússia, Ucrânia,\nPolônia e África do Sul\nEUA e Austrália\n0\n5\n10 15 20 25 30 35\n40\ntoneladas de CO 2 per capita\nO Estado de S. Paulo, 22/7/2004 (com adaptações).\nConsiderando as características dos países citados, bem\ncomo as emissões médias anuais de CO 2 per capita\nindicadas no gráfico, assinale a opção correta.\nA O índice de emissão de CO 2 per capita dos países da\nUnião Européia se equipara ao de alguns países\nemergentes.\nB A China lança, em média, mais CO 2 per capita na\natmosfera que os EUA.\nC A soma das emissões de CO 2 per capita de Brasil,\nÍndia e Indonésia é maior que o total lançado pelos\nEUA.\nD A emissão de CO 2 é tanto maior quanto menos\ndesenvolvido é o país.\nE A média de lançamento de CO 2 em regiões e países\ndesenvolvidos é superior a 15 toneladas por pessoa\nao ano.",
+   "disciplina": "geografia",
+   "subtopico": "geografia-ambiental",
+   "habilidade": "CH-H27",
+   "tema": "Emissão de CO2 per capita por países",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/geografia/geografia-ambiental/enem-2006-q029.md"
   },
   {
    "numero": 30,
-   "imagem": "img/enem-2006-q030.webp",
-   "texto": "Questão 30\nCom base em projeções realizadas por\nespecialistas, prevê-se, para o fim do século XXI, aumento\nde temperatura média, no planeta, entre 1,4 ºC e 5,8 ºC.\nComo conseqüência desse aquecimento, possivelmente o\nclima será mais quente e mais úmido bem como ocorrerão\nmais enchentes em algumas áreas e secas crônicas em\noutras.\nO\naquecimento\ntambém\nprovocará\no\ndesaparecimento de algumas geleiras, o que acarretará o\naumento do nível dos oceanos e a inundação de certas\náreas litorâneas.\nAs mudanças climáticas previstas para o fim do século XXI\nA provocarão a redução das taxas de evaporação e de\ncondensação do ciclo da água.\nB poderão interferir nos processos do ciclo da água que\nenvolvem mudanças de estado físico.\nC promoverão o aumento da disponibilidade de alimento\ndas espécies marinhas.\nD induzirão o aumento dos mananciais, o que\nsolucionará os problemas de falta de água no planeta.\nE causarão o aumento do volume de todos os cursos de\nágua, o que minimizará os efeitos da poluição\naquática."
+   "imagem": "questoes/geografia/geografia-ambiental/enem-2006-q030.webp",
+   "texto": "Questão 30\nCom base em projeções realizadas por\nespecialistas, prevê-se, para o fim do século XXI, aumento\nde temperatura média, no planeta, entre 1,4 ºC e 5,8 ºC.\nComo conseqüência desse aquecimento, possivelmente o\nclima será mais quente e mais úmido bem como ocorrerão\nmais enchentes em algumas áreas e secas crônicas em\noutras.\nO\naquecimento\ntambém\nprovocará\no\ndesaparecimento de algumas geleiras, o que acarretará o\naumento do nível dos oceanos e a inundação de certas\náreas litorâneas.\nAs mudanças climáticas previstas para o fim do século XXI\nA provocarão a redução das taxas de evaporação e de\ncondensação do ciclo da água.\nB poderão interferir nos processos do ciclo da água que\nenvolvem mudanças de estado físico.\nC promoverão o aumento da disponibilidade de alimento\ndas espécies marinhas.\nD induzirão o aumento dos mananciais, o que\nsolucionará os problemas de falta de água no planeta.\nE causarão o aumento do volume de todos os cursos de\nágua, o que minimizará os efeitos da poluição\naquática.",
+   "disciplina": "geografia",
+   "subtopico": "geografia-ambiental",
+   "habilidade": "CH-H30",
+   "tema": "Aquecimento global e ciclo da água",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/geografia/geografia-ambiental/enem-2006-q030.md"
   },
   {
    "numero": 31,
-   "imagem": "img/enem-2006-q031.webp",
-   "texto": "Questão 31\nA Terra é cercada pelo vácuo espacial e, assim,\nela só perde energia ao irradiá-la para o espaço.\nO aquecimento global que se verifica hoje decorre de\npequeno desequilíbrio energético, de cerca de 0,3%, entre\na energia que a Terra recebe do Sol e a energia irradiada a\ncada segundo, algo em torno de 1 W/m 2 . Isso significa que\na Terra acumula, anualmente, cerca de 1,6 × 10 22 J.\nConsidere que a energia necessária para transformar 1 kg\nde gelo a 0 ºC em água líquida seja igual a 3,2 × 10 5 J. Se\ntoda a energia acumulada anualmente fosse usada para\nderreter o gelo nos pólos (a 0 ºC), a quantidade de gelo\nderretida anualmente, em trilhões de toneladas, estaria\nentre\nA\n20 e 40.\nB\n40 e 60.\nC\n60 e 80.\nD\n80 e 100.\nE\n100 e 120."
+   "imagem": "questoes/fisica/termologia-e-termodinamica/enem-2006-q031.webp",
+   "texto": "Questão 31\nA Terra é cercada pelo vácuo espacial e, assim,\nela só perde energia ao irradiá-la para o espaço.\nO aquecimento global que se verifica hoje decorre de\npequeno desequilíbrio energético, de cerca de 0,3%, entre\na energia que a Terra recebe do Sol e a energia irradiada a\ncada segundo, algo em torno de 1 W/m 2 . Isso significa que\na Terra acumula, anualmente, cerca de 1,6 × 10 22 J.\nConsidere que a energia necessária para transformar 1 kg\nde gelo a 0 ºC em água líquida seja igual a 3,2 × 10 5 J. Se\ntoda a energia acumulada anualmente fosse usada para\nderreter o gelo nos pólos (a 0 ºC), a quantidade de gelo\nderretida anualmente, em trilhões de toneladas, estaria\nentre\nA\n20 e 40.\nB\n40 e 60.\nC\n60 e 80.\nD\n80 e 100.\nE\n100 e 120.",
+   "disciplina": "fisica",
+   "subtopico": "termologia-e-termodinamica",
+   "habilidade": "CN-H21",
+   "tema": "Energia acumulada pela Terra e derretimento de gelo",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/fisica/termologia-e-termodinamica/enem-2006-q031.md"
   },
   {
    "numero": 32,
-   "imagem": "img/enem-2006-q032.webp",
-   "texto": "Questão 32\nChuva ácida é o termo utilizado para designar\nprecipitações com valores de pH inferiores a 5,6. As\nprincipais substâncias que contribuem para esse processo\nsão os óxidos de nitrogênio e de enxofre provenientes da\nqueima de combustíveis fósseis e, também, de fontes\nnaturais. Os problemas causados pela chuva ácida\nultrapassam fronteiras políticas regionais e nacionais.\nA amplitude geográfica dos efeitos da chuva ácida está\nrelacionada principalmente com\nA a circulação atmosférica e a quantidade de fontes\nemissoras de óxidos de nitrogênio e de enxofre.\nB a quantidade de fontes emissoras de óxidos de\nnitrogênio e de enxofre e a rede hidrográfica.\nC a topografia do local das fontes emissoras de óxidos\nde nitrogênio e de enxofre e o nível dos lençóis\nfreáticos.\nD a quantidade de fontes emissoras de óxidos de\nnitrogênio e de enxofre e o nível dos lençóis freáticos.\nE a rede hidrográfica e a circulação atmosférica."
+   "imagem": "questoes/quimica/quimica-ambiental-e-cotidiano/enem-2006-q032.webp",
+   "texto": "Questão 32\nChuva ácida é o termo utilizado para designar\nprecipitações com valores de pH inferiores a 5,6. As\nprincipais substâncias que contribuem para esse processo\nsão os óxidos de nitrogênio e de enxofre provenientes da\nqueima de combustíveis fósseis e, também, de fontes\nnaturais. Os problemas causados pela chuva ácida\nultrapassam fronteiras políticas regionais e nacionais.\nA amplitude geográfica dos efeitos da chuva ácida está\nrelacionada principalmente com\nA a circulação atmosférica e a quantidade de fontes\nemissoras de óxidos de nitrogênio e de enxofre.\nB a quantidade de fontes emissoras de óxidos de\nnitrogênio e de enxofre e a rede hidrográfica.\nC a topografia do local das fontes emissoras de óxidos\nde nitrogênio e de enxofre e o nível dos lençóis\nfreáticos.\nD a quantidade de fontes emissoras de óxidos de\nnitrogênio e de enxofre e o nível dos lençóis freáticos.\nE a rede hidrográfica e a circulação atmosférica.",
+   "disciplina": "quimica",
+   "subtopico": "quimica-ambiental-e-cotidiano",
+   "habilidade": "CN-H10",
+   "tema": "Chuva ácida e abrangência geográfica",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/quimica/quimica-ambiental-e-cotidiano/enem-2006-q032.md"
   },
   {
    "numero": 33,
-   "imagem": "img/enem-2006-q033.webp",
-   "texto": "Questão 33\nAs florestas tropicais úmidas contribuem muito para a\nmanutenção da vida no planeta, por meio do chamado\nseqüestro de carbono atmosférico. Resultados de\nobservações sucessivas, nas últimas décadas, indicam\nque a floresta amazônica é capaz de absorver até 300\nmilhões de toneladas de carbono por ano. Conclui-se,\nportanto, que as florestas exercem importante papel no\ncontrole\nA das chuvas ácidas, que decorrem da liberação, na\natmosfera, do dióxido de carbono resultante dos\ndesmatamentos por queimadas.\nB das inversões térmicas, causadas pelo acúmulo de\ndióxido de carbono resultante da não-dispersão dos\npoluentes para as regiões mais altas da atmosfera.\nC da destruição da camada de ozônio, causada pela\nliberação, na atmosfera, do dióxido de carbono contido\nnos gases do grupo dos clorofluorcarbonos.\nD do efeito estufa provocado pelo acúmulo de carbono\nna atmosfera, resultante da queima de combustíveis\nfósseis, como carvão mineral e petróleo.\nE da eutrofização das águas, decorrente da dissolução,\nnos rios, do excesso de dióxido de carbono presente\nna atmosfera."
+   "imagem": "questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q033.webp",
+   "texto": "Questão 33\nAs florestas tropicais úmidas contribuem muito para a\nmanutenção da vida no planeta, por meio do chamado\nseqüestro de carbono atmosférico. Resultados de\nobservações sucessivas, nas últimas décadas, indicam\nque a floresta amazônica é capaz de absorver até 300\nmilhões de toneladas de carbono por ano. Conclui-se,\nportanto, que as florestas exercem importante papel no\ncontrole\nA das chuvas ácidas, que decorrem da liberação, na\natmosfera, do dióxido de carbono resultante dos\ndesmatamentos por queimadas.\nB das inversões térmicas, causadas pelo acúmulo de\ndióxido de carbono resultante da não-dispersão dos\npoluentes para as regiões mais altas da atmosfera.\nC da destruição da camada de ozônio, causada pela\nliberação, na atmosfera, do dióxido de carbono contido\nnos gases do grupo dos clorofluorcarbonos.\nD do efeito estufa provocado pelo acúmulo de carbono\nna atmosfera, resultante da queima de combustíveis\nfósseis, como carvão mineral e petróleo.\nE da eutrofização das águas, decorrente da dissolução,\nnos rios, do excesso de dióxido de carbono presente\nna atmosfera.",
+   "disciplina": "biologia",
+   "subtopico": "ecologia-e-meio-ambiente",
+   "habilidade": "CN-H9",
+   "tema": "Sequestro de carbono e efeito estufa",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q033.md"
   },
   {
    "numero": 34,
-   "imagem": "img/enem-2006-q034.webp",
-   "texto": "Questão 34\nEm certas localidades ao longo do rio Amazonas, são\nencontradas populações de determinada espécie de\nlagarto que se reproduzem por partenogênese. Essas\npopulações são constituídas, exclusivamente, por fêmeas\nque procriam sem machos, gerando apenas fêmeas. Isso\nse deve a mutações que ocorrem ao acaso nas\npopulações bissexuais. Avalie as afirmações seguintes,\nrelativas a esse processo de reprodução.\nI Na partenogênese, as fêmeas dão origem apenas a\nfêmeas, enquanto, nas populações bissexuadas, cerca\nde 50% dos filhotes são fêmeas.\nII Se uma população bissexuada se mistura com uma que\nse reproduz por partenogênese, esta última desaparece.\nIII Na partenogênese, um número x de fêmeas é capaz de\nproduzir o dobro do número de descendentes de uma\npopulação bissexuada de x indivíduos, uma vez que,\nnesta, só a fêmea põe ovos.\nÉ correto o que se afirma\nA apenas em I.\nB apenas em II.\nC apenas em I e III.\nD apenas em II e III.\nE em I, II e III."
+   "imagem": "questoes/biologia/biotecnologia-e-reproducao/enem-2006-q034.webp",
+   "texto": "Questão 34\nEm certas localidades ao longo do rio Amazonas, são\nencontradas populações de determinada espécie de\nlagarto que se reproduzem por partenogênese. Essas\npopulações são constituídas, exclusivamente, por fêmeas\nque procriam sem machos, gerando apenas fêmeas. Isso\nse deve a mutações que ocorrem ao acaso nas\npopulações bissexuais. Avalie as afirmações seguintes,\nrelativas a esse processo de reprodução.\nI Na partenogênese, as fêmeas dão origem apenas a\nfêmeas, enquanto, nas populações bissexuadas, cerca\nde 50% dos filhotes são fêmeas.\nII Se uma população bissexuada se mistura com uma que\nse reproduz por partenogênese, esta última desaparece.\nIII Na partenogênese, um número x de fêmeas é capaz de\nproduzir o dobro do número de descendentes de uma\npopulação bissexuada de x indivíduos, uma vez que,\nnesta, só a fêmea põe ovos.\nÉ correto o que se afirma\nA apenas em I.\nB apenas em II.\nC apenas em I e III.\nD apenas em II e III.\nE em I, II e III.",
+   "disciplina": "biologia",
+   "subtopico": "biotecnologia-e-reproducao",
+   "habilidade": "CN-H14",
+   "tema": "Partenogênese em lagartos",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/biologia/biotecnologia-e-reproducao/enem-2006-q034.md"
   },
   {
    "numero": 35,
-   "imagem": "img/enem-2006-q035.webp",
-   "texto": "Questão 35\nNa transpiração, as plantas perdem água na forma\nde vapor através dos estômatos. Quando os estômatos\nestão fechados, a transpiração torna-se desprezível. Por\nessa razão, a abertura dos estômatos pode funcionar como\nindicador do tipo de ecossistema e da estação do ano em\nque as plantas estão sendo observadas. A tabela a seguir\nmostra como se comportam os estômatos de uma planta\nda caatinga em diferentes condições climáticas e horas do\ndia.\nhoras do dia\ncondição climática\n8 h\n10 h\n12 h\n14 h\n16 h\n17 h\ntempo chuvoso\n2\n2\n2\n0\n2\n2\nseca\n1\n1\n0\n0\n0\n0\nseca intensa\n0\n0\n0\n0\n0\n0\nLegenda: 0 = estômatos completamente fechados\n1 = estômatos parcialmente abertos\n2 = estômatos completamente abertos\nConsiderando a mesma legenda dessa tabela, assinale a\nopção que melhor representa o comportamento dos\nestômatos de uma planta típica da Mata Atlântica.\nhoras do dia\ncondição climática\n8 h\n10 h\n12 h\n14 h\n16 h\n17 h\nA tempo chuvoso\n2\n2\n2\n0\n2\n2\nseca\n1\n1\n0\n0\n1\n1\nseca intensa\n1\n1\n0\n0\n0\n0\nhoras do dia\ncondição climática\n8 h\n10 h\n12 h\n14 h\n16 h\n17 h\nB tempo chuvoso\n1\n1\n1\n1\n1\n1\nseca\n1\n1\n0\n0\n1\n1\nseca intensa\n0\n0\n0\n0\n0\n0\nhoras do dia\ncondição climática\n8 h\n10 h\n12 h\n14 h\n16 h\n17 h\nC\ntempo chuvoso\n1\n1\n0\n0\n0\n0\nseca\n1\n1\n0\n0\n0\n0\nhoras do dia\ncondição climática\n8 h\n10 h\n12 h\n14 h\n16 h\n17 h\nD\nseca\n1\n1\n0\n0\n0\n0\nseca intensa\n0\n0\n0\n0\n0\n0\nhoras do dia\ncondição climática\n8 h\n10 h\n12 h\n14 h\n16 h\n17 h\nE\ntempo chuvoso\n2\n2\n2\n0\n2\n2\nseca\n2\n2\n2\n0\n2\n2"
+   "imagem": "questoes/biologia/botanica/enem-2006-q035.webp",
+   "texto": "Questão 35\nNa transpiração, as plantas perdem água na forma\nde vapor através dos estômatos. Quando os estômatos\nestão fechados, a transpiração torna-se desprezível. Por\nessa razão, a abertura dos estômatos pode funcionar como\nindicador do tipo de ecossistema e da estação do ano em\nque as plantas estão sendo observadas. A tabela a seguir\nmostra como se comportam os estômatos de uma planta\nda caatinga em diferentes condições climáticas e horas do\ndia.\nhoras do dia\ncondição climática\n8 h\n10 h\n12 h\n14 h\n16 h\n17 h\ntempo chuvoso\n2\n2\n2\n0\n2\n2\nseca\n1\n1\n0\n0\n0\n0\nseca intensa\n0\n0\n0\n0\n0\n0\nLegenda: 0 = estômatos completamente fechados\n1 = estômatos parcialmente abertos\n2 = estômatos completamente abertos\nConsiderando a mesma legenda dessa tabela, assinale a\nopção que melhor representa o comportamento dos\nestômatos de uma planta típica da Mata Atlântica.\nhoras do dia\ncondição climática\n8 h\n10 h\n12 h\n14 h\n16 h\n17 h\nA tempo chuvoso\n2\n2\n2\n0\n2\n2\nseca\n1\n1\n0\n0\n1\n1\nseca intensa\n1\n1\n0\n0\n0\n0\nhoras do dia\ncondição climática\n8 h\n10 h\n12 h\n14 h\n16 h\n17 h\nB tempo chuvoso\n1\n1\n1\n1\n1\n1\nseca\n1\n1\n0\n0\n1\n1\nseca intensa\n0\n0\n0\n0\n0\n0\nhoras do dia\ncondição climática\n8 h\n10 h\n12 h\n14 h\n16 h\n17 h\nC\ntempo chuvoso\n1\n1\n0\n0\n0\n0\nseca\n1\n1\n0\n0\n0\n0\nhoras do dia\ncondição climática\n8 h\n10 h\n12 h\n14 h\n16 h\n17 h\nD\nseca\n1\n1\n0\n0\n0\n0\nseca intensa\n0\n0\n0\n0\n0\n0\nhoras do dia\ncondição climática\n8 h\n10 h\n12 h\n14 h\n16 h\n17 h\nE\ntempo chuvoso\n2\n2\n2\n0\n2\n2\nseca\n2\n2\n2\n0\n2\n2",
+   "disciplina": "biologia",
+   "subtopico": "botanica",
+   "habilidade": "CN-H28",
+   "tema": "Estômatos e transpiração em plantas da caatinga",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/biologia/botanica/enem-2006-q035.md"
   },
   {
    "numero": 36,
-   "imagem": "img/enem-2006-q036.webp",
-   "texto": "Questão 36\nA análise de esporos de samambaias e de pólen\nfossilizados contidos em sedimentos pode fornecer pistas\nsobre as formações vegetais de outras épocas. No\nesquema a seguir, que ilustra a análise de uma amostra de\ncamadas contínuas de sedimentos, as camadas mais\nantigas encontram-se mais distantes da superfície.\nabundância de pólen\ncamadas\nde cactos\nmais recentes\n+++++++++++++\n+++++++++++++\npredomínio de pólen\n+++++++++++++\nde gramíneas e quase\n+++++++++++++\nnenhum pólen de epífitas\n+++++++++++++\n+++++++++++++\n///////////////////////////\n///////////////////////////\nmuitos esporos de\ncamadas\n///////////////////////////\nsamambaias e pólen de\nmais antigas\n///////////////////////////\ncipós e epífitas\n///////////////////////////\n///////////////////////////\nEssa análise permite supor-se que o local em que foi\ncolhida a amostra deve ter sido ocupado, sucessivamente,\npor\nA\nfloresta úmida, campos cerrados e caatinga.\nB\nfloresta úmida, floresta temperada e campos cerrados.\nC\ncampos cerrados, caatinga e floresta úmida.\nD\ncaatinga, floresta úmida e campos cerrados.\nE\ncampos cerrados, caatinga e floresta temperada."
+   "imagem": "questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q036.webp",
+   "texto": "Questão 36\nA análise de esporos de samambaias e de pólen\nfossilizados contidos em sedimentos pode fornecer pistas\nsobre as formações vegetais de outras épocas. No\nesquema a seguir, que ilustra a análise de uma amostra de\ncamadas contínuas de sedimentos, as camadas mais\nantigas encontram-se mais distantes da superfície.\nabundância de pólen\ncamadas\nde cactos\nmais recentes\n+++++++++++++\n+++++++++++++\npredomínio de pólen\n+++++++++++++\nde gramíneas e quase\n+++++++++++++\nnenhum pólen de epífitas\n+++++++++++++\n+++++++++++++\n///////////////////////////\n///////////////////////////\nmuitos esporos de\ncamadas\n///////////////////////////\nsamambaias e pólen de\nmais antigas\n///////////////////////////\ncipós e epífitas\n///////////////////////////\n///////////////////////////\nEssa análise permite supor-se que o local em que foi\ncolhida a amostra deve ter sido ocupado, sucessivamente,\npor\nA\nfloresta úmida, campos cerrados e caatinga.\nB\nfloresta úmida, floresta temperada e campos cerrados.\nC\ncampos cerrados, caatinga e floresta úmida.\nD\ncaatinga, floresta úmida e campos cerrados.\nE\ncampos cerrados, caatinga e floresta temperada.",
+   "disciplina": "biologia",
+   "subtopico": "ecologia-e-meio-ambiente",
+   "habilidade": "CN-H28",
+   "tema": "Pólen fóssil e formações vegetais passadas",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q036.md"
   },
   {
    "numero": 37,
-   "imagem": "img/enem-2006-q037.webp",
-   "texto": "Questão 37\nA ocupação predatória associada à expansão da\nfronteira agropecuária e acelerada pelo plantio da soja tem\ndeflagrado, com a perda da cobertura vegetal, a diminuição\nda biodiversidade, a erosão do solo, a escassez e a\ncontaminação dos recursos hídricos no bioma cerrado.\nSegundo ambientalistas, o cerrado brasileiro corre o risco\nde se transformar em um deserto.\nA respeito desse assunto, analise as afirmações abaixo.\nI Considerando-se que, em 2006, restem apenas 25% da\ncobertura vegetal original do cerrado e que, desse\npercentual, 3% sejam derrubados a cada ano, estima-se\nque, em 2030, o cerrado brasileiro se transformará em\ndeserto.\nII Sabe-se que a eventual extinção do bioma cerrado,\ndada a pobreza que o caracteriza, não causará impacto\nsistêmico no conjunto dos biomas brasileiros.\nIII A substituição de agrotóxicos por bioinseticidas reduz a\ncontaminação dos recursos hídricos no bioma cerrado.\nÉ correto o que se afirma\nA\napenas em I.\nB\napenas em III.\nC\napenas em I e II.\nD\napenas em II e III.\nE\nem I, II e III."
+   "imagem": "questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q037.webp",
+   "texto": "Questão 37\nA ocupação predatória associada à expansão da\nfronteira agropecuária e acelerada pelo plantio da soja tem\ndeflagrado, com a perda da cobertura vegetal, a diminuição\nda biodiversidade, a erosão do solo, a escassez e a\ncontaminação dos recursos hídricos no bioma cerrado.\nSegundo ambientalistas, o cerrado brasileiro corre o risco\nde se transformar em um deserto.\nA respeito desse assunto, analise as afirmações abaixo.\nI Considerando-se que, em 2006, restem apenas 25% da\ncobertura vegetal original do cerrado e que, desse\npercentual, 3% sejam derrubados a cada ano, estima-se\nque, em 2030, o cerrado brasileiro se transformará em\ndeserto.\nII Sabe-se que a eventual extinção do bioma cerrado,\ndada a pobreza que o caracteriza, não causará impacto\nsistêmico no conjunto dos biomas brasileiros.\nIII A substituição de agrotóxicos por bioinseticidas reduz a\ncontaminação dos recursos hídricos no bioma cerrado.\nÉ correto o que se afirma\nA\napenas em I.\nB\napenas em III.\nC\napenas em I e II.\nD\napenas em II e III.\nE\nem I, II e III.",
+   "disciplina": "biologia",
+   "subtopico": "ecologia-e-meio-ambiente",
+   "habilidade": "CN-H12",
+   "tema": "Degradação do cerrado e biodiversidade",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q037.md"
   },
   {
    "numero": 38,
-   "imagem": "img/enem-2006-q038.webp",
-   "texto": "Questão 38\nÀ produção industrial de celulose e de papel estão\nassociados alguns problemas ambientais. Um exemplo são\nos odores característicos dos compostos voláteis de\nenxofre (mercaptanas) que se formam durante a remoção\nda lignina da principal matéria-prima para a obtenção\nindustrial das fibras celulósicas que formam o papel: a\nmadeira. É nos estágios de branqueamento que se\nencontra um dos principais problemas ambientais\ncausados pelas indústrias de celulose. Reagentes como\ncloro e hipoclorito de sódio reagem com a lignina residual,\nlevando à formação de compostos organoclorados. Esses\ncompostos, presentes na água industrial, despejada em\ngrande quantidade nos rios pelas indústrias de papel, não\nsão biodegradáveis e acumulam-se nos tecidos vegetais e\nanimais, podendo levar a alterações genéticas.\nCelênia P. Santos et al. Papel: como se fabrica? In: Química\nnova na escola, n.° 14, nov./2001, p. 3-7 (com adaptações).\nPara se diminuírem os problemas ambientais decorrentes\nda fabricação do papel, é recomendável\nA a criação de legislação mais branda, a fim de\nfavorecer a fabricação de papel biodegradável.\nB a diminuição das áreas de reflorestamento, com o\nintuito de reduzir o volume de madeira utilizado na\nobtenção de fibras celulósicas.\nC a distribuição de equipamentos de desodorização à\npopulação que vive nas adjacências de indústrias de\nprodução de papel.\nD o tratamento da água industrial, antes de retorná-la\naos cursos d’água, com o objetivo de promover a\ndegradação dos compostos orgânicos solúveis.\nE o recolhimento, por parte das famílias que habitam as\nregiões circunvizinhas, dos resíduos sólidos gerados\npela indústria de papel, em um processo de coleta\nseletiva de lixo."
+   "imagem": "questoes/quimica/quimica-ambiental-e-cotidiano/enem-2006-q038.webp",
+   "texto": "Questão 38\nÀ produção industrial de celulose e de papel estão\nassociados alguns problemas ambientais. Um exemplo são\nos odores característicos dos compostos voláteis de\nenxofre (mercaptanas) que se formam durante a remoção\nda lignina da principal matéria-prima para a obtenção\nindustrial das fibras celulósicas que formam o papel: a\nmadeira. É nos estágios de branqueamento que se\nencontra um dos principais problemas ambientais\ncausados pelas indústrias de celulose. Reagentes como\ncloro e hipoclorito de sódio reagem com a lignina residual,\nlevando à formação de compostos organoclorados. Esses\ncompostos, presentes na água industrial, despejada em\ngrande quantidade nos rios pelas indústrias de papel, não\nsão biodegradáveis e acumulam-se nos tecidos vegetais e\nanimais, podendo levar a alterações genéticas.\nCelênia P. Santos et al. Papel: como se fabrica? In: Química\nnova na escola, n.° 14, nov./2001, p. 3-7 (com adaptações).\nPara se diminuírem os problemas ambientais decorrentes\nda fabricação do papel, é recomendável\nA a criação de legislação mais branda, a fim de\nfavorecer a fabricação de papel biodegradável.\nB a diminuição das áreas de reflorestamento, com o\nintuito de reduzir o volume de madeira utilizado na\nobtenção de fibras celulósicas.\nC a distribuição de equipamentos de desodorização à\npopulação que vive nas adjacências de indústrias de\nprodução de papel.\nD o tratamento da água industrial, antes de retorná-la\naos cursos d’água, com o objetivo de promover a\ndegradação dos compostos orgânicos solúveis.\nE o recolhimento, por parte das famílias que habitam as\nregiões circunvizinhas, dos resíduos sólidos gerados\npela indústria de papel, em um processo de coleta\nseletiva de lixo.",
+   "disciplina": "quimica",
+   "subtopico": "quimica-ambiental-e-cotidiano",
+   "habilidade": "CN-H10",
+   "tema": "Poluição por organoclorados na indústria de papel",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/quimica/quimica-ambiental-e-cotidiano/enem-2006-q038.md"
   },
   {
    "numero": 39,
-   "imagem": "img/enem-2006-q039.webp",
-   "texto": "Questão 39\nEsta manhã acordo e\nnão a encontro.\nBritada em bilhões de lascas\ndeslizando em correia transportadora\nentupindo 150 vagões\nno trem-monstro de 5 locomotivas\n— trem maior do mundo, tomem nota —\nfoge minha serra, vai\ndeixando no meu corpo a paisagem\nmísero pó de ferro, e este não passa.\nCarlos Drummond de Andrade. Antologia poética.\nRio de Janeiro: Record, 2000.\nA situação poeticamente descrita acima sinaliza, do ponto\nde vista ambiental, para a necessidade de\nI manter-se rigoroso controle sobre os processos de\ninstalação de novas mineradoras.\nII criarem-se estratégias para reduzir o impacto ambiental\nno ambiente degradado.\nIII reaproveitarem-se materiais, reduzindo-se a neces-\nsidade de extração de minérios.\nÉ correto o que se afirma\nA\napenas em I.\nB\napenas em II.\nC\napenas em I e II.\nD\napenas em II e III.\nE\nem I, II e III."
+   "imagem": "questoes/geografia/geografia-ambiental/enem-2006-q039.webp",
+   "texto": "Questão 39\nEsta manhã acordo e\nnão a encontro.\nBritada em bilhões de lascas\ndeslizando em correia transportadora\nentupindo 150 vagões\nno trem-monstro de 5 locomotivas\n— trem maior do mundo, tomem nota —\nfoge minha serra, vai\ndeixando no meu corpo a paisagem\nmísero pó de ferro, e este não passa.\nCarlos Drummond de Andrade. Antologia poética.\nRio de Janeiro: Record, 2000.\nA situação poeticamente descrita acima sinaliza, do ponto\nde vista ambiental, para a necessidade de\nI manter-se rigoroso controle sobre os processos de\ninstalação de novas mineradoras.\nII criarem-se estratégias para reduzir o impacto ambiental\nno ambiente degradado.\nIII reaproveitarem-se materiais, reduzindo-se a neces-\nsidade de extração de minérios.\nÉ correto o que se afirma\nA\napenas em I.\nB\napenas em II.\nC\napenas em I e II.\nD\napenas em II e III.\nE\nem I, II e III.",
+   "disciplina": "geografia",
+   "subtopico": "geografia-ambiental",
+   "habilidade": "CH-H27",
+   "tema": "Impacto ambiental da mineração",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/geografia/geografia-ambiental/enem-2006-q039.md"
   },
   {
    "numero": 40,
-   "imagem": "img/enem-2006-q040.webp",
-   "texto": "Questão 40\nO aqüífero Guarani, megar-\nreservatório hídrico subterrâneo da\nBRASÍLIA\nBRASIL\nAmérica do Sul, com 1,2 milhão\nde km 2 , não é o \"mar de água\nCAMPO\nGRANDE\ndoce\" que se pensava existir.\nEnquanto em algumas áreas\nBACIA DO\na água é excelente, em\nPARAGUAI\nPARANÁ\nSÃO PAULO\noutras,\né\ninacessível,\nescassa ou não-potável. O\nCURITIBA\nASSUNÇÃO\naqüífero pode ser dividido\nFLORIANÓPOLIS\nem quatro grandes compar-\ntimentos. No compartimento\nOeste, há boas condições\nPORTO\nestruturais que proporcionam\nALEGRE\nrecarga rápida a partir das\nAfloramento do\nSistema Aqüífero\nURUGUAI\nchuvas e as águas são, em\nGuarani\nBUENOS\nAIRES\nSistema Aqüífero\nMONTEVIDÉU\ngeral, de boa qualidade e\nGuarani\nem\nconfinamento\npotáveis. Já no compartimento Norte-Alto\nUruguai, o sistema encontra-se coberto por rochas\nvulcânicas, a profundidades que variam de 350 m a\n1.200 m. Suas águas são muito antigas, datando da Era\nMesozóica, e não são potáveis em grande parte da área,\ncom elevada salinidade, sendo que os altos teores de\nfluoretos e de sódio podem causar alcalinização do solo.\nScientific American Brasil, n.º 47, abr./2006 (com adaptações).\nEm relação ao aqüífero Guarani, é correto afirmar que\nA seus depósitos não participam do ciclo da água.\nB águas provenientes de qualquer um de seus\ncompartimentos solidificam-se a 0 °C.\nC é necessário, para utilização de seu potencial\ncomo reservatório de água potável, conhecer\ndetalhadamente o aqüífero.\nD a água é adequada ao consumo humano direto em\ngrande parte da área do compartimento Norte-Alto\nUruguai.\nE o uso das águas do compartimento Norte-Alto\nUruguai para irrigação deixaria ácido o solo."
+   "imagem": "questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2006-q040.webp",
+   "texto": "Questão 40\nO aqüífero Guarani, megar-\nreservatório hídrico subterrâneo da\nBRASÍLIA\nBRASIL\nAmérica do Sul, com 1,2 milhão\nde km 2 , não é o \"mar de água\nCAMPO\nGRANDE\ndoce\" que se pensava existir.\nEnquanto em algumas áreas\nBACIA DO\na água é excelente, em\nPARAGUAI\nPARANÁ\nSÃO PAULO\noutras,\né\ninacessível,\nescassa ou não-potável. O\nCURITIBA\nASSUNÇÃO\naqüífero pode ser dividido\nFLORIANÓPOLIS\nem quatro grandes compar-\ntimentos. No compartimento\nOeste, há boas condições\nPORTO\nestruturais que proporcionam\nALEGRE\nrecarga rápida a partir das\nAfloramento do\nSistema Aqüífero\nURUGUAI\nchuvas e as águas são, em\nGuarani\nBUENOS\nAIRES\nSistema Aqüífero\nMONTEVIDÉU\ngeral, de boa qualidade e\nGuarani\nem\nconfinamento\npotáveis. Já no compartimento Norte-Alto\nUruguai, o sistema encontra-se coberto por rochas\nvulcânicas, a profundidades que variam de 350 m a\n1.200 m. Suas águas são muito antigas, datando da Era\nMesozóica, e não são potáveis em grande parte da área,\ncom elevada salinidade, sendo que os altos teores de\nfluoretos e de sódio podem causar alcalinização do solo.\nScientific American Brasil, n.º 47, abr./2006 (com adaptações).\nEm relação ao aqüífero Guarani, é correto afirmar que\nA seus depósitos não participam do ciclo da água.\nB águas provenientes de qualquer um de seus\ncompartimentos solidificam-se a 0 °C.\nC é necessário, para utilização de seu potencial\ncomo reservatório de água potável, conhecer\ndetalhadamente o aqüífero.\nD a água é adequada ao consumo humano direto em\ngrande parte da área do compartimento Norte-Alto\nUruguai.\nE o uso das águas do compartimento Norte-Alto\nUruguai para irrigação deixaria ácido o solo.",
+   "disciplina": "geografia",
+   "subtopico": "geografia-fisica-clima-relevo-hidrografia",
+   "habilidade": "CH-H29",
+   "tema": "Aquífero Guarani e seus compartimentos",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2006-q040.md"
   },
   {
    "numero": 41,
-   "imagem": "img/enem-2006-q041.webp",
-   "texto": "Questão 41\nA situação atual das bacias hidrográficas de\nSão Paulo tem sido alvo de preocupações ambientais: a\ndemanda hídrica é maior que a oferta de água e ocorre\nexcesso de poluição industrial e residencial. Um dos\ncasos mais graves de poluição da água é o da bacia do\nalto Tietê, onde se localiza a região metropolitana de\nSão Paulo. Os rios Tietê e Pinheiros estão muito\npoluídos, o que compromete o uso da água pela\npopulação.\nAvalie se as ações apresentadas abaixo são adequadas\npara se reduzir a poluição desses rios.\nI Investir em mecanismos de reciclagem da água\nutilizada nos processos industriais.\nII Investir em obras que viabilizem a transposição de\náguas de mananciais adjacentes para os rios\npoluídos.\nIII Implementar obras de saneamento básico e construir\nestações de tratamento de esgotos.\nÉ adequado o que se propõe\nA\napenas em I.\nB\napenas em II.\nC\napenas em I e III.\nD\napenas em II e III.\nE\nem I, II e III."
+   "imagem": "questoes/geografia/geografia-ambiental/enem-2006-q041.webp",
+   "texto": "Questão 41\nA situação atual das bacias hidrográficas de\nSão Paulo tem sido alvo de preocupações ambientais: a\ndemanda hídrica é maior que a oferta de água e ocorre\nexcesso de poluição industrial e residencial. Um dos\ncasos mais graves de poluição da água é o da bacia do\nalto Tietê, onde se localiza a região metropolitana de\nSão Paulo. Os rios Tietê e Pinheiros estão muito\npoluídos, o que compromete o uso da água pela\npopulação.\nAvalie se as ações apresentadas abaixo são adequadas\npara se reduzir a poluição desses rios.\nI Investir em mecanismos de reciclagem da água\nutilizada nos processos industriais.\nII Investir em obras que viabilizem a transposição de\náguas de mananciais adjacentes para os rios\npoluídos.\nIII Implementar obras de saneamento básico e construir\nestações de tratamento de esgotos.\nÉ adequado o que se propõe\nA\napenas em I.\nB\napenas em II.\nC\napenas em I e III.\nD\napenas em II e III.\nE\nem I, II e III.",
+   "disciplina": "geografia",
+   "subtopico": "geografia-ambiental",
+   "habilidade": "CH-H30",
+   "tema": "Poluição das bacias hidrográficas de São Paulo",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/geografia/geografia-ambiental/enem-2006-q041.md"
   },
   {
    "numero": 42,
-   "imagem": "img/enem-2006-q042.webp",
-   "texto": "Questão 42\nA tabela a seguir apresenta dados relativos a cinco países.\ntaxa de mortalidade\nsaneamento básico (%)\ninfantil (por mil)\nanos de permanência\npaís\nesgotamento\nabastecimento\ndas mães na escola\nsanitário\nde água\nde\n8 ou\nadequado\naté 3\n4 a 7\nmais\nI\n33\n47\n45,1\n29,6\n21,4\nII\n36\n65\n70,3\n41,2\n28,0\nIII\n81\n88\n34,8\n27,4\n17,7\nIV\n62\n79\n33,9\n22,5\n16,4\nV\n40\n73\n37,9\n25,1\n19,3\nCom base nessas informações, infere-se que\nA a educação tem relação direta com a saúde, visto que é\nmenor a mortalidade de filhos cujas mães possuem\nmaior nível de escolaridade, mesmo em países onde o\nsaneamento básico é precário.\nB o nível de escolaridade das mães tem influência na\nsaúde dos filhos, desde que, no país em que eles\nresidam, o abastecimento de água favoreça, pelo menos,\n50% da população.\nC a intensificação da educação de jovens e adultos e a\nampliação do saneamento básico são medidas\nsuficientes para se reduzir a zero a mortalidade infantil.\nD mais crianças são acometidas pela diarréia no país III do\nque no país II.\nE a taxa de mortalidade infantil é diretamente proporcional\nao nível de escolaridade das mães e independe das\ncondições sanitárias básicas."
+   "imagem": "questoes/biologia/fisiologia-humana-e-saude/enem-2006-q042.webp",
+   "texto": "Questão 42\nA tabela a seguir apresenta dados relativos a cinco países.\ntaxa de mortalidade\nsaneamento básico (%)\ninfantil (por mil)\nanos de permanência\npaís\nesgotamento\nabastecimento\ndas mães na escola\nsanitário\nde água\nde\n8 ou\nadequado\naté 3\n4 a 7\nmais\nI\n33\n47\n45,1\n29,6\n21,4\nII\n36\n65\n70,3\n41,2\n28,0\nIII\n81\n88\n34,8\n27,4\n17,7\nIV\n62\n79\n33,9\n22,5\n16,4\nV\n40\n73\n37,9\n25,1\n19,3\nCom base nessas informações, infere-se que\nA a educação tem relação direta com a saúde, visto que é\nmenor a mortalidade de filhos cujas mães possuem\nmaior nível de escolaridade, mesmo em países onde o\nsaneamento básico é precário.\nB o nível de escolaridade das mães tem influência na\nsaúde dos filhos, desde que, no país em que eles\nresidam, o abastecimento de água favoreça, pelo menos,\n50% da população.\nC a intensificação da educação de jovens e adultos e a\nampliação do saneamento básico são medidas\nsuficientes para se reduzir a zero a mortalidade infantil.\nD mais crianças são acometidas pela diarréia no país III do\nque no país II.\nE a taxa de mortalidade infantil é diretamente proporcional\nao nível de escolaridade das mães e independe das\ncondições sanitárias básicas.",
+   "disciplina": "biologia",
+   "subtopico": "fisiologia-humana-e-saude",
+   "habilidade": "CN-H30",
+   "tema": "Mortalidade infantil, saneamento e escolaridade",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/biologia/fisiologia-humana-e-saude/enem-2006-q042.md"
   },
   {
    "numero": 43,
-   "imagem": "img/enem-2006-q043.webp",
-   "texto": "Questão 43\nNa região sul da Bahia, o cacau tem sido cultivado por\nmeio de diferentes sistemas. Em um deles, o convencional, a\nprimeira etapa de preparação do solo corresponde à retirada\nda mata e à queimada dos tocos e das raízes. Em seguida,\npara o plantio da quantidade máxima de cacau na área, os\npés de cacau são plantados próximos uns dos outros. No\ncultivo pelo sistema chamado cabruca, os pés de cacau são\nabrigados entre as plantas de maior porte, em espaço aberto\ncriado pela derrubada apenas das plantas de pequeno porte.\nOs cacaueiros dessa região têm sido atacados e\ndevastados pelo fungo chamado vassoura-de-bruxa, que se\nreproduz em ambiente quente e úmido por meio de esporos\nque se espalham no meio aéreo.\nAs condições ambientais em que os pés de cacau são\nplantados e as condições de vida do fungo vassoura-de-\nbruxa, mencionadas acima, permitem supor-se que sejam\nmais intensamente atacados por esse fungo os cacaueiros\nplantados por meio do sistema\nA convencional, pois os pés de cacau ficam mais expostos\nao sol, o que facilita a reprodução do parasita.\nB convencional, pois a proximidade entre os pés de cacau\nfacilita a disseminação da doença.\nC convencional, pois o calor das queimadas cria as\ncondições ideais de reprodução do fungo.\nD cabruca, pois os cacaueiros não suportam a sombra e,\nportanto, terão seu crescimento prejudicado e\nadoecerão.\nE cabruca, pois, na competição com outras espécies, os\ncacaueiros ficam enfraquecidos e adoecem mais\nfacilmente."
+   "imagem": "questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q043.webp",
+   "texto": "Questão 43\nNa região sul da Bahia, o cacau tem sido cultivado por\nmeio de diferentes sistemas. Em um deles, o convencional, a\nprimeira etapa de preparação do solo corresponde à retirada\nda mata e à queimada dos tocos e das raízes. Em seguida,\npara o plantio da quantidade máxima de cacau na área, os\npés de cacau são plantados próximos uns dos outros. No\ncultivo pelo sistema chamado cabruca, os pés de cacau são\nabrigados entre as plantas de maior porte, em espaço aberto\ncriado pela derrubada apenas das plantas de pequeno porte.\nOs cacaueiros dessa região têm sido atacados e\ndevastados pelo fungo chamado vassoura-de-bruxa, que se\nreproduz em ambiente quente e úmido por meio de esporos\nque se espalham no meio aéreo.\nAs condições ambientais em que os pés de cacau são\nplantados e as condições de vida do fungo vassoura-de-\nbruxa, mencionadas acima, permitem supor-se que sejam\nmais intensamente atacados por esse fungo os cacaueiros\nplantados por meio do sistema\nA convencional, pois os pés de cacau ficam mais expostos\nao sol, o que facilita a reprodução do parasita.\nB convencional, pois a proximidade entre os pés de cacau\nfacilita a disseminação da doença.\nC convencional, pois o calor das queimadas cria as\ncondições ideais de reprodução do fungo.\nD cabruca, pois os cacaueiros não suportam a sombra e,\nportanto, terão seu crescimento prejudicado e\nadoecerão.\nE cabruca, pois, na competição com outras espécies, os\ncacaueiros ficam enfraquecidos e adoecem mais\nfacilmente.",
+   "disciplina": "biologia",
+   "subtopico": "ecologia-e-meio-ambiente",
+   "habilidade": "CN-H28",
+   "tema": "Cultivo de cacau e fungo parasita",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q043.md"
   },
   {
    "numero": 44,
-   "imagem": "img/enem-2006-q044.webp",
-   "texto": "Questão 44\nQuando um macho do besouro-da-cana localiza\numa plantação de cana-de-açúcar, ele libera uma\nsubstância para que outros besouros também localizem\nessa plantação, o que causa sérios prejuízos ao agricultor.\nA substância liberada pelo besouro foi sintetizada em\nlaboratório por um químico brasileiro. Com essa substância\nsintética, o agricultor pode fazer o feitiço virar contra o\nfeiticeiro: usar a substância como isca e atrair os besouros\npara longe das plantações de cana.\nFolha Ciência. In: Folha de S. Paulo,\n25/5/2004 (com adaptações).\nAssinale a opção que apresenta corretamente tanto a\nfinalidade quanto a vantagem ambiental da utilização da\nsubstância sintética mencionada.\nfinalidade\nvantagem ambiental\nreduzir as espécies que se\nA\neliminar os besouros\nalimentam da cana-de-\naçúcar\nafastar os predadores da\nreduzir a necessidade de\nB\nplantação\nuso de agrotóxicos\neliminar o uso de\nC\nexterminar os besouros\nagrotóxicos\nevitar a incidência de\nD\ndispersar os besouros\nnovas pragas\nafastar os predadores da\naumentar a resistência dos\nE\nplantação\ncanaviais"
+   "imagem": "questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q044.webp",
+   "texto": "Questão 44\nQuando um macho do besouro-da-cana localiza\numa plantação de cana-de-açúcar, ele libera uma\nsubstância para que outros besouros também localizem\nessa plantação, o que causa sérios prejuízos ao agricultor.\nA substância liberada pelo besouro foi sintetizada em\nlaboratório por um químico brasileiro. Com essa substância\nsintética, o agricultor pode fazer o feitiço virar contra o\nfeiticeiro: usar a substância como isca e atrair os besouros\npara longe das plantações de cana.\nFolha Ciência. In: Folha de S. Paulo,\n25/5/2004 (com adaptações).\nAssinale a opção que apresenta corretamente tanto a\nfinalidade quanto a vantagem ambiental da utilização da\nsubstância sintética mencionada.\nfinalidade\nvantagem ambiental\nreduzir as espécies que se\nA\neliminar os besouros\nalimentam da cana-de-\naçúcar\nafastar os predadores da\nreduzir a necessidade de\nB\nplantação\nuso de agrotóxicos\neliminar o uso de\nC\nexterminar os besouros\nagrotóxicos\nevitar a incidência de\nD\ndispersar os besouros\nnovas pragas\nafastar os predadores da\naumentar a resistência dos\nE\nplantação\ncanaviais",
+   "disciplina": "biologia",
+   "subtopico": "ecologia-e-meio-ambiente",
+   "habilidade": "CN-H29",
+   "tema": "Feromônio sintético no controle de pragas",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q044.md"
   },
   {
    "numero": 45,
-   "imagem": "img/enem-2006-q045.webp",
-   "texto": "Questão 45\nOs efeitos dos antiinflamatórios estão associados\nà presença de inibidores da enzima chamada\nciclooxigenase 2 (COX-2). Essa enzima degrada\nsubstâncias liberadas de tecidos lesados e as transforma\nem prostaglandinas pró-inflamatórias, responsáveis pelo\naparecimento de dor e inchaço.\nOs antiinflamatórios produzem efeitos colaterais\ndecorrentes da inibição de uma outra enzima, a COX-1,\nresponsável pela formação de prostaglandinas, protetoras\nda mucosa gastrintestinal.\nO esquema abaixo mostra alguns antiinflamatórios\n(nome genérico). As setas indicam a maior ou a menor\nafinidade dessas substâncias pelas duas enzimas.\nPIROXICAM\n+\nASPIRINA\nIBUPROFENO\nAfinidade\nAfinidade\nMELOXICAM\npor COX-2\nDICLOFENACO\npor COX-1\nNAPROXENO\nNIMESULIDE\n+\nCELECOXIBE\nROFECOXIBE\nCom base nessas informações, é correto concluir-se que\nA o piroxicam é o antiinflamatório que mais pode\ninterferir na formação de prostaglandinas protetoras da\nmucosa gastrintestinal.\nB o rofecoxibe é o antiinflamatório que tem a maior\nafinidade pela enzima COX-1.\nC a aspirina tem o mesmo grau de afinidade pelas duas\nenzimas.\nD o diclofenaco, pela posição que ocupa no esquema,\ntem sua atividade antiinflamatória neutralizada pelas\nduas enzimas.\nE o nimesulide apresenta o mesmo grau de afinidade\npelas enzimas COX-1 e COX-2."
+   "imagem": "questoes/biologia/fisiologia-humana-e-saude/enem-2006-q045.webp",
+   "texto": "Questão 45\nOs efeitos dos antiinflamatórios estão associados\nà presença de inibidores da enzima chamada\nciclooxigenase 2 (COX-2). Essa enzima degrada\nsubstâncias liberadas de tecidos lesados e as transforma\nem prostaglandinas pró-inflamatórias, responsáveis pelo\naparecimento de dor e inchaço.\nOs antiinflamatórios produzem efeitos colaterais\ndecorrentes da inibição de uma outra enzima, a COX-1,\nresponsável pela formação de prostaglandinas, protetoras\nda mucosa gastrintestinal.\nO esquema abaixo mostra alguns antiinflamatórios\n(nome genérico). As setas indicam a maior ou a menor\nafinidade dessas substâncias pelas duas enzimas.\nPIROXICAM\n+\nASPIRINA\nIBUPROFENO\nAfinidade\nAfinidade\nMELOXICAM\npor COX-2\nDICLOFENACO\npor COX-1\nNAPROXENO\nNIMESULIDE\n+\nCELECOXIBE\nROFECOXIBE\nCom base nessas informações, é correto concluir-se que\nA o piroxicam é o antiinflamatório que mais pode\ninterferir na formação de prostaglandinas protetoras da\nmucosa gastrintestinal.\nB o rofecoxibe é o antiinflamatório que tem a maior\nafinidade pela enzima COX-1.\nC a aspirina tem o mesmo grau de afinidade pelas duas\nenzimas.\nD o diclofenaco, pela posição que ocupa no esquema,\ntem sua atividade antiinflamatória neutralizada pelas\nduas enzimas.\nE o nimesulide apresenta o mesmo grau de afinidade\npelas enzimas COX-1 e COX-2.",
+   "disciplina": "biologia",
+   "subtopico": "fisiologia-humana-e-saude",
+   "habilidade": "CN-H18",
+   "tema": "Anti-inflamatórios e enzimas COX-1 e COX-2",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/biologia/fisiologia-humana-e-saude/enem-2006-q045.md"
   },
   {
    "numero": 46,
-   "imagem": "img/enem-2006-q046.webp",
-   "texto": "Questão 46\nNo primeiro semestre de 2006, o Movimento\nGlobal pela Criança, em parceria com o UNICEF, divulgou\no relatório Salvando vidas: o direito das crianças ao\ntratamento de HIV e AIDS. Nesse relatório, conclui-se que\no aumento da prevenção primária ao vírus deverá reduzir o\nnúmero de novos casos de infecção entre jovens de 15 a\n24 anos de idade, como mostra o gráfico a seguir.\n3.000\nnúmero de novas infecções\n2.500\n(em milhares)\n2.000\n1.500\n1.000\ncom maior prevenção\n500\ncom a prevenção atual\n0\n2005\n2006\n2007\n2008\n2009\n2010\nCom base nesses dados, analise as seguintes afirmações.\nI Ações educativas de prevenção da transmissão do vírus\nHIV poderão contribuir para a redução, em 2008, de\nmais de 20% dos novos casos de infecção entre os\njovens, em relação ao ano de 2005.\nII Ações educativas relativas à utilização de preservativos\nnas relações sexuais reduzirão em 25% ao ano os\nnovos casos de AIDS entre os jovens.\nIII Sem o aumento de medidas de prevenção primária,\nestima-se que, em 2010, o aumento de novos casos de\ninfecção por HIV entre os jovens será, em relação ao\nano de 2005, 50% maior.\nÉ correto apenas o que se afirma em\nA I.\nB II.\nC III.\nD I e II.\nE II e III."
+   "imagem": "questoes/biologia/microbiologia-e-parasitologia/enem-2006-q046.webp",
+   "texto": "Questão 46\nNo primeiro semestre de 2006, o Movimento\nGlobal pela Criança, em parceria com o UNICEF, divulgou\no relatório Salvando vidas: o direito das crianças ao\ntratamento de HIV e AIDS. Nesse relatório, conclui-se que\no aumento da prevenção primária ao vírus deverá reduzir o\nnúmero de novos casos de infecção entre jovens de 15 a\n24 anos de idade, como mostra o gráfico a seguir.\n3.000\nnúmero de novas infecções\n2.500\n(em milhares)\n2.000\n1.500\n1.000\ncom maior prevenção\n500\ncom a prevenção atual\n0\n2005\n2006\n2007\n2008\n2009\n2010\nCom base nesses dados, analise as seguintes afirmações.\nI Ações educativas de prevenção da transmissão do vírus\nHIV poderão contribuir para a redução, em 2008, de\nmais de 20% dos novos casos de infecção entre os\njovens, em relação ao ano de 2005.\nII Ações educativas relativas à utilização de preservativos\nnas relações sexuais reduzirão em 25% ao ano os\nnovos casos de AIDS entre os jovens.\nIII Sem o aumento de medidas de prevenção primária,\nestima-se que, em 2010, o aumento de novos casos de\ninfecção por HIV entre os jovens será, em relação ao\nano de 2005, 50% maior.\nÉ correto apenas o que se afirma em\nA I.\nB II.\nC III.\nD I e II.\nE II e III.",
+   "disciplina": "biologia",
+   "subtopico": "microbiologia-e-parasitologia",
+   "habilidade": "CN-H30",
+   "tema": "Prevenção de infecção por HIV entre jovens",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/biologia/microbiologia-e-parasitologia/enem-2006-q046.md"
   },
   {
    "numero": 47,
-   "imagem": "img/enem-2006-q047.webp",
-   "texto": "Questão 47\nEm 30 anos, a alimentação piorou muito\nAUMENTO NO CONSUMO - POR FAMÍLIA\nrefrigerantes salsichas e\nrefeições\nbiscoitos\nlingüiças\nprontas\n400%\n400%\n300%\n80%\nDIMINUIÇÃO NO CONSUMO - POR FAMÍLIA\nfeijão e\novos\npeixes\narroz\nleguminosas\n84%\n50%\n30%\n23%\nÉpoca , 8/5/2006 (com adaptações).\nA partir desses dados, foram feitas as afirmações abaixo.\nI As famílias brasileiras, em 30 anos, aumentaram muito\no consumo de proteínas e grãos, que, por seu alto valor\ncalórico, não são recomendáveis.\nII O aumento do consumo de alimentos muito calóricos\ndeve ser considerado indicador de alerta para a saúde,\njá que a obesidade pode reduzir a expectativa de vida\nhumana.\nIII Doenças cardiovasculares podem ser desencadeadas\npela obesidade decorrente das novas dietas\nalimentares.\nÉ correto apenas o que se afirma em\nA I.\nB II.\nC III.\nD I e II.\nE II e III."
+   "imagem": "questoes/biologia/fisiologia-humana-e-saude/enem-2006-q047.webp",
+   "texto": "Questão 47\nEm 30 anos, a alimentação piorou muito\nAUMENTO NO CONSUMO - POR FAMÍLIA\nrefrigerantes salsichas e\nrefeições\nbiscoitos\nlingüiças\nprontas\n400%\n400%\n300%\n80%\nDIMINUIÇÃO NO CONSUMO - POR FAMÍLIA\nfeijão e\novos\npeixes\narroz\nleguminosas\n84%\n50%\n30%\n23%\nÉpoca , 8/5/2006 (com adaptações).\nA partir desses dados, foram feitas as afirmações abaixo.\nI As famílias brasileiras, em 30 anos, aumentaram muito\no consumo de proteínas e grãos, que, por seu alto valor\ncalórico, não são recomendáveis.\nII O aumento do consumo de alimentos muito calóricos\ndeve ser considerado indicador de alerta para a saúde,\njá que a obesidade pode reduzir a expectativa de vida\nhumana.\nIII Doenças cardiovasculares podem ser desencadeadas\npela obesidade decorrente das novas dietas\nalimentares.\nÉ correto apenas o que se afirma em\nA I.\nB II.\nC III.\nD I e II.\nE II e III.",
+   "disciplina": "biologia",
+   "subtopico": "fisiologia-humana-e-saude",
+   "habilidade": "CN-H30",
+   "tema": "Mudança alimentar, obesidade e doenças",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/biologia/fisiologia-humana-e-saude/enem-2006-q047.md"
   },
   {
    "numero": 48,
-   "imagem": "img/enem-2006-q048.webp",
-   "texto": "Questão 48\nOs benefícios do pedágio dentro da cidade\nA prefeitura de uma grande cidade brasileira\npretende implantar um pedágio nas suas\navenidas principais, para reduzir o tráfego e\naumentar a arrecadação municipal. Um estudo\ndo Banco Nacional de Desenvolvimento Econômico\ne Social (BNDES) mostra o impacto de medidas\ncomo essa adotadas em outros países.\nCINGAPURA\nAdotado, em 1975, na área central de Cingapura,\no pedágio fez o uso de ônibus crescer 15% e a\nvelocidade média no trânsito subir 10 km por hora.\nINGLATERRA\nDesde 2003, cobra-se o equivalente a 35 reais\npor dia dos motoristas que utilizam as ruas do\ncentro de Londres. A medida reduziu em 30%\no número de veículos que trafegam na região.\nNORUEGA\nEm 1990, a capital, Oslo, instalou pedágio apenas\npara aumentar sua receita tributária.\nHoje arrecada 70 milhões de dólares por ano\ncom a taxa.\nCORÉIA DO SUL\nVeja, 28/6/2006 (com adaptações).\nCom base nessas informações, assinale a opção correta a\nrespeito do pedágio nas cidades mencionadas.\nA A preocupação comum entre os países que adotaram\no pedágio urbano foi o aumento de arrecadação\npública.\nB A Europa foi pioneira na adoção de pedágio urbano\ncomo solução para os problemas de tráfego em\navenidas.\nC Caso a prefeitura da cidade brasileira mencionada\nadote a cobrança do pedágio em vias urbanas, isso\ndará seqüência às experiências implantadas\nsucessivamente em Cingapura, Noruega, Coréia do\nSul e Inglaterra.\nD Nas experiências citadas, houve redução do volume\nde tráfego coletivo e individual na proporção inversa do\naumento da velocidade no trânsito.\nE O número de cidades européias que já adotaram o\npedágio urbano corresponde ao dobro do número de\ncidades asiáticas que o fizeram."
+   "imagem": "questoes/geografia/geografia-do-brasil-urbana-e-agraria/enem-2006-q048.webp",
+   "texto": "Questão 48\nOs benefícios do pedágio dentro da cidade\nA prefeitura de uma grande cidade brasileira\npretende implantar um pedágio nas suas\navenidas principais, para reduzir o tráfego e\naumentar a arrecadação municipal. Um estudo\ndo Banco Nacional de Desenvolvimento Econômico\ne Social (BNDES) mostra o impacto de medidas\ncomo essa adotadas em outros países.\nCINGAPURA\nAdotado, em 1975, na área central de Cingapura,\no pedágio fez o uso de ônibus crescer 15% e a\nvelocidade média no trânsito subir 10 km por hora.\nINGLATERRA\nDesde 2003, cobra-se o equivalente a 35 reais\npor dia dos motoristas que utilizam as ruas do\ncentro de Londres. A medida reduziu em 30%\no número de veículos que trafegam na região.\nNORUEGA\nEm 1990, a capital, Oslo, instalou pedágio apenas\npara aumentar sua receita tributária.\nHoje arrecada 70 milhões de dólares por ano\ncom a taxa.\nCORÉIA DO SUL\nVeja, 28/6/2006 (com adaptações).\nCom base nessas informações, assinale a opção correta a\nrespeito do pedágio nas cidades mencionadas.\nA A preocupação comum entre os países que adotaram\no pedágio urbano foi o aumento de arrecadação\npública.\nB A Europa foi pioneira na adoção de pedágio urbano\ncomo solução para os problemas de tráfego em\navenidas.\nC Caso a prefeitura da cidade brasileira mencionada\nadote a cobrança do pedágio em vias urbanas, isso\ndará seqüência às experiências implantadas\nsucessivamente em Cingapura, Noruega, Coréia do\nSul e Inglaterra.\nD Nas experiências citadas, houve redução do volume\nde tráfego coletivo e individual na proporção inversa do\naumento da velocidade no trânsito.\nE O número de cidades européias que já adotaram o\npedágio urbano corresponde ao dobro do número de\ncidades asiáticas que o fizeram.",
+   "disciplina": "geografia",
+   "subtopico": "geografia-do-brasil-urbana-e-agraria",
+   "habilidade": "CH-H19",
+   "tema": "Pedágio urbano e trânsito nas cidades",
+   "confianca": "baixa",
+   "obs": "Texto parcial; não vista imagem",
+   "arquivo": "questoes/geografia/geografia-do-brasil-urbana-e-agraria/enem-2006-q048.md"
   },
   {
    "numero": 49,
-   "imagem": "img/enem-2006-q049.webp",
-   "texto": "Questão 49\nPara se obter 1,5 kg do dióxido de urânio puro, matéria-\nprima para a produção de combustível nuclear, é\nnecessário extrair-se e tratar-se 1,0 tonelada de minério.\nAssim, o rendimento (dado em % em massa) do\ntratamento do minério até chegar ao dióxido de urânio puro\né de\nA 0,10%.\nB 0,15%.\nC 0,20%.\nD 1,5%. E 2,0%."
+   "imagem": "questoes/quimica/estequiometria-e-calculos-quimicos/enem-2006-q049.webp",
+   "texto": "Questão 49\nPara se obter 1,5 kg do dióxido de urânio puro, matéria-\nprima para a produção de combustível nuclear, é\nnecessário extrair-se e tratar-se 1,0 tonelada de minério.\nAssim, o rendimento (dado em % em massa) do\ntratamento do minério até chegar ao dióxido de urânio puro\né de\nA 0,10%.\nB 0,15%.\nC 0,20%.\nD 1,5%. E 2,0%.",
+   "disciplina": "quimica",
+   "subtopico": "estequiometria-e-calculos-quimicos",
+   "habilidade": "CN-H25",
+   "tema": "Rendimento da obtenção de dióxido de urânio",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/quimica/estequiometria-e-calculos-quimicos/enem-2006-q049.md"
   },
   {
    "numero": 50,
-   "imagem": "img/enem-2006-q050.webp",
-   "texto": "Questão 50\nO funcionamento de uma usina nucleoelétrica típica\nbaseia-se na liberação de energia resultante da divisão do\nnúcleo de urânio em núcleos de menor massa, processo\nconhecido como fissão nuclear. Nesse processo, utiliza-se\numa mistura de diferentes átomos de urânio, de forma a\nproporcionar uma concentração de apenas 4% de material\nfíssil. Em bombas atômicas, são utilizadas concentrações\nacima de 20% de urânio físsil, cuja obtenção é trabalhosa,\npois, na natureza, predomina o urânio não-físsil.\nEm grande parte do armamento nuclear hoje existente,\nutiliza-se, então, como alternativa, o plutônio, material físsil\nproduzido por reações nucleares no interior do reator das\nusinas nucleoelétricas. Considerando-se essas informa-\nções, é correto afirmar que\nA a disponibilidade do urânio na natureza está\nameaçada devido à sua utilização em armas\nnucleares.\nB a proibição de se instalarem novas usinas\nnucleoelétricas não causará impacto na oferta mundial\nde energia.\nC a existência de usinas nucleoelétricas possibilita que\num de seus subprodutos seja utilizado como material\nbélico.\nD a obtenção de grandes concentrações de urânio físsil\né viabilizada em usinas nucleoelétricas.\nE a baixa concentração de urânio físsil em usinas\nnucleoelétricas impossibilita o desenvolvimento\nenergético."
+   "imagem": "questoes/fisica/fisica-moderna/enem-2006-q050.webp",
+   "texto": "Questão 50\nO funcionamento de uma usina nucleoelétrica típica\nbaseia-se na liberação de energia resultante da divisão do\nnúcleo de urânio em núcleos de menor massa, processo\nconhecido como fissão nuclear. Nesse processo, utiliza-se\numa mistura de diferentes átomos de urânio, de forma a\nproporcionar uma concentração de apenas 4% de material\nfíssil. Em bombas atômicas, são utilizadas concentrações\nacima de 20% de urânio físsil, cuja obtenção é trabalhosa,\npois, na natureza, predomina o urânio não-físsil.\nEm grande parte do armamento nuclear hoje existente,\nutiliza-se, então, como alternativa, o plutônio, material físsil\nproduzido por reações nucleares no interior do reator das\nusinas nucleoelétricas. Considerando-se essas informa-\nções, é correto afirmar que\nA a disponibilidade do urânio na natureza está\nameaçada devido à sua utilização em armas\nnucleares.\nB a proibição de se instalarem novas usinas\nnucleoelétricas não causará impacto na oferta mundial\nde energia.\nC a existência de usinas nucleoelétricas possibilita que\num de seus subprodutos seja utilizado como material\nbélico.\nD a obtenção de grandes concentrações de urânio físsil\né viabilizada em usinas nucleoelétricas.\nE a baixa concentração de urânio físsil em usinas\nnucleoelétricas impossibilita o desenvolvimento\nenergético.",
+   "disciplina": "fisica",
+   "subtopico": "fisica-moderna",
+   "habilidade": "CN-H23",
+   "tema": "Fissão nuclear e usinas nucleoelétricas",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/fisica/fisica-moderna/enem-2006-q050.md"
   },
   {
    "numero": 51,
-   "imagem": "img/enem-2006-q051.webp",
-   "texto": "Questão 51\nNa avaliação da eficiência de usinas quanto à\nprodução e aos impactos ambientais, utilizam-se vários\ncritérios, tais como: razão entre produção efetiva anual de\nenergia elétrica e potência instalada ou razão entre\npotência instalada e área inundada pelo reservatório. No\nquadro seguinte, esses parâmetros são aplicados às duas\nmaiores hidrelétricas do mundo: Itaipu, no Brasil, e Três\nGargantas, na China.\nparâmetros\nItaipu\nTrês Gargantas\npotência instalada\n12.600 MW\n18.200 MW\nprodução efetiva de\n93 bilhões de\n84 bilhões de\nenergia elétrica\nkWh/ano\nkWh/ano\nárea inundada pelo\n2\n2\n1.400 km\n1.000 km\nreservatório\nInternet: <www.itaipu.gov.br>.\nCom base nessas informações, avalie as afirmativas que\nse seguem.\nI A energia elétrica gerada anualmente e a capacidade\nnominal máxima de geração da hidrelétrica de Itaipu são\nmaiores que as da hidrelétrica de Três Gargantas.\nII Itaipu é mais eficiente que Três Gargantas no uso da\npotência instalada na produção de energia elétrica.\nIII A razão entre potência instalada e área inundada pelo\nreservatório é mais favorável na hidrelétrica Três\nGargantas do que em Itaipu.\nÉ correto apenas o que se afirma em\nA I.\nB II.\nC III.\nD I e III.\nE II e III."
+   "imagem": "questoes/fisica/energia-fontes-e-meio-ambiente/enem-2006-q051.webp",
+   "texto": "Questão 51\nNa avaliação da eficiência de usinas quanto à\nprodução e aos impactos ambientais, utilizam-se vários\ncritérios, tais como: razão entre produção efetiva anual de\nenergia elétrica e potência instalada ou razão entre\npotência instalada e área inundada pelo reservatório. No\nquadro seguinte, esses parâmetros são aplicados às duas\nmaiores hidrelétricas do mundo: Itaipu, no Brasil, e Três\nGargantas, na China.\nparâmetros\nItaipu\nTrês Gargantas\npotência instalada\n12.600 MW\n18.200 MW\nprodução efetiva de\n93 bilhões de\n84 bilhões de\nenergia elétrica\nkWh/ano\nkWh/ano\nárea inundada pelo\n2\n2\n1.400 km\n1.000 km\nreservatório\nInternet: <www.itaipu.gov.br>.\nCom base nessas informações, avalie as afirmativas que\nse seguem.\nI A energia elétrica gerada anualmente e a capacidade\nnominal máxima de geração da hidrelétrica de Itaipu são\nmaiores que as da hidrelétrica de Três Gargantas.\nII Itaipu é mais eficiente que Três Gargantas no uso da\npotência instalada na produção de energia elétrica.\nIII A razão entre potência instalada e área inundada pelo\nreservatório é mais favorável na hidrelétrica Três\nGargantas do que em Itaipu.\nÉ correto apenas o que se afirma em\nA I.\nB II.\nC III.\nD I e III.\nE II e III.",
+   "disciplina": "fisica",
+   "subtopico": "energia-fontes-e-meio-ambiente",
+   "habilidade": "CN-H23",
+   "tema": "Eficiência de Itaipu e Três Gargantas",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/fisica/energia-fontes-e-meio-ambiente/enem-2006-q051.md"
   },
   {
    "numero": 52,
-   "imagem": "img/enem-2006-q052.webp",
-   "texto": "Texto para as questões 52 e 53\nO carneiro hidráulico ou aríete, dispositivo usado\npara bombear água, não requer combustível ou energia\nelétrica para funcionar, visto que usa a energia da vazão\nde água de uma fonte. A figura a seguir ilustra uma\ninstalação típica de carneiro em um sítio, e a tabela\napresenta dados de seu funcionamento.\ncaixa\ncarneiro\nH\nfonte\nh\nh/H\nV f\nV b\naltura da fonte\nágua da fonte necessária\nágua bombeada\ndividida pela\npara o funcionamento do\npara a caixa\naltura da caixa\nsistema (litros/hora)\n(litros/hora)\n1/3\n180 a 300\n1/4\n120 a 210\n1/6\n720 a 1.200\n80 a 140\n1/8\n60 a 105\n1/10\n45 a 85\nA eficiência energética ε de um carneiro pode ser\nobtida pela expressão:\nH V\nε = × b ,\nh V f\ncujas variáveis estão definidas na tabela e na figura.\nQuestão 52\nNo sítio ilustrado, a altura da caixa d’água é o quádruplo da\naltura da fonte. Comparado a motobombas a gasolina, cuja\neficiência energética é cerca de 36%, o carneiro hidráulico\ndo sítio apresenta\nA menor\neficiência,\nsendo,\nportanto,\ninviável\neconomicamente.\nB menor eficiência, sendo desqualificado do ponto de\nvista ambiental pela quantidade de energia que\ndesperdiça.\nC mesma\neficiência,\nmas\nconstitui\nalternativa\necologicamente mais apropriada.\nD maior eficiência, o que, por si só, justificaria o seu uso\nem todas as regiões brasileiras.\nE maior eficiência, sendo economicamente viável e\necologicamente correto."
+   "imagem": "questoes/fisica/energia-trabalho-e-potencia/enem-2006-q052.webp",
+   "texto": "Texto para as questões 52 e 53\nO carneiro hidráulico ou aríete, dispositivo usado\npara bombear água, não requer combustível ou energia\nelétrica para funcionar, visto que usa a energia da vazão\nde água de uma fonte. A figura a seguir ilustra uma\ninstalação típica de carneiro em um sítio, e a tabela\napresenta dados de seu funcionamento.\ncaixa\ncarneiro\nH\nfonte\nh\nh/H\nV f\nV b\naltura da fonte\nágua da fonte necessária\nágua bombeada\ndividida pela\npara o funcionamento do\npara a caixa\naltura da caixa\nsistema (litros/hora)\n(litros/hora)\n1/3\n180 a 300\n1/4\n120 a 210\n1/6\n720 a 1.200\n80 a 140\n1/8\n60 a 105\n1/10\n45 a 85\nA eficiência energética ε de um carneiro pode ser\nobtida pela expressão:\nH V\nε = × b ,\nh V f\ncujas variáveis estão definidas na tabela e na figura.\nQuestão 52\nNo sítio ilustrado, a altura da caixa d’água é o quádruplo da\naltura da fonte. Comparado a motobombas a gasolina, cuja\neficiência energética é cerca de 36%, o carneiro hidráulico\ndo sítio apresenta\nA menor\neficiência,\nsendo,\nportanto,\ninviável\neconomicamente.\nB menor eficiência, sendo desqualificado do ponto de\nvista ambiental pela quantidade de energia que\ndesperdiça.\nC mesma\neficiência,\nmas\nconstitui\nalternativa\necologicamente mais apropriada.\nD maior eficiência, o que, por si só, justificaria o seu uso\nem todas as regiões brasileiras.\nE maior eficiência, sendo economicamente viável e\necologicamente correto.",
+   "disciplina": "fisica",
+   "subtopico": "energia-trabalho-e-potencia",
+   "habilidade": "CN-H6",
+   "tema": "Eficiência energética do carneiro hidráulico",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/fisica/energia-trabalho-e-potencia/enem-2006-q052.md"
   },
   {
    "numero": 53,
-   "imagem": "img/enem-2006-q053.webp",
-   "texto": "Texto para as questões 52 e 53\nO carneiro hidráulico ou aríete, dispositivo usado\npara bombear água, não requer combustível ou energia\nelétrica para funcionar, visto que usa a energia da vazão\nde água de uma fonte. A figura a seguir ilustra uma\ninstalação típica de carneiro em um sítio, e a tabela\napresenta dados de seu funcionamento.\ncaixa\ncarneiro\nH\nfonte\nh\nh/H\nV f\nV b\naltura da fonte\nágua da fonte necessária\nágua bombeada\ndividida pela\npara o funcionamento do\npara a caixa\naltura da caixa\nsistema (litros/hora)\n(litros/hora)\n1/3\n180 a 300\n1/4\n120 a 210\n1/6\n720 a 1.200\n80 a 140\n1/8\n60 a 105\n1/10\n45 a 85\nA eficiência energética ε de um carneiro pode ser\nobtida pela expressão:\nH V\nε = × b ,\nh V f\ncujas variáveis estão definidas na tabela e na figura.\nQuestão 53\nSe, na situação apresentada, H = 5 × h, então, é mais\nprovável que, após 1 hora de funcionamento ininterrupto, o\ncarneiro hidráulico bombeie para a caixa d´água\nA\nde 70 a 100 litros de água.\nB\nde 75 a 210 litros de água.\nC\nde 80 a 220 litros de água.\nD\nde 100 a 175 litros de água.\nE\nde 110 a 240 litros de água."
+   "imagem": "questoes/fisica/energia-trabalho-e-potencia/enem-2006-q053.webp",
+   "texto": "Texto para as questões 52 e 53\nO carneiro hidráulico ou aríete, dispositivo usado\npara bombear água, não requer combustível ou energia\nelétrica para funcionar, visto que usa a energia da vazão\nde água de uma fonte. A figura a seguir ilustra uma\ninstalação típica de carneiro em um sítio, e a tabela\napresenta dados de seu funcionamento.\ncaixa\ncarneiro\nH\nfonte\nh\nh/H\nV f\nV b\naltura da fonte\nágua da fonte necessária\nágua bombeada\ndividida pela\npara o funcionamento do\npara a caixa\naltura da caixa\nsistema (litros/hora)\n(litros/hora)\n1/3\n180 a 300\n1/4\n120 a 210\n1/6\n720 a 1.200\n80 a 140\n1/8\n60 a 105\n1/10\n45 a 85\nA eficiência energética ε de um carneiro pode ser\nobtida pela expressão:\nH V\nε = × b ,\nh V f\ncujas variáveis estão definidas na tabela e na figura.\nQuestão 53\nSe, na situação apresentada, H = 5 × h, então, é mais\nprovável que, após 1 hora de funcionamento ininterrupto, o\ncarneiro hidráulico bombeie para a caixa d´água\nA\nde 70 a 100 litros de água.\nB\nde 75 a 210 litros de água.\nC\nde 80 a 220 litros de água.\nD\nde 100 a 175 litros de água.\nE\nde 110 a 240 litros de água.",
+   "disciplina": "fisica",
+   "subtopico": "energia-trabalho-e-potencia",
+   "habilidade": "CN-H6",
+   "tema": "Vazão bombeada pelo carneiro hidráulico",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/fisica/energia-trabalho-e-potencia/enem-2006-q053.md"
   },
   {
    "numero": 54,
-   "imagem": "img/enem-2006-q054.webp",
-   "texto": "Questão 54\nNão é nova a idéia de se extrair energia dos\noceanos aproveitando-se a diferença das marés alta e\nbaixa. Em 1967, os franceses instalaram a primeira usina\n“maré-motriz”, construindo uma barragem equipada de 24\nturbinas, aproveitando-se a potência máxima instalada de\n240 MW, suficiente para a demanda de uma cidade com\n200 mil habitantes. Aproximadamente 10% da potência\ntotal instalada são demandados pelo consumo residencial.\nNessa cidade francesa, aos domingos, quando\nparcela dos setores industrial e comercial pára, a demanda\ndiminui 40%. Assim, a produção de energia\ncorrespondente à demanda aos domingos será atingida\nmantendo-se\nI todas as turbinas em funcionamento, com 60% da\ncapacidade máxima de produção de cada uma delas.\nII a metade das turbinas funcionando em capacidade\nmáxima e o restante, com 20% da capacidade máxima.\nIII quatorze turbinas funcionando em capacidade máxima,\numa com 40% da capacidade máxima e as demais\ndesligadas.\nEstá correta a situação descrita\nA\napenas em I.\nB\napenas em II.\nC\napenas em I e III.\nD\napenas em II e III.\nE\nem I, II e III."
+   "imagem": "questoes/fisica/energia-fontes-e-meio-ambiente/enem-2006-q054.webp",
+   "texto": "Questão 54\nNão é nova a idéia de se extrair energia dos\noceanos aproveitando-se a diferença das marés alta e\nbaixa. Em 1967, os franceses instalaram a primeira usina\n“maré-motriz”, construindo uma barragem equipada de 24\nturbinas, aproveitando-se a potência máxima instalada de\n240 MW, suficiente para a demanda de uma cidade com\n200 mil habitantes. Aproximadamente 10% da potência\ntotal instalada são demandados pelo consumo residencial.\nNessa cidade francesa, aos domingos, quando\nparcela dos setores industrial e comercial pára, a demanda\ndiminui 40%. Assim, a produção de energia\ncorrespondente à demanda aos domingos será atingida\nmantendo-se\nI todas as turbinas em funcionamento, com 60% da\ncapacidade máxima de produção de cada uma delas.\nII a metade das turbinas funcionando em capacidade\nmáxima e o restante, com 20% da capacidade máxima.\nIII quatorze turbinas funcionando em capacidade máxima,\numa com 40% da capacidade máxima e as demais\ndesligadas.\nEstá correta a situação descrita\nA\napenas em I.\nB\napenas em II.\nC\napenas em I e III.\nD\napenas em II e III.\nE\nem I, II e III.",
+   "disciplina": "fisica",
+   "subtopico": "energia-fontes-e-meio-ambiente",
+   "habilidade": "CN-H23",
+   "tema": "Usina maré-motriz e demanda de energia",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/fisica/energia-fontes-e-meio-ambiente/enem-2006-q054.md"
   },
   {
    "numero": 55,
-   "imagem": "img/enem-2006-q055.webp",
-   "texto": "Questão 55\nEm certas regiões litorâneas, o sal é obtido da água do\nmar pelo processo de cristalização por evaporação. Para o\ndesenvolvimento dessa atividade, é mais adequado um\nlocal\nA\nplano, com alta pluviosidade e pouco vento.\nB\nplano, com baixa pluviosidade e muito vento.\nC\nplano, com baixa pluviosidade e pouco vento.\nD\nmontanhoso, com alta pluviosidade e muito vento.\nE\nmontanhoso, com baixa pluviosidade e pouco vento.\nRASCUNHO"
+   "imagem": "questoes/quimica/solucoes-e-misturas/enem-2006-q055.webp",
+   "texto": "Questão 55\nEm certas regiões litorâneas, o sal é obtido da água do\nmar pelo processo de cristalização por evaporação. Para o\ndesenvolvimento dessa atividade, é mais adequado um\nlocal\nA\nplano, com alta pluviosidade e pouco vento.\nB\nplano, com baixa pluviosidade e muito vento.\nC\nplano, com baixa pluviosidade e pouco vento.\nD\nmontanhoso, com alta pluviosidade e muito vento.\nE\nmontanhoso, com baixa pluviosidade e pouco vento.\nRASCUNHO",
+   "disciplina": "quimica",
+   "subtopico": "solucoes-e-misturas",
+   "habilidade": "CN-H8",
+   "tema": "Obtenção de sal por evaporação da água do mar",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/quimica/solucoes-e-misturas/enem-2006-q055.md"
   },
   {
    "numero": 56,
-   "imagem": "img/enem-2006-q056.webp",
-   "texto": "Texto para as questões 56 e 57\nPara se discutirem políticas energéticas, é\nimportante que se analise a evolução da Oferta Interna de\nEnergia (OIE) do país. Essa oferta expressa as\ncontribuições relativas das fontes de energia utilizadas em\ntodos os setores de atividade. O gráfico a seguir apresenta\na evolução da OIE no Brasil, de 1970 a 2002.\nOferta Interna de Energia (%)\nOUTRAS\n100%\nDERIVADOS DE CANA-DE-AÇÚCAR\n80%\nLENHA E CARVÃO VEGETAL\n60%\nHIDRELÉTRICA\nCARVÃO NA\nTURAL\n40%\nGÁS NATURAL\n20%\nPETRÓLEO E DERIVADOS\n0%\n1970\n1974\n1978\n1982\n1986\n1990\n1994\n1998\n2002\nANO\nMinistério de Minas e Energia – MME/Brasil.\nQuestão 56\nCom base nos dados do gráfico, verifica-se que,\ncomparado ao do ano de 1970, o percentual de oferta de\nenergia oriunda de recursos renováveis em relação à\noferta total de energia, em 2002, apresenta contribuição\nA menor, pois houve expressiva diminuição do uso de\ncarvão mineral, lenha e carvão vegetal.\nB menor, pois o aumento do uso de derivados da cana-\nde-açúcar e de hidreletricidade não compensou a\ndiminuição do uso de lenha e carvão vegetal.\nC maior, pois houve aumento da oferta de\nhidreletricidade, dado que esta utiliza o recurso de\nmaior disponibilidade no país.\nD maior, visto que houve expressivo aumento da\nutilização de todos os recursos renováveis do país.\nE maior, pois houve pequeno aumento da utilização de\ngás natural e dos produtos derivados da cana-de-\naçúcar."
+   "imagem": "questoes/fisica/energia-fontes-e-meio-ambiente/enem-2006-q056.webp",
+   "texto": "Texto para as questões 56 e 57\nPara se discutirem políticas energéticas, é\nimportante que se analise a evolução da Oferta Interna de\nEnergia (OIE) do país. Essa oferta expressa as\ncontribuições relativas das fontes de energia utilizadas em\ntodos os setores de atividade. O gráfico a seguir apresenta\na evolução da OIE no Brasil, de 1970 a 2002.\nOferta Interna de Energia (%)\nOUTRAS\n100%\nDERIVADOS DE CANA-DE-AÇÚCAR\n80%\nLENHA E CARVÃO VEGETAL\n60%\nHIDRELÉTRICA\nCARVÃO NA\nTURAL\n40%\nGÁS NATURAL\n20%\nPETRÓLEO E DERIVADOS\n0%\n1970\n1974\n1978\n1982\n1986\n1990\n1994\n1998\n2002\nANO\nMinistério de Minas e Energia – MME/Brasil.\nQuestão 56\nCom base nos dados do gráfico, verifica-se que,\ncomparado ao do ano de 1970, o percentual de oferta de\nenergia oriunda de recursos renováveis em relação à\noferta total de energia, em 2002, apresenta contribuição\nA menor, pois houve expressiva diminuição do uso de\ncarvão mineral, lenha e carvão vegetal.\nB menor, pois o aumento do uso de derivados da cana-\nde-açúcar e de hidreletricidade não compensou a\ndiminuição do uso de lenha e carvão vegetal.\nC maior, pois houve aumento da oferta de\nhidreletricidade, dado que esta utiliza o recurso de\nmaior disponibilidade no país.\nD maior, visto que houve expressivo aumento da\nutilização de todos os recursos renováveis do país.\nE maior, pois houve pequeno aumento da utilização de\ngás natural e dos produtos derivados da cana-de-\naçúcar.",
+   "disciplina": "fisica",
+   "subtopico": "energia-fontes-e-meio-ambiente",
+   "habilidade": "CN-H23",
+   "tema": "Evolução da oferta interna de energia no Brasil",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/fisica/energia-fontes-e-meio-ambiente/enem-2006-q056.md"
   },
   {
    "numero": 57,
-   "imagem": "img/enem-2006-q057.webp",
-   "texto": "Texto para as questões 56 e 57\nPara se discutirem políticas energéticas, é\nimportante que se analise a evolução da Oferta Interna de\nEnergia (OIE) do país. Essa oferta expressa as\ncontribuições relativas das fontes de energia utilizadas em\ntodos os setores de atividade. O gráfico a seguir apresenta\na evolução da OIE no Brasil, de 1970 a 2002.\nOferta Interna de Energia (%)\nOUTRAS\n100%\nDERIVADOS DE CANA-DE-AÇÚCAR\n80%\nLENHA E CARVÃO VEGETAL\n60%\nHIDRELÉTRICA\nCARVÃO NA\nTURAL\n40%\nGÁS NATURAL\n20%\nPETRÓLEO E DERIVADOS\n0%\n1970\n1974\n1978\n1982\n1986\n1990\n1994\n1998\n2002\nANO\nMinistério de Minas e Energia – MME/Brasil.\nQuestão 57\nConsiderando-se que seja mantida a tendência de\nutilização de recursos energéticos observada ao longo do\nperíodo 1970-2002, a opção que melhor complementa o\ngráfico como projeção para o período 2002-2010 é\nA\nB\nC\nD\nE"
+   "imagem": "questoes/matematica/estatistica-tabelas-e-graficos/enem-2006-q057.webp",
+   "texto": "Texto para as questões 56 e 57\nPara se discutirem políticas energéticas, é\nimportante que se analise a evolução da Oferta Interna de\nEnergia (OIE) do país. Essa oferta expressa as\ncontribuições relativas das fontes de energia utilizadas em\ntodos os setores de atividade. O gráfico a seguir apresenta\na evolução da OIE no Brasil, de 1970 a 2002.\nOferta Interna de Energia (%)\nOUTRAS\n100%\nDERIVADOS DE CANA-DE-AÇÚCAR\n80%\nLENHA E CARVÃO VEGETAL\n60%\nHIDRELÉTRICA\nCARVÃO NA\nTURAL\n40%\nGÁS NATURAL\n20%\nPETRÓLEO E DERIVADOS\n0%\n1970\n1974\n1978\n1982\n1986\n1990\n1994\n1998\n2002\nANO\nMinistério de Minas e Energia – MME/Brasil.\nQuestão 57\nConsiderando-se que seja mantida a tendência de\nutilização de recursos energéticos observada ao longo do\nperíodo 1970-2002, a opção que melhor complementa o\ngráfico como projeção para o período 2002-2010 é\nA\nB\nC\nD\nE",
+   "disciplina": "matematica",
+   "subtopico": "estatistica-tabelas-e-graficos",
+   "habilidade": "MT-H24",
+   "tema": "Projeção de gráfico da matriz energética",
+   "confianca": "baixa",
+   "obs": "Alternativas são gráficos; classificação por texto",
+   "arquivo": "questoes/matematica/estatistica-tabelas-e-graficos/enem-2006-q057.md"
   },
   {
    "numero": 58,
-   "imagem": "img/enem-2006-q058.webp",
-   "texto": "Questão 58\nA figura ao lado\nilustra uma gangorra de\nbrinquedo feita com uma\nvela. A vela é acesa nas\nduas extremidades e,\ninicialmente, deixa-se uma\ndas extremidades mais\nbaixa que a outra. A combustão da parafina da\nextremidade mais baixa provoca a fusão. A parafina da\nextremidade mais baixa da vela pinga mais rapidamente\nque na outra extremidade. O pingar da parafina fundida\nresulta na diminuição da massa da vela na extremidade\nmais baixa, o que ocasiona a inversão das posições.\nAssim, enquanto a vela queima, oscilam as duas\nextremidades.\nNesse brinquedo, observa-se a seguinte seqüência de\ntransformações de energia:\nA energia resultante de processo químico → energia\npotencial gravitacional → energia cinética\nB energia potencial gravitacional → energia elástica →\nenergia cinética\nC energia cinética → energia resultante de processo\nquímico → energia potencial gravitacional\nD energia mecânica → energia luminosa → energia\npotencial gravitacional\nE energia resultante do processo químico → energia\nluminosa → energia cinética"
+   "imagem": "questoes/fisica/energia-trabalho-e-potencia/enem-2006-q058.webp",
+   "texto": "Questão 58\nA figura ao lado\nilustra uma gangorra de\nbrinquedo feita com uma\nvela. A vela é acesa nas\nduas extremidades e,\ninicialmente, deixa-se uma\ndas extremidades mais\nbaixa que a outra. A combustão da parafina da\nextremidade mais baixa provoca a fusão. A parafina da\nextremidade mais baixa da vela pinga mais rapidamente\nque na outra extremidade. O pingar da parafina fundida\nresulta na diminuição da massa da vela na extremidade\nmais baixa, o que ocasiona a inversão das posições.\nAssim, enquanto a vela queima, oscilam as duas\nextremidades.\nNesse brinquedo, observa-se a seguinte seqüência de\ntransformações de energia:\nA energia resultante de processo químico → energia\npotencial gravitacional → energia cinética\nB energia potencial gravitacional → energia elástica →\nenergia cinética\nC energia cinética → energia resultante de processo\nquímico → energia potencial gravitacional\nD energia mecânica → energia luminosa → energia\npotencial gravitacional\nE energia resultante do processo químico → energia\nluminosa → energia cinética",
+   "disciplina": "fisica",
+   "subtopico": "energia-trabalho-e-potencia",
+   "habilidade": "CN-H21",
+   "tema": "Transformações de energia em vela gangorra",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/fisica/energia-trabalho-e-potencia/enem-2006-q058.md"
   },
   {
    "numero": 59,
-   "imagem": "img/enem-2006-q059.webp",
-   "texto": "Questão 59\nUma artesã confecciona dois diferentes tipos de\nvela ornamental a partir de moldes feitos com cartões de\npapel retangulares de 20 cm x 10 cm (conforme ilustram as\nfiguras abaixo). Unindo dois lados opostos do cartão, de\nduas maneiras, a artesã forma cilindros e, em seguida, os\npreenche completamente com parafina.\nTipo I\nTipo II\n20 cm\n10 cm\n10 cm\n20 cm\nSupondo-se que o custo da vela seja diretamente\nproporcional ao volume de parafina empregado, o custo da\nvela do tipo I, em relação ao custo da vela do tipo II, será\nA\no triplo.\nB\no dobro.\nC\nigual.\nD\na metade.\nE\na terça parte."
+   "imagem": "questoes/matematica/geometria-espacial/enem-2006-q059.webp",
+   "texto": "Questão 59\nUma artesã confecciona dois diferentes tipos de\nvela ornamental a partir de moldes feitos com cartões de\npapel retangulares de 20 cm x 10 cm (conforme ilustram as\nfiguras abaixo). Unindo dois lados opostos do cartão, de\nduas maneiras, a artesã forma cilindros e, em seguida, os\npreenche completamente com parafina.\nTipo I\nTipo II\n20 cm\n10 cm\n10 cm\n20 cm\nSupondo-se que o custo da vela seja diretamente\nproporcional ao volume de parafina empregado, o custo da\nvela do tipo I, em relação ao custo da vela do tipo II, será\nA\no triplo.\nB\no dobro.\nC\nigual.\nD\na metade.\nE\na terça parte.",
+   "disciplina": "matematica",
+   "subtopico": "geometria-espacial",
+   "habilidade": "MT-H8",
+   "tema": "Volume de cilindros e custo de velas",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/matematica/geometria-espacial/enem-2006-q059.md"
   },
   {
    "numero": 60,
-   "imagem": "img/enem-2006-q060.webp",
-   "texto": "Questão 60\nEclusa é um canal que, construído em águas de um rio com\ngrande desnível, possibilita a navegabilidade, subida ou\ndescida de embarcações. No esquema abaixo, está\nrepresentada a descida de uma embarcação, pela eclusa do\nporto Primavera, do nível mais alto do rio Paraná até o nível da\njusante.\nP\nP\nO\nO\n20 m\nR\nNível da\nR\nT\njusante\nA\nT\nA\n1\n6 m\nVálvula de dreno\nVálvula de enchimento\nCâmara\nEnquanto a válvula de enchimento está\nfechada e a de dreno, aberta, o fluxo de\nágua ocorre no sentido indicado pelas setas,\nesvaziando a câmara até o nível da\njusante. Quando, no interior da câmara, a\nágua atinge o nível da jusante, a porta 2 é\naberta, e a embarcação pode continuar\nnavegando rio abaixo.\nA câmara dessa eclusa tem comprimento aproximado de\n200 m e largura igual a 17 m. A vazão aproximada da água\ndurante o esvaziamento da câmara é de 4.200 m 3 por minuto.\nAssim, para descer do nível mais alto até o nível da jusante,\numa embarcação leva cerca de\nA\n2 minutos.\nB\n5 minutos.\nC\n11 minutos.\nD\n16 minutos.\nE\n21 minutos."
+   "imagem": "questoes/matematica/grandezas-medidas-e-escalas/enem-2006-q060.webp",
+   "texto": "Questão 60\nEclusa é um canal que, construído em águas de um rio com\ngrande desnível, possibilita a navegabilidade, subida ou\ndescida de embarcações. No esquema abaixo, está\nrepresentada a descida de uma embarcação, pela eclusa do\nporto Primavera, do nível mais alto do rio Paraná até o nível da\njusante.\nP\nP\nO\nO\n20 m\nR\nNível da\nR\nT\njusante\nA\nT\nA\n1\n6 m\nVálvula de dreno\nVálvula de enchimento\nCâmara\nEnquanto a válvula de enchimento está\nfechada e a de dreno, aberta, o fluxo de\nágua ocorre no sentido indicado pelas setas,\nesvaziando a câmara até o nível da\njusante. Quando, no interior da câmara, a\nágua atinge o nível da jusante, a porta 2 é\naberta, e a embarcação pode continuar\nnavegando rio abaixo.\nA câmara dessa eclusa tem comprimento aproximado de\n200 m e largura igual a 17 m. A vazão aproximada da água\ndurante o esvaziamento da câmara é de 4.200 m 3 por minuto.\nAssim, para descer do nível mais alto até o nível da jusante,\numa embarcação leva cerca de\nA\n2 minutos.\nB\n5 minutos.\nC\n11 minutos.\nD\n16 minutos.\nE\n21 minutos.",
+   "disciplina": "matematica",
+   "subtopico": "grandezas-medidas-e-escalas",
+   "habilidade": "MT-H12",
+   "tema": "Tempo de esvaziamento de eclusa por vazão",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/matematica/grandezas-medidas-e-escalas/enem-2006-q060.md"
   },
   {
    "numero": 61,
-   "imagem": "img/enem-2006-q061.webp",
-   "texto": "Questão 61\nNa preparação da madeira\nem uma indústria de móveis, utiliza-\nse uma lixadeira constituída de\nquatro grupos de polias, como\nilustra o esquema ao lado. Em cada\ngrupo, duas polias de tamanhos\ndiferentes são interligadas por uma\nA\nB\ncorreia provida de lixa. Uma\nprancha de madeira é empurrada\npelas polias, no sentido A → B\n(como indicado no esquema), ao\nmesmo tempo em que um sistema é\nacionado para frear seu movimento,\n3\n4\nde modo que a velocidade da\nprancha seja inferior à da lixa.\nO equipamento acima descrito funciona com os grupos de\npolias girando da seguinte forma:\nA\n1 e 2 no sentido horário; 3 e 4 no sentido anti-horário.\nB\n1 e 3 no sentido horário; 2 e 4 no sentido anti-horário.\nC\n1 e 2 no sentido anti-horário; 3 e 4 no sentido horário.\nD\n1 e 4 no sentido horário; 2 e 3 no sentido anti-horário.\nE\n1, 2, 3 e 4 no sentido anti-horário."
+   "imagem": "questoes/fisica/mecanica-dinamica-e-estatica/enem-2006-q061.webp",
+   "texto": "Questão 61\nNa preparação da madeira\nem uma indústria de móveis, utiliza-\nse uma lixadeira constituída de\nquatro grupos de polias, como\nilustra o esquema ao lado. Em cada\ngrupo, duas polias de tamanhos\ndiferentes são interligadas por uma\nA\nB\ncorreia provida de lixa. Uma\nprancha de madeira é empurrada\npelas polias, no sentido A → B\n(como indicado no esquema), ao\nmesmo tempo em que um sistema é\nacionado para frear seu movimento,\n3\n4\nde modo que a velocidade da\nprancha seja inferior à da lixa.\nO equipamento acima descrito funciona com os grupos de\npolias girando da seguinte forma:\nA\n1 e 2 no sentido horário; 3 e 4 no sentido anti-horário.\nB\n1 e 3 no sentido horário; 2 e 4 no sentido anti-horário.\nC\n1 e 2 no sentido anti-horário; 3 e 4 no sentido horário.\nD\n1 e 4 no sentido horário; 2 e 3 no sentido anti-horário.\nE\n1, 2, 3 e 4 no sentido anti-horário.",
+   "disciplina": "fisica",
+   "subtopico": "mecanica-dinamica-e-estatica",
+   "habilidade": "CN-H20",
+   "tema": "Sentido de giro de polias em lixadeira",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/fisica/mecanica-dinamica-e-estatica/enem-2006-q061.md"
   },
   {
    "numero": 62,
-   "imagem": "img/enem-2006-q062.webp",
-   "texto": "Questão 62\n30 cm\n90 cm\ncorrimão\n30 cm\n24 cm\n24 cm\n24 cm\n90 cm\n24 cm\n24 cm\nNa figura acima, que representa o projeto de uma\nescada com 5 degraus de mesma altura,\no comprimento total do corrimão é igual a\nA\n1,8 m.\nB\n1,9 m.\nC\n2,0 m.\nD\n2,1 m.\nE\n2,2 m."
+   "imagem": "questoes/matematica/geometria-plana/enem-2006-q062.webp",
+   "texto": "Questão 62\n30 cm\n90 cm\ncorrimão\n30 cm\n24 cm\n24 cm\n24 cm\n90 cm\n24 cm\n24 cm\nNa figura acima, que representa o projeto de uma\nescada com 5 degraus de mesma altura,\no comprimento total do corrimão é igual a\nA\n1,8 m.\nB\n1,9 m.\nC\n2,0 m.\nD\n2,1 m.\nE\n2,2 m.",
+   "disciplina": "matematica",
+   "subtopico": "geometria-plana",
+   "habilidade": "MT-H8",
+   "tema": "Comprimento de corrimão de escada",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/matematica/geometria-plana/enem-2006-q062.md"
   },
   {
    "numero": 63,
-   "imagem": "img/enem-2006-q063.webp",
-   "texto": "Questão 63\nAs características dos vinhos dependem do\ngrau de maturação das uvas nas parreiras porque as\nconcentrações de diversas substâncias da composição\ndas uvas variam à medida que as uvas vão\namadurecendo. O gráfico a seguir mostra a variação da\nconcentração de três substâncias presentes em uvas,\nem função do tempo.\nConcentração\nAçúcares\nÁcido tartárico\nÁcido málico\nTempo\nO teor alcoólico do vinho deve-se à\nfermentação dos açúcares do suco da uva. Por sua\nvez, a acidez do vinho produzido é proporcional à\nconcentração dos ácidos tartárico e málico.\nConsiderando-se\nas\ndiferentes\ncaracterísticas\ndesejadas, as uvas podem ser colhidas\nA mais cedo, para a obtenção de vinhos menos\nácidos e menos alcoólicos.\nB mais cedo, para a obtenção de vinhos mais ácidos\ne mais alcoólicos.\nC mais tarde, para a obtenção de vinhos mais\nalcoólicos e menos ácidos.\nD mais cedo e ser fermentadas por mais tempo, para\na obtenção de vinhos mais alcoólicos.\nE mais tarde e ser fermentadas por menos tempo,\npara a obtenção de vinhos menos alcoólicos."
+   "imagem": "questoes/biologia/citologia-e-bioquimica/enem-2006-q063.webp",
+   "texto": "Questão 63\nAs características dos vinhos dependem do\ngrau de maturação das uvas nas parreiras porque as\nconcentrações de diversas substâncias da composição\ndas uvas variam à medida que as uvas vão\namadurecendo. O gráfico a seguir mostra a variação da\nconcentração de três substâncias presentes em uvas,\nem função do tempo.\nConcentração\nAçúcares\nÁcido tartárico\nÁcido málico\nTempo\nO teor alcoólico do vinho deve-se à\nfermentação dos açúcares do suco da uva. Por sua\nvez, a acidez do vinho produzido é proporcional à\nconcentração dos ácidos tartárico e málico.\nConsiderando-se\nas\ndiferentes\ncaracterísticas\ndesejadas, as uvas podem ser colhidas\nA mais cedo, para a obtenção de vinhos menos\nácidos e menos alcoólicos.\nB mais cedo, para a obtenção de vinhos mais ácidos\ne mais alcoólicos.\nC mais tarde, para a obtenção de vinhos mais\nalcoólicos e menos ácidos.\nD mais cedo e ser fermentadas por mais tempo, para\na obtenção de vinhos mais alcoólicos.\nE mais tarde e ser fermentadas por menos tempo,\npara a obtenção de vinhos menos alcoólicos.",
+   "disciplina": "biologia",
+   "subtopico": "citologia-e-bioquimica",
+   "habilidade": "CN-H17",
+   "tema": "Fermentação e maturação de uvas em gráfico",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/biologia/citologia-e-bioquimica/enem-2006-q063.md"
   }
  ]
 }

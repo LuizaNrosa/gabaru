@@ -1,0 +1,16 @@
+{
+  "matematica": ["aritmetica-razao-proporcao", "porcentagem-e-matematica-financeira", "conjuntos-numeros-e-divisibilidade", "algebra-equacoes-e-inequacoes", "funcoes", "sequencias-pa-pg", "geometria-plana", "geometria-espacial", "geometria-analitica", "trigonometria", "analise-combinatoria", "probabilidade", "estatistica-tabelas-e-graficos", "grandezas-medidas-e-escalas", "raciocinio-logico"],
+  "fisica": ["mecanica-cinematica", "mecanica-dinamica-e-estatica", "energia-trabalho-e-potencia", "gravitacao", "hidrostatica", "termologia-e-termodinamica", "optica-e-ondulatoria", "eletricidade-e-circuitos", "magnetismo-e-eletromagnetismo", "fisica-moderna", "energia-fontes-e-meio-ambiente"],
+  "quimica": ["estrutura-atomica-e-tabela-periodica", "ligacoes-e-propriedades-da-materia", "funcoes-inorganicas-e-reacoes", "estequiometria-e-calculos-quimicos", "solucoes-e-misturas", "termoquimica-e-cinetica", "equilibrio-e-eletroquimica", "quimica-organica", "quimica-ambiental-e-cotidiano"],
+  "biologia": ["citologia-e-bioquimica", "genetica", "evolucao", "ecologia-e-meio-ambiente", "fisiologia-humana-e-saude", "botanica", "zoologia", "microbiologia-e-parasitologia", "biotecnologia-e-reproducao"],
+  "historia": ["historia-antiga-e-medieval", "historia-moderna", "historia-do-brasil-colonia-e-imperio", "historia-do-brasil-republica", "historia-contemporanea-e-mundial", "historia-cultura-e-sociedade"],
+  "geografia": ["geografia-fisica-clima-relevo-hidrografia", "geografia-do-brasil-urbana-e-agraria", "populacao-e-demografia", "geopolitica-e-globalizacao", "geografia-ambiental", "cartografia-e-escalas", "economia-e-industria"],
+  "filosofia": ["etica-e-politica", "conhecimento-e-ciencia", "filosofia-antiga-e-medieval", "filosofia-moderna-e-contemporanea"],
+  "sociologia": ["cultura-e-identidade", "trabalho-e-desigualdade", "cidadania-estado-e-politica", "movimentos-sociais-e-violencia", "meios-de-comunicacao-e-sociedade"],
+  "portugues": ["interpretacao-de-texto", "variacao-linguistica-e-gramatica", "generos-textuais-e-funcoes-da-linguagem", "tecnologias-da-comunicacao"],
+  "literatura": ["escolas-literarias", "analise-de-poemas-e-prosa", "intertextualidade"],
+  "artes": ["artes-visuais", "musica-e-danca", "teatro-e-cinema", "cultura-corporal-e-esporte"],
+  "ingles": ["compreensao-de-texto-em-ingles"],
+  "espanhol": ["compreensao-de-texto-em-espanhol"],
+  "interdisciplinar": ["interdisciplinar-ciencias-natureza", "interdisciplinar-ciencias-humanas"]
+}

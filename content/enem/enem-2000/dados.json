@@ -9,318 +9,759 @@
  "questoes": [
   {
    "numero": 1,
-   "imagem": "img/enem-2000-q001.webp",
-   "texto": "1\nFerreira Gullar, um dos grandes poetas brasileiros da atualidade, é autor de\n“Bicho urbano”, poema sobre a sua relação com as pequenas e grandes\ncidades.\nBicho urbano\nSe disser que prefiro morar em Pirapemas\nou em outra qualquer pequena cidade do país\nestou mentindo\nainda que lá se possa de manhã\nlavar o rosto no orvalho\ne o pão preserve aquele branco\nsabor de alvorada.\n.....................................................................\nA natureza me assusta.\nCom seus matos sombrios suas águas\nsuas aves que são como aparições\nme assusta quase tanto quanto\nesse abismo\nde gases e de estrelas\naberto sob minha cabeça.\n(GULLAR, Ferreira. Toda poesia. Rio de Janeiro:\nJosé Olympio Editora, 1991)\nEmbora não opte por viver numa pequena cidade, o poeta reconhece elementos\nde valor no cotidiano das pequenas comunidades. Para expressar a relação do\nhomem com alguns desses elementos, ele recorre à sinestesia, construção de\nlinguagem em que se mesclam impressões sensoriais diversas. Assinale a\nopção em que se observa esse recurso.\n(A)\n\"e o pão preserve aquele branco / sabor de alvorada.\"\n(B)\n\"ainda que lá se possa de manhã / lavar o rosto no orvalho\"\n(C)\n\"A natureza me assusta. / Com seus matos sombrios suas águas\"\n(D)\n\"suas aves que são como aparições / me assusta quase tanto quanto\"\n(E)\n\"me assusta quase tanto quanto / esse abismo / de gases e de estrelas\""
+   "imagem": "questoes/literatura/analise-de-poemas-e-prosa/enem-2000-q001.webp",
+   "texto": "1\nFerreira Gullar, um dos grandes poetas brasileiros da atualidade, é autor de\n“Bicho urbano”, poema sobre a sua relação com as pequenas e grandes\ncidades.\nBicho urbano\nSe disser que prefiro morar em Pirapemas\nou em outra qualquer pequena cidade do país\nestou mentindo\nainda que lá se possa de manhã\nlavar o rosto no orvalho\ne o pão preserve aquele branco\nsabor de alvorada.\n.....................................................................\nA natureza me assusta.\nCom seus matos sombrios suas águas\nsuas aves que são como aparições\nme assusta quase tanto quanto\nesse abismo\nde gases e de estrelas\naberto sob minha cabeça.\n(GULLAR, Ferreira. Toda poesia. Rio de Janeiro:\nJosé Olympio Editora, 1991)\nEmbora não opte por viver numa pequena cidade, o poeta reconhece elementos\nde valor no cotidiano das pequenas comunidades. Para expressar a relação do\nhomem com alguns desses elementos, ele recorre à sinestesia, construção de\nlinguagem em que se mesclam impressões sensoriais diversas. Assinale a\nopção em que se observa esse recurso.\n(A)\n\"e o pão preserve aquele branco / sabor de alvorada.\"\n(B)\n\"ainda que lá se possa de manhã / lavar o rosto no orvalho\"\n(C)\n\"A natureza me assusta. / Com seus matos sombrios suas águas\"\n(D)\n\"suas aves que são como aparições / me assusta quase tanto quanto\"\n(E)\n\"me assusta quase tanto quanto / esse abismo / de gases e de estrelas\"",
+   "disciplina": "literatura",
+   "subtopico": "analise-de-poemas-e-prosa",
+   "habilidade": "LC-H16",
+   "tema": "Recursos expressivos no poema Bicho urbano",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/literatura/analise-de-poemas-e-prosa/enem-2000-q001.md"
   },
   {
    "numero": 2,
-   "imagem": "img/enem-2000-q002.webp",
-   "texto": "2\nNo processo de fabricação de pão, os padeiros, após prepararem a massa\nutilizando fermento biológico, separam uma porção de massa em forma de\n“bola” e a mergulham num recipiente com água, aguardando que ela suba,\ncomo pode ser observado, respectivamente, em I e II do esquema abaixo.\nQuando isso acontece, a massa está pronta para ir ao forno.\nUm professor de Química explicaria esse procedimento da seguinte maneira:\n“A bola de massa torna-se menos densa que o líquido e sobe. A alteração da\ndensidade deve-se à fermentação, processo que pode ser resumido pela\nequação\nC 6 H 12 O 6  2 C 2 H 5 OH\n+\n2 CO 2\n+\nenergia.\nglicose\nálcool comum\ngás carbônico”\nConsidere as afirmações abaixo.\nA fermentação dos carboidratos da massa de pão ocorre de maneira\nI\nespontânea e não depende da existência de qualquer organismo vivo.\nDurante a fermentação, ocorre produção de gás carbônico, que se vai\nII\nacumulando em cavidades no interior da massa, o que faz a bola subir.\nA fermentação transforma a glicose em álcool. Como o álcool tem maior\nIII\ndensidade do que a água, a bola de massa sobe.\nDentre as afirmativas, apenas:\n(A)\nI está correta.\n(B)\nII está correta.\n(C)\nI e II estão corretas.\n(D)\nII e III estão corretas.\n(E)\nIII está correta."
+   "imagem": "questoes/biologia/citologia-e-bioquimica/enem-2000-q002.webp",
+   "texto": "2\nNo processo de fabricação de pão, os padeiros, após prepararem a massa\nutilizando fermento biológico, separam uma porção de massa em forma de\n“bola” e a mergulham num recipiente com água, aguardando que ela suba,\ncomo pode ser observado, respectivamente, em I e II do esquema abaixo.\nQuando isso acontece, a massa está pronta para ir ao forno.\nUm professor de Química explicaria esse procedimento da seguinte maneira:\n“A bola de massa torna-se menos densa que o líquido e sobe. A alteração da\ndensidade deve-se à fermentação, processo que pode ser resumido pela\nequação\nC 6 H 12 O 6  2 C 2 H 5 OH\n+\n2 CO 2\n+\nenergia.\nglicose\nálcool comum\ngás carbônico”\nConsidere as afirmações abaixo.\nA fermentação dos carboidratos da massa de pão ocorre de maneira\nI\nespontânea e não depende da existência de qualquer organismo vivo.\nDurante a fermentação, ocorre produção de gás carbônico, que se vai\nII\nacumulando em cavidades no interior da massa, o que faz a bola subir.\nA fermentação transforma a glicose em álcool. Como o álcool tem maior\nIII\ndensidade do que a água, a bola de massa sobe.\nDentre as afirmativas, apenas:\n(A)\nI está correta.\n(B)\nII está correta.\n(C)\nI e II estão corretas.\n(D)\nII e III estão corretas.\n(E)\nIII está correta.",
+   "disciplina": "biologia",
+   "subtopico": "citologia-e-bioquimica",
+   "habilidade": "CN-H15",
+   "tema": "Fermentação na massa de pão",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/biologia/citologia-e-bioquimica/enem-2000-q002.md"
   },
   {
    "numero": 3,
-   "imagem": "img/enem-2000-q003.webp",
-   "texto": "3\nAinda hoje, é muito comum as pessoas utilizarem vasilhames de barro\n(moringas ou potes de cerâmica não esmaltada) para conservar água a uma\ntemperatura menor do que a do ambiente. Isso ocorre porque:\n(A)\no barro isola a água do ambiente, mantendo-a sempre a uma\ntemperatura menor que a dele, como se fosse isopor.\n(B)\no barro tem poder de “gelar” a água pela sua composição química. Na\nreação, a água perde calor.\n(C)\no barro é poroso, permitindo que a água passe através dele. Parte dessa\nágua evapora, tomando calor da moringa e do restante da água, que são\nassim resfriadas.\n(D)\no barro é poroso, permitindo que a água se deposite na parte de fora da\nmoringa. A água de fora sempre está a uma temperatura maior que a de\ndentro.\n(E)\na moringa é uma espécie de geladeira natural, liberando substâncias\nhigroscópicas que diminuem naturalmente a temperatura da água."
+   "imagem": "questoes/fisica/termologia-e-termodinamica/enem-2000-q003.webp",
+   "texto": "3\nAinda hoje, é muito comum as pessoas utilizarem vasilhames de barro\n(moringas ou potes de cerâmica não esmaltada) para conservar água a uma\ntemperatura menor do que a do ambiente. Isso ocorre porque:\n(A)\no barro isola a água do ambiente, mantendo-a sempre a uma\ntemperatura menor que a dele, como se fosse isopor.\n(B)\no barro tem poder de “gelar” a água pela sua composição química. Na\nreação, a água perde calor.\n(C)\no barro é poroso, permitindo que a água passe através dele. Parte dessa\nágua evapora, tomando calor da moringa e do restante da água, que são\nassim resfriadas.\n(D)\no barro é poroso, permitindo que a água se deposite na parte de fora da\nmoringa. A água de fora sempre está a uma temperatura maior que a de\ndentro.\n(E)\na moringa é uma espécie de geladeira natural, liberando substâncias\nhigroscópicas que diminuem naturalmente a temperatura da água.",
+   "disciplina": "fisica",
+   "subtopico": "termologia-e-termodinamica",
+   "habilidade": "CN-H21",
+   "tema": "Resfriamento da água em moringa por evaporação",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/fisica/termologia-e-termodinamica/enem-2000-q003.md"
   },
   {
    "numero": 4,
-   "imagem": "img/enem-2000-q004.webp",
-   "texto": "4\n―Somos servos da lei para podermos ser livres.‖\nCícero\n―O que apraz ao príncipe tem força de lei.‖\nUlpiano\nAs frases acima são de dois cidadãos da Roma Clássica que viveram\npraticamente no mesmo século, quando ocorreu a transição da República\n(Cícero) para o Império (Ulpiano).\nTendo como base as sentenças acima, considere as afirmações:\nA diferença nos significados da lei é apenas aparente, uma vez que os\nI\nromanos não levavam em consideração as normas jurídicas.\nTanto na República como no Império, a lei era o resultado de discussões\nII\nentre os representantes escolhidos pelo povo romano.\nA lei republicana definia que os direitos de um cidadão acabavam\nIII\nquando começavam os direitos de outro cidadão.\nExistia, na época imperial, um poder acima da legislação romana.\nIV\nEstão corretas, apenas:\n(A)\nI e II.\n(B)\nI e III.\n(C)\nII e III.\n(D)\nII e IV.\n(E)\nIII e IV."
+   "imagem": "questoes/historia/historia-antiga-e-medieval/enem-2000-q004.webp",
+   "texto": "4\n―Somos servos da lei para podermos ser livres.‖\nCícero\n―O que apraz ao príncipe tem força de lei.‖\nUlpiano\nAs frases acima são de dois cidadãos da Roma Clássica que viveram\npraticamente no mesmo século, quando ocorreu a transição da República\n(Cícero) para o Império (Ulpiano).\nTendo como base as sentenças acima, considere as afirmações:\nA diferença nos significados da lei é apenas aparente, uma vez que os\nI\nromanos não levavam em consideração as normas jurídicas.\nTanto na República como no Império, a lei era o resultado de discussões\nII\nentre os representantes escolhidos pelo povo romano.\nA lei republicana definia que os direitos de um cidadão acabavam\nIII\nquando começavam os direitos de outro cidadão.\nExistia, na época imperial, um poder acima da legislação romana.\nIV\nEstão corretas, apenas:\n(A)\nI e II.\n(B)\nI e III.\n(C)\nII e III.\n(D)\nII e IV.\n(E)\nIII e IV.",
+   "disciplina": "historia",
+   "subtopico": "historia-antiga-e-medieval",
+   "habilidade": "CH-H9",
+   "tema": "Lei em Roma: República e Império",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/historia/historia-antiga-e-medieval/enem-2000-q004.md"
   },
   {
    "numero": 5,
-   "imagem": "img/enem-2000-q005.webp",
-   "texto": "5\nEm certa cidade, algumas de suas principais vias têm a designação “radial” ou\n“perimetral”, acrescentando-se ao nome da via uma referência ao ponto\ncardeal correspondente.\nAs ruas 1 e 2 estão indicadas no esquema abaixo, em que não estão\nexplicitados os pontos cardeais.\nOs nomes corretos das vias 1 e 2 podem, respectivamente, ser:\n(A)\nperimetral sul, radial leste.\n(B)\nperimetral sul, radial oeste.\n(C)\nperimetral norte, radial oeste.\n(D)\nradial sul, perimetral norte.\n(E)\nradial sul, perimetral oeste."
+   "imagem": "questoes/geografia/cartografia-e-escalas/enem-2000-q005.webp",
+   "texto": "5\nEm certa cidade, algumas de suas principais vias têm a designação “radial” ou\n“perimetral”, acrescentando-se ao nome da via uma referência ao ponto\ncardeal correspondente.\nAs ruas 1 e 2 estão indicadas no esquema abaixo, em que não estão\nexplicitados os pontos cardeais.\nOs nomes corretos das vias 1 e 2 podem, respectivamente, ser:\n(A)\nperimetral sul, radial leste.\n(B)\nperimetral sul, radial oeste.\n(C)\nperimetral norte, radial oeste.\n(D)\nradial sul, perimetral norte.\n(E)\nradial sul, perimetral oeste.",
+   "disciplina": "geografia",
+   "subtopico": "cartografia-e-escalas",
+   "habilidade": "CH-H6",
+   "tema": "Orientação de vias radiais e perimetrais",
+   "confianca": "media",
+   "obs": "Esquema sem pontos cardeais; classificação aproximada",
+   "arquivo": "questoes/geografia/cartografia-e-escalas/enem-2000-q005.md"
   },
   {
    "numero": 6,
-   "imagem": "img/enem-2000-q006.webp",
-   "texto": "6\nEm uma conversa ou leitura de um texto, corre-se o risco de atribuir um significado inadequado a um termo ou expressão, e isso pode levar a certos resultados\ninesperados, como se vê nos quadrinhos abaixo.\n(SOUZA, Maurício de. Chico Bento. Rio de Janeiro: Ed. Globo, n o 335, Nov./99 )\nNessa historinha, o efeito humorístico origina-se de uma situação criada pela fala da Rosinha no primeiro quadrinho, que é:\n(A)\nFaz uma pose bonita!\n(B)\nQuer tirar um retrato?\n(C)\nSua barriga está aparecendo!\n(D)\nOlha o passarinho!\n(E)\nCuidado com o flash!"
+   "imagem": "questoes/portugues/interpretacao-de-texto/enem-2000-q006.webp",
+   "texto": "6\nEm uma conversa ou leitura de um texto, corre-se o risco de atribuir um significado inadequado a um termo ou expressão, e isso pode levar a certos resultados\ninesperados, como se vê nos quadrinhos abaixo.\n(SOUZA, Maurício de. Chico Bento. Rio de Janeiro: Ed. Globo, n o 335, Nov./99 )\nNessa historinha, o efeito humorístico origina-se de uma situação criada pela fala da Rosinha no primeiro quadrinho, que é:\n(A)\nFaz uma pose bonita!\n(B)\nQuer tirar um retrato?\n(C)\nSua barriga está aparecendo!\n(D)\nOlha o passarinho!\n(E)\nCuidado com o flash!",
+   "disciplina": "portugues",
+   "subtopico": "interpretacao-de-texto",
+   "habilidade": "LC-H22",
+   "tema": "Humor em quadrinho por ambiguidade de expressão",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/portugues/interpretacao-de-texto/enem-2000-q006.md"
   },
   {
    "numero": 7,
-   "imagem": "img/enem-2000-q007.webp",
-   "texto": "O resultado da conversão direta de energia solar é uma das várias formas de\nenergia alternativa de que se dispõe. O aquecimento solar é obtido por uma\nplaca escura coberta por vidro, pela qual passa um tubo contendo água. A água\ncircula, conforme mostra o esquema abaixo.\nFonte: Adaptado de PALZ, Wolfgang. Energia solar e fontes alternativas.\nHemus, 1981.\nSão feitas as seguintes afirmações quanto aos materiais utilizados no\naquecedor solar:\no reservatório de água quente deve ser metálico para conduzir melhor o\nI\ncalor.\na cobertura de vidro tem como função reter melhor o calor, de forma\nII\nsemelhante ao que ocorre em uma estufa.\na placa utilizada é escura para absorver melhor a energia radiante do Sol,\nIII\naquecendo a água com maior eficiência.\nDentre as afirmações acima, pode-se dizer que, apenas está(ão) correta(s):\n(A)\nI.\n(B)\nI e II.\n(C)\nII.\n(D)\nI e III.\n(E)\nII e III."
+   "imagem": "questoes/fisica/termologia-e-termodinamica/enem-2000-q007.webp",
+   "texto": "O resultado da conversão direta de energia solar é uma das várias formas de\nenergia alternativa de que se dispõe. O aquecimento solar é obtido por uma\nplaca escura coberta por vidro, pela qual passa um tubo contendo água. A água\ncircula, conforme mostra o esquema abaixo.\nFonte: Adaptado de PALZ, Wolfgang. Energia solar e fontes alternativas.\nHemus, 1981.\nSão feitas as seguintes afirmações quanto aos materiais utilizados no\naquecedor solar:\no reservatório de água quente deve ser metálico para conduzir melhor o\nI\ncalor.\na cobertura de vidro tem como função reter melhor o calor, de forma\nII\nsemelhante ao que ocorre em uma estufa.\na placa utilizada é escura para absorver melhor a energia radiante do Sol,\nIII\naquecendo a água com maior eficiência.\nDentre as afirmações acima, pode-se dizer que, apenas está(ão) correta(s):\n(A)\nI.\n(B)\nI e II.\n(C)\nII.\n(D)\nI e III.\n(E)\nII e III.",
+   "disciplina": "fisica",
+   "subtopico": "termologia-e-termodinamica",
+   "habilidade": "CN-H18",
+   "tema": "Aquecedor solar: condução, estufa e absorção",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/fisica/termologia-e-termodinamica/enem-2000-q007.md"
   },
   {
    "numero": 8,
-   "imagem": "img/enem-2000-q008.webp",
-   "texto": "8\nUma companhia de seguros levantou dados sobre os carros de determinada\ncidade e constatou que são roubados, em média, 150 carros por ano.\nO número de carros roubados da marca X é o dobro do número de carros\nroubados da marca Y, e as marcas X e Y juntas respondem por cerca de 60%\ndos carros roubados.\nO número esperado de carros roubados da marca Y é:\n(A) 20.\n(B) 30.\n(C) 40.\n(D) 50.\n(E) 60."
+   "imagem": "questoes/matematica/porcentagem-e-matematica-financeira/enem-2000-q008.webp",
+   "texto": "8\nUma companhia de seguros levantou dados sobre os carros de determinada\ncidade e constatou que são roubados, em média, 150 carros por ano.\nO número de carros roubados da marca X é o dobro do número de carros\nroubados da marca Y, e as marcas X e Y juntas respondem por cerca de 60%\ndos carros roubados.\nO número esperado de carros roubados da marca Y é:\n(A) 20.\n(B) 30.\n(C) 40.\n(D) 50.\n(E) 60.",
+   "disciplina": "matematica",
+   "subtopico": "porcentagem-e-matematica-financeira",
+   "habilidade": "MT-H3",
+   "tema": "Roubo de carros, razão e porcentagem",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/matematica/porcentagem-e-matematica-financeira/enem-2000-q008.md"
   },
   {
    "numero": 9,
-   "imagem": "img/enem-2000-q009.webp",
-   "texto": "A tabela abaixo resume alguns dados importantes sobre os satélites de Júpiter.\nDistância média\nPeríodo orbital\nNome\nDiâmetro (km)\nao centro de\n(dias terrestres)\nJúpiter (km)\nIo\n3.642\n421.800\n1,8\nEuropa\n3.138\n670.900\n3,6\nGanimedes\n5.262\n1.070.000\n7,2\nCalisto\n4.800\n1.880.000\n16,7\nAo observar os satélites de Júpiter pela primeira vez, Galileu Galilei fez diversas\nanotações e tirou importantes conclusões sobre a estrutura de nosso universo.\nA figura abaixo reproduz uma anotação de Galileu referente a Júpiter e seus\nsatélites.\n1\n2\n3\n4\nDe acordo com essa representação e com os dados da tabela, os pontos\nindicados por 1, 2, 3 e 4 correspondem, respectivamente, a:\n(A)\nIo, Europa, Ganimedes e Calisto.\n(B)\nGanimedes, Io, Europa e Calisto.\n(C)\nEuropa, Calisto, Ganimedes e Io.\n(D)\nCalisto, Ganimedes, Io e Europa.\n(E)\nCalisto, Io, Europa e Ganimedes."
+   "imagem": "questoes/fisica/gravitacao/enem-2000-q009.webp",
+   "texto": "A tabela abaixo resume alguns dados importantes sobre os satélites de Júpiter.\nDistância média\nPeríodo orbital\nNome\nDiâmetro (km)\nao centro de\n(dias terrestres)\nJúpiter (km)\nIo\n3.642\n421.800\n1,8\nEuropa\n3.138\n670.900\n3,6\nGanimedes\n5.262\n1.070.000\n7,2\nCalisto\n4.800\n1.880.000\n16,7\nAo observar os satélites de Júpiter pela primeira vez, Galileu Galilei fez diversas\nanotações e tirou importantes conclusões sobre a estrutura de nosso universo.\nA figura abaixo reproduz uma anotação de Galileu referente a Júpiter e seus\nsatélites.\n1\n2\n3\n4\nDe acordo com essa representação e com os dados da tabela, os pontos\nindicados por 1, 2, 3 e 4 correspondem, respectivamente, a:\n(A)\nIo, Europa, Ganimedes e Calisto.\n(B)\nGanimedes, Io, Europa e Calisto.\n(C)\nEuropa, Calisto, Ganimedes e Io.\n(D)\nCalisto, Ganimedes, Io e Europa.\n(E)\nCalisto, Io, Europa e Ganimedes.",
+   "disciplina": "fisica",
+   "subtopico": "gravitacao",
+   "habilidade": "CN-H20",
+   "tema": "Luas de Júpiter: distância e período orbital",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/fisica/gravitacao/enem-2000-q009.md"
   },
   {
    "numero": 10,
-   "imagem": "img/enem-2000-q010.webp",
-   "texto": "10\nA adaptação dos integrantes da seleção brasileira de futebol à altitude de La\nPaz foi muito comentada em 1995, por ocasião de um torneio, como pode ser\nlido no texto abaixo.\n―A seleção brasileira embarca hoje para La Paz, capital da Bolívia,\nsituada a 3.700 metros de altitude, onde disputará o torneio\nInteramérica. A adaptação deverá ocorrer em um prazo de 10 dias,\naproximadamente. O organismo humano, em altitudes elevadas,\nnecessita desse tempo para se adaptar, evitando-se, assim, risco de um\ncolapso circulatório.‖\n(Adaptado da revista Placar, edição fev.1995)\nA adaptação da equipe foi necessária principalmente porque a atmosfera de La\nPaz, quando comparada à das cidades brasileiras, apresenta:\n(A)\nmenor pressão e menor concentração de oxigênio.\n(B)\nmaior pressão e maior quantidade de oxigênio.\n(C)\nmaior pressão e maior concentração de gás carbônico.\n(D)\nmenor pressão e maior temperatura.\n(E)\nmaior pressão e menor temperatura.\nA energia térmica liberada em processos de fissão nuclear pode ser utilizada na\ngeração de vapor para produzir energia mecânica que, por sua vez, será\nconvertida em energia elétrica. Abaixo está representado um esquema básico\nde uma usina de energia nuclear."
+   "imagem": "questoes/fisica/hidrostatica/enem-2000-q010.webp",
+   "texto": "10\nA adaptação dos integrantes da seleção brasileira de futebol à altitude de La\nPaz foi muito comentada em 1995, por ocasião de um torneio, como pode ser\nlido no texto abaixo.\n―A seleção brasileira embarca hoje para La Paz, capital da Bolívia,\nsituada a 3.700 metros de altitude, onde disputará o torneio\nInteramérica. A adaptação deverá ocorrer em um prazo de 10 dias,\naproximadamente. O organismo humano, em altitudes elevadas,\nnecessita desse tempo para se adaptar, evitando-se, assim, risco de um\ncolapso circulatório.‖\n(Adaptado da revista Placar, edição fev.1995)\nA adaptação da equipe foi necessária principalmente porque a atmosfera de La\nPaz, quando comparada à das cidades brasileiras, apresenta:\n(A)\nmenor pressão e menor concentração de oxigênio.\n(B)\nmaior pressão e maior quantidade de oxigênio.\n(C)\nmaior pressão e maior concentração de gás carbônico.\n(D)\nmenor pressão e maior temperatura.\n(E)\nmaior pressão e menor temperatura.\nA energia térmica liberada em processos de fissão nuclear pode ser utilizada na\ngeração de vapor para produzir energia mecânica que, por sua vez, será\nconvertida em energia elétrica. Abaixo está representado um esquema básico\nde uma usina de energia nuclear.",
+   "disciplina": "fisica",
+   "subtopico": "hidrostatica",
+   "habilidade": "CN-H14",
+   "tema": "Pressão atmosférica e oxigênio em altitude",
+   "confianca": "media",
+   "obs": "Pode ser biologia (adaptação); dominante é pressão atmosférica",
+   "arquivo": "questoes/fisica/hidrostatica/enem-2000-q010.md"
   },
   {
    "numero": 11,
-   "imagem": "img/enem-2000-q011.webp",
-   "texto": "11\nCom relação ao impacto ambiental causado pela poluição térmica no processo\nde refrigeração da usina nuclear, são feitas as seguintes afirmações:\no aumento na temperatura reduz, na água do rio, a quantidade de\nI\noxigênio nela dissolvido, que é essencial para a vida aquática e para a\ndecomposição da matéria orgânica.\no aumento da temperatura da água modifica o metabolismo dos peixes.\nII\no aumento na temperatura da água diminui o crescimento de bactérias e\nIII\nde algas, favorecendo o desenvolvimento da vegetação.\nDas afirmativas acima, somente está(ão) correta(s):\n(A)\nI.\n(B)\nII.\n(C)\nIII.\n(D)\nI e II.\n(E)\nII e III."
+   "imagem": "questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q011.webp",
+   "texto": "11\nCom relação ao impacto ambiental causado pela poluição térmica no processo\nde refrigeração da usina nuclear, são feitas as seguintes afirmações:\no aumento na temperatura reduz, na água do rio, a quantidade de\nI\noxigênio nela dissolvido, que é essencial para a vida aquática e para a\ndecomposição da matéria orgânica.\no aumento da temperatura da água modifica o metabolismo dos peixes.\nII\no aumento na temperatura da água diminui o crescimento de bactérias e\nIII\nde algas, favorecendo o desenvolvimento da vegetação.\nDas afirmativas acima, somente está(ão) correta(s):\n(A)\nI.\n(B)\nII.\n(C)\nIII.\n(D)\nI e II.\n(E)\nII e III.",
+   "disciplina": "biologia",
+   "subtopico": "ecologia-e-meio-ambiente",
+   "habilidade": "CN-H10",
+   "tema": "Poluição térmica de usina nuclear",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q011.md"
   },
   {
    "numero": 12,
-   "imagem": "img/enem-2000-q012.webp",
-   "texto": "12\nA partir do esquema são feitas as seguintes afirmações:\na energia liberada na reação é usada para ferver a água que, como vapor\nI\na alta pressão, aciona a turbina.\na turbina, que adquire uma energia cinética de rotação, é acoplada\nII\nmecanicamente ao gerador para produção de energia elétrica.\na água depois de passar pela turbina é pré-aquecida no condensador e\nIII\nbombeada de volta ao reator.\nDentre as afirmações acima, somente está(ão) correta(s):\n(A)\nI.\n(B)\nII.\n(C)\nIII.\n(D)\nI e II.\n(E)\nII e III."
+   "imagem": "questoes/fisica/energia-fontes-e-meio-ambiente/enem-2000-q012.webp",
+   "texto": "12\nA partir do esquema são feitas as seguintes afirmações:\na energia liberada na reação é usada para ferver a água que, como vapor\nI\na alta pressão, aciona a turbina.\na turbina, que adquire uma energia cinética de rotação, é acoplada\nII\nmecanicamente ao gerador para produção de energia elétrica.\na água depois de passar pela turbina é pré-aquecida no condensador e\nIII\nbombeada de volta ao reator.\nDentre as afirmações acima, somente está(ão) correta(s):\n(A)\nI.\n(B)\nII.\n(C)\nIII.\n(D)\nI e II.\n(E)\nII e III.",
+   "disciplina": "fisica",
+   "subtopico": "energia-fontes-e-meio-ambiente",
+   "habilidade": "CN-H23",
+   "tema": "Esquema de usina nuclear e geração de energia",
+   "confianca": "media",
+   "obs": "Estímulo (esquema) na imagem; ver comando",
+   "arquivo": "questoes/fisica/energia-fontes-e-meio-ambiente/enem-2000-q012.md"
   },
   {
    "numero": 13,
-   "imagem": "img/enem-2000-q013.webp",
-   "texto": "13\nUm marceneiro deseja construir uma escada trapezoidal com 5 degraus, de\nforma que o mais baixo e o mais alto tenham larguras respectivamente iguais a\n60 cm e a 30 cm, conforme a figura:\nOs degraus serão obtidos cortando-se uma peça linear de madeira cujo\ncomprimento mínimo, em cm, deve ser:\n(A) 144.\n(B) 180.\n(C) 210.\n(D) 225.\n(E) 240."
+   "imagem": "questoes/matematica/sequencias-pa-pg/enem-2000-q013.webp",
+   "texto": "13\nUm marceneiro deseja construir uma escada trapezoidal com 5 degraus, de\nforma que o mais baixo e o mais alto tenham larguras respectivamente iguais a\n60 cm e a 30 cm, conforme a figura:\nOs degraus serão obtidos cortando-se uma peça linear de madeira cujo\ncomprimento mínimo, em cm, deve ser:\n(A) 144.\n(B) 180.\n(C) 210.\n(D) 225.\n(E) 240.",
+   "disciplina": "matematica",
+   "subtopico": "sequencias-pa-pg",
+   "habilidade": "MT-H2",
+   "tema": "Degraus de escada trapezoidal (PA)",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/matematica/sequencias-pa-pg/enem-2000-q013.md"
   },
   {
    "numero": 14,
-   "imagem": "img/enem-2000-q014.webp",
-   "texto": "14\nO esquema abaixo mostra, em termos de potência(energia/tempo),\naproximadamente, o fluxo de energia, a partir de uma certa quantidade de\ncombustível vinda do tanque de gasolina, em um carro viajando com velocidade\nconstante.\nO esquema mostra que, na queima da gasolina, no motor de combustão, uma\nparte considerável de sua energia é dissipada. Essa perda é da ordem de:\n(A) 80%.\n(B) 70%.\n(C) 50%.\n(D) 30%.\n(E) 20%."
+   "imagem": "questoes/fisica/energia-trabalho-e-potencia/enem-2000-q014.webp",
+   "texto": "14\nO esquema abaixo mostra, em termos de potência(energia/tempo),\naproximadamente, o fluxo de energia, a partir de uma certa quantidade de\ncombustível vinda do tanque de gasolina, em um carro viajando com velocidade\nconstante.\nO esquema mostra que, na queima da gasolina, no motor de combustão, uma\nparte considerável de sua energia é dissipada. Essa perda é da ordem de:\n(A) 80%.\n(B) 70%.\n(C) 50%.\n(D) 30%.\n(E) 20%.",
+   "disciplina": "fisica",
+   "subtopico": "energia-trabalho-e-potencia",
+   "habilidade": "CN-H17",
+   "tema": "Perdas de energia em motor a combustão",
+   "confianca": "media",
+   "obs": "Depende de esquema na imagem",
+   "arquivo": "questoes/fisica/energia-trabalho-e-potencia/enem-2000-q014.md"
   },
   {
    "numero": 15,
-   "imagem": "img/enem-2000-q015.webp",
-   "texto": "15\nAs sociedades modernas necessitam cada vez mais de energia. Para entender\nmelhor a relação entre desenvolvimento e consumo de energia, procurou-se\nrelacionar o Índice de Desenvolvimento Humano (IDH) de vários países com o\nconsumo de energia nesses países.\nO IDH é um indicador social que considera a longevidade, o grau de\nescolaridade, o PIB (Produto Interno Bruto) per capita e o poder de compra da\npopulação. Sua variação é de 0 a 1. Valores do IDH próximos de 1 indicam\nmelhores condições de vida.\nTentando-se estabelecer uma relação entre o IDH e o consumo de energia per\ncapita nos diversos países, no biênio 1991-1992, obteve-se o gráfico abaixo,\nonde cada ponto isolado representa um país, e a linha cheia, uma curva de\naproximação.\n* TEP: Tonelada equivalente de petróleo.\nFonte: GOLDEMBERG, J. Energia, meio ambiente e\ndesenvolvimento. São Paulo: Edusp, 1998.\nCom base no gráfico, é correto afirmar que:\n(A)\nquanto maior o consumo de energia per capita, menor é o IDH.\n(B)\nos países onde o consumo de energia per capita é menor que 1 TEP não\napresentam bons índices de desenvolvimento humano.\n(C)\nexistem países com IDH entre 0,1 e 0,3 com consumo de energia per\ncapita superior a 8 TEP.\n(D)\nexistem países com consumo de energia per capita de 1 TEP e de 5 TEP\nque apresentam aproximadamente o mesmo IDH, cerca de 0,7.\n(E)\nos países com altos valores de IDH apresentam um grande consumo de\nenergia per capita (acima de 7 TEP)."
+   "imagem": "questoes/matematica/estatistica-tabelas-e-graficos/enem-2000-q015.webp",
+   "texto": "15\nAs sociedades modernas necessitam cada vez mais de energia. Para entender\nmelhor a relação entre desenvolvimento e consumo de energia, procurou-se\nrelacionar o Índice de Desenvolvimento Humano (IDH) de vários países com o\nconsumo de energia nesses países.\nO IDH é um indicador social que considera a longevidade, o grau de\nescolaridade, o PIB (Produto Interno Bruto) per capita e o poder de compra da\npopulação. Sua variação é de 0 a 1. Valores do IDH próximos de 1 indicam\nmelhores condições de vida.\nTentando-se estabelecer uma relação entre o IDH e o consumo de energia per\ncapita nos diversos países, no biênio 1991-1992, obteve-se o gráfico abaixo,\nonde cada ponto isolado representa um país, e a linha cheia, uma curva de\naproximação.\n* TEP: Tonelada equivalente de petróleo.\nFonte: GOLDEMBERG, J. Energia, meio ambiente e\ndesenvolvimento. São Paulo: Edusp, 1998.\nCom base no gráfico, é correto afirmar que:\n(A)\nquanto maior o consumo de energia per capita, menor é o IDH.\n(B)\nos países onde o consumo de energia per capita é menor que 1 TEP não\napresentam bons índices de desenvolvimento humano.\n(C)\nexistem países com IDH entre 0,1 e 0,3 com consumo de energia per\ncapita superior a 8 TEP.\n(D)\nexistem países com consumo de energia per capita de 1 TEP e de 5 TEP\nque apresentam aproximadamente o mesmo IDH, cerca de 0,7.\n(E)\nos países com altos valores de IDH apresentam um grande consumo de\nenergia per capita (acima de 7 TEP).",
+   "disciplina": "matematica",
+   "subtopico": "estatistica-tabelas-e-graficos",
+   "habilidade": "MT-H24",
+   "tema": "Leitura de gráfico IDH x consumo de energia",
+   "confianca": "media",
+   "obs": "Poderia ser geografia/energia",
+   "arquivo": "questoes/matematica/estatistica-tabelas-e-graficos/enem-2000-q015.md"
   },
   {
    "numero": 16,
-   "imagem": "img/enem-2000-q016.webp",
-   "texto": "16\nNo mapa, é apresentada a distribuição geográfica de aves de grande porte e\nque não voam.\nHá evidências mostrando que essas aves, que podem ser originárias de um\nmesmo ancestral, sejam, portanto, parentes. Considerando que, de fato, tal\nparentesco ocorra, uma explicação possível para a separação geográfica\ndessas aves, como mostrada no mapa, poderia ser:\n(A)\na grande atividade vulcânica, ocorrida há milhões de anos, eliminou\nessas aves do Hemisfério Norte.\n(B)\nna origem da vida, essas aves eram capazes de voar, o que permitiu que\natravessassem as águas oceânicas, ocupando vários continentes.\n(C)\no ser humano, em seus deslocamentos, transportou essas aves, assim\nque elas surgiram na Terra, distribuindo-as pelos diferentes continentes.\n(D)\no afastamento das massas continentais, formadas pela ruptura de um\ncontinente único, dispersou essas aves que habitavam ambientes\nadjacentes.\n(E)\na existência de períodos glaciais muito rigorosos, no Hemisfério Norte,\nprovocou um gradativo deslocamento dessas aves para o Sul, mais\nquente."
+   "imagem": "questoes/biologia/evolucao/enem-2000-q016.webp",
+   "texto": "16\nNo mapa, é apresentada a distribuição geográfica de aves de grande porte e\nque não voam.\nHá evidências mostrando que essas aves, que podem ser originárias de um\nmesmo ancestral, sejam, portanto, parentes. Considerando que, de fato, tal\nparentesco ocorra, uma explicação possível para a separação geográfica\ndessas aves, como mostrada no mapa, poderia ser:\n(A)\na grande atividade vulcânica, ocorrida há milhões de anos, eliminou\nessas aves do Hemisfério Norte.\n(B)\nna origem da vida, essas aves eram capazes de voar, o que permitiu que\natravessassem as águas oceânicas, ocupando vários continentes.\n(C)\no ser humano, em seus deslocamentos, transportou essas aves, assim\nque elas surgiram na Terra, distribuindo-as pelos diferentes continentes.\n(D)\no afastamento das massas continentais, formadas pela ruptura de um\ncontinente único, dispersou essas aves que habitavam ambientes\nadjacentes.\n(E)\na existência de períodos glaciais muito rigorosos, no Hemisfério Norte,\nprovocou um gradativo deslocamento dessas aves para o Sul, mais\nquente.",
+   "disciplina": "biologia",
+   "subtopico": "evolucao",
+   "habilidade": "CN-H16",
+   "tema": "Aves não voadoras e deriva continental",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/biologia/evolucao/enem-2000-q016.md"
   },
   {
    "numero": 17,
-   "imagem": "img/enem-2000-q017.webp",
-   "texto": "17\nOs quatro calendários apresentados abaixo mostram a variedade na contagem\ndo tempo em diversas sociedades.\nFonte: Adaptado de Época, n o 55, 7 de junho de 1999\nCom base nas informações apresentadas, pode-se afirmar que:\n(A)\no final do milênio, 1999/2000, é um fator comum às diferentes culturas e\ntradições.\n(B)\nembora o calendário cristão seja hoje adotado em âmbito internacional,\ncada cultura registra seus eventos marcantes em calendário próprio.\n(C)\no calendário cristão foi adotado universalmente porque, sendo solar, é\nmais preciso que os demais.\n(D)\na religião não foi determinante na definição dos calendários.\n(E)\no calendário cristão tornou-se dominante por sua antiguidade."
+   "imagem": "questoes/historia/historia-cultura-e-sociedade/enem-2000-q017.webp",
+   "texto": "17\nOs quatro calendários apresentados abaixo mostram a variedade na contagem\ndo tempo em diversas sociedades.\nFonte: Adaptado de Época, n o 55, 7 de junho de 1999\nCom base nas informações apresentadas, pode-se afirmar que:\n(A)\no final do milênio, 1999/2000, é um fator comum às diferentes culturas e\ntradições.\n(B)\nembora o calendário cristão seja hoje adotado em âmbito internacional,\ncada cultura registra seus eventos marcantes em calendário próprio.\n(C)\no calendário cristão foi adotado universalmente porque, sendo solar, é\nmais preciso que os demais.\n(D)\na religião não foi determinante na definição dos calendários.\n(E)\no calendário cristão tornou-se dominante por sua antiguidade.",
+   "disciplina": "historia",
+   "subtopico": "historia-cultura-e-sociedade",
+   "habilidade": "CH-H5",
+   "tema": "Calendários de diferentes culturas",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/historia/historia-cultura-e-sociedade/enem-2000-q017.md"
   },
   {
    "numero": 18,
-   "imagem": "img/enem-2000-q018.webp",
-   "texto": "18\n―Precisa-se nacionais sem nacionalismo, (...) movidos pelo presente mas\nestalando naquele cio racial que só as tradições maduram! (...). Precisa-se\ngentes com bastante meiguice no sentimento, bastante força na peitaria,\nbastante paciência no entusiasmo e sobretudo, oh! sobretudo bastante\nvergonha na cara!\n(...) Enfim: precisa-se brasileiros! Assim está escrito no anúncio vistoso de\ncores desesperadas pintado sobre o corpo do nosso Brasil, camaradas.‖\n(Jornal A Noite, São Paulo, 18/12/1925 apud LOPES, Telê Porto Ancona. Mário\nde Andrade: ramais e caminhos. São Paulo: Duas Cidades, 1972)\nNo trecho acima, Mário de Andrade dá forma a um dos itens do ideário\nmodernista, que é o de firmar a feição de uma língua mais autêntica,\n“brasileira”, ao expressar-se numa variante de linguagem popular identificada\npela (o):\nescolha de palavras como cio, peitaria, vergonha.\n(A)\n(B)\nemprego da pontuação.\n(C)\nrepetição do adjetivo bastante .\n(D)\nconcordância empregada em Assim está escrito.\n(E)\nescolha de construção do tipo precisa-se gentes."
+   "imagem": "questoes/portugues/variacao-linguistica-e-gramatica/enem-2000-q018.webp",
+   "texto": "18\n―Precisa-se nacionais sem nacionalismo, (...) movidos pelo presente mas\nestalando naquele cio racial que só as tradições maduram! (...). Precisa-se\ngentes com bastante meiguice no sentimento, bastante força na peitaria,\nbastante paciência no entusiasmo e sobretudo, oh! sobretudo bastante\nvergonha na cara!\n(...) Enfim: precisa-se brasileiros! Assim está escrito no anúncio vistoso de\ncores desesperadas pintado sobre o corpo do nosso Brasil, camaradas.‖\n(Jornal A Noite, São Paulo, 18/12/1925 apud LOPES, Telê Porto Ancona. Mário\nde Andrade: ramais e caminhos. São Paulo: Duas Cidades, 1972)\nNo trecho acima, Mário de Andrade dá forma a um dos itens do ideário\nmodernista, que é o de firmar a feição de uma língua mais autêntica,\n“brasileira”, ao expressar-se numa variante de linguagem popular identificada\npela (o):\nescolha de palavras como cio, peitaria, vergonha.\n(A)\n(B)\nemprego da pontuação.\n(C)\nrepetição do adjetivo bastante .\n(D)\nconcordância empregada em Assim está escrito.\n(E)\nescolha de construção do tipo precisa-se gentes.",
+   "disciplina": "portugues",
+   "subtopico": "variacao-linguistica-e-gramatica",
+   "habilidade": "LC-H25",
+   "tema": "Linguagem popular no modernismo de Mário de Andrade",
+   "confianca": "media",
+   "obs": "Também literatura (modernismo)",
+   "arquivo": "questoes/portugues/variacao-linguistica-e-gramatica/enem-2000-q018.md"
   },
   {
    "numero": 19,
-   "imagem": "img/enem-2000-q019.webp",
-   "texto": "19\nA figura abaixo mostra um eclipse solar no instante em que é fotografado em\ncinco diferentes pontos do planeta.\nTrês dessas fotografias estão reproduzidas abaixo.\nAs fotos poderiam corresponder, respectivamente, aos pontos:\n(A)\nIII, V e II.\n(B)\nII, III e V.\n(C)\nII, IV e III.\n(D)\nI, II e III.\n(E)\nI, II e V."
+   "imagem": "questoes/fisica/optica-e-ondulatoria/enem-2000-q019.webp",
+   "texto": "19\nA figura abaixo mostra um eclipse solar no instante em que é fotografado em\ncinco diferentes pontos do planeta.\nTrês dessas fotografias estão reproduzidas abaixo.\nAs fotos poderiam corresponder, respectivamente, aos pontos:\n(A)\nIII, V e II.\n(B)\nII, III e V.\n(C)\nII, IV e III.\n(D)\nI, II e III.\n(E)\nI, II e V.",
+   "disciplina": "fisica",
+   "subtopico": "optica-e-ondulatoria",
+   "habilidade": "CN-H20",
+   "tema": "Eclipse solar visto de diferentes pontos",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/fisica/optica-e-ondulatoria/enem-2000-q019.md"
   },
   {
    "numero": 20,
-   "imagem": "img/enem-2000-q020.webp",
-   "texto": "20\n“Poética”, de Manuel Bandeira, é quase um manifesto do movimento\nmodernista brasileiro de 1922. No poema, o autor elabora críticas e propostas\nque representam o pensamento estético predominante na época.\nPoética\nEstou farto do lirismo comedido\nDo lirismo bem comportado\nDo lirismo funcionário público com livro de ponto expediente protocolo e\n[manifestações de apreço ao Sr. diretor.\nEstou farto do lirismo que pára e vai averiguar no dicionário o\n[cunho vernáculo de um vocábulo\nAbaixo os puristas\n............................................................................................\nQuero antes o lirismo dos loucos\nO lirismo dos bêbedos\nO lirismo difícil e pungente dos bêbedos\nO lirismo dos clowns de Shakespeare\n— Não quero mais saber do lirismo que não é libertação.\n(BANDEIRA, Manuel. Poesia Completa e Prosa.\nRio de Janeiro. Aguilar, 1974)\nCom base na leitura do poema, podemos afirmar corretamente que o poeta:\n(A)\ncritica o lirismo louco do movimento modernista.\n(B)\ncritica todo e qualquer lirismo na literatura.\n(C)\npropõe o retorno ao lirismo do movimento clássico.\n(D)\npropõe o retorno ao lirismo do movimento romântico.\n(E)\npropõe a criação de um novo lirismo."
+   "imagem": "questoes/literatura/escolas-literarias/enem-2000-q020.webp",
+   "texto": "20\n“Poética”, de Manuel Bandeira, é quase um manifesto do movimento\nmodernista brasileiro de 1922. No poema, o autor elabora críticas e propostas\nque representam o pensamento estético predominante na época.\nPoética\nEstou farto do lirismo comedido\nDo lirismo bem comportado\nDo lirismo funcionário público com livro de ponto expediente protocolo e\n[manifestações de apreço ao Sr. diretor.\nEstou farto do lirismo que pára e vai averiguar no dicionário o\n[cunho vernáculo de um vocábulo\nAbaixo os puristas\n............................................................................................\nQuero antes o lirismo dos loucos\nO lirismo dos bêbedos\nO lirismo difícil e pungente dos bêbedos\nO lirismo dos clowns de Shakespeare\n— Não quero mais saber do lirismo que não é libertação.\n(BANDEIRA, Manuel. Poesia Completa e Prosa.\nRio de Janeiro. Aguilar, 1974)\nCom base na leitura do poema, podemos afirmar corretamente que o poeta:\n(A)\ncritica o lirismo louco do movimento modernista.\n(B)\ncritica todo e qualquer lirismo na literatura.\n(C)\npropõe o retorno ao lirismo do movimento clássico.\n(D)\npropõe o retorno ao lirismo do movimento romântico.\n(E)\npropõe a criação de um novo lirismo.",
+   "disciplina": "literatura",
+   "subtopico": "escolas-literarias",
+   "habilidade": "LC-H15",
+   "tema": "Poética de Bandeira e o Modernismo",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/literatura/escolas-literarias/enem-2000-q020.md"
   },
   {
    "numero": 21,
-   "imagem": "img/enem-2000-q021.webp",
-   "texto": "21\nAo longo do século XX, a taxa de variação na população do Brasil foi sempre\npositiva (crescimento). Essa taxa leva em consideração o número de\nnascimentos (N), o número de mortes (M), o de emigrantes (E) e o de imigrantes\n(I) por unidade de tempo.\nÉ correto afirmar que, no século XX:\n(A)\nM > I + E + N.\n(B)\nN + I > M + E.\n(C)\nN + E > M + I.\n(D)\nM + N < E + I.\n(E)\nN < M - I + E."
+   "imagem": "questoes/geografia/populacao-e-demografia/enem-2000-q021.webp",
+   "texto": "21\nAo longo do século XX, a taxa de variação na população do Brasil foi sempre\npositiva (crescimento). Essa taxa leva em consideração o número de\nnascimentos (N), o número de mortes (M), o de emigrantes (E) e o de imigrantes\n(I) por unidade de tempo.\nÉ correto afirmar que, no século XX:\n(A)\nM > I + E + N.\n(B)\nN + I > M + E.\n(C)\nN + E > M + I.\n(D)\nM + N < E + I.\n(E)\nN < M - I + E.",
+   "disciplina": "geografia",
+   "subtopico": "populacao-e-demografia",
+   "habilidade": "CH-H8",
+   "tema": "Crescimento populacional: natalidade, mortalidade, migração",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/geografia/populacao-e-demografia/enem-2000-q021.md"
   },
   {
    "numero": 22,
-   "imagem": "img/enem-2000-q022.webp",
-   "texto": "22\nO gráfico abaixo representa o fluxo (quantidade de água em movimento) de um\nrio, em três regiões distintas, após certo tempo de chuva.\nComparando-se, nas três regiões, a interceptação da água da chuva pela\ncobertura vegetal, é correto afirmar que tal interceptação:\n(A)\né maior no ambiente natural preservado.\n(B)\nindepende da densidade e do tipo de vegetação.\n(C)\né menor nas regiões de florestas.\n(D)\naumenta quando aumenta o grau de intervenção humana.\n(E)\ndiminui à medida que aumenta a densidade da vegetação."
+   "imagem": "questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q022.webp",
+   "texto": "22\nO gráfico abaixo representa o fluxo (quantidade de água em movimento) de um\nrio, em três regiões distintas, após certo tempo de chuva.\nComparando-se, nas três regiões, a interceptação da água da chuva pela\ncobertura vegetal, é correto afirmar que tal interceptação:\n(A)\né maior no ambiente natural preservado.\n(B)\nindepende da densidade e do tipo de vegetação.\n(C)\né menor nas regiões de florestas.\n(D)\naumenta quando aumenta o grau de intervenção humana.\n(E)\ndiminui à medida que aumenta a densidade da vegetação.",
+   "disciplina": "biologia",
+   "subtopico": "ecologia-e-meio-ambiente",
+   "habilidade": "CN-H17",
+   "tema": "Interceptação da chuva pela cobertura vegetal",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q022.md"
   },
   {
    "numero": 23,
-   "imagem": "img/enem-2000-q023.webp",
-   "texto": "23\nNo ciclo da água, usado para produzir eletricidade, a água de lagos e oceanos,\nirradiada pelo Sol, evapora-se dando origem a nuvens e se precipita como\nchuva. É então represada, corre de alto a baixo e move turbinas de uma usina,\nacionando geradores. A eletricidade produzida é transmitida através de cabos e\nfios e é utilizada em motores e outros aparelhos elétricos. Assim, para que o\nciclo seja aproveitado na geração de energia elétrica, constrói-se uma\nbarragem para represar a água.\nEntre os possíveis impactos ambientais causados por essa construção, devem\nser destacados:\n(A)\naumento do nível dos oceanos e chuva ácida.\n(B)\nchuva ácida e efeito estufa.\n(C)\nalagamentos e intensificação do efeito estufa.\n(D)\nalagamentos e desequilíbrio da fauna e da flora.\n(E)\nalteração do curso natural dos rios e poluição atmosférica."
+   "imagem": "questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q023.webp",
+   "texto": "23\nNo ciclo da água, usado para produzir eletricidade, a água de lagos e oceanos,\nirradiada pelo Sol, evapora-se dando origem a nuvens e se precipita como\nchuva. É então represada, corre de alto a baixo e move turbinas de uma usina,\nacionando geradores. A eletricidade produzida é transmitida através de cabos e\nfios e é utilizada em motores e outros aparelhos elétricos. Assim, para que o\nciclo seja aproveitado na geração de energia elétrica, constrói-se uma\nbarragem para represar a água.\nEntre os possíveis impactos ambientais causados por essa construção, devem\nser destacados:\n(A)\naumento do nível dos oceanos e chuva ácida.\n(B)\nchuva ácida e efeito estufa.\n(C)\nalagamentos e intensificação do efeito estufa.\n(D)\nalagamentos e desequilíbrio da fauna e da flora.\n(E)\nalteração do curso natural dos rios e poluição atmosférica.",
+   "disciplina": "biologia",
+   "subtopico": "ecologia-e-meio-ambiente",
+   "habilidade": "CN-H12",
+   "tema": "Impactos ambientais de barragem hidrelétrica",
+   "confianca": "media",
+   "obs": "Poderia ser geografia-ambiental/física",
+   "arquivo": "questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q023.md"
   },
   {
    "numero": 24,
-   "imagem": "img/enem-2000-q024.webp",
-   "texto": "24\n―Casa que não entra sol, entra médico.‖ Esse antigo ditado reforça a\nimportância de, ao construirmos casas, darmos orientações adequadas aos\ndormitórios, de forma a garantir o máximo conforto térmico e salubridade.\nAssim, confrontando casas construídas em Lisboa (ao norte do Trópico de\nCâncer) e em Curitiba (ao sul do Trópico de Capricórnio), para garantir a\nnecessária luz do sol, as janelas dos quartos não devem estar voltadas,\nrespectivamente, para os pontos cardeais:\n(A)\nnorte/sul.\n(B)\nsul/norte.\n(C)\nleste/oeste.\n(D)\noeste/leste.\n(E)\noeste/oeste."
+   "imagem": "questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2000-q024.webp",
+   "texto": "24\n―Casa que não entra sol, entra médico.‖ Esse antigo ditado reforça a\nimportância de, ao construirmos casas, darmos orientações adequadas aos\ndormitórios, de forma a garantir o máximo conforto térmico e salubridade.\nAssim, confrontando casas construídas em Lisboa (ao norte do Trópico de\nCâncer) e em Curitiba (ao sul do Trópico de Capricórnio), para garantir a\nnecessária luz do sol, as janelas dos quartos não devem estar voltadas,\nrespectivamente, para os pontos cardeais:\n(A)\nnorte/sul.\n(B)\nsul/norte.\n(C)\nleste/oeste.\n(D)\noeste/leste.\n(E)\noeste/oeste.",
+   "disciplina": "geografia",
+   "subtopico": "geografia-fisica-clima-relevo-hidrografia",
+   "habilidade": "CH-H26",
+   "tema": "Insolação e orientação de janelas Lisboa/Curitiba",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2000-q024.md"
   },
   {
    "numero": 25,
-   "imagem": "img/enem-2000-q025.webp",
-   "texto": "25\nJoão deseja comprar um carro cujo preço à vista, com todos os descontos\npossíveis, é de R$ 21.000,00, e esse valor não será reajustado nos próximos\nmeses.\nEle tem R$ 20.000,00, que podem ser aplicados a uma taxa de juros\ncompostos de 2% ao mês, e escolhe deixar todo o seu dinheiro aplicado até que\no montante atinja o valor do carro.\nPara ter o carro, João deverá esperar:\n(A)\ndois meses, e terá a quantia exata.\n(B)\ntrês meses, e terá a quantia exata.\n(C)\ntrês meses, e ainda sobrarão, aproximadamente, R$ 225,00.\n(D)\nquatro meses, e terá a quantia exata.\n(E)\nquatro meses, e ainda sobrarão, aproximadamente, R$ 430,00."
+   "imagem": "questoes/matematica/porcentagem-e-matematica-financeira/enem-2000-q025.webp",
+   "texto": "25\nJoão deseja comprar um carro cujo preço à vista, com todos os descontos\npossíveis, é de R$ 21.000,00, e esse valor não será reajustado nos próximos\nmeses.\nEle tem R$ 20.000,00, que podem ser aplicados a uma taxa de juros\ncompostos de 2% ao mês, e escolhe deixar todo o seu dinheiro aplicado até que\no montante atinja o valor do carro.\nPara ter o carro, João deverá esperar:\n(A)\ndois meses, e terá a quantia exata.\n(B)\ntrês meses, e terá a quantia exata.\n(C)\ntrês meses, e ainda sobrarão, aproximadamente, R$ 225,00.\n(D)\nquatro meses, e terá a quantia exata.\n(E)\nquatro meses, e ainda sobrarão, aproximadamente, R$ 430,00.",
+   "disciplina": "matematica",
+   "subtopico": "porcentagem-e-matematica-financeira",
+   "habilidade": "MT-H3",
+   "tema": "Juros compostos em aplicação para compra de carro",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/matematica/porcentagem-e-matematica-financeira/enem-2000-q025.md"
   },
   {
    "numero": 26,
-   "imagem": "img/enem-2000-q026.webp",
-   "texto": "26\nA tabela abaixo apresenta algumas das principais causas de mortes no Brasil,\ndistribuídas por região.\nTaxa por 10.000 habitantes\nBrasil Região Região Região Região Região\nK\nX\nW\nY\nZ\nCausas mal definidas\n9\n5\n15\n8\n6\n6\nCausas externas\n7\n8\n5\n5\n7\n9\nNeoplasias (cânceres)\n6\n5\n3\n3\n9\n9\nDoenças respiratórias\n6\n4\n3\n2\n8\n7\nFonte: Ministério da Saúde, 1996\nSão conhecidas ainda as seguintes informações sobre as causas de óbitos:\n\nA dificuldade na obtenção de informações, a falta de notificação e o acesso\nprecário aos serviços de saúde são fatores relevantes na contabilização dos\nóbitos por causas mal definidas.\n\nO aumento da esperança de vida faz com que haja cada vez mais pessoas\ncom maiores chances de desenvolver algum tipo de câncer.\n\nAs mortes por doenças do aparelho respiratório estão estreitamente\nassociadas à poluição nos grandes centros urbanos.\n\nOs acidentes de trânsito e os assassinatos representam a quase totalidade\ndas mortes por causas externas.\n\nA região Norte é a única que apresenta todas as taxas por 10.000\nhabitantes abaixo da taxa média brasileira.\nLevando em consideração essas informações e o panorama social, econômico e\nambiental do Brasil, pode-se concluir que as regiões K, X, W, Y e Z da tabela\nindicam, respectivamente, as regiões:\n(A)\nSul, Norte, Nordeste, Sudeste e Centro-Oeste.\n(B)\nCentro-Oeste, Sudeste, Norte, Nordeste e Sul.\n(C)\nCentro-Oeste, Nordeste, Norte, Sul e Sudeste.\n(D)\nNorte, Nordeste, Sul, Centro-Oeste e Sudeste.\n(E)\nNorte, Sudeste, Centro-Oeste, Nordeste e Sul."
+   "imagem": "questoes/geografia/populacao-e-demografia/enem-2000-q026.webp",
+   "texto": "26\nA tabela abaixo apresenta algumas das principais causas de mortes no Brasil,\ndistribuídas por região.\nTaxa por 10.000 habitantes\nBrasil Região Região Região Região Região\nK\nX\nW\nY\nZ\nCausas mal definidas\n9\n5\n15\n8\n6\n6\nCausas externas\n7\n8\n5\n5\n7\n9\nNeoplasias (cânceres)\n6\n5\n3\n3\n9\n9\nDoenças respiratórias\n6\n4\n3\n2\n8\n7\nFonte: Ministério da Saúde, 1996\nSão conhecidas ainda as seguintes informações sobre as causas de óbitos:\n\nA dificuldade na obtenção de informações, a falta de notificação e o acesso\nprecário aos serviços de saúde são fatores relevantes na contabilização dos\nóbitos por causas mal definidas.\n\nO aumento da esperança de vida faz com que haja cada vez mais pessoas\ncom maiores chances de desenvolver algum tipo de câncer.\n\nAs mortes por doenças do aparelho respiratório estão estreitamente\nassociadas à poluição nos grandes centros urbanos.\n\nOs acidentes de trânsito e os assassinatos representam a quase totalidade\ndas mortes por causas externas.\n\nA região Norte é a única que apresenta todas as taxas por 10.000\nhabitantes abaixo da taxa média brasileira.\nLevando em consideração essas informações e o panorama social, econômico e\nambiental do Brasil, pode-se concluir que as regiões K, X, W, Y e Z da tabela\nindicam, respectivamente, as regiões:\n(A)\nSul, Norte, Nordeste, Sudeste e Centro-Oeste.\n(B)\nCentro-Oeste, Sudeste, Norte, Nordeste e Sul.\n(C)\nCentro-Oeste, Nordeste, Norte, Sul e Sudeste.\n(D)\nNorte, Nordeste, Sul, Centro-Oeste e Sudeste.\n(E)\nNorte, Sudeste, Centro-Oeste, Nordeste e Sul.",
+   "disciplina": "geografia",
+   "subtopico": "populacao-e-demografia",
+   "habilidade": "CH-H8",
+   "tema": "Causas de mortes por região do Brasil",
+   "confianca": "media",
+   "obs": "Tabela; possível dado truncado no texto",
+   "arquivo": "questoes/geografia/populacao-e-demografia/enem-2000-q026.md"
   },
   {
    "numero": 27,
-   "imagem": "img/enem-2000-q027.webp",
-   "texto": "27\nO gráfico abaixo representa a evolução da quantidade de oxigênio na atmosfera\nno curso dos tempos geológicos. O número 100 sugere a quantidade atual de\noxigênio na atmosfera, e os demais valores indicam diferentes porcentagens\ndessa quantidade.\nDe acordo com o gráfico é correto afirmar que:\n(A) as primeiras formas de vida surgiram na ausência de O 2 .\n(B) a atmosfera primitiva apresentava 1% de teor de oxigênio.\n(C) após o início da fotossíntese, o teor de oxigênio na atmosfera mantém-se\nestável.\n(D) desde o Pré-cambriano, a atmosfera mantém os mesmos níveis de teor de\noxigênio.\n(E) na escala evolutiva da vida, quando surgiram os anfíbios, o teor de\noxigênio atmosférico já se havia estabilizado."
+   "imagem": "questoes/biologia/evolucao/enem-2000-q027.webp",
+   "texto": "27\nO gráfico abaixo representa a evolução da quantidade de oxigênio na atmosfera\nno curso dos tempos geológicos. O número 100 sugere a quantidade atual de\noxigênio na atmosfera, e os demais valores indicam diferentes porcentagens\ndessa quantidade.\nDe acordo com o gráfico é correto afirmar que:\n(A) as primeiras formas de vida surgiram na ausência de O 2 .\n(B) a atmosfera primitiva apresentava 1% de teor de oxigênio.\n(C) após o início da fotossíntese, o teor de oxigênio na atmosfera mantém-se\nestável.\n(D) desde o Pré-cambriano, a atmosfera mantém os mesmos níveis de teor de\noxigênio.\n(E) na escala evolutiva da vida, quando surgiram os anfíbios, o teor de\noxigênio atmosférico já se havia estabilizado.",
+   "disciplina": "biologia",
+   "subtopico": "evolucao",
+   "habilidade": "CN-H17",
+   "tema": "Oxigênio atmosférico ao longo dos tempos geológicos",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/biologia/evolucao/enem-2000-q027.md"
   },
   {
    "numero": 28,
-   "imagem": "img/enem-2000-q028.webp",
-   "texto": "28\nOs fluxos migratórios humanos, representados nos mapas abaixo, mais do que\num deslocamento espacial podem significar uma mudança de condição social.\nFonte: Adaptado de SANTOS, Regina Bega. Migrações no Brasil. São Paulo:\nScipione, 1994.\nAnalisando-se os mapas, pode-se afirmar que essa mudança ocorreu com:\n(A) trabalhadores rurais nordestinos, que migraram para São Paulo nas\ndécadas de 50 e de 60, transformando-se em operários do setor\nindustrial.\n(B) agricultores sulistas, que migraram para o centro-oeste na década de 60,\ntransformando-se em empresários da mineração.\n(C) trabalhadores rurais nordestinos, que migraram para a Amazônia na\ndécada de 60, transformando-se em grandes proprietários de terras.\n(D) moradores das periferias das grandes cidades, que migraram para o\ninterior do país na década de 70 atraídos pelas oportunidades de\nemprego nas reservas extrativistas.\n(E) pequenos proprietários rurais nordestinos que, na década de 70,\nmigraram para São Paulo para trabalhar como bóias-frias na colheita de\ncafé."
+   "imagem": "questoes/geografia/populacao-e-demografia/enem-2000-q028.webp",
+   "texto": "28\nOs fluxos migratórios humanos, representados nos mapas abaixo, mais do que\num deslocamento espacial podem significar uma mudança de condição social.\nFonte: Adaptado de SANTOS, Regina Bega. Migrações no Brasil. São Paulo:\nScipione, 1994.\nAnalisando-se os mapas, pode-se afirmar que essa mudança ocorreu com:\n(A) trabalhadores rurais nordestinos, que migraram para São Paulo nas\ndécadas de 50 e de 60, transformando-se em operários do setor\nindustrial.\n(B) agricultores sulistas, que migraram para o centro-oeste na década de 60,\ntransformando-se em empresários da mineração.\n(C) trabalhadores rurais nordestinos, que migraram para a Amazônia na\ndécada de 60, transformando-se em grandes proprietários de terras.\n(D) moradores das periferias das grandes cidades, que migraram para o\ninterior do país na década de 70 atraídos pelas oportunidades de\nemprego nas reservas extrativistas.\n(E) pequenos proprietários rurais nordestinos que, na década de 70,\nmigraram para São Paulo para trabalhar como bóias-frias na colheita de\ncafé.",
+   "disciplina": "geografia",
+   "subtopico": "populacao-e-demografia",
+   "habilidade": "CH-H6",
+   "tema": "Fluxos migratórios internos no Brasil",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/geografia/populacao-e-demografia/enem-2000-q028.md"
   },
   {
    "numero": 29,
-   "imagem": "img/enem-2000-q029.webp",
-   "texto": "29\nO texto abaixo foi extraído de uma crônica de Machado de Assis e refere-se ao\ntrabalho de um escravo.\n―Um dia começou a guerra do Paraguai e durou cinco anos, João repicava e\ndobrava, dobrava e repicava pelos mortos e pelas vitórias. Quando se\ndecretou o ventre livre dos escravos, João é que repicou. Quando se fez a\nabolição completa, quem repicou foi João. Um dia proclamou-se a\nRepública. João repicou por ela, repicaria pelo Império, se o Império\nretornasse.‖\n(MACHADO, Assis de. Crônica sobre a morte do escravo João, 1897)\nA leitura do texto permite afirmar que o sineiro João:\n(A) por ser escravo tocava os sinos, às escondidas, quando ocorriam fatos\nligados à Abolição.\n(B) não poderia tocar os sinos pelo retorno do Império, visto que era escravo.\n(C) tocou os sinos pela República, proclamada pelos abolicionistas que\nvieram libertá-lo.\n(D) tocava os sinos quando ocorriam fatos marcantes porque era costume\nfazê-lo.\n(E) tocou os sinos pelo retorno do Império, comemorando a volta da Princesa\nIsabel."
+   "imagem": "questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2000-q029.webp",
+   "texto": "29\nO texto abaixo foi extraído de uma crônica de Machado de Assis e refere-se ao\ntrabalho de um escravo.\n―Um dia começou a guerra do Paraguai e durou cinco anos, João repicava e\ndobrava, dobrava e repicava pelos mortos e pelas vitórias. Quando se\ndecretou o ventre livre dos escravos, João é que repicou. Quando se fez a\nabolição completa, quem repicou foi João. Um dia proclamou-se a\nRepública. João repicou por ela, repicaria pelo Império, se o Império\nretornasse.‖\n(MACHADO, Assis de. Crônica sobre a morte do escravo João, 1897)\nA leitura do texto permite afirmar que o sineiro João:\n(A) por ser escravo tocava os sinos, às escondidas, quando ocorriam fatos\nligados à Abolição.\n(B) não poderia tocar os sinos pelo retorno do Império, visto que era escravo.\n(C) tocou os sinos pela República, proclamada pelos abolicionistas que\nvieram libertá-lo.\n(D) tocava os sinos quando ocorriam fatos marcantes porque era costume\nfazê-lo.\n(E) tocou os sinos pelo retorno do Império, comemorando a volta da Princesa\nIsabel.",
+   "disciplina": "historia",
+   "subtopico": "historia-do-brasil-colonia-e-imperio",
+   "habilidade": "CH-H1",
+   "tema": "Escravo sineiro em crônica de Machado de Assis",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2000-q029.md"
   },
   {
    "numero": 30,
-   "imagem": "img/enem-2000-q030.webp",
-   "texto": "30\nUma garrafa de vidro e uma lata de alumínio, cada uma contendo 330 mL de\nrefrigerante, são mantidas em um refrigerador pelo mesmo longo período de\ntempo. Ao retirá-las do refrigerador com as mãos desprotegidas, tem-se a\nsensação de que a lata está mais fria que a garrafa.\nÉ correto afirmar que:\n(A) a lata está realmente mais fria, pois a capacidade calorífica da garrafa é\nmaior que a da lata.\n(B) a lata está de fato menos fria que a garrafa, pois o vidro possui\ncondutividade menor que o alumínio.\n(C) a garrafa e a lata estão à mesma temperatura, possuem a mesma\ncondutividade térmica, e a sensação deve-se à diferença nos calores\nespecíficos.\n(D) a garrafa e a lata estão à mesma temperatura, e a sensação é devida ao\nfato de a condutividade térmica do alumínio ser maior que a do vidro.\n(E) a garrafa e a lata estão à mesma temperatura, e a sensação é devida ao\nfato de a condutividade térmica do vidro ser maior que a do alumínio."
+   "imagem": "questoes/fisica/termologia-e-termodinamica/enem-2000-q030.webp",
+   "texto": "30\nUma garrafa de vidro e uma lata de alumínio, cada uma contendo 330 mL de\nrefrigerante, são mantidas em um refrigerador pelo mesmo longo período de\ntempo. Ao retirá-las do refrigerador com as mãos desprotegidas, tem-se a\nsensação de que a lata está mais fria que a garrafa.\nÉ correto afirmar que:\n(A) a lata está realmente mais fria, pois a capacidade calorífica da garrafa é\nmaior que a da lata.\n(B) a lata está de fato menos fria que a garrafa, pois o vidro possui\ncondutividade menor que o alumínio.\n(C) a garrafa e a lata estão à mesma temperatura, possuem a mesma\ncondutividade térmica, e a sensação deve-se à diferença nos calores\nespecíficos.\n(D) a garrafa e a lata estão à mesma temperatura, e a sensação é devida ao\nfato de a condutividade térmica do alumínio ser maior que a do vidro.\n(E) a garrafa e a lata estão à mesma temperatura, e a sensação é devida ao\nfato de a condutividade térmica do vidro ser maior que a do alumínio.",
+   "disciplina": "fisica",
+   "subtopico": "termologia-e-termodinamica",
+   "habilidade": "CN-H21",
+   "tema": "Condutividade térmica: lata e garrafa gelada",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/fisica/termologia-e-termodinamica/enem-2000-q030.md"
   },
   {
    "numero": 31,
-   "imagem": "img/enem-2000-q031.webp",
-   "texto": "31\nEm 1999, o Programa das Nações Unidas para o Desenvolvimento elaborou o\n“Relatório do Desenvolvimento Humano”, do qual foi extraído o trecho abaixo.\nNos últimos anos da década de 90, o quinto da população mundial que\nvive nos países de renda mais elevada tinha:\n 86% do PIB mundial, enquanto o quinto de menor renda, apenas 1%;\n 82% das exportações mundiais, enquanto o quinto de menor renda,\napenas 1%;\n 74% das linhas telefônicas mundiais, enquanto o quinto de menor\nrenda, apenas 1,5%;\n 93,3% das conexões com a Internet, enquanto o quinto de menor\nrenda, apenas 0,2%.\nA distância da renda do quinto da população mundial que vive nos países\nmais pobres - que era de 30 para 1, em 1960 — passou para 60 para 1,\nem 1990, e chegou a 74 para 1, em 1997.\nDe acordo com esse trecho do relatório, o cenário do desenvolvimento humano\nmundial, nas últimas décadas, foi caracterizado pela:\n(A) diminuição da disparidade entre as nações.\n(B) diminuição da marginalização de países pobres.\n(C) inclusão progressiva de países no sistema produtivo.\n(D) crescente concentração de renda, recursos e riqueza.\n(E) distribuição eqüitativa dos resultados das inovações tecnológicas.\nO autor do texto abaixo critica, ainda que em linguagem metafórica, a\nsociedade contemporânea em relação aos seus hábitos alimentares.\n―Vocês que têm mais de 15 anos, se lembram quando a gente comprava\nleite em garrafa, na leiteria da esquina? (...)\nMas vocês não se lembram de nada, pô! Vai ver nem sabem o que é vaca.\nNem o que é leite. Estou falando isso porque agora mesmo peguei um\npacote de leite – leite em pacote, imagina, Tereza! – na porta dos fundos e\nestava escrito que é pasterizado, ou pasteurizado, sei lá, tem vitamina, é\ngarantido pela embromatologia, foi enriquecido e o escambau.\nSerá que isso é mesmo leite? No dicionário diz que leite é outra coisa:\n‗Líquido branco, contendo água, proteína, açúcar e sais minerais‘. Um\nalimento pra ninguém botar defeito. O ser humano o usa há mais de 5.000\nanos. É o único alimento só alimento. A carne serve pro animal andar, a\nfruta serve pra fazer outra fruta, o ovo serve pra fazer outra galinha (...) O\nleite é só leite. Ou toma ou bota fora.\nEsse aqui examinando bem, é só pra botar fora. Tem chumbo, tem benzina,\ntem mais água do que leite, tem serragem, sou capaz de jurar que nem\nvaca tem por trás desse negócio.\nDepois o pessoal ainda acha estranho que os meninos não gostem de leite.\nMas, como não gostam? Não gostam como? Nunca tomaram! Múúúúúúú!‖\n(FERNANDES, Millôr. O Estado de S. Paulo, 22 de agosto de 1999)"
+   "imagem": "questoes/geografia/geopolitica-e-globalizacao/enem-2000-q031.webp",
+   "texto": "31\nEm 1999, o Programa das Nações Unidas para o Desenvolvimento elaborou o\n“Relatório do Desenvolvimento Humano”, do qual foi extraído o trecho abaixo.\nNos últimos anos da década de 90, o quinto da população mundial que\nvive nos países de renda mais elevada tinha:\n 86% do PIB mundial, enquanto o quinto de menor renda, apenas 1%;\n 82% das exportações mundiais, enquanto o quinto de menor renda,\napenas 1%;\n 74% das linhas telefônicas mundiais, enquanto o quinto de menor\nrenda, apenas 1,5%;\n 93,3% das conexões com a Internet, enquanto o quinto de menor\nrenda, apenas 0,2%.\nA distância da renda do quinto da população mundial que vive nos países\nmais pobres - que era de 30 para 1, em 1960 — passou para 60 para 1,\nem 1990, e chegou a 74 para 1, em 1997.\nDe acordo com esse trecho do relatório, o cenário do desenvolvimento humano\nmundial, nas últimas décadas, foi caracterizado pela:\n(A) diminuição da disparidade entre as nações.\n(B) diminuição da marginalização de países pobres.\n(C) inclusão progressiva de países no sistema produtivo.\n(D) crescente concentração de renda, recursos e riqueza.\n(E) distribuição eqüitativa dos resultados das inovações tecnológicas.\nO autor do texto abaixo critica, ainda que em linguagem metafórica, a\nsociedade contemporânea em relação aos seus hábitos alimentares.\n―Vocês que têm mais de 15 anos, se lembram quando a gente comprava\nleite em garrafa, na leiteria da esquina? (...)\nMas vocês não se lembram de nada, pô! Vai ver nem sabem o que é vaca.\nNem o que é leite. Estou falando isso porque agora mesmo peguei um\npacote de leite – leite em pacote, imagina, Tereza! – na porta dos fundos e\nestava escrito que é pasterizado, ou pasteurizado, sei lá, tem vitamina, é\ngarantido pela embromatologia, foi enriquecido e o escambau.\nSerá que isso é mesmo leite? No dicionário diz que leite é outra coisa:\n‗Líquido branco, contendo água, proteína, açúcar e sais minerais‘. Um\nalimento pra ninguém botar defeito. O ser humano o usa há mais de 5.000\nanos. É o único alimento só alimento. A carne serve pro animal andar, a\nfruta serve pra fazer outra fruta, o ovo serve pra fazer outra galinha (...) O\nleite é só leite. Ou toma ou bota fora.\nEsse aqui examinando bem, é só pra botar fora. Tem chumbo, tem benzina,\ntem mais água do que leite, tem serragem, sou capaz de jurar que nem\nvaca tem por trás desse negócio.\nDepois o pessoal ainda acha estranho que os meninos não gostem de leite.\nMas, como não gostam? Não gostam como? Nunca tomaram! Múúúúúúú!‖\n(FERNANDES, Millôr. O Estado de S. Paulo, 22 de agosto de 1999)",
+   "disciplina": "geografia",
+   "subtopico": "geopolitica-e-globalizacao",
+   "habilidade": "CH-H18",
+   "tema": "Desigualdade mundial no relatório do PNUD",
+   "confianca": "media",
+   "obs": "Poderia ser sociologia (desigualdade)",
+   "arquivo": "questoes/geografia/geopolitica-e-globalizacao/enem-2000-q031.md"
   },
   {
    "numero": 32,
-   "imagem": "img/enem-2000-q032.webp",
-   "texto": "32\nA crítica do autor é dirigida:\n(A)\nao desconhecimento, pelas novas gerações, da importância do gado\nleiteiro para a economia nacional.\n(B)\nà diminuição da produção de leite após o desenvolvimento de\ntecnologias que têm substituído os produtos naturais por produtos\nartificiais.\n(C)\nà artificialização abusiva de alimentos tradicionais, com perda de critério\npara julgar sua qualidade e sabor.\n(D)\nà permanência de hábitos alimentares a partir da revolução agrícola e da\ndomesticação de animais iniciada há 5.000 anos.\n(E)\nà importância dada ao pacote de leite para a conservação de um produto\nperecível e que necessita de aperfeiçoamento tecnológico."
+   "imagem": "questoes/portugues/interpretacao-de-texto/enem-2000-q032.webp",
+   "texto": "32\nA crítica do autor é dirigida:\n(A)\nao desconhecimento, pelas novas gerações, da importância do gado\nleiteiro para a economia nacional.\n(B)\nà diminuição da produção de leite após o desenvolvimento de\ntecnologias que têm substituído os produtos naturais por produtos\nartificiais.\n(C)\nà artificialização abusiva de alimentos tradicionais, com perda de critério\npara julgar sua qualidade e sabor.\n(D)\nà permanência de hábitos alimentares a partir da revolução agrícola e da\ndomesticação de animais iniciada há 5.000 anos.\n(E)\nà importância dada ao pacote de leite para a conservação de um produto\nperecível e que necessita de aperfeiçoamento tecnológico.",
+   "disciplina": "portugues",
+   "subtopico": "interpretacao-de-texto",
+   "habilidade": "LC-H23",
+   "tema": "Crítica à artificialização do leite (Millôr)",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/portugues/interpretacao-de-texto/enem-2000-q032.md"
   },
   {
    "numero": 33,
-   "imagem": "img/enem-2000-q033.webp",
-   "texto": "33\nA palavra embromatologia usada pelo autor é:\n(A) um termo científico que significa estudo dos bromatos.\n(B) uma composição do termo de gíria “embromação” (enganação) com\nbromatologia, que é o estudo dos alimentos.\n(C) uma junção do termo de gíria “embromação” (enganação) com lactologia,\nque é o estudo das embalagens para leite.\n(D) um neologismo da química orgânica que significa a técnica de retirar\nbromatos dos laticínios.\n(E) uma corruptela de termo da agropecuária que significa a ordenha\nmecânica."
+   "imagem": "questoes/portugues/interpretacao-de-texto/enem-2000-q033.webp",
+   "texto": "33\nA palavra embromatologia usada pelo autor é:\n(A) um termo científico que significa estudo dos bromatos.\n(B) uma composição do termo de gíria “embromação” (enganação) com\nbromatologia, que é o estudo dos alimentos.\n(C) uma junção do termo de gíria “embromação” (enganação) com lactologia,\nque é o estudo das embalagens para leite.\n(D) um neologismo da química orgânica que significa a técnica de retirar\nbromatos dos laticínios.\n(E) uma corruptela de termo da agropecuária que significa a ordenha\nmecânica.",
+   "disciplina": "portugues",
+   "subtopico": "interpretacao-de-texto",
+   "habilidade": "LC-H5",
+   "tema": "Neologismo embromatologia em crônica",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/portugues/interpretacao-de-texto/enem-2000-q033.md"
   },
   {
    "numero": 34,
-   "imagem": "img/enem-2000-q034.webp",
-   "texto": "34\nO gráfico abaixo refere-se às variações das concentrações de poluentes na\natmosfera, no decorrer de um dia útil, em um grande centro urbano.\n(Adaptado de NOVAIS, Vera. Ozônio: aliado ou inimigo. São Paulo:\nScipione,1998)\nAs seguintes explicações foram dadas para essas variações:\nA concentração de NO diminui, e a de NO 2 aumenta em razão da\nI\nconversão de NO em NO 2 .\nA concentração de monóxido de carbono no ar está ligada à maior ou à\nII\nmenor intensidade de tráfego.\nOs veículos emitem óxidos de nitrogênio apenas nos horários de pico de\nIII\ntráfego do período da manhã.\nIV\nNos horários de maior insolação, parte do ozônio da estratosfera\ndifunde-se para camadas mais baixas da atmosfera.\nDessas explicações, são plausíveis somente:\n(A)\nI e II.\n(B)\nI e III.\n(C)\nII e III.\n(D)\nII e IV.\n(E)\nIII e IV."
+   "imagem": "questoes/quimica/quimica-ambiental-e-cotidiano/enem-2000-q034.webp",
+   "texto": "34\nO gráfico abaixo refere-se às variações das concentrações de poluentes na\natmosfera, no decorrer de um dia útil, em um grande centro urbano.\n(Adaptado de NOVAIS, Vera. Ozônio: aliado ou inimigo. São Paulo:\nScipione,1998)\nAs seguintes explicações foram dadas para essas variações:\nA concentração de NO diminui, e a de NO 2 aumenta em razão da\nI\nconversão de NO em NO 2 .\nA concentração de monóxido de carbono no ar está ligada à maior ou à\nII\nmenor intensidade de tráfego.\nOs veículos emitem óxidos de nitrogênio apenas nos horários de pico de\nIII\ntráfego do período da manhã.\nIV\nNos horários de maior insolação, parte do ozônio da estratosfera\ndifunde-se para camadas mais baixas da atmosfera.\nDessas explicações, são plausíveis somente:\n(A)\nI e II.\n(B)\nI e III.\n(C)\nII e III.\n(D)\nII e IV.\n(E)\nIII e IV.",
+   "disciplina": "quimica",
+   "subtopico": "quimica-ambiental-e-cotidiano",
+   "habilidade": "CN-H10",
+   "tema": "Poluentes atmosféricos em centro urbano",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/quimica/quimica-ambiental-e-cotidiano/enem-2000-q034.md"
   },
   {
    "numero": 35,
-   "imagem": "img/enem-2000-q035.webp",
-   "texto": "35\nOs textos abaixo relacionam-se a momentos distintos da nossa história.\n―A integração regional é um instrumento fundamental para que um\nnúmero cada vez maior de países possa melhorar a sua inserção num\nmundo globalizado, já que eleva o seu nível de competitividade,\naumenta as trocas comerciais, permite o aumento da produtividade,\ncria condições para um maior crescimento econômico e favorece o\naprofundamento dos processos democráticos.\nA integração regional e a globalização surgem assim como processos\ncomplementares e vantajosos.‖\n(Declaração de Porto, VIII Cimeira Ibero-Americana, Porto, Portugal, 17 e 18 de\noutubro de 1998)\n―Um considerável número de mercadorias passou a ser produzido no\nBrasil, substituindo o que não era possível ou era muito caro importar.\nFoi assim que a crise econômica mundial e o encarecimento das\nimportações levaram o governo Vargas a criar as bases para o\ncrescimento industrial brasileiro.‖\n(POMAR, Wladimir. Era Vargas – a modernização conservadora)\nÉ correto afirmar que as políticas econômicas mencionadas nos textos são:\n(A)\nopostas, pois, no primeiro texto, o centro das preocupações são as\nexportações e, no segundo, as importações.\n(B)\nsemelhantes, uma vez que ambos demonstram uma tendência\nprotecionista.\n(C)\ndiferentes, porque, para o primeiro texto, a questão central é a integração\nregional e, para o segundo, a política de substituição de importações.\n(D)\nsemelhantes, porque consideram a integração regional necessária ao\ndesenvolvimento econômico.\n(E)\nopostas, pois, para o primeiro texto, a globalização impede o\naprofundamento democrático e, para o segundo, a globalização é\ngeradora da crise econômica."
+   "imagem": "questoes/historia/historia-do-brasil-republica/enem-2000-q035.webp",
+   "texto": "35\nOs textos abaixo relacionam-se a momentos distintos da nossa história.\n―A integração regional é um instrumento fundamental para que um\nnúmero cada vez maior de países possa melhorar a sua inserção num\nmundo globalizado, já que eleva o seu nível de competitividade,\naumenta as trocas comerciais, permite o aumento da produtividade,\ncria condições para um maior crescimento econômico e favorece o\naprofundamento dos processos democráticos.\nA integração regional e a globalização surgem assim como processos\ncomplementares e vantajosos.‖\n(Declaração de Porto, VIII Cimeira Ibero-Americana, Porto, Portugal, 17 e 18 de\noutubro de 1998)\n―Um considerável número de mercadorias passou a ser produzido no\nBrasil, substituindo o que não era possível ou era muito caro importar.\nFoi assim que a crise econômica mundial e o encarecimento das\nimportações levaram o governo Vargas a criar as bases para o\ncrescimento industrial brasileiro.‖\n(POMAR, Wladimir. Era Vargas – a modernização conservadora)\nÉ correto afirmar que as políticas econômicas mencionadas nos textos são:\n(A)\nopostas, pois, no primeiro texto, o centro das preocupações são as\nexportações e, no segundo, as importações.\n(B)\nsemelhantes, uma vez que ambos demonstram uma tendência\nprotecionista.\n(C)\ndiferentes, porque, para o primeiro texto, a questão central é a integração\nregional e, para o segundo, a política de substituição de importações.\n(D)\nsemelhantes, porque consideram a integração regional necessária ao\ndesenvolvimento econômico.\n(E)\nopostas, pois, para o primeiro texto, a globalização impede o\naprofundamento democrático e, para o segundo, a globalização é\ngeradora da crise econômica.",
+   "disciplina": "historia",
+   "subtopico": "historia-do-brasil-republica",
+   "habilidade": "CH-H9",
+   "tema": "Integração regional versus substituição de importações",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/historia/historia-do-brasil-republica/enem-2000-q035.md"
   },
   {
    "numero": 36,
-   "imagem": "img/enem-2000-q036.webp",
-   "texto": "36\nO esquema abaixo representa os diversos meios em que se alimentam aves, de\ndiferentes espécies, que fazem ninho na mesma região.\nCom base no esquema, uma classe de alunos procurou identificar a possível\nexistência de competição alimentar entre essas aves e concluiu que:\n(A)\nnão há competição entre os quatro tipos de aves porque nem todas elas\nse alimentam nos mesmos locais.\n(B) não há competição apenas entre as aves dos tipos 1, 2 e 4 porque retiram\nalimentos de locais exclusivos.\n(C) há competição porque a ave do tipo 3 se alimenta em todos os lugares e,\nportanto, compete com todas as demais.\n(D) há competição apenas entre as aves 2 e 4 porque retiram grande\nquantidade de alimentos de um mesmo local.\n(E) não se pode afirmar se há competição entre as aves que se alimentam em\numa mesma região sem conhecer os tipos de alimento que consomem.\nO ferro pode ser obtido a partir da hematita, minério rico em óxido de ferro, pela\nreação com carvão e oxigênio. A tabela a seguir apresenta dados da análise de\nminério de ferro (hematita) obtido de várias regiões da Serra de Carajás.\nTeor de enxofre Teor de ferro (Fe)\nTeor de sílica\nMinério da\n(S) / % em massa / % em massa\n(SiO 2 ) / % em\nregião\nmassa\n1\n0,019\n63,5\n0,97\n2\n0,020\n68,1\n0,47\n3\n0,003\n67,6\n0,61\nFonte: ABREU, S . F. Recursos minerais do Brasil, vol. 2.\nSão Paulo: Edusp, 1973"
+   "imagem": "questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q036.webp",
+   "texto": "36\nO esquema abaixo representa os diversos meios em que se alimentam aves, de\ndiferentes espécies, que fazem ninho na mesma região.\nCom base no esquema, uma classe de alunos procurou identificar a possível\nexistência de competição alimentar entre essas aves e concluiu que:\n(A)\nnão há competição entre os quatro tipos de aves porque nem todas elas\nse alimentam nos mesmos locais.\n(B) não há competição apenas entre as aves dos tipos 1, 2 e 4 porque retiram\nalimentos de locais exclusivos.\n(C) há competição porque a ave do tipo 3 se alimenta em todos os lugares e,\nportanto, compete com todas as demais.\n(D) há competição apenas entre as aves 2 e 4 porque retiram grande\nquantidade de alimentos de um mesmo local.\n(E) não se pode afirmar se há competição entre as aves que se alimentam em\numa mesma região sem conhecer os tipos de alimento que consomem.\nO ferro pode ser obtido a partir da hematita, minério rico em óxido de ferro, pela\nreação com carvão e oxigênio. A tabela a seguir apresenta dados da análise de\nminério de ferro (hematita) obtido de várias regiões da Serra de Carajás.\nTeor de enxofre Teor de ferro (Fe)\nTeor de sílica\nMinério da\n(S) / % em massa / % em massa\n(SiO 2 ) / % em\nregião\nmassa\n1\n0,019\n63,5\n0,97\n2\n0,020\n68,1\n0,47\n3\n0,003\n67,6\n0,61\nFonte: ABREU, S . F. Recursos minerais do Brasil, vol. 2.\nSão Paulo: Edusp, 1973",
+   "disciplina": "biologia",
+   "subtopico": "ecologia-e-meio-ambiente",
+   "habilidade": "CN-H15",
+   "tema": "Competição alimentar entre aves",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q036.md"
   },
   {
    "numero": 37,
-   "imagem": "img/enem-2000-q037.webp",
-   "texto": "37\nNo processo de produção do ferro, dependendo do minério utilizado, forma-se\nmais ou menos SO 2 , um gás que contribui para o aumento da acidez da chuva.\nConsiderando esse impacto ambiental e a quantidade de ferro produzida, pode-\nse afirmar que seria mais conveniente o processamento do minério da(s)\nregião(ões):\n(A)\n1, apenas.\n(B)\n2, apenas.\n(C)\n3, apenas.\n(D)\n1 e 3, apenas.\n(E)\n2 e 3, apenas."
+   "imagem": "questoes/quimica/quimica-ambiental-e-cotidiano/enem-2000-q037.webp",
+   "texto": "37\nNo processo de produção do ferro, dependendo do minério utilizado, forma-se\nmais ou menos SO 2 , um gás que contribui para o aumento da acidez da chuva.\nConsiderando esse impacto ambiental e a quantidade de ferro produzida, pode-\nse afirmar que seria mais conveniente o processamento do minério da(s)\nregião(ões):\n(A)\n1, apenas.\n(B)\n2, apenas.\n(C)\n3, apenas.\n(D)\n1 e 3, apenas.\n(E)\n2 e 3, apenas.",
+   "disciplina": "quimica",
+   "subtopico": "quimica-ambiental-e-cotidiano",
+   "habilidade": "CN-H25",
+   "tema": "SO2 na produção de ferro e chuva ácida",
+   "confianca": "media",
+   "obs": "Depende da tabela/mapa",
+   "arquivo": "questoes/quimica/quimica-ambiental-e-cotidiano/enem-2000-q037.md"
   },
   {
    "numero": 38,
-   "imagem": "img/enem-2000-q038.webp",
-   "texto": "38\nNo processo de produção do ferro, a sílica é removida do minério por reação\ncom calcário (CaCO 3 ). Sabe-se, teoricamente (cálculo estequiométrico), que\nsão necessários 100 g de calcário para reagir com 60 g de sílica.\nDessa forma, pode-se prever que, para a remoção de toda a sílica presente em\n200 toneladas do minério na região 1, a massa de calcário necessária é,\naproximadamente, em toneladas, igual a:\n(A)\n1,9.\n(B)\n3,2.\n(C)\n5,1.\n(D)\n6,4.\n(E)\n8,0.\nUm apostador tem três opções para participar de certa modalidade de\njogo, que consiste no sorteio aleatório de um número dentre dez.\n1 a opção: comprar três números para um único sorteio.\n2 a opção: comprar dois números para um sorteio e um número para um\nsegundo sorteio.\n3 a opção:\ncomprar um número para cada sorteio, num total de três\nsorteios."
+   "imagem": "questoes/quimica/estequiometria-e-calculos-quimicos/enem-2000-q038.webp",
+   "texto": "38\nNo processo de produção do ferro, a sílica é removida do minério por reação\ncom calcário (CaCO 3 ). Sabe-se, teoricamente (cálculo estequiométrico), que\nsão necessários 100 g de calcário para reagir com 60 g de sílica.\nDessa forma, pode-se prever que, para a remoção de toda a sílica presente em\n200 toneladas do minério na região 1, a massa de calcário necessária é,\naproximadamente, em toneladas, igual a:\n(A)\n1,9.\n(B)\n3,2.\n(C)\n5,1.\n(D)\n6,4.\n(E)\n8,0.\nUm apostador tem três opções para participar de certa modalidade de\njogo, que consiste no sorteio aleatório de um número dentre dez.\n1 a opção: comprar três números para um único sorteio.\n2 a opção: comprar dois números para um sorteio e um número para um\nsegundo sorteio.\n3 a opção:\ncomprar um número para cada sorteio, num total de três\nsorteios.",
+   "disciplina": "quimica",
+   "subtopico": "estequiometria-e-calculos-quimicos",
+   "habilidade": "CN-H25",
+   "tema": "Calcário para remover sílica do minério",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/quimica/estequiometria-e-calculos-quimicos/enem-2000-q038.md"
   },
   {
    "numero": 39,
-   "imagem": "img/enem-2000-q039.webp",
-   "texto": "39\nSe X, Y, Z representam as probabilidades de o apostador ganhar algum prêmio,\nescolhendo, respectivamente, a 1 a , a 2 a ou a 3 a opções, é correto afirmar que:\n(A)\nX < Y < Z.\n(B)\nX = Y = Z.\n(C)\nX >Y = Z.\n(D)\nX = Y > Z.\n(E)\nX > Y > Z."
+   "imagem": "questoes/matematica/probabilidade/enem-2000-q039.webp",
+   "texto": "39\nSe X, Y, Z representam as probabilidades de o apostador ganhar algum prêmio,\nescolhendo, respectivamente, a 1 a , a 2 a ou a 3 a opções, é correto afirmar que:\n(A)\nX < Y < Z.\n(B)\nX = Y = Z.\n(C)\nX >Y = Z.\n(D)\nX = Y > Z.\n(E)\nX > Y > Z.",
+   "disciplina": "matematica",
+   "subtopico": "probabilidade",
+   "habilidade": "MT-H28",
+   "tema": "Comparação de opções de jogo por probabilidade",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/matematica/probabilidade/enem-2000-q039.md"
   },
   {
    "numero": 40,
-   "imagem": "img/enem-2000-q040.webp",
-   "texto": "40\nEscolhendo a 2 a opção, a probabilidade de o apostador não ganhar em\nqualquer dos sorteios é igual a:\n(A) 90%.\n(B) 81%.\n(C) 72%.\n(D) 70%.\n(E) 65%.\nUm boato tem um público-alvo e alastra-se com determinada rapidez. Em geral,\nessa rapidez é diretamente proporcional ao número de pessoas desse público\nque conhecem o boato e diretamente proporcional também ao número de\npessoas que não o conhecem. Em outras palavras, sendo R a rapidez de\npropagação, P o público-alvo e x o número de pessoas que conhecem o boato,\ntem-se:\nR(x) = k.x.(P-x), onde k é uma constante positiva característica do boato."
+   "imagem": "questoes/matematica/probabilidade/enem-2000-q040.webp",
+   "texto": "40\nEscolhendo a 2 a opção, a probabilidade de o apostador não ganhar em\nqualquer dos sorteios é igual a:\n(A) 90%.\n(B) 81%.\n(C) 72%.\n(D) 70%.\n(E) 65%.\nUm boato tem um público-alvo e alastra-se com determinada rapidez. Em geral,\nessa rapidez é diretamente proporcional ao número de pessoas desse público\nque conhecem o boato e diretamente proporcional também ao número de\npessoas que não o conhecem. Em outras palavras, sendo R a rapidez de\npropagação, P o público-alvo e x o número de pessoas que conhecem o boato,\ntem-se:\nR(x) = k.x.(P-x), onde k é uma constante positiva característica do boato.",
+   "disciplina": "matematica",
+   "subtopico": "probabilidade",
+   "habilidade": "MT-H28",
+   "tema": "Probabilidade de não ganhar em dois sorteios",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/matematica/probabilidade/enem-2000-q040.md"
   },
   {
    "numero": 41,
-   "imagem": "img/enem-2000-q041.webp",
-   "texto": "41\nO gráfico cartesiano que melhor representa a função R(x), para x real, é:\n(A)\n(B)\n(C)\n(D)\n(E)"
+   "imagem": "questoes/matematica/funcoes/enem-2000-q041.webp",
+   "texto": "41\nO gráfico cartesiano que melhor representa a função R(x), para x real, é:\n(A)\n(B)\n(C)\n(D)\n(E)",
+   "disciplina": "matematica",
+   "subtopico": "funcoes",
+   "habilidade": "MT-H20",
+   "tema": "Gráfico da função quadrática da propagação de boato",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/matematica/funcoes/enem-2000-q041.md"
   },
   {
    "numero": 42,
-   "imagem": "img/enem-2000-q042.webp",
-   "texto": "42\nConsiderando o modelo acima descrito, se o público-alvo é de 44.000 pessoas,\nentão a máxima rapidez de propagação ocorrerá quando o boato for conhecido\npor um número de pessoas igual a:\n(A)\n11.000.\n(B)\n22.000.\n(C)\n33.000.\n(D)\n38.000.\n(E)\n44.000."
+   "imagem": "questoes/matematica/funcoes/enem-2000-q042.webp",
+   "texto": "42\nConsiderando o modelo acima descrito, se o público-alvo é de 44.000 pessoas,\nentão a máxima rapidez de propagação ocorrerá quando o boato for conhecido\npor um número de pessoas igual a:\n(A)\n11.000.\n(B)\n22.000.\n(C)\n33.000.\n(D)\n38.000.\n(E)\n44.000.",
+   "disciplina": "matematica",
+   "subtopico": "funcoes",
+   "habilidade": "MT-H21",
+   "tema": "Máximo da função quadrática de propagação",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/matematica/funcoes/enem-2000-q042.md"
   },
   {
    "numero": 43,
-   "imagem": "img/enem-2000-q043.webp",
-   "texto": "43\nUma empresa de transporte armazena seu combustível em um reservatório\ncilíndrico enterrado horizontalmente. Seu conteúdo é medido com uma vara\ngraduada em vinte intervalos, de modo que a distância entre duas graduações\nconsecutivas representa sempre o mesmo volume.\nA ilustração que melhor representa a distribuição das graduações na vara é:\n(A)\n(B)\n(C)\n(D)\n(E)"
+   "imagem": "questoes/matematica/geometria-espacial/enem-2000-q043.webp",
+   "texto": "43\nUma empresa de transporte armazena seu combustível em um reservatório\ncilíndrico enterrado horizontalmente. Seu conteúdo é medido com uma vara\ngraduada em vinte intervalos, de modo que a distância entre duas graduações\nconsecutivas representa sempre o mesmo volume.\nA ilustração que melhor representa a distribuição das graduações na vara é:\n(A)\n(B)\n(C)\n(D)\n(E)",
+   "disciplina": "matematica",
+   "subtopico": "geometria-espacial",
+   "habilidade": "MT-H8",
+   "tema": "Graduações da vara em reservatório cilíndrico horizontal",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/matematica/geometria-espacial/enem-2000-q043.md"
   },
   {
    "numero": 44,
-   "imagem": "img/enem-2000-q044.webp",
-   "texto": "44\nEm uma empresa, existe um galpão que precisa ser dividido em três depósitos e\num hall de entrada de 20 m 2 , conforme a figura abaixo. Os depósitos I, II e III\nserão construídos para o armazenamento de, respectivamente, 90, 60 e 120\nfardos de igual volume, e suas áreas devem ser proporcionais a essas\ncapacidades.\nA largura do depósito III dever ser, em metros, igual a:\n(A) 1.\n(B) 2.\n(C) 3.\n(D) 4.\n(E) 5."
+   "imagem": "questoes/matematica/aritmetica-razao-proporcao/enem-2000-q044.webp",
+   "texto": "44\nEm uma empresa, existe um galpão que precisa ser dividido em três depósitos e\num hall de entrada de 20 m 2 , conforme a figura abaixo. Os depósitos I, II e III\nserão construídos para o armazenamento de, respectivamente, 90, 60 e 120\nfardos de igual volume, e suas áreas devem ser proporcionais a essas\ncapacidades.\nA largura do depósito III dever ser, em metros, igual a:\n(A) 1.\n(B) 2.\n(C) 3.\n(D) 4.\n(E) 5.",
+   "disciplina": "matematica",
+   "subtopico": "aritmetica-razao-proporcao",
+   "habilidade": "MT-H16",
+   "tema": "Áreas proporcionais de depósitos",
+   "confianca": "media",
+   "obs": "Imagem com planta do galpão",
+   "arquivo": "questoes/matematica/aritmetica-razao-proporcao/enem-2000-q044.md"
   },
   {
    "numero": 45,
-   "imagem": "img/enem-2000-q045.webp",
-   "texto": "45\n―O continente africano há muito tempo desafia os geólogos porque toda a\nsua metade meridional, a que fica ao sul, ergue-se a mais de 1.000 metros\nsobre o nível do mar. (...) Uma equipe de pesquisadores apresentou uma\nsolução desse desafio sugerindo a existência de um esguicho de lava\nsubterrânea empurrando o planalto africano de baixo para cima.‖\n(Adaptado de Revista Superinteressante. São Paulo: Abril,\nnovembro de 1998, p. 12)\nConsiderando a formação do relevo terrestre, é correto afirmar, com base no\ntexto, que a solução proposta é:\n(A)\nimprovável, porque as formas do relevo terrestre não se modificam há\nmilhões de anos.\n(B)\npouco fundamentada, pois as forças externas, como as chuvas e o vento,\nsão as principais responsáveis pelas formas de relevo.\n(C)\nplausível, pois as formas do relevo resultam da ação de forças internas e\nexternas, sendo importante avaliar os movimentos mais profundos no\ninterior da Terra.\n(D)\nplausível, pois a mesma justificativa foi comprovada nas demais regiões\nda África.\n(E)\ninjustificável, porque os movimentos mais profundos no interior da Terra\nnão interferem nos acidentes geográficos que aparecem na sua\nsuperfície."
+   "imagem": "questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2000-q045.webp",
+   "texto": "45\n―O continente africano há muito tempo desafia os geólogos porque toda a\nsua metade meridional, a que fica ao sul, ergue-se a mais de 1.000 metros\nsobre o nível do mar. (...) Uma equipe de pesquisadores apresentou uma\nsolução desse desafio sugerindo a existência de um esguicho de lava\nsubterrânea empurrando o planalto africano de baixo para cima.‖\n(Adaptado de Revista Superinteressante. São Paulo: Abril,\nnovembro de 1998, p. 12)\nConsiderando a formação do relevo terrestre, é correto afirmar, com base no\ntexto, que a solução proposta é:\n(A)\nimprovável, porque as formas do relevo terrestre não se modificam há\nmilhões de anos.\n(B)\npouco fundamentada, pois as forças externas, como as chuvas e o vento,\nsão as principais responsáveis pelas formas de relevo.\n(C)\nplausível, pois as formas do relevo resultam da ação de forças internas e\nexternas, sendo importante avaliar os movimentos mais profundos no\ninterior da Terra.\n(D)\nplausível, pois a mesma justificativa foi comprovada nas demais regiões\nda África.\n(E)\ninjustificável, porque os movimentos mais profundos no interior da Terra\nnão interferem nos acidentes geográficos que aparecem na sua\nsuperfície.",
+   "disciplina": "geografia",
+   "subtopico": "geografia-fisica-clima-relevo-hidrografia",
+   "habilidade": "CH-H26",
+   "tema": "Formação do relevo africano e forças internas",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2000-q045.md"
   },
   {
    "numero": 46,
-   "imagem": "img/enem-2000-q046.webp",
-   "texto": "46\nEm muitos jornais, encontramos charges, quadrinhos, ilustrações, inspirados\nnos fatos noticiados. Veja um exemplo:\nJornal do Commercio, 22/8/93\nO texto que se refere a uma situação semelhante à que inspirou a charge é:\n(A) Descansem o meu leito solitário\nNa floresta dos homens esquecida,\nÀ sombra de uma cruz, e escrevam nela\n– Foi poeta – sonhou – e amou na vida.\n(AZEVEDO, Álvares de. Poesias escolhidas. Rio de\nJaneiro/Brasília: José Aguilar/INL,1971)\n(B)\nEssa cova em que estás\nCom palmos medida,\né a conta menor\nque tiraste em vida.\nÉ de bom tamanho,\nNem largo nem fundo,\nÉ a parte que te cabe\ndeste latifúndio.\n(MELO NETO, João Cabral de. Morte e Vida Severina e outros\npoemas em voz alta. Rio de Janeiro: Sabiá, 1967)\n(C)\nMedir é a medida\nmede\nA terra, medo do homem, a lavra;\nlavra\nduro campo, muito cerco, vária várzea.\n(CHAMIE, Mário. Sábado na hora da escutas. São\nPaulo: Summums, 1978)\n(D)\nVou contar para vocês\num caso que sucedeu\nna Paraíba do Norte\ncom um homem que se chamava\nPedro João Boa-Morte,\nlavrador de Chapadinha:\ntalvez tenha morte boa\nporque vida ele não tinha.\n(GULLAR, Ferreira. Toda poesia. Rio de Janeiro:\nCivilização Brasileira, 1983)\n(E)\nTrago-te flores, – restos arrancados\nDa terra que nos viu passar\nE ora mortos nos deixa e separados.\n(ASSIS, Machado de. Obra completa. Rio de\nJaneiro: Nova Aguillar, 1986)"
+   "imagem": "questoes/literatura/intertextualidade/enem-2000-q046.webp",
+   "texto": "46\nEm muitos jornais, encontramos charges, quadrinhos, ilustrações, inspirados\nnos fatos noticiados. Veja um exemplo:\nJornal do Commercio, 22/8/93\nO texto que se refere a uma situação semelhante à que inspirou a charge é:\n(A) Descansem o meu leito solitário\nNa floresta dos homens esquecida,\nÀ sombra de uma cruz, e escrevam nela\n– Foi poeta – sonhou – e amou na vida.\n(AZEVEDO, Álvares de. Poesias escolhidas. Rio de\nJaneiro/Brasília: José Aguilar/INL,1971)\n(B)\nEssa cova em que estás\nCom palmos medida,\né a conta menor\nque tiraste em vida.\nÉ de bom tamanho,\nNem largo nem fundo,\nÉ a parte que te cabe\ndeste latifúndio.\n(MELO NETO, João Cabral de. Morte e Vida Severina e outros\npoemas em voz alta. Rio de Janeiro: Sabiá, 1967)\n(C)\nMedir é a medida\nmede\nA terra, medo do homem, a lavra;\nlavra\nduro campo, muito cerco, vária várzea.\n(CHAMIE, Mário. Sábado na hora da escutas. São\nPaulo: Summums, 1978)\n(D)\nVou contar para vocês\num caso que sucedeu\nna Paraíba do Norte\ncom um homem que se chamava\nPedro João Boa-Morte,\nlavrador de Chapadinha:\ntalvez tenha morte boa\nporque vida ele não tinha.\n(GULLAR, Ferreira. Toda poesia. Rio de Janeiro:\nCivilização Brasileira, 1983)\n(E)\nTrago-te flores, – restos arrancados\nDa terra que nos viu passar\nE ora mortos nos deixa e separados.\n(ASSIS, Machado de. Obra completa. Rio de\nJaneiro: Nova Aguillar, 1986)",
+   "disciplina": "literatura",
+   "subtopico": "intertextualidade",
+   "habilidade": "LC-H22",
+   "tema": "Charge e poema sobre cova e latifúndio",
+   "confianca": "media",
+   "obs": "Imagem com charge",
+   "arquivo": "questoes/literatura/intertextualidade/enem-2000-q046.md"
   },
   {
    "numero": 47,
-   "imagem": "img/enem-2000-q047.webp",
-   "texto": "47\nUm dos grandes problemas das regiões urbanas é o acúmulo de lixo sólido e\nsua disposição. Há vários processos para a disposição do lixo, dentre eles o\naterro sanitário, o depósito a céu aberto e a incineração. Cada um deles\napresenta vantagens e desvantagens.\nConsidere as seguintes vantagens de métodos de disposição do lixo:\ndiminuição do contato humano direto com o lixo;\nI\nprodução de adubo para agricultura;\nII\nbaixo custo operacional do processo;\nIII\nredução do volume de lixo.\nIV\nA relação correta entre cada um dos processos para a disposição do lixo e as\nvantagens apontadas é:\nDepósito a céu\nAterro sanitário\nIncineração\naberto\nI\nII\nI\n(A)\nI\nIII\nIV\n(B)\nII\nIV\nI\n(C)\n(D)\nII\nI\nIV\n(E)\nIII\nII\nI\nNo Brasil, mais de 66 milhões de pessoas beneficiam-se hoje do\nabastecimento de água fluoretada, medida que vem reduzindo, em cerca\nde 50%, a incidência de cáries. Ocorre, entretanto, que profissionais da\nsaúde muitas vezes prescrevem flúor oral ou complexos vitamínicos com\nflúor para crianças ou gestantes, levando à ingestão exagerada da\nsubstância. O mesmo ocorre com o uso abusivo de algumas marcas de\nágua mineral que contêm flúor. O excesso de flúor - fluorose - nos dentes\npode ocasionar desde efeitos estéticos até defeitos estruturais graves.\nForam registrados casos de fluorose tanto em cidades com água\nfluoretada pelos poderes públicos como em outras, abastecidas por\nlençóis freáticos que naturalmente contêm flúor.\n(Adaptado da Revista da Associação Paulista de Cirurgiões Dentistas - APCD,\nvol. 53, nº.1, jan./fev. 1999)\nCom base nesse texto, são feitas as afirmações abaixo.\nI\nA fluoretação da água é importante para a manutenção do esmalte\ndentário, porém não pode ser excessiva.\nOs lençóis freáticos citados contêm compostos de flúor, em\nII\nconcentrações superiores às existentes na água tratada.\nAs pessoas que adquiriram fluorose podem ter utilizado outras fontes de\nIII\nflúor além da água de abastecimento público, como, por exemplo,\ncremes dentais e vitaminas com flúor."
+   "imagem": "questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q047.webp",
+   "texto": "47\nUm dos grandes problemas das regiões urbanas é o acúmulo de lixo sólido e\nsua disposição. Há vários processos para a disposição do lixo, dentre eles o\naterro sanitário, o depósito a céu aberto e a incineração. Cada um deles\napresenta vantagens e desvantagens.\nConsidere as seguintes vantagens de métodos de disposição do lixo:\ndiminuição do contato humano direto com o lixo;\nI\nprodução de adubo para agricultura;\nII\nbaixo custo operacional do processo;\nIII\nredução do volume de lixo.\nIV\nA relação correta entre cada um dos processos para a disposição do lixo e as\nvantagens apontadas é:\nDepósito a céu\nAterro sanitário\nIncineração\naberto\nI\nII\nI\n(A)\nI\nIII\nIV\n(B)\nII\nIV\nI\n(C)\n(D)\nII\nI\nIV\n(E)\nIII\nII\nI\nNo Brasil, mais de 66 milhões de pessoas beneficiam-se hoje do\nabastecimento de água fluoretada, medida que vem reduzindo, em cerca\nde 50%, a incidência de cáries. Ocorre, entretanto, que profissionais da\nsaúde muitas vezes prescrevem flúor oral ou complexos vitamínicos com\nflúor para crianças ou gestantes, levando à ingestão exagerada da\nsubstância. O mesmo ocorre com o uso abusivo de algumas marcas de\nágua mineral que contêm flúor. O excesso de flúor - fluorose - nos dentes\npode ocasionar desde efeitos estéticos até defeitos estruturais graves.\nForam registrados casos de fluorose tanto em cidades com água\nfluoretada pelos poderes públicos como em outras, abastecidas por\nlençóis freáticos que naturalmente contêm flúor.\n(Adaptado da Revista da Associação Paulista de Cirurgiões Dentistas - APCD,\nvol. 53, nº.1, jan./fev. 1999)\nCom base nesse texto, são feitas as afirmações abaixo.\nI\nA fluoretação da água é importante para a manutenção do esmalte\ndentário, porém não pode ser excessiva.\nOs lençóis freáticos citados contêm compostos de flúor, em\nII\nconcentrações superiores às existentes na água tratada.\nAs pessoas que adquiriram fluorose podem ter utilizado outras fontes de\nIII\nflúor além da água de abastecimento público, como, por exemplo,\ncremes dentais e vitaminas com flúor.",
+   "disciplina": "biologia",
+   "subtopico": "ecologia-e-meio-ambiente",
+   "habilidade": "CN-H8",
+   "tema": "Aterro, depósito e incineração do lixo",
+   "confianca": "media",
+   "obs": "Poderia ser geografia-ambiental ou química",
+   "arquivo": "questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q047.md"
   },
   {
    "numero": 48,
-   "imagem": "img/enem-2000-q048.webp",
-   "texto": "48\nPode-se afirmar que, apenas:\n(A)\nI é correta.\n(B)\nII é correta.\n(C)\nIII é correta.\n(D)\nI e III são corretas.\n(E)\nII e III são corretas."
+   "imagem": "questoes/biologia/fisiologia-humana-e-saude/enem-2000-q048.webp",
+   "texto": "48\nPode-se afirmar que, apenas:\n(A)\nI é correta.\n(B)\nII é correta.\n(C)\nIII é correta.\n(D)\nI e III são corretas.\n(E)\nII e III são corretas.",
+   "disciplina": "biologia",
+   "subtopico": "fisiologia-humana-e-saude",
+   "habilidade": "CN-H30",
+   "tema": "Fluoretação da água e fluorose",
+   "confianca": "media",
+   "obs": "Enunciado (texto sobre flúor) fica no fim do texto da Q47; na imagem aparece só o comando",
+   "arquivo": "questoes/biologia/fisiologia-humana-e-saude/enem-2000-q048.md"
   },
   {
    "numero": 49,
-   "imagem": "img/enem-2000-q049.webp",
-   "texto": "49\nDeterminada Estação trata cerca de 30.000 litros de água por segundo. Para\nevitar riscos de fluorose, a concentração máxima de fluoretos nessa água não\ndeve exceder a cerca de 1,5 miligrama por litro de água.\nA quantidade máxima dessa espécie química que pode ser utilizada com\nsegurança, no volume de água tratada em uma hora, nessa Estação, é:\n(A) 1,5 kg.\n(B) 4,5 kg.\n(C) 96 kg.\n(D) 124 kg.\n(E) 162 kg."
+   "imagem": "questoes/quimica/solucoes-e-misturas/enem-2000-q049.webp",
+   "texto": "49\nDeterminada Estação trata cerca de 30.000 litros de água por segundo. Para\nevitar riscos de fluorose, a concentração máxima de fluoretos nessa água não\ndeve exceder a cerca de 1,5 miligrama por litro de água.\nA quantidade máxima dessa espécie química que pode ser utilizada com\nsegurança, no volume de água tratada em uma hora, nessa Estação, é:\n(A) 1,5 kg.\n(B) 4,5 kg.\n(C) 96 kg.\n(D) 124 kg.\n(E) 162 kg.",
+   "disciplina": "quimica",
+   "subtopico": "solucoes-e-misturas",
+   "habilidade": "CN-H17",
+   "tema": "Massa de fluoreto em água tratada por hora",
+   "confianca": "media",
+   "obs": "Cálculo de concentração/unidades",
+   "arquivo": "questoes/quimica/solucoes-e-misturas/enem-2000-q049.md"
   },
   {
    "numero": 50,
-   "imagem": "img/enem-2000-q050.webp",
-   "texto": "50\nO esquema ilustra o processo de obtenção do álcool etílico a partir da cana-de-\naçúcar.\nEm 1996, foram produzidos no Brasil 12 bilhões de litros de álcool. A\nquantidade de cana-de-açúcar, em toneladas, que teve de ser colhida para\nesse fim foi aproximadamente\n(A) 1,7 x 10 8 .\n(B) 1,2 x 10 9 .\n(C) 1,7 x 10 9 .\n(D) 1,2 x 10 10 . (E) 7,0 x 10 10 ."
+   "imagem": "questoes/matematica/aritmetica-razao-proporcao/enem-2000-q050.webp",
+   "texto": "50\nO esquema ilustra o processo de obtenção do álcool etílico a partir da cana-de-\naçúcar.\nEm 1996, foram produzidos no Brasil 12 bilhões de litros de álcool. A\nquantidade de cana-de-açúcar, em toneladas, que teve de ser colhida para\nesse fim foi aproximadamente\n(A) 1,7 x 10 8 .\n(B) 1,2 x 10 9 .\n(C) 1,7 x 10 9 .\n(D) 1,2 x 10 10 . (E) 7,0 x 10 10 .",
+   "disciplina": "matematica",
+   "subtopico": "aritmetica-razao-proporcao",
+   "habilidade": "MT-H16",
+   "tema": "Cana-de-açúcar necessária para produzir álcool",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/matematica/aritmetica-razao-proporcao/enem-2000-q050.md"
   },
   {
    "numero": 51,
-   "imagem": "img/enem-2000-q051.webp",
-   "texto": "51\nPara compreender o processo de exploração e o consumo dos recursos\npetrolíferos, é fundamental conhecer a gênese e o processo de formação do\npetróleo descritos no texto abaixo.\n―O petróleo é um combustível fóssil, originado provavelmente de restos de\nvida aquática acumulados no fundo dos oceanos primitivos e cobertos por\nsedimentos. O tempo e a pressão do sedimento sobre o material\ndepositado no fundo do mar transformaram esses restos em massas\nviscosas de coloração negra denominadas jazidas de petróleo.‖\n(Adaptado de TUNDISI. Usos de energia. São Paulo: Atual Editora, 1991)\nAs informações do texto permitem afirmar que:\n(A)\no petróleo é um recurso energético renovável a curto prazo, em razão de\nsua constante formação geológica.\n(B)\na exploração de petróleo é realizada apenas em áreas marinhas.\n(C)\na extração e o aproveitamento do petróleo são atividades não poluentes\ndada sua origem natural.\n(D)\no petróleo é um recurso energético distribuído homogeneamente, em\ntodas as regiões, independentemente da sua origem.\n(E)\no petróleo é um recurso não renovável a curto prazo, explorado em áreas\ncontinentais de origem marinha ou em áreas submarinas.\nO texto abaixo, de John Locke (1632-1704), revela algumas características de\numa determinada corrente de pensamento.\n―Se o homem no estado de natureza é tão livre, conforme dissemos, se é\nsenhor absoluto da sua própria pessoa e posses, igual ao maior e a\nninguém sujeito, por que abrirá ele mão dessa liberdade, por que\nabandonará o seu império e sujeitar-se-á ao domínio e controle de\nqualquer outro poder?\nAo que é óbvio responder que, embora no estado de natureza tenha tal\ndireito, a utilização do mesmo é muito incerta e está constantemente\nexposto à invasão de terceiros porque, sendo todos senhores tanto quanto\nele, todo homem igual a ele e, na maior parte, pouco observadores da\neqüidade e da justiça, o proveito da propriedade que possui nesse estado é\nmuito inseguro e muito arriscado. Estas circunstâncias obrigam-no a\nabandonar uma condição que, embora livre, está cheia de temores e\nperigos constantes; e não é sem razão que procura de boa vontade juntar-\nse em sociedade com outros que estão já unidos, ou pretendem unir-se,\npara a mútua conservação da vida, da liberdade e dos bens a que chamo\nde propriedade.‖\n(Os Pensadores. São Paulo: Nova Cultural, 1991)"
+   "imagem": "questoes/fisica/energia-fontes-e-meio-ambiente/enem-2000-q051.webp",
+   "texto": "51\nPara compreender o processo de exploração e o consumo dos recursos\npetrolíferos, é fundamental conhecer a gênese e o processo de formação do\npetróleo descritos no texto abaixo.\n―O petróleo é um combustível fóssil, originado provavelmente de restos de\nvida aquática acumulados no fundo dos oceanos primitivos e cobertos por\nsedimentos. O tempo e a pressão do sedimento sobre o material\ndepositado no fundo do mar transformaram esses restos em massas\nviscosas de coloração negra denominadas jazidas de petróleo.‖\n(Adaptado de TUNDISI. Usos de energia. São Paulo: Atual Editora, 1991)\nAs informações do texto permitem afirmar que:\n(A)\no petróleo é um recurso energético renovável a curto prazo, em razão de\nsua constante formação geológica.\n(B)\na exploração de petróleo é realizada apenas em áreas marinhas.\n(C)\na extração e o aproveitamento do petróleo são atividades não poluentes\ndada sua origem natural.\n(D)\no petróleo é um recurso energético distribuído homogeneamente, em\ntodas as regiões, independentemente da sua origem.\n(E)\no petróleo é um recurso não renovável a curto prazo, explorado em áreas\ncontinentais de origem marinha ou em áreas submarinas.\nO texto abaixo, de John Locke (1632-1704), revela algumas características de\numa determinada corrente de pensamento.\n―Se o homem no estado de natureza é tão livre, conforme dissemos, se é\nsenhor absoluto da sua própria pessoa e posses, igual ao maior e a\nninguém sujeito, por que abrirá ele mão dessa liberdade, por que\nabandonará o seu império e sujeitar-se-á ao domínio e controle de\nqualquer outro poder?\nAo que é óbvio responder que, embora no estado de natureza tenha tal\ndireito, a utilização do mesmo é muito incerta e está constantemente\nexposto à invasão de terceiros porque, sendo todos senhores tanto quanto\nele, todo homem igual a ele e, na maior parte, pouco observadores da\neqüidade e da justiça, o proveito da propriedade que possui nesse estado é\nmuito inseguro e muito arriscado. Estas circunstâncias obrigam-no a\nabandonar uma condição que, embora livre, está cheia de temores e\nperigos constantes; e não é sem razão que procura de boa vontade juntar-\nse em sociedade com outros que estão já unidos, ou pretendem unir-se,\npara a mútua conservação da vida, da liberdade e dos bens a que chamo\nde propriedade.‖\n(Os Pensadores. São Paulo: Nova Cultural, 1991)",
+   "disciplina": "fisica",
+   "subtopico": "energia-fontes-e-meio-ambiente",
+   "habilidade": "CN-H8",
+   "tema": "Petróleo como recurso não renovável",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/fisica/energia-fontes-e-meio-ambiente/enem-2000-q051.md"
   },
   {
    "numero": 52,
-   "imagem": "img/enem-2000-q052.webp",
-   "texto": "52\nDo ponto de vista político, podemos considerar o texto como uma tentativa de\njustificar:\n(A)\na existência do governo como um poder oriundo da natureza.\n(B)\na origem do governo como uma propriedade do rei.\n(C)\no absolutismo monárquico como uma imposição da natureza humana.\n(D)\na origem do governo como uma proteção à vida, aos bens e aos direitos.\n(E)\no poder dos governantes, colocando a liberdade individual acima da\npropriedade."
+   "imagem": "questoes/filosofia/etica-e-politica/enem-2000-q052.webp",
+   "texto": "52\nDo ponto de vista político, podemos considerar o texto como uma tentativa de\njustificar:\n(A)\na existência do governo como um poder oriundo da natureza.\n(B)\na origem do governo como uma propriedade do rei.\n(C)\no absolutismo monárquico como uma imposição da natureza humana.\n(D)\na origem do governo como uma proteção à vida, aos bens e aos direitos.\n(E)\no poder dos governantes, colocando a liberdade individual acima da\npropriedade.",
+   "disciplina": "filosofia",
+   "subtopico": "etica-e-politica",
+   "habilidade": "CH-H23",
+   "tema": "Locke: origem do governo e proteção dos bens",
+   "confianca": "alta",
+   "obs": "Texto de Locke fica no fim do texto da Q51",
+   "arquivo": "questoes/filosofia/etica-e-politica/enem-2000-q052.md"
   },
   {
    "numero": 53,
-   "imagem": "img/enem-2000-q053.webp",
-   "texto": "53\nAnalisando o texto, podemos concluir que se trata de um pensamento:\n(A) do liberalismo.\n(B) do socialismo utópico.\n(C) do absolutismo monárquico.\n(D) do socialismo científico.\n(E) do anarquismo.\nO suco extraído do repolho roxo pode ser utilizado como indicador do caráter\nácido (pH entre 0 e 7) ou básico (pH entre 7 e 14) de diferentes soluções.\nMisturando-se um pouco de suco de repolho e da solução, a mistura passa a\napresentar diferentes cores, segundo sua natureza ácida ou básica, de acordo\ncom a escala abaixo.\nAlgumas soluções foram testadas com esse indicador, produzindo os seguintes\nresultados:\nMaterial\nCor\nAmoníaco\nVerde\nI\nLeite de magnésia\nAzul\nII\nVinagre\nVermelho\nIII\nLeite de vaca\nRosa\nIV"
+   "imagem": "questoes/filosofia/filosofia-moderna-e-contemporanea/enem-2000-q053.webp",
+   "texto": "53\nAnalisando o texto, podemos concluir que se trata de um pensamento:\n(A) do liberalismo.\n(B) do socialismo utópico.\n(C) do absolutismo monárquico.\n(D) do socialismo científico.\n(E) do anarquismo.\nO suco extraído do repolho roxo pode ser utilizado como indicador do caráter\nácido (pH entre 0 e 7) ou básico (pH entre 7 e 14) de diferentes soluções.\nMisturando-se um pouco de suco de repolho e da solução, a mistura passa a\napresentar diferentes cores, segundo sua natureza ácida ou básica, de acordo\ncom a escala abaixo.\nAlgumas soluções foram testadas com esse indicador, produzindo os seguintes\nresultados:\nMaterial\nCor\nAmoníaco\nVerde\nI\nLeite de magnésia\nAzul\nII\nVinagre\nVermelho\nIII\nLeite de vaca\nRosa\nIV",
+   "disciplina": "filosofia",
+   "subtopico": "filosofia-moderna-e-contemporanea",
+   "habilidade": "CH-H14",
+   "tema": "Locke e o pensamento liberal",
+   "confianca": "media",
+   "obs": "Texto de Locke fica no fim do texto da Q51",
+   "arquivo": "questoes/filosofia/filosofia-moderna-e-contemporanea/enem-2000-q053.md"
   },
   {
    "numero": 54,
-   "imagem": "img/enem-2000-q054.webp",
-   "texto": "54\nDe acordo com esses resultados, as soluções I, II, III e IV têm,\nrespectivamente, caráter:\n(A)\nácido/básico/básico/ácido.\n(B)\nácido/básico/ácido/básico.\n(C)\nbásico/ácido/básico/ácido.\n(D)\nácido/ácido/básico/básico.\n(E)\nbásico/básico/ácido/ácido."
+   "imagem": "questoes/quimica/funcoes-inorganicas-e-reacoes/enem-2000-q054.webp",
+   "texto": "54\nDe acordo com esses resultados, as soluções I, II, III e IV têm,\nrespectivamente, caráter:\n(A)\nácido/básico/básico/ácido.\n(B)\nácido/básico/ácido/básico.\n(C)\nbásico/ácido/básico/ácido.\n(D)\nácido/ácido/básico/básico.\n(E)\nbásico/básico/ácido/ácido.",
+   "disciplina": "quimica",
+   "subtopico": "funcoes-inorganicas-e-reacoes",
+   "habilidade": "CN-H24",
+   "tema": "Indicador de repolho roxo: ácido ou base",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/quimica/funcoes-inorganicas-e-reacoes/enem-2000-q054.md"
   },
   {
    "numero": 55,
-   "imagem": "img/enem-2000-q055.webp",
-   "texto": "55\nUtilizando-se o indicador citado em sucos de abacaxi e de limão, pode-se\nesperar como resultado as cores:\n(A)\nrosa ou amarelo.\n(B)\nvermelho ou roxo.\n(C)\nverde ou vermelho.\n(D)\nrosa ou vermelho.\n(E)\nroxo ou azul."
+   "imagem": "questoes/quimica/funcoes-inorganicas-e-reacoes/enem-2000-q055.webp",
+   "texto": "55\nUtilizando-se o indicador citado em sucos de abacaxi e de limão, pode-se\nesperar como resultado as cores:\n(A)\nrosa ou amarelo.\n(B)\nvermelho ou roxo.\n(C)\nverde ou vermelho.\n(D)\nrosa ou vermelho.\n(E)\nroxo ou azul.",
+   "disciplina": "quimica",
+   "subtopico": "funcoes-inorganicas-e-reacoes",
+   "habilidade": "CN-H24",
+   "tema": "Cor do indicador em sucos de abacaxi e limão",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/quimica/funcoes-inorganicas-e-reacoes/enem-2000-q055.md"
   },
   {
    "numero": 56,
-   "imagem": "img/enem-2000-q056.webp",
-   "texto": "56\nO quadrinho publicado na revista Newsweek (23/9/1991) ilustra o\ndesespero dos cartógrafos para desenhar o novo mapa-múndi diante das\nconstantes mudanças de fronteiras.\nLevando em consideração o contexto da época em que a charge foi publicada,\ndentre as frases abaixo, a que melhor completa o texto da fala, propondo outra\ncorreção no mapa, é:\n(A)\n“A Albânia já não faz parte da Europa”.\n(B)\n“O número de países só está diminuindo”.\n(C)\n“Cuba já não faz parte do Terceiro Mundo”.\n(D)\n“O Kasaquistão acabou de declarar independência”.\n(E)\n“Vamos ter de dividir a Alemanha novamente”."
+   "imagem": "questoes/historia/historia-contemporanea-e-mundial/enem-2000-q056.webp",
+   "texto": "56\nO quadrinho publicado na revista Newsweek (23/9/1991) ilustra o\ndesespero dos cartógrafos para desenhar o novo mapa-múndi diante das\nconstantes mudanças de fronteiras.\nLevando em consideração o contexto da época em que a charge foi publicada,\ndentre as frases abaixo, a que melhor completa o texto da fala, propondo outra\ncorreção no mapa, é:\n(A)\n“A Albânia já não faz parte da Europa”.\n(B)\n“O número de países só está diminuindo”.\n(C)\n“Cuba já não faz parte do Terceiro Mundo”.\n(D)\n“O Kasaquistão acabou de declarar independência”.\n(E)\n“Vamos ter de dividir a Alemanha novamente”.",
+   "disciplina": "historia",
+   "subtopico": "historia-contemporanea-e-mundial",
+   "habilidade": "CH-H7",
+   "tema": "Fim da URSS e mudanças no mapa-múndi",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/historia/historia-contemporanea-e-mundial/enem-2000-q056.md"
   },
   {
    "numero": 57,
-   "imagem": "img/enem-2000-q057.webp",
-   "texto": "57\nO uso do pronome átono no início das frases é destacado por um poeta e por\num gramático nos textos abaixo.\nPronominais\nDê-me um cigarro\nDiz a gramática\nDo professor e do aluno\nE do mulato sabido\nMas o bom negro e o bom branco\nda Nação Brasileira\nDizem todos os dias\nDeixa disso camarada\nMe dá um cigarro\n(ANDRADE, Oswald de. Seleção de textos. São Paulo:\nNova Cultural, 1988)\n―Iniciar a frase com pronome átono só é lícito na conversação familiar,\ndespreocupada, ou na língua escrita quando se deseja reproduzir a fala\ndos personagens (...).‖\n(CEGALLA, Domingos Paschoal. Novíssima gramática da língua portuguesa.\nSão Paulo: Nacional, 1980)\nComparando a explicação dada pelos autores sobre essa regra, pode-se afirmar\nque ambos:\n(A)\ncondenam essa regra gramatical.\n(B)\nacreditam que apenas os esclarecidos sabem essa regra.\n(C)\ncriticam a presença de regras na gramática.\n(D)\nafirmam que não há regras para uso de pronomes.\n(E)\nrelativizam essa regra gramatical."
+   "imagem": "questoes/portugues/variacao-linguistica-e-gramatica/enem-2000-q057.webp",
+   "texto": "57\nO uso do pronome átono no início das frases é destacado por um poeta e por\num gramático nos textos abaixo.\nPronominais\nDê-me um cigarro\nDiz a gramática\nDo professor e do aluno\nE do mulato sabido\nMas o bom negro e o bom branco\nda Nação Brasileira\nDizem todos os dias\nDeixa disso camarada\nMe dá um cigarro\n(ANDRADE, Oswald de. Seleção de textos. São Paulo:\nNova Cultural, 1988)\n―Iniciar a frase com pronome átono só é lícito na conversação familiar,\ndespreocupada, ou na língua escrita quando se deseja reproduzir a fala\ndos personagens (...).‖\n(CEGALLA, Domingos Paschoal. Novíssima gramática da língua portuguesa.\nSão Paulo: Nacional, 1980)\nComparando a explicação dada pelos autores sobre essa regra, pode-se afirmar\nque ambos:\n(A)\ncondenam essa regra gramatical.\n(B)\nacreditam que apenas os esclarecidos sabem essa regra.\n(C)\ncriticam a presença de regras na gramática.\n(D)\nafirmam que não há regras para uso de pronomes.\n(E)\nrelativizam essa regra gramatical.",
+   "disciplina": "portugues",
+   "subtopico": "variacao-linguistica-e-gramatica",
+   "habilidade": "LC-H27",
+   "tema": "Pronome átono no início de frase",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/portugues/variacao-linguistica-e-gramatica/enem-2000-q057.md"
   },
   {
    "numero": 58,
-   "imagem": "img/enem-2000-q058.webp",
-   "texto": "58\nO Brasil, em 1997, com cerca de 160 X 10 6 habitantes, apresentou um\nconsumo de energia da ordem de 250.000 TEP (tonelada equivalente de\npetróleo), proveniente de diversas fontes primárias.\nO grupo com renda familiar de mais de vinte salários mínimos representa 5% da\npopulação brasileira e utiliza cerca de 10% da energia total consumida no país.\nO grupo com renda familiar de até três salários mínimos representa 50% da\npopulação e consome 30% do total de energia.\nCom base nessas informações, pode-se concluir que o consumo médio de\nenergia para um indivíduo do grupo de renda superior é x vezes maior do que\npara um indivíduo do grupo de renda inferior. O valor aproximado de x é:\n(A) 2,1.\n(B) 3,3.\n(C) 6,3.\n(D) 10,5.\n(E) 12,7."
+   "imagem": "questoes/matematica/porcentagem-e-matematica-financeira/enem-2000-q058.webp",
+   "texto": "58\nO Brasil, em 1997, com cerca de 160 X 10 6 habitantes, apresentou um\nconsumo de energia da ordem de 250.000 TEP (tonelada equivalente de\npetróleo), proveniente de diversas fontes primárias.\nO grupo com renda familiar de mais de vinte salários mínimos representa 5% da\npopulação brasileira e utiliza cerca de 10% da energia total consumida no país.\nO grupo com renda familiar de até três salários mínimos representa 50% da\npopulação e consome 30% do total de energia.\nCom base nessas informações, pode-se concluir que o consumo médio de\nenergia para um indivíduo do grupo de renda superior é x vezes maior do que\npara um indivíduo do grupo de renda inferior. O valor aproximado de x é:\n(A) 2,1.\n(B) 3,3.\n(C) 6,3.\n(D) 10,5.\n(E) 12,7.",
+   "disciplina": "matematica",
+   "subtopico": "porcentagem-e-matematica-financeira",
+   "habilidade": "MT-H16",
+   "tema": "Consumo médio de energia por grupo de renda",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/matematica/porcentagem-e-matematica-financeira/enem-2000-q058.md"
   },
   {
    "numero": 59,
-   "imagem": "img/enem-2000-q059.webp",
-   "texto": "59\nAs histórias em quadrinhos, por vezes, utilizam animais como personagens e a eles\nVan Gogh, pintor holandês nascido em 1853, é\natribuem comportamento humano. O gato Garfield é exemplo desse fato.\num dos principais nomes da pintura mundial. É\ndele o quadro abaixo.\nVAN GOGH\nFonte: Caderno Vida e Arte, Jornal do Povo, Fortaleza\nAuto-retrato de orelha cortada\nO 3º quadrinho sugere que Garfield:\n(A)\ndesconhece tudo sobre arte, por isso faz a sugestão.\n(B)\nacredita que todo pintor deve fazer algo diferente.\n(C)\ndefende que para ser pintor a pessoa tem de sofrer.\n(D)\nconhece a história de um pintor famoso e faz uso da ironia.\n(E)\nacredita que seu dono tenha tendência artística e, por isso, faz a sugestão."
+   "imagem": "questoes/portugues/interpretacao-de-texto/enem-2000-q059.webp",
+   "texto": "59\nAs histórias em quadrinhos, por vezes, utilizam animais como personagens e a eles\nVan Gogh, pintor holandês nascido em 1853, é\natribuem comportamento humano. O gato Garfield é exemplo desse fato.\num dos principais nomes da pintura mundial. É\ndele o quadro abaixo.\nVAN GOGH\nFonte: Caderno Vida e Arte, Jornal do Povo, Fortaleza\nAuto-retrato de orelha cortada\nO 3º quadrinho sugere que Garfield:\n(A)\ndesconhece tudo sobre arte, por isso faz a sugestão.\n(B)\nacredita que todo pintor deve fazer algo diferente.\n(C)\ndefende que para ser pintor a pessoa tem de sofrer.\n(D)\nconhece a história de um pintor famoso e faz uso da ironia.\n(E)\nacredita que seu dono tenha tendência artística e, por isso, faz a sugestão.",
+   "disciplina": "portugues",
+   "subtopico": "interpretacao-de-texto",
+   "habilidade": "LC-H22",
+   "tema": "Ironia em tirinha do Garfield sobre Van Gogh",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/portugues/interpretacao-de-texto/enem-2000-q059.md"
   },
   {
    "numero": 60,
-   "imagem": "img/enem-2000-q060.webp",
-   "texto": "Um determinado município, representado na planta abaixo, dividido em regiões\nde A a I, com altitudes de terrenos indicadas por curvas de nível, precisa decidir\npela localização das seguintes obras:\n1. instalação de um parque industrial.\n2. instalação de uma torre de transmissão e recepção.\nConsiderando impacto ambiental e adequação, as regiões onde deveriam ser,\nde preferência, instaladas indústrias e torre, são, respectivamente:\n(A)\nE e G.\n(B)\nH e A.\n(C)\nI e E.\n(D)\nB e I.\n(E)\nE e F."
+   "imagem": "questoes/geografia/cartografia-e-escalas/enem-2000-q060.webp",
+   "texto": "Um determinado município, representado na planta abaixo, dividido em regiões\nde A a I, com altitudes de terrenos indicadas por curvas de nível, precisa decidir\npela localização das seguintes obras:\n1. instalação de um parque industrial.\n2. instalação de uma torre de transmissão e recepção.\nConsiderando impacto ambiental e adequação, as regiões onde deveriam ser,\nde preferência, instaladas indústrias e torre, são, respectivamente:\n(A)\nE e G.\n(B)\nH e A.\n(C)\nI e E.\n(D)\nB e I.\n(E)\nE e F.",
+   "disciplina": "geografia",
+   "subtopico": "cartografia-e-escalas",
+   "habilidade": "CH-H6",
+   "tema": "Curvas de nível e localização de obras",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/geografia/cartografia-e-escalas/enem-2000-q060.md"
   },
   {
    "numero": 61,
-   "imagem": "img/enem-2000-q061.webp",
-   "texto": "61\nEncontram-se descritas a seguir algumas das características das águas que\nservem três diferentes regiões.\nRegião I -\nQualidade da água pouco comprometida por cargas poluidoras,\ncasos isolados de mananciais comprometidos por lançamento de\nesgotos; assoreamento de alguns mananciais.\nRegião II - Qualidade comprometida por cargas poluidoras urbanas e\nindustriais; área sujeita a inundações; exportação de carga\npoluidora para outras unidades hidrográficas.\nRegião III - Qualidade comprometida por cargas poluidoras domésticas e\nindustriais e por lançamento de esgotos; problemas isolados de\ninundação; uso da água para irrigação.\nDe acordo com essas características, pode-se concluir que:\n(A)\na região I é de alta densidade populacional, com pouca ou nenhuma\nestação de tratamento de esgoto.\n(B)\nna região I ocorrem tanto atividades agrícolas como industriais, com\npráticas agrícolas que estão evitando a erosão do solo.\n(C)\na região II tem predominância de atividade agrícola, muitas pastagens e\nparque industrial inexpressivo.\n(D)\nna região III ocorrem tanto atividades agrícolas como industriais, com\npouca ou nenhuma estação de tratamento de esgotos.\n(E)\na região III é de intensa concentração industrial e urbana, com solo\nimpermeabilizado e com amplo tratamento de esgotos."
+   "imagem": "questoes/geografia/geografia-ambiental/enem-2000-q061.webp",
+   "texto": "61\nEncontram-se descritas a seguir algumas das características das águas que\nservem três diferentes regiões.\nRegião I -\nQualidade da água pouco comprometida por cargas poluidoras,\ncasos isolados de mananciais comprometidos por lançamento de\nesgotos; assoreamento de alguns mananciais.\nRegião II - Qualidade comprometida por cargas poluidoras urbanas e\nindustriais; área sujeita a inundações; exportação de carga\npoluidora para outras unidades hidrográficas.\nRegião III - Qualidade comprometida por cargas poluidoras domésticas e\nindustriais e por lançamento de esgotos; problemas isolados de\ninundação; uso da água para irrigação.\nDe acordo com essas características, pode-se concluir que:\n(A)\na região I é de alta densidade populacional, com pouca ou nenhuma\nestação de tratamento de esgoto.\n(B)\nna região I ocorrem tanto atividades agrícolas como industriais, com\npráticas agrícolas que estão evitando a erosão do solo.\n(C)\na região II tem predominância de atividade agrícola, muitas pastagens e\nparque industrial inexpressivo.\n(D)\nna região III ocorrem tanto atividades agrícolas como industriais, com\npouca ou nenhuma estação de tratamento de esgotos.\n(E)\na região III é de intensa concentração industrial e urbana, com solo\nimpermeabilizado e com amplo tratamento de esgotos.",
+   "disciplina": "geografia",
+   "subtopico": "geografia-ambiental",
+   "habilidade": "CH-H29",
+   "tema": "Qualidade da água e uso do solo em regiões",
+   "confianca": "media",
+   "obs": "",
+   "arquivo": "questoes/geografia/geografia-ambiental/enem-2000-q061.md"
   },
   {
    "numero": 62,
-   "imagem": "img/enem-2000-q062.webp",
-   "texto": "O metabolismo dos carboidratos é fundamental para o ser humano, pois a\npartir desses compostos orgânicos obtém-se grande parte da energia para\nas funções vitais. Por outro lado, desequilíbrios nesse processo podem\nprovocar hiperglicemia ou diabetes.\nO caminho do açúcar no organismo inicia-se com a ingestão de\ncarboidratos que, chegando ao intestino, sofrem a ação de enzimas,\n“quebrando-se” em moléculas menores (glicose, por exemplo) que serão\nabsorvidas.\nA insulina, hormônio produzido no pâncreas, é responsável por facilitar a\nentrada da glicose nas células. Se uma pessoa produz pouca insulina, ou\nse sua ação está diminuída, dificilmente a glicose pode entrar na célula e\nser consumida.\nCom base nessas informações, pode-se concluir que:\n(A)\no papel realizado pelas enzimas pode ser diretamente substituído pelo\nhormônio insulina.\n(B)\na insulina produzida pelo pâncreas tem um papel enzimático sobre as\nmoléculas de açúcar.\n(C)\no acúmulo de glicose no sangue é provocado pelo aumento da ação da\ninsulina, levando o indivíduo a um quadro clínico de hiperglicemia.\n(D)\na diminuição da insulina circulante provoca um acúmulo de glicose no\nsangue.\n(E)\no principal papel da insulina é manter o nível de glicose suficientemente\nalto, evitando, assim, um quadro clínico de diabetes."
+   "imagem": "questoes/biologia/fisiologia-humana-e-saude/enem-2000-q062.webp",
+   "texto": "O metabolismo dos carboidratos é fundamental para o ser humano, pois a\npartir desses compostos orgânicos obtém-se grande parte da energia para\nas funções vitais. Por outro lado, desequilíbrios nesse processo podem\nprovocar hiperglicemia ou diabetes.\nO caminho do açúcar no organismo inicia-se com a ingestão de\ncarboidratos que, chegando ao intestino, sofrem a ação de enzimas,\n“quebrando-se” em moléculas menores (glicose, por exemplo) que serão\nabsorvidas.\nA insulina, hormônio produzido no pâncreas, é responsável por facilitar a\nentrada da glicose nas células. Se uma pessoa produz pouca insulina, ou\nse sua ação está diminuída, dificilmente a glicose pode entrar na célula e\nser consumida.\nCom base nessas informações, pode-se concluir que:\n(A)\no papel realizado pelas enzimas pode ser diretamente substituído pelo\nhormônio insulina.\n(B)\na insulina produzida pelo pâncreas tem um papel enzimático sobre as\nmoléculas de açúcar.\n(C)\no acúmulo de glicose no sangue é provocado pelo aumento da ação da\ninsulina, levando o indivíduo a um quadro clínico de hiperglicemia.\n(D)\na diminuição da insulina circulante provoca um acúmulo de glicose no\nsangue.\n(E)\no principal papel da insulina é manter o nível de glicose suficientemente\nalto, evitando, assim, um quadro clínico de diabetes.",
+   "disciplina": "biologia",
+   "subtopico": "fisiologia-humana-e-saude",
+   "habilidade": "CN-H14",
+   "tema": "Insulina e metabolismo da glicose",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/biologia/fisiologia-humana-e-saude/enem-2000-q062.md"
   },
   {
    "numero": 63,
-   "imagem": "img/enem-2000-q063.webp",
-   "texto": "63\nOs esgotos domésticos constituem grande ameaça aos ecossistemas de lagos\nou represas, pois deles decorrem graves desequilíbrios ambientais. Considere o\ngráfico abaixo, no qual no intervalo de tempo entre t 1 e t 3 , observou-se a\nestabilidade em ecossistema de lago, modificado a partir de t 3 pelo maior\ndespejo de esgoto.\nAssinale a interpretação que está de acordo com o gráfico.\n(A)\nEntre t 3 e t 6 , a competição pelo oxigênio leva à multiplicação de peixes,\nbactérias e outros produtores.\n(B)\nA partir de t 3 , a decomposição do esgoto é impossibilitada pela\ndiminuição do oxigênio disponível.\n(C)\nA partir de t 6 , a mortandade de peixes decorre da diminuição da\npopulação de produtores.\n(D)\nA mortandade de peixes, a partir de t 6 , é devida à insuficiência de\noxigênio na água.\n(E)\nA partir de t 3 , a produção primária aumenta devido à diminuição dos\nconsumidores."
+   "imagem": "questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q063.webp",
+   "texto": "63\nOs esgotos domésticos constituem grande ameaça aos ecossistemas de lagos\nou represas, pois deles decorrem graves desequilíbrios ambientais. Considere o\ngráfico abaixo, no qual no intervalo de tempo entre t 1 e t 3 , observou-se a\nestabilidade em ecossistema de lago, modificado a partir de t 3 pelo maior\ndespejo de esgoto.\nAssinale a interpretação que está de acordo com o gráfico.\n(A)\nEntre t 3 e t 6 , a competição pelo oxigênio leva à multiplicação de peixes,\nbactérias e outros produtores.\n(B)\nA partir de t 3 , a decomposição do esgoto é impossibilitada pela\ndiminuição do oxigênio disponível.\n(C)\nA partir de t 6 , a mortandade de peixes decorre da diminuição da\npopulação de produtores.\n(D)\nA mortandade de peixes, a partir de t 6 , é devida à insuficiência de\noxigênio na água.\n(E)\nA partir de t 3 , a produção primária aumenta devido à diminuição dos\nconsumidores.",
+   "disciplina": "biologia",
+   "subtopico": "ecologia-e-meio-ambiente",
+   "habilidade": "CN-H10",
+   "tema": "Eutrofização de lago por esgoto doméstico",
+   "confianca": "alta",
+   "obs": "",
+   "arquivo": "questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q063.md"
   }
  ]
 }

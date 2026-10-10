@@ -24,7 +24,7 @@ export default function QuestoesGratis() {
               </div>
               <div className="flex flex-1 items-center justify-center bg-paper p-4">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={q.img} alt={`Questão ${q.numero} do ENEM ${q.ano}, dia ${q.dia}`} loading="lazy" className="max-h-72 w-auto" />
+                <img src={q.img} width={q.w} height={q.h} alt={`Questão ${q.numero} do ENEM ${q.ano}, dia ${q.dia}`} loading="lazy" className="h-auto max-h-72 w-auto max-w-full" />
               </div>
               <div className="flex items-center justify-between gap-3 px-5 py-4">
                 <p className="text-sm text-n5">{q.tema}</p>

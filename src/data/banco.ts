@@ -54,3 +54,33 @@ export const PLANOS: Plano[] = [
 export function mil(n: number): string {
   return `${Math.round(n / 1000)} mil`;
 }
+
+/**
+ * Oferta de lançamento do vestibulinho: primeiros alunos com desconto.
+ * PROPOSTA. Confirmar percentuais e vagas antes de abrir as vendas.
+ * Não há contador de vagas restantes: sem banco de vendas, o número seria inventado.
+ */
+export const OFERTA_VESTIBULINHO = {
+  vagas: 50,
+  mensalidade: 40, // valor cheio, em 12 parcelas
+  parcelas: 12,
+  descontoPrimeiros: 50, // % sobre a mensalidade, só para as primeiras vagas
+  descontoPix: 10, // % à vista no Pix, sobre o total
+};
+
+export function valoresOferta() {
+  const o = OFERTA_VESTIBULINHO;
+  const parcelaOferta = o.mensalidade * (1 - o.descontoPrimeiros / 100);
+  const totalCheio = o.mensalidade * o.parcelas;
+  const totalOferta = parcelaOferta * o.parcelas;
+  const pixOferta = totalOferta * (1 - o.descontoPix / 100);
+  return {
+    parcelaOferta: Math.round(parcelaOferta),
+    parcelaCheia: o.mensalidade,
+    parcelas: o.parcelas,
+    pixOferta: Math.round(pixOferta),
+    totalCheio,
+    descontoPrimeiros: o.descontoPrimeiros,
+    descontoPix: o.descontoPix,
+  };
+}

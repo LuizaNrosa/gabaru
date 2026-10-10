@@ -55,7 +55,7 @@ export function SiteHeader() {
         </div>
       </div>
 
-      <div className="mx-auto flex max-w-7xl items-center gap-6 px-5 sm:px-8">
+      <div className="mx-auto flex max-w-7xl items-center gap-4 px-5 sm:px-8">
         <Link href="/" onClick={fechar} aria-label="GABARU, página inicial" className="flex min-h-16 items-center">
           <Wordmark className="h-auto w-28 text-ink sm:w-32" />
         </Link>
@@ -69,7 +69,7 @@ export function SiteHeader() {
                   aria-expanded={aberto === item.label}
                   aria-haspopup="true"
                   onClick={() => setAberto(aberto === item.label ? null : item.label)}
-                  className="flex min-h-16 items-center gap-1.5 whitespace-nowrap px-3 text-[15px] font-semibold hover:underline"
+                  className="flex min-h-16 items-center gap-1.5 whitespace-nowrap px-2 text-[15px] font-semibold hover:underline"
                 >
                   {item.label}
                   {chev}
@@ -93,7 +93,7 @@ export function SiteHeader() {
                 )}
               </div>
             ) : (
-              <Link key={item.label} href={item.href} className="flex min-h-16 items-center whitespace-nowrap px-3 text-[15px] font-semibold hover:underline">
+              <Link key={item.label} href={item.href} className="flex min-h-16 items-center whitespace-nowrap px-2 text-[15px] font-semibold hover:underline">
                 {item.label}
               </Link>
             ),
@@ -103,7 +103,7 @@ export function SiteHeader() {
         <div className="ml-auto flex items-center gap-2">
           <Link
             href="/login"
-            className="hidden min-h-11 items-center rounded-md whitespace-nowrap bg-gold px-5 text-[15px] font-semibold text-ink hover:opacity-90 sm:inline-flex"
+            className="hidden min-h-11 items-center rounded-md whitespace-nowrap border-2 border-gold px-5 text-[15px] font-semibold text-ink hover:bg-gold-soft sm:inline-flex"
           >
             Área do aluno
           </Link>
@@ -127,7 +127,7 @@ export function SiteHeader() {
           <Link
             href="/login"
             onClick={fechar}
-            className="mt-4 flex min-h-12 items-center justify-center rounded-md whitespace-nowrap bg-gold px-5 font-semibold text-ink"
+            className="mt-4 flex min-h-12 items-center justify-center rounded-md whitespace-nowrap border-2 border-gold px-5 font-semibold text-ink"
           >
             Área do aluno
           </Link>

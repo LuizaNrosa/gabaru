@@ -50,10 +50,10 @@ export default function Home() {
           </div>
           <dl className="grid min-w-0 grid-cols-2 gap-3 sm:gap-4">
             {NUMEROS.map((n) => (
-              <div key={n.texto} className="min-w-0 rounded-xl border border-paper/15 bg-paper/5 p-4 sm:p-5">
+              <div key={n.texto} className="min-w-0 rounded-xl bg-paper p-4 text-ink shadow-md sm:p-5">
                 <dt className="sr-only">{n.texto}</dt>
-                <dd className="whitespace-nowrap font-mono text-2xl font-bold text-gold sm:text-4xl lg:text-5xl">{n.valor}</dd>
-                <dd className="mt-2 text-sm opacity-85">{n.texto}</dd>
+                <dd className="whitespace-nowrap font-mono text-2xl font-bold text-ink sm:text-4xl lg:text-5xl">{n.valor}</dd>
+                <dd className="mt-2 text-sm text-n5">{n.texto}</dd>
               </div>
             ))}
           </dl>
@@ -100,8 +100,9 @@ export default function Home() {
         <div className="rounded-2xl bg-gold-soft p-6 sm:p-12">
           <Eyebrow>Banco de questões</Eyebrow>
           <h2 id="banco" className="mt-3 max-w-3xl text-3xl font-bold leading-tight sm:text-4xl">
-            Questões oficiais, resolvidas e organizadas por habilidade.
+            Questões oficiais, organizadas por disciplina e habilidade.
           </h2>
+          <p className="mt-4 max-w-2xl text-n5">Hoje já estão organizadas <strong className="text-ink">2.127 questões oficiais do ENEM</strong>, cada uma com a sua disciplina, subtópico e habilidade da Matriz.</p>
           <ul className="mt-8 grid gap-6 md:grid-cols-3" role="list">
             <li className="rounded-xl bg-paper p-6">
               <p className="font-mono text-3xl font-bold">{mil(BANCO.oficiais)}</p>

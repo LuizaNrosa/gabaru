@@ -17,6 +17,9 @@
   --color-n4: #6b675f;
   --color-n5: #4a4740;
 
+  --radius-card: 12px;
+  --radius-button: 8px;
+
   --font-sans: "Atkinson Hyperlegible Next", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "Atkinson Hyperlegible Mono", ui-monospace, monospace;
 }

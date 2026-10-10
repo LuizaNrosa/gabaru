@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { MapaHabilidades } from "@/components/mapa-habilidades";
-import { CONTAINER, CartaoLogo, CtaCadastro, CtaSecundario, Eyebrow, FotoUniversidade } from "@/components/ui";
+import { CONTAINER, CtaCadastro, CtaSecundario, Eyebrow, FotoUniversidade } from "@/components/ui";
 import { DISCIPLINAS } from "@/data/disciplinas";
 import { UNIVERSIDADES } from "@/data/universidades";
 import { MATRIZ_ENEM } from "@/data/enem-matriz";
@@ -44,7 +44,7 @@ export default function Home() {
               O maior banco de questões oficiais resolvidas entre os cursinhos online e presenciais, com um cronograma feito para você.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
-              <CtaCadastro texto={EM_CONSTRUCAO ? "Quero ser avisado" : "Começar agora"} />
+              <Link href="/treino" className="inline-flex min-h-12 items-center rounded-md bg-gold px-6 font-semibold text-ink transition hover:-translate-y-0.5 hover:bg-[#f0bd55]">Fazer treino grátis</Link>
               <CtaSecundario href="/planos">Ver planos</CtaSecundario>
             </div>
           </div>

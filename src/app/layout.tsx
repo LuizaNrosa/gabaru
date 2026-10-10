@@ -37,9 +37,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body className="min-h-screen bg-paper pb-16 font-sans text-ink antialiased sm:pb-0">
         <LogoDefs />
+        <a
+          href="#conteudo"
+          className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[60] focus:rounded-md focus:bg-gold focus:px-4 focus:py-2 focus:font-semibold focus:text-ink"
+        >
+          Pular para o conteúdo
+        </a>
         <AuthProvider>
           <SiteHeader />
-          {children}
+          <div id="conteudo" tabIndex={-1} className="outline-none">{children}</div>
           <SiteFooter />
           <TabBar />
         </AuthProvider>

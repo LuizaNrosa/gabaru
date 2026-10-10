@@ -83,7 +83,7 @@ export function CartaoLogo({ src, alt, legenda }: { src: string; alt: string; le
   return (
     <figure className="flex flex-col items-center gap-4 rounded-xl bg-white p-8 text-center shadow-sm ring-1 ring-n2">
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={src} alt={alt} className="h-40 w-40 object-contain" />
+      <img src={src} alt={alt} width={160} height={160} className="h-40 w-40 object-contain" />
       <figcaption className="font-mono text-xs font-bold uppercase tracking-wider text-n4">{legenda}</figcaption>
     </figure>
   );

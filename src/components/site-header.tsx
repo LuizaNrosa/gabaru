@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import { Wordmark } from "@/components/logo";
 import { NAV } from "@/data/nav";
+import { EM_CONSTRUCAO } from "@/lib/construcao";
 
 const chev = (
   <svg viewBox="0 0 12 12" className="size-3" aria-hidden="true" fill="none" stroke="currentColor" strokeWidth="2">
@@ -44,8 +45,8 @@ export function SiteHeader() {
       <div className="bg-ink text-paper">
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-5 py-2 text-[13px] sm:px-8">
           <p className="flex items-center gap-2">
-            <span className="rounded bg-lima px-1.5 py-0.5 font-mono text-[11px] font-bold uppercase text-ink">Abertura</span>
-            <span>Começamos por Matemática e Física. As demais disciplinas já têm lugar reservado.</span>
+            <span className="rounded bg-gold-soft px-1.5 py-0.5 font-mono text-[11px] font-bold uppercase text-ink">Abertura</span>
+            <span>{EM_CONSTRUCAO ? "Em construção: o lançamento é em breve. Crie a conta para ser avisado." : "Começamos por Matemática e Física. As demais disciplinas já têm lugar reservado."}</span>
           </p>
           <nav aria-label="Institucional" className="hidden items-center gap-5 sm:flex">
             <Link href="/sobre" className="hover:underline">Sobre nós</Link>
@@ -68,7 +69,7 @@ export function SiteHeader() {
                   aria-expanded={aberto === item.label}
                   aria-haspopup="true"
                   onClick={() => setAberto(aberto === item.label ? null : item.label)}
-                  className="flex min-h-16 items-center gap-1.5 whitespace-nowrap px-3 text-[15px] font-semibold hover:text-rosa"
+                  className="flex min-h-16 items-center gap-1.5 whitespace-nowrap px-3 text-[15px] font-semibold hover:underline"
                 >
                   {item.label}
                   {chev}
@@ -92,7 +93,7 @@ export function SiteHeader() {
                 )}
               </div>
             ) : (
-              <Link key={item.label} href={item.href} className="flex min-h-16 items-center whitespace-nowrap px-3 text-[15px] font-semibold hover:text-rosa">
+              <Link key={item.label} href={item.href} className="flex min-h-16 items-center whitespace-nowrap px-3 text-[15px] font-semibold hover:underline">
                 {item.label}
               </Link>
             ),
@@ -102,7 +103,7 @@ export function SiteHeader() {
         <div className="ml-auto flex items-center gap-2">
           <Link
             href="/login"
-            className="hidden min-h-11 items-center rounded-md bg-rosa px-5 text-[15px] font-semibold text-white hover:opacity-90 sm:inline-flex"
+            className="hidden min-h-11 items-center rounded-md bg-gold px-5 text-[15px] font-semibold text-white hover:opacity-90 sm:inline-flex"
           >
             Área do aluno
           </Link>
@@ -126,7 +127,7 @@ export function SiteHeader() {
           <Link
             href="/login"
             onClick={fechar}
-            className="mt-4 flex min-h-12 items-center justify-center rounded-md bg-rosa px-5 font-semibold text-white"
+            className="mt-4 flex min-h-12 items-center justify-center rounded-md bg-gold px-5 font-semibold text-white"
           >
             Área do aluno
           </Link>

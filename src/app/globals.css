@@ -1,14 +1,14 @@
 @import "tailwindcss";
 
-/* Paleta "mesa de estudo": papel, caneta e marca-texto.
-   Proporção alvo: 90% papel e tinta, 8% lima (grifo), 2% rosa (ação).
-   Regras: lima só como fundo atrás de texto ink. Rosa só em ação e no "Gabaritou".
-   Rosa e lima nunca se encostam. Erro usa anil + forma, nunca vermelho. */
+/* Paleta "biblioteca noturna": papel quente, azul-marinho e dourado.
+   Proporção alvo: 60% papel, 30% marinho (estrutura), 10% dourado (ação e destaque).
+   Regras: dourado é fundo de ação com texto marinho. Dourado-claro só atrás de texto ink.
+   Anil marca erro e revisão. Erro nunca usa vermelho. */
 @theme {
-  --color-paper: #f7f4ee;
-  --color-ink: #16161d;
-  --color-rosa: #c8105f;
-  --color-lima: #c8f53c;
+  --color-paper: #f7f5f0;
+  --color-ink: #0e1a2b;
+  --color-gold: #e3a93b;
+  --color-gold-soft: #f5e2b3;
   --color-anil: #3b3fb6;
 
   --color-n1: #e9e5dc;
@@ -36,13 +36,13 @@ body {
 }
 
 mark {
-  background: var(--color-lima);
+  background: var(--color-gold-soft);
   color: var(--color-ink);
   padding: 0 0.15em;
 }
 
 a {
-  text-decoration-color: var(--color-rosa);
+  text-decoration-color: var(--color-gold);
   text-underline-offset: 3px;
 }
 

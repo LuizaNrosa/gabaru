@@ -48,7 +48,7 @@ export default function PainelPage() {
               <button
                 onClick={assinar}
                 disabled={enviando}
-                className="min-h-12 rounded-md bg-rosa px-6 font-semibold text-white hover:opacity-90 disabled:opacity-50"
+                className="min-h-12 rounded-md bg-gold px-6 font-semibold text-white hover:opacity-90 disabled:opacity-50"
               >
                 {enviando ? "Aguarde..." : "Assinar"}
               </button>

@@ -31,7 +31,7 @@ export function CtaCadastro({ texto = "Criar conta" }: { texto?: string }) {
   return (
     <Link
       href="/cadastro"
-      className="inline-flex min-h-12 items-center rounded-md bg-gold px-6 font-semibold text-ink shadow-[0_1px_0_rgba(0,0,0,.08)] transition hover:brightness-95"
+      className="inline-flex min-h-12 items-center rounded-md bg-gold px-6 font-semibold text-ink shadow-[0_1px_0_rgba(0,0,0,.08)] transition hover:-translate-y-0.5 hover:bg-[#f0bd55] hover:shadow-md"
     >
       {texto}
     </Link>

@@ -46,6 +46,19 @@ export function CtaSecundario({ href, children }: { href: string; children: Reac
   );
 }
 
+/** Garantia de 7 dias. Texto de referência: confirmar com o jurídico antes da venda. */
+export function GarantiaSeteDias() {
+  return (
+    <div className="flex items-start gap-4 rounded-xl border border-n2 bg-white/70 p-5 sm:p-6">
+      <span aria-hidden="true" className="grid size-11 shrink-0 place-items-center rounded-full bg-gold-soft font-mono text-lg font-bold text-ink">7</span>
+      <div>
+        <p className="font-bold">Garantia de 7 dias</p>
+        <p className="mt-1 text-sm text-n5">Se você não gostar nos primeiros 7 dias, devolvemos o valor integral. Sem burocracia.</p>
+      </div>
+    </div>
+  );
+}
+
 export function FotoUniversidade({ arquivo, nome, cidade, href }: { arquivo: string; nome: string; cidade: string; href?: string }) {
   const card = (
     <figure

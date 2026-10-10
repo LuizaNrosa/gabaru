@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { CONTAINER, CtaCadastro, Eyebrow, PageHero } from "@/components/ui";
 import { PLANOS } from "@/data/banco";
+import { EM_CONSTRUCAO } from "@/lib/construcao";
 
 export const metadata: Metadata = {
   title: "Planos",
@@ -52,8 +53,8 @@ export default function Planos() {
         </ul>
 
         <div className="mt-10 flex flex-wrap items-center gap-4">
-          <CtaCadastro texto="Criar conta e escolher o plano" />
-          <p className="text-sm text-n4">Confira os valores antes de contratar.</p>
+          <CtaCadastro texto={EM_CONSTRUCAO ? "Quero ser avisado do lançamento" : "Criar conta e escolher o plano"} />
+          <p className="text-sm text-n4">{EM_CONSTRUCAO ? "Valores previstos para o lançamento. Ainda não há vendas." : "Confira os valores antes de contratar."}</p>
         </div>
       </section>
 

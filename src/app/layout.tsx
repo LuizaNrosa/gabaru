@@ -3,6 +3,7 @@ import { AuthProvider } from "@/context/auth-context";
 import { LogoDefs } from "@/components/logo";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
+import { TabBar } from "@/components/tab-bar";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -34,12 +35,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           rel="stylesheet"
         />
       </head>
-      <body className="min-h-screen bg-paper font-sans text-ink antialiased">
+      <body className="min-h-screen bg-paper pb-16 font-sans text-ink antialiased sm:pb-0">
         <LogoDefs />
         <AuthProvider>
           <SiteHeader />
           {children}
           <SiteFooter />
+          <TabBar />
         </AuthProvider>
       </body>
     </html>

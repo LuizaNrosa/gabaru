@@ -5,6 +5,7 @@ import { DISCIPLINAS } from "@/data/disciplinas";
 import { UNIVERSIDADES } from "@/data/universidades";
 import { MATRIZ_ENEM } from "@/data/enem-matriz";
 import { BANCO, PLANOS, mil } from "@/data/banco";
+import { EM_CONSTRUCAO } from "@/lib/construcao";
 
 const totalHabilidades = Object.values(MATRIZ_ENEM).reduce((n, a) => n + a.habilidades.length, 0);
 
@@ -35,7 +36,7 @@ export default function Home() {
       <section className={`${CONTAINER} pt-6 sm:pt-10`}>
         <div className="grid grid-cols-1 gap-10 rounded-2xl bg-ink p-6 text-paper sm:p-12 lg:grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)] lg:items-center">
           <div>
-            <Eyebrow claro>Preparação para aprovação</Eyebrow>
+            <Eyebrow claro>{EM_CONSTRUCAO ? "Em construção" : "Preparação para aprovação"}</Eyebrow>
             <h1 className="mt-4 max-w-2xl text-4xl font-bold leading-[1.06] tracking-tight sm:text-6xl">
               Resolva o que cai na <span className="text-gold">sua prova</span>.
             </h1>
@@ -43,7 +44,7 @@ export default function Home() {
               O maior banco de questões oficiais resolvidas entre os cursinhos online e presenciais, com um cronograma feito para você.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
-              <CtaCadastro texto="Começar agora" />
+              <CtaCadastro texto={EM_CONSTRUCAO ? "Quero ser avisado" : "Começar agora"} />
               <CtaSecundario href="/planos">Ver planos</CtaSecundario>
             </div>
           </div>

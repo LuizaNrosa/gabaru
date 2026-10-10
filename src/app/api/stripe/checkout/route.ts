@@ -2,6 +2,7 @@ import { NextResponse } from "next/server";
 import { verifyRequestUser } from "@/lib/firebase/admin";
 import { getStripe } from "@/lib/stripe";
 import { limitar, origemPermitida } from "@/lib/seguranca";
+import { EM_CONSTRUCAO } from "@/lib/construcao";
 
 export const runtime = "nodejs";
 
@@ -10,6 +11,9 @@ export const runtime = "nodejs";
  * Ajuste `mode` para "subscription" se STRIPE_PRICE_ID for um preço recorrente.
  */
 export async function POST(req: Request) {
+  if (EM_CONSTRUCAO) {
+    return NextResponse.json({ error: "As vendas abrem no lançamento." }, { status: 503 });
+  }
   if (!origemPermitida(req)) {
     return NextResponse.json({ error: "Origem não permitida." }, { status: 403 });
   }

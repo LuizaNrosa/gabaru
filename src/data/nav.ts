@@ -23,6 +23,7 @@ export const NAV: NavItem[] = [
     ],
   },
   { label: "ENEM", href: "/enem" },
+  { label: "Questões grátis", href: "/questoes-gratis" },
   {
     label: "Vestibulares paulistas",
     href: "/pre-vestibular#paulistas",

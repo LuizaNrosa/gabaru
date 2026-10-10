@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { CONTAINER, CtaCadastro, Eyebrow, PageHero } from "@/components/ui";
+import { CONTAINER, CtaCadastro, Eyebrow, GarantiaSeteDias, PageHero } from "@/components/ui";
 import { PLANOS } from "@/data/banco";
 import { EM_CONSTRUCAO } from "@/lib/construcao";
 
@@ -56,6 +56,10 @@ export default function Planos() {
           <CtaCadastro texto={EM_CONSTRUCAO ? "Quero ser avisado do lançamento" : "Criar conta e escolher o plano"} />
           <p className="text-sm text-n4">{EM_CONSTRUCAO ? "Valores previstos para o lançamento. Ainda não há vendas." : "Confira os valores antes de contratar."}</p>
         </div>
+      </section>
+
+      <section className={`${CONTAINER} pt-12`}>
+        <div className="max-w-2xl"><GarantiaSeteDias /></div>
       </section>
 
       <section className={`${CONTAINER} pt-20`}>

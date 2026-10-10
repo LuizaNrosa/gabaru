@@ -69,7 +69,7 @@ export function AuthForm({ modo }: { modo: "login" | "cadastro" }) {
       <button
         type="submit"
         disabled={enviando || !available}
-        className="min-h-12 rounded-md bg-gold px-6 font-semibold text-white hover:opacity-90 disabled:opacity-50"
+        className="min-h-12 rounded-md bg-gold px-6 font-semibold text-ink hover:opacity-90 disabled:opacity-50"
       >
         {enviando ? "Aguarde..." : cadastro ? "Criar conta" : "Entrar"}
       </button>

@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { CONTAINER, CartaoLogo, CtaCadastro, Eyebrow, FotoUniversidade } from "@/components/ui";
+import { CONTAINER, CartaoLogo, CtaCadastro, Eyebrow, FotoUniversidade, GarantiaSeteDias } from "@/components/ui";
 import { provasDa } from "@/data/provas";
 import { UNIVERSIDADES } from "@/data/universidades";
 import { OFERTA_VESTIBULINHO, valoresOferta } from "@/data/banco";
@@ -85,6 +85,7 @@ export default function PreVestibulinho() {
               <li className="flex gap-2"><span aria-hidden="true" className="text-anil">✓</span>Revisão automática dos erros</li>
             </ul>
             <div className="mt-6"><CtaCadastro texto={cta} /></div>
+            <div className="mt-6"><GarantiaSeteDias /></div>
           </div>
         </div>
       </section>

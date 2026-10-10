@@ -103,7 +103,7 @@ export function SiteHeader() {
         <div className="ml-auto flex items-center gap-2">
           <Link
             href="/login"
-            className="hidden min-h-11 items-center rounded-md bg-gold px-5 text-[15px] font-semibold text-white hover:opacity-90 sm:inline-flex"
+            className="hidden min-h-11 items-center rounded-md whitespace-nowrap bg-gold px-5 text-[15px] font-semibold text-ink hover:opacity-90 sm:inline-flex"
           >
             Área do aluno
           </Link>
@@ -127,7 +127,7 @@ export function SiteHeader() {
           <Link
             href="/login"
             onClick={fechar}
-            className="mt-4 flex min-h-12 items-center justify-center rounded-md bg-gold px-5 font-semibold text-white"
+            className="mt-4 flex min-h-12 items-center justify-center rounded-md whitespace-nowrap bg-gold px-5 font-semibold text-ink"
           >
             Área do aluno
           </Link>

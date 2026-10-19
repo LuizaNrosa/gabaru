@@ -1,0 +1,25 @@
+export const colors = {
+  paper: "#f8f8f2",
+  ink: "#123d35",
+  muted: "#52645a",
+  line: "#cad5c7",
+  accent: "#d7ee79",
+  surface: "#eaf1df",
+  white: "#fff",
+};
+export const subjects: Record<string, string> = {
+  matematica: "Matemática",
+  fisica: "Física",
+  portugues: "Português",
+  biologia: "Biologia",
+  quimica: "Química",
+  historia: "História",
+  geografia: "Geografia",
+  literatura: "Literatura",
+  ingles: "Inglês",
+  espanhol: "Espanhol",
+  filosofia: "Filosofia",
+  sociologia: "Sociologia",
+  artes: "Artes",
+  interdisciplinar: "Interdisciplinar",
+};

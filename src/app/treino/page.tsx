@@ -3,7 +3,8 @@ import { TreinoApp } from "@/components/treino-app";
 
 export const metadata: Metadata = {
   title: "Treino grátis: questões oficiais do ENEM",
-  description: "Treine com questões oficiais do ENEM, escolhendo quantas quer fazer hoje e a disciplina. Sem cadastro para começar.",
+  description:
+    "Treine com questões oficiais do ENEM, escolhendo quantas quer fazer hoje e a disciplina. Sem cadastro para começar.",
 };
 
 export default function Treino() {

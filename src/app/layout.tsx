@@ -14,8 +14,13 @@ export const metadata: Metadata = {
   description:
     "Matemática e física para ETEC, Coluni, ENEM, FUVEST, UNICAMP, UNESP, ITA, IME e concursos.",
   // Enquanto o site está em construção, buscadores não indexam. Para liberar: NEXT_PUBLIC_INDEXAR=1 no Render.
-  robots: process.env.NEXT_PUBLIC_INDEXAR === "1" ? { index: true, follow: true } : { index: false, follow: false },
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://gabaru.com.br"),
+  robots:
+    process.env.NEXT_PUBLIC_INDEXAR === "1"
+      ? { index: true, follow: true }
+      : { index: false, follow: false },
+  metadataBase: new URL(
+    process.env.NEXT_PUBLIC_SITE_URL ?? "https://gabaru.com.br",
+  ),
 };
 
 export const viewport: Viewport = {
@@ -24,12 +29,20 @@ export const viewport: Viewport = {
   themeColor: "#f7f4ee",
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html lang="pt-BR">
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin=""
+        />
         <link
           href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@200..800&family=Atkinson+Hyperlegible+Mono:wght@200..800&display=swap"
           rel="stylesheet"
@@ -45,7 +58,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </a>
         <AuthProvider>
           <SiteHeader />
-          <div id="conteudo" tabIndex={-1} className="outline-none">{children}</div>
+          <div id="conteudo" tabIndex={-1} className="outline-none">
+            {children}
+          </div>
           <SiteFooter />
           <TabBar />
         </AuthProvider>

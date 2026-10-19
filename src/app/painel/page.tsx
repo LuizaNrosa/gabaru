@@ -1,69 +1,68 @@
 "use client";
-
+import Link from "next/link";
+import { useEffect } from "react";
 import { useRouter } from "next/navigation";
-import { useEffect, useState } from "react";
-import { friendlyAuthError, useAuth } from "@/context/auth-context";
-import { getClientAuth } from "@/lib/firebase/client";
-
-export default function PainelPage() {
+import { useAuth } from "@/context/auth-context";
+export default function Page() {
   const { user, loading, signOut } = useAuth();
   const router = useRouter();
-  const [erro, setErro] = useState<string | null>(null);
-  const [enviando, setEnviando] = useState(false);
-
   useEffect(() => {
     if (!loading && !user) router.replace("/login");
   }, [loading, user, router]);
-
-  async function assinar() {
-    setErro(null);
-    setEnviando(true);
-    try {
-      const token = await getClientAuth().currentUser?.getIdToken();
-      const res = await fetch("/api/stripe/checkout", {
-        method: "POST",
-        headers: { Authorization: `Bearer ${token}` },
-      });
-      const data = await res.json();
-      if (!res.ok || !data.url) throw new Error(data.error ?? "checkout");
-      window.location.href = data.url;
-    } catch (err) {
-      setErro(friendlyAuthError(err));
-      setEnviando(false);
-    }
-  }
-
   return (
-    <>
-      <main className="mx-auto w-full max-w-2xl px-5 pt-16">
-        {loading || !user ? (
-          <p className="text-n5">Carregando...</p>
-        ) : (
-          <>
-            <h1 className="text-3xl font-bold">
-              Olá{user.displayName ? `, ${user.displayName}` : ""}.
-            </h1>
-            <p className="mt-2 text-n5">{user.email}</p>
-            <div className="mt-8 flex flex-wrap gap-3">
-              <button
-                onClick={assinar}
-                disabled={enviando}
-                className="min-h-12 rounded-md bg-gold px-6 font-semibold text-ink hover:opacity-90 disabled:opacity-50"
-              >
-                {enviando ? "Aguarde..." : "Assinar"}
-              </button>
-              <button onClick={() => signOut().then(() => router.push("/"))} className="min-h-12 rounded-md border border-ink px-6 font-semibold">
-                Sair
-              </button>
-            </div>
-            {erro && (
-              <p role="alert" className="mt-4 rounded-md border-l-4 border-anil bg-white p-3 text-anil">
-                {erro}
+    <main className="gb-container gb-dashboard">
+      {loading || !user ? (
+        <p role="status">Carregando sua área…</p>
+      ) : (
+        <>
+          <p className="gb-eyebrow">ÁREA DO ALUNO</p>
+          <h1 className="mt-4">
+            Olá{user.displayName ? `, ${user.displayName}` : ""}.
+          </h1>
+          <p className="mt-3 text-n5">
+            Um passo de cada vez. Escolha seu ponto de partida.
+          </p>
+          <div className="gb-content-grid mt-9">
+            <article className="gb-content-card">
+              <p className="gb-eyebrow">DISPONÍVEL</p>
+              <h2>Seu treino de hoje</h2>
+              <p>
+                Escolha uma disciplina e pratique com questões ENEM. As
+                respostas ainda não são salvas na conta.
               </p>
-            )}
-          </>
-        )}
-      </main>
-    </>
+              <Link href="/treino" className="gb-button">
+                Iniciar treino ↗
+              </Link>
+            </article>
+            <article className="gb-content-card">
+              <p className="gb-eyebrow">EM DESENVOLVIMENTO</p>
+              <h2>Sua evolução</h2>
+              <p>
+                Acertos, tempo de estudo e histórico aparecerão aqui quando o
+                registro de sessões e os gabaritos estiverem integrados.
+              </p>
+            </article>
+            <article className="gb-content-card">
+              <p className="gb-eyebrow">CONHECER</p>
+              <h2>Encontre seu caminho</h2>
+              <p>
+                Explore os temas e as instituições que fazem parte do projeto.
+              </p>
+              <Link href="/pre-vestibulinho">Vestibulinhos ↗</Link>
+              <Link href="/pre-vestibular">ENEM e vestibulares ↗</Link>
+            </article>
+          </div>
+          <div className="mt-9 flex flex-wrap items-center gap-5">
+            <p className="text-sm text-n5">{user.email}</p>
+            <button
+              className="gb-login"
+              onClick={() => signOut().then(() => router.push("/"))}
+            >
+              Sair da conta
+            </button>
+          </div>
+        </>
+      )}
+    </main>
   );
 }

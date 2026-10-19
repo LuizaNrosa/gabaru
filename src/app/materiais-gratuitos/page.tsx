@@ -1,31 +1,48 @@
-import type { Metadata } from "next";
-import { Badge, CONTAINER, PageHero } from "@/components/ui";
-
-export const metadata: Metadata = { title: "Materiais gratuitos" };
-
-const ITENS = [
-  ["Questões resolvidas", "Questões com resolução passo a passo e a habilidade do ENEM de cada uma."],
-  ["Resumos por tema", "Uma página por assunto, com o que cai e como cai."],
-  ["Simulado de diagnóstico", "Descubra por onde começar o seu plano de estudo."],
-  ["Guia das provas", "A estrutura de cada vestibular e vestibulinho, em linguagem simples."],
-];
-
-export default function Materiais() {
+import Link from "next/link";
+import { PageHero, CONTAINER } from "@/components/ui";
+import { OFFICIAL_SOURCES } from "@/data/official-sources";
+export const metadata = { title: "Materiais gratuitos e fontes oficiais" };
+export default function Page() {
   return (
     <main>
-      <PageHero eyebrow="Materiais gratuitos" titulo={<>Comece a estudar sem <mark>pagar</mark>.</>}>
-        <p>Estamos preparando o conteúdo aberto, começando por Matemática e Física. Enquanto isso, a primeira questão da página inicial já funciona sem cadastro.</p>
+      <PageHero
+        eyebrow="Materiais gratuitos"
+        titulo={
+          <>
+            Conhecimento começa
+            <br />
+            <mark>com uma boa fonte.</mark>
+          </>
+        }
+      >
+        <p>
+          Acesse o treino aberto do Gabaru e os acervos das instituições
+          responsáveis pelos exames.
+        </p>
       </PageHero>
-      <section className={`${CONTAINER} pt-12`}>
-        <ul className="grid gap-4 md:grid-cols-2" role="list">
-          {ITENS.map(([t, d]) => (
-            <li key={t} className="rounded-lg border border-n2 bg-white/60 p-6">
-              <Badge status="em-breve" />
-              <h2 className="mt-3 text-xl font-bold">{t}</h2>
-              <p className="mt-2 text-n5">{d}</p>
-            </li>
+      <section className={`${CONTAINER} py-10`}>
+        <div className="gb-notice mb-8">
+          Os links abaixo levam às instituições. Eles não significam que todas
+          essas provas já foram importadas ao Gabaru.
+        </div>
+        <div className="gb-content-grid">
+          {OFFICIAL_SOURCES.map((s) => (
+            <article className="gb-content-card" key={s.name}>
+              <h2>{s.name}</h2>
+              <p>{s.scope}</p>
+              <a href={s.url} target="_blank" rel="noopener noreferrer">
+                Abrir fonte oficial ↗{" "}
+                <span className="sr-only">em nova aba</span>
+              </a>
+            </article>
           ))}
-        </ul>
+        </div>
+        <Link href="/treino" className="gb-button mt-8">
+          Abrir treino gratuito ↗
+        </Link>
+        <p className="mt-6 text-sm text-n5">
+          Resumos, videoaulas e simulados corrigidos ainda estão em preparação.
+        </p>
       </section>
     </main>
   );

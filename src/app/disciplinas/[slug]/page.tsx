@@ -1,3 +1,5 @@
+import Link from "next/link";
+import { questionCatalog } from "@/lib/questions";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Badge, CONTAINER, CtaCadastro, PageHero } from "@/components/ui";
@@ -21,19 +23,35 @@ export default async function DisciplinaPage({ params }: Props) {
     <main>
       <PageHero eyebrow="Disciplina" titulo={d.nome}>
         <p>{d.resumo}</p>
-        <p className="mt-4"><Badge status={d.status} /></p>
+        <p className="mt-4 text-sm">
+          {questionCatalog.disciplines.find((x) => x.slug === d.slug)?.count ??
+            0}{" "}
+          questões ENEM no treino atual. Aulas e materiais em preparação.
+        </p>
       </PageHero>
       <section className={`${CONTAINER} pt-10`}>
         <div className="max-w-2xl">
           <h2 className="text-2xl font-bold">O que vamos cobrir</h2>
           <ul className="mt-4 grid gap-2" role="list">
-            {d.topicos.map((t) => <li key={t} className="border-l-2 border-ink pl-4 text-n5">{t}</li>)}
+            {d.topicos.map((t) => (
+              <li key={t} className="border-l-2 border-ink pl-4 text-n5">
+                {t}
+              </li>
+            ))}
           </ul>
         </div>
       </section>
       <section className={`${CONTAINER} pt-12`}>
-        {d.status === "em-breve" && <p className="mb-6 max-w-2xl text-n5">Esta disciplina já tem lugar na plataforma e abre depois de Matemática e Física. Crie a conta para ser avisado.</p>}
-        <CtaCadastro />
+        {d.status === "em-breve" && (
+          <p className="mb-6 max-w-2xl text-n5">
+            Esta disciplina já tem lugar na plataforma e abre depois de
+            Matemática e Física. Os materiais serão apresentados nesta página
+            quando disponíveis.
+          </p>
+        )}
+        <Link href={`/treino?disciplina=${d.slug}`} className="gb-button">
+          Ver questões desta disciplina ↗
+        </Link>
       </section>
     </main>
   );

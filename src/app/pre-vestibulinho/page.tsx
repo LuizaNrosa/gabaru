@@ -22,7 +22,7 @@ export default function Page() {
           fazem parte do foco do Gabaru. Cada processo seletivo exige preparação
           própria.
         </p>
-      </PageHero><section className={`${CONTAINER} py-8`}><div className="gb-notice"><h2 className="gb-section-title">ETEC · 150 questões oficiais</h2><p className="mt-3">Resolva as provas de 2026/2, 2026/1 e 2025/1: cadernos completos, 50 questões por edição e correção pelo gabarito oficial.</p><Link href="/provas/etec/2026-2" className="gb-button mt-5">Escolher prova e começar ↗</Link></div></section>
+      </PageHero><section className={`${CONTAINER} py-8`}><div className="gb-notice"><h2 className="gb-section-title">ETEC · acervo de provas oficiais</h2><p className="mt-3">Explore 41 provas de 2006 a 2026, com 1.990 questões, cadernos integrais e gabaritos oficiais.</p><Link href="/provas/etec" className="gb-button mt-5">Escolher prova e começar ↗</Link></div></section>
       <section className={`${CONTAINER} py-10`}>
         <p className="gb-notice mb-8">
           As trilhas específicas estão em construção. O treino disponível hoje

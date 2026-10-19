@@ -1,0 +1,12 @@
+"use client";
+import {useState} from "react";
+import {ETEC_2026_2 as exam} from "@/data/etec-2026-2";
+export function EtecAnswerSheet(){
+ const [answers,setAnswers]=useState<Record<number,string>>({});const [done,setDone]=useState(false);
+ const filled=Object.keys(answers).length;const correct=Object.entries(answers).filter(([n,a])=>exam.answerKey[Number(n)-1]===a).length;
+ return <section className="mt-10" aria-labelledby="sheet-title"><h2 id="sheet-title" className="gb-section-title">Sua folha de respostas</h2><p className="mt-3 text-n5">Consulte o caderno oficial em outra aba, marque suas alternativas e confira ao terminar. Suas marcações ficam apenas nesta página e se perdem ao recarregar.</p>
+ <p className="mt-5 font-semibold" role="status">{filled} de 50 respondidas</p>
+ <div className="mt-5 grid gap-4 sm:grid-cols-2">{Array.from({length:50},(_,i)=>i+1).map(n=><fieldset className="rounded-md border border-n2 bg-white/60 p-4" key={n}><legend className="px-2 font-semibold">Questão {String(n).padStart(2,"0")}</legend><div className="grid grid-cols-5 gap-2">{['A','B','C','D','E'].map(letter=><label key={letter} className={`flex min-h-12 cursor-pointer items-center justify-center gap-1 rounded border px-1 ${answers[n]===letter?'border-ink bg-ink text-paper':'border-n2 bg-paper text-ink'}`}><input type="radio" name={`etec-${n}`} value={letter} checked={answers[n]===letter} disabled={done} onChange={()=>setAnswers(a=>({...a,[n]:letter}))} aria-label={`Questão ${n}, alternativa ${letter}`} /><span>{letter}</span></label>)}</div>{done&&<p className="mt-3 text-sm">{!answers[n]?'Não respondida':answers[n]===exam.answerKey[n-1]?'Acertou':'Rever'} · Gabarito oficial: <strong>{exam.answerKey[n-1]}</strong></p>}</fieldset>)}</div>
+ {!done?<button className="gb-button mt-7" disabled={!filled} onClick={()=>setDone(true)}>Conferir {filled} respostas ↗</button>:<div className="gb-notice mt-7" role="status"><h3 className="text-xl font-semibold">{correct} acertos de 50 questões</h3><p className="mt-2">{filled-correct} respostas divergentes e {50-filled} não respondidas. Esta é uma conferência de estudo, não uma nota oficial ou classificação. Não aplica pontuação acrescida, critérios de desempate ou bonificações.</p><p className="mt-2">Resoluções comentadas ainda não estão disponíveis. Compare com o documento oficial, que prevalece em caso de retificação.</p><button className="gb-login mt-4" onClick={()=>{setDone(false);setAnswers({})}}>Limpar e tentar novamente</button></div>}
+ </section>
+}

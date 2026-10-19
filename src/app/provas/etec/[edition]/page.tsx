@@ -1,0 +1,8 @@
+import type {Metadata} from "next";
+import Link from "next/link";
+import {notFound} from "next/navigation";
+import exams from "@/data/etec-exams.json";
+import {EtecExamReader} from "@/components/etec-exam-reader";
+export function generateStaticParams(){return exams.map(e=>({edition:e.id}));}
+export async function generateMetadata({params}:{params:Promise<{edition:string}>}):Promise<Metadata>{const {edition}=await params;const e=exams.find(x=>x.id===edition);return {title:e?`${e.title}: 50 questões e gabarito oficial`:"Prova ETEC",description:"Resolva a prova oficial com figuras e textos originais e confira suas respostas no Gabaru."};}
+export default async function Page({params}:{params:Promise<{edition:string}>}){const {edition}=await params;const e=exams.find(x=>x.id===edition);if(!e)notFound();return <main className="gb-container py-10"><Link href="/pre-vestibulinho" className="gb-text-link">← Vestibulinhos</Link><p className="gb-eyebrow mt-8">ACERVO OFICIAL · ETEC</p><h1 className="gb-page-title">{e.title}</h1><p className="mt-5 text-lg text-n5">50 questões. Caderno integral e correção pelo gabarito oficial.</p><div className="gb-actions"><a className="gb-button-secondary" href={`/acervo/etec/${e.id}/prova.pdf`} target="_blank" rel="noopener noreferrer">Baixar caderno PDF ↗</a><a className="gb-button-secondary" href={e.answerUrl} target="_blank" rel="noopener noreferrer">Gabarito na fonte ↗</a><a className="gb-text-link" href={e.source} target="_blank" rel="noopener noreferrer">Fonte: Vestibulinho ETEC / CPS / FAT ↗</a></div><EtecExamReader key={e.id} id={e.id}/></main>}

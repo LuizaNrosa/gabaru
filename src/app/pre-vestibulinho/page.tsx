@@ -22,7 +22,7 @@ export default function Page() {
           fazem parte do foco do Gabaru. Cada processo seletivo exige preparação
           própria.
         </p>
-      </PageHero>
+      </PageHero><section className={`${CONTAINER} py-8`}><div className="gb-notice"><h2 className="gb-section-title">ETEC · 2º semestre de 2026</h2><p className="mt-3">Abra a prova oficial e confira suas 50 respostas com o gabarito publicado pela instituição.</p><Link href="/provas/etec/2026-2" className="gb-button mt-5">Abrir prova e folha de respostas ↗</Link></div></section>
       <section className={`${CONTAINER} py-10`}>
         <p className="gb-notice mb-8">
           As trilhas específicas estão em construção. O treino disponível hoje

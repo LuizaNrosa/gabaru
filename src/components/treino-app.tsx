@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
-import { CtaCadastro } from "@/components/ui";
+
 
 type Questao = {
   id: string;
@@ -176,7 +176,7 @@ export function TreinoApp() {
         </div>
 
         <p className="mt-6 text-sm text-n4">
-          A correção automática entra quando os gabaritos oficiais forem publicados. Até lá, você responde e vê a explicação de cada questão.
+          A correção automática entra quando os gabaritos oficiais forem publicados. Por enquanto, você seleciona respostas e conclui a sessão, sem correção ou explicações.
         </p>
       </div>
     );
@@ -187,9 +187,9 @@ export function TreinoApp() {
       <div className="text-center">
         <p className="font-mono text-xs font-bold uppercase tracking-[0.14em] text-n4">Treino concluído</p>
         <h1 className="mt-3 text-4xl font-bold tracking-tight sm:text-5xl">Você fez {respondidas} questões.</h1>
-        <p className="mx-auto mt-4 max-w-md text-lg text-n5">Crie sua conta para guardar o progresso, retomar o treino de amanhã e montar o seu cronograma.</p>
+        <p className="mx-auto mt-4 max-w-md text-lg text-n5">Sua sessão foi concluída. O histórico e o plano individual ainda estão em desenvolvimento; as respostas desta sessão não são salvas.</p>
         <div className="mt-8 flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
-          <CtaCadastro texto="Salvar meu progresso" />
+          <Link href="/" className="gb-button">Voltar ao início</Link>
           <button
             type="button"
             onClick={() => setFase("escolha")}

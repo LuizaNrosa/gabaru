@@ -1,4 +1,9 @@
-export type Categoria = "vestibulinho" | "vestibular-paulista" | "enem" | "militar" | "concurso";
+export type Categoria =
+  | "vestibulinho"
+  | "vestibular-paulista"
+  | "enem"
+  | "militar"
+  | "concurso";
 
 export type Prova = {
   slug: string;
@@ -16,7 +21,10 @@ export type Prova = {
 
 export const CATEGORIAS: Record<Categoria, { nome: string; href: string }> = {
   vestibulinho: { nome: "Pré-vestibulinho", href: "/pre-vestibulinho" },
-  "vestibular-paulista": { nome: "Vestibulares paulistas", href: "/pre-vestibular" },
+  "vestibular-paulista": {
+    nome: "Vestibulares paulistas",
+    href: "/pre-vestibular",
+  },
   enem: { nome: "ENEM", href: "/enem" },
   militar: { nome: "ITA, IME e militares", href: "/pre-vestibular" },
   concurso: { nome: "Concursos", href: "/concursos" },
@@ -28,14 +36,21 @@ export const PROVAS: Prova[] = [
     nome: "ETEC",
     completo: "Vestibulinho das Etecs (Centro Paula Souza)",
     categoria: "vestibulinho",
-    resumo: "Porta de entrada do ensino técnico e médio técnico no estado de São Paulo.",
+    resumo:
+      "Porta de entrada do ensino técnico e médio técnico no estado de São Paulo.",
     estrutura: [
       "Prova objetiva, de múltipla escolha.",
       "Língua Portuguesa: interpretação, gramática e vocabulário.",
       "Matemática: operações, geometria, equações, proporcionalidade e raciocínio lógico.",
       "Conhecimentos gerais: ciências humanas e da natureza.",
     ],
-    disciplinas: ["portugues", "matematica", "historia", "geografia", "ciencias"],
+    disciplinas: [
+      "portugues",
+      "matematica",
+      "historia",
+      "geografia",
+      "ciencias",
+    ],
   },
   {
     slug: "coluni",
@@ -43,17 +58,28 @@ export const PROVAS: Prova[] = [
     completo: "Colégios universitários de universidades federais",
     categoria: "vestibulinho",
     resumo: "Seleção para o ensino médio em colégios ligados a universidades.",
-    estrutura: ["O formato varia por colégio e por edital. Mapeamos cada um antes de publicar o plano de estudo."],
-    disciplinas: ["portugues", "matematica", "ciencias", "historia", "geografia"],
+    estrutura: [
+      "O formato varia por colégio e por edital. Mapeamos cada um antes de publicar o plano de estudo.",
+    ],
+    disciplinas: [
+      "portugues",
+      "matematica",
+      "ciencias",
+      "historia",
+      "geografia",
+    ],
     confirmar: true,
   },
   {
     slug: "embraer",
     nome: "Embraer",
-    completo: "Colégio Embraer (ensino médio técnico)",
+    completo: "Colégios Embraer",
     categoria: "vestibulinho",
-    resumo: "Seleção para o ensino médio com formação técnica ligada à aviação.",
-    estrutura: ["O formato muda a cada edital. Mapeamos antes de publicar o plano de estudo."],
+    resumo:
+      "Seleção para ingresso nos Colégios Embraer; requisitos conforme edital vigente.",
+    estrutura: [
+      "O formato muda a cada edital. Mapeamos antes de publicar o plano de estudo.",
+    ],
     disciplinas: ["portugues", "matematica", "ciencias"],
     confirmar: true,
   },
@@ -62,8 +88,11 @@ export const PROVAS: Prova[] = [
     nome: "Institutos Federais",
     completo: "IFSP e demais institutos federais (ensino médio técnico)",
     categoria: "vestibulinho",
-    resumo: "Processos seletivos de cursos técnicos integrados ao ensino médio.",
-    estrutura: ["O formato varia por instituto e por edital. Mapeamos antes de publicar o plano de estudo."],
+    resumo:
+      "Processos seletivos de cursos técnicos integrados ao ensino médio.",
+    estrutura: [
+      "O formato varia por instituto e por edital. Mapeamos antes de publicar o plano de estudo.",
+    ],
     disciplinas: ["portugues", "matematica"],
     confirmar: true,
   },
@@ -72,27 +101,53 @@ export const PROVAS: Prova[] = [
     nome: "FUVEST",
     completo: "Vestibular da USP",
     categoria: "vestibular-paulista",
-    resumo: "Duas fases. A primeira cobre todas as áreas; a segunda é discursiva.",
+    resumo:
+      "Duas fases. A primeira cobre todas as áreas; a segunda é discursiva.",
     estrutura: [
-      "1ª fase: 80 questões de múltipla escolha, com cinco alternativas.",
+      "Primeira fase objetiva. Quantidade de questões e distribuição conforme o edital da edição.",
       "Disciplinas da 1ª fase: Arte, Biologia, Educação Física, Filosofia, Física, Geografia, História, Inglês, Matemática, Português, Química e Sociologia.",
       "2ª fase, dia 1: questões discursivas de Português e Redação.",
       "2ª fase, dia 2: questões discursivas de duas a quatro disciplinas da carreira escolhida.",
     ],
-    disciplinas: ["matematica", "fisica", "quimica", "biologia", "portugues", "redacao", "ingles", "historia", "geografia", "filosofia", "sociologia"],
+    disciplinas: [
+      "matematica",
+      "fisica",
+      "quimica",
+      "biologia",
+      "portugues",
+      "redacao",
+      "ingles",
+      "historia",
+      "geografia",
+      "filosofia",
+      "sociologia",
+    ],
   },
   {
     slug: "unicamp",
     nome: "UNICAMP",
     completo: "Vestibular da Unicamp (Comvest)",
     categoria: "vestibular-paulista",
-    resumo: "Primeira fase de conhecimentos gerais e segunda fase discursiva por área.",
+    resumo:
+      "Primeira fase de conhecimentos gerais e segunda fase discursiva por área.",
     estrutura: [
-      "1ª fase: 72 questões objetivas. Matemática e Português têm 12 cada; Inglês, Biologia, Química, Física, História e Geografia, 7 cada; Filosofia e Sociologia, 3 cada.",
+      "Primeira fase objetiva. Quantidade de questões e distribuição conforme o edital da edição.",
       "2ª fase, dia 1: Redação, Português e Literaturas e questões interdisciplinares.",
       "2ª fase, dia 2: Matemática e provas específicas por área (Exatas, Biológicas, Humanas).",
     ],
-    disciplinas: ["matematica", "fisica", "quimica", "biologia", "portugues", "redacao", "ingles", "historia", "geografia", "filosofia", "sociologia"],
+    disciplinas: [
+      "matematica",
+      "fisica",
+      "quimica",
+      "biologia",
+      "portugues",
+      "redacao",
+      "ingles",
+      "historia",
+      "geografia",
+      "filosofia",
+      "sociologia",
+    ],
   },
   {
     slug: "unesp",
@@ -101,20 +156,40 @@ export const PROVAS: Prova[] = [
     categoria: "vestibular-paulista",
     resumo: "Primeira fase objetiva e segunda fase discursiva, com Redação.",
     estrutura: [
-      "1ª fase: 90 questões objetivas de Linguagens, Ciências Humanas, Ciências da Natureza e Matemática.",
+      "Primeira fase objetiva. Quantidade de questões e distribuição conforme o edital da edição.",
       "2ª fase, dia 1: conhecimentos específicos discursivos de Humanas, Natureza e Matemática.",
       "2ª fase, dia 2: questões discursivas de Linguagens e Redação.",
     ],
-    disciplinas: ["matematica", "fisica", "quimica", "biologia", "portugues", "redacao", "ingles", "historia", "geografia"],
+    disciplinas: [
+      "matematica",
+      "fisica",
+      "quimica",
+      "biologia",
+      "portugues",
+      "redacao",
+      "ingles",
+      "historia",
+      "geografia",
+    ],
   },
   {
     slug: "ita",
     nome: "ITA",
     completo: "Instituto Tecnológico de Aeronáutica",
     categoria: "militar",
-    resumo: "Um dos vestibulares mais exigentes do país, com forte base em Matemática e Física.",
-    estrutura: ["Provas de Matemática, Física, Química, Português e Inglês, e Redação. Confira o edital vigente."],
-    disciplinas: ["matematica", "fisica", "quimica", "portugues", "ingles", "redacao"],
+    resumo:
+      "Um dos vestibulares mais exigentes do país, com forte base em Matemática e Física.",
+    estrutura: [
+      "Provas de Matemática, Física, Química, Português e Inglês, e Redação. Confira o edital vigente.",
+    ],
+    disciplinas: [
+      "matematica",
+      "fisica",
+      "quimica",
+      "portugues",
+      "ingles",
+      "redacao",
+    ],
     confirmar: true,
   },
   {
@@ -122,9 +197,19 @@ export const PROVAS: Prova[] = [
     nome: "IME",
     completo: "Instituto Militar de Engenharia",
     categoria: "militar",
-    resumo: "Seleção para engenharia militar, com provas discursivas de exatas.",
-    estrutura: ["Provas de Matemática, Física, Química, Português, Inglês e Redação. Confira o edital vigente."],
-    disciplinas: ["matematica", "fisica", "quimica", "portugues", "ingles", "redacao"],
+    resumo:
+      "Seleção para engenharia militar, com provas discursivas de exatas.",
+    estrutura: [
+      "Provas de Matemática, Física, Química, Português, Inglês e Redação. Confira o edital vigente.",
+    ],
+    disciplinas: [
+      "matematica",
+      "fisica",
+      "quimica",
+      "portugues",
+      "ingles",
+      "redacao",
+    ],
     confirmar: true,
   },
   {
@@ -133,8 +218,19 @@ export const PROVAS: Prova[] = [
     completo: "Escola Preparatória de Cadetes do Exército",
     categoria: "militar",
     resumo: "Porta de entrada da carreira de oficial do Exército.",
-    estrutura: ["Provas de Português, Redação, Inglês, Matemática, Física, Química, História e Geografia. Confira o edital vigente."],
-    disciplinas: ["matematica", "fisica", "quimica", "portugues", "redacao", "ingles", "historia", "geografia"],
+    estrutura: [
+      "Provas de Português, Redação, Inglês, Matemática, Física, Química, História e Geografia. Confira o edital vigente.",
+    ],
+    disciplinas: [
+      "matematica",
+      "fisica",
+      "quimica",
+      "portugues",
+      "redacao",
+      "ingles",
+      "historia",
+      "geografia",
+    ],
     confirmar: true,
   },
   {
@@ -143,11 +239,15 @@ export const PROVAS: Prova[] = [
     completo: "Escola de Especialistas de Aeronáutica",
     categoria: "militar",
     resumo: "Formação de sargentos especialistas da Aeronáutica.",
-    estrutura: ["Provas de Português, Matemática, Física e Inglês. Confira o edital vigente."],
+    estrutura: [
+      "Provas de Português, Matemática, Física e Inglês. Confira o edital vigente.",
+    ],
     disciplinas: ["matematica", "fisica", "portugues", "ingles"],
     confirmar: true,
   },
 ];
 
-export const provaPorSlug = (slug: string) => PROVAS.find((p) => p.slug === slug);
-export const provasDa = (c: Categoria) => PROVAS.filter((p) => p.categoria === c);
+export const provaPorSlug = (slug: string) =>
+  PROVAS.find((p) => p.slug === slug);
+export const provasDa = (c: Categoria) =>
+  PROVAS.filter((p) => p.categoria === c);

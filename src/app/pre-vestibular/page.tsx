@@ -1,59 +1,56 @@
-import type { Metadata } from "next";
 import Link from "next/link";
-import { Badge, CONTAINER, PageHero } from "@/components/ui";
+import { PageHero, CONTAINER } from "@/components/ui";
+import { PathCards } from "@/components/path-cards";
 import { provasDa } from "@/data/provas";
 import { DISCIPLINAS } from "@/data/disciplinas";
-
-export const metadata: Metadata = {
-  title: "Pré-vestibular: FUVEST, UNICAMP, UNESP, ITA, IME e militares",
-  description: "Disciplinas e provas do pré-vestibular, com Matemática e Física abertas e as demais em breve.",
+export const metadata = {
+  title: "ENEM e vestibulares",
+  description:
+    "Explore disciplinas e conheça os caminhos de preparação do Gabaru.",
 };
-
-function Grade({ lista }: { lista: ReturnType<typeof provasDa> }) {
-  return (
-    <ul className="mt-6 grid gap-4 md:grid-cols-3" role="list">
-      {lista.map((p) => (
-        <li key={p.slug}>
-          <Link href={`/provas/${p.slug}`} className="flex h-full flex-col rounded-lg border border-n2 bg-white/60 p-5 hover:border-ink">
-            <span className="text-xl font-bold">{p.nome}</span>
-            <span className="mt-1 text-sm text-n4">{p.completo}</span>
-            <span className="mt-3 text-sm text-n5">{p.resumo}</span>
-          </Link>
-        </li>
-      ))}
-    </ul>
-  );
-}
-
-export default function PreVestibular() {
+export default function Page() {
   return (
     <main>
-      <PageHero eyebrow="Pré-vestibular" titulo={<>Da escola ao <mark>vestibular</mark>, na ordem certa.</>}>
-        <p>As provas paulistas cobram quase tudo. O seu plano de estudo parte da prova que você escolheu e do que você já domina.</p>
+      <PageHero
+        eyebrow="ENEM e vestibulares"
+        titulo={
+          <>
+            Construa sua base.
+            <br />
+            <mark>Amplie suas possibilidades.</mark>
+          </>
+        }
+      >
+        <p>
+          O treino ENEM está aberto. As trilhas de outras instituições, os
+          diagnósticos e os planos de estudo estão em desenvolvimento.
+        </p>
       </PageHero>
-
-      <section id="disciplinas" className={`${CONTAINER} pt-12`}>
-        <h2 className="text-2xl font-bold">Disciplinas</h2>
-        <ul className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4" role="list">
-          {DISCIPLINAS.filter((d) => !["ciencias", "raciocinio-logico"].includes(d.slug)).map((d) => (
-            <li key={d.slug}>
-              <Link href={`/disciplinas/${d.slug}`} className="flex h-full min-h-24 flex-col justify-between rounded-lg border border-n2 bg-white/60 p-4 hover:border-ink">
-                <span className="font-bold">{d.nome}</span>
-                <span className="mt-3"><Badge status={d.status} /></span>
-              </Link>
-            </li>
+      <section id="disciplinas" className={`${CONTAINER} py-10`}>
+        <h2 className="gb-section-title mb-6">Explore as disciplinas</h2>
+        <div className="gb-content-grid">
+          {DISCIPLINAS.map((d) => (
+            <Link
+              href={`/disciplinas/${d.slug}`}
+              className="gb-content-card"
+              key={d.slug}
+            >
+              <h3>{d.nome}</h3>
+              <p>{d.resumo}</p>
+              <span className="text-xs text-n4">
+                Ver temas e disponibilidade ↗
+              </span>
+            </Link>
           ))}
-        </ul>
+        </div>
       </section>
-
-      <section id="paulistas" className={`${CONTAINER} scroll-mt-28 pt-16`}>
-        <h2 className="text-2xl font-bold">Vestibulares paulistas</h2>
-        <Grade lista={provasDa("vestibular-paulista")} />
+      <section id="paulistas" className={`${CONTAINER} py-10`}>
+        <h2 className="gb-section-title mb-6">Vestibulares paulistas</h2>
+        <PathCards items={provasDa("vestibular-paulista")} />
       </section>
-
-      <section id="militares" className={`${CONTAINER} scroll-mt-28 pt-16`}>
-        <h2 className="text-2xl font-bold">ITA, IME e militares</h2>
-        <Grade lista={provasDa("militar")} />
+      <section id="militares" className={`${CONTAINER} py-10`}>
+        <h2 className="gb-section-title mb-6">ITA, IME e militares</h2>
+        <PathCards items={provasDa("militar")} />
       </section>
     </main>
   );

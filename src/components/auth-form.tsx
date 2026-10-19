@@ -30,24 +30,40 @@ export function AuthForm({ modo }: { modo: "login" | "cadastro" }) {
     }
   }
 
-  const campo = "mt-1 min-h-12 w-full rounded-md border border-n3 bg-white px-3 text-base";
+  const campo =
+    "mt-1 min-h-12 w-full rounded-md border border-n3 bg-white px-3 text-base";
 
   return (
     <form onSubmit={onSubmit} className="mt-8 grid gap-5" noValidate={false}>
       {!available && (
-        <p role="alert" className="rounded-md border-l-4 border-anil bg-white p-3">
+        <p
+          role="alert"
+          className="rounded-md border-l-4 border-anil bg-white p-3"
+        >
           O login ainda não está disponível. Volte em breve.
         </p>
       )}
       {cadastro && (
         <label className="block font-semibold">
           Nome
-          <input className={campo} value={nome} onChange={(e) => setNome(e.target.value)} autoComplete="name" />
+          <input
+            className={campo}
+            value={nome}
+            onChange={(e) => setNome(e.target.value)}
+            autoComplete="name"
+          />
         </label>
       )}
       <label className="block font-semibold">
         E-mail
-        <input type="email" required className={campo} value={email} onChange={(e) => setEmail(e.target.value)} autoComplete="email" />
+        <input
+          type="email"
+          required
+          className={campo}
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+          autoComplete="email"
+        />
       </label>
       <label className="block font-semibold">
         Senha
@@ -62,7 +78,10 @@ export function AuthForm({ modo }: { modo: "login" | "cadastro" }) {
         />
       </label>
       {erro && (
-        <p role="alert" className="rounded-md border-l-4 border-anil bg-white p-3 text-anil">
+        <p
+          role="alert"
+          className="rounded-md border-l-4 border-anil bg-white p-3 text-anil"
+        >
           {erro}
         </p>
       )}
@@ -75,9 +94,19 @@ export function AuthForm({ modo }: { modo: "login" | "cadastro" }) {
       </button>
       <p className="text-sm text-n5">
         {cadastro ? (
-          <>Já tem conta? <Link href="/login" className="font-semibold">Entrar</Link></>
+          <>
+            Já tem conta?{" "}
+            <Link href="/login" className="font-semibold">
+              Entrar
+            </Link>
+          </>
         ) : (
-          <>Ainda não tem conta? <Link href="/cadastro" className="font-semibold">Criar conta</Link></>
+          <>
+            Ainda não tem conta?{" "}
+            <Link href="/cadastro" className="font-semibold">
+              Criar conta
+            </Link>
+          </>
         )}
       </p>
     </form>

@@ -54,12 +54,13 @@ export const PROVAS: Prova[] = [
   },
   {
     slug: "coluni",
-    nome: "Coluni",
-    completo: "Colégios universitários de universidades federais",
+    nome: "COLUNI/UFV",
+    completo: "Colégio de Aplicação da Universidade Federal de Viçosa",
     categoria: "vestibulinho",
-    resumo: "Seleção para o ensino médio em colégios ligados a universidades.",
+    resumo: "Provas oficiais de 2026, 2025 e 2024, com cadernos integrais e gabaritos após recursos.",
     estrutura: [
-      "O formato varia por colégio e por edital. Mapeamos cada um antes de publicar o plano de estudo.",
+      "Nas edições 2024 a 2026: 38 questões objetivas, com quatro alternativas, e produção textual.",
+      "Língua Portuguesa, Matemática, Língua Inglesa, Ciências, Geografia e História.",
     ],
     disciplinas: [
       "portugues",
@@ -68,7 +69,6 @@ export const PROVAS: Prova[] = [
       "historia",
       "geografia",
     ],
-    confirmar: true,
   },
   {
     slug: "embraer",
@@ -251,3 +251,4 @@ export const provaPorSlug = (slug: string) =>
   PROVAS.find((p) => p.slug === slug);
 export const provasDa = (c: Categoria) =>
   PROVAS.filter((p) => p.categoria === c);
+

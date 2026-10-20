@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-20",
+  "repository": "dacostaluiza/gabaru",
+  "baseCommit": "47343e69278b3eaa1bf7bcad9a9361ea28d8aa17",
+  "status": "recovery-checkpoint; not deployed",
+  "completed": {
+    "coluni": {
+      "years": "2026–2013",
+      "editions": 14,
+      "questions": 582,
+      "pdfs": 28,
+      "newYears": "2023–2013",
+      "newQuestions": 468,
+      "review": "All 468 new answers, 22 PDF SHA256 digests and question-page mappings independently checked by revisar_pipeline. Scanned 2017/2018 answer keys checked visually. Set answerKeyRevised=false for 2013/2014."
+    },
+    "etec": {
+      "editions": 41,
+      "questions": 1990,
+      "pdfs": 82,
+      "newPdfs": 76,
+      "integrity": "82/82 PDFs checked against catalog SHA256",
+      "newPdfBytes": 87027978
+    },
+    "checks": [
+      "node --test tests/*.test.mjs: 27 passed on resumed run",
+      "npm run typecheck: passed",
+      "npm run build: passed; 102 routes generated; 14 COLUNI edition pages"
+    ]
+  },
+  "publication": {
+    "mainUnchanged": true,
+    "partialBlobUploads": 70,
+    "warning": "Blob objects are not a commit or backup of the complete change. An oversized COLUNI 2017 PDF upload was interrupted; outcome unconfirmed. No completed new commit, PR, merge or production deploy."
+  },
+  "workspace": "/workspace/scratch/ce0c4c5a3beb",
+  "source": "/workspace/scratch/ce0c4c5a3beb/source/dacostaluiza-gabaru-47343e69278b3eaa1bf7bcad9a9361ea28d8aa17",
+  "localRecoveryFiles": [
+    "lote-coluni-extracao/coluni-lote-2023-2021.json",
+    "lote-coluni-extracao/downloads.json",
+    "lote-coluni-extracao/extract.py",
+    "lote-coluni-extracao/map-question-pages.py",
+    "lote-coluni-extracao/etec-recovery-report.json",
+    "lote-coluni-2020-2017/coluni-lote-2020-2017.json",
+    "lote-coluni-2020-2017/downloads.json",
+    "lote-coluni-2020-2017/manual-answer-keys.json",
+    "lote-coluni-2020-2017/extract.py",
+    "lote-coluni-2016-2013/coluni-lote-2016-2013.json",
+    "lote-coluni-2016-2013/downloads.json",
+    "lote-coluni-2016-2013/extract.py",
+    "revisao-coluni/prepare-coluni.mjs",
+    "revisao-coluni/prepare-coluni.test.mjs"
+  ],
+  "changedFiles": [
+    "src/data/coluni-exams.json",
+    "scripts/prepare-coluni.mjs",
+    "scripts/merge-coluni-batch.mjs",
+    "tests/coluni-batch.test.mjs",
+    "tests/prepare-coluni.test.mjs",
+    "tests/merge-coluni-batch.test.mjs",
+    "src/app/provas/coluni/page.tsx",
+    "src/app/provas/coluni/[edition]/page.tsx",
+    "src/data/provas.ts",
+    ".github/workflows/acervo.yml",
+    "docs/acervo/IMPORTACAO.md",
+    "public/acervo/coluni/*/*.pdf",
+    "public/acervo/etec/*/*.pdf"
+  ],
+  "pipeline": "Pairs: extractor -> independent reviewer -> one integrator -> publisher. Strict official-host allowlist (www.pse.coluni.ufv.br, coluni.ufv.br); unique edition and exam hash; sequence, answers A-D/ANULADA, page mapping, page counts; SHA256; four download workers; retries only transient; atomic writes. Importer dry-run default, --write explicit, rejects self-review/duplicate/evidence mismatch/corrupt local PDFs. CI node tests and prepare script. No automatic publication by importer.",
+  "nextSteps": [
+    "Restore local environment and preserve files before further changes",
+    "Verify uncertain blob upload; never repeat an uncertain branch/ref mutation without inspecting GitHub",
+    "Upload remaining verified files, create tree based on current main without replacing unrelated files",
+    "Create branch and PR, run integrity and build checks, merge, verify actual live COLUNI 2023–2013 pages and PDFs",
+    "Before 2013 source confirmation still pending; do not claim all COLUNI exams collected",
+    "Next institution candidate IFSP; comparison with COTIL not concluded"
+  ],
+  "officialArchive": "https://coluni.ufv.br/futuro-estudante/exame-de-selecao/provas-anteriores/",
+  "newEditions": [
+    {
+      "id": "2023",
+      "examUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/11/COL2023_Gabarito-01.pdf",
+      "answerUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/11/COL2023-Gabarito_Oficial-apos-recursos.pdf",
+      "count": 38,
+      "annulled": [
+        34
+      ]
+    },
+    {
+      "id": "2022",
+      "examUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/11/COL2022-Gabarito_01.pdf",
+      "answerUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/11/COL2022-Gabarito_Oficial-recursos.pdf",
+      "count": 38,
+      "annulled": [
+        29,
+        31
+      ]
+    },
+    {
+      "id": "2021",
+      "examUrl": "https://coluni.ufv.br/wp-content/uploads/2021/02/COL2021_Gab-1.pdf",
+      "answerUrl": "https://coluni.ufv.br/wp-content/uploads/2021/03/COL2021-Gabarito_Oficial-RECURSOS.pdf",
+      "count": 38,
+      "annulled": [
+        8,
+        17,
+        31
+      ]
+    },
+    {
+      "id": "2020",
+      "examUrl": "https://coluni.ufv.br/wp-content/uploads/2019/11/COL2020-Gab1.pdf",
+      "answerUrl": "https://coluni.ufv.br/wp-content/uploads/2019/12/COL2020-Gab_Oficial-aposRecursos.pdf",
+      "count": 38,
+      "annulled": [
+        3,
+        33
+      ]
+    },
+    {
+      "id": "2019",
+      "examUrl": "https://coluni.ufv.br/wp-content/uploads/2018/12/COL19-Gab_1.pdf",
+      "answerUrl": "https://coluni.ufv.br/wp-content/uploads/2018/12/COL19-GabaritoOficial-recursos.pdf",
+      "count": 38,
+      "annulled": []
+    },
+    {
+      "id": "2018",
+      "examUrl": "https://coluni.ufv.br/wp-content/uploads/2017/11/COL18-Gab_1.pdf",
+      "answerUrl": "https://coluni.ufv.br/wp-content/uploads/2017/12/COL18-GabaritoOficial-AposRecursos.pdf",
+      "count": 38,
+      "annulled": [
+        18
+      ]
+    },
+    {
+      "id": "2017",
+      "examUrl": "https://coluni.ufv.br/wp-content/uploads/2016/11/COL17-Gab_1.pdf",
+      "answerUrl": "https://coluni.ufv.br/wp-content/uploads/2016/12/COL17-GabaritoOficial-recursos.pdf",
+      "count": 48,
+      "annulled": [
+        5,
+        6,
+        23
+      ]
+    },
+    {
+      "id": "2016",
+      "examUrl": "https://coluni.ufv.br/wp-content/uploads/2015/11/COL16-Gabarito_1.pdf",
+      "answerUrl": "https://coluni.ufv.br/wp-content/uploads/2015/12/COL16-Gab_Oficial_Recursos.pdf",
+      "count": 48,
+      "annulled": [
+        7,
+        14,
+        20,
+        39
+      ]
+    },
+    {
+      "id": "2015",
+      "examUrl": "https://coluni.ufv.br/wp-content/uploads/2014/12/COL2015-Gabarito_01.pdf",
+      "answerUrl": "https://coluni.ufv.br/wp-content/uploads/2014/12/Gabarito_Oficial_recursos.pdf",
+      "count": 48,
+      "annulled": [
+        3,
+        38,
+        42,
+        47
+      ]
+    },
+    {
+      "id": "2014",
+      "examUrl": "https://coluni.ufv.br/wp-content/uploads/2014/06/COLUNI_1_DIA_GAB_1.pdf",
+      "answerUrl": "https://coluni.ufv.br/wp-content/uploads/2014/06/GabaritoOficial_Coluni2014.pdf",
+      "count": 48,
+      "annulled": [
+        10,
+        41
+      ]
+    },
+    {
+      "id": "2013",
+      "examUrl": "https://coluni.ufv.br/wp-content/uploads/2014/06/Prova_COL_GAB1.pdf",
+      "answerUrl": "https://coluni.ufv.br/wp-content/uploads/2014/06/GabOficialColuni20131.pdf",
+      "count": 48,
+      "annulled": [
+        25
+      ]
+    }
+  ]
+}

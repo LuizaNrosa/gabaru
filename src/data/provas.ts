@@ -57,7 +57,7 @@ export const PROVAS: Prova[] = [
     nome: "COLUNI/UFV",
     completo: "Colégio de Aplicação da Universidade Federal de Viçosa",
     categoria: "vestibulinho",
-    resumo: "Provas oficiais de 2026, 2025 e 2024, com cadernos integrais e gabaritos após recursos.",
+    resumo: "Provas oficiais de anos anteriores, com cadernos integrais e gabaritos oficiais.",
     estrutura: [
       "Nas edições 2024 a 2026: 38 questões objetivas, com quatro alternativas, e produção textual.",
       "Língua Portuguesa, Matemática, Língua Inglesa, Ciências, Geografia e História.",

@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
-    "prebuild": "node scripts/prepare-etec.mjs && node scripts/prepare-coluni.mjs"
+    "prebuild": "node scripts/restore-acervo-parts.mjs && node scripts/prepare-etec.mjs && node scripts/prepare-coluni.mjs"
   },
   "dependencies": {
     "firebase": "^13.0.0",

@@ -24,3 +24,7 @@ O arquivo de revisão deve ter `status: "approved"`, nomes distintos em `extract
 - Arquivar PDFs verificados no GitHub para que o build não dependa da disponibilidade de sites externos.
 - Expandir por instituição com adaptadores próprios. Detecção por ID/hash impede repetição de edição/caderno; para futura separação por disciplina será necessário comparar também o conteúdo de cada questão.
 - Não declarar o acervo esgotado sem busca adicional: anteriores a 2013 ainda precisam de fontes oficiais confirmadas.
+
+## PDFs grandes
+
+Arquivos acima do limite de envio são armazenados em partes binárias em `acervo-parts/`. `src/data/acervo-parts.json` registra a ordem e o SHA256 do PDF integral. O prebuild remonta os bytes em `public/acervo/`, verifica assinatura PDF e hash e só então prepara o catálogo. Sem rede e sem alterar o caderno. A CI restaura antes dos testes.

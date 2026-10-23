@@ -63,6 +63,8 @@ export function TreinoApp() {
       "disciplina",
     );
     if (initial) setDisciplina(initial);
+    const initialYear = new URLSearchParams(window.location.search).get("ano");
+    if (initialYear && /^\d{4}$/.test(initialYear)) setAno(initialYear);
     fetch("/api/v1/catalog", { signal: ctrl.signal })
       .then((r) => {
         if (!r.ok) throw new Error();

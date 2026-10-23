@@ -1,3 +1,4 @@
+import Link from "next/link";
 import type { Metadata } from "next";
 import { CONTAINER, CtaCadastro, PageHero } from "@/components/ui";
 import { MATRIZ_ENEM, type AreaEnem } from "@/data/enem-matriz";
@@ -31,6 +32,11 @@ export default function EnemPage() {
         </p>
       </PageHero>
 
+      <section className={`${CONTAINER} pt-12`}>
+        <h2 className="gb-section-title">Provas do ENEM por ano</h2>
+        <p className="mt-4 text-n5">Cadernos incorporados e acesso às edições oficiais do Inep, de 1998 a 2025.</p>
+        <Link href="/provas/enem" className="gb-button mt-5">Abrir acervo de provas ↗</Link>
+      </section>
       <section className={`${CONTAINER} pt-12`}>
         <ol className="grid gap-4 md:grid-cols-3" role="list">
           <li className="rounded-lg border border-n2 bg-white/60 p-5">
@@ -125,3 +131,4 @@ export default function EnemPage() {
     </main>
   );
 }
+

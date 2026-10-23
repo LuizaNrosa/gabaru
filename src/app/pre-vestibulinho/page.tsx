@@ -2,9 +2,10 @@ import { PageHero, CONTAINER } from "@/components/ui";
 import { PathCards } from "@/components/path-cards";
 import { provasDa } from "@/data/provas";
 import Link from "next/link";
+import { VestibulinhoCollection } from "@/components/exam-collection";
 export const metadata = {
   title: "Vestibulinhos: seu próximo passo",
-  description: "Conheça as trilhas de vestibulinho em construção no Gabaru.",
+  description: "Provas oficiais de ETEC e COLUNI por instituição e edição, com cadernos e gabaritos.",
 };
 export default function Page() {
   return (
@@ -22,12 +23,11 @@ export default function Page() {
           fazem parte do foco do Gabaru. Cada processo seletivo exige preparação
           própria.
         </p>
-      </PageHero><section className={`${CONTAINER} py-8`}><div className="gb-notice"><h2 className="gb-section-title">ETEC · acervo de provas oficiais</h2><p className="mt-3">Explore 41 provas de 2006 a 2026, com 1.990 questões, cadernos integrais e gabaritos oficiais.</p><Link href="/provas/etec" className="gb-button mt-5">Escolher prova e começar ↗</Link></div></section>
+      </PageHero>
+      <section id="provas" className={`${CONTAINER} py-10`}><h2 className="gb-section-title mb-6">Provas por instituição</h2><VestibulinhoCollection /></section>
       <section className={`${CONTAINER} py-10`}>
         <p className="gb-notice mb-8">
-          As trilhas específicas estão em construção. O treino disponível hoje
-          utiliza questões do ENEM, que não substituem uma preparação alinhada
-          ao edital do seu vestibulinho.
+          Os acervos de ETEC e COLUNI estão disponíveis nas respectivas seções, com cadernos e gabaritos oficiais. Embraer e Institutos Federais ainda estão em organização.
         </p>
         <PathCards items={provasDa("vestibulinho")} />
       </section>
@@ -50,3 +50,4 @@ export default function Page() {
     </main>
   );
 }
+

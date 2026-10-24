@@ -33,9 +33,8 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,
   async headers() {
-    return [{ source: "/:path*", headers: securityHeaders }, ...["etec", "coluni"].map(institution => ({ source: `/acervo/${institution}/:edition/:file`, headers: [{ key: "X-Frame-Options", value: "SAMEORIGIN" }, { key: "Content-Security-Policy", value: "frame-ancestors 'self'" }] }))];
+    return [{ source: "/:path*", headers: securityHeaders }, ...["etec", "coluni"].map(institution => ({ source: `/acervo/${institution}/:edition/:file`, headers: [{ key: "X-Frame-Options", value: "SAMEORIGIN" }, { key: "Content-Security-Policy", value: "frame-ancestors 'self'" }] })), { source: "/api/v1/vestibulares/:institution/:document", headers: [{ key: "X-Frame-Options", value: "SAMEORIGIN" }, { key: "Content-Security-Policy", value: "frame-ancestors 'self'" }] }];
   },
 };
 
 export default nextConfig;
-

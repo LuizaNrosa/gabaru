@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { Badge, CONTAINER, CtaCadastro, PageHero } from "@/components/ui";
+import { CONTAINER, CtaCadastro, PageHero } from "@/components/ui";
 import { CATEGORIAS, PROVAS, provaPorSlug } from "@/data/provas";
 import { disciplinaPorSlug } from "@/data/disciplinas";
 

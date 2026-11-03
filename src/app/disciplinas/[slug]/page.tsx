@@ -2,7 +2,7 @@ import Link from "next/link";
 import { questionCatalog } from "@/lib/questions";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { Badge, CONTAINER, CtaCadastro, PageHero } from "@/components/ui";
+import { CONTAINER, PageHero } from "@/components/ui";
 import { DISCIPLINAS, disciplinaPorSlug } from "@/data/disciplinas";
 
 type Props = { params: Promise<{ slug: string }> };

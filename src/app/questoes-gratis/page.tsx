@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { CONTAINER, CtaCadastro, Eyebrow, PageHero } from "@/components/ui";
+import { CONTAINER, Eyebrow, PageHero } from "@/components/ui";
 import { QUESTOES_GRATIS } from "@/data/questoes-gratis";
 
 export const metadata: Metadata = {

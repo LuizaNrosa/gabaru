@@ -11,6 +11,9 @@ import coluniExams from "@/data/coluni-exams.json";
  * Gerado a partir das mesmas fontes de dados das páginas (acervos e
  * catálogos), para nunca listar endereços que não existem.
  * Páginas de conta e de pagamento ficam fora de propósito.
+ * Sem `lastModified`: as fontes de dados não guardam datas de edição
+ * fiáveis por página, e carimbar a data do build induziria os
+ * rastreadores em erro. Adicionar quando houver datas reais.
  */
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = process.env.NEXT_PUBLIC_SITE_URL ?? "https://gabaru.com.br";
@@ -19,8 +22,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const estaticas = [
     "",
     "/enem",
+    "/provas/enem",
     "/concursos",
     "/materiais-gratuitos",
+    "/nota-de-corte",
     "/planos",
     "/pre-vestibular",
     "/pre-vestibulinho",

@@ -11,7 +11,7 @@ subtopico: geometria-espacial
 habilidade: MT-H8
 tema: "Volume de latas cilíndricas ao variar raio e altura"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q167.webp
 ---
 ![Questão 167 — ENEM 2024](enem-2024-ppl-d2-q167.webp)

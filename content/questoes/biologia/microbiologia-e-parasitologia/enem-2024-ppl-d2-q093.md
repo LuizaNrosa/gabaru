@@ -11,7 +11,7 @@ subtopico: microbiologia-e-parasitologia
 habilidade: CN-H30
 tema: "Máscaras e redução da transmissão do SARS-CoV-2"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q093.webp
 ---
 ![Questão 93 — ENEM 2024](enem-2024-ppl-d2-q093.webp)

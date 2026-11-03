@@ -11,7 +11,7 @@ subtopico: funcoes
 habilidade: MT-H20
 tema: "Gráfico da relação linear entre escala Celsius e escala X"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q175.webp
 ---
 ![Questão 175 — ENEM 2024](enem-2024-ppl-d2-q175.webp)

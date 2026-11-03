@@ -11,7 +11,7 @@ subtopico: geometria-espacial
 habilidade: MT-H6
 tema: "Projeções ortogonais da trajetória de um balanço"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q149.webp
 ---
 ![Questão 149 — ENEM 2024](enem-2024-ppl-d2-q149.webp)

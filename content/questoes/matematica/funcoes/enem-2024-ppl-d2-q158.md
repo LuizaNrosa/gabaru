@@ -11,7 +11,7 @@ subtopico: funcoes
 habilidade: MT-H21
 tema: "Menor custo mensal com funções afins de aluguel"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q158.webp
 ---
 ![Questão 158 — ENEM 2024](enem-2024-ppl-d2-q158.webp)

@@ -11,7 +11,7 @@ subtopico: geometria-plana
 habilidade: MT-H8
 tema: "Área de pipa em quadrilátero com diagonais perpendiculares"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q179.webp
 ---
 ![Questão 179 — ENEM 2024](enem-2024-ppl-d2-q179.webp)

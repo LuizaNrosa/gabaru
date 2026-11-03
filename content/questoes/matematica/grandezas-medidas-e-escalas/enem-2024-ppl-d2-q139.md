@@ -11,7 +11,7 @@ subtopico: grandezas-medidas-e-escalas
 habilidade: MT-H11
 tema: "Escala de planta baixa a partir da área do quarto"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q139.webp
 ---
 ![Questão 139 — ENEM 2024](enem-2024-ppl-d2-q139.webp)

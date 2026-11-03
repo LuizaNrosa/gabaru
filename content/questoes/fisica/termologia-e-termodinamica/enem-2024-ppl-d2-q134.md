@@ -11,7 +11,7 @@ subtopico: termologia-e-termodinamica
 habilidade: CN-H17
 tema: "Eficiência de climatizador evaporativo por tabelas de temperatura e umidade"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q134.webp
 ---
 ![Questão 134 — ENEM 2024](enem-2024-ppl-d2-q134.webp)

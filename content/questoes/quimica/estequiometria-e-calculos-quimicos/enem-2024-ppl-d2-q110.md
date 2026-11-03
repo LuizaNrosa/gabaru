@@ -11,7 +11,7 @@ subtopico: estequiometria-e-calculos-quimicos
 habilidade: CN-H27
 tema: "Área de plantio para compensar emissão de CO2"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q110.webp
 ---
 ![Questão 110 — ENEM 2024](enem-2024-ppl-d2-q110.webp)

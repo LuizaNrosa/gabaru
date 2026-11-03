@@ -11,7 +11,7 @@ subtopico: algebra-equacoes-e-inequacoes
 habilidade: MT-H21
 tema: "Novo preço de venda para aumentar o lucro"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q148.webp
 ---
 ![Questão 148 — ENEM 2024](enem-2024-ppl-d2-q148.webp)

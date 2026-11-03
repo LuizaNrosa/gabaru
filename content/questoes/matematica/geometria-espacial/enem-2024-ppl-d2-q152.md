@@ -11,7 +11,7 @@ subtopico: geometria-espacial
 habilidade: MT-H8
 tema: "Menor caixa quadrada para recipiente cilíndrico"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q152.webp
 ---
 ![Questão 152 — ENEM 2024](enem-2024-ppl-d2-q152.webp)

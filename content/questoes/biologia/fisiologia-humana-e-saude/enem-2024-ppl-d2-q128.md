@@ -11,7 +11,7 @@ subtopico: fisiologia-humana-e-saude
 habilidade: CN-H14
 tema: "Anticorpos IgM e IgG em infecção viral recente"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q128.webp
 ---
 ![Questão 128 — ENEM 2024](enem-2024-ppl-d2-q128.webp)

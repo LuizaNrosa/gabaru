@@ -11,7 +11,7 @@ subtopico: microbiologia-e-parasitologia
 habilidade: CN-H30
 tema: "Doenças negligenciadas e leishmaniose"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q097.webp
 ---
 ![Questão 97 — ENEM 2024](enem-2024-ppl-d2-q097.webp)

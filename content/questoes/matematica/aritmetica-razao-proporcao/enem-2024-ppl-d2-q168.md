@@ -11,7 +11,7 @@ subtopico: aritmetica-razao-proporcao
 habilidade: MT-H3
 tema: "Reabastecimento mínimo de gasolina em viagem com rendimentos distintos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q168.webp
 ---
 ![Questão 168 — ENEM 2024](enem-2024-ppl-d2-q168.webp)

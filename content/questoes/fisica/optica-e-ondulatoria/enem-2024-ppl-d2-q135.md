@@ -11,7 +11,7 @@ subtopico: optica-e-ondulatoria
 habilidade: CN-H22
 tema: "Espectro de LED e material que converte luz azul"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q135.webp
 obs: "grande região em branco entre os gráficos A e B e cabeçalho da seção de Matemática (questões 136 a 180) indevido no rodapé"
 ---

@@ -11,7 +11,7 @@ subtopico: ecologia-e-meio-ambiente
 habilidade: CN-H15
 tema: "Predador-chave Pisaster e diversidade de espécies"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q094.webp
 ---
 ![Questão 94 — ENEM 2024](enem-2024-ppl-d2-q094.webp)

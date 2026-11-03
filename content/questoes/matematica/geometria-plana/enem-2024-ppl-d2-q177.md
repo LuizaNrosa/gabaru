@@ -11,7 +11,7 @@ subtopico: geometria-plana
 habilidade: MT-H7
 tema: "Classificação do triângulo formado em dobraduras de papel"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q177.webp
 ---
 ![Questão 177 — ENEM 2024](enem-2024-ppl-d2-q177.webp)

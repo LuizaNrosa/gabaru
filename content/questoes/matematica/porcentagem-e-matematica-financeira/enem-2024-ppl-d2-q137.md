@@ -11,7 +11,7 @@ subtopico: porcentagem-e-matematica-financeira
 habilidade: MT-H3
 tema: "Compra de apartamentos com acréscimos percentuais e maior lucro"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q137.webp
 ---
 ![Questão 137 — ENEM 2024](enem-2024-ppl-d2-q137.webp)

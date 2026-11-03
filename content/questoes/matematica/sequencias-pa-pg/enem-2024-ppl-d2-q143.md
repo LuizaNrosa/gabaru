@@ -11,7 +11,7 @@ subtopico: sequencias-pa-pg
 habilidade: MT-H2
 tema: "Numeração de lotes em progressão aritmética"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q143.webp
 ---
 ![Questão 143 — ENEM 2024](enem-2024-ppl-d2-q143.webp)

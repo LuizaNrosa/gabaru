@@ -11,7 +11,7 @@ subtopico: biotecnologia-e-reproducao
 habilidade: CN-H11
 tema: "Terapia gênica com vírus modificado para surdez"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q103.webp
 ---
 ![Questão 103 — ENEM 2024](enem-2024-ppl-d2-q103.webp)

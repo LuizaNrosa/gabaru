@@ -11,7 +11,7 @@ subtopico: aritmetica-razao-proporcao
 habilidade: MT-H3
 tema: "Maior razão entre preços de gasolina e etanol"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q171.webp
 ---
 ![Questão 171 — ENEM 2024](enem-2024-ppl-d2-q171.webp)

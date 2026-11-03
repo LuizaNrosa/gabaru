@@ -11,7 +11,7 @@ subtopico: funcoes
 habilidade: MT-H20
 tema: "Valor máximo da energia potencial a partir de gráfico de energia cinética"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q161.webp
 ---
 ![Questão 161 — ENEM 2024](enem-2024-ppl-d2-q161.webp)

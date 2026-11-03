@@ -11,7 +11,7 @@ subtopico: quimica-ambiental-e-cotidiano
 habilidade: CN-H27
 tema: "Procedimentos para destino de resíduos plásticos e reciclagem"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q091.webp
 ---
 ![Questão 91 — ENEM 2024](enem-2024-ppl-d2-q091.webp)

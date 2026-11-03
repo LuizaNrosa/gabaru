@@ -11,7 +11,7 @@ subtopico: geometria-espacial
 habilidade: MT-H7
 tema: "Número de vértices do octaedro truncado"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q151.webp
 ---
 ![Questão 151 — ENEM 2024](enem-2024-ppl-d2-q151.webp)

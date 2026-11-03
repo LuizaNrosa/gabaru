@@ -11,7 +11,7 @@ subtopico: equilibrio-e-eletroquimica
 habilidade: CN-H21
 tema: "Eletrólise em dessalinizador-pilha, eletrodos e polaridade"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q124.webp
 ---
 ![Questão 124 — ENEM 2024](enem-2024-ppl-d2-q124.webp)

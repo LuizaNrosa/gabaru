@@ -11,7 +11,7 @@ subtopico: eletricidade-e-circuitos
 habilidade: CN-H5
 tema: "Escolha do material de fusível por efeito Joule"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q130.webp
 ---
 ![Questão 130 — ENEM 2024](enem-2024-ppl-d2-q130.webp)

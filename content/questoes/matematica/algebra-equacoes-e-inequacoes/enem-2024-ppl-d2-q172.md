@@ -11,7 +11,7 @@ subtopico: algebra-equacoes-e-inequacoes
 habilidade: MT-H21
 tema: "Preço de cada prato com taxa de serviço de 10%"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q172.webp
 ---
 ![Questão 172 — ENEM 2024](enem-2024-ppl-d2-q172.webp)

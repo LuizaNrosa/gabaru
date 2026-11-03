@@ -11,7 +11,7 @@ subtopico: optica-e-ondulatoria
 habilidade: CN-H1
 tema: "Frequência da rede e indicação de cronômetro eletrônico"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q112.webp
 ---
 ![Questão 112 — ENEM 2024](enem-2024-ppl-d2-q112.webp)

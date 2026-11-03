@@ -11,7 +11,7 @@ subtopico: algebra-equacoes-e-inequacoes
 habilidade: MT-H21
 tema: "Custo mínimo de alimentos para suprir vitaminas"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q164.webp
 ---
 ![Questão 164 — ENEM 2024](enem-2024-ppl-d2-q164.webp)

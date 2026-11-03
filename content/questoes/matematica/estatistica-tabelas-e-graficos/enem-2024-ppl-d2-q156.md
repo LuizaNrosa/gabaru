@@ -11,7 +11,7 @@ subtopico: estatistica-tabelas-e-graficos
 habilidade: MT-H25
 tema: "Maior média de temperaturas em dois meses consecutivos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q156.webp
 ---
 ![Questão 156 — ENEM 2024](enem-2024-ppl-d2-q156.webp)

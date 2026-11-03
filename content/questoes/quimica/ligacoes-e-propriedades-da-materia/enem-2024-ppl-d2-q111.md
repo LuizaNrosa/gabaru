@@ -11,7 +11,7 @@ subtopico: ligacoes-e-propriedades-da-materia
 habilidade: CN-H18
 tema: "Polaridade do solvente para lavagem a seco"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q111.webp
 ---
 ![Questão 111 — ENEM 2024](enem-2024-ppl-d2-q111.webp)

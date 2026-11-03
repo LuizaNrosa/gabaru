@@ -11,7 +11,7 @@ subtopico: optica-e-ondulatoria
 habilidade: CN-H17
 tema: "Leitura de curvas de igual audibilidade em gráfico"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q098.webp
 ---
 ![Questão 98 — ENEM 2024](enem-2024-ppl-d2-q098.webp)

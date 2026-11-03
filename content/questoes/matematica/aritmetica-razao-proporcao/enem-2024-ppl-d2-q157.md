@@ -11,7 +11,7 @@ subtopico: aritmetica-razao-proporcao
 habilidade: MT-H3
 tema: "Menor preço por metro linear de papel higiênico"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q157.webp
 ---
 ![Questão 157 — ENEM 2024](enem-2024-ppl-d2-q157.webp)

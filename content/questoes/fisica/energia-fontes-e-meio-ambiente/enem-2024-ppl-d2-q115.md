@@ -11,7 +11,7 @@ subtopico: energia-fontes-e-meio-ambiente
 habilidade: CN-H23
 tema: "Fonte primária que gera eletricidade por processos químicos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q115.webp
 ---
 ![Questão 115 — ENEM 2024](enem-2024-ppl-d2-q115.webp)

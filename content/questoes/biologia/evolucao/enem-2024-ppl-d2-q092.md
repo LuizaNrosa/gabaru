@@ -11,7 +11,7 @@ subtopico: evolucao
 habilidade: CN-H28
 tema: "Hemoglobina de lhamas e adaptação à altitude"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q092.webp
 ---
 ![Questão 92 — ENEM 2024](enem-2024-ppl-d2-q092.webp)

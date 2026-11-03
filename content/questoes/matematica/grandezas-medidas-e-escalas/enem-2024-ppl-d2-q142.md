@@ -11,7 +11,7 @@ subtopico: grandezas-medidas-e-escalas
 habilidade: MT-H11
 tema: "Escala para reprodução de quadro em tela menor"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q142.webp
 ---
 ![Questão 142 — ENEM 2024](enem-2024-ppl-d2-q142.webp)

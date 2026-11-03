@@ -11,7 +11,7 @@ subtopico: ligacoes-e-propriedades-da-materia
 habilidade: CN-H18
 tema: "Nanocápsulas de anestésico e absorção pela pele"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q132.webp
 ---
 ![Questão 132 — ENEM 2024](enem-2024-ppl-d2-q132.webp)

@@ -11,7 +11,7 @@ subtopico: estatistica-tabelas-e-graficos
 habilidade: MT-H28
 tema: "Maior média aritmética de frequências em testes de cantores"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q144.webp
 ---
 ![Questão 144 — ENEM 2024](enem-2024-ppl-d2-q144.webp)

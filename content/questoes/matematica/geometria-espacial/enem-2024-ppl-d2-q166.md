@@ -11,7 +11,7 @@ subtopico: geometria-espacial
 habilidade: MT-H8
 tema: "Altura de embalagem prismática com capacidade maior que cilindro"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q166.webp
 ---
 ![Questão 166 — ENEM 2024](enem-2024-ppl-d2-q166.webp)

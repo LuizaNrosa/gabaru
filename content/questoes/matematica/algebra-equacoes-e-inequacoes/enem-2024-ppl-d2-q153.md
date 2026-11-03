@@ -11,7 +11,7 @@ subtopico: algebra-equacoes-e-inequacoes
 habilidade: MT-H21
 tema: "Limite de consumo de energia com tarifa por faixas"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q153.webp
 ---
 ![Questão 153 — ENEM 2024](enem-2024-ppl-d2-q153.webp)

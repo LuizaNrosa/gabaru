@@ -11,7 +11,7 @@ subtopico: termologia-e-termodinamica
 habilidade: CN-H21
 tema: "Radiação térmica em copos preto e espelhado"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q096.webp
 ---
 ![Questão 96 — ENEM 2024](enem-2024-ppl-d2-q096.webp)

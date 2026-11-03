@@ -11,7 +11,7 @@ subtopico: genetica
 habilidade: CN-H15
 tema: "Experimento de Griffith e transferência de virulência"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q127.webp
 ---
 ![Questão 127 — ENEM 2024](enem-2024-ppl-d2-q127.webp)

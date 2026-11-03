@@ -11,7 +11,7 @@ subtopico: eletricidade-e-circuitos
 habilidade: CN-H5
 tema: "Brilho de lâmpadas em paralelo com resistência interna da fonte"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q116.webp
 ---
 ![Questão 116 — ENEM 2024](enem-2024-ppl-d2-q116.webp)

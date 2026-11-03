@@ -11,7 +11,7 @@ subtopico: trabalho-e-desigualdade
 habilidade: CH-H15
 tema: "Conflito de classes burguesia e proletariado em Marx e Engels"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q058.webp
 ---
 ![Questão 58 — ENEM 2022](enem-2022-ppl-d1-q058.webp)

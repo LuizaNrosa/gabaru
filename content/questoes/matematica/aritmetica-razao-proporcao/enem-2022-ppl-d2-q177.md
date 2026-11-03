@@ -11,7 +11,7 @@ subtopico: aritmetica-razao-proporcao
 habilidade: MT-H16
 tema: "Menor custo de tintas para paredes e teto"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q177.webp
 ---
 ![Questão 177 — ENEM 2022](enem-2022-ppl-d2-q177.webp)

@@ -11,7 +11,7 @@ subtopico: cidadania-estado-e-politica
 habilidade: CH-H14
 tema: "Autonomia do Banco Central: comparação de pontos de vista"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q086.webp
 ---
 ![Questão 86 — ENEM 2022](enem-2022-ppl-d1-q086.webp)

@@ -11,7 +11,7 @@ subtopico: estatistica-tabelas-e-graficos
 habilidade: MT-H25
 tema: "Escolher tubo de menor custo em tabela de vazão"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q173.webp
 ---
 ![Questão 173 — ENEM 2022](enem-2022-ppl-d2-q173.webp)

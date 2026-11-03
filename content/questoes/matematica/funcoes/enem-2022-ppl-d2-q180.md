@@ -11,7 +11,7 @@ subtopico: funcoes
 habilidade: MT-H20
 tema: "Domínio de função quadrática em trajetória de salto"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q180.webp
 ---
 ![Questão 180 — ENEM 2022](enem-2022-ppl-d2-q180.webp)

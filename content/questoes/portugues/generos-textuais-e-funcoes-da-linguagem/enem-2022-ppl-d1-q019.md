@@ -11,7 +11,7 @@ subtopico: generos-textuais-e-funcoes-da-linguagem
 habilidade: LC-H24
 tema: "Estratégia argumentativa em divulgação científica sobre lobo-guará"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q019.webp
 ---
 ![Questão 19 — ENEM 2022](enem-2022-ppl-d1-q019.webp)

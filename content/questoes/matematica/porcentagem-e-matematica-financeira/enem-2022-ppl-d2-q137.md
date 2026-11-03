@@ -11,7 +11,7 @@ subtopico: porcentagem-e-matematica-financeira
 habilidade: MT-H25
 tema: "Média de preços de ações em tabela e acréscimo de 30%"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q137.webp
 obs: "faixa de código de barras na margem esquerda, rodapé de página indevido e região em branco grande"
 ---

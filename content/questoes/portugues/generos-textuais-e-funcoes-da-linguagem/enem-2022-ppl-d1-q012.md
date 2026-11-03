@@ -11,7 +11,7 @@ subtopico: generos-textuais-e-funcoes-da-linguagem
 habilidade: LC-H21
 tema: "Campanha sobre participação social e políticas públicas"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d1-q012.webp
 ---
 ![Questão 12 — ENEM 2022](enem-2022-ppl-d1-q012.webp)

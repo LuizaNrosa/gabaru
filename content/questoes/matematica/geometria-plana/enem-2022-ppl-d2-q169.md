@@ -11,7 +11,7 @@ subtopico: geometria-plana
 habilidade: MT-H8
 tema: "Razão entre áreas de círculos inscrito e circunscrito ao quadrado"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q169.webp
 obs: "Branco enorme abaixo da questão"
 ---

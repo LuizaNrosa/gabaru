@@ -11,7 +11,7 @@ subtopico: tecnologias-da-comunicacao
 habilidade: LC-H4
 tema: "Algoritmos de redes sociais e engajamento em detrimento do usuário"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d1-q025.webp
 ---
 ![Questão 25 — ENEM 2022](enem-2022-ppl-d1-q025.webp)

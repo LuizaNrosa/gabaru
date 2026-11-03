@@ -11,7 +11,7 @@ subtopico: estatistica-tabelas-e-graficos
 habilidade: MT-H27
 tema: "Moda e média de interrupções na rede elétrica"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q168.webp
 obs: "Branco enorme abaixo da questão"
 ---

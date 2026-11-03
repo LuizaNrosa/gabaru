@@ -11,7 +11,7 @@ subtopico: meios-de-comunicacao-e-sociedade
 habilidade: CH-H21
 tema: "Crítica de Chauí à parcialidade da imprensa"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q061.webp
 ---
 ![Questão 61 — ENEM 2022](enem-2022-ppl-d1-q061.webp)

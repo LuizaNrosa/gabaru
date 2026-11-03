@@ -11,7 +11,7 @@ subtopico: movimentos-sociais-e-violencia
 habilidade: CH-H10
 tema: "Contrapoder dos movimentos sociais em Castells"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q087.webp
 ---
 ![Questão 87 — ENEM 2022](enem-2022-ppl-d1-q087.webp)

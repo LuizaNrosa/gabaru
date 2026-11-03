@@ -11,7 +11,7 @@ subtopico: porcentagem-e-matematica-financeira
 habilidade: MT-H1
 tema: "Converter três em cada dez em porcentagem"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q179.webp
 ---
 ![Questão 179 — ENEM 2022](enem-2022-ppl-d2-q179.webp)

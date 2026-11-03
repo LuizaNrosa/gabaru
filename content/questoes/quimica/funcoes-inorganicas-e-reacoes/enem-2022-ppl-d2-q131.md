@@ -11,7 +11,7 @@ subtopico: funcoes-inorganicas-e-reacoes
 habilidade: CN-H27
 tema: "Correção de pH de solo ácido com substância básica"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q131.webp
 obs: "imagem com texto de outra questão misturado: à direita aparecem figuras das alternativas D e E (Ar/Vidro/Ar) da questão 132 e trecho cortado no topo; rodapé de página indevido"
 ---

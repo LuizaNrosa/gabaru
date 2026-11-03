@@ -11,7 +11,7 @@ subtopico: tecnologias-da-comunicacao
 habilidade: LC-H28
 tema: "Boatos na internet e verificação de notícias"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d1-q034.webp
 ---
 ![Questão 34 — ENEM 2022](enem-2022-ppl-d1-q034.webp)

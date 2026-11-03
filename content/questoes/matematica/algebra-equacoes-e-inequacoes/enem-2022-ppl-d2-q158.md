@@ -11,7 +11,7 @@ subtopico: algebra-equacoes-e-inequacoes
 habilidade: MT-H19
 tema: "Produto de matrizes para notas finais com pesos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q158.webp
 ---
 ![Questão 158 — ENEM 2022](enem-2022-ppl-d2-q158.webp)

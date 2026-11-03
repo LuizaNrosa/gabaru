@@ -11,7 +11,7 @@ subtopico: meios-de-comunicacao-e-sociedade
 habilidade: CH-H21
 tema: "Letra de canção distópica sobre consumismo e controle"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q060.webp
 ---
 ![Questão 60 — ENEM 2022](enem-2022-ppl-d1-q060.webp)

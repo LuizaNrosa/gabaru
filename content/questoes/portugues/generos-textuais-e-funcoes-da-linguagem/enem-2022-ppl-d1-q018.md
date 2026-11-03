@@ -11,7 +11,7 @@ subtopico: generos-textuais-e-funcoes-da-linguagem
 habilidade: LC-H24
 tema: "Opinião de psicóloga como argumento de autoridade"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q018.webp
 ---
 ![Questão 18 — ENEM 2022](enem-2022-ppl-d1-q018.webp)

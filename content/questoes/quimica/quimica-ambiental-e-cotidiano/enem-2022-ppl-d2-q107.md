@@ -11,7 +11,7 @@ subtopico: quimica-ambiental-e-cotidiano
 habilidade: CN-H26
 tema: "Etanol como biocombustível e redução de emissão de CO2"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d2-q107.webp
 obs: "rodapé de página indevido (ROSA - 2ª Aplicação, logo enem2022) no fim da imagem e faixa de código de barras na margem esquerda"
 ---

@@ -11,7 +11,7 @@ subtopico: geometria-espacial
 habilidade: MT-H19
 tema: "Relação entre aresta da base e volume do prisma"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q170.webp
 obs: "Branco enorme abaixo da questão"
 ---

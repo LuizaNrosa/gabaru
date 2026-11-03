@@ -11,7 +11,7 @@ subtopico: algebra-equacoes-e-inequacoes
 habilidade: MT-H21
 tema: "Compras de três amigos em quadro de quantidades"
 classificacao_confianca: baixa
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q156.webp
 obs: "imagem cortada: só aparece o enunciado inicial e o quadro de quantidades; faltam o restante do texto, a pergunta final e as alternativas A a E"
 ---

@@ -11,7 +11,7 @@ subtopico: aritmetica-razao-proporcao
 habilidade: MT-H16
 tema: "Atraso proporcional de relógio de pulso em 90 dias"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q151.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
 ---

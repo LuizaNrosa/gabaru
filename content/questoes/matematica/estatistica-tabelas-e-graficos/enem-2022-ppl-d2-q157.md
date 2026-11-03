@@ -11,7 +11,7 @@ subtopico: estatistica-tabelas-e-graficos
 habilidade: MT-H25
 tema: "Menor média salarial por setor em tabela de salários"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q157.webp
 obs: "faixa de código de barras na margem esquerda, rodapé de página indevido (ROSA - 2ª Aplicação) e região em branco grande"
 ---

@@ -11,7 +11,7 @@ subtopico: interpretacao-de-texto
 habilidade: LC-H3
 tema: "Leitura crítica de notícias e busca do texto oculto"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q023.webp
 ---
 ![Questão 23 — ENEM 2022](enem-2022-ppl-d1-q023.webp)

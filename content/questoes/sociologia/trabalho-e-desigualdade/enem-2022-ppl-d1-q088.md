@@ -11,7 +11,7 @@ subtopico: trabalho-e-desigualdade
 habilidade: CH-H16
 tema: "Intensificação do trabalho no corte de cana e produtividade"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d1-q088.webp
 ---
 ![Questão 88 — ENEM 2022](enem-2022-ppl-d1-q088.webp)

@@ -11,7 +11,7 @@ subtopico: probabilidade
 habilidade: MT-H28
 tema: "Probabilidade de países em comissão com combinação"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d2-q164.webp
 obs: "Rodapé da página (ROSA - 2ª Aplicação) incluído no recorte"
 ---

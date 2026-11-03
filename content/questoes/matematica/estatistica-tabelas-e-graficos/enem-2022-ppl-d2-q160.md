@@ -11,7 +11,7 @@ subtopico: estatistica-tabelas-e-graficos
 habilidade: MT-H25
 tema: "Portadores de diabetes por macrorregião em tabela"
 classificacao_confianca: baixa
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q160.webp
 obs: "imagem cortada: tabela incompleta (faltam linhas após Oeste), pergunta final e alternativas A a E ausentes"
 ---

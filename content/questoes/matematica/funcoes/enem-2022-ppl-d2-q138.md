@@ -11,7 +11,7 @@ subtopico: funcoes
 habilidade: MT-H20
 tema: "Períodos com inclinação positiva em gráfico de preço de ativo"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q138.webp
 obs: "rodapé de página indevido (logo enem2022 e 'MT - 2º dia') no fim da imagem; região em branco grande"
 ---

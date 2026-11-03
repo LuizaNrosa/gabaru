@@ -11,7 +11,7 @@ subtopico: estatistica-tabelas-e-graficos
 habilidade: MT-H25
 tema: "Densidade médica por UF a partir de tabela"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q165.webp
 obs: "Tabela cortada (apenas 3 de 5 UFs visíveis) e alternativas A-E ausentes"
 ---

@@ -11,7 +11,7 @@ subtopico: interpretacao-de-texto
 habilidade: LC-H22
 tema: "Crítica comum sobre excesso de informação e mundo digital"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d1-q044.webp
 ---
 ![Questão 44 — ENEM 2022](enem-2022-ppl-d1-q044.webp)

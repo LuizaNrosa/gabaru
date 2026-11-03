@@ -11,7 +11,7 @@ subtopico: tecnologias-da-comunicacao
 habilidade: LC-H30
 tema: "Impressoras 3D e individualização da manufatura"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d1-q024.webp
 ---
 ![Questão 24 — ENEM 2022](enem-2022-ppl-d1-q024.webp)

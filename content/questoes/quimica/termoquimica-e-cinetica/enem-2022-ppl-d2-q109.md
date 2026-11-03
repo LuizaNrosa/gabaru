@@ -11,7 +11,7 @@ subtopico: termoquimica-e-cinetica
 habilidade: CN-H26
 tema: "Combustível com maior energia por CO2 pela entalpia de combustão"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q109.webp
 obs: "rodapé de página indevido (logo enem2022 e 'CN - 2º dia' no fim da imagem)"
 ---

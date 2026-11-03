@@ -11,7 +11,7 @@ subtopico: porcentagem-e-matematica-financeira
 habilidade: MT-H3
 tema: "Número mínimo de lâmpadas para aumentar iluminação em 50%"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d2-q178.webp
 ---
 ![Questão 178 — ENEM 2022](enem-2022-ppl-d2-q178.webp)

@@ -11,7 +11,7 @@ subtopico: estatistica-tabelas-e-graficos
 habilidade: MT-H27
 tema: "Média de horas de uso do celular e meta de redução"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q150.webp
 obs: "rodapé de página indevido (logo enem2022 e 'MT - 2º dia') no fim da imagem"
 ---

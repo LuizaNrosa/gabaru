@@ -11,7 +11,7 @@ subtopico: ligacoes-e-propriedades-da-materia
 habilidade: CN-H10
 tema: "Pesticidas lipossolúveis transmitidos pelo leite materno"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q116.webp
 ---
 ![Questão 116 — ENEM 2022](enem-2022-ppl-d2-q116.webp)

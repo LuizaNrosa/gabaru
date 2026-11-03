@@ -11,7 +11,7 @@ subtopico: ligacoes-e-propriedades-da-materia
 habilidade: CN-H18
 tema: "Contração de volume na mistura etanol e água"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d2-q095.webp
 obs: "rodapé de página indevido no fim da imagem e faixa de código de barras na margem esquerda; região em branco grande"
 ---

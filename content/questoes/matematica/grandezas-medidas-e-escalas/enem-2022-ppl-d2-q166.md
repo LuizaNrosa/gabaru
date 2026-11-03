@@ -11,7 +11,7 @@ subtopico: grandezas-medidas-e-escalas
 habilidade: MT-H10
 tema: "Notação científica do diâmetro de hemácias como razão"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q166.webp
 ---
 ![Questão 166 — ENEM 2022](enem-2022-ppl-d2-q166.webp)

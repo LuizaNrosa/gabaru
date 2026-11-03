@@ -11,7 +11,7 @@ subtopico: variacao-linguistica-e-gramatica
 habilidade: LC-H20
 tema: "Patrimônio linguístico brasileiro e língua geral nheengatu"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q015.webp
 ---
 ![Questão 15 — ENEM 2022](enem-2022-ppl-d1-q015.webp)

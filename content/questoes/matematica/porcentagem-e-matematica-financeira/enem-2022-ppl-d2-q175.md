@@ -11,7 +11,7 @@ subtopico: porcentagem-e-matematica-financeira
 habilidade: MT-H3
 tema: "Redução percentual de consumo com bandeira tarifária"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q175.webp
 obs: "Branco enorme abaixo da questão"
 ---

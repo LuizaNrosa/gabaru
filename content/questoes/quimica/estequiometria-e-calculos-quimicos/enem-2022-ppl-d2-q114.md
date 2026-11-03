@@ -11,7 +11,7 @@ subtopico: estequiometria-e-calculos-quimicos
 habilidade: CN-H25
 tema: "Volume de N2 produzido por azida de sódio em airbag"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q114.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
 ---

@@ -11,7 +11,7 @@ subtopico: geometria-plana
 habilidade: MT-H8
 tema: "Comprimento do cabo extensor para dobrar área circular"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d2-q174.webp
 obs: "Branco enorme abaixo da questão"
 ---

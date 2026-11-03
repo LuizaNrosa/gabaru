@@ -11,7 +11,7 @@ subtopico: sequencias-pa-pg
 habilidade: MT-H2
 tema: "Sequência de bactérias por bipartição (progressão geométrica)"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q176.webp
 obs: "Branco enorme abaixo da questão"
 ---

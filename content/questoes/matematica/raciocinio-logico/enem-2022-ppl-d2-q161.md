@@ -11,7 +11,7 @@ subtopico: raciocinio-logico
 habilidade: MT-H3
 tema: "Posição no quadro de medalhas e medalhas necessárias"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q161.webp
 ---
 ![Questão 161 — ENEM 2022](enem-2022-ppl-d2-q161.webp)

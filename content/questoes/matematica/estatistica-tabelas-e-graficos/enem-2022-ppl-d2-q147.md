@@ -11,7 +11,7 @@ subtopico: estatistica-tabelas-e-graficos
 habilidade: MT-H25
 tema: "Tempo de garantia por frequência acumulada de defeitos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q147.webp
 obs: "rodapé de página indevido (início de 'MT - 2º dia') no fim da imagem e região em branco grande"
 ---

@@ -11,7 +11,7 @@ subtopico: grandezas-medidas-e-escalas
 habilidade: MT-H11
 tema: "Escala de desenho de terreno retangular"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q155.webp
 ---
 ![Questão 155 — ENEM 2022](enem-2022-ppl-d2-q155.webp)

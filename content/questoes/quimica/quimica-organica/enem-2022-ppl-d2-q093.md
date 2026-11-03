@@ -11,7 +11,7 @@ subtopico: quimica-organica
 habilidade: CN-H25
 tema: "Extração ácido-base de fenol, anilina, ácido acético e acetona"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q093.webp
 obs: "rodapé de página indevido (logo enem2022 e texto 'CN - 2º dia' no fim da imagem); região em branco grande no final"
 ---

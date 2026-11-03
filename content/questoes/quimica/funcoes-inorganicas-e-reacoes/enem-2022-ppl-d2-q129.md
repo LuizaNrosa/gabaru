@@ -11,7 +11,7 @@ subtopico: funcoes-inorganicas-e-reacoes
 habilidade: CN-H27
 tema: "Remoção de gás poluente por calcário em purificador químico"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q129.webp
 obs: "rodapé de página indevido (logo enem2022 e 'CN - 2º dia | Caderno 6 - ROSA - 2ª Aplicação') no fim da imagem"
 ---

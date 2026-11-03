@@ -11,7 +11,7 @@ subtopico: interpretacao-de-texto
 habilidade: LC-H24
 tema: "Estratégias argumentativas em texto sobre reciclagem de hábitos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d1-q033.webp
 ---
 ![Questão 33 — ENEM 2022](enem-2022-ppl-d1-q033.webp)

@@ -11,7 +11,7 @@ subtopico: porcentagem-e-matematica-financeira
 habilidade: MT-H3
 tema: "Massa máxima na balança com erro percentual de 8%"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q159.webp
 obs: "rodapé de página indevido (início de 'MT - 2º dia') no fim da imagem"
 ---

@@ -11,7 +11,7 @@ subtopico: movimentos-sociais-e-violencia
 habilidade: CH-H10
 tema: "Movimento dos sem-teto e direito à moradia adequada"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q067.webp
 ---
 ![Questão 67 — ENEM 2022](enem-2022-ppl-d1-q067.webp)

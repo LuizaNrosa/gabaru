@@ -11,7 +11,7 @@ subtopico: interpretacao-de-texto
 habilidade: LC-H22
 tema: "Comparação de textos sobre educação financeira infantil"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q017.webp
 ---
 ![Questão 17 — ENEM 2022](enem-2022-ppl-d1-q017.webp)

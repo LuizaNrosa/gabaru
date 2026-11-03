@@ -11,7 +11,7 @@ subtopico: cidadania-estado-e-politica
 habilidade: CH-H24
 tema: "Rancière, riqueza e nascimento e oligarquias nas democracias"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q080.webp
 ---
 ![Questão 80 — ENEM 2022](enem-2022-ppl-d1-q080.webp)

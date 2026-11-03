@@ -11,7 +11,7 @@ subtopico: interpretacao-de-texto
 habilidade: LC-H23
 tema: "Argumentos sobre o lado sombrio dos contos de fadas"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q009.webp
 ---
 ![Questão 9 — ENEM 2022](enem-2022-ppl-d1-q009.webp)

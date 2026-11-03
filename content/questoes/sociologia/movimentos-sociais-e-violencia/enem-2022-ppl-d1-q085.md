@@ -11,7 +11,7 @@ subtopico: movimentos-sociais-e-violencia
 habilidade: CH-H10
 tema: "Caso George Floyd e combate à discriminação racial"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d1-q085.webp
 obs: "imagem com resquício de texto (alternativa E) da questão anterior no topo"
 ---

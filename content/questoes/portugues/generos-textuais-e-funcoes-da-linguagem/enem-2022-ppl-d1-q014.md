@@ -11,7 +11,7 @@ subtopico: generos-textuais-e-funcoes-da-linguagem
 habilidade: LC-H19
 tema: "Funções da linguagem no discurso de Ulysses Guimarães"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q014.webp
 obs: "região em branco grande na parte inferior da imagem (imagem muito alta, texto ocupa cerca de metade)"
 ---

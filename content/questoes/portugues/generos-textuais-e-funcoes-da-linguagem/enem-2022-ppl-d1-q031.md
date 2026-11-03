@@ -11,7 +11,7 @@ subtopico: generos-textuais-e-funcoes-da-linguagem
 habilidade: LC-H23
 tema: "Estratégia de convencimento em sinopse de filme"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q031.webp
 ---
 ![Questão 31 — ENEM 2022](enem-2022-ppl-d1-q031.webp)

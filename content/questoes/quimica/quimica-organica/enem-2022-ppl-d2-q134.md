@@ -11,7 +11,7 @@ subtopico: quimica-organica
 habilidade: CN-H24
 tema: "Biotransformação de benzopireno em epóxido: tipo de reação"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q134.webp
 obs: "rodapé de página indevido (logo enem2022 e 'CN - 2º dia') no fim da imagem"
 ---

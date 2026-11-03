@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" width="1240" height="1754" role="img" aria-label="Capa das provas oficiais do COLUNI, ano 2026 — Gabaru">
+  <!-- GABARU · Capa-tipo COLUNI · Sistema "papel de prova + carimbo"
+       Paleta: papel #f7f3ea · grafite #232323 · carimbo #c8501e
+       Para novo ano: trocar apenas o valor em .edicao-valor -->
+  <style>
+    .f { font-family: 'Archivo', 'Archivo Black', 'Helvetica Neue', Arial, sans-serif; }
+    .ink { fill: #232323; }
+    .pap { fill: #f7f3ea; }
+    .acc { fill: #c8501e; }
+  </style>
+
+  <rect width="1240" height="1754" fill="#f7f3ea"/>
+  <rect x="56" y="56" width="1128" height="1642" fill="none" stroke="#232323" stroke-width="3"/>
+
+  <!-- Cabeçalho: símbolo G (mesmo path de src/components/logo.tsx) + wordmark -->
+  <g transform="translate(88 88) scale(1.7)">
+    <path d="M38 12A17 17 0 1 0 40 29H25V21H48V29A25 25 0 1 1 43 6Z" transform="translate(3 4) scale(.85)" fill="#232323"/>
+  </g>
+  <text class="f ink" x="192" y="152" font-size="62" font-weight="900">gabaru<tspan class="acc">.</tspan></text>
+  <text class="f ink" x="1152" y="146" text-anchor="end" font-size="24" font-weight="700" letter-spacing="4">ACERVO · PROVAS OFICIAIS</text>
+  <line x1="88" y1="198" x2="1152" y2="198" stroke="#232323" stroke-width="4"/>
+  <line x1="88" y1="210" x2="1152" y2="210" stroke="#232323" stroke-width="1.5"/>
+
+  <!-- Título -->
+  <text class="f ink" x="88" y="300" font-size="32" font-weight="800" letter-spacing="9">PROVAS OFICIAIS · UFV</text>
+  <text class="f ink" x="84" y="540" font-size="228" font-weight="900">COLUNI</text>
+  <text class="f ink" x="88" y="640" font-size="46" font-weight="800" letter-spacing="2">CADERNO DE QUESTÕES</text>
+
+  <!-- Edição -->
+  <text class="f ink edicao-rotulo" x="88" y="884" font-size="26" font-weight="700" letter-spacing="7">ANO · EDIÇÃO COMPLETA</text>
+  <text class="f ink edicao-valor" x="84" y="1012" font-size="128" font-weight="900">2026</text>
+  <line x1="88" y1="1066" x2="1152" y2="1066" stroke="#232323" stroke-width="2"/>
+
+  <!-- Folha de respostas (sistema gráfico) -->
+  <g>
+    <rect x="88" y="1100" width="600" height="380" fill="none" stroke="#232323" stroke-width="3"/>
+    <rect x="88" y="1100" width="600" height="46" fill="#232323"/>
+    <text class="f pap" x="112" y="1132" font-size="21" font-weight="800" letter-spacing="3">FOLHA DE RESPOSTAS</text>
+    <g class="f ink" font-size="20" font-weight="700" text-anchor="middle">
+      <text x="238" y="1186">A</text><text x="322" y="1186">B</text><text x="406" y="1186">C</text><text x="490" y="1186">D</text><text x="574" y="1186">E</text>
+    </g>
+    <g fill="none" stroke="#232323" stroke-width="2.5">
+      <circle cx="238" cy="1228" r="16"/><circle cx="322" cy="1228" r="16"/><circle cx="406" cy="1228" r="16" fill="#232323"/><circle cx="490" cy="1228" r="16"/><circle cx="574" cy="1228" r="16"/>
+      <circle cx="238" cy="1272" r="16" fill="#232323"/><circle cx="322" cy="1272" r="16"/><circle cx="406" cy="1272" r="16"/><circle cx="490" cy="1272" r="16"/><circle cx="574" cy="1272" r="16"/>
+      <circle cx="238" cy="1316" r="16"/><circle cx="322" cy="1316" r="16"/><circle cx="406" cy="1316" r="16"/><circle cx="490" cy="1316" r="16" fill="#c8501e" stroke="#c8501e"/><circle cx="574" cy="1316" r="16"/>
+      <circle cx="238" cy="1360" r="16"/><circle cx="322" cy="1360" r="16" fill="#232323"/><circle cx="406" cy="1360" r="16"/><circle cx="490" cy="1360" r="16"/><circle cx="574" cy="1360" r="16"/>
+      <circle cx="238" cy="1404" r="16"/><circle cx="322" cy="1404" r="16"/><circle cx="406" cy="1404" r="16"/><circle cx="490" cy="1404" r="16"/><circle cx="574" cy="1404" r="16" fill="#232323"/>
+      <circle cx="238" cy="1448" r="16"/><circle cx="322" cy="1448" r="16"/><circle cx="406" cy="1448" r="16" fill="#232323"/><circle cx="490" cy="1448" r="16"/><circle cx="574" cy="1448" r="16"/>
+    </g>
+    <g class="f ink" font-size="24" font-weight="700" text-anchor="middle">
+      <text x="140" y="1236">01</text><text x="140" y="1280">02</text><text x="140" y="1324">03</text>
+      <text x="140" y="1368">04</text><text x="140" y="1412">05</text><text x="140" y="1456">06</text>
+    </g>
+  </g>
+
+  <!-- Carimbo de verificação -->
+  <g transform="translate(902 1258) rotate(-9)">
+    <rect x="-200" y="-105" width="400" height="210" rx="18" fill="#f7f3ea" fill-opacity="0.88" stroke="#c8501e" stroke-width="8"/>
+    <rect x="-184" y="-89" width="368" height="178" rx="12" fill="none" stroke="#c8501e" stroke-width="2.5"/>
+    <text class="f acc" x="0" y="-30" text-anchor="middle" font-size="40" font-weight="900" letter-spacing="3">QUESTÕES</text>
+    <text class="f acc" x="0" y="14" text-anchor="middle" font-size="40" font-weight="900" letter-spacing="3">OFICIAIS</text>
+    <text class="f acc" x="0" y="58" text-anchor="middle" font-size="40" font-weight="900" letter-spacing="3">VERIFICADAS</text>
+  </g>
+
+  <!-- Base -->
+  <text class="f ink" x="88" y="1562" font-size="26" font-weight="700" letter-spacing="3">PROVA COMPLETA · GABARITO OFICIAL CONFERIDO</text>
+  <text class="f ink" x="88" y="1606" font-size="19" opacity="0.72">Material de estudo do acervo Gabaru. Em caso de divergência, prevalece o documento oficial da banca.</text>
+  <rect x="56" y="1626" width="1128" height="72" fill="#232323"/>
+  <text class="f pap" x="620" y="1673" text-anchor="middle" font-size="25" font-weight="800" letter-spacing="6">GABARU · A GENTE ESTUDA JUNTO</text>
+</svg>

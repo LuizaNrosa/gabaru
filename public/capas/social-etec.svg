@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200" role="img" aria-label="Miniatura social do caderno Vestibulinho ETEC 2026/1 — Gabaru">
+  <!-- GABARU · Social ETEC (1200×1200) · Sistema "papel de prova + carimbo" -->
+  <style>
+    .f { font-family: 'Archivo', 'Archivo Black', 'Helvetica Neue', Arial, sans-serif; }
+    .ink { fill: #232323; }
+    .pap { fill: #f7f3ea; }
+    .acc { fill: #c8501e; }
+  </style>
+
+  <rect width="1200" height="1200" fill="#f7f3ea"/>
+  <rect x="48" y="48" width="1104" height="1104" fill="none" stroke="#232323" stroke-width="3"/>
+
+  <g transform="translate(76 72) scale(1.35)">
+    <path d="M38 12A17 17 0 1 0 40 29H25V21H48V29A25 25 0 1 1 43 6Z" transform="translate(3 4) scale(.85)" fill="#232323"/>
+  </g>
+  <text class="f ink" x="158" y="128" font-size="52" font-weight="900">gabaru<tspan class="acc">.</tspan></text>
+  <line x1="76" y1="168" x2="1124" y2="168" stroke="#232323" stroke-width="4"/>
+  <line x1="76" y1="179" x2="1124" y2="179" stroke="#232323" stroke-width="1.5"/>
+
+  <text class="f ink" x="76" y="258" font-size="29" font-weight="800" letter-spacing="7">CADERNO DE QUESTÕES</text>
+  <text class="f ink" x="74" y="384" font-size="94" font-weight="900">VESTIBULINHO</text>
+  <text class="f acc" x="74" y="596" font-size="210" font-weight="900">ETEC</text>
+  <text class="f ink edicao-valor" x="76" y="684" font-size="52" font-weight="900">EDIÇÃO 2026/1</text>
+
+  <!-- Folha de respostas compacta -->
+  <g>
+    <rect x="76" y="716" width="430" height="208" fill="none" stroke="#232323" stroke-width="3"/>
+    <rect x="76" y="716" width="430" height="38" fill="#232323"/>
+    <text class="f pap" x="92" y="741" font-size="16" font-weight="800" letter-spacing="2">FOLHA DE RESPOSTAS</text>
+    <g class="f ink" font-size="16" font-weight="700" text-anchor="middle">
+      <text x="200" y="784">A</text><text x="256" y="784">B</text><text x="312" y="784">C</text><text x="368" y="784">D</text><text x="424" y="784">E</text>
+    </g>
+    <g fill="none" stroke="#232323" stroke-width="2.5">
+      <circle cx="200" cy="816" r="15"/><circle cx="256" cy="816" r="15"/><circle cx="312" cy="816" r="15" fill="#232323"/><circle cx="368" cy="816" r="15"/><circle cx="424" cy="816" r="15"/>
+      <circle cx="200" cy="854" r="15" fill="#232323"/><circle cx="256" cy="854" r="15"/><circle cx="312" cy="854" r="15"/><circle cx="368" cy="854" r="15"/><circle cx="424" cy="854" r="15"/>
+      <circle cx="200" cy="892" r="15"/><circle cx="256" cy="892" r="15"/><circle cx="312" cy="892" r="15"/><circle cx="368" cy="892" r="15" fill="#c8501e" stroke="#c8501e"/><circle cx="424" cy="892" r="15"/>
+    </g>
+    <g class="f ink" font-size="19" font-weight="700" text-anchor="middle">
+      <text x="118" y="822">01</text><text x="118" y="860">02</text><text x="118" y="898">03</text>
+    </g>
+  </g>
+
+  <!-- Carimbo -->
+  <g transform="translate(842 822) rotate(-9) scale(0.8)">
+    <rect x="-200" y="-105" width="400" height="210" rx="18" fill="#f7f3ea" fill-opacity="0.88" stroke="#c8501e" stroke-width="8"/>
+    <rect x="-184" y="-89" width="368" height="178" rx="12" fill="none" stroke="#c8501e" stroke-width="2.5"/>
+    <text class="f acc" x="0" y="-30" text-anchor="middle" font-size="40" font-weight="900" letter-spacing="3">QUESTÕES</text>
+    <text class="f acc" x="0" y="14" text-anchor="middle" font-size="40" font-weight="900" letter-spacing="3">OFICIAIS</text>
+    <text class="f acc" x="0" y="58" text-anchor="middle" font-size="40" font-weight="900" letter-spacing="3">VERIFICADAS</text>
+  </g>
+
+  <rect x="48" y="1058" width="1104" height="94" fill="#232323"/>
+  <text class="f pap" x="600" y="1117" text-anchor="middle" font-size="25" font-weight="800" letter-spacing="5">PROVA COMPLETA · GABARITO OFICIAL</text>
+</svg>

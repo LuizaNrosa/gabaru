@@ -11,7 +11,7 @@ subtopico: compreensao-de-texto-em-espanhol
 habilidade: LC-H5
 tema: "Carlos Fuentes sobre o papel da amizade"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q102.webp
 ---
 ![Questão 102 — ENEM 2022](enem-2022-ppl-d1-q102.webp)

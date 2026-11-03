@@ -11,7 +11,7 @@ subtopico: evolucao
 habilidade: CN-H16
 tema: "Adaptação de frutos do palmito juçara à extinção de aves"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q091.webp
 ---
 ![Questão 91 — ENEM 2022](enem-2022-ppl-d2-q091.webp)

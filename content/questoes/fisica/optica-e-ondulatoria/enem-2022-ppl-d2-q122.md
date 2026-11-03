@@ -11,7 +11,7 @@ subtopico: optica-e-ondulatoria
 habilidade: CN-H17
 tema: "Faixa de maior sensibilidade auditiva em audiograma"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q122.webp
 ---
 ![Questão 122 — ENEM 2022](enem-2022-ppl-d2-q122.webp)

@@ -11,7 +11,7 @@ subtopico: artes-visuais
 habilidade: LC-H14
 tema: "Diversidade cultural e identidade nacional no Modernismo"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d1-q029.webp
 ---
 ![Questão 29 — ENEM 2022](enem-2022-ppl-d1-q029.webp)

@@ -11,7 +11,7 @@ subtopico: compreensao-de-texto-em-espanhol
 habilidade: LC-H7
 tema: "Campanha contra a violência de gênero Ni una menos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q104.webp
 ---
 ![Questão 104 — ENEM 2022](enem-2022-ppl-d1-q104.webp)

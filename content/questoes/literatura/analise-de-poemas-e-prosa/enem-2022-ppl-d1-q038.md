@@ -11,7 +11,7 @@ subtopico: analise-de-poemas-e-prosa
 habilidade: LC-H16
 tema: "Narrador-personagem e tensão na relação pai e filho"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q038.webp
 ---
 ![Questão 38 — ENEM 2022](enem-2022-ppl-d1-q038.webp)

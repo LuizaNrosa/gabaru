@@ -11,7 +11,7 @@ subtopico: compreensao-de-texto-em-ingles
 habilidade: LC-H6
 tema: "Cartum sobre choques culturais em aeroportos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q005.webp
 obs: "rodapé indevido: cabeçalho 'Questões de 01 a 05 (opção: espanhol)' no fim da imagem"
 ---

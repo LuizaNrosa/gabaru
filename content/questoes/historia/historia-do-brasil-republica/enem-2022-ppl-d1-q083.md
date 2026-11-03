@@ -11,7 +11,7 @@ subtopico: historia-do-brasil-republica
 habilidade: CH-H13
 tema: "Governo Goulart e protagonismo dos trabalhadores rurais"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q083.webp
 ---
 ![Questão 83 — ENEM 2022](enem-2022-ppl-d1-q083.webp)

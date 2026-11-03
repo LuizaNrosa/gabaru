@@ -11,7 +11,7 @@ subtopico: eletricidade-e-circuitos
 habilidade: CN-H18
 tema: "Precipitador eletrostático e polarização de partículas poluentes"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q092.webp
 obs: "rodapé de página indevido (cabeçalho do caderno 'CN - 2º dia | Caderno 6 - ROSA - 2ª Aplicação' e logo enem2022 cortados no fim da imagem)"
 ---

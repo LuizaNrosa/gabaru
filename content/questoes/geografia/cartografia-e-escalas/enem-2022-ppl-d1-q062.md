@@ -11,7 +11,7 @@ subtopico: cartografia-e-escalas
 habilidade: CH-H6
 tema: "Projeção cartográfica no símbolo da ONU e geopolítica"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q062.webp
 ---
 ![Questão 62 — ENEM 2022](enem-2022-ppl-d1-q062.webp)

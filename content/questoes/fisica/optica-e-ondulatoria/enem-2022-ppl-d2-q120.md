@@ -11,7 +11,7 @@ subtopico: optica-e-ondulatoria
 habilidade: CN-H1
 tema: "Índice de refração do corpo igual ao do ar e visão"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q120.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
 ---

@@ -11,7 +11,7 @@ subtopico: compreensao-de-texto-em-ingles
 habilidade: LC-H6
 tema: "Infográfico sobre poluição da indústria da moda"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q002.webp
 ---
 ![Questão 2 — ENEM 2022](enem-2022-ppl-d1-q002.webp)

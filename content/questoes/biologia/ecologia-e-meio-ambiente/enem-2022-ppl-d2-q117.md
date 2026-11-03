@@ -11,7 +11,7 @@ subtopico: ecologia-e-meio-ambiente
 habilidade: CN-H10
 tema: "Efeito de borda da fragmentação de habitat sobre espécies vegetais"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q117.webp
 ---
 ![Questão 117 — ENEM 2022](enem-2022-ppl-d2-q117.webp)

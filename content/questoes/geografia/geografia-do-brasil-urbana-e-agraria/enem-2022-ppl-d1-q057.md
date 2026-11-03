@@ -11,7 +11,7 @@ subtopico: geografia-do-brasil-urbana-e-agraria
 habilidade: CH-H19
 tema: "Inovações agrícolas e expansão do agronegócio no Cerrado"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q057.webp
 ---
 ![Questão 57 — ENEM 2022](enem-2022-ppl-d1-q057.webp)

@@ -11,7 +11,7 @@ subtopico: cultura-corporal-e-esporte
 habilidade: LC-H9
 tema: "Mudanças nas regras do voleibol e espetáculo televisivo"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q008.webp
 ---
 ![Questão 8 — ENEM 2022](enem-2022-ppl-d1-q008.webp)

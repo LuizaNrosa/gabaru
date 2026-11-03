@@ -11,7 +11,7 @@ subtopico: cultura-corporal-e-esporte
 habilidade: LC-H10
 tema: "Atividade física, saúde multifatorial e doenças crônicas"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q040.webp
 obs: "imagem com resquício de texto cortado da questão anterior no topo"
 ---

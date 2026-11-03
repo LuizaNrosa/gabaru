@@ -11,7 +11,7 @@ subtopico: cartografia-e-escalas
 habilidade: CH-H6
 tema: "Representação cartográfica de sociedade em rede no território"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q046.webp
 ---
 ![Questão 46 — ENEM 2022](enem-2022-ppl-d1-q046.webp)

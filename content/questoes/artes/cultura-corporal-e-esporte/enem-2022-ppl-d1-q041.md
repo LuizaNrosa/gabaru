@@ -11,7 +11,7 @@ subtopico: cultura-corporal-e-esporte
 habilidade: LC-H9
 tema: "Jogos e brincadeiras populares transmitidos pela tradição oral"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q041.webp
 ---
 ![Questão 41 — ENEM 2022](enem-2022-ppl-d1-q041.webp)

@@ -11,7 +11,7 @@ subtopico: mecanica-dinamica-e-estatica
 habilidade: CN-H7
 tema: "Escolha de revestimento de rampa pelo coeficiente de atrito"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q113.webp
 obs: "imagem cortada: tabela de revestimentos incompleta (faltam linhas), pergunta final e alternativas A a E ausentes"
 ---

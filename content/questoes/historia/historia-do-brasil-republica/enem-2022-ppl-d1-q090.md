@@ -11,7 +11,7 @@ subtopico: historia-do-brasil-republica
 habilidade: CH-H1
 tema: "Charge sobre higienismo e remoção da favela em 1907"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q090.webp
 ---
 ![Questão 90 — ENEM 2022](enem-2022-ppl-d1-q090.webp)

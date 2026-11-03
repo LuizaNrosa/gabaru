@@ -11,7 +11,7 @@ subtopico: termologia-e-termodinamica
 habilidade: CN-H21
 tema: "Condutividade térmica do metal em cabo de panela"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q106.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
 ---

@@ -11,7 +11,7 @@ subtopico: cultura-corporal-e-esporte
 habilidade: LC-H11
 tema: "Exercício físico e saúde na pandemia de covid-19"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q007.webp
 ---
 ![Questão 7 — ENEM 2022](enem-2022-ppl-d1-q007.webp)

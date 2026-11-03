@@ -11,7 +11,7 @@ subtopico: ecologia-e-meio-ambiente
 habilidade: CN-H4
 tema: "Conservação de anfíbios anuros em remanescente de Floresta de Araucária"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d2-q105.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
 ---

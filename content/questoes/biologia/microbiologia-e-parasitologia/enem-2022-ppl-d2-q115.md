@@ -11,7 +11,7 @@ subtopico: microbiologia-e-parasitologia
 habilidade: CN-H3
 tema: "Doce de compota azedando: senso comum versus explicação científica"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q115.webp
 obs: "rodapé de página indevido no fim da imagem (ROSA - 2ª Aplicação, logo enem2022), faixa de código de barras na margem esquerda e região em branco grande"
 ---

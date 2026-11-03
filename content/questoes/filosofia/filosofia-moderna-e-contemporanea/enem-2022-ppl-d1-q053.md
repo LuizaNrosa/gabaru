@@ -11,7 +11,7 @@ subtopico: filosofia-moderna-e-contemporanea
 habilidade: CH-H14
 tema: "Existencialismo e tema fundamental da filosofia"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q053.webp
 ---
 ![Questão 53 — ENEM 2022](enem-2022-ppl-d1-q053.webp)

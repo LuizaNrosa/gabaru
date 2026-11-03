@@ -11,7 +11,7 @@ subtopico: historia-do-brasil-republica
 habilidade: CH-H16
 tema: "Trabalho feminino e infantil na indústria têxtil paulista"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d1-q050.webp
 ---
 ![Questão 50 — ENEM 2022](enem-2022-ppl-d1-q050.webp)

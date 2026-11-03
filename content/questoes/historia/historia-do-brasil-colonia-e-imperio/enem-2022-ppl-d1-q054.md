@@ -11,7 +11,7 @@ subtopico: historia-do-brasil-colonia-e-imperio
 habilidade: CH-H1
 tema: "Relatos de viajantes e identidade europeia sobre o Brasil"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q054.webp
 ---
 ![Questão 54 — ENEM 2022](enem-2022-ppl-d1-q054.webp)

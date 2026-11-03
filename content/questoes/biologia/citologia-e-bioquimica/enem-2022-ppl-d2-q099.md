@@ -11,7 +11,7 @@ subtopico: citologia-e-bioquimica
 habilidade: CN-H15
 tema: "Rastreio do isótopo 18O em sistema com células e respiração"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q099.webp
 obs: "rodapé de página indevido no fim da imagem (ROSA - 2ª Aplicação, logo enem2022) e faixa de código de barras na margem esquerda"
 ---

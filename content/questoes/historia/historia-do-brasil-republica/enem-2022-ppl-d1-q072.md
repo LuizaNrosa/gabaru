@@ -11,7 +11,7 @@ subtopico: historia-do-brasil-republica
 habilidade: CH-H13
 tema: "Frente Negra Brasileira e combate à discriminação racial"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d1-q072.webp
 ---
 ![Questão 72 — ENEM 2022](enem-2022-ppl-d1-q072.webp)

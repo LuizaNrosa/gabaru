@@ -11,7 +11,7 @@ subtopico: geografia-do-brasil-urbana-e-agraria
 habilidade: CH-H26
 tema: "Mobilidade e meio ecológico no modo de vida caipira"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q065.webp
 ---
 ![Questão 65 — ENEM 2022](enem-2022-ppl-d1-q065.webp)

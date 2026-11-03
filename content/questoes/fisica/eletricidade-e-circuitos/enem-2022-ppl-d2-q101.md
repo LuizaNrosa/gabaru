@@ -11,7 +11,7 @@ subtopico: eletricidade-e-circuitos
 habilidade: CN-H5
 tema: "Brilho das lâmpadas em circuito misto após queima de uma"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q101.webp
 obs: "rodapé de página indevido no fim da imagem, faixa de código de barras na margem esquerda e região em branco grande"
 ---

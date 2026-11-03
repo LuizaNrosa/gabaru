@@ -11,7 +11,7 @@ subtopico: historia-do-brasil-colonia-e-imperio
 habilidade: CH-H14
 tema: "Darcy Ribeiro, açúcar e pecuária na formação do povo"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q081.webp
 ---
 ![Questão 81 — ENEM 2022](enem-2022-ppl-d1-q081.webp)

@@ -11,7 +11,7 @@ subtopico: geografia-ambiental
 habilidade: CH-H27
 tema: "Sistema agroflorestal contra desertificação no Semiárido"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q073.webp
 ---
 ![Questão 73 — ENEM 2022](enem-2022-ppl-d1-q073.webp)

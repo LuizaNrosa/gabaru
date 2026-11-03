@@ -11,7 +11,7 @@ subtopico: citologia-e-bioquimica
 habilidade: CN-H15
 tema: "Ação da colchicina no fuso acromático durante a divisão celular"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d2-q108.webp
 ---
 ![Questão 108 — ENEM 2022](enem-2022-ppl-d2-q108.webp)

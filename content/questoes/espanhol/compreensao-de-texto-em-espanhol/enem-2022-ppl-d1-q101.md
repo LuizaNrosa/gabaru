@@ -11,7 +11,7 @@ subtopico: compreensao-de-texto-em-espanhol
 habilidade: LC-H5
 tema: "Canção Como en casa e sentimento de pertencimento"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q101.webp
 ---
 ![Questão 101 — ENEM 2022](enem-2022-ppl-d1-q101.webp)

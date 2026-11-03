@@ -11,7 +11,7 @@ subtopico: biotecnologia-e-reproducao
 habilidade: CN-H11
 tema: "Clonagem embrionária para reviver mamute"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q127.webp
 obs: "rodapé de página indevido (ROSA - 2ª Aplicação, logo enem2022) no fim da imagem e faixa de código de barras na margem esquerda"
 ---

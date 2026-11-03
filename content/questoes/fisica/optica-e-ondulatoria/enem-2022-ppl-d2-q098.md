@@ -11,7 +11,7 @@ subtopico: optica-e-ondulatoria
 habilidade: CN-H1
 tema: "Fibra óptica, índices de refração e reflexão da luz"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d2-q098.webp
 obs: "imagem cortada: faltam o final da figura, o comando da pergunta e todas as alternativas A a E"
 ---

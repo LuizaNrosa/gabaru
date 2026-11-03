@@ -11,7 +11,7 @@ subtopico: energia-trabalho-e-potencia
 habilidade: CN-H20
 tema: "Origem da energia liberada por meteorito na atmosfera"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q125.webp
 obs: "rodapé de página indevido (início de 'CN - 2º dia' no fim da imagem)"
 ---

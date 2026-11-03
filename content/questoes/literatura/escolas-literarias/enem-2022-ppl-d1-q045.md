@@ -11,7 +11,7 @@ subtopico: escolas-literarias
 habilidade: LC-H16
 tema: "Naturalismo em Bom-Crioulo de Adolfo Caminha"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q045.webp
 obs: "imagem enorme com página indevida: contém também instruções e proposta de redação, textos motivadores e rodapé 'Ciências Humanas, questões 46 a 90'"
 ---

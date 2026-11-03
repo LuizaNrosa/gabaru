@@ -11,7 +11,7 @@ subtopico: analise-de-poemas-e-prosa
 habilidade: LC-H17
 tema: "Valores humanos no apelido do personagem Bondade"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q039.webp
 obs: "imagem com resquício de texto cortado da questão anterior no topo"
 ---

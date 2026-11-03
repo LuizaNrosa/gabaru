@@ -11,7 +11,7 @@ subtopico: eletricidade-e-circuitos
 habilidade: CN-H5
 tema: "Economia de energia ao trocar lâmpada incandescente por LED"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q103.webp
 ---
 ![Questão 103 — ENEM 2022](enem-2022-ppl-d2-q103.webp)

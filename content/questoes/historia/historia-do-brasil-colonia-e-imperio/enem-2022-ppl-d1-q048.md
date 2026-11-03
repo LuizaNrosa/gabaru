@@ -11,7 +11,7 @@ subtopico: historia-do-brasil-colonia-e-imperio
 habilidade: CH-H3
 tema: "Estratégias de escravizados e práticas afro-brasileiras atuais"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q048.webp
 ---
 ![Questão 48 — ENEM 2022](enem-2022-ppl-d1-q048.webp)

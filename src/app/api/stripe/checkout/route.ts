@@ -27,7 +27,10 @@ export async function POST(req: Request) {
 
   const priceId = process.env.STRIPE_PRICE_ID;
   if (!priceId) {
-    return NextResponse.json({ error: "STRIPE_PRICE_ID não configurado." }, { status: 500 });
+    // Detalhe de configuração fica no log do servidor, não na resposta:
+    // o cliente não precisa (nem deve) saber nomes de variáveis internas.
+    console.error("[stripe/checkout] STRIPE_PRICE_ID não configurado.");
+    return NextResponse.json({ error: "Pagamento indisponível no momento." }, { status: 500 });
   }
 
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";

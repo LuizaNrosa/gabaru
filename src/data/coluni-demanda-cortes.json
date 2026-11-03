@@ -1,0 +1,2114 @@
+{
+  "meta": {
+    "geradoEm": "2026-11-03",
+    "origem": "Base Gabaru de demanda e cortes derivados do COLUNI/UFV, compilada de documentos oficiais da UFV/COLUNI (relatórios candidato/vaga, listas de convocados e de espera, editais) arquivados em ~/workspace/gabaru-dados-coluni/ (ver RELATORIO.md e fonteUrl por registo).",
+    "nota": "A UFV não publica nota de corte. Cada corte aqui é DERIVADO da lista oficial de convocados da chamada: a menor pontuação entre os convocados (agregado; nenhum dado individual). A fronteira de espera é a maior pontuação entre os candidatos que permaneceram em espera. Campos ausentes são lacunas da fonte pública, nunca estimativas.",
+    "vagasTotal": 150,
+    "totalLinhasCortes": 147,
+    "linhasCortesDerivadas": 146,
+    "totalModalidades": 39,
+    "edicoesComDemanda": 8
+  },
+  "edicoes": [
+    {
+      "edicao": 2026,
+      "era": "siglas",
+      "escala": 73,
+      "vagasTotal": 150,
+      "demanda": {
+        "vagas": 150,
+        "inscritos": 2361,
+        "candidatosPorVaga": 15.74,
+        "fonteTipo": "oficial_pdf_gps",
+        "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/12/COL2026-candidato-vaga.pdf"
+      },
+      "modalidades": [
+        {
+          "codigo": "AC",
+          "rotulo": "Ampla concorrência",
+          "descricao": "Ampla Concorrência",
+          "grupoDemanda": 17,
+          "vagas": 75,
+          "demandaGrupo": {
+            "vagas": 75,
+            "inscritos": 1608,
+            "candidatosPorVaga": 21.44,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/12/COL2026-candidato-vaga.pdf"
+          },
+          "corte1aChamada": 60.4,
+          "notaMaior1aChamada": 67.8,
+          "nConvocados1aChamada": 75,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-1.htm",
+          "piso": {
+            "nota": 60,
+            "chamada": 2
+          },
+          "fronteiraEspera": 60,
+          "nEmEspera": 354,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 60.4,
+              "notaMaior": 67.8,
+              "nConvocados": 75,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 60,
+              "notaMaior": 60.4,
+              "nConvocados": 5,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-2.htm"
+            },
+            {
+              "chamada": 3,
+              "notaCorte": 60,
+              "notaMaior": 60,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/col2026-chamada-3.htm"
+            },
+            {
+              "chamada": 4,
+              "notaCorte": 60,
+              "notaMaior": 60,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/02/col2026-chamada-4.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "LB_EP",
+          "rotulo": "Escola pública · renda ≤ 1 salário mínimo",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,0 salário mínimo (por pessoa da família), Etnia: Independente de raça sem Deficiência",
+          "grupoDemanda": 4,
+          "vagas": 10,
+          "demandaGrupo": {
+            "vagas": 10,
+            "inscritos": 160,
+            "candidatosPorVaga": 16,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/12/COL2026-candidato-vaga.pdf"
+          },
+          "corte1aChamada": 47.8,
+          "notaMaior1aChamada": 56.6,
+          "nConvocados1aChamada": 20,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-1.htm",
+          "piso": {
+            "nota": 38.8,
+            "chamada": 6
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 47.8,
+              "notaMaior": 56.6,
+              "nConvocados": 20,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 47.6,
+              "notaMaior": 47.6,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-2.htm"
+            },
+            {
+              "chamada": 3,
+              "notaCorte": 46.8,
+              "notaMaior": 47.6,
+              "nConvocados": 3,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/col2026-chamada-3.htm"
+            },
+            {
+              "chamada": 4,
+              "notaCorte": 44,
+              "notaMaior": 46.6,
+              "nConvocados": 8,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/02/col2026-chamada-4.htm"
+            },
+            {
+              "chamada": 5,
+              "notaCorte": 42,
+              "notaMaior": 43.4,
+              "nConvocados": 7,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/02/col2026-chamada-5.htm"
+            },
+            {
+              "chamada": 6,
+              "notaCorte": 38.8,
+              "notaMaior": 42,
+              "nConvocados": 3,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/02/col2026-chamada-6-1.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "LB_PPI",
+          "rotulo": "Escola pública · renda ≤ 1 salário mínimo · pretos, pardos ou indígenas",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,0 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas sem Deficiência",
+          "grupoDemanda": 1,
+          "vagas": 23,
+          "demandaGrupo": {
+            "vagas": 23,
+            "inscritos": 117,
+            "candidatosPorVaga": 5.087,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/12/COL2026-candidato-vaga.pdf"
+          },
+          "corte1aChamada": 38.2,
+          "notaMaior1aChamada": 45.6,
+          "nConvocados1aChamada": 17,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-1.htm",
+          "piso": {
+            "nota": 38.2,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 38.2,
+              "notaMaior": 45.6,
+              "nConvocados": 17,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-1.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "LB_PCD",
+          "rotulo": "Escola pública · renda ≤ 1 salário mínimo · pessoas com deficiência",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,0 salário mínimo (por pessoa da família), Etnia: Independente de raça com Deficiência",
+          "grupoDemanda": 3,
+          "vagas": 4,
+          "demandaGrupo": {
+            "vagas": 4,
+            "inscritos": 2,
+            "candidatosPorVaga": 0.5,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/12/COL2026-candidato-vaga.pdf"
+          },
+          "corte1aChamada": 44.2,
+          "notaMaior1aChamada": 44.2,
+          "nConvocados1aChamada": 1,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-1.htm",
+          "piso": {
+            "nota": 44.2,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 44.2,
+              "notaMaior": 44.2,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-1.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "LI_EP",
+          "rotulo": "Escola pública · qualquer renda",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,0 salário mínimo (por pessoa da família), Etnia: Independente de raça sem Deficiência",
+          "grupoDemanda": 8,
+          "vagas": 11,
+          "demandaGrupo": {
+            "vagas": 11,
+            "inscritos": 333,
+            "candidatosPorVaga": 30.2727,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/12/COL2026-candidato-vaga.pdf"
+          },
+          "corte1aChamada": 57.6,
+          "notaMaior1aChamada": 60.4,
+          "nConvocados1aChamada": 11,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-1.htm",
+          "piso": {
+            "nota": 56.4,
+            "chamada": 2
+          },
+          "fronteiraEspera": 56.2,
+          "nEmEspera": 124,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 57.6,
+              "notaMaior": 60.4,
+              "nConvocados": 11,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 56.4,
+              "notaMaior": 56.8,
+              "nConvocados": 3,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-2.htm"
+            },
+            {
+              "chamada": 8,
+              "notaCorte": 56.4,
+              "notaMaior": 56.4,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/03/col2026-chamada-8.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "LI_PPI",
+          "rotulo": "Escola pública · qualquer renda · pretos, pardos ou indígenas",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,0 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas sem Deficiência",
+          "grupoDemanda": 5,
+          "vagas": 22,
+          "demandaGrupo": {
+            "vagas": 22,
+            "inscritos": 128,
+            "candidatosPorVaga": 5.8182,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/12/COL2026-candidato-vaga.pdf"
+          },
+          "corte1aChamada": 46,
+          "notaMaior1aChamada": 56.4,
+          "nConvocados1aChamada": 22,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-1.htm",
+          "piso": {
+            "nota": 42.2,
+            "chamada": 8
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 46,
+              "notaMaior": 56.4,
+              "nConvocados": 22,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 44.6,
+              "notaMaior": 45,
+              "nConvocados": 3,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-2.htm"
+            },
+            {
+              "chamada": 3,
+              "notaCorte": 44.6,
+              "notaMaior": 44.6,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/col2026-chamada-3.htm"
+            },
+            {
+              "chamada": 4,
+              "notaCorte": 43.8,
+              "notaMaior": 44.4,
+              "nConvocados": 4,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/02/col2026-chamada-4.htm"
+            },
+            {
+              "chamada": 6,
+              "notaCorte": 43.6,
+              "notaMaior": 43.8,
+              "nConvocados": 3,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/02/col2026-chamada-6-1.htm"
+            },
+            {
+              "chamada": 7,
+              "notaCorte": 43,
+              "notaMaior": 43.4,
+              "nConvocados": 5,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/03/col2026-chamada-7.htm"
+            },
+            {
+              "chamada": 8,
+              "notaCorte": 42.2,
+              "notaMaior": 42.4,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/03/col2026-chamada-8.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "LI_PCD",
+          "rotulo": "Escola pública · qualquer renda · pessoas com deficiência",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,0 salário mínimo (por pessoa da família), Etnia: Independente de raça com Deficiência",
+          "grupoDemanda": 7,
+          "vagas": 4,
+          "demandaGrupo": {
+            "vagas": 4,
+            "inscritos": 7,
+            "candidatosPorVaga": 1.75,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/12/COL2026-candidato-vaga.pdf"
+          },
+          "corte1aChamada": 45.2,
+          "notaMaior1aChamada": 54.6,
+          "nConvocados1aChamada": 4,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-1.htm",
+          "piso": {
+            "nota": 45.2,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 45.2,
+              "notaMaior": 54.6,
+              "nConvocados": 4,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2026/01/COL2026-chamada-1.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "edicao": 2025,
+      "era": "siglas",
+      "escala": 73,
+      "vagasTotal": 150,
+      "demanda": {
+        "vagas": 150,
+        "inscritos": 2016,
+        "candidatosPorVaga": 13.44,
+        "fonteTipo": "oficial_pdf_gps",
+        "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/11/COL2025-CandVaga.pdf"
+      },
+      "modalidades": [
+        {
+          "codigo": "AC",
+          "rotulo": "Ampla concorrência",
+          "descricao": "Ampla Concorrência",
+          "grupoDemanda": 9,
+          "vagas": 75,
+          "demandaGrupo": {
+            "vagas": 75,
+            "inscritos": 1373,
+            "candidatosPorVaga": 18.3067,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/11/COL2025-CandVaga.pdf"
+          },
+          "corte1aChamada": 54,
+          "notaMaior1aChamada": 66.6,
+          "nConvocados1aChamada": 77,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/12/COL2025-chamada-1.htm",
+          "piso": {
+            "nota": 51.6,
+            "chamada": 7
+          },
+          "fronteiraEspera": 51.6,
+          "nEmEspera": 204,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 54,
+              "notaMaior": 66.6,
+              "nConvocados": 77,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/12/COL2025-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 53.2,
+              "notaMaior": 54,
+              "nConvocados": 12,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/01/col2025-chamada-2.htm"
+            },
+            {
+              "chamada": 3,
+              "notaCorte": 52.2,
+              "notaMaior": 53.2,
+              "nConvocados": 10,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/01/col2025-chamada-3.htm"
+            },
+            {
+              "chamada": 4,
+              "notaCorte": 52,
+              "notaMaior": 52,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/02/col2025-chamada-4.htm"
+            },
+            {
+              "chamada": 6,
+              "notaCorte": 51.8,
+              "notaMaior": 51.8,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/02/col2025-chamada-6.htm"
+            },
+            {
+              "chamada": 7,
+              "notaCorte": 51.6,
+              "notaMaior": 51.6,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/02/col2025-chamada-7.htm"
+            },
+            {
+              "chamada": 8,
+              "notaCorte": 51.6,
+              "notaMaior": 51.6,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/03/col2025-chamada-8.htm"
+            },
+            {
+              "chamada": 9,
+              "notaCorte": 51.6,
+              "notaMaior": 51.6,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2025/03/col2025-chamada-9.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "LB_EP",
+          "rotulo": "Escola pública · renda ≤ 1 salário mínimo",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,0 salário mínimo (por pessoa da família), Etnia: Independente de raça sem Deficiência",
+          "grupoDemanda": 4,
+          "vagas": 10,
+          "demandaGrupo": {
+            "vagas": 10,
+            "inscritos": 150,
+            "candidatosPorVaga": 15,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/11/COL2025-CandVaga.pdf"
+          },
+          "corte1aChamada": 40.6,
+          "notaMaior1aChamada": 49.6,
+          "nConvocados1aChamada": 15,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/12/COL2025-chamada-1.htm",
+          "piso": {
+            "nota": 40.6,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 40.6,
+              "notaMaior": 49.6,
+              "nConvocados": 15,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/12/COL2025-chamada-1.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "LI_EP",
+          "rotulo": "Escola pública · qualquer renda",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,0 salário mínimo (por pessoa da família), Etnia: Independente de raça sem Deficiência",
+          "grupoDemanda": 8,
+          "vagas": 11,
+          "demandaGrupo": {
+            "vagas": 11,
+            "inscritos": 271,
+            "candidatosPorVaga": 24.6364,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/11/COL2025-CandVaga.pdf"
+          },
+          "corte1aChamada": 39.8,
+          "notaMaior1aChamada": 54,
+          "nConvocados1aChamada": 38,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/12/COL2025-chamada-1.htm",
+          "piso": {
+            "nota": 39.8,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 39.8,
+              "notaMaior": 54,
+              "nConvocados": 38,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/12/COL2025-chamada-1.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "LI_PPI",
+          "rotulo": "Escola pública · qualquer renda · pretos, pardos ou indígenas",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,0 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas sem Deficiência",
+          "grupoDemanda": 5,
+          "vagas": 22,
+          "demandaGrupo": {
+            "vagas": 22,
+            "inscritos": 92,
+            "candidatosPorVaga": 4.1818,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/11/COL2025-CandVaga.pdf"
+          },
+          "corte1aChamada": 40.4,
+          "notaMaior1aChamada": 51,
+          "nConvocados1aChamada": 19,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/12/COL2025-chamada-1.htm",
+          "piso": {
+            "nota": 40.4,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 40.4,
+              "notaMaior": 51,
+              "nConvocados": 19,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/12/COL2025-chamada-1.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "LI_PCD",
+          "rotulo": "Escola pública · qualquer renda · pessoas com deficiência",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,0 salário mínimo (por pessoa da família), Etnia: Independente de raça com Deficiência",
+          "grupoDemanda": 7,
+          "vagas": 4,
+          "demandaGrupo": {
+            "vagas": 4,
+            "inscritos": 4,
+            "candidatosPorVaga": 1,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/11/COL2025-CandVaga.pdf"
+          },
+          "corte1aChamada": 46.6,
+          "notaMaior1aChamada": 46.6,
+          "nConvocados1aChamada": 1,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/12/COL2025-chamada-1.htm",
+          "piso": {
+            "nota": 46.6,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 46.6,
+              "notaMaior": 46.6,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/12/COL2025-chamada-1.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "edicao": 2024,
+      "era": "grupos",
+      "escala": 73,
+      "vagasTotal": 150,
+      "demanda": {
+        "vagas": 150,
+        "inscritos": 2172,
+        "candidatosPorVaga": 14.48,
+        "fonteTipo": "oficial_pdf_gps",
+        "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/10/COL2024-CandidatosVagas.pdf"
+      },
+      "modalidades": [
+        {
+          "codigo": "9",
+          "rotulo": "Ampla concorrência",
+          "descricao": "Ampla Concorrência",
+          "grupoDemanda": 9,
+          "vagas": 75,
+          "demandaGrupo": {
+            "vagas": 75,
+            "inscritos": 1477,
+            "candidatosPorVaga": 19.6933,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/10/COL2024-CandidatosVagas.pdf"
+          },
+          "corte1aChamada": 48.6,
+          "notaMaior1aChamada": 68.2,
+          "nConvocados1aChamada": 75,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm",
+          "piso": {
+            "nota": 47.8,
+            "chamada": 6
+          },
+          "fronteiraEspera": 48,
+          "nEmEspera": 419,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 48.6,
+              "notaMaior": 68.2,
+              "nConvocados": 75,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 48.2,
+              "notaMaior": 48.6,
+              "nConvocados": 6,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/01/col2024-chamada-2.htm"
+            },
+            {
+              "chamada": 4,
+              "notaCorte": 48,
+              "notaMaior": 48.2,
+              "nConvocados": 3,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/02/col2024-chamada-4.htm"
+            },
+            {
+              "chamada": 5,
+              "notaCorte": 48,
+              "notaMaior": 48,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/02/col2024-chamada-5.htm"
+            },
+            {
+              "chamada": 6,
+              "notaCorte": 47.8,
+              "notaMaior": 47.8,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/02/col2024-chamada-6.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "1",
+          "rotulo": "Grupo 1",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,5 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas sem Deficiência",
+          "grupoDemanda": 1,
+          "vagas": 19,
+          "demandaGrupo": {
+            "vagas": 19,
+            "inscritos": 158,
+            "candidatosPorVaga": 8.3158,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/10/COL2024-CandidatosVagas.pdf"
+          },
+          "corte1aChamada": 33.8,
+          "notaMaior1aChamada": 47.8,
+          "nConvocados1aChamada": 19,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm",
+          "piso": {
+            "nota": 33.8,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 33.8,
+              "notaMaior": 47.8,
+              "nConvocados": 19,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 36.2,
+              "notaMaior": 37.2,
+              "nConvocados": 4,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/01/col2024-chamada-2.htm"
+            },
+            {
+              "chamada": 3,
+              "notaCorte": 39.4,
+              "notaMaior": 40.4,
+              "nConvocados": 3,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/01/col2024-chamada-3.htm"
+            },
+            {
+              "chamada": 4,
+              "notaCorte": 39,
+              "notaMaior": 39,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/02/col2024-chamada-4.htm"
+            },
+            {
+              "chamada": 6,
+              "notaCorte": 38.8,
+              "notaMaior": 38.8,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/02/col2024-chamada-6.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "2",
+          "rotulo": "Grupo 2",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,5 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas com Deficiência",
+          "grupoDemanda": 2,
+          "vagas": 2,
+          "demandaGrupo": {
+            "vagas": 2,
+            "inscritos": 2,
+            "candidatosPorVaga": 1,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/10/COL2024-CandidatosVagas.pdf"
+          },
+          "corte1aChamada": 33.4,
+          "notaMaior1aChamada": 39.6,
+          "nConvocados1aChamada": 2,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm",
+          "piso": {
+            "nota": 33.4,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 33.4,
+              "notaMaior": 39.6,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 34.2,
+              "notaMaior": 34.2,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/01/col2024-chamada-2.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "3",
+          "rotulo": "Grupo 3",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,5 salário mínimo (por pessoa da família), Etnia: Independente de raça sem Deficiência",
+          "grupoDemanda": 3,
+          "vagas": 16,
+          "demandaGrupo": {
+            "vagas": 16,
+            "inscritos": 241,
+            "candidatosPorVaga": 15.0625,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/10/COL2024-CandidatosVagas.pdf"
+          },
+          "corte1aChamada": 39.2,
+          "notaMaior1aChamada": 48.4,
+          "nConvocados1aChamada": 16,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm",
+          "piso": {
+            "nota": 33.2,
+            "chamada": 3
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 39.2,
+              "notaMaior": 48.4,
+              "nConvocados": 16,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 38,
+              "notaMaior": 38.6,
+              "nConvocados": 3,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/01/col2024-chamada-2.htm"
+            },
+            {
+              "chamada": 3,
+              "notaCorte": 33.2,
+              "notaMaior": 33.2,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/01/col2024-chamada-3.htm"
+            },
+            {
+              "chamada": 5,
+              "notaCorte": 39,
+              "notaMaior": 39,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/02/col2024-chamada-5.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "4",
+          "rotulo": "Grupo 4",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,5 salário mínimo (por pessoa da família), Etnia: Independente de raça com Deficiência",
+          "grupoDemanda": 4,
+          "vagas": 1,
+          "demandaGrupo": {
+            "vagas": 1,
+            "inscritos": 0,
+            "candidatosPorVaga": 0,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/10/COL2024-CandidatosVagas.pdf"
+          },
+          "corte1aChamada": 38.8,
+          "notaMaior1aChamada": 38.8,
+          "nConvocados1aChamada": 1,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm",
+          "piso": {
+            "nota": 38.8,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 38.8,
+              "notaMaior": 38.8,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "5",
+          "rotulo": "Grupo 5",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,5 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas sem Deficiência",
+          "grupoDemanda": 5,
+          "vagas": 18,
+          "demandaGrupo": {
+            "vagas": 18,
+            "inscritos": 73,
+            "candidatosPorVaga": 4.0556,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/10/COL2024-CandidatosVagas.pdf"
+          },
+          "corte1aChamada": 34.2,
+          "notaMaior1aChamada": 48.4,
+          "nConvocados1aChamada": 18,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm",
+          "piso": {
+            "nota": 34.2,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 34.2,
+              "notaMaior": 48.4,
+              "nConvocados": 18,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 40.6,
+              "notaMaior": 41.2,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/01/col2024-chamada-2.htm"
+            },
+            {
+              "chamada": 3,
+              "notaCorte": 39.2,
+              "notaMaior": 39.2,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/01/col2024-chamada-3.htm"
+            },
+            {
+              "chamada": 6,
+              "notaCorte": 38,
+              "notaMaior": 38,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/02/col2024-chamada-6.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "6",
+          "rotulo": "Grupo 6",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,5 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas com Deficiência",
+          "grupoDemanda": 6,
+          "vagas": 2,
+          "demandaGrupo": {
+            "vagas": 2,
+            "inscritos": 1,
+            "candidatosPorVaga": 0.5,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/10/COL2024-CandidatosVagas.pdf"
+          },
+          "corte1aChamada": 41.4,
+          "notaMaior1aChamada": 41.8,
+          "nConvocados1aChamada": 2,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm",
+          "piso": {
+            "nota": 40.4,
+            "chamada": 2
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 41.4,
+              "notaMaior": 41.8,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 40.4,
+              "notaMaior": 40.4,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2024/01/col2024-chamada-2.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "7",
+          "rotulo": "Grupo 7",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,5 salário mínimo (por pessoa da família), Etnia: Independente de raça sem Deficiência",
+          "grupoDemanda": 7,
+          "vagas": 16,
+          "demandaGrupo": {
+            "vagas": 16,
+            "inscritos": 220,
+            "candidatosPorVaga": 13.75,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/10/COL2024-CandidatosVagas.pdf"
+          },
+          "corte1aChamada": 43.4,
+          "notaMaior1aChamada": 48.6,
+          "nConvocados1aChamada": 16,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm",
+          "piso": {
+            "nota": 43.4,
+            "chamada": 1
+          },
+          "fronteiraEspera": 39,
+          "nEmEspera": 27,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 43.4,
+              "notaMaior": 48.6,
+              "nConvocados": 16,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "8",
+          "rotulo": "Grupo 8",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,5 salário mínimo (por pessoa da família), Etnia: Independente de raça com Deficiência",
+          "grupoDemanda": 8,
+          "vagas": 1,
+          "demandaGrupo": {
+            "vagas": 1,
+            "inscritos": 0,
+            "candidatosPorVaga": 0,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/10/COL2024-CandidatosVagas.pdf"
+          },
+          "corte1aChamada": 41.2,
+          "notaMaior1aChamada": 41.2,
+          "nConvocados1aChamada": 1,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm",
+          "piso": {
+            "nota": 41.2,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 41.2,
+              "notaMaior": 41.2,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/12/col2024-chamada-1.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "edicao": 2023,
+      "era": "grupos",
+      "escala": 73,
+      "vagasTotal": 150,
+      "demanda": {
+        "vagas": 150,
+        "inscritos": 2071,
+        "candidatosPorVaga": 13.8067,
+        "fonteTipo": "oficial_pdf_gps",
+        "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/10/COL2023_candidato-por-vaga.pdf"
+      },
+      "modalidades": [
+        {
+          "codigo": "9",
+          "rotulo": "Ampla concorrência",
+          "descricao": "Ampla Concorrência",
+          "grupoDemanda": 9,
+          "vagas": 75,
+          "demandaGrupo": {
+            "vagas": 75,
+            "inscritos": 1431,
+            "candidatosPorVaga": 19.08,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/10/COL2023_candidato-por-vaga.pdf"
+          },
+          "corte1aChamada": 57.4,
+          "notaMaior1aChamada": 66,
+          "nConvocados1aChamada": 75,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm",
+          "piso": {
+            "nota": 57.4,
+            "chamada": 1
+          },
+          "fronteiraEspera": 57.4,
+          "nEmEspera": 465,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 57.4,
+              "notaMaior": 66,
+              "nConvocados": 75,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 57.4,
+              "notaMaior": 57.4,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/01/Classificados-em-2a-chamada-COL-2023-Universidade-Federal-de-Vicosa.html"
+            },
+            {
+              "chamada": 4,
+              "notaCorte": 57.4,
+              "notaMaior": 57.4,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/02/Quarta-chamada.html"
+            }
+          ]
+        },
+        {
+          "codigo": "1",
+          "rotulo": "Grupo 1",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,5 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas sem Deficiência",
+          "grupoDemanda": 1,
+          "vagas": 19,
+          "demandaGrupo": {
+            "vagas": 19,
+            "inscritos": 152,
+            "candidatosPorVaga": 8,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/10/COL2023_candidato-por-vaga.pdf"
+          },
+          "corte1aChamada": 43.4,
+          "notaMaior1aChamada": 51.6,
+          "nConvocados1aChamada": 19,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm",
+          "piso": {
+            "nota": 40.4,
+            "chamada": 5
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 43.4,
+              "notaMaior": 51.6,
+              "nConvocados": 19,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 44.4,
+              "notaMaior": 44.4,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/01/Classificados-em-2a-chamada-COL-2023-Universidade-Federal-de-Vicosa.html"
+            },
+            {
+              "chamada": 4,
+              "notaCorte": 43.6,
+              "notaMaior": 43.8,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/02/Quarta-chamada.html"
+            },
+            {
+              "chamada": 5,
+              "notaCorte": 40.4,
+              "notaMaior": 41,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/02/COL2023-chamada-5.htm"
+            },
+            {
+              "chamada": 6,
+              "notaCorte": 43.8,
+              "notaMaior": 43.8,
+              "nConvocados": 1,
+              "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2023/02/sexta-chamada.html"
+            }
+          ]
+        },
+        {
+          "codigo": "2",
+          "rotulo": "Grupo 2",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,5 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas com Deficiência",
+          "grupoDemanda": 2,
+          "vagas": 2,
+          "demandaGrupo": {
+            "vagas": 2,
+            "inscritos": 1,
+            "candidatosPorVaga": 0.5,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/10/COL2023_candidato-por-vaga.pdf"
+          },
+          "corte1aChamada": 44.8,
+          "notaMaior1aChamada": 45.2,
+          "nConvocados1aChamada": 2,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm",
+          "piso": {
+            "nota": 42.8,
+            "chamada": 4
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 44.8,
+              "notaMaior": 45.2,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm"
+            },
+            {
+              "chamada": 4,
+              "notaCorte": 42.8,
+              "notaMaior": 42.8,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/02/Quarta-chamada.html"
+            }
+          ]
+        },
+        {
+          "codigo": "3",
+          "rotulo": "Grupo 3",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,5 salário mínimo (por pessoa da família), Etnia: Independente de raça sem Deficiência",
+          "grupoDemanda": 3,
+          "vagas": 16,
+          "demandaGrupo": {
+            "vagas": 16,
+            "inscritos": 225,
+            "candidatosPorVaga": 14.0625,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/10/COL2023_candidato-por-vaga.pdf"
+          },
+          "corte1aChamada": 48.8,
+          "notaMaior1aChamada": 56.8,
+          "nConvocados1aChamada": 16,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm",
+          "piso": {
+            "nota": 41.6,
+            "chamada": 5
+          },
+          "fronteiraEspera": 44.6,
+          "nEmEspera": 11,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 48.8,
+              "notaMaior": 56.8,
+              "nConvocados": 16,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 44.6,
+              "notaMaior": 44.6,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/01/Classificados-em-2a-chamada-COL-2023-Universidade-Federal-de-Vicosa.html"
+            },
+            {
+              "chamada": 3,
+              "notaCorte": 44.2,
+              "notaMaior": 44.2,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/01/mail-attachment.googleusercontent.com_-3.html"
+            },
+            {
+              "chamada": 5,
+              "notaCorte": 41.6,
+              "notaMaior": 41.6,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/02/COL2023-chamada-5.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "4",
+          "rotulo": "Grupo 4",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,5 salário mínimo (por pessoa da família), Etnia: Independente de raça com Deficiência",
+          "grupoDemanda": 4,
+          "vagas": 1,
+          "demandaGrupo": {
+            "vagas": 1,
+            "inscritos": 1,
+            "candidatosPorVaga": 1,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/10/COL2023_candidato-por-vaga.pdf"
+          },
+          "corte1aChamada": 44.8,
+          "notaMaior1aChamada": 44.8,
+          "nConvocados1aChamada": 1,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm",
+          "piso": {
+            "nota": 44,
+            "chamada": 5
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 44.8,
+              "notaMaior": 44.8,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm"
+            },
+            {
+              "chamada": 5,
+              "notaCorte": 44,
+              "notaMaior": 44,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/02/COL2023-chamada-5.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "5",
+          "rotulo": "Grupo 5",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,5 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas sem Deficiência",
+          "grupoDemanda": 5,
+          "vagas": 18,
+          "demandaGrupo": {
+            "vagas": 18,
+            "inscritos": 75,
+            "candidatosPorVaga": 4.1667,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/10/COL2023_candidato-por-vaga.pdf"
+          },
+          "corte1aChamada": 41.4,
+          "notaMaior1aChamada": 53.6,
+          "nConvocados1aChamada": 18,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm",
+          "piso": {
+            "nota": 41.4,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 41.4,
+              "notaMaior": 53.6,
+              "nConvocados": 18,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 46,
+              "notaMaior": 46.2,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/01/Classificados-em-2a-chamada-COL-2023-Universidade-Federal-de-Vicosa.html"
+            },
+            {
+              "chamada": 3,
+              "notaCorte": 45.6,
+              "notaMaior": 45.8,
+              "nConvocados": 3,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/01/mail-attachment.googleusercontent.com_-3.html"
+            },
+            {
+              "chamada": 4,
+              "notaCorte": 45,
+              "notaMaior": 45,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/02/Quarta-chamada.html"
+            }
+          ]
+        },
+        {
+          "codigo": "6",
+          "rotulo": "Grupo 6",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,5 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas com Deficiência",
+          "grupoDemanda": 6,
+          "vagas": 2,
+          "demandaGrupo": {
+            "vagas": 2,
+            "inscritos": 0,
+            "candidatosPorVaga": 0,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/10/COL2023_candidato-por-vaga.pdf"
+          },
+          "corte1aChamada": 46.4,
+          "notaMaior1aChamada": 46.8,
+          "nConvocados1aChamada": 2,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm",
+          "piso": {
+            "nota": 46.4,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 46.4,
+              "notaMaior": 46.8,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "7",
+          "rotulo": "Grupo 7",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,5 salário mínimo (por pessoa da família), Etnia: Independente de raça sem Deficiência",
+          "grupoDemanda": 7,
+          "vagas": 16,
+          "demandaGrupo": {
+            "vagas": 16,
+            "inscritos": 185,
+            "candidatosPorVaga": 11.5625,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/10/COL2023_candidato-por-vaga.pdf"
+          },
+          "corte1aChamada": 49.2,
+          "notaMaior1aChamada": 57.2,
+          "nConvocados1aChamada": 16,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm",
+          "piso": {
+            "nota": 45.4,
+            "chamada": 4
+          },
+          "fronteiraEspera": 46.2,
+          "nEmEspera": 19,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 49.2,
+              "notaMaior": 57.2,
+              "nConvocados": 16,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 46.2,
+              "notaMaior": 46.2,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/01/Classificados-em-2a-chamada-COL-2023-Universidade-Federal-de-Vicosa.html"
+            },
+            {
+              "chamada": 3,
+              "notaCorte": 45.8,
+              "notaMaior": 45.8,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/01/mail-attachment.googleusercontent.com_-3.html"
+            },
+            {
+              "chamada": 4,
+              "notaCorte": 45.4,
+              "notaMaior": 45.6,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2023/02/Quarta-chamada.html"
+            }
+          ]
+        },
+        {
+          "codigo": "8",
+          "rotulo": "Grupo 8",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,5 salário mínimo (por pessoa da família), Etnia: Independente de raça com Deficiência",
+          "grupoDemanda": 8,
+          "vagas": 1,
+          "demandaGrupo": {
+            "vagas": 1,
+            "inscritos": 1,
+            "candidatosPorVaga": 1,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/10/COL2023_candidato-por-vaga.pdf"
+          },
+          "corte1aChamada": 56.6,
+          "notaMaior1aChamada": 56.6,
+          "nConvocados1aChamada": 1,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm",
+          "piso": {
+            "nota": 56.6,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 56.6,
+              "notaMaior": 56.6,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/12/COL2023-chamada-1.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "edicao": 2022,
+      "era": "grupos",
+      "escala": 73,
+      "vagasTotal": 150,
+      "demanda": {
+        "vagas": 150,
+        "inscritos": 1862,
+        "candidatosPorVaga": 12.4133,
+        "fonteTipo": "oficial_pdf_gps",
+        "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/10/COL2022-Candidato-vaga.pdf"
+      },
+      "modalidades": [
+        {
+          "codigo": "9",
+          "rotulo": "Ampla concorrência",
+          "descricao": "Ampla Concorrência",
+          "grupoDemanda": 9,
+          "vagas": 75,
+          "demandaGrupo": {
+            "vagas": 75,
+            "inscritos": 1380,
+            "candidatosPorVaga": 18.4,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/10/COL2022-Candidato-vaga.pdf"
+          },
+          "corte1aChamada": 57.4,
+          "notaMaior1aChamada": 68.2,
+          "nConvocados1aChamada": 75,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm",
+          "piso": {
+            "nota": 56.4,
+            "chamada": 4
+          },
+          "fronteiraEspera": 56.4,
+          "nEmEspera": 444,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 57.4,
+              "notaMaior": 68.2,
+              "nConvocados": 75,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 56.6,
+              "notaMaior": 57.2,
+              "nConvocados": 9,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/01/COl2022-chamada-2.htm"
+            },
+            {
+              "chamada": 3,
+              "notaCorte": 56.6,
+              "notaMaior": 56.6,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/02/COl2022-chamada-3.htm"
+            },
+            {
+              "chamada": 4,
+              "notaCorte": 56.4,
+              "notaMaior": 56.4,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/02/COL2022-chamada-4.pdf"
+            },
+            {
+              "chamada": 5,
+              "notaCorte": 56.4,
+              "notaMaior": 56.4,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/02/Col2022-chamada-5.pdf"
+            }
+          ]
+        },
+        {
+          "codigo": "1",
+          "rotulo": "Grupo 1",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,5 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas sem Deficiência",
+          "grupoDemanda": 1,
+          "vagas": 19,
+          "demandaGrupo": {
+            "vagas": 19,
+            "inscritos": 96,
+            "candidatosPorVaga": 5.0526,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/10/COL2022-Candidato-vaga.pdf"
+          },
+          "corte1aChamada": 42.8,
+          "notaMaior1aChamada": 53,
+          "nConvocados1aChamada": 19,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm",
+          "piso": {
+            "nota": 42.8,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 42.8,
+              "notaMaior": 53,
+              "nConvocados": 19,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 44.6,
+              "notaMaior": 44.8,
+              "nConvocados": 3,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/01/COl2022-chamada-2.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "2",
+          "rotulo": "Grupo 2",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,5 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas com Deficiência",
+          "grupoDemanda": 2,
+          "vagas": 2,
+          "demandaGrupo": {
+            "vagas": 2,
+            "inscritos": 0,
+            "candidatosPorVaga": 0,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/10/COL2022-Candidato-vaga.pdf"
+          },
+          "corte1aChamada": 45.6,
+          "notaMaior1aChamada": 45.8,
+          "nConvocados1aChamada": 2,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm",
+          "piso": {
+            "nota": 44,
+            "chamada": 5
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 45.6,
+              "notaMaior": 45.8,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 44.4,
+              "notaMaior": 44.4,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/01/COl2022-chamada-2.htm"
+            },
+            {
+              "chamada": 5,
+              "notaCorte": 44,
+              "notaMaior": 44,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/02/Col2022-chamada-5.pdf"
+            }
+          ]
+        },
+        {
+          "codigo": "3",
+          "rotulo": "Grupo 3",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,5 salário mínimo (por pessoa da família), Etnia: Independente de raça sem Deficiência",
+          "grupoDemanda": 3,
+          "vagas": 16,
+          "demandaGrupo": {
+            "vagas": 16,
+            "inscritos": 169,
+            "candidatosPorVaga": 10.5625,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/10/COL2022-Candidato-vaga.pdf"
+          },
+          "corte1aChamada": 48,
+          "notaMaior1aChamada": 57.2,
+          "nConvocados1aChamada": 16,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm",
+          "piso": {
+            "nota": 44.2,
+            "chamada": 4
+          },
+          "fronteiraEspera": 44,
+          "nEmEspera": 5,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 48,
+              "notaMaior": 57.2,
+              "nConvocados": 16,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 45,
+              "notaMaior": 45,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/01/COl2022-chamada-2.htm"
+            },
+            {
+              "chamada": 3,
+              "notaCorte": 44.4,
+              "notaMaior": 44.4,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/02/COl2022-chamada-3.htm"
+            },
+            {
+              "chamada": 4,
+              "notaCorte": 44.2,
+              "notaMaior": 44.2,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/02/COL2022-chamada-4.pdf"
+            }
+          ]
+        },
+        {
+          "codigo": "4",
+          "rotulo": "Grupo 4",
+          "descricao": "Est. esc. pública, Renda mensal bruta menor ou igual a 1,5 salário mínimo (por pessoa da família), Etnia: Independente de raça com Deficiência",
+          "grupoDemanda": 4,
+          "vagas": 1,
+          "demandaGrupo": {
+            "vagas": 1,
+            "inscritos": 0,
+            "candidatosPorVaga": 0,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/10/COL2022-Candidato-vaga.pdf"
+          },
+          "corte1aChamada": 45.4,
+          "notaMaior1aChamada": 45.4,
+          "nConvocados1aChamada": 1,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm",
+          "piso": {
+            "nota": 45.4,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 45.4,
+              "notaMaior": 45.4,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "5",
+          "rotulo": "Grupo 5",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,5 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas sem Deficiência",
+          "grupoDemanda": 5,
+          "vagas": 18,
+          "demandaGrupo": {
+            "vagas": 18,
+            "inscritos": 46,
+            "candidatosPorVaga": 2.5556,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/10/COL2022-Candidato-vaga.pdf"
+          },
+          "corte1aChamada": 43.8,
+          "notaMaior1aChamada": 55.2,
+          "nConvocados1aChamada": 18,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm",
+          "piso": {
+            "nota": 43.8,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 43.8,
+              "notaMaior": 55.2,
+              "nConvocados": 18,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 47.2,
+              "notaMaior": 47.4,
+              "nConvocados": 3,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/01/COl2022-chamada-2.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "6",
+          "rotulo": "Grupo 6",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,5 salário mínimo (por pessoa da família), Etnia: Pretos, Pardos e Indígenas com Deficiência",
+          "grupoDemanda": 6,
+          "vagas": 2,
+          "demandaGrupo": {
+            "vagas": 2,
+            "inscritos": 1,
+            "candidatosPorVaga": 0.5,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/10/COL2022-Candidato-vaga.pdf"
+          },
+          "corte1aChamada": 48,
+          "notaMaior1aChamada": 48.6,
+          "nConvocados1aChamada": 2,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm",
+          "piso": {
+            "nota": 48,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 48,
+              "notaMaior": 48.6,
+              "nConvocados": 2,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "7",
+          "rotulo": "Grupo 7",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,5 salário mínimo (por pessoa da família), Etnia: Independente de raça sem Deficiência",
+          "grupoDemanda": 7,
+          "vagas": 16,
+          "demandaGrupo": {
+            "vagas": 16,
+            "inscritos": 168,
+            "candidatosPorVaga": 10.5,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/10/COL2022-Candidato-vaga.pdf"
+          },
+          "corte1aChamada": 49.4,
+          "notaMaior1aChamada": 57.2,
+          "nConvocados1aChamada": 16,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm",
+          "piso": {
+            "nota": 47.8,
+            "chamada": 2
+          },
+          "fronteiraEspera": 46.6,
+          "nEmEspera": 9,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 49.4,
+              "notaMaior": 57.2,
+              "nConvocados": 16,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm"
+            },
+            {
+              "chamada": 2,
+              "notaCorte": 47.8,
+              "notaMaior": 48,
+              "nConvocados": 3,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2022/01/COl2022-chamada-2.htm"
+            }
+          ]
+        },
+        {
+          "codigo": "8",
+          "rotulo": "Grupo 8",
+          "descricao": "Est. esc. pública, Renda mensal bruta maior a 1,5 salário mínimo (por pessoa da família), Etnia: Independente de raça com Deficiência",
+          "grupoDemanda": 8,
+          "vagas": 1,
+          "demandaGrupo": {
+            "vagas": 1,
+            "inscritos": 2,
+            "candidatosPorVaga": 2,
+            "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/10/COL2022-Candidato-vaga.pdf"
+          },
+          "corte1aChamada": 48,
+          "notaMaior1aChamada": 48,
+          "nConvocados1aChamada": 1,
+          "fonteUrlCorte": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm",
+          "piso": {
+            "nota": 48,
+            "chamada": 1
+          },
+          "fronteiraEspera": null,
+          "nEmEspera": null,
+          "chamadas": [
+            {
+              "chamada": 1,
+              "notaCorte": 48,
+              "notaMaior": 48,
+              "nConvocados": 1,
+              "fonteUrl": "https://www.pse.coluni.ufv.br/wp-content/uploads/2021/12/COL2022-PrimeiraChamada.htm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "historicoBonus": [
+    {
+      "edicao": 2021,
+      "escala": 73,
+      "bonusPercentual": 20,
+      "diasProva": 1,
+      "vagasTotal": 150,
+      "demanda": {
+        "vagas": 150,
+        "inscritos": 1698,
+        "candidatosPorVaga": 11.32,
+        "fonteTipo": "oficial_pdf",
+        "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2020/12/COL2021-cand_vaga.pdf"
+      },
+      "corte1aChamada": 57.12,
+      "notaMaior1aChamada": 71.04,
+      "fonteUrlCorte": "https://coluni.ufv.br/wp-content/uploads/2021/03/COL2021-Classificados.html",
+      "piso": {
+        "nota": 56.8,
+        "chamada": 4
+      },
+      "fronteiraEspera": 57.12,
+      "nEmEspera": 302,
+      "esperaDerivavel": true,
+      "chamadas": [
+        {
+          "chamada": 1,
+          "notaCorte": 57.12,
+          "notaMaior": 71.04,
+          "nConvocados": 150,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2021/03/COL2021-Classificados.html"
+        },
+        {
+          "chamada": 2,
+          "notaCorte": 56.88,
+          "notaMaior": 57.12,
+          "nConvocados": 11,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2021/03/COL2021_SegundaChamda.pdf"
+        },
+        {
+          "chamada": 3,
+          "notaCorte": 56.88,
+          "notaMaior": 56.88,
+          "nConvocados": 1,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2021/03/COL2021_TerceiraChamda.pdf"
+        },
+        {
+          "chamada": 4,
+          "notaCorte": 56.8,
+          "notaMaior": 56.8,
+          "nConvocados": 1,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2021/04/COL2021_QuartaChamada.pdf"
+        },
+        {
+          "chamada": 5,
+          "notaCorte": 56.8,
+          "notaMaior": 56.8,
+          "nConvocados": 1,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2021/06/COL2021_QuintaChamada.pdf"
+        }
+      ]
+    },
+    {
+      "edicao": 2020,
+      "escala": 73,
+      "bonusPercentual": 20,
+      "diasProva": 1,
+      "vagasTotal": 150,
+      "demanda": null,
+      "corte1aChamada": 55.68,
+      "notaMaior1aChamada": 69.28,
+      "fonteUrlCorte": "https://coluni.ufv.br/wp-content/uploads/2019/12/COL2020-Classificados.html",
+      "piso": {
+        "nota": 55.2,
+        "chamada": 3
+      },
+      "fronteiraEspera": 55.6,
+      "nEmEspera": 330,
+      "esperaDerivavel": true,
+      "chamadas": [
+        {
+          "chamada": 1,
+          "notaCorte": 55.68,
+          "notaMaior": 69.28,
+          "nConvocados": 150,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2019/12/COL2020-Classificados.html"
+        },
+        {
+          "chamada": 2,
+          "notaCorte": 55.4,
+          "notaMaior": 55.6,
+          "nConvocados": 8,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2020/01/COL20-SegundaChamada.pdf"
+        },
+        {
+          "chamada": 3,
+          "notaCorte": 55.2,
+          "notaMaior": 55.4,
+          "nConvocados": 2,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2020/01/COL20-TerceiraChamada.pdf"
+        },
+        {
+          "chamada": 4,
+          "notaCorte": 55.2,
+          "notaMaior": 55.2,
+          "nConvocados": 1,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2020/01/COL20-QuartaChamada.pdf"
+        }
+      ]
+    },
+    {
+      "edicao": 2019,
+      "escala": 73,
+      "bonusPercentual": 20,
+      "diasProva": 1,
+      "vagasTotal": 150,
+      "demanda": {
+        "vagas": 150,
+        "inscritos": 2222,
+        "candidatosPorVaga": 14.8133,
+        "fonteTipo": "oficial_pdf",
+        "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2018/10/COL19-candidatos-por-vaga.pdf"
+      },
+      "corte1aChamada": 50.2,
+      "notaMaior1aChamada": 73,
+      "fonteUrlCorte": "https://coluni.ufv.br/wp-content/uploads/2018/12/COL19-Classificados.html",
+      "piso": {
+        "nota": 50,
+        "chamada": 2
+      },
+      "fronteiraEspera": 50.2,
+      "nEmEspera": 234,
+      "esperaDerivavel": true,
+      "chamadas": [
+        {
+          "chamada": 1,
+          "notaCorte": 50.2,
+          "notaMaior": 73,
+          "nConvocados": 150,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2018/12/COL19-Classificados.html"
+        },
+        {
+          "chamada": 2,
+          "notaCorte": 50,
+          "notaMaior": 50.2,
+          "nConvocados": 7,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2019/01/COL19-SegundaChamada.pdf"
+        },
+        {
+          "chamada": 3,
+          "notaCorte": 50,
+          "notaMaior": 50,
+          "nConvocados": 1,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2019/01/COL19-TerceiraChamada.pdf"
+        },
+        {
+          "chamada": 4,
+          "notaCorte": 50,
+          "notaMaior": 50,
+          "nConvocados": 1,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2019/01/COL19-QuartaChamada.pdf"
+        },
+        {
+          "chamada": 5,
+          "notaCorte": 50,
+          "notaMaior": 50,
+          "nConvocados": 1,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2019/02/COL19-QuintaChamada.pdf"
+        }
+      ]
+    },
+    {
+      "edicao": 2018,
+      "escala": 73,
+      "bonusPercentual": 20,
+      "diasProva": 1,
+      "vagasTotal": 150,
+      "demanda": null,
+      "corte1aChamada": 56.4,
+      "notaMaior1aChamada": 72.6,
+      "fonteUrlCorte": "https://coluni.ufv.br/wp-content/uploads/2017/12/COL18-Classificados.html",
+      "piso": {
+        "nota": 55.92,
+        "chamada": 4
+      },
+      "fronteiraEspera": 56.4,
+      "nEmEspera": 295,
+      "esperaDerivavel": true,
+      "chamadas": [
+        {
+          "chamada": 1,
+          "notaCorte": 56.4,
+          "notaMaior": 72.6,
+          "nConvocados": 150,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2017/12/COL18-Classificados.html"
+        },
+        {
+          "chamada": 2,
+          "notaCorte": 56.16,
+          "notaMaior": 56.4,
+          "nConvocados": 10,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2018/01/COL18-Chamada2.pdf"
+        },
+        {
+          "chamada": 2,
+          "notaCorte": 56,
+          "notaMaior": 56,
+          "nConvocados": 2,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2018/01/COL18-Chamada3.pdf"
+        },
+        {
+          "chamada": 4,
+          "notaCorte": 55.92,
+          "notaMaior": 55.92,
+          "nConvocados": 1,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2018/01/COL18-Chamada4.pdf"
+        },
+        {
+          "chamada": 5,
+          "notaCorte": 55.92,
+          "notaMaior": 55.92,
+          "nConvocados": 1,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2018/02/COL18-Chamada5.pdf"
+        }
+      ]
+    },
+    {
+      "edicao": 2017,
+      "escala": 100,
+      "bonusPercentual": 15,
+      "diasProva": 2,
+      "vagasTotal": 150,
+      "demanda": null,
+      "corte1aChamada": 75.15,
+      "notaMaior1aChamada": 95.5075,
+      "fonteUrlCorte": "https://coluni.ufv.br/wp-content/uploads/2016/12/COL17-Classificados.html",
+      "piso": {
+        "nota": 74.8,
+        "chamada": 2
+      },
+      "fronteiraEspera": 75.15,
+      "nEmEspera": 149,
+      "esperaDerivavel": true,
+      "chamadas": [
+        {
+          "chamada": 1,
+          "notaCorte": 75.15,
+          "notaMaior": 95.5075,
+          "nConvocados": 150,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2016/12/COL17-Classificados.html"
+        },
+        {
+          "chamada": 2,
+          "notaCorte": 74.8,
+          "notaMaior": 75.15,
+          "nConvocados": 4,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2017/01/COL17-Chamada2.pdf"
+        }
+      ]
+    },
+    {
+      "edicao": 2016,
+      "escala": 100,
+      "bonusPercentual": 15,
+      "diasProva": 2,
+      "vagasTotal": 150,
+      "demanda": {
+        "vagas": 150,
+        "inscritos": 2270,
+        "candidatosPorVaga": 15.1333,
+        "fonteTipo": "oficial_pdf",
+        "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2015/10/COL16-CandVaga.pdf"
+      },
+      "corte1aChamada": 72.95,
+      "notaMaior1aChamada": 94.415,
+      "fonteUrlCorte": "https://coluni.ufv.br/wp-content/uploads/2015/12/COL16-Classificados.html",
+      "piso": {
+        "nota": 72.7375,
+        "chamada": 2
+      },
+      "fronteiraEspera": null,
+      "nEmEspera": null,
+      "esperaDerivavel": false,
+      "chamadas": [
+        {
+          "chamada": 1,
+          "notaCorte": 72.95,
+          "notaMaior": 94.415,
+          "nConvocados": 150,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2015/12/COL16-Classificados.html"
+        },
+        {
+          "chamada": 2,
+          "notaCorte": 72.7375,
+          "notaMaior": 72.9,
+          "nConvocados": 5,
+          "fonteUrl": "https://coluni.ufv.br/wp-content/uploads/2016/01/COL16-segunda-chamada.pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -26,6 +26,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/concursos",
     "/materiais-gratuitos",
     "/nota-de-corte",
+    "/nota-de-corte-coluni",
     "/planos",
     "/pre-vestibular",
     "/pre-vestibulinho",

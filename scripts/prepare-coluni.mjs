@@ -10,7 +10,11 @@ for(const e of exams){
  if(new Set(e.questions.map(q=>q.number)).size!==e.questions.length)throw new Error('Questões duplicadas: '+e.id);
  for(const [name,url,hash] of [['prova',e.examUrl,e.examSha256],['gabarito',e.answerUrl,e.answerSha256]]){
   const source=new URL(url);
-  if(source.protocol!=='https:'||source.hostname!=='www.pse.coluni.ufv.br')throw new Error('Fonte não oficial: '+url);
+  // Hosts oficiais: o portal PSE (edições 2022–2026) e o site da escola
+  // (edições 2016–2021, cujos ficheiros vivem em coluni.ufv.br — alargado
+  // na integração das edições antigas, 2026-11-03; proveniência e hashes
+  // registados em ~/workspace/gabaru-coluni/PROVAS-ANTIGAS.md).
+  if(source.protocol!=='https:'||!new Set(['www.pse.coluni.ufv.br','coluni.ufv.br']).has(source.hostname))throw new Error('Fonte não oficial: '+url);
   const folder=path.join('public','acervo','coluni',e.id),file=path.join(folder,name+'.pdf');
   try{if(digest(await readFile(file))===hash)continue;}catch{}
   const response=await fetch(source,{signal:AbortSignal.timeout(60000),redirect:'error'});

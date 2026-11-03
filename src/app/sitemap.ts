@@ -5,6 +5,7 @@ import { DISCIPLINAS } from "@/data/disciplinas";
 import { PROVAS } from "@/data/provas";
 import etecExams from "@/data/etec-exams.json";
 import coluniExams from "@/data/coluni-exams.json";
+import ifscExams from "@/data/ifsc-exams.json";
 
 /**
  * Mapa do site para os mecanismos de busca.
@@ -27,6 +28,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/materiais-gratuitos",
     "/nota-de-corte",
     "/nota-de-corte-coluni",
+    "/nota-de-corte-ifsc",
     "/planos",
     "/pre-vestibular",
     "/pre-vestibulinho",
@@ -47,6 +49,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const coluni = (coluniExams as { id: string }[]).map((e) => ({
     url: url(`/provas/coluni/${e.id}`),
   }));
+  const ifsc = (ifscExams as { id: string }[]).map((e) => ({
+    url: url(`/provas/ifsc/${e.id}`),
+  }));
   const unesp = archiveYears("unesp").map((ano) => ({
     url: url(`/provas/unesp/${ano}`),
   }));
@@ -62,6 +67,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...enem,
     ...etec,
     ...coluni,
+    ...ifsc,
     ...unesp,
     ...unicamp,
   ].filter((item) => {

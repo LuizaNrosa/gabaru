@@ -3,10 +3,12 @@ import { PathCards } from "@/components/path-cards";
 import { provasDa } from "@/data/provas";
 import Link from "next/link";
 import { VestibulinhoCollection } from "@/components/exam-collection";
-export const metadata = {
-  title: "Vestibulinhos: seu próximo passo",
-  description: "Provas oficiais de ETEC e COLUNI por instituição e edição, com cadernos e gabaritos.",
-};
+import { metaPagina } from "@/lib/seo";
+export const metadata = metaPagina({
+  titulo: "Vestibulinhos: seu próximo passo",
+  descricao: "Provas oficiais de ETEC e COLUNI por instituição e edição, com cadernos e gabaritos.",
+  caminho: "/pre-vestibulinho",
+});
 export default function Page() {
   return (
     <main>

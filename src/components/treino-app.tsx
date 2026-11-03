@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 type Questao = {
   id: string;
@@ -56,6 +56,19 @@ export function TreinoApp() {
   const [escolhida, setEscolhida] = useState<string | null>(null);
   const [confirmada, setConfirmada] = useState(false);
   const [respondidas, setRespondidas] = useState(0);
+  // Gestão de foco: ao trocar de fase ou de questão, o botão que tinha o
+  // foco sai do DOM e o foco se perderia no corpo da página. Levamos o
+  // foco ao título da nova vista (h1 de cada fase), sem roubar o foco na
+  // montagem inicial.
+  const tituloRef = useRef<HTMLHeadingElement>(null);
+  const montou = useRef(false);
+  useEffect(() => {
+    if (!montou.current) {
+      montou.current = true;
+      return;
+    }
+    tituloRef.current?.focus();
+  }, [fase, posicao, erro]);
 
   useEffect(() => {
     const ctrl = new AbortController();
@@ -133,7 +146,7 @@ export function TreinoApp() {
   if (erro) {
     return (
       <div className="rounded-2xl border border-n2 bg-white/70 p-8">
-        <h1 className="text-2xl font-bold">
+        <h1 ref={tituloRef} tabIndex={-1} className="text-2xl font-bold">
           Não foi possível carregar o treino.
         </h1>
         <p className="mt-3 text-n5">
@@ -242,7 +255,7 @@ export function TreinoApp() {
             type="button"
             onClick={comecar}
             disabled={disponiveis === 0 || iniciando}
-            className="mt-8 inline-flex min-h-14 w-full items-center justify-center rounded-xl bg-gold px-6 text-lg font-bold text-ink transition hover:-translate-y-0.5 hover:bg-[#f0bd55] disabled:opacity-50"
+            className="mt-8 inline-flex min-h-14 w-full items-center justify-center rounded-xl bg-gold-text px-6 text-lg font-bold text-white transition hover:-translate-y-0.5 hover:bg-[#a63f14] disabled:opacity-50"
           >
             {iniciando
               ? "Preparando treino…"
@@ -265,7 +278,11 @@ export function TreinoApp() {
         <p className="font-mono text-xs font-bold uppercase tracking-[0.14em] text-n4">
           Treino concluído
         </p>
-        <h1 className="mt-3 text-4xl font-bold tracking-tight sm:text-5xl">
+        <h1
+          ref={tituloRef}
+          tabIndex={-1}
+          className="mt-3 text-4xl font-bold tracking-tight sm:text-5xl"
+        >
           Você fez {respondidas} questões.
         </h1>
         <p className="mx-auto mt-4 max-w-md text-lg text-n5">
@@ -303,9 +320,13 @@ export function TreinoApp() {
   return (
     <div>
       <div className="flex items-center justify-between gap-4">
-        <p className="font-mono text-sm font-bold text-n5">
+        <h1
+          ref={tituloRef}
+          tabIndex={-1}
+          className="font-mono text-sm font-bold text-n5"
+        >
           Questão {posicao + 1} de {fila.length}
-        </p>
+        </h1>
         <button
           type="button"
           onClick={() => setFase("escolha")}
@@ -323,7 +344,7 @@ export function TreinoApp() {
         aria-label="Progresso do treino"
       >
         <div
-          className="h-full rounded-full bg-gold transition-all"
+          className="h-full rounded-full bg-ink transition-all"
           style={{ width: `${progresso}%` }}
         />
       </div>
@@ -385,7 +406,7 @@ export function TreinoApp() {
               type="button"
               onClick={confirmar}
               disabled={!escolhida}
-              className="mt-6 inline-flex min-h-14 w-full items-center justify-center rounded-xl bg-gold px-6 text-lg font-bold text-ink transition hover:-translate-y-0.5 hover:bg-[#f0bd55] disabled:opacity-50"
+              className="mt-6 inline-flex min-h-14 w-full items-center justify-center rounded-xl bg-gold-text px-6 text-lg font-bold text-white transition hover:-translate-y-0.5 hover:bg-[#a63f14] disabled:opacity-50"
             >
               Confirmar resposta
             </button>

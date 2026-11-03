@@ -7,8 +7,9 @@ export function SiteFooter() {
         <div>
           <Wordmark />
           <p className="mt-5 max-w-xs text-sm text-n5">
-            Grandes conquistas. Um passo de cada vez. Preparação para
-            vestibulinhos, ENEM e vestibulares.
+            Vestibulinho ETEC com as provas oficiais verificadas: acervo,
+            nota de corte e demanda por curso. E o acervo ENEM, COLUNI, Unesp
+            e Unicamp.
           </p>
           <p className="mt-3 text-xs text-n4">Plataforma em construção.</p>
         </div>
@@ -21,6 +22,8 @@ export function SiteFooter() {
         </nav>
         <nav aria-label="Estudar">
           <h2>Estudar</h2>
+          <Link href="/nota-de-corte">Nota de corte ETEC</Link>
+          <Link href="/provas/etec">Acervo de provas ETEC</Link>
           <Link href="/treino">Treino gratuito</Link>
           <Link href="/questoes-gratis">Questões abertas</Link>
           <Link href="/materiais-gratuitos">Materiais e fontes</Link>

@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
 import { CONTAINER, CtaCadastro, PageHero } from "@/components/ui";
+import { metaPagina } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Sobre nós",
-  description:
+export const metadata: Metadata = metaPagina({
+  titulo: "Sobre nós",
+  descricao:
     "Por que o Gabaru existe e como pensamos o estudo para vestibulinhos, vestibulares, ENEM e concursos.",
-};
+  caminho: "/sobre",
+});
 
 export default function Sobre() {
   return (

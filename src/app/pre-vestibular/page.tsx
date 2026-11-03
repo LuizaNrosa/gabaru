@@ -4,11 +4,13 @@ import { PathCards } from "@/components/path-cards";
 import { provasDa } from "@/data/provas";
 import { DISCIPLINAS } from "@/data/disciplinas";
 import { ARCHIVES, archiveYears } from "@/lib/vestibular-archive";
-export const metadata = {
-  title: "ENEM e vestibulares",
-  description:
+import { metaPagina } from "@/lib/seo";
+export const metadata = metaPagina({
+  titulo: "ENEM e vestibulares",
+  descricao:
     "Consulte provas anteriores do ENEM, UNESP e Unicamp, organizadas por instituição e ano.",
-};
+  caminho: "/pre-vestibular",
+});
 export default function Page() {
   return (
     <main>

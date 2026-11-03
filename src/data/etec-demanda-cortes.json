@@ -1,0 +1,752 @@
+{
+  "meta": {
+    "geradoEm": "2026-11-03",
+    "origem": "Base Gabaru de demanda e cortes do Vestibulinho ETEC (fontes oficiais do Centro Paula Souza/FAT e listas de classificação oficiais; ver fonteUrl por registo).",
+    "totalCombinacoes": 38,
+    "combinacoesComCorte": 2,
+    "nota": "Campos ausentes são lacunas da fonte pública, nunca estimativas. A nota de corte é a NOTA final (já com pontuação acrescida) do classificado na posição igual ao nº de vagas, na lista geral de 1ª opção."
+  },
+  "combinacoes": [
+    {
+      "unidade": "Etec de Guarulhos",
+      "municipio": "Guarulhos",
+      "curso": "Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas",
+      "turno": "Manhã",
+      "modalidade": "integrado_mtec",
+      "demanda": [
+        {
+          "edicao": "2026.1",
+          "vagas": 40,
+          "inscritos": null,
+          "demandaCv": 25.2,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://jornalznorte.com.br/educacao/saiba-quais-sao-os-cursos-mais-concorridos-do-vestibulinho-das-etecs"
+        }
+      ],
+      "corte": {
+        "edicao": "2026.1",
+        "vagas": 40,
+        "notaCorte": 45,
+        "notaMaior": 51.7,
+        "nClassificados": 898,
+        "fonteUrl": "https://web.archive.org/web/20260315174140/https://classificacao.vestibulinho.etec.sp.gov.br/202601910254/pdf-opcao1-geral/E0295.S0000_Lista_de_Classificacao_Class.pdf"
+      },
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Zona Leste",
+      "municipio": "São Paulo",
+      "curso": "Desenvolvimento de Sistemas – AMS",
+      "turno": "Tarde",
+      "modalidade": "ams",
+      "demanda": [
+        {
+          "edicao": "2026.1",
+          "vagas": 40,
+          "inscritos": 407,
+          "demandaCv": 10.18,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://jornalznorte.com.br/educacao/saiba-quais-sao-os-cursos-mais-concorridos-do-vestibulinho-das-etecs"
+        }
+      ],
+      "corte": {
+        "edicao": "2026.1",
+        "vagas": 40,
+        "notaCorte": 41,
+        "notaMaior": 48,
+        "nClassificados": 371,
+        "fonteUrl": "https://web.archive.org/web/20260115163233id_/https://classificacao.vestibulinho.etec.sp.gov.br/202601910254/pdf-opcao1-geral/E0211.F0111_Lista_de_Classificacao_Class.pdf"
+      },
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec de Guarulhos",
+      "municipio": "Guarulhos",
+      "curso": "Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas – M-Tec",
+      "turno": "Manhã",
+      "modalidade": "integrado_mtec",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 998,
+          "demandaCv": 24.95,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec de Guarulhos",
+      "municipio": "Guarulhos",
+      "curso": "Ensino Médio com Habilitação Técnica em Administração – M-Tec",
+      "turno": "Manhã",
+      "modalidade": "integrado_mtec",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 912,
+          "demandaCv": 22.8,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Zona Leste",
+      "municipio": "São Paulo",
+      "curso": "Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas – M-Tec",
+      "turno": "Manhã",
+      "modalidade": "integrado_mtec",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 35,
+          "inscritos": 730,
+          "demandaCv": 20.86,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Antônio Furlan",
+      "municipio": "Barueri",
+      "curso": "Ensino Médio com Habilitação Técnica em Informática para Internet – M-Tec",
+      "turno": "Manhã",
+      "modalidade": "integrado_mtec",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 724,
+          "demandaCv": 18.1,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Bento Quirino",
+      "municipio": "Campinas",
+      "curso": "Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas – M-Tec",
+      "turno": "Manhã",
+      "modalidade": "integrado_mtec",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 35,
+          "inscritos": 611,
+          "demandaCv": 17.46,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Lauro Gomes",
+      "municipio": "São Bernardo do Campo",
+      "curso": "Ensino Médio com Habilitação Técnica em Administração – M-Tec",
+      "turno": "Manhã",
+      "modalidade": "integrado_mtec",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 678,
+          "demandaCv": 16.95,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec de São Paulo",
+      "municipio": "São Paulo",
+      "curso": "Ensino Médio com Habilitação Técnica em Desenvolvimento de Sistemas – M-Tec – PI",
+      "turno": "Integral",
+      "modalidade": "integrado_mtec",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 617,
+          "demandaCv": 15.43,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec de Itaquera",
+      "municipio": "São Paulo",
+      "curso": "Ensino Médio com Habilitação Técnica em Administração – M-Tec",
+      "turno": "Manhã",
+      "modalidade": "integrado_mtec",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 609,
+          "demandaCv": 15.23,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Presidente Vargas",
+      "municipio": "Mogi das Cruzes",
+      "curso": "Ensino Médio com Habilitação Técnica em Administração – M-Tec",
+      "turno": "Manhã",
+      "modalidade": "integrado_mtec",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 592,
+          "demandaCv": 14.8,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec de Embu",
+      "municipio": "Embu das Artes",
+      "curso": "Ensino Médio com Habilitação Técnica em Administração – M-Tec",
+      "turno": "Manhã",
+      "modalidade": "integrado_mtec",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 571,
+          "demandaCv": 14.28,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Zona Leste",
+      "municipio": "São Paulo",
+      "curso": "Desenvolvimento de Sistemas – AMS",
+      "turno": "",
+      "modalidade": "ams",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": null,
+          "inscritos": null,
+          "demandaCv": 10.98,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Aristóteles Ferreira",
+      "municipio": "Santos",
+      "curso": "Desenvolvimento de Sistemas – AMS",
+      "turno": "",
+      "modalidade": "ams",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": null,
+          "inscritos": null,
+          "demandaCv": 10.03,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Bento Quirino",
+      "municipio": "Campinas",
+      "curso": "Desenvolvimento de Sistemas – AMS",
+      "turno": "",
+      "modalidade": "ams",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": null,
+          "inscritos": null,
+          "demandaCv": 8.2,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Lauro Gomes",
+      "municipio": "São Bernardo do Campo",
+      "curso": "Ensino Médio com Itinerário Formativo — ênfase em Ciências Humanas e Sociais Aplicadas",
+      "turno": "Manhã",
+      "modalidade": "itinerario",
+      "demanda": [
+        {
+          "edicao": "2026.1",
+          "vagas": 40,
+          "inscritos": 324,
+          "demandaCv": 8.1,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://jornalznorte.com.br/educacao/saiba-quais-sao-os-cursos-mais-concorridos-do-vestibulinho-das-etecs"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Lauro Gomes",
+      "municipio": "São Bernardo do Campo",
+      "curso": "Ensino Médio – Ciências Humanas e Sociais Aplicadas",
+      "turno": "Manhã",
+      "modalidade": "itinerario",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 300,
+          "demandaCv": 7.5,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Carlos de Campos",
+      "municipio": "São Paulo",
+      "curso": "Enfermagem",
+      "turno": "Manhã",
+      "modalidade": "tecnico",
+      "demanda": [
+        {
+          "edicao": "2026.1",
+          "vagas": null,
+          "inscritos": null,
+          "demandaCv": 6.75,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://jornalznorte.com.br/educacao/saiba-quais-sao-os-cursos-mais-concorridos-do-vestibulinho-das-etecs"
+        },
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 246,
+          "demandaCv": 6.15,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Guaracy Silveira",
+      "municipio": "São Paulo",
+      "curso": "Ensino Médio – Ciências Humanas e Sociais Aplicadas",
+      "turno": "Manhã",
+      "modalidade": "itinerario",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 261,
+          "demandaCv": 6.53,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec de Araçatuba",
+      "municipio": "Araçatuba",
+      "curso": "Ensino Médio – Ciências da Natureza e suas Tecnologias",
+      "turno": "Manhã",
+      "modalidade": "itinerario",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 252,
+          "demandaCv": 6.3,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec de Artes",
+      "municipio": "São Paulo",
+      "curso": "Canto",
+      "turno": "Noite",
+      "modalidade": "tecnico",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 30,
+          "inscritos": 183,
+          "demandaCv": 6.1,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Prof. Armando Bayeux da Silva",
+      "municipio": "Rio Claro",
+      "curso": "Ensino Médio – Ciências Humanas e Sociais Aplicadas",
+      "turno": "Manhã",
+      "modalidade": "itinerario",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 242,
+          "demandaCv": 6.05,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec de Artes",
+      "municipio": "São Paulo",
+      "curso": "Teatro",
+      "turno": "Noite",
+      "modalidade": "tecnico",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 180,
+          "demandaCv": 6,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Doutora Ruth Cardoso",
+      "municipio": "São Vicente",
+      "curso": "Ensino Médio – Linguagens e suas Tecnologias",
+      "turno": "Manhã",
+      "modalidade": "itinerario",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 238,
+          "demandaCv": 5.95,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Rodrigues de Abreu",
+      "municipio": "Bauru",
+      "curso": "Ensino Médio – Ciências Humanas e Sociais Aplicadas",
+      "turno": "Manhã",
+      "modalidade": "itinerario",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 35,
+          "inscritos": 205,
+          "demandaCv": 5.86,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Prof. Massuyuki Kawano",
+      "municipio": "Tupã",
+      "curso": "Ensino Médio – Ciências da Natureza e suas Tecnologias",
+      "turno": "Manhã",
+      "modalidade": "itinerario",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 232,
+          "demandaCv": 5.8,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Comendador João Rays",
+      "municipio": "Barra Bonita",
+      "curso": "Ensino Médio – Linguagens e suas Tecnologias",
+      "turno": "Manhã",
+      "modalidade": "itinerario",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 35,
+          "inscritos": 196,
+          "demandaCv": 5.6,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Doutora Ruth Cardoso",
+      "municipio": "São Vicente",
+      "curso": "Ensino Médio – Ciências da Natureza e suas Tecnologias",
+      "turno": "Manhã",
+      "modalidade": "itinerario",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 204,
+          "demandaCv": 5.1,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Alberto Santos Dumont",
+      "municipio": "Guarujá",
+      "curso": "Ensino Médio – Ciências Humanas e Sociais Aplicadas",
+      "turno": "Manhã",
+      "modalidade": "itinerario",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 199,
+          "demandaCv": 4.98,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Dr. Renato Cordeiro",
+      "municipio": "Birigui",
+      "curso": "Enfermagem",
+      "turno": "Noite",
+      "modalidade": "tecnico",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 189,
+          "demandaCv": 4.73,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Lauro Gomes",
+      "municipio": "São Bernardo do Campo",
+      "curso": "Desenvolvimento de Sistemas",
+      "turno": "Tarde",
+      "modalidade": "tecnico",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 187,
+          "demandaCv": 4.68,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Philadelpho Gouvêa Netto",
+      "municipio": "São José do Rio Preto",
+      "curso": "Enfermagem",
+      "turno": "Noite",
+      "modalidade": "tecnico",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 184,
+          "demandaCv": 4.6,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Antônio Furlan",
+      "municipio": "Barueri",
+      "curso": "Desenvolvimento de Sistemas",
+      "turno": "Noite",
+      "modalidade": "tecnico",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 181,
+          "demandaCv": 4.53,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec de Itaquera",
+      "municipio": "São Paulo",
+      "curso": "Desenvolvimento de Sistemas",
+      "turno": "Noite",
+      "modalidade": "tecnico",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 176,
+          "demandaCv": 4.4,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec de Mauá",
+      "municipio": "Mauá",
+      "curso": "Farmácia",
+      "turno": "Noite",
+      "modalidade": "tecnico",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 167,
+          "demandaCv": 4.18,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Júlio de Mesquita",
+      "municipio": "Santo André",
+      "curso": "Mecatrônica",
+      "turno": "Noite",
+      "modalidade": "tecnico",
+      "demanda": [
+        {
+          "edicao": "2025.1",
+          "vagas": 40,
+          "inscritos": 166,
+          "demandaCv": 4.15,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://www.centralclipping.com.br/monitoramento/materia/7646/2700724295"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Antônio Furlan",
+      "municipio": "Barueri",
+      "curso": "Especialização Técnica em Urgência e Emergência – APH (Atendimento Pré-Hospitalar)",
+      "turno": "Noite",
+      "modalidade": "especializacao",
+      "demanda": [
+        {
+          "edicao": "2026.1",
+          "vagas": null,
+          "inscritos": null,
+          "demandaCv": 4.03,
+          "fonteTipo": "oficial_release_via_imprensa",
+          "fonteUrl": "https://jornalznorte.com.br/educacao/saiba-quais-sao-os-cursos-mais-concorridos-do-vestibulinho-das-etecs"
+        }
+      ],
+      "corte": null,
+      "listaRecuperada": null
+    },
+    {
+      "unidade": "Etec Prof. Armando Bayeux da Silva",
+      "municipio": "Rio Claro",
+      "curso": "Contabilidade",
+      "turno": "Noite",
+      "modalidade": null,
+      "demanda": [],
+      "corte": null,
+      "listaRecuperada": {
+        "edicao": "2026.1",
+        "notaMaior": 46.33,
+        "nClassificados": 25,
+        "ultimaNota": 13.56,
+        "fonteUrl": "https://web.archive.org/web/20260317034009/https://classificacao.vestibulinho.etec.sp.gov.br/202601910254/pdf-opcao1-geral/E0036.E0002_Lista_de_Classificacao_Class.pdf"
+      }
+    }
+  ]
+}

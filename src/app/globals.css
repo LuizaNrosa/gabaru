@@ -1,29 +1,42 @@
 @import "tailwindcss";
 
-/* Tokens de compatibilidade com os componentes existentes; identidade Caminhos.
-   Paleta anterior "biblioteca noturna": papel quente, azul-marinho e dourado.
-   Proporção alvo: 60% papel, 30% marinho (estrutura), 10% dourado (ação e destaque).
-   Regras: dourado é fundo de ação com texto marinho. Dourado-claro só atrás de texto ink.
-   Anil marca erro e revisão. Erro nunca usa vermelho. */
+/* Identidade "papel de prova + carimbo" (redesign 2026-11-03).
+   Papel off-white de prova, tinta grafite e UM acento quente:
+   o laranja-queimado/vermelho-carimbo, reservado a ação, ao selo de
+   verificação e às marcações de gabarito. O verde-lima anterior foi
+   abandonado (território mental da Descomplica).
+   Nomes de tokens mantidos por compatibilidade com os componentes:
+   paper = papel da prova · ink = tinta grafite · gold = carimbo ·
+   gold-soft = tinta do carimbo diluída · anil = tijolo escuro (erro/revisão)
+   · n1–n5 = cinzas quentes de papel (bordas e texto secundário).
+   ACESSIBILIDADE (docs/A11Y-SEO-NOTAS.md): #c8501e sobre o papel mede
+   4,10:1 — só passa AA para texto grande e componentes. Para texto em
+   tamanho normal, links, etiquetas e fundos com texto usa-se o token
+   gold-text #b0430f (5,19:1 sobre o papel). O carimbo, os gráficos e os
+   elementos não-textuais mantêm #c8501e. */
 @theme {
-  --color-paper: #f8f8f2;
-  --color-ink: #123d35;
-  --color-gold: #d7ee79;
-  --color-gold-soft: #eaf1cd;
-  --color-anil: #3b3fb6;
+  --color-paper: #f7f3ea;
+  --color-ink: #232323;
+  --color-gold: #c8501e;
+  --color-gold-text: #b0430f;
+  --color-gold-soft: #f6e0d0;
+  --color-anil: #9c2b12;
 
-  --color-n1: #e6eddf;
-  --color-n2: #cad5c7;
-  --color-n3: #7a8b77;
-  --color-n4: #52645a;
-  --color-n5: #42574b;
+  --color-n1: #efe9db;
+  --color-n2: #d8cfb6;
+  --color-n3: #a79c86;
+  --color-n4: #6f675a;
+  --color-n5: #4c463d;
 
   --radius-card: 12px;
   --radius-button: 8px;
 
   --font-sans:
-    "Atkinson Hyperlegible Next", ui-sans-serif, system-ui, sans-serif;
-  --font-mono: "Atkinson Hyperlegible Mono", ui-monospace, monospace;
+    var(--font-atkinson-next), "Atkinson Hyperlegible Next", ui-sans-serif,
+    system-ui, sans-serif;
+  --font-mono:
+    var(--font-atkinson-mono), "Atkinson Hyperlegible Mono", ui-monospace,
+    monospace;
 }
 
 html {
@@ -47,7 +60,7 @@ mark {
 }
 
 a {
-  text-decoration-color: var(--color-gold);
+  text-decoration-color: var(--color-gold-text);
   text-underline-offset: 3px;
 }
 
@@ -79,18 +92,18 @@ a {
   height: 32px;
 }
 .gb-logo-dot {
-  color: #65823f;
+  color: #c8501e;
 }
 .gb-header {
   position: relative;
   z-index: 50;
   background: var(--color-paper);
-  border-bottom: 1px solid #dce2d7;
+  border-bottom: 1px solid #e3dcc8;
 }
 .gb-announcement {
   text-align: center;
-  background: #123d35;
-  color: #f8f8f2;
+  background: #232323;
+  color: #f7f3ea;
   padding: 9px 20px;
   font-size: 12px;
 }
@@ -122,7 +135,7 @@ a {
   display: flex;
   gap: 24px;
   align-items: center;
-  border: 1px solid #b8c6b8;
+  border: 1px solid #c0b491;
   border-radius: 5px;
   padding: 12px 19px;
   font-size: 14px;
@@ -138,7 +151,7 @@ a {
   display: flex;
   justify-content: space-between;
   padding: 16px 0;
-  border-bottom: 1px solid #dce2d7;
+  border-bottom: 1px solid #e3dcc8;
 }
 .gb-container {
   max-width: 1280px;
@@ -163,7 +176,7 @@ a {
 .gb-live-dot {
   width: 6px;
   height: 6px;
-  background: #688840;
+  background: #c8501e;
   border-radius: 50%;
 }
 .gb-hero h1 {
@@ -180,7 +193,7 @@ a {
 .gb-lead {
   max-width: 450px;
   font-size: 17px;
-  color: #52645a;
+  color: #4c463d;
   line-height: 1.75;
 }
 .gb-actions {
@@ -195,7 +208,7 @@ a {
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  background: #123d35;
+  background: #232323;
   color: #fff;
   padding: 17px 22px;
   border-radius: 5px;
@@ -205,7 +218,7 @@ a {
   transition: background 0.2s;
 }
 .gb-button:hover {
-  background: #245c4b;
+  background: var(--color-gold-text);
 }
 .gb-button span {
   font-size: 20px;
@@ -217,102 +230,161 @@ a {
 }
 .gb-footnote {
   font-size: 11px;
-  color: #637366;
+  color: #6f675a;
   margin-top: 18px;
 }
+/* Arte do hero: a folha da prova — caderno + folha de respostas + carimbo.
+   O sistema gráfico nasce do produto: grelha de bolhas, numeração de
+   questão e o carimbo de verificação (o acento quente). */
 .gb-hero-art {
   position: relative;
-  min-height: 490px;
-  background: #e6eddf;
+  background: #fffdf7;
+  border: 1px solid var(--color-n2);
+  border-radius: 8px;
+  padding: 26px 26px 30px;
   overflow: hidden;
-  border-radius: 160px 160px 8px 8px;
+  box-shadow: 0 18px 44px #23232317;
 }
-.gb-art-grid {
+.gb-hero-art::before {
+  content: "";
   position: absolute;
   inset: 0;
-  background-image:
-    linear-gradient(#123d3509 1px, transparent 1px),
-    linear-gradient(90deg, #123d3509 1px, transparent 1px);
-  background-size: 38px 38px;
+  background-image: radial-gradient(#23232312 1.4px, transparent 1.5px);
+  background-size: 22px 22px;
+  pointer-events: none;
 }
-.gb-art-label {
-  position: absolute;
-  top: 49px;
-  left: 0;
-  width: 100%;
-  text-align: center;
-  font-size: 9px;
-  letter-spacing: 1.7px;
+.gb-sheet-head {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  border-bottom: 2px solid var(--color-ink);
+  padding-bottom: 12px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
 }
-.gb-orbit {
-  position: absolute;
-  width: 260px;
-  height: 260px;
-  border: 1px solid #8ba787;
-  border-radius: 50%;
-  top: 102px;
-  left: 50%;
-  transform: translateX(-50%);
-}
-.gb-step {
-  position: absolute;
-  bottom: 100px;
-  width: 28%;
-  background: #bfd18f;
-  border-top: 1px solid #f5ffdd;
-}
-.gb-step-one {
-  left: 10%;
-  height: 100px;
-}
-.gb-step-two {
-  left: 38%;
-  height: 175px;
-  background: #74936c;
-}
-.gb-step-three {
-  left: 66%;
-  height: 250px;
-  background: #123d35;
-  color: #d7ee79;
-}
-.gb-step-three span {
-  display: block;
-  font-size: 85px;
-  line-height: 1;
-  padding: 22px 15px;
-  font-weight: 300;
-}
-.gb-art-base {
-  position: absolute;
-  left: 10%;
-  bottom: 76px;
-  font-size: 9px;
-  letter-spacing: 2px;
-}
-.gb-art-top {
-  position: absolute;
-  right: 6%;
-  top: 111px;
-  font-size: 8px;
-  letter-spacing: 1px;
-  writing-mode: vertical-rl;
-}
-.gb-art-note {
-  position: absolute;
-  bottom: 20px;
-  left: 10%;
+.gb-sheet-q {
+  position: relative;
+  margin-top: 20px;
+  font-family: var(--font-mono);
   font-size: 11px;
-  line-height: 1.5;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+}
+.gb-sheet-lines {
+  position: relative;
+  margin-top: 12px;
+  display: grid;
+  gap: 8px;
+}
+.gb-sheet-lines span {
+  display: block;
+  height: 9px;
+  border-radius: 2px;
+  background: #2323231c;
+}
+.gb-sheet-lines span:nth-child(2) {
+  width: 88%;
+}
+.gb-sheet-lines span:nth-child(3) {
+  width: 64%;
+}
+.gb-sheet-alts {
+  position: relative;
+  margin-top: 18px;
+  display: grid;
+  gap: 9px;
+}
+.gb-sheet-alt {
   display: flex;
   align-items: center;
-  gap: 14px;
+  gap: 11px;
+  font-size: 13px;
+  font-weight: 600;
 }
-.gb-art-note > span {
-  font-size: 30px;
+.gb-bubble {
+  width: 21px;
+  height: 21px;
+  flex: none;
+  display: grid;
+  place-items: center;
+  border: 2px solid #2323238c;
+  border-radius: 50%;
+  font-size: 10px;
+  font-weight: 700;
+  background: transparent;
+  color: transparent;
+}
+.gb-bubble-on {
+  background: var(--color-ink);
+  border-color: var(--color-ink);
+}
+.gb-bubble-key {
+  border-color: var(--color-gold);
+  color: var(--color-gold);
+  box-shadow: 0 0 0 3px var(--color-gold-soft);
+}
+.gb-sheet-alt-key {
+  color: var(--color-gold-text);
+}
+.gb-sheet-grid {
+  position: relative;
+  margin-top: 24px;
+  border-top: 1px dashed var(--color-n3);
+  padding-top: 18px;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  gap: 8px;
+}
+.gb-sheet-grid .gb-bubble {
+  width: 17px;
+  height: 17px;
+  border-width: 1.6px;
+  justify-self: center;
+}
+/* O carimbo: forma do selo "questão oficial verificada". */
+.gb-stamp {
+  display: inline-block;
+  border: 3px solid var(--color-gold);
+  border-radius: 6px;
+  box-shadow:
+    inset 0 0 0 2px var(--color-paper),
+    inset 0 0 0 4.5px var(--color-gold);
+  background: #f7f3eae8;
+  color: var(--color-gold);
+  font-family: var(--font-mono);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 1.6px;
+  line-height: 1.45;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 12px 18px;
+  transform: rotate(-7deg);
+}
+.gb-stamp-sm {
+  font-size: 10px;
+  padding: 7px 11px;
+  border-width: 2.4px;
+  letter-spacing: 1.3px;
+}
+.gb-stamp-ink {
+  border-color: var(--color-ink);
+  color: var(--color-ink);
+  box-shadow:
+    inset 0 0 0 2px var(--color-paper),
+    inset 0 0 0 4.5px var(--color-ink);
+}
+.gb-hero-stamp {
+  position: absolute;
+  right: 22px;
+  bottom: 96px;
 }
 .gb-facts {
-  border-block: 1px solid #dce2d7;
+  border-block: 1px solid #e3dcc8;
 }
 .gb-facts > div {
   display: flex;
@@ -323,9 +395,10 @@ a {
   font-weight: 600;
 }
 .gb-facts span:before {
-  content: "✳";
+  content: "✓";
   margin-right: 12px;
-  color: #66814d;
+  color: #b0430f;
+  font-weight: 800;
 }
 .gb-section {
   padding-block: 84px;
@@ -349,7 +422,7 @@ a {
 .gb-section-intro > p {
   max-width: 360px;
   font-size: 15px;
-  color: #52645a;
+  color: #4c463d;
   line-height: 1.75;
 }
 .gb-path-grid {
@@ -360,12 +433,12 @@ a {
 .gb-path {
   display: block;
   padding: 26px;
-  border: 1px solid #cad5c7;
+  border: 1px solid #d8cfb6;
   border-radius: 6px;
   transition: background 0.2s;
 }
 .gb-path:hover {
-  background: #eaf1df;
+  background: #f3ead6;
 }
 .gb-path-top {
   display: flex;
@@ -375,14 +448,14 @@ a {
 .gb-path-top > span:first-child {
   font-size: 11px;
   font-family: monospace;
-  color: #667464;
+  color: #6f675a;
 }
 .gb-path-tag {
   margin-top: 35px;
   font-size: 10px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #527046;
+  color: #a63f14;
 }
 .gb-path h3 {
   font-size: 26px;
@@ -392,18 +465,18 @@ a {
 }
 .gb-path-exams {
   font-size: 11px;
-  color: #52645a;
+  color: #4c463d;
   margin-bottom: 24px;
 }
 .gb-path > p:last-child {
   font-size: 14px;
   max-width: 240px;
   line-height: 1.6;
-  color: #52645a;
+  color: #4c463d;
 }
 .gb-practice {
-  background: #123d35;
-  color: #f8f8f2;
+  background: #232323;
+  color: #f7f3ea;
   padding-block: 72px;
 }
 .gb-practice-grid {
@@ -415,15 +488,15 @@ a {
 .gb-practice-grid > div > p:not(.gb-eyebrow) {
   max-width: 420px;
   line-height: 1.7;
-  color: #d6e0d5;
+  color: #ddd6c6;
 }
 .gb-button-light {
-  background: #d7ee79;
-  color: #123d35;
+  background: var(--color-gold-text);
+  color: #fff;
   margin-top: 28px;
 }
 .gb-button-light:hover {
-  background: #e6f5af;
+  background: #a63f14;
 }
 .gb-practice-grid > div > .gb-practice-limit {
   font-size: 11px;
@@ -443,7 +516,7 @@ a {
 .gb-practice-list li > span {
   font-family: monospace;
   font-size: 12px;
-  color: #d7ee79;
+  color: #eda87c;
 }
 .gb-practice-list h3 {
   font-size: 20px;
@@ -451,12 +524,12 @@ a {
 }
 .gb-practice-list p {
   font-size: 14px;
-  color: #d6e0d5;
+  color: #ddd6c6;
   line-height: 1.7;
   margin-top: 7px;
 }
 .gb-vision {
-  border-bottom: 1px solid #dce2d7;
+  border-bottom: 1px solid #e3dcc8;
 }
 .gb-vision-grid {
   display: grid;
@@ -467,7 +540,7 @@ a {
 .gb-planned {
   font-size: 9px;
   letter-spacing: 1px;
-  color: #52645a;
+  color: #4c463d;
 }
 .gb-vision h3 {
   font-size: 24px;
@@ -477,7 +550,7 @@ a {
 .gb-vision-grid p {
   font-size: 15px;
   line-height: 1.7;
-  color: #52645a;
+  color: #4c463d;
 }
 .gb-faq {
   display: grid;
@@ -486,10 +559,10 @@ a {
 }
 .gb-faq > div > p:last-child {
   font-size: 14px;
-  color: #52645a;
+  color: #4c463d;
 }
 .gb-faq details {
-  border-bottom: 1px solid #cad5c7;
+  border-bottom: 1px solid #d8cfb6;
   padding: 22px 0;
 }
 .gb-faq summary {
@@ -511,10 +584,10 @@ a {
   font-size: 14px;
   line-height: 1.8;
   margin-top: 16px;
-  color: #52645a;
+  color: #4c463d;
 }
 .gb-final {
-  background: #e7eedc;
+  background: #f0e6d2;
   padding: 48px;
   text-align: center;
   border-radius: 6px;
@@ -535,9 +608,6 @@ a {
   }
   .gb-hero {
     gap: 30px;
-  }
-  .gb-hero-art {
-    min-height: 450px;
   }
   .gb-hero h1 {
     letter-spacing: -2px;
@@ -590,28 +660,11 @@ a {
     font-size: 16px;
   }
   .gb-hero-art {
-    min-height: 390px;
-    border-radius: 100px 100px 6px 6px;
+    padding: 20px 20px 24px;
   }
-  .gb-art-label {
-    top: 34px;
-  }
-  .gb-orbit {
-    top: 75px;
-    width: 225px;
-    height: 225px;
-  }
-  .gb-step {
-    bottom: 85px;
-  }
-  .gb-step-three {
-    height: 220px;
-  }
-  .gb-art-base {
-    bottom: 65px;
-  }
-  .gb-art-note {
-    bottom: 12px;
+  .gb-hero-stamp {
+    position: static;
+    margin-top: 20px;
   }
   .gb-actions {
     gap: 20px;
@@ -703,10 +756,10 @@ a {
 }
 .gb-notice {
   padding: 20px 24px;
-  border: 1px solid #cad5c7;
-  background: #eaf1df;
+  border: 1px solid #d8cfb6;
+  background: #f3ead6;
   border-radius: 6px;
-  color: #123d35;
+  color: #232323;
   font-size: 14px;
   line-height: 1.7;
 }
@@ -716,7 +769,7 @@ a {
   gap: 18px;
 }
 .gb-content-card {
-  border: 1px solid #cad5c7;
+  border: 1px solid #d8cfb6;
   background: #fff9;
   border-radius: 6px;
   padding: 26px;
@@ -733,7 +786,7 @@ a {
 .gb-content-card p {
   font-size: 15px;
   line-height: 1.75;
-  color: #52645a;
+  color: #4c463d;
 }
 .gb-content-card a:not(.gb-button) {
   font-weight: 650;
@@ -746,7 +799,7 @@ a {
   max-width: 560px;
   margin: 55px auto 0;
   padding: 36px;
-  border: 1px solid #cad5c7;
+  border: 1px solid #d8cfb6;
   border-radius: 8px;
   background: #fff9;
 }
@@ -756,13 +809,13 @@ a {
   letter-spacing: -1px;
 }
 .gb-auth input {
-  border-color: #adbcaa;
+  border-color: #b3a888;
   border-radius: 5px;
   padding: 14px;
   min-height: 52px;
 }
 .gb-auth button[type="submit"] {
-  background: #123d35;
+  background: #232323;
   color: #fff;
   min-height: 52px;
 }
@@ -779,8 +832,8 @@ a {
   font-weight: 600;
 }
 .gb-footer {
-  background: #eaf0e3;
-  border-top: 1px solid #cad5c7;
+  background: #efe8d8;
+  border-top: 1px solid #d8cfb6;
   margin-top: 80px;
 }
 .gb-footer-grid {
@@ -805,16 +858,16 @@ a {
   min-height: 36px;
   display: flex;
   align-items: center;
-  color: #52645a;
+  color: #4c463d;
 }
 .gb-footer a:hover {
   text-decoration: underline;
 }
 .gb-footer-bottom {
-  border-top: 1px solid #cad5c7;
+  border-top: 1px solid #d8cfb6;
   padding-block: 20px;
   font-size: 11px;
-  color: #52645a;
+  color: #4c463d;
 }
 main:not(.gb-home) h2 {
   letter-spacing: -0.6px;
@@ -822,9 +875,6 @@ main:not(.gb-home) h2 {
 main:not(.gb-home) button,
 main:not(.gb-home) select {
   min-height: 48px;
-}
-main:not(.gb-home) a[class*="hover:bg-[#f0bd55]"]:hover {
-  background: #e6f5af;
 }
 input,
 select,

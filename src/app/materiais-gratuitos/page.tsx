@@ -1,7 +1,13 @@
 import Link from "next/link";
 import { PageHero, CONTAINER } from "@/components/ui";
 import { OFFICIAL_SOURCES } from "@/data/official-sources";
-export const metadata = { title: "Materiais gratuitos e fontes oficiais" };
+import { metaPagina } from "@/lib/seo";
+export const metadata = metaPagina({
+  titulo: "Materiais gratuitos e fontes oficiais",
+  descricao:
+    "Treino aberto do Gabaru e os acervos oficiais das instituições responsáveis pelos exames: ETEC, INEP, Comvest, Vunesp e UFV.",
+  caminho: "/materiais-gratuitos",
+});
 export default function Page() {
   return (
     <main>

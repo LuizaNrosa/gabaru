@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { CONTAINER, CtaCadastro, PageHero } from "@/components/ui";
 import { CATEGORIAS, PROVAS, provaPorSlug } from "@/data/provas";
 import { disciplinaPorSlug } from "@/data/disciplinas";
+import { metaPagina } from "@/lib/seo";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -14,10 +15,11 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const p = provaPorSlug((await params).slug);
   return p
-    ? {
-        title: `${p.nome}: disciplinas e estrutura da prova`,
-        description: p.resumo,
-      }
+    ? metaPagina({
+        titulo: `${p.nome}: disciplinas e estrutura da prova`,
+        descricao: p.resumo,
+        caminho: `/provas/${p.slug}`,
+      })
     : {};
 }
 

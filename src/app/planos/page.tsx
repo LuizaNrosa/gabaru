@@ -1,6 +1,12 @@
 import Link from "next/link";
 import { PageHero, CONTAINER } from "@/components/ui";
-export const metadata = { title: "Planos e lançamento" };
+import { metaPagina } from "@/lib/seo";
+export const metadata = metaPagina({
+  titulo: "Planos e lançamento",
+  descricao:
+    "O Gabaru está em construção e ainda não vende planos. Veja o que está sendo preparado e quando as vendas abrem.",
+  caminho: "/planos",
+});
 export default function Page() {
   return (
     <main>

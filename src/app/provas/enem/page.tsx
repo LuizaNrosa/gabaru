@@ -1,12 +1,15 @@
 import Link from "next/link";
 import { ENEM_SOURCE, ENEM_YEARS, enemExams, enemTitle } from "@/lib/enem-acervo";
-export const metadata = {
-  title: "ENEM: provas por ano e aplicação",
-  description: "Cadernos incorporados ao Gabaru e acesso às provas e gabaritos oficiais do Inep, de 1998 a 2025.",
-  alternates: { canonical: "/provas/enem" },
-};
+import { JsonLd } from "@/components/json-ld";
+import { jsonLd, metaPagina } from "@/lib/seo";
+export const metadata = metaPagina({
+  titulo: "ENEM: provas por ano e aplicação",
+  descricao: "Cadernos incorporados ao Gabaru e acesso às provas e gabaritos oficiais do Inep, de 1998 a 2025.",
+  caminho: "/provas/enem",
+});
 export default function Page() {
   return <main className="gb-container py-10">
+    <JsonLd dados={jsonLd.lista(enemExams.map(e => ({ nome: enemTitle(e), caminho: `/provas/enem/${e.id}` })))} />
     <Link href="/pre-vestibular" className="gb-text-link">← Vestibular</Link>
     <p className="gb-eyebrow mt-8">VESTIBULAR · ENEM</p>
     <h1 className="gb-page-title">Uma edição de cada vez.</h1>

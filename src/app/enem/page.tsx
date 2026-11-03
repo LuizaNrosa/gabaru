@@ -2,12 +2,14 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { CONTAINER, CtaCadastro, PageHero } from "@/components/ui";
 import { MATRIZ_ENEM, type AreaEnem } from "@/data/enem-matriz";
+import { metaPagina } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "ENEM: Matriz de Referência por habilidade",
-  description:
+export const metadata: Metadata = metaPagina({
+  titulo: "ENEM: Matriz de Referência por habilidade",
+  descricao:
     "As 120 habilidades da Matriz de Referência do ENEM, organizadas para você estudar só o que precisa.",
-};
+  caminho: "/enem",
+});
 
 export default function EnemPage() {
   const areas = Object.entries(MATRIZ_ENEM) as [

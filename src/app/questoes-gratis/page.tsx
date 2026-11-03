@@ -1,12 +1,14 @@
 import type { Metadata } from "next";
 import { CONTAINER, Eyebrow, PageHero } from "@/components/ui";
 import { QUESTOES_GRATIS } from "@/data/questoes-gratis";
+import { metaPagina } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Questões grátis",
-  description:
+export const metadata: Metadata = metaPagina({
+  titulo: "Questões grátis",
+  descricao:
     "Questões oficiais do ENEM para treinar de graça, com a habilidade da Matriz de cada uma.",
-};
+  caminho: "/questoes-gratis",
+});
 
 export default function QuestoesGratis() {
   return (

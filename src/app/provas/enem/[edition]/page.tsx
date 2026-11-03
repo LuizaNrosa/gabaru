@@ -1,17 +1,26 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ENEM_SOURCE, enemExams, enemTitle, readEnemExam } from "@/lib/enem-acervo";
+import { JsonLd } from "@/components/json-ld";
+import { jsonLd, metaPagina } from "@/lib/seo";
 type Props = { params: Promise<{ edition: string }> };
 export function generateStaticParams() { return enemExams.map(e => ({ edition: e.id })); }
 export async function generateMetadata({ params }: Props) {
   const { edition } = await params;
   const current = enemExams.find(e => e.id === edition);
-  return { title: current ? enemTitle(current) : "Prova ENEM", alternates: { canonical: `/provas/enem/${edition}` } };
+  return metaPagina({
+    titulo: current ? enemTitle(current) : "Prova ENEM",
+    descricao: current
+      ? `${current.total} itens do caderno, organizados por questão, com transcrição do enunciado. Consulte também os cadernos e gabaritos oficiais do Inep.`
+      : "Caderno do ENEM organizado por questão no Gabaru.",
+    caminho: `/provas/enem/${edition}`,
+  });
 }
 export default async function Page({ params }: Props) {
   const exam = readEnemExam((await params).edition);
   if (!exam) notFound();
   return <main className="gb-container py-10">
+    <JsonLd dados={jsonLd.trilhas([{ nome: "Início", caminho: "/" }, { nome: "ENEM e vestibulares", caminho: "/pre-vestibular" }, { nome: "Acervo ENEM", caminho: "/provas/enem" }, { nome: enemTitle(exam), caminho: `/provas/enem/${exam.id}` }])} />
     <Link href={`/provas/enem#ano-${exam.year}`} className="gb-text-link">← Acervo ENEM {exam.year}</Link>
     <p className="gb-eyebrow mt-8">VESTIBULAR · ENEM</p>
     <h1 className="gb-page-title">{enemTitle(exam)}</h1>

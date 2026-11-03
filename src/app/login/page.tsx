@@ -1,6 +1,12 @@
 import type { Metadata } from "next";
 import { AuthForm } from "@/components/auth-form";
-export const metadata: Metadata = { title: "Entrar na área do aluno" };
+import { metaPagina } from "@/lib/seo";
+export const metadata: Metadata = metaPagina({
+  titulo: "Entrar na área do aluno",
+  descricao: "Acesse sua conta no Gabaru para continuar estudando.",
+  caminho: "/login",
+  semIndice: true,
+});
 export default function Page() {
   return (
     <main className="gb-auth">

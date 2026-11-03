@@ -2,12 +2,14 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Badge, CONTAINER, CtaCadastro, PageHero } from "@/components/ui";
 import { DISCIPLINAS } from "@/data/disciplinas";
+import { metaPagina } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Concursos",
-  description:
+export const metadata: Metadata = metaPagina({
+  titulo: "Concursos",
+  descricao:
     "Preparação para concursos públicos, começando por Raciocínio lógico e Matemática.",
-};
+  caminho: "/concursos",
+});
 
 const COMUNS = [
   ...DISCIPLINAS.filter((d) =>

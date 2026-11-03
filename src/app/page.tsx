@@ -17,7 +17,7 @@ const paths = [
   {
     n: "02",
     name: "Acervo de provas",
-    exams: "ETEC · COLUNI · ENEM · Unesp · Unicamp",
+    exams: "ETEC · COLUNI · IFSC · ENEM · Unesp · Unicamp",
     text: "Os cadernos oficiais, edição a edição, para ler, responder e conferir na hora.",
     href: "/provas/etec",
     tag: "Disponível",

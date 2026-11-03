@@ -72,6 +72,26 @@ export const PROVAS: Prova[] = [
     ],
   },
   {
+    slug: "ifsc",
+    nome: "IFSC",
+    completo: "Instituto Federal de Santa Catarina — Exame de Classificação",
+    categoria: "vestibulinho",
+    resumo: "Provas oficiais de 2017.1 a 2026.2 (18 cadernos, incluindo a prova própria do Câmpus Itajaí em 2024.1), com gabaritos definitivos após recursos.",
+    estrutura: [
+      "Nas edições atuais: 28 questões objetivas com 5 alternativas — Língua Portuguesa, Matemática, Geografia e História e Ciências, 7 de cada — em 4 horas de prova.",
+      "Em 2024.1: 24 questões (Linguagens, Matemática e Ciências Humanas). Até 2023.2: 20 questões de Português e Matemática.",
+      "Instituto misto: a maioria dos câmpus seleciona por prova; em algumas edições, câmpus específicos ofertam as vagas por sorteio público (indicado em cada edição). Cursos com inscritos em número menor ou igual ao de vagas não realizam prova.",
+      "Classificação, nos editais atuais, pela ordem decrescente do número de acertos, por curso e modalidade de concorrência.",
+    ],
+    disciplinas: [
+      "portugues",
+      "matematica",
+      "historia",
+      "geografia",
+      "ciencias",
+    ],
+  },
+  {
     slug: "embraer",
     nome: "Embraer",
     completo: "Colégios Embraer",

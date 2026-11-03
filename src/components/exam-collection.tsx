@@ -1,11 +1,13 @@
 import Link from "next/link";
 import etec from "@/data/etec-exams.json";
 import coluni from "@/data/coluni-exams.json";
+import ifsc from "@/data/ifsc-exams.json";
 
 export function VestibulinhoCollection() {
   const collections = [
     { slug: "etec", name: "ETEC", exams: etec },
     { slug: "coluni", name: "COLUNI/UFV", exams: coluni },
+    { slug: "ifsc", name: "IFSC", exams: ifsc },
   ];
   return <div className="grid gap-6 md:grid-cols-2">{collections.map(c =>
     <article key={c.slug} className="gb-content-card">

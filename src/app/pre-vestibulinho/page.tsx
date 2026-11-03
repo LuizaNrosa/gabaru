@@ -29,7 +29,7 @@ export default function Page() {
       <section id="provas" className={`${CONTAINER} py-10`}><h2 className="gb-section-title mb-6">Provas por instituição</h2><VestibulinhoCollection /></section>
       <section className={`${CONTAINER} py-10`}>
         <p className="gb-notice mb-8">
-          Os acervos de ETEC e COLUNI estão disponíveis nas respectivas seções, com cadernos e gabaritos oficiais. Embraer e Institutos Federais ainda estão em organização.
+          Os acervos de ETEC, COLUNI e IFSC estão disponíveis nas respectivas seções, com cadernos e gabaritos oficiais. Embraer e os demais Institutos Federais ainda estão em organização.
         </p>
         <PathCards items={provasDa("vestibulinho")} />
       </section>

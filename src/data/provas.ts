@@ -92,6 +92,23 @@ export const PROVAS: Prova[] = [
     ],
   },
   {
+    slug: "ifsp",
+    nome: "IFSP",
+    completo: "Instituto Federal de São Paulo — Processo Seletivo dos Cursos Técnicos Integrados",
+    categoria: "vestibulinho",
+    resumo: "Provas oficiais de 2022.1 a 2026.1 (10 cadernos: dois turnos ou tipos por ano), com gabaritos definitivos após recursos.",
+    estrutura: [
+      "30 questões objetivas: Língua Portuguesa (15) e Matemática (15), 1 ponto por questão, em 3 horas de prova.",
+      "Até 2025.1: 4 alternativas por questão, em processo conjunto com os cursos concomitantes/subsequentes (Provas A e B, de turnos diferentes e com questões diferentes). Em 2026.1, com a Fundação CEFETMINAS: 5 alternativas e caderno próprio do Integrado (Tipos 1 e 2 — o mesmo conjunto, com as secções trocadas).",
+      "Entre 2017 e 2021 não houve prova (seleção por análise de histórico escolar); a prova regressou em 2022.1.",
+      "Classificação por curso, turno e câmpus, em ordem decrescente de acertos, com os desempates de cada edital.",
+    ],
+    disciplinas: [
+      "portugues",
+      "matematica",
+    ],
+  },
+  {
     slug: "embraer",
     nome: "Embraer",
     completo: "Colégios Embraer",

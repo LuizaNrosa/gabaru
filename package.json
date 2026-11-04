@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
-    "prebuild": "node scripts/prepare-etec.mjs && node scripts/prepare-coluni.mjs && node scripts/prepare-ifsc.mjs",
+    "prebuild": "node scripts/prepare-etec.mjs && node scripts/prepare-coluni.mjs && node scripts/prepare-ifsc.mjs && node scripts/prepare-ifsp.mjs",
     "db:migrate": "node scripts/migrate-db.mjs",
     "db:import-etec": "node scripts/import-etec-db.mjs"
   },

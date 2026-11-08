@@ -18,7 +18,7 @@ export const SITE_NOME = "GABARU";
 export const OG_IMAGEM = "/og/gabaru.png";
 
 const DESCRICAO_PADRAO =
-  "Prepare-se para o Vestibulinho ETEC com provas oficiais, questões, gabaritos verificados e consulta à nota de corte. Estude também para ENEM e vestibulares.";
+  "Estude para vestibulinhos, ENEM e vestibulares com provas oficiais, questões, gabaritos, materiais gratuitos e ferramentas de nota de corte.";
 
 type OpcoesPagina = {
   /** Título já sem o sufixo " · GABARU" (o template do layout o aplica). */
@@ -63,7 +63,7 @@ export function metaPagina({
 
 /** Metadata da página inicial: título absoluto, sem o template. */
 export function metaHome(): Metadata {
-  const titulo = "Vestibulinho ETEC: provas, questões e nota de corte | Gabaru";
+  const titulo = "Vestibulinhos, ENEM e vestibulares: provas e questões | Gabaru";
   const indexar = process.env.NEXT_PUBLIC_INDEXAR === "1";
   return {
     title: { absolute: titulo },

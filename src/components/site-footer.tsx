@@ -11,7 +11,10 @@ export function SiteFooter() {
             nota de corte e demanda por curso. E o acervo ENEM, COLUNI, Unesp
             e Unicamp.
           </p>
-          <p className="mt-3 text-xs text-n4">Plataforma em construção.</p>
+          <p className="mt-3 text-xs text-n4">
+            Plataforma em construção · © {new Date().getFullYear()} Luiza
+            Nascimento Rosa.
+          </p>
         </div>
         <nav aria-label="Caminhos">
           <h2>Caminhos</h2>
@@ -38,8 +41,8 @@ export function SiteFooter() {
       </div>
       <div className="gb-footer-bottom">
         <div className="gb-container">
-          gabaru.com.br · {new Date().getFullYear()} · Projeto independente, sem
-          vínculo com as instituições dos exames.
+          © {new Date().getFullYear()} Luiza Nascimento Rosa · gabaru.com.br ·
+          Projeto independente, sem vínculo com as instituições dos exames.
         </div>
       </div>
     </footer>

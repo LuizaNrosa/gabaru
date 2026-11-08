@@ -2,12 +2,31 @@
   "name": "gabaru",
   "version": "0.1.0",
   "private": true,
+  "description": "Site para vestibulinhos, vestibulares e concursos — provas oficiais verificadas, nota de corte e treino. gabaru.com.br",
+  "author": {
+    "name": "Luiza Nascimento Rosa",
+    "url": "https://github.com/LuizaNrosa"
+  },
+  "license": "UNLICENSED",
+  "homepage": "https://gabaru.com.br",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizaNrosa/gabaru.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuizaNrosa/gabaru/issues"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "copyright": "© 2026 Luiza Nascimento Rosa. Todos os direitos reservados.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "eslint .",
     "typecheck": "tsc --noEmit",
+    "test": "node --test \"tests/*.test.mjs\"",
     "prebuild": "node scripts/prepare-etec.mjs && node scripts/prepare-coluni.mjs && node scripts/prepare-ifsc.mjs && node scripts/prepare-ifsp.mjs",
     "db:migrate": "node scripts/migrate-db.mjs",
     "db:import-etec": "node scripts/import-etec-db.mjs"

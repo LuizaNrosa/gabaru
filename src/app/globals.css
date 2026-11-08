@@ -831,6 +831,21 @@ a {
   font-size: 36px;
   font-weight: 600;
 }
+/* Métrica compacta dos cartões do painel (respostas/acertos/aproveitamento). */
+.gb-stat-sm {
+  font-size: 22px;
+  font-weight: 650;
+  letter-spacing: -0.4px;
+}
+/* Carregamento do painel: blocos de papel, sem animação (o site desliga
+   transições com prefers-reduced-motion — o esqueleto é estático mesmo). */
+.gb-skeleton {
+  height: 52px;
+  border-radius: 6px;
+  background: var(--color-n1);
+  border: 1px solid var(--color-n2);
+  margin-top: 10px;
+}
 .gb-footer {
   background: #efe8d8;
   border-top: 1px solid #d8cfb6;

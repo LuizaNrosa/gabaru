@@ -71,6 +71,89 @@ function toRecordedAttempt(row: AttemptRow, replayed: boolean): RecordedAttempt 
 const COLUMNS = `id, student_uid, question_id, question_revision, selected_key,
   correct, elapsed_ms, created_at`;
 
+/* ── Histórico do aluno (GET /api/v1/attempts) ─────────────────────────── */
+
+export interface AttemptHistoryItem {
+  id: string;
+  questionId: string;
+  /** Disciplina e assunto vindos de questions (JOIN no servidor). */
+  subject: string;
+  topic: string;
+  selectedKey: string;
+  correct: boolean | null;
+  elapsedMs: number;
+  createdAt: string;
+}
+
+export interface AttemptHistoryPage {
+  items: AttemptHistoryItem[];
+  total: number;
+  limit: number;
+  offset: number;
+  /** offset da página seguinte, ou null quando acabou. */
+  nextOffset: number | null;
+}
+
+interface HistoryRow {
+  id: string;
+  question_id: string;
+  subject: string;
+  topic: string;
+  selected_key: string;
+  correct: boolean | null;
+  elapsed_ms: number;
+  created_at: string | Date;
+}
+
+/**
+ * Página do histórico de respostas do PRÓPRIO aluno, mais recentes primeiro.
+ * O uid vem do token (nunca de parâmetro): a consulta é sempre filtrada por
+ * `student_uid`. Índice usado: attempts_student(student_uid, created_at DESC).
+ */
+export async function listAttempts(
+  db: Db,
+  studentUid: string,
+  limit: number,
+  offset: number,
+): Promise<AttemptHistoryPage> {
+  const { rows } = await db.query<HistoryRow>(
+    `SELECT a.id, a.question_id, q.subject, q.topic,
+            a.selected_key, a.correct, a.elapsed_ms, a.created_at
+       FROM attempts a
+       JOIN questions q ON q.id = a.question_id
+      WHERE a.student_uid = $1
+      ORDER BY a.created_at DESC
+      LIMIT $2 OFFSET $3`,
+    [studentUid, limit, offset],
+  );
+
+  const totalRow = await db.query<{ n: number }>(
+    `SELECT count(*)::int AS n FROM attempts WHERE student_uid = $1`,
+    [studentUid],
+  );
+  const total = Number(totalRow.rows[0]?.n ?? 0);
+
+  return {
+    items: rows.map((r) => ({
+      id: r.id,
+      questionId: r.question_id,
+      subject: r.subject,
+      topic: r.topic,
+      selectedKey: r.selected_key,
+      correct: r.correct,
+      elapsedMs: r.elapsed_ms,
+      createdAt:
+        r.created_at instanceof Date
+          ? r.created_at.toISOString()
+          : String(r.created_at),
+    })),
+    total,
+    limit,
+    offset,
+    nextOffset: offset + limit < total ? offset + limit : null,
+  };
+}
+
 export async function recordAttempt(
   db: Db,
   input: RecordAttemptInput,

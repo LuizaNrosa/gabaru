@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { metaPagina } from "@/lib/seo";
+import { PainelProviders } from "@/components/painel-providers";
 
 // A página do painel é um componente de cliente; a metadata vive neste
 // layout de servidor. Área do aluno: nunca indexar.
@@ -15,5 +16,5 @@ export default function PainelLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  return <PainelProviders>{children}</PainelProviders>;
 }

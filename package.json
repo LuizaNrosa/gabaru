@@ -32,6 +32,7 @@
     "db:import-etec": "node scripts/import-etec-db.mjs"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.107.1",
     "firebase": "^13.0.0",
     "firebase-admin": "^14.5.0",
     "next": "^16.4.0",
@@ -39,7 +40,8 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "server-only": "^0.0.1",
-    "stripe": "^17.0.0"
+    "stripe": "^17.0.0",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@electric-sql/pglite": "^0.5.14",

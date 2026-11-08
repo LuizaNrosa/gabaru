@@ -5,12 +5,10 @@ import { getDb } from "@/server/db";
 import {
   recordAttempt,
   AttemptValidationError,
-  MAX_ELAPSED_MS,
 } from "@/server/attempts-service";
+import { CorpoTentativa, mensagemDeErro } from "@/lib/validation";
 
 export const runtime = "nodejs";
-
-const UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
 
 /**
  * POST /api/v1/attempts — regista a resposta de um aluno autenticado.
@@ -47,35 +45,23 @@ export async function POST(req: Request) {
     );
   }
 
-  let body: unknown;
+  let corpo: unknown;
   try {
-    body = await req.json();
+    corpo = await req.json();
   } catch {
     return NextResponse.json({ error: "Corpo inválido." }, { status: 400 });
   }
-  const { id, questionId, selectedKey, elapsedMs } = (body ?? {}) as Record<string, unknown>;
 
-  if (
-    typeof id !== "string" ||
-    !UUID_RE.test(id) ||
-    typeof questionId !== "string" ||
-    questionId.length === 0 ||
-    questionId.length > 200 ||
-    typeof selectedKey !== "string" ||
-    !/^[A-E]$/.test(selectedKey) ||
-    typeof elapsedMs !== "number" ||
-    !Number.isInteger(elapsedMs) ||
-    elapsedMs < 0 ||
-    elapsedMs > MAX_ELAPSED_MS
-  ) {
+  // A fronteira valida o corpo inteiro com o esquema central (Zod):
+  // tipos, tamanhos, teto do int4 do Postgres — tudo num sítio só.
+  const parsed = CorpoTentativa.safeParse(corpo);
+  if (!parsed.success) {
     return NextResponse.json(
-      {
-        error:
-          "Campos obrigatórios: id (UUID), questionId (até 200 caracteres), selectedKey (A–E) e elapsedMs (inteiro entre 0 e 2147483647).",
-      },
+      { error: mensagemDeErro(parsed.error) },
       { status: 400 },
     );
   }
+  const { id, questionId, selectedKey, elapsedMs } = parsed.data;
 
   try {
     const attempt = await recordAttempt(db, {

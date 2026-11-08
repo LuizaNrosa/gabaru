@@ -131,6 +131,16 @@ a {
 .gb-text-link:hover {
   text-decoration: underline;
 }
+/* Seção ativa: carimbo discreto na navegação — onde você está, sempre visível. */
+.gb-desktop-nav a[aria-current="page"] {
+  color: var(--color-gold-text);
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+.gb-mobile-nav a[aria-current="page"] {
+  color: var(--color-gold-text);
+  font-weight: 750;
+}
 .gb-login {
   display: flex;
   gap: 24px;

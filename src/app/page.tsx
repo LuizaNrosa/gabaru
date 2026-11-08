@@ -79,9 +79,9 @@ export default function Home() {
             <Link className="gb-button" href="/nota-de-corte">
               Minha nota dá para passar? <span aria-hidden="true">↗</span>
             </Link>
-            <a className="gb-text-link" href="/provas/etec">
+            <Link className="gb-text-link" href="/provas/etec">
               Abrir o acervo de provas <span aria-hidden="true">↓</span>
-            </a>
+            </Link>
           </div>
           <p className="gb-footnote">
             Grátis, sem cadastro. Dados oficiais do Centro Paula Souza.

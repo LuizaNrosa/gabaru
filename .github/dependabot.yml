@@ -1,0 +1,19 @@
+version: 2
+updates:
+  # Dependências de produção e dev do site (Next, Firebase, Stripe, Zod…).
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+    groups:
+      menor-patch:
+        update-types:
+          - "minor"
+          - "patch"
+
+  # O próprio GitHub Actions (checkout, setup-node).
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly

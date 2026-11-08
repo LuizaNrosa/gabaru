@@ -373,7 +373,7 @@ export function NotaCorteTool() {
               Estamos a recuperar e a arquivar essas listas, edição a edição.
               Enquanto isso, use a demanda acima como termômetro da
               concorrência: quanto mais candidatos por vaga, mais acertos
-              costumam ser necessários. Não publicamos "estimativas" de corte:
+              costumam ser necessários. Não publicamos “estimativas” de corte:
               número sem lista oficial seria chute com cara de dado.
             </p>
             {combo.listaRecuperada && (

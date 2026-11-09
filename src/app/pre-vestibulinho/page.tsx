@@ -6,7 +6,7 @@ import { VestibulinhoCollection } from "@/components/exam-collection";
 import { metaPagina } from "@/lib/seo";
 export const metadata = metaPagina({
   titulo: "Vestibulinhos: seu próximo passo",
-  descricao: "Provas oficiais de ETEC e COLUNI por instituição e edição, com cadernos e gabaritos.",
+  descricao: "Provas oficiais da ETEC, COLUNI, IFSC e IFSP por instituição e edição, com cadernos e gabaritos.",
   caminho: "/pre-vestibulinho",
 });
 export default function Page() {

@@ -18,7 +18,7 @@ export const SITE_NOME = "GABARU";
 export const OG_IMAGEM = "/og/gabaru.png";
 
 const DESCRICAO_PADRAO =
-  "Matemática e física para ETEC, Coluni, ENEM, FUVEST, UNICAMP, UNESP, ITA, IME e concursos.";
+  "Estude para vestibulinhos, ENEM e vestibulares com provas oficiais, questões, gabaritos, materiais gratuitos e ferramentas de nota de corte.";
 
 type OpcoesPagina = {
   /** Título já sem o sufixo " · GABARU" (o template do layout o aplica). */
@@ -63,7 +63,7 @@ export function metaPagina({
 
 /** Metadata da página inicial: título absoluto, sem o template. */
 export function metaHome(): Metadata {
-  const titulo = "GABARU · A gente estuda junto até você gabaritar";
+  const titulo = "Vestibulinhos, ENEM e vestibulares: provas e questões | Gabaru";
   const indexar = process.env.NEXT_PUBLIC_INDEXAR === "1";
   return {
     title: { absolute: titulo },

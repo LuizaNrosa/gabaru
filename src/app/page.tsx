@@ -18,8 +18,8 @@ const paths = [
     n: "02",
     name: "Acervo de provas",
     exams: "ETEC · COLUNI · IFSC · IFSP · ENEM · Unesp · Unicamp",
-    text: "Os cadernos oficiais, edição a edição, para ler, responder e conferir na hora.",
-    href: "/provas/etec",
+    text: "Encontre provas por instituição e edição, com recursos que variam conforme o exame.",
+    href: "/provas",
     tag: "Disponível",
   },
   {

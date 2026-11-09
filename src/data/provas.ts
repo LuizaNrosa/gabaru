@@ -57,10 +57,10 @@ export const PROVAS: Prova[] = [
     nome: "COLUNI/UFV",
     completo: "Colégio de Aplicação da Universidade Federal de Viçosa",
     categoria: "vestibulinho",
-    resumo: "Provas oficiais de 2016 a 2026 (11 edições), com cadernos integrais e gabaritos após recursos.",
+    resumo: "Provas oficiais de 2013 a 2026 (14 edições), com cadernos e gabaritos oficiais.",
     estrutura: [
       "Nas edições 2018 a 2026: 38 questões objetivas, com quatro alternativas, e produção textual.",
-      "Nas edições 2016 e 2017: 48 questões objetivas no 1.º dia e prova discursiva no 2.º dia (caderno arquivado em cada edição).",
+      "Nas edições 2013 a 2017: 48 questões objetivas no 1.º dia. Os cadernos discursivos do 2.º dia estão disponíveis para 2016 e 2017.",
       "Língua Portuguesa, Matemática, Língua Inglesa, Ciências, Geografia e História.",
     ],
     disciplinas: [

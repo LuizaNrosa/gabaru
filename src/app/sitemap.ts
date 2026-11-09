@@ -24,6 +24,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const estaticas = [
     "",
     "/enem",
+    "/provas",
     "/provas/enem",
     "/concursos",
     "/materiais-gratuitos",

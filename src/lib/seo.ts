@@ -99,6 +99,11 @@ export const jsonLd = {
       url: SITE_URL,
       logo: `${SITE_URL}/icon.svg`,
       description: DESCRICAO_PADRAO,
+      founder: {
+        "@type": "Person",
+        name: "Luiza Nascimento Rosa",
+        url: "https://github.com/LuizaNrosa",
+      },
     };
   },
   site(): ObjetoLd {

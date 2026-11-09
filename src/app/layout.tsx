@@ -31,6 +31,10 @@ export const metadata: Metadata = {
   },
   description:
     "Vestibulinho ETEC com as provas oficiais: 41 edições e 1.990 questões com gabarito verificado, nota de corte e demanda por curso, unidade e turno. Acervo ENEM, COLUNI, Unesp e Unicamp.",
+  authors: [{ name: "Luiza Nascimento Rosa", url: "https://github.com/LuizaNrosa" }],
+  creator: "Luiza Nascimento Rosa",
+  publisher: "Luiza Nascimento Rosa",
+  other: { copyright: "© 2026 Luiza Nascimento Rosa" },
   // Enquanto o site está em construção, buscadores não indexam. Para liberar: NEXT_PUBLIC_INDEXAR=1 no Render.
   robots:
     process.env.NEXT_PUBLIC_INDEXAR === "1"

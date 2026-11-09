@@ -38,7 +38,7 @@ export function SiteFooter() {
       </div>
       <div className="gb-footer-bottom">
         <div className="gb-container">
-          gabaru.com.br · {new Date().getFullYear()} · Projeto independente, sem
+          © 2026 Luiza Nascimento Rosa · gabaru.com.br · Projeto independente, sem
           vínculo com as instituições dos exames.
         </div>
       </div>

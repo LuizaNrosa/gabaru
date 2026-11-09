@@ -37,5 +37,10 @@
   },
   "overrides": {
     "@grpc/grpc-js": "1.14.6"
-  }
+  },
+  "author": {
+    "name": "Luiza Nascimento Rosa",
+    "url": "https://github.com/LuizaNrosa"
+  },
+  "license": "UNLICENSED"
 }

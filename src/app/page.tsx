@@ -374,7 +374,7 @@ export default function Home() {
             </div>
           </div>
           <div
-            className="rounded-lg border border-n2 bg-[#fffdf7] p-6 sm:p-8"
+            className="gb-panel-preview rounded-lg border border-n2 bg-[#fffdf7] p-6 sm:p-8"
             role="img"
             aria-label="Prévia conceitual do Painel do Cursinho: assuntos da prova com o desempenho da turma e a meta do curso-alvo"
           >
@@ -386,7 +386,7 @@ export default function Home() {
               ["Geometria plana", 48, "meta: corte do curso-alvo"],
               ["Interpretação de texto", 74, "meta: corte do curso-alvo"],
               ["Ciências — corpo humano", 55, "meta: corte do curso-alvo"],
-            ].map(([assunto, pct, meta]) => (
+            ].map(([assunto, pct, meta], index) => (
               <div key={assunto as string} className="mt-5">
                 <div className="flex items-baseline justify-between gap-3 text-sm">
                   <span className="font-semibold">{assunto}</span>
@@ -396,8 +396,8 @@ export default function Home() {
                 </div>
                 <div className="mt-2 h-2.5 rounded-full bg-n1">
                   <div
-                    className="h-2.5 rounded-full bg-gold"
-                    style={{ width: `${pct}%` }}
+                    className="h-2.5 rounded-full"
+                    style={{ width: `${pct}%`, backgroundColor: ["var(--color-gold)", "var(--color-sage-ink)", "var(--color-sky-ink)", "var(--color-ochre-ink)"][index] }}
                   />
                 </div>
               </div>

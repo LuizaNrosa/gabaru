@@ -24,7 +24,7 @@ export default function Page() {
           <Link key={e.id} href={`/provas/enem/${e.id}`} className="gb-content-card">
             <h3>{enemTitle(e)}</h3>
             <p>{e.total} itens · {e.disciplines.length} disciplinas</p>
-            <span className="gb-text-link">Abrir caderno de questões ↗</span>
+            <span className="gb-text-link">Abrir prova e responder ↗</span>
           </Link>)}</div>
         <p className="mt-4 text-sm text-n5">{available.length ? "Há cadernos incorporados deste ano. Outras aplicações e versões podem estar disponíveis na fonte oficial." : "A incorporação deste ano ao Gabaru está pendente. Consulte os cadernos e gabaritos na fonte oficial."}</p>
         <a href={`${ENEM_SOURCE}/${year}`} target="_blank" rel="noopener noreferrer" className="gb-text-link mt-4 inline-block">Provas e gabaritos de {year} no Inep ↗</a>

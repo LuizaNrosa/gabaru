@@ -26,6 +26,14 @@ export default function Page() {
           responsáveis pelos exames.
         </p>
       </PageHero>
+      <section className={`${CONTAINER} pt-10`} aria-labelledby="simulados-enem">
+        <div className="gb-content-card">
+          <p className="gb-eyebrow">GRÁTIS · SEM CADASTRO</p>
+          <h2 id="simulados-enem">Simulados do ENEM</h2>
+          <p>Escolha um caderno oficial, responda às questões e acompanhe suas marcações. Correção automática ainda em preparação.</p>
+          <Link href="/provas/enem" className="gb-button">Escolher prova do ENEM ↗</Link>
+        </div>
+      </section>
       <section className={`${CONTAINER} py-10`}>
         <div className="gb-notice mb-8">
           Os links abaixo levam às instituições. Eles não significam que todas

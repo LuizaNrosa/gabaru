@@ -14,6 +14,6 @@ export function readEnemExam(id: string) {
   return { ...exam, questions: data.questoes };
 }
 export function enemTitle(exam: (typeof exams)[number]) {
-  const application = exam.id.includes("-ppl-") ? "Reaplicação / PPL" : exam.id === "enem-2020-d2" ? "Digital" : "Regular";
+  const application = exam.id === "enem-2025-d2" ? "Aplicação Belém / Ananindeua / Marituba" : exam.id.includes("-ppl-") ? "Reaplicação / PPL" : exam.id === "enem-2020-d2" ? "Digital" : "Regular";
   return `ENEM ${exam.year} · ${application} · ${exam.day ? exam.day + "º dia" : "Prova única"}`;
 }

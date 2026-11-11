@@ -34,7 +34,6 @@ export const metadata: Metadata = {
   authors: [{ name: "Luiza Nascimento Rosa", url: "https://github.com/LuizaNrosa" }],
   creator: "Luiza Nascimento Rosa",
   publisher: "Luiza Nascimento Rosa",
-  other: { copyright: "© 2026 Luiza Nascimento Rosa" },
   // Enquanto o site está em construção, buscadores não indexam. Para liberar: NEXT_PUBLIC_INDEXAR=1 no Render.
   robots:
     process.env.NEXT_PUBLIC_INDEXAR === "1"

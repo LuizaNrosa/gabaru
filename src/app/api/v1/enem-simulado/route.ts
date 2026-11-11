@@ -21,11 +21,13 @@ export async function POST(req: Request) {
   const allowed = new Set(selected.map(q => String(q.numero)));
   if (selected.length !== 90 || entries.some(([key]) => !allowed.has(key)) || selected.some(q => !q.gabarito || q.gabarito === "ANULADA")) return NextResponse.json({ error: "Gabarito indisponível." }, { status: 400 });
   let correct = 0, incorrect = 0, blank = 0;
-  for (const q of selected) {
-    const answer = answerMap[String(q.numero)];
-    if (!answer) blank++;
-    else if (answer === q.gabarito) correct++;
+  const items = selected.map(q => {
+    const selectedAnswer = answerMap[String(q.numero)] as string | undefined;
+    const status = !selectedAnswer ? "blank" : selectedAnswer === q.gabarito ? "correct" : "incorrect";
+    if (status === "blank") blank++;
+    else if (status === "correct") correct++;
     else incorrect++;
-  }
-  return NextResponse.json({ correct, incorrect, blank }, { headers: { "Cache-Control": "no-store" } });
+    return { number: q.numero, selected: selectedAnswer ?? null, key: q.gabarito, status };
+  });
+  return NextResponse.json({ correct, incorrect, blank, items }, { headers: { "Cache-Control": "no-store" } });
 }

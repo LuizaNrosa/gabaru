@@ -6,7 +6,7 @@ import { useState } from "react";
 import verifiedExams from "@/data/enem-gabaritos-conferidos.json";
 
 const verifiedIds = new Set(verifiedExams.map(exam => exam.id));
-type Question = { numero: number; texto: string; disciplina: string; habilidade: string; tema: string };
+type Question = { numero: number; texto: string; disciplina: string; habilidade: string; tema: string; obs?: string };
 
 export function EnemExamReader({ id, title, questions }: { id: string; title: string; questions: Question[] }) {
   const [index, setIndex] = useState(0);
@@ -22,6 +22,7 @@ export function EnemExamReader({ id, title, questions }: { id: string; title: st
   const question = orderedQuestions[index];
   if (!question) return <p className="gb-notice mt-8">Este caderno ainda não tem questões disponíveis.</p>;
   const marked = selectedQuestions.filter(q => answers[q.numero]).length;
+  const needsReview = /apenas|incomplet|cortad|misturad|ileg[ií]vel|ausente|coluna|confund|errad/i.test(question.obs ?? "");
   async function finish() {
     if (!verifiedIds.has(id)) { setFinished(true); return; }
     setGrading(true); setError("");
@@ -40,6 +41,7 @@ export function EnemExamReader({ id, title, questions }: { id: string; title: st
     {finished ? <div className="gb-notice mb-8" role="status"><h3 className="text-xl font-bold">Simulado finalizado</h3>{!score && <p className="mt-3">{marked} de {selectedQuestions.length} questões respondidas · {selectedQuestions.length - marked} em branco.</p>}<p className="mt-3">{score ? <>{score.correct} acertos · {score.incorrect} erros · {score.blank} em branco · {score.annulled} anuladas. Questões anuladas aparecem separadamente. Resultado por acertos, não uma nota TRI.</> : <>O número de acertos e a nota TRI não estão disponíveis. Consulte o gabarito oficial para conferir suas respostas.</>}</p>{score && <details className="mt-5"><summary className="cursor-pointer font-semibold">Ver correção de cada questão</summary><ol className="mt-4 grid gap-3 sm:grid-cols-2">{score.items.map(item => <li key={item.number} className="rounded border border-n2 bg-white/60 p-3"><strong>Questão {hasLanguages && language === "espanhol" && item.number >= 101 && item.number <= 105 ? item.number - 100 : item.number}</strong> · {item.status === "correct" ? "Acertou" : item.status === "incorrect" ? "Rever" : item.status === "annulled" ? "Anulada" : "Em branco"}<br />Sua resposta: {item.selected ?? "—"} · Gabarito: <strong>{item.key}</strong></li>)}</ol></details>}<button type="button" className="gb-button mt-4" onClick={() => setFinished(false)}>Revisar respostas</button></div> :
     <fieldset disabled={grading} className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_320px]">
       <div>
+        {needsReview && <p className="gb-notice mb-4">Este recorte está em revisão e pode não mostrar todo o conteúdo. <a className="underline" href={`https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos/${id.slice(5, 9)}`} target="_blank" rel="noopener noreferrer">Consulte o caderno oficial do Inep ↗</a></p>}
         <img src={`/questoes/${id}-q${String(question.numero).padStart(3, "0")}.webp`} alt={`Recorte da questão ${question.numero}, ${title}`} className="h-auto w-full rounded-md border border-n2 bg-white" />
         <details className="mt-4"><summary className="cursor-pointer py-3">Ler transcrição do enunciado</summary><p className="mb-3 text-sm">Texto auxiliar; confira figuras e alternativas no recorte original.</p><p className="whitespace-pre-wrap text-n5">{question.texto}</p></details>
       </div>

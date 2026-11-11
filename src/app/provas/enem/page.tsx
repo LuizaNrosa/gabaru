@@ -14,7 +14,7 @@ export default function Page() {
     <p className="gb-eyebrow mt-8">VESTIBULAR · ENEM</p>
     <h1 className="gb-page-title">Uma edição de cada vez.</h1>
     <p className="mt-5 text-lg">{enemExams.length} cadernos incorporados · {enemExams.reduce((n, e) => n + e.total, 0).toLocaleString("pt-BR")} itens para consulta.</p>
-    <p className="gb-notice mt-6">Os itens de língua estrangeira incluem as opções de inglês e espanhol quando presentes. Escolha apenas uma língua ao resolver a prova. Cores e versões acessíveis não são somadas como novas provas. Os gabaritos do ENEM ainda precisam de integração e revisão para liberar correção automática.</p>
+    <p className="gb-notice mt-6">Os itens de língua estrangeira incluem as opções de inglês e espanhol quando presentes. Escolha apenas uma língua ao resolver a prova. Cores e versões acessíveis não são somadas como novas provas. A correção automática está disponível somente nos cadernos com gabaritos já conferidos; nos demais, consulte a fonte oficial.</p>
     <nav aria-label="Anos do ENEM" className="my-6 flex flex-wrap gap-3">{ENEM_YEARS.map(year => <a key={year} className="flex min-h-12 items-center rounded border border-n2 px-4" href={`#ano-${year}`}>{year}</a>)}</nav>
     {ENEM_YEARS.map(year => {
       const available = enemExams.filter(e => e.year === year);

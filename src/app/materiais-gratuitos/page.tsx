@@ -30,7 +30,7 @@ export default function Page() {
         <div className="gb-content-card">
           <p className="gb-eyebrow">GRÁTIS · SEM CADASTRO</p>
           <h2 id="simulados-enem">Simulados do ENEM</h2>
-          <p>Escolha um caderno oficial, responda às questões e acompanhe suas marcações. Correção automática ainda em preparação.</p>
+          <p>Escolha um caderno oficial, responda às questões e acompanhe suas marcações. A correção automática depende do caderno e da conferência do gabarito.</p>
           <Link href="/provas/enem" className="gb-button">Escolher prova do ENEM ↗</Link>
         </div>
       </section>
@@ -55,7 +55,7 @@ export default function Page() {
           Abrir treino gratuito ↗
         </Link>
         <p className="mt-6 text-sm text-n5">
-          Resumos, videoaulas e simulados corrigidos ainda estão em preparação.
+          Resumos e videoaulas ainda estão em preparação; a disponibilidade de correção é informada em cada caderno.
         </p>
       </section>
     </main>

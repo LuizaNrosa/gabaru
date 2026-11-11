@@ -3,12 +3,15 @@
 
 import { useState } from "react";
 
+import verifiedExams from "@/data/enem-gabaritos-conferidos.json";
+
+const verifiedIds = new Set(verifiedExams.map(exam => exam.id));
 type Question = { numero: number; texto: string; disciplina: string; habilidade: string; tema: string };
 
 export function EnemExamReader({ id, title, questions }: { id: string; title: string; questions: Question[] }) {
   const [index, setIndex] = useState(0);
   const [finished, setFinished] = useState(false);
-  const [score, setScore] = useState<{ correct: number; incorrect: number; blank: number; items: { number: number; selected: string | null; key: string; status: "correct" | "incorrect" | "blank" }[] } | null>(null);
+  const [score, setScore] = useState<{ correct: number; incorrect: number; blank: number; annulled: number; items: { number: number; selected: string | null; key: string; status: "correct" | "incorrect" | "blank" | "annulled" }[] } | null>(null);
   const [grading, setGrading] = useState(false);
   const [error, setError] = useState("");
   const [language, setLanguage] = useState<"ingles" | "espanhol">("ingles");
@@ -20,7 +23,7 @@ export function EnemExamReader({ id, title, questions }: { id: string; title: st
   if (!question) return <p className="gb-notice mt-8">Este caderno ainda não tem questões disponíveis.</p>;
   const marked = selectedQuestions.filter(q => answers[q.numero]).length;
   async function finish() {
-    if (id !== "enem-2025-d1") { setFinished(true); return; }
+    if (!verifiedIds.has(id)) { setFinished(true); return; }
     setGrading(true); setError("");
     try {
       const selectedAnswers = Object.fromEntries(selectedQuestions.filter(q => answers[q.numero]).map(q => [String(q.numero), answers[q.numero]]));
@@ -32,9 +35,9 @@ export function EnemExamReader({ id, title, questions }: { id: string; title: st
   }
   return <section className="mt-8" aria-label="Caderno e respostas">
     <div className="mb-6 flex items-center gap-3">{/* eslint-disable-next-line @next/next/no-img-element */}<img src="/marca/gabaru-carimbo.webp" width={48} height={48} alt="" className="rounded-full" /><div><p className="gb-eyebrow">SIMULADO GRATUITO</p><h2 className="gb-section-title">Sua prova do ENEM</h2></div></div>
-    <p className="mb-6 text-n5">Consulte o recorte original e marque suas alternativas. As marcações são temporárias. {id === "enem-2025-d1" ? "Este caderno tem correção pelo gabarito oficial." : "A correção automática deste caderno ainda está em preparação."}</p>
+    <p className="mb-6 text-n5">Consulte o recorte original e marque suas alternativas. As marcações são temporárias. {verifiedIds.has(id) ? "Este caderno tem correção pelo gabarito oficial." : "A correção automática deste caderno ainda está em preparação."}</p>
     {hasLanguages && <fieldset className="mb-6"><legend className="font-semibold">Escolha sua língua estrangeira</legend><div className="mt-2 flex gap-6">{(["ingles", "espanhol"] as const).map(l => <label key={l} className="flex items-center gap-2"><input type="radio" name="idioma" checked={language === l} onChange={() => { setLanguage(l); setIndex(0); setFinished(false); }} />{l === "ingles" ? "Inglês" : "Espanhol"}</label>)}</div><p className="mt-2 text-sm text-n5">Escolha apenas uma língua. As questões de espanhol usam os números internos 101–105.</p></fieldset>}
-    {finished ? <div className="gb-notice mb-8" role="status"><h3 className="text-xl font-bold">Simulado finalizado</h3><p className="mt-3">{marked} de {selectedQuestions.length} questões respondidas · {selectedQuestions.length - marked} em branco.</p><p className="mt-3">{score ? <>{score.correct} acertos · {score.incorrect} erros · {score.blank} em branco. Resultado por acertos, não uma nota TRI.</> : <>O número de acertos e a nota TRI não estão disponíveis. Consulte o gabarito oficial para conferir suas respostas.</>}</p>{score && <details className="mt-5"><summary className="cursor-pointer font-semibold">Ver correção de cada questão</summary><ol className="mt-4 grid gap-3 sm:grid-cols-2">{score.items.map(item => <li key={item.number} className="rounded border border-n2 bg-white/60 p-3"><strong>Questão {item.number >= 101 && item.number <= 105 ? item.number - 100 : item.number}</strong> · {item.status === "correct" ? "Acertou" : item.status === "incorrect" ? "Rever" : "Em branco"}<br />Sua resposta: {item.selected ?? "—"} · Gabarito: <strong>{item.key}</strong></li>)}</ol></details>}<button type="button" className="gb-button mt-4" onClick={() => setFinished(false)}>Revisar respostas</button></div> :
+    {finished ? <div className="gb-notice mb-8" role="status"><h3 className="text-xl font-bold">Simulado finalizado</h3><p className="mt-3">{marked} de {selectedQuestions.length} questões respondidas · {selectedQuestions.length - marked} em branco.</p><p className="mt-3">{score ? <>{score.correct} acertos · {score.incorrect} erros · {score.blank} em branco · {score.annulled} anuladas. Questões anuladas aparecem separadamente. Resultado por acertos, não uma nota TRI.</> : <>O número de acertos e a nota TRI não estão disponíveis. Consulte o gabarito oficial para conferir suas respostas.</>}</p>{score && <details className="mt-5"><summary className="cursor-pointer font-semibold">Ver correção de cada questão</summary><ol className="mt-4 grid gap-3 sm:grid-cols-2">{score.items.map(item => <li key={item.number} className="rounded border border-n2 bg-white/60 p-3"><strong>Questão {item.number >= 101 && item.number <= 105 ? item.number - 100 : item.number}</strong> · {item.status === "correct" ? "Acertou" : item.status === "incorrect" ? "Rever" : item.status === "annulled" ? "Anulada" : "Em branco"}<br />Sua resposta: {item.selected ?? "—"} · Gabarito: <strong>{item.key}</strong></li>)}</ol></details>}<button type="button" className="gb-button mt-4" onClick={() => setFinished(false)}>Revisar respostas</button></div> :
     <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_320px]">
       <div>
         <img src={`/questoes/${id}-q${String(question.numero).padStart(3, "0")}.webp`} alt={`Recorte da questão ${question.numero}, ${title}`} className="h-auto w-full rounded-md border border-n2 bg-white" />

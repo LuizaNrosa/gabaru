@@ -4,6 +4,7 @@ import { ENEM_SOURCE, enemExams, enemTitle, readEnemExam } from "@/lib/enem-acer
 import { JsonLd } from "@/components/json-ld";
 import { jsonLd, metaPagina } from "@/lib/seo";
 import { EnemExamReader } from "@/components/enem-exam-reader";
+import verifiedExams from "@/data/enem-gabaritos-conferidos.json";
 type Props = { params: Promise<{ edition: string }> };
 export function generateStaticParams() { return enemExams.map(e => ({ edition: e.id })); }
 export async function generateMetadata({ params }: Props) {
@@ -26,7 +27,7 @@ export default async function Page({ params }: Props) {
     <p className="gb-eyebrow mt-8">VESTIBULAR · ENEM</p>
     <h1 className="gb-page-title">{enemTitle(exam)}</h1>
     <p className="mt-5 text-lg">{exam.total} itens · caderno organizado por questão.</p>
-    <p className="gb-notice mt-6">Consulte cada questão abaixo. As disciplinas e habilidades são classificações de estudo do Gabaru. {exam.id === "enem-2025-d1" ? "Este caderno conta com correção pelo gabarito oficial." : "Este caderno ainda não tem correção automática."} Para conferir imagens, gráficos, diagramação original e gabarito, consulte a edição oficial do Inep. Em Linguagens, escolha inglês ou espanhol; os itens 101–105 são a identificação interna das opções de espanhol quando presentes.</p>
+    <p className="gb-notice mt-6">Consulte cada questão abaixo. As disciplinas e habilidades são classificações de estudo do Gabaru. {verifiedExams.some(e => e.id === exam.id) ? "Este caderno conta com correção pelo gabarito oficial." : "Este caderno ainda não tem correção automática."} Para conferir imagens, gráficos, diagramação original e gabarito, consulte a edição oficial do Inep. Em Linguagens, escolha inglês ou espanhol; os itens 101–105 são a identificação interna das opções de espanhol quando presentes.</p>
     <div className="gb-actions"><a className="gb-button" href={`${ENEM_SOURCE}/${exam.year}`} target="_blank" rel="noopener noreferrer">Cadernos e gabaritos oficiais ↗</a><Link className="gb-text-link" href={`/treino?ano=${exam.year}`}>Treinar questões deste ano ↗</Link></div>
     <EnemExamReader id={exam.id} title={enemTitle(exam)} questions={exam.questions} />
     <section className="mt-12" aria-label="Transcrições das questões">

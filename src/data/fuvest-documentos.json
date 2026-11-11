@@ -916,5 +916,17 @@
     "label": "Gabarito",
     "url": "https://www.fuvest.br/wp-content/uploads/fuvest_1978_gabarito_primeira_fase_.pdf",
     "pages": 1
+  },
+  {
+    "year": 2026,
+    "label": "1ª fase · prova V4",
+    "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-fase1-prova-V4.pdf",
+    "pages": 38
+  },
+  {
+    "year": 2026,
+    "label": "2ª fase · 2º dia",
+    "url": "https://www.fuvest.br/wp-content/uploads/fuvest2026-fase2-dia2-prova.pdf",
+    "pages": 43
   }
 ]

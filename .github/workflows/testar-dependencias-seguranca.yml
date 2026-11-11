@@ -1,0 +1,60 @@
+name: Testar atualizações de segurança
+on:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  dependencias:
+    if: github.head_ref == 'seguranca/dependencias-testes'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Preservar lockfiles originais para comparação
+        run: |
+          cp package-lock.json /tmp/gabaru-lock-antes.json
+          cp APK/package-lock.json /tmp/gabaru-apk-lock-antes.json
+      - name: Atualizar lockfiles
+        run: |
+          npm install --package-lock-only --ignore-scripts
+          npm install --package-lock-only --ignore-scripts --prefix APK
+      - name: Impedir redução de versões existentes
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const pairs = [['/tmp/gabaru-lock-antes.json', 'package-lock.json'], ['/tmp/gabaru-apk-lock-antes.json', 'APK/package-lock.json']];
+          const parse = v => /^\d+\.\d+\.\d+$/.test(v || '') ? v.split('.').map(Number) : null;
+          for (const [oldPath, newPath] of pairs) {
+            const before = JSON.parse(fs.readFileSync(oldPath)).packages;
+            const after = JSON.parse(fs.readFileSync(newPath)).packages;
+            for (const [name, oldPkg] of Object.entries(before)) {
+              const oldV = parse(oldPkg.version), newV = parse(after[name]?.version);
+              if (!oldV || !newV) continue;
+              let comparison = 0;
+              for (let i = 0; i < 3 && !comparison; i++) comparison = newV[i] - oldV[i];
+              if (comparison < 0) { console.error('Versão reduzida:', newPath, name, oldPkg.version, after[name].version); process.exitCode = 1; }
+            }
+          }
+          NODE
+      - name: Testar instalação e build do site
+        run: |
+          npm ci
+          npm run typecheck
+          npm run build
+      - name: Testar instalação e exportação Android
+        run: |
+          npm ci --prefix APK
+          npm run typecheck --prefix APK
+          npm run export:android --prefix APK
+      - name: Guardar lockfiles para revisão
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lockfiles-seguranca
+          path: |
+            package-lock.json
+            APK/package-lock.json

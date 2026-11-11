@@ -6,7 +6,10 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
   const [id, setId] = useState(documents.find(d => d.kind === "prova" && d.phase === "1ª fase")?.id ?? documents.find(d => d.kind === "prova")?.id ?? documents[0].id);
   const selected = documents.find(d => d.id === id)!;
   const [pages, setPages] = useState<Record<string, number>>({});
-  const page = pages[id] ?? selected.startPage;
+  const requestedPage = pages[id] ?? selected.startPage;
+  const page = Number.isSafeInteger(requestedPage) && requestedPage >= 1 && requestedPage <= selected.pages
+    ? requestedPage
+    : 1;
   const url = documentUrl(selected);
   return <section className="mt-8" aria-label="Cadernos e arquivos oficiais">
     <label htmlFor="archive-document" className="block font-semibold">Caderno, fase ou gabarito</label>

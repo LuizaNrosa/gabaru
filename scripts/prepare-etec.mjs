@@ -11,7 +11,7 @@ const digest = b => createHash('sha256').update(b).digest('hex');
 const wait = ms => new Promise(resolve => setTimeout(resolve, ms));
 let complete = 0;
 for (const job of jobs) {
-  if (!/^\d{4}-\d$/.test(job.id)) throw new Error('Identificador inválido');
+  if (!/^\d{4}-\d(?:-extra\d+)?$/.test(job.id)) throw new Error('Identificador inválido');
   const dir = path.join('public', 'acervo', 'etec', job.id);
   const file = path.join(dir, job.name + '.pdf');
   try {

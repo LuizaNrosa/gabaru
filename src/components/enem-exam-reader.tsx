@@ -8,6 +8,9 @@ type Question = { numero: number; texto: string; disciplina: string; habilidade:
 export function EnemExamReader({ id, title, questions }: { id: string; title: string; questions: Question[] }) {
   const [index, setIndex] = useState(0);
   const [finished, setFinished] = useState(false);
+  const [score, setScore] = useState<{ correct: number; incorrect: number; blank: number } | null>(null);
+  const [grading, setGrading] = useState(false);
+  const [error, setError] = useState("");
   const [language, setLanguage] = useState<"ingles" | "espanhol">("ingles");
   const [answers, setAnswers] = useState<Record<number, string>>({});
   const hasLanguages = questions.some(q => q.numero >= 101 && q.numero <= 105 && q.disciplina === "espanhol");
@@ -16,11 +19,22 @@ export function EnemExamReader({ id, title, questions }: { id: string; title: st
   const question = orderedQuestions[index];
   if (!question) return <p className="gb-notice mt-8">Este caderno ainda não tem questões disponíveis.</p>;
   const marked = selectedQuestions.filter(q => answers[q.numero]).length;
+  async function finish() {
+    if (id !== "enem-2025-d1") { setFinished(true); return; }
+    setGrading(true); setError("");
+    try {
+      const selectedAnswers = Object.fromEntries(selectedQuestions.filter(q => answers[q.numero]).map(q => [String(q.numero), answers[q.numero]]));
+      const response = await fetch("/api/v1/enem-simulado", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ examId: id, language, answers: selectedAnswers }) });
+      if (!response.ok) throw new Error("Falha ao corrigir");
+      setScore(await response.json()); setFinished(true);
+    } catch { setError("Não foi possível corrigir agora. Suas respostas continuam nesta página; tente novamente."); }
+    finally { setGrading(false); }
+  }
   return <section className="mt-8" aria-label="Caderno e respostas">
     <div className="mb-6 flex items-center gap-3">{/* eslint-disable-next-line @next/next/no-img-element */}<img src="/marca/gabaru-carimbo.webp" width={48} height={48} alt="" className="rounded-full" /><div><p className="gb-eyebrow">SIMULADO GRATUITO</p><h2 className="gb-section-title">Sua prova do ENEM</h2></div></div>
-    <p className="mb-6 text-n5">Consulte o recorte original e marque suas alternativas. As marcações são temporárias e não há correção automática neste caderno.</p>
+    <p className="mb-6 text-n5">Consulte o recorte original e marque suas alternativas. As marcações são temporárias. {id === "enem-2025-d1" ? "Este caderno tem correção pelo gabarito oficial." : "A correção automática deste caderno ainda está em preparação."}</p>
     {hasLanguages && <fieldset className="mb-6"><legend className="font-semibold">Escolha sua língua estrangeira</legend><div className="mt-2 flex gap-6">{(["ingles", "espanhol"] as const).map(l => <label key={l} className="flex items-center gap-2"><input type="radio" name="idioma" checked={language === l} onChange={() => { setLanguage(l); setIndex(0); setFinished(false); }} />{l === "ingles" ? "Inglês" : "Espanhol"}</label>)}</div><p className="mt-2 text-sm text-n5">Escolha apenas uma língua. As questões de espanhol usam os números internos 101–105.</p></fieldset>}
-    {finished ? <div className="gb-notice mb-8" role="status"><h3 className="text-xl font-bold">Simulado finalizado</h3><p className="mt-3">{marked} de {selectedQuestions.length} questões respondidas · {selectedQuestions.length - marked} em branco.</p><p className="mt-3">O número de acertos e a nota TRI não estão disponíveis. Consulte o gabarito oficial para conferir suas respostas.</p><button type="button" className="gb-button mt-4" onClick={() => setFinished(false)}>Revisar respostas</button></div> :
+    {finished ? <div className="gb-notice mb-8" role="status"><h3 className="text-xl font-bold">Simulado finalizado</h3><p className="mt-3">{marked} de {selectedQuestions.length} questões respondidas · {selectedQuestions.length - marked} em branco.</p><p className="mt-3">{score ? <>{score.correct} acertos · {score.incorrect} erros · {score.blank} em branco. Resultado por acertos, não uma nota TRI.</> : <>O número de acertos e a nota TRI não estão disponíveis. Consulte o gabarito oficial para conferir suas respostas.</>}</p><button type="button" className="gb-button mt-4" onClick={() => setFinished(false)}>Revisar respostas</button></div> :
     <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_320px]">
       <div>
         <img src={`/questoes/${id}-q${String(question.numero).padStart(3, "0")}.webp`} alt={`Recorte da questão ${question.numero}, ${title}`} className="h-auto w-full rounded-md border border-n2 bg-white" />
@@ -34,7 +48,7 @@ export function EnemExamReader({ id, title, questions }: { id: string; title: st
         <button className="mb-5 text-sm underline" onClick={() => setAnswers(({ [question.numero]: _removed, ...rest }) => rest)}>Limpar resposta</button>
         <div className="mb-5 flex gap-2"><button className="min-h-12 rounded border border-n2 px-3" disabled={index === 0} onClick={() => setIndex(index - 1)}>← Anterior</button><button className="min-h-12 rounded border border-n2 px-3" disabled={index === selectedQuestions.length - 1} onClick={() => setIndex(index + 1)}>Próxima →</button></div>
         <nav aria-label="Questões da prova" className="grid grid-cols-5 gap-2">{orderedQuestions.map((q, i) => <button key={q.numero} aria-label={`Questão ${q.numero}${answers[q.numero] ? ", respondida" : ""}`} aria-current={i === index ? "step" : undefined} onClick={() => setIndex(i)} className={`min-h-12 rounded border ${i === index ? "ring-2 ring-[#232323]" : ""} ${answers[q.numero] ? "bg-[#f2cdb4]" : "bg-white"}`}>{q.numero}</button>)}</nav>
-        <button type="button" className="gb-button mt-6" onClick={() => setFinished(true)}>Finalizar simulado</button> <button type="button" className="mt-6 min-h-12 rounded border border-n2 px-3" onClick={() => { if (window.confirm("Apagar suas respostas deste caderno?")) { setAnswers({}); setIndex(0); } }}>Recomeçar</button>
+        <button type="button" className="gb-button mt-6" disabled={grading} onClick={finish}>{grading ? "Corrigindo…" : "Finalizar simulado"}</button>{error && <p role="alert" className="mt-3 text-sm">{error}</p>} <button type="button" className="mt-6 min-h-12 rounded border border-n2 px-3" onClick={() => { if (window.confirm("Apagar suas respostas deste caderno?")) { setAnswers({}); setIndex(0); } }}>Recomeçar</button>
         <p className="mt-4 text-sm text-n5">Ao recarregar ou trocar de edição, suas marcações serão apagadas. Consulte o gabarito oficial do Inep para conferir as respostas.</p>
       </div>
     </div>}

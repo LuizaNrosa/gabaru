@@ -29,7 +29,7 @@ export default async function Page({ params }: Props) {
     <p className="mt-5 text-lg">{exam.total} itens · caderno organizado por questão.</p>
     <p className="gb-notice mt-6">Consulte cada questão abaixo. As disciplinas e habilidades são classificações de estudo do Gabaru. {verifiedExams.some(e => e.id === exam.id) ? "Este caderno conta com correção pelo gabarito oficial." : "Este caderno ainda não tem correção automática."} Para conferir imagens, gráficos, diagramação original e gabarito, consulte a edição oficial do Inep. Em Linguagens, escolha inglês ou espanhol; os itens 101–105 são a identificação interna das opções de espanhol quando presentes.</p>
     <div className="gb-actions"><a className="gb-button" href={`${ENEM_SOURCE}/${exam.year}`} target="_blank" rel="noopener noreferrer">Cadernos e gabaritos oficiais ↗</a><Link className="gb-text-link" href={`/treino?ano=${exam.year}`}>Treinar questões deste ano ↗</Link></div>
-    <EnemExamReader id={exam.id} title={enemTitle(exam)} questions={exam.questions} />
+    <EnemExamReader key={exam.id} id={exam.id} title={enemTitle(exam)} questions={exam.questions} />
     <section className="mt-12" aria-label="Transcrições das questões">
       <h2 className="gb-section-title">Transcrições das questões</h2>
       <p className="mt-3 text-sm text-n5">Texto auxiliar: para figuras e alternativas, consulte o recorte ou o caderno oficial.</p>

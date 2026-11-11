@@ -1,0 +1,277 @@
+{
+  "nota": "Inventário por palavras-chave nas observações já existentes; não substitui revisão visual. Não significa que todas as ocorrências tenham a mesma gravidade.",
+  "revisao": "2026-11-11",
+  "total": 54,
+  "questoes": [
+    {
+      "id": "enem-2025-d2",
+      "numero": 135,
+      "observacao": "Fragmento do cabeçalho da seção de Matemática (questões 136 a 180) misturado abaixo da questão"
+    },
+    {
+      "id": "enem-2024-d1",
+      "numero": 20,
+      "observacao": "Texto-base aparentemente incompleto: alternativa E cita 'um namorado ruim' e o pronome 'lo', ausentes do trecho visível; branco grande no fim da imagem."
+    },
+    {
+      "id": "enem-2024-d1",
+      "numero": 53,
+      "observacao": "Imagem cortada: só o gráfico (velocidade x tempo) aparece, eixo x sem rótulo; faltam enunciado e alternativas A-E."
+    },
+    {
+      "id": "enem-2024-d1",
+      "numero": 77,
+      "observacao": "imagem cortada/incompleta: aparecem apenas as três capas de revista; faltam enunciado e alternativas A-E"
+    },
+    {
+      "id": "enem-2024-d1",
+      "numero": 105,
+      "observacao": "texto de outra questão misturado: rodapé 'LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS - Questões de 06 a 45' e trecho de outro texto ('até optar pelas provas de campo...') na parte inferior; grande região em branco à direita"
+    },
+    {
+      "id": "enem-2023-d1",
+      "numero": 71,
+      "observacao": "Coluna direita traz fragmento da questão 72 (final do enunciado e alternativas A-E) misturado; rodapé do caderno."
+    },
+    {
+      "id": "enem-2023-d2",
+      "numero": 162,
+      "observacao": "imagem com conteúdo de outra questão misturado: figuras das alternativas da Q163 aparecem na coluna direita"
+    },
+    {
+      "id": "enem-2022-d1",
+      "numero": 49,
+      "observacao": "imagem cortada: aparece só parte da figura (ciclo da água em floresta x vegetação rasteira); faltam enunciado e alternativas A-E"
+    },
+    {
+      "id": "enem-2022-d2",
+      "numero": 177,
+      "observacao": "imagem cortada: falta a alternativa E"
+    },
+    {
+      "id": "enem-2022-ppl-d1",
+      "numero": 39,
+      "observacao": "imagem com resquício de texto cortado da questão anterior no topo"
+    },
+    {
+      "id": "enem-2022-ppl-d1",
+      "numero": 40,
+      "observacao": "imagem com resquício de texto cortado da questão anterior no topo"
+    },
+    {
+      "id": "enem-2022-ppl-d1",
+      "numero": 42,
+      "observacao": "imagem com resquício de texto cortado da questão anterior no topo"
+    },
+    {
+      "id": "enem-2022-ppl-d1",
+      "numero": 55,
+      "observacao": "imagem com resquício de texto cortado da questão anterior no topo"
+    },
+    {
+      "id": "enem-2022-ppl-d1",
+      "numero": 59,
+      "observacao": "imagem com resquício de texto cortado da questão anterior no topo"
+    },
+    {
+      "id": "enem-2022-ppl-d1",
+      "numero": 79,
+      "observacao": "imagem com resquício de texto cortado da questão anterior no topo"
+    },
+    {
+      "id": "enem-2022-ppl-d1",
+      "numero": 84,
+      "observacao": "imagem cortada na base: alternativa E aparece parcialmente cortada"
+    },
+    {
+      "id": "enem-2022-ppl-d2",
+      "numero": 92,
+      "observacao": "rodapé de página indevido (cabeçalho do caderno 'CN - 2º dia | Caderno 6 - ROSA - 2ª Aplicação' e logo enem2022 cortados no fim da imagem)"
+    },
+    {
+      "id": "enem-2022-ppl-d2",
+      "numero": 98,
+      "observacao": "imagem cortada: faltam o final da figura, o comando da pergunta e todas as alternativas A a E"
+    },
+    {
+      "id": "enem-2022-ppl-d2",
+      "numero": 113,
+      "observacao": "imagem cortada: tabela de revestimentos incompleta (faltam linhas), pergunta final e alternativas A a E ausentes"
+    },
+    {
+      "id": "enem-2022-ppl-d2",
+      "numero": 131,
+      "observacao": "imagem com texto de outra questão misturado: à direita aparecem figuras das alternativas D e E (Ar/Vidro/Ar) da questão 132 e trecho cortado no topo; rodapé de página indevido"
+    },
+    {
+      "id": "enem-2022-ppl-d2",
+      "numero": 141,
+      "observacao": "imagem cortada: quadro de custo unitário só mostra a primeira linha (n < 1 000), faltam as demais faixas, a pergunta final e as alternativas A a E"
+    },
+    {
+      "id": "enem-2022-ppl-d2",
+      "numero": 156,
+      "observacao": "imagem cortada: só aparece o enunciado inicial e o quadro de quantidades; faltam o restante do texto, a pergunta final e as alternativas A a E"
+    },
+    {
+      "id": "enem-2022-ppl-d2",
+      "numero": 160,
+      "observacao": "imagem cortada: tabela incompleta (faltam linhas após Oeste), pergunta final e alternativas A a E ausentes"
+    },
+    {
+      "id": "enem-2022-ppl-d2",
+      "numero": 165,
+      "observacao": "Tabela cortada (apenas 3 de 5 UFs visíveis) e alternativas A-E ausentes"
+    },
+    {
+      "id": "enem-2021-d2",
+      "numero": 95,
+      "observacao": "rodapé com fragmento do cabeçalho da próxima questão (texto cortado) abaixo das alternativas"
+    },
+    {
+      "id": "enem-2021-d2",
+      "numero": 97,
+      "observacao": "rodapé com fragmento do cabeçalho da próxima questão (texto cortado) abaixo das alternativas"
+    },
+    {
+      "id": "enem-2021-d2",
+      "numero": 109,
+      "observacao": "rodapé com fragmento do cabeçalho da próxima questão (texto cortado) abaixo das alternativas"
+    },
+    {
+      "id": "enem-2021-d2",
+      "numero": 113,
+      "observacao": "rodapé com fragmento do cabeçalho da próxima questão (texto cortado) abaixo das alternativas"
+    },
+    {
+      "id": "enem-2021-d2",
+      "numero": 114,
+      "observacao": "linha de quebra de página no meio da questão (entre a legenda e o enunciado final); rodapé com fragmento do cabeçalho da próxima questão (texto cortado) abaixo das alternativas"
+    },
+    {
+      "id": "enem-2021-d2",
+      "numero": 116,
+      "observacao": "rodapé com fragmento do cabeçalho da próxima questão (texto cortado) abaixo das alternativas"
+    },
+    {
+      "id": "enem-2021-d2",
+      "numero": 118,
+      "observacao": "rodapé com fragmento do cabeçalho da próxima questão (texto cortado) abaixo das alternativas"
+    },
+    {
+      "id": "enem-2021-d2",
+      "numero": 119,
+      "observacao": "linha de quebra de página no meio da questão (entre o texto e a figura); rodapé com fragmento do cabeçalho da próxima questão (texto cortado) abaixo das alternativas"
+    },
+    {
+      "id": "enem-2021-d2",
+      "numero": 155,
+      "observacao": "Imagem muito alta com grandes espaços em branco entre as alternativas (gráficos A a E); fragmento de texto cortado no rodapé."
+    },
+    {
+      "id": "enem-2020-d2",
+      "numero": 126,
+      "observacao": "região em branco enorme entre o texto-base e o enunciado; alternativa D sem a letra de rótulo; alternativa E possivelmente cortada na base da imagem"
+    },
+    {
+      "id": "enem-2012-d1",
+      "numero": 66,
+      "observacao": "Estruturas químicas apenas na imagem"
+    },
+    {
+      "id": "enem-2011-d2",
+      "numero": 165,
+      "observacao": "Imagem PNG cortada: grafico de velocidades de conexao ausente; classificacao inferida do enunciado."
+    },
+    {
+      "id": "enem-2011-d2",
+      "numero": 174,
+      "observacao": "Texto extraido e imagem PNG misturam trechos da Q176 (colunas); enunciado de combinatoria completo."
+    },
+    {
+      "id": "enem-2008",
+      "numero": 21,
+      "observacao": "Texto traz início de Q22 (diagrama de energia) misturado"
+    },
+    {
+      "id": "enem-2005",
+      "numero": 7,
+      "observacao": "enunciado parcialmente cortado no topo da imagem"
+    },
+    {
+      "id": "enem-2005",
+      "numero": 10,
+      "observacao": "enunciado cortado: só alternativas e tirinha visíveis; pergunta ausente"
+    },
+    {
+      "id": "enem-2005",
+      "numero": 13,
+      "observacao": "enunciado parcialmente cortado no topo da imagem"
+    },
+    {
+      "id": "enem-2005",
+      "numero": 16,
+      "observacao": "texto/tabela misturados na extração; conferir imagem"
+    },
+    {
+      "id": "enem-2005",
+      "numero": 19,
+      "observacao": "enunciado parcialmente cortado no topo da imagem; texto-base ausente"
+    },
+    {
+      "id": "enem-2005",
+      "numero": 22,
+      "observacao": "enunciado parcialmente cortado no topo da imagem"
+    },
+    {
+      "id": "enem-2005",
+      "numero": 28,
+      "observacao": "enunciado parcialmente cortado no topo da imagem; texto-base inicial ausente"
+    },
+    {
+      "id": "enem-2005",
+      "numero": 35,
+      "observacao": "enunciado parcialmente cortado no topo da imagem"
+    },
+    {
+      "id": "enem-2005",
+      "numero": 43,
+      "observacao": "enunciado parcialmente cortado no topo da imagem"
+    },
+    {
+      "id": "enem-2005",
+      "numero": 47,
+      "observacao": "enunciado parcialmente cortado no topo da imagem; gráfico/mapa no texto-base ausente"
+    },
+    {
+      "id": "enem-2005",
+      "numero": 53,
+      "observacao": "enunciado parcialmente cortado no topo da imagem"
+    },
+    {
+      "id": "enem-2005",
+      "numero": 58,
+      "observacao": "poemas em colunas embaralhadas no texto"
+    },
+    {
+      "id": "enem-2005",
+      "numero": 61,
+      "observacao": "enunciado parcialmente cortado no topo da imagem"
+    },
+    {
+      "id": "enem-2004",
+      "numero": 20,
+      "observacao": "texto-base (poema) ausente na imagem e no texto"
+    },
+    {
+      "id": "enem-2004",
+      "numero": 21,
+      "observacao": "texto-base (poema) ausente na imagem e no texto"
+    },
+    {
+      "id": "enem-2001",
+      "numero": 11,
+      "observacao": "Texto misturado com o enunciado da Q14; enunciado no fim do texto da Q9"
+    }
+  ]
+}

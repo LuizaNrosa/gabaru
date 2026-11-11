@@ -19,21 +19,24 @@ const keys={
  '2019':'B D C B A D A C A C D A D A D B D A C C B A C B B D C B A A B D D B D B A C',
  '2018':'C C A C D B B D C A C C C D B D A ANULADA B A B C A B C D A D C B C D C C C D D A',
  '2017':'C A B A ANULADA ANULADA B C D A C D A B D C A A C D A B ANULADA B C B B C A C D D D A A B D C A D B B D C B C D A',
- '2016':'A C A D A A ANULADA C D B A D C ANULADA D A C A A ANULADA C B C C C A C D A B B D B A D D D B ANULADA A B C A B A D A B'
+ '2016':'A C A D A A ANULADA C D B A D C ANULADA D A C A A ANULADA C B C C C A C D A B B D B A D D D B ANULADA A B C A B A D A B',
+ '2015':'B B ANULADA C D A B A C B B C D C D A C D C B B D C A A A C B C C C D B C D D B ANULADA A C B ANULADA B A D B ANULADA A',
+ '2014':'C D C B A A D D C ANULADA D D A A C A D A C A D B B C C D A A C B D C B D C A C B A D ANULADA A C D A B B D',
+ '2013':'B A C B D C D A D C D B C A C B D A A B B D C A ANULADA C C D D B B C B A B C D A D B C B A C D B A D'
 };
 // Questões com enunciado/alternativas em texto (portão de qualidade do
 // scripts/import-coluni-texts.mjs; as restantes ficam só no PDF).
-const withText={'2026':27,'2025':30,'2024':25,'2023':24,'2022':23,'2021':23,'2020':27,'2019':26,'2018':26,'2017':33,'2016':32};
+const withText={'2026':27,'2025':30,'2024':25,'2023':24,'2022':23,'2021':23,'2020':27,'2019':26,'2018':26,'2017':33,'2016':32,'2015':0,'2014':0,'2013':0};
 test('One caderno per edition, no duplicate IDs or PDFs',()=>{
- assert.deepEqual(exams.map(e=>e.id),['2026','2025','2024','2023','2022','2021','2020','2019','2018','2017','2016']);
- assert.equal(new Set(exams.map(e=>e.examSha256)).size,11);
- assert.equal(exams.reduce((n,e)=>n+e.questions.length,0),438);
+ assert.deepEqual(exams.map(e=>e.id),['2026','2025','2024','2023','2022','2021','2020','2019','2018','2017','2016','2015','2014','2013']);
+ assert.equal(new Set(exams.map(e=>e.examSha256)).size,14);
+ assert.equal(exams.reduce((n,e)=>n+e.questions.length,0),582);
  assert.equal(exams.reduce((n,e)=>n+e.questions.filter(q=>q.statement).length,0),296);
 });
 for(const e of exams)test(`COLUNI ${e.id}: final caderno 1 key, question mapping and original PDFs`,async()=>{
  assert.deepEqual(e.questions.map(q=>q.answer),keys[e.id].split(' '));
  assert.deepEqual(e.questions.map(q=>q.number),Array.from({length:e.questions.length},(_,i)=>i+1));
- assert.equal(new URL(e.source).hostname,'www.pse.coluni.ufv.br');
+ assert.equal(new URL(e.source).hostname,e.id >= '2016' ? 'www.pse.coluni.ufv.br' : 'coluni.ufv.br');
  for(const url of [e.examUrl,e.answerUrl])assert.ok(['www.pse.coluni.ufv.br','coluni.ufv.br'].includes(new URL(url).hostname));
  for(const [file,key] of [['prova','examSha256'],['gabarito','answerSha256']]){
   const bytes=await readFile(new URL(`../public/acervo/coluni/${e.id}/${file}.pdf`,import.meta.url));
@@ -43,7 +46,7 @@ for(const e of exams)test(`COLUNI ${e.id}: final caderno 1 key, question mapping
  for(const q of e.questions){assert.ok(q.pageMapped);assert.ok(e.pages.find(p=>p.number===q.page)?.text.includes(String(q.number).padStart(2,'0')+'.'));}
  assert.equal(e.questions.filter(q=>q.statement).length,withText[e.id]);
  // 2018–2026: caderno de dia único, fecha com a Produção Textual.
- // 2016–2017: 1.º dia só com objetivas — fecha na questão 48.
+ // 2013–2017: 1.º dia só com objetivas — fecha na questão 48.
  if(e.id>='2018')assert.match(e.pages.at(-1).text,/TEXTUAL/i);
  else assert.ok(e.pages.at(-1).text.includes('48.'));
  // Material extra: prova discursiva do 2.º dia, só em 2016–2017.

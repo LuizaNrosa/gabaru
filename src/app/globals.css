@@ -90,6 +90,9 @@ a {
 .gb-symbol {
   width: 32px;
   height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex: none;
 }
 .gb-logo-dot {
   color: #c8501e;
@@ -941,3 +944,4 @@ summary {
     font-size: 32px;
   }
 }
+

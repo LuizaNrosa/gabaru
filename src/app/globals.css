@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 /* Identidade "papel de prova + carimbo" (redesign 2026-11-03).
-   Papel off-white de prova, tinta grafite e UM acento quente:
+   Papel off-white de prova e tinta grafite, com acentos complementares:
    o laranja-queimado/vermelho-carimbo, reservado a ação, ao selo de
    verificação e às marcações de gabarito. O verde-lima anterior foi
    abandonado (território mental da Descomplica).
@@ -21,6 +21,12 @@
   --color-gold-text: #b0430f;
   --color-gold-soft: #f6e0d0;
   --color-anil: #9c2b12;
+  --color-sage: #dce9df;
+  --color-sage-ink: #28594e;
+  --color-sky: #dfeaf0;
+  --color-sky-ink: #34586a;
+  --color-ochre: #f2e5c7;
+  --color-ochre-ink: #79591e;
 
   --color-n1: #efe9db;
   --color-n2: #d8cfb6;
@@ -88,8 +94,8 @@ a {
   width: auto;
 }
 .gb-symbol {
-  width: 32px;
-  height: 32px;
+  width: 42px;
+  height: 42px;
   border-radius: 50%;
   object-fit: cover;
   flex: none;
@@ -631,6 +637,10 @@ a {
   .gb-wordmark {
     font-size: 28px;
   }
+  .gb-symbol {
+    width: 38px;
+    height: 38px;
+  }
   .gb-desktop-nav {
     display: none;
   }
@@ -919,3 +929,18 @@ summary {
     font-size: 32px;
   }
 }
+
+/* Cores complementares: pistas de navegação sobre o papel da Gabaru. */
+.gb-home .gb-hero h1 em { color: var(--color-sage-ink); }
+.gb-path { border-top-width: 4px; }
+.gb-path:nth-child(1) { background: #f7eadf; border-top-color: var(--color-gold); }
+.gb-path:nth-child(2) { background: var(--color-sage); border-top-color: var(--color-sage-ink); }
+.gb-path:nth-child(3) { background: var(--color-sky); border-top-color: var(--color-sky-ink); }
+.gb-path:nth-child(2) .gb-path-tag { color: #234a40; }
+.gb-path:nth-child(3) .gb-path-tag { color: #294755; }
+.gb-path:hover { filter: brightness(.97); }
+.gb-home .gb-panel-preview { background: #f8fbf7; border-color: #abc4b1; }
+.gb-final { background: var(--color-ochre); }
+.gb-content-card { border-top: 3px solid #aac4b0; }
+.gb-content-card:nth-child(3n + 2) { border-top-color: #a9c2cf; }
+.gb-content-card:nth-child(3n) { border-top-color: #d1b46d; }

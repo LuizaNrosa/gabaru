@@ -10,7 +10,7 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
   const url = documentUrl(selected);
   return <section className="mt-8" aria-label="Cadernos e arquivos oficiais">
     <label htmlFor="archive-document" className="block font-semibold">Caderno, fase ou gabarito</label>
-    <select id="archive-document" className="mt-3 min-h-14 w-full rounded-lg border border-n2 bg-white px-4" value={id} onChange={e => setId(e.target.value)}>
+    <select id="archive-document" className="mt-3 min-h-14 w-full rounded-lg border border-n2 bg-white px-4" value={id} onChange={e => { const selectedDocument = documents[e.currentTarget.selectedIndex]; if (selectedDocument) setId(selectedDocument.id); }}>
       {documents.map(d => <option key={d.id} value={d.id}>{applicationName(d.application)} · {d.phase} · {d.kind === "gabarito" ? "Respostas: " : ""}{d.label}</option>)}
     </select>
     <h2 className="mt-6 text-xl font-bold">{selected.label}</h2>

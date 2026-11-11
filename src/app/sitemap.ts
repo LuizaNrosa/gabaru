@@ -57,6 +57,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const ifsp = (ifspExams as { id: string }[]).map((e) => ({
     url: url(`/provas/ifsp/${e.id}`),
   }));
+  const fuvest = Array.from({ length: 50 }, (_, i) => ({ url: url(`/provas/fuvest/${2026 - i}`) }));
   const unesp = archiveYears("unesp").map((ano) => ({
     url: url(`/provas/unesp/${ano}`),
   }));
@@ -74,6 +75,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...coluni,
     ...ifsc,
     ...ifsp,
+    ...fuvest,
     ...unesp,
     ...unicamp,
   ].filter((item) => {

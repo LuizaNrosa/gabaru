@@ -11,7 +11,7 @@ subtopico: genetica
 habilidade: CN-H13
 tema: "Herança do DNA mitocondrial em heredograma"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q106.webp
 ---
 ![Questão 106 — ENEM 2024](enem-2024-ppl-d2-q106.webp)

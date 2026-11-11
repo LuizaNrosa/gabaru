@@ -11,7 +11,7 @@ subtopico: geopolitica-e-globalizacao
 habilidade: CH-H7
 tema: "Disputa geopolítica por reservas naturais e controle de territórios"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q066.webp
 ---
 ![Questão 66 — ENEM 2022](enem-2022-ppl-d1-q066.webp)

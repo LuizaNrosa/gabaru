@@ -11,7 +11,7 @@ subtopico: geometria-espacial
 habilidade: MT-H8
 tema: "Altura do líquido em tanque piramidal em função do tempo"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q141.webp
 ---
 ![Questão 141 — ENEM 2024](enem-2024-ppl-d2-q141.webp)

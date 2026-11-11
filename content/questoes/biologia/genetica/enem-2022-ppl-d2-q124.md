@@ -11,7 +11,7 @@ subtopico: genetica
 habilidade: CN-H13
 tema: "Via metabólica da fenilalanina e alelos recessivos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q124.webp
 ---
 ![Questão 124 — ENEM 2022](enem-2022-ppl-d2-q124.webp)

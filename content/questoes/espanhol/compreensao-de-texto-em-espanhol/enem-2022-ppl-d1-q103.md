@@ -11,7 +11,7 @@ subtopico: compreensao-de-texto-em-espanhol
 habilidade: LC-H6
 tema: "Reivindicação de terras do povo mapuche na Argentina"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q103.webp
 ---
 ![Questão 103 — ENEM 2022](enem-2022-ppl-d1-q103.webp)

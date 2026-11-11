@@ -11,7 +11,7 @@ subtopico: aritmetica-razao-proporcao
 habilidade: MT-H16
 tema: "Quantidade máxima de bombons conforme ingredientes"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q167.webp
 obs: "Branco enorme abaixo da questão"
 ---

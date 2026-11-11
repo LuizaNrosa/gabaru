@@ -11,7 +11,7 @@ subtopico: historia-do-brasil-republica
 habilidade: CH-H2
 tema: "Consciência feminista e memória na luta armada contra a ditadura"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d1-q070.webp
 ---
 ![Questão 70 — ENEM 2022](enem-2022-ppl-d1-q070.webp)

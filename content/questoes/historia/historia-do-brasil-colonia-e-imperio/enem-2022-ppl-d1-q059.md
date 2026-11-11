@@ -11,7 +11,7 @@ subtopico: historia-do-brasil-colonia-e-imperio
 habilidade: CH-H14
 tema: "Elites regionais, Estado monárquico e identidade nacional brasileira"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q059.webp
 obs: "imagem com resquício de texto cortado da questão anterior no topo"
 ---

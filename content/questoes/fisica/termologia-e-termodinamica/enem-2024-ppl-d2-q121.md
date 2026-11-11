@@ -11,7 +11,7 @@ subtopico: termologia-e-termodinamica
 habilidade: CN-H21
 tema: "Raio de balão atmosférico com gás ideal e altitude"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q121.webp
 ---
 ![Questão 121 — ENEM 2024](enem-2024-ppl-d2-q121.webp)

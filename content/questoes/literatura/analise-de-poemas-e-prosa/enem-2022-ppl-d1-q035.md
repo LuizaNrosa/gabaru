@@ -11,7 +11,7 @@ subtopico: analise-de-poemas-e-prosa
 habilidade: LC-H16
 tema: "Poema de Joaquim Cardozo e Futurismo com repertório científico"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q035.webp
 ---
 ![Questão 35 — ENEM 2022](enem-2022-ppl-d1-q035.webp)

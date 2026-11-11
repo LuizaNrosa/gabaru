@@ -11,7 +11,7 @@ subtopico: funcoes
 habilidade: MT-H19
 tema: "Expressão do valor com desconto proporcional à quantidade"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q172.webp
 ---
 ![Questão 172 — ENEM 2022](enem-2022-ppl-d2-q172.webp)

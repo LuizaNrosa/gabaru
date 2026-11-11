@@ -11,7 +11,7 @@ subtopico: estatistica-tabelas-e-graficos
 habilidade: MT-H25
 tema: "Leitura de gráfico radar de distâncias interpessoais"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q136.webp
 ---
 ![Questão 136 — ENEM 2024](enem-2024-ppl-d2-q136.webp)

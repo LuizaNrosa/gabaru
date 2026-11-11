@@ -11,7 +11,7 @@ subtopico: historia-do-brasil-colonia-e-imperio
 habilidade: CH-H26
 tema: "Ocupação de Minas Gerais e recursos minerais"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q071.webp
 ---
 ![Questão 71 — ENEM 2022](enem-2022-ppl-d1-q071.webp)

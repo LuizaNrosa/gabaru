@@ -11,7 +11,7 @@ subtopico: sequencias-pa-pg
 habilidade: MT-H19
 tema: "Expressão da área reflorestada com aumento de 50% ao ano"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q162.webp
 ---
 ![Questão 162 — ENEM 2024](enem-2024-ppl-d2-q162.webp)

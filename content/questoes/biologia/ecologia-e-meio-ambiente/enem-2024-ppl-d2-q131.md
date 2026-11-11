@@ -11,7 +11,7 @@ subtopico: ecologia-e-meio-ambiente
 habilidade: CN-H28
 tema: "Relações ecológicas entre abelhas polinizadoras do maracujá"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q131.webp
 ---
 ![Questão 131 — ENEM 2024](enem-2024-ppl-d2-q131.webp)

@@ -11,7 +11,7 @@ subtopico: variacao-linguistica-e-gramatica
 habilidade: LC-H27
 tema: "Uso da norma padrão em verbete de dicionário"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q020.webp
 obs: "região em branco grande na metade inferior da imagem"
 ---

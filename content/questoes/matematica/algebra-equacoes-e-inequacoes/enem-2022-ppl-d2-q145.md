@@ -11,7 +11,7 @@ subtopico: algebra-equacoes-e-inequacoes
 habilidade: MT-H21
 tema: "Distância total com três velocidades médias e tempo total"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q145.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
 ---

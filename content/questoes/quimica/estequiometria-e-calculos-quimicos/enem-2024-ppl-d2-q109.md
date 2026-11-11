@@ -11,7 +11,7 @@ subtopico: estequiometria-e-calculos-quimicos
 habilidade: CN-H25
 tema: "Massa de cloro para produzir titânio metálico"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q109.webp
 ---
 ![Questão 109 — ENEM 2024](enem-2024-ppl-d2-q109.webp)

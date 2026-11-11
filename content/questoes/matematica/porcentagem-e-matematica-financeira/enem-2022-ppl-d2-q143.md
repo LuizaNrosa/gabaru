@@ -11,7 +11,7 @@ subtopico: porcentagem-e-matematica-financeira
 habilidade: MT-H3
 tema: "Classificação de vendedoras por faixas após redução de 35%"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q143.webp
 ---
 ![Questão 143 — ENEM 2022](enem-2022-ppl-d2-q143.webp)

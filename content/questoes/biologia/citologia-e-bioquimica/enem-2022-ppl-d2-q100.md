@@ -11,7 +11,7 @@ subtopico: citologia-e-bioquimica
 habilidade: CN-H15
 tema: "Características comuns das fermentações alcoólica e lática"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d2-q100.webp
 obs: "rodapé de página indevido (logo enem2022 e 'CN - 2º dia') no fim da imagem; região em branco grande"
 ---

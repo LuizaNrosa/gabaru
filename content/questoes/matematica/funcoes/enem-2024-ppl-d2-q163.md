@@ -11,7 +11,7 @@ subtopico: funcoes
 habilidade: MT-H21
 tema: "Desvalorização exponencial de automóvel após seis anos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q163.webp
 ---
 ![Questão 163 — ENEM 2024](enem-2024-ppl-d2-q163.webp)

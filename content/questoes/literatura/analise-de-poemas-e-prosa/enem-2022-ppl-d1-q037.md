@@ -11,7 +11,7 @@ subtopico: analise-de-poemas-e-prosa
 habilidade: LC-H16
 tema: "Ironia na construção do personagem em Guimarães Rosa"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q037.webp
 ---
 ![Questão 37 — ENEM 2022](enem-2022-ppl-d1-q037.webp)

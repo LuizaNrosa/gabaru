@@ -11,7 +11,7 @@ subtopico: cultura-e-identidade
 habilidade: CH-H5
 tema: "Pretuguês de Lélia Gonzalez e herança cultural africana"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q047.webp
 ---
 ![Questão 47 — ENEM 2022](enem-2022-ppl-d1-q047.webp)

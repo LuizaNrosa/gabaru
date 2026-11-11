@@ -1,6 +1,7 @@
 import "server-only";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
+import { toPublicQuestion } from "./questions-public";
 export type Question = {
   id: string;
   ano: number;
@@ -13,9 +14,22 @@ export type Question = {
   img: string;
   w: number;
   h: number;
+  // Gabarito oficial (INEP) casado por caderno/número; null enquanto a
+  // edição não tiver casamento provado (ex.: 2000–2008). "ANULADA" quando
+  // o gabarito oficial marca a questão como anulada.
+  gabarito: "A" | "B" | "C" | "D" | "E" | "ANULADA" | null;
 };
+export type AnswerStatus = "available" | "partial" | "pending";
+function statusFor(qs: Question[]): AnswerStatus {
+  if (qs.length > 0 && qs.every((q) => q.gabarito)) return "available";
+  if (qs.some((q) => q.gabarito)) return "partial";
+  return "pending";
+}
+// O banco vive FORA de public/ de propósito: contém os gabaritos oficiais
+// e nunca pode ser servido como ficheiro estático. Só o servidor o lê;
+// a API pública filtra o gabarito via questions-public.ts.
 const bank = JSON.parse(
-  readFileSync(join(process.cwd(), "public/treino/banco.json"), "utf8"),
+  readFileSync(join(process.cwd(), "src/data/treino-banco.json"), "utf8"),
 ) as Question[];
 export const questionCatalog = {
   total: bank.length,
@@ -27,7 +41,7 @@ export const questionCatalog = {
       slug,
       count: bank.filter((q) => q.disciplina === slug).length,
     })),
-  answerStatus: "pending" as const,
+  answerStatus: statusFor(bank),
   difficultyStatus: "not-calibrated" as const,
 };
 export function selectQuestions(params: URLSearchParams) {
@@ -67,7 +81,9 @@ export function selectQuestions(params: URLSearchParams) {
     offset,
     limit,
     nextOffset: offset + limit < pool.length ? offset + limit : null,
-    answerStatus: "pending",
-    items: pool.slice(offset, offset + limit),
+    answerStatus: statusFor(pool),
+    // Seleção pública: o gabarito NUNCA sai nos itens (ver questions-public.ts).
+    // O `answerStatus` agregado continua público — diz SE há gabarito, não QUAL.
+    items: pool.slice(offset, offset + limit).map(toPublicQuestion),
   };
 }

@@ -22,7 +22,7 @@ export default function Erro({
         <button
           type="button"
           onClick={reset}
-          className="mt-8 inline-flex min-h-12 items-center rounded-md bg-gold px-6 font-semibold text-ink hover:-translate-y-0.5 transition"
+          className="mt-8 inline-flex min-h-12 items-center rounded-md bg-gold-text px-6 font-semibold text-white hover:-translate-y-0.5 transition"
         >
           Tentar novamente
         </button>

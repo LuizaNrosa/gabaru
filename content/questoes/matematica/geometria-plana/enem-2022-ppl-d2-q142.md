@@ -11,7 +11,7 @@ subtopico: geometria-plana
 habilidade: MT-H8
 tema: "Custo mínimo de piso porcelanato entre dois projetos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q142.webp
 obs: "faixa de código de barras na margem esquerda, rodapé de página indevido (ROSA - 2ª Aplicação, logo enem2022) e região em branco grande"
 ---

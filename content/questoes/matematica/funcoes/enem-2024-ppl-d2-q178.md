@@ -11,7 +11,7 @@ subtopico: funcoes
 habilidade: MT-H21
 tema: "Pressão sonora a partir de nível em decibel com logaritmo"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q178.webp
 ---
 ![Questão 178 — ENEM 2024](enem-2024-ppl-d2-q178.webp)

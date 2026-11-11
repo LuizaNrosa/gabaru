@@ -11,7 +11,7 @@ subtopico: funcoes
 habilidade: MT-H20
 tema: "Variação de temperatura em funções afins representadas por semirretas"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q165.webp
 ---
 ![Questão 165 — ENEM 2024](enem-2024-ppl-d2-q165.webp)

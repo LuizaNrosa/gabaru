@@ -11,7 +11,7 @@ subtopico: geometria-plana
 habilidade: MT-H8
 tema: "Quantidade mínima e máxima de tijolos em parede com janela"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q160.webp
 ---
 ![Questão 160 — ENEM 2024](enem-2024-ppl-d2-q160.webp)

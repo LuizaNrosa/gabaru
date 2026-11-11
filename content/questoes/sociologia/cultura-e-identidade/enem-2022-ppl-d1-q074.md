@@ -11,7 +11,7 @@ subtopico: cultura-e-identidade
 habilidade: CH-H3
 tema: "Corpo como construção cultural e valor da diversidade"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q074.webp
 ---
 ![Questão 74 — ENEM 2022](enem-2022-ppl-d1-q074.webp)

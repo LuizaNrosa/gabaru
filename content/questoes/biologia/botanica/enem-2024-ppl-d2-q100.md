@@ -11,7 +11,7 @@ subtopico: botanica
 habilidade: CN-H28
 tema: "Polinização pelo vento e produção de grãos de pólen"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q100.webp
 ---
 ![Questão 100 — ENEM 2024](enem-2024-ppl-d2-q100.webp)

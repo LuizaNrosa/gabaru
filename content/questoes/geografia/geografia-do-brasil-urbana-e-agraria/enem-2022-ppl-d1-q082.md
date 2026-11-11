@@ -11,7 +11,7 @@ subtopico: geografia-do-brasil-urbana-e-agraria
 habilidade: CH-H19
 tema: "Mobilidade urbana e ocupação de áreas subutilizadas"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q082.webp
 ---
 ![Questão 82 — ENEM 2022](enem-2022-ppl-d1-q082.webp)

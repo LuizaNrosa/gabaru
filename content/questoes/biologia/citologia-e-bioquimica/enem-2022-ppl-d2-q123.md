@@ -11,7 +11,7 @@ subtopico: citologia-e-bioquimica
 habilidade: CN-H7
 tema: "Açúcares em suco de fruta versus néctar"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q123.webp
 obs: "rodapé de página indevido (logo enem2022 e 'CN - 2º dia | Caderno 6 - ROSA - 2ª Aplicação') no fim da imagem"
 ---

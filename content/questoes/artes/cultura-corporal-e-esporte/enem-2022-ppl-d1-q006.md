@@ -11,7 +11,7 @@ subtopico: cultura-corporal-e-esporte
 habilidade: LC-H10
 tema: "Anorexia, exercício físico e padrões de beleza"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q006.webp
 ---
 ![Questão 6 — ENEM 2022](enem-2022-ppl-d1-q006.webp)

@@ -11,7 +11,7 @@ subtopico: compreensao-de-texto-em-espanhol
 habilidade: LC-H8
 tema: "Poema sobre vocabulário do futebol e política"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q105.webp
 obs: "imagem com rodapé indevido no final: cabeçalho 'Linguagens, Códigos e suas Tecnologias - Questões de 06 a 45'"
 ---

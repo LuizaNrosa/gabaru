@@ -9,7 +9,11 @@ export function PathCards({ items }: { items: Prova[] }) {
           href={`/provas/${p.slug}`}
           className="gb-content-card"
         >
-          <span className="gb-eyebrow">TRILHA EM CONSTRUÇÃO ↗</span>
+          <span className="gb-eyebrow">
+            {["etec", "coluni", "ifsc", "ifsp", "unesp", "unicamp"].includes(p.slug)
+              ? "ACERVO DISPONÍVEL ↗"
+              : "TRILHA EM CONSTRUÇÃO ↗"}
+          </span>
           <h3>{p.nome}</h3>
           <p>{p.completo}</p>
           <p>{p.resumo}</p>

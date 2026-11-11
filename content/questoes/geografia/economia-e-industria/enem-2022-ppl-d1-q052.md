@@ -11,7 +11,7 @@ subtopico: economia-e-industria
 habilidade: CH-H18
 tema: "Alta do dólar e perda de poder de compra"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q052.webp
 ---
 ![Questão 52 — ENEM 2022](enem-2022-ppl-d1-q052.webp)

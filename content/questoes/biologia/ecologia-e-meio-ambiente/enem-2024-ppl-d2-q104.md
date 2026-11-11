@@ -11,7 +11,7 @@ subtopico: ecologia-e-meio-ambiente
 habilidade: CN-H10
 tema: "Cágado-de-barbelas como bioindicador de poluição"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q104.webp
 ---
 ![Questão 104 — ENEM 2024](enem-2024-ppl-d2-q104.webp)

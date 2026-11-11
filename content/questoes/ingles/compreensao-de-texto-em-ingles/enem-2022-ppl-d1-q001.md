@@ -11,7 +11,7 @@ subtopico: compreensao-de-texto-em-ingles
 habilidade: LC-H6
 tema: "Reflexão do narrador de Hemingway diante da morte"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q001.webp
 obs: "região em branco grande na metade inferior da imagem"
 ---

@@ -11,7 +11,7 @@ subtopico: estatistica-tabelas-e-graficos
 habilidade: MT-H27
 tema: "Média de gorjetas a partir de tabela de garçons"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d2-q171.webp
 ---
 ![Questão 171 — ENEM 2022](enem-2022-ppl-d2-q171.webp)

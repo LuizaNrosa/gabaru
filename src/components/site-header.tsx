@@ -5,6 +5,7 @@ import { Wordmark } from "@/components/logo";
 import { EM_CONSTRUCAO } from "@/lib/construcao";
 const links = [
   ["Vestibulinhos", "/pre-vestibulinho"],
+  ["Nota de corte", "/nota-de-corte"],
   ["ENEM e vestibulares", "/pre-vestibular"],
   ["Treino gratuito", "/treino"],
   ["Materiais", "/materiais-gratuitos"],
@@ -22,8 +23,8 @@ export function SiteHeader() {
       {EM_CONSTRUCAO && (
         <div className="gb-announcement">
           Estamos construindo o Gabaru.{" "}
-          <Link href="/treino">
-            Experimente o treino gratuito <span aria-hidden="true">↗</span>
+          <Link href="/nota-de-corte">
+            Sua nota dá para passar na ETEC? <span aria-hidden="true">↗</span>
           </Link>
         </div>
       )}

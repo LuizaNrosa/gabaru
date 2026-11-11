@@ -11,7 +11,7 @@ subtopico: funcoes
 habilidade: MT-H20
 tema: "Distâncias até semáforos em gráfico distância versus tempo"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q148.webp
 obs: "faixa de código de barras na margem esquerda, rodapé de página indevido e região em branco grande"
 ---

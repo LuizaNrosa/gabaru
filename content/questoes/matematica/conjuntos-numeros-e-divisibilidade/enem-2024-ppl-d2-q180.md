@@ -11,7 +11,7 @@ subtopico: conjuntos-numeros-e-divisibilidade
 habilidade: MT-H3
 tema: "Distância Sol-Terra em km como potência de base 10"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q180.webp
 ---
 ![Questão 180 — ENEM 2024](enem-2024-ppl-d2-q180.webp)

@@ -11,7 +11,7 @@ subtopico: geometria-plana
 habilidade: MT-H8
 tema: "Área de trapézio e capacidade de viveiro de camarão"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q152.webp
 obs: "faixa de código de barras na margem esquerda, rodapé de página indevido e região em branco grande"
 ---

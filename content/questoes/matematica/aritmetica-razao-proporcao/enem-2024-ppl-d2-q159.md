@@ -11,7 +11,7 @@ subtopico: aritmetica-razao-proporcao
 habilidade: MT-H16
 tema: "Consumo de combustível proporcional a distância e carga"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q159.webp
 ---
 ![Questão 159 — ENEM 2024](enem-2024-ppl-d2-q159.webp)

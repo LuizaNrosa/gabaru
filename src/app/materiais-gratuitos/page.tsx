@@ -1,7 +1,13 @@
 import Link from "next/link";
 import { PageHero, CONTAINER } from "@/components/ui";
 import { OFFICIAL_SOURCES } from "@/data/official-sources";
-export const metadata = { title: "Materiais gratuitos e fontes oficiais" };
+import { metaPagina } from "@/lib/seo";
+export const metadata = metaPagina({
+  titulo: "Materiais gratuitos e fontes oficiais",
+  descricao:
+    "Treino aberto do Gabaru e os acervos oficiais das instituições responsáveis pelos exames: ETEC, INEP, Comvest, Vunesp e UFV.",
+  caminho: "/materiais-gratuitos",
+});
 export default function Page() {
   return (
     <main>
@@ -20,6 +26,14 @@ export default function Page() {
           responsáveis pelos exames.
         </p>
       </PageHero>
+      <section className={`${CONTAINER} pt-10`} aria-labelledby="simulados-enem">
+        <div className="gb-content-card">
+          <p className="gb-eyebrow">GRÁTIS · SEM CADASTRO</p>
+          <h2 id="simulados-enem">Simulados do ENEM</h2>
+          <p>Escolha um caderno oficial, responda às questões e acompanhe suas marcações. A correção automática depende do caderno e da conferência do gabarito.</p>
+          <Link href="/provas/enem" className="gb-button">Escolher prova do ENEM ↗</Link>
+        </div>
+      </section>
       <section className={`${CONTAINER} py-10`}>
         <div className="gb-notice mb-8">
           Os links abaixo levam às instituições. Eles não significam que todas
@@ -41,7 +55,7 @@ export default function Page() {
           Abrir treino gratuito ↗
         </Link>
         <p className="mt-6 text-sm text-n5">
-          Resumos, videoaulas e simulados corrigidos ainda estão em preparação.
+          Resumos e videoaulas ainda estão em preparação; a disponibilidade de correção é informada em cada caderno.
         </p>
       </section>
     </main>

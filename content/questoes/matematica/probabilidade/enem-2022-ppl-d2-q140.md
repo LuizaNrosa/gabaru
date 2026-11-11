@@ -11,7 +11,7 @@ subtopico: probabilidade
 habilidade: MT-H28
 tema: "Probabilidade de aprovação com percentuais de duas turmas"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q140.webp
 ---
 ![Questão 140 — ENEM 2022](enem-2022-ppl-d2-q140.webp)

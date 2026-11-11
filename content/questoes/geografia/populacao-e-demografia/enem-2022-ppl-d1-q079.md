@@ -11,7 +11,7 @@ subtopico: populacao-e-demografia
 habilidade: CH-H8
 tema: "Envelhecimento populacional e alargamento do topo da pirâmide"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q079.webp
 obs: "imagem com resquício de texto cortado da questão anterior no topo"
 ---

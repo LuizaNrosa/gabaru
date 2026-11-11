@@ -11,7 +11,7 @@ subtopico: interpretacao-de-texto
 habilidade: LC-H16
 tema: "Uso metafórico da errata em crônica de Lya Luft"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d1-q010.webp
 ---
 ![Questão 10 — ENEM 2022](enem-2022-ppl-d1-q010.webp)

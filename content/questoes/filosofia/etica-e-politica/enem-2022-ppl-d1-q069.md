@@ -11,7 +11,7 @@ subtopico: etica-e-politica
 habilidade: CH-H23
 tema: "Maquiavel e flexibilidade moral na conservação do poder"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q069.webp
 ---
 ![Questão 69 — ENEM 2022](enem-2022-ppl-d1-q069.webp)

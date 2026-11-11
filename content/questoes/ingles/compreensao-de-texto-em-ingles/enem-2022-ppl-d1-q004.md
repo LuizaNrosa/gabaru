@@ -11,7 +11,7 @@ subtopico: compreensao-de-texto-em-ingles
 habilidade: LC-H8
 tema: "Nomes africanos adotados e resgate da identidade"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q004.webp
 ---
 ![Questão 4 — ENEM 2022](enem-2022-ppl-d1-q004.webp)

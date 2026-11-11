@@ -11,7 +11,7 @@ subtopico: fisiologia-humana-e-saude
 habilidade: CN-H14
 tema: "Doença celíaca e alimentos com glúten na dieta"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q133.webp
 ---
 ![Questão 133 — ENEM 2022](enem-2022-ppl-d2-q133.webp)

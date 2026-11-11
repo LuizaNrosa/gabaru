@@ -11,7 +11,7 @@ subtopico: geometria-espacial
 habilidade: MT-H8
 tema: "Raio da base de caixa-d'água cilíndrica pelo volume"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q163.webp
 ---
 ![Questão 163 — ENEM 2022](enem-2022-ppl-d2-q163.webp)

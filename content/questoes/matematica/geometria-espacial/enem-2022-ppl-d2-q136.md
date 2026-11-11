@@ -11,7 +11,7 @@ subtopico: geometria-espacial
 habilidade: MT-H8
 tema: "Comparação de capacidade entre prisma hexagonal e cilindro"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q136.webp
 obs: "rodapé de página indevido (início de 'MT - 2º dia') no fim da imagem; região em branco grande"
 ---

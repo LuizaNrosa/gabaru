@@ -11,7 +11,7 @@ subtopico: quimica-organica
 habilidade: CN-H24
 tema: "Solubilização do timol em NaOH por formação de sal orgânico"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q118.webp
 ---
 ![Questão 118 — ENEM 2022](enem-2022-ppl-d2-q118.webp)

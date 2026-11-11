@@ -11,7 +11,7 @@ subtopico: cidadania-estado-e-politica
 habilidade: CH-H12
 tema: "Cotas raciais, Suprema Corte dos EUA e diversidade acadêmica"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d1-q055.webp
 obs: "imagem com resquício de texto cortado da questão anterior no topo"
 ---

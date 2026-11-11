@@ -11,7 +11,7 @@ subtopico: eletricidade-e-circuitos
 habilidade: CN-H5
 tema: "Leitura de multímetro como amperímetro em circuito com lâmpada"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q130.webp
 ---
 ![Questão 130 — ENEM 2022](enem-2022-ppl-d2-q130.webp)

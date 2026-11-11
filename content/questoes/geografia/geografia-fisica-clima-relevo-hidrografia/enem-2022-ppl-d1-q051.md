@@ -11,7 +11,7 @@ subtopico: geografia-fisica-clima-relevo-hidrografia
 habilidade: CH-H29
 tema: "Origem do petróleo do pré-sal na Bacia de Santos"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d1-q051.webp
 ---
 ![Questão 51 — ENEM 2022](enem-2022-ppl-d1-q051.webp)

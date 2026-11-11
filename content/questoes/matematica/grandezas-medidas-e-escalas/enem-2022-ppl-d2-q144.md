@@ -11,7 +11,7 @@ subtopico: grandezas-medidas-e-escalas
 habilidade: MT-H10
 tema: "Conversão de milhas para quilômetros em placa de rodovia"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q144.webp
 obs: "rodapé de página indevido (logo enem2022 e 'MT - 2º dia') no fim da imagem"
 ---

@@ -11,7 +11,7 @@ subtopico: ecologia-e-meio-ambiente
 habilidade: CN-H9
 tema: "Solo esterilizado e ciclo do nitrogênio em ervilhas"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q119.webp
 ---
 ![Questão 119 — ENEM 2024](enem-2024-ppl-d2-q119.webp)

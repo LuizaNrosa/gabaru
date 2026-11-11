@@ -11,7 +11,7 @@ subtopico: geografia-ambiental
 habilidade: CH-H18
 tema: "Créditos de carbono e mercantilização da natureza"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d1-q084.webp
 obs: "imagem cortada na base: alternativa E aparece parcialmente cortada"
 ---

@@ -11,7 +11,7 @@ subtopico: eletricidade-e-circuitos
 habilidade: CN-H5
 tema: "Queda de tensão em fiação de cobre de torneira elétrica"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q094.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
 ---

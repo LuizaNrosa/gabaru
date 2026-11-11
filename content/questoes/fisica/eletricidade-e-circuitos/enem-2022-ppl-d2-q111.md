@@ -11,7 +11,7 @@ subtopico: eletricidade-e-circuitos
 habilidade: CN-H6
 tema: "Tempo de recarga de bateria com especificações do carregador"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q111.webp
 obs: "rodapé de página indevido no fim da imagem, faixa de código de barras na margem esquerda e região em branco"
 ---

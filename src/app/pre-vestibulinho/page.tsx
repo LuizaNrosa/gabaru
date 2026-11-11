@@ -2,11 +2,13 @@ import { PageHero, CONTAINER } from "@/components/ui";
 import { PathCards } from "@/components/path-cards";
 import { provasDa } from "@/data/provas";
 import Link from "next/link";
-import coluni from "@/data/coluni-exams.json";
-export const metadata = {
-  title: "Vestibulinhos: seu próximo passo",
-  description: "Provas oficiais ETEC e COLUNI/UFV, cadernos completos e gabaritos para praticar vestibulinhos.",
-};
+import { VestibulinhoCollection } from "@/components/exam-collection";
+import { metaPagina } from "@/lib/seo";
+export const metadata = metaPagina({
+  titulo: "Vestibulinhos: seu próximo passo",
+  descricao: "Provas oficiais da ETEC, COLUNI, IFSC e IFSP por instituição e edição, com cadernos e gabaritos.",
+  caminho: "/pre-vestibulinho",
+});
 export default function Page() {
   return (
     <main>
@@ -23,10 +25,11 @@ export default function Page() {
           fazem parte do foco do Gabaru. Cada processo seletivo exige preparação
           própria.
         </p>
-      </PageHero><section className={`${CONTAINER} py-8`}><div className="gb-notice"><h2 className="gb-section-title">ETEC · acervo de provas oficiais</h2><p className="mt-3">Explore 41 provas de 2006 a 2026, com 1.990 questões, cadernos integrais e gabaritos oficiais.</p><Link href="/provas/etec" className="gb-button mt-5">Escolher prova e começar ↗</Link></div><div className="gb-notice mt-6"><h2 className="gb-section-title">COLUNI/UFV · acervo de provas oficiais</h2><p className="mt-3">{coluni.length} provas de {coluni.at(-1)?.id} a {coluni[0]?.id}, com {coluni.reduce((n,e)=>n+e.questions.length,0)} questões objetivas, cadernos integrais e gabaritos oficiais.</p><Link href="/provas/coluni" className="gb-button mt-5">Escolher prova COLUNI e começar ↗</Link></div></section>
+      </PageHero>
+      <section id="provas" className={`${CONTAINER} py-10`}><h2 className="gb-section-title mb-6">Provas por instituição</h2><VestibulinhoCollection /></section>
       <section className={`${CONTAINER} py-10`}>
         <p className="gb-notice mb-8">
-          Os acervos oficiais de ETEC e COLUNI estão disponíveis acima. A organização por disciplina está em preparação. O treino ENEM permanece em sua trilha própria.
+          Os acervos de ETEC, COLUNI, IFSC e IFSP estão disponíveis nas respectivas seções, com cadernos e gabaritos oficiais. Embraer e os demais Institutos Federais ainda estão em organização.
         </p>
         <PathCards items={provasDa("vestibulinho")} />
       </section>
@@ -49,3 +52,4 @@ export default function Page() {
     </main>
   );
 }
+

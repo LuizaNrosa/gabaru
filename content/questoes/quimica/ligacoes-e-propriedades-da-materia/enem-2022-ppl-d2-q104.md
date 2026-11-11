@@ -11,7 +11,7 @@ subtopico: ligacoes-e-propriedades-da-materia
 habilidade: CN-H24
 tema: "Classificação de amálgama dentário como liga metálica"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q104.webp
 obs: "rodapé de página indevido (início de 'CN - 2º dia | Caderno' no fim da imagem)"
 ---

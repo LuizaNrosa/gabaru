@@ -11,7 +11,7 @@ subtopico: musica-e-danca
 habilidade: LC-H12
 tema: "Für Elise como jingle e mudança de função da obra"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d1-q043.webp
 ---
 ![Questão 43 — ENEM 2022](enem-2022-ppl-d1-q043.webp)

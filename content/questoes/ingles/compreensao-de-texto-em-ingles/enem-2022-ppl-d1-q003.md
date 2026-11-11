@@ -11,7 +11,7 @@ subtopico: compreensao-de-texto-em-ingles
 habilidade: LC-H7
 tema: "Carta ao editor criticando matéria sobre ensino de história"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q003.webp
 ---
 ![Questão 3 — ENEM 2022](enem-2022-ppl-d1-q003.webp)

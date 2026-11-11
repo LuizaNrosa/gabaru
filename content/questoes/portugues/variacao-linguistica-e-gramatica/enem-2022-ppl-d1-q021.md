@@ -11,7 +11,7 @@ subtopico: variacao-linguistica-e-gramatica
 habilidade: LC-H26
 tema: "Preconceito linguístico em conversa de aplicativo de emprego"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d1-q021.webp
 ---
 ![Questão 21 — ENEM 2022](enem-2022-ppl-d1-q021.webp)

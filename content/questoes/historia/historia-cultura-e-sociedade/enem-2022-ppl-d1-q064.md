@@ -11,7 +11,7 @@ subtopico: historia-cultura-e-sociedade
 habilidade: CH-H2
 tema: "Memória como reelaboração e seletividade das lembranças"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q064.webp
 ---
 ![Questão 64 — ENEM 2022](enem-2022-ppl-d1-q064.webp)

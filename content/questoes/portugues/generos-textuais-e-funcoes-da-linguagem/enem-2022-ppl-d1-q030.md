@@ -11,7 +11,7 @@ subtopico: generos-textuais-e-funcoes-da-linguagem
 habilidade: LC-H19
 tema: "Cartum sobre indiferença humana ao meio ambiente"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q030.webp
 ---
 ![Questão 30 — ENEM 2022](enem-2022-ppl-d1-q030.webp)

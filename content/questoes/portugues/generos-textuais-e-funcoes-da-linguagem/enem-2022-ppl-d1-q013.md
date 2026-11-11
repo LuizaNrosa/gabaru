@@ -11,7 +11,7 @@ subtopico: generos-textuais-e-funcoes-da-linguagem
 habilidade: LC-H18
 tema: "Estrutura de resenha sobre Sociedade do cansaço"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q013.webp
 ---
 ![Questão 13 — ENEM 2022](enem-2022-ppl-d1-q013.webp)

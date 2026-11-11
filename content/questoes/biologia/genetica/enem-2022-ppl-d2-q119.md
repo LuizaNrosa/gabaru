@@ -11,7 +11,7 @@ subtopico: genetica
 habilidade: CN-H13
 tema: "Herança mitocondrial materna na identificação de cadáver"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q119.webp
 obs: "rodapé de página indevido (início de 'CN - 2º dia | Caderno' no fim da imagem)"
 ---

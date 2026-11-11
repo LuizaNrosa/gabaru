@@ -11,7 +11,7 @@ subtopico: geografia-ambiental
 habilidade: CH-H27
 tema: "Justiça ambiental e desigualdade na exposição a riscos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d1-q056.webp
 ---
 ![Questão 56 — ENEM 2022](enem-2022-ppl-d1-q056.webp)

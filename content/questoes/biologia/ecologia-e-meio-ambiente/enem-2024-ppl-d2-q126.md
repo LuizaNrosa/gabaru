@@ -11,7 +11,7 @@ subtopico: ecologia-e-meio-ambiente
 habilidade: CN-H4
 tema: "Mitigação da contaminação por impermeabilização urbana"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q126.webp
 ---
 ![Questão 126 — ENEM 2024](enem-2024-ppl-d2-q126.webp)

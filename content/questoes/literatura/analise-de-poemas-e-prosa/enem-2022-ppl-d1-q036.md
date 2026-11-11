@@ -11,7 +11,7 @@ subtopico: analise-de-poemas-e-prosa
 habilidade: LC-H16
 tema: "Ironia e estilo machadiano em Memorial do fim"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d1-q036.webp
 ---
 ![Questão 36 — ENEM 2022](enem-2022-ppl-d1-q036.webp)

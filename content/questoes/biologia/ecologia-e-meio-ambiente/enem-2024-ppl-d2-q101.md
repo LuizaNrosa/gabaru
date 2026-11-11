@@ -11,7 +11,7 @@ subtopico: ecologia-e-meio-ambiente
 habilidade: CN-H4
 tema: "Recomposição de mata ciliar e prevenção do assoreamento"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q101.webp
 ---
 ![Questão 101 — ENEM 2024](enem-2024-ppl-d2-q101.webp)

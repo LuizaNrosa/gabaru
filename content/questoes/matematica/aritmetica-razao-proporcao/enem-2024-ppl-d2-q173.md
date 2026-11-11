@@ -11,7 +11,7 @@ subtopico: aritmetica-razao-proporcao
 habilidade: MT-H16
 tema: "Regra de três composta na construção de muro por equipes"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q173.webp
 ---
 ![Questão 173 — ENEM 2024](enem-2024-ppl-d2-q173.webp)

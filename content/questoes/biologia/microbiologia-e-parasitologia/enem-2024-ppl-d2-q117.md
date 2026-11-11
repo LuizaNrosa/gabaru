@@ -11,7 +11,7 @@ subtopico: microbiologia-e-parasitologia
 habilidade: CN-H15
 tema: "Inibição da transcriptase reversa do HIV"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q117.webp
 ---
 ![Questão 117 — ENEM 2024](enem-2024-ppl-d2-q117.webp)

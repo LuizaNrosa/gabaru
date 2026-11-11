@@ -11,7 +11,7 @@ subtopico: trabalho-e-desigualdade
 habilidade: CH-H16
 tema: "Especialização flexível e tecnologia da informação no trabalho"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q089.webp
 ---
 ![Questão 89 — ENEM 2022](enem-2022-ppl-d1-q089.webp)

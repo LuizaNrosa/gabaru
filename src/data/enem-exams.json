@@ -1,0 +1,439 @@
+[
+  {
+    "id": "enem-2025-d1",
+    "year": 2025,
+    "day": 1,
+    "description": "1º dia, caderno 1 azul (Linguagens e Ciências Humanas) Questões 101–105 = versões em espanhol das questões 1–5 (que são em inglês).",
+    "total": 95,
+    "disciplines": [
+      "ingles",
+      "portugues",
+      "literatura",
+      "artes",
+      "geografia",
+      "filosofia",
+      "historia",
+      "sociologia",
+      "espanhol"
+    ]
+  },
+  {
+    "id": "enem-2025-d2",
+    "year": 2025,
+    "day": 2,
+    "description": "2º dia, aplicação de Belém, Ananindeua e Marituba, caderno 6 cinza (Ciências da Natureza e Matemática).",
+    "total": 90,
+    "disciplines": [
+      "biologia",
+      "fisica",
+      "quimica",
+      "matematica"
+    ]
+  },
+  {
+    "id": "enem-2024-d1",
+    "year": 2024,
+    "day": 1,
+    "description": "1º dia, caderno 1 azul (Linguagens e Ciências Humanas) Questões 101–105 = versões em espanhol das questões 1–5 (que são em inglês).",
+    "total": 95,
+    "disciplines": [
+      "ingles",
+      "portugues",
+      "artes",
+      "literatura",
+      "geografia",
+      "historia",
+      "sociologia",
+      "filosofia",
+      "espanhol"
+    ]
+  },
+  {
+    "id": "enem-2024-ppl-d2",
+    "year": 2024,
+    "day": 2,
+    "description": "Reaplicação (PPL), 2º dia, caderno 8, versão ampliada (Ciências da Natureza e Matemática) Questões 101–105 = versões em espanhol das questões 1–5 (que são em inglês).",
+    "total": 90,
+    "disciplines": [
+      "quimica",
+      "biologia",
+      "fisica",
+      "matematica"
+    ]
+  },
+  {
+    "id": "enem-2023-d1",
+    "year": 2023,
+    "day": 1,
+    "description": "1º dia, caderno 1 azul (Linguagens e Ciências Humanas) Questões 101–105 = versões em espanhol das questões 1–5 (que são em inglês).",
+    "total": 95,
+    "disciplines": [
+      "ingles",
+      "artes",
+      "literatura",
+      "portugues",
+      "sociologia",
+      "historia",
+      "geografia",
+      "filosofia",
+      "espanhol"
+    ]
+  },
+  {
+    "id": "enem-2023-d2",
+    "year": 2023,
+    "day": 2,
+    "description": "2º dia, caderno 7 azul (Ciências da Natureza e Matemática) Questões 101–105 = versões em espanhol das questões 1–5 (que são em inglês).",
+    "total": 90,
+    "disciplines": [
+      "biologia",
+      "fisica",
+      "quimica",
+      "matematica"
+    ]
+  },
+  {
+    "id": "enem-2022-d1",
+    "year": 2022,
+    "day": 1,
+    "description": "1º dia, caderno 1 azul (Linguagens e Ciências Humanas) Questões 101–105 = versões em espanhol das questões 1–5 (que são em inglês).",
+    "total": 95,
+    "disciplines": [
+      "ingles",
+      "portugues",
+      "literatura",
+      "artes",
+      "geografia",
+      "filosofia",
+      "sociologia",
+      "historia",
+      "espanhol"
+    ]
+  },
+  {
+    "id": "enem-2022-d2",
+    "year": 2022,
+    "day": 2,
+    "description": "2º dia, caderno 6 cinza, versão ampliada (Ciências da Natureza e Matemática) Questões 101–105 = versões em espanhol das questões 1–5 (que são em inglês).",
+    "total": 90,
+    "disciplines": [
+      "biologia",
+      "fisica",
+      "quimica",
+      "matematica"
+    ]
+  },
+  {
+    "id": "enem-2022-ppl-d1",
+    "year": 2022,
+    "day": 1,
+    "description": "Reaplicação (PPL), 1º dia, caderno 3, versão superampliada (Linguagens e Ciências Humanas) Questões 101–105 = versões em espanhol das questões 1–5 (que são em inglês).",
+    "total": 95,
+    "disciplines": [
+      "ingles",
+      "artes",
+      "portugues",
+      "literatura",
+      "geografia",
+      "sociologia",
+      "historia",
+      "filosofia",
+      "espanhol"
+    ]
+  },
+  {
+    "id": "enem-2022-ppl-d2",
+    "year": 2022,
+    "day": 2,
+    "description": "Reaplicação (PPL), 2º dia, caderno 8 (Ciências da Natureza e Matemática) Questões 101–105 = versões em espanhol das questões 1–5 (que são em inglês).",
+    "total": 90,
+    "disciplines": [
+      "biologia",
+      "fisica",
+      "quimica",
+      "matematica"
+    ]
+  },
+  {
+    "id": "enem-2021-d1",
+    "year": 2021,
+    "day": 1,
+    "description": "1º dia, caderno 1 azul (Linguagens e Ciências Humanas) Questões 101–105 = versões em espanhol das questões 1–5 (que são em inglês).",
+    "total": 95,
+    "disciplines": [
+      "ingles",
+      "portugues",
+      "literatura",
+      "artes",
+      "sociologia",
+      "geografia",
+      "historia",
+      "filosofia",
+      "espanhol"
+    ]
+  },
+  {
+    "id": "enem-2021-d2",
+    "year": 2021,
+    "day": 2,
+    "description": "2º dia, caderno 5 amarelo, versão superampliada (Ciências da Natureza e Matemática) Questões 101–105 = versões em espanhol das questões 1–5 (que são em inglês).",
+    "total": 90,
+    "disciplines": [
+      "biologia",
+      "quimica",
+      "fisica",
+      "matematica"
+    ]
+  },
+  {
+    "id": "enem-2020-d2",
+    "year": 2020,
+    "day": 2,
+    "description": "2º dia, versão digital, caderno 8 (Ciências da Natureza e Matemática) Questões 101–105 = versões em espanhol das questões 1–5 (que são em inglês).",
+    "total": 90,
+    "disciplines": [
+      "fisica",
+      "biologia",
+      "quimica",
+      "matematica"
+    ]
+  },
+  {
+    "id": "enem-2012-d1",
+    "year": 2012,
+    "day": 1,
+    "description": "1º dia, caderno 1 azul (Ciências Humanas e da Natureza)",
+    "total": 90,
+    "disciplines": [
+      "historia",
+      "filosofia",
+      "sociologia",
+      "geografia",
+      "quimica",
+      "fisica",
+      "biologia"
+    ]
+  },
+  {
+    "id": "enem-2011-d1",
+    "year": 2011,
+    "day": 1,
+    "description": "1º dia, caderno 1 azul (Ciências Humanas e da Natureza)",
+    "total": 90,
+    "disciplines": [
+      "sociologia",
+      "filosofia",
+      "historia",
+      "geografia",
+      "fisica",
+      "biologia",
+      "quimica"
+    ]
+  },
+  {
+    "id": "enem-2011-d2",
+    "year": 2011,
+    "day": 2,
+    "description": "2º dia, caderno 5 amarelo (Linguagens e Matemática)",
+    "total": 90,
+    "disciplines": [
+      "ingles",
+      "artes",
+      "portugues",
+      "literatura",
+      "matematica"
+    ]
+  },
+  {
+    "id": "enem-2009-d1",
+    "year": 2009,
+    "day": 1,
+    "description": "1º dia, caderno 2 amarelo (Ciências Humanas e da Natureza)",
+    "total": 90,
+    "disciplines": [
+      "biologia",
+      "filosofia",
+      "quimica",
+      "fisica",
+      "interdisciplinar",
+      "matematica",
+      "historia",
+      "sociologia",
+      "geografia",
+      "literatura",
+      "portugues"
+    ]
+  },
+  {
+    "id": "enem-2008",
+    "year": 2008,
+    "day": null,
+    "description": "Prova única (caderno amarelo)",
+    "total": 63,
+    "disciplines": [
+      "sociologia",
+      "portugues",
+      "geografia",
+      "matematica",
+      "interdisciplinar",
+      "biologia",
+      "literatura",
+      "historia",
+      "quimica",
+      "fisica",
+      "artes"
+    ]
+  },
+  {
+    "id": "enem-2007",
+    "year": 2007,
+    "day": null,
+    "description": "Prova única (caderno amarelo)",
+    "total": 63,
+    "disciplines": [
+      "historia",
+      "artes",
+      "literatura",
+      "portugues",
+      "matematica",
+      "biologia",
+      "geografia",
+      "interdisciplinar",
+      "fisica",
+      "quimica"
+    ]
+  },
+  {
+    "id": "enem-2006",
+    "year": 2006,
+    "day": null,
+    "description": "Prova única (caderno amarelo)",
+    "total": 63,
+    "disciplines": [
+      "literatura",
+      "artes",
+      "portugues",
+      "biologia",
+      "matematica",
+      "historia",
+      "geografia",
+      "fisica",
+      "quimica"
+    ]
+  },
+  {
+    "id": "enem-2005",
+    "year": 2005,
+    "day": null,
+    "description": "Prova única (caderno amarelo)",
+    "total": 63,
+    "disciplines": [
+      "literatura",
+      "sociologia",
+      "geografia",
+      "portugues",
+      "historia",
+      "matematica",
+      "biologia",
+      "quimica",
+      "fisica",
+      "artes"
+    ]
+  },
+  {
+    "id": "enem-2004",
+    "year": 2004,
+    "day": null,
+    "description": "Prova única (caderno amarelo)",
+    "total": 63,
+    "disciplines": [
+      "matematica",
+      "historia",
+      "geografia",
+      "literatura",
+      "portugues",
+      "artes",
+      "biologia",
+      "quimica",
+      "fisica",
+      "sociologia",
+      "interdisciplinar"
+    ]
+  },
+  {
+    "id": "enem-2003",
+    "year": 2003,
+    "day": null,
+    "description": "Prova única (caderno amarelo)",
+    "total": 63,
+    "disciplines": [
+      "portugues",
+      "sociologia",
+      "matematica",
+      "literatura",
+      "biologia",
+      "quimica",
+      "geografia",
+      "fisica",
+      "filosofia",
+      "historia"
+    ]
+  },
+  {
+    "id": "enem-2002",
+    "year": 2002,
+    "day": null,
+    "description": "Prova única (caderno amarelo)",
+    "total": 63,
+    "disciplines": [
+      "literatura",
+      "geografia",
+      "matematica",
+      "biologia",
+      "sociologia",
+      "artes",
+      "portugues",
+      "quimica",
+      "fisica",
+      "historia",
+      "filosofia"
+    ]
+  },
+  {
+    "id": "enem-2001",
+    "year": 2001,
+    "day": null,
+    "description": "Prova única (caderno amarelo)",
+    "total": 63,
+    "disciplines": [
+      "portugues",
+      "matematica",
+      "quimica",
+      "sociologia",
+      "geografia",
+      "literatura",
+      "biologia",
+      "fisica",
+      "historia",
+      "filosofia"
+    ]
+  },
+  {
+    "id": "enem-2000",
+    "year": 2000,
+    "day": null,
+    "description": "Prova única (caderno amarelo)",
+    "total": 63,
+    "disciplines": [
+      "literatura",
+      "biologia",
+      "fisica",
+      "historia",
+      "geografia",
+      "portugues",
+      "matematica",
+      "quimica",
+      "filosofia"
+    ]
+  }
+]

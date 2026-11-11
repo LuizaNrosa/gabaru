@@ -11,7 +11,7 @@ subtopico: geometria-plana
 habilidade: MT-H8
 tema: "Altura de caminhão tangente a túnel triangular equilátero"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d2-q154.webp
 obs: "rodapé de página indevido (logo enem2022 e 'MT - 2º dia | Caderno 6 - ROSA - 2ª Aplicação') no fim da imagem"
 ---

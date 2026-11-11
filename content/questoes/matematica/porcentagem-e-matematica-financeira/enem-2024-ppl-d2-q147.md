@@ -11,7 +11,7 @@ subtopico: porcentagem-e-matematica-financeira
 habilidade: MT-H3
 tema: "Comparação de descontos percentuais em promoções leve e pague"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q147.webp
 ---
 ![Questão 147 — ENEM 2024](enem-2024-ppl-d2-q147.webp)

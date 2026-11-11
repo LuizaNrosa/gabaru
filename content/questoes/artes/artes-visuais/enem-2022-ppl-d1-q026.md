@@ -11,7 +11,7 @@ subtopico: artes-visuais
 habilidade: LC-H14
 tema: "Kusiwa Wajãpi e arte indígena além da estética"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q026.webp
 ---
 ![Questão 26 — ENEM 2022](enem-2022-ppl-d1-q026.webp)

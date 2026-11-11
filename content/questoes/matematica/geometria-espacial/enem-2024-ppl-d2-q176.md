@@ -11,7 +11,7 @@ subtopico: geometria-espacial
 habilidade: MT-H20
 tema: "Gráfico da altura da água em garrafão em esvaziamento"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q176.webp
 ---
 ![Questão 176 — ENEM 2024](enem-2024-ppl-d2-q176.webp)

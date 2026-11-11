@@ -17,6 +17,7 @@ export const NAV: NavItem[] = [
     label: "Pré-vestibular",
     href: "/pre-vestibular",
     filhos: [
+      { label: "ENEM · provas anteriores", href: "/provas/enem", nota: "Por ano e aplicação" },
       ...discAtivas.map((d) => ({ label: d.nome, href: `/disciplinas/${d.slug}`, nota: "Disponível" })),
       ...discBreve.slice(0, 4).map((d) => ({ label: d.nome, href: `/disciplinas/${d.slug}`, nota: "Em breve" })),
       ...provasDa("militar").map((p) => ({ label: p.nome, href: `/provas/${p.slug}`, nota: "Militares e ITA/IME" })),
@@ -32,3 +33,4 @@ export const NAV: NavItem[] = [
   { label: "Materiais gratuitos", href: "/materiais-gratuitos" },
   { label: "Concursos", href: "/concursos" },
 ];
+

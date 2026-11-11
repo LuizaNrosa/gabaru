@@ -11,7 +11,7 @@ subtopico: aritmetica-razao-proporcao
 habilidade: MT-H3
 tema: "Maior razão entre volume de chuva e dias"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q154.webp
 ---
 ![Questão 154 — ENEM 2024](enem-2024-ppl-d2-q154.webp)

@@ -11,7 +11,7 @@ subtopico: mecanica-cinematica
 habilidade: CN-H20
 tema: "Tempo de queda livre de corpos de massas diferentes"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q123.webp
 ---
 ![Questão 123 — ENEM 2024](enem-2024-ppl-d2-q123.webp)

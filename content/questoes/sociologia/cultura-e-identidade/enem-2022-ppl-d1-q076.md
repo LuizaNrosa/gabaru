@@ -11,7 +11,7 @@ subtopico: cultura-e-identidade
 habilidade: CH-H5
 tema: "Festa do Pau da Bandeira e patrimônio religioso"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d1-q076.webp
 ---
 ![Questão 76 — ENEM 2022](enem-2022-ppl-d1-q076.webp)

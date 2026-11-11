@@ -11,7 +11,7 @@ subtopico: probabilidade
 habilidade: MT-H28
 tema: "Probabilidade de sorteio entre funcionários com dois filhos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q150.webp
 ---
 ![Questão 150 — ENEM 2024](enem-2024-ppl-d2-q150.webp)

@@ -11,7 +11,7 @@ subtopico: funcoes-inorganicas-e-reacoes
 habilidade: CN-H25
 tema: "Maior estado de oxidação do enxofre na produção de H2SO4"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q125.webp
 ---
 ![Questão 125 — ENEM 2024](enem-2024-ppl-d2-q125.webp)

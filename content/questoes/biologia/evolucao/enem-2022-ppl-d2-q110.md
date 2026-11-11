@@ -11,7 +11,7 @@ subtopico: evolucao
 habilidade: CN-H16
 tema: "Dimorfismo sexual e seleção sexual em animais"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q110.webp
 ---
 ![Questão 110 — ENEM 2022](enem-2022-ppl-d2-q110.webp)

@@ -11,7 +11,7 @@ subtopico: sequencias-pa-pg
 habilidade: MT-H2
 tema: "Progressão aritmética na equivalência entre idade de gato e humano"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2024-ppl-d2-q138.webp
 ---
 ![Questão 138 — ENEM 2024](enem-2024-ppl-d2-q138.webp)

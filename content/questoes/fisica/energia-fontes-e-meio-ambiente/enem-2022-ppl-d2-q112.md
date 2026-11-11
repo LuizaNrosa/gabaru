@@ -11,7 +11,7 @@ subtopico: energia-fontes-e-meio-ambiente
 habilidade: CN-H10
 tema: "Impacto térmico do resfriamento falho de usina nuclear"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q112.webp
 ---
 ![Questão 112 — ENEM 2022](enem-2022-ppl-d2-q112.webp)

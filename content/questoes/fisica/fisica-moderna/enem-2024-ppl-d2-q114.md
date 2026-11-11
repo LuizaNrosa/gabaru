@@ -11,7 +11,7 @@ subtopico: fisica-moderna
 habilidade: CN-H17
 tema: "Moderador de nêutrons em reator por colisão elástica"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q114.webp
 ---
 ![Questão 114 — ENEM 2024](enem-2024-ppl-d2-q114.webp)

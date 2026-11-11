@@ -11,7 +11,7 @@ subtopico: mecanica-dinamica-e-estatica
 habilidade: CN-H20
 tema: "Velocidade constante de esteira com força impulsiva e variação de massa"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q128.webp
 ---
 ![Questão 128 — ENEM 2022](enem-2022-ppl-d2-q128.webp)

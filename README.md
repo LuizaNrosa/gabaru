@@ -46,3 +46,7 @@ src/
     firebase/admin.ts              # SDK admin + verificação de token
     stripe.ts                      # cliente Stripe (server-only)
 ```
+
+## Autoria e direitos
+
+© 2026 Luiza Nascimento Rosa — todos os direitos reservados. Consulte [LICENSE](LICENSE).

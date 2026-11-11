@@ -11,7 +11,7 @@ subtopico: ecologia-e-meio-ambiente
 habilidade: CN-H9
 tema: "Papel das minhocas no ciclo biogeoquímico do nitrogênio"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q097.webp
 obs: "rodapé de página indevido (início do texto 'CN - 2º dia | Caderno' no fim da imagem); região em branco grande"
 ---

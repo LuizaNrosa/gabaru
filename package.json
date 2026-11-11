@@ -8,20 +8,25 @@
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
-    "prebuild": "node scripts/restore-acervo-parts.mjs && node scripts/prepare-etec.mjs && node scripts/prepare-coluni.mjs"
+    "prebuild": "node scripts/restore-acervo-parts.mjs && node scripts/prepare-etec.mjs && node scripts/prepare-coluni.mjs && node scripts/prepare-ifsc.mjs && node scripts/prepare-ifsp.mjs",
+    "db:migrate": "node scripts/migrate-db.mjs",
+    "db:import-etec": "node scripts/import-etec-db.mjs"
   },
   "dependencies": {
     "firebase": "^13.0.0",
     "firebase-admin": "^14.5.0",
-    "next": "^16.4.0",
+    "next": "^16.4.1",
+    "pg": "^8.23.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "server-only": "^0.0.1",
     "stripe": "^17.0.0"
   },
   "devDependencies": {
+    "@electric-sql/pglite": "^0.5.14",
     "@tailwindcss/postcss": "^4.0.0",
     "@types/node": "^22.0.0",
+    "@types/pg": "^8.23.1",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "eslint": "^9.0.0",
@@ -32,5 +37,10 @@
   },
   "overrides": {
     "@grpc/grpc-js": "1.14.6"
-  }
+  },
+  "author": {
+    "name": "Luiza Nascimento Rosa",
+    "url": "https://github.com/LuizaNrosa"
+  },
+  "license": "UNLICENSED"
 }

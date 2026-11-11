@@ -24,7 +24,7 @@ export function Eyebrow({
 }) {
   return (
     <p
-      className={`font-mono text-xs font-bold uppercase tracking-[0.14em] ${claro ? "text-gold" : "text-n4"}`}
+      className={`font-mono text-xs font-bold uppercase tracking-[0.14em] ${claro ? "text-gold-soft" : "text-n4"}`}
     >
       {children}
     </p>
@@ -55,7 +55,7 @@ export function CtaCadastro({ texto = "Criar conta" }: { texto?: string }) {
   return (
     <Link
       href="/cadastro"
-      className="inline-flex min-h-12 items-center rounded-md bg-gold px-6 font-semibold text-ink shadow-[0_1px_0_rgba(0,0,0,.08)] transition hover:-translate-y-0.5 hover:bg-[#e6f5af] hover:shadow-md"
+      className="inline-flex min-h-12 items-center rounded-md bg-gold-text px-6 font-semibold text-white shadow-[0_1px_0_rgba(0,0,0,.08)] transition hover:-translate-y-0.5 hover:bg-[#a63f14] hover:shadow-md"
     >
       {texto}
     </Link>
@@ -115,7 +115,7 @@ export function FotoUniversidade({
     <figure
       className="group relative flex aspect-[4/5] flex-col justify-end overflow-hidden rounded-xl bg-ink p-4 text-paper"
       style={{
-        backgroundImage: `linear-gradient(to top, rgba(18,61,53,.9), rgba(18,61,53,.05) 62%), url(${arquivo})`,
+        backgroundImage: `linear-gradient(to top, rgba(35,35,35,.92), rgba(35,35,35,.05) 62%), url(${arquivo})`,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}

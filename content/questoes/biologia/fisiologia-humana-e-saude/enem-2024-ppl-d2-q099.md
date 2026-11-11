@@ -11,7 +11,7 @@ subtopico: fisiologia-humana-e-saude
 habilidade: CN-H14
 tema: "Perda de memória imunológica após vacinação em cobaias"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q099.webp
 ---
 ![Questão 99 — ENEM 2024](enem-2024-ppl-d2-q099.webp)

@@ -11,7 +11,7 @@ subtopico: geometria-espacial
 habilidade: MT-H8
 tema: "Escolha de reservatório pelo volume e espaço disponível"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q139.webp
 obs: "faixa de código de barras na margem esquerda, rodapé de página indevido e região em branco grande"
 ---

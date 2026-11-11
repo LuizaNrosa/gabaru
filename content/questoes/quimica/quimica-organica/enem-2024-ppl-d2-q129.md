@@ -11,7 +11,7 @@ subtopico: quimica-organica
 habilidade: CN-H18
 tema: "Polímero biodegradável com grupo éster hidrolisável"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q129.webp
 ---
 ![Questão 129 — ENEM 2024](enem-2024-ppl-d2-q129.webp)

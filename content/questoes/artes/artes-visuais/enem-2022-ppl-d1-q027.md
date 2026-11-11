@@ -11,7 +11,7 @@ subtopico: artes-visuais
 habilidade: LC-H14
 tema: "Arte contemporânea indiana, globalização e novas mídias"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q027.webp
 ---
 ![Questão 27 — ENEM 2022](enem-2022-ppl-d1-q027.webp)

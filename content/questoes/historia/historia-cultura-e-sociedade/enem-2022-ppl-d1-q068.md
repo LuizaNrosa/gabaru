@@ -11,7 +11,7 @@ subtopico: historia-cultura-e-sociedade
 habilidade: CH-H3
 tema: "Origem de Papai Noel, tradição religiosa e publicidade"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q068.webp
 ---
 ![Questão 68 — ENEM 2022](enem-2022-ppl-d1-q068.webp)

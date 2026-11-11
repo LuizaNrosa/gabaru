@@ -11,7 +11,7 @@ subtopico: variacao-linguistica-e-gramatica
 habilidade: LC-H26
 tema: "Grafia incorreta em cartaz e interferência da fala na escrita"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d1-q022.webp
 ---
 ![Questão 22 — ENEM 2022](enem-2022-ppl-d1-q022.webp)

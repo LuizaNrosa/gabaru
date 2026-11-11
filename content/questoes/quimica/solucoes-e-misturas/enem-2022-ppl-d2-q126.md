@@ -11,7 +11,7 @@ subtopico: solucoes-e-misturas
 habilidade: CN-H15
 tema: "Miscibilidade e densidade em experimento com mel, água, óleo e álcool"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q126.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
 ---

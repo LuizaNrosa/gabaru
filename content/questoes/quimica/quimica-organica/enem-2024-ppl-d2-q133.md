@@ -11,7 +11,7 @@ subtopico: quimica-organica
 habilidade: CN-H24
 tema: "Reação de hidrólise na reciclagem química do PET"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q133.webp
 ---
 ![Questão 133 — ENEM 2024](enem-2024-ppl-d2-q133.webp)

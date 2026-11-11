@@ -11,7 +11,7 @@ subtopico: estatistica-tabelas-e-graficos
 habilidade: MT-H25
 tema: "Diferença salarial média entre homens e mulheres em gráfico"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q155.webp
 ---
 ![Questão 155 — ENEM 2024](enem-2024-ppl-d2-q155.webp)

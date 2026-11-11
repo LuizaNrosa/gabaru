@@ -2,8 +2,9 @@ import Link from "next/link";
 import { questionCatalog } from "@/lib/questions";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { Badge, CONTAINER, CtaCadastro, PageHero } from "@/components/ui";
+import { CONTAINER, PageHero } from "@/components/ui";
 import { DISCIPLINAS, disciplinaPorSlug } from "@/data/disciplinas";
+import { metaPagina } from "@/lib/seo";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -13,7 +14,13 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const d = disciplinaPorSlug((await params).slug);
-  return d ? { title: d.nome, description: d.resumo } : {};
+  return d
+    ? metaPagina({
+        titulo: d.nome,
+        descricao: d.resumo,
+        caminho: `/disciplinas/${d.slug}`,
+      })
+    : {};
 }
 
 export default async function DisciplinaPage({ params }: Props) {

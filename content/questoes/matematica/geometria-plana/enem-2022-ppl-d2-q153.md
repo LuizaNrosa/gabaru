@@ -11,7 +11,7 @@ subtopico: geometria-plana
 habilidade: MT-H8
 tema: "Comparação de comprimentos de trechos de pista alterados"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d2-q153.webp
 ---
 ![Questão 153 — ENEM 2022](enem-2022-ppl-d2-q153.webp)

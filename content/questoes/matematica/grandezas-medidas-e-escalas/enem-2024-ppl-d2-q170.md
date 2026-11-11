@@ -11,7 +11,7 @@ subtopico: grandezas-medidas-e-escalas
 habilidade: MT-H10
 tema: "Unidade de medida da resolução de imagem em pixels"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q170.webp
 ---
 ![Questão 170 — ENEM 2024](enem-2024-ppl-d2-q170.webp)

@@ -11,7 +11,7 @@ subtopico: optica-e-ondulatoria
 habilidade: CN-H1
 tema: "Frequência de oscilação do sistema massa-mola da suspensão"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q113.webp
 ---
 ![Questão 113 — ENEM 2024](enem-2024-ppl-d2-q113.webp)

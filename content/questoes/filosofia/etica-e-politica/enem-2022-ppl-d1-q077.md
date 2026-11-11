@@ -11,7 +11,7 @@ subtopico: etica-e-politica
 habilidade: CH-H14
 tema: "Foucault e biopoder: gestão calculista das vidas"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q077.webp
 ---
 ![Questão 77 — ENEM 2022](enem-2022-ppl-d1-q077.webp)

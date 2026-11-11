@@ -32,7 +32,7 @@ export function TabBar() {
   const atual = usePathname();
   return (
     <nav
-      aria-label="Navegação principal"
+      aria-label="Navegação rápida"
       className="fixed inset-x-0 bottom-0 z-50 border-t border-n2 bg-paper/95 backdrop-blur sm:hidden"
     >
       <ul className="grid grid-cols-4" role="list">

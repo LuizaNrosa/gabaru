@@ -11,7 +11,7 @@ subtopico: fisica-moderna
 habilidade: CN-H22
 tema: "Detector de fumaça com amerício e partículas alfa"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q135.webp
 obs: "rodapé de página indevido no fim da imagem com título de seção seguinte ('MATEMÁTICA E SUAS TECNOLOGIAS - Questões de 136 a 180') e faixa de código de barras na margem esquerda"
 ---

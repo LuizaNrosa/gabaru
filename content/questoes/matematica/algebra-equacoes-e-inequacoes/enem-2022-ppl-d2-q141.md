@@ -11,7 +11,7 @@ subtopico: algebra-equacoes-e-inequacoes
 habilidade: MT-H21
 tema: "Custo de produção de CDs com custo unitário por faixas"
 classificacao_confianca: baixa
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q141.webp
 obs: "imagem cortada: quadro de custo unitário só mostra a primeira linha (n < 1 000), faltam as demais faixas, a pergunta final e as alternativas A a E"
 ---

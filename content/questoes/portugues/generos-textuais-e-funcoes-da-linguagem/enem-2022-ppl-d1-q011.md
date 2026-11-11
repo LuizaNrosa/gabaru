@@ -11,7 +11,7 @@ subtopico: generos-textuais-e-funcoes-da-linguagem
 habilidade: LC-H18
 tema: "Função do infográfico sobre diversidade indígena brasileira"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q011.webp
 ---
 ![Questão 11 — ENEM 2022](enem-2022-ppl-d1-q011.webp)

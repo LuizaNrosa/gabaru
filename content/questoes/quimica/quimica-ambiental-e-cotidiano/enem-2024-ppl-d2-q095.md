@@ -11,7 +11,7 @@ subtopico: quimica-ambiental-e-cotidiano
 habilidade: CN-H10
 tema: "Adubação nitrogenada e eutrofização de rios e lagos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q095.webp
 ---
 ![Questão 95 — ENEM 2024](enem-2024-ppl-d2-q095.webp)

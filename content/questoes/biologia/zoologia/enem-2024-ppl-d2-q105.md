@@ -11,7 +11,7 @@ subtopico: zoologia
 habilidade: CN-H17
 tema: "Gráficos de osmorregulação e osmoconformação em invertebrados"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q105.webp
 ---
 ![Questão 105 — ENEM 2024](enem-2024-ppl-d2-q105.webp)

@@ -11,7 +11,7 @@ subtopico: evolucao
 habilidade: CN-H16
 tema: "Formação de raças de cães por seleção artificial"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q118.webp
 ---
 ![Questão 118 — ENEM 2024](enem-2024-ppl-d2-q118.webp)

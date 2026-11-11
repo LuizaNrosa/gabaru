@@ -11,7 +11,7 @@ subtopico: artes-visuais
 habilidade: LC-H16
 tema: "Impressionismo de Monet e mistura óptica de cores"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2022-ppl-d1-q028.webp
 ---
 ![Questão 28 — ENEM 2022](enem-2022-ppl-d1-q028.webp)

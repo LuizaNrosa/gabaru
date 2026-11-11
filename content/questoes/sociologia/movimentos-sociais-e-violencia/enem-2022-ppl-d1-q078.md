@@ -11,7 +11,7 @@ subtopico: movimentos-sociais-e-violencia
 habilidade: CH-H10
 tema: "Movimentos sociais globais contra a precarização do trabalho"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2022-ppl-d1-q078.webp
 ---
 ![Questão 78 — ENEM 2022](enem-2022-ppl-d1-q078.webp)

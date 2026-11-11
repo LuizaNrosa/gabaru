@@ -11,7 +11,7 @@ subtopico: porcentagem-e-matematica-financeira
 habilidade: MT-H3
 tema: "Menor preço de banho em petshops com promoções"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q140.webp
 ---
 ![Questão 140 — ENEM 2024](enem-2024-ppl-d2-q140.webp)

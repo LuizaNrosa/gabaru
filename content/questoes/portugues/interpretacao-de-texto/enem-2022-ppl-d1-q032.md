@@ -11,7 +11,7 @@ subtopico: interpretacao-de-texto
 habilidade: LC-H22
 tema: "Comparação de dois textos sobre famílias e economia"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q032.webp
 ---
 ![Questão 32 — ENEM 2022](enem-2022-ppl-d1-q032.webp)

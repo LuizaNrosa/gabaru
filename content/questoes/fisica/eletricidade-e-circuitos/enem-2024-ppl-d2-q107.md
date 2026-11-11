@@ -11,7 +11,7 @@ subtopico: eletricidade-e-circuitos
 habilidade: CN-H5
 tema: "Redimensionamento de resistor em aquecedor elétrico"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2024-ppl-d2-q107.webp
 ---
 ![Questão 107 — ENEM 2024](enem-2024-ppl-d2-q107.webp)

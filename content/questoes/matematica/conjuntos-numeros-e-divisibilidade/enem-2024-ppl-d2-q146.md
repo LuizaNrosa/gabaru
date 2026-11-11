@@ -11,7 +11,7 @@ subtopico: conjuntos-numeros-e-divisibilidade
 habilidade: MT-H1
 tema: "Representação numérica de quantidade escrita por extenso"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q146.webp
 ---
 ![Questão 146 — ENEM 2024](enem-2024-ppl-d2-q146.webp)

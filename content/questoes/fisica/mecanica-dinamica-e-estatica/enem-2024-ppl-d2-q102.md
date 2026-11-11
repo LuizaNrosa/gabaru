@@ -11,7 +11,7 @@ subtopico: mecanica-dinamica-e-estatica
 habilidade: CN-H3
 tema: "Conceito científico de força versus senso comum"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: E
 imagem: enem-2024-ppl-d2-q102.webp
 ---
 ![Questão 102 — ENEM 2024](enem-2024-ppl-d2-q102.webp)

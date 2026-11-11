@@ -11,7 +11,7 @@ subtopico: generos-textuais-e-funcoes-da-linguagem
 habilidade: LC-H21
 tema: "Cartaz contra violência doméstica une verbal e não verbal"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d1-q016.webp
 ---
 ![Questão 16 — ENEM 2022](enem-2022-ppl-d1-q016.webp)

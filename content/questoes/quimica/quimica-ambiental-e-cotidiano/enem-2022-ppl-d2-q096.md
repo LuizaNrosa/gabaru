@@ -11,7 +11,7 @@ subtopico: quimica-ambiental-e-cotidiano
 habilidade: CN-H27
 tema: "Descarte adequado de efluentes industriais contendo fenol"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d2-q096.webp
 ---
 ![Questão 96 — ENEM 2022](enem-2022-ppl-d2-q096.webp)

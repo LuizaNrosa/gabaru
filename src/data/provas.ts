@@ -57,9 +57,10 @@ export const PROVAS: Prova[] = [
     nome: "COLUNI/UFV",
     completo: "Colégio de Aplicação da Universidade Federal de Viçosa",
     categoria: "vestibulinho",
-    resumo: "Provas oficiais de anos anteriores, com cadernos integrais e gabaritos oficiais.",
+    resumo: "Provas oficiais de 2013 a 2026 (14 edições), com cadernos e gabaritos oficiais.",
     estrutura: [
-      "Nas edições 2024 a 2026: 38 questões objetivas, com quatro alternativas, e produção textual.",
+      "Nas edições 2018 a 2026: 38 questões objetivas, com quatro alternativas, e produção textual.",
+      "Nas edições 2013 a 2017: 48 questões objetivas no 1.º dia. Os cadernos discursivos do 2.º dia estão disponíveis para 2016 e 2017.",
       "Língua Portuguesa, Matemática, Língua Inglesa, Ciências, Geografia e História.",
     ],
     disciplinas: [
@@ -68,6 +69,43 @@ export const PROVAS: Prova[] = [
       "ciencias",
       "historia",
       "geografia",
+    ],
+  },
+  {
+    slug: "ifsc",
+    nome: "IFSC",
+    completo: "Instituto Federal de Santa Catarina — Exame de Classificação",
+    categoria: "vestibulinho",
+    resumo: "Provas oficiais de 2017.1 a 2026.2 (18 cadernos, incluindo a prova própria do Câmpus Itajaí em 2024.1), com gabaritos definitivos após recursos.",
+    estrutura: [
+      "Nas edições atuais: 28 questões objetivas com 5 alternativas — Língua Portuguesa, Matemática, Geografia e História e Ciências, 7 de cada — em 4 horas de prova.",
+      "Em 2024.1: 24 questões (Linguagens, Matemática e Ciências Humanas). Até 2023.2: 20 questões de Português e Matemática.",
+      "Instituto misto: a maioria dos câmpus seleciona por prova; em algumas edições, câmpus específicos ofertam as vagas por sorteio público (indicado em cada edição). Cursos com inscritos em número menor ou igual ao de vagas não realizam prova.",
+      "Classificação, nos editais atuais, pela ordem decrescente do número de acertos, por curso e modalidade de concorrência.",
+    ],
+    disciplinas: [
+      "portugues",
+      "matematica",
+      "historia",
+      "geografia",
+      "ciencias",
+    ],
+  },
+  {
+    slug: "ifsp",
+    nome: "IFSP",
+    completo: "Instituto Federal de São Paulo — Processo Seletivo dos Cursos Técnicos Integrados",
+    categoria: "vestibulinho",
+    resumo: "Provas oficiais de 2022.1 a 2026.1 (10 cadernos: dois turnos ou tipos por ano), com gabaritos definitivos após recursos.",
+    estrutura: [
+      "30 questões objetivas: Língua Portuguesa (15) e Matemática (15), 1 ponto por questão, em 3 horas de prova.",
+      "Até 2025.1: 4 alternativas por questão, em processo conjunto com os cursos concomitantes/subsequentes (Provas A e B, de turnos diferentes e com questões diferentes). Em 2026.1, com a Fundação CEFETMINAS: 5 alternativas e caderno próprio do Integrado (Tipos 1 e 2 — o mesmo conjunto, com as secções trocadas).",
+      "Entre 2017 e 2021 não houve prova (seleção por análise de histórico escolar); a prova regressou em 2022.1.",
+      "Classificação por curso, turno e câmpus, em ordem decrescente de acertos, com os desempates de cada edital.",
+    ],
+    disciplinas: [
+      "portugues",
+      "matematica",
     ],
   },
   {

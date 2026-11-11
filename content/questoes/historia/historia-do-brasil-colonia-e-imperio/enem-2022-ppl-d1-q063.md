@@ -11,7 +11,7 @@ subtopico: historia-do-brasil-colonia-e-imperio
 habilidade: CH-H13
 tema: "Batalha do Jenipapo e resistência popular na Independência"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: D
 imagem: enem-2022-ppl-d1-q063.webp
 ---
 ![Questão 63 — ENEM 2022](enem-2022-ppl-d1-q063.webp)

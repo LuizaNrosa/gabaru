@@ -11,7 +11,7 @@ subtopico: solucoes-e-misturas
 habilidade: CN-H17
 tema: "Concentração e condutividade de solutos em bula de medicamento"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q121.webp
 obs: "rodapé de página indevido no fim da imagem (ROSA - 2ª Aplicação, logo enem2022), faixa de código de barras na margem esquerda e região em branco grande"
 ---

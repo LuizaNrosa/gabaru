@@ -11,7 +11,7 @@ subtopico: optica-e-ondulatoria
 habilidade: CN-H1
 tema: "Trajetória de feixe de laser ao atravessar janela de vidro"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d2-q132.webp
 obs: "rodapé de página indevido no fim da imagem e faixa de código de barras na margem esquerda"
 ---

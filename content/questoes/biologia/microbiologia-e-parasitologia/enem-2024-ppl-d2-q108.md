@@ -11,7 +11,7 @@ subtopico: microbiologia-e-parasitologia
 habilidade: CN-H16
 tema: "Características dos fungos frente aos demais vegetais"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: C
 imagem: enem-2024-ppl-d2-q108.webp
 ---
 ![Questão 108 — ENEM 2024](enem-2024-ppl-d2-q108.webp)

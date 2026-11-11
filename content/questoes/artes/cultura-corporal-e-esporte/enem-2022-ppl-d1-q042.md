@@ -11,7 +11,7 @@ subtopico: cultura-corporal-e-esporte
 habilidade: LC-H11
 tema: "Vôlei, Liga das Nações e igualdade de premiação entre gêneros"
 classificacao_confianca: media
-gabarito: pendente
+gabarito: A
 imagem: enem-2022-ppl-d1-q042.webp
 obs: "imagem com resquício de texto cortado da questão anterior no topo"
 ---

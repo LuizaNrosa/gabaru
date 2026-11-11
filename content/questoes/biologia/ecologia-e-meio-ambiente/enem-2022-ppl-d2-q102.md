@@ -11,7 +11,7 @@ subtopico: ecologia-e-meio-ambiente
 habilidade: CN-H10
 tema: "Impacto de inseticidas sobre abelhas na produção de alimentos"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: B
 imagem: enem-2022-ppl-d2-q102.webp
 ---
 ![Questão 102 — ENEM 2022](enem-2022-ppl-d2-q102.webp)

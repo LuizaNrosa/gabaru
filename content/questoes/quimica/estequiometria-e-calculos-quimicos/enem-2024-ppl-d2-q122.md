@@ -11,7 +11,7 @@ subtopico: estequiometria-e-calculos-quimicos
 habilidade: CN-H17
 tema: "Massa de sódio ingerida em excesso com sal light"
 classificacao_confianca: alta
-gabarito: pendente
+gabarito: A
 imagem: enem-2024-ppl-d2-q122.webp
 ---
 ![Questão 122 — ENEM 2024](enem-2024-ppl-d2-q122.webp)

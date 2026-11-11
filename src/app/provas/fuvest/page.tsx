@@ -1,4 +1,5 @@
 import Link from "next/link";
+import documentos from "@/data/fuvest-documentos.json";
 import { CONTAINER, PageHero } from "@/components/ui";
 import { metaPagina } from "@/lib/seo";
 
@@ -85,9 +86,9 @@ export default function FuvestPage() {
       </section>
       <section className={`${CONTAINER} pb-12`} aria-labelledby="fuvest-edicoes">
         <h2 id="fuvest-edicoes" className="gb-section-title">Edições de 1977 a 2026</h2>
-        <p className="gb-notice mt-5">Os botões abrem as páginas oficiais de cada ano. A disponibilidade de provas, fases, gabaritos e respostas varia conforme a edição. Estes documentos ainda não foram incorporados como questões ou simulados corrigidos no Gabaru.</p>
+        <p className="gb-notice mt-5">Escolha um ano para encontrar documentos disponíveis na fonte oficial. A disponibilidade de provas, fases, gabaritos e respostas varia conforme a edição. Estes documentos ainda não foram incorporados como questões ou simulados corrigidos no Gabaru.</p>
         <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4 lg:grid-cols-6">
-          {edicoes.map(({ ano, url }) => <a key={ano} href={url} target="_blank" rel="noopener noreferrer" className="rounded-md border border-n2 bg-white/60 px-4 py-4 font-semibold hover:bg-gold-soft">FUVEST {ano} ↗<span className="sr-only">, abrir fonte oficial em nova aba</span></a>)}
+          {edicoes.map(({ ano }) => <Link key={ano} href={`/provas/fuvest/${ano}`} className="rounded-md border border-n2 bg-white/60 px-4 py-4 font-semibold hover:bg-gold-soft">FUVEST {ano} ↗<span className="block text-xs font-normal text-n5">{documentos.filter(doc => doc.year === ano).length} PDFs listados</span></Link>)}
         </div>
         <p className="mt-8 text-sm text-n5">Fontes consultadas em 11/11/2026. Os arquivos permanecem sujeitos à disponibilidade da FUVEST.</p>
         <Link href="/provas" className="gb-text-link mt-5 inline-block">← Voltar ao acervo de provas</Link>

@@ -5,7 +5,7 @@ import { metaPagina } from "@/lib/seo";
 
 export const metadata = metaPagina({
   titulo: "Acervo de provas oficiais",
-  descricao: "Encontre provas da ETEC, COLUNI, IFSC, IFSP, ENEM, Unesp e Unicamp, organizadas por instituição e edição.",
+  descricao: "Encontre provas da ETEC, COLUNI, IFSC, IFSP, ENEM, FUVEST, Unesp e Unicamp, organizadas por instituição e edição.",
   caminho: "/provas",
 });
 
@@ -25,6 +25,7 @@ const grupos = [
     descricao: "Cadernos e documentos oficiais para o ingresso no ensino superior.",
     exames: [
       { nome: "ENEM", detalhe: "Exame Nacional do Ensino Médio", href: "/provas/enem" },
+      { nome: "FUVEST", detalhe: "Vestibular da Universidade de São Paulo", href: "/provas/fuvest" },
       { nome: "Unesp", detalhe: "Universidade Estadual Paulista", href: "/provas/unesp" },
       { nome: "Unicamp", detalhe: "Universidade Estadual de Campinas", href: "/provas/unicamp" },
     ],

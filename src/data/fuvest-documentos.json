@@ -169,7 +169,7 @@
   },
   {
     "year": 2021,
-    "label": "Prova",
+    "label": "1ª fase · Prova V",
     "url": "https://www.fuvest.br/wp-content/uploads/fuvest_2021_primeira_fase.pdf",
     "pages": 28
   },
@@ -999,6 +999,24 @@
     "year": 2022,
     "label": "1ª fase · Prova K",
     "url": "https://www.fuvest.br/wp-content/uploads/fuvest_2022_primeira_fase_tipo_K.pdf",
+    "pages": 26
+  },
+  {
+    "year": 2022,
+    "label": "1ª fase · Prova Q",
+    "url": "https://www.fuvest.br/wp-content/uploads/fuvest_2022_primeira_fase_tipo_Q.pdf",
+    "pages": 26
+  },
+  {
+    "year": 2022,
+    "label": "1ª fase · Prova X",
+    "url": "https://www.fuvest.br/wp-content/uploads/fuvest_2022_primeira_fase_tipo_X.pdf",
+    "pages": 26
+  },
+  {
+    "year": 2022,
+    "label": "1ª fase · Prova Z",
+    "url": "https://www.fuvest.br/wp-content/uploads/fuvest_2022_primeira_fase_tipo_Z.pdf",
     "pages": 26
   }
 ]

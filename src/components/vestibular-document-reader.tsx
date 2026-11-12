@@ -3,7 +3,8 @@ import { useMemo, useState } from "react";
 import { useSavedProgress } from "@/components/use-saved-progress";
 import unesp2025 from "@/data/unesp-2025-regular.json";
 import loteUnesp from "@/data/unesp-lote-quatro.json";
-const provasUnesp = [{ ...unesp2025, titulo: "UNESP 2025 — vestibular regular, primeira fase" }, ...loteUnesp];
+import loteUnespSeguinte from "@/data/unesp-lote-seguinte.json";
+const provasUnesp = [{ ...unesp2025, titulo: "UNESP 2025 — vestibular regular, primeira fase" }, ...loteUnesp, ...loteUnespSeguinte];
 import { FolhaDeRespostas } from "@/components/folha-de-respostas";
 import { documentUrl, applicationName, type ArchiveDocument } from "@/lib/vestibular-documents";
 

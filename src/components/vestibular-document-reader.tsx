@@ -1,5 +1,6 @@
 "use client";
 import { useState } from "react";
+import { FolhaDeRespostas } from "@/components/folha-de-respostas";
 import { documentUrl, applicationName, type ArchiveDocument } from "@/lib/vestibular-documents";
 
 export function VestibularDocumentReader({ documents }: { documents: ArchiveDocument[] }) {
@@ -29,5 +30,6 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
     </label>
     <iframe key={`${id}-${page}`} src={`${url}#page=${page}`} title={`PDF oficial: ${selected.label}`} className="mt-5 h-[78vh] min-h-[480px] w-full rounded-lg border border-n2 bg-white" loading="lazy" />
     <p className="mt-4 text-sm text-n5">No celular, abra o PDF em outra aba se o navegador não oferecer leitura integrada. As respostas discursivas e a redação exigem avaliação humana; este leitor não calcula nota.</p>
+    {selected.kind === "prova" && selected.phase === "1ª fase" && <FolhaDeRespostas key={selected.id} id={selected.id} titulo={selected.label} sugeridas={selected.institution === "unicamp" ? 72 : 90} />}
   </section>;
 }

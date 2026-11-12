@@ -2,11 +2,13 @@
 import { useMemo, useState } from "react";
 import { useSavedProgress } from "@/components/use-saved-progress";
 import unesp2025 from "@/data/unesp-2025-regular.json";
+import loteUnesp from "@/data/unesp-lote-quatro.json";
+const provasUnesp = [{ ...unesp2025, titulo: "UNESP 2025 — vestibular regular, primeira fase" }, ...loteUnesp];
 import { FolhaDeRespostas } from "@/components/folha-de-respostas";
 import { documentUrl, applicationName, type ArchiveDocument } from "@/lib/vestibular-documents";
 
 export function VestibularDocumentReader({ documents }: { documents: ArchiveDocument[] }) {
-  const inicial = documents.find(d => d.id === unesp2025.id)?.id ?? documents.find(d => d.kind === "prova" && d.phase === "1ª fase")?.id ?? documents.find(d => d.kind === "prova")?.id ?? documents[0].id;
+  const inicial = documents.find(d => d.application === "regular" && provasUnesp.some(p => p.id === d.id))?.id ?? documents.find(d => provasUnesp.some(p => p.id === d.id))?.id ?? documents.find(d => d.kind === "prova" && d.phase === "1ª fase")?.id ?? documents.find(d => d.kind === "prova")?.id ?? documents[0].id;
   const [id, setId] = useState(inicial);
   const selected = documents.find(d => d.id === id)!;
   const [pages, setPages] = useState<Record<string, number>>({});
@@ -19,7 +21,8 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
       setPages(validas);
     }
   }, { id: inicial, pages: {} });
-  const corrigida = selected.id === unesp2025.id;
+  const provaCorrigida = provasUnesp.find(p => p.id === selected.id);
+  const corrigida = Boolean(provaCorrigida);
   const page = pages[id] ?? (corrigida ? 3 : selected.startPage);
   const url = documentUrl(selected);
   return <section className="mt-8" aria-label="Cadernos e arquivos oficiais">
@@ -43,14 +46,15 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
         {Array.from({ length: selected.pages }, (_, i) => i + 1).map(n => <option key={n} value={n}>{n}</option>)}
       </select>
     </label>
+    {corrigida && <p className="gb-notice mt-5">Correção automática pelo gabarito oficial da versão 1. O resultado mostra acertos e não calcula a nota de classificação.</p>}
     {corrigida ? <div className="mt-5 grid items-start gap-6 lg:grid-cols-[minmax(0,1fr)_360px]">
       <div id="caderno">
         <div className="mb-3 flex flex-wrap items-center gap-3"><button type="button" className="min-h-12 rounded border border-n2 px-3" disabled={page <= 1} onClick={()=>setPages({...pages,[id]:page-1})}>← Página anterior</button><span>Página {page} de {selected.pages}</span><button type="button" className="min-h-12 rounded border border-n2 px-3" disabled={page >= selected.pages} onClick={()=>setPages({...pages,[id]:page+1})}>Próxima página →</button><a href="#folha" className="gb-text-link lg:hidden">Marcar respostas ↓</a></div>
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={`/acervo/unesp/2025/regular/${String(page).padStart(2,"0")}.webp`} alt={`UNESP 2025, vestibular regular, primeira fase, página ${page} do caderno oficial`} className="h-auto w-full rounded-lg border border-n2 bg-white" />
+        <img src={`/acervo/unesp/${provaCorrigida!.ano}/${provaCorrigida!.aplicacao}/${String(page).padStart(2,"0")}.webp`} alt={`${provaCorrigida!.titulo}, página ${page} do caderno oficial`} className="h-auto w-full rounded-lg border border-n2 bg-white" />
         <p className="mt-3 text-sm text-n5">Consulte as páginas anteriores para textos e figuras compartilhados entre questões.</p>
       </div>
-      <div id="folha" className="lg:sticky lg:top-4 lg:max-h-[90vh] lg:overflow-y-auto"><a href="#caderno" className="gb-text-link mb-3 inline-block lg:hidden">↑ Voltar ao caderno</a><FolhaDeRespostas key={selected.id} id={selected.id} titulo="UNESP 2025 — vestibular regular, primeira fase" sugeridas={90} gabarito={unesp2025.gabarito} compacto /></div>
+      <div id="folha" className="lg:sticky lg:top-4 lg:max-h-[90vh] lg:overflow-y-auto"><a href="#caderno" className="gb-text-link mb-3 inline-block lg:hidden">↑ Voltar ao caderno</a><FolhaDeRespostas key={selected.id} id={selected.id} titulo={provaCorrigida!.titulo} sugeridas={90} gabarito={provaCorrigida!.gabarito} compacto /></div>
     </div> : <>
       <iframe key={`${id}-${page}`} src={`${url}#page=${page}`} title={`PDF oficial: ${selected.label}`} className="mt-5 h-[78vh] min-h-[480px] w-full rounded-lg border border-n2 bg-white" loading="lazy" />
       <p className="mt-4 text-sm text-n5">No celular, abra o PDF em outra aba se o navegador não oferecer leitura integrada. As respostas discursivas e a redação exigem avaliação humana; este leitor não calcula nota.</p>

@@ -15,3 +15,9 @@ FUVEST abre os PDFs pelo leitor integrado, quando a fonte está disponível. Une
 O caderno oficial V1 da primeira fase e o documento oficial das notas mínimas de convocação para a segunda fase estão disponíveis no próprio Gabaru. O gabarito V1 foi estruturado a partir do documento oficial das quatro versões, com 90 respostas. Fontes e hashes do caderno e do gabarito constam em `src/data/fuvest-2025-v1.json`. Os cortes são específicos de carreira e modalidade e referem-se à convocação para a segunda fase, não à aprovação final. As demais versões e edições ainda precisam de importação e conferência.
 
 Fontes fornecidas: FUVEST (primária), Brasil Escola e Foco Medicina (catálogos auxiliares); materiais e resoluções próprias de terceiros não são apresentados como conteúdo do Gabaru. A coletânea do Foco Medicina ainda requer inventário das provas efetivamente acessíveis, sem presumir cobertura integral.
+
+## Ampliação das versões FUVEST 2025
+
+As versões V1 a V4 da primeira fase agora têm gabaritos separados. Cada caderno foi obtido da página oficial e teve capa, ano, versão e 34 páginas conferidos; o documento oficial do gabarito contém 90 respostas para cada versão. Os arquivos de proveniência e hashes ficam em `src/data/fuvest-2025-versoes.json`. A V1 continua servida pelo próprio Gabaru; as demais usam o leitor interno com PDF carregado da fonte oficial.
+
+A extração é reproduzível com `scripts/importar-fuvest-2025.py`, mas é específica para o formato do gabarito de 2025: outros anos podem ter tabelas ou versões diferentes e não devem ser publicados sem adaptação e revisão. `scripts/inventariar-fuvest.py` lista candidatos em páginas oficiais e os marca como pendentes; inventário não equivale a prova conferida nem permite anunciar correção.

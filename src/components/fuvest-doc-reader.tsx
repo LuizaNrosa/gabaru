@@ -1,8 +1,9 @@
 // © 2026 Luiza Nascimento Rosa e Felipe Nascimento Rosa. Todos os direitos reservados.
 "use client";
 
-import { useState } from "react";
-import fuvest2025 from "@/data/fuvest-2025-v1.json";
+import { useMemo, useState } from "react";
+import { useSavedProgress } from "@/components/use-saved-progress";
+import fuvest2025versoes from "@/data/fuvest-2025-versoes.json";
 import { FolhaDeRespostas } from "@/components/folha-de-respostas";
 
 type DocFuvest = {
@@ -24,11 +25,21 @@ export function FuvestDocReader({ documentos }: { documentos: DocFuvest[] }) {
   const [indice, setIndice] = useState(Math.max(0, documentos.findIndex(d => /1ª fase/i.test(d.label) && /prova/i.test(d.label) && !/gabarito|respostas/i.test(d.label))));
   const doc = documentos[indice];
   const [pagina, setPagina] = useState(1);
-  const is2025v1 = doc.url === fuvest2025.fonte_prova;
+  const estado = useMemo(() => ({ indice, pagina }), [indice, pagina]);
+  const progresso = useSavedProgress(`gabaru:leitor:fuvest:${documentos[0].year}`, estado, (saved) => {
+    if (Number.isInteger(saved.indice) && saved.indice >= 0 && saved.indice < documentos.length) {
+      setIndice(saved.indice);
+      if (Number.isInteger(saved.pagina) && saved.pagina >= 1 && saved.pagina <= documentos[saved.indice].pages) setPagina(saved.pagina);
+    }
+  }, { indice: Math.max(0, documentos.findIndex(d => /1ª fase/i.test(d.label) && /prova/i.test(d.label) && !/gabarito|respostas/i.test(d.label))), pagina: 1 });
+  const provaCorrigida = fuvest2025versoes.find(prova => prova.fonte_prova === doc.url);
+  const is2025v1 = provaCorrigida?.versao === "V1";
   const url = `${is2025v1 ? "/acervo/fuvest/2025/prova-v1.pdf" : `/api/v1/fuvest/${doc.globalIndex}`}#page=${pagina}`;
   const eGabarito = /gabarito|respostas/i.test(doc.label);
   return (
     <section className="mt-8" aria-label="Leitor de provas da FUVEST">
+      {progresso.resumed && <p className="gb-notice mb-4" role="status">Continuando do documento e página salvos neste navegador.</p>}
+      {!progresso.storageAvailable && <p role="alert" className="gb-notice mb-4">Não foi possível salvar sua posição neste navegador.</p>}
       <label htmlFor="fuvest-doc" className="block font-semibold">
         Caderno, fase ou gabarito
       </label>
@@ -101,7 +112,7 @@ export function FuvestDocReader({ documentos }: { documentos: DocFuvest[] }) {
             id={`fuvest-${doc.globalIndex}`}
             titulo={`FUVEST ${doc.year} — ${doc.label}`}
             sugeridas={doc.year >= 2027 ? 80 : 90}
-            gabarito={is2025v1 ? fuvest2025.gabarito : undefined}
+            gabarito={provaCorrigida?.gabarito}
           />
         </div>
       )}

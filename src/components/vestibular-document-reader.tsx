@@ -4,7 +4,8 @@ import { useSavedProgress } from "@/components/use-saved-progress";
 import unesp2025 from "@/data/unesp-2025-regular.json";
 import loteUnesp from "@/data/unesp-lote-quatro.json";
 import loteUnespSeguinte from "@/data/unesp-lote-seguinte.json";
-const provasUnesp = [{ ...unesp2025, titulo: "UNESP 2025 — vestibular regular, primeira fase" }, ...loteUnesp, ...loteUnespSeguinte];
+import unespAntigas from "@/data/unesp-2017-2020.json";
+const provasUnesp = [{ ...unesp2025, titulo: "UNESP 2025 — vestibular regular, primeira fase" }, ...loteUnesp, ...loteUnespSeguinte, ...unespAntigas];
 import { FolhaDeRespostas } from "@/components/folha-de-respostas";
 import { documentUrl, applicationName, type ArchiveDocument } from "@/lib/vestibular-documents";
 
@@ -25,7 +26,7 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
   const provaCorrigida = provasUnesp.find(p => p.id === selected.id);
   const corrigida = Boolean(provaCorrigida);
   const page = pages[id] ?? (corrigida ? 3 : selected.startPage);
-  const url = documentUrl(selected);
+  const url = provaCorrigida && unespAntigas.some(p => p.id === selected.id) ? `/acervo/unesp/${provaCorrigida.ano}/regular/prova.pdf` : documentUrl(selected);
   return <section className="mt-8" aria-label="Cadernos e arquivos oficiais">
     {progresso.resumed && <p className="gb-notice mb-4" role="status">Continuando do documento e página salvos neste navegador.</p>}
     {!progresso.storageAvailable && <p className="gb-notice mb-4" role="alert">Não foi possível salvar sua posição neste navegador.</p>}
@@ -39,7 +40,7 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
     {selected.kind === "relatorio-com-questoes" && <p className="gb-notice mt-4">Este relatório reproduz questões da seleção junto às análises de desempenho. O leitor abre na página {selected.startPage}, no capítulo de questões. A disposição das páginas acompanha o relatório da Vunesp.</p>}
     <div className="gb-actions">
       <a href={`${url}#page=${page}`} target="_blank" rel="noopener noreferrer" className="gb-button">Abrir PDF em outra aba ↗</a>
-      <a href={selected.url} target="_blank" rel="noopener noreferrer" className="gb-text-link">Abrir na fonte oficial ↗</a>
+      <a href={selected.url} target="_blank" rel="noopener noreferrer" className="gb-text-link">{new URL(selected.url).hostname === "network.grupoabril.com.br" ? "Abrir cópia do Guia do Estudante ↗" : "Abrir na fonte oficial ↗"}</a>
       <a href={selected.source} target="_blank" rel="noopener noreferrer" className="gb-text-link">Página de origem ↗</a>
     </div>
     <label className="mt-5 flex items-center gap-3">Ir para a página

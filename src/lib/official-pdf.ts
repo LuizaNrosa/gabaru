@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto";
 
-const HOSTS = new Set(["documento.vunesp.com.br", "www.vunesp.com.br", "vestibular.unesp.br", "www.comvest.unicamp.br", "comvest.unicamp.br"]);
+const HOSTS = new Set(["documento.vunesp.com.br", "www.vunesp.com.br", "vestibular.unesp.br", "network.grupoabril.com.br", "www.comvest.unicamp.br", "comvest.unicamp.br"]);
 type Document = { url: string; sha256: string; bytes: number };
 export async function fetchOfficialPdf(document: Document, fetcher: typeof fetch = fetch): Promise<Uint8Array> {
   let url = new URL(document.url);

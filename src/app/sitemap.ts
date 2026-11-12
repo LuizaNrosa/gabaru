@@ -7,7 +7,7 @@ import etecExams from "@/data/etec-exams.json";
 import coluniExams from "@/data/coluni-exams.json";
 import ifscExams from "@/data/ifsc-exams.json";
 import ifspExams from "@/data/ifsp-exams.json";
-import uerjUel from "@/data/uerj-uel-2026.json";
+import { examesUerjUel as uerjUel } from "@/lib/uerj-uel-exams";
 
 /**
  * Mapa do site para os mecanismos de busca.

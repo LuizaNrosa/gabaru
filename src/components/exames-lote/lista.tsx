@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import provas from "@/data/uerj-uel-2026.json";
+import { examesUerjUel as provas } from "@/lib/uerj-uel-exams";
 import { metaPagina } from "@/lib/seo";
 type Props = { params: Promise<{ banca: string }> };
 export function generateStaticParams(){ return ["uerj","uel"].map(banca=>({banca})); }

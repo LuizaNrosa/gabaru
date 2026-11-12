@@ -223,7 +223,7 @@
   },
   {
     "year": 2018,
-    "label": "Prova",
+    "label": "1ª fase · Prova V",
     "url": "https://www.fuvest.br/wp-content/uploads/fuv2018_1fase_prova_V.pdf",
     "pages": 28
   },
@@ -1024,5 +1024,11 @@
     "label": "1ª fase · Prova V",
     "url": "https://www.fuvest.br/wp-content/uploads/fuvest_2020_primeira_fase_prova_V.pdf",
     "pages": 26
+  },
+  {
+    "year": 2019,
+    "label": "1ª fase · Prova V",
+    "url": "https://www.fuvest.br/wp-content/uploads/fuvest_2019_primeira_fase.pdf",
+    "pages": 25
   }
 ]

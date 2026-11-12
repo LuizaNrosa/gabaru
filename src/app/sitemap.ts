@@ -7,6 +7,7 @@ import etecExams from "@/data/etec-exams.json";
 import coluniExams from "@/data/coluni-exams.json";
 import ifscExams from "@/data/ifsc-exams.json";
 import ifspExams from "@/data/ifsp-exams.json";
+import uerjUel from "@/data/uerj-uel-2026.json";
 
 /**
  * Mapa do site para os mecanismos de busca.
@@ -26,6 +27,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/enem",
     "/provas",
     "/provas/enem",
+    "/provas/uerj",
+    "/provas/uel",
     "/concursos",
     "/materiais-gratuitos",
     "/nota-de-corte",
@@ -78,6 +81,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...fuvest,
     ...unesp,
     ...unicamp,
+    ...uerjUel.map(p => ({ url: url(`/provas/${p.instituicao.toLowerCase()}/${p.id}`) })),
   ].filter((item) => {
     if (vistos.has(item.url)) return false;
     vistos.add(item.url);

@@ -5,7 +5,8 @@ import unesp2025 from "@/data/unesp-2025-regular.json";
 import loteUnesp from "@/data/unesp-lote-quatro.json";
 import loteUnespSeguinte from "@/data/unesp-lote-seguinte.json";
 import unespAntigas from "@/data/unesp-2017-2020.json";
-const provasUnesp = [{ ...unesp2025, titulo: "UNESP 2025 — vestibular regular, primeira fase" }, ...loteUnesp, ...loteUnespSeguinte, ...unespAntigas];
+import unespNovas from "@/data/unesp-2015-2016-2021.json";
+const provasUnesp = [{ ...unesp2025, titulo: "UNESP 2025 — vestibular regular, primeira fase" }, ...loteUnesp, ...loteUnespSeguinte, ...unespAntigas, ...unespNovas];
 import { FolhaDeRespostas } from "@/components/folha-de-respostas";
 import { documentUrl, applicationName, type ArchiveDocument } from "@/lib/vestibular-documents";
 
@@ -26,7 +27,7 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
   const provaCorrigida = provasUnesp.find(p => p.id === selected.id);
   const corrigida = Boolean(provaCorrigida);
   const page = pages[id] ?? (corrigida ? 3 : selected.startPage);
-  const url = provaCorrigida && unespAntigas.some(p => p.id === selected.id) ? `/acervo/unesp/${provaCorrigida.ano}/regular/prova.pdf` : documentUrl(selected);
+  const url = provaCorrigida && [...unespAntigas, ...unespNovas].some(p => p.id === selected.id) ? `/acervo/unesp/${provaCorrigida.ano}/${provaCorrigida.aplicacao}/prova.pdf` : documentUrl(selected);
   return <section className="mt-8" aria-label="Cadernos e arquivos oficiais">
     {progresso.resumed && <p className="gb-notice mb-4" role="status">Continuando do documento e página salvos neste navegador.</p>}
     {!progresso.storageAvailable && <p className="gb-notice mb-4" role="alert">Não foi possível salvar sua posição neste navegador.</p>}

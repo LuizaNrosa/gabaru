@@ -1,0 +1,3 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {readFile} from 'node:fs/promises';
+const read=async p=>JSON.parse(await readFile(new URL(`../${p}`,import.meta.url),'utf8'));
+test('UNESP 2025 regular: caderno e gabarito oficial identificados',async()=>{const p=await read('src/data/unesp-2025-regular.json'),a=await read('src/data/unesp-archive.json');assert.equal(p.gabarito.length,90);assert(p.gabarito.every(x=>/^[A-E]$/.test(x)));assert.deepEqual(p.gabarito.slice(0,5),['B','B','C','A','B']);for(const k of ['sha256_prova','sha256_gabarito'])assert(a.documents.some(d=>d.year===2025&&d.application==='regular'&&d.sha256===p[k]));assert(a.documents.some(d=>d.id===p.id&&d.phase==='1ª fase'))});

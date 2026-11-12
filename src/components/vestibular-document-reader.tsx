@@ -6,7 +6,8 @@ import loteUnesp from "@/data/unesp-lote-quatro.json";
 import loteUnespSeguinte from "@/data/unesp-lote-seguinte.json";
 import unespAntigas from "@/data/unesp-2017-2020.json";
 import unespNovas from "@/data/unesp-2015-2016-2021.json";
-const provasUnesp = [{ ...unesp2025, titulo: "UNESP 2025 — vestibular regular, primeira fase" }, ...loteUnesp, ...loteUnespSeguinte, ...unespAntigas, ...unespNovas];
+import unespHistoricas from "@/data/unesp-2011-2014.json";
+const provasUnesp = [{ ...unesp2025, titulo: "UNESP 2025 — vestibular regular, primeira fase" }, ...loteUnesp, ...loteUnespSeguinte, ...unespAntigas, ...unespNovas, ...unespHistoricas];
 import { FolhaDeRespostas } from "@/components/folha-de-respostas";
 import { documentUrl, applicationName, type ArchiveDocument } from "@/lib/vestibular-documents";
 
@@ -27,7 +28,7 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
   const provaCorrigida = provasUnesp.find(p => p.id === selected.id);
   const corrigida = Boolean(provaCorrigida);
   const page = pages[id] ?? (corrigida ? 3 : selected.startPage);
-  const url = provaCorrigida && [...unespAntigas, ...unespNovas].some(p => p.id === selected.id) ? `/acervo/unesp/${provaCorrigida.ano}/${provaCorrigida.aplicacao}/prova.pdf` : documentUrl(selected);
+  const url = provaCorrigida && [...unespAntigas, ...unespNovas, ...unespHistoricas].some(p => p.id === selected.id) ? `/acervo/unesp/${provaCorrigida.ano}/${provaCorrigida.aplicacao}/prova.pdf` : documentUrl(selected);
   return <section className="mt-8" aria-label="Cadernos e arquivos oficiais">
     {progresso.resumed && <p className="gb-notice mb-4" role="status">Continuando do documento e página salvos neste navegador.</p>}
     {!progresso.storageAvailable && <p className="gb-notice mb-4" role="alert">Não foi possível salvar sua posição neste navegador.</p>}
@@ -41,7 +42,7 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
     {selected.kind === "relatorio-com-questoes" && <p className="gb-notice mt-4">Este relatório reproduz questões da seleção junto às análises de desempenho. O leitor abre na página {selected.startPage}, no capítulo de questões. A disposição das páginas acompanha o relatório da Vunesp.</p>}
     <div className="gb-actions">
       <a href={`${url}#page=${page}`} target="_blank" rel="noopener noreferrer" className="gb-button">Abrir PDF em outra aba ↗</a>
-      <a href={selected.url} target="_blank" rel="noopener noreferrer" className="gb-text-link">{new URL(selected.url).hostname === "network.grupoabril.com.br" ? "Abrir cópia do Guia do Estudante ↗" : "Abrir na fonte oficial ↗"}</a>
+      <a href={selected.url} target="_blank" rel="noopener noreferrer" className="gb-text-link">{["www.vunesp.com.br", "documento.vunesp.com.br", "vestibular.unesp.br", "www.comvest.unicamp.br", "comvest.unicamp.br"].includes(new URL(selected.url).hostname) ? "Abrir na fonte oficial ↗" : "Abrir cópia da fonte ↗"}</a>
       <a href={selected.source} target="_blank" rel="noopener noreferrer" className="gb-text-link">Página de origem ↗</a>
     </div>
     <label className="mt-5 flex items-center gap-3">Ir para a página
@@ -49,7 +50,7 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
         {Array.from({ length: selected.pages }, (_, i) => i + 1).map(n => <option key={n} value={n}>{n}</option>)}
       </select>
     </label>
-    {corrigida && <p className="gb-notice mt-5">Correção automática pelo gabarito oficial da versão 1. O resultado mostra acertos e não calcula a nota de classificação.</p>}
+    {corrigida && <p className="gb-notice mt-5">Correção automática pelo gabarito oficial {provaCorrigida?.versao === "1" ? "da versão 1" : "do caderno divulgado"}. O resultado mostra acertos e não calcula a nota de classificação.</p>}
     {corrigida ? <div className="mt-5 grid items-start gap-6 lg:grid-cols-[minmax(0,1fr)_360px]">
       <div id="caderno">
         <div className="mb-3 flex flex-wrap items-center gap-3"><button type="button" className="min-h-12 rounded border border-n2 px-3" disabled={page <= 1} onClick={()=>setPages({...pages,[id]:page-1})}>← Página anterior</button><span>Página {page} de {selected.pages}</span><button type="button" className="min-h-12 rounded border border-n2 px-3" disabled={page >= selected.pages} onClick={()=>setPages({...pages,[id]:page+1})}>Próxima página →</button><a href="#folha" className="gb-text-link lg:hidden">Marcar respostas ↓</a></div>

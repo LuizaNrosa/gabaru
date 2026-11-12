@@ -3,6 +3,7 @@
 
 import { useMemo, useState } from "react";
 import { useSavedProgress } from "@/components/use-saved-progress";
+import fuvest2000a2003 from "@/data/fuvest-2000-2003-versoes.json";
 import fuvest2004a2007 from "@/data/fuvest-2004-2007-versoes.json";
 import fuvest2008a2011 from "@/data/fuvest-2008-2011-versoes.json";
 import fuvest2012a2015 from "@/data/fuvest-2012-2015-versoes.json";
@@ -16,7 +17,7 @@ import fuvest2024versoes from "@/data/fuvest-2024-versoes.json";
 import fuvest2025versoes from "@/data/fuvest-2025-versoes.json";
 import { FolhaDeRespostas } from "@/components/folha-de-respostas";
 
-const provasDisponiveis = [...fuvest2004a2007, ...fuvest2008a2011, ...fuvest2012a2015, ...fuvest2016e2017, ...fuvest2018e2019, ...fuvest2020versoes, ...fuvest2021versoes, ...fuvest2022versoes, ...fuvest2023versoes, ...fuvest2024versoes, ...fuvest2025versoes];
+const provasDisponiveis = [...fuvest2000a2003, ...fuvest2004a2007, ...fuvest2008a2011, ...fuvest2012a2015, ...fuvest2016e2017, ...fuvest2018e2019, ...fuvest2020versoes, ...fuvest2021versoes, ...fuvest2022versoes, ...fuvest2023versoes, ...fuvest2024versoes, ...fuvest2025versoes];
 
 type DocFuvest = {
   globalIndex: number;
@@ -36,7 +37,7 @@ type DocFuvest = {
 export function FuvestDocReader({ documentos }: { documentos: DocFuvest[] }) {
   const [indice, setIndice] = useState(Math.max(0, documentos.findIndex(d => /1ª fase/i.test(d.label) && /prova/i.test(d.label) && !/gabarito|respostas/i.test(d.label))));
   const doc = documentos[indice];
-  const paginaInicial = (d: DocFuvest) => provasDisponiveis.some(p => p.fonte_prova === d.url) ? 2 : 1;
+  const paginaInicial = (d: DocFuvest) => { const prova = provasDisponiveis.find(p => p.fonte_prova === d.url); return prova ? ("pagina_inicial" in prova && typeof prova.pagina_inicial === "number" ? prova.pagina_inicial : 2) : 1; };
   const [pagina, setPagina] = useState(() => paginaInicial(doc));
   const estado = useMemo(() => ({ indice, pagina }), [indice, pagina]);
   const progresso = useSavedProgress(`gabaru:leitor:fuvest:${documentos[0].year}`, estado, (saved) => {

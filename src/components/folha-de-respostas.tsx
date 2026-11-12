@@ -126,11 +126,11 @@ export function FolhaDeRespostas({
         {(compacto ? [questaoAtual] : Array.from({ length: total }, (_, i) => i + 1)).map((n) => (
           <li
             key={n}
-            className={`flex items-center justify-between gap-3 rounded border p-2 ${
+            className={`flex flex-wrap items-center justify-between gap-3 rounded border p-2 ${
               respostas[n] ? "border-n3 bg-[#f2cdb4]" : "border-n2 bg-white/70"
             }`}
           >
-            <span className="w-14 shrink-0 text-center font-mono text-xs font-bold text-n5">
+            <span className="w-10 shrink-0 text-center font-mono text-xs font-bold text-n5">
               {String(n).padStart(2, "0")}
               {!compacto && gabarito?.[n-1] === "*" && <span className="gb-stamp gb-stamp-sm mt-2">Anulada</span>}
             </span>
@@ -153,7 +153,7 @@ export function FolhaDeRespostas({
                     }
                   />
                   <span
-                    className={`grid ${alternativas.length === 4 ? "size-11" : "size-10"} place-items-center rounded-full border font-mono text-sm font-bold transition ${
+                    className={`grid size-11 place-items-center rounded-full border font-mono text-sm font-bold transition ${
                       respostas[n] === l
                         ? "border-ink bg-ink text-white"
                         : "border-n2 bg-paper text-ink hover:border-ink"

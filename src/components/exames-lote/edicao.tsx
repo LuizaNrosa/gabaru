@@ -1,0 +1,9 @@
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import provas from "@/data/uerj-uel-2026.json";
+import { UerjUelReader } from "@/components/uerj-uel-reader";
+import { metaPagina } from "@/lib/seo";
+type Props = { params: Promise<{ banca: string; edicao: string }> };
+export function generateStaticParams(){return provas.map(p=>({banca:p.instituicao.toLowerCase(),edicao:p.id}));}
+export async function generateMetadata({params}:Props){const {banca,edicao}=await params;const p=provas.find(x=>x.id===edicao&&x.instituicao.toLowerCase()===banca);if(!p)return {};return metaPagina({titulo:`${p.titulo}: prova e gabarito`,descricao:`Treine ${p.titulo} com caderno e correção pelo gabarito oficial, gratuitamente no Gabaru.`,caminho:`/provas/${banca}/${edicao}`});}
+export default async function Page({params}:Props){const {banca,edicao}=await params;const p=provas.find(x=>x.id===edicao&&x.instituicao.toLowerCase()===banca);if(!p)notFound();return <main className="gb-container py-10"><Link href={`/provas/${banca}`} className="gb-text-link">← Provas da {p.instituicao}</Link><p className="gb-eyebrow mt-8">TREINO GRATUITO · PROVA OFICIAL</p><h1 className="gb-page-title">{p.titulo}</h1><p className="mt-5 text-lg">Leia o caderno, marque as 60 questões e confira o gabarito sem sair do Gabaru.</p><p className="gb-notice mt-6">A correção mostra acertos, erros, questões em branco e anuladas; não calcula nota ou classificação oficial. {p.instituicao==="UEL" ? "A redação não recebe correção automática. Gabarito definitivo após recursos." : "Escolha sua língua estrangeira antes de responder às questões 23 a 27."}</p><div className="gb-actions"><a href={`/acervo/${p.id}/prova.pdf`} target="_blank" rel="noopener noreferrer" className="gb-text-link">Abrir caderno em PDF ↗</a><a href={p.fonte} target="_blank" rel="noopener noreferrer" className="gb-text-link">Fonte da prova e do gabarito ↗</a></div><UerjUelReader caderno={p} /></main>}

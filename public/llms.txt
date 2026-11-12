@@ -10,6 +10,8 @@ O Gabaru organiza cadernos, questões e gabaritos para estudantes. A disponibili
 - [Provas do ENEM](https://gabaru.com.br/provas/enem): edições e questões.
 - [Provas da Unicamp](https://gabaru.com.br/provas/unicamp): acervo organizado por ano.
 - [Provas da Unesp](https://gabaru.com.br/provas/unesp): acervo organizado por ano.
+- [Provas da UERJ](https://gabaru.com.br/provas/uerj): exames de qualificação disponíveis.
+- [Provas da UEL](https://gabaru.com.br/provas/uel): cadernos de conhecimentos gerais disponíveis.
 - [Provas da Fuvest](https://gabaru.com.br/provas/fuvest): acervo organizado por ano.
 - [Vestibulinhos](https://gabaru.com.br/pre-vestibulinho): caminhos para provas de escolas técnicas.
 - [Notas de corte](https://gabaru.com.br/nota-de-corte): ferramentas e informações disponíveis.

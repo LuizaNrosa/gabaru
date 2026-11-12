@@ -57,3 +57,7 @@ Os cadernos V da primeira fase de 2018 e 2019 possuem, respectivamente, 28 e 25 
 ## FUVEST 2016 e 2017 — cadernos V
 
 Os cadernos V da primeira fase de 2016 e 2017 possuem 30 e 28 páginas, respectivamente, e 90 questões cada. Gabaritos, fontes e hashes estão em `src/data/fuvest-2016-2017-versoes.json`; a importação e a renderização são reproduzíveis pelos scripts homônimos. Pendências de acessibilidade e escala estão registradas em `PENDENCIAS.md`.
+
+## FUVEST 2012–2015 — cadernos V
+
+As primeiras fases V de 2012, 2013, 2014 e 2015 têm 90 questões por caderno. Na FUVEST 2014, questão 51 foi anulada; o leitor a identifica com carimbo e a separa do resultado. Fontes e hashes estão em `src/data/fuvest-2012-2015-versoes.json`; os scripts de importação e renderização permitem reproduzir o lote.

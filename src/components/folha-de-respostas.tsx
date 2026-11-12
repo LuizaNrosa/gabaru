@@ -115,9 +115,9 @@ export function FolhaDeRespostas({
       {compacto && <p className="mt-3 text-sm text-n5">Selecione o mesmo número da questão que está lendo no caderno.</p>}
       {compacto && <label className="mt-4 flex items-center gap-3 font-semibold">Questão
         <select className="min-h-12 rounded border border-n2 bg-white px-3" value={questaoAtual} onChange={e => setQuestaoAtual(Number(e.currentTarget.value))}>
-          {Array.from({length: total}, (_,i) => <option value={i+1} key={i+1}>{i+1}{respostas[i+1] ? " · respondida" : ""}</option>)}
+          {Array.from({length: total}, (_,i) => <option value={i+1} key={i+1}>{i+1}{gabarito?.[i] === "*" ? " · anulada" : respostas[i+1] ? " · respondida" : ""}</option>)}
         </select> de {total}</label>}
-      {compacto && gabarito?.[questaoAtual-1] === "*" && <p className="gb-notice mt-3" role="status">Questão anulada no gabarito oficial; não entra nos acertos, erros ou questões em branco.</p>}
+      {compacto && gabarito?.[questaoAtual-1] === "*" && <div className="gb-notice mt-3 flex flex-wrap items-center gap-3" role="status"><span className="gb-stamp gb-stamp-sm">Questão anulada</span><span>No gabarito oficial; não entra nos acertos, erros ou questões em branco.</span></div>}
       <ol className={compacto ? "mt-4 grid gap-2" : "mt-4 grid gap-2 sm:grid-cols-2"}>
         {(compacto ? [questaoAtual] : Array.from({ length: total }, (_, i) => i + 1)).map((n) => (
           <li
@@ -128,6 +128,7 @@ export function FolhaDeRespostas({
           >
             <span className="w-14 shrink-0 text-center font-mono text-xs font-bold text-n5">
               {String(n).padStart(2, "0")}
+              {!compacto && gabarito?.[n-1] === "*" && <span className="gb-stamp gb-stamp-sm mt-2">Anulada</span>}
             </span>
             <div className="flex gap-1.5" role="group" aria-label={`Questão ${n}`}>
               {LETRAS.map((l) => (

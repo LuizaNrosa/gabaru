@@ -3,6 +3,7 @@
 
 import { useMemo, useState } from "react";
 import { useSavedProgress } from "@/components/use-saved-progress";
+import fuvest2016e2017 from "@/data/fuvest-2016-2017-versoes.json";
 import fuvest2018e2019 from "@/data/fuvest-2018-2019-versoes.json";
 import fuvest2020versoes from "@/data/fuvest-2020-versoes.json";
 import fuvest2021versoes from "@/data/fuvest-2021-versoes.json";
@@ -12,7 +13,7 @@ import fuvest2024versoes from "@/data/fuvest-2024-versoes.json";
 import fuvest2025versoes from "@/data/fuvest-2025-versoes.json";
 import { FolhaDeRespostas } from "@/components/folha-de-respostas";
 
-const provasDisponiveis = [...fuvest2018e2019, ...fuvest2020versoes, ...fuvest2021versoes, ...fuvest2022versoes, ...fuvest2023versoes, ...fuvest2024versoes, ...fuvest2025versoes];
+const provasDisponiveis = [...fuvest2016e2017, ...fuvest2018e2019, ...fuvest2020versoes, ...fuvest2021versoes, ...fuvest2022versoes, ...fuvest2023versoes, ...fuvest2024versoes, ...fuvest2025versoes];
 
 type DocFuvest = {
   globalIndex: number;

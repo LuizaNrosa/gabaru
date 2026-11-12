@@ -49,3 +49,7 @@ As extrações são reproduzíveis pelos scripts `importar-fuvest-2021-v.py` e `
 ## FUVEST 2020 V
 
 O caderno V da primeira fase, com 26 páginas e gabarito oficial de 90 questões, está disponível para leitura e correção. Os endereços oficiais e hashes constam de `src/data/fuvest-2020-versoes.json`. A extração foi verificada a partir da tabela do gabarito e deve ser novamente conferida antes de reproduzir em outros anos.
+
+## FUVEST 2018 e 2019 — cadernos V
+
+Os cadernos V da primeira fase de 2018 e 2019 possuem, respectivamente, 28 e 25 páginas e 90 questões cada. As respostas foram extraídas dos gabaritos oficiais correspondentes. Fontes e hashes estão em `src/data/fuvest-2018-2019-versoes.json`; `importar-fuvest-2018-2019-v.py` e `renderizar-fuvest-2018-2019-v.py` reproduzem o lote. Cada caderno permite resposta no site, correção e retomada no navegador.

@@ -73,3 +73,7 @@ As primeiras fases V de 2004, 2005 e 2006 têm 100 questões; a de 2007 tem 90. 
 ## FUVEST 2000–2003
 
 Estão preparados os dois exames de 2000, o primeiro exame de 2001, os dois exames de 2002 e a prova de 2003: 80 questões por exame em 2000–2002 e 100 questões em 2003. Nos PDFs com gabarito anexo, as páginas de respostas ficam fora da navegação normal. O segundo exame de 2001 permanece em conferência por divergência entre a capa e o restante do PDF, registrada em `PENDENCIAS.md`. Fontes e hashes constam de `src/data/fuvest-2000-2003-versoes.json`; os scripts de importação e renderização reproduzem o lote.
+
+## UNESP 2025 — vestibular regular
+
+A prova de conhecimentos gerais da primeira fase possui 90 questões e 32 páginas. O caderno e o gabarito de versão 1 foram obtidos na Vunesp, identificados pelo código VNSP2404 e comparados aos hashes do acervo. A questão 1 do caderno e o gabarito B foram confrontados com fonte independente; a extração automática completa mantém proveniência e não significa revisão humana de cada uma das 90 questões. Imagens, respostas e posição são disponibilizadas no leitor interno, com correção automática. Fontes e hashes constam de `src/data/unesp-2025-regular.json`; os scripts de importação e renderização permitem reproduzir o lote. Demais edições da UNESP ainda exigem conferência de versão e gabarito.

@@ -1,0 +1,3 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {readFile} from 'node:fs/promises';
+const read=async p=>JSON.parse(await readFile(new URL(`../${p}`,import.meta.url),'utf8'));
+test('FUVEST 2020 V tem 90 respostas e documento identificado',async()=>{const [p]=await read('src/data/fuvest-2020-versoes.json');const docs=await read('src/data/fuvest-documentos.json');assert.equal(p.ano,2020);assert.equal(p.versao,'V');assert.equal(p.gabarito.length,90);assert(p.gabarito.every(x=>/^[A-E]$/.test(x)));assert.deepEqual(p.gabarito.slice(0,5),['D','E','E','C','E']);assert.equal(docs.filter(d=>d.url===p.fonte_prova&&d.year===2020).length,1)});

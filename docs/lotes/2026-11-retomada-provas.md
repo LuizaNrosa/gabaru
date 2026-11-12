@@ -45,3 +45,7 @@ As versões V e K da primeira fase foram conferidas com o gabarito oficial retif
 O caderno V de 2021 tem 28 páginas e 90 questões com gabarito oficial. Em 2022, os cadernos Q, X e Z completam as cinco versões. As questões anuladas do gabarito retificado são: Q 7, X 38 e Z 88. As cinco versões de 2022 usam o mesmo documento de origem com colunas distintas e mantêm respostas separadas por versão.
 
 As extrações são reproduzíveis pelos scripts `importar-fuvest-2021-v.py` e `importar-fuvest-2022-todas.py`; as imagens por `renderizar-fuvest-2021-v.py` e `renderizar-fuvest-2022-todas.py`. Fontes e hashes acompanham cada caderno em `src/data/`.
+
+## FUVEST 2020 V
+
+O caderno V da primeira fase, com 26 páginas e gabarito oficial de 90 questões, está disponível para leitura e correção. Os endereços oficiais e hashes constam de `src/data/fuvest-2020-versoes.json`. A extração foi verificada a partir da tabela do gabarito e deve ser novamente conferida antes de reproduzir em outros anos.

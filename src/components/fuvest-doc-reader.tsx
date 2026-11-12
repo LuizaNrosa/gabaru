@@ -3,8 +3,11 @@
 
 import { useMemo, useState } from "react";
 import { useSavedProgress } from "@/components/use-saved-progress";
+import fuvest2024versoes from "@/data/fuvest-2024-versoes.json";
 import fuvest2025versoes from "@/data/fuvest-2025-versoes.json";
 import { FolhaDeRespostas } from "@/components/folha-de-respostas";
+
+const provasDisponiveis = [...fuvest2024versoes, ...fuvest2025versoes];
 
 type DocFuvest = {
   globalIndex: number;
@@ -24,7 +27,7 @@ type DocFuvest = {
 export function FuvestDocReader({ documentos }: { documentos: DocFuvest[] }) {
   const [indice, setIndice] = useState(Math.max(0, documentos.findIndex(d => /1ª fase/i.test(d.label) && /prova/i.test(d.label) && !/gabarito|respostas/i.test(d.label))));
   const doc = documentos[indice];
-  const paginaInicial = (d: DocFuvest) => fuvest2025versoes.some(p => p.fonte_prova === d.url) ? 2 : 1;
+  const paginaInicial = (d: DocFuvest) => provasDisponiveis.some(p => p.fonte_prova === d.url) ? 2 : 1;
   const [pagina, setPagina] = useState(() => paginaInicial(doc));
   const estado = useMemo(() => ({ indice, pagina }), [indice, pagina]);
   const progresso = useSavedProgress(`gabaru:leitor:fuvest:${documentos[0].year}`, estado, (saved) => {
@@ -33,8 +36,8 @@ export function FuvestDocReader({ documentos }: { documentos: DocFuvest[] }) {
       if (Number.isInteger(saved.pagina) && saved.pagina >= 1 && saved.pagina <= documentos[saved.indice].pages) setPagina(saved.pagina);
     }
   }, { indice: Math.max(0, documentos.findIndex(d => /1ª fase/i.test(d.label) && /prova/i.test(d.label) && !/gabarito|respostas/i.test(d.label))), pagina: paginaInicial(documentos[Math.max(0, documentos.findIndex(d => /1ª fase/i.test(d.label) && /prova/i.test(d.label) && !/gabarito|respostas/i.test(d.label)))]) });
-  const provaCorrigida = fuvest2025versoes.find(prova => prova.fonte_prova === doc.url);
-  const is2025v1 = provaCorrigida?.versao === "V1";
+  const provaCorrigida = provasDisponiveis.find(prova => prova.fonte_prova === doc.url);
+  const is2025v1 = provaCorrigida?.id === "fuvest-2025-fase1-v1";
   const url = `${is2025v1 ? "/acervo/fuvest/2025/prova-v1.pdf" : `/api/v1/fuvest/${doc.globalIndex}`}#page=${pagina}`;
   const eGabarito = /gabarito|respostas/i.test(doc.label);
   return (
@@ -104,7 +107,7 @@ export function FuvestDocReader({ documentos }: { documentos: DocFuvest[] }) {
             </div>
             {/* A página é imagem do caderno oficial, inclusive figuras e textos compartilhados. */}
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={`/acervo/fuvest/2025/${provaCorrigida.versao.toLowerCase()}/${String(pagina).padStart(2, "0")}.webp`} alt={`FUVEST 2025, primeira fase, ${provaCorrigida.versao}, página ${pagina} do caderno oficial`} className="h-auto w-full rounded-lg border border-n2 bg-white" />
+            <img src={`/acervo/fuvest/${provaCorrigida.ano}/${provaCorrigida.versao.toLowerCase()}/${String(pagina).padStart(2, "0")}.webp`} alt={`FUVEST ${provaCorrigida.ano}, primeira fase, ${provaCorrigida.versao}, página ${pagina} do caderno oficial`} className="h-auto w-full rounded-lg border border-n2 bg-white" />
             <p className="mt-3 text-sm text-n5">Amplie a imagem para ler detalhes. Alguns textos servem a mais de uma questão; consulte as páginas anteriores quando necessário.</p>
             <a href={url} target="_blank" rel="noopener noreferrer" className="gb-text-link mt-3 inline-block">Abrir o caderno em PDF →</a>
           </div>

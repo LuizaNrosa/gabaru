@@ -2,6 +2,7 @@
 "use client";
 
 import { useState } from "react";
+import fuvest2025 from "@/data/fuvest-2025-v1.json";
 import { FolhaDeRespostas } from "@/components/folha-de-respostas";
 
 type DocFuvest = {
@@ -23,7 +24,8 @@ export function FuvestDocReader({ documentos }: { documentos: DocFuvest[] }) {
   const [indice, setIndice] = useState(Math.max(0, documentos.findIndex(d => /1ª fase/i.test(d.label) && /prova/i.test(d.label) && !/gabarito|respostas/i.test(d.label))));
   const doc = documentos[indice];
   const [pagina, setPagina] = useState(1);
-  const url = `/api/v1/fuvest/${doc.globalIndex}#page=${pagina}`;
+  const is2025v1 = doc.url === fuvest2025.fonte_prova;
+  const url = `${is2025v1 ? "/acervo/fuvest/2025/prova-v1.pdf" : `/api/v1/fuvest/${doc.globalIndex}`}#page=${pagina}`;
   const eGabarito = /gabarito|respostas/i.test(doc.label);
   return (
     <section className="mt-8" aria-label="Leitor de provas da FUVEST">
@@ -99,6 +101,7 @@ export function FuvestDocReader({ documentos }: { documentos: DocFuvest[] }) {
             id={`fuvest-${doc.globalIndex}`}
             titulo={`FUVEST ${doc.year} — ${doc.label}`}
             sugeridas={doc.year >= 2027 ? 80 : 90}
+            gabarito={is2025v1 ? fuvest2025.gabarito : undefined}
           />
         </div>
       )}

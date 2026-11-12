@@ -18,18 +18,21 @@ export function FolhaDeRespostas({
   id,
   titulo,
   sugeridas = 90,
+  gabarito,
 }: {
   /** Chave única da sessão (ex.: "fuvest-2026-fase1"). */
   id: string;
   titulo: string;
   /** Quantidade de questões sugerida pela prova deste documento. */
   sugeridas?: number;
+  gabarito?: string[];
 }) {
   const opcoes = Array.from(new Set([sugeridas, 50, 90, 120, 180])).sort(
     (a, b) => a - b,
   );
   const [total, setTotal] = useState(sugeridas);
   const [respostas, setRespostas] = useState<Record<number, string>>({});
+  const [finalizado, setFinalizado] = useState(false);
   const [carregado, setCarregado] = useState(false);
 
   useEffect(() => {
@@ -40,9 +43,11 @@ export function FolhaDeRespostas({
         const dados = JSON.parse(salvo) as {
           total?: number;
           respostas?: Record<number, string>;
+          finalizado?: boolean;
         };
-        if (dados.total) setTotal(dados.total);
+        if (dados.total && !gabarito) setTotal(dados.total);
         if (dados.respostas) setRespostas(dados.respostas);
+        if (dados.finalizado) setFinalizado(true);
       }
     } catch {
       /* sem localStorage: sessão temporária */
@@ -55,12 +60,12 @@ export function FolhaDeRespostas({
     try {
       localStorage.setItem(
         `gabaru:folha:${id}`,
-        JSON.stringify({ total, respostas }),
+        JSON.stringify({ total, respostas, finalizado }),
       );
     } catch {
       /* modo privado: apenas não persistir */
     }
-  }, [id, total, respostas, carregado]);
+  }, [id, total, respostas, finalizado, carregado]);
 
   const respondidas = Object.keys(respostas).length;
   const lista = Object.entries(respostas)
@@ -79,13 +84,12 @@ export function FolhaDeRespostas({
       </h2>
       <p className="mt-3 text-sm leading-relaxed text-n5">
         Leia o caderno no leitor acima e marque as alternativas aqui — você
-        não precisa sair do Gabaru. Conferência manual: compare suas marcações com o gabarito oficial da mesma prova e versão. As respostas ficam salvas neste
-        navegador.
+        não precisa sair do Gabaru. {gabarito ? "Correção automática pelo gabarito oficial conferido." : "Conferência manual: compare suas marcações com o gabarito oficial da mesma prova e versão."} As respostas ficam salvas neste navegador.
       </p>
 
       <label className="mt-5 flex flex-wrap items-center gap-3 text-sm font-semibold">
         Número de questões
-        <select
+        <select disabled={!!gabarito}
           className="min-h-12 rounded border border-n2 bg-white px-3"
           value={total}
           onChange={(e) => setTotal(Number(e.currentTarget.value))}
@@ -121,6 +125,7 @@ export function FolhaDeRespostas({
                     name={`folha-${id}-q${n}`}
                     className="peer sr-only"
                     checked={respostas[n] === l}
+                    disabled={finalizado}
                     onChange={() =>
                       setRespostas((atuais) => {
                         const prox = { ...atuais };
@@ -147,13 +152,15 @@ export function FolhaDeRespostas({
         ))}
       </ol>
 
+      {gabarito && !finalizado && <button type="button" className="gb-button mt-6" onClick={()=>setFinalizado(true)}>Corrigir prova →</button>}
+      {gabarito && finalizado && <div className="gb-notice mt-6" role="status"><h3 className="font-bold">Resultado da prova</h3><p>{gabarito.filter((g,i)=>respostas[i+1] === g).length} acertos · {gabarito.filter((g,i)=>respostas[i+1] && respostas[i+1] !== g).length} erros · {gabarito.filter((_,i)=>!respostas[i+1]).length} em branco · 0 anuladas.</p><details className="mt-3"><summary>Revisar respostas e gabarito</summary><ol className="mt-3 grid gap-2 sm:grid-cols-2">{gabarito.map((g,i)=><li key={i}>Questão {i+1}: sua resposta {respostas[i+1] ?? "—"} · gabarito <strong>{g}</strong></li>)}</ol></details><button type="button" className="gb-text-link mt-4" onClick={()=>setFinalizado(false)}>Voltar às respostas</button></div>}
       <div className="mt-6 flex flex-wrap gap-3">
         <button
           type="button"
           className="min-h-12 rounded border border-n2 bg-white px-4 font-semibold"
           onClick={() => {
             if (window.confirm("Apagar todas as marcações desta sessão?"))
-              setRespostas({});
+              { setRespostas({}); setFinalizado(false); }
           }}
         >
           Limpar marcações

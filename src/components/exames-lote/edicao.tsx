@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import provas from "@/data/uerj-uel-2026.json";
+import { examesUerjUel as provas } from "@/lib/uerj-uel-exams";
 import { UerjUelReader } from "@/components/uerj-uel-reader";
 import { metaPagina } from "@/lib/seo";
 type Props = { params: Promise<{ banca: string; edicao: string }> };

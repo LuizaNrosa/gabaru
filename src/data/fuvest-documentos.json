@@ -988,5 +988,17 @@
     "label": "1ª fase · Prova X",
     "url": "https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_X.pdf",
     "pages": 28
+  },
+  {
+    "year": 2022,
+    "label": "1ª fase · Prova V",
+    "url": "https://www.fuvest.br/wp-content/uploads/fuvest_2022_primeira_fase_tipo_V.pdf",
+    "pages": 26
+  },
+  {
+    "year": 2022,
+    "label": "1ª fase · Prova K",
+    "url": "https://www.fuvest.br/wp-content/uploads/fuvest_2022_primeira_fase_tipo_K.pdf",
+    "pages": 26
   }
 ]

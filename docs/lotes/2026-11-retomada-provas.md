@@ -35,3 +35,7 @@ Os cadernos V, K, Q, X e Z da primeira fase foram obtidos na fonte oficial; cada
 ## FUVEST 2023 — cinco versões
 
 Os cadernos V, K, Q, X e Z da primeira fase têm 28 páginas cada e gabaritos próprios de 90 questões. As capas, o gabarito oficial e os hashes foram conferidos. Proveniência em `src/data/fuvest-2023-versoes.json`; os scripts `importar-fuvest-2023.py` e `renderizar-fuvest-2023.py` reproduzem o lote. As páginas são servidas em imagens dentro do Gabaru, com correção automática e progresso local.
+
+## FUVEST 2022 — cadernos V e K
+
+As versões V e K da primeira fase foram conferidas com o gabarito oficial retificado em 15/12/2021. Cada caderno contém 26 páginas e 90 questões; a 54 da versão V e a 90 da versão K são anuladas. Essas questões aparecem separadamente no resultado e não são contadas como acerto, erro ou resposta em branco. Fontes e hashes estão em `src/data/fuvest-2022-versoes.json`. Os scripts `importar-fuvest-2022-vk.py` e `renderizar-fuvest-2022-vk.py` permitem reproduzir o lote.

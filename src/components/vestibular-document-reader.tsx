@@ -7,12 +7,13 @@ import loteUnespSeguinte from "@/data/unesp-lote-seguinte.json";
 import unespAntigas from "@/data/unesp-2017-2020.json";
 import unespNovas from "@/data/unesp-2015-2016-2021.json";
 import unespHistoricas from "@/data/unesp-2011-2014.json";
+import unicampLote1 from "@/data/unicamp-lote1.json";
 const provasUnesp = [{ ...unesp2025, titulo: "UNESP 2025 — vestibular regular, primeira fase" }, ...loteUnesp, ...loteUnespSeguinte, ...unespAntigas, ...unespNovas, ...unespHistoricas];
 import { FolhaDeRespostas } from "@/components/folha-de-respostas";
 import { documentUrl, applicationName, type ArchiveDocument } from "@/lib/vestibular-documents";
 
 export function VestibularDocumentReader({ documents }: { documents: ArchiveDocument[] }) {
-  const inicial = documents.find(d => d.application === "regular" && provasUnesp.some(p => p.id === d.id))?.id ?? documents.find(d => provasUnesp.some(p => p.id === d.id))?.id ?? documents.find(d => d.kind === "prova" && d.phase === "1ª fase")?.id ?? documents.find(d => d.kind === "prova")?.id ?? documents[0].id;
+  const inicial = documents.find(d => unicampLote1.some(p => p.id === d.id))?.id ?? documents.find(d => d.application === "regular" && provasUnesp.some(p => p.id === d.id))?.id ?? documents.find(d => provasUnesp.some(p => p.id === d.id))?.id ?? documents.find(d => d.kind === "prova" && d.phase === "1ª fase")?.id ?? documents.find(d => d.kind === "prova")?.id ?? documents[0].id;
   const [id, setId] = useState(inicial);
   const selected = documents.find(d => d.id === id)!;
   const [pages, setPages] = useState<Record<string, number>>({});
@@ -26,6 +27,7 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
     }
   }, { id: inicial, pages: {} });
   const provaCorrigida = provasUnesp.find(p => p.id === selected.id);
+  const unicampCorrigida = unicampLote1.find(p => p.id === selected.id);
   const corrigida = Boolean(provaCorrigida);
   const page = pages[id] ?? (corrigida ? 3 : selected.startPage);
   const url = provaCorrigida && [...unespAntigas, ...unespNovas, ...unespHistoricas].some(p => p.id === selected.id) ? `/acervo/unesp/${provaCorrigida.ano}/${provaCorrigida.aplicacao}/prova.pdf` : documentUrl(selected);
@@ -51,7 +53,10 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
       </select>
     </label>
     {corrigida && <p className="gb-notice mt-5">Correção automática pelo gabarito oficial {provaCorrigida?.versao === "1" ? "da versão 1" : "do caderno divulgado"}. O resultado mostra acertos e não calcula a nota de classificação.</p>}
-    {corrigida ? <div className="mt-5 grid items-start gap-6 lg:grid-cols-[minmax(0,1fr)_360px]">
+    {unicampCorrigida ? <div className="mt-5 grid items-start gap-6 lg:grid-cols-[minmax(0,1fr)_360px]">
+      <div id="caderno"><p className="gb-notice mb-4">Correção automática para as provas {unicampCorrigida.versao}; 72 questões com alternativas A a D. O resultado informa acertos, não a nota de classificação.</p><iframe key={`${id}-${page}`} src={`${url}#page=${page}`} title={`PDF oficial: ${selected.label}`} className="h-[78vh] min-h-[480px] w-full rounded-lg border border-n2 bg-white" loading="lazy" /><p className="mt-3 text-sm text-n5">Se o PDF não aparecer no celular, use “Abrir PDF em outra aba” e volte aqui para marcar suas respostas.</p><a href="#folha" className="gb-text-link mt-3 inline-block lg:hidden">Marcar respostas ↓</a></div>
+      <div id="folha" className="lg:sticky lg:top-4 lg:max-h-[90vh] lg:overflow-y-auto"><a href="#caderno" className="gb-text-link mb-3 inline-block lg:hidden">↑ Voltar ao caderno</a><FolhaDeRespostas key={selected.id} id={selected.id} titulo={`UNICAMP ${unicampCorrigida.ano} — provas ${unicampCorrigida.versao}`} sugeridas={72} alternativas={unicampCorrigida.alternativas} gabarito={unicampCorrigida.gabarito} compacto /></div>
+    </div> : corrigida ? <div className="mt-5 grid items-start gap-6 lg:grid-cols-[minmax(0,1fr)_360px]">
       <div id="caderno">
         <div className="mb-3 flex flex-wrap items-center gap-3"><button type="button" className="min-h-12 rounded border border-n2 px-3" disabled={page <= 1} onClick={()=>setPages({...pages,[id]:page-1})}>← Página anterior</button><span>Página {page} de {selected.pages}</span><button type="button" className="min-h-12 rounded border border-n2 px-3" disabled={page >= selected.pages} onClick={()=>setPages({...pages,[id]:page+1})}>Próxima página →</button><a href="#folha" className="gb-text-link lg:hidden">Marcar respostas ↓</a></div>
         {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -62,7 +67,7 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
     </div> : <>
       <iframe key={`${id}-${page}`} src={`${url}#page=${page}`} title={`PDF oficial: ${selected.label}`} className="mt-5 h-[78vh] min-h-[480px] w-full rounded-lg border border-n2 bg-white" loading="lazy" />
       <p className="mt-4 text-sm text-n5">No celular, abra o PDF em outra aba se o navegador não oferecer leitura integrada. As respostas discursivas e a redação exigem avaliação humana; este leitor não calcula nota.</p>
-      {selected.kind === "prova" && selected.phase === "1ª fase" && <FolhaDeRespostas key={selected.id} id={selected.id} titulo={selected.label} sugeridas={selected.institution === "unicamp" ? 72 : 90} />}
+      {selected.kind === "prova" && selected.phase === "1ª fase" && <FolhaDeRespostas key={selected.id} id={selected.id} titulo={selected.label} sugeridas={selected.institution === "unicamp" ? 72 : 90} alternativas={selected.institution === "unicamp" && selected.year >= 2022 && selected.year <= 2026 ? ["A", "B", "C", "D"] : undefined} />}
     </>}
   </section>;
 }

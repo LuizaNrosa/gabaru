@@ -21,6 +21,7 @@ export function FolhaDeRespostas({
   sugeridas = 90,
   gabarito,
   compacto = false,
+  alternativas = LETRAS,
 }: {
   /** Chave única da sessão (ex.: "fuvest-2026-fase1"). */
   id: string;
@@ -29,6 +30,7 @@ export function FolhaDeRespostas({
   sugeridas?: number;
   gabarito?: string[];
   compacto?: boolean;
+  alternativas?: readonly string[];
 }) {
   const opcoes = Array.from(new Set([sugeridas, 50, 90, 120, 180])).sort(
     (a, b) => a - b,
@@ -52,7 +54,7 @@ export function FolhaDeRespostas({
         };
         if (dados.total && !gabarito) setTotal(dados.total);
         if (dados.respostas) setRespostas(dados.respostas);
-        if (dados.finalizado) setFinalizado(true);
+        if (dados.finalizado && Object.values(dados.respostas ?? {}).every(letra => alternativas.includes(letra))) setFinalizado(true);
         if (dados.questaoAtual && dados.questaoAtual >= 1 && dados.questaoAtual <= sugeridas) setQuestaoAtual(dados.questaoAtual);
       }
     } catch {
@@ -73,6 +75,7 @@ export function FolhaDeRespostas({
     }
   }, [id, total, respostas, finalizado, questaoAtual, carregado]);
 
+  const invalidas = Object.entries(respostas).filter(([, letra]) => !alternativas.includes(letra)).map(([n]) => Number(n));
   const respondidas = Object.keys(respostas).length;
   const lista = Object.entries(respostas)
     .sort((a, b) => Number(a[0]) - Number(b[0]))
@@ -112,6 +115,7 @@ export function FolhaDeRespostas({
         <strong>{respondidas}</strong> de {total} respondidas
       </p>
 
+      {invalidas.length > 0 && <p className="gb-notice mt-3" role="alert">Revise as marcações fora das alternativas desta prova: {invalidas.join(", ")}. Selecione uma alternativa válida antes de corrigir.</p>}
       {compacto && <p className="mt-3 text-sm text-n5">Selecione o mesmo número da questão que está lendo no caderno.</p>}
       {compacto && <label className="mt-4 flex items-center gap-3 font-semibold">Questão
         <select className="min-h-12 rounded border border-n2 bg-white px-3" value={questaoAtual} onChange={e => setQuestaoAtual(Number(e.currentTarget.value))}>
@@ -131,7 +135,7 @@ export function FolhaDeRespostas({
               {!compacto && gabarito?.[n-1] === "*" && <span className="gb-stamp gb-stamp-sm mt-2">Anulada</span>}
             </span>
             <div className="flex gap-1.5" role="group" aria-label={`Questão ${n}`}>
-              {LETRAS.map((l) => (
+              {alternativas.map((l) => (
                 <label key={l} className="cursor-pointer">
                   <input
                     type="radio"
@@ -149,7 +153,7 @@ export function FolhaDeRespostas({
                     }
                   />
                   <span
-                    className={`grid size-10 place-items-center rounded-full border font-mono text-sm font-bold transition ${
+                    className={`grid ${alternativas.length === 4 ? "size-11" : "size-10"} place-items-center rounded-full border font-mono text-sm font-bold transition ${
                       respostas[n] === l
                         ? "border-ink bg-ink text-white"
                         : "border-n2 bg-paper text-ink hover:border-ink"
@@ -166,7 +170,7 @@ export function FolhaDeRespostas({
       </ol>
 
       {compacto && <div className="mt-4 flex flex-wrap gap-2"><button type="button" disabled={questaoAtual === 1} className="min-h-12 rounded border border-n2 px-3" onClick={()=>setQuestaoAtual(questaoAtual-1)}>← Anterior</button><button type="button" disabled={questaoAtual === total} className="min-h-12 rounded border border-n2 px-3" onClick={()=>setQuestaoAtual(questaoAtual+1)}>Próxima →</button></div>}
-      {gabarito && !finalizado && <button type="button" className="gb-button mt-6" onClick={()=>setFinalizado(true)}>Corrigir prova →</button>}
+      {gabarito && !finalizado && <button type="button" className="gb-button mt-6" disabled={invalidas.length > 0} onClick={()=>setFinalizado(true)}>Corrigir prova →</button>}
       {gabarito && finalizado && <div className="gb-notice mt-6" role="status"><h3 className="font-bold">Resultado da prova</h3><p>{quantidade(gabarito.filter((g,i)=>g !== "*" && !!respostas[i+1] && g.includes(respostas[i+1])).length,"acerto","acertos")} · {quantidade(gabarito.filter((g,i)=>g !== "*" && respostas[i+1] && !g.includes(respostas[i+1])).length,"erro","erros")} · {gabarito.filter((g,i)=>g !== "*" && !respostas[i+1]).length} em branco · {quantidade(gabarito.filter(g=>g === "*").length,"anulada","anuladas")}.</p><details className="mt-3"><summary>Revisar respostas e gabarito</summary><ol className="mt-3 grid gap-2 sm:grid-cols-2">{gabarito.map((g,i)=><li key={i}>Questão {i+1}: sua resposta {respostas[i+1] ?? "—"} · gabarito <strong>{g === "*" ? "Anulada" : g.split("").join(" ou ")}</strong></li>)}</ol></details><button type="button" className="gb-text-link mt-4" onClick={()=>setFinalizado(false)}>Voltar às respostas</button></div>}
       <div className="mt-6 flex flex-wrap gap-3">
         <button

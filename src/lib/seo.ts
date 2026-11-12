@@ -63,7 +63,7 @@ export function metaPagina({
 
 /** Metadata da página inicial: título absoluto, sem o template. */
 export function metaHome(): Metadata {
-  const titulo = "Vestibulinhos, ENEM e vestibulares: provas e questões | Gabaru";
+  const titulo = "ENEM, vestibulinhos e vestibulares: provas e questões | Gabaru";
   const indexar = process.env.NEXT_PUBLIC_INDEXAR === "1";
   return {
     title: { absolute: titulo },

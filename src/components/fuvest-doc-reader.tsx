@@ -3,6 +3,7 @@
 
 import { useMemo, useState } from "react";
 import { useSavedProgress } from "@/components/use-saved-progress";
+import fuvest2004a2007 from "@/data/fuvest-2004-2007-versoes.json";
 import fuvest2008a2011 from "@/data/fuvest-2008-2011-versoes.json";
 import fuvest2012a2015 from "@/data/fuvest-2012-2015-versoes.json";
 import fuvest2016e2017 from "@/data/fuvest-2016-2017-versoes.json";
@@ -15,7 +16,7 @@ import fuvest2024versoes from "@/data/fuvest-2024-versoes.json";
 import fuvest2025versoes from "@/data/fuvest-2025-versoes.json";
 import { FolhaDeRespostas } from "@/components/folha-de-respostas";
 
-const provasDisponiveis = [...fuvest2008a2011, ...fuvest2012a2015, ...fuvest2016e2017, ...fuvest2018e2019, ...fuvest2020versoes, ...fuvest2021versoes, ...fuvest2022versoes, ...fuvest2023versoes, ...fuvest2024versoes, ...fuvest2025versoes];
+const provasDisponiveis = [...fuvest2004a2007, ...fuvest2008a2011, ...fuvest2012a2015, ...fuvest2016e2017, ...fuvest2018e2019, ...fuvest2020versoes, ...fuvest2021versoes, ...fuvest2022versoes, ...fuvest2023versoes, ...fuvest2024versoes, ...fuvest2025versoes];
 
 type DocFuvest = {
   globalIndex: number;
@@ -121,7 +122,7 @@ export function FuvestDocReader({ documentos }: { documentos: DocFuvest[] }) {
           </div>
           <div id="folha" className="lg:sticky lg:top-4 lg:max-h-[90vh] lg:overflow-y-auto">
             <a href="#caderno" className="gb-text-link mb-3 inline-block lg:hidden">↑ Voltar ao caderno</a>
-            <FolhaDeRespostas key={doc.globalIndex} id={`fuvest-${doc.globalIndex}`} titulo={`FUVEST ${doc.year} — ${doc.label}`} sugeridas={90} gabarito={provaCorrigida.gabarito} compacto />
+            <FolhaDeRespostas key={doc.globalIndex} id={`fuvest-${doc.globalIndex}`} titulo={`FUVEST ${doc.year} — ${doc.label}`} sugeridas={provaCorrigida.gabarito.length} gabarito={provaCorrigida.gabarito} compacto />
           </div>
         </div>
       ) : (

@@ -65,3 +65,7 @@ As primeiras fases V de 2012, 2013, 2014 e 2015 têm 90 questões por caderno. N
 ## FUVEST 2008–2011 — cadernos V
 
 As primeiras fases V de 2008, 2009, 2010 e 2011 têm 90 questões cada. Em 2010 o gabarito lista, para cada alternativa, o número da questão de cada versão; a importação converte essa tabela para número → resposta. Fontes e hashes estão em `src/data/fuvest-2008-2011-versoes.json`, com scripts de importação e renderização reproduzíveis.
+
+## FUVEST 2004–2007 — cadernos V
+
+As primeiras fases V de 2004, 2005 e 2006 têm 100 questões; a de 2007 tem 90. O gabarito de 2004 está na página 17 do PDF oficial, por isso a navegação do leitor mostra as 16 páginas da prova e não exibe o gabarito antes da correção. Os PDFs oficiais completos, acessíveis pelos links de fonte, podem conter o gabarito. Fontes e hashes estão em `src/data/fuvest-2004-2007-versoes.json`; scripts de importação e renderização reproduzem o lote.

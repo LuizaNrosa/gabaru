@@ -13,6 +13,7 @@ import { useEffect, useState } from "react";
  * recarregar a página não perde a sessão de treino.
  */
 const LETRAS = ["A", "B", "C", "D", "E"] as const;
+const quantidade = (n: number, singular: string, plural: string) => `${n} ${n === 1 ? singular : plural}`;
 
 export function FolhaDeRespostas({
   id,
@@ -116,6 +117,7 @@ export function FolhaDeRespostas({
         <select className="min-h-12 rounded border border-n2 bg-white px-3" value={questaoAtual} onChange={e => setQuestaoAtual(Number(e.currentTarget.value))}>
           {Array.from({length: total}, (_,i) => <option value={i+1} key={i+1}>{i+1}{respostas[i+1] ? " · respondida" : ""}</option>)}
         </select> de {total}</label>}
+      {compacto && gabarito?.[questaoAtual-1] === "*" && <p className="gb-notice mt-3" role="status">Questão anulada no gabarito oficial; não entra nos acertos, erros ou questões em branco.</p>}
       <ol className={compacto ? "mt-4 grid gap-2" : "mt-4 grid gap-2 sm:grid-cols-2"}>
         {(compacto ? [questaoAtual] : Array.from({ length: total }, (_, i) => i + 1)).map((n) => (
           <li
@@ -135,7 +137,7 @@ export function FolhaDeRespostas({
                     name={`folha-${id}-q${n}`}
                     className="peer sr-only"
                     checked={respostas[n] === l}
-                    disabled={finalizado}
+                    disabled={finalizado || gabarito?.[n-1] === "*"}
                     onChange={() =>
                       setRespostas((atuais) => {
                         const prox = { ...atuais };
@@ -164,7 +166,7 @@ export function FolhaDeRespostas({
 
       {compacto && <div className="mt-4 flex flex-wrap gap-2"><button type="button" disabled={questaoAtual === 1} className="min-h-12 rounded border border-n2 px-3" onClick={()=>setQuestaoAtual(questaoAtual-1)}>← Anterior</button><button type="button" disabled={questaoAtual === total} className="min-h-12 rounded border border-n2 px-3" onClick={()=>setQuestaoAtual(questaoAtual+1)}>Próxima →</button></div>}
       {gabarito && !finalizado && <button type="button" className="gb-button mt-6" onClick={()=>setFinalizado(true)}>Corrigir prova →</button>}
-      {gabarito && finalizado && <div className="gb-notice mt-6" role="status"><h3 className="font-bold">Resultado da prova</h3><p>{gabarito.filter((g,i)=>!!respostas[i+1] && g.includes(respostas[i+1])).length} acertos · {gabarito.filter((g,i)=>respostas[i+1] && !g.includes(respostas[i+1])).length} erros · {gabarito.filter((_,i)=>!respostas[i+1]).length} em branco · 0 anuladas.</p><details className="mt-3"><summary>Revisar respostas e gabarito</summary><ol className="mt-3 grid gap-2 sm:grid-cols-2">{gabarito.map((g,i)=><li key={i}>Questão {i+1}: sua resposta {respostas[i+1] ?? "—"} · gabarito <strong>{g.split("").join(" ou ")}</strong></li>)}</ol></details><button type="button" className="gb-text-link mt-4" onClick={()=>setFinalizado(false)}>Voltar às respostas</button></div>}
+      {gabarito && finalizado && <div className="gb-notice mt-6" role="status"><h3 className="font-bold">Resultado da prova</h3><p>{quantidade(gabarito.filter((g,i)=>g !== "*" && !!respostas[i+1] && g.includes(respostas[i+1])).length,"acerto","acertos")} · {quantidade(gabarito.filter((g,i)=>g !== "*" && respostas[i+1] && !g.includes(respostas[i+1])).length,"erro","erros")} · {gabarito.filter((g,i)=>g !== "*" && !respostas[i+1]).length} em branco · {quantidade(gabarito.filter(g=>g === "*").length,"anulada","anuladas")}.</p><details className="mt-3"><summary>Revisar respostas e gabarito</summary><ol className="mt-3 grid gap-2 sm:grid-cols-2">{gabarito.map((g,i)=><li key={i}>Questão {i+1}: sua resposta {respostas[i+1] ?? "—"} · gabarito <strong>{g === "*" ? "Anulada" : g.split("").join(" ou ")}</strong></li>)}</ol></details><button type="button" className="gb-text-link mt-4" onClick={()=>setFinalizado(false)}>Voltar às respostas</button></div>}
       <div className="mt-6 flex flex-wrap gap-3">
         <button
           type="button"

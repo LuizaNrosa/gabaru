@@ -31,3 +31,7 @@ O script `scripts/renderizar-fuvest-2025.py` reproduz os arquivos, após validar
 ## FUVEST 2024 — cinco versões
 
 Os cadernos V, K, Q, X e Z da primeira fase foram obtidos na fonte oficial; cada capa e hash foram conferidos. O gabarito oficial retificado em 24/11/2023 aceita duas alternativas, D ou E, para uma questão em cada versão (V: 48; K: 9; Q: 43; X: 82; Z: 57). A correção aceita qualquer uma das duas e não a trata como anulada. Proveniência em `src/data/fuvest-2024-versoes.json`; extração e imagens são reproduzíveis pelos scripts `importar-fuvest-2024.py` e `renderizar-fuvest-2024.py`.
+
+## FUVEST 2023 — cinco versões
+
+Os cadernos V, K, Q, X e Z da primeira fase têm 28 páginas cada e gabaritos próprios de 90 questões. As capas, o gabarito oficial e os hashes foram conferidos. Proveniência em `src/data/fuvest-2023-versoes.json`; os scripts `importar-fuvest-2023.py` e `renderizar-fuvest-2023.py` reproduzem o lote. As páginas são servidas em imagens dentro do Gabaru, com correção automática e progresso local.

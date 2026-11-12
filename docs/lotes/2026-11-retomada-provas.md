@@ -21,3 +21,9 @@ Fontes fornecidas: FUVEST (primária), Brasil Escola e Foco Medicina (catálogos
 As versões V1 a V4 da primeira fase agora têm gabaritos separados. Cada caderno foi obtido da página oficial e teve capa, ano, versão e 34 páginas conferidos; o documento oficial do gabarito contém 90 respostas para cada versão. Os arquivos de proveniência e hashes ficam em `src/data/fuvest-2025-versoes.json`. A V1 continua servida pelo próprio Gabaru; as demais usam o leitor interno com PDF carregado da fonte oficial.
 
 A extração é reproduzível com `scripts/importar-fuvest-2025.py`, mas é específica para o formato do gabarito de 2025: outros anos podem ter tabelas ou versões diferentes e não devem ser publicados sem adaptação e revisão. `scripts/inventariar-fuvest.py` lista candidatos em páginas oficiais e os marca como pendentes; inventário não equivale a prova conferida nem permite anunciar correção.
+
+## Caderno visível e resposta no site
+
+As quatro versões de 2025 têm páginas renderizadas em imagens WebP a partir dos PDFs oficiais conferidos. O aluno lê a página e marca uma questão por vez; no desktop, as alternativas ficam ao lado do caderno e, no celular, há atalhos entre o caderno e a folha. O número da questão precisa ser escolhido pelo aluno: a troca de página do caderno não identifica automaticamente a questão. As imagens preservam figuras e textos compartilhados, mas ainda não substituem transcrição acessível nem páginas de questões indexáveis por enunciado.
+
+O script `scripts/renderizar-fuvest-2025.py` reproduz os arquivos, após validar os hashes oficiais. Esta abordagem adiciona aproximadamente 24 MiB para uma edição com quatro versões; para muitos anos será necessário armazenamento de objetos/CDN e processamento por fila, com catálogo de integridade, para evitar crescimento indefinido do repositório.

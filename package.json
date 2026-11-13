@@ -29,7 +29,8 @@
     "test": "node --test \"tests/*.test.mjs\"",
     "prebuild": "node scripts/prepare-etec.mjs && node scripts/prepare-coluni.mjs && node scripts/prepare-ifsc.mjs && node scripts/prepare-ifsp.mjs",
     "db:migrate": "node scripts/migrate-db.mjs",
-    "db:import-etec": "node scripts/import-etec-db.mjs"
+    "db:import-etec": "node scripts/import-etec-db.mjs",
+    "validar:design": "node scripts/validar-design-unicamp.mjs"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.107.1",
@@ -44,6 +45,7 @@
     "zod": "^4.6.7"
   },
   "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
     "@electric-sql/pglite": "^0.5.14",
     "@eslint/eslintrc": "^3.3.7",
     "@tailwindcss/postcss": "^4.0.0",
@@ -53,11 +55,24 @@
     "@types/react-dom": "^19.0.0",
     "eslint": "^9.0.0",
     "eslint-config-next": "^15.1.0",
+    "playwright": "^1.65.0",
     "postcss": "^8.4.49",
+    "schema-dts": "^2.1.0",
     "tailwindcss": "^4.0.0",
     "typescript": "^5.7.0"
   },
   "overrides": {
-    "@grpc/grpc-js": "1.14.6"
-  }
+    "@grpc/grpc-js": "1.14.6",
+    "rimraf": {
+      "glob": "14.0.2"
+    },
+    "@typescript-eslint/typescript-estree": {
+      "minimatch": "11.0.1"
+    }
+  },
+  "author": {
+    "name": "Luiza Nascimento Rosa",
+    "url": "https://github.com/LuizaNrosa"
+  },
+  "license": "UNLICENSED"
 }

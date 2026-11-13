@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import type { Organization, WebSite, FAQPage, BreadcrumbList, ItemList, WithContext } from "schema-dts";
 
 /**
  * SEO central do Gabaru.
@@ -63,7 +64,7 @@ export function metaPagina({
 
 /** Metadata da página inicial: título absoluto, sem o template. */
 export function metaHome(): Metadata {
-  const titulo = "Vestibulinhos, ENEM e vestibulares: provas e questões | Gabaru";
+  const titulo = "ENEM, vestibulinhos e vestibulares: provas e questões | Gabaru";
   const indexar = process.env.NEXT_PUBLIC_INDEXAR === "1";
   return {
     title: { absolute: titulo },
@@ -88,10 +89,10 @@ export function metaHome(): Metadata {
   };
 }
 
-type ObjetoLd = Record<string, unknown>;
+
 
 export const jsonLd = {
-  organizacao(): ObjetoLd {
+  organizacao(): WithContext<Organization> {
     return {
       "@context": "https://schema.org",
       "@type": "Organization",
@@ -106,7 +107,7 @@ export const jsonLd = {
       },
     };
   },
-  site(): ObjetoLd {
+  site(): WithContext<WebSite> {
     return {
       "@context": "https://schema.org",
       "@type": "WebSite",
@@ -115,7 +116,7 @@ export const jsonLd = {
       inLanguage: "pt-BR",
     };
   },
-  faq(perguntas: readonly (readonly string[])[]): ObjetoLd {
+  faq(perguntas: readonly (readonly string[])[]): WithContext<FAQPage> {
     return {
       "@context": "https://schema.org",
       "@type": "FAQPage",
@@ -126,7 +127,7 @@ export const jsonLd = {
       })),
     };
   },
-  trilhas(itens: readonly { nome: string; caminho: string }[]): ObjetoLd {
+  trilhas(itens: readonly { nome: string; caminho: string }[]): WithContext<BreadcrumbList> {
     return {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
@@ -140,7 +141,7 @@ export const jsonLd = {
   },
   lista(
     itens: readonly { nome: string; caminho: string }[],
-  ): ObjetoLd {
+  ): WithContext<ItemList> {
     return {
       "@context": "https://schema.org",
       "@type": "ItemList",

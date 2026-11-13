@@ -32,8 +32,8 @@ export function SiteHeader() {
       {EM_CONSTRUCAO && (
         <div className="gb-announcement">
           Estamos construindo o Gabaru.{" "}
-          <Link href="/nota-de-corte">
-            Sua nota dá para passar na ETEC? <span aria-hidden="true">↗</span>
+          <Link href="/provas">
+            Encontre sua prova e comece a treinar <span aria-hidden="true">→</span>
           </Link>
         </div>
       )}

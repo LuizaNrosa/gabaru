@@ -34,6 +34,18 @@ export default function Page() {
           <Link href="/provas/enem" className="gb-button">Escolher prova do ENEM ↗</Link>
         </div>
       </section>
+      <section className={`${CONTAINER} pt-6`} aria-labelledby="fontes-vestibulares">
+        <div className="gb-content-card">
+          <p className="gb-eyebrow">ACERVOS OFICIAIS · GRÁTIS</p>
+          <h2 id="fontes-vestibulares">Provas de vestibulares paulistas</h2>
+          <p>Encontre as edições da FUVEST, Unicamp e Unesp. A disponibilidade e a forma de acesso variam por instituição.</p>
+          <div className="flex flex-wrap gap-4">
+            <Link href="/provas/fuvest">FUVEST ↗</Link>
+            <Link href="/provas/unicamp">Unicamp ↗</Link>
+            <Link href="/provas/unesp">Unesp / Vunesp ↗</Link>
+          </div>
+        </div>
+      </section>
       <section className={`${CONTAINER} py-10`}>
         <div className="gb-notice mb-8">
           Os links abaixo levam às instituições. Eles não significam que todas

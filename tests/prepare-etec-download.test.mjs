@@ -13,7 +13,7 @@ async function run(mode) {
   const dir = await mkdtemp(join(tmpdir(), 'gabaru-download-'));
   await mkdir(join(dir, 'src/data'), { recursive: true });
   await writeFile(join(dir, 'src/data/etec-exams.json'), JSON.stringify([{
-    id: 'fixture', examUrl: 'https://fatweb.s3.amazonaws.com/prova.pdf',
+    id: '2025-1', examUrl: 'https://fatweb.s3.amazonaws.com/prova.pdf',
     answerUrl: 'https://fatweb.s3.amazonaws.com/gabarito.pdf',
     examSha256: createHash('sha256').update(bytes).digest('hex'),
     answerSha256: createHash('sha256').update(bytes).digest('hex'),
@@ -35,8 +35,8 @@ test('retries an access error and preserves the verified PDFs', async () => {
   try {
     assert.equal(result.status,0,result.stderr);
     assert.equal(await readFile(join(dir,'calls.txt'),'utf8'),'3');
-    assert.deepEqual(await readFile(join(dir,'public/acervo/etec/fixture/prova.pdf')),bytes);
-    assert.deepEqual(await readFile(join(dir,'public/acervo/etec/fixture/gabarito.pdf')),bytes);
+    assert.deepEqual(await readFile(join(dir,'public/acervo/etec/2025-1/prova.pdf')),bytes);
+    assert.deepEqual(await readFile(join(dir,'public/acervo/etec/2025-1/gabarito.pdf')),bytes);
   } finally { await rm(dir,{recursive:true,force:true}); }
 });
 test('fails on mismatched content without publishing an invalid PDF', async () => {
@@ -44,6 +44,6 @@ test('fails on mismatched content without publishing an invalid PDF', async () =
   try {
     assert.notEqual(result.status,0);
     assert.match(result.stderr,/integridade inválida/);
-    await assert.rejects(readFile(join(dir,'public/acervo/etec/fixture/prova.pdf')));
+    await assert.rejects(readFile(join(dir,'public/acervo/etec/2025-1/prova.pdf')));
   } finally { await rm(dir,{recursive:true,force:true}); }
 });

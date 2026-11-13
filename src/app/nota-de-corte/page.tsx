@@ -27,7 +27,7 @@ const faq: readonly (readonly string[])[] = [
     "A prova tem 50 questões. A nota final é NF = acertos × (1 + 3% + 10%): soma-se 3% para candidatos autodeclarados afrodescendentes e 10% para quem cursou todo o Ensino Fundamental II em escola pública, quando aplicável.",
   ],
   [
-    "De onde vem a nota de corte mostrada nesta página?",
+    "De onde vem a nota de corte da ETEC?",
     "Da lista de classificação oficial de cada unidade: o corte de 1ª chamada é a nota final do classificado na posição igual ao número de vagas. Só publicamos corte quando lemos esse valor numa lista oficial; nas demais combinações, mostramos a demanda oficial e o estado “em coleta”.",
   ],
   [
@@ -80,6 +80,9 @@ export default function NotaDeCorte() {
         <h2 id="outros-cortes" className="gb-section-title">Compare outras provas</h2>
         <p className="mt-3 text-n5">Cada processo seletivo tem regras e escalas próprias. Escolha a ferramenta correspondente ao seu objetivo.</p>
         <div className="gb-content-grid mt-6">
+          <Link className="gb-content-card" href="/nota-de-corte/sisu"><h3>ENEM / Sisu · UFC</h3><p>Nota de corte da chamada regular de 2026 por curso, unidade e modalidade.</p><span className="gb-text-link">Consultar UFC →</span></Link>
+          <Link className="gb-content-card" href="/nota-de-corte/unesp"><h3>Unesp 2026</h3><p>Referência para a segunda fase por curso, cidade e modalidade.</p><span className="gb-text-link">Consultar Unesp →</span></Link>
+          <Link className="gb-content-card" href="/nota-de-corte/ifrn"><h3>IFRN 2026</h3><p>Referência da classificação por campus, curso, turno e modalidade.</p><span className="gb-text-link">Consultar IFRN →</span></Link>
           <Link className="gb-content-card" href="/nota-de-corte/fuvest"><h3>FUVEST 2027 e 2026</h3><p>Corte oficial para a segunda fase por carreira e modalidade.</p><span className="gb-text-link">Consultar FUVEST →</span></Link>
           <Link className="gb-content-card" href="/nota-de-corte/unicamp"><h3>Unicamp 2027</h3><p>Acertos dos últimos convocados à segunda fase, por curso, cotas e PAAIS.</p><span className="gb-text-link">Consultar Unicamp →</span></Link>
           <Link className="gb-content-card" href="/nota-de-corte-ifsc"><h3>IFSC</h3><p>Dados por campus, curso, turno e modalidade nas edições disponíveis.</p><span className="gb-text-link">Consultar IFSC →</span></Link>
@@ -88,9 +91,9 @@ export default function NotaDeCorte() {
       </section>
 
       <section className="gb-section" aria-labelledby="nc-como">
-        <p className="gb-eyebrow">A REGRA DO JOGO</p>
+        <p className="gb-eyebrow">ETEC · A REGRA DO JOGO</p>
         <h2 id="nc-como" className="gb-section-title mt-3">
-          Como o corte funciona de verdade
+          Como funciona o corte da ETEC
         </h2>
         <div className="gb-content-grid mt-8">
           <div className="gb-content-card">
@@ -121,9 +124,9 @@ export default function NotaDeCorte() {
       </section>
 
       <section aria-labelledby="nc-tabela">
-        <p className="gb-eyebrow">A BASE, ABERTA</p>
+        <p className="gb-eyebrow">ETEC · A BASE, ABERTA</p>
         <h2 id="nc-tabela" className="gb-section-title mt-3">
-          Combinações acompanhadas ({combinacoes.length})
+          ETEC: combinações acompanhadas ({combinacoes.length})
         </h2>
         <p className="mt-3 max-w-2xl text-n5">
           Demanda oficial mais recente por combinação e o estado da coleta da
@@ -205,9 +208,9 @@ export default function NotaDeCorte() {
       <section className="gb-section" aria-labelledby="nc-fontes">
         <div className="gb-faq">
           <div>
-            <p className="gb-eyebrow">FONTES E MÉTODO</p>
+            <p className="gb-eyebrow">ETEC · FONTES E MÉTODO</p>
             <h2 id="nc-fontes" className="gb-section-title mt-3">
-              De onde vêm estes números
+              De onde vêm os números da ETEC
             </h2>
             <p className="mt-4">
               Demanda: publicações oficiais do Centro Paula Souza e da

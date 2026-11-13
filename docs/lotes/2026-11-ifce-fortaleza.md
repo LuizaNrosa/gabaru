@@ -1,0 +1,7 @@
+# IFCE Fortaleza 2026.2: referência da classificação
+
+A [classificação retificada publicada em 20/07/2026](https://concursos.faifce.ifce.edu.br/api/publicos/editais/900fe778-8a83-46cd-9473-80dd477e6432/atualizacoes/cd10b3c2-e094-4d85-8add-ed6a93cf0fbe_classificacao.pdf) identifica em cada um dos seis cursos integrados 16 vagas e 16 ocupadas na ampla concorrência, de um total de 35. O documento explica que todos concorrem na ampla antes da reserva, há duplicação de pessoas entre listas, e a situação distingue a modalidade de classificação e remanejamentos. A base registra exclusivamente a nota da 16ª posição da lista base da ampla, marcada como `Classificado`, em cada curso; não reutiliza vagas das cotas nem supõe matrícula.
+
+Em setembro houve publicação do [resultado de ocupação retificado](https://portal.ifce.edu.br/documents/27639/FOR_PS_2026.2_tecs._int_Retif_Resul_final_ocupacao_vagas_Edital_6.2026_DI-PROEN.pdf), com lista de espera e posições diferentes, sem notas. Portanto esta referência não é o corte final de matrícula. Outras modalidades e campi exigem análise própria e ficam em conferência.
+
+O extrator `scripts/extrair-ifce-fortaleza-2026.py` exige SHA-256 `e2f2567edc78bb56db4562d263ca844214c923fe09d282fd25de0b1836fa0931`, confirma 16 posições classificadas e gera apenas agregados: curso, nota, posição, vagas e página de fonte. Não exporta nomes, registros, nascimento ou notas individuais. O PDF original não integra o repositório.

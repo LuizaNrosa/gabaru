@@ -6,8 +6,8 @@ export const metadata: Metadata = metaHome();
 
 const caminhos = [
   { titulo: "ENEM", texto: "Pratique questões por disciplina e encontre provas por edição.", href: "/enem", acao: "Estudar para o ENEM" },
-  { titulo: "Vestibulinhos", texto: "Prepare-se para ETEC, COLUNI, IFSC e IFSP com provas anteriores.", href: "/pre-vestibulinho", acao: "Explorar vestibulinhos" },
-  { titulo: "Vestibulares", texto: "Encontre provas de instituições como FUVEST, Unesp e Unicamp.", href: "/provas", acao: "Explorar vestibulares" },
+  { titulo: "Vestibulinhos", texto: "Encontre provas da ETEC, COLUNI e Institutos Federais de vários estados.", href: "/pre-vestibulinho", acao: "Explorar vestibulinhos" },
+  { titulo: "Vestibulares", texto: "Encontre provas da FUVEST, Unesp/Vunesp, Unicamp, UERJ e UEL.", href: "/provas#vestibulares", acao: "Explorar vestibulares" },
 ];
 
 export default function Home() {

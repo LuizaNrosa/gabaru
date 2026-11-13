@@ -2,18 +2,23 @@
 
 import Link from "next/link";
 import { useId, useState } from "react";
-import { NotaCorteFuvestTool } from "@/components/nota-corte-fuvest-tool";
-import { NotaCorteUnicampTool } from "@/components/nota-corte-unicamp-tool";
-import { NotaCorteIfscTool } from "@/components/nota-corte-ifsc-tool";
-import { NotaCorteColuniTool } from "@/components/nota-corte-coluni-tool";
-import { NotaCorteUnespTool } from "@/components/nota-corte-unesp-tool";
-import { NotaCorteSisuUfcTool } from "@/components/nota-corte-sisu-ufc-tool";
-import { NotaCorteIfmgTool } from "@/components/nota-corte-ifmg-tool";
-import { NotaCorteCotucaTool } from "@/components/nota-corte-cotuca-tool";
-import { NotaCorteIfrnTool } from "@/components/nota-corte-ifrn-tool";
+import dynamic from "next/dynamic";
+const NotaCorteFuvestTool = dynamic(() => import("@/components/nota-corte-fuvest-tool").then((m) => m.NotaCorteFuvestTool), { loading: () => <p>Carregando consulta…</p> });
+const NotaCorteUnicampTool = dynamic(() => import("@/components/nota-corte-unicamp-tool").then((m) => m.NotaCorteUnicampTool), { loading: () => <p>Carregando consulta…</p> });
+const NotaCorteIfscTool = dynamic(() => import("@/components/nota-corte-ifsc-tool").then((m) => m.NotaCorteIfscTool), { loading: () => <p>Carregando consulta…</p> });
+const NotaCorteColuniTool = dynamic(() => import("@/components/nota-corte-coluni-tool").then((m) => m.NotaCorteColuniTool), { loading: () => <p>Carregando consulta…</p> });
+const NotaCorteUnespTool = dynamic(() => import("@/components/nota-corte-unesp-tool").then((m) => m.NotaCorteUnespTool), { loading: () => <p>Carregando consulta…</p> });
+const NotaCorteSisuUfcTool = dynamic(() => import("@/components/nota-corte-sisu-ufc-tool").then((m) => m.NotaCorteSisuUfcTool), { loading: () => <p>Carregando consulta…</p> });
+const NotaCorteIfmgTool = dynamic(() => import("@/components/nota-corte-ifmg-tool").then((m) => m.NotaCorteIfmgTool), { loading: () => <p>Carregando consulta…</p> });
+const NotaCorteCotucaTool = dynamic(() => import("@/components/nota-corte-cotuca-tool").then((m) => m.NotaCorteCotucaTool), { loading: () => <p>Carregando consulta…</p> });
+const NotaCorteIfrnTool = dynamic(() => import("@/components/nota-corte-ifrn-tool").then((m) => m.NotaCorteIfrnTool), { loading: () => <p>Carregando consulta…</p> });
+
+const NotaCorteIfceTool = dynamic(() => import("@/components/nota-corte-ifce-tool").then((m) => m.NotaCorteIfceTool), { loading: () => <p>Carregando consulta…</p> });
+
+const NotaCorteIfspTool = dynamic(() => import("@/components/nota-corte-ifsp-tool").then((m) => m.NotaCorteIfspTool), { loading: () => <p>Carregando consulta…</p> });
 
 type Tipo = "vestibulinho" | "enem" | "vestibular";
-type Opcao = { id: string; nome: string; ferramenta?: string; treino: string; detalhe?: string };
+type Opcao = { id: string; nome: string; ferramenta?: string; treino: string; detalhe?: string; status?: string };
 
 const opcoes: Record<Tipo, Opcao[]> = {
   vestibulinho: [
@@ -22,10 +27,10 @@ const opcoes: Record<Tipo, Opcao[]> = {
     { id: "ifsc", nome: "IFSC", ferramenta: "/nota-de-corte-ifsc", treino: "/provas/ifsc", detalhe: "Consulte as edições e modalidades já conferidas." },
     { id: "cotuca", nome: "COTUCA", treino: "/provas", detalhe: "Confira cursos e vagas de 2027 e calcule a pontuação; corte em coleta." },
     { id: "senai", nome: "SENAI", treino: "/provas", detalhe: "Dados de corte em coleta; consulte o acervo disponível." },
-    { id: "ifsp", nome: "IFSP", treino: "/provas/ifsp" },
+    { id: "ifsp", nome: "IFSP", treino: "/provas/ifsp", status: "Demanda disponível · corte em coleta", detalhe: "Consulte a relação candidatos por vaga para cursos técnicos integrados em 2027/1." },
     { id: "ifmg", nome: "IFMG", treino: "/provas/ifmg", detalhe: "Escolha campus e curso para acompanhar a conferência das notas." },
     { id: "ifrn", nome: "IFRN", ferramenta: "/nota-de-corte/ifrn", treino: "/provas/ifrn", detalhe: "Escore da última posição aprovada na classificação de 2026; não é resultado de matrícula." },
-    { id: "ifce", nome: "IFCE", treino: "/provas/ifce" },
+    { id: "ifce", nome: "IFCE", treino: "/provas/ifce", status: "Referência de classificação disponível", detalhe: "IFCE Fortaleza 2026.2, ampla concorrência; outras modalidades e campi em conferência." },
     { id: "ifba", nome: "IFBA", treino: "/provas/ifba" },
   ],
   enem: [
@@ -77,7 +82,7 @@ export function SeletorNotaDeCorte() {
         </div>
       </div>
       {selecionada && <div className="gb-notice mt-6" aria-live="polite">
-        <p className="font-bold">{selecionada.nome} · {selecionada.ferramenta ? "Consulta disponível" : "Dados de corte em coleta"}</p>
+        <p className="font-bold">{selecionada.nome} · {selecionada.status ?? (selecionada.ferramenta ? "Consulta disponível" : "Dados de corte em coleta")}</p>
         <p className="mt-2 text-n5">{selecionada.detalhe ?? "Ainda estamos reunindo e conferindo os dados desta seleção. Você já pode conhecer o acervo ou acompanhar sua disponibilidade."}</p>
         <div className="mt-4 flex flex-wrap items-center gap-4">
           {selecionada.ferramenta && selecionada.id === "etec" && <Link href={selecionada.ferramenta} className="gb-button">Escolher unidade e curso →</Link>}
@@ -96,8 +101,10 @@ export function SeletorNotaDeCorte() {
         {selecionada.id === "ifrn" && <NotaCorteIfrnTool />}
       </div>}
       {selecionada?.id === "cotuca" && <div className="mt-7"><NotaCorteCotucaTool /><Link href="/nota-de-corte/cotuca" className="gb-text-link">Abrir página completa do COTUCA →</Link></div>}
+      {selecionada?.id === "ifsp" && <div className="mt-7"><NotaCorteIfspTool /></div>}
+      {selecionada?.id === "ifce" && <div className="mt-7"><NotaCorteIfceTool /></div>}
       {selecionada?.id === "ifmg" && <div className="mt-7"><NotaCorteIfmgTool /></div>}
-      {selecionada && !selecionada.ferramenta && selecionada.id !== "ifmg" && selecionada.id !== "cotuca" && <p className="mt-4 text-sm text-n5">Próxima etapa após a conferência: escolher {tipo === "enem" ? "universidade, campus, curso, turno e modalidade" : "curso e, quando houver, campus, turno e modalidade"}. A consulta será aberta quando houver dados para essa combinação.</p>}
+      {selecionada && !selecionada.ferramenta && selecionada.id !== "ifmg" && selecionada.id !== "cotuca" && selecionada.id !== "ifce" && selecionada.id !== "ifsp" && <p className="mt-4 text-sm text-n5">Próxima etapa após a conferência: escolher {tipo === "enem" ? "universidade, campus, curso, turno e modalidade" : "curso e, quando houver, campus, turno e modalidade"}. A consulta será aberta quando houver dados para essa combinação.</p>}
     </section>
   );
 }

@@ -1,0 +1,139 @@
+{
+  "status": "reviewed-ready-for-integration",
+  "institution": "IFSP",
+  "kind": "integrado",
+  "totalExams": 3,
+  "totalQuestions": 90,
+  "notes": [
+    "Only 2026 Type 1 and 2025/2024 Prova A are imported; Type 2/Prova B excluded.",
+    "2026 has five alternatives A-E;2025/2024 have four A-D.",
+    "2025/2024 official caderno is common to integrated and concomitant/subsequent candidates; stored once.",
+    "2026/2 and2025/2 are concomitant/subsequent and excluded."
+  ],
+  "editions": [
+    {
+      "id": "2026-1",
+      "title": "IFSP 2026/1 · Integrado · Tipo 1",
+      "source": "https://concurso30.fundacaocefetminas.org.br/site/processo_seletivo_detalhes.aspx?id=8E2B67E9A3806F9F",
+      "examUrl": "https://concurso30.fundacaocefetminas.org.br/documentos/CadernodeProvaTIPO1Integrado122639008142733807990.pdf",
+      "answerUrl": "https://concurso30.fundacaocefetminas.org.br/documentos/GabaritoFinalIntegrado122639014208834868178.pdf",
+      "alternatives": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "annulled": [
+        27
+      ],
+      "questionCount": 30,
+      "pageCount": 16,
+      "examSha256": "df148d605407005741d75a32dcc8fa12bade6feea27ecb2b7ef9ab431bbb0965",
+      "answerSha256": "30ea755721c4819b541c99f705dff05956503771be1d64bf9b822a2dd0ef8391",
+      "mappedQuestions": 30
+    },
+    {
+      "id": "2025-1",
+      "title": "IFSP 2025/1 · Prova A · Manhã",
+      "source": "https://processoseletivo.ifsp.edu.br/cursos-tecnicos-2025-1/todos-documentos/",
+      "examUrl": "https://processoseletivo.ifsp.edu.br/media/public/8/8qgf9tz1lbiv2axxso73djdss/9z/9zhhn2yc4pckn2ptvq9qy4sft.pdf",
+      "answerUrl": "https://processoseletivo.ifsp.edu.br/media/public/8/8qgf9tz1lbiv2axxso73djdss/9q/9q0ijty2sm074vi52c4fm9x5v.pdf",
+      "alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "annulled": [
+        5
+      ],
+      "questionCount": 30,
+      "pageCount": 15,
+      "examSha256": "629f84ad0a31cebf4c47822f45f8d1d10f2bf9135284ae5f8ba8d744bc7e056c",
+      "answerSha256": "0ee8cadc94fb0ce37c9ad7d048771b25cb79c9c8ed1c7b70b2ac2dbd8c2e7073",
+      "mappedQuestions": 30
+    },
+    {
+      "id": "2024-1",
+      "title": "IFSP 2024/1 · Prova A · Manhã",
+      "source": "https://processoseletivo.ifsp.edu.br/cursos-tecnicos-2024-1/todos-documentos/",
+      "examUrl": "https://processoseletivo.ifsp.edu.br/media/public/b/bwjctxb8f3ngkl7ybi9f94db/56/567pzirta5t1y18hkrthpt3cj.pdf",
+      "answerUrl": "https://processoseletivo.ifsp.edu.br/media/public/b/bwjctxb8f3ngkl7ybi9f94db/96/96i12dn3fnbnrn4z5rmrb4as.pdf",
+      "alternatives": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "annulled": [
+        20,
+        25
+      ],
+      "questionCount": 30,
+      "pageCount": 15,
+      "examSha256": "61b3b98a3e48abfccf93af9831e66ce9954593bb2ee6b065ca91dbb0a9ddb995",
+      "answerSha256": "36a225665055537e0f7c3dd7561d3cc60037a826d9184538419f9c84eb0cbe19",
+      "mappedQuestions": 30
+    }
+  ],
+  "files": [
+    {
+      "id": "2026-1",
+      "kind": "prova",
+      "file": "2026-1-prova.pdf",
+      "url": "https://concurso30.fundacaocefetminas.org.br/documentos/CadernodeProvaTIPO1Integrado122639008142733807990.pdf",
+      "sha256": "df148d605407005741d75a32dcc8fa12bade6feea27ecb2b7ef9ab431bbb0965",
+      "bytes": 1079612
+    },
+    {
+      "id": "2026-1",
+      "kind": "gabarito",
+      "file": "2026-1-gabarito.pdf",
+      "url": "https://concurso30.fundacaocefetminas.org.br/documentos/GabaritoFinalIntegrado122639014208834868178.pdf",
+      "sha256": "30ea755721c4819b541c99f705dff05956503771be1d64bf9b822a2dd0ef8391",
+      "bytes": 121946
+    },
+    {
+      "id": "2025-1",
+      "kind": "prova",
+      "file": "2025-1-prova.pdf",
+      "url": "https://processoseletivo.ifsp.edu.br/media/public/8/8qgf9tz1lbiv2axxso73djdss/9z/9zhhn2yc4pckn2ptvq9qy4sft.pdf",
+      "sha256": "629f84ad0a31cebf4c47822f45f8d1d10f2bf9135284ae5f8ba8d744bc7e056c",
+      "bytes": 1962294
+    },
+    {
+      "id": "2025-1",
+      "kind": "gabarito",
+      "file": "2025-1-gabarito.pdf",
+      "url": "https://processoseletivo.ifsp.edu.br/media/public/8/8qgf9tz1lbiv2axxso73djdss/9q/9q0ijty2sm074vi52c4fm9x5v.pdf",
+      "sha256": "0ee8cadc94fb0ce37c9ad7d048771b25cb79c9c8ed1c7b70b2ac2dbd8c2e7073",
+      "bytes": 40523
+    },
+    {
+      "id": "2024-1",
+      "kind": "prova",
+      "file": "2024-1-prova.pdf",
+      "url": "https://processoseletivo.ifsp.edu.br/media/public/b/bwjctxb8f3ngkl7ybi9f94db/56/567pzirta5t1y18hkrthpt3cj.pdf",
+      "sha256": "61b3b98a3e48abfccf93af9831e66ce9954593bb2ee6b065ca91dbb0a9ddb995",
+      "bytes": 1331773
+    },
+    {
+      "id": "2024-1",
+      "kind": "gabarito",
+      "file": "2024-1-gabarito.pdf",
+      "url": "https://processoseletivo.ifsp.edu.br/media/public/b/bwjctxb8f3ngkl7ybi9f94db/96/96i12dn3fnbnrn4z5rmrb4as.pdf",
+      "sha256": "36a225665055537e0f7c3dd7561d3cc60037a826d9184538419f9c84eb0cbe19",
+      "bytes": 80289
+    }
+  ],
+  "review": {
+    "extractor": "proximo_ifsp",
+    "reviewer": "revisar_pipeline",
+    "answersChecked": 90,
+    "pdfHashesChecked": 6,
+    "pageMappingsChecked": 90,
+    "publication": "not-published",
+    "requiredReaderChange": "alternatives per edition: A-E in2026, A-D in2025/2024"
+  }
+}

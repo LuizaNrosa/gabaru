@@ -27,7 +27,7 @@
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "test": "node --test \"tests/*.test.mjs\"",
-    "prebuild": "node scripts/prepare-etec.mjs && node scripts/prepare-coluni.mjs && node scripts/prepare-ifsc.mjs && node scripts/prepare-ifsp.mjs",
+    "prebuild": "node scripts/restore-acervo-parts.mjs && node scripts/prepare-etec.mjs && node scripts/prepare-coluni.mjs && node scripts/prepare-ifsc.mjs && node scripts/prepare-ifsp.mjs",
     "db:migrate": "node scripts/migrate-db.mjs",
     "db:import-etec": "node scripts/import-etec-db.mjs",
     "validar:design": "node scripts/validar-design-unicamp.mjs"

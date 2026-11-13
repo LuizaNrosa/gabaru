@@ -1,0 +1,49 @@
+name: CI
+
+# Qualidade contínua do Gabaru: tipos, lint, testes (Postgres embutido via
+# PGlite) e build de produção — a cada push e PR na main.
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  qualidade:
+    name: typecheck · lint · test · build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Typecheck (tsc --noEmit)
+        run: npm run typecheck
+
+      - name: Lint (eslint)
+        run: npm run lint
+
+      - name: Testes (node --test + PGlite)
+        run: npm test
+
+      - name: Build de produção
+        # O prebuild baixa PDFs oficiais quando faltam; no CI os acervos já
+        # vêm commitados, então o download é pulado (hash confere).
+        run: npm run build
+        env:
+          # Nenhuma credencial real: o site degrada com elegância sem elas
+          # (rotas dependentes respondem 503 — comportamento provado).
+          NEXT_PUBLIC_SITE_URL: https://gabaru.com.br

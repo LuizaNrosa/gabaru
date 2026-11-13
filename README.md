@@ -2,17 +2,28 @@
 
 Site para vestibulinhos, vestibulares e concursos — https://gabaru.com.br
 
-Stack: Next.js (App Router) · TypeScript · Tailwind CSS v4 · Firebase Auth · Stripe.
+Stack: Next.js (App Router) · TypeScript · Tailwind CSS v4 · Firebase Auth · Stripe · PostgreSQL.
 
 > **Projeto independente do Linvuu.** Use projeto Firebase, conta Stripe e serviços
 > exclusivos do Gabaru. Nada aqui deve apontar para credenciais do Linvuu.
 
 ## Começando
 
+Requisito: Node.js ≥ 22.18 (testes usam `node --test` com TS nativo).
+
 ```bash
 npm install
 cp .env.example .env.local   # preencha com credenciais NOVAS do Gabaru
 npm run dev
+```
+
+Scripts de qualidade (usados pelo CI):
+
+```bash
+npm run typecheck   # tsc --noEmit
+npm run lint        # eslint .
+npm test            # node --test tests/*.test.mjs (Postgres embutido via PGlite)
+npm run build       # build de produção
 ```
 
 ## Firebase
@@ -47,6 +58,19 @@ src/
     stripe.ts                      # cliente Stripe (server-only)
 ```
 
+## Qualidade e CI
+
+O GitHub Actions roda a cada push/PR: `typecheck` → `lint` → `test` → `build`.
+Configure as variáveis de ambiente mínimas no CI (elas não precisam ser reais
+para o build passar):
+
+- `NEXT_PUBLIC_SITE_URL` (opcional no build; o padrão é gabaru.com.br)
+
 ## Autoria e direitos
 
-© 2026 Luiza Nascimento Rosa — todos os direitos reservados. Consulte [LICENSE](LICENSE).
+© 2026 **Luiza Nascimento Rosa** — todos os direitos reservados (ver `LICENSE`).
+Projeto independente, sem vínculo com as instituições dos exames. Provas,
+gabaritos e listas oficiais pertencem às suas instituições e são sempre
+citados com a fonte.
+
+

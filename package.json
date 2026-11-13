@@ -2,18 +2,38 @@
   "name": "gabaru",
   "version": "0.1.0",
   "private": true,
+  "description": "Site para vestibulinhos, vestibulares e concursos — provas oficiais verificadas, nota de corte e treino. gabaru.com.br",
+  "author": {
+    "name": "Luiza Nascimento Rosa",
+    "url": "https://github.com/LuizaNrosa"
+  },
+  "license": "UNLICENSED",
+  "homepage": "https://gabaru.com.br",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizaNrosa/gabaru.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuizaNrosa/gabaru/issues"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "copyright": "© 2026 Luiza Nascimento Rosa. Todos os direitos reservados.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "eslint .",
     "typecheck": "tsc --noEmit",
+    "test": "node --test \"tests/*.test.mjs\"",
     "prebuild": "node scripts/restore-acervo-parts.mjs && node scripts/prepare-etec.mjs && node scripts/prepare-coluni.mjs && node scripts/prepare-ifsc.mjs && node scripts/prepare-ifsp.mjs",
     "db:migrate": "node scripts/migrate-db.mjs",
     "db:import-etec": "node scripts/import-etec-db.mjs",
     "validar:design": "node scripts/validar-design-unicamp.mjs"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.107.1",
     "firebase": "^13.0.0",
     "firebase-admin": "^14.5.0",
     "next": "^16.4.1",
@@ -21,11 +41,13 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "server-only": "^0.0.1",
-    "stripe": "^17.0.0"
+    "stripe": "^17.0.0",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.14.0",
     "@electric-sql/pglite": "^0.5.14",
+    "@eslint/eslintrc": "^3.3.7",
     "@tailwindcss/postcss": "^4.0.0",
     "@types/node": "^22.0.0",
     "@types/pg": "^8.23.1",

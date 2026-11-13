@@ -140,6 +140,8 @@ a {
 .gb-text-link:hover {
   text-decoration: underline;
 }
+.gb-desktop-nav a[aria-current="page"] { color: var(--color-gold-text); text-decoration: underline; text-underline-offset: 5px; }
+.gb-mobile-nav a[aria-current="page"] { color: var(--color-gold-text); font-weight: 750; }
 .gb-login {
   display: flex;
   gap: 24px;
@@ -844,6 +846,8 @@ a {
   font-size: 36px;
   font-weight: 600;
 }
+.gb-stat-sm { font-size: 22px; font-weight: 650; letter-spacing: -0.4px; }
+.gb-skeleton { height: 52px; border-radius: 6px; background: var(--color-n1); border: 1px solid var(--color-n2); margin-top: 10px; }
 .gb-footer {
   background: #efe8d8;
   border-top: 1px solid #d8cfb6;

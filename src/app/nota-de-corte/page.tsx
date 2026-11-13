@@ -1,14 +1,15 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { NotaCorteTool, type Combinacao } from "@/components/nota-corte-tool";
+import { SeletorNotaDeCorte } from "@/components/seletor-nota-de-corte";
 import { JsonLd } from "@/components/json-ld";
 import { jsonLd, metaPagina } from "@/lib/seo";
 import dadosJson from "@/data/etec-demanda-cortes.json";
 
 export const metadata: Metadata = metaPagina({
-  titulo: "Minha nota dá para passar? Nota de corte e demanda do Vestibulinho ETEC",
+  titulo: "Nota de corte: vestibulinhos, ENEM e vestibulares | Gabaru",
   descricao:
-    "Calcule sua nota final do Vestibulinho com a pontuação acrescida e compare com a nota de corte real e a demanda oficial por curso, unidade e turno da ETEC. Sem estimativas: corte só de lista oficial.",
+    "Consulte notas de corte oficiais para vestibulinhos e vestibulares. Escolha a instituição e compare sua nota com os dados disponíveis no Gabaru.",
   caminho: "/nota-de-corte",
 });
 
@@ -47,10 +48,14 @@ export default function NotaDeCorte() {
   return (
     <main className="gb-container py-10">
       <JsonLd dados={jsonLd.faq(faq)} />
-      <p className="gb-eyebrow">FERRAMENTA GRATUITA · VESTIBULINHO ETEC</p>
+      <p className="gb-eyebrow">NOTAS DE CORTE · VESTIBULINHOS E VESTIBULARES</p>
       <h1 className="gb-page-title">
         Minha nota <mark>dá para passar?</mark>
       </h1>
+      <p className="mt-5 max-w-2xl text-lg leading-relaxed text-n5">Escolha sua prova para consultar dados oficiais disponíveis e descobrir como sua nota se compara. Cada seleção tem regras próprias; onde ainda faltam dados, avisamos.</p>
+      <SeletorNotaDeCorte />
+      <section id="etec" className="mt-12" aria-labelledby="corte-etec">
+      <h2 id="corte-etec" className="gb-section-title">Nota de corte do Vestibulinho ETEC</h2>
       <div className="mt-5 max-w-2xl text-lg leading-relaxed text-n5">
         <p>
           Escolha o curso, a unidade e o turno que você quer, diga quantas
@@ -69,12 +74,14 @@ export default function NotaDeCorte() {
       <div className="mt-8">
         <NotaCorteTool />
       </div>
+      </section>
 
       <section className="gb-section" aria-labelledby="outros-cortes">
         <h2 id="outros-cortes" className="gb-section-title">Compare outras provas</h2>
         <p className="mt-3 text-n5">Cada processo seletivo tem regras e escalas próprias. Escolha a ferramenta correspondente ao seu objetivo.</p>
         <div className="gb-content-grid mt-6">
           <Link className="gb-content-card" href="/nota-de-corte/fuvest"><h3>FUVEST 2027 e 2026</h3><p>Corte oficial para a segunda fase por carreira e modalidade.</p><span className="gb-text-link">Consultar FUVEST →</span></Link>
+          <Link className="gb-content-card" href="/nota-de-corte/unicamp"><h3>Unicamp 2027</h3><p>Acertos dos últimos convocados à segunda fase, por curso, cotas e PAAIS.</p><span className="gb-text-link">Consultar Unicamp →</span></Link>
           <Link className="gb-content-card" href="/nota-de-corte-ifsc"><h3>IFSC</h3><p>Dados por campus, curso, turno e modalidade nas edições disponíveis.</p><span className="gb-text-link">Consultar IFSC →</span></Link>
           <Link className="gb-content-card" href="/nota-de-corte-coluni"><h3>COLUNI</h3><p>Consulte os dados de classificação e corte derivados das fontes disponíveis.</p><span className="gb-text-link">Consultar COLUNI →</span></Link>
         </div>

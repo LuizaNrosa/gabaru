@@ -29,7 +29,8 @@ export function VestibularDocumentReader({ documents }: { documents: ArchiveDocu
   const provaCorrigida = provasUnesp.find(p => p.id === selected.id);
   const unicampCorrigida = unicampLote1.find(p => p.id === selected.id);
   const corrigida = Boolean(provaCorrigida);
-  const page = pages[id] ?? (corrigida ? 3 : selected.startPage);
+  const requestedPage = pages[id] ?? (corrigida ? 3 : selected.startPage);
+  const page = Number.isSafeInteger(requestedPage) && requestedPage >= 1 && requestedPage <= selected.pages ? requestedPage : 1;
   const url = provaCorrigida && [...unespAntigas, ...unespNovas, ...unespHistoricas].some(p => p.id === selected.id) ? `/acervo/unesp/${provaCorrigida.ano}/${provaCorrigida.aplicacao}/prova.pdf` : documentUrl(selected);
   return <section className="mt-8" aria-label="Cadernos e arquivos oficiais">
     {progresso.resumed && <p className="gb-notice mb-4" role="status">Continuando do documento e página salvos neste navegador.</p>}

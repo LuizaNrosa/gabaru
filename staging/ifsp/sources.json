@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2026-1",
+    "title": "IFSP 2026/1 · Integrado · Tipo 1",
+    "source": "https://concurso30.fundacaocefetminas.org.br/site/processo_seletivo_detalhes.aspx?id=8E2B67E9A3806F9F",
+    "examUrl": "https://concurso30.fundacaocefetminas.org.br/documentos/CadernodeProvaTIPO1Integrado122639008142733807990.pdf",
+    "answerUrl": "https://concurso30.fundacaocefetminas.org.br/documentos/GabaritoFinalIntegrado122639014208834868178.pdf",
+    "alternatives": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "annulled": [
+      27
+    ]
+  },
+  {
+    "id": "2025-1",
+    "title": "IFSP 2025/1 · Prova A · Manhã",
+    "source": "https://processoseletivo.ifsp.edu.br/cursos-tecnicos-2025-1/todos-documentos/",
+    "examUrl": "https://processoseletivo.ifsp.edu.br/media/public/8/8qgf9tz1lbiv2axxso73djdss/9z/9zhhn2yc4pckn2ptvq9qy4sft.pdf",
+    "answerUrl": "https://processoseletivo.ifsp.edu.br/media/public/8/8qgf9tz1lbiv2axxso73djdss/9q/9q0ijty2sm074vi52c4fm9x5v.pdf",
+    "alternatives": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "annulled": [
+      5
+    ]
+  },
+  {
+    "id": "2024-1",
+    "title": "IFSP 2024/1 · Prova A · Manhã",
+    "source": "https://processoseletivo.ifsp.edu.br/cursos-tecnicos-2024-1/todos-documentos/",
+    "examUrl": "https://processoseletivo.ifsp.edu.br/media/public/b/bwjctxb8f3ngkl7ybi9f94db/56/567pzirta5t1y18hkrthpt3cj.pdf",
+    "answerUrl": "https://processoseletivo.ifsp.edu.br/media/public/b/bwjctxb8f3ngkl7ybi9f94db/96/96i12dn3fnbnrn4z5rmrb4as.pdf",
+    "alternatives": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "annulled": [
+      20,
+      25
+    ]
+  }
+]

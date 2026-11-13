@@ -3,6 +3,7 @@ import { PathCards } from "@/components/path-cards";
 import { provasDa } from "@/data/provas";
 import Link from "next/link";
 import { VestibulinhoCollection } from "@/components/exam-collection";
+import { InstitutoCollection } from "@/components/instituto-collection";
 import { metaPagina } from "@/lib/seo";
 export const metadata = metaPagina({
   titulo: "Vestibulinhos: seu próximo passo",
@@ -26,7 +27,15 @@ export default function Page() {
           própria.
         </p>
       </PageHero>
-      <section id="provas" className={`${CONTAINER} py-10`}><h2 className="gb-section-title mb-6">Provas por instituição</h2><VestibulinhoCollection /><div className="mt-6 flex flex-wrap gap-4"><Link className="gb-button" href="/provas/ifmg">Provas IFMG ↗</Link><Link className="gb-button" href="/provas/ifrn">Provas IFRN ↗</Link><Link className="gb-button" href="/provas/ifce">Provas IFCE ↗</Link><Link className="gb-text-link" href="/provas/ifba">IFBA · acervo em coleta ↗</Link></div></section>
+      <section id="provas" className={`${CONTAINER} py-10`}>
+        <h2 className="gb-section-title mb-6">ETEC e COLUNI</h2><VestibulinhoCollection />
+      </section>
+      <section className={`${CONTAINER} py-10`} aria-labelledby="institutos-titulo">
+        <p className="gb-eyebrow">ENCONTRE O SEU IF</p>
+        <h2 id="institutos-titulo" className="gb-section-title mt-3">Institutos Federais</h2>
+        <p className="mt-3 mb-6 text-n5">Escolha seu instituto e treine com as provas disponíveis. Estamos ampliando o acervo para mais estados.</p>
+        <InstitutoCollection />
+      </section>
       <section className={`${CONTAINER} py-10`}>
         <p className="gb-notice mb-8">
           Os acervos incluem ETEC, COLUNI, IFSC, IFSP, IFMG, IFRN e IFCE. Confira as provas e a forma de correção disponível em cada instituição.

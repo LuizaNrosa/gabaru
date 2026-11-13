@@ -11,7 +11,7 @@ const digest = b => createHash('sha256').update(b).digest('hex');
 const wait = ms => new Promise(resolve => setTimeout(resolve, ms));
 let complete = 0;
 for (const job of jobs) {
-  if (!/^\d{4}-\d(?:-extra\d+)?$/.test(job.id)) throw new Error('Identificador inválido');
+  if (!/^\d{4}-\d(?:-extra\d+)?$/.test(job.id)) throw new Error("Identificador inválido");
   const dir = path.join('public', 'acervo', 'etec', job.id);
   const file = path.join(dir, job.name + '.pdf');
   try {
@@ -28,24 +28,23 @@ for (const job of jobs) {
     try {
       let current = url;
       for (let redirects = 0; ; redirects++) {
-      if (current.protocol !== 'https:' || !['fatweb.s3.amazonaws.com', 'vestibulinho.etec.sp.gov.br'].includes(current.hostname))
-        throw new Error('Redirecionamento para fonte não permitida');
-      response = await fetch(current, {
-        redirect: 'manual',
+        if (current.protocol !== "https:" || !["fatweb.s3.amazonaws.com", "vestibulinho.etec.sp.gov.br"].includes(current.hostname) || current.port || current.username || current.password) throw new Error("Redirecionamento para fonte não permitida");
+        response = await fetch(current, {
+        redirect: "manual",
         signal: AbortSignal.timeout(45000),
         headers: {
           'User-Agent': 'Gabaru official examination archive (+https://gabaru.com.br)',
           'Referer': 'https://vestibulinho.etec.sp.gov.br/provas-gabaritos/',
         },
       });
-      if (response.status >= 300 && response.status < 400) {
-        const location = response.headers.get('location');
-        await response.body?.cancel();
-        if (!location || redirects >= 3) throw new Error('Redirecionamento inválido');
-        current = new URL(location, current);
-        continue;
-      }
-      break;
+        if ([301, 302, 303, 307, 308].includes(response.status)) {
+          const location = response.headers.get("location");
+          await response.body?.cancel();
+          if (!location || redirects >= 3) throw new Error("Redirecionamento inválido");
+          current = new URL(location, current);
+          continue;
+        }
+        break;
       }
       if (!response.ok) {
         await response.body?.cancel();

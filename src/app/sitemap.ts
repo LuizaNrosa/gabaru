@@ -7,6 +7,7 @@ import etecExams from "@/data/etec-exams.json";
 import coluniExams from "@/data/coluni-exams.json";
 import ifscExams from "@/data/ifsc-exams.json";
 import ifspExams from "@/data/ifsp-exams.json";
+import { examesUerjUel as uerjUel } from "@/lib/uerj-uel-exams";
 
 /**
  * Mapa do site para os mecanismos de busca.
@@ -26,6 +27,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/enem",
     "/provas",
     "/provas/enem",
+    "/provas/uerj",
+    "/provas/uel",
     "/concursos",
     "/materiais-gratuitos",
     "/nota-de-corte",
@@ -57,6 +60,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const ifsp = (ifspExams as { id: string }[]).map((e) => ({
     url: url(`/provas/ifsp/${e.id}`),
   }));
+  const fuvest = Array.from({ length: 50 }, (_, i) => ({ url: url(`/provas/fuvest/${2026 - i}`) }));
   const unesp = archiveYears("unesp").map((ano) => ({
     url: url(`/provas/unesp/${ano}`),
   }));
@@ -74,8 +78,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...coluni,
     ...ifsc,
     ...ifsp,
+    ...fuvest,
     ...unesp,
     ...unicamp,
+    ...uerjUel.map(p => ({ url: url(`/provas/${p.instituicao.toLowerCase()}/${p.id}`) })),
   ].filter((item) => {
     if (vistos.has(item.url)) return false;
     vistos.add(item.url);

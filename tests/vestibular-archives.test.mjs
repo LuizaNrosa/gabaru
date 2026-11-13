@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-const hosts = new Set(['www.vunesp.com.br', 'documento.vunesp.com.br', 'vestibular.unesp.br', 'www.comvest.unicamp.br', 'comvest.unicamp.br']);
+const hosts = new Set(['www.vunesp.com.br', 'documento.vunesp.com.br', 'vestibular.unesp.br', 'network.grupoabril.com.br', 'www.comvest.unicamp.br', 'comvest.unicamp.br']);
 for (const institution of ['unesp', 'unicamp']) {
   const archive = JSON.parse(await readFile(new URL(`../src/data/${institution}-archive.json`, import.meta.url), 'utf8'));
   test(`${institution}: verified official PDFs have unique IDs and hashes`, () => {

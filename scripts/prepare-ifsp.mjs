@@ -18,7 +18,7 @@ for(const e of exams){
  const docs=[['prova',e.examUrl,e.examSha256],['gabarito',e.answerUrl,e.answerSha256],
   ...(e.extraMaterials??[]).map(x=>[x.file.replace(/\.pdf$/,''),x.url,x.sha256])];
  for(const [name,url,hash] of docs){
-  if(!/^[a-zA-Z0-9_-]+$/.test(name))throw new Error('Nome de documento inválido');
+  if(!/^[a-zA-Z0-9_-]+$/.test(name))throw new Error("Nome de documento inválido");
   const source=new URL(url);
   if(source.protocol!=='https:'||!HOSTS.has(source.hostname))throw new Error('Fonte não oficial: '+url);
   const folder=path.join('public','acervo','ifsp',e.id),file=path.join(folder,name+'.pdf');

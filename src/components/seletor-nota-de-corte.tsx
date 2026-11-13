@@ -2,6 +2,10 @@
 
 import Link from "next/link";
 import { useId, useState } from "react";
+import { NotaCorteFuvestTool } from "@/components/nota-corte-fuvest-tool";
+import { NotaCorteUnicampTool } from "@/components/nota-corte-unicamp-tool";
+import { NotaCorteIfscTool } from "@/components/nota-corte-ifsc-tool";
+import { NotaCorteColuniTool } from "@/components/nota-corte-coluni-tool";
 
 type Tipo = "vestibulinho" | "enem" | "vestibular";
 type Opcao = { id: string; nome: string; ferramenta?: string; treino: string; detalhe?: string };
@@ -43,7 +47,12 @@ export function SeletorNotaDeCorte() {
     <section aria-labelledby="seletor-corte-titulo" className="rounded-lg border border-n2 bg-white/60 p-5 sm:p-7">
       <p className="gb-eyebrow">ENCONTRE SUA REFERÊNCIA</p>
       <h2 id="seletor-corte-titulo" className="gb-section-title mt-3">Qual prova você vai fazer?</h2>
-      <p className="mt-3 text-n5">Escolha o tipo de prova e a instituição para consultar os dados já disponíveis.</p>
+      <p className="mt-3 text-n5">Encontre a referência para o seu objetivo: escolha a prova e a instituição; depois, informe o curso e os demais detalhes que se aplicam à seleção.</p>
+      <ol className="mt-5 grid gap-2 text-sm text-n5 sm:grid-cols-3">
+        <li><strong className="text-ink">1. Prova</strong> · vestibulinho, ENEM ou vestibular</li>
+        <li><strong className="text-ink">2. Instituição</strong> · onde você quer estudar</li>
+        <li><strong className="text-ink">3. Seu objetivo</strong> · curso e modalidade, quando houver</li>
+      </ol>
       <div className="mt-6 grid gap-4 sm:grid-cols-2">
         <div>
           <label htmlFor={tipoId} className="mb-2 block font-semibold">Tipo de prova</label>
@@ -66,10 +75,19 @@ export function SeletorNotaDeCorte() {
         <p className="font-bold">{selecionada.nome} · {selecionada.ferramenta ? "Consulta disponível" : "Dados de corte em coleta"}</p>
         <p className="mt-2 text-n5">{selecionada.detalhe ?? "Ainda estamos reunindo e conferindo os dados desta seleção. Você já pode conhecer o acervo ou acompanhar sua disponibilidade."}</p>
         <div className="mt-4 flex flex-wrap items-center gap-4">
-          {selecionada.ferramenta && <Link href={selecionada.ferramenta} className="gb-button">Consultar {selecionada.nome} →</Link>}
+          {selecionada.ferramenta && selecionada.id === "etec" && <Link href={selecionada.ferramenta} className="gb-button">Escolher unidade e curso →</Link>}
+          {selecionada.ferramenta && selecionada.id !== "etec" && <Link href={selecionada.ferramenta} className="gb-text-link">Abrir página completa →</Link>}
           <Link href={selecionada.treino} className="gb-text-link">{selecionada.id === "ifba" ? "Ver disponibilidade" : "Treinar com provas"} →</Link>
         </div>
       </div>}
+      {selecionada && selecionada.id !== "etec" && selecionada.ferramenta && <div className="mt-7">
+        <h3 className="mb-3 text-xl font-bold">Escolha seu objetivo · {selecionada.nome}</h3>
+        {selecionada.id === "fuvest" && <NotaCorteFuvestTool />}
+        {selecionada.id === "unicamp" && <NotaCorteUnicampTool />}
+        {selecionada.id === "ifsc" && <NotaCorteIfscTool />}
+        {selecionada.id === "coluni" && <NotaCorteColuniTool />}
+      </div>}
+      {selecionada && !selecionada.ferramenta && <p className="mt-4 text-sm text-n5">Próxima etapa após a conferência: escolher {tipo === "enem" ? "universidade, campus, curso, turno e modalidade" : "curso e, quando houver, campus, turno e modalidade"}. A consulta será aberta quando houver dados para essa combinação.</p>}
     </section>
   );
 }

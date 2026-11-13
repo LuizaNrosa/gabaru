@@ -6,6 +6,11 @@ import { NotaCorteFuvestTool } from "@/components/nota-corte-fuvest-tool";
 import { NotaCorteUnicampTool } from "@/components/nota-corte-unicamp-tool";
 import { NotaCorteIfscTool } from "@/components/nota-corte-ifsc-tool";
 import { NotaCorteColuniTool } from "@/components/nota-corte-coluni-tool";
+import { NotaCorteUnespTool } from "@/components/nota-corte-unesp-tool";
+import { NotaCorteSisuUfcTool } from "@/components/nota-corte-sisu-ufc-tool";
+import { NotaCorteIfmgTool } from "@/components/nota-corte-ifmg-tool";
+import { NotaCorteCotucaTool } from "@/components/nota-corte-cotuca-tool";
+import { NotaCorteIfrnTool } from "@/components/nota-corte-ifrn-tool";
 
 type Tipo = "vestibulinho" | "enem" | "vestibular";
 type Opcao = { id: string; nome: string; ferramenta?: string; treino: string; detalhe?: string };
@@ -15,21 +20,21 @@ const opcoes: Record<Tipo, Opcao[]> = {
     { id: "etec", nome: "ETEC", ferramenta: "/nota-de-corte#etec", treino: "/provas/etec", detalhe: "Compare com as combinações já verificadas." },
     { id: "coluni", nome: "COLUNI/UFV", ferramenta: "/nota-de-corte-coluni", treino: "/provas/coluni", detalhe: "Dados e cortes derivados das fontes disponíveis." },
     { id: "ifsc", nome: "IFSC", ferramenta: "/nota-de-corte-ifsc", treino: "/provas/ifsc", detalhe: "Consulte as edições e modalidades já conferidas." },
-    { id: "cotuca", nome: "COTUCA", treino: "/provas", detalhe: "Dados de corte em coleta; consulte o acervo disponível." },
+    { id: "cotuca", nome: "COTUCA", treino: "/provas", detalhe: "Confira cursos e vagas de 2027 e calcule a pontuação; corte em coleta." },
     { id: "senai", nome: "SENAI", treino: "/provas", detalhe: "Dados de corte em coleta; consulte o acervo disponível." },
     { id: "ifsp", nome: "IFSP", treino: "/provas/ifsp" },
-    { id: "ifmg", nome: "IFMG", treino: "/provas/ifmg" },
-    { id: "ifrn", nome: "IFRN", treino: "/provas/ifrn" },
+    { id: "ifmg", nome: "IFMG", treino: "/provas/ifmg", detalhe: "Escolha campus e curso para acompanhar a conferência das notas." },
+    { id: "ifrn", nome: "IFRN", ferramenta: "/nota-de-corte/ifrn", treino: "/provas/ifrn", detalhe: "Escore da última posição aprovada na classificação de 2026; não é resultado de matrícula." },
     { id: "ifce", nome: "IFCE", treino: "/provas/ifce" },
     { id: "ifba", nome: "IFBA", treino: "/provas/ifba" },
   ],
   enem: [
-    { id: "enem-sisu", nome: "ENEM / Sisu", treino: "/provas/enem" },
+    { id: "enem-sisu", nome: "ENEM / Sisu", ferramenta: "/nota-de-corte/sisu", treino: "/provas/enem", detalhe: "Consulta disponível para a UFC na chamada regular de 2026; demais universidades em coleta." },
   ],
   vestibular: [
     { id: "fuvest", nome: "FUVEST", ferramenta: "/nota-de-corte/fuvest", treino: "/provas/fuvest", detalhe: "Corte para a segunda fase por carreira e modalidade." },
     { id: "unicamp", nome: "Unicamp", ferramenta: "/nota-de-corte/unicamp", treino: "/provas/unicamp", detalhe: "Convocação à segunda fase por curso e modalidade." },
-    { id: "unesp", nome: "Unesp", treino: "/provas/unesp" },
+    { id: "unesp", nome: "Unesp", ferramenta: "/nota-de-corte/unesp", treino: "/provas/unesp", detalhe: "Corte para a segunda fase de 2026 por curso, cidade e modalidade." },
     { id: "uerj", nome: "UERJ", treino: "/provas/uerj" },
     { id: "uel", nome: "UEL", treino: "/provas/uel" },
   ],
@@ -86,8 +91,13 @@ export function SeletorNotaDeCorte() {
         {selecionada.id === "unicamp" && <NotaCorteUnicampTool />}
         {selecionada.id === "ifsc" && <NotaCorteIfscTool />}
         {selecionada.id === "coluni" && <NotaCorteColuniTool />}
+        {selecionada.id === "unesp" && <NotaCorteUnespTool />}
+        {selecionada.id === "enem-sisu" && <NotaCorteSisuUfcTool />}
+        {selecionada.id === "ifrn" && <NotaCorteIfrnTool />}
       </div>}
-      {selecionada && !selecionada.ferramenta && <p className="mt-4 text-sm text-n5">Próxima etapa após a conferência: escolher {tipo === "enem" ? "universidade, campus, curso, turno e modalidade" : "curso e, quando houver, campus, turno e modalidade"}. A consulta será aberta quando houver dados para essa combinação.</p>}
+      {selecionada?.id === "cotuca" && <div className="mt-7"><NotaCorteCotucaTool /><Link href="/nota-de-corte/cotuca" className="gb-text-link">Abrir página completa do COTUCA →</Link></div>}
+      {selecionada?.id === "ifmg" && <div className="mt-7"><NotaCorteIfmgTool /></div>}
+      {selecionada && !selecionada.ferramenta && selecionada.id !== "ifmg" && selecionada.id !== "cotuca" && <p className="mt-4 text-sm text-n5">Próxima etapa após a conferência: escolher {tipo === "enem" ? "universidade, campus, curso, turno e modalidade" : "curso e, quando houver, campus, turno e modalidade"}. A consulta será aberta quando houver dados para essa combinação.</p>}
     </section>
   );
 }

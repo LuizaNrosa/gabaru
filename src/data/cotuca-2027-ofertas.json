@@ -1,0 +1,26 @@
+{
+  "edicao": 2027,
+  "fonte": "https://www.exame.cotuca.unicamp.br/editais_anexos/112/visualizar",
+  "fonte_adendo": "https://www.exame.cotuca.unicamp.br/editais_anexos/123/visualizar",
+  "ofertas": [
+    {"codigo":16,"tipo":"integrado","curso":"Alimentos","turno":"Diurno","vagas":40},
+    {"codigo":17,"tipo":"integrado","curso":"Eletroeletrônica","turno":"Diurno","vagas":40},
+    {"codigo":18,"tipo":"integrado","curso":"Enfermagem","turno":"Diurno","vagas":40},
+    {"codigo":19,"tipo":"integrado","curso":"Informática","turno":"Diurno","vagas":40},
+    {"codigo":20,"tipo":"integrado","curso":"Mecatrônica","turno":"Diurno","vagas":40},
+    {"codigo":21,"tipo":"integrado","curso":"Eletroeletrônica","turno":"Noturno","vagas":40},
+    {"codigo":22,"tipo":"integrado","curso":"Mecatrônica","turno":"Noturno","vagas":40},
+    {"codigo":31,"tipo":"tecnico","curso":"Plásticos","turno":"Matutino","vagas":40},
+    {"codigo":33,"tipo":"tecnico","curso":"Meio Ambiente","turno":"Noturno","vagas":40},
+    {"codigo":39,"tipo":"tecnico","curso":"Desenvolvimento de Sistemas","turno":"Vespertino","vagas":40},
+    {"codigo":40,"tipo":"tecnico","curso":"Eletroeletrônica","turno":"Noturno","vagas":40},
+    {"codigo":44,"tipo":"tecnico","curso":"Plásticos","turno":"Noturno","vagas":40},
+    {"codigo":48,"tipo":"tecnico","curso":"Mecatrônica","turno":"Noturno","vagas":40},
+    {"codigo":49,"tipo":"tecnico","curso":"Enfermagem","turno":"Vespertino","vagas":35},
+    {"codigo":53,"tipo":"tecnico","curso":"Segurança do Trabalho","turno":"Noturno","vagas":40},
+    {"codigo":59,"tipo":"tecnico","curso":"Desenvolvimento de Sistemas","turno":"Noturno","vagas":40},
+    {"codigo":60,"tipo":"tecnico","curso":"Tecnologia da Informação e Comunicação","turno":"Noturno","vagas":40},
+    {"codigo":65,"tipo":"tecnico","curso":"Automação Industrial","turno":"Noturno","vagas":40},
+    {"codigo":66,"tipo":"tecnico","curso":"Mecânica","turno":"Noturno","vagas":40}
+  ]
+}

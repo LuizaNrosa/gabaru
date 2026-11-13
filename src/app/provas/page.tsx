@@ -5,7 +5,7 @@ import { metaPagina } from "@/lib/seo";
 
 export const metadata = metaPagina({
   titulo: "Acervo de provas oficiais",
-  descricao: "Encontre provas da ETEC, COLUNI, IFSC, IFSP, ENEM, FUVEST, Unesp, Unicamp, UERJ e UEL, organizadas por instituição e edição.",
+  descricao: "Encontre provas da ETEC, COLUNI, IFSC, IFSP, IFMG, IFRN, IFCE, IFBA, ENEM, FUVEST, Unesp, Unicamp, UERJ e UEL, organizadas por instituição e edição.",
   caminho: "/provas",
 });
 
@@ -18,6 +18,10 @@ const grupos = [
       { nome: "COLUNI", detalhe: "Colégio de Aplicação da UFV", href: "/provas/coluni" },
       { nome: "IFSC", detalhe: "Instituto Federal de Santa Catarina", href: "/provas/ifsc" },
       { nome: "IFSP", detalhe: "Instituto Federal de São Paulo", href: "/provas/ifsp" },
+      { nome: "IFMG", detalhe: "Instituto Federal de Minas Gerais", href: "/provas/ifmg" },
+      { nome: "IFRN", detalhe: "Instituto Federal do Rio Grande do Norte", href: "/provas/ifrn" },
+      { nome: "IFCE", detalhe: "Instituto Federal do Ceará · campus Fortaleza", href: "/provas/ifce" },
+      { nome: "IFBA", detalhe: "Instituto Federal da Bahia · acervo em coleta", href: "/provas/ifba" },
     ],
   },
   {

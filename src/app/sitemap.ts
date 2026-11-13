@@ -32,6 +32,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/concursos",
     "/materiais-gratuitos",
     "/nota-de-corte",
+    "/nota-de-corte/fuvest",
+    "/nota-de-corte/unicamp",
     "/nota-de-corte-coluni",
     "/nota-de-corte-ifsc",
     "/planos",

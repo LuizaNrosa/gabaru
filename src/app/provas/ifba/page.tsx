@@ -1,4 +1,3 @@
-import Link from "next/link";
-import {metaPagina} from "@/lib/seo";
-export const metadata=metaPagina({titulo:"IFBA: provas anteriores para treinar",descricao:"Acompanhe a organização das provas do Instituto Federal da Bahia no Gabaru.",caminho:"/provas/ifba"});
-export default function Page(){return <main className="gb-container py-10"><Link className="gb-text-link" href="/pre-vestibulinho">← Vestibulinhos</Link><p className="gb-eyebrow mt-8">INSTITUTO FEDERAL DA BAHIA</p><h1 className="gb-page-title">Provas do IFBA.</h1><p className="mt-5 text-lg">Estamos reunindo e conferindo os cadernos e gabaritos do IFBA para você treinar aqui.</p><p className="gb-notice mt-6">Acervo em coleta: ainda não há prova do IFBA disponível para treino no Gabaru.</p><div className="gb-actions"><Link className="gb-button" href="/provas">Ver provas disponíveis ↗</Link></div></main>;}
+import {IfArchive,metaIf} from "@/components/if-archive-pages";
+export const metadata=metaIf("ifba");
+export default function Page(){return <IfArchive slug="ifba"/>;}

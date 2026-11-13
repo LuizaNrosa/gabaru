@@ -7,7 +7,7 @@ import { InstitutoCollection } from "@/components/instituto-collection";
 import { metaPagina } from "@/lib/seo";
 export const metadata = metaPagina({
   titulo: "Vestibulinhos: seu próximo passo",
-  descricao: "Provas oficiais da ETEC, COLUNI, IFSC, IFSP, IFMG, IFRN, IFCE e IFBA por instituição e edição, com cadernos e gabaritos.",
+  descricao: "Provas oficiais da ETEC, COLUNI, IFSC, IFSP, IFMG, IFRN, IFCE, IFMT, IFRS e IFBA por instituição e edição, com cadernos e gabaritos.",
   caminho: "/pre-vestibulinho",
 });
 export default function Page() {
@@ -38,7 +38,7 @@ export default function Page() {
       </section>
       <section className={`${CONTAINER} py-10`}>
         <p className="gb-notice mb-8">
-          Os acervos incluem ETEC, COLUNI, IFSC, IFSP, IFMG, IFRN e IFCE. Confira as provas e a forma de correção disponível em cada instituição.
+          Os acervos incluem ETEC, COLUNI, IFSC, IFSP, IFMG, IFRN, IFCE, IFMT e IFRS. Confira as provas e a forma de correção disponível em cada instituição.
         </p>
         <PathCards items={provasDa("vestibulinho")} />
       </section>

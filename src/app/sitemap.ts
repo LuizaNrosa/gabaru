@@ -8,6 +8,10 @@ import coluniExams from "@/data/coluni-exams.json";
 import ifscExams from "@/data/ifsc-exams.json";
 import ifspExams from "@/data/ifsp-exams.json";
 import { examesUerjUel as uerjUel } from "@/lib/uerj-uel-exams";
+import ifmt2025 from "@/data/ifmt-2025-1.json";
+import ifmt2026 from "@/data/ifmt-2026-1.json";
+import ifrs2025 from "@/data/ifrs-2025-1.json";
+import ifrs2026 from "@/data/ifrs-2026-1.json";
 
 /**
  * Mapa do site para os mecanismos de busca.
@@ -29,6 +33,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/provas/enem",
     "/provas/uerj",
     "/provas/uel",
+    "/provas/ifmt",
+    "/provas/ifrs",
     "/concursos",
     "/materiais-gratuitos",
     "/nota-de-corte",
@@ -87,6 +93,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...fuvest,
     ...unesp,
     ...unicamp,
+    ...[...ifmt2025, ...ifmt2026, ...ifrs2025, ...ifrs2026].map(e => ({ url: url(`/provas/${e.instituicao.toLowerCase()}/${e.id}`) })),
     ...uerjUel.map(p => ({ url: url(`/provas/${p.instituicao.toLowerCase()}/${p.id}`) })),
   ].filter((item) => {
     if (vistos.has(item.url)) return false;

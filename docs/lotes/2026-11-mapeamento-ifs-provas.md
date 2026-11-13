@@ -1,10 +1,10 @@
 # Mapeamento nacional de provas dos Institutos Federais
 
-Pesquisa realizada em 13/11/2026. Objetivo: localizar cadernos oficiais de seleção para cursos técnicos integrados e seus gabaritos. **Localizado não significa importado nem disponível para resolução no Gabaru.** Antes de integrar: conferir edição, modalidade, número de questões e alternativas; cotejar prova e gabarito definitivo; conferir reaplicações e eventuais anulações expressas, legibilidade, integridade e condições de reprodução. Não classificar símbolos como anulação sem confirmação. Algumas seleções usam histórico escolar ou sorteio e podem não ter caderno.
+Pesquisa realizada em 13/11/2026; cobertura atualizada após lote IFMT/IFRS. Objetivo: localizar cadernos oficiais de seleção para cursos técnicos integrados e seus gabaritos. **Localizado não significa importado nem disponível para resolução no Gabaru.** Antes de integrar: conferir edição, modalidade, número de questões e alternativas; cotejar prova e gabarito definitivo; conferir reaplicações e eventuais anulações expressas, legibilidade, integridade e condições de reprodução. Não classificar símbolos como anulação sem confirmação. Algumas seleções usam histórico escolar ou sorteio e podem não ter caderno.
 
 ## Cobertura por UF
 
-O levantamento enumera 38 Institutos Federais (não inclui CEFETs nem escolas técnicas de universidades, que são instituições distintas). No catálogo do Gabaru constam IFSC, IFSP, IFMG, IFRN e IFCE; IFBA possui página marcada **em coleta**, não tratada como prova incorporada. Ter uma instituição no catálogo não significa cobrir todos os campi ou edições.
+O levantamento enumera 38 Institutos Federais (não inclui CEFETs nem escolas técnicas de universidades, que são instituições distintas). No catálogo do Gabaru constam IFSC, IFSP, IFMG, IFRN, IFCE, IFMT e IFRS; IFBA possui página marcada **em coleta**, não tratada como prova incorporada. Ter uma instituição no catálogo não significa cobrir todos os campi ou edições.
 
 | Região | Estado | Institutos identificados | Situação no catálogo atual |
 |---|---|---|---|
@@ -26,7 +26,7 @@ O levantamento enumera 38 Institutos Federais (não inclui CEFETs nem escolas t�
 | Nordeste | SE | IFS | Falta |
 | Centro-Oeste | DF | IFB | Falta |
 | Centro-Oeste | GO | IFG; IF Goiano | Faltam ambos |
-| Centro-Oeste | MT | IFMT | Falta |
+| Centro-Oeste | MT | IFMT | Presente: 2025/1 e 2026/1 |
 | Centro-Oeste | MS | IFMS | Falta |
 | Sudeste | ES | IFES | Falta |
 | Sudeste | MG | IFMG; IFNMG; IF Sudeste MG; IFSULDEMINAS; IFTM | IFMG presente; faltam os demais |
@@ -34,7 +34,7 @@ O levantamento enumera 38 Institutos Federais (não inclui CEFETs nem escolas t�
 | Sudeste | SP | IFSP | Presente |
 | Sul | PR | IFPR | Falta |
 | Sul | SC | IFSC; IFC | IFSC presente; IFC falta |
-| Sul | RS | IFRS; IFFar; IFSul | Faltam os três |
+| Sul | RS | IFRS; IFFar; IFSul | IFRS presente; faltam IFFar e IFSul |
 
 ## Primeiras fontes oficiais encontradas
 
@@ -70,7 +70,7 @@ O levantamento enumera 38 Institutos Federais (não inclui CEFETs nem escolas t�
 
 ## Próximos lotes
 
-1. Começar por **IFRS, IFFar, IFMT e IF Sudeste MG**, após verificar o uso dos PDFs, gabaritos definitivos e anulações.
+1. Após o lote de IFRS e IFMT, avaliar **IFFar e IF Sudeste MG**, verificando o uso dos PDFs, gabaritos definitivos e anulações.
 2. Recuperar IFMA 2026 e processar IFS 2018/1, conferindo explicitamente a questão anulada.
 3. Resolver os hífens de IFTO 2024/1 com fonte expressa e validar a modalidade do IFPI 2026.
 4. Recuperar arquivos inacessíveis de IFC e IFMS; pesquisar os IFs ainda sem fonte de prova e registrar quando o processo usar histórico ou sorteio.

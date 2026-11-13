@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { NotaCorteTool, type Combinacao } from "@/components/nota-corte-tool";
 import { JsonLd } from "@/components/json-ld";
 import { jsonLd, metaPagina } from "@/lib/seo";
@@ -68,6 +69,16 @@ export default function NotaDeCorte() {
       <div className="mt-8">
         <NotaCorteTool />
       </div>
+
+      <section className="gb-section" aria-labelledby="outros-cortes">
+        <h2 id="outros-cortes" className="gb-section-title">Compare outras provas</h2>
+        <p className="mt-3 text-n5">Cada processo seletivo tem regras e escalas próprias. Escolha a ferramenta correspondente ao seu objetivo.</p>
+        <div className="gb-content-grid mt-6">
+          <Link className="gb-content-card" href="/nota-de-corte/fuvest"><h3>FUVEST 2027 e 2026</h3><p>Corte oficial para a segunda fase por carreira e modalidade.</p><span className="gb-text-link">Consultar FUVEST →</span></Link>
+          <Link className="gb-content-card" href="/nota-de-corte-ifsc"><h3>IFSC</h3><p>Dados por campus, curso, turno e modalidade nas edições disponíveis.</p><span className="gb-text-link">Consultar IFSC →</span></Link>
+          <Link className="gb-content-card" href="/nota-de-corte-coluni"><h3>COLUNI</h3><p>Consulte os dados de classificação e corte derivados das fontes disponíveis.</p><span className="gb-text-link">Consultar COLUNI →</span></Link>
+        </div>
+      </section>
 
       <section className="gb-section" aria-labelledby="nc-como">
         <p className="gb-eyebrow">A REGRA DO JOGO</p>

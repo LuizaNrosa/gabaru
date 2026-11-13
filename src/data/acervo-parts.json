@@ -1,0 +1,10 @@
+[
+  {
+    "file": "public/acervo/coluni/2017/prova.pdf",
+    "sha256": "7c655ac298a49b5c6823722e1557a947a762669d6fa295272e8edf5dd3e48dd0",
+    "parts": [
+      "acervo-parts/coluni/2017/prova.pdf.part0",
+      "acervo-parts/coluni/2017/prova.pdf.part1"
+    ]
+  }
+]

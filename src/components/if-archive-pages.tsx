@@ -5,10 +5,11 @@ import adicionais from "@/data/ifs-2023.json";
 import recentes from "@/data/ifs-lote-2026.json";
 import historicos from "@/data/ifs-historicos.json";
 import agentes from "@/data/ifs-agentes.json";
-const dados=[...primeiros,...adicionais,...recentes,...historicos,...agentes];
+import agentes2 from "@/data/ifs-agentes-2.json";
+const dados=[...primeiros,...adicionais,...recentes,...historicos,...agentes,...agentes2];
 import {IfCadernoReader} from "@/components/if-caderno-reader";
 import {metaPagina} from "@/lib/seo";
-const nomes:Record<string,string>={ifmg:"Instituto Federal de Minas Gerais",ifrn:"Instituto Federal do Rio Grande do Norte",ifce:"Instituto Federal do Ceará"};
+const nomes:Record<string,string>={ifmg:"Instituto Federal de Minas Gerais",ifrn:"Instituto Federal do Rio Grande do Norte",ifce:"Instituto Federal do Ceará",ifba:"Instituto Federal da Bahia"};
 export const listaIfs=dados;
 export function metaIf(slug:string){return metaPagina({titulo:`${slug.toUpperCase()}: provas anteriores e gabaritos`,descricao:`Treine provas oficiais do ${nomes[slug]} gratuitamente no Gabaru.`,caminho:`/provas/${slug}`});}
 export function metaIfEdicao(slug:string,id:string){const c=dados.find(e=>e.id===id&&e.instituicao.toLowerCase()===slug);return c?metaPagina({titulo:`${c.titulo}: prova e gabarito`,descricao:`Responda ${c.total} questões da prova ${c.titulo} no Gabaru.`,caminho:`/provas/${slug}/${id}`}):{};}

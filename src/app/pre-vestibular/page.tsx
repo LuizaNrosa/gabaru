@@ -8,7 +8,7 @@ import { metaPagina } from "@/lib/seo";
 export const metadata = metaPagina({
   titulo: "ENEM e vestibulares",
   descricao:
-    "Consulte provas anteriores do ENEM, UNESP e Unicamp, organizadas por instituição e ano.",
+    "Consulte provas anteriores do ENEM, FUVEST, UNESP e Unicamp, organizadas por instituição e ano.",
   caminho: "/pre-vestibular",
 });
 export default function Page() {
@@ -25,7 +25,7 @@ export default function Page() {
         }
       >
         <p>
-          Consulte as provas do ENEM, da UNESP e da Unicamp. Escolha a
+          Consulte as provas do ENEM, da FUVEST, da UNESP e da Unicamp. Escolha a
           instituição, o ano e o caderno para estudar a partir das fontes oficiais.
         </p>
       </PageHero>
@@ -61,7 +61,7 @@ export default function Page() {
             return <Link key={p.slug} href={`/provas/${p.slug}`} className="gb-content-card">
               <h3>{p.nome}</h3>
               <p>{institution ? `${years.length} anos de acervo · ${ARCHIVES[institution].documents.length} documentos oficiais verificados.` : p.resumo}</p>
-              <span className="gb-text-link">{institution ? "Escolher ano e prova ↗" : "Conhecer a estrutura ↗"}</span>
+              <span className="gb-text-link">{institution || p.slug === "fuvest" ? "Escolher ano e prova ↗" : "Conhecer a estrutura ↗"}</span>
             </Link>;
           })}
         </div>

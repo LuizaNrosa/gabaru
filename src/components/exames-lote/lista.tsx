@@ -1,0 +1,8 @@
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import { examesUerjUel as provas } from "@/lib/uerj-uel-exams";
+import { metaPagina } from "@/lib/seo";
+type Props = { params: Promise<{ banca: string }> };
+export function generateStaticParams(){ return ["uerj","uel"].map(banca=>({banca})); }
+export async function generateMetadata({params}: Props){const {banca}=await params;return metaPagina({titulo:`Provas ${banca.toUpperCase()} com gabarito`,descricao:`Treine provas oficiais ${banca.toUpperCase()} no Gabaru com correção gratuita.`,caminho:`/provas/${banca}`});}
+export default async function Page({params}: Props){const {banca}=await params;if(!["uerj","uel"].includes(banca))notFound();const itens=provas.filter(p=>p.instituicao.toLowerCase()===banca);return <main className="gb-container py-10"><Link href="/provas" className="gb-text-link">← Acervo de provas</Link><p className="gb-eyebrow mt-8">ACERVO DE PROVAS</p><h1 className="gb-page-title">Provas da {banca.toUpperCase()} para treinar.</h1><p className="mt-5 text-lg">Resolva no Gabaru, confira o gabarito e continue de onde parou neste navegador. Gratuito, sem cadastro.</p>{banca==="uel" && <p className="gb-notice mt-6">Inglês e espanhol são versões do mesmo vestibular. Escolha o idioma desejado; elas não são contadas como vestibulares diferentes.</p>}<div className="mt-8 grid gap-5 md:grid-cols-2">{itens.map(p=><Link className="gb-content-card" key={p.id} href={`/provas/${banca}/${p.id}`}><h2 className="text-xl font-bold">{p.titulo}</h2><p>60 questões objetivas · correção pelo gabarito oficial</p><span className="gb-text-link">Abrir caderno e responder ↗</span></Link>)}</div></main>}

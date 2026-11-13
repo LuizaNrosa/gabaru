@@ -1,6 +1,8 @@
 import Link from "next/link";
 import {notFound} from "next/navigation";
-import dados from "@/data/ifs-primeiros.json";
+import primeiros from "@/data/ifs-primeiros.json";
+import adicionais from "@/data/ifs-2023.json";
+const dados=[...primeiros,...adicionais];
 import {IfCadernoReader} from "@/components/if-caderno-reader";
 import {metaPagina} from "@/lib/seo";
 const nomes:Record<string,string>={ifmg:"Instituto Federal de Minas Gerais",ifrn:"Instituto Federal do Rio Grande do Norte",ifce:"Instituto Federal do Ceará"};

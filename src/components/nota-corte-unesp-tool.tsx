@@ -2,6 +2,7 @@
 
 import { useId, useState } from "react";
 import Link from "next/link";
+import { CarimboResultado } from "@/components/carimbo-resultado";
 import dados from "@/data/unesp-2026-cortes.json";
 
 type Modalidade = "su" | "srvebp";
@@ -13,6 +14,7 @@ export function NotaCorteUnespTool() {
   const [codigo, setCodigo] = useState("");
   const [modalidade, setModalidade] = useState<Modalidade>("su");
   const [acertos, setAcertos] = useState(45);
+  const [informouAcertos, setInformouAcertos] = useState(false);
   const curso = dados.registros.find((r) => r.codigo === codigo);
   const corte = curso?.[modalidade];
   const diferenca = corte === undefined ? undefined : acertos - corte;
@@ -37,7 +39,9 @@ export function NotaCorteUnespTool() {
       <p className="mt-3 text-sm text-n5">A tabela oficial apresenta um valor conjunto para SRVEBP e SRVEBP + PPI. Escolha o curso e a cidade exatamente como aparecem na oferta.</p>
       <p className="gb-eyebrow mt-8">2 · SUA REFERÊNCIA</p>
       <label htmlFor={pontosId} className="mt-4 block font-semibold">Quantas questões você acertou ou pretende acertar na primeira fase? <span className="font-bold text-[#b3400c]">{acertos}</span></label>
-      <input id={pontosId} className="mt-4 w-full accent-[#b3400c]" type="range" min={0} max={90} value={acertos} onChange={(e) => setAcertos(Number(e.target.value))} />
+      <input id={pontosId} className="mt-4 w-full accent-[#b3400c]" type="range" min={0} max={90} value={acertos} onChange={(e) => { setInformouAcertos(true); setAcertos(Number(e.target.value)); }} />
+      <input aria-label="Acertos (número)" type="number" min={0} max={90} value={acertos} onChange={e => { setInformouAcertos(true); setAcertos(Math.max(0, Math.min(90, Number(e.target.value)))); }} className="mt-3 min-h-12 w-24 rounded border border-n2 bg-white px-3" />
+      {informouAcertos && curso && <CarimboResultado resultado={acertos} referencia={corte ?? null} margemProximidade={5} unidade="acertos" treinoHref="/provas/unesp" />}
       <div className="mt-6 grid gap-4 md:grid-cols-2" aria-live="polite">
         <div className="rounded border border-n2 p-4"><p className="text-sm text-n5">Mínimo para a 2ª fase · 2026</p><p className="mt-1 text-3xl font-bold">{corte === undefined ? "Selecione seu curso" : <>{corte} <span className="text-base font-normal">acertos</span></>}</p></div>
         <div className="rounded border border-n2 p-4"><p className="text-sm text-n5">Sua comparação</p><p className="mt-1 font-semibold">{diferenca === undefined ? "Aguardando seleção" : diferenca === 0 ? "Igual à referência" : diferenca > 0 ? `${diferenca} acima da referência` : `${Math.abs(diferenca)} abaixo da referência`}</p></div>

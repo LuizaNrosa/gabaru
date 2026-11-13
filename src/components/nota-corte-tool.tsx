@@ -1,5 +1,6 @@
 "use client";
 import { useMemo, useState } from "react";
+import { CarimboResultado } from "@/components/carimbo-resultado";
 import dadosJson from "@/data/etec-demanda-cortes.json";
 
 /**
@@ -68,6 +69,7 @@ export function NotaCorteTool() {
   const [curso, setCurso] = useState(primeira.curso);
   const [turno, setTurno] = useState(primeira.turno);
   const [acertos, setAcertos] = useState(40);
+  const [informouAcertos, setInformouAcertos] = useState(false);
   const [bonusPublica, setBonusPublica] = useState(false);
   const [bonusAfro, setBonusAfro] = useState(false);
 
@@ -94,7 +96,6 @@ export function NotaCorteTool() {
   const nf = acertos * fator;
   const corte = combo?.corte ?? null;
   const necessarios = corte ? Math.ceil(corte.notaCorte / fator - 1e-9) : null;
-  const acima = corte ? nf >= corte.notaCorte : false;
 
   const aoMudarUnidade = (u: string) => {
     setUnidade(u);
@@ -112,6 +113,7 @@ export function NotaCorteTool() {
     if (primeiroTurno) setTurno(primeiroTurno.turno);
   };
   const aoMudarAcertos = (v: string) => {
+    setInformouAcertos(true);
     const n = Number(v);
     if (Number.isFinite(n)) setAcertos(Math.min(50, Math.max(0, Math.round(n))));
   };
@@ -303,60 +305,10 @@ export function NotaCorteTool() {
 
       <div className="mt-8" aria-live="polite">
         {corte ? (
-          <div className="grid items-center gap-6 rounded-md border border-n2 bg-paper p-5 sm:grid-cols-[auto_1fr] sm:p-6">
-            <span className={`gb-stamp ${acima ? "" : "gb-stamp-ink"}`}>
-              {acima ? (
-                <>
-                  Dá para
-                  <br />
-                  passar ✓
-                </>
-              ) : (
-                <>
-                  Ainda
-                  <br />
-                  não
-                </>
-              )}
-            </span>
-            <div>
-              <h2 className="text-xl font-bold">
-                {acima
-                  ? "Sua projeção fica acima do corte real deste curso."
-                  : "Sua projeção fica abaixo do corte real deste curso."}
-              </h2>
-              <p className="mt-2 leading-relaxed text-n5">
-                Na edição {edicaoLabel(corte.edicao)}, o corte de 1ª chamada de{" "}
-                {combo.curso} ({combo.unidade}, {combo.turno.toLowerCase()}) foi{" "}
-                <strong className="text-ink">{fmt(corte.notaCorte)}</strong> — a
-                nota final do classificado na posição {corte.vagas} (= nº de
-                vagas), já com a pontuação acrescida.
-                {corte.notaMaior != null &&
-                  ` A maior nota da lista foi ${fmt(corte.notaMaior)}`}
-                {corte.nClassificados != null &&
-                  `, com ${corte.nClassificados.toLocaleString("pt-BR")} classificados no total`}
-                .{" "}
-                {acima
-                  ? `Sua nota projetada (${fmt(nf)}) supera esse corte em ${fmt(nf - corte.notaCorte)}.`
-                  : necessarios != null &&
-                    `Para alcançar ${fmt(corte.notaCorte)} com o seu bônus, você precisaria de ${necessarios} acertos — faltam ${necessarios - acertos}.`}
-              </p>
-              {corte.fonteUrl && (
-                <p className="mt-2 text-xs text-n4">
-                  Fonte:{" "}
-                  <a
-                    className="underline"
-                    href={corte.fonteUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    lista de classificação oficial (cópia arquivada) ↗
-                  </a>{" "}
-                  — o Centro Paula Souza retirou as listas do site; o Gabaru
-                  passa a arquivar cada edição.
-                </p>
-              )}
-            </div>
+          <div>
+            {informouAcertos ? <CarimboResultado resultado={acertos} referencia={necessarios} margemProximidade={5} unidade="acertos" treinoHref="/provas/etec" /> : <p className="gb-notice">Informe seus acertos para comparar com a referência desta seleção.</p>}
+            <p className="mt-4 text-sm text-n5">Referência: nota final {fmt(corte.notaCorte)} na edição {edicaoLabel(corte.edicao)}, conforme a lista oficial para {combo.curso} · {combo.unidade} · {combo.turno}. A quantidade de acertos necessária considera a pontuação acrescida selecionada.</p>
+            {corte.fonteUrl && <p className="mt-2 text-xs text-n4">Fonte: <a className="underline" href={corte.fonteUrl} target="_blank" rel="noopener noreferrer">lista de classificação oficial arquivada ↗</a>.</p>}
           </div>
         ) : (
           <div className="rounded-md border border-n2 bg-paper p-5 sm:p-6">

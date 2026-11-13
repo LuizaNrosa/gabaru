@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useId, useState } from "react";
+import { useEffect, useId, useState } from "react";
 import dynamic from "next/dynamic";
 const NotaCorteFuvestTool = dynamic(() => import("@/components/nota-corte-fuvest-tool").then((m) => m.NotaCorteFuvestTool), { loading: () => <p>Carregando consulta…</p> });
 const NotaCorteUnicampTool = dynamic(() => import("@/components/nota-corte-unicamp-tool").then((m) => m.NotaCorteUnicampTool), { loading: () => <p>Carregando consulta…</p> });
@@ -16,6 +16,8 @@ const NotaCorteIfrnTool = dynamic(() => import("@/components/nota-corte-ifrn-too
 const NotaCorteIfceTool = dynamic(() => import("@/components/nota-corte-ifce-tool").then((m) => m.NotaCorteIfceTool), { loading: () => <p>Carregando consulta…</p> });
 
 const NotaCorteIfspTool = dynamic(() => import("@/components/nota-corte-ifsp-tool").then((m) => m.NotaCorteIfspTool), { loading: () => <p>Carregando consulta…</p> });
+
+const NotaCorteTool = dynamic(() => import("@/components/nota-corte-tool").then((m) => m.NotaCorteTool), { loading: () => <p>Carregando consulta…</p> });
 
 type Tipo = "vestibulinho" | "enem" | "vestibular";
 type Opcao = { id: string; nome: string; ferramenta?: string; treino: string; detalhe?: string; status?: string };
@@ -50,20 +52,13 @@ export function SeletorNotaDeCorte() {
   const instituicaoId = useId();
   const [tipo, setTipo] = useState<Tipo | "">("");
   const [id, setId] = useState("");
+  useEffect(() => { if (window.location.hash === "#etec") { setTipo("vestibulinho"); setId("etec"); } }, []);
   const instituicoes = tipo ? opcoes[tipo] : [];
   const selecionada = instituicoes.find((item) => item.id === id);
 
   return (
     <section aria-labelledby="seletor-corte-titulo" className="rounded-lg border border-n2 bg-white/60 p-5 sm:p-7">
-      <p className="gb-eyebrow">ENCONTRE SUA REFERÊNCIA</p>
-      <h2 id="seletor-corte-titulo" className="gb-section-title mt-3">Qual prova você vai fazer?</h2>
-      <p className="mt-3 text-n5">Encontre a referência para o seu objetivo: escolha a prova e a instituição; depois, informe o curso e os demais detalhes que se aplicam à seleção.</p>
-      <ol className="mt-5 grid gap-2 text-sm text-n5 sm:grid-cols-3">
-        <li><strong className="text-ink">1. Prova</strong> · vestibulinho, ENEM ou vestibular</li>
-        <li><strong className="text-ink">2. Instituição</strong> · onde você quer estudar</li>
-        <li><strong className="text-ink">3. Seu objetivo</strong> · curso e modalidade, quando houver</li>
-      </ol>
-      <div className="mt-6 grid gap-4 sm:grid-cols-2">
+      <div className="grid gap-4 sm:grid-cols-2">
         <div>
           <label htmlFor={tipoId} className="mb-2 block font-semibold">Tipo de prova</label>
           <select id={tipoId} value={tipo} onChange={(event) => { setTipo(event.target.value as Tipo | ""); setId(""); }} className="min-h-12 w-full rounded border border-n2 bg-white px-3">
@@ -81,15 +76,16 @@ export function SeletorNotaDeCorte() {
           </select>
         </div>
       </div>
-      {selecionada && <div className="gb-notice mt-6" aria-live="polite">
+      {selecionada && !selecionada.ferramenta && <div className="gb-notice mt-6" aria-live="polite">
         <p className="font-bold">{selecionada.nome} · {selecionada.status ?? (selecionada.ferramenta ? "Consulta disponível" : "Dados de corte em coleta")}</p>
         <p className="mt-2 text-n5">{selecionada.detalhe ?? "Ainda estamos reunindo e conferindo os dados desta seleção. Você já pode conhecer o acervo ou acompanhar sua disponibilidade."}</p>
         <div className="mt-4 flex flex-wrap items-center gap-4">
-          {selecionada.ferramenta && selecionada.id === "etec" && <Link href={selecionada.ferramenta} className="gb-button">Escolher unidade e curso →</Link>}
+
           {selecionada.ferramenta && selecionada.id !== "etec" && <Link href={selecionada.ferramenta} className="gb-text-link">Abrir página completa →</Link>}
           <Link href={selecionada.treino} className="gb-text-link">{selecionada.id === "ifba" ? "Ver disponibilidade" : "Treinar com provas"} →</Link>
         </div>
       </div>}
+      {selecionada?.id === "etec" && <div className="mt-7"><NotaCorteTool /></div>}
       {selecionada && selecionada.id !== "etec" && selecionada.ferramenta && <div className="mt-7">
         <h3 className="mb-3 text-xl font-bold">Escolha seu objetivo · {selecionada.nome}</h3>
         {selecionada.id === "fuvest" && <NotaCorteFuvestTool />}

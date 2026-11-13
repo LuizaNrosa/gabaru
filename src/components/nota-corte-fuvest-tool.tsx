@@ -1,6 +1,7 @@
 "use client";
 import {useState} from "react";
 import Link from "next/link";
+import { CarimboResultado } from "@/components/carimbo-resultado";
 import dados2026 from "@/data/fuvest-2026-cortes.json";
 import dados2027 from "@/data/fuvest-2027-cortes.json";
 
@@ -11,7 +12,7 @@ export function NotaCorteFuvestTool(){
  const carreiras=dados.registros.filter(r=>r.modalidade==="AC").map(r=>({codigo:r.carreira_codigo,nome:r.carreira}));
  const [codigo,setCodigo]=useState("111");
  const [modalidade,setModalidade]=useState("AC");
- const [acertos,setAcertos]=useState(50);
+ const [acertos,setAcertos]=useState(50);const [informouAcertos,setInformouAcertos]=useState(false);
  const linha=dados.registros.find(r=>r.carreira_codigo===codigo&&r.modalidade===modalidade);
  if(!linha)return <p className="gb-notice">Dados da combinação indisponíveis.</p>;
  const situacao="situacao" in linha ? linha.situacao : "informado";
@@ -27,7 +28,9 @@ export function NotaCorteFuvestTool(){
   {linha.carreira.startsWith("Treinamento")&&<p className="gb-notice mt-5">Esta é uma carreira de treinamento, identificada como tal na tabela da FUVEST.</p>}
   <p className="gb-eyebrow mt-8">2 · SUA REFERÊNCIA</p>
   <label className="mt-4 block font-semibold" htmlFor="fuvest-acertos">Quantos pontos você obteve ou pretende obter na primeira fase? <span className="font-bold text-[#b3400c]">{acertos}</span></label>
-  <input id="fuvest-acertos" className="mt-4 w-full accent-[#b3400c]" type="range" min={0} max={90} value={acertos} onChange={e=>setAcertos(Number(e.target.value))}/>
+  <input id="fuvest-acertos" className="mt-4 w-full accent-[#b3400c]" type="range" min={0} max={90} value={acertos} onChange={e=>{setInformouAcertos(true);setAcertos(Number(e.target.value));}}/>
+  <input aria-label="Pontos (número)" type="number" min={0} max={90} value={acertos} onChange={e => { setInformouAcertos(true); setAcertos(Math.max(0, Math.min(90, Number(e.target.value)))); }} className="mt-3 min-h-12 w-24 rounded border border-n2 bg-white px-3" />
+  {informouAcertos && <CarimboResultado resultado={acertos} referencia={comparavel ? linha.corte_acertos : null} margemProximidade={5} unidade="pontos" treinoHref="/provas/fuvest" />}
   <div className="mt-6 grid gap-4 md:grid-cols-3" aria-live="polite">
    <div className="rounded border border-n2 p-4"><p className="text-sm text-n5">Corte para a 2ª fase · {ano}</p><p className="mt-1 text-3xl font-bold">{linha.corte_acertos===null?"Não informado":<>{linha.corte_acertos} <span className="text-base font-normal">pontos</span></>}</p></div>
    <div className="rounded border border-n2 p-4"><p className="text-sm text-n5">Sua comparação</p><p className="mt-1 font-semibold">{diferenca===null?"Comparação indisponível":diferenca===0?"Igual ao corte informado":diferenca>0?`${diferenca} acima do corte informado`:`${Math.abs(diferenca)} abaixo do corte informado`}</p></div>

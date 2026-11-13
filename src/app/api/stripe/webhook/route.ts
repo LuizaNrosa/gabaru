@@ -31,9 +31,10 @@ export async function POST(req: Request) {
     case "checkout.session.completed": {
       const session = event.data.object as Stripe.Checkout.Session;
       const uid = session.client_reference_id ?? session.metadata?.firebaseUid;
-      // TODO: liberar acesso ao usuário `uid` (ex.: gravar no Firestore ou custom claim).
-      console.log("[stripe/webhook] pagamento concluído para", uid);
-      break;
+      // O acesso ainda não é provisionado. Responder erro preserva a
+      // possibilidade de reprocessamento e evita confirmar um efeito inexistente.
+      console.error("[stripe/webhook] pagamento sem provisionamento implementado", Boolean(uid));
+      return NextResponse.json({ error: "Provisionamento indisponível." }, { status: 503 });
     }
     default:
       break;

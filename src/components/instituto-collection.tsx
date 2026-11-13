@@ -5,8 +5,9 @@ import primeiros from "@/data/ifs-primeiros.json";
 import anteriores from "@/data/ifs-2023.json";
 import recentes from "@/data/ifs-lote-2026.json";
 import historicos from "@/data/ifs-historicos.json";
+import agentes from "@/data/ifs-agentes.json";
 
-const acervo=[...primeiros,...anteriores,...recentes,...historicos];
+const acervo=[...primeiros,...anteriores,...recentes,...historicos,...agentes];
 export function InstitutoCollection(){
  const institutos=[
   {slug:"ifsp",nome:"IFSP",estado:"São Paulo",quantidade:ifsp.length},

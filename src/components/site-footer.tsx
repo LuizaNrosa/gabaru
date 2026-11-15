@@ -22,6 +22,8 @@ export function SiteFooter() {
         <nav aria-label="Estudar">
           <h2>Estudar</h2>
           <Link href="/nota-de-corte">Nota de corte ETEC</Link>
+          <Link href="/nota-de-corte/fuvest">Nota de corte FUVEST</Link>
+          <Link href="/nota-de-corte/unicamp">Nota de corte Unicamp</Link>
           <Link href="/provas">Acervo de provas</Link>
           <Link href="/treino">Treino gratuito</Link>
           <Link href="/questoes-gratis">Questões abertas</Link>

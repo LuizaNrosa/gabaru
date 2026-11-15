@@ -1,0 +1,1472 @@
+{
+  "edicao": 2026,
+  "fonte": "https://vestibular.unesp.br/Home/documentos150/corte.pdf",
+  "descricao": "Número mínimo de acertos para convocação à segunda fase",
+  "sha256_pdf": "768d5fff0ee91f598ce9b309637b9a54b0410a89483dbdd30c2c4172fd181c3b",
+  "registros": [
+    {
+      "codigo": "001",
+      "curso": "Administração - Bacharelado - integral",
+      "cidade": "Tupã",
+      "srvebp": 21,
+      "su": 21,
+      "pagina": 1
+    },
+    {
+      "codigo": "002",
+      "curso": "Administração - Bacharelado - noturno",
+      "cidade": "Jaboticabal",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 1
+    },
+    {
+      "codigo": "003",
+      "curso": "Administração - Bacharelado - noturno",
+      "cidade": "Tupã",
+      "srvebp": 19,
+      "su": 19,
+      "pagina": 1
+    },
+    {
+      "codigo": "004",
+      "curso": "Administração Pública - Bacharelado - integral",
+      "cidade": "Araraquara",
+      "srvebp": 19,
+      "su": 20,
+      "pagina": 1
+    },
+    {
+      "codigo": "005",
+      "curso": "Administração Pública - Bacharelado - noturno",
+      "cidade": "Araraquara",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 1
+    },
+    {
+      "codigo": "006",
+      "curso": "Arquitetura e Urbanismo - integral",
+      "cidade": "Bauru",
+      "srvebp": 18,
+      "su": 44,
+      "pagina": 1
+    },
+    {
+      "codigo": "007",
+      "curso": "Arquitetura e Urbanismo - integral",
+      "cidade": "Presidente Prudente",
+      "srvebp": 19,
+      "su": 19,
+      "pagina": 1
+    },
+    {
+      "codigo": "008",
+      "curso": "Arquivologia - matutino",
+      "cidade": "Marília",
+      "srvebp": 19,
+      "su": 28,
+      "pagina": 1
+    },
+    {
+      "codigo": "009",
+      "curso": "Artes Cênicas - Bacharelado - Habilitação em Interpretação Teatral - integral",
+      "cidade": "São Paulo",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 1
+    },
+    {
+      "codigo": "010",
+      "curso": "Artes Visuais - Bacharelado e Licenciatura - integral",
+      "cidade": "São Paulo",
+      "srvebp": 33,
+      "su": 50,
+      "pagina": 1
+    },
+    {
+      "codigo": "011",
+      "curso": "Artes Visuais - Bacharelado e Licenciatura - vespertino/noturno",
+      "cidade": "Bauru",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 1
+    },
+    {
+      "codigo": "012",
+      "curso": "Arte-Teatro - Licenciatura - noturno",
+      "cidade": "São Paulo",
+      "srvebp": 20,
+      "su": 23,
+      "pagina": 1
+    },
+    {
+      "codigo": "013",
+      "curso": "Biblioteconomia - matutino",
+      "cidade": "Marília",
+      "srvebp": 20,
+      "su": 27,
+      "pagina": 1
+    },
+    {
+      "codigo": "014",
+      "curso": "Ciência da Computação - Bacharelado - integral",
+      "cidade": "Bauru",
+      "srvebp": 35,
+      "su": 53,
+      "pagina": 1
+    },
+    {
+      "codigo": "015",
+      "curso": "Ciência da Computação - Bacharelado - integral",
+      "cidade": "São José do Rio Preto",
+      "srvebp": 31,
+      "su": 53,
+      "pagina": 1
+    },
+    {
+      "codigo": "016",
+      "curso": "Ciência da Computação - Bacharelado - vespertino/noturno",
+      "cidade": "Presidente Prudente",
+      "srvebp": 29,
+      "su": 49,
+      "pagina": 1
+    },
+    {
+      "codigo": "018",
+      "curso": "Ciências Biológicas - Bacharelado - Integral",
+      "cidade": "Bauru",
+      "srvebp": 18,
+      "su": 19,
+      "pagina": 1
+    },
+    {
+      "codigo": "020",
+      "curso": "Ciências Biológicas - Bacharelado - integral",
+      "cidade": "Botucatu",
+      "srvebp": 22,
+      "su": 45,
+      "pagina": 1
+    },
+    {
+      "codigo": "017",
+      "curso": "Ciências Biológicas - Bacharelado - Vespertino/Noturno e Licenciatura - noturno",
+      "cidade": "Ilha Solteira",
+      "srvebp": 18,
+      "su": 20,
+      "pagina": 1
+    },
+    {
+      "codigo": "022",
+      "curso": "Ciências Biológicas - Bacharelado e Licenciatura - integral",
+      "cidade": "São José do Rio Preto",
+      "srvebp": 26,
+      "su": 36,
+      "pagina": 1
+    },
+    {
+      "codigo": "019",
+      "curso": "Ciências Biológicas - Bacharelado e Licenciatura - integral",
+      "cidade": "Assis",
+      "srvebp": 19,
+      "su": 23,
+      "pagina": 1
+    },
+    {
+      "codigo": "021",
+      "curso": "Ciências Biológicas - Bacharelado e Licenciatura - integral",
+      "cidade": "Rio Claro",
+      "srvebp": 22,
+      "su": 23,
+      "pagina": 1
+    },
+    {
+      "codigo": "024",
+      "curso": "Ciências Biológicas - Bacharelado e Licenciatura - noturno",
+      "cidade": "Rio Claro",
+      "srvebp": 18,
+      "su": 19,
+      "pagina": 1
+    },
+    {
+      "codigo": "023",
+      "curso": "Ciências Biológicas - Bacharelado e Licenciatura - noturno",
+      "cidade": "Jaboticabal",
+      "srvebp": 19,
+      "su": 19,
+      "pagina": 1
+    },
+    {
+      "codigo": "025",
+      "curso": "Ciências Biológicas - Bacharelado em Biologia Marinha ou Gerenciamento Costeiro - integral",
+      "cidade": "Litoral Paulista",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 1
+    },
+    {
+      "codigo": "026",
+      "curso": "Ciências Biológicas - Licenciatura - noturno",
+      "cidade": "Bauru",
+      "srvebp": 19,
+      "su": 19,
+      "pagina": 1
+    },
+    {
+      "codigo": "027",
+      "curso": "Ciências Biológicas - Licenciatura - noturno",
+      "cidade": "Botucatu",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 2
+    },
+    {
+      "codigo": "028",
+      "curso": "Ciências Biológicas - Licenciatura - noturno",
+      "cidade": "Litoral Paulista",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 2
+    },
+    {
+      "codigo": "029",
+      "curso": "Ciências Biomédicas - integral",
+      "cidade": "Botucatu",
+      "srvebp": 18,
+      "su": 49,
+      "pagina": 2
+    },
+    {
+      "codigo": "030",
+      "curso": "Ciências da Computação - Bacharelado - integral",
+      "cidade": "Rio Claro",
+      "srvebp": 30,
+      "su": 54,
+      "pagina": 2
+    },
+    {
+      "codigo": "031",
+      "curso": "Ciências da Computação - Bacharelado - noturno",
+      "cidade": "Rio Claro",
+      "srvebp": 42,
+      "su": 53,
+      "pagina": 2
+    },
+    {
+      "codigo": "032",
+      "curso": "Ciências Econômicas - Bacharelado - integral",
+      "cidade": "Araraquara",
+      "srvebp": 18,
+      "su": 49,
+      "pagina": 2
+    },
+    {
+      "codigo": "033",
+      "curso": "Ciências Econômicas - Bacharelado - noturno",
+      "cidade": "Araraquara",
+      "srvebp": 22,
+      "su": 49,
+      "pagina": 2
+    },
+    {
+      "codigo": "034",
+      "curso": "Ciências Sociais - Bacharelado e Licenciatura - matutino",
+      "cidade": "Araraquara",
+      "srvebp": 22,
+      "su": 22,
+      "pagina": 2
+    },
+    {
+      "codigo": "035",
+      "curso": "Ciências Sociais - Bacharelado e Licenciatura - matutino",
+      "cidade": "Marília",
+      "srvebp": 18,
+      "su": 22,
+      "pagina": 2
+    },
+    {
+      "codigo": "036",
+      "curso": "Ciências Sociais - Bacharelado e Licenciatura - noturno",
+      "cidade": "Araraquara",
+      "srvebp": 20,
+      "su": 27,
+      "pagina": 2
+    },
+    {
+      "codigo": "037",
+      "curso": "Ciências Sociais - Bacharelado e Licenciatura - noturno",
+      "cidade": "Marília",
+      "srvebp": 20,
+      "su": 20,
+      "pagina": 2
+    },
+    {
+      "codigo": "038",
+      "curso": "Comunicação: Rádio, Televisão e Internet - integral",
+      "cidade": "Bauru",
+      "srvebp": 19,
+      "su": 19,
+      "pagina": 2
+    },
+    {
+      "codigo": "039",
+      "curso": "Design - integral",
+      "cidade": "Bauru",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 2
+    },
+    {
+      "codigo": "040",
+      "curso": "Design - noturno",
+      "cidade": "Bauru",
+      "srvebp": 20,
+      "su": 24,
+      "pagina": 2
+    },
+    {
+      "codigo": "041",
+      "curso": "Direito - matutino",
+      "cidade": "Franca",
+      "srvebp": 19,
+      "su": 56,
+      "pagina": 2
+    },
+    {
+      "codigo": "042",
+      "curso": "Direito - noturno",
+      "cidade": "Franca",
+      "srvebp": 24,
+      "su": 51,
+      "pagina": 2
+    },
+    {
+      "codigo": "043",
+      "curso": "Ecologia - integral",
+      "cidade": "Rio Claro",
+      "srvebp": 24,
+      "su": 24,
+      "pagina": 2
+    },
+    {
+      "codigo": "044",
+      "curso": "Educação Física - Bacharelado - integral",
+      "cidade": "Bauru",
+      "srvebp": 21,
+      "su": 22,
+      "pagina": 2
+    },
+    {
+      "codigo": "045",
+      "curso": "Educação Física - Bacharelado - noturno",
+      "cidade": "Bauru",
+      "srvebp": 18,
+      "su": 19,
+      "pagina": 2
+    },
+    {
+      "codigo": "047",
+      "curso": "Educação Física - Bacharelado e Licenciatura - integral",
+      "cidade": "Rio Claro",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 2
+    },
+    {
+      "codigo": "046",
+      "curso": "Educação Física - Bacharelado e Licenciatura - integral",
+      "cidade": "Presidente Prudente",
+      "srvebp": 19,
+      "su": 20,
+      "pagina": 2
+    },
+    {
+      "codigo": "048",
+      "curso": "Educação Física - Bacharelado e Licenciatura - vespertino/noturno",
+      "cidade": "Presidente Prudente",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 2
+    },
+    {
+      "codigo": "049",
+      "curso": "Educação Física - Licenciatura - integral",
+      "cidade": "Bauru",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 2
+    },
+    {
+      "codigo": "050",
+      "curso": "Educação Física - Licenciatura - noturno",
+      "cidade": "Bauru",
+      "srvebp": 19,
+      "su": 19,
+      "pagina": 2
+    },
+    {
+      "codigo": "051",
+      "curso": "Enfermagem - integral",
+      "cidade": "Botucatu",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 2
+    },
+    {
+      "codigo": "052",
+      "curso": "Engenharia Aeronáutica - integral",
+      "cidade": "São João da Boa Vista",
+      "srvebp": 21,
+      "su": 61,
+      "pagina": 2
+    },
+    {
+      "codigo": "056",
+      "curso": "Engenharia Agronômica - integral",
+      "cidade": "Registro",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 3
+    },
+    {
+      "codigo": "057",
+      "curso": "Engenharia Agronômica - integral",
+      "cidade": "Ilha Solteira",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 3
+    },
+    {
+      "codigo": "055",
+      "curso": "Engenharia Agronômica - integral",
+      "cidade": "Jaboticabal",
+      "srvebp": 18,
+      "su": 35,
+      "pagina": 3
+    },
+    {
+      "codigo": "054",
+      "curso": "Engenharia Agronômica - integral",
+      "cidade": "Dracena",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 3
+    },
+    {
+      "codigo": "053",
+      "curso": "Engenharia Agronômica - integral",
+      "cidade": "Botucatu",
+      "srvebp": 18,
+      "su": 35,
+      "pagina": 3
+    },
+    {
+      "codigo": "059",
+      "curso": "Engenharia Ambiental - integral",
+      "cidade": "São José dos Campos",
+      "srvebp": 21,
+      "su": 26,
+      "pagina": 3
+    },
+    {
+      "codigo": "060",
+      "curso": "Engenharia Ambiental - integral",
+      "cidade": "Sorocaba",
+      "srvebp": 20,
+      "su": 21,
+      "pagina": 3
+    },
+    {
+      "codigo": "061",
+      "curso": "Engenharia Ambiental - integral",
+      "cidade": "Rio Claro",
+      "srvebp": 18,
+      "su": 21,
+      "pagina": 3
+    },
+    {
+      "codigo": "058",
+      "curso": "Engenharia Ambiental - integral",
+      "cidade": "Presidente Prudente",
+      "srvebp": 19,
+      "su": 19,
+      "pagina": 3
+    },
+    {
+      "codigo": "062",
+      "curso": "Engenharia Cartográfica e de Agrimensura - integral",
+      "cidade": "Presidente Prudente",
+      "srvebp": 20,
+      "su": 22,
+      "pagina": 3
+    },
+    {
+      "codigo": "063",
+      "curso": "Engenharia Civil - integral",
+      "cidade": "Bauru",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 3
+    },
+    {
+      "codigo": "064",
+      "curso": "Engenharia Civil - integral",
+      "cidade": "Guaratinguetá",
+      "srvebp": 18,
+      "su": 22,
+      "pagina": 3
+    },
+    {
+      "codigo": "065",
+      "curso": "Engenharia Civil - integral",
+      "cidade": "Ilha Solteira",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 3
+    },
+    {
+      "codigo": "066",
+      "curso": "Engenharia de Alimentos - integral",
+      "cidade": "São José do Rio Preto",
+      "srvebp": 19,
+      "su": 21,
+      "pagina": 3
+    },
+    {
+      "codigo": "068",
+      "curso": "Engenharia de Bioprocessos e Biotecnologia - integral",
+      "cidade": "Araraquara",
+      "srvebp": 21,
+      "su": 25,
+      "pagina": 3
+    },
+    {
+      "codigo": "069",
+      "curso": "Engenharia de Bioprocessos e Biotecnologia - integral",
+      "cidade": "Assis",
+      "srvebp": 18,
+      "su": 30,
+      "pagina": 3
+    },
+    {
+      "codigo": "067",
+      "curso": "Engenharia de Bioprocessos e Biotecnologia - integral",
+      "cidade": "Botucatu",
+      "srvebp": 19,
+      "su": 21,
+      "pagina": 3
+    },
+    {
+      "codigo": "070",
+      "curso": "Engenharia de Biossistemas - integral",
+      "cidade": "Tupã",
+      "srvebp": 18,
+      "su": 24,
+      "pagina": 3
+    },
+    {
+      "codigo": "071",
+      "curso": "Engenharia de Controle e Automação - integral",
+      "cidade": "Sorocaba",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 3
+    },
+    {
+      "codigo": "072",
+      "curso": "Engenharia de Energia - integral",
+      "cidade": "Rosana",
+      "srvebp": 18,
+      "su": 20,
+      "pagina": 3
+    },
+    {
+      "codigo": "073",
+      "curso": "Engenharia de Materiais - integral",
+      "cidade": "Guaratinguetá",
+      "srvebp": 21,
+      "su": 25,
+      "pagina": 3
+    },
+    {
+      "codigo": "074",
+      "curso": "Engenharia de Pesca - integral",
+      "cidade": "Registro",
+      "srvebp": 19,
+      "su": 19,
+      "pagina": 3
+    },
+    {
+      "codigo": "075",
+      "curso": "Engenharia de Produção - integral",
+      "cidade": "Guaratinguetá",
+      "srvebp": 20,
+      "su": 49,
+      "pagina": 3
+    },
+    {
+      "codigo": "076",
+      "curso": "Engenharia de Produção - vespertino/noturno",
+      "cidade": "Bauru",
+      "srvebp": 19,
+      "su": 45,
+      "pagina": 3
+    },
+    {
+      "codigo": "077",
+      "curso": "Engenharia de Produção - vespertino/noturno",
+      "cidade": "Itapeva",
+      "srvebp": 19,
+      "su": 21,
+      "pagina": 3
+    },
+    {
+      "codigo": "079",
+      "curso": "Engenharia Elétrica - integral",
+      "cidade": "Guaratinguetá",
+      "srvebp": 19,
+      "su": 19,
+      "pagina": 3
+    },
+    {
+      "codigo": "080",
+      "curso": "Engenharia Elétrica - integral",
+      "cidade": "Ilha Solteira",
+      "srvebp": 20,
+      "su": 20,
+      "pagina": 4
+    },
+    {
+      "codigo": "078",
+      "curso": "Engenharia Elétrica - integral",
+      "cidade": "Bauru",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 4
+    },
+    {
+      "codigo": "081",
+      "curso": "Engenharia Eletrônica e de Telecomunicações - integral",
+      "cidade": "São João da Boa Vista",
+      "srvebp": 18,
+      "su": 22,
+      "pagina": 4
+    },
+    {
+      "codigo": "082",
+      "curso": "Engenharia Florestal - integral",
+      "cidade": "Botucatu",
+      "srvebp": 19,
+      "su": 21,
+      "pagina": 4
+    },
+    {
+      "codigo": "083",
+      "curso": "Engenharia Industrial - Madeira - integral",
+      "cidade": "Itapeva",
+      "srvebp": 20,
+      "su": 25,
+      "pagina": 4
+    },
+    {
+      "codigo": "084",
+      "curso": "Engenharia Mecânica - integral",
+      "cidade": "Bauru",
+      "srvebp": 19,
+      "su": 46,
+      "pagina": 4
+    },
+    {
+      "codigo": "085",
+      "curso": "Engenharia Mecânica - integral",
+      "cidade": "Guaratinguetá",
+      "srvebp": 19,
+      "su": 21,
+      "pagina": 4
+    },
+    {
+      "codigo": "086",
+      "curso": "Engenharia Mecânica - integral",
+      "cidade": "Ilha Solteira",
+      "srvebp": 19,
+      "su": 20,
+      "pagina": 4
+    },
+    {
+      "codigo": "087",
+      "curso": "Engenharia Mecânica - noturno",
+      "cidade": "Guaratinguetá",
+      "srvebp": 20,
+      "su": 21,
+      "pagina": 4
+    },
+    {
+      "codigo": "088",
+      "curso": "Engenharia Química - integral",
+      "cidade": "Araraquara",
+      "srvebp": 21,
+      "su": 46,
+      "pagina": 4
+    },
+    {
+      "codigo": "089",
+      "curso": "Estatística - integral",
+      "cidade": "Presidente Prudente",
+      "srvebp": 19,
+      "su": 19,
+      "pagina": 4
+    },
+    {
+      "codigo": "090",
+      "curso": "Farmácia - integral",
+      "cidade": "Araraquara",
+      "srvebp": 19,
+      "su": 48,
+      "pagina": 4
+    },
+    {
+      "codigo": "091",
+      "curso": "Farmácia - noturno",
+      "cidade": "Araraquara",
+      "srvebp": 32,
+      "su": 48,
+      "pagina": 4
+    },
+    {
+      "codigo": "092",
+      "curso": "Filosofia - Bacharelado e Licenciatura - noturno",
+      "cidade": "Marília",
+      "srvebp": 23,
+      "su": 23,
+      "pagina": 4
+    },
+    {
+      "codigo": "093",
+      "curso": "Física - Bacharelado e Licenciatura - integral",
+      "cidade": "Rio Claro",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 4
+    },
+    {
+      "codigo": "094",
+      "curso": "Física - Bacharelado e Licenciatura - noturno",
+      "cidade": "Guaratinguetá",
+      "srvebp": 26,
+      "su": 29,
+      "pagina": 4
+    },
+    {
+      "codigo": "095",
+      "curso": "Física - Bacharelado em Física Biológica e Licenciatura em Física - integral",
+      "cidade": "São José do Rio Preto",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 4
+    },
+    {
+      "codigo": "096",
+      "curso": "Física - Bacharelado em Física de Materiais ou Física Computacional - vespertino/noturno e Licenciatura em Física - noturno",
+      "cidade": "Bauru",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 4
+    },
+    {
+      "codigo": "097",
+      "curso": "Física - Licenciatura - noturno",
+      "cidade": "Presidente Prudente",
+      "srvebp": 19,
+      "su": 20,
+      "pagina": 4
+    },
+    {
+      "codigo": "098",
+      "curso": "Física - Licenciatura - noturno",
+      "cidade": "Ilha Solteira",
+      "srvebp": 18,
+      "su": 25,
+      "pagina": 4
+    },
+    {
+      "codigo": "099",
+      "curso": "Física Médica - integral",
+      "cidade": "Botucatu",
+      "srvebp": 18,
+      "su": 21,
+      "pagina": 4
+    },
+    {
+      "codigo": "100",
+      "curso": "Fisioterapia - integral",
+      "cidade": "Presidente Prudente",
+      "srvebp": 18,
+      "su": 34,
+      "pagina": 4
+    },
+    {
+      "codigo": "101",
+      "curso": "Fisioterapia - integral",
+      "cidade": "Marília",
+      "srvebp": 25,
+      "su": 44,
+      "pagina": 4
+    },
+    {
+      "codigo": "102",
+      "curso": "Fonoaudiologia - integral",
+      "cidade": "Marília",
+      "srvebp": 27,
+      "su": 40,
+      "pagina": 4
+    },
+    {
+      "codigo": "103",
+      "curso": "Geografia - Bacharelado e Licenciatura - integral",
+      "cidade": "Rio Claro",
+      "srvebp": 19,
+      "su": 21,
+      "pagina": 4
+    },
+    {
+      "codigo": "105",
+      "curso": "Geografia - Bacharelado e Licenciatura - matutino",
+      "cidade": "Ourinhos",
+      "srvebp": 26,
+      "su": 26,
+      "pagina": 5
+    },
+    {
+      "codigo": "104",
+      "curso": "Geografia - Bacharelado e Licenciatura - matutino",
+      "cidade": "Presidente Prudente",
+      "srvebp": 22,
+      "su": 22,
+      "pagina": 5
+    },
+    {
+      "codigo": "106",
+      "curso": "Geografia - Bacharelado e Licenciatura - noturno",
+      "cidade": "Presidente Prudente",
+      "srvebp": 24,
+      "su": 26,
+      "pagina": 5
+    },
+    {
+      "codigo": "107",
+      "curso": "Geografia - Bacharelado e Licenciatura - noturno",
+      "cidade": "Ourinhos",
+      "srvebp": 20,
+      "su": 21,
+      "pagina": 5
+    },
+    {
+      "codigo": "108",
+      "curso": "Geografia - Licenciatura - noturno",
+      "cidade": "Rio Claro",
+      "srvebp": 21,
+      "su": 23,
+      "pagina": 5
+    },
+    {
+      "codigo": "109",
+      "curso": "Geologia - integral",
+      "cidade": "Rio Claro",
+      "srvebp": 18,
+      "su": 19,
+      "pagina": 5
+    },
+    {
+      "codigo": "110",
+      "curso": "História - Bacharelado e Licenciatura - matutino",
+      "cidade": "Franca",
+      "srvebp": 19,
+      "su": 23,
+      "pagina": 5
+    },
+    {
+      "codigo": "111",
+      "curso": "História - Bacharelado e Licenciatura - noturno",
+      "cidade": "Franca",
+      "srvebp": 20,
+      "su": 27,
+      "pagina": 5
+    },
+    {
+      "codigo": "113",
+      "curso": "História - Licenciatura - matutino",
+      "cidade": "Assis",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 5
+    },
+    {
+      "codigo": "112",
+      "curso": "História - Licenciatura - noturno",
+      "cidade": "Assis",
+      "srvebp": 20,
+      "su": 26,
+      "pagina": 5
+    },
+    {
+      "codigo": "114",
+      "curso": "Jornalismo - matutino",
+      "cidade": "Bauru",
+      "srvebp": 20,
+      "su": 40,
+      "pagina": 5
+    },
+    {
+      "codigo": "115",
+      "curso": "Jornalismo - noturno",
+      "cidade": "Bauru",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 5
+    },
+    {
+      "codigo": "116",
+      "curso": "Letras - Bacharelado e Licenciatura - matutino",
+      "cidade": "Araraquara",
+      "srvebp": 22,
+      "su": 22,
+      "pagina": 5
+    },
+    {
+      "codigo": "117",
+      "curso": "Letras - Bacharelado e Licenciatura - noturno",
+      "cidade": "Araraquara",
+      "srvebp": 18,
+      "su": 19,
+      "pagina": 5
+    },
+    {
+      "codigo": "118",
+      "curso": "Letras - Licenciatura - integral",
+      "cidade": "São José do Rio Preto",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 5
+    },
+    {
+      "codigo": "119",
+      "curso": "Letras - Licenciatura - matutino",
+      "cidade": "Assis",
+      "srvebp": 20,
+      "su": 28,
+      "pagina": 5
+    },
+    {
+      "codigo": "120",
+      "curso": "Letras - Licenciatura - noturno",
+      "cidade": "Assis",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 5
+    },
+    {
+      "codigo": "121",
+      "curso": "Letras - Licenciatura - noturno",
+      "cidade": "São José do Rio Preto",
+      "srvebp": 19,
+      "su": 19,
+      "pagina": 5
+    },
+    {
+      "codigo": "122",
+      "curso": "Letras - Tradução - Bacharelado - integral",
+      "cidade": "São José do Rio Preto",
+      "srvebp": 23,
+      "su": 31,
+      "pagina": 5
+    },
+    {
+      "codigo": "123",
+      "curso": "Licenciatura em Música - integral",
+      "cidade": "São Paulo",
+      "srvebp": 19,
+      "su": 24,
+      "pagina": 5
+    },
+    {
+      "codigo": "125",
+      "curso": "Matemática - Bacharelado e Licenciatura - integral",
+      "cidade": "Rio Claro",
+      "srvebp": 21,
+      "su": 21,
+      "pagina": 5
+    },
+    {
+      "codigo": "124",
+      "curso": "Matemática - Bacharelado e Licenciatura - integral",
+      "cidade": "São José do Rio Preto",
+      "srvebp": 22,
+      "su": 22,
+      "pagina": 5
+    },
+    {
+      "codigo": "126",
+      "curso": "Matemática - Licenciatura - matutino",
+      "cidade": "Presidente Prudente",
+      "srvebp": 23,
+      "su": 25,
+      "pagina": 5
+    },
+    {
+      "codigo": "128",
+      "curso": "Matemática - Licenciatura - noturno",
+      "cidade": "Presidente Prudente",
+      "srvebp": 18,
+      "su": 22,
+      "pagina": 5
+    },
+    {
+      "codigo": "129",
+      "curso": "Matemática - Licenciatura - noturno",
+      "cidade": "Guaratinguetá",
+      "srvebp": 20,
+      "su": 22,
+      "pagina": 5
+    },
+    {
+      "codigo": "130",
+      "curso": "Matemática - Licenciatura - noturno",
+      "cidade": "Ilha Solteira",
+      "srvebp": 22,
+      "su": 23,
+      "pagina": 5
+    },
+    {
+      "codigo": "131",
+      "curso": "Matemática - Licenciatura - noturno",
+      "cidade": "São José do Rio Preto",
+      "srvebp": 21,
+      "su": 21,
+      "pagina": 6
+    },
+    {
+      "codigo": "127",
+      "curso": "Matemática - Licenciatura - noturno",
+      "cidade": "Bauru",
+      "srvebp": 20,
+      "su": 20,
+      "pagina": 6
+    },
+    {
+      "codigo": "132",
+      "curso": "Medicina - integral",
+      "cidade": "Botucatu",
+      "srvebp": 60,
+      "su": 78,
+      "pagina": 6
+    },
+    {
+      "codigo": "133",
+      "curso": "Medicina Veterinária - integral",
+      "cidade": "Jaboticabal",
+      "srvebp": 26,
+      "su": 42,
+      "pagina": 6
+    },
+    {
+      "codigo": "134",
+      "curso": "Medicina Veterinária - integral",
+      "cidade": "Araçatuba",
+      "srvebp": 18,
+      "su": 36,
+      "pagina": 6
+    },
+    {
+      "codigo": "135",
+      "curso": "Medicina Veterinária - integral",
+      "cidade": "Botucatu",
+      "srvebp": 18,
+      "su": 48,
+      "pagina": 6
+    },
+    {
+      "codigo": "136",
+      "curso": "Meteorologia - Bacharelado - integral",
+      "cidade": "Bauru",
+      "srvebp": 22,
+      "su": 24,
+      "pagina": 6
+    },
+    {
+      "codigo": "137",
+      "curso": "Música - Bacharelado - Habilitação em Canto - integral",
+      "cidade": "São Paulo",
+      "srvebp": 20,
+      "su": 27,
+      "pagina": 6
+    },
+    {
+      "codigo": "138",
+      "curso": "Música - Bacharelado - Habilitação em Composição - integral",
+      "cidade": "São Paulo",
+      "srvebp": 20,
+      "su": 34,
+      "pagina": 6
+    },
+    {
+      "codigo": "139",
+      "curso": "Música - Bacharelado - Habilitação em Instrumento: Cordas (Contrabaixo Acústico, Viola, Violino, Violoncelo) - integral",
+      "cidade": "São Paulo",
+      "srvebp": 20,
+      "su": 20,
+      "pagina": 6
+    },
+    {
+      "codigo": "140",
+      "curso": "Música - Bacharelado - Habilitação em Instrumento: Percussão - integral",
+      "cidade": "São Paulo",
+      "srvebp": 20,
+      "su": 20,
+      "pagina": 6
+    },
+    {
+      "codigo": "141",
+      "curso": "Música - Bacharelado - Habilitação em Instrumento: Sopros (Clarineta, Flauta, Instrumento Antigo - Flauta Doce, Oboé) - integral",
+      "cidade": "São Paulo",
+      "srvebp": 23,
+      "su": 23,
+      "pagina": 6
+    },
+    {
+      "codigo": "142",
+      "curso": "Música - Bacharelado - Habilitação em Instrumento: Teclados (Piano, Órgão Tubular) - integral",
+      "cidade": "São Paulo",
+      "srvebp": 26,
+      "su": 26,
+      "pagina": 6
+    },
+    {
+      "codigo": "143",
+      "curso": "Música - Bacharelado - Habilitação em Instrumento: Violão - integral",
+      "cidade": "São Paulo",
+      "srvebp": 18,
+      "su": 23,
+      "pagina": 6
+    },
+    {
+      "codigo": "144",
+      "curso": "Música - Bacharelado - Habilitação em Regência - integral",
+      "cidade": "São Paulo",
+      "srvebp": 32,
+      "su": 32,
+      "pagina": 6
+    },
+    {
+      "codigo": "145",
+      "curso": "Nutrição - vespertino/noturno",
+      "cidade": "Botucatu",
+      "srvebp": 20,
+      "su": 39,
+      "pagina": 6
+    },
+    {
+      "codigo": "148",
+      "curso": "Odontologia - integral",
+      "cidade": "São José dos Campos",
+      "srvebp": 19,
+      "su": 39,
+      "pagina": 6
+    },
+    {
+      "codigo": "146",
+      "curso": "Odontologia - integral",
+      "cidade": "Araçatuba",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 6
+    },
+    {
+      "codigo": "147",
+      "curso": "Odontologia - integral",
+      "cidade": "Araraquara",
+      "srvebp": 18,
+      "su": 37,
+      "pagina": 6
+    },
+    {
+      "codigo": "149",
+      "curso": "Odontologia - vespertino/noturno",
+      "cidade": "Araçatuba",
+      "srvebp": 18,
+      "su": 19,
+      "pagina": 6
+    },
+    {
+      "codigo": "150",
+      "curso": "Odontologia - vespertino/noturno",
+      "cidade": "São José dos Campos",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 6
+    },
+    {
+      "codigo": "151",
+      "curso": "Pedagogia - Licenciatura - matutino",
+      "cidade": "Marília",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 6
+    },
+    {
+      "codigo": "152",
+      "curso": "Pedagogia - Licenciatura - noturno",
+      "cidade": "Bauru",
+      "srvebp": 18,
+      "su": 19,
+      "pagina": 6
+    },
+    {
+      "codigo": "153",
+      "curso": "Pedagogia - Licenciatura - noturno",
+      "cidade": "Araraquara",
+      "srvebp": 18,
+      "su": 19,
+      "pagina": 6
+    },
+    {
+      "codigo": "154",
+      "curso": "Pedagogia - Licenciatura - noturno",
+      "cidade": "Presidente Prudente",
+      "srvebp": 18,
+      "su": 20,
+      "pagina": 7
+    },
+    {
+      "codigo": "155",
+      "curso": "Pedagogia - Licenciatura - noturno",
+      "cidade": "Marília",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 7
+    },
+    {
+      "codigo": "156",
+      "curso": "Pedagogia - Licenciatura - noturno",
+      "cidade": "Rio Claro",
+      "srvebp": 18,
+      "su": 19,
+      "pagina": 7
+    },
+    {
+      "codigo": "157",
+      "curso": "Pedagogia - Licenciatura - noturno",
+      "cidade": "São José do Rio Preto",
+      "srvebp": 18,
+      "su": 21,
+      "pagina": 7
+    },
+    {
+      "codigo": "158",
+      "curso": "Pedagogia - Licenciatura - vespertino",
+      "cidade": "Araraquara",
+      "srvebp": 19,
+      "su": 23,
+      "pagina": 7
+    },
+    {
+      "codigo": "159",
+      "curso": "Pedagogia - Licenciatura - vespertino",
+      "cidade": "Presidente Prudente",
+      "srvebp": 18,
+      "su": 19,
+      "pagina": 7
+    },
+    {
+      "codigo": "160",
+      "curso": "Psicologia - integral",
+      "cidade": "Bauru",
+      "srvebp": 34,
+      "su": 58,
+      "pagina": 7
+    },
+    {
+      "codigo": "161",
+      "curso": "Psicologia - integral",
+      "cidade": "Assis",
+      "srvebp": 18,
+      "su": 46,
+      "pagina": 7
+    },
+    {
+      "codigo": "162",
+      "curso": "Psicologia - noturno",
+      "cidade": "Bauru",
+      "srvebp": 40,
+      "su": 54,
+      "pagina": 7
+    },
+    {
+      "codigo": "163",
+      "curso": "Psicologia - vespertino/noturno",
+      "cidade": "Assis",
+      "srvebp": 31,
+      "su": 45,
+      "pagina": 7
+    },
+    {
+      "codigo": "164",
+      "curso": "Química - Bacharelado em Química Ambiental e Licenciatura em Química - integral",
+      "cidade": "São José do Rio Preto",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 7
+    },
+    {
+      "codigo": "165",
+      "curso": "Química - Bacharelado em Química e em Química Tecnológica - integral",
+      "cidade": "Araraquara",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 7
+    },
+    {
+      "codigo": "166",
+      "curso": "Química - Bacharelado em Química Tecnológica - vespertino/noturno",
+      "cidade": "Bauru",
+      "srvebp": 21,
+      "su": 23,
+      "pagina": 7
+    },
+    {
+      "codigo": "167",
+      "curso": "Química - Licenciatura - noturno",
+      "cidade": "Bauru",
+      "srvebp": 20,
+      "su": 20,
+      "pagina": 7
+    },
+    {
+      "codigo": "168",
+      "curso": "Química - Licenciatura - noturno",
+      "cidade": "Presidente Prudente",
+      "srvebp": 21,
+      "su": 22,
+      "pagina": 7
+    },
+    {
+      "codigo": "169",
+      "curso": "Química - Licenciatura - noturno",
+      "cidade": "Araraquara",
+      "srvebp": 18,
+      "su": 19,
+      "pagina": 7
+    },
+    {
+      "codigo": "171",
+      "curso": "Relações Internacionais - noturno",
+      "cidade": "Marília",
+      "srvebp": 18,
+      "su": 19,
+      "pagina": 7
+    },
+    {
+      "codigo": "170",
+      "curso": "Relações Internacionais - noturno",
+      "cidade": "Franca",
+      "srvebp": 18,
+      "su": 21,
+      "pagina": 7
+    },
+    {
+      "codigo": "172",
+      "curso": "Relações Internacionais - vespertino",
+      "cidade": "Franca",
+      "srvebp": 22,
+      "su": 22,
+      "pagina": 7
+    },
+    {
+      "codigo": "173",
+      "curso": "Relações Públicas - noturno",
+      "cidade": "Bauru",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 7
+    },
+    {
+      "codigo": "174",
+      "curso": "Serviço Social - matutino",
+      "cidade": "Franca",
+      "srvebp": 20,
+      "su": 20,
+      "pagina": 7
+    },
+    {
+      "codigo": "175",
+      "curso": "Serviço Social - noturno",
+      "cidade": "Franca",
+      "srvebp": 18,
+      "su": 21,
+      "pagina": 7
+    },
+    {
+      "codigo": "176",
+      "curso": "Sistemas de Informação - Bacharelado - noturno",
+      "cidade": "Bauru",
+      "srvebp": 37,
+      "su": 45,
+      "pagina": 7
+    },
+    {
+      "codigo": "177",
+      "curso": "Terapia Ocupacional - integral",
+      "cidade": "Marília",
+      "srvebp": 19,
+      "su": 41,
+      "pagina": 7
+    },
+    {
+      "codigo": "183",
+      "curso": "Treineiro",
+      "cidade": null,
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 7
+    },
+    {
+      "codigo": "178",
+      "curso": "Turismo - integral",
+      "cidade": "Rosana",
+      "srvebp": 18,
+      "su": 26,
+      "pagina": 7
+    },
+    {
+      "codigo": "179",
+      "curso": "Zootecnia - integral",
+      "cidade": "Dracena",
+      "srvebp": 18,
+      "su": 23,
+      "pagina": 8
+    },
+    {
+      "codigo": "180",
+      "curso": "Zootecnia - integral",
+      "cidade": "Jaboticabal",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 8
+    },
+    {
+      "codigo": "181",
+      "curso": "Zootecnia - integral",
+      "cidade": "Ilha Solteira",
+      "srvebp": 18,
+      "su": 21,
+      "pagina": 8
+    },
+    {
+      "codigo": "182",
+      "curso": "Zootecnia - integral",
+      "cidade": "Botucatu",
+      "srvebp": 18,
+      "su": 18,
+      "pagina": 8
+    }
+  ]
+}

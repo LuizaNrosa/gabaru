@@ -1,0 +1,1038 @@
+{
+  "edicao": "2027/1",
+  "fonte": "https://processoseletivo.ifsp.edu.br/media/public/b/b8a5zzas16ucrbkctvezipuba/2k/2km0wi3rfyob9uwcryb1ta16j.pdf",
+  "edital": "https://processoseletivo.ifsp.edu.br/media/public/b/b8a5zzas16ucrbkctvezipuba/f0/f0ocltqkzehub6y4vpqijui2h.pdf",
+  "sha256": "fb4a8b1ed0ecf70c376ff48dd6f2a5fe1c410d5549806a03e83b4bd1415b0bd0",
+  "ofertas": [
+    {
+      "campus": "ARARAQUARA",
+      "curso": "Técnico em Informática",
+      "turno": "Vespertino",
+      "vagas": 80,
+      "inscritos": 431,
+      "candidatos_por_vaga": 5.39,
+      "dispensada_prova": false,
+      "pagina": 1
+    },
+    {
+      "campus": "ARARAQUARA",
+      "curso": "Técnico em Mecânica",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 193,
+      "candidatos_por_vaga": 4.83,
+      "dispensada_prova": false,
+      "pagina": 1
+    },
+    {
+      "campus": "AVARÉ",
+      "curso": "Técnico em Agroindústria",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 167,
+      "candidatos_por_vaga": 4.18,
+      "dispensada_prova": false,
+      "pagina": 1
+    },
+    {
+      "campus": "AVARÉ",
+      "curso": "Técnico em Lazer",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 109,
+      "candidatos_por_vaga": 2.73,
+      "dispensada_prova": false,
+      "pagina": 1
+    },
+    {
+      "campus": "AVARÉ",
+      "curso": "Técnico em Mecatrônica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 138,
+      "candidatos_por_vaga": 3.45,
+      "dispensada_prova": false,
+      "pagina": 1
+    },
+    {
+      "campus": "BRAGANÇA PAULISTA",
+      "curso": "Técnico em Eletroeletrônica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 187,
+      "candidatos_por_vaga": 4.68,
+      "dispensada_prova": false,
+      "pagina": 1
+    },
+    {
+      "campus": "BRAGANÇA PAULISTA",
+      "curso": "Técnico em Informática",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 449,
+      "candidatos_por_vaga": 11.23,
+      "dispensada_prova": false,
+      "pagina": 1
+    },
+    {
+      "campus": "BRAGANÇA PAULISTA",
+      "curso": "Técnico em Mecânica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 212,
+      "candidatos_por_vaga": 5.3,
+      "dispensada_prova": false,
+      "pagina": 1
+    },
+    {
+      "campus": "BIRIGUI",
+      "curso": "Técnico em Administração",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 161,
+      "candidatos_por_vaga": 4.03,
+      "dispensada_prova": false,
+      "pagina": 1
+    },
+    {
+      "campus": "BIRIGUI",
+      "curso": "Técnico em Informática",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 132,
+      "candidatos_por_vaga": 3.3,
+      "dispensada_prova": false,
+      "pagina": 1
+    },
+    {
+      "campus": "BARRETOS",
+      "curso": "Técnico em Agropecuária",
+      "turno": "Integral",
+      "vagas": 120,
+      "inscritos": 311,
+      "candidatos_por_vaga": 2.59,
+      "dispensada_prova": false,
+      "pagina": 1
+    },
+    {
+      "campus": "BARRETOS",
+      "curso": "Técnico em Alimentos",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 133,
+      "candidatos_por_vaga": 3.33,
+      "dispensada_prova": false,
+      "pagina": 1
+    },
+    {
+      "campus": "BARRETOS",
+      "curso": "Técnico em Informática",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 176,
+      "candidatos_por_vaga": 4.4,
+      "dispensada_prova": false,
+      "pagina": 2
+    },
+    {
+      "campus": "BAURU",
+      "curso": "Técnico em Informática",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 461,
+      "candidatos_por_vaga": 11.53,
+      "dispensada_prova": false,
+      "pagina": 2
+    },
+    {
+      "campus": "BAURU",
+      "curso": "Técnico em Mecatrônica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 395,
+      "candidatos_por_vaga": 9.88,
+      "dispensada_prova": false,
+      "pagina": 2
+    },
+    {
+      "campus": "BOITUVA",
+      "curso": "Técnico em Automação Industrial",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 177,
+      "candidatos_por_vaga": 4.43,
+      "dispensada_prova": false,
+      "pagina": 2
+    },
+    {
+      "campus": "BOITUVA",
+      "curso": "Técnico em Redes de Computadores",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 265,
+      "candidatos_por_vaga": 6.63,
+      "dispensada_prova": false,
+      "pagina": 2
+    },
+    {
+      "campus": "CARAGUATATUBA",
+      "curso": "Técnico em Informática",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 640,
+      "candidatos_por_vaga": 16.0,
+      "dispensada_prova": false,
+      "pagina": 2
+    },
+    {
+      "campus": "CUBATÃO",
+      "curso": "Técnico em Eventos",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 171,
+      "candidatos_por_vaga": 4.28,
+      "dispensada_prova": false,
+      "pagina": 2
+    },
+    {
+      "campus": "CUBATÃO",
+      "curso": "Técnico em Informática",
+      "turno": "Matutino",
+      "vagas": 40,
+      "inscritos": 528,
+      "candidatos_por_vaga": 13.2,
+      "dispensada_prova": false,
+      "pagina": 2
+    },
+    {
+      "campus": "CUBATÃO",
+      "curso": "Técnico em Informática",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 206,
+      "candidatos_por_vaga": 5.15,
+      "dispensada_prova": false,
+      "pagina": 2
+    },
+    {
+      "campus": "CAMPOS DO JORDÃO",
+      "curso": "Técnico em Edificações",
+      "turno": "Matutino",
+      "vagas": 40,
+      "inscritos": 69,
+      "candidatos_por_vaga": 1.73,
+      "dispensada_prova": false,
+      "pagina": 2
+    },
+    {
+      "campus": "CAMPOS DO JORDÃO",
+      "curso": "Técnico em Eventos",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 42,
+      "candidatos_por_vaga": 1.05,
+      "dispensada_prova": false,
+      "pagina": 2
+    },
+    {
+      "campus": "CAMPOS DO JORDÃO",
+      "curso": "Técnico em Informática",
+      "turno": "Matutino",
+      "vagas": 40,
+      "inscritos": 158,
+      "candidatos_por_vaga": 3.95,
+      "dispensada_prova": false,
+      "pagina": 2
+    },
+    {
+      "campus": "CAMPINAS",
+      "curso": "Técnico em Eletrônica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 388,
+      "candidatos_por_vaga": 9.7,
+      "dispensada_prova": false,
+      "pagina": 3
+    },
+    {
+      "campus": "CAMPINAS",
+      "curso": "Técnico em Informática",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 761,
+      "candidatos_por_vaga": 19.03,
+      "dispensada_prova": false,
+      "pagina": 3
+    },
+    {
+      "campus": "CAPIVARI",
+      "curso": "Técnico em Informática para a Internet",
+      "turno": "Matutino",
+      "vagas": 40,
+      "inscritos": 143,
+      "candidatos_por_vaga": 3.58,
+      "dispensada_prova": false,
+      "pagina": 3
+    },
+    {
+      "campus": "CAPIVARI",
+      "curso": "Técnico em Química",
+      "turno": "Matutino",
+      "vagas": 40,
+      "inscritos": 116,
+      "candidatos_por_vaga": 2.9,
+      "dispensada_prova": false,
+      "pagina": 3
+    },
+    {
+      "campus": "CAPIVARI",
+      "curso": "Técnico em Química",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 30,
+      "candidatos_por_vaga": 0.75,
+      "dispensada_prova": true,
+      "pagina": 3
+    },
+    {
+      "campus": "CATANDUVA",
+      "curso": "Técnico em Mecatrônica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 125,
+      "candidatos_por_vaga": 3.13,
+      "dispensada_prova": false,
+      "pagina": 3
+    },
+    {
+      "campus": "CATANDUVA",
+      "curso": "Técnico em Mecânica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 77,
+      "candidatos_por_vaga": 1.93,
+      "dispensada_prova": false,
+      "pagina": 3
+    },
+    {
+      "campus": "CATANDUVA",
+      "curso": "Técnico em Química",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 181,
+      "candidatos_por_vaga": 4.53,
+      "dispensada_prova": false,
+      "pagina": 3
+    },
+    {
+      "campus": "CATANDUVA",
+      "curso": "Técnico em Redes de Computadores",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 179,
+      "candidatos_por_vaga": 4.48,
+      "dispensada_prova": false,
+      "pagina": 3
+    },
+    {
+      "campus": "GUARULHOS",
+      "curso": "Técnico em Informática",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 429,
+      "candidatos_por_vaga": 10.73,
+      "dispensada_prova": false,
+      "pagina": 3
+    },
+    {
+      "campus": "GUARULHOS",
+      "curso": "Técnico em Mecatrônica",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 332,
+      "candidatos_por_vaga": 8.3,
+      "dispensada_prova": false,
+      "pagina": 3
+    },
+    {
+      "campus": "HORTOLÂNDIA",
+      "curso": "Técnico em Automação Industrial",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 246,
+      "candidatos_por_vaga": 6.15,
+      "dispensada_prova": false,
+      "pagina": 3
+    },
+    {
+      "campus": "HORTOLÂNDIA",
+      "curso": "Técnico em Informática",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 577,
+      "candidatos_por_vaga": 14.43,
+      "dispensada_prova": false,
+      "pagina": 4
+    },
+    {
+      "campus": "HORTOLÂNDIA",
+      "curso": "Técnico em Mecânica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 199,
+      "candidatos_por_vaga": 4.98,
+      "dispensada_prova": false,
+      "pagina": 4
+    },
+    {
+      "campus": "ILHA SOLTEIRA",
+      "curso": "Técnico em Desenho de Construção Civil",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 120,
+      "candidatos_por_vaga": 3.0,
+      "dispensada_prova": false,
+      "pagina": 4
+    },
+    {
+      "campus": "ILHA SOLTEIRA",
+      "curso": "Técnico em Edificações",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 51,
+      "candidatos_por_vaga": 1.28,
+      "dispensada_prova": false,
+      "pagina": 4
+    },
+    {
+      "campus": "ITAPETININGA",
+      "curso": "Técnico em Edificações",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 87,
+      "candidatos_por_vaga": 2.18,
+      "dispensada_prova": false,
+      "pagina": 4
+    },
+    {
+      "campus": "ITAPETININGA",
+      "curso": "Técnico em Eletromecânica",
+      "turno": "Matutino",
+      "vagas": 40,
+      "inscritos": 177,
+      "candidatos_por_vaga": 4.43,
+      "dispensada_prova": false,
+      "pagina": 4
+    },
+    {
+      "campus": "ITAPETININGA",
+      "curso": "Técnico em Informática",
+      "turno": "Matutino",
+      "vagas": 40,
+      "inscritos": 260,
+      "candidatos_por_vaga": 6.5,
+      "dispensada_prova": false,
+      "pagina": 4
+    },
+    {
+      "campus": "ITAQUAQUECETUBA",
+      "curso": "Técnico em Mecatrônica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 195,
+      "candidatos_por_vaga": 4.88,
+      "dispensada_prova": false,
+      "pagina": 4
+    },
+    {
+      "campus": "ITAQUAQUECETUBA",
+      "curso": "Técnico em Mecânica",
+      "turno": "Integral",
+      "vagas": 80,
+      "inscritos": 242,
+      "candidatos_por_vaga": 3.03,
+      "dispensada_prova": false,
+      "pagina": 4
+    },
+    {
+      "campus": "JACAREÍ",
+      "curso": "Técnico em Administração",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 365,
+      "candidatos_por_vaga": 9.13,
+      "dispensada_prova": false,
+      "pagina": 4
+    },
+    {
+      "campus": "JACAREÍ",
+      "curso": "Técnico em Informática",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 336,
+      "candidatos_por_vaga": 8.4,
+      "dispensada_prova": false,
+      "pagina": 4
+    },
+    {
+      "campus": "JUNDIAÍ",
+      "curso": "Técnico em Logística",
+      "turno": "Integral",
+      "vagas": 120,
+      "inscritos": 419,
+      "candidatos_por_vaga": 3.49,
+      "dispensada_prova": false,
+      "pagina": 4
+    },
+    {
+      "campus": "MATÃO",
+      "curso": "Técnico em Alimentos",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 154,
+      "candidatos_por_vaga": 3.85,
+      "dispensada_prova": false,
+      "pagina": 5
+    },
+    {
+      "campus": "MATÃO",
+      "curso": "Técnico em Açúcar e Álcool",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 93,
+      "candidatos_por_vaga": 2.33,
+      "dispensada_prova": false,
+      "pagina": 5
+    },
+    {
+      "campus": "MATÃO",
+      "curso": "Técnico em Química",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 176,
+      "candidatos_por_vaga": 4.4,
+      "dispensada_prova": false,
+      "pagina": 5
+    },
+    {
+      "campus": "PRESIDENTE EPITÁCIO",
+      "curso": "Técnico em Edificações",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 79,
+      "candidatos_por_vaga": 1.98,
+      "dispensada_prova": false,
+      "pagina": 5
+    },
+    {
+      "campus": "PRESIDENTE EPITÁCIO",
+      "curso": "Técnico em Informática",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 114,
+      "candidatos_por_vaga": 2.85,
+      "dispensada_prova": false,
+      "pagina": 5
+    },
+    {
+      "campus": "PRESIDENTE EPITÁCIO",
+      "curso": "Técnico em Mecatrônica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 64,
+      "candidatos_por_vaga": 1.6,
+      "dispensada_prova": false,
+      "pagina": 5
+    },
+    {
+      "campus": "PIRACICABA",
+      "curso": "Técnico em Informática",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 322,
+      "candidatos_por_vaga": 8.05,
+      "dispensada_prova": false,
+      "pagina": 5
+    },
+    {
+      "campus": "PIRACICABA",
+      "curso": "Técnico em Manutenção Automotiva",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 156,
+      "candidatos_por_vaga": 3.9,
+      "dispensada_prova": false,
+      "pagina": 5
+    },
+    {
+      "campus": "PRESIDENTE PRUDENTE",
+      "curso": "Técnico em Agroindústria",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 76,
+      "candidatos_por_vaga": 1.9,
+      "dispensada_prova": false,
+      "pagina": 5
+    },
+    {
+      "campus": "PRESIDENTE PRUDENTE",
+      "curso": "Técnico em Alimentos",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 47,
+      "candidatos_por_vaga": 1.18,
+      "dispensada_prova": false,
+      "pagina": 5
+    },
+    {
+      "campus": "PIRITUBA",
+      "curso": "Técnico em Logística",
+      "turno": "Integral",
+      "vagas": 80,
+      "inscritos": 491,
+      "candidatos_por_vaga": 6.14,
+      "dispensada_prova": false,
+      "pagina": 5
+    },
+    {
+      "campus": "PIRITUBA",
+      "curso": "Técnico em Redes de Computadores",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 515,
+      "candidatos_por_vaga": 12.88,
+      "dispensada_prova": false,
+      "pagina": 5
+    },
+    {
+      "campus": "RIO CLARO",
+      "curso": "Técnico em Informática para a Internet",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 164,
+      "candidatos_por_vaga": 4.1,
+      "dispensada_prova": false,
+      "pagina": 6
+    },
+    {
+      "campus": "REGISTRO",
+      "curso": "Técnico em Edificações",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 111,
+      "candidatos_por_vaga": 2.78,
+      "dispensada_prova": false,
+      "pagina": 6
+    },
+    {
+      "campus": "REGISTRO",
+      "curso": "Técnico em Logística",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 151,
+      "candidatos_por_vaga": 3.78,
+      "dispensada_prova": false,
+      "pagina": 6
+    },
+    {
+      "campus": "REGISTRO",
+      "curso": "Técnico em Mecatrônica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 129,
+      "candidatos_por_vaga": 3.23,
+      "dispensada_prova": false,
+      "pagina": 6
+    },
+    {
+      "campus": "SÃO JOÃO DA BOA VISTA",
+      "curso": "Técnico em Eletrônica",
+      "turno": "Matutino",
+      "vagas": 80,
+      "inscritos": 145,
+      "candidatos_por_vaga": 1.81,
+      "dispensada_prova": false,
+      "pagina": 6
+    },
+    {
+      "campus": "SÃO JOÃO DA BOA VISTA",
+      "curso": "Técnico em Informática",
+      "turno": "Matutino",
+      "vagas": 40,
+      "inscritos": 182,
+      "candidatos_por_vaga": 4.55,
+      "dispensada_prova": false,
+      "pagina": 6
+    },
+    {
+      "campus": "SÃO CARLOS",
+      "curso": "Técnico em Informática para Internet",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 276,
+      "candidatos_por_vaga": 6.9,
+      "dispensada_prova": false,
+      "pagina": 6
+    },
+    {
+      "campus": "SÃO CARLOS",
+      "curso": "Técnico em Manutenção Aeronáutica em Aviônicos",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 284,
+      "candidatos_por_vaga": 7.1,
+      "dispensada_prova": false,
+      "pagina": 6
+    },
+    {
+      "campus": "SÃO JOSÉ DOS CAMPOS",
+      "curso": "Técnico em Automação Industrial",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 629,
+      "candidatos_por_vaga": 15.73,
+      "dispensada_prova": false,
+      "pagina": 6
+    },
+    {
+      "campus": "SÃO JOSÉ DOS CAMPOS",
+      "curso": "Técnico em Mecânica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 414,
+      "candidatos_por_vaga": 10.35,
+      "dispensada_prova": false,
+      "pagina": 6
+    },
+    {
+      "campus": "SÃO JOSÉ DO RIO PRETO",
+      "curso": "Técnico em Automação Industrial",
+      "turno": "Integral",
+      "vagas": 36,
+      "inscritos": 103,
+      "candidatos_por_vaga": 2.86,
+      "dispensada_prova": false,
+      "pagina": 6
+    },
+    {
+      "campus": "SÃO JOSÉ DO RIO PRETO",
+      "curso": "Técnico em Biotecnologia",
+      "turno": "Integral",
+      "vagas": 36,
+      "inscritos": 154,
+      "candidatos_por_vaga": 4.28,
+      "dispensada_prova": false,
+      "pagina": 6
+    },
+    {
+      "campus": "SÃO JOSÉ DO RIO PRETO",
+      "curso": "Técnico em Informática",
+      "turno": "Integral",
+      "vagas": 36,
+      "inscritos": 185,
+      "candidatos_por_vaga": 5.14,
+      "dispensada_prova": false,
+      "pagina": 7
+    },
+    {
+      "campus": "SÃO JOSÉ DO RIO PRETO",
+      "curso": "Técnico em Produção de Áudio e Vídeo",
+      "turno": "Integral",
+      "vagas": 36,
+      "inscritos": 116,
+      "candidatos_por_vaga": 3.22,
+      "dispensada_prova": false,
+      "pagina": 7
+    },
+    {
+      "campus": "SALTO",
+      "curso": "Técnico em Informática para Internet",
+      "turno": "Integral",
+      "vagas": 80,
+      "inscritos": 306,
+      "candidatos_por_vaga": 3.83,
+      "dispensada_prova": false,
+      "pagina": 7
+    },
+    {
+      "campus": "SALTO",
+      "curso": "Técnico em Mecatrônica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 161,
+      "candidatos_por_vaga": 4.03,
+      "dispensada_prova": false,
+      "pagina": 7
+    },
+    {
+      "campus": "SÃO MIGUEL PAULISTA",
+      "curso": "Técnico em Design Gráfico",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 351,
+      "candidatos_por_vaga": 8.78,
+      "dispensada_prova": false,
+      "pagina": 7
+    },
+    {
+      "campus": "SÃO MIGUEL PAULISTA",
+      "curso": "Técnico em Informática para Internet",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 478,
+      "candidatos_por_vaga": 11.95,
+      "dispensada_prova": false,
+      "pagina": 7
+    },
+    {
+      "campus": "SÃO MIGUEL PAULISTA",
+      "curso": "Técnico em Produção de Áudio e Vídeo",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 303,
+      "candidatos_por_vaga": 7.58,
+      "dispensada_prova": false,
+      "pagina": 7
+    },
+    {
+      "campus": "SOROCABA",
+      "curso": "Técnico em Administração",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 415,
+      "candidatos_por_vaga": 10.38,
+      "dispensada_prova": false,
+      "pagina": 7
+    },
+    {
+      "campus": "SOROCABA",
+      "curso": "Técnico em Eletroeletrônica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 231,
+      "candidatos_por_vaga": 5.78,
+      "dispensada_prova": false,
+      "pagina": 7
+    },
+    {
+      "campus": "SOROCABA",
+      "curso": "Técnico em Mecânica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 128,
+      "candidatos_por_vaga": 3.2,
+      "dispensada_prova": false,
+      "pagina": 7
+    },
+    {
+      "campus": "SÃO PAULO",
+      "curso": "Técnico em Desenvolvimento de Sistemas",
+      "turno": "Matutino",
+      "vagas": 40,
+      "inscritos": 1050,
+      "candidatos_por_vaga": 26.25,
+      "dispensada_prova": false,
+      "pagina": 7
+    },
+    {
+      "campus": "SÃO PAULO",
+      "curso": "Técnico em Desenvolvimento de Sistemas",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 301,
+      "candidatos_por_vaga": 7.53,
+      "dispensada_prova": false,
+      "pagina": 7
+    },
+    {
+      "campus": "SÃO PAULO",
+      "curso": "Técnico em Eletrônica",
+      "turno": "Matutino",
+      "vagas": 40,
+      "inscritos": 252,
+      "candidatos_por_vaga": 6.3,
+      "dispensada_prova": false,
+      "pagina": 8
+    },
+    {
+      "campus": "SÃO PAULO",
+      "curso": "Técnico em Mecânica",
+      "turno": "Matutino",
+      "vagas": 40,
+      "inscritos": 246,
+      "candidatos_por_vaga": 6.15,
+      "dispensada_prova": false,
+      "pagina": 8
+    },
+    {
+      "campus": "SÃO PAULO",
+      "curso": "Técnico em Mecânica",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 96,
+      "candidatos_por_vaga": 2.4,
+      "dispensada_prova": false,
+      "pagina": 8
+    },
+    {
+      "campus": "SÃO PAULO",
+      "curso": "Técnico em Sistemas de Energia Renovável",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 175,
+      "candidatos_por_vaga": 4.38,
+      "dispensada_prova": false,
+      "pagina": 8
+    },
+    {
+      "campus": "SÃO PAULO",
+      "curso": "Técnico em Telecomunicações",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 131,
+      "candidatos_por_vaga": 3.28,
+      "dispensada_prova": false,
+      "pagina": 8
+    },
+    {
+      "campus": "SÃO ROQUE",
+      "curso": "Técnico em Administração",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 298,
+      "candidatos_por_vaga": 7.45,
+      "dispensada_prova": false,
+      "pagina": 8
+    },
+    {
+      "campus": "SÃO ROQUE",
+      "curso": "Técnico em Alimentos",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 192,
+      "candidatos_por_vaga": 4.8,
+      "dispensada_prova": false,
+      "pagina": 8
+    },
+    {
+      "campus": "SÃO ROQUE",
+      "curso": "Técnico em Meio Ambiente",
+      "turno": "Matutino",
+      "vagas": 40,
+      "inscritos": 219,
+      "candidatos_por_vaga": 5.48,
+      "dispensada_prova": false,
+      "pagina": 8
+    },
+    {
+      "campus": "SÃO ROQUE",
+      "curso": "Técnico em Meio Ambiente",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 74,
+      "candidatos_por_vaga": 1.85,
+      "dispensada_prova": false,
+      "pagina": 8
+    },
+    {
+      "campus": "SERTÃOZINHO",
+      "curso": "Técnico em Automação Industrial",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 212,
+      "candidatos_por_vaga": 5.3,
+      "dispensada_prova": false,
+      "pagina": 8
+    },
+    {
+      "campus": "SERTÃOZINHO",
+      "curso": "Técnico em Mecânica",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 120,
+      "candidatos_por_vaga": 3.0,
+      "dispensada_prova": false,
+      "pagina": 8
+    },
+    {
+      "campus": "SERTÃOZINHO",
+      "curso": "Técnico em Química",
+      "turno": "Vespertino",
+      "vagas": 40,
+      "inscritos": 257,
+      "candidatos_por_vaga": 6.43,
+      "dispensada_prova": false,
+      "pagina": 8
+    },
+    {
+      "campus": "SUZANO",
+      "curso": "Técnico em Automação Industrial",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 405,
+      "candidatos_por_vaga": 10.13,
+      "dispensada_prova": false,
+      "pagina": 9
+    },
+    {
+      "campus": "SUZANO",
+      "curso": "Técnico em Química",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 541,
+      "candidatos_por_vaga": 13.53,
+      "dispensada_prova": false,
+      "pagina": 9
+    },
+    {
+      "campus": "TUPÃ",
+      "curso": "Técnico em Eletrotécnica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 104,
+      "candidatos_por_vaga": 2.6,
+      "dispensada_prova": false,
+      "pagina": 9
+    },
+    {
+      "campus": "TUPÃ",
+      "curso": "Técnico em Eletrônica",
+      "turno": "Integral",
+      "vagas": 80,
+      "inscritos": 282,
+      "candidatos_por_vaga": 3.53,
+      "dispensada_prova": false,
+      "pagina": 9
+    },
+    {
+      "campus": "VOTUPORANGA",
+      "curso": "Técnico em Edificações",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 132,
+      "candidatos_por_vaga": 3.3,
+      "dispensada_prova": false,
+      "pagina": 9
+    },
+    {
+      "campus": "VOTUPORANGA",
+      "curso": "Técnico em Informática",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 203,
+      "candidatos_por_vaga": 5.08,
+      "dispensada_prova": false,
+      "pagina": 9
+    },
+    {
+      "campus": "VOTUPORANGA",
+      "curso": "Técnico em Mecatrônica",
+      "turno": "Integral",
+      "vagas": 40,
+      "inscritos": 141,
+      "candidatos_por_vaga": 3.53,
+      "dispensada_prova": false,
+      "pagina": 9
+    }
+  ]
+}

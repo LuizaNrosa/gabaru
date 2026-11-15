@@ -1,0 +1,65 @@
+{
+  "edicao": "2026.2",
+  "campus": "Fortaleza",
+  "modalidade": "Ampla concorrência",
+  "classificacao_publicada": "2026-07-20",
+  "fonte": "https://concursos.faifce.ifce.edu.br/api/publicos/editais/900fe778-8a83-46cd-9473-80dd477e6432/atualizacoes/cd10b3c2-e094-4d85-8add-ed6a93cf0fbe_classificacao.pdf",
+  "fonte_vagas": "https://concursos.faifce.ifce.edu.br/concursos/detalhes?editalId=900fe778-8a83-46cd-9473-80dd477e6432",
+  "sha256": "e2f2567edc78bb56db4562d263ca844214c923fe09d282fd25de0b1836fa0931",
+  "ofertas": [
+    {
+      "curso": "Edificações",
+      "turno": "Integral (matutino e vespertino)",
+      "vagas_totais": 35,
+      "vagas_ac": 16,
+      "posicao": 16,
+      "nota": 7.61,
+      "pagina": 2
+    },
+    {
+      "curso": "Eletrotécnica",
+      "turno": "Integral (matutino e vespertino)",
+      "vagas_totais": 35,
+      "vagas_ac": 16,
+      "posicao": 16,
+      "nota": 8.09,
+      "pagina": 15
+    },
+    {
+      "curso": "Informática",
+      "turno": "Integral (matutino e vespertino)",
+      "vagas_totais": 35,
+      "vagas_ac": 16,
+      "posicao": 16,
+      "nota": 8.39,
+      "pagina": 27
+    },
+    {
+      "curso": "Mecânica Industrial",
+      "turno": "Integral (matutino e vespertino)",
+      "vagas_totais": 35,
+      "vagas_ac": 16,
+      "posicao": 16,
+      "nota": 7.98,
+      "pagina": 43
+    },
+    {
+      "curso": "Química",
+      "turno": "Integral (matutino e vespertino)",
+      "vagas_totais": 35,
+      "vagas_ac": 16,
+      "posicao": 16,
+      "nota": 8.31,
+      "pagina": 57
+    },
+    {
+      "curso": "Telecomunicações",
+      "turno": "Integral (matutino e vespertino)",
+      "vagas_totais": 35,
+      "vagas_ac": 16,
+      "posicao": 16,
+      "nota": 7.92,
+      "pagina": 75
+    }
+  ]
+}

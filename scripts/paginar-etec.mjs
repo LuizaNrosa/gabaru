@@ -24,7 +24,7 @@ export async function readVerifiedSource(publicPath, cachedPath, sha256) {
   return null;
 }
 
-export async function paginateExam(exam, institution = 'etec') {
+export async function paginateExam(exam, institution = 'etec', filenamePrefix = 'pagina-') {
   const dir = join('public', 'acervo', institution, exam.id);
   const cacheDir = resolve('.next/cache', institution + '-pdfs');
   const examPdf = join(dir, 'prova.pdf');
@@ -48,7 +48,7 @@ export async function paginateExam(exam, institution = 'etec') {
     if (pdf.numPages !== exam.pageCount) throw new Error('Total de páginas divergente: ' + exam.id);
     const supplied = new Map(exam.pages.map(page => [page.number, page.image]));
     for (let number = 1; number <= pdf.numPages; number++) {
-      const name = `pagina-${String(number).padStart(2, '0')}.webp`;
+      const name = `${filenamePrefix}${String(number).padStart(2, '0')}.webp`;
       const file = join(dir, name);
       if (supplied.get(number) === `/acervo/${institution}/${exam.id}/${name}` && await stat(file).then(s => s.size > 0, () => false)) continue;
       const page = await pdf.getPage(number);

@@ -1,6 +1,5 @@
 import "server-only";
 import { cert, getApps, initializeApp } from "firebase-admin/app";
-import { getAuth } from "firebase-admin/auth";
 
 function getAdminApp() {
   const existing = getApps()[0];
@@ -19,7 +18,8 @@ function getAdminApp() {
   });
 }
 
-export function adminAuth() {
+export async function adminAuth() {
+  const { getAuth } = await import("firebase-admin/auth");
   return getAuth(getAdminApp());
 }
 
@@ -29,7 +29,8 @@ export async function verifyRequestUser(req: Request) {
   const token = header.startsWith("Bearer ") ? header.slice(7) : null;
   if (!token) return null;
   try {
-    return await adminAuth().verifyIdToken(token);
+    const auth = await adminAuth();
+    return await auth.verifyIdToken(token);
   } catch {
     return null;
   }

@@ -42,3 +42,19 @@ test('ENEM: navegador e correção usam a numeração oficial nas duas línguas'
   }
   assert.equal(data.questoes.length, 95);
 });
+
+test('ENEM: cadernos paginados têm uma imagem por página e gabarito completo', async () => {
+  const paginated = JSON.parse(await readFile(new URL('src/data/enem-cadernos-paginados.json', root), 'utf8'));
+  for (const exam of paginated) {
+    assert.equal(exam.total, exam.questions.length);
+    assert.deepEqual(exam.numbers, exam.questions.map(q => q.numero));
+    assert.equal(new Set(exam.numbers).size, exam.total);
+    assert.ok(exam.questions.every(q => Number.isInteger(q.pagina) && q.pagina >= 1 &&
+      q.pagina <= exam.pageCount && /^(?:[A-E]|ANULADA)$/.test(q.gabarito)));
+    for (let page = 1; page <= exam.pageCount; page++) {
+      const filepath = `public/acervo/enem/${exam.id}/${String(page).padStart(2,"0")}.webp`;
+      const image = await readFile(new URL(filepath, root));
+      assert.equal(image.toString('ascii', 8, 12), 'WEBP', filepath);
+    }
+  }
+});

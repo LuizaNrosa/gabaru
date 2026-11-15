@@ -1,4 +1,5 @@
 import Link from "next/link";
+import paginatedExams from "@/data/enem-cadernos-paginados.json";
 import verifiedExams from "@/data/enem-gabaritos-conferidos.json";
 import { ENEM_SOURCE, ENEM_YEARS, enemExams, enemTitle } from "@/lib/enem-acervo";
 import { JsonLd } from "@/components/json-ld";
@@ -9,7 +10,7 @@ export const metadata = metaPagina({
   caminho: "/provas/enem",
 });
 export default function Page() {
-  const verified = new Set(verifiedExams.map(exam => exam.id));
+  const verified = new Set([...verifiedExams,...paginatedExams].map(exam => exam.id));
   return <main className="gb-container py-10">
     <JsonLd dados={jsonLd.lista(enemExams.map(e => ({ nome: enemTitle(e), caminho: `/provas/enem/${e.id}` })))} />
     <Link href="/pre-vestibular" className="gb-text-link">← Vestibular</Link>

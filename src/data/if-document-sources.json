@@ -1,0 +1,50 @@
+{
+  "ifam": {
+    "name": "Instituto Federal do Amazonas",
+    "source": "https://www2.ifam.edu.br/noticias/veja-provas-anteriores-de-processo-seletivo",
+    "editions": [
+      {
+        "edition": "2015/1",
+        "exam": "https://www2.ifam.edu.br/noticias/CADERNODEPROVAINTEGRADO20151SEMESTRE.pdf",
+        "key": "https://www2.ifam.edu.br/noticias/GABARITOAPSRECURSINTEGRADOPROCESSOSELETIVO20151SEMESTRE.pdf",
+        "keyLabel": "Gabarito após recursos"
+      },
+      {
+        "edition": "2013/1",
+        "exam": "https://www2.ifam.edu.br/noticias/veja-provas-anteriores-de-processo-seletivo/PROVAINTEGRADO2013_1semestre.pdf",
+        "key": "https://www2.ifam.edu.br/noticias/veja-provas-anteriores-de-processo-seletivo/GABARITOINTEGRADO2013_1_APOSRECURSO.pdf",
+        "keyLabel": "Gabarito após recursos"
+      },
+      {
+        "edition": "2012/1",
+        "exam": "https://www2.ifam.edu.br/noticias/veja-provas-anteriores-de-processo-seletivo/PROVAINTEGRADO2012_1.pdf",
+        "key": "https://www2.ifam.edu.br/noticias/veja-provas-anteriores-de-processo-seletivo/GABARITOINTEGRADO_2012_1.pdf",
+        "keyLabel": "Gabarito oficial"
+      }
+    ]
+  },
+  "ifrn": {
+    "name": "Instituto Federal do Rio Grande do Norte",
+    "source": "https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2026/",
+    "editions": [
+      {
+        "edition": "2026",
+        "exam": "https://portal.ifrn.edu.br/documents/24234/Caderno_de_Provas_-T%C3%A9cnico_Integrado_2026.pdf",
+        "key": "https://portal.ifrn.edu.br/documents/24650/GABARITO_EXAME_DE_SELE%C3%87%C3%83O_2026_-_DEFINITIVO.pdf",
+        "keyLabel": "Gabarito definitivo"
+      }
+    ]
+  },
+  "ifmg": {
+    "name": "Instituto Federal de Minas Gerais",
+    "source": "https://www2.ifmg.edu.br/portal/processo-seletivo/processos-seletivos-anteriores-1",
+    "editions": [
+      {
+        "edition": "2023/2",
+        "exam": "https://www2.ifmg.edu.br/portal/processo-seletivo/arquivos/provas/CadernoIFMGvestibular2023293638227846067122900.pdf",
+        "key": "https://www2.ifmg.edu.br/portal/processo-seletivo/arquivos/gabaritos/GabaritoPreliminarIFMG202393638227847103253096.pdf",
+        "keyLabel": "Gabarito preliminar"
+      }
+    ]
+  }
+}

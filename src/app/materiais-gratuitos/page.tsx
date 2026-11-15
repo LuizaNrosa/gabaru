@@ -34,6 +34,17 @@ export default function Page() {
           <Link href="/provas/enem" className="gb-button">Escolher prova do ENEM ↗</Link>
         </div>
       </section>
+      <section id="provas-ifs" className={`${CONTAINER} pt-8 scroll-mt-24`} aria-labelledby="provas-ifs-titulo">
+        <p className="gb-eyebrow">VESTIBULINHOS</p>
+        <h2 id="provas-ifs-titulo" className="gb-section-title mt-3">Provas dos Institutos Federais</h2>
+        <p className="mt-3 text-n5">Escolha seu instituto. Cada edição informa se dá para responder no Gabaru ou consultar os PDFs oficiais.</p>
+        <div className="gb-content-grid mt-6">
+          <Link href="/provas/ifam" className="gb-content-card"><h3>IFAM · Amazonas</h3><p>Cadernos e gabaritos oficiais em PDF.</p></Link>
+          <Link href="/provas/ifrn" className="gb-content-card"><h3>IFRN · Rio Grande do Norte</h3><p>Provas interativas e PDFs oficiais por edição.</p></Link>
+          <Link href="/provas/ifmg" className="gb-content-card"><h3>IFMG · Minas Gerais</h3><p>Provas interativas e PDFs oficiais por edição.</p></Link>
+        </div>
+        <Link href="/pre-vestibulinho#institutos-titulo" className="gb-text-link mt-6 inline-block">Ver outros Institutos Federais ↗</Link>
+      </section>
       <section className={`${CONTAINER} pt-6`} aria-labelledby="fontes-vestibulares">
         <div className="gb-content-card">
           <p className="gb-eyebrow">ACERVOS OFICIAIS · GRÁTIS</p>

@@ -7,6 +7,9 @@ export function IfOfficialDocuments({ slug }: { slug: string }) {
     <section className="mt-10" aria-labelledby="if-documentos">
       <h2 id="if-documentos" className="gb-section-title">Provas e gabaritos em PDF</h2>
       <p className="mt-3 text-n5">Abra os documentos no portal do instituto. A conferência destas edições é manual.</p>
+      {slug === "ifam" && (
+        <p className="gb-notice mt-4">O portal do IFAM lista estas edições. A abertura dos arquivos individuais não pôde ser confirmada. Se um PDF não abrir, consulte a página do instituto abaixo.</p>
+      )}
       <div className="gb-content-grid mt-6">
         {editions.map(({ edition, exam, key, keyLabel }) => (
           <article key={edition} className="gb-content-card">

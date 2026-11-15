@@ -22,7 +22,8 @@ export async function generateMetadata({ params }: Props) {
 export default async function Page({ params }: Props) {
   const exam = readEnemExam((await params).edition);
   if (!exam) notFound();
-  const verified = verifiedExams.some(e => e.id === exam.id);
+  const verification = verifiedExams.find(e => e.id === exam.id);
+  const verified = !!verification;
   return <main className="gb-container py-10">
     <JsonLd dados={jsonLd.trilhas([{ nome: "Início", caminho: "/" }, { nome: "ENEM e vestibulares", caminho: "/pre-vestibular" }, { nome: "Acervo ENEM", caminho: "/provas/enem" }, { nome: enemTitle(exam), caminho: `/provas/enem/${exam.id}` }])} />
     <Link href={`/provas/enem#ano-${exam.year}`} className="gb-text-link">← Acervo ENEM {exam.year}</Link>
@@ -31,6 +32,9 @@ export default async function Page({ params }: Props) {
     <p className="mt-5 text-lg">{exam.total} itens · caderno organizado por questão.</p>
     <p className="gb-notice mt-6">Consulte cada questão abaixo. As disciplinas e habilidades são classificações de estudo do Gabaru. {verified ? "Este caderno conta com correção pelo gabarito oficial." : "Este caderno ainda não tem correção automática."} Os recortes originais aparecem no leitor. Quando o caderno inclui as duas opções de língua estrangeira, escolha inglês ou espanhol antes de responder.</p>
     <details className="mt-4"><summary className="cursor-pointer py-2 text-sm text-n5">Fonte oficial e outros materiais</summary><div className="gb-actions"><a className="gb-text-link" href={`${ENEM_SOURCE}/${exam.year}`} target="_blank" rel="noopener noreferrer">Consultar a edição no Inep ↗</a><Link className="gb-text-link" href={`/treino?ano=${exam.year}`}>Treinar questões deste ano ↗</Link></div></details>
+    {verification && "language" in verification && <p className="gb-notice mt-5">
+      Neste caderno, a correção das questões de língua estrangeira corresponde à opção de inglês.
+    </p>}
     <EnemExamReader key={exam.id} id={exam.id} title={enemTitle(exam)} verified={verified} questions={exam.questions.map(({numero,texto,disciplina,habilidade,tema,obs})=>({numero,texto,disciplina,habilidade,tema,obs}))} />
     <section className="mt-12" aria-label="Transcrições das questões">
       <h2 className="gb-section-title">Transcrições das questões</h2>

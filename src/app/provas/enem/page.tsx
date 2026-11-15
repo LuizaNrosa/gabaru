@@ -1,4 +1,5 @@
 import Link from "next/link";
+import verifiedExams from "@/data/enem-gabaritos-conferidos.json";
 import { ENEM_SOURCE, ENEM_YEARS, enemExams, enemTitle } from "@/lib/enem-acervo";
 import { JsonLd } from "@/components/json-ld";
 import { jsonLd, metaPagina } from "@/lib/seo";
@@ -8,12 +9,13 @@ export const metadata = metaPagina({
   caminho: "/provas/enem",
 });
 export default function Page() {
+  const verified = new Set(verifiedExams.map(exam => exam.id));
   return <main className="gb-container py-10">
     <JsonLd dados={jsonLd.lista(enemExams.map(e => ({ nome: enemTitle(e), caminho: `/provas/enem/${e.id}` })))} />
     <Link href="/pre-vestibular" className="gb-text-link">← Vestibular</Link>
     <p className="gb-eyebrow mt-8">VESTIBULAR · ENEM</p>
     <h1 className="gb-page-title">Uma edição de cada vez.</h1>
-    <p className="mt-5 text-lg">{enemExams.length} cadernos incorporados · {enemExams.reduce((n, e) => n + e.total, 0).toLocaleString("pt-BR")} itens para consulta.</p>
+    <p className="mt-5 text-lg">{enemExams.length} cadernos para resolver no site · {verified.size} com correção automática · {enemExams.reduce((n, e) => n + e.total, 0).toLocaleString("pt-BR")} itens para consulta.</p>
     <p className="gb-notice mt-6">Os itens de língua estrangeira incluem as opções de inglês e espanhol quando presentes. Escolha apenas uma língua ao resolver a prova. Cores e versões acessíveis não são somadas como novas provas. A correção automática está disponível somente nos cadernos com gabaritos já conferidos; nos demais, consulte a fonte oficial.</p>
     <nav aria-label="Anos do ENEM" className="my-6 flex flex-wrap gap-3">{ENEM_YEARS.map(year => <a key={year} className="flex min-h-12 items-center rounded border border-n2 px-4" href={`#ano-${year}`}>{year}</a>)}</nav>
     {ENEM_YEARS.map(year => {
@@ -23,7 +25,7 @@ export default function Page() {
         <div className="mt-5 grid gap-4 md:grid-cols-2">{available.map(e =>
           <Link key={e.id} href={`/provas/enem/${e.id}`} className="gb-content-card">
             <h3>{enemTitle(e)}</h3>
-            <p>{e.total} itens · {e.disciplines.length} disciplinas</p>
+            <p>{e.total} itens · {verified.has(e.id) ? "correção automática" : "gabarito em conferência"}</p>
             <span className="gb-text-link">Abrir prova e responder ↗</span>
           </Link>)}</div>
         <p className="mt-4 text-sm text-n5">{available.length ? "Há cadernos incorporados deste ano. Outras aplicações e versões podem estar disponíveis na fonte oficial." : "A incorporação deste ano ao Gabaru está pendente. Consulte os cadernos e gabaritos na fonte oficial."}</p>

@@ -15,6 +15,9 @@ export async function POST(req: Request) {
   const { examId, language, answers } = data as { examId?: unknown; language?: unknown; answers?: unknown };
   const verified = typeof examId === "string" ? verifiedExams.find(e => e.id === examId) : undefined;
   if (typeof examId !== "string" || !verified || (language !== "ingles" && language !== "espanhol") || !answers || typeof answers !== "object" || Array.isArray(answers)) return NextResponse.json({ error: "Simulado ou respostas inválidas." }, { status: 400 });
+  if ("language" in verified && verified.language !== language) {
+    return NextResponse.json({ error: "Gabarito indisponível para a língua escolhida neste caderno." }, { status: 400 });
+  }
   const answerMap = answers as Record<string, unknown>;
   const entries = Object.entries(answerMap);
   if (!entries.length || entries.length > 90 || entries.some(([key, value]) => !/^[1-9][0-9]{0,2}$/.test(key) || typeof value !== "string" || !/^[A-E]$/.test(value))) return NextResponse.json({ error: "Alternativas inválidas." }, { status: 400 });

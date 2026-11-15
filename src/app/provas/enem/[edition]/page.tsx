@@ -35,7 +35,7 @@ export default async function Page({ params }: Props) {
     {verification && "language" in verification && <p className="gb-notice mt-5">
       Neste caderno, a correção das questões de língua estrangeira corresponde à opção de inglês.
     </p>}
-    <EnemExamReader key={exam.id} id={exam.id} title={enemTitle(exam)} verified={verified} pageCount={exam.pageCount} questions={exam.questions.map(({numero,texto,disciplina,habilidade,tema,obs,pagina})=>({numero,texto,disciplina,habilidade,tema,obs,pagina}))} />
+    <EnemExamReader key={exam.id} id={exam.id} title={enemTitle(exam)} verified={verified} pageCount={exam.pageCount} questions={exam.questions.map(({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled})=>({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled}))} />
     {!exam.pageCount && <section className="mt-12" aria-label="Transcrições das questões">
       <h2 className="gb-section-title">Transcrições das questões</h2>
       <p className="mt-3 text-sm text-n5">Texto auxiliar: para figuras e alternativas, consulte o recorte ou o caderno oficial.</p>

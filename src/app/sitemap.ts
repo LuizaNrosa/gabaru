@@ -30,6 +30,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "",
     "/enem",
     "/provas",
+    "/provas/ifam",
     "/provas/enem",
     "/provas/uerj",
     "/provas/uel",

@@ -1,0 +1,10 @@
+import "server-only";
+import primeiros from "@/data/ifs-primeiros.json";
+import adicionais from "@/data/ifs-2023.json";
+import recentes from "@/data/ifs-lote-2026.json";
+import ifmt2025 from "@/data/ifmt-2025-1.json";
+import ifmt2026 from "@/data/ifmt-2026-1.json";
+import ifrs2025 from "@/data/ifrs-2025-1.json";
+import ifrs2026 from "@/data/ifrs-2026-1.json";
+import ifrn2026 from "@/data/ifrn-2026.json";
+export const listaIfs=[...primeiros,...adicionais,...recentes,...ifmt2025,...ifmt2026,...ifrs2025,...ifrs2026,...ifrn2026];

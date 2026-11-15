@@ -1,0 +1,563 @@
+[
+  {
+    "id": "enem-2025-regular-d2",
+    "year": 2025,
+    "day": 2,
+    "total": 90,
+    "description": "Aplicação regular nacional · Caderno 7 Azul",
+    "disciplines": [
+      "ciências da natureza",
+      "matemática"
+    ],
+    "pageCount": 32,
+    "questionSource": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_PV_impresso_D2_CD7.pdf",
+    "questionCopy": "https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2025/11/Enem-2025-2o-dia-2.pdf",
+    "questionCopySha256": "8cbff388ac940b69287627b1a714f716f6cc62e044d8f3e55e1197b9ea976dfc",
+    "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_GB_impresso_D2_CD7.pdf",
+    "keyCopy": "https://pt.scribd.com/document/1072636822/2025-GB-impresso-D2-CD7",
+    "numbers": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "questions": [
+      {
+        "numero": 91,
+        "pagina": 2,
+        "gabarito": "D"
+      },
+      {
+        "numero": 92,
+        "pagina": 2,
+        "gabarito": "D"
+      },
+      {
+        "numero": 93,
+        "pagina": 2,
+        "gabarito": "C"
+      },
+      {
+        "numero": 94,
+        "pagina": 2,
+        "gabarito": "D"
+      },
+      {
+        "numero": 95,
+        "pagina": 3,
+        "gabarito": "C"
+      },
+      {
+        "numero": 96,
+        "pagina": 3,
+        "gabarito": "B"
+      },
+      {
+        "numero": 97,
+        "pagina": 3,
+        "gabarito": "D"
+      },
+      {
+        "numero": 98,
+        "pagina": 3,
+        "gabarito": "D"
+      },
+      {
+        "numero": 99,
+        "pagina": 4,
+        "gabarito": "C"
+      },
+      {
+        "numero": 100,
+        "pagina": 4,
+        "gabarito": "D"
+      },
+      {
+        "numero": 101,
+        "pagina": 4,
+        "gabarito": "A"
+      },
+      {
+        "numero": 102,
+        "pagina": 4,
+        "gabarito": "E"
+      },
+      {
+        "numero": 103,
+        "pagina": 4,
+        "gabarito": "A"
+      },
+      {
+        "numero": 104,
+        "pagina": 4,
+        "gabarito": "A"
+      },
+      {
+        "numero": 105,
+        "pagina": 5,
+        "gabarito": "E"
+      },
+      {
+        "numero": 106,
+        "pagina": 5,
+        "gabarito": "A"
+      },
+      {
+        "numero": 107,
+        "pagina": 6,
+        "gabarito": "E"
+      },
+      {
+        "numero": 108,
+        "pagina": 6,
+        "gabarito": "C"
+      },
+      {
+        "numero": 109,
+        "pagina": 7,
+        "gabarito": "E"
+      },
+      {
+        "numero": 110,
+        "pagina": 7,
+        "gabarito": "E"
+      },
+      {
+        "numero": 111,
+        "pagina": 7,
+        "gabarito": "B"
+      },
+      {
+        "numero": 112,
+        "pagina": 7,
+        "gabarito": "D"
+      },
+      {
+        "numero": 113,
+        "pagina": 8,
+        "gabarito": "B"
+      },
+      {
+        "numero": 114,
+        "pagina": 8,
+        "gabarito": "B"
+      },
+      {
+        "numero": 115,
+        "pagina": 8,
+        "gabarito": "C"
+      },
+      {
+        "numero": 116,
+        "pagina": 9,
+        "gabarito": "C"
+      },
+      {
+        "numero": 117,
+        "pagina": 9,
+        "gabarito": "D"
+      },
+      {
+        "numero": 118,
+        "pagina": 9,
+        "gabarito": "C"
+      },
+      {
+        "numero": 119,
+        "pagina": 9,
+        "gabarito": "B"
+      },
+      {
+        "numero": 120,
+        "pagina": 10,
+        "gabarito": "B"
+      },
+      {
+        "numero": 121,
+        "pagina": 10,
+        "gabarito": "B"
+      },
+      {
+        "numero": 122,
+        "pagina": 10,
+        "gabarito": "D"
+      },
+      {
+        "numero": 123,
+        "pagina": 10,
+        "gabarito": "ANULADA"
+      },
+      {
+        "numero": 124,
+        "pagina": 11,
+        "gabarito": "B"
+      },
+      {
+        "numero": 125,
+        "pagina": 11,
+        "gabarito": "B"
+      },
+      {
+        "numero": 126,
+        "pagina": 11,
+        "gabarito": "D"
+      },
+      {
+        "numero": 127,
+        "pagina": 12,
+        "gabarito": "C"
+      },
+      {
+        "numero": 128,
+        "pagina": 12,
+        "gabarito": "E"
+      },
+      {
+        "numero": 129,
+        "pagina": 12,
+        "gabarito": "A"
+      },
+      {
+        "numero": 130,
+        "pagina": 13,
+        "gabarito": "E"
+      },
+      {
+        "numero": 131,
+        "pagina": 13,
+        "gabarito": "E"
+      },
+      {
+        "numero": 132,
+        "pagina": 13,
+        "gabarito": "ANULADA"
+      },
+      {
+        "numero": 133,
+        "pagina": 14,
+        "gabarito": "A"
+      },
+      {
+        "numero": 134,
+        "pagina": 14,
+        "gabarito": "B"
+      },
+      {
+        "numero": 135,
+        "pagina": 15,
+        "gabarito": "A"
+      },
+      {
+        "numero": 136,
+        "pagina": 16,
+        "gabarito": "C"
+      },
+      {
+        "numero": 137,
+        "pagina": 16,
+        "gabarito": "B"
+      },
+      {
+        "numero": 138,
+        "pagina": 17,
+        "gabarito": "E"
+      },
+      {
+        "numero": 139,
+        "pagina": 18,
+        "gabarito": "C"
+      },
+      {
+        "numero": 140,
+        "pagina": 18,
+        "gabarito": "E"
+      },
+      {
+        "numero": 141,
+        "pagina": 18,
+        "gabarito": "C"
+      },
+      {
+        "numero": 142,
+        "pagina": 18,
+        "gabarito": "C"
+      },
+      {
+        "numero": 143,
+        "pagina": 19,
+        "gabarito": "A"
+      },
+      {
+        "numero": 144,
+        "pagina": 19,
+        "gabarito": "D"
+      },
+      {
+        "numero": 145,
+        "pagina": 19,
+        "gabarito": "D"
+      },
+      {
+        "numero": 146,
+        "pagina": 19,
+        "gabarito": "B"
+      },
+      {
+        "numero": 147,
+        "pagina": 20,
+        "gabarito": "E"
+      },
+      {
+        "numero": 148,
+        "pagina": 20,
+        "gabarito": "C"
+      },
+      {
+        "numero": 149,
+        "pagina": 21,
+        "gabarito": "B"
+      },
+      {
+        "numero": 150,
+        "pagina": 21,
+        "gabarito": "D"
+      },
+      {
+        "numero": 151,
+        "pagina": 21,
+        "gabarito": "D"
+      },
+      {
+        "numero": 152,
+        "pagina": 21,
+        "gabarito": "D"
+      },
+      {
+        "numero": 153,
+        "pagina": 22,
+        "gabarito": "A"
+      },
+      {
+        "numero": 154,
+        "pagina": 22,
+        "gabarito": "C"
+      },
+      {
+        "numero": 155,
+        "pagina": 23,
+        "gabarito": "B"
+      },
+      {
+        "numero": 156,
+        "pagina": 23,
+        "gabarito": "E"
+      },
+      {
+        "numero": 157,
+        "pagina": 23,
+        "gabarito": "C"
+      },
+      {
+        "numero": 158,
+        "pagina": 23,
+        "gabarito": "C"
+      },
+      {
+        "numero": 159,
+        "pagina": 23,
+        "gabarito": "D"
+      },
+      {
+        "numero": 160,
+        "pagina": 24,
+        "gabarito": "E"
+      },
+      {
+        "numero": 161,
+        "pagina": 24,
+        "gabarito": "A"
+      },
+      {
+        "numero": 162,
+        "pagina": 24,
+        "gabarito": "B"
+      },
+      {
+        "numero": 163,
+        "pagina": 25,
+        "gabarito": "B"
+      },
+      {
+        "numero": 164,
+        "pagina": 25,
+        "gabarito": "A"
+      },
+      {
+        "numero": 165,
+        "pagina": 26,
+        "gabarito": "D"
+      },
+      {
+        "numero": 166,
+        "pagina": 26,
+        "gabarito": "E"
+      },
+      {
+        "numero": 167,
+        "pagina": 27,
+        "gabarito": "D"
+      },
+      {
+        "numero": 168,
+        "pagina": 27,
+        "gabarito": "E"
+      },
+      {
+        "numero": 169,
+        "pagina": 28,
+        "gabarito": "A"
+      },
+      {
+        "numero": 170,
+        "pagina": 29,
+        "gabarito": "B"
+      },
+      {
+        "numero": 171,
+        "pagina": 29,
+        "gabarito": "E"
+      },
+      {
+        "numero": 172,
+        "pagina": 29,
+        "gabarito": "A"
+      },
+      {
+        "numero": 173,
+        "pagina": 30,
+        "gabarito": "A"
+      },
+      {
+        "numero": 174,
+        "pagina": 30,
+        "gabarito": "ANULADA"
+      },
+      {
+        "numero": 175,
+        "pagina": 30,
+        "gabarito": "C"
+      },
+      {
+        "numero": 176,
+        "pagina": 30,
+        "gabarito": "C"
+      },
+      {
+        "numero": 177,
+        "pagina": 31,
+        "gabarito": "B"
+      },
+      {
+        "numero": 178,
+        "pagina": 31,
+        "gabarito": "E"
+      },
+      {
+        "numero": 179,
+        "pagina": 31,
+        "gabarito": "A"
+      },
+      {
+        "numero": 180,
+        "pagina": 31,
+        "gabarito": "D"
+      }
+    ]
+  }
+]

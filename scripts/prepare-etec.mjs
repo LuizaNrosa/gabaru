@@ -2,8 +2,20 @@ import { readFile, mkdir, writeFile, rename } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import path from 'node:path';
 
+const paginate = process.argv.includes('--paginar');
+const pagination = paginate ? await import('./paginar-etec.mjs') : null;
 const exams = JSON.parse(await readFile('src/data/etec-exams.json', 'utf8'));
-const jobs = exams.flatMap(e => [
+for (const exam of exams.filter(e => e.pageImagesOnly)) {
+  if (!/^\d{4}-\d(?:-extra\d+)?$/.test(exam.id) || exam.pages.length !== exam.pageCount) {
+    throw new Error('Caderno paginado inválido: ' + exam.id);
+  }
+  for (const [index, page] of exam.pages.entries()) {
+    const expected = `/acervo/etec/${exam.id}/pagina-${String(index + 1).padStart(2, '0')}.webp`;
+    if (page.number !== index + 1 || page.image !== expected) throw new Error('Página inválida: ' + expected);
+    await readFile('public' + expected);
+  }
+}
+const jobs = exams.filter(e => !e.pageImagesOnly).flatMap(e => [
   { id: e.id, name: 'prova', url: e.examUrl, hash: e.examSha256 },
   { id: e.id, name: 'gabarito', url: e.answerUrl, hash: e.answerSha256 },
 ]);
@@ -20,6 +32,9 @@ for (const job of jobs) {
   const url = new URL(job.url);
   if (url.protocol !== 'https:' || !['fatweb.s3.amazonaws.com', 'vestibulinho.etec.sp.gov.br'].includes(url.hostname))
     throw new Error('Fonte não permitida: ' + job.id);
+  if (pagination && await pagination.readVerifiedSource(
+    file, path.join(pagination.etecPdfCache, job.id, job.name + '.pdf'), job.hash,
+  )) { complete++; continue; }
   let bytes;
   for (let attempt = 0; attempt < 4; attempt++) {
     // The legacy archive can reject rapid parallel downloads from hosting IPs.
@@ -68,3 +83,10 @@ for (const job of jobs) {
   console.log(`ETEC ${complete}/${jobs.length}: ${job.id}/${job.name}`);
 }
 console.log(`ETEC: ${complete} PDFs oficiais verificados.`);
+
+if (pagination) {
+  for (const exam of exams.filter(e => !e.pageImagesOnly)) {
+    await pagination.paginateExam(exam);
+  }
+  console.log('Cadernos ETEC paginados para publicação.');
+}

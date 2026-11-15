@@ -5,7 +5,7 @@ import { MATRIZ_ENEM, type AreaEnem } from "@/data/enem-matriz";
 import { metaPagina } from "@/lib/seo";
 
 export const metadata: Metadata = metaPagina({
-  titulo: "ENEM: Matriz de Referência por habilidade",
+  titulo: "Estude para o ENEM: provas, treino e habilidades",
   descricao:
     "As 120 habilidades da Matriz de Referência do ENEM, organizadas para você estudar só o que precisa.",
   caminho: "/enem",
@@ -22,54 +22,21 @@ export default function EnemPage() {
         eyebrow="ENEM"
         titulo={
           <>
-            Todas as <mark>120 habilidades</mark> do ENEM, no seu mapa.
+            Prepare-se para o ENEM. <mark>Pratique no seu ritmo.</mark>
           </>
         }
       >
         <p>
-          A Matriz de Referência do INEP organiza a prova em quatro áreas e 30
-          habilidades por área. No Gabaru, cada questão é marcada com a sua
-          habilidade como organização de estudo. O acompanhamento de domínio
-          ainda está em desenvolvimento.
+          Resolva questões por disciplina, consulte cadernos anteriores e explore as 120 habilidades da matriz do Inep.
         </p>
+        <div className="gb-actions">
+          <Link href="/treino" className="gb-button">Treinar por disciplina</Link>
+          <Link href="/provas/enem" className="gb-text-link">Escolher uma prova do ENEM</Link>
+        </div>
       </PageHero>
 
-      <section className={`${CONTAINER} pt-12`}>
-        <h2 className="gb-section-title">Provas do ENEM por ano</h2>
-        <p className="mt-4 text-n5">Cadernos incorporados e acesso às edições oficiais do Inep, de 1998 a 2025.</p>
-        <Link href="/provas/enem" className="gb-button mt-5">Abrir acervo de provas ↗</Link>
-      </section>
-      <section className={`${CONTAINER} pt-12`}>
-        <ol className="grid gap-4 md:grid-cols-3" role="list">
-          <li className="rounded-lg border border-n2 bg-white/60 p-5">
-            <h2 className="font-bold">Questão marcada</h2>
-            <p className="mt-2 text-sm text-n5">
-              Cada questão do banco aponta para uma habilidade (H1 a H30) e para
-              a sua área.
-            </p>
-          </li>
-          <li className="rounded-lg border border-n2 bg-white/60 p-5">
-            <h2 className="font-bold">Domínio · planejado</h2>
-            <p className="mt-2 text-sm text-n5">
-              Recurso planejado: um indicador por habilidade baseado nas
-              respostas verificadas.
-            </p>
-          </li>
-          <li className="rounded-lg border border-n2 bg-white/60 p-5">
-            <h2 className="font-bold">Plano · planejado</h2>
-            <p className="mt-2 text-sm text-n5">
-              Recurso planejado: priorização das habilidades que precisam de
-              atenção.
-            </p>
-          </li>
-        </ol>
-        <p className="mt-4 text-sm text-n4">
-          O banco de questões e a área do aluno estão em construção. Matemática
-          é a primeira área a abrir.
-        </p>
-      </section>
-
-      <section className={`${CONTAINER} pt-14`}>
+      <section className={`${CONTAINER} pt-14`} aria-labelledby="matriz-enem">
+        <h2 id="matriz-enem" className="gb-section-title mb-6">Matriz de Referência do ENEM</h2>
         <div className="grid gap-6">
           {areas.map(([slug, a]) => (
             <article
@@ -78,7 +45,7 @@ export default function EnemPage() {
               className="scroll-mt-28 rounded-lg border border-n2 bg-white/60 p-5 sm:p-8"
             >
               <div className="flex flex-wrap items-baseline justify-between gap-2">
-                <h2 className="text-2xl font-bold">{a.nome}</h2>
+                <h3 className="text-2xl font-bold">{a.nome}</h3>
                 <p className="font-mono text-sm text-n4">
                   {a.sigla} · {a.habilidades.length} habilidades ·{" "}
                   {a.competencias.length} competências

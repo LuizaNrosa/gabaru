@@ -24,12 +24,13 @@ export async function readVerifiedSource(publicPath, cachedPath, sha256) {
   return null;
 }
 
-export async function paginateExam(exam) {
-  const dir = join('public', 'acervo', 'etec', exam.id);
+export async function paginateExam(exam, institution = 'etec') {
+  const dir = join('public', 'acervo', institution, exam.id);
+  const cacheDir = resolve('.next/cache', institution + '-pdfs');
   const examPdf = join(dir, 'prova.pdf');
   const keyPdf = join(dir, 'gabarito.pdf');
-  const examCache = join(etecPdfCache, exam.id, 'prova.pdf');
-  const keyCache = join(etecPdfCache, exam.id, 'gabarito.pdf');
+  const examCache = join(cacheDir, exam.id, 'prova.pdf');
+  const keyCache = join(cacheDir, exam.id, 'gabarito.pdf');
   const bytes = await readVerifiedSource(examPdf, examCache, exam.examSha256);
   if (!bytes) throw new Error('Caderno sem PDF verificado: ' + exam.id);
 
@@ -49,7 +50,7 @@ export async function paginateExam(exam) {
     for (let number = 1; number <= pdf.numPages; number++) {
       const name = `pagina-${String(number).padStart(2, '0')}.webp`;
       const file = join(dir, name);
-      if (supplied.get(number) === `/acervo/etec/${exam.id}/${name}` && await stat(file).then(s => s.size > 0, () => false)) continue;
+      if (supplied.get(number) === `/acervo/${institution}/${exam.id}/${name}` && await stat(file).then(s => s.size > 0, () => false)) continue;
       const page = await pdf.getPage(number);
       const original = page.getViewport({ scale: 1 });
       const viewport = page.getViewport({ scale: 1150 / original.width });

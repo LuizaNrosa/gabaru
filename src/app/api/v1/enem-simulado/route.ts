@@ -2,6 +2,7 @@
 import { NextResponse } from "next/server";
 import bank from "@/data/treino-banco.json";
 import verifiedExams from "@/data/enem-gabaritos-conferidos.json";
+import { selectEnemQuestions } from "@/lib/enem-question-order";
 import { origemPermitida } from "@/lib/seguranca";
 
 export const runtime = "nodejs";
@@ -16,10 +17,9 @@ export async function POST(req: Request) {
   if (typeof examId !== "string" || !verified || (language !== "ingles" && language !== "espanhol") || !answers || typeof answers !== "object" || Array.isArray(answers)) return NextResponse.json({ error: "Simulado ou respostas inválidas." }, { status: 400 });
   const answerMap = answers as Record<string, unknown>;
   const entries = Object.entries(answerMap);
-  if (entries.length > 90 || entries.some(([key, value]) => !/^[1-9][0-9]{0,2}$/.test(key) || typeof value !== "string" || !/^[A-E]$/.test(value))) return NextResponse.json({ error: "Alternativas inválidas." }, { status: 400 });
+  if (!entries.length || entries.length > 90 || entries.some(([key, value]) => !/^[1-9][0-9]{0,2}$/.test(key) || typeof value !== "string" || !/^[A-E]$/.test(value))) return NextResponse.json({ error: "Alternativas inválidas." }, { status: 400 });
   const exam = bank.filter(q => q.id.startsWith(examId + "-q"));
-  const hasLanguages = exam.some(q => q.numero >= 101 && q.numero <= 105 && q.disciplina === "espanhol");
-  const selected = hasLanguages ? exam.filter(q => language === "ingles" ? !(q.numero >= 101 && q.numero <= 105 && q.disciplina === "espanhol") : !(q.numero >= 1 && q.numero <= 5 && q.disciplina === "ingles")) : exam;
+  const selected = selectEnemQuestions(exam, language);
   const allowed = new Set(selected.map(q => String(q.numero)));
   const expected = new Set(verified.numbers.map(String));
   const complete = exam.length === expected.size && new Set(exam.map(q => String(q.numero))).size === expected.size && exam.every(q => expected.has(String(q.numero)));

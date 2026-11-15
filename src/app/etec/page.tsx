@@ -13,12 +13,12 @@ export default function EtecPage() {
   return (
     <main>
       <PageHero eyebrow="Vestibulinho ETEC" titulo={<>Faça a prova da ETEC. <mark>Prepare-se para a próxima.</mark></>}>
-        <p>Resolva provas anteriores do Vestibulinho no Gabaru e confira suas respostas com o gabarito oficial.</p>
+        <p>O acesso de estudo da ETEC reúne provas anteriores no leitor do Gabaru, com marcação de respostas e correção pelo gabarito oficial.</p>
         <div className="gb-actions">
-          <Link href="/provas/etec" className="gb-button">Escolher uma prova</Link>
+          <Link href="/provas/etec" className="gb-button">Consultar o catálogo de provas</Link>
           <Link href="/nota-de-corte" className="gb-text-link">Consultar nota de corte e demanda</Link>
         </div>
-        <p className="gb-footnote">{exams.length} cadernos disponíveis no acervo.</p>
+        <p className="gb-footnote">{exams.length} cadernos no catálogo do Gabaru.</p>
       </PageHero>
       <section className={`${CONTAINER} py-10`} aria-labelledby="etec-acompanhamento">
         <div className="rounded-lg border border-n2 bg-gold-soft p-6 sm:p-8">

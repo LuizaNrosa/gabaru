@@ -5,22 +5,31 @@ import { resolve, join } from 'node:path';
 
 const root = resolve(import.meta.dirname, '..');
 const readJson = async path => JSON.parse(await readFile(join(root, path), 'utf8'));
-const catalog = await readJson('src/data/enem-exams.json');
+const paginated = await readJson('src/data/enem-cadernos-paginados.json');
+const catalog = [...await readJson('src/data/enem-exams.json'), ...paginated];
+const verified = new Set((await readJson('src/data/enem-gabaritos-conferidos.json')).map(exam => exam.id));
 const indexed = new Set(catalog.map(exam => exam.id));
 const folders = await readdir(join(root, 'content/enem'), { withFileTypes: true });
 const orphaned = folders.filter(entry => entry.isDirectory() && !indexed.has(entry.name)).map(entry => entry.name).sort();
 const exams = [];
 for (const exam of catalog) {
-  const data = await readJson(`content/enem/${exam.id}/dados.json`);
+  const paginatedExam = paginated.find(entry => entry.id === exam.id);
+  const data = paginatedExam ? { questoes: paginatedExam.questions } : await readJson(`content/enem/${exam.id}/dados.json`);
   const missing = [];
-  for (const q of data.questoes) {
-    const path = join(root, 'public/questoes', `${exam.id}-q${String(q.numero).padStart(3, '0')}.webp`);
-    try { if (!(await stat(path)).isFile()) missing.push(q.numero); }
-    catch (error) { if (error.code !== 'ENOENT') throw error; missing.push(q.numero); }
+  const assets = paginatedExam ? Array.from({ length: paginatedExam.pageCount }, (_, index) => ({
+    number: index + 1,
+    path: join(root, 'public/acervo/enem', exam.id, String(index + 1).padStart(2, '0') + '.webp'),
+  })) : data.questoes.map(q => ({
+    number: q.numero,
+    path: join(root, 'public/questoes', `${exam.id}-q${String(q.numero).padStart(3, '0')}.webp`),
+  }));
+  for (const { number, path } of assets) {
+    try { if (!(await stat(path)).isFile()) missing.push(number); }
+    catch (error) { if (error.code !== 'ENOENT') throw error; missing.push(number); }
   }
   exams.push({ id: exam.id, ano: exam.year, dia: exam.day, descricao: exam.description,
-    itens_catalogo: exam.total, itens_dados: data.questoes.length, imagens_ausentes: missing,
-    fonte_oficial_especifica_registrada_no_catalogo: Boolean(exam.source || exam.sourceUrl || exam.examUrl),
+    correcao_automatica: !!paginatedExam || verified.has(exam.id), itens_catalogo: exam.total, itens_dados: data.questoes.length, imagens_ausentes: missing,
+    fonte_oficial_especifica_registrada_no_catalogo: Boolean(exam.questionSource || exam.source || exam.sourceUrl || exam.examUrl),
     hash_pdf_registrado_no_catalogo: Boolean(exam.examSha256 || exam.sha256),
     observacao: 'Ausência de referência no catálogo não prova que a fonte ou o arquivo original não existam em outro lugar.' });
 }
@@ -28,6 +37,8 @@ const result = {
   fonte_geral: 'https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos',
   ressalva: 'Inventário de arquivos locais; não valida transcrições, gabaritos, proveniência nem completude do acervo oficial.',
   cadernos: exams.length,
+  cadernos_com_correcao: exams.filter(exam => exam.correcao_automatica).length,
+  anos_sem_caderno: Array.from({ length: 28 }, (_, i) => 1998 + i).filter(year => !exams.some(exam => exam.ano === year)),
   itens: exams.reduce((sum, exam) => sum + exam.itens_dados, 0),
   pastas_fora_do_catalogo: orphaned,
   exames: exams,

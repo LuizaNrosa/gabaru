@@ -5,9 +5,10 @@ import { metaHome } from "@/lib/seo";
 export const metadata: Metadata = metaHome();
 
 const caminhos = [
-  { titulo: "ENEM", texto: "Pratique questões por disciplina e encontre provas por edição.", href: "/enem", acao: "Estudar para o ENEM" },
-  { titulo: "Vestibulinhos", texto: "Encontre provas da ETEC, COLUNI e Institutos Federais de vários estados.", href: "/pre-vestibulinho", acao: "Explorar vestibulinhos" },
-  { titulo: "Vestibulares", texto: "Encontre provas da FUVEST, Unesp/Vunesp, Unicamp, UERJ e UEL.", href: "/provas#vestibulares", acao: "Explorar vestibulares" },
+  { titulo: "ETEC", texto: "Resolva provas anteriores do Vestibulinho e consulte nota de corte e demanda.", href: "/etec" },
+  { titulo: "Institutos Federais", texto: "Encontre provas e gabaritos do seu IF por estado.", href: "/institutos-federais" },
+  { titulo: "ENEM", texto: "Pratique por disciplina e explore as provas por ano.", href: "/enem" },
+  { titulo: "Vestibulares paulistas", texto: "Estude para a FUVEST, Unesp (Vunesp) e Unicamp.", href: "/vestibulares-paulistas" },
 ];
 
 export default function Home() {
@@ -27,10 +28,9 @@ export default function Home() {
         <div className="gb-hero-choice" aria-label="Escolha seu objetivo">
           <p className="gb-eyebrow">ESCOLHA SEU CAMINHO</p>
           <h2>Qual é a sua próxima prova?</h2>
-          <p>Encontre o caminho certo para começar a estudar.</p>
           <div className="gb-choice-list">
-            {caminhos.map((item, i) => <Link key={item.href} href={item.href} className="gb-choice">
-              <span className="gb-choice-number">0{i + 1}</span><span><strong>{item.titulo}</strong><small>{item.texto}</small></span><span className="gb-choice-arrow" aria-hidden="true">→</span>
+            {caminhos.map((item) => <Link key={item.href} href={item.href} className="gb-choice">
+              <span className="gb-choice-number" aria-hidden="true">·</span><span><strong>{item.titulo}</strong><small>{item.texto}</small></span><span className="gb-choice-arrow" aria-hidden="true">→</span>
             </Link>)}
           </div>
         </div>
@@ -41,10 +41,6 @@ export default function Home() {
           <div><strong>Questões do ENEM</strong><span>Treine por disciplina no seu ritmo.</span></div>
           <div><strong>Grátis para começar</strong><span>Acesse os treinos disponíveis sem cadastro.</span></div>
         </div>
-      </section>
-      <section className="gb-section gb-container" aria-labelledby="caminhos">
-        <div className="gb-section-intro"><div><p className="gb-eyebrow">COMECE POR AQUI</p><h2 id="caminhos">Seu objetivo tem <em>um caminho.</em></h2></div><p>Da preparação para o ensino técnico à entrada na universidade, encontre provas para praticar no Gabaru.</p></div>
-        <div className="gb-home-cards">{caminhos.map(item => <article key={item.href} className="gb-home-card"><h3>{item.titulo}</h3><p>{item.texto}</p><Link className="gb-text-link" href={item.href}>{item.acao} <span aria-hidden="true">→</span></Link></article>)}</div>
       </section>
       <section className="gb-home-next"><div className="gb-container gb-home-next-inner"><div><p className="gb-eyebrow">ESTUDO GRATUITO</p><h2>Pratique hoje.<br /><em>Continue amanhã.</em></h2><p>Explore o acervo e encontre o treino disponível para a sua prova. Os recursos e a correção variam conforme a edição.</p></div><Link href="/provas" className="gb-button gb-button-light">Ver acervo de provas <span aria-hidden="true">→</span></Link></div></section>
       <section className="gb-section gb-container gb-home-materials"><div><p className="gb-eyebrow">PARA SEGUIR ESTUDANDO</p><h2>Mais caminhos para aprender.</h2><p>Conheça os materiais gratuitos e as ferramentas disponíveis no Gabaru.</p></div><Link href="/materiais-gratuitos" className="gb-button">Ver materiais gratuitos <span aria-hidden="true">→</span></Link></section>

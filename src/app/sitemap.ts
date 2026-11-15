@@ -34,6 +34,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/vestibulares-paulistas",
     "/provas",
     "/provas/ifam",
+    "/provas/ifrn/ifrn-2026",
     "/provas/enem",
     "/provas/uerj",
     "/provas/uel",

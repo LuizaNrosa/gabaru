@@ -19,7 +19,9 @@ export function FolhaDeRespostas({
   id,
   titulo,
   sugeridas = 90,
-  gabarito,
+  gabarito: gabaritoInicial,
+  correcaoUrl,
+  anuladas = [],
   compacto = false,
   alternativas = LETRAS,
 }: {
@@ -29,12 +31,20 @@ export function FolhaDeRespostas({
   /** Quantidade de questões sugerida pela prova deste documento. */
   sugeridas?: number;
   gabarito?: string[];
+  correcaoUrl?: string;
+  anuladas?: readonly number[];
   compacto?: boolean;
   alternativas?: readonly string[];
 }) {
   const opcoes = Array.from(new Set([sugeridas, 50, 90, 120, 180])).sort(
     (a, b) => a - b,
   );
+  const [gabaritoRemoto, setGabaritoRemoto] = useState<string[]>();
+  const [corrigindo, setCorrigindo] = useState(false);
+  const [erro, setErro] = useState("");
+  const gabarito = gabaritoInicial ?? gabaritoRemoto;
+  const automatico = !!(gabaritoInicial || correcaoUrl);
+  const anulada = (n: number) => anuladas.includes(n) || gabaritoInicial?.[n - 1] === "*";
   const [total, setTotal] = useState(sugeridas);
   const [respostas, setRespostas] = useState<Record<number, string>>({});
   const [questaoAtual, setQuestaoAtual] = useState(1);
@@ -51,10 +61,12 @@ export function FolhaDeRespostas({
           respostas?: Record<number, string>;
           finalizado?: boolean;
           questaoAtual?: number;
+          gabaritoRemoto?: string[];
         };
-        if (dados.total && !gabarito) setTotal(dados.total);
+        if (dados.total && !automatico) setTotal(dados.total);
         if (dados.respostas) setRespostas(dados.respostas);
-        if (dados.finalizado && Object.values(dados.respostas ?? {}).every(letra => alternativas.includes(letra))) setFinalizado(true);
+        if (correcaoUrl && dados.gabaritoRemoto?.length === sugeridas) setGabaritoRemoto(dados.gabaritoRemoto);
+        if ((!correcaoUrl || dados.gabaritoRemoto?.length === sugeridas) && dados.finalizado && Object.values(dados.respostas ?? {}).every(letra => alternativas.includes(letra))) setFinalizado(true);
         if (dados.questaoAtual && dados.questaoAtual >= 1 && dados.questaoAtual <= sugeridas) setQuestaoAtual(dados.questaoAtual);
       }
     } catch {
@@ -68,12 +80,32 @@ export function FolhaDeRespostas({
     try {
       localStorage.setItem(
         `gabaru:folha:${id}`,
-        JSON.stringify({ total, respostas, finalizado, questaoAtual }),
+        JSON.stringify({ total, respostas, finalizado, questaoAtual, gabaritoRemoto }),
       );
     } catch {
       /* modo privado: apenas não persistir */
     }
-  }, [id, total, respostas, finalizado, questaoAtual, carregado]);
+  }, [id, total, respostas, finalizado, questaoAtual, carregado, gabaritoRemoto]);
+
+  async function corrigir() {
+    if (!correcaoUrl) {
+      setFinalizado(true);
+      return;
+    }
+    setCorrigindo(true);
+    setErro("");
+    try {
+      const response = await fetch(correcaoUrl, {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({id, respostas})});
+      const data = await response.json() as {gabarito?: string[]};
+      if (!response.ok || data.gabarito?.length !== sugeridas) throw new Error("Correção indisponível");
+      setGabaritoRemoto(data.gabarito);
+      setFinalizado(true);
+    } catch {
+      setErro("Não foi possível corrigir agora. Suas respostas foram mantidas.");
+    } finally {
+      setCorrigindo(false);
+    }
+  }
 
   const invalidas = Object.entries(respostas).filter(([, letra]) => !alternativas.includes(letra)).map(([n]) => Number(n));
   const respondidas = Object.keys(respostas).length;
@@ -93,12 +125,12 @@ export function FolhaDeRespostas({
       </h2>
       <p className="mt-3 text-sm leading-relaxed text-n5">
         Leia o caderno no leitor acima e marque as alternativas aqui — você
-        não precisa sair do Gabaru. {gabarito ? "Correção automática pelo gabarito oficial conferido." : "Conferência manual: compare suas marcações com o gabarito oficial da mesma prova e versão."} As respostas ficam salvas neste navegador.
+        não precisa sair do Gabaru. {automatico ? "Correção automática pelo gabarito oficial conferido." : "Conferência manual: compare suas marcações com o gabarito oficial da mesma prova e versão."} As respostas ficam salvas neste navegador.
       </p>
 
       <label className="mt-5 flex flex-wrap items-center gap-3 text-sm font-semibold">
         Número de questões
-        <select disabled={!!gabarito}
+        <select disabled={automatico}
           className="min-h-12 rounded border border-n2 bg-white px-3"
           value={total}
           onChange={(e) => setTotal(Number(e.currentTarget.value))}
@@ -119,9 +151,9 @@ export function FolhaDeRespostas({
       {compacto && <p className="mt-3 text-sm text-n5">Selecione o mesmo número da questão que está lendo no caderno.</p>}
       {compacto && <label className="mt-4 flex items-center gap-3 font-semibold">Questão
         <select className="min-h-12 rounded border border-n2 bg-white px-3" value={questaoAtual} onChange={e => setQuestaoAtual(Number(e.currentTarget.value))}>
-          {Array.from({length: total}, (_,i) => <option value={i+1} key={i+1}>{i+1}{gabarito?.[i] === "*" ? " · anulada" : respostas[i+1] ? " · respondida" : ""}</option>)}
+          {Array.from({length: total}, (_,i) => <option value={i+1} key={i+1}>{i+1}{anulada(i+1) ? " · anulada" : respostas[i+1] ? " · respondida" : ""}</option>)}
         </select> de {total}</label>}
-      {compacto && gabarito?.[questaoAtual-1] === "*" && <div className="gb-notice mt-3 flex flex-wrap items-center gap-3" role="status"><span className="gb-stamp gb-stamp-sm">Questão anulada</span><span>No gabarito oficial; não entra nos acertos, erros ou questões em branco.</span></div>}
+      {compacto && anulada(questaoAtual) && <div className="gb-notice mt-3 flex flex-wrap items-center gap-3" role="status"><span className="gb-stamp gb-stamp-sm">Questão anulada</span><span>No gabarito oficial; não entra nos acertos, erros ou questões em branco.</span></div>}
       <ol className={compacto ? "mt-4 grid gap-2" : "mt-4 grid gap-2 sm:grid-cols-2"}>
         {(compacto ? [questaoAtual] : Array.from({ length: total }, (_, i) => i + 1)).map((n) => (
           <li
@@ -132,7 +164,7 @@ export function FolhaDeRespostas({
           >
             <span className="w-10 shrink-0 text-center font-mono text-xs font-bold text-n5">
               {String(n).padStart(2, "0")}
-              {!compacto && gabarito?.[n-1] === "*" && <span className="gb-stamp gb-stamp-sm mt-2">Anulada</span>}
+              {!compacto && anulada(n) && <span className="gb-stamp gb-stamp-sm mt-2">Anulada</span>}
             </span>
             <div className="flex gap-1.5" role="group" aria-label={`Questão ${n}`}>
               {alternativas.map((l) => (
@@ -142,7 +174,7 @@ export function FolhaDeRespostas({
                     name={`folha-${id}-q${n}`}
                     className="peer sr-only"
                     checked={respostas[n] === l}
-                    disabled={finalizado || gabarito?.[n-1] === "*"}
+                    disabled={finalizado || corrigindo || anulada(n)}
                     onChange={() =>
                       setRespostas((atuais) => {
                         const prox = { ...atuais };
@@ -170,15 +202,17 @@ export function FolhaDeRespostas({
       </ol>
 
       {compacto && <div className="mt-4 flex flex-wrap gap-2"><button type="button" disabled={questaoAtual === 1} className="min-h-12 rounded border border-n2 px-3" onClick={()=>setQuestaoAtual(questaoAtual-1)}>← Anterior</button><button type="button" disabled={questaoAtual === total} className="min-h-12 rounded border border-n2 px-3" onClick={()=>setQuestaoAtual(questaoAtual+1)}>Próxima →</button></div>}
-      {gabarito && !finalizado && <button type="button" className="gb-button mt-6" disabled={invalidas.length > 0} onClick={()=>setFinalizado(true)}>Corrigir prova →</button>}
-      {gabarito && finalizado && <div className="gb-notice mt-6" role="status"><h3 className="font-bold">Resultado da prova</h3><p>{quantidade(gabarito.filter((g,i)=>g !== "*" && !!respostas[i+1] && g.includes(respostas[i+1])).length,"acerto","acertos")} · {quantidade(gabarito.filter((g,i)=>g !== "*" && respostas[i+1] && !g.includes(respostas[i+1])).length,"erro","erros")} · {gabarito.filter((g,i)=>g !== "*" && !respostas[i+1]).length} em branco · {quantidade(gabarito.filter(g=>g === "*").length,"anulada","anuladas")}.</p><details className="mt-3"><summary>Revisar respostas e gabarito</summary><ol className="mt-3 grid gap-2 sm:grid-cols-2">{gabarito.map((g,i)=><li key={i}>Questão {i+1}: sua resposta {respostas[i+1] ?? "—"} · gabarito <strong>{g === "*" ? "Anulada" : g.split("").join(" ou ")}</strong></li>)}</ol></details><button type="button" className="gb-text-link mt-4" onClick={()=>setFinalizado(false)}>Voltar às respostas</button></div>}
+      {automatico && !finalizado && <button type="button" className="gb-button mt-6" disabled={invalidas.length > 0 || corrigindo || (!!correcaoUrl && !respondidas)} onClick={corrigir}>{corrigindo?"Corrigindo…":"Corrigir prova →"}</button>}
+      {erro && <p className="gb-notice mt-3" role="alert">{erro}</p>}
+      {gabarito && finalizado && <div className="gb-notice mt-6" role="status"><h3 className="font-bold">Resultado da prova</h3><p>{quantidade(gabarito.filter((g,i)=>g !== "*" && !!respostas[i+1] && g.includes(respostas[i+1])).length,"acerto","acertos")} · {quantidade(gabarito.filter((g,i)=>g !== "*" && respostas[i+1] && !g.includes(respostas[i+1])).length,"erro","erros")} · {gabarito.filter((g,i)=>g !== "*" && !respostas[i+1]).length} em branco · {quantidade(gabarito.filter(g=>g === "*").length,"anulada","anuladas")}.</p><details className="mt-3"><summary>Revisar respostas e gabarito</summary><ol className="mt-3 grid gap-2 sm:grid-cols-2">{gabarito.map((g,i)=><li key={i}>Questão {i+1}: sua resposta {respostas[i+1] ?? "—"} · gabarito <strong>{g === "*" ? "Anulada" : g.split("").join(" ou ")}</strong></li>)}</ol></details><button type="button" className="gb-text-link mt-4" onClick={()=>{setFinalizado(false);setGabaritoRemoto(undefined);}}>Voltar às respostas</button></div>}
       <div className="mt-6 flex flex-wrap gap-3">
         <button
           type="button"
           className="min-h-12 rounded border border-n2 bg-white px-4 font-semibold"
+          disabled={corrigindo}
           onClick={() => {
             if (window.confirm("Apagar todas as marcações desta sessão?"))
-              { setRespostas({}); setFinalizado(false); setQuestaoAtual(1); }
+              { setRespostas({}); setFinalizado(false); setGabaritoRemoto(undefined); setErro(""); setQuestaoAtual(1); }
           }}
         >
           Limpar marcações

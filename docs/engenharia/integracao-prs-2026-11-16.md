@@ -37,3 +37,9 @@ A integração não ativa checkout, não configura credenciais Stripe/Firebase e
 As imagens paginadas ETEC e ENEM foram geradas e versionadas para que o HTML não dependa de downloads posteriores. A paginação ETEC move os PDFs verificados para cache privado, conforme o pipeline existente; os hashes e fontes permanecem no catálogo. A primeira execução interrompida de paginação foi retomada e a integridade foi confirmada pela suíte completa.
 
 Logs e o verificador das novas rotas estão em `integracao-prs-evidencias/`. Os testes de navegador completos mantêm suas regras de contraste habilitadas. Os logs contêm avisos Node sobre detecção de módulos TypeScript; não são falhas de teste.
+
+## Correção do CI em ambiente limpo — PR #107
+
+Os dois jobs do primeiro head do #107 falharam na mesma causa: `scripts/prepare-etec.mjs:70`, `2013-1/prova: HTTP 403`, devolvido pelo servidor legado ao runner hospedado. Nenhum desses jobs foi simplesmente reexecutado. Os 82 PDFs ETEC já conferidos pelo SHA-256 foram divididos em partes de até 1 MiB e adicionados ao manifesto de restauração existente. Somados ao PDF COLUNI já registrado, o manifesto possui 83 entradas. O CI restaura essas cópias antes de preparar os leitores.
+
+Verificação local: 82 PDFs reconstruídos e 1 já íntegro; preparação dos 82 PDFs ETEC com `fetch` explicitamente proibido aprovada. Os testes de download agora comprovam erro 403 sem retry, erro 503 com no máximo duas tentativas e rejeição de hash divergente. A suíte integral passou novamente: **231 testes, zero falhas e zero skips**. A alteração afeta ingestão, cópias verificadas e fixtures, sem mudança no código das páginas já auditadas.

@@ -23,8 +23,8 @@ type Item = { numero: number; texto: string; disciplina: string; habilidade: str
 export function readEnemExam(id: string) {
   const paginated = paginatedExams.find(entry => entry.id === id);
   if (paginated) {
-    const questions: Item[] = paginated.questions.map(({numero,pagina,gabarito}) => ({
-      numero, pagina, annulled:gabarito === "ANULADA", texto:"", disciplina:numero < 136 ? "Ciências da Natureza" : "Matemática", habilidade:"", tema:"",
+    const questions: Item[] = paginated.questions.map(({numero,pagina,gabarito,disciplina}) => ({
+      numero, pagina, annulled:gabarito === "ANULADA", texto:"", disciplina:disciplina ?? (numero < 136 ? "Ciências da Natureza" : "Matemática"), habilidade:"", tema:"",
     }));
     return { id, year:paginated.year, day:paginated.day, total:paginated.total,
       description:paginated.description, disciplines:paginated.disciplines, pageCount:paginated.pageCount, questions };

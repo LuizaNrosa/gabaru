@@ -12340,5 +12340,2749 @@
         "gabarito": "A"
       }
     ]
+  },
+  {
+    "id": "enem-2017-regular-d1",
+    "year": 2017,
+    "day": 1,
+    "total": 95,
+    "description": "Aplicação regular nacional · Caderno 1 Azul",
+    "disciplines": [
+      "linguagens",
+      "ciências humanas"
+    ],
+    "pageCount": 32,
+    "questionSource": "https://download.inep.gov.br/educacao_basica/enem/provas/2017/2017_PV_impresso_D1_CD1.pdf",
+    "questionCopy": "https://www.acheprovas.com.br/arquivos/academicas/29e64bed-8eec-5241-ac04-d41c0e97b7d4/prova.pdf",
+    "questionCopySha256": "c7e130925e3d9dddd2a6370cbfaacd5edbbc20c2b789f55522721954447038e6",
+    "source": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2017/cad_1_gabarito_azul_5112017.pdf",
+    "keyCopy": "https://www.acheprovas.com.br/arquivos/academicas/29e64bed-8eec-5241-ac04-d41c0e97b7d4/gabarito.pdf",
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "questions": [
+      {
+        "numero": 1,
+        "pagina": 2,
+        "gabarito": "D",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 2,
+        "pagina": 2,
+        "gabarito": "D",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 3,
+        "pagina": 2,
+        "gabarito": "C",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 4,
+        "pagina": 3,
+        "gabarito": "D",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 5,
+        "pagina": 3,
+        "gabarito": "E",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 6,
+        "pagina": 5,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 7,
+        "pagina": 6,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 8,
+        "pagina": 6,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 9,
+        "pagina": 6,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 10,
+        "pagina": 6,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 11,
+        "pagina": 7,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 12,
+        "pagina": 7,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 13,
+        "pagina": 7,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 14,
+        "pagina": 8,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 15,
+        "pagina": 8,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 16,
+        "pagina": 8,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 17,
+        "pagina": 9,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 18,
+        "pagina": 9,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 19,
+        "pagina": 9,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 20,
+        "pagina": 10,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 21,
+        "pagina": 10,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 22,
+        "pagina": 11,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 23,
+        "pagina": 11,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 24,
+        "pagina": 11,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 25,
+        "pagina": 12,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 26,
+        "pagina": 12,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 27,
+        "pagina": 12,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 28,
+        "pagina": 13,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 29,
+        "pagina": 13,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 30,
+        "pagina": 13,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 31,
+        "pagina": 14,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 32,
+        "pagina": 14,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 33,
+        "pagina": 14,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 34,
+        "pagina": 15,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 35,
+        "pagina": 15,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 36,
+        "pagina": 15,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 37,
+        "pagina": 16,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 38,
+        "pagina": 16,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 39,
+        "pagina": 16,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 40,
+        "pagina": 16,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 41,
+        "pagina": 17,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 42,
+        "pagina": 17,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 43,
+        "pagina": 17,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 44,
+        "pagina": 18,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 45,
+        "pagina": 18,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 46,
+        "pagina": 20,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 47,
+        "pagina": 20,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 48,
+        "pagina": 20,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 49,
+        "pagina": 20,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 50,
+        "pagina": 20,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 51,
+        "pagina": 21,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 52,
+        "pagina": 21,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 53,
+        "pagina": 21,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 54,
+        "pagina": 22,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 55,
+        "pagina": 22,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 56,
+        "pagina": 22,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 57,
+        "pagina": 22,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 58,
+        "pagina": 23,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 59,
+        "pagina": 23,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 60,
+        "pagina": 23,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 61,
+        "pagina": 23,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 62,
+        "pagina": 24,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 63,
+        "pagina": 24,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 64,
+        "pagina": 24,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 65,
+        "pagina": 24,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 66,
+        "pagina": 24,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 67,
+        "pagina": 25,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 68,
+        "pagina": 25,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 69,
+        "pagina": 25,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 70,
+        "pagina": 25,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 71,
+        "pagina": 26,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 72,
+        "pagina": 26,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 73,
+        "pagina": 27,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 74,
+        "pagina": 27,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 75,
+        "pagina": 27,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 76,
+        "pagina": 27,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 77,
+        "pagina": 28,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 78,
+        "pagina": 28,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 79,
+        "pagina": 28,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 80,
+        "pagina": 28,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 81,
+        "pagina": 29,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 82,
+        "pagina": 29,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 83,
+        "pagina": 29,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 84,
+        "pagina": 29,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 85,
+        "pagina": 30,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 86,
+        "pagina": 30,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 87,
+        "pagina": 30,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 88,
+        "pagina": 31,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 89,
+        "pagina": 31,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 90,
+        "pagina": 31,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 101,
+        "pagina": 3,
+        "gabarito": "E",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 102,
+        "pagina": 4,
+        "gabarito": "D",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 103,
+        "pagina": 4,
+        "gabarito": "B",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 104,
+        "pagina": 4,
+        "gabarito": "E",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 105,
+        "pagina": 5,
+        "gabarito": "E",
+        "disciplina": "espanhol"
+      }
+    ]
+  },
+  {
+    "id": "enem-2018-regular-d1",
+    "year": 2018,
+    "day": 1,
+    "total": 95,
+    "description": "Aplicação regular nacional · Caderno 1 Azul",
+    "disciplines": [
+      "linguagens",
+      "ciências humanas"
+    ],
+    "pageCount": 32,
+    "questionSource": "https://download.inep.gov.br/educacao_basica/enem/provas/2018/2018_PV_impresso_D1_CD1.pdf",
+    "questionCopy": "https://www.acheprovas.com.br/arquivos/academicas/5d905b70-9bb6-54ab-a248-8d84fd5b77e8/prova.pdf",
+    "questionCopySha256": "ec8c73472ad5d64e69224abd20cd837c4ca4b58b607a3804dcac47ff4ffbe3a8",
+    "source": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2018/GAB_ENEM_2018_DIA_1_AZUL.pdf",
+    "keyCopy": "https://www.acheprovas.com.br/arquivos/academicas/5d905b70-9bb6-54ab-a248-8d84fd5b77e8/gabarito.pdf",
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "questions": [
+      {
+        "numero": 1,
+        "pagina": 2,
+        "gabarito": "B",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 2,
+        "pagina": 2,
+        "gabarito": "B",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 3,
+        "pagina": 2,
+        "gabarito": "D",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 4,
+        "pagina": 2,
+        "gabarito": "E",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 5,
+        "pagina": 3,
+        "gabarito": "C",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 6,
+        "pagina": 5,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 7,
+        "pagina": 5,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 8,
+        "pagina": 5,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 9,
+        "pagina": 5,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 10,
+        "pagina": 6,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 11,
+        "pagina": 6,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 12,
+        "pagina": 6,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 13,
+        "pagina": 7,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 14,
+        "pagina": 7,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 15,
+        "pagina": 7,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 16,
+        "pagina": 8,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 17,
+        "pagina": 8,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 18,
+        "pagina": 8,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 19,
+        "pagina": 9,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 20,
+        "pagina": 9,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 21,
+        "pagina": 10,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 22,
+        "pagina": 10,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 23,
+        "pagina": 10,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 24,
+        "pagina": 11,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 25,
+        "pagina": 11,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 26,
+        "pagina": 12,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 27,
+        "pagina": 12,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 28,
+        "pagina": 12,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 29,
+        "pagina": 13,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 30,
+        "pagina": 13,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 31,
+        "pagina": 13,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 32,
+        "pagina": 14,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 33,
+        "pagina": 14,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 34,
+        "pagina": 15,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 35,
+        "pagina": 15,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 36,
+        "pagina": 15,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 37,
+        "pagina": 16,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 38,
+        "pagina": 16,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 39,
+        "pagina": 16,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 40,
+        "pagina": 17,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 41,
+        "pagina": 17,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 42,
+        "pagina": 17,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 43,
+        "pagina": 18,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 44,
+        "pagina": 18,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 45,
+        "pagina": 18,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 46,
+        "pagina": 20,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 47,
+        "pagina": 20,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 48,
+        "pagina": 20,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 49,
+        "pagina": 20,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 50,
+        "pagina": 21,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 51,
+        "pagina": 21,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 52,
+        "pagina": 21,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 53,
+        "pagina": 21,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 54,
+        "pagina": 22,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 55,
+        "pagina": 22,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 56,
+        "pagina": 22,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 57,
+        "pagina": 23,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 58,
+        "pagina": 23,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 59,
+        "pagina": 23,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 60,
+        "pagina": 23,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 61,
+        "pagina": 24,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 62,
+        "pagina": 24,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 63,
+        "pagina": 24,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 64,
+        "pagina": 24,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 65,
+        "pagina": 25,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 66,
+        "pagina": 25,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 67,
+        "pagina": 25,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 68,
+        "pagina": 25,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 69,
+        "pagina": 26,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 70,
+        "pagina": 26,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 71,
+        "pagina": 26,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 72,
+        "pagina": 26,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 73,
+        "pagina": 27,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 74,
+        "pagina": 27,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 75,
+        "pagina": 27,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 76,
+        "pagina": 27,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 77,
+        "pagina": 28,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 78,
+        "pagina": 28,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 79,
+        "pagina": 28,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 80,
+        "pagina": 28,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 81,
+        "pagina": 28,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 82,
+        "pagina": 29,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 83,
+        "pagina": 29,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 84,
+        "pagina": 30,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 85,
+        "pagina": 30,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 86,
+        "pagina": 30,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 87,
+        "pagina": 30,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 88,
+        "pagina": 31,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 89,
+        "pagina": 31,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 90,
+        "pagina": 31,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 101,
+        "pagina": 3,
+        "gabarito": "B",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 102,
+        "pagina": 3,
+        "gabarito": "B",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 103,
+        "pagina": 4,
+        "gabarito": "C",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 104,
+        "pagina": 4,
+        "gabarito": "D",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 105,
+        "pagina": 4,
+        "gabarito": "B",
+        "disciplina": "espanhol"
+      }
+    ]
+  },
+  {
+    "id": "enem-2019-regular-d1",
+    "year": 2019,
+    "day": 1,
+    "total": 95,
+    "description": "Aplicação regular nacional · Caderno 1 Azul",
+    "disciplines": [
+      "linguagens",
+      "ciências humanas"
+    ],
+    "pageCount": 32,
+    "questionSource": "https://download.inep.gov.br/educacao_basica/enem/provas/2019/2019_PV_impresso_D1_CD1.pdf",
+    "questionCopy": "https://www.acheprovas.com.br/arquivos/academicas/e3cd3123-1392-5a60-ac77-45d5f30b2dfc/prova.pdf",
+    "questionCopySha256": "67d6ada3312f0964bf9fac60c28c550d96dc453f1352e4a59a06c4449a11fbc6",
+    "source": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2019/gabarito_1_dia_caderno_1_azul_aplicacao_regular.pdf",
+    "keyCopy": "https://www.acheprovas.com.br/arquivos/academicas/e3cd3123-1392-5a60-ac77-45d5f30b2dfc/gabarito.pdf",
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "questions": [
+      {
+        "numero": 1,
+        "pagina": 2,
+        "gabarito": "B",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 2,
+        "pagina": 2,
+        "gabarito": "D",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 3,
+        "pagina": 2,
+        "gabarito": "A",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 4,
+        "pagina": 3,
+        "gabarito": "B",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 5,
+        "pagina": 3,
+        "gabarito": "E",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 6,
+        "pagina": 5,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 7,
+        "pagina": 5,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 8,
+        "pagina": 6,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 9,
+        "pagina": 6,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 10,
+        "pagina": 7,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 11,
+        "pagina": 7,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 12,
+        "pagina": 8,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 13,
+        "pagina": 8,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 14,
+        "pagina": 9,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 15,
+        "pagina": 9,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 16,
+        "pagina": 9,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 17,
+        "pagina": 10,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 18,
+        "pagina": 10,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 19,
+        "pagina": 11,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 20,
+        "pagina": 11,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 21,
+        "pagina": 11,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 22,
+        "pagina": 12,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 23,
+        "pagina": 12,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 24,
+        "pagina": 12,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 25,
+        "pagina": 12,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 26,
+        "pagina": 13,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 27,
+        "pagina": 13,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 28,
+        "pagina": 14,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 29,
+        "pagina": 14,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 30,
+        "pagina": 14,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 31,
+        "pagina": 15,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 32,
+        "pagina": 15,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 33,
+        "pagina": 15,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 34,
+        "pagina": 16,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 35,
+        "pagina": 16,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 36,
+        "pagina": 16,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 37,
+        "pagina": 17,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 38,
+        "pagina": 17,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 39,
+        "pagina": 17,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 40,
+        "pagina": 18,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 41,
+        "pagina": 18,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 42,
+        "pagina": 18,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 43,
+        "pagina": 19,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 44,
+        "pagina": 19,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 45,
+        "pagina": 19,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 46,
+        "pagina": 21,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 47,
+        "pagina": 21,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 48,
+        "pagina": 21,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 49,
+        "pagina": 21,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 50,
+        "pagina": 22,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 51,
+        "pagina": 22,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 52,
+        "pagina": 22,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 53,
+        "pagina": 22,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 54,
+        "pagina": 23,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 55,
+        "pagina": 23,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 56,
+        "pagina": 23,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 57,
+        "pagina": 23,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 58,
+        "pagina": 23,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 59,
+        "pagina": 24,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 60,
+        "pagina": 24,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 61,
+        "pagina": 25,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 62,
+        "pagina": 25,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 63,
+        "pagina": 25,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 64,
+        "pagina": 25,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 65,
+        "pagina": 26,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 66,
+        "pagina": 26,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 67,
+        "pagina": 26,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 68,
+        "pagina": 26,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 69,
+        "pagina": 27,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 70,
+        "pagina": 27,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 71,
+        "pagina": 27,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 72,
+        "pagina": 27,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 73,
+        "pagina": 28,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 74,
+        "pagina": 28,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 75,
+        "pagina": 28,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 76,
+        "pagina": 28,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 77,
+        "pagina": 29,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 78,
+        "pagina": 29,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 79,
+        "pagina": 29,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 80,
+        "pagina": 29,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 81,
+        "pagina": 29,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 82,
+        "pagina": 30,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 83,
+        "pagina": 30,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 84,
+        "pagina": 30,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 85,
+        "pagina": 30,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 86,
+        "pagina": 31,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 87,
+        "pagina": 31,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 88,
+        "pagina": 31,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 89,
+        "pagina": 31,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 90,
+        "pagina": 31,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 101,
+        "pagina": 3,
+        "gabarito": "A",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 102,
+        "pagina": 3,
+        "gabarito": "B",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 103,
+        "pagina": 4,
+        "gabarito": "C",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 104,
+        "pagina": 4,
+        "gabarito": "A",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 105,
+        "pagina": 4,
+        "gabarito": "D",
+        "disciplina": "espanhol"
+      }
+    ]
+  },
+  {
+    "id": "enem-2020-regular-d1",
+    "year": 2020,
+    "day": 1,
+    "total": 95,
+    "description": "Aplicação regular nacional · Caderno 1 Azul",
+    "disciplines": [
+      "linguagens",
+      "ciências humanas"
+    ],
+    "pageCount": 32,
+    "questionSource": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_PV_impresso_D1_CD1.pdf",
+    "questionCopy": "https://www.acheprovas.com.br/arquivos/academicas/6e8893e7-d733-5700-a256-7490d6afd83f/prova.pdf",
+    "questionCopySha256": "ab25200a67d34c0c0be86316572d5ca5a93d7836f005fc1a90b1f195f7e5fdd2",
+    "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_GB_impresso_D1_CD1.pdf",
+    "keyCopy": "https://www.acheprovas.com.br/arquivos/academicas/6e8893e7-d733-5700-a256-7490d6afd83f/gabarito.pdf",
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "questions": [
+      {
+        "numero": 1,
+        "pagina": 2,
+        "gabarito": "A",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 2,
+        "pagina": 2,
+        "gabarito": "A",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 3,
+        "pagina": 3,
+        "gabarito": "E",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 4,
+        "pagina": 3,
+        "gabarito": "D",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 5,
+        "pagina": 3,
+        "gabarito": "C",
+        "disciplina": "ingles"
+      },
+      {
+        "numero": 6,
+        "pagina": 6,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 7,
+        "pagina": 6,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 8,
+        "pagina": 7,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 9,
+        "pagina": 7,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 10,
+        "pagina": 7,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 11,
+        "pagina": 7,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 12,
+        "pagina": 8,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 13,
+        "pagina": 8,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 14,
+        "pagina": 8,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 15,
+        "pagina": 9,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 16,
+        "pagina": 9,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 17,
+        "pagina": 10,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 18,
+        "pagina": 10,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 19,
+        "pagina": 10,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 20,
+        "pagina": 11,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 21,
+        "pagina": 11,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 22,
+        "pagina": 11,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 23,
+        "pagina": 12,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 24,
+        "pagina": 12,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 25,
+        "pagina": 12,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 26,
+        "pagina": 12,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 27,
+        "pagina": 13,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 28,
+        "pagina": 13,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 29,
+        "pagina": 13,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 30,
+        "pagina": 14,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 31,
+        "pagina": 14,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 32,
+        "pagina": 14,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 33,
+        "pagina": 15,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 34,
+        "pagina": 15,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 35,
+        "pagina": 15,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 36,
+        "pagina": 16,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 37,
+        "pagina": 16,
+        "gabarito": "E",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 38,
+        "pagina": 16,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 39,
+        "pagina": 17,
+        "gabarito": "C",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 40,
+        "pagina": 17,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 41,
+        "pagina": 17,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 42,
+        "pagina": 17,
+        "gabarito": "A",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 43,
+        "pagina": 18,
+        "gabarito": "D",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 44,
+        "pagina": 18,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 45,
+        "pagina": 18,
+        "gabarito": "B",
+        "disciplina": "Linguagens"
+      },
+      {
+        "numero": 46,
+        "pagina": 20,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 47,
+        "pagina": 20,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 48,
+        "pagina": 20,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 49,
+        "pagina": 20,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 50,
+        "pagina": 21,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 51,
+        "pagina": 21,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 52,
+        "pagina": 22,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 53,
+        "pagina": 22,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 54,
+        "pagina": 22,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 55,
+        "pagina": 22,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 56,
+        "pagina": 23,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 57,
+        "pagina": 23,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 58,
+        "pagina": 23,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 59,
+        "pagina": 23,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 60,
+        "pagina": 23,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 61,
+        "pagina": 24,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 62,
+        "pagina": 24,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 63,
+        "pagina": 24,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 64,
+        "pagina": 24,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 65,
+        "pagina": 25,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 66,
+        "pagina": 25,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 67,
+        "pagina": 26,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 68,
+        "pagina": 26,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 69,
+        "pagina": 26,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 70,
+        "pagina": 26,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 71,
+        "pagina": 27,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 72,
+        "pagina": 27,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 73,
+        "pagina": 27,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 74,
+        "pagina": 27,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 75,
+        "pagina": 28,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 76,
+        "pagina": 28,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 77,
+        "pagina": 28,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 78,
+        "pagina": 28,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 79,
+        "pagina": 28,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 80,
+        "pagina": 29,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 81,
+        "pagina": 29,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 82,
+        "pagina": 29,
+        "gabarito": "A",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 83,
+        "pagina": 29,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 84,
+        "pagina": 29,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 85,
+        "pagina": 30,
+        "gabarito": "B",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 86,
+        "pagina": 30,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 87,
+        "pagina": 30,
+        "gabarito": "E",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 88,
+        "pagina": 31,
+        "gabarito": "C",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 89,
+        "pagina": 31,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 90,
+        "pagina": 31,
+        "gabarito": "D",
+        "disciplina": "Ciências Humanas"
+      },
+      {
+        "numero": 101,
+        "pagina": 4,
+        "gabarito": "A",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 102,
+        "pagina": 4,
+        "gabarito": "C",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 103,
+        "pagina": 5,
+        "gabarito": "E",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 104,
+        "pagina": 5,
+        "gabarito": "E",
+        "disciplina": "espanhol"
+      },
+      {
+        "numero": 105,
+        "pagina": 5,
+        "gabarito": "E",
+        "disciplina": "espanhol"
+      }
+    ]
   }
 ]

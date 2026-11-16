@@ -23,7 +23,7 @@ export async function POST(req: Request) {
   const answerMap = answers as Record<string, unknown>;
   const entries = Object.entries(answerMap);
   if (!entries.length || entries.length > 90 || entries.some(([key, value]) => !/^[1-9][0-9]{0,2}$/.test(key) || typeof value !== "string" || !/^[A-E]$/.test(value))) return NextResponse.json({ error: "Alternativas inválidas." }, { status: 400 });
-  const exam = paginated ? paginated.questions.map(({numero,gabarito}) => ({numero,gabarito,disciplina:""})) : bank.filter(q => q.id.startsWith(examId + "-q"));
+  const exam = paginated ? paginated.questions.map(({numero,gabarito,disciplina}) => ({numero,gabarito,disciplina:disciplina ?? ""})) : bank.filter(q => q.id.startsWith(examId + "-q"));
   const selected = selectEnemQuestions(exam, language);
   const allowed = new Set(selected.map(q => String(q.numero)));
   const expected = new Set(verified.numbers.map(String));

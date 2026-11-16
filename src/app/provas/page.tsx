@@ -21,7 +21,7 @@ const grupos = [
       { nome: "IFMG", detalhe: "Instituto Federal de Minas Gerais", href: "/provas/ifmg" },
       { nome: "IFRN", detalhe: "Instituto Federal do Rio Grande do Norte", href: "/provas/ifrn" },
       { nome: "IFCE", detalhe: "Instituto Federal do Ceará · campus Fortaleza", href: "/provas/ifce" },
-      { nome: "IFBA", detalhe: "Instituto Federal da Bahia · acervo em coleta", href: "/provas/ifba" },
+      { nome: "IFBA", detalhe: "Instituto Federal da Bahia", href: "/provas/ifba" },
     ],
   },
   {

@@ -1,0 +1,2318 @@
+{
+  "arquivosAlterados": 0,
+  "idiomasSeparados": 0,
+  "quarentena": [
+    {
+      "arquivo": "content/questoes/artes/artes-visuais/enem-2002-q020.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/artes/artes-visuais/enem-2004-q023.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/artes/artes-visuais/enem-2005-q020.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/artes/artes-visuais/enem-2005-q044.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/artes/artes-visuais/enem-2006-q002.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/artes/artes-visuais/enem-2007-q002.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/artes/artes-visuais/enem-2008-q037.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/artes/artes-visuais/enem-2008-q038.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/artes/musica-e-danca/enem-2004-q024.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/biotecnologia-e-reproducao/enem-2005-q037.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/biotecnologia-e-reproducao/enem-2006-q034.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/biotecnologia-e-reproducao/enem-2007-q033.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/botanica/enem-2005-q045.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/botanica/enem-2006-q035.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/citologia-e-bioquimica/enem-2000-q002.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/citologia-e-bioquimica/enem-2002-q017.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/citologia-e-bioquimica/enem-2005-q022.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/citologia-e-bioquimica/enem-2005-q041.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/citologia-e-bioquimica/enem-2006-q063.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/citologia-e-bioquimica/enem-2007-q013.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/citologia-e-bioquimica/enem-2007-q056.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q011.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q022.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q023.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q036.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q047.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2000-q063.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2001-q022.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2001-q026.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2001-q028.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2001-q033.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2002-q008.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2002-q010.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2002-q014.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2002-q031.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2002-q032.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2002-q049.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2002-q057.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2003-q026.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2003-q027.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2003-q028.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2003-q043.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2004-q046.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2004-q047.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2004-q048.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2004-q049.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2005-q028.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2005-q030.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2005-q036.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2005-q047.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2005-q048.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q033.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q036.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q037.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q043.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2006-q044.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2007-q006.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2007-q009.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2007-q041.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2008-q006.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2008-q007.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2008-q009.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2008-q010.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2008-q020.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/ecologia-e-meio-ambiente/enem-2008-q057.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2000-q016.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2000-q027.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2001-q019.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2002-q052.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2002-q060.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2002-q061.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2004-q031.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2005-q027.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2005-q035.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2005-q050.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2005-q054.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2006-q009.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2006-q012.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2007-q054.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/evolucao/enem-2007-q055.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2000-q048.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2000-q062.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2001-q015.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2003-q016.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2003-q017.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2003-q019.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2004-q029.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2005-q011.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2006-q042.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2006-q045.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2006-q047.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2007-q029.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2007-q030.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2007-q045.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2007-q046.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/fisiologia-humana-e-saude/enem-2008-q049.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/genetica/enem-2004-q057.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/genetica/enem-2008-q052.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/genetica/enem-2008-q053.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/genetica/enem-2021-d2-q091.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/microbiologia-e-parasitologia/enem-2001-q041.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/microbiologia-e-parasitologia/enem-2002-q044.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/microbiologia-e-parasitologia/enem-2003-q018.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/microbiologia-e-parasitologia/enem-2003-q020.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/microbiologia-e-parasitologia/enem-2003-q021.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/microbiologia-e-parasitologia/enem-2003-q022.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/microbiologia-e-parasitologia/enem-2003-q023.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/microbiologia-e-parasitologia/enem-2005-q021.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/microbiologia-e-parasitologia/enem-2005-q049.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/microbiologia-e-parasitologia/enem-2005-q051.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/microbiologia-e-parasitologia/enem-2006-q046.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/microbiologia-e-parasitologia/enem-2007-q031.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/zoologia/enem-2005-q043.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/biologia/zoologia/enem-2005-q057.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/espanhol/a-classificar/enem-2011-d2-q091-es.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/espanhol/a-classificar/enem-2011-d2-q092-es.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/espanhol/a-classificar/enem-2011-d2-q093-es.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/espanhol/a-classificar/enem-2011-d2-q094-es.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/espanhol/a-classificar/enem-2011-d2-q095-es.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/filosofia/conhecimento-e-ciencia/enem-2003-q047.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/filosofia/etica-e-politica/enem-2000-q052.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/filosofia/etica-e-politica/enem-2001-q030.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/filosofia/etica-e-politica/enem-2001-q031.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/filosofia/filosofia-moderna-e-contemporanea/enem-2000-q053.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/filosofia/filosofia-moderna-e-contemporanea/enem-2002-q058.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/filosofia/filosofia-moderna-e-contemporanea/enem-2003-q048.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/eletricidade-e-circuitos/enem-2001-q017.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/eletricidade-e-circuitos/enem-2002-q035.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/eletricidade-e-circuitos/enem-2005-q026.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2000-q012.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2000-q051.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2002-q033.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2002-q043.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2003-q031.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2003-q034.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2003-q045.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2004-q038.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2004-q039.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2004-q040.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2004-q041.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2004-q042.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2004-q043.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2004-q045.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2005-q040.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2005-q062.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2006-q051.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2006-q054.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2006-q056.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2007-q058.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2007-q059.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2007-q060.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2008-q025.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2008-q026.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2008-q027.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2008-q028.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-fontes-e-meio-ambiente/enem-2008-q032.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-trabalho-e-potencia/enem-2000-q014.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-trabalho-e-potencia/enem-2001-q016.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-trabalho-e-potencia/enem-2001-q047.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-trabalho-e-potencia/enem-2002-q026.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-trabalho-e-potencia/enem-2003-q037.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-trabalho-e-potencia/enem-2003-q040.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-trabalho-e-potencia/enem-2003-q042.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-trabalho-e-potencia/enem-2005-q014.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-trabalho-e-potencia/enem-2006-q052.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-trabalho-e-potencia/enem-2006-q053.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-trabalho-e-potencia/enem-2006-q058.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/energia-trabalho-e-potencia/enem-2007-q057.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/fisica-moderna/enem-2006-q050.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/gravitacao/enem-2000-q009.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/gravitacao/enem-2002-q042.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/gravitacao/enem-2002-q051.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/gravitacao/enem-2006-q028.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/hidrostatica/enem-2000-q010.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/magnetismo-e-eletromagnetismo/enem-2001-q051.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/mecanica-cinematica/enem-2001-q063.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/mecanica-dinamica-e-estatica/enem-2005-q015.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/mecanica-dinamica-e-estatica/enem-2006-q061.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/optica-e-ondulatoria/enem-2000-q019.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/optica-e-ondulatoria/enem-2007-q044.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/optica-e-ondulatoria/enem-2008-q024.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/termologia-e-termodinamica/enem-2000-q003.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/termologia-e-termodinamica/enem-2000-q007.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/termologia-e-termodinamica/enem-2000-q030.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/termologia-e-termodinamica/enem-2001-q049.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/termologia-e-termodinamica/enem-2002-q034.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/termologia-e-termodinamica/enem-2002-q047.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/termologia-e-termodinamica/enem-2002-q059.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/termologia-e-termodinamica/enem-2003-q041.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/termologia-e-termodinamica/enem-2006-q031.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/termologia-e-termodinamica/enem-2007-q043.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/termologia-e-termodinamica/enem-2008-q022.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/fisica/termologia-e-termodinamica/enem-2021-d2-q093.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/cartografia-e-escalas/enem-2000-q005.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/cartografia-e-escalas/enem-2000-q060.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/cartografia-e-escalas/enem-2001-q032.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/cartografia-e-escalas/enem-2002-q002.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/cartografia-e-escalas/enem-2008-q016.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/economia-e-industria/enem-2001-q013.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/economia-e-industria/enem-2002-q062.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/economia-e-industria/enem-2003-q056.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/economia-e-industria/enem-2004-q030.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/economia-e-industria/enem-2005-q004.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/economia-e-industria/enem-2007-q035.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2000-q061.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2001-q010.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2001-q011.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2001-q043.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2001-q060.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2002-q016.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2003-q029.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2003-q030.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2003-q032.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2003-q038.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2004-q005.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2004-q007.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2004-q035.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2005-q052.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2005-q053.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2006-q029.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2006-q030.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2006-q039.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2006-q041.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2007-q039.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2007-q042.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2007-q047.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2007-q048.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2007-q063.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2008-q003.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2008-q008.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-ambiental/enem-2008-q019.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-do-brasil-urbana-e-agraria/enem-2001-q056.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-do-brasil-urbana-e-agraria/enem-2001-q059.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-do-brasil-urbana-e-agraria/enem-2001-q061.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-do-brasil-urbana-e-agraria/enem-2003-q044.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-do-brasil-urbana-e-agraria/enem-2005-q024.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-do-brasil-urbana-e-agraria/enem-2006-q048.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-do-brasil-urbana-e-agraria/enem-2007-q010.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2000-q024.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2000-q045.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2002-q012.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2002-q036.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2004-q036.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2005-q039.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2006-q040.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2007-q040.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geografia-fisica-clima-relevo-hidrografia/enem-2008-q023.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geopolitica-e-globalizacao/enem-2000-q031.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geopolitica-e-globalizacao/enem-2001-q006.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geopolitica-e-globalizacao/enem-2002-q005.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geopolitica-e-globalizacao/enem-2002-q037.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geopolitica-e-globalizacao/enem-2003-q053.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geopolitica-e-globalizacao/enem-2004-q052.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geopolitica-e-globalizacao/enem-2005-q005.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geopolitica-e-globalizacao/enem-2006-q022.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/geopolitica-e-globalizacao/enem-2008-q062.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/populacao-e-demografia/enem-2000-q021.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/populacao-e-demografia/enem-2000-q026.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/populacao-e-demografia/enem-2000-q028.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/populacao-e-demografia/enem-2001-q038.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/populacao-e-demografia/enem-2001-q039.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/populacao-e-demografia/enem-2001-q046.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/populacao-e-demografia/enem-2001-q055.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/populacao-e-demografia/enem-2002-q025.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/populacao-e-demografia/enem-2003-q057.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/populacao-e-demografia/enem-2003-q058.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/populacao-e-demografia/enem-2004-q028.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/populacao-e-demografia/enem-2005-q016.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/populacao-e-demografia/enem-2006-q021.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/geografia/populacao-e-demografia/enem-2007-q049.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-antiga-e-medieval/enem-2000-q004.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-antiga-e-medieval/enem-2001-q018.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-antiga-e-medieval/enem-2001-q045.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-antiga-e-medieval/enem-2006-q013.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-antiga-e-medieval/enem-2008-q041.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-antiga-e-medieval/enem-2008-q047.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-contemporanea-e-mundial/enem-2000-q056.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-contemporanea-e-mundial/enem-2002-q028.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-contemporanea-e-mundial/enem-2003-q054.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-contemporanea-e-mundial/enem-2003-q055.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-contemporanea-e-mundial/enem-2004-q003.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-contemporanea-e-mundial/enem-2004-q055.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-contemporanea-e-mundial/enem-2007-q022.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-contemporanea-e-mundial/enem-2008-q015.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-contemporanea-e-mundial/enem-2008-q060.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-cultura-e-sociedade/enem-2000-q017.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-cultura-e-sociedade/enem-2002-q039.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-cultura-e-sociedade/enem-2002-q050.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-cultura-e-sociedade/enem-2006-q011.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-cultura-e-sociedade/enem-2007-q001.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-cultura-e-sociedade/enem-2007-q053.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-cultura-e-sociedade/enem-2008-q042.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2000-q029.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2001-q062.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2003-q049.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2003-q051.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2004-q053.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2006-q015.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2006-q016.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2007-q017.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2007-q018.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2008-q039.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-colonia-e-imperio/enem-2008-q059.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-republica/enem-2000-q035.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-republica/enem-2002-q053.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-republica/enem-2003-q050.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-republica/enem-2005-q007.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-republica/enem-2005-q019.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-republica/enem-2006-q017.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-republica/enem-2006-q018.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-republica/enem-2007-q019.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-republica/enem-2007-q020.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-do-brasil-republica/enem-2008-q061.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-moderna/enem-2001-q057.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-moderna/enem-2003-q052.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-moderna/enem-2006-q014.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-moderna/enem-2007-q016.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/historia/historia-moderna/enem-2007-q021.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/interdisciplinar/interdisciplinar-ciencias-natureza/enem-2004-q058.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/interdisciplinar/interdisciplinar-ciencias-natureza/enem-2007-q015.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/interdisciplinar/interdisciplinar-ciencias-natureza/enem-2008-q005.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2000-q001.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2001-q020.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2001-q034.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2002-q001.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2002-q007.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2002-q009.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2003-q009.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2003-q010.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2003-q011.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2003-q012.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2003-q013.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2004-q018.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2004-q020.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2004-q021.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2004-q026.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2005-q001.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2005-q002.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2005-q009.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2005-q058.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2006-q007.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2007-q014.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/analise-de-poemas-e-prosa/enem-2008-q058.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/escolas-literarias/enem-2000-q020.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/escolas-literarias/enem-2001-q042.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/escolas-literarias/enem-2006-q001.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/escolas-literarias/enem-2006-q003.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/escolas-literarias/enem-2007-q003.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/escolas-literarias/enem-2008-q012.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/intertextualidade/enem-2000-q046.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/intertextualidade/enem-2001-q012.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/intertextualidade/enem-2002-q046.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/intertextualidade/enem-2003-q063.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/intertextualidade/enem-2005-q059.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/intertextualidade/enem-2005-q063.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/literatura/intertextualidade/enem-2007-q027.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/algebra-equacoes-e-inequacoes/enem-2005-q029.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/algebra-equacoes-e-inequacoes/enem-2011-d2-q153.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/analise-combinatoria/enem-2002-q027.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/analise-combinatoria/enem-2004-q013.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/analise-combinatoria/enem-2005-q046.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/analise-combinatoria/enem-2007-q008.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/aritmetica-razao-proporcao/enem-2000-q044.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/aritmetica-razao-proporcao/enem-2000-q050.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/aritmetica-razao-proporcao/enem-2001-q058.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/aritmetica-razao-proporcao/enem-2002-q048.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/aritmetica-razao-proporcao/enem-2003-q033.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/aritmetica-razao-proporcao/enem-2004-q010.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/aritmetica-razao-proporcao/enem-2004-q011.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/aritmetica-razao-proporcao/enem-2004-q044.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/aritmetica-razao-proporcao/enem-2007-q011.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/conjuntos-numeros-e-divisibilidade/enem-2004-q014.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/conjuntos-numeros-e-divisibilidade/enem-2004-q016.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/conjuntos-numeros-e-divisibilidade/enem-2005-q055.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/conjuntos-numeros-e-divisibilidade/enem-2008-q055.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2000-q015.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2001-q036.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2001-q044.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2001-q048.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2001-q052.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2002-q003.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2002-q006.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2002-q013.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2002-q018.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2002-q054.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2003-q004.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2003-q005.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2003-q061.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2004-q001.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2004-q002.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2004-q006.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2004-q017.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2004-q032.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2004-q063.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2005-q012.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2005-q023.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2005-q060.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2006-q023.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2006-q025.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2006-q027.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2006-q057.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2007-q007.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2007-q023.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2007-q036.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2007-q038.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2007-q050.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2007-q051.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2007-q061.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2008-q004.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2008-q030.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2008-q035.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2008-q043.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2008-q044.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2008-q048.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2008-q050.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/estatistica-tabelas-e-graficos/enem-2021-d2-q170.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/funcoes/enem-2000-q041.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/funcoes/enem-2000-q042.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/funcoes/enem-2002-q004.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/funcoes/enem-2002-q041.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/funcoes/enem-2004-q056.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/funcoes/enem-2007-q025.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/funcoes/enem-2008-q031.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/funcoes/enem-2008-q033.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/funcoes/enem-2008-q036.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/funcoes/enem-2008-q045.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-espacial/enem-2000-q043.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-espacial/enem-2001-q009.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-espacial/enem-2001-q024.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-espacial/enem-2003-q006.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-espacial/enem-2003-q035.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-espacial/enem-2005-q061.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-espacial/enem-2006-q059.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-espacial/enem-2007-q005.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-espacial/enem-2008-q056.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-espacial/enem-2021-d2-q145.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-plana/enem-2002-q015.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-plana/enem-2002-q022.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-plana/enem-2002-q055.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-plana/enem-2003-q007.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-plana/enem-2004-q004.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-plana/enem-2004-q015.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-plana/enem-2005-q034.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-plana/enem-2006-q062.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-plana/enem-2008-q021.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/geometria-plana/enem-2008-q054.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/grandezas-medidas-e-escalas/enem-2001-q002.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/grandezas-medidas-e-escalas/enem-2002-q029.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/grandezas-medidas-e-escalas/enem-2003-q036.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/grandezas-medidas-e-escalas/enem-2003-q046.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/grandezas-medidas-e-escalas/enem-2004-q008.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/grandezas-medidas-e-escalas/enem-2004-q012.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/grandezas-medidas-e-escalas/enem-2004-q062.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/grandezas-medidas-e-escalas/enem-2005-q042.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/grandezas-medidas-e-escalas/enem-2006-q010.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/grandezas-medidas-e-escalas/enem-2006-q060.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/grandezas-medidas-e-escalas/enem-2007-q032.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/grandezas-medidas-e-escalas/enem-2007-q052.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/grandezas-medidas-e-escalas/enem-2008-q034.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/grandezas-medidas-e-escalas/enem-2008-q063.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/porcentagem-e-matematica-financeira/enem-2000-q008.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/porcentagem-e-matematica-financeira/enem-2000-q025.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/porcentagem-e-matematica-financeira/enem-2000-q058.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/porcentagem-e-matematica-financeira/enem-2001-q037.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/porcentagem-e-matematica-financeira/enem-2001-q040.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/porcentagem-e-matematica-financeira/enem-2001-q050.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/porcentagem-e-matematica-financeira/enem-2001-q053.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/porcentagem-e-matematica-financeira/enem-2002-q038.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/porcentagem-e-matematica-financeira/enem-2003-q003.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/porcentagem-e-matematica-financeira/enem-2003-q015.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/porcentagem-e-matematica-financeira/enem-2004-q033.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/porcentagem-e-matematica-financeira/enem-2006-q024.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/porcentagem-e-matematica-financeira/enem-2006-q026.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/porcentagem-e-matematica-financeira/enem-2007-q024.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/probabilidade/enem-2000-q039.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/probabilidade/enem-2000-q040.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/probabilidade/enem-2001-q005.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/probabilidade/enem-2001-q014.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/probabilidade/enem-2001-q029.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/probabilidade/enem-2005-q032.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/probabilidade/enem-2005-q038.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/probabilidade/enem-2006-q019.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/probabilidade/enem-2006-q020.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/probabilidade/enem-2007-q012.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/probabilidade/enem-2007-q034.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/probabilidade/enem-2008-q051.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/raciocinio-logico/enem-2002-q019.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/raciocinio-logico/enem-2003-q014.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/raciocinio-logico/enem-2004-q009.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/raciocinio-logico/enem-2005-q008.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/raciocinio-logico/enem-2007-q037.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/raciocinio-logico/enem-2008-q011.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/sequencias-pa-pg/enem-2000-q013.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/matematica/sequencias-pa-pg/enem-2004-q037.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/generos-textuais-e-funcoes-da-linguagem/enem-2004-q022.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/generos-textuais-e-funcoes-da-linguagem/enem-2007-q028.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/generos-textuais-e-funcoes-da-linguagem/enem-2008-q013.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/generos-textuais-e-funcoes-da-linguagem/enem-2008-q046.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2000-q006.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2000-q032.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2000-q033.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2000-q059.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2001-q008.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2001-q027.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2002-q021.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2002-q045.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2003-q008.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2003-q062.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2004-q019.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2004-q025.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2004-q059.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2005-q025.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2005-q056.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2008-q017.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/interpretacao-de-texto/enem-2008-q040.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/tecnologias-da-comunicacao/enem-2005-q010.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2000-q018.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2000-q057.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2001-q001.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2002-q030.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2002-q056.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2003-q001.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2004-q027.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2005-q006.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2005-q033.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2006-q004.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2006-q005.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2006-q006.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2006-q008.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2007-q004.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2007-q026.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2008-q002.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/portugues/variacao-linguistica-e-gramatica/enem-2008-q014.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/equilibrio-e-eletroquimica/enem-2004-q061.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/estequiometria-e-calculos-quimicos/enem-2000-q038.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/estequiometria-e-calculos-quimicos/enem-2001-q007.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/estequiometria-e-calculos-quimicos/enem-2004-q050.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/estequiometria-e-calculos-quimicos/enem-2005-q018.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/estequiometria-e-calculos-quimicos/enem-2006-q049.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/funcoes-inorganicas-e-reacoes/enem-2000-q054.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/funcoes-inorganicas-e-reacoes/enem-2000-q055.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/funcoes-inorganicas-e-reacoes/enem-2003-q024.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/funcoes-inorganicas-e-reacoes/enem-2004-q060.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/funcoes-inorganicas-e-reacoes/enem-2005-q017.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/ligacoes-e-propriedades-da-materia/enem-2002-q024.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2000-q034.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2000-q037.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2001-q003.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2001-q023.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2001-q025.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2001-q035.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2003-q025.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2004-q034.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2005-q013.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2005-q031.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2006-q032.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2006-q038.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2007-q062.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2008-q018.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-ambiental-e-cotidiano/enem-2008-q029.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/quimica-organica/enem-2021-d2-q131.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/solucoes-e-misturas/enem-2000-q049.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/solucoes-e-misturas/enem-2001-q021.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/solucoes-e-misturas/enem-2002-q040.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/quimica/solucoes-e-misturas/enem-2006-q055.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/sociologia/cidadania-estado-e-politica/enem-2004-q051.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/sociologia/cultura-e-identidade/enem-2001-q054.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/sociologia/cultura-e-identidade/enem-2002-q023.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/sociologia/cultura-e-identidade/enem-2002-q063.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/sociologia/cultura-e-identidade/enem-2004-q054.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/sociologia/cultura-e-identidade/enem-2008-q001.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/sociologia/meios-de-comunicacao-e-sociedade/enem-2003-q002.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/sociologia/trabalho-e-desigualdade/enem-2001-q004.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/sociologia/trabalho-e-desigualdade/enem-2002-q011.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/sociologia/trabalho-e-desigualdade/enem-2003-q039.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/sociologia/trabalho-e-desigualdade/enem-2003-q059.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/sociologia/trabalho-e-desigualdade/enem-2003-q060.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    },
+    {
+      "arquivo": "content/questoes/sociologia/trabalho-e-desigualdade/enem-2005-q003.md",
+      "motivo": "gabarito-pendente-ou-ruido"
+    }
+  ]
+}

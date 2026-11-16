@@ -120,3 +120,7 @@ npm run validar:crawl
 ## Evolução posterior: Fase 2
 
 O estado descrito acima é o encerramento da primeira passagem. A classificação em três níveis, a ingestão local e o piloto posterior de 20 resoluções estão documentados em [fase2/README.md](fase2/README.md), com números e evidências próprios. Os commits da primeira passagem foram enviados; a Fase 2 permanece sem push conforme sua ordem específica.
+
+## Engenharia total — atualização de novembro de 2026
+
+Auditoria, saneamento, segurança e validações posteriores estão registrados em [total/README.md](total/README.md). As contagens históricas acima descrevem a execução original.

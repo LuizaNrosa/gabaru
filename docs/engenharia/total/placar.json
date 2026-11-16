@@ -1,0 +1,32 @@
+{
+  "antes": {
+    "arquivos": 2154,
+    "dadosEnem": 26,
+    "markdown": 2128,
+    "cabecalhoProva": 22,
+    "cabecalhoRepetido": 20,
+    "ruidoSevero": 6,
+    "details": 2127,
+    "pendente": 567,
+    "bilinguesPossivelmenteConcatenadas": 5,
+    "catalogoAlternativasIncompletas": 12178,
+    "catalogoSemGabarito": 676
+  },
+  "depois": {
+    "cabecalhoRepetido": 0,
+    "cabecalhoProva": 0,
+    "details": 0,
+    "pendente": 572,
+    "ruidoSevero": 6
+  },
+  "markdownDocumentacao": [
+    "content/questoes/README.md"
+  ],
+  "cadernos": 667,
+  "itens": 15273,
+  "niveis": {
+    "nivel-0-quarentena": 15103,
+    "nivel-1-gabarito-oficial": 146,
+    "nivel-2-resolucao-comentada": 24
+  }
+}

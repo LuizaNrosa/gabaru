@@ -1,0 +1,511 @@
+{
+  "erros": 0,
+  "avisos": 97,
+  "heuristicasSeguranca": [
+    {
+      "arquivo": "APK/App.tsx",
+      "linha": 61,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/app/api/v1/fuvest/[doc]/route.ts",
+      "linha": 20,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/app/planos/page.tsx",
+      "linha": 13,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/app/pre-vestibular/page.tsx",
+      "linha": 63,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/catalog-search.tsx",
+      "linha": 19,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/catalog-search.tsx",
+      "linha": 22,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/catalog-search.tsx",
+      "linha": 22,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/catalog-search.tsx",
+      "linha": 22,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/coluni-exam-reader.tsx",
+      "linha": 30,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/coluni-exam-reader.tsx",
+      "linha": 30,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/coluni-exam-reader.tsx",
+      "linha": 30,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/coluni-exam-reader.tsx",
+      "linha": 30,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/coluni-exam-reader.tsx",
+      "linha": 30,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/coluni-exam-reader.tsx",
+      "linha": 30,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/coluni-exam-reader.tsx",
+      "linha": 31,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/enem-exam-reader.tsx",
+      "linha": 36,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/etec-answer-sheet.tsx",
+      "linha": 9,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/etec-answer-sheet.tsx",
+      "linha": 9,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/etec-answer-sheet.tsx",
+      "linha": 9,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/etec-answer-sheet.tsx",
+      "linha": 9,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/etec-exam-reader.tsx",
+      "linha": 30,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/etec-exam-reader.tsx",
+      "linha": 82,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/etec-exam-reader.tsx",
+      "linha": 85,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/etec-exam-reader.tsx",
+      "linha": 85,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/etec-exam-reader.tsx",
+      "linha": 85,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/etec-exam-reader.tsx",
+      "linha": 85,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/etec-exam-reader.tsx",
+      "linha": 85,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/etec-exam-reader.tsx",
+      "linha": 85,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/etec-exam-reader.tsx",
+      "linha": 86,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/folha-de-respostas.tsx",
+      "linha": 167,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/folha-de-respostas.tsx",
+      "linha": 181,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/folha-de-respostas.tsx",
+      "linha": 186,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/folha-de-respostas.tsx",
+      "linha": 186,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/folha-de-respostas.tsx",
+      "linha": 187,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/folha-de-respostas.tsx",
+      "linha": 194,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/fuvest-doc-reader.tsx",
+      "linha": 39,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/if-archive-pages.tsx",
+      "linha": 9,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/if-archive-pages.tsx",
+      "linha": 11,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/if-official-documents.tsx",
+      "linha": 5,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/ifsc-exam-reader.tsx",
+      "linha": 31,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/ifsc-exam-reader.tsx",
+      "linha": 31,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/ifsc-exam-reader.tsx",
+      "linha": 31,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/ifsc-exam-reader.tsx",
+      "linha": 31,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/ifsc-exam-reader.tsx",
+      "linha": 31,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/ifsc-exam-reader.tsx",
+      "linha": 31,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/ifsc-exam-reader.tsx",
+      "linha": 32,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/ifsp-exam-reader.tsx",
+      "linha": 33,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/ifsp-exam-reader.tsx",
+      "linha": 33,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/ifsp-exam-reader.tsx",
+      "linha": 33,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/ifsp-exam-reader.tsx",
+      "linha": 33,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/ifsp-exam-reader.tsx",
+      "linha": 33,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/ifsp-exam-reader.tsx",
+      "linha": 33,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/ifsp-exam-reader.tsx",
+      "linha": 34,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/nota-corte-unesp-tool.tsx",
+      "linha": 19,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/nota-corte-unicamp-tool.tsx",
+      "linha": 9,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/nota-corte-unicamp-tool.tsx",
+      "linha": 9,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/nota-corte-unicamp-tool.tsx",
+      "linha": 9,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/preparacao-link.tsx",
+      "linha": 8,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/preparacao-link.tsx",
+      "linha": 13,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/seletor-nota-de-corte.tsx",
+      "linha": 56,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/study-session.tsx",
+      "linha": 44,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/study-session.tsx",
+      "linha": 53,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/study-session.tsx",
+      "linha": 72,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/topic-page.tsx",
+      "linha": 8,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/topic-page.tsx",
+      "linha": 14,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/treino-app.tsx",
+      "linha": 226,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/treino-app.tsx",
+      "linha": 314,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/uerj-uel-reader.tsx",
+      "linha": 20,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/uerj-uel-reader.tsx",
+      "linha": 28,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/use-study-progress.ts",
+      "linha": 8,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/vestibular-archive-page.tsx",
+      "linha": 5,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/vestibular-archive-page.tsx",
+      "linha": 5,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/vestibular-document-reader.tsx",
+      "linha": 32,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/vestibular-year-page.tsx",
+      "linha": 10,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/vestibular-year-page.tsx",
+      "linha": 17,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/components/vestibular-year-page.tsx",
+      "linha": 19,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/lib/catalogo/index.ts",
+      "linha": 13,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/lib/enem-acervo.ts",
+      "linha": 34,
+      "regra": "security/detect-non-literal-fs-filename",
+      "triagem": "Nome resolvido no catálogo antes de acesso ao arquivo; não é caminho livre da requisição."
+    },
+    {
+      "arquivo": "src/lib/paginated-reader-exam.ts",
+      "linha": 14,
+      "regra": "security/detect-non-literal-fs-filename",
+      "triagem": "Nome resolvido no catálogo antes de acesso ao arquivo; não é caminho livre da requisição."
+    },
+    {
+      "arquivo": "src/lib/questions.ts",
+      "linha": 75,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/lib/questions.ts",
+      "linha": 75,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/lib/questions.ts",
+      "linha": 75,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/lib/questions.ts",
+      "linha": 75,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    },
+    {
+      "arquivo": "src/lib/vestibular-archive.ts",
+      "linha": 12,
+      "regra": "security/detect-object-injection",
+      "triagem": "Índice limitado, enum/ID de catálogo ou armazenamento por UID; não há avaliação de código nem atribuição de protótipos pelo payload."
+    }
+  ],
+  "limite": "Triagem dos acessos sinalizados; não constitui prova de ausência absoluta de vulnerabilidades."
+}

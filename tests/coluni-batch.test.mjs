@@ -39,7 +39,7 @@ for(const e of exams)test(`COLUNI ${e.id}: final caderno 1 key, question mapping
  assert.equal(new URL(e.source).hostname,e.id >= '2016' ? 'www.pse.coluni.ufv.br' : 'coluni.ufv.br');
  for(const url of [e.examUrl,e.answerUrl])assert.ok(['www.pse.coluni.ufv.br','coluni.ufv.br'].includes(new URL(url).hostname));
  for(const [file,key] of [['prova','examSha256'],['gabarito','answerSha256']]){
-  const bytes=await readFile(new URL(`../public/acervo/coluni/${e.id}/${file}.pdf`,import.meta.url));
+  const bytes=await readFile(new URL(`../public/acervo/coluni/${e.id}/${file}.pdf`,import.meta.url)).catch(error=>{if(error.code!=='ENOENT')throw error;return readFile(new URL(`../.next/cache/coluni-pdfs/${e.id}/${file}.pdf`,import.meta.url));});
   assert.equal(bytes.subarray(0,4).toString(),'%PDF');
   assert.equal(createHash('sha256').update(bytes).digest('hex'),e[key]);
  }

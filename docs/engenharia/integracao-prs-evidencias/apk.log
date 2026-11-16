@@ -1,0 +1,6 @@
+> gabaru@0.1.0 typecheck:apk
+> npm --prefix APK run typecheck
+
+
+> gabaru-android@0.1.0 typecheck
+> tsc --noEmit

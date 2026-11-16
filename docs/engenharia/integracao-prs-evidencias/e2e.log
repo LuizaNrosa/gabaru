@@ -1,0 +1,38 @@
+> gabaru@0.1.0 test:e2e
+> playwright test
+
+
+Running 26 tests using 1 worker
+
+(node:33620) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓   1 [desktop] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: / (8.3s)
+  ✓   2 [desktop] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /banca/etec (9.8s)
+  ✓   3 [desktop] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /provas/etec/2026-2 (22.3s)
+  ✓   4 [desktop] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /questoes/enem-2025-d2-q167 (4.6s)
+  ✓   5 [desktop] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /questoes (4.7s)
+  ✓   6 [desktop] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /disciplina/matematica (4.6s)
+  ✓   7 [desktop] › tests/e2e/gabaru.spec.ts:4:1 › resolução, riscador, erro persistente e filtros combinados (2.0s)
+  ✓   8 [desktop] › tests/e2e/gabaru.spec.ts:5:1 › simulado bloqueia resolução até finalizar e preserva resultado (2.0s)
+  ✓   9 [desktop] › tests/e2e/gabaru.spec.ts:6:1 › HTML sem JavaScript contém conteúdo e MathML; quarentena noindex (1.1s)
+  ✓  10 [desktop] › tests/e2e/gabaru.spec.ts:7:1 › painel, assinatura premium e cookie forjado são bloqueados no servidor (418ms)
+  ✓  11 [desktop] › tests/e2e/gabaru.spec.ts:8:1 › webhook sem assinatura ou forjado, IDOR e checkout não autenticado (1.0s)
+  ✓  12 [desktop] › tests/e2e/gabaru.spec.ts:9:1 › redirecionamento canônico, alias bilíngue e headers de segurança (64ms)
+  ✓  13 [desktop] › tests/e2e/gabaru.spec.ts:10:1 › API limita exportação em massa e devolve Retry-After (196ms)
+(node:34066) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓  14 [mobile] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: / (5.2s)
+  ✓  15 [mobile] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /banca/etec (4.9s)
+  ✓  16 [mobile] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /provas/etec/2026-2 (20.6s)
+  ✓  17 [mobile] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /questoes/enem-2025-d2-q167 (6.7s)
+  ✓  18 [mobile] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /questoes (6.8s)
+  ✓  19 [mobile] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /disciplina/matematica (6.0s)
+  ✓  20 [mobile] › tests/e2e/gabaru.spec.ts:4:1 › resolução, riscador, erro persistente e filtros combinados (3.9s)
+  ✓  21 [mobile] › tests/e2e/gabaru.spec.ts:5:1 › simulado bloqueia resolução até finalizar e preserva resultado (3.1s)
+  ✓  22 [mobile] › tests/e2e/gabaru.spec.ts:6:1 › HTML sem JavaScript contém conteúdo e MathML; quarentena noindex (1.8s)
+  ✓  23 [mobile] › tests/e2e/gabaru.spec.ts:7:1 › painel, assinatura premium e cookie forjado são bloqueados no servidor (335ms)
+  ✓  24 [mobile] › tests/e2e/gabaru.spec.ts:8:1 › webhook sem assinatura ou forjado, IDOR e checkout não autenticado (142ms)
+  ✓  25 [mobile] › tests/e2e/gabaru.spec.ts:9:1 › redirecionamento canônico, alias bilíngue e headers de segurança (92ms)
+  ✓  26 [mobile] › tests/e2e/gabaru.spec.ts:10:1 › API limita exportação em massa e devolve Retry-After (78ms)
+
+  26 passed (2.1m)

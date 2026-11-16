@@ -6,6 +6,7 @@ import { paginateExam, readVerifiedSource } from './paginar-etec.mjs';
 const exams = JSON.parse(await readFile('src/data/enem-cadernos-paginados.json', 'utf8'));
 for (const exam of exams) {
   const allowedIds = [
+    `enem-${exam.year}-regular-d1`,
     `enem-${exam.year}-regular-d2`,
     `enem-${exam.year}-ppl-azul-d2`,
     `enem-${exam.year}-digital-azul-d2`,

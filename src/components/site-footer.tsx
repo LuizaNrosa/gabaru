@@ -26,7 +26,9 @@ export function SiteFooter() {
           <Link href="/nota-de-corte/unicamp">Nota de corte Unicamp</Link>
           <Link href="/provas">Acervo de provas</Link>
           <Link href="/treino">Treino gratuito</Link>
-          <Link href="/questoes-gratis">Questões abertas</Link>
+          <Link href="/questoes">Banco de questões</Link>
+          <Link href="/vestibulinho">Vestibulinhos por banca</Link>
+          <Link href="/vestibulares">Vestibulares por banca</Link>
           <Link href="/materiais-gratuitos">Materiais e fontes</Link>
           <Link href="/disciplinas/matematica">Disciplinas</Link>
         </nav>

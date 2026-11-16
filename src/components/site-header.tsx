@@ -7,7 +7,7 @@ const links = [
   ["Vestibulinhos", "/pre-vestibulinho"],
   ["Nota de corte", "/nota-de-corte"],
   ["ENEM e vestibulares", "/pre-vestibular"],
-  ["Treino gratuito", "/treino"],
+  ["Banco de questões", "/questoes"],
   ["Materiais", "/materiais-gratuitos"],
   ["Sobre", "/sobre"],
 ];
@@ -36,7 +36,7 @@ export function SiteHeader() {
         >
           <Wordmark />
         </Link>
-        <nav className="gb-desktop-nav" aria-label="Principal">
+        <nav className="gb-desktop-nav" aria-label="Navegação principal">
           {links.map(([label, href]) => (
             <Link key={href} href={href}>
               {label}

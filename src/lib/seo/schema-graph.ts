@@ -1,0 +1,16 @@
+import type { Graph, Person, EducationalOrganization, Quiz, Question, BreadcrumbList, LearningResource, FAQPage } from 'schema-dts';
+import type { Questao } from '@/lib/catalogo/types';
+export const ORIGIN='https://www.gabaru.com.br';
+export const author:Person={'@type':'Person','@id':`${ORIGIN}/#author`,name:'Felipe Nascimento Rosa',jobTitle:'Educador e curador pedagógico'};
+export const organization:EducationalOrganization={'@type':'EducationalOrganization','@id':`${ORIGIN}/#organization`,name:'Gabaru',url:ORIGIN,areaServed:'BR',member:{'@id':`${ORIGIN}/#author`},founder:{'@type':'Person',name:'Luiza Nascimento Rosa'}};
+export function questionSchema(q:Questao):Question {
+ const answer=q.alternativas.find(a=>a.letra===q.correta);
+ return {'@type':'Question','@id':`${ORIGIN}/questoes/${q.slug}#question`,name:`${q.banca.toUpperCase()} ${q.ano} — Questão ${q.numero}`,text:q.enunciado,eduQuestionType:'Multiple choice',...(answer?{acceptedAnswer:{'@type':'Answer',text:`${answer.letra}. ${answer.texto}${q.comentarioResolucao.length?' — '+q.comentarioResolucao.join(' '):''}`}}:{}),suggestedAnswer:q.alternativas.filter(a=>a.letra!==q.correta).map(a=>({'@type':'Answer',text:`${a.letra}. ${a.texto}`}))};
+}
+export function schemaGraph({path,title,questions=[],breadcrumbs=[],faq=[]}:{path:string;title:string;questions?:Questao[];breadcrumbs?:{name:string;path:string}[];faq?:{question:string;answer:string}[]}):Graph {
+ const quiz:Quiz={'@type':'Quiz','@id':`${ORIGIN}${path}#quiz`,name:title,about:[...new Set(questions.map(q=>q.banca.toUpperCase()))].join(', '),educationalLevel:'Ensino Médio / Ensino Técnico',educationalAlignment:{'@type':'AlignmentObject',alignmentType:'educationalLevel',targetName:'Ensino Médio'},hasPart:questions.map(questionSchema),publisher:{'@id':`${ORIGIN}/#organization`}};
+ const trail:BreadcrumbList={'@type':'BreadcrumbList','@id':`${ORIGIN}${path}#breadcrumbs`,itemListElement:breadcrumbs.map((b,i)=>({'@type':'ListItem',position:i+1,name:b.name,item:`${ORIGIN}${b.path}`}))};
+ const resource:LearningResource={'@type':'LearningResource','@id':`${ORIGIN}${path}#resource`,name:title,url:`${ORIGIN}${path}`,inLanguage:'pt-BR',learningResourceType:questions.length?'Questões comentadas':'Guia de provas',publisher:{'@id':`${ORIGIN}/#organization`},...(questions.length?{hasPart:{'@id':`${ORIGIN}${path}#quiz`}}:{})};
+ const faqSchema:FAQPage={'@type':'FAQPage','@id':`${ORIGIN}${path}#faq`,mainEntity:faq.map(f=>({'@type':'Question',name:f.question,acceptedAnswer:{'@type':'Answer',text:f.answer}}))};
+ return {'@context':'https://schema.org','@graph':[organization,author,resource,...(questions.length?[quiz]:[]),...(breadcrumbs.length?[trail]:[]),...(faq.length?[faqSchema]:[])]};
+}

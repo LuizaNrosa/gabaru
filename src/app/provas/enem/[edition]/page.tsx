@@ -1,3 +1,4 @@
+import { ExamEditorial } from "@/components/exam-editorial";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ENEM_SOURCE, enemExams, enemTitle, readEnemExam } from "@/lib/enem-acervo";
@@ -45,5 +46,6 @@ export default async function Page({ params }: Props) {
         <p className="mt-4 whitespace-pre-wrap text-n5">{q.texto}</p>
       </details>)}</div>
     </section>}
-  </main>;
+  <ExamEditorial banca="enem" edition={exam.id} />
+</main>;
 }

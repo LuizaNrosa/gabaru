@@ -1,0 +1,10 @@
+import Link from 'next/link';
+import { catalogo,nomeTaxonomia } from '@/lib/catalogo';
+export function TopicPage({slug,kind}:{slug:string;kind:'disciplina'|'assunto'}) {
+ const all=catalogo.questoes.filter(q=>q[kind]===slug&&q.enunciado&&q.alternativas.length>=4);
+ const published=all.filter(q=>q.statusPublicacao==='completa');
+ const topics=[...new Set(all.map(q=>kind==='disciplina'?q.assunto:q.disciplina))].filter(s=>s!=='a-classificar');
+ return <main id="conteudo-principal" className="gb-container v2-page"><nav className="v2-breadcrumb" aria-label="Trilha de navegação"><Link href="/questoes">Banco de questões</Link></nav><p className="gb-eyebrow">{kind==='disciplina'?'Disciplina':'Assunto'} · Estudo por tema</p><h1 className="gb-page-title">{nomeTaxonomia(slug)}</h1><p className="v2-lead">Reúna seu estudo de {nomeTaxonomia(slug).toLowerCase()} em um só lugar. Há {published.length} questões com resolução publicada e {all.length-published.length} transcrições em revisão. Compare as abordagens entre provas e consulte sempre a fonte oficial.</p><Link className="v2-button" href={`/questoes?${kind}=${slug}`}>Filtrar todas as questões deste tema</Link>
+ {topics.length>0&&<nav className="v2-actions my-8" aria-label={kind==='disciplina'?'Assuntos desta disciplina':'Disciplinas relacionadas'}>{topics.map(t=><Link className="v2-button" key={t} href={`/${kind==='disciplina'?'assunto':'disciplina'}/${t}`}>{nomeTaxonomia(t)}</Link>)}</nav>}
+ <h2 className="v2-subtitle my-6">Questões com resolução comentada</h2><ul className="v2-results">{published.map(q=><li className="v2-result" key={q.id}><article><h3><Link href={`/questoes/${q.slug}`}>{q.banca.toUpperCase()} {q.ano} · Questão {q.numero}</Link></h3><p>{q.enunciado.slice(0,240)}…</p><Link className="v2-source" href={`/banca/${q.banca}`}>Todas as provas desta banca</Link></article></li>)}</ul>{!published.length&&<p className="v2-editorial">As resoluções deste tema ainda estão em preparação. Use o filtro acima para consultar transcrições em revisão e suas fontes.</p>}</main>;
+}

@@ -1,0 +1,34 @@
+{
+  "enem-2011-d2-q138": {
+    "disciplina": "matematica", "assunto": "razao-proporcao-e-unidades", "atualizadaEm": "2026-11-16",
+    "comentarioResolucao": [
+      "Compare o afastamento de cada diâmetro em relação aos 68 mm exigidos. Como todos os valores são maiores que 68, basta subtrair 68 de cada um.",
+      "As diferenças são 0,21; 0,102; 0,001; 0,02 e 0,012 mm. A menor delas é 0,001 mm.",
+      "Logo, o pistão de 68,001 mm é o mais próximo da medida desejada: alternativa E. Escrever todas as diferenças com três casas decimais ajuda na comparação."
+    ]
+  },
+  "enem-2011-d2-q141": {
+    "disciplina": "matematica", "assunto": "razao-proporcao-e-unidades", "atualizadaEm": "2026-11-16",
+    "comentarioResolucao": [
+      "Primeiro, expresse as duas altitudes na mesma unidade. A conversão fornecida é de 3,3 pés para cada metro.",
+      "A altitude de 6 000 metros corresponde a \\(6000 \\times 3{,}3 = 19800\\) pés.",
+      "Na Finlândia, o limite era 31 000 pés. A diferença é \\(31000 - 19800 = 11200\\) pés, portanto a alternativa C."
+    ]
+  },
+  "enem-2011-d2-q143": {
+    "disciplina": "matematica", "assunto": "razao-proporcao-e-unidades", "atualizadaEm": "2026-11-16",
+    "comentarioResolucao": [
+      "Uma escala compara a distância no mapa com a distância real usando a mesma unidade. Converta 2 000 km para centímetros.",
+      "Como um quilômetro tem 100 000 centímetros, a distância real é \\(2000 \\times 100000 = 200000000\\) cm.",
+      "Oito centímetros no mapa representam 200 000 000 cm reais. Dividindo ambos por 8, a escala é 1 : 25 000 000. A resposta é E."
+    ]
+  },
+  "enem-2011-d2-q147": {
+    "disciplina": "matematica", "assunto": "razao-proporcao-e-unidades", "atualizadaEm": "2026-11-16",
+    "comentarioResolucao": [
+      "Na escala 1 : 250, cada medida da maquete é a medida real dividida por 250. Primeiro, converta os metros para centímetros.",
+      "O comprimento real é 2 800 cm e a largura é 1 200 cm. Assim, \\(2800 / 250 = 11{,}2\\) cm e \\(1200 / 250 = 4{,}8\\) cm.",
+      "A ordem pedida é comprimento e largura: 11,2 cm e 4,8 cm, alternativa C. A opção A inverte essas duas medidas."
+    ]
+  }
+}

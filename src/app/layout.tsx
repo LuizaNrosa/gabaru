@@ -7,6 +7,7 @@ import { SiteFooter } from "@/components/site-footer";
 import { TabBar } from "@/components/tab-bar";
 import { JsonLd } from "@/components/json-ld";
 import { OG_IMAGEM, jsonLd } from "@/lib/seo";
+import "katex/dist/katex.min.css";
 import "./globals.css";
 
 // Fontes auto-hospedadas pelo Next: sem CSS externo bloqueante e com

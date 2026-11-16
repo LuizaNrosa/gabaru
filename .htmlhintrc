@@ -1,0 +1,9 @@
+{
+  "doctype-first": true,
+  "tagname-lowercase": true,
+  "attr-lowercase": ["charSet", "fetchPriority", "noModule", "srcSet"],
+  "attr-value-double-quotes": true,
+  "tag-pair": true,
+  "id-unique": true,
+  "src-not-empty": true
+}

@@ -64,7 +64,6 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     if (!isFirebaseConfigured) {
-      setLoading(false);
       return;
     }
     try {
@@ -78,7 +77,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       );
       return unsub;
     } catch {
-      setLoading(false);
+      queueMicrotask(() => setLoading(false));
     }
   }, []);
 

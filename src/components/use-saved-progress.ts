@@ -8,9 +8,11 @@ export function useSavedProgress<T>(key: string, state: T, restore: (value: T) =
   const [storageAvailable, setStorageAvailable] = useState(true);
   const restoreRef = useRef(restore);
   const initialRef = useRef(initial);
-  initialRef.current = initial;
-  restoreRef.current = restore;
+  useEffect(() => { initialRef.current = initial; restoreRef.current = restore; });
   useEffect(() => {
+    let cancelled = false;
+    queueMicrotask(() => {
+    if (cancelled) return;
     setResumed(false);
     restoreRef.current(initialRef.current);
     try {
@@ -25,11 +27,13 @@ export function useSavedProgress<T>(key: string, state: T, restore: (value: T) =
       setStorageAvailable(true);
     } catch { setStorageAvailable(false); }
     setLoadedKey(key);
+    });
+    return () => { cancelled = true; };
   }, [key]);
   useEffect(() => {
     if (loadedKey !== key) return;
     try { window.localStorage.setItem(key, JSON.stringify({ version: 1, state })); }
-    catch { setStorageAvailable(false); }
+    catch { queueMicrotask(() => setStorageAvailable(false)); }
   }, [key, loadedKey, state]);
   return { resumed, storageAvailable, dismissResume: () => setResumed(false) };
 }

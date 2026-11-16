@@ -52,7 +52,7 @@ export function SeletorNotaDeCorte() {
   const instituicaoId = useId();
   const [tipo, setTipo] = useState<Tipo | "">("");
   const [id, setId] = useState("");
-  useEffect(() => { if (window.location.hash === "#etec") { setTipo("vestibulinho"); setId("etec"); } }, []);
+  useEffect(() => { const sync = () => { if (window.location.hash === "#etec") { setTipo("vestibulinho"); setId("etec"); } }; window.addEventListener("hashchange", sync); const frame = requestAnimationFrame(sync); return () => { cancelAnimationFrame(frame); window.removeEventListener("hashchange", sync); }; }, []);
   const instituicoes = tipo ? opcoes[tipo] : [];
   const selecionada = instituicoes.find((item) => item.id === id);
 

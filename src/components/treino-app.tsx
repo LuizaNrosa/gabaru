@@ -75,9 +75,9 @@ export function TreinoApp() {
     const initial = new URLSearchParams(window.location.search).get(
       "disciplina",
     );
-    if (initial) setDisciplina(initial);
+    queueMicrotask(() => { if (!ctrl.signal.aborted && initial) setDisciplina(initial); });
     const initialYear = new URLSearchParams(window.location.search).get("ano");
-    if (initialYear && /^\d{4}$/.test(initialYear)) setAno(initialYear);
+    queueMicrotask(() => { if (!ctrl.signal.aborted && initialYear && /^\d{4}$/.test(initialYear)) setAno(initialYear); });
     fetch("/api/v1/catalog", { signal: ctrl.signal })
       .then((r) => {
         if (!r.ok) throw new Error();

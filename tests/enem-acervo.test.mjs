@@ -18,12 +18,18 @@ for (const exam of exams) test(`ENEM ${exam.id}: dados e imagens das questões e
   assert.equal(data.id, exam.id);
   assert.equal(data.ano, exam.year);
   assert.equal(data.dia, exam.day);
-  assert.equal(data.total, data.questoes.length);
-  assert.equal(exam.total, data.questoes.length);
-  assert.equal(new Set(data.questoes.map(q => q.numero)).size, data.questoes.length);
+  const {selectEnemQuestions}=await import('../src/lib/enem-question-order.ts');
+  const bilingual=data.questoes.some(q=>q.idiomaTexto==='es');
+  if(bilingual){for(const language of ['ingles','espanhol'])assert.equal(exam.total,selectEnemQuestions(data.questoes,language).length);assert.equal(data.total,exam.total);}
+  else {assert.equal(data.total,data.questoes.length);assert.equal(exam.total,data.questoes.length);}
+  assert.equal(new Set(data.questoes.map(q => `${q.numero}:${q.idiomaTexto??''}`)).size, data.questoes.length);
   for (const question of data.questoes) {
     assert.ok(Number.isSafeInteger(question.numero) && question.numero > 0);
     assert.equal(typeof question.texto, 'string');
+    if(exam.id==='enem-2024-d2'){
+      for(const figure of question.figuras??[]){const url=new URL(figure.url);assert.equal(url.protocol,'https:');assert.equal(url.hostname,'raw.githubusercontent.com');assert.match(url.pathname,/^\/piresramon\/gpt-4-enem\/[a-f0-9]{40}\//);assert.ok(figure.descricao);}
+      continue; // Transcrição externa com figuras atribuídas; não possui recorte local.
+    }
     const number = String(question.numero).padStart(3, '0');
     const image = await readFile(new URL(`public/questoes/${exam.id}-q${number}.webp`, root));
     assert.equal(image.toString('ascii', 0, 4), 'RIFF');

@@ -40,7 +40,7 @@ export default async function Page({ params }: Props) {
     {verification && "language" in verification && <p className="gb-notice mt-5">
       Neste caderno, a correção das questões de língua estrangeira corresponde à opção de inglês.
     </p>}
-    <details className="v2-solution"><summary>Caderno original e leitor de imagens</summary><EnemExamReader key={exam.id} id={exam.id} title={enemTitle(exam)} verified={verified} pageCount={exam.pageCount} questions={exam.questions.map(({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled})=>({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled}))} /></details>
+    {exam.id!=="enem-2024-d2" && <details className="v2-solution"><summary>Caderno original e leitor de imagens</summary><EnemExamReader key={exam.id} id={exam.id} title={enemTitle(exam)} verified={verified} pageCount={exam.pageCount} questions={exam.questions.map(({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled})=>({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled}))} /></details>}
     {exam.id === "enem-2024-d2" && <p className="gb-notice mt-4">Transcrição e figuras de <a href="https://github.com/piresramon/gpt-4-enem" rel="noopener noreferrer" target="_blank">Pires e colaboradores</a>. Conteúdo em conferência; consulte o caderno oficial. A atribuição e a licença acompanham o material.</p>}
     {!exam.pageCount && <section className="mt-12" aria-label="Transcrições das questões">
       <h2 className="gb-section-title">Transcrições das questões</h2>

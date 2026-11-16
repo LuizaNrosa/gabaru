@@ -18,5 +18,6 @@ jobs:
       - run: npm ci
       - run: node scripts/restore-acervo-parts.mjs
       - run: node scripts/prepare-enem.mjs
+      - run: node scripts/prepare-etec.mjs --paginar
       - run: npm test
       - run: node scripts/prepare-coluni.mjs

@@ -1,3 +1,4 @@
+import { approvedSources } from './enem-fontes-aprovadas.mjs';
 import { createHash } from 'node:crypto';
 import { mkdir, readFile, rename, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
@@ -17,7 +18,9 @@ for (const exam of exams) {
   if (!Number.isInteger(exam.year) || !allowedIds.includes(exam.id)) {
     throw new Error('Identificador ENEM inválido: ' + exam.id);
   }
-  const directory = join('public', 'acervo', 'enem', exam.id);
+  const approved = approvedSources.find(entry => entry.id === exam.id);
+  if (!approved || approved.questionCopy !== exam.questionCopy || approved.questionCopySha256 !== exam.questionCopySha256) throw new Error('Fonte ENEM não aprovada: ' + exam.id);
+  const directory = join('public', 'acervo', 'enem', approved.id);
   const pages = Array.from({ length: exam.pageCount }, (_, index) => {
     const number = index + 1;
     return { number, image: `/acervo/enem/${exam.id}/${String(number).padStart(2, '0')}.webp` };
@@ -32,7 +35,7 @@ for (const exam of exams) {
     }
   }));
   if (present.every(Boolean)) continue;
-  const source = new URL(exam.questionCopy);
+  const source = new URL(approved.questionCopy);
   const trustedSource = ['www.curso-objetivo.br','guiadoestudante.abril.com.br'].includes(source.host) ||
     (source.host === 'www.acheprovas.com.br' &&
       /^\/arquivos\/academicas\/[a-f0-9-]{36}\/prova\.pdf$/.test(source.pathname));
@@ -40,7 +43,7 @@ for (const exam of exams) {
       source.username || source.password || !/^[a-f0-9]{64}$/.test(exam.questionCopySha256)) {
     throw new Error('Fonte ENEM sem cópia validada: ' + exam.id);
   }
-  const cacheDir = join('.next', 'cache', 'enem-pdfs', exam.id);
+  const cacheDir = join('.next', 'cache', 'enem-pdfs', approved.id);
   const cached = join(cacheDir, 'prova.pdf');
   if (!await readVerifiedSource(cached, cached, exam.questionCopySha256)) {
     let response;

@@ -179,6 +179,11 @@ Categoria: vestibulinho; cadernos: 3.
 - IFAM 2013/1: https://gabaru.com.br/provas/ifam; 0 itens; situação nivel-0-quarentena; fonte https://www2.ifam.edu.br/noticias/veja-provas-anteriores-de-processo-seletivo/PROVAINTEGRADO2013_1semestre.pdf.
 - IFAM 2012/1: https://gabaru.com.br/provas/ifam; 0 itens; situação nivel-0-quarentena; fonte https://www2.ifam.edu.br/noticias/veja-provas-anteriores-de-processo-seletivo/PROVAINTEGRADO2012_1.pdf.
 
+### IFBA: IFBA
+https://gabaru.com.br/banca/ifba
+Categoria: vestibulinho; cadernos: 1.
+- IFBA 2026 · Técnico integrado: https://gabaru.com.br/provas/ifba/ifba-2026; 36 itens; situação nivel-0-quarentena; fonte https://concurso4.fundacaocefetminas.org.br/site/processo_seletivo_detalhes.aspx?id=D7495A1442A6910F.
+
 ### IFCE: Instituto Federal de Educação, Ciência e Tecnologia de Ceará
 https://gabaru.com.br/banca/ifce
 Categoria: vestibulinho; cadernos: 3.
@@ -188,12 +193,14 @@ Categoria: vestibulinho; cadernos: 3.
 
 ### IFMG: Instituto Federal de Minas Gerais
 https://gabaru.com.br/banca/ifmg
-Categoria: vestibulinho; cadernos: 5.
+Categoria: vestibulinho; cadernos: 7.
 - IFMG 2026.1 · Técnico integrado: https://gabaru.com.br/provas/ifmg/ifmg-2026-1; 48 itens; situação nivel-0-quarentena; fonte https://www.ifmg.edu.br/portal/processo-seletivo/processos-seletivos-anteriores-1.
 - IFMG 2025.1 · Técnico integrado: https://gabaru.com.br/provas/ifmg/ifmg-2025-1; 50 itens; situação nivel-0-quarentena; fonte https://www.ifmg.edu.br/portal/processo-seletivo/processos-seletivos-anteriores-1.
 - IFMG 2024.1 · Cursos técnicos: https://gabaru.com.br/provas/ifmg/ifmg-2024-1; 50 itens; situação nivel-0-quarentena; fonte https://www.ifmg.edu.br/portal/processo-seletivo/processos-seletivos-anteriores-1.
 - IFMG 2023/2: https://gabaru.com.br/provas/ifmg; 0 itens; situação nivel-0-quarentena; fonte https://www2.ifmg.edu.br/portal/processo-seletivo/arquivos/provas/CadernoIFMGvestibular2023293638227846067122900.pdf.
 - IFMG 2023.1 · Cursos técnicos: https://gabaru.com.br/provas/ifmg/ifmg-2023-1; 50 itens; situação nivel-0-quarentena; fonte https://www.ifmg.edu.br/portal/processo-seletivo/processos-seletivos-anteriores-1.
+- IFMG 2020.1 · Cursos técnicos: https://gabaru.com.br/provas/ifmg/ifmg-2020-1; 50 itens; situação nivel-0-quarentena; fonte https://www.ifmg.edu.br/portal/processo-seletivo/processos-anteriores-1/provas-2020-1.
+- IFMG 2019.1 · Cursos técnicos: https://gabaru.com.br/provas/ifmg/ifmg-2019-1; 50 itens; situação nivel-0-quarentena; fonte https://www.ifmg.edu.br/betim/ingresso/arquivo-de-provas.
 
 ### IFMT: Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso
 https://gabaru.com.br/banca/ifmt
@@ -203,12 +210,20 @@ Categoria: vestibulinho; cadernos: 2.
 
 ### IFRN: Instituto Federal do Rio Grande do Norte
 https://gabaru.com.br/banca/ifrn
-Categoria: vestibulinho; cadernos: 5.
+Categoria: vestibulinho; cadernos: 13.
 - IFRN 2026 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2026; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/documents/24234/Caderno_de_Provas_-T%C3%A9cnico_Integrado_2026.pdf.
 - IFRN 2025 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2025; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2025/.
 - IFRN 2024 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2024; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2024/.
 - IFRN 2023 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2023; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2023/.
 - IFRN 2022 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2022; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2022/.
+- IFRN 2020 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2020; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2020/.
+- IFRN 2019 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2019; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2019/.
+- IFRN 2018 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2018; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2018/.
+- IFRN 2017 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2017; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2017/.
+- IFRN 2016 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2016; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2016/.
+- IFRN 2015 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2015; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2015/.
+- IFRN 2014 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2014; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2014/.
+- IFRN 2013 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2013; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2013/.
 
 ### IFRS: Instituto Federal de Educação, Ciência e Tecnologia de Rio Grande do Sul
 https://gabaru.com.br/banca/ifrs
@@ -254,13 +269,14 @@ Categoria: vestibulinho; cadernos: 10.
 
 ### INEP / ENEM: Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
 https://gabaru.com.br/banca/enem
-Categoria: enem; cadernos: 51.
+Categoria: enem; cadernos: 52.
 - ENEM 2025 — 2º dia · enem-2025-belem-azul-d2: https://gabaru.com.br/provas/enem/enem-2025-belem-azul-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
 - ENEM 2025 — 1º dia · enem-2025-d1: https://gabaru.com.br/provas/enem/enem-2025-d1; 95 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
 - ENEM 2025 — 2º dia · enem-2025-d2: https://gabaru.com.br/provas/enem/enem-2025-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
 - ENEM 2025 — 2º dia · enem-2025-reaplicacao-d2: https://gabaru.com.br/provas/enem/enem-2025-reaplicacao-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
 - ENEM 2025 — 2º dia · enem-2025-regular-d2: https://gabaru.com.br/provas/enem/enem-2025-regular-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
 - ENEM 2024 — 1º dia · enem-2024-d1: https://gabaru.com.br/provas/enem/enem-2024-d1; 95 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2024 — 2º dia · enem-2024-d2: https://gabaru.com.br/provas/enem/enem-2024-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
 - ENEM 2024 — 2º dia · enem-2024-ppl-azul-d2: https://gabaru.com.br/provas/enem/enem-2024-ppl-azul-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
 - ENEM 2024 — 2º dia · enem-2024-ppl-d2: https://gabaru.com.br/provas/enem/enem-2024-ppl-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
 - ENEM 2024 — 2º dia · enem-2024-regular-d2: https://gabaru.com.br/provas/enem/enem-2024-regular-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
@@ -319,7 +335,7 @@ Categoria: vestibulares; cadernos: 2.
 
 ### UERJ: Universidade do Estado do Rio de Janeiro
 https://gabaru.com.br/banca/uerj
-Categoria: vestibulares; cadernos: 14.
+Categoria: vestibulares; cadernos: 22.
 - UERJ 2026 · 1º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2026-eq1; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?p=15701.
 - UERJ 2026 · 2º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2026-eq2; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=15994.
 - UERJ 2025 · 1º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2025-eq1; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=14486.
@@ -334,6 +350,14 @@ Categoria: vestibulares; cadernos: 14.
 - UERJ 2018 · 2º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2018-eq2; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
 - UERJ 2017 · 1º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2017-eq1; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
 - UERJ 2017 · 2º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2017-eq2; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
+- UERJ 2016 · 1º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2016-eq1; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
+- UERJ 2016 · 2º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2016-eq2; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
+- UERJ 2015 · 1º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2015-eq1; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
+- UERJ 2015 · 2º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2015-eq2; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
+- UERJ 2014 · 1º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2014-eq1; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
+- UERJ 2014 · 2º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2014-eq2; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
+- UERJ 2013 · 1º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2013-eq1; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
+- UERJ 2013 · 2º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2013-eq2; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
 
 ### UNESP: Universidade Estadual Paulista — Vunesp
 https://gabaru.com.br/banca/unesp

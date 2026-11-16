@@ -36,6 +36,9 @@ jobs:
       - name: Lint (eslint)
         run: npm run lint
 
+      - name: Preparar imagens conferidas para os testes
+        run: npm run acervo:prepare
+
       - name: Testes (node --test + PGlite)
         run: npm test
 

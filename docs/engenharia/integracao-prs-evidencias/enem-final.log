@@ -1,0 +1,42 @@
+✔ ENEM: catálogo possui identificadores únicos e seguros (3.568889ms)
+(node:35188) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/enem-question-order.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ ENEM enem-2025-d1: dados e imagens das questões estão disponíveis (237.16969ms)
+✔ ENEM enem-2025-d2: dados e imagens das questões estão disponíveis (101.309696ms)
+✔ ENEM enem-2024-d1: dados e imagens das questões estão disponíveis (118.177367ms)
+✔ ENEM enem-2024-d2: dados e imagens das questões estão disponíveis (2.994833ms)
+✔ ENEM enem-2024-ppl-d2: dados e imagens das questões estão disponíveis (73.937854ms)
+✔ ENEM enem-2023-d1: dados e imagens das questões estão disponíveis (85.315847ms)
+✔ ENEM enem-2023-d2: dados e imagens das questões estão disponíveis (53.643444ms)
+✔ ENEM enem-2022-d1: dados e imagens das questões estão disponíveis (94.355315ms)
+✔ ENEM enem-2022-d2: dados e imagens das questões estão disponíveis (64.775466ms)
+✔ ENEM enem-2022-ppl-d1: dados e imagens das questões estão disponíveis (140.630391ms)
+✔ ENEM enem-2022-ppl-d2: dados e imagens das questões estão disponíveis (96.438693ms)
+✔ ENEM enem-2021-d1: dados e imagens das questões estão disponíveis (81.98552ms)
+✔ ENEM enem-2021-d2: dados e imagens das questões estão disponíveis (86.543727ms)
+✔ ENEM enem-2020-d2: dados e imagens das questões estão disponíveis (50.483986ms)
+✔ ENEM enem-2012-d1: dados e imagens das questões estão disponíveis (45.68617ms)
+✔ ENEM enem-2011-d1: dados e imagens das questões estão disponíveis (118.105928ms)
+✔ ENEM enem-2011-d2: dados e imagens das questões estão disponíveis (50.614691ms)
+✔ ENEM enem-2009-d1: dados e imagens das questões estão disponíveis (63.483057ms)
+✔ ENEM enem-2008: dados e imagens das questões estão disponíveis (39.677051ms)
+✔ ENEM enem-2007: dados e imagens das questões estão disponíveis (41.584214ms)
+✔ ENEM enem-2006: dados e imagens das questões estão disponíveis (41.244851ms)
+✔ ENEM enem-2005: dados e imagens das questões estão disponíveis (33.68462ms)
+✔ ENEM enem-2004: dados e imagens das questões estão disponíveis (41.096821ms)
+✔ ENEM enem-2003: dados e imagens das questões estão disponíveis (30.679448ms)
+✔ ENEM enem-2002: dados e imagens das questões estão disponíveis (33.415807ms)
+✔ ENEM enem-2001: dados e imagens das questões estão disponíveis (28.688315ms)
+✔ ENEM enem-2000: dados e imagens das questões estão disponíveis (35.126656ms)
+✔ ENEM: navegador e correção usam a numeração oficial nas duas línguas (3.647471ms)
+✔ ENEM: cadernos paginados têm uma imagem por página e gabarito completo (1146.287487ms)
+ℹ tests 30
+ℹ suites 0
+ℹ pass 30
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 3239.409077

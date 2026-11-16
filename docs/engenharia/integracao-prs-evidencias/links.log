@@ -1,0 +1,8 @@
+> gabaru@0.1.0 validar:links
+> node scripts/verificar-links-internos.mjs
+
+{
+  "paginasOrigem": 190,
+  "alvos": 548,
+  "falhas": []
+}

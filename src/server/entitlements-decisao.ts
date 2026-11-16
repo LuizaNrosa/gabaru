@@ -1,3 +1,4 @@
+// © 2026 Luiza Nascimento Rosa. Todos os direitos reservados.
 /**
  * Decisão PURA de entitlements — sem I/O, sem "server-only".
  *

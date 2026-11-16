@@ -55,7 +55,7 @@ for(const e of exams)test(`IFSP ${e.id}: official key, mapping, method/format an
  assert.ok(HOSTS.has(new URL(e.source).hostname));
  for(const url of [e.examUrl,e.answerUrl])assert.ok(HOSTS.has(new URL(url).hostname));
  for(const [file,key] of [['prova','examSha256'],['gabarito','answerSha256']]){
-  const bytes=await readFile(new URL(`../public/acervo/ifsp/${e.id}/${file}.pdf`,import.meta.url));
+  const bytes=await readFile(new URL(`../public/acervo/ifsp/${e.id}/${file}.pdf`,import.meta.url)).catch(error=>{if(error.code!=='ENOENT')throw error;return readFile(new URL(`../.next/cache/ifsp-pdfs/${e.id}/${file}.pdf`,import.meta.url));});
   assert.equal(bytes.subarray(0,4).toString(),'%PDF');
   assert.equal(createHash('sha256').update(bytes).digest('hex'),e[key]);
  }

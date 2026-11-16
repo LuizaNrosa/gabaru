@@ -1,3 +1,4 @@
+// © 2026 Luiza Nascimento Rosa. Todos os direitos reservados.
 import type { Db } from "./db";
 import { evaluateAnswer } from "./correction-service.ts";
 

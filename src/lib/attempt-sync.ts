@@ -1,3 +1,4 @@
+// © 2026 Luiza Nascimento Rosa. Todos os direitos reservados.
 /**
  * Sincronização de tentativas (cliente → servidor).
  *

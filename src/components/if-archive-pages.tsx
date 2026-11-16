@@ -4,7 +4,7 @@ import {notFound} from "next/navigation";
 import {listaIfs as dados} from "@/lib/if-exams";
 import {IfCadernoReader} from "@/components/if-caderno-reader";
 import {metaPagina} from "@/lib/seo";
-const nomes:Record<string,string>={ifmg:"Instituto Federal de Minas Gerais",ifrn:"Instituto Federal do Rio Grande do Norte",ifce:"Instituto Federal do Ceará",ifmt:"Instituto Federal de Mato Grosso",ifrs:"Instituto Federal do Rio Grande do Sul"};
+const nomes:Record<string,string>={ifba:"Instituto Federal da Bahia",ifmg:"Instituto Federal de Minas Gerais",ifrn:"Instituto Federal do Rio Grande do Norte",ifce:"Instituto Federal do Ceará",ifmt:"Instituto Federal de Mato Grosso",ifrs:"Instituto Federal do Rio Grande do Sul"};
 export const listaIfs=dados;
 export function metaIf(slug:string){return metaPagina({titulo:`${slug.toUpperCase()}: provas anteriores e gabaritos`,descricao:`Treine provas oficiais do ${nomes[slug]} gratuitamente no Gabaru.`,caminho:`/provas/${slug}`});}
 export function metaIfEdicao(slug:string,id:string){const c=dados.find(e=>e.id===id&&e.instituicao.toLowerCase()===slug);return c?metaPagina({titulo:`${c.titulo}: prova e gabarito`,descricao:`Responda ${c.total} questões da prova ${c.titulo} no Gabaru.`,caminho:`/provas/${slug}/${id}`}):{};}

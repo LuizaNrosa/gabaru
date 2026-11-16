@@ -36,7 +36,7 @@ for (const job of jobs) {
     file, path.join(pagination.etecPdfCache, job.id, job.name + '.pdf'), job.hash,
   )) { complete++; continue; }
   let bytes;
-  for (let attempt = 0; attempt < 4; attempt++) {
+  for (let attempt = 0; attempt < 2; attempt++) {
     // The legacy archive can reject rapid parallel downloads from hosting IPs.
     if (url.hostname === 'vestibulinho.etec.sp.gov.br') await wait(1500);
     let response;
@@ -63,13 +63,15 @@ for (const job of jobs) {
       }
       if (!response.ok) {
         await response.body?.cancel();
-        throw new Error('HTTP ' + response.status);
+        const error = new Error('HTTP ' + response.status);
+        error.retryable = response.status === 429 || response.status >= 500;
+        throw error;
       }
       bytes = Buffer.from(await response.arrayBuffer());
     } catch (error) {
-      if (attempt === 3) throw new Error(`${job.id}/${job.name}: ${error.message}`);
+      if (attempt === 1 || error.retryable === false) throw new Error(`${job.id}/${job.name}: ${error.message}`);
       console.warn(`ETEC ${job.id}/${job.name}: nova tentativa após falha de acesso (${error.message}).`);
-      await wait([5000, 15000, 30000][attempt]);
+      await wait(5000);
       continue;
     }
     if (bytes.subarray(0, 4).toString() !== '%PDF' || digest(bytes) !== job.hash)

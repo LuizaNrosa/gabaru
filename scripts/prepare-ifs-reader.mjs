@@ -1,4 +1,4 @@
-import { readFile, rm } from 'node:fs/promises';
+import { readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 
 const catalogs = ['ifs-primeiros', 'ifs-2023', 'ifs-lote-2026', 'ifmt-2025-1', 'ifmt-2026-1', 'ifrs-2025-1', 'ifrs-2026-1', 'ifrn-2026'];
@@ -16,7 +16,7 @@ for (const exam of exams) {
   if (exam.gabarito && (exam.gabarito.length !== exam.total || exam.gabarito.some(answer =>
     answer !== '*' && [...answer].some(letter => !exam.alternativas.includes(letter)),
   ))) throw new Error('Gabarito inválido: ' + exam.id);
-  await rm(join(directory, 'prova.pdf'), { force: true });
-  if (exam.gabarito) await rm(join(directory, 'gabarito.pdf'), { force: true });
+  // As imagens não substituem a proveniência documental. Preserve os PDFs
+  // originais: testes de integridade e conferência dependem desses bytes.
 }
 console.log(`IFs: ${exams.length} cadernos publicados em páginas individuais.`);

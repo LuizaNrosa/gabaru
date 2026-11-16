@@ -63,7 +63,7 @@ for(const e of exams)test(`IFSC ${e.id}: official key, mapping, method/format an
  assert.ok(['https://www.ifsc.edu.br/provas-e-gabaritos','https://www.ifsc.edu.br/provas-e-gabaritos-antigos'].includes(e.source));
  for(const url of [e.examUrl,e.answerUrl])assert.equal(new URL(url).hostname,'www.ifsc.edu.br');
  for(const [file,key] of [['prova','examSha256'],['gabarito','answerSha256']]){
-  const bytes=await readFile(new URL(`../public/acervo/ifsc/${e.id}/${file}.pdf`,import.meta.url));
+  const bytes=await readFile(new URL(`../public/acervo/ifsc/${e.id}/${file}.pdf`,import.meta.url)).catch(error=>{if(error.code!=='ENOENT')throw error;return readFile(new URL(`../.next/cache/ifsc-pdfs/${e.id}/${file}.pdf`,import.meta.url));});
   assert.equal(bytes.subarray(0,4).toString(),'%PDF');
   assert.equal(createHash('sha256').update(bytes).digest('hex'),e[key]);
  }

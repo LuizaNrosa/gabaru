@@ -1,0 +1,20 @@
+✔ retries a transient error and preserves the verified PDFs (98.277076ms)
+✔ fails on mismatched content without publishing an invalid PDF (92.757782ms)
+✔ stops forbidden without publishing after 1 request(s) (101.512736ms)
+✔ stops unavailable without publishing after 2 request(s) (76.841221ms)
+✔ reconstrói bytes idênticos e substitui cache corrompido atomicamente (14.861141ms)
+✔ cache íntegro pula partes ausentes (5.750344ms)
+✔ rejeita ordem, duplicatas e partes descontínuas (0.454028ms)
+✔ corrupção e ausência nunca sobrescrevem cache existente (8.46271ms)
+✔ hash válido de conteúdo não PDF é rejeitado (3.508639ms)
+✔ bloqueia traversal, caminhos absolutos e fonte de outra instituição (3.699125ms)
+✔ bloqueia escape por link simbólico das partes (4.42074ms)
+✔ bloqueia ancestral de destino simbólico antes de criar diretórios (5.118286ms)
+ℹ tests 12
+ℹ suites 0
+ℹ pass 12
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 589.296754

@@ -24,13 +24,15 @@ const bytes=Buffer.from(${JSON.stringify(bytes.toString('base64'))},'base64');
 let calls=0;
 globalThis.setTimeout=(callback)=>{queueMicrotask(callback);return 0;};
 globalThis.fetch=async()=>{calls++;writeFileSync('calls.txt',String(calls));
-if(${JSON.stringify(mode)}==='retry'&&calls===1)return new Response(null,{status:403});
+if(${JSON.stringify(mode)}==='retry'&&calls===1)return new Response(null,{status:503});
+if(${JSON.stringify(mode)}==='forbidden')return new Response(null,{status:403});
+if(${JSON.stringify(mode)}==='unavailable')return new Response(null,{status:503});
 return new Response(${JSON.stringify(mode)}==='corrupt'?Buffer.from('wrong bytes'):bytes);
 };`);
   const result = spawnSync(process.execPath, ['--import', hook, script], { cwd: dir, encoding: 'utf8' });
   return { dir, result };
 }
-test('retries an access error and preserves the verified PDFs', async () => {
+test('retries a transient error and preserves the verified PDFs', async () => {
   const {dir,result}=await run('retry');
   try {
     assert.equal(result.status,0,result.stderr);
@@ -46,4 +48,8 @@ test('fails on mismatched content without publishing an invalid PDF', async () =
     assert.match(result.stderr,/integridade inválida/);
     await assert.rejects(readFile(join(dir,'public/acervo/etec/2025-1/prova.pdf')));
   } finally { await rm(dir,{recursive:true,force:true}); }
+});
+
+for(const [mode,calls,status] of [['forbidden','1','403'],['unavailable','2','503']])test(`stops ${mode} without publishing after ${calls} request(s)`,async()=>{
+ const {dir,result}=await run(mode);try{assert.notEqual(result.status,0);assert.equal(await readFile(join(dir,'calls.txt'),'utf8'),calls);assert.match(result.stderr,new RegExp('HTTP '+status));await assert.rejects(readFile(join(dir,'public/acervo/etec/2025-1/prova.pdf')));}finally{await rm(dir,{recursive:true,force:true});}
 });

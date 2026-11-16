@@ -62,7 +62,7 @@
     "@tailwindcss/postcss": "^4.3.5",
     "@types/htmlhint": "^1.1.5",
     "@types/katex": "^0.16.8",
-    "@types/node": "^22.0.0",
+    "@types/node": "^26.6.6",
     "@types/pg": "^8.23.1",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",

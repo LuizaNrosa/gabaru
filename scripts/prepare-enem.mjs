@@ -8,6 +8,8 @@ for (const exam of exams) {
   const allowedIds = [
     `enem-${exam.year}-regular-d2`,
     `enem-${exam.year}-ppl-azul-d2`,
+    `enem-${exam.year}-digital-azul-d2`,
+    `enem-${exam.year}-belem-azul-d2`,
     `enem-${exam.year}-reaplicacao-d2`,
     ...(exam.year === 2023 ? ['enem-2023-d2'] : []),
   ];

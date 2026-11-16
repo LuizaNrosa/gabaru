@@ -9,9 +9,9 @@ import paginatedExams from "@/data/enem-cadernos-paginados.json";
 export const ENEM_SOURCE = "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos";
 export const ENEM_YEARS = Array.from({ length: 28 }, (_, i) => 2025 - i);
 function applicationOrder(id: string) {
-  if (id === "enem-2025-d2") return 1;
+  if (id === "enem-2025-d2" || id.includes("-belem-")) return 1;
   if (["enem-2021-d2", "enem-2022-d2"].includes(id)) return 1;
-  if (id === "enem-2020-d2") return 2;
+  if (id === "enem-2020-d2" || id.includes("-digital-")) return 2;
   if (id.includes("-ppl-") || id.includes("-reaplicacao-")) return 3;
   return 0;
 }

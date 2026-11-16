@@ -116,3 +116,7 @@ npm run validar:crawl
 3. Validar a alteração de domínio no ambiente de hospedagem, inclusive DNS/TLS e variáveis. Previews podem definir NEXT_PUBLIC_INDEXAR=0.
 4. Após publicação, cadastrar https://www.gabaru.com.br/sitemap.xml no Google Search Console e no Bing Webmaster Tools. Não cadastrar o sitemap de provas vazio; ele será incluído automaticamente quando tiver conteúdo elegível.
 5. Acompanhar canonicals, redirects e páginas excluídas no Search Console. A ampliação do conteúdo indexável depende da revisão editorial, não de quantidade de URLs geradas.
+
+## Evolução posterior: Fase 2
+
+O estado descrito acima é o encerramento da primeira passagem. A classificação em três níveis, a ingestão local e o piloto posterior de 20 resoluções estão documentados em [fase2/README.md](fase2/README.md), com números e evidências próprios. Os commits da primeira passagem foram enviados; a Fase 2 permanece sem push conforme sua ordem específica.

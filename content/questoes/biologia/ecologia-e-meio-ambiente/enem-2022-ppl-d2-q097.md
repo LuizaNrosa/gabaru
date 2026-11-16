@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q097.webp
 obs: "rodapé de página indevido (início do texto 'CN - 2º dia | Caderno' no fim da imagem); região em branco grande"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 97 — ENEM 2022](enem-2022-ppl-d2-q097.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 97  
 No ciclo biogeoquímico do nitrogênio participam  
@@ -30,5 +30,3 @@ B reduzem o nitrito a amônia.
 C oxidam a amônia liberada da matéria orgânica.  
 D transformam a matéria orgânica, liberando amônia.  
 E fixam o nitrogênio molecular presente no ar atmosférico.
-
-</details>

@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d2-q125.webp
 obs: "rodapé de página indevido (início de 'CN - 2º dia' no fim da imagem)"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 125 — ENEM 2022](enem-2022-ppl-d2-q125.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 125  
 Estudos apontam que o meteorito que atingiu o céu  
@@ -40,5 +40,3 @@ D de reações semelhantes às que ocorrem em
 explosões nucleares.  
 E da queima da grande quantidade de trinitrotolueno  
 presente no meteorito.
-
-</details>

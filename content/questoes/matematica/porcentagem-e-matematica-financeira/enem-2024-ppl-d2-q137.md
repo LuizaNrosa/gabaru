@@ -13,10 +13,10 @@ tema: "Compra de apartamentos com acréscimos percentuais e maior lucro"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2024-ppl-d2-q137.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 137 — ENEM 2024](enem-2024-ppl-d2-q137.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 137  
 Uma incorporadora põe à venda diversos apartamentos de 2 e de 3 quartos.  
@@ -35,5 +35,3 @@ B 3 de 3 quartos sem varanda.
 C 3 de 3 quartos com varanda.  
 D 3 de 2 quartos e 1 de 3 quartos sem varanda.  
 E 1 de 2 quartos, 1 de 3 quartos sem varanda e 1 de 3 quartos com varanda.
-
-</details>

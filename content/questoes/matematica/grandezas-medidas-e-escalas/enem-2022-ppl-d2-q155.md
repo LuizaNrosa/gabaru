@@ -13,10 +13,10 @@ tema: "Escala de desenho de terreno retangular"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d2-q155.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 155 — ENEM 2022](enem-2022-ppl-d2-q155.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 155  
 Um engenheiro fará um projeto de uma casa cujo  
@@ -35,5 +35,3 @@ C
 D  
 1,5 : 1  
 E
-
-</details>

@@ -13,10 +13,10 @@ tema: "Expressão da área reflorestada com aumento de 50% ao ano"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q162.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 162 — ENEM 2024](enem-2024-ppl-d2-q162.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 162  
 Visando obter créditos de carbono, uma empresa, emissora de gases de efeito  
@@ -30,5 +30,3 @@ B A n = 500 ⋅ 1,5 n−1
 C A n = 500 + n ⋅ 250  
 D A n = 500 ⋅ (1 + 0,5 n−1 )  
 E A n = 500 + (n − 1) ⋅ 250
-
-</details>

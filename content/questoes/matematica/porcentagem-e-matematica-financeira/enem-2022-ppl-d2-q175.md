@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d2-q175.webp
 obs: "Branco enorme abaixo da questão"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 175 — ENEM 2022](enem-2022-ppl-d2-q175.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 175  
 A tarifa da energia elétrica no Brasil tem sofrido  
@@ -55,5 +55,3 @@ B 12,5%
 C 14,3%  
 D 16,6%  
 E 87,5%
-
-</details>

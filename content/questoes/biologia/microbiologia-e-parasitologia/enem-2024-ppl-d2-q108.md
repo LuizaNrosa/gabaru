@@ -13,10 +13,10 @@ tema: "Características dos fungos frente aos demais vegetais"
 classificacao_confianca: media
 gabarito: C
 imagem: enem-2024-ppl-d2-q108.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 108 — ENEM 2024](enem-2024-ppl-d2-q108.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 108  
 Um professor solicita a um grupo de alunos que organizem uma coleção de vegetais  
@@ -31,5 +31,3 @@ C heterótrofos, não apresentando capacidade de sintetizarem seu alimento.
 D haploides, não apresentando capacidade de se reproduzirem sexuadamente.  
 E avasculares, não apresentando tecidos especializados de transporte de água  
 e nutrientes.
-
-</details>

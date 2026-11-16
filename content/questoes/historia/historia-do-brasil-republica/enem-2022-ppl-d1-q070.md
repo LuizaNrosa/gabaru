@@ -13,10 +13,10 @@ tema: "Consciência feminista e memória na luta armada contra a ditadura"
 classificacao_confianca: media
 gabarito: D
 imagem: enem-2022-ppl-d1-q070.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 70 — ENEM 2022](enem-2022-ppl-d1-q070.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 70  
 Se por um lado podemos falar de certa “influência” do feminismo  
@@ -40,5 +40,3 @@ B direcionamento da ação militante contra a violência doméstica.
 C enfraquecimento da atuação nos movimentos subversivos.  
 D ressignificação da memória acerca do engajamento político.  
 E limitação da participação das trabalhadoras em manifestações.
-
-</details>

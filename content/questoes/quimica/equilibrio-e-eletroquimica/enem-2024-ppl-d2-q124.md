@@ -13,10 +13,10 @@ tema: "Eletrólise em dessalinizador-pilha, eletrodos e polaridade"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2024-ppl-d2-q124.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 124 — ENEM 2024](enem-2024-ppl-d2-q124.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 124  
 Pesquisadores da Universidade de Wisconsin-Madison, nos Estados Unidos,  
@@ -34,5 +34,3 @@ B H 2 (g) no cátodo.
 C Bi no polo positivo.  
 D O 2 (g) no polo negativo.  
 E Na 3 Ti 2 (PO 4 ) 3 no ânodo.
-
-</details>

@@ -13,10 +13,10 @@ tema: "Converter três em cada dez em porcentagem"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q179.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 179 — ENEM 2022](enem-2022-ppl-d2-q179.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 179  
 Uma escola realizou uma pesquisa entre todos os  
@@ -37,5 +37,3 @@ C
 D  
 33%  
 E
-
-</details>

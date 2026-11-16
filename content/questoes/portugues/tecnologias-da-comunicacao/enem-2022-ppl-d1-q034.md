@@ -13,10 +13,10 @@ tema: "Boatos na internet e verificação de notícias"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d1-q034.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 34 — ENEM 2022](enem-2022-ppl-d1-q034.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 34  
 O boato insiste em ser um gênero da comunicação. Um rumor pode  
@@ -46,5 +46,3 @@ D excluir de seus contatos usuários que não confirmam a veracidade
 das notícias.  
 E pesquisar em diferentes mídias a veracidade das notícias que  
 circulam na rede.
-
-</details>

@@ -13,10 +13,10 @@ tema: "Uso metafórico da errata em crônica de Lya Luft"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d1-q010.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 10 — ENEM 2022](enem-2022-ppl-d1-q010.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 10  
 A vida deveria nos oferecer um lugarzinho no rodapé da nossa  
@@ -48,5 +48,3 @@ B evitar decisões equivocadas advindas da inexperiência.
 C antecipar as consequências das nossas ações.  
 D promover um maior amadurecimento intelectual.  
 E rever atitudes realizadas no passado.
-
-</details>

@@ -13,10 +13,10 @@ tema: "Dieta amazônica no século XVIII e técnicas indígenas"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q075.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 75 — ENEM 2022](enem-2022-ppl-d1-q075.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 75  
 O povo alimentava-se de peixe fresco, pegado diariamente pelos  
@@ -34,5 +34,3 @@ B utilização de técnicas nativas.
 C introdução do transporte fluvial.  
 D extração de produtos florestais.  
 E exploração do trabalho escravo.
-
-</details>

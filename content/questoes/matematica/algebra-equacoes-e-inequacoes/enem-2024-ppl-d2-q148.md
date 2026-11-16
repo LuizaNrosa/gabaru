@@ -13,10 +13,10 @@ tema: "Novo preço de venda para aumentar o lucro"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2024-ppl-d2-q148.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 148 — ENEM 2024](enem-2024-ppl-d2-q148.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 148  
 Para reforçar sua renda familiar, uma pessoa inaugurou um estabelecimento que  
@@ -34,5 +34,3 @@ B 2,40
 C 3,00  
 D 4,00  
 E 5,50
-
-</details>

@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d2-q154.webp
 obs: "rodapé de página indevido (logo enem2022 e 'MT - 2º dia | Caderno 6 - ROSA - 2ª Aplicação') no fim da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 154 — ENEM 2022](enem-2022-ppl-d2-q154.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 154  
 Um túnel viário de uma única via possui a entrada na forma de um triângulo equilátero de lado 6 m. O motorista  
@@ -34,5 +34,3 @@ D
 3 3  
 E  
 2
-
-</details>

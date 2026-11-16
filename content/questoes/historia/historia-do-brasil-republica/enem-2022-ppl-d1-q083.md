@@ -13,10 +13,10 @@ tema: "Governo Goulart e protagonismo dos trabalhadores rurais"
 classificacao_confianca: media
 gabarito: B
 imagem: enem-2022-ppl-d1-q083.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 83 — ENEM 2022](enem-2022-ppl-d1-q083.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 83  
 Na década de 1960, o governo Goulart tentara, de uma só vez,  
@@ -34,5 +34,3 @@ B trabalhadores rurais.
 C oligarcas regionais.  
 D profissionais liberais.  
 E religiosos católicos.
-
-</details>

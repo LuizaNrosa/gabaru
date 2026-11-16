@@ -11,7 +11,7 @@ import type { Organization, WebSite, FAQPage, BreadcrumbList, ItemList, WithCont
  * correspondem a conteúdo real e visível da página.
  */
 
-export const SITE_URL = "https://www.gabaru.com.br";
+export const SITE_URL = "https://gabaru.com.br";
 
 export const SITE_NOME = "GABARU";
 

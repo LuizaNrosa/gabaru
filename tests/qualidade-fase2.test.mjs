@@ -16,3 +16,5 @@ test('os 20 itens do piloto possuem três blocos e correspondem ao gabarito',()=
  const pilot=JSON.parse(readFileSync('src/data/editorial/resolucoes-lotes.json'));assert.equal(Object.keys(pilot).length,20);
  for(const id of Object.keys(pilot)){const item=c.questoes.find(q=>q.id===id);assert.equal(item.nivelQualidade,N2,id);assert.ok(resolutionValid(item.resolucaoEstruturada,item));}
 });
+
+test('OCR legado sem layout não promove questão contextual incompleta',()=>{const item={...q,proveniencia:undefined,banca:'enem',resolucaoEstruturada:undefined,enunciado:'Nesse texto, o autor pretende criticar uma prática social.'};assert.equal(questionQuality(item,{gabaritoVerificado:true}).nivelQualidade,N0);});

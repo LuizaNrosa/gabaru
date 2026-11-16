@@ -13,10 +13,10 @@ tema: "Representação cartográfica de sociedade em rede no território"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q046.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 46 — ENEM 2022](enem-2022-ppl-d1-q046.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 46  
 Manuel Castells: “A rede é uma realidade generalizada para a vida  
@@ -229,5 +229,3 @@ São Paulo-SP
 Curitiba-PR  
 SUL  
 Porto Alegre-RS
-
-</details>

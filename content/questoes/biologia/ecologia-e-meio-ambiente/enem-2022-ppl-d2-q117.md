@@ -13,10 +13,10 @@ tema: "Efeito de borda da fragmentação de habitat sobre espécies vegetais"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q117.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 117 — ENEM 2022](enem-2022-ppl-d2-q117.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 117  
 Atividades humanas como a construção de estradas e ferrovias e a expansão de áreas urbanas e agrícolas  
@@ -36,5 +36,3 @@ pertencentes à comunidade clímax.
 D  
 que apresentam grande área de vida.  
 E
-
-</details>

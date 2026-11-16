@@ -13,10 +13,10 @@ tema: "Experimento de Griffith e transferência de virulência"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2024-ppl-d2-q127.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 127 — ENEM 2024](enem-2024-ppl-d2-q127.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 127  
 A figura ilustra diferentes etapas de um experimento realizado por Frederick Griffith  
@@ -28,5 +28,3 @@ B o calor é eficaz para matar microrganismos.
 C as bactérias virulentas não são alteradas pelo calor.  
 D a virulência de uma bactéria pode ser transferida para outra.  
 E a sobrevivência dos camundongos depende da quantidade de bactérias injetadas.
-
-</details>

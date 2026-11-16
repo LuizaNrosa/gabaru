@@ -13,10 +13,10 @@ tema: "Valor máximo da energia potencial a partir de gráfico de energia cinét
 classificacao_confianca: media
 gabarito: B
 imagem: enem-2024-ppl-d2-q161.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 161 — ENEM 2024](enem-2024-ppl-d2-q161.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 161  
 A transformação entre os tipos de energia cinética (E c ) e energia potencial (E p ), em  
@@ -33,5 +33,3 @@ B 9.
 C 5.  
 D 3.  
 E 1.
-
-</details>

@@ -14,13 +14,13 @@ classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d2-q157.webp
 obs: "faixa de código de barras na margem esquerda, rodapé de página indevido (ROSA - 2ª Aplicação) e região em branco grande"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 157 — ENEM 2022](enem-2022-ppl-d2-q157.webp)
 
-<details><summary>Texto extraído (pode conter ruído)</summary>
-
 QUESTÃO 157  
-ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022  
+
 Uma empresa tem cinco setores, cada um com quatro  
 funcionários, sendo que cada funcionário de um setor tem  
 um cargo diferente. O quadro apresenta os salários, em  
@@ -85,5 +85,3 @@ IV.
 D  
 V.  
 E
-
-</details>

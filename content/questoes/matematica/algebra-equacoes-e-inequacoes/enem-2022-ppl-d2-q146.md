@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d2-q146.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 146 — ENEM 2022](enem-2022-ppl-d2-q146.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 146  
 A meta de uma concessionária de automóveis é  
@@ -46,5 +46,3 @@ D
 13.  
 18.  
 E
-
-</details>

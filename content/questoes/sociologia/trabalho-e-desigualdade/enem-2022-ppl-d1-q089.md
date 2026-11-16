@@ -13,10 +13,10 @@ tema: "Especialização flexível e tecnologia da informação no trabalho"
 classificacao_confianca: media
 gabarito: B
 imagem: enem-2022-ppl-d1-q089.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 89 — ENEM 2022](enem-2022-ppl-d1-q089.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 89  
 O mundo da produção material e do trabalho na contemporaneidade  
@@ -43,5 +43,3 @@ D reflexão marxista da transformação do trabalhador em
 especialista.  
 E percepção positivista da dinâmica do consumo segmentado em  
 nichos.
-
-</details>

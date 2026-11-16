@@ -13,10 +13,10 @@ tema: "Classificação do triângulo formado em dobraduras de papel"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2024-ppl-d2-q177.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 177 — ENEM 2024](enem-2024-ppl-d2-q177.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 177  
 Na construção de um avião de papel, uma criança dobrou uma folha retangular sobrepondo  
@@ -31,5 +31,3 @@ B acutângulo e isósceles não equilátero.
 C acutângulo e equilátero.  
 D retângulo e escaleno.  
 E retângulo e isósceles não equilátero.
-
-</details>

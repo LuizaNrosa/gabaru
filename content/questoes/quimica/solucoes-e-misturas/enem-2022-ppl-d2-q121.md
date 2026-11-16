@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d2-q121.webp
 obs: "rodapé de página indevido no fim da imagem (ROSA - 2ª Aplicação, logo enem2022), faixa de código de barras na margem esquerda e região em branco grande"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 121 — ENEM 2022](enem-2022-ppl-d2-q121.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 121  
 A bula de um determinado medicamento traz as  
@@ -41,5 +41,3 @@ cloreto de potássio e glicose.
 D  
 cloreto de sódio e cloreto de potássio.  
 E
-
-</details>

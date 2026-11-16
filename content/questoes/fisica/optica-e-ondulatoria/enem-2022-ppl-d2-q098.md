@@ -14,10 +14,10 @@ classificacao_confianca: media
 gabarito: E
 imagem: enem-2022-ppl-d2-q098.webp
 obs: "imagem cortada: faltam o final da figura, o comando da pergunta e todas as alternativas A a E"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 98 — ENEM 2022](enem-2022-ppl-d2-q098.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 98  
 Na área de comunicações, a demanda por  
@@ -50,5 +50,3 @@ C
 D  
 90°  e  n 2  n 1 .  
 E
-
-</details>

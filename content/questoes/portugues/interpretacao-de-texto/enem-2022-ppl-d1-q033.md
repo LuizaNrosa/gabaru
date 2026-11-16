@@ -13,10 +13,10 @@ tema: "Estratégias argumentativas em texto sobre reciclagem de hábitos"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d1-q033.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 33 — ENEM 2022](enem-2022-ppl-d1-q033.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 33  
 Reciclagem de hábitos ajuda a enfrentar a crise  
@@ -63,5 +63,3 @@ pela indústria da reciclagem.
 E   
 faz um paralelo entre os ganhos da reciclagem para o meio  
 ambiente e para as finanças pessoais.
-
-</details>

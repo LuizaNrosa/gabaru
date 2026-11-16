@@ -13,10 +13,10 @@ tema: "Projeções ortogonais da trajetória de um balanço"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2024-ppl-d2-q149.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 149 — ENEM 2024](enem-2024-ppl-d2-q149.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 149  
 Em um curso de desenho artístico, a professora organizou uma oficina prática com  
@@ -37,5 +37,3 @@ B um segmento de reta vertical e uma curva em forma de parábola.
 C uma curva em forma de parábola e um segmento de reta vertical.  
 D um arco de circunferência e um segmento de reta vertical.  
 E um segmento de reta vertical e um arco de circunferência.
-
-</details>

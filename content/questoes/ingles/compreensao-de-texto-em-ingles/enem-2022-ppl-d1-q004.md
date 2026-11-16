@@ -13,10 +13,10 @@ tema: "Nomes africanos adotados e resgate da identidade"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q004.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 4 — ENEM 2022](enem-2022-ppl-d1-q004.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 04  
 We walked on, the stranger walking with us. Taylor Franklin Bankole.  
@@ -40,5 +40,3 @@ B resgate da identidade africana.
 C existência de conflitos de gerações.  
 D afastamento da convivência familiar.  
 E desconhecimento de origens genealógicas.
-
-</details>

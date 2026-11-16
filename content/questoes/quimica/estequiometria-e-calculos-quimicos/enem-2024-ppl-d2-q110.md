@@ -13,10 +13,10 @@ tema: "Área de plantio para compensar emissão de CO2"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q110.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 110 — ENEM 2024](enem-2024-ppl-d2-q110.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 110  
 Após realizar uma inspeção veicular, um cidadão descobre que seu automóvel  
@@ -34,5 +34,3 @@ B 465 m 2 .
 C 850 m 2 .  
 D 1 700 m 2 .  
 E 2 000 m 2 .
-
-</details>

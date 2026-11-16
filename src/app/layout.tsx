@@ -1,6 +1,5 @@
 import { organization, author } from "@/lib/seo/schema-graph";
 import type { Metadata, Viewport } from "next";
-import { Atkinson_Hyperlegible_Mono, Atkinson_Hyperlegible_Next } from "next/font/google";
 import { AuthProvider } from "@/context/auth-context";
 import { LogoDefs } from "@/components/logo";
 import { SiteHeader } from "@/components/site-header";
@@ -11,21 +10,7 @@ import { OG_IMAGEM, jsonLd } from "@/lib/seo";
 import "katex/dist/katex.min.css";
 import "./globals.css";
 
-// Fontes auto-hospedadas pelo Next: sem CSS externo bloqueante e com
-// preload automático. Atkinson Hyperlegible foi desenhada para legibilidade.
-const fonteTexto = Atkinson_Hyperlegible_Next({
-  subsets: ["latin"],
-  weight: ["200", "300", "400", "500", "600", "700", "800"],
-  variable: "--font-atkinson-next",
-  display: "swap",
-});
-const fonteMono = Atkinson_Hyperlegible_Mono({
-  subsets: ["latin"],
-  weight: ["200", "300", "400", "500", "600", "700", "800"],
-  variable: "--font-atkinson-mono",
-  display: "swap",
-});
-
+// Fontes OFL locais: sem consulta externa durante o build.
 export const metadata: Metadata = {
   title: {
     default: "GABARU · A gente estuda junto até você gabaritar",
@@ -37,13 +22,13 @@ export const metadata: Metadata = {
   creator: "Luiza Nascimento Rosa",
   publisher: "Luiza Nascimento Rosa",
   other: { copyright: "© 2026 Luiza Nascimento Rosa" },
-  // O preview pode definir NEXT_PUBLIC_INDEXAR=0. Produção usa o domínio canônico www.
+  // O preview pode definir NEXT_PUBLIC_INDEXAR=0. Produção usa o domínio canônico sem www.
   robots:
     process.env.NEXT_PUBLIC_INDEXAR !== "0"
       ? { index: true, follow: true }
       : { index: false, follow: false },
   metadataBase: new URL(
-    "https://www.gabaru.com.br",
+    "https://gabaru.com.br",
   ),
   openGraph: {
     type: "website",
@@ -74,8 +59,9 @@ export default function RootLayout({
   return (
     <html
       lang="pt-BR"
-      className={`${fonteTexto.variable} ${fonteMono.variable}`}
+      className="fontes-gabaru"
     >
+      <head><link rel="preload" as="font" href="/fonts/atkinson/847c6af3f14ca2aa.p.2dv7oiayrgfo5.woff2" type="font/woff2" crossOrigin="anonymous"/><link rel="preload" as="font" href="/fonts/atkinson/50a63ac321745c44.p.202x5_1668z2o.woff2" type="font/woff2" crossOrigin="anonymous"/></head>
       <body className="min-h-screen bg-paper pb-16 font-sans text-ink antialiased sm:pb-0">
         <JsonLd dados={{"@context":"https://schema.org","@graph":[organization,author]}} />
         <JsonLd dados={jsonLd.site()} />

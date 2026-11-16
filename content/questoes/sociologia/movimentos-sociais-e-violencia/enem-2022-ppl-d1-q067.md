@@ -13,10 +13,10 @@ tema: "Movimento dos sem-teto e direito à moradia adequada"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q067.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 67 — ENEM 2022](enem-2022-ppl-d1-q067.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 67  
 Acampamento do Movimento dos Trabalhadores  
@@ -30,5 +30,3 @@ A controle de fluxos emigratórios.
 B acesso a moradias adequadas.  
 C dissolução da propriedade privada.  
 D descentralização de espaços de lazer.
-
-</details>

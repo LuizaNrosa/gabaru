@@ -13,10 +13,10 @@ tema: "Darcy Ribeiro, açúcar e pecuária na formação do povo"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q081.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 81 — ENEM 2022](enem-2022-ppl-d1-q081.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 81  
 TEXTO I  
@@ -43,5 +43,3 @@ B litoral e interior na organização produtiva.
 C nativos e reinóis na hierarquia laboral.  
 D urbano e rural no espaço colonial.  
 E safra e pousio no uso do solo.
-
-</details>

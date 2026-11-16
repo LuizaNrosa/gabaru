@@ -14,10 +14,10 @@ classificacao_confianca: media
 gabarito: B
 imagem: enem-2022-ppl-d2-q115.webp
 obs: "rodapé de página indevido no fim da imagem (ROSA - 2ª Aplicação, logo enem2022), faixa de código de barras na margem esquerda e região em branco grande"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 115 — ENEM 2022](enem-2022-ppl-d2-q115.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 115  
 Uma prática que os brasileiros costumam realizar é  
@@ -38,5 +38,3 @@ D evaporação dos conservantes que mantêm a solução
 da compota em equilíbrio químico.  
 E degradação dos componentes doces da compota em  
 reação com compostos químicos do talher.
-
-</details>

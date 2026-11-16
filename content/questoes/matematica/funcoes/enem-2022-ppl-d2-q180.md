@@ -13,10 +13,10 @@ tema: "Domínio de função quadrática em trajetória de salto"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d2-q180.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 180 — ENEM 2022](enem-2022-ppl-d2-q180.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 180  
 A trajetória de uma pessoa que pula de um andaime  
@@ -48,5 +48,3 @@ x 1 < x 2 .
  x    x  0  .  
 D  
 E x ∈  .
-
-</details>

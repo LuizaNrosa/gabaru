@@ -13,10 +13,10 @@ tema: "Maior estado de oxidação do enxofre na produção de H2SO4"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q125.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 125 — ENEM 2024](enem-2024-ppl-d2-q125.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 125  
 O ácido sulfúrico é uma das principais substâncias produzidas industrialmente no  
@@ -28,5 +28,3 @@ B 2
 C 3  
 D 4  
 E 5
-
-</details>

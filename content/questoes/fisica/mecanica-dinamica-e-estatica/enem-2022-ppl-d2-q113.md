@@ -14,10 +14,10 @@ classificacao_confianca: media
 gabarito: C
 imagem: enem-2022-ppl-d2-q113.webp
 obs: "imagem cortada: tabela de revestimentos incompleta (faltam linhas), pergunta final e alternativas A a E ausentes"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 113 — ENEM 2022](enem-2022-ppl-d2-q113.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 113  
 Com o objetivo de revestir o piso de uma rampa de  
@@ -64,5 +64,3 @@ Carpete.
 D  
 Lona.  
 E
-
-</details>

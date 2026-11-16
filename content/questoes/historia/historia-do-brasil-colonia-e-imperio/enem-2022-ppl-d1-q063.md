@@ -13,10 +13,10 @@ tema: "Batalha do Jenipapo e resistência popular na Independência"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d1-q063.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 63 — ENEM 2022](enem-2022-ppl-d1-q063.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 63  
 Apesar de derrotado na Batalha do Jenipapo, o exército de sertanejos  
@@ -34,5 +34,3 @@ B imposição da solução republicana.
 C deficiência das tropas metropolitanas.  
 D protagonismo da resistência autônoma.  
 E continuidade das contradições políticas.
-
-</details>

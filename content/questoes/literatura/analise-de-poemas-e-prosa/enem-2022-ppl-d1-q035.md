@@ -13,10 +13,10 @@ tema: "Poema de Joaquim Cardozo e Futurismo com repertório científico"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q035.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 35 — ENEM 2022](enem-2022-ppl-d1-q035.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 35  
 Harmonia do equilíbrio!  
@@ -52,5 +52,3 @@ B configura um lirismo ausente de emotividade.
 C extrai do repertório científico estética expressiva.  
 D sugere uma literatura a serviço da indústria emergente.  
 E revela o desencanto do eu lírico ante o contexto de guerra.
-
-</details>

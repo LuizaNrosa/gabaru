@@ -13,10 +13,10 @@ tema: "Grafia incorreta em cartaz e interferência da fala na escrita"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d1-q022.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 22 — ENEM 2022](enem-2022-ppl-d1-q022.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 22  
   
@@ -38,5 +38,3 @@ C caracteriza uma violação proposital para chamar a atenção dos
 clientes.  
 D diminui a confiabilidade nos serviços oferecidos pela prestadora.  
 E compromete o entendimento do conteúdo da mensagem.
-
-</details>

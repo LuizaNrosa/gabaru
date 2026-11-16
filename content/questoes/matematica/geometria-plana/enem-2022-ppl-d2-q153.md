@@ -13,10 +13,10 @@ tema: "Comparação de comprimentos de trechos de pista alterados"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d2-q153.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 153 — ENEM 2022](enem-2022-ppl-d2-q153.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 153  
 Para tornar uma pista de automobilismo mais segura, foram solicitadas intervenções em seu traçado.  
@@ -56,5 +56,3 @@ D
 III e IV  
 IV e V  
 E
-
-</details>

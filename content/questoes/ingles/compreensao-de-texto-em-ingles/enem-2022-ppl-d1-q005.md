@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q005.webp
 obs: "rodapé indevido: cabeçalho 'Questões de 01 a 05 (opção: espanhol)' no fim da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 5 — ENEM 2022](enem-2022-ppl-d1-q005.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 05  
 INTERNATIONAL ARRIVALS  
@@ -46,5 +46,3 @@ B mulheres são ignoradas.
 C pessoas são impacientes.  
 D saguões são congestionados.  
 E atendentes são desqualificados.
-
-</details>

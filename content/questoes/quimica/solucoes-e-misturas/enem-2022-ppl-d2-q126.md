@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d2-q126.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 126 — ENEM 2022](enem-2022-ppl-d2-q126.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 126  
 As figuras mostram dois experimentos. No primeiro,  
@@ -39,5 +39,3 @@ B densidade e viscosidade.
 C viscosidade e solubilidade.  
 D miscibilidade e viscosidade.  
 E solubilidade e miscibilidade.
-
-</details>

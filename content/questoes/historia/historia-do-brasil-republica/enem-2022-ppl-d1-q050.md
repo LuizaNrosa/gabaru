@@ -13,10 +13,10 @@ tema: "Trabalho feminino e infantil na indústria têxtil paulista"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d1-q050.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 50 — ENEM 2022](enem-2022-ppl-d1-q050.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 50  
 Já em 1901, um dos primeiros levantamentos sobre a situação  
@@ -32,5 +32,3 @@ B limitação da jornada laboral.
 C exigência de qualificação profissional.  
 D elevação da produtividade feminina.  
 E ausência de direitos sociais.
-
-</details>

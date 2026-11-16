@@ -13,10 +13,10 @@ tema: "Massa de cloro para produzir titânio metálico"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2024-ppl-d2-q109.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 109 — ENEM 2024](enem-2024-ppl-d2-q109.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 109  
 O titânio é encontrado na natureza em minerais, dos quais o rutilo (TiO 2 ) está  
@@ -43,5 +43,3 @@ B 359 kg
 C 480 kg  
 D 710 kg  
 E 1 420 kg
-
-</details>

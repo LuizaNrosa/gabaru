@@ -13,10 +13,10 @@ tema: "Diversidade cultural e identidade nacional no Modernismo"
 classificacao_confianca: media
 gabarito: D
 imagem: enem-2022-ppl-d1-q029.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 29 — ENEM 2022](enem-2022-ppl-d1-q029.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 29  
 A partir dos anos 1970, a diversidade étnica e cultural ganha  
@@ -38,5 +38,3 @@ século.
 C reflexo da igualdade mestiça nos processos de patrimonialização.  
 D ideal da diversidade cultural como categoria identitária nacional.  
 E constituição da materialidade e da multiplicidade socioculturais.
-
-</details>

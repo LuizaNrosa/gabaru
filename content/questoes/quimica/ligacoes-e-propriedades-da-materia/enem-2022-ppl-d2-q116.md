@@ -13,10 +13,10 @@ tema: "Pesticidas lipossolúveis transmitidos pelo leite materno"
 classificacao_confianca: media
 gabarito: B
 imagem: enem-2022-ppl-d2-q116.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 116 — ENEM 2022](enem-2022-ppl-d2-q116.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 116  
 Considere que o leite materno, após sete meses do parto, é um alimento cujos principais constituintes são  
@@ -84,5 +84,3 @@ Malation.
 D  
 Paration.  
 E
-
-</details>

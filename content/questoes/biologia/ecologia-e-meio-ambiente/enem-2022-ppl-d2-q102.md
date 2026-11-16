@@ -13,10 +13,10 @@ tema: "Impacto de inseticidas sobre abelhas na produção de alimentos"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d2-q102.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 102 — ENEM 2022](enem-2022-ppl-d2-q102.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 102  
 Três inseticidas mortais para as abelhas serão  
@@ -39,5 +39,3 @@ aumento de resíduos tóxicos nos alimentos.
 D  
 alteração da cadeia alimentar no ecossistema.  
 E
-
-</details>

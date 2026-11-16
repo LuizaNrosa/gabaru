@@ -1,3 +1,4 @@
+import {SafeText} from "@/components/safe-text";
 import { ExamYearIndex } from "@/components/exam-year-index";
 import { ExamEditorial } from "@/components/exam-editorial";
 import Link from "next/link";
@@ -43,11 +44,11 @@ export default async function Page({ params }: Props) {
     {!exam.pageCount && <section className="mt-12" aria-label="Transcrições das questões">
       <h2 className="gb-section-title">Transcrições das questões</h2>
       <p className="mt-3 text-sm text-n5">Texto auxiliar: para figuras e alternativas, consulte o recorte ou o caderno oficial.</p>
-      <div className="mt-5 grid gap-4">{exam.questions.map(q => <details key={q.numero} id={`questao-${q.numero}`} className="scroll-mt-28 rounded-lg border border-n2 bg-white/60 p-5">
-        <summary className="min-h-11 cursor-pointer font-semibold">Questão {enemDisplayNumber(q)} · {q.disciplina}</summary>
+      <div className="mt-5 grid gap-4">{exam.questions.map(q => <article aria-labelledby={`titulo-${q.numero}-${q.disciplina}`} key={`${q.numero}-${q.disciplina}`} id={`questao-${q.numero}${q.disciplina==='espanhol'?'-es':''}`} className="scroll-mt-28 rounded-lg border border-n2 bg-white/60 p-5">
+        <h3 id={`titulo-${q.numero}-${q.disciplina}`} className="font-semibold">Questão {enemDisplayNumber(q)} · {q.disciplina}</h3>
         <p className="mt-3 text-sm text-n5">{q.tema} · {q.habilidade}</p>
-        <p className="mt-4 whitespace-pre-wrap text-n5">{q.texto}</p>
-      </details>)}</div>
+        <p className="mt-4 whitespace-pre-wrap text-n5"><SafeText text={q.texto}/></p>
+      </article>)}</div>
     </section>}
   <ExamEditorial banca="enem" edition={exam.id} />
 </main>;

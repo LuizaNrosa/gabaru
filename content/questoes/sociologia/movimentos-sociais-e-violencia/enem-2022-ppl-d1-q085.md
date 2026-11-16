@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d1-q085.webp
 obs: "imagem com resquício de texto (alternativa E) da questão anterior no topo"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 85 — ENEM 2022](enem-2022-ppl-d1-q085.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 85  
 A morte de um homem negro em Minnesota, nos Estados Unidos,  
@@ -35,5 +35,3 @@ B prática xenofóbica.
 C intolerância política.  
 D discriminação racial.  
 E segregação religiosa.
-
-</details>

@@ -13,10 +13,10 @@ tema: "Via metabólica da fenilalanina e alelos recessivos"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q124.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 124 — ENEM 2022](enem-2022-ppl-d2-q124.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 124  
 O esquema representa alguns passos de uma série  
@@ -45,5 +45,3 @@ Ausência de pigmentação na pele.
 D  
 E  
 Disfunção dos processos metabólicos.
-
-</details>

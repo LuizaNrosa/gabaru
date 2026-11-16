@@ -13,10 +13,10 @@ tema: "Jogos e brincadeiras populares transmitidos pela tradição oral"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q041.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 41 — ENEM 2022](enem-2022-ppl-d1-q041.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 41  
 Muitas brincadeiras preservam sua estrutura inicial, outras modificam-se  
@@ -31,5 +31,3 @@ A jogo popular do pião e do bilboquê.
 B jogo popular do queimado e o voleibol.  
 C brincadeira da amarelinha e a esgrima.  
 D brincadeira de esconde-esconde e o balé.
-
-</details>

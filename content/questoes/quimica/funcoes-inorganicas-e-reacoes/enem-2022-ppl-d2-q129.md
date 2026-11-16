@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d2-q129.webp
 obs: "rodapé de página indevido (logo enem2022 e 'CN - 2º dia | Caderno 6 - ROSA - 2ª Aplicação') no fim da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 129 — ENEM 2022](enem-2022-ppl-d2-q129.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 129  
 A troposfera consiste basicamente em N 2 e O 2 que, juntos, compreendem 99% da atmosfera da Terra. Outros  
@@ -60,5 +60,3 @@ Monóxido de carbono.
 D  
 Monóxido de nitrogênio.  
 E
-
-</details>

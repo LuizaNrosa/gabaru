@@ -13,10 +13,10 @@ tema: "Crítica de Chauí à parcialidade da imprensa"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q061.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 61 — ENEM 2022](enem-2022-ppl-d1-q061.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 61  
 Houve uma rede de televisão brasileira que conseguiu, com ousadia  
@@ -37,5 +37,3 @@ A problematizar a narrativa dos acontecimentos históricos.
 B dissimular a parcialidade dos conteúdos midiáticos.  
 C defender o partidarismo dos relatos jornalísticos.  
 D julgar a visão autoritária dos discursos oficiais.
-
-</details>

@@ -13,10 +13,10 @@ tema: "Campanha contra a violência de gênero Ni una menos"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q104.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 104 — ENEM 2022](enem-2022-ppl-d1-q104.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 04  
 TIVO  
@@ -53,5 +53,3 @@ B justificar algumas causas da agressão doméstica.
 C motivar as vítimas a buscarem ajuda especializada.  
 D criar um programa que investigue casos de brutalidade.  
 E orientar as mulheres a evitarem atitudes geradoras de conflitos.
-
-</details>

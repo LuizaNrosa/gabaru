@@ -13,10 +13,10 @@ tema: "Dimorfismo sexual e seleção sexual em animais"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q110.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 110 — ENEM 2022](enem-2022-ppl-d2-q110.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 110  
 Em muitos animais, machos e fêmeas da mesma  
@@ -40,5 +40,3 @@ D a seleção sexual favorece o sucesso reprodutivo
 individual de machos dimórficos.  
 E o material genético de machos dimórficos é mais  
 susceptível a mutações gênicas.
-
-</details>

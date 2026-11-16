@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d2-q120.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 120 — ENEM 2022](enem-2022-ppl-d2-q120.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 120  
 Escrito em 1897, pelo britânico H. G. Wells (1866-  
@@ -39,5 +39,3 @@ Astigmatismo.
 D  
 Hipermetropia.  
 E
-
-</details>

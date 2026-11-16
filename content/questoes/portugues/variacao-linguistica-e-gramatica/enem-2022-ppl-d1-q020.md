@@ -14,10 +14,10 @@ classificacao_confianca: media
 gabarito: A
 imagem: enem-2022-ppl-d1-q020.webp
 obs: "região em branco grande na metade inferior da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 20 — ENEM 2022](enem-2022-ppl-d1-q020.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 20  
 Preconceito: do latim prae, antes, e conceptus, conceito, esse termo  
@@ -42,5 +42,3 @@ D d as sequências narrativas como recurso de progressão
 textual.  
 E do processo de contraposição argumentativa para conseguir a  
 adesão do leitor.
-
-</details>

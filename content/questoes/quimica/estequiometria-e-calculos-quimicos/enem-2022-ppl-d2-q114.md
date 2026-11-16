@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q114.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 114 — ENEM 2022](enem-2022-ppl-d2-q114.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 114  
 Os airbags de segurança dos automóveis são  
@@ -51,5 +51,3 @@ C
 D  
 113,0.  
 E
-
-</details>

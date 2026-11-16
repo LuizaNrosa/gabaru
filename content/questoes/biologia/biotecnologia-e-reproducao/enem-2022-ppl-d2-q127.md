@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q127.webp
 obs: "rodapé de página indevido (ROSA - 2ª Aplicação, logo enem2022) no fim da imagem e faixa de código de barras na margem esquerda"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 127 — ENEM 2022](enem-2022-ppl-d2-q127.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 127  
 Uma intervenção no meio ambiente tem inquietado  
@@ -39,5 +39,3 @@ D gera embriões cromossomicamente idênticos ao
 parental.  
 E está associado com transferência de genes entre  
 espécies.
-
-</details>

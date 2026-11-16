@@ -13,10 +13,10 @@ tema: "Polaridade do solvente para lavagem a seco"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q111.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 111 — ENEM 2024](enem-2024-ppl-d2-q111.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 111  
 Na lavagem a seco, um solvente é considerado efetivo para limpeza de roupas  
@@ -30,5 +30,3 @@ A
 B  
 E  
 C
-
-</details>

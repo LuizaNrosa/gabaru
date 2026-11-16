@@ -13,10 +13,10 @@ tema: "Limite de consumo de energia com tarifa por faixas"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q153.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 153 — ENEM 2024](enem-2024-ppl-d2-q153.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 153  
 No Brasil, o valor mensal pago na conta de energia elétrica pode ser calculado pela  
@@ -40,5 +40,3 @@ B 35.
 C 40.  
 D 42.  
 E 50.
-
-</details>

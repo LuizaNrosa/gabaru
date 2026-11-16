@@ -13,10 +13,10 @@ tema: "Cartum sobre indiferença humana ao meio ambiente"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q030.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 30 — ENEM 2022](enem-2022-ppl-d1-q030.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 30  
 GASODUTO  
@@ -31,5 +31,3 @@ alertar a população para a conveniência do desenvolvimento
 tecnológico.  
 E destacar a limitação humana para a percepção da realidade da  
 vida animal.
-
-</details>

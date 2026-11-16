@@ -13,10 +13,10 @@ tema: "Hemoglobina de lhamas e adaptação à altitude"
 classificacao_confianca: media
 gabarito: A
 imagem: enem-2024-ppl-d2-q092.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 92 — ENEM 2024](enem-2024-ppl-d2-q092.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 92  
 As lhamas que vivem nas montanhas dos Andes da América do Sul têm  
@@ -31,5 +31,3 @@ B capacidade de tamponamento, evitando alterações de pH no sangue.
 C afinidade pelo CO 2 , facilitando seu transporte para eliminação nos pulmões.  
 D velocidade no transporte de gases, aumentando a eficiência de troca gasosa.  
 E solubilidade de gases no plasma, melhorando seu transporte nos tecidos.
-
-</details>

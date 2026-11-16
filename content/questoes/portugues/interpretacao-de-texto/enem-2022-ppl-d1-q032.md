@@ -13,10 +13,10 @@ tema: "Comparação de dois textos sobre famílias e economia"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q032.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 32 — ENEM 2022](enem-2022-ppl-d1-q032.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 32  
 TEXTO I  
@@ -52,5 +52,3 @@ B ao fator econômico, que é a causa do problema nos dois casos.
 C aos problemas de relacionamento que surgem nessas situações.  
 D ao divórcio, que é apontado como comum nos dias de hoje.  
 E à independência da mulher, que causa a ausência das mães.
-
-</details>

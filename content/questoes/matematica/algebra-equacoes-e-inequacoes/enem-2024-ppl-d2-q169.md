@@ -13,10 +13,10 @@ tema: "Funcionários treinados a mais com treinamento terceirizado"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2024-ppl-d2-q169.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 169 — ENEM 2024](enem-2024-ppl-d2-q169.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 169  
 Uma confecção de roupas pretende contratar novos funcionários e, para treiná-los,  
@@ -37,5 +37,3 @@ B 336
 C 390  
 D 504  
 E 630
-
-</details>

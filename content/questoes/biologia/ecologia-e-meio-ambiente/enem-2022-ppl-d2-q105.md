@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d2-q105.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 105 — ENEM 2022](enem-2022-ppl-d2-q105.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 105  
 A alteração de hábitats é uma causa bem documentada  
@@ -41,5 +41,3 @@ D Introduzir novas espécies de árvores no fragmento
 florestal.  
 E Acabar com o desmatamento do remanescente de  
 Floresta de Araucária.
-
-</details>

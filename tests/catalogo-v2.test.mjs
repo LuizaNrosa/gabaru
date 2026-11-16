@@ -27,8 +27,10 @@ test('busca combina palavra, banca, ano, disciplina e assunto sem falsos resulta
 });
 test('schemas mantêm respostas correspondentes ao conteúdo e referências resolvidas',()=>{
  const q=published[0],g=schemaGraph({path:`/questoes/${q.slug}`,title:q.tema,questions:[q]});
- const nodes=g['@graph'];assert.ok(nodes.some(n=>n['@type']==='EducationalOrganization'));assert.ok(nodes.some(n=>n['@type']==='Person'&&n.name==='Felipe Nascimento Rosa'));
+ const nodes=g['@graph'];assert.ok(nodes.some(n=>n['@type']==='EducationalOrganization'));assert.ok(nodes.some(n=>n['@type']==='Person'&&n.name==='Luiza Nascimento Rosa'));
  const quiz=nodes.find(n=>n['@type']==='Quiz');assert.ok(quiz.hasPart[0].acceptedAnswer.text.includes(q.alternativas.find(a=>a.letra===q.correta).texto));
  assert.equal(quiz.hasPart[0].suggestedAnswer.length,4);
  assert.ok(!JSON.stringify(g).includes('undefined'));
 });
+
+test('JSON-LD não publica respostas de registros em quarentena',()=>{const draft={...published[0],nivelQualidade:'nivel-0-quarentena'};const graph=schemaGraph({path:'/questoes/rascunho',title:'Em conferência',questions:[draft]});assert.equal(graph['@graph'].some(n=>n['@type']==='Quiz'),false);assert.equal(JSON.stringify(graph).includes('acceptedAnswer'),false);});

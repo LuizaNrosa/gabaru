@@ -13,10 +13,10 @@ tema: "Movimentos sociais globais contra a precarização do trabalho"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d1-q078.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 78 — ENEM 2022](enem-2022-ppl-d1-q078.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 78  
 De Seattle a Porto Alegre, contramovimentos espontâneos  
@@ -35,5 +35,3 @@ A Denunciar o tráfico de pessoas.
 B Contestar a corrida armamentista.  
 C Condenar a degradação ambiental.  
 D Desaprovar o comércio transnacional.
-
-</details>

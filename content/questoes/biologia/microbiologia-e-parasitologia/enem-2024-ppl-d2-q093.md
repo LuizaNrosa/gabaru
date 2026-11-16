@@ -13,10 +13,10 @@ tema: "Máscaras e redução da transmissão do SARS-CoV-2"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q093.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 93 — ENEM 2024](enem-2024-ppl-d2-q093.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 93  
 Ao respirarmos, falarmos, tossirmos ou espirrarmos, liberamos gotículas e  
@@ -32,5 +32,3 @@ B fornecem uma barreira de proteção contra as partículas virais liberadas no 
 C reduzem a quantidade de vírus nas gotículas produzidas durante a respiração.  
 D permitem que os indivíduos infectados inspirem e expirem menos partículas virais.  
 E mantêm afastados os indivíduos não infectados daqueles que já foram infectados.
-
-</details>

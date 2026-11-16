@@ -14,10 +14,10 @@ classificacao_confianca: media
 gabarito: B
 imagem: enem-2022-ppl-d2-q145.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 145 — ENEM 2022](enem-2022-ppl-d2-q145.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 145  
 Três amigos realizaram uma viagem de carro entre  
@@ -40,5 +40,3 @@ C
 D  
 E  
 8 215.
-
-</details>

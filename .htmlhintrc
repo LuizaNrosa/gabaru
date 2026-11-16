@@ -1,7 +1,14 @@
 {
   "doctype-first": true,
   "tagname-lowercase": true,
-  "attr-lowercase": ["charSet", "fetchPriority", "noModule", "srcSet"],
+  "attr-lowercase": [
+    "charSet",
+    "fetchPriority",
+    "noModule",
+    "srcSet",
+    "autoComplete",
+    "minLength"
+  ],
   "attr-value-double-quotes": true,
   "tag-pair": true,
   "id-unique": true,

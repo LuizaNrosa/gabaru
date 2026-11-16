@@ -34,6 +34,7 @@ const AuthContext = createContext<AuthContextValue | null>(null);
 export function friendlyAuthError(err: unknown): string {
   const code = (err as { code?: string; message?: string })?.code ?? "";
   const msg = (err as { message?: string })?.message ?? "";
+  if(msg === "session-unavailable")return "Não foi possível confirmar sua sessão. Entre novamente ou tente mais tarde.";
   if (msg === "firebase-not-configured") {
     return "O login ainda não está disponível. Volte em breve.";
   }
@@ -57,6 +58,8 @@ export function friendlyAuthError(err: unknown): string {
       return "Não foi possível concluir. Tente de novo.";
   }
 }
+
+async function syncServerSession(user:User){const response=await fetch('/api/auth/session',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({idToken:await user.getIdToken()})});if(!response.ok)throw new Error('session-unavailable');}
 
 export function AuthProvider({ children }: { children: ReactNode }) {
   const [user, setUser] = useState<User | null>(null);
@@ -82,15 +85,18 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   }, []);
 
   const signIn = useCallback(async (email: string, password: string) => {
-    await signInWithEmailAndPassword(getClientAuth(), email, password);
+    const credential=await signInWithEmailAndPassword(getClientAuth(), email, password);
+    await syncServerSession(credential.user);
   }, []);
 
   const signUp = useCallback(async (name: string, email: string, password: string) => {
     const cred = await createUserWithEmailAndPassword(getClientAuth(), email, password);
     if (name.trim()) await updateProfile(cred.user, { displayName: name.trim() });
+    await syncServerSession(cred.user);
   }, []);
 
   const signOut = useCallback(async () => {
+    const response=await fetch('/api/auth/session',{method:'DELETE'});if(!response.ok)throw new Error('session-unavailable');
     await fbSignOut(getClientAuth());
   }, []);
 

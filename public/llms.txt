@@ -1,33 +1,12 @@
 # Gabaru
 
-> Plataforma brasileira de provas anteriores do ENEM, vestibulinhos e vestibulares. Conteúdo em português do Brasil. Projeto independente das bancas.
+Plataforma independente de provas, questões e estudo para ENEM, vestibulinhos e vestibulares. Curadoria pedagógica: Luiza Nascimento Rosa. Os conteúdos não substituem editais ou fontes oficiais.
 
-O catálogo distingue transcrições em revisão, gabarito oficial e resolução editorial. Somente questões completas com resolução publicada integram o sitemap de questões. A autoria técnica de Luiza Nascimento Rosa é preservada; Felipe Nascimento Rosa responde pela curadoria pedagógica. Não presumir revisão completa de todo o acervo.
+- [ENEM](https://gabaru.com.br/enem)
+- [Vestibulinhos](https://gabaru.com.br/vestibulinho)
+- [Vestibulares](https://gabaru.com.br/vestibulares)
+- [Questões](https://gabaru.com.br/questoes)
+- [Metodologia e autoria](https://gabaru.com.br/sobre)
 
-## Caminhos principais
-- [ENEM](https://www.gabaru.com.br/enem)
-- [Vestibulinhos](https://www.gabaru.com.br/vestibulinho)
-- [Vestibulares](https://www.gabaru.com.br/vestibulares)
-- [Banco de questões](https://www.gabaru.com.br/questoes)
-- [Sobre e metodologia](https://www.gabaru.com.br/sobre)
-
-## Instituições com acervo
-- [COLUNI/UFV](https://www.gabaru.com.br/banca/coluni): 14 cadernos cadastrados.
-- [ETEC](https://www.gabaru.com.br/banca/etec): 43 cadernos cadastrados.
-- [FUVEST](https://www.gabaru.com.br/banca/fuvest): 75 cadernos cadastrados.
-- [IFAM](https://www.gabaru.com.br/banca/ifam): 3 cadernos cadastrados.
-- [IFCE](https://www.gabaru.com.br/banca/ifce): 3 cadernos cadastrados.
-- [IFMG](https://www.gabaru.com.br/banca/ifmg): 5 cadernos cadastrados.
-- [IFMT](https://www.gabaru.com.br/banca/ifmt): 2 cadernos cadastrados.
-- [IFRN](https://www.gabaru.com.br/banca/ifrn): 5 cadernos cadastrados.
-- [IFRS](https://www.gabaru.com.br/banca/ifrs): 2 cadernos cadastrados.
-- [IFSC](https://www.gabaru.com.br/banca/ifsc): 18 cadernos cadastrados.
-- [IFSP](https://www.gabaru.com.br/banca/ifsp): 10 cadernos cadastrados.
-- [INEP / ENEM](https://www.gabaru.com.br/banca/enem): 51 cadernos cadastrados.
-- [UEL](https://www.gabaru.com.br/banca/uel): 2 cadernos cadastrados.
-- [UERJ](https://www.gabaru.com.br/banca/uerj): 14 cadernos cadastrados.
-- [UNESP](https://www.gabaru.com.br/banca/unesp): 35 cadernos cadastrados.
-- [UNICAMP](https://www.gabaru.com.br/banca/unicamp): 385 cadernos cadastrados.
-
-Índice detalhado: https://www.gabaru.com.br/llms-full.txt
-Sitemap: https://www.gabaru.com.br/sitemap.xml
+Catálogo detalhado: https://gabaru.com.br/llms-full.txt
+Sitemap: https://gabaru.com.br/sitemap.xml

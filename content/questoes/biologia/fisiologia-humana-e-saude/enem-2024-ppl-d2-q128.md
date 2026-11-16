@@ -13,10 +13,10 @@ tema: "Anticorpos IgM e IgG em infecção viral recente"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2024-ppl-d2-q128.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 128 — ENEM 2024](enem-2024-ppl-d2-q128.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 128  
 A proprietária de um haras comprou um cavalo e, após alguns dias, descobriu que  
@@ -34,5 +34,3 @@ B IgM negativo e IgG negativo, com baixa avidez.
 C IgM negativo e IgG positivo, independentemente da avidez.  
 D IgM positivo e IgG positivo, independentemente da avidez.  
 E IgM positivo e IgG negativo, independentemente da avidez.
-
-</details>

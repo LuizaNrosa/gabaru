@@ -13,10 +13,10 @@ tema: "Estratégias de escravizados e práticas afro-brasileiras atuais"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q048.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 48 — ENEM 2022](enem-2022-ppl-d1-q048.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 48  
 O escravo tinha de prover diretamente ao senhor e a si próprio no  
@@ -34,5 +34,3 @@ B expor a riqueza da herança africana.
 C aproveitar as frestas do sistema vigente.  
 D contestar o preconceito da religião dominante.  
 E incorporar a disciplina do trabalho compulsório.
-
-</details>

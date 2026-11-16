@@ -13,10 +13,10 @@ tema: "Média de gorjetas a partir de tabela de garçons"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d2-q171.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 171 — ENEM 2022](enem-2022-ppl-d2-q171.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 171  
 Num restaurante, a última sexta-feira do mês é o  
@@ -62,5 +62,3 @@ D
 R$ 19,00  
 R$ 20,00  
 E
-
-</details>

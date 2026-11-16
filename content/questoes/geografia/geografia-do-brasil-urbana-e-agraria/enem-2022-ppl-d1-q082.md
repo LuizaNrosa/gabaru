@@ -13,10 +13,10 @@ tema: "Mobilidade urbana e ocupação de áreas subutilizadas"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q082.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 82 — ENEM 2022](enem-2022-ppl-d1-q082.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 82  
 A mobilidade urbana constitui-se em um tema fundamental  
@@ -36,5 +36,3 @@ B ocupação de áreas subutilizadas.
 C utilização de veículos individuais.  
 D construção de estacionamentos em vias públicas.  
 E concentração de empregos em zonas centrais.
-
-</details>

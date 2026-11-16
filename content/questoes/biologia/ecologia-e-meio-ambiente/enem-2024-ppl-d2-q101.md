@@ -13,10 +13,10 @@ tema: "Recomposição de mata ciliar e prevenção do assoreamento"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q101.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 101 — ENEM 2024](enem-2024-ppl-d2-q101.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 101  
 Segundo especialistas, há uma ligação causal entre a ocupação nos 12 municípios do  
@@ -32,5 +32,3 @@ B assoreamento do rio.
 C compactação do solo.  
 D contaminação das margens.  
 E eutrofização dos reservatórios.
-
-</details>

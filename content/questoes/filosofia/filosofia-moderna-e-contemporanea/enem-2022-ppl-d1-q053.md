@@ -13,10 +13,10 @@ tema: "Existencialismo e tema fundamental da filosofia"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q053.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 53 — ENEM 2022](enem-2022-ppl-d1-q053.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 53  
 Em primeiro lugar, é preciso libertar-se do preconceito segundo o  
@@ -35,5 +35,3 @@ B mundo físico, sua essência e leis reguladoras.
 C lógica, suas inferências e estudos de validade.  
 D imaginação, seus objetos e contribuições.  
 E conhecimento, sua natureza e condições.
-
-</details>

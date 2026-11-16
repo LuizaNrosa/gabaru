@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d2-q093.webp
 obs: "rodapé de página indevido (logo enem2022 e texto 'CN - 2º dia' no fim da imagem); região em branco grande no final"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 93 — ENEM 2022](enem-2022-ppl-d2-q093.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 93  
 A fim de reaproveitar o resíduo de um processo  
@@ -66,5 +66,3 @@ C
 D  
 E  
 ácido acético e acetona.
-
-</details>

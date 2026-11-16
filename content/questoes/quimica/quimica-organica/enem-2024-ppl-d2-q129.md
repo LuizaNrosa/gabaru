@@ -13,10 +13,10 @@ tema: "Polímero biodegradável com grupo éster hidrolisável"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q129.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 129 — ENEM 2024](enem-2024-ppl-d2-q129.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 129  
 O longo tempo que polímeros levam para serem degradados tem gerado problema  
@@ -30,5 +30,3 @@ D
 B  
 E  
 C
-
-</details>

@@ -13,10 +13,10 @@ tema: "Custo mínimo de alimentos para suprir vitaminas"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q164.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 164 — ENEM 2024](enem-2024-ppl-d2-q164.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 164  
 A partir de um exame clínico, ficou constatado que uma pessoa encontrava-se  
@@ -43,5 +43,3 @@ B 5,60.
 C 6,10.  
 D 6,20.  
 E 10,00.
-
-</details>

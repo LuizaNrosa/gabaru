@@ -13,10 +13,10 @@ tema: "Energia mecânica de satélite em órbitas circulares e elíptica"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2024-ppl-d2-q120.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 120 — ENEM 2024](enem-2024-ppl-d2-q120.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 120  
 Os satélites em órbitas geoestacionárias ocupam uma posição fixa em relação à  
@@ -39,5 +39,3 @@ B E 2 < E E < E 1 .
 C E 1 = E E < E 2 .  
 D E 1 < E E = E 2 .  
 E E 1 > E E = E 2 .
-
-</details>

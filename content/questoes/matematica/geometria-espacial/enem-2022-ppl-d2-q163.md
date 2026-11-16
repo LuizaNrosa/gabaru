@@ -13,10 +13,10 @@ tema: "Raio da base de caixa-d'água cilíndrica pelo volume"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q163.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 163 — ENEM 2022](enem-2022-ppl-d2-q163.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 163  
 Uma indústria planeja produzir caixa-d’água, em  
@@ -39,5 +39,3 @@ D
 1 , 2  
 E  
 π
-
-</details>

@@ -13,10 +13,10 @@ tema: "Altura do líquido em tanque piramidal em função do tempo"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2024-ppl-d2-q141.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 141 — ENEM 2024](enem-2024-ppl-d2-q141.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 141  
 Um tanque de armazenamento de líquidos tem o formato de uma pirâmide reta  
@@ -42,5 +42,3 @@ D
 3 3 t  
 E  
 10 2
-
-</details>

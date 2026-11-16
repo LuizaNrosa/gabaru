@@ -1,5 +1,6 @@
 // © 2026 Luiza Nascimento Rosa. Todos os direitos reservados.
 "use client";
+import {SafeText} from "./safe-text";
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
@@ -68,7 +69,7 @@ export function EnemExamReader({ id, title, questions, verified, pageCount }: { 
         </div>}
         <img src={displayedPage ? `/acervo/enem/${id}/${String(displayedPage).padStart(2,"0")}.webp` : `/questoes/${id}-q${String(question.numero).padStart(3, "0")}.webp`} alt={displayedPage ? `Página ${displayedPage} do caderno, ${title}` : `Recorte da questão ${enemDisplayNumber(question)}, ${title}`} className="h-auto w-full rounded-md border border-n2 bg-white" />
         {related.length > 0 && <details className="mt-4"><summary className="cursor-pointer py-3">Ver recortes relacionados</summary>{related.map(num => <img key={num} src={`/questoes/${id}-q${String(num).padStart(3,"0")}.webp`} alt={`Recorte da questão ${num}, ${title}`} className="mt-3 h-auto w-full rounded-md border border-n2" loading="lazy" />)}</details>}
-        {question.texto && <details className="mt-4"><summary className="cursor-pointer py-3">Ler transcrição do enunciado</summary><p className="mb-3 text-sm">Texto auxiliar; confira figuras e alternativas no recorte original.</p><p className="whitespace-pre-wrap text-n5">{question.texto}</p></details>}
+        {question.texto && <details className="mt-4"><summary className="cursor-pointer py-3">Ler transcrição do enunciado</summary><p className="mb-3 text-sm">Texto auxiliar; confira figuras e alternativas no recorte original.</p><p className="whitespace-pre-wrap text-n5"><SafeText text={question.texto}/></p></details>}
       </div>
       <div id="enem-respostas" className="min-w-0 scroll-mt-24">
         <a href="#enem-caderno" className="gb-text-link mb-3 inline-block lg:hidden">↑ Voltar à questão</a>

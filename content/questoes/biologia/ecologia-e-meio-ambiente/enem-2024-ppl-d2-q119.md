@@ -13,10 +13,10 @@ tema: "Solo esterilizado e ciclo do nitrogênio em ervilhas"
 classificacao_confianca: media
 gabarito: E
 imagem: enem-2024-ppl-d2-q119.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 119 — ENEM 2024](enem-2024-ppl-d2-q119.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 119  
 Um grupo de pesquisadores realizou um experimento para identificar condições  
@@ -30,5 +30,3 @@ B cálcio.
 C fosfato.  
 D potássio.  
 E nitrogênio.
-
-</details>

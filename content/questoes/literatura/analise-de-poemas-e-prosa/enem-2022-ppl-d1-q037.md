@@ -13,10 +13,10 @@ tema: "Ironia na construção do personagem em Guimarães Rosa"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q037.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 37 — ENEM 2022](enem-2022-ppl-d1-q037.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 37  
 Foi o caso que um homenzinho, recém-aparecido na cidade,  
@@ -42,5 +42,3 @@ B tensão progressiva ante a chegada do estranho.
 C nota irônica do perfil intelectual do personagem.  
 D curiosidade natural despertada pelo anonimato.  
 E erudição sutil da alusão ao pensamento grego.
-
-</details>

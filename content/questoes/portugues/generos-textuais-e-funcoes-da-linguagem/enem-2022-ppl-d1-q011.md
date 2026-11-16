@@ -13,10 +13,10 @@ tema: "Função do infográfico sobre diversidade indígena brasileira"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q011.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 11 — ENEM 2022](enem-2022-ppl-d1-q011.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 11  
 CONHEÇA A  
@@ -74,5 +74,3 @@ C defender políticas de preservação da cultura indígena.
 D divulgar as etnias indígenas mais representativas do Brasil.  
 E criticar a distribuição geográfica desigual das comunidades  
 indígenas.
-
-</details>

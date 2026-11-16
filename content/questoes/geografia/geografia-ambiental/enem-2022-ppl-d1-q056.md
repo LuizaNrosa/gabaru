@@ -13,10 +13,10 @@ tema: "Justiça ambiental e desigualdade na exposição a riscos"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d1-q056.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 56 — ENEM 2022](enem-2022-ppl-d1-q056.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 56  
 Os sujeitos sociais que procuram evidenciar a importância de uma  
@@ -36,5 +36,3 @@ B capacidade de resiliência.
 C complexidade do ecossistema.  
 D intencionalidade da rentabilidade.  
 E potencialidade da agropecuária.
-
-</details>

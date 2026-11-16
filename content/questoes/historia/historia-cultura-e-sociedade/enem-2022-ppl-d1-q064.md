@@ -13,10 +13,10 @@ tema: "Memória como reelaboração e seletividade das lembranças"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q064.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 64 — ENEM 2022](enem-2022-ppl-d1-q064.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 64  
 O testemunho nunca é um relato exato do que aconteceu. Na  
@@ -33,5 +33,3 @@ B dissociada do contexto de surgimento.
 C marcada pela seletividade das lembranças.  
 D caracterizada pela uniformidade dos relatos.  
 E resultado do compartilhamento das vivências.
-
-</details>

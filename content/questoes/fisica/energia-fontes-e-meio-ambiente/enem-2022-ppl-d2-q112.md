@@ -13,10 +13,10 @@ tema: "Impacto térmico do resfriamento falho de usina nuclear"
 classificacao_confianca: media
 gabarito: C
 imagem: enem-2022-ppl-d2-q112.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 112 — ENEM 2022](enem-2022-ppl-d2-q112.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 112  
 As usinas nucleares utilizam o princípio da fissão  
@@ -41,5 +41,3 @@ D
 aumentará a disponibilidade de nutrientes.  
 permitirá a contaminação por microrganismos.  
 E
-
-</details>

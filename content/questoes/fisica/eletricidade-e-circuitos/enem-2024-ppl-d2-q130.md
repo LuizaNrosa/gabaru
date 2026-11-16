@@ -13,10 +13,10 @@ tema: "Escolha do material de fusível por efeito Joule"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2024-ppl-d2-q130.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 130 — ENEM 2024](enem-2024-ppl-d2-q130.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 130  
 A utilização de fusíveis em equipamentos eletrônicos é fundamental para a sua  
@@ -33,5 +33,3 @@ B frâncio.
 C prata.  
 D silício.  
 E zinco.
-
-</details>

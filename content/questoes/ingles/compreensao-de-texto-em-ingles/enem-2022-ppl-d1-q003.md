@@ -13,10 +13,10 @@ tema: "Carta ao editor criticando matéria sobre ensino de história"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q003.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 3 — ENEM 2022](enem-2022-ppl-d1-q003.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 03  
 Letter to the Editor  
@@ -45,5 +45,3 @@ B manipular estudantes.
 C atacar uma comunidade.  
 D revelar uma premonição.  
 E propagar desinformação.
-
-</details>

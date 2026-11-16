@@ -13,10 +13,10 @@ tema: "Probabilidade de sorteio entre funcionários com dois filhos"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2024-ppl-d2-q150.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 150 — ENEM 2024](enem-2024-ppl-d2-q150.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 150  
 Uma empresa com 425 funcionários resolve sortear, numa festa comemorativa, uma  
@@ -37,5 +37,3 @@ D 119
 1  
 E  
 119
-
-</details>

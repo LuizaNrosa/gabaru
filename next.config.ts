@@ -33,15 +33,15 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,
   async redirects() {
-    return [{
+    return [...Array.from({length:5},(_,i)=>({source:`/questoes/enem-2011-d2-q09${i+1}`,destination:`https://gabaru.com.br/questoes/enem-2011-d2-q09${i+1}-en`,statusCode:301})),{
       source: "/:path*",
-      has: [{ type: "host", value: "gabaru\\.com\\.br" }],
-      destination: "https://www.gabaru.com.br/:path*",
+      has: [{ type: "host", value: "www\\.gabaru\\.com\\.br" }],
+      destination: "https://gabaru.com.br/:path*",
       statusCode: 301,
     }];
   },
   async headers() {
-    return [{ source: "/:path*", headers: securityHeaders }, ...["etec", "coluni"].map(institution => ({ source: `/acervo/${institution}/:edition/:file`, headers: [{ key: "X-Frame-Options", value: "SAMEORIGIN" }, { key: "Content-Security-Policy", value: "frame-ancestors 'self'" }] })), { source: "/api/v1/vestibulares/:institution/:document", headers: [{ key: "X-Frame-Options", value: "SAMEORIGIN" }, { key: "Content-Security-Policy", value: "frame-ancestors 'self'" }] }];
+    return [{ source: "/:path*", headers: securityHeaders }, ...["etec", "coluni"].map(institution => ({ source: `/acervo/${institution}/:edition/:file`, headers: [{ key: "X-Frame-Options", value: "SAMEORIGIN" }, { key: "Content-Security-Policy", value: csp.replace("frame-ancestors 'none'", "frame-ancestors 'self'") }] })), { source: "/api/v1/vestibulares/:institution/:document", headers: [{ key: "X-Frame-Options", value: "SAMEORIGIN" }, { key: "Content-Security-Policy", value: csp.replace("frame-ancestors 'none'", "frame-ancestors 'self'") }] }];
   },
 };
 

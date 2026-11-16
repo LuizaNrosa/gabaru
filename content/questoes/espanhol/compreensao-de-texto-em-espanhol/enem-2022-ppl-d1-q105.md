@@ -14,10 +14,10 @@ classificacao_confianca: media
 gabarito: B
 imagem: enem-2022-ppl-d1-q105.webp
 obs: "imagem com rodapé indevido no final: cabeçalho 'Linguagens, Códigos e suas Tecnologias - Questões de 06 a 45'"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 105 — ENEM 2022](enem-2022-ppl-d1-q105.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 05  
 Fútbol, pelota, gol, copa, recopa,  
@@ -43,5 +43,3 @@ atualidade.
 E mostra-se o fato de haver palavras sobre o futebol não incluídas  
 no dicionário.  
 LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS
-
-</details>

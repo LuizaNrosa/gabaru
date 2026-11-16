@@ -14,10 +14,10 @@ classificacao_confianca: baixa
 gabarito: B
 imagem: enem-2022-ppl-d2-q141.webp
 obs: "imagem cortada: quadro de custo unitário só mostra a primeira linha (n < 1 000), faltam as demais faixas, a pergunta final e as alternativas A a E"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 141 — ENEM 2022](enem-2022-ppl-d2-q141.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 141  
 Admita que um grupo musical deseja produzir  
@@ -51,5 +51,3 @@ C
 D  
 2 880.  
 E
-
-</details>

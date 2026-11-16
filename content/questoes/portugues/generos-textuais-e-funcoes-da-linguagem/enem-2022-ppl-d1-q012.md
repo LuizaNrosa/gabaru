@@ -13,10 +13,10 @@ tema: "Campanha sobre participação social e políticas públicas"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d1-q012.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 12 — ENEM 2022](enem-2022-ppl-d1-q012.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 12  
 Disponível em: www.cnbbsul1.org.br. Acesso em: 2 ago. 2019.  
@@ -31,5 +31,3 @@ D fazer a distinção entre as políticas de governo e as políticas de
 Estado a fim de incentivar a busca por direitos.  
 E estimular a participação da sociedade civil em políticas públicas  
 para fortalecer a cidadania e o bem comum.
-
-</details>

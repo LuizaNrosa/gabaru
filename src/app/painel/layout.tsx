@@ -1,3 +1,6 @@
+import {cookies} from 'next/headers';
+import {redirect} from 'next/navigation';
+import {verifySessionCookie} from '@/lib/firebase/admin';
 import type { Metadata } from "next";
 import { metaPagina } from "@/lib/seo";
 
@@ -10,10 +13,12 @@ export const metadata: Metadata = metaPagina({
   semIndice: true,
 });
 
-export default function PainelLayout({
+export default async function PainelLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
+  const cookie=(await cookies()).get('__session')?.value;
+  if(!cookie||!await verifySessionCookie(cookie))redirect('/login');
   return children;
 }

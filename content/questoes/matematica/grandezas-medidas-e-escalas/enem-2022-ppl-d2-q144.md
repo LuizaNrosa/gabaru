@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d2-q144.webp
 obs: "rodapé de página indevido (logo enem2022 e 'MT - 2º dia') no fim da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 144 — ENEM 2022](enem-2022-ppl-d2-q144.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 144  
 Os países anglófonos, como a Inglaterra, o Canadá, a  
@@ -47,5 +47,3 @@ C
 D  
 805  
 E
-
-</details>

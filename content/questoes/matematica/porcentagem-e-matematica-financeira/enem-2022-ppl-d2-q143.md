@@ -13,10 +13,10 @@ tema: "Classificação de vendedoras por faixas após redução de 35%"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q143.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 143 — ENEM 2022](enem-2022-ppl-d2-q143.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 143  
 O gerente de uma loja de roupas resolveu avaliar o  
@@ -44,5 +44,3 @@ N3 e N4.
 D  
 N3 e N5.  
 E
-
-</details>

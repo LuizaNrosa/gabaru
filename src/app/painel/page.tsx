@@ -28,7 +28,7 @@ export default function Page() {
               <h2>Seu treino de hoje</h2>
               <p>
                 Escolha uma disciplina e pratique com questões ENEM. As
-                respostas ainda não são salvas na conta.
+                respostas das questões validadas são preservadas no navegador e podem ser sincronizadas com sua conta.
               </p>
               <Link href="/treino" className="gb-button">
                 Iniciar treino ↗

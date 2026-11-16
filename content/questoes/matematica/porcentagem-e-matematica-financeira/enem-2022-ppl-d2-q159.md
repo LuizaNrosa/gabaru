@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q159.webp
 obs: "rodapé de página indevido (início de 'MT - 2º dia') no fim da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 159 — ENEM 2022](enem-2022-ppl-d2-q159.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 159  
 Os aeroportos apresentam regras rígidas para  
@@ -43,5 +43,3 @@ C
 D  
 E  
 25,00.
-
-</details>

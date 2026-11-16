@@ -13,10 +13,10 @@ tema: "Radiação térmica em copos preto e espelhado"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2024-ppl-d2-q096.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 96 — ENEM 2024](enem-2024-ppl-d2-q096.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 96  
 A transferência de calor por radiação pode ser observada realizando-se a experiência  
@@ -31,5 +31,3 @@ B do copo 1 diminui, e a do copo 2 permanece a mesma.
 C do copo 2 diminui, e a do copo 1 permanece a mesma.  
 D do copo 1 diminui mais rapidamente do que a do copo 2.  
 E do copo 2 diminui mais rapidamente do que a do copo 1.
-
-</details>

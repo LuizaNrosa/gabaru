@@ -13,10 +13,10 @@ tema: "Altura de embalagem prismática com capacidade maior que cilindro"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2024-ppl-d2-q166.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 166 — ENEM 2024](enem-2024-ppl-d2-q166.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 166  
 Uma empresa produz embalagens para acomodar seu produto. As embalagens atuais  
@@ -31,5 +31,3 @@ B 15.
 C 17.  
 D 62.  
 E 66.
-
-</details>

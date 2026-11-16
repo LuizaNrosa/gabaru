@@ -13,10 +13,10 @@ tema: "Impressionismo de Monet e mistura óptica de cores"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q028.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 28 — ENEM 2022](enem-2022-ppl-d1-q028.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 28  
 Claude Monet, influenciado por Turner, passou a pintar temas que  
@@ -43,5 +43,3 @@ provocada pela ação dos raios de luz sobre os nossos olhos.
 D resultante da mistura óptica de duas outras que estão presentes  
 em sua composição de origem, causando um equilíbrio entre elas.  
 E física, presente nos raios solares e na luz branca, sendo impossível
-
-</details>

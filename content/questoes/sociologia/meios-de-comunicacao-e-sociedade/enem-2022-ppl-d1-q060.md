@@ -13,10 +13,10 @@ tema: "Letra de canção distópica sobre consumismo e controle"
 classificacao_confianca: media
 gabarito: A
 imagem: enem-2022-ppl-d1-q060.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 60 — ENEM 2022](enem-2022-ppl-d1-q060.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 60  
 Admirável chip novo  
@@ -50,5 +50,3 @@ B Hipossuficiência econômica e influência do aparato estatal.
 C Corrupção política e manipulação de campanhas eleitorais.  
 D Degradação ecológica e deteriorização do meio ambiente.  
 E Motivação consumista e aquisição de bens supérfluos.
-
-</details>

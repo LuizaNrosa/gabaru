@@ -13,10 +13,10 @@ tema: "Variação de temperatura em funções afins representadas por semirretas
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2024-ppl-d2-q165.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 165 — ENEM 2024](enem-2024-ppl-d2-q165.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 165  
 Dois objetos metálicos, ambos com temperatura inicial igual a 10 ° C, são aquecidos.  
@@ -30,5 +30,3 @@ B 10.
 C 15.  
 D 20.  
 E 50.
-
-</details>

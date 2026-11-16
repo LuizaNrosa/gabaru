@@ -13,10 +13,10 @@ tema: "Für Elise como jingle e mudança de função da obra"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d1-q043.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 43 — ENEM 2022](enem-2022-ppl-d1-q043.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 43  
 Dentre as músicas clássicas que tinham potencial para ganhar  
@@ -52,5 +52,3 @@ D modificação da função que uma obra artística pode sofrer em
 diferentes épocas e lugares.  
 E articulação entre o poder público e as empresas para contornar  
 as limitações das leis de direito autoral.
-
-</details>

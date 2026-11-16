@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d2-q100.webp
 obs: "rodapé de página indevido (logo enem2022 e 'CN - 2º dia') no fim da imagem; região em branco grande"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 100 — ENEM 2022](enem-2022-ppl-d2-q100.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 100  
 Diferentemente da respiração aeróbica, alguns  
@@ -60,5 +60,3 @@ oxidação completa do substrato.
 D  
 formação de produtos metabolizáveis.  
 E
-
-</details>

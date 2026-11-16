@@ -13,10 +13,10 @@ tema: "Terapia gênica com vírus modificado para surdez"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2024-ppl-d2-q103.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 103 — ENEM 2024](enem-2024-ppl-d2-q103.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 103  
 Problemas no DNA são responsáveis por cerca de metade dos casos de perda de  
@@ -30,5 +30,3 @@ B Marcação molecular.
 C Clonagem terapêutica.  
 D Hibridização genômica.  
 E Sequenciamento gênico.
-
-</details>

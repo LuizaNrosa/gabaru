@@ -13,10 +13,10 @@ tema: "Charge sobre higienismo e remoção da favela em 1907"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q090.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 90 — ENEM 2022](enem-2022-ppl-d1-q090.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 90  
 UMA LIMPEZA INDISPENSÁVEL  
@@ -50,5 +50,3 @@ B foco de instabilidade e agitação política.
 C perigo à segurança e à unidade nacional.  
 D abrigo de escravos e condenados foragidos.  
 E reduto de intolerância e perseguição religiosa.
-
-</details>

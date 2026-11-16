@@ -5,6 +5,7 @@ import { questionQuality,examQuality,contentFingerprint,N0,N1,N2 } from './lib/q
 const read = p => JSON.parse(readFileSync(p, 'utf8'));
 const slug = s => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 const editorial=read('src/data/editorial/resolucoes.json');
+const bloqueios=read('src/data/editorial/bloqueios-catalogo.json');
 const ingestion=new Map();if(existsSync('src/data/ingestao'))for(const file of readdirSync('src/data/ingestao').filter(f=>f.endsWith('.json')).sort()){const d=read('src/data/ingestao/'+file);for(const [id,q]of Object.entries(d.aceitas??{}))ingestion.set(id,q);}
 const verifiedEnem=new Map(read('src/data/enem-gabaritos-conferidos.json').map(e=>[e.id,e]));
 const batchEditorial=existsSync('src/data/editorial/resolucoes-lotes.json')?read('src/data/editorial/resolucoes-lotes.json'):{};
@@ -24,8 +25,9 @@ function question(exam,id,num,statement,options,correct,extra={}) {
  if(editorial[id]||batchEditorial[id])q.enunciado=q.enunciado.replace(/\n+/g,' ');
  const disc=q.disciplina;q.area=['matematica'].includes(disc)?'matematica':['fisica','quimica','biologia','ciencias'].includes(disc)?'ciencias-da-natureza':['historia','geografia','filosofia','sociologia','atualidades'].includes(disc)?'ciencias-humanas':disc==='a-classificar'?'a-classificar':'linguagens';
  // Only hand-curated, complete records enter the public search index and sitemaps.
- const checked=!!q.proveniencia?.gabaritoConferido||(q.banca==='enem'&&verifiedEnem.has(q.id.split('-q')[0]));
- Object.assign(q,questionQuality(q,{gabaritoVerificado:checked,expected:q.banca==='coluni'?4:5,legadaComentada:!!editorial[id]&&q.comentarioResolucao.length>=3}));
+ const verification=verifiedEnem.get(q.id.split('-q')[0]);
+ const checked=!!q.proveniencia?.gabaritoConferido||(q.banca==='enem'&&!!verification&&verification.numbers.includes(q.numero)&&(!(q.idioma==='es'||q.disciplina==='espanhol')||verification.language==='espanhol'));
+ Object.assign(q,questionQuality(q,{textoConferido:!!editorial[id]||batchEditorial[id]?.validacao?.fingerprint===contentFingerprint(q),gabaritoVerificado:checked,expected:q.banca==='coluni'?4:5,legadaComentada:!!editorial[id]&&q.comentarioResolucao.length>=3}));
  q.statusPublicacao=q.nivelQualidade===N0?'rascunho':'completa';
  questoes.set(id,q);if(!exam.questoes.includes(id))exam.questoes.push(id);
 }
@@ -41,7 +43,7 @@ function splitOptions(text){const matches=[...text.matchAll(/^(?:\(([A-E])\)|([A
 for(const e of enem.values()){
  const exam=addExam(e.id,'enem',e.year,`ENEM ${e.year}${e.day?` — ${e.day}º dia`:''} · ${e.id}`,e.total,bancas.get('enem').fonte,`/provas/enem/${e.id}`,e.year>=2018?(e.day===1?330:e.day===2?300:null):null);
  let data=[];try{data=read(`content/enem/${e.id}/dados.json`).questoes}catch{data=e.questions??[]}
- for(const q of data){const num=q.numero,id=`${e.id}-q${String(num).padStart(3,'0')}`,b=bankMap.get(id),s=splitOptions(q.texto??'');question(exam,id,num,s.text.replace(/^(?:QUEST[ÃA]O\s*)?\d+\s*\n/i,''),s.options,b?.gabarito??q.gabarito,{disciplina:b?.disciplina??q.disciplina??'a-classificar',assunto:b?.subtopico??q.subtopico??'a-classificar',tema:b?.tema??q.tema??`Questão ${num}`});}
+ for(const q of data){const num=q.numero,id=q.id??`${e.id}-q${String(num).padStart(3,'0')}`,b=bankMap.get(`${e.id}-q${String(num).padStart(3,'0')}`),s=splitOptions(q.texto??'');question(exam,id,num,s.text.replace(/^(?:QUEST[ÃA]O\s*)?\d+\s*\n/i,''),s.options,q.idiomaTexto==='es'?q.gabarito??null:b?.gabarito??q.gabarito,{habilidade:q.idiomaTexto==='es'?q.habilidade??'':b?.habilidade??q.habilidade??'',idioma:q.idiomaTexto,disciplina:q.idiomaTexto?q.disciplina:b?.disciplina??q.disciplina??'a-classificar',assunto:q.idiomaTexto==='es'?q.subtopico??'a-classificar':b?.subtopico??q.subtopico??'a-classificar',tema:q.idiomaTexto==='es'?q.tema:b?.tema??q.tema??`Questão ${num}`});}
 }
 const generic=/^(fuvest-|unesp-|unicamp-lote|uerj-|ifmt-|ifrs-|ifs-|ifrn-2026)/;
 for(const file of readdirSync('src/data').sort().filter(f=>generic.test(f)&&f.endsWith('.json')&&!/(cortes|archive|documentos)/.test(f))){
@@ -60,13 +62,13 @@ function addDocument(banca,ano,titulo,url,source,href){if(!url||!ano||seenDocume
 for(const banca of ['unesp','unicamp']){const filename=`${banca}-archive.json`,archive=read(`src/data/${filename}`);fontes.push({arquivo:filename,registros:archive.documents.length});for(const d of archive.documents.filter(d=>d.kind==='prova'))addDocument(banca,d.year,d.label,d.url,d.source);}
 const fvDocs=read('src/data/fuvest-documentos.json');fontes.push({arquivo:'fuvest-documentos.json',registros:fvDocs.length});for(const d of fvDocs.filter(d=>/prova/i.test(d.label)&&!/(gabarito|resposta|abordagem)/i.test(d.label)))addDocument('fuvest',d.year,d.label,d.url,'https://www.fuvest.br/');
 const ifDocs=read('src/data/if-document-sources.json');for(const [id,group] of Object.entries(ifDocs)){const b=board(id);b.nome=group.name;b.fonte=group.source;fontes.push({arquivo:`if-document-sources.json:${id}`,registros:group.editions.length});for(const e of group.editions)addDocument(id,Number(String(e.edition).match(/(?:19|20)\d{2}/)?.[0]),`${b.sigla} ${e.edition}`,e.exam,group.source,`/provas/${id}`);}
-for(const exam of cadernos.values()){Object.assign(exam,examQuality(exam,questoes));exam.statusPublicacao=exam.nivelQualidade===N0?'rascunho':'completa';}
+for(const exam of cadernos.values()){Object.assign(exam,examQuality(exam,questoes));if(bloqueios[exam.id]){exam.nivelQualidade=N0;exam.motivos.push(bloqueios[exam.id]);}exam.statusPublicacao=exam.nivelQualidade===N0?'rascunho':'completa';}
 const questions=[...questoes.values()],commented=questions.filter(q=>q.resolucaoEstruturada||q.comentarioResolucao.length).length;
-const catalog={bancas:[...bancas.values()].sort((a,b)=>a.sigla.localeCompare(b.sigla,'pt-BR')),cadernos:[...cadernos.values()].sort((a,b)=>b.ano-a.ano||a.id.localeCompare(b.id)),questoes:questions,inventario:{fontes,cadernosSomenteDocumento:documentOnly,anos:[...new Set([...cadernos.values()].map(e=>e.ano))].sort(),gabaritoSeco:questions.filter(q=>q.correta&&!q.comentarioResolucao.length).length,comentadas:commented,completas:questions.filter(q=>q.nivelQualidade===N2).length}};
+const catalog={bancas:[...bancas.values()].sort((a,b)=>a.sigla.localeCompare(b.sigla,'pt-BR')),cadernos:[...cadernos.values()].sort((a,b)=>b.ano-a.ano||a.id.localeCompare(b.id)),questoes:questions,inventario:{fontes,cadernosSomenteDocumento:documentOnly,anos:[...new Set([...cadernos.values()].map(e=>e.ano))].sort(),gabaritoSeco:questions.filter(q=>q.correta&&!q.resolucaoEstruturada&&!q.comentarioResolucao.length).length,comentadas:commented,completas:questions.filter(q=>q.nivelQualidade===N2).length}};
 writeFileSync('src/data/catalogo-v2.json',JSON.stringify(catalog));
 const levels=[N0,N1,N2],count=rows=>Object.fromEntries(levels.map(n=>[n,rows.filter(r=>r.nivelQualidade===n).length]));
 const audit={cadernos:count(catalog.cadernos),questoes:count(questions),motivosRetencaoCadernos:Object.fromEntries([...new Set(catalog.cadernos.flatMap(e=>e.motivos))].map(m=>[m,catalog.cadernos.filter(e=>e.motivos.includes(m)).length])),detalhesCadernos:catalog.cadernos.map(({id,nivelQualidade,motivos})=>({id,nivelQualidade,motivos})),detalhesQuestoes:questions.map(({id,nivelQualidade,motivos})=>({id,nivelQualidade,motivos}))};
-mkdirSync('docs/engenharia/fase2',{recursive:true});writeFileSync('docs/engenharia/fase2/auditoria-qualidade.json',JSON.stringify(audit,null,2)+'\n');
+mkdirSync('docs/engenharia/total',{recursive:true});writeFileSync('docs/engenharia/total/auditoria-qualidade.json',JSON.stringify(audit,null,2)+'\n');
 writeFileSync('src/data/editorial/provas-indexaveis.json',JSON.stringify([...new Set(catalog.cadernos.filter(e=>e.nivelQualidade!==N0).map(e=>e.href))],null,2)+'\n');
 console.log('Régua de qualidade',JSON.stringify({cadernos:audit.cadernos,questoes:audit.questoes}));
 console.log(JSON.stringify({bancas:catalog.bancas.length,bancasComAcervo:new Set(catalog.cadernos.map(e=>e.banca)).size,cadernos:catalog.cadernos.length,questoes:questions.length,...catalog.inventario},null,2));

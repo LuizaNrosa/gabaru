@@ -36,10 +36,10 @@ export default function Sobre() {
       <section className={`${CONTAINER} pt-16`} aria-labelledby="criadores">
         <p className="gb-eyebrow">QUEM ESTÁ POR TRÁS</p>
         <h2 id="criadores" className="gb-section-title mt-3">Conheça os criadores</h2>
-        <p className="mt-4 max-w-3xl text-n5">Luiza e Felipe Nascimento Rosa são um casal unido pela educação e pela vontade de construir uma ferramenta que faça diferença na vida de quem estuda.</p>
+        <p className="mt-4 max-w-3xl text-n5">Luiza Nascimento Rosa responde pela curadoria pedagógica do Gabaru. Luiza e Felipe Nascimento Rosa são um casal unido pela educação e pela vontade de construir uma ferramenta que faça diferença na vida de quem estuda.</p>
         <div className="mt-8 grid gap-5 md:grid-cols-2">
           <article className="gb-content-card"><h3 className="text-xl font-bold">Luiza Nascimento Rosa</h3><p>Formada em Matemática, Luiza atua como professora em diferentes ambientes e é entusiasta de design e programação. No Gabaru, reúne educação e tecnologia para criar uma experiência clara e acolhedora para o estudante.</p></article>
-          <article id="curadoria" className="gb-content-card"><h3 className="text-xl font-bold">Felipe Nascimento Rosa</h3><p>Educador e curador pedagógico do Gabaru. Matemático de formação e professor, Felipe é entusiasta de Filosofia e Linguística. Seu interesse pelo conhecimento e pela linguagem contribui para uma abordagem de estudo que valoriza compreensão e clareza.</p></article>
+          <article id="colaboracao" className="gb-content-card"><h3 className="text-xl font-bold">Felipe Nascimento Rosa</h3><p>Educador colaborador do Gabaru. Matemático de formação e professor, Felipe é entusiasta de Filosofia e Linguística. Seu interesse pelo conhecimento e pela linguagem contribui para uma abordagem de estudo que valoriza compreensão e clareza.</p></article>
         </div>
         <p className="mt-6 max-w-3xl text-n5">Juntos, Luiza e Felipe trabalham para fazer do Gabaru a melhor plataforma de vestibulinhos e vestibulares do país: sem complicação desnecessária, com compromisso de entregar o que prometem e melhorar a cada etapa.</p>
       </section>

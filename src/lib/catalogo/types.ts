@@ -1,4 +1,4 @@
-export type NivelQualidade='nivel-0-rascunho'|'nivel-1-gabarito-oficial'|'nivel-2-resolucao-comentada';
+export type NivelQualidade='nivel-0-quarentena'|'nivel-1-gabarito-oficial'|'nivel-2-resolucao-comentada';
 export type Categoria = 'enem' | 'vestibulinho' | 'vestibulares';
 export type Alternativa = { letra: string; texto: string };
 export type Questao = {
@@ -6,7 +6,7 @@ export type Questao = {
   tabelas?: {linhas:(string|null)[][];pagina:number}[];
   resolucaoEstruturada?: {alternativaCorreta:string;conceito:string;passos:string[];distratores:Record<string,string>;grafico?:{funcao:string;pontos:[number,number][]}};
   id: string; slug: string; banca: string; ano: number; edicao: string; numero: number;
-  area: string; disciplina: string; assunto: string; tema: string;
+  habilidade?:string; area: string; disciplina: string; assunto: string; tema: string;
   dificuldade: 'nao-classificada' | 'facil' | 'media' | 'dificil';
   textoBase?: { texto: string; fonte: string; idioma?: 'pt-BR' | 'en' | 'es' };
   enunciado: string; imagens: { src: string; alt: string; caption: string; width:number; height:number }[];

@@ -13,10 +13,10 @@ tema: "Numeração de lotes em progressão aritmética"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2024-ppl-d2-q143.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 143 — ENEM 2024](enem-2024-ppl-d2-q143.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 143  
 Um novo condomínio foi construído na Rua X. Alguns lotes já receberam numeração  
@@ -42,5 +42,3 @@ B 73.
 C 95.  
 D 117.  
 E 161.
-
-</details>

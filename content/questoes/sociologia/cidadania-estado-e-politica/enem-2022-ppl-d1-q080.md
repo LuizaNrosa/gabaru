@@ -13,10 +13,10 @@ tema: "Rancière, riqueza e nascimento e oligarquias nas democracias"
 classificacao_confianca: media
 gabarito: C
 imagem: enem-2022-ppl-d1-q080.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 80 — ENEM 2022](enem-2022-ppl-d1-q080.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 80  
 A história conheceu dois grandes títulos para governar os homens:  
@@ -35,5 +35,3 @@ B corrupção nas práticas eleitorais.
 C oligarquias nas casas legislativas.  
 D degradação nas estruturas fiscais.  
 E fortalecimento das siglas partidárias.
-
-</details>

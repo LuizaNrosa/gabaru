@@ -1,11 +1,11 @@
 """Parse actual HTTP XML and verify canonical URLs, robots rules and editorial gates."""
 import json, os, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime
-origin='https://www.gabaru.com.br'
+origin='https://gabaru.com.br'
 base=os.environ.get('VERIFY_BASE_URL','http://localhost:3000')
 ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
 cat=json.load(open('src/data/catalogo-v2.json'))
-complete={origin+'/questoes/'+q['slug'] for q in cat['questoes'] if q['nivelQualidade']=='nivel-2-resolucao-comentada'}
+complete={origin+'/questoes/'+q['slug'] for q in cat['questoes'] if q['nivelQualidade']!='nivel-0-quarentena'}
 def get(path):
  with urllib.request.urlopen(base+path) as r:return r.read().decode()
 root=ET.fromstring(get('/sitemap.xml'));assert root.tag.endswith('sitemapindex')
@@ -18,7 +18,7 @@ for name in ['hubs','provas','disciplinas','questoes']:
  assert len(urls)==len(set(urls)),name
  assert all(u.startswith(origin+'/') and '?' not in u for u in urls)
  if name=='questoes':assert set(urls)==complete
- if name=='provas':assert set(urls)=={origin+e['href'] for e in cat['cadernos'] if e['nivelQualidade']!='nivel-0-rascunho'}
+ if name=='provas':assert set(urls)=={origin+e['href'] for e in cat['cadernos'] if e['nivelQualidade']!='nivel-0-quarentena'}
  assert len(urls)<=2000
  for entry in doc.findall('s:url',ns):
   last=entry.find('s:lastmod',ns)

@@ -13,10 +13,10 @@ tema: "Argumentos sobre o lado sombrio dos contos de fadas"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q009.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 9 — ENEM 2022](enem-2022-ppl-d1-q009.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 09  
 Em nenhum outro tipo de literatura a fantasia desempenha papel tão  
@@ -47,5 +47,3 @@ B estimulam a fantasia e a imaginação dos leitores.
 C favorecem a identificação com os personagens.  
 D são inadequados para a maioria das crianças.  
 E são adaptados aos valores de cada época.
-
-</details>

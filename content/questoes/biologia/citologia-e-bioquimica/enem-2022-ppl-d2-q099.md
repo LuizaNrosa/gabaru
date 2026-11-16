@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d2-q099.webp
 obs: "rodapé de página indevido no fim da imagem (ROSA - 2ª Aplicação, logo enem2022) e faixa de código de barras na margem esquerda"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 99 — ENEM 2022](enem-2022-ppl-d2-q099.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 99  
 Em um sistema hipotético mantido sob iluminação,  
@@ -32,5 +32,3 @@ B piruvato produzido na glicólise.
 C etanol produzido na fermentação.  
 D glicose produzida na fotossíntese.  
 E gás carbônico produzido no ciclo de Krebs.
-
-</details>

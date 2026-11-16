@@ -13,10 +13,10 @@ tema: "Conceito científico de força versus senso comum"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2024-ppl-d2-q102.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 102 — ENEM 2024](enem-2024-ppl-d2-q102.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 102  
 A palavra força é usada em nosso cotidiano com diversos significados. Em física,  
@@ -34,5 +34,3 @@ B 2.
 C 3.  
 D 4.  
 E 5.
-
-</details>

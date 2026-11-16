@@ -35,7 +35,7 @@ export default function App() {
 function Main() {
   const [tab, setTab] = useState<Tab>("home"),
     [catalog, setCatalog] = useState<Catalog | null>(null),
-    [busy, setBusy] = useState(false),
+    [busy, setBusy] = useState(true),
     [error, setError] = useState("");
   const [subject, setSubject] = useState("todas"),
     [year, setYear] = useState(""),
@@ -54,8 +54,8 @@ function Main() {
     [rows, setRows] = useState<
       { subject: string; count: number; elapsed: number }[]
     >([]);
-  const deadline = useRef(Date.now() + 1800000),
-    activeAt = useRef(Date.now()),
+  const deadline = useRef(0),
+    activeAt = useRef(0),
     activeMs = useRef(0);
   const { width } = useWindowDimensions();
   const question = items[index];
@@ -79,7 +79,8 @@ function Main() {
     });
   }
   useEffect(() => {
-    void refresh();
+    let active=true;
+    void Promise.all([getJSON<Catalog>("/api/v1/catalog"),store.stats()]).then(([data,stats])=>{if(active){setCatalog(data);setRows(stats);}}).catch(e=>{if(active)setError(e instanceof Error?e.message:"Não foi possível carregar. Tente novamente.");}).finally(()=>{if(active)setBusy(false);});
     void store
       .profile()
       .then((p) => {
@@ -93,6 +94,7 @@ function Main() {
       .restoreSession()
       .then((s) => setSigned(!!s))
       .catch(() => {});
+    return()=>{active=false;};
   }, []);
   useEffect(() => {
     const handler = BackHandler.addEventListener("hardwareBackPress", () => {
@@ -118,8 +120,6 @@ function Main() {
   useEffect(() => {
     activeAt.current = Date.now();
     activeMs.current = 0;
-    setSelected("");
-    setConfirmed(false);
   }, [index, items]);
   useEffect(() => {
     const sub = AppState.addEventListener("change", (state) => {
@@ -158,6 +158,7 @@ function Main() {
         throw new Error("Nenhuma questão para esses filtros.");
       setItems(data.items);
       setIndex(0);
+      setSelected("");setConfirmed(false);
       setRemaining(1800);
       deadline.current = Date.now() + 1800000;
     });
@@ -174,6 +175,7 @@ function Main() {
     });
   }
   function next() {
+    setSelected("");setConfirmed(false);
     if (index + 1 >= items.length) {
       setItems([]);
       setTab("home");
@@ -464,6 +466,8 @@ function Main() {
                           );
                         setItems(pack);
                         setIndex(0);
+                        setSelected("");setConfirmed(false);
+                        deadline.current=Date.now()+1800000;setRemaining(1800);
                         setMode("study");
                       })
                     }

@@ -13,10 +13,10 @@ tema: "Narrador-personagem e tensão na relação pai e filho"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q038.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 38 — ENEM 2022](enem-2022-ppl-d1-q038.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 38  
 Os homens estavam tratando de negócios e eu fiquei longe pra  
@@ -49,5 +49,3 @@ A humilhação sofrida pelo pai na negociação.
 B ameaça nas atitudes do dono do comércio.  
 C compaixão pelo comportamento paterno.  
 D tensão entre os homens do armazém.
-
-</details>

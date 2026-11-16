@@ -13,10 +13,10 @@ tema: "Diferença salarial média entre homens e mulheres em gráfico"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2024-ppl-d2-q155.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 155 — ENEM 2024](enem-2024-ppl-d2-q155.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 155  
 Apesar de a participação das mulheres no mercado de trabalho ter crescido ao  
@@ -32,5 +32,3 @@ B 120,0
 C 110,5  
 D 82,0  
 E 65,5
-
-</details>

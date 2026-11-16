@@ -14,10 +14,10 @@ classificacao_confianca: baixa
 gabarito: C
 imagem: enem-2022-ppl-d2-q156.webp
 obs: "imagem cortada: só aparece o enunciado inicial e o quadro de quantidades; faltam o restante do texto, a pergunta final e as alternativas A a E"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 156 — ENEM 2022](enem-2022-ppl-d2-q156.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 156  
 Três amigos, A, B e C, se encontraram em um  
@@ -64,5 +64,3 @@ C
 D  
 E  
 13,20.
-
-</details>

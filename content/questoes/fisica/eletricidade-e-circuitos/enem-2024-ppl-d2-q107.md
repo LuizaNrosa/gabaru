@@ -13,10 +13,10 @@ tema: "Redimensionamento de resistor em aquecedor elétrico"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q107.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 107 — ENEM 2024](enem-2024-ppl-d2-q107.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 107  
 Aquecedores elétricos utilizam resistência de fio, suportando uma corrente máxima  
@@ -33,5 +33,3 @@ B 22,5 Ω em série.
 C 71,1 Ω em paralelo.  
 D 71,1 Ω em série.  
 E 101,1 Ω em paralelo.
-
-</details>

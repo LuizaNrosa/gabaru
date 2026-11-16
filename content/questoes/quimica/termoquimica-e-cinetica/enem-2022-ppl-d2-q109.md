@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d2-q109.webp
 obs: "rodapé de página indevido (logo enem2022 e 'CN - 2º dia' no fim da imagem)"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 109 — ENEM 2022](enem-2022-ppl-d2-q109.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 109  
 Os combustíveis são materiais utilizados na produção  
@@ -59,5 +59,3 @@ B Etino.
 C Propano.  
 D Butano.  
 E Octano.
-
-</details>

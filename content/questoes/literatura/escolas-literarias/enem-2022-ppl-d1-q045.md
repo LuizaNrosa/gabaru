@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q045.webp
 obs: "imagem enorme com página indevida: contém também instruções e proposta de redação, textos motivadores e rodapé 'Ciências Humanas, questões 46 a 90'"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 45 — ENEM 2022](enem-2022-ppl-d1-q045.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 45  
 Conseguindo, porém, escapar à vigilância dos interessados, e  
@@ -110,5 +110,3 @@ proposta de intervenção que respeite os direitos humanos. Selecione,
 organize e relacione, de forma coerente e coesa, argumentos e fatos  
 para a defesa de seu ponto de vista.  
 CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS
-
-</details>

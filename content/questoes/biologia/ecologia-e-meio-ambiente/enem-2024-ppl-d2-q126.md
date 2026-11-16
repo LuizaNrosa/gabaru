@@ -13,10 +13,10 @@ tema: "Mitigação da contaminação por impermeabilização urbana"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2024-ppl-d2-q126.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 126 — ENEM 2024](enem-2024-ppl-d2-q126.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 126  
 Nas últimas décadas, a população dos centros urbanos tem requerido a  
@@ -31,5 +31,3 @@ B Incentivar a construção de fossas sépticas.
 C Difundir o uso de vasos de plantas nas vias públicas.  
 D Promover a construção de parques e espaços arborizados.  
 E Propor políticas de expansão da canalização das redes fluviais.
-
-</details>

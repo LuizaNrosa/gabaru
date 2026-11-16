@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q001.webp
 obs: "região em branco grande na metade inferior da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 1 — ENEM 2022](enem-2022-ppl-d1-q001.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 01  
 How little we know of what there is to know. I wish that I were going  
@@ -35,5 +35,3 @@ B manifesta seu contentamento.
 C lamenta sua condição.  
 D exibe sua sabedoria.  
 E anseia por sua partida.
-
-</details>

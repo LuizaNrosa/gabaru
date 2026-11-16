@@ -13,10 +13,10 @@ tema: "Leitura de multímetro como amperímetro em circuito com lâmpada"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d2-q130.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 130 — ENEM 2022](enem-2022-ppl-d2-q130.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 130  
 Um multímetro pode atuar como voltímetro (leitura  
@@ -39,5 +39,3 @@ B corrente elétrica e 0,15.
 C corrente elétrica e 0,29.  
 D tensão elétrica e 0,14.  
 E tensão elétrica e 225.
-
-</details>

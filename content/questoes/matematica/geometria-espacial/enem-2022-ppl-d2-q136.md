@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d2-q136.webp
 obs: "rodapé de página indevido (início de 'MT - 2º dia') no fim da imagem; região em branco grande"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 136 — ENEM 2022](enem-2022-ppl-d2-q136.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 136  
 Um novo produto, denominado bolo de caneca no  
@@ -45,5 +45,3 @@ C
 D  
 1 116.  
 E
-
-</details>

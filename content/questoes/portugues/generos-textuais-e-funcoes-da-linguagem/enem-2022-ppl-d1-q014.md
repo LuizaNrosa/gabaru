@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q014.webp
 obs: "região em branco grande na parte inferior da imagem (imagem muito alta, texto ocupa cerca de metade)"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 14 — ENEM 2022](enem-2022-ppl-d1-q014.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 14  
 Trechos do discurso de Ulysses Guimarães na  
@@ -75,5 +75,3 @@ palavras com que comecei esta fala”.
 E   
 “Não é a Constituição perfeita, mas será útil, pioneira,  
 desbravadora.” e “Que a promulgação seja o nosso grito”.
-
-</details>

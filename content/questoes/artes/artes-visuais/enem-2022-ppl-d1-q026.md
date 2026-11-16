@@ -13,10 +13,10 @@ tema: "Kusiwa Wajãpi e arte indígena além da estética"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q026.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 26 — ENEM 2022](enem-2022-ppl-d1-q026.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 26  
 O povo indígena Wajãpi utiliza o Kusiwa — reconhecido como bem  
@@ -37,5 +37,3 @@ D padronizam uma mesma identidade gráfica entre diferentes povos
 indígenas.  
 E primam pela utilização dos grafismos como contraposição ao  
 mundo imaginário.
-
-</details>

@@ -13,10 +13,10 @@ tema: "Estrutura de resenha sobre Sociedade do cansaço"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q013.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 13 — ENEM 2022](enem-2022-ppl-d1-q013.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 13  
 Tiranos de nós mesmos: a servidão voluntária na era da  
@@ -52,5 +52,3 @@ conceituação.
 D exemplifica, apresenta sua fundamentação e avalia seus  
 resultados.  
 E discute, apresenta seu conceito e promove uma discussão.
-
-</details>

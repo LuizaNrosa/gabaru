@@ -13,10 +13,10 @@ tema: "Maior razão entre volume de chuva e dias"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q154.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 154 — ENEM 2024](enem-2024-ppl-d2-q154.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 154  
 Após um período de seca e baixa nos níveis dos reservatórios de água,  
@@ -40,5 +40,3 @@ B II.
 C III.  
 D IV.  
 E V.
-
-</details>

@@ -13,10 +13,10 @@ tema: "Frequência da rede e indicação de cronômetro eletrônico"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2024-ppl-d2-q112.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 112 — ENEM 2024](enem-2024-ppl-d2-q112.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 112  
 Um cronômetro eletrônico de precisão importado é utilizado para realizar medidas  
@@ -34,5 +34,3 @@ B 50.
 C 60.  
 D 72.  
 E 132.
-
-</details>

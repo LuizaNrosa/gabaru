@@ -13,10 +13,10 @@ tema: "Reação de hidrólise na reciclagem química do PET"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2024-ppl-d2-q133.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 133 — ENEM 2024](enem-2024-ppl-d2-q133.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 133  
 O politereftalato de etileno (PET) é um polímero muito utilizado na confecção de  
@@ -33,5 +33,3 @@ B eterificação.
 C esterificação.  
 D neutralização.  
 E transesterificação.
-
-</details>

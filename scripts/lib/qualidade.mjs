@@ -1,10 +1,13 @@
+import {severeNoise} from './saneamento.mjs';
 import {createHash} from 'node:crypto';
 import { existsSync } from 'node:fs';
 import { resolve,sep } from 'node:path';
-export const N0='nivel-0-rascunho',N1='nivel-1-gabarito-oficial',N2='nivel-2-resolucao-comentada';
+export const N0='nivel-0-quarentena',N1='nivel-1-gabarito-oficial',N2='nivel-2-resolucao-comentada';
 export function resolutionValid(r,q){if(!r||r.alternativaCorreta!==q.correta||typeof r.conceito!=='string'||r.conceito.trim().length<20||!Array.isArray(r.passos)||r.passos.length<2||r.passos.some(s=>typeof s!=='string'||s.trim().length<15))return false;return q.alternativas.filter(a=>a.letra!==q.correta).every(a=>typeof r.distratores?.[a.letra]==='string'&&r.distratores[a.letra].trim().length>=15)&&Object.keys(r.distratores??{}).length===q.alternativas.length-1;}
-export function questionQuality(q,{gabaritoVerificado=false,expected=5,legadaComentada=false}={}){
+export function questionQuality(q,{gabaritoVerificado=false,expected=5,legadaComentada=false,textoConferido=false}={}){
  const motivos=[];
+ if(q.banca==='enem'&&!textoConferido&&!q.proveniencia?.extracaoValidada)motivos.push('transcricao-ocr-sem-conferencia-de-layout');
+ if(severeNoise([q.enunciado,q.textoBase?.texto,...q.alternativas.map(a=>a.texto),...(q.comentarioResolucao??[])].join(' ')))motivos.push('ruido-severo-de-ocr');
  if(q.enunciado.trim().length<20&&!q.textoBase?.texto)motivos.push('enunciado-ausente-ou-insuficiente');
  if(q.alternativas.length!==expected||q.alternativas.map(a=>a.letra).join('')!=='ABCDE'.slice(0,expected)||q.alternativas.some(a=>!/[\p{L}\p{N}]/u.test(a.texto)))motivos.push('alternativas-incompletas');
  if(q.anulada)motivos.push('questao-anulada-retida-para-revisao-editorial');

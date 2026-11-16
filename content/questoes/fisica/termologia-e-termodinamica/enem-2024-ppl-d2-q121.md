@@ -13,10 +13,10 @@ tema: "Raio de balão atmosférico com gás ideal e altitude"
 classificacao_confianca: media
 gabarito: D
 imagem: enem-2024-ppl-d2-q121.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 121 — ENEM 2024](enem-2024-ppl-d2-q121.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 121  
 Uma equipe de pesquisadores interessados em estudar a concentração de ozônio  
@@ -36,5 +36,3 @@ B 8,00
 C 2,83  
 D 2,00  
 E 1,25
-
-</details>

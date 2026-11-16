@@ -25,12 +25,19 @@
     "resolucoes:lote": "node scripts/gerar-resolucoes-lote.mjs",
     "validar:fase2": "node --test tests/catalogo-v2.test.mjs tests/qualidade-fase2.test.mjs tests/sitemap-fase2.test.mjs tests/resolucoes-checkpoint.test.mjs",
     "validar:links": "node scripts/verificar-links-internos.mjs",
-    "validar:fluxos-fase2": "node scripts/verificar-fase2.mjs"
+    "validar:fluxos-fase2": "node scripts/verificar-fase2.mjs",
+    "acervo:sanear": "node scripts/sanear-acervo.mjs",
+    "test:e2e": "playwright test",
+    "test:security": "node --test tests/security-total.test.mjs",
+    "test:firestore": "node --use-env-proxy scripts/testar-firestore.mjs",
+    "typecheck:apk": "npm --prefix APK run typecheck",
+    "validar:total": "node --test tests/catalogo-v2.test.mjs tests/qualidade-fase2.test.mjs tests/sitemap-fase2.test.mjs tests/resolucoes-checkpoint.test.mjs tests/security-total.test.mjs tests/saneamento.test.mjs tests/study-progress.test.mjs tests/incidence.test.mjs"
   },
   "dependencies": {
     "firebase": "^13.0.0",
     "firebase-admin": "^14.5.0",
     "function-plot": "^1.26.0",
+    "isomorphic-dompurify": "^4.7.0",
     "katex": "^0.19.1",
     "lucide-react": "^1.73.0",
     "minisearch": "^7.2.0",
@@ -41,14 +48,17 @@
     "react-dom": "^19.0.0",
     "server-only": "^0.0.1",
     "sitemap": "^10.0.0",
-    "stripe": "^17.0.0"
+    "stripe": "^17.0.0",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@axe-core/cli": "^4.14.0",
     "@axe-core/playwright": "^4.14.0",
     "@electric-sql/pglite": "^0.5.14",
     "@napi-rs/canvas": "1.1.1",
+    "@playwright/test": "^1.65.1",
     "@tailwindcss/postcss": "^4.0.0",
+    "@types/htmlhint": "^1.1.5",
     "@types/katex": "^0.16.8",
     "@types/node": "^22.0.0",
     "@types/pg": "^8.23.1",
@@ -56,6 +66,7 @@
     "@types/react-dom": "^19.0.0",
     "eslint": "^9.0.0",
     "eslint-config-next": "^16.4.1",
+    "eslint-plugin-security": "^4.2.1",
     "htmlhint": "^1.9.2",
     "pdfjs-dist": "6.5.438",
     "playwright": "^1.65.0",

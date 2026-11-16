@@ -1,106 +1,965 @@
 # Gabaru
 
-> Plataforma brasileira de provas anteriores do ENEM, vestibulinhos e vestibulares. Conteúdo em português do Brasil. Projeto independente das bancas.
+Plataforma independente de provas, questões e estudo para ENEM, vestibulinhos e vestibulares. Curadoria pedagógica: Luiza Nascimento Rosa. Os conteúdos não substituem editais ou fontes oficiais.
 
-O catálogo distingue transcrições em revisão, gabarito oficial e resolução editorial. Somente questões completas com resolução publicada integram o sitemap de questões. A autoria técnica de Luiza Nascimento Rosa é preservada; Felipe Nascimento Rosa responde pela curadoria pedagógica. Não presumir revisão completa de todo o acervo.
+- [ENEM](https://gabaru.com.br/enem)
+- [Vestibulinhos](https://gabaru.com.br/vestibulinho)
+- [Vestibulares](https://gabaru.com.br/vestibulares)
+- [Questões](https://gabaru.com.br/questoes)
+- [Metodologia e autoria](https://gabaru.com.br/sobre)
 
-## Caminhos principais
-- [ENEM](https://www.gabaru.com.br/enem)
-- [Vestibulinhos](https://www.gabaru.com.br/vestibulinho)
-- [Vestibulares](https://www.gabaru.com.br/vestibulares)
-- [Banco de questões](https://www.gabaru.com.br/questoes)
-- [Sobre e metodologia](https://www.gabaru.com.br/sobre)
+## Estrutura e qualidade
 
-## Conteúdo e simulados
+Nível 0: quarentena, sem indexação; consultar PDF, sem presumir conteúdo ou resposta válidos. Nível 1: texto, alternativas e gabarito conferidos. Nível 2: acrescenta resolução em conceito, passos e distratores. Os sitemaps incluem questões N1/N2 e apenas cadernos completos N1/N2. Os registros documentais abaixo fazem parte do inventário, não de uma recomendação de indexação.
 
-Cada questão pode conter banca, edição, ano, área, disciplina, assunto, dificuldade editorial, texto-base com fonte, enunciado, imagens descritas, alternativas, gabarito e resolução. Campos ausentes permanecem pendentes. O modo estudo permite conferir uma resposta; o simulado oculta a resolução na interface até finalizar, salva o prazo e as respostas no navegador e apresenta acertos por disciplina, sem estimar TRI.
+Estudo: resposta imediata, riscador e revisão espaçada. Simulado: prazo, cartão-resposta e boletim por disciplina/habilidade, sem TRI. Visitantes salvam no navegador; contas autenticadas sincronizam seu próprio progresso. Habilidades ausentes não são inferidas.
 
-## COLUNI/UFV — Colégio de Aplicação da Universidade Federal de Viçosa
-https://www.gabaru.com.br/banca/coluni
+## Bancas e cadernos — inventário completo
 
+### COLUNI/UFV: Colégio de Aplicação da Universidade Federal de Viçosa
+https://gabaru.com.br/banca/coluni
+Categoria: vestibulinho; cadernos: 14.
+- COLUNI/UFV 2026 · Caderno 1: https://gabaru.com.br/provas/coluni/2026; 38 itens; situação nivel-0-quarentena; fonte https://www.pse.coluni.ufv.br/exame-de-selecao/exames-anteriores/exame-de-selecao-cap-coluni-2026/.
+- COLUNI/UFV 2025 · Caderno 1: https://gabaru.com.br/provas/coluni/2025; 38 itens; situação nivel-0-quarentena; fonte https://www.pse.coluni.ufv.br/exame-de-selecao/exames-anteriores/exame-de-selecao-do-cap-coluni-2025/.
+- COLUNI/UFV 2024 · Caderno 1: https://gabaru.com.br/provas/coluni/2024; 38 itens; situação nivel-0-quarentena; fonte https://www.pse.coluni.ufv.br/exame-de-selecao/exames-anteriores/exame-de-selecao-do-cap-coluni-2024/.
+- COLUNI/UFV 2023 · Caderno 1: https://gabaru.com.br/provas/coluni/2023; 38 itens; situação nivel-0-quarentena; fonte https://www.pse.coluni.ufv.br/exame-de-selecao/exames-anteriores/exame-de-selecao-do-cap-coluni-2023/.
+- COLUNI/UFV 2022 · Caderno 1: https://gabaru.com.br/provas/coluni/2022; 38 itens; situação nivel-0-quarentena; fonte https://www.pse.coluni.ufv.br/exame-de-selecao/exames-anteriores/exame-de-selecao-do-cap-coluni-2022/.
+- COLUNI/UFV 2021 · Caderno 1: https://gabaru.com.br/provas/coluni/2021; 38 itens; situação nivel-0-quarentena; fonte https://www.pse.coluni.ufv.br/exame-de-selecao/dados-de-exames-anteriores/exame-de-selecao-do-cap-coluni-2021/.
+- COLUNI/UFV 2020 · Caderno 1: https://gabaru.com.br/provas/coluni/2020; 38 itens; situação nivel-0-quarentena; fonte https://www.pse.coluni.ufv.br/exame-de-selecao/exames-anteriores/exame-de-selecao-do-cap-coluni-2020/.
+- COLUNI/UFV 2019 · Caderno 1: https://gabaru.com.br/provas/coluni/2019; 38 itens; situação nivel-0-quarentena; fonte https://www.pse.coluni.ufv.br/exame-de-selecao/exames-anteriores/exame-de-selecao-do-cap-coluni-2019/.
+- COLUNI/UFV 2018 · Caderno 1: https://gabaru.com.br/provas/coluni/2018; 38 itens; situação nivel-0-quarentena; fonte https://www.pse.coluni.ufv.br/exame-de-selecao/exames-anteriores/exame-de-selecao-do-cap-coluni-2018/.
+- COLUNI/UFV 2017 · Caderno 1: https://gabaru.com.br/provas/coluni/2017; 48 itens; situação nivel-0-quarentena; fonte https://www.pse.coluni.ufv.br/exame-de-selecao/exames-anteriores/exame-de-selecao-do-cap-coluni-2017/.
+- COLUNI/UFV 2016 · Caderno 1: https://gabaru.com.br/provas/coluni/2016; 48 itens; situação nivel-0-quarentena; fonte https://www.pse.coluni.ufv.br/exame-de-selecao/exames-anteriores/exame-de-selecao-do-cap-coluni-2016/.
+- COLUNI/UFV 2015 · Caderno 1: https://gabaru.com.br/provas/coluni/2015; 48 itens; situação nivel-0-quarentena; fonte https://coluni.ufv.br/futuro-estudante/exame-de-selecao/provas-anteriores/.
+- COLUNI/UFV 2014 · Caderno 1: https://gabaru.com.br/provas/coluni/2014; 48 itens; situação nivel-0-quarentena; fonte https://coluni.ufv.br/futuro-estudante/exame-de-selecao/provas-anteriores/.
+- COLUNI/UFV 2013 · Caderno 1: https://gabaru.com.br/provas/coluni/2013; 48 itens; situação nivel-0-quarentena; fonte https://coluni.ufv.br/futuro-estudante/exame-de-selecao/provas-anteriores/.
 
-## ETEC — Centro Paula Souza — Escolas Técnicas Estaduais
-https://www.gabaru.com.br/banca/etec
+### COTIL: Colégio Técnico de Limeira — Unicamp
+https://gabaru.com.br/banca/cotil
+Categoria: vestibulinho; cadernos: 0.
 
+### COTUCA: Colégio Técnico de Campinas — Unicamp
+https://gabaru.com.br/banca/cotuca
+Categoria: vestibulinho; cadernos: 0.
 
-## FUVEST — Fundação Universitária para o Vestibular
-https://www.gabaru.com.br/banca/fuvest
+### ETEC: Centro Paula Souza — Escolas Técnicas Estaduais
+https://gabaru.com.br/banca/etec
+Categoria: vestibulinho; cadernos: 43.
+- ETEC 2026 · 1º semestre: https://gabaru.com.br/provas/etec/2026-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026.
+- ETEC 2026 · 2º semestre: https://gabaru.com.br/provas/etec/2026-2; 50 itens; situação nivel-1-gabarito-oficial; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026.
+- ETEC 2025 · 1º semestre: https://gabaru.com.br/provas/etec/2025-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025.
+- ETEC 2025 · 2º semestre: https://gabaru.com.br/provas/etec/2025-2; 50 itens; situação nivel-0-quarentena; fonte https://www.cps.sp.gov.br/etec/vestibulinho/.
+- ETEC 2024 · 1º semestre: https://gabaru.com.br/provas/etec/2024-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024.
+- ETEC 2024 · 2º semestre: https://gabaru.com.br/provas/etec/2024-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024.
+- ETEC 2023 · 1º semestre: https://gabaru.com.br/provas/etec/2023-1; 40 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023.
+- ETEC 2023 · 2º semestre: https://gabaru.com.br/provas/etec/2023-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023.
+- ETEC 2022 · 2º semestre: https://gabaru.com.br/provas/etec/2022-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2022.
+- ETEC 2020 · 1º semestre: https://gabaru.com.br/provas/etec/2020-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2020.
+- ETEC 2019 · 1º semestre: https://gabaru.com.br/provas/etec/2019-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2019.
+- ETEC 2019 · 2º semestre: https://gabaru.com.br/provas/etec/2019-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2019.
+- ETEC 2018 · 1º semestre: https://gabaru.com.br/provas/etec/2018-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2018.
+- ETEC 2018 · 2º semestre: https://gabaru.com.br/provas/etec/2018-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2018.
+- ETEC 2017 · 1º semestre: https://gabaru.com.br/provas/etec/2017-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2017.
+- ETEC 2017 · 2º semestre: https://gabaru.com.br/provas/etec/2017-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2017.
+- ETEC 2016 · 1º semestre: https://gabaru.com.br/provas/etec/2016-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2016.
+- ETEC 2016 · 2º semestre: https://gabaru.com.br/provas/etec/2016-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2016.
+- ETEC 2015 · 1º semestre: https://gabaru.com.br/provas/etec/2015-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2015.
+- ETEC 2015 · 2º semestre: https://gabaru.com.br/provas/etec/2015-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2015.
+- ETEC 2014 · 1º semestre: https://gabaru.com.br/provas/etec/2014-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2014.
+- ETEC 2014 · 2º semestre: https://gabaru.com.br/provas/etec/2014-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2014.
+- ETEC 2013 · 1º semestre: https://gabaru.com.br/provas/etec/2013-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2013.
+- ETEC 2013 · 2º semestre: https://gabaru.com.br/provas/etec/2013-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2013.
+- ETEC 2012 · 1º semestre: https://gabaru.com.br/provas/etec/2012-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2012.
+- ETEC 2012 · 2º semestre: https://gabaru.com.br/provas/etec/2012-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2012.
+- ETEC 2011 · 1º semestre: https://gabaru.com.br/provas/etec/2011-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2011.
+- ETEC 2011 · 2º semestre: https://gabaru.com.br/provas/etec/2011-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2011.
+- ETEC 2010 · 1º semestre: https://gabaru.com.br/provas/etec/2010-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2010.
+- ETEC 2010 · 2º semestre: https://gabaru.com.br/provas/etec/2010-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2010.
+- ETEC 2010 · 2º semestre · 2º processo seletivo: https://gabaru.com.br/provas/etec/2010-2-extra1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2010.
+- ETEC 2009 · 1º semestre: https://gabaru.com.br/provas/etec/2009-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2009.
+- ETEC 2009 · 1º semestre · 2º processo seletivo: https://gabaru.com.br/provas/etec/2009-1-extra1; 30 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2009.
+- ETEC 2009 · 2º semestre: https://gabaru.com.br/provas/etec/2009-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2009.
+- ETEC 2009 · 2º semestre · 2º processo seletivo: https://gabaru.com.br/provas/etec/2009-2-extra1; 40 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2009.
+- ETEC 2008 · 1º semestre: https://gabaru.com.br/provas/etec/2008-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2008.
+- ETEC 2008 · 1º semestre · Extemporâneo: https://gabaru.com.br/provas/etec/2008-1-extra1; 30 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2008.
+- ETEC 2008 · 2º semestre: https://gabaru.com.br/provas/etec/2008-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2008.
+- ETEC 2007 · 1º semestre: https://gabaru.com.br/provas/etec/2007-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2007.
+- ETEC 2007 · 2º semestre: https://gabaru.com.br/provas/etec/2007-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2007.
+- ETEC 2006 · 1º semestre: https://gabaru.com.br/provas/etec/2006-1; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2006.
+- ETEC 2006 · 2º semestre: https://gabaru.com.br/provas/etec/2006-2; 50 itens; situação nivel-0-quarentena; fonte https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2006.
+- ETEC 2005 · 2º semestre: https://gabaru.com.br/provas/etec/2005-2; 50 itens; situação nivel-0-quarentena; fonte https://www.cps.sp.gov.br/etec/vestibulinho/.
 
+### FATEC: Centro Paula Souza — Faculdades de Tecnologia
+https://gabaru.com.br/banca/fatec
+Categoria: vestibulares; cadernos: 0.
 
-## IFAM — Instituto Federal do Amazonas
-https://www.gabaru.com.br/banca/ifam
+### FUVEST: Fundação Universitária para o Vestibular
+https://gabaru.com.br/banca/fuvest
+Categoria: vestibulares; cadernos: 75.
+- 1ª fase · prova V4: https://gabaru.com.br/provas/fuvest/2026; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2026-fase1-prova-V4.pdf.
+- Prova da 2ª fase – 1º dia: https://gabaru.com.br/provas/fuvest/2026; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2026-fase2-dia1-prova.pdf.
+- Prova – Música – São Paulo: https://gabaru.com.br/provas/fuvest/2025; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2025_prova-musica-sp.pdf.
+- Prova prática – Arte Cênicas: https://gabaru.com.br/provas/fuvest/2025; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2025_prova-pratica-artes-cenicas.pdf.
+- Prova escrita – Arte Cênicas: https://gabaru.com.br/provas/fuvest/2025; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2025_prova-escrita_artes-cenicas.pdf.
+- Prova – Artes Visuais: https://gabaru.com.br/provas/fuvest/2025; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2025_prova_artes-visuais.pdf.
+- FUVEST 2025 · V1: https://gabaru.com.br/provas/fuvest/2025; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2025_primeira_fase_prova_V1.pdf.
+- FUVEST 2025 · V2: https://gabaru.com.br/provas/fuvest/2025; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2025_primeira_fase_prova_V2.pdf.
+- FUVEST 2025 · V3: https://gabaru.com.br/provas/fuvest/2025; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2025_primeira_fase_prova_V3.pdf.
+- FUVEST 2025 · V4: https://gabaru.com.br/provas/fuvest/2025; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2025_primeira_fase_prova_V4.pdf.
+- FUVEST 2024 · K: https://gabaru.com.br/provas/fuvest/2024; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2024_primeira_fase_prova_K.pdf.
+- FUVEST 2024 · Q: https://gabaru.com.br/provas/fuvest/2024; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2024_primeira_fase_prova_Q.pdf.
+- FUVEST 2024 · V: https://gabaru.com.br/provas/fuvest/2024; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2024_primeira_fase_prova_V.pdf.
+- FUVEST 2024 · X: https://gabaru.com.br/provas/fuvest/2024; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2024_primeira_fase_prova_X.pdf.
+- FUVEST 2024 · Z: https://gabaru.com.br/provas/fuvest/2024; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2024_primeira_fase_prova_Z.pdf.
+- FUVEST 2023 · K: https://gabaru.com.br/provas/fuvest/2023; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_K.pdf.
+- FUVEST 2023 · Q: https://gabaru.com.br/provas/fuvest/2023; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_Q.pdf.
+- FUVEST 2023 · V: https://gabaru.com.br/provas/fuvest/2023; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_V.pdf.
+- FUVEST 2023 · X: https://gabaru.com.br/provas/fuvest/2023; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_X.pdf.
+- FUVEST 2023 · Z: https://gabaru.com.br/provas/fuvest/2023; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest2023_primeira_fase_prova_Z.pdf.
+- FUVEST 2022 · K: https://gabaru.com.br/provas/fuvest/2022; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2022_primeira_fase_tipo_K.pdf.
+- FUVEST 2022 · Q: https://gabaru.com.br/provas/fuvest/2022; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2022_primeira_fase_tipo_Q.pdf.
+- FUVEST 2022 · V: https://gabaru.com.br/provas/fuvest/2022; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2022_primeira_fase_tipo_V.pdf.
+- FUVEST 2022 · X: https://gabaru.com.br/provas/fuvest/2022; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2022_primeira_fase_tipo_X.pdf.
+- FUVEST 2022 · Z: https://gabaru.com.br/provas/fuvest/2022; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2022_primeira_fase_tipo_Z.pdf.
+- FUVEST 2021 · V: https://gabaru.com.br/provas/fuvest/2021; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2021_primeira_fase.pdf.
+- FUVEST 2020 · V: https://gabaru.com.br/provas/fuvest/2020; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2020_primeira_fase_prova_V.pdf.
+- FUVEST 2019 · V: https://gabaru.com.br/provas/fuvest/2019; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2019_primeira_fase.pdf.
+- FUVEST 2018 · V: https://gabaru.com.br/provas/fuvest/2018; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuv2018_1fase_prova_V.pdf.
+- FUVEST 2017 · V: https://gabaru.com.br/provas/fuvest/2017; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2017_1fase_prova_V.pdf.
+- FUVEST 2016 · V: https://gabaru.com.br/provas/fuvest/2016; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2016_1fase_prova_V.pdf.
+- FUVEST 2015 · V: https://gabaru.com.br/provas/fuvest/2015; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2015_1fase_prova_V.pdf.
+- FUVEST 2014 · V: https://gabaru.com.br/provas/fuvest/2014; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2014_1fase_prova_V.pdf.
+- FUVEST 2013 · V: https://gabaru.com.br/provas/fuvest/2013; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2013_1fase_prova_V.pdf.
+- FUVEST 2012 · V: https://gabaru.com.br/provas/fuvest/2012; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2012_1fase_prova_V.pdf.
+- FUVEST 2011 · V: https://gabaru.com.br/provas/fuvest/2011; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2011_1fase_prova_V.pdf.
+- FUVEST 2010 · V: https://gabaru.com.br/provas/fuvest/2010; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2010_1fase_prova_V.pdf.
+- FUVEST 2009 · V: https://gabaru.com.br/provas/fuvest/2009; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2009_1fase_prova_V.pdf.
+- FUVEST 2008 · V: https://gabaru.com.br/provas/fuvest/2008; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2008_1fase_prova_V.pdf.
+- FUVEST 2007 · V: https://gabaru.com.br/provas/fuvest/2007; 90 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2007_1fase_prova_V.pdf.
+- FUVEST 2006 · V: https://gabaru.com.br/provas/fuvest/2006; 100 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2006_1fase_prova_V.pdf.
+- FUVEST 2005 · V: https://gabaru.com.br/provas/fuvest/2005; 100 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2005_prova_primeira_fase.pdf.
+- FUVEST 2004 · V: https://gabaru.com.br/provas/fuvest/2004; 100 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2004_prova_primeira_fase.pdf.
+- FUVEST 2003 · V: https://gabaru.com.br/provas/fuvest/2003; 100 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2003_prova_primeira_fase.pdf.
+- FUVEST 2002 · V: https://gabaru.com.br/provas/fuvest/2002; 80 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2002_prova_primeira_fase_dia_1.pdf.
+- FUVEST 2002 · T: https://gabaru.com.br/provas/fuvest/2002; 80 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2002_prova_primeira_fase_dia_2.pdf.
+- Prova 2º Dia: https://gabaru.com.br/provas/fuvest/2001; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2001_prova_primeira_fase_dia_2.pdf.
+- FUVEST 2001 · V: https://gabaru.com.br/provas/fuvest/2001; 80 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2001_prova_primeira_fase_dia_1.pdf.
+- FUVEST 2000 · V: https://gabaru.com.br/provas/fuvest/2000; 80 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2000_prova_primeira_fase_dia_1.pdf.
+- FUVEST 2000 · T: https://gabaru.com.br/provas/fuvest/2000; 80 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_2000_prova_primeira_fase_dia_2.pdf.
+- Prova 2º Dia: https://gabaru.com.br/provas/fuvest/1999; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1999_prova_primeira_fase_dia_2.pdf.
+- Prova 1º Dia: https://gabaru.com.br/provas/fuvest/1999; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1999_prova_primeira_fase_dia_1.pdf.
+- Prova 2º Dia: https://gabaru.com.br/provas/fuvest/1998; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1998_prova_primeira_fase_dia_2.pdf.
+- Prova 1º Dia: https://gabaru.com.br/provas/fuvest/1998; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1998_prova_primeira_fase_dia_1.pdf.
+- Prova 1º Dia: https://gabaru.com.br/provas/fuvest/1997; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1997_prova_primeira_fase_dia_1.pdf.
+- Prova 2º Dia: https://gabaru.com.br/provas/fuvest/1997; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1997_prova_primeira_fase_dia_2.pdf.
+- Prova 1º Dia: https://gabaru.com.br/provas/fuvest/1996; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1996_prova_primeira_fase_dia_1.pdf.
+- Prova 2º Dia: https://gabaru.com.br/provas/fuvest/1996; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1996_prova_primeira_fase_dia_2.pdf.
+- Prova 2º Dia: https://gabaru.com.br/provas/fuvest/1995; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1995_prova_primeira_fase_dia_2.pdf.
+- Prova 1º Dia: https://gabaru.com.br/provas/fuvest/1995; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1995_prova_primeira_fase_dia_1.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1994; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1994_prova_primeira_fase.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1993; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1993_prova_primeira_fase.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1992; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1992_prova_primeira_fase.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1991; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1991_prova_primeira_fase.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1990; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1990_prova_primeira_fase.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1989; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1989_prova_primeira_fase.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1988; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1988_prova_primeira_fase.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1986; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1986_prova_primeira_fase.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1985; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1985_prova_primeira_fase.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1983; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1983_prova_primeira_fase.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1982; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1982_prova_primeira_fase.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1981; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1981_prova_primeira_fase.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1980; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest_1980_prova_primeira_fase.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1979; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest1979-fase1-prova.pdf.
+- Prova: https://gabaru.com.br/provas/fuvest/1978; 0 itens; situação nivel-0-quarentena; fonte https://www.fuvest.br/wp-content/uploads/fuvest1978-fase1-prova.pdf.
 
+### IFAM: Instituto Federal do Amazonas
+https://gabaru.com.br/banca/ifam
+Categoria: vestibulinho; cadernos: 3.
+- IFAM 2015/1: https://gabaru.com.br/provas/ifam; 0 itens; situação nivel-0-quarentena; fonte https://www2.ifam.edu.br/noticias/CADERNODEPROVAINTEGRADO20151SEMESTRE.pdf.
+- IFAM 2013/1: https://gabaru.com.br/provas/ifam; 0 itens; situação nivel-0-quarentena; fonte https://www2.ifam.edu.br/noticias/veja-provas-anteriores-de-processo-seletivo/PROVAINTEGRADO2013_1semestre.pdf.
+- IFAM 2012/1: https://gabaru.com.br/provas/ifam; 0 itens; situação nivel-0-quarentena; fonte https://www2.ifam.edu.br/noticias/veja-provas-anteriores-de-processo-seletivo/PROVAINTEGRADO2012_1.pdf.
 
-## IFCE — Instituto Federal de Educação, Ciência e Tecnologia de Ceará
-https://www.gabaru.com.br/banca/ifce
+### IFCE: Instituto Federal de Educação, Ciência e Tecnologia de Ceará
+https://gabaru.com.br/banca/ifce
+Categoria: vestibulinho; cadernos: 3.
+- IFCE Fortaleza e Caucaia 2025.1 · Técnico integrado: https://gabaru.com.br/provas/ifce/ifce-fortaleza-caucaia-2025-1; 45 itens; situação nivel-0-quarentena; fonte https://portal.ifce.edu.br/documents/10/Gabarito_Oficial_-_Integrados.pdf.
+- IFCE Fortaleza 2024.2 · Técnico integrado: https://gabaru.com.br/provas/ifce/ifce-fortaleza-2024-2; 45 itens; situação nivel-0-quarentena; fonte https://h-portal.ifce.edu.br/campus/fortaleza/estude-no-ifce/selecao-cursos-tecnicos-presenciais-integrados-e-subsequentes-20242-edital32024/.
+- IFCE Fortaleza 2023.2 · Técnico integrado: https://gabaru.com.br/provas/ifce/ifce-fortaleza-2023-2; 45 itens; situação nivel-0-quarentena; fonte https://funetec.org.br/index.php?vars=noticias%2Fver%2F529.
 
+### IFMG: Instituto Federal de Minas Gerais
+https://gabaru.com.br/banca/ifmg
+Categoria: vestibulinho; cadernos: 5.
+- IFMG 2026.1 · Técnico integrado: https://gabaru.com.br/provas/ifmg/ifmg-2026-1; 48 itens; situação nivel-0-quarentena; fonte https://www.ifmg.edu.br/portal/processo-seletivo/processos-seletivos-anteriores-1.
+- IFMG 2025.1 · Técnico integrado: https://gabaru.com.br/provas/ifmg/ifmg-2025-1; 50 itens; situação nivel-0-quarentena; fonte https://www.ifmg.edu.br/portal/processo-seletivo/processos-seletivos-anteriores-1.
+- IFMG 2024.1 · Cursos técnicos: https://gabaru.com.br/provas/ifmg/ifmg-2024-1; 50 itens; situação nivel-0-quarentena; fonte https://www.ifmg.edu.br/portal/processo-seletivo/processos-seletivos-anteriores-1.
+- IFMG 2023/2: https://gabaru.com.br/provas/ifmg; 0 itens; situação nivel-0-quarentena; fonte https://www2.ifmg.edu.br/portal/processo-seletivo/arquivos/provas/CadernoIFMGvestibular2023293638227846067122900.pdf.
+- IFMG 2023.1 · Cursos técnicos: https://gabaru.com.br/provas/ifmg/ifmg-2023-1; 50 itens; situação nivel-0-quarentena; fonte https://www.ifmg.edu.br/portal/processo-seletivo/processos-seletivos-anteriores-1.
 
-## IFMG — Instituto Federal de Minas Gerais
-https://www.gabaru.com.br/banca/ifmg
+### IFMT: Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso
+https://gabaru.com.br/banca/ifmt
+Categoria: vestibulinho; cadernos: 2.
+- IFMT 2026/1 · Técnico integrado: https://gabaru.com.br/provas/ifmt/ifmt-2026-1; 50 itens; situação nivel-0-quarentena; fonte https://sites.google.com/ifmt.edu.br/provas-anteriores-ifmt/provas/ens-med-integrado/provas-2026/20261.
+- IFMT 2025/1 · Técnico integrado: https://gabaru.com.br/provas/ifmt/ifmt-2025-1; 40 itens; situação nivel-0-quarentena; fonte https://sites.google.com/ifmt.edu.br/provas-anteriores-ifmt/provas/ens-med-integrado/provas-2025/20251.
 
+### IFRN: Instituto Federal do Rio Grande do Norte
+https://gabaru.com.br/banca/ifrn
+Categoria: vestibulinho; cadernos: 5.
+- IFRN 2026 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2026; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/documents/24234/Caderno_de_Provas_-T%C3%A9cnico_Integrado_2026.pdf.
+- IFRN 2025 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2025; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2025/.
+- IFRN 2024 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2024; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2024/.
+- IFRN 2023 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2023; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2023/.
+- IFRN 2022 · Técnico integrado: https://gabaru.com.br/provas/ifrn/ifrn-2022; 40 itens; situação nivel-0-quarentena; fonte https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/exame-de-selecao-2022/.
 
-## IFMT — Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso
-https://www.gabaru.com.br/banca/ifmt
+### IFRS: Instituto Federal de Educação, Ciência e Tecnologia de Rio Grande do Sul
+https://gabaru.com.br/banca/ifrs
+Categoria: vestibulinho; cadernos: 2.
+- IFRS 2026/1 · Técnico integrado: https://gabaru.com.br/provas/ifrs/ifrs-2026-1; 40 itens; situação nivel-0-quarentena; fonte https://ingresso.ifrs.edu.br/2026/publicacoes/gabarito-definitivo/.
+- IFRS 2025/1 · Técnico integrado: https://gabaru.com.br/provas/ifrs/ifrs-2025-1; 40 itens; situação nivel-0-quarentena; fonte https://ingresso.ifrs.edu.br/2025/publicacoes/gabarito-definitivo/.
 
+### IFSC: Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina
+https://gabaru.com.br/banca/ifsc
+Categoria: vestibulinho; cadernos: 18.
+- IFSC 2026.1 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2026-1; 28 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos.
+- IFSC 2026.2 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2026-2; 28 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos.
+- IFSC 2025.1 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2025-1; 28 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos.
+- IFSC 2025.2 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2025-2; 28 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos.
+- IFSC 2024.1 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2024-1; 24 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos.
+- IFSC 2024.1 · Câmpus Itajaí (prova própria): https://gabaru.com.br/provas/ifsc/2024-1-itajai; 24 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos.
+- IFSC 2024.2 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2024-2; 28 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos.
+- IFSC 2023.1 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2023-1; 20 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos.
+- IFSC 2023.2 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2023-2; 20 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos.
+- IFSC 2022.1 · Câmpus Florianópolis: https://gabaru.com.br/provas/ifsc/2022-1; 20 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos-antigos.
+- IFSC 2022.2 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2022-2; 20 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos.
+- IFSC 2020.1 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2020-1; 20 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos-antigos.
+- IFSC 2019.1 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2019-1; 20 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos-antigos.
+- IFSC 2019.2 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2019-2; 20 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos-antigos.
+- IFSC 2018.1 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2018-1; 20 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos-antigos.
+- IFSC 2018.2 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2018-2; 20 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos-antigos.
+- IFSC 2017.1 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2017-1; 20 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos-antigos.
+- IFSC 2017.2 · Exame de Classificação: https://gabaru.com.br/provas/ifsc/2017-2; 20 itens; situação nivel-0-quarentena; fonte https://www.ifsc.edu.br/provas-e-gabaritos-antigos.
 
-## IFRN — Instituto Federal do Rio Grande do Norte
-https://www.gabaru.com.br/banca/ifrn
+### IFSP: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
+https://gabaru.com.br/banca/ifsp
+Categoria: vestibulinho; cadernos: 10.
+- IFSP 2026.1 · Integrado — Prova Tipo 1: https://gabaru.com.br/provas/ifsp/2026-1-tipo1; 30 itens; situação nivel-0-quarentena; fonte https://processoseletivo.ifsp.edu.br/cursos-tecnicos-2026-1/.
+- IFSP 2026.1 · Integrado — Prova Tipo 2: https://gabaru.com.br/provas/ifsp/2026-1-tipo2; 30 itens; situação nivel-0-quarentena; fonte https://processoseletivo.ifsp.edu.br/cursos-tecnicos-2026-1/.
+- IFSP 2025.1 · Integrado — Prova A (Manhã): https://gabaru.com.br/provas/ifsp/2025-1-a; 30 itens; situação nivel-0-quarentena; fonte https://processoseletivo.ifsp.edu.br/cursos-tecnicos-2025-1/.
+- IFSP 2025.1 · Integrado — Prova B (Tarde): https://gabaru.com.br/provas/ifsp/2025-1-b; 30 itens; situação nivel-0-quarentena; fonte https://processoseletivo.ifsp.edu.br/cursos-tecnicos-2025-1/.
+- IFSP 2024.1 · Integrado — Prova A (Manhã): https://gabaru.com.br/provas/ifsp/2024-1-a; 30 itens; situação nivel-0-quarentena; fonte https://processoseletivo.ifsp.edu.br/cursos-tecnicos-2024-1/.
+- IFSP 2024.1 · Integrado — Prova B (Tarde): https://gabaru.com.br/provas/ifsp/2024-1-b; 30 itens; situação nivel-0-quarentena; fonte https://processoseletivo.ifsp.edu.br/cursos-tecnicos-2024-1/.
+- IFSP 2023.1 · Integrado — Prova A: https://gabaru.com.br/provas/ifsp/2023-1-a; 30 itens; situação nivel-0-quarentena; fonte https://www.ifsp.edu.br/ps2023i.
+- IFSP 2023.1 · Integrado — Prova B: https://gabaru.com.br/provas/ifsp/2023-1-b; 30 itens; situação nivel-0-quarentena; fonte https://www.ifsp.edu.br/ps2023i.
+- IFSP 2022.1 · Integrado — Prova Manhã: https://gabaru.com.br/provas/ifsp/2022-1-manha; 30 itens; situação nivel-0-quarentena; fonte https://www.ifsp.edu.br/images/pre/Proc.Seletivo/1_sem_2022/.
+- IFSP 2022.1 · Integrado — Prova Tarde: https://gabaru.com.br/provas/ifsp/2022-1-tarde; 30 itens; situação nivel-0-quarentena; fonte https://www.ifsp.edu.br/images/pre/Proc.Seletivo/1_sem_2022/.
 
+### INEP / ENEM: Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+https://gabaru.com.br/banca/enem
+Categoria: enem; cadernos: 51.
+- ENEM 2025 — 2º dia · enem-2025-belem-azul-d2: https://gabaru.com.br/provas/enem/enem-2025-belem-azul-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2025 — 1º dia · enem-2025-d1: https://gabaru.com.br/provas/enem/enem-2025-d1; 95 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2025 — 2º dia · enem-2025-d2: https://gabaru.com.br/provas/enem/enem-2025-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2025 — 2º dia · enem-2025-reaplicacao-d2: https://gabaru.com.br/provas/enem/enem-2025-reaplicacao-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2025 — 2º dia · enem-2025-regular-d2: https://gabaru.com.br/provas/enem/enem-2025-regular-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2024 — 1º dia · enem-2024-d1: https://gabaru.com.br/provas/enem/enem-2024-d1; 95 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2024 — 2º dia · enem-2024-ppl-azul-d2: https://gabaru.com.br/provas/enem/enem-2024-ppl-azul-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2024 — 2º dia · enem-2024-ppl-d2: https://gabaru.com.br/provas/enem/enem-2024-ppl-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2024 — 2º dia · enem-2024-regular-d2: https://gabaru.com.br/provas/enem/enem-2024-regular-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2023 — 1º dia · enem-2023-d1: https://gabaru.com.br/provas/enem/enem-2023-d1; 95 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2023 — 2º dia · enem-2023-d2: https://gabaru.com.br/provas/enem/enem-2023-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2023 — 2º dia · enem-2023-ppl-azul-d2: https://gabaru.com.br/provas/enem/enem-2023-ppl-azul-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2022 — 1º dia · enem-2022-d1: https://gabaru.com.br/provas/enem/enem-2022-d1; 95 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2022 — 2º dia · enem-2022-d2: https://gabaru.com.br/provas/enem/enem-2022-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2022 — 2º dia · enem-2022-digital-azul-d2: https://gabaru.com.br/provas/enem/enem-2022-digital-azul-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2022 — 2º dia · enem-2022-ppl-azul-d2: https://gabaru.com.br/provas/enem/enem-2022-ppl-azul-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2022 — 1º dia · enem-2022-ppl-d1: https://gabaru.com.br/provas/enem/enem-2022-ppl-d1; 95 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2022 — 2º dia · enem-2022-ppl-d2: https://gabaru.com.br/provas/enem/enem-2022-ppl-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2022 — 2º dia · enem-2022-regular-d2: https://gabaru.com.br/provas/enem/enem-2022-regular-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2021 — 1º dia · enem-2021-d1: https://gabaru.com.br/provas/enem/enem-2021-d1; 95 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2021 — 2º dia · enem-2021-d2: https://gabaru.com.br/provas/enem/enem-2021-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2021 — 2º dia · enem-2021-digital-azul-d2: https://gabaru.com.br/provas/enem/enem-2021-digital-azul-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2021 — 2º dia · enem-2021-ppl-azul-d2: https://gabaru.com.br/provas/enem/enem-2021-ppl-azul-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2021 — 2º dia · enem-2021-regular-d2: https://gabaru.com.br/provas/enem/enem-2021-regular-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2020 — 2º dia · enem-2020-d2: https://gabaru.com.br/provas/enem/enem-2020-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2020 — 2º dia · enem-2020-digital-azul-d2: https://gabaru.com.br/provas/enem/enem-2020-digital-azul-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2020 — 2º dia · enem-2020-ppl-azul-d2: https://gabaru.com.br/provas/enem/enem-2020-ppl-azul-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2020 — 1º dia · enem-2020-regular-d1: https://gabaru.com.br/provas/enem/enem-2020-regular-d1; 95 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2020 — 2º dia · enem-2020-regular-d2: https://gabaru.com.br/provas/enem/enem-2020-regular-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2019 — 2º dia · enem-2019-ppl-azul-d2: https://gabaru.com.br/provas/enem/enem-2019-ppl-azul-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2019 — 1º dia · enem-2019-regular-d1: https://gabaru.com.br/provas/enem/enem-2019-regular-d1; 95 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2019 — 2º dia · enem-2019-regular-d2: https://gabaru.com.br/provas/enem/enem-2019-regular-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2018 — 2º dia · enem-2018-ppl-azul-d2: https://gabaru.com.br/provas/enem/enem-2018-ppl-azul-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2018 — 1º dia · enem-2018-regular-d1: https://gabaru.com.br/provas/enem/enem-2018-regular-d1; 95 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2018 — 2º dia · enem-2018-regular-d2: https://gabaru.com.br/provas/enem/enem-2018-regular-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2017 — 2º dia · enem-2017-ppl-azul-d2: https://gabaru.com.br/provas/enem/enem-2017-ppl-azul-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2017 — 1º dia · enem-2017-regular-d1: https://gabaru.com.br/provas/enem/enem-2017-regular-d1; 95 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2017 — 2º dia · enem-2017-regular-d2: https://gabaru.com.br/provas/enem/enem-2017-regular-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2012 — 1º dia · enem-2012-d1: https://gabaru.com.br/provas/enem/enem-2012-d1; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2011 — 1º dia · enem-2011-d1: https://gabaru.com.br/provas/enem/enem-2011-d1; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2011 — 2º dia · enem-2011-d2: https://gabaru.com.br/provas/enem/enem-2011-d2; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2009 — 1º dia · enem-2009-d1: https://gabaru.com.br/provas/enem/enem-2009-d1; 90 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2008 · enem-2008: https://gabaru.com.br/provas/enem/enem-2008; 63 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2007 · enem-2007: https://gabaru.com.br/provas/enem/enem-2007; 63 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2006 · enem-2006: https://gabaru.com.br/provas/enem/enem-2006; 63 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2005 · enem-2005: https://gabaru.com.br/provas/enem/enem-2005; 63 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2004 · enem-2004: https://gabaru.com.br/provas/enem/enem-2004; 63 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2003 · enem-2003: https://gabaru.com.br/provas/enem/enem-2003; 63 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2002 · enem-2002: https://gabaru.com.br/provas/enem/enem-2002; 63 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2001 · enem-2001: https://gabaru.com.br/provas/enem/enem-2001; 63 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
+- ENEM 2000 · enem-2000: https://gabaru.com.br/provas/enem/enem-2000; 63 itens; situação nivel-0-quarentena; fonte https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos.
 
-## IFRS — Instituto Federal de Educação, Ciência e Tecnologia de Rio Grande do Sul
-https://www.gabaru.com.br/banca/ifrs
+### SENAI: Serviço Nacional de Aprendizagem Industrial
+https://gabaru.com.br/banca/senai
+Categoria: vestibulinho; cadernos: 0.
 
+### UEL: Universidade Estadual de Londrina
+https://gabaru.com.br/banca/uel
+Categoria: vestibulares; cadernos: 2.
+- UEL 2026 · Conhecimentos Gerais · Espanhol · Tipo 1: https://gabaru.com.br/provas/uel/uel-2026-espanhol-tipo1; 0 itens; situação nivel-0-quarentena; fonte https://www.cops.uel.br/v2/ProvasGabaritos/DivulgacaoProvasGabaritos1DiaVestibularDefinitivo/Selecao/370/Atividade/20969.
+- UEL 2026 · Conhecimentos Gerais · Inglês · Tipo 1: https://gabaru.com.br/provas/uel/uel-2026-ingles-tipo1; 0 itens; situação nivel-0-quarentena; fonte https://www.cops.uel.br/v2/ProvasGabaritos/DivulgacaoProvasGabaritos1DiaVestibularDefinitivo/Selecao/370/Atividade/20969.
 
-## IFSC — Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina
-https://www.gabaru.com.br/banca/ifsc
+### UERJ: Universidade do Estado do Rio de Janeiro
+https://gabaru.com.br/banca/uerj
+Categoria: vestibulares; cadernos: 14.
+- UERJ 2026 · 1º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2026-eq1; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?p=15701.
+- UERJ 2026 · 2º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2026-eq2; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=15994.
+- UERJ 2025 · 1º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2025-eq1; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=14486.
+- UERJ 2025 · 2º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2025-eq2; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=14817.
+- UERJ 2024 · 1º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2024-eq1; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=13475.
+- UERJ 2024 · 2º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2024-eq2; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=13774.
+- UERJ 2020 · 1º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2020-eq1; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7641.
+- UERJ 2020 · 2º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2020-eq2; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=8539.
+- UERJ 2019 · 1º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2019-eq1; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=6445.
+- UERJ 2019 · 2º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2019-eq2; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=6700.
+- UERJ 2018 · 1º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2018-eq1; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
+- UERJ 2018 · 2º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2018-eq2; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
+- UERJ 2017 · 1º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2017-eq1; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
+- UERJ 2017 · 2º Exame de Qualificação: https://gabaru.com.br/provas/uerj/uerj-2017-eq2; 60 itens; situação nivel-0-quarentena; fonte https://www.vestibular.uerj.br/?page_id=7069.
 
+### UNESP: Universidade Estadual Paulista — Vunesp
+https://gabaru.com.br/banca/unesp
+Categoria: vestibulares; cadernos: 35.
+- UNESP 2026 — vestibular de meio de ano, primeira fase: https://gabaru.com.br/provas/unesp/2026; 90 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NzY3MDg4Mw%3d%3d.
+- UNESP 2026 — vestibular regular, primeira fase: https://gabaru.com.br/provas/unesp/2026; 90 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NzQ2NDIyMA%3d%3d.
+- Caderno de Questões - Prova de Conhecimentos Específicos - C.Hum. e Soc.; C.Nat. e Mat. e suas Tec.: https://gabaru.com.br/provas/unesp/2026; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NzY5NDg5Ng%3d%3d.
+- Caderno de Questões - Prova de Conhecimentos Específicos e Redação - Linguagens e suas Tecnologias: https://gabaru.com.br/provas/unesp/2026; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NzUwMjkzMw%3d%3d.
+- Caderno de Questões - Prova de Conhecimentos Específicos - C.Hum. e Soc.; C.Nat. e Mat. e suas Tec.: https://gabaru.com.br/provas/unesp/2026; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NzUwMDI5Nw%3d%3d.
+- Caderno de Questões - Prova de Conhecimentos Específicos e Redação - Linguagens e suas Tecnologias: https://gabaru.com.br/provas/unesp/2026; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NzY5NDkwOQ%3d%3d.
+- UNESP 2025 — vestibular de meio de ano, primeira fase: https://gabaru.com.br/provas/unesp/2025; 90 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/Njg1NTY2MA%3d%3d.
+- Caderno de Questões - Prova de Conhecimentos Específicos e Redação - Linguagens e suas Tecnologias: https://gabaru.com.br/provas/unesp/2025; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NjY0MjYwNA%3d%3d.
+- Caderno de Questões - Prova de Conhecimentos Gerais: https://gabaru.com.br/provas/unesp/2025; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NjU5MzI0Mg%3d%3d.
+- Caderno de Questões - Prova de Conhecimentos Específicos e Redação - Linguagens e suas Tecnologias: https://gabaru.com.br/provas/unesp/2025; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NzAwMTkyOA%3d%3d.
+- Caderno de Questões - Prova de Conhecimentos Específicos - C.Hum. e Soc.; C.Nat. e Mat. e suas Tec.: https://gabaru.com.br/provas/unesp/2025; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NzAwMTkyNQ%3d%3d.
+- Caderno de Questões - Prova de Conhecimentos Específicos - C.Hum. e Soc.; C.Nat. e Mat. e suas Tec.: https://gabaru.com.br/provas/unesp/2025; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NjYzODU2Nw%3d%3d.
+- UNESP 2024 — vestibular de meio de ano, primeira fase: https://gabaru.com.br/provas/unesp/2024; 90 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NTc4Mjg3NA%3d%3d.
+- UNESP 2024 — vestibular regular, primeira fase: https://gabaru.com.br/provas/unesp/2024; 90 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NTM0MTAyMA%3d%3d.
+- Caderno de Questões - Prova de Conhecimentos Específicos - C.Hum. e Soc.; C.Nat. e Mat. e suas Tec;: https://gabaru.com.br/provas/unesp/2024; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NTYyMzIwNw%3d%3d.
+- Caderno de Questões - Prova de Conhecimentos Específicos e Redação - Linguagens e suas Tecnologias;: https://gabaru.com.br/provas/unesp/2024; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NTYyODg1MA%3d%3d.
+- Caderno de Questões - Prova de Conhecimentos Específicos - C.Hum. e Soc.; C.Nat. e Mat. e suas Tec: https://gabaru.com.br/provas/unesp/2024; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NTkwMDc1Mw%3d%3d.
+- Caderno de Questões - Prova de Conhecimentos Específicos e Redação - Linguagens e suas Tecnologias.: https://gabaru.com.br/provas/unesp/2024; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/NTkwMzczNQ%3d%3d.
+- UNESP 2023 — vestibular regular, primeira fase: https://gabaru.com.br/provas/unesp/2023; 90 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/MzE3NTk4Mg%3d%3d.
+- Prova Conhecimentos Específicos: https://gabaru.com.br/provas/unesp/2023; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/MzIyMzMyMA%3d%3d.
+- UNESP 2022 — vestibular regular — Biológicas, primeira fase: https://gabaru.com.br/provas/unesp/2022; 90 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/MjQxNTAzMg%3d%3d.
+- UNESP 2022 — vestibular regular — Exatas e Humanidades, primeira fase: https://gabaru.com.br/provas/unesp/2022; 90 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/MjQxNjU0OA%3d%3d.
+- Prova Conhecimentos Específicos: https://gabaru.com.br/provas/unesp/2022; 0 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/stream/MjYwMjQyNw%3d%3d.
+- UNESP 2021 — vestibular regular — Biológicas, primeira fase: https://gabaru.com.br/provas/unesp/2021; 90 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/RelatorioUnesp/MXwyMDIxfDB8MHxUcnVl.
+- UNESP 2021 — vestibular regular — Exatas e Humanidades, primeira fase: https://gabaru.com.br/provas/unesp/2021; 90 itens; situação nivel-0-quarentena; fonte https://documento.vunesp.com.br/documento/RelatorioUnesp/MXwyMDIxfDB8MHxUcnVl.
+- UNESP 2020 — vestibular regular, primeira fase: https://gabaru.com.br/provas/unesp/2020; 90 itens; situação nivel-0-quarentena; fonte https://vestibular.unesp.br/Home/2020/unesp_caderno_de_questoes_prova_de_conhecimentos_gerais_15_nov_2019__v1.pdf.
+- UNESP 2019 — vestibular regular, primeira fase: https://gabaru.com.br/provas/unesp/2019; 90 itens; situação nivel-0-quarentena; fonte https://vestibular.unesp.br/Home/2019/caderno-cg-1a-fase-versao-1-2019.pdf.
+- UNESP 2018 — vestibular regular, primeira fase: https://gabaru.com.br/provas/unesp/2018; 90 itens; situação nivel-0-quarentena; fonte https://network.grupoabril.com.br/wp-content/uploads/sites/4/2017/11/prova-unesp.pdf.
+- UNESP 2017 — vestibular regular, primeira fase: https://gabaru.com.br/provas/unesp/2017; 90 itens; situação nivel-0-quarentena; fonte https://network.grupoabril.com.br/wp-content/uploads/sites/4/2016/11/caderno-de-prova-primeira-fase-unesp2017.pdf.
+- UNESP 2016 — vestibular regular, primeira fase: https://gabaru.com.br/provas/unesp/2016; 90 itens; situação nivel-0-quarentena; fonte https://network.grupoabril.com.br/wp-content/uploads/sites/4/2017/10/unesp2016-1fase.pdf.
+- UNESP 2015 — vestibular regular, primeira fase: https://gabaru.com.br/provas/unesp/2015; 90 itens; situação nivel-0-quarentena; fonte https://network.grupoabril.com.br/wp-content/uploads/sites/4/2017/10/unesp2015-1fase.pdf.
+- UNESP 2014 — vestibular regular, primeira fase: https://gabaru.com.br/provas/unesp/2014; 90 itens; situação nivel-0-quarentena; fonte https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2014/1fase/UNESP2014_1fase_prova.pdf.
+- UNESP 2013 — vestibular regular, primeira fase: https://gabaru.com.br/provas/unesp/2013; 90 itens; situação nivel-0-quarentena; fonte https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2013/1fase/UNESP2013_1fase_prova.pdf.
+- UNESP 2012 — vestibular regular, primeira fase: https://gabaru.com.br/provas/unesp/2012; 90 itens; situação nivel-0-quarentena; fonte https://estaticog1.globo.com/2011/11/unesp/001_ConhecGerais.pdf.
+- UNESP 2011 — vestibular regular, primeira fase: https://gabaru.com.br/provas/unesp/2011; 90 itens; situação nivel-0-quarentena; fonte https://estaticog1.globo.com/2010/11/14/unesp/provacg.pdf.
 
-## IFSP — Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
-https://www.gabaru.com.br/banca/ifsp
+### UNICAMP: Universidade Estadual de Campinas — Comvest
+https://gabaru.com.br/banca/unicamp
+Categoria: vestibulares; cadernos: 385.
+- UNICAMP 2026 · Q e X: https://gabaru.com.br/provas/unicamp/2026; 72 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2026/F1/f12026Q_X.pdf.
+- Prova de Redação, Língua Portuguesa e Literaturas de Língua Portuguesa, interdisciplinar com língua inglesa e interdisciplinar de Ciências da Natureza: https://gabaru.com.br/provas/unicamp/2026; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2026/F2/provas/2026F2redporingcn.pdf.
+- Provas S e Z: https://gabaru.com.br/provas/unicamp/2026; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2026/F1/f12026S_Z.pdf.
+- Provas T e W: https://gabaru.com.br/provas/unicamp/2026; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2026/F1/f12026T_W.pdf.
+- Prova da área de Ciências Humanas / Artes: https://gabaru.com.br/provas/unicamp/2026; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2026/F2/provas/2026F2CH.pdf.
+- Provas R e Y: https://gabaru.com.br/provas/unicamp/2026; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2026/F1/f12026R_Y.pdf.
+- Prova da área de Ciências Exatas / Tecnológicas: https://gabaru.com.br/provas/unicamp/2026; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2026/F2/provas/2026F2CE.pdf.
+- Prova da área de Ciências Biológicas / Saúde: https://gabaru.com.br/provas/unicamp/2026; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2026/F2/provas/2026F2CB.pdf.
+- UNICAMP 2025 · Q e Z: https://gabaru.com.br/provas/unicamp/2025; 72 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2025/F1/f12025Q_Z.pdf.
+- Provas S e X: https://gabaru.com.br/provas/unicamp/2025; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2025/F1/f12025S_X.pdf.
+- Prova da área de Ciências Biológicas / Saúde: https://gabaru.com.br/provas/unicamp/2025; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2025/F2/provas/2025F2CB.pdf.
+- Provas T e Y: https://gabaru.com.br/provas/unicamp/2025; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2025/F1/f12025T_Y.pdf.
+- Prova da área de Ciências Humanas / Artes: https://gabaru.com.br/provas/unicamp/2025; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2025/F2/provas/2025F2CH.pdf.
+- Prova da área de Ciências Exatas / Tecnológicas: https://gabaru.com.br/provas/unicamp/2025; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2025/F2/provas/2025F2CE.pdf.
+- Prova de Redação, Língua Portuguesa e Literaturas de Língua Portuguesa, interdisciplinar com língua inglesa e interdisciplinares de Ciências da Natureza: https://gabaru.com.br/provas/unicamp/2025; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2025/F2/provas/2025F2redporingcn.pdf.
+- Provas R e W: https://gabaru.com.br/provas/unicamp/2025; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2025/F1/f12025R_W.pdf.
+- UNICAMP 2024 · Q e Y: https://gabaru.com.br/provas/unicamp/2024; 72 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2024/F1/f12024Q_Y.pdf.
+- Arquitetura e Urbanismo (P1): https://gabaru.com.br/provas/unicamp/2024; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2024/05/Arquitetura-e-Urbanismo-P1.pdf.
+- Provas R e Z: https://gabaru.com.br/provas/unicamp/2024; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2024/F1/f12024R_Z.pdf.
+- Prova da área de Ciências Exatas / Tecnológicas: https://gabaru.com.br/provas/unicamp/2024; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2024/F2/provas/2024F2CE.pdf.
+- Artes Visuais – História da Arte: https://gabaru.com.br/provas/unicamp/2024; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2024/05/Artes-Visuais_Historia-da-Arte.pdf.
+- Prova da área de Ciências Humanas / Artes: https://gabaru.com.br/provas/unicamp/2024; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2024/F2/provas/2024F2CH.pdf.
+- Prova da área de Ciências Biológicas / Saúde: https://gabaru.com.br/provas/unicamp/2024; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2024/F2/provas/2024F2CB.pdf.
+- Provas S e W: https://gabaru.com.br/provas/unicamp/2024; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2024/F1/f12024S_W.pdf.
+- Prova de Redação, Língua Portuguesa e Literaturas de Língua Portuguesa, interdisciplinar com língua inglesa e interdisciplinares de Ciências da Natureza: https://gabaru.com.br/provas/unicamp/2024; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2024/F2/provas/2024F2redporingcn.pdf.
+- Artes Visuais – Expressão: https://gabaru.com.br/provas/unicamp/2024; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2024/05/Artes-Visuais_Expressao-Plastica.pdf.
+- Arquitetura e Urbanismo (P2): https://gabaru.com.br/provas/unicamp/2024; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2024/05/Arquitetura-e-Urbanismo-P2.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2024; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2024/05/Artes-Cenicas.pdf.
+- Provas T e X: https://gabaru.com.br/provas/unicamp/2024; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2024/F1/f12024T_X.pdf.
+- UNICAMP 2023 · Q e Z: https://gabaru.com.br/provas/unicamp/2023; 72 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2023/F1/f12023Q_Z.pdf.
+- Prova de Redação, Língua Portuguesa e de Literaturas de Língua Portuguesa, Interdisciplinares com Língua Inglesa e Interdisciplinares de Ciências da Natureza: https://gabaru.com.br/provas/unicamp/2023; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2023/F2/provas/2023F2redporingcn.pdf.
+- Prova da área de Ciências Humanas / Artes: https://gabaru.com.br/provas/unicamp/2023; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2023/F2/provas/2023F2CH.pdf.
+- Provas S e X: https://gabaru.com.br/provas/unicamp/2023; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2023/F1/f12023S_X.pdf.
+- Artes Visuais – Expressão plástica: https://gabaru.com.br/provas/unicamp/2023; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2023/09/Artes-Visuais_Expressao-Plastica-2023.pdf.
+- Prova da área de Ciências Exatas / Tecnológicas: https://gabaru.com.br/provas/unicamp/2023; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2023/F2/provas/2023F2CE.pdf.
+- Artes Visuais – História da arte: https://gabaru.com.br/provas/unicamp/2023; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2023/09/Artes-Visuais_Historia-da-Arte-2023.pdf.
+- Arquiteutra e Urbanismo – partes 2 e 3: https://gabaru.com.br/provas/unicamp/2023; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2023/09/Arquitetura-e-Urbanismo-P2e3-2023.pdf.
+- Prova da área de Ciências Biológicas / Saúde: https://gabaru.com.br/provas/unicamp/2023; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2023/F2/provas/2023F2CB.pdf.
+- Arquitetura e Urbanismo – parte 1: https://gabaru.com.br/provas/unicamp/2023; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2023/09/Arquitetura-e-Urbanismo-P1-2023.pdf.
+- Provas T e W: https://gabaru.com.br/provas/unicamp/2023; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2023/F1/f12023T_W.pdf.
+- Provas R e Y: https://gabaru.com.br/provas/unicamp/2023; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2023/F1/f12023R_Y.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2023; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2023/09/Artes-Cenicas-2023.pdf.
+- Provas T e Y: https://gabaru.com.br/provas/unicamp/2022; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2022/F1/f12022T_Y.pdf.
+- Provas Q e X: https://gabaru.com.br/provas/unicamp/2022; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2022/F1/f12022Q_X.pdf.
+- Arquitetura e Urbanismo – parte 1: https://gabaru.com.br/provas/unicamp/2022; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2023/09/Arquitetura_Parte_1_2022.pdf.
+- Prova de Redação, prova de Língua Portuguesa e Literaturas de Língua Portuguesa e Interdisciplinares com Língua Inglesa: https://gabaru.com.br/provas/unicamp/2022; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2022/01/2022F2redporingcorrecao.pdf.
+- Provas R e W: https://gabaru.com.br/provas/unicamp/2022; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2022/F1/f12022R_W.pdf.
+- Artes Visuais – História da arte: https://gabaru.com.br/provas/unicamp/2022; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2023/09/Artes-Visuais-Historia-da-Arte-2022.pdf.
+- Prova da área de Ciências Biológicas / Saúde: https://gabaru.com.br/provas/unicamp/2022; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2022/F2/provas/2022F2CB.pdf.
+- Prova da área de Ciências Humanas / Artes: https://gabaru.com.br/provas/unicamp/2022; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2022/01/CHumanas.pdf.
+- Prova da área de Ciências Exatas / Tecnológicas: https://gabaru.com.br/provas/unicamp/2022; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2022/F2/provas/2022F2CE.pdf.
+- Arquitetura e Urbanismo – partes 2 e 3: https://gabaru.com.br/provas/unicamp/2022; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2023/09/Arquitetura_Partes_2_3_2022.pdf.
+- Artes Visuais – expressão plástica: https://gabaru.com.br/provas/unicamp/2022; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2023/09/Artes-Visuais-Expressao-Plastica-2022.pdf.
+- Provas S e Z: https://gabaru.com.br/provas/unicamp/2022; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2022/F1/f12022S_Z.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2022; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2023/09/Artes-Cenicas-2022.pdf.
+- Provas Q e Z: https://gabaru.com.br/provas/unicamp/2021; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2021/F1/f12021Q_Z.pdf.
+- Prova da área de Ciências Humanas / Artes: https://gabaru.com.br/provas/unicamp/2021; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2021/F2/provas/2021F2CH.pdf.
+- Prova da área de Ciências Biológicas / Saúde: https://gabaru.com.br/provas/unicamp/2021; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2021/F2/provas/2021F2CB.pdf.
+- Provas S e X: https://gabaru.com.br/provas/unicamp/2021; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2021/F1/f12021S_X.pdf.
+- Prova da área de Ciências Exatas / Tecnológicas: https://gabaru.com.br/provas/unicamp/2021; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2021/F2/provas/2021F2CE.pdf.
+- Provas E e G: https://gabaru.com.br/provas/unicamp/2021; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2021/F1/f12021E_G.pdf.
+- Provas J e L: https://gabaru.com.br/provas/unicamp/2021; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2021/F1/f12021J_L.pdf.
+- Provas F e H: https://gabaru.com.br/provas/unicamp/2021; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2021/F1/f12021F_H.pdf.
+- Provas R e Y: https://gabaru.com.br/provas/unicamp/2021; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2021/F1/f12021R_Y.pdf.
+- Provas T e W: https://gabaru.com.br/provas/unicamp/2021; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2021/F1/f12021T_W.pdf.
+- Prova de Redação, prova de Língua Portuguesa e Literaturas de Língua Portuguesa e Interdisciplinares com Língua Inglesa: https://gabaru.com.br/provas/unicamp/2021; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2021/F2/provas/2021F2redporing.pdf.
+- Provas K e M: https://gabaru.com.br/provas/unicamp/2021; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2021/F1/f12021K_M.pdf.
+- Provas S e Z: https://gabaru.com.br/provas/unicamp/2020; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2020/F1/f12020S_Z.pdf.
+- Artes Cênicas – Prova teórica: https://gabaru.com.br/provas/unicamp/2020; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2020/01/ARTES-C%C3%8ANICAS_Prova-Escrita.pdf.
+- Artes Visuais – Desenho: https://gabaru.com.br/provas/unicamp/2020; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2020/01/ARTES-VISUAIS_Desenho.pdf.
+- Música – prova teórica: https://gabaru.com.br/provas/unicamp/2020; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2020/06/Musica-2020-prova-teorica.pdf.
+- Prova de Redação, prova de Língua Portuguesa e Literaturas de Língua Portuguesa e Interdisciplinares com Língua Inglesa: https://gabaru.com.br/provas/unicamp/2020; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2020/F2/provas/2020F2redporting.pdf.
+- Artes Visuais – História da Arte: https://gabaru.com.br/provas/unicamp/2020; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2020/01/ARTES-VISUAIS_Hist%C3%B3ria-da-Arte.pdf.
+- Provas Q e X: https://gabaru.com.br/provas/unicamp/2020; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2020/F1/f12020Q_X.pdf.
+- Arquitetura – Partes 2 e 3: https://gabaru.com.br/provas/unicamp/2020; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2020/01/ARQUITETURA_Partes-2-e-3.pdf.
+- Prova da área de Ciências Humanas / Artes: https://gabaru.com.br/provas/unicamp/2020; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2020/F2/provas/2020F2CH.pdf.
+- Provas T e Y: https://gabaru.com.br/provas/unicamp/2020; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2020/F1/f12020T_Y.pdf.
+- Prova da área de Ciências Biológicas / Saúde: https://gabaru.com.br/provas/unicamp/2020; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2020/F2/provas/2020F2CB.pdf.
+- Prova da área de Ciências Exatas / Tecnológicas: https://gabaru.com.br/provas/unicamp/2020; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2020/F2/provas/2020F2CE.pdf.
+- Arquitetura – Parte 1: https://gabaru.com.br/provas/unicamp/2020; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2020/01/ARQUITETURA_Parte1.pdf.
+- Provas R e W: https://gabaru.com.br/provas/unicamp/2020; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2020/F1/f12020R_W.pdf.
+- Prova de Matemática, prova de Geografia e prova de História: https://gabaru.com.br/provas/unicamp/2019; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2019/F2/provas/matgeohis.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2019; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2019/05/Artes_Cenicas_2019.pdf.
+- Prova de Física, prova de Ciências Biológicas e prova de Química: https://gabaru.com.br/provas/unicamp/2019; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2019/F2/provas/fisbioqui.pdf.
+- Provas S e Y: https://gabaru.com.br/provas/unicamp/2019; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2019/F1/f12019S_Y.pdf.
+- Arquitetura e Urbanismo: https://gabaru.com.br/provas/unicamp/2019; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2019/05/Arquitetura_2019.pdf.
+- Provas T e W: https://gabaru.com.br/provas/unicamp/2019; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2019/F1/f12019T_W.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2019; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2019/05/Musica_2019.pdf.
+- Provas Q e X: https://gabaru.com.br/provas/unicamp/2019; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2019/F1/f12019Q_X.pdf.
+- Prova de Redação e prova de Língua Portuguesa e Literaturas de Língua Portuguesa: https://gabaru.com.br/provas/unicamp/2019; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2019/F2/provas/redport.pdf.
+- Artes Visuais: https://gabaru.com.br/provas/unicamp/2019; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2019/05/Artes_Visuais_2019.pdf.
+- Provas R e Z: https://gabaru.com.br/provas/unicamp/2019; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2019/F1/f12019R_Z.pdf.
+- Prova de Redação e prova de Língua Portuguesa e Literaturas de Língua Portuguesa: https://gabaru.com.br/provas/unicamp/2018; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2018/F2/provas/redport.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2018; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2019/04/HE_F2_2018_Arquit_Urb.pdf.
+- Prova de Matemática, prova de Geografia e prova de História: https://gabaru.com.br/provas/unicamp/2018; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2018/F2/provas/matgeohis.pdf.
+- Prova W: https://gabaru.com.br/provas/unicamp/2018; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2018/F1/f12018W.pdf.
+- Prova T: https://gabaru.com.br/provas/unicamp/2018; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2018/F1/f12018T.pdf.
+- Prova Z: https://gabaru.com.br/provas/unicamp/2018; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2018/F1/f12018Z.pdf.
+- Prova de Física, prova de Ciências Biológicas e prova de Química: https://gabaru.com.br/provas/unicamp/2018; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2018/F2/provas/fisbioqui.pdf.
+- Prova Y: https://gabaru.com.br/provas/unicamp/2018; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2018/F1/f12018Y.pdf.
+- Prova X: https://gabaru.com.br/provas/unicamp/2018; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2018/F1/f12018X.pdf.
+- Prova Q: https://gabaru.com.br/provas/unicamp/2018; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2018/F1/f12018Q.pdf.
+- Prova R: https://gabaru.com.br/provas/unicamp/2018; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2018/F1/f12018R.pdf.
+- Artes Visuais: https://gabaru.com.br/provas/unicamp/2018; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2019/04/HE_F2_2018_Artes_Visuais.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2018; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2021/09/HE_F2_2018_Artes-Cenicas_CAPA_QUESTAO_MIOLO_versao_2.pdf.
+- Prova S: https://gabaru.com.br/provas/unicamp/2018; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2018/F1/f12018S.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2017; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/06/arquitetura2017.pdf.
+- Prova de Ciências Biológicas, prova de Química e prova de Física: https://gabaru.com.br/provas/unicamp/2017; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/bioquifis.pdf.
+- Prova de Redação e prova de Língua Portuguesa e Literaturas de Língua Portuguesa: https://gabaru.com.br/provas/unicamp/2017; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/redport.pdf.
+- Provas S e W: https://gabaru.com.br/provas/unicamp/2017; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/f12017SW.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2017; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/06/cenicas2017.pdf.
+- Provas T e Z: https://gabaru.com.br/provas/unicamp/2017; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/f12017TZ.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2017; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/06/musica2017.pdf.
+- Provas Q e Y: https://gabaru.com.br/provas/unicamp/2017; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/f12017QY.pdf.
+- Artes Visuais: https://gabaru.com.br/provas/unicamp/2017; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/06/artesvisuais2017.pdf.
+- Prova de Geografia, prova de História e prova de Matemática: https://gabaru.com.br/provas/unicamp/2017; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/geohismat.pdf.
+- Provas R e X: https://gabaru.com.br/provas/unicamp/2017; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/f12017RX.pdf.
+- Provas S e X: https://gabaru.com.br/provas/unicamp/2016; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/f12016SX.pdf.
+- Provas R e Y: https://gabaru.com.br/provas/unicamp/2016; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/f12016RY.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2016; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/cenicas2016.pdf.
+- Prova de Redação e prova de Língua Portuguesa e Literaturas de Língua Portuguesa: https://gabaru.com.br/provas/unicamp/2016; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/redport-1.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2016; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/musica2016.pdf.
+- Prova de Química, prova de Física e prova de Biologia: https://gabaru.com.br/provas/unicamp/2016; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/quifisbio.pdf.
+- Provas Q e Z: https://gabaru.com.br/provas/unicamp/2016; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/f12016QZ.pdf.
+- Provas T e W: https://gabaru.com.br/provas/unicamp/2016; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/f12016TW.pdf.
+- Artes Visuais: https://gabaru.com.br/provas/unicamp/2016; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/artesvisuais2016.pdf.
+- Prova de História, prova de Matemática e prova de Geografia: https://gabaru.com.br/provas/unicamp/2016; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/hismatgeo.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2016; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/arquitetura2016.pdf.
+- Artes Visuais: https://gabaru.com.br/provas/unicamp/2015; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2015/F2/provas/he/artesvisuais2015.pdf.
+- Prova de Física, prova de Química e prova de Biologia: https://gabaru.com.br/provas/unicamp/2015; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2015/F2/provas/fisquibio.pdf.
+- Prova de Redação e prova de Língua Portuguesa e Literaturas de Língua Portuguesa: https://gabaru.com.br/provas/unicamp/2015; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2015/F2/provas/redport.pdf.
+- Provas Q e W: https://gabaru.com.br/provas/unicamp/2015; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2015/F1/f12015QW.pdf.
+- Provas T e X: https://gabaru.com.br/provas/unicamp/2015; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2015/F1/f12015TX.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2015; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2015/F1/he/musica2015.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2015; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2015/F2/provas/he/cenicas2015.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2015; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2015/F2/provas/he/arquitetura2015.pdf.
+- Provas S e Y: https://gabaru.com.br/provas/unicamp/2015; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2015/F1/f12015SY.pdf.
+- Prova de Matemática, prova de História e prova de Geografia: https://gabaru.com.br/provas/unicamp/2015; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2015/F2/provas/mathisgeo.pdf.
+- Provas R e Z: https://gabaru.com.br/provas/unicamp/2015; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2015/F1/f12015RZ.pdf.
+- Artes Visuais: https://gabaru.com.br/provas/unicamp/2014; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2014/F2/provas/he/artesvisuais2014.pdf.
+- Prova R e W: https://gabaru.com.br/provas/unicamp/2014; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2014/F1/f12014RW.pdf.
+- Prova S e Z: https://gabaru.com.br/provas/unicamp/2014; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2014/F1/f12014SZ.pdf.
+- Prova T e Y: https://gabaru.com.br/provas/unicamp/2014; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2014/F1/f12014TY.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2014; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2014/F2/provas/he/arquitetura2014.pdf.
+- Ciências Humanas e Artes; e Língua Inglesa: https://gabaru.com.br/provas/unicamp/2014; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2014/F2/provas/ciening.pdf.
+- Ciências da Natureza: https://gabaru.com.br/provas/unicamp/2014; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2014/F2/provas/ciennatu.pdf.
+- Segunda fase: https://gabaru.com.br/provas/unicamp/2014; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/fase2-2.pdf.
+- Primeira fase: https://gabaru.com.br/provas/unicamp/2014; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/wp-content/uploads/2017/02/fase1-2.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2014; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2014/F2/provas/he/cenicas2014.pdf.
+- Prova Q e X: https://gabaru.com.br/provas/unicamp/2014; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2014/F1/f12014QX.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa e Matemática: https://gabaru.com.br/provas/unicamp/2014; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2014/F2/provas/portmat.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2014; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2014/F2/provas/he/musica2014.pdf.
+- Prova T e W: https://gabaru.com.br/provas/unicamp/2013; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2013/F1/f12013TW.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2013; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2013/F2/provas/he/musica2013.pdf.
+- Ciências da Natureza: https://gabaru.com.br/provas/unicamp/2013; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2013/F2/provas/ciennatu.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2013; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2013/F2/provas/he/arquitetura2013.pdf.
+- Ciências Humanas e Artes; e Língua Inglesa: https://gabaru.com.br/provas/unicamp/2013; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2013/F2/provas/ciening.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2013; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2013/F2/provas/he/cenicas2013.pdf.
+- Prova Q e Z: https://gabaru.com.br/provas/unicamp/2013; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2013/F1/f12013QZ.pdf.
+- Prova R e Y: https://gabaru.com.br/provas/unicamp/2013; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2013/F1/f12013RY.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa e Matemática: https://gabaru.com.br/provas/unicamp/2013; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2013/F2/provas/portmat.pdf.
+- Prova S e X: https://gabaru.com.br/provas/unicamp/2013; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2013/F1/f12013SX.pdf.
+- Artes Visuais: https://gabaru.com.br/provas/unicamp/2013; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2013/F2/provas/he/artesvisuais2013.pdf.
+- Prova Q e Z: https://gabaru.com.br/provas/unicamp/2012; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2012/F1/f12012QZ.pdf.
+- Ciências Humanas e Artes; e Língua Inglesa: https://gabaru.com.br/provas/unicamp/2012; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2012/F2/provas/ciening.pdf.
+- Prova R e Y: https://gabaru.com.br/provas/unicamp/2012; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2012/F1/f12012RY.pdf.
+- Prova S e X: https://gabaru.com.br/provas/unicamp/2012; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2012/F1/f12012SX.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2012; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2012/F2/provas/he/arquitetura2012.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2012; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2012/F2/provas/he/cenicas2012.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa e Matemática: https://gabaru.com.br/provas/unicamp/2012; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2012/F2/provas/portmat.pdf.
+- Ciências da Natureza: https://gabaru.com.br/provas/unicamp/2012; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2012/F2/provas/ciennatu.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2012; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2012/F2/provas/he/musica2012.pdf.
+- Artes Visuais: https://gabaru.com.br/provas/unicamp/2012; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2012/F2/provas/he/artesvisuais2012.pdf.
+- Prova T e W: https://gabaru.com.br/provas/unicamp/2012; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2012/F1/f12012TW.pdf.
+- Prova Q e Z: https://gabaru.com.br/provas/unicamp/2011; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2011/F1/f12011QZ.pdf.
+- Prova S e X: https://gabaru.com.br/provas/unicamp/2011; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2011/F1/f12011SX.pdf.
+- Ciências da Natureza: https://gabaru.com.br/provas/unicamp/2011; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2011/F2/provas/ciennatu.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2011; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2011/F2/provas/he/cenicas2011.pdf.
+- Ciências Humanas e Artes; e Língua Inglesa: https://gabaru.com.br/provas/unicamp/2011; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2011/F2/provas/ciening.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa e Matemática: https://gabaru.com.br/provas/unicamp/2011; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2011/F2/provas/portmat.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2011; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2011/F2/provas/he/musica2011.pdf.
+- Artes Visuais: https://gabaru.com.br/provas/unicamp/2011; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2011/F2/provas/he/artesvisuais2011.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2011; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2011/F2/provas/he/arquitetura2011.pdf.
+- Prova R e Y: https://gabaru.com.br/provas/unicamp/2011; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2011/F1/f12011RY.pdf.
+- Prova T e W: https://gabaru.com.br/provas/unicamp/2011; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2011/F1/f12011TW.pdf.
+- Artes Visuais: https://gabaru.com.br/provas/unicamp/2010; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2010/F2/provas/aptidao/artesvisuais2010.pdf.
+- Questões Gerais: https://gabaru.com.br/provas/unicamp/2010; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2010/F1/f12010questoes.pdf.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/2010; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2010/F2/provas/fisgeo.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2010; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2010/F2/provas/aptidao/arquitetura2010.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/2010; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2010/F2/provas/quihis.pdf.
+- Língua Portuguesa e Ciências Biológicas: https://gabaru.com.br/provas/unicamp/2010; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2010/F2/provas/portbio.pdf.
+- Matemática e Inglês: https://gabaru.com.br/provas/unicamp/2010; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2010/F2/provas/mating.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2010; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2010/F2/provas/aptidao/musica2010.pdf.
+- Redação: https://gabaru.com.br/provas/unicamp/2010; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2010/F1/f12010redacao.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2010; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2010/F2/provas/aptidao/cenicas2010.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2009; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2009/F2/provas/aptidao/musica2009.pdf.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/2009; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2009/F2/provas/fisgeo.pdf.
+- Redação: https://gabaru.com.br/provas/unicamp/2009; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2009/F1/f12009redacao.pdf.
+- Matemática e Inglês: https://gabaru.com.br/provas/unicamp/2009; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2009/F2/provas/mating.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2009; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2009/F2/provas/aptidao/arquitetura2009.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/2009; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2009/F2/provas/quihis.pdf.
+- Artes Visuais: https://gabaru.com.br/provas/unicamp/2009; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2009/F2/provas/aptidao/artesvisuais2009.pdf.
+- Língua Portuguesa e Ciências Biológicas: https://gabaru.com.br/provas/unicamp/2009; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2009/F2/provas/portbio.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2009; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2009/F2/provas/aptidao/cenicas2009.pdf.
+- Questões Gerais: https://gabaru.com.br/provas/unicamp/2009; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2009/F1/F12009questoes.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2008; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2008/F2/provas/aptidao/cenicas2008.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2008; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2008/F2/provas/aptidao/musica2008.pdf.
+- Odontologia: https://gabaru.com.br/provas/unicamp/2008; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2008/F2/provas/aptidao/odontologia2008.pdf.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/2008; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2008/F2/provas/fisgeo.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/2008; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2008/F1/provafase1.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2008; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2008/F2/provas/aptidao/arquitetura2008.pdf.
+- Língua Portuguesa e Ciências Biológicas –: https://gabaru.com.br/provas/unicamp/2008; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2008/F2/provas/portbio.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/2008; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2008/F2/provas/quihis.pdf.
+- Matemática e Língua Estrangeira: https://gabaru.com.br/provas/unicamp/2008; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2008/F2/provas/mating.pdf.
+- Artes Visuais: https://gabaru.com.br/provas/unicamp/2008; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2008/F2/provas/aptidao/artesvisuais2008.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/2007; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2007/F2/provas/quihis.pdf.
+- Matemática e Língua Estrangeira: https://gabaru.com.br/provas/unicamp/2007; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2007/F2/provas/mating.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2007; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2007/F2/provas/aptidao/arquitetura2007.pdf.
+- Língua Portuguesa e Ciências Biológicas: https://gabaru.com.br/provas/unicamp/2007; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2007/F2/provas/portbio.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2007; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2007/F2/provas/aptidao/cenicas2007.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2007; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2007/F2/provas/aptidao/musica2007.pdf.
+- Artes Visuais: https://gabaru.com.br/provas/unicamp/2007; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2007/F2/provas/aptidao/artesvisuais2007.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/2007; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2007/F1/fase1.pdf.
+- Odontologia: https://gabaru.com.br/provas/unicamp/2007; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2007/F2/provas/aptidao/odontologia2007.pdf.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/2007; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2007/F2/provas/fisgeo.pdf.
+- Matemática e Língua Estrangeira: https://gabaru.com.br/provas/unicamp/2006; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2006/F2/provas/mat-ing.pdf.
+- Língua Portuguesa e Ciências Biológicas: https://gabaru.com.br/provas/unicamp/2006; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2006/F2/provas/port-bio.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2006; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2006/F2/provas/aptidao/cenicas2006.pdf.
+- Odontologia: https://gabaru.com.br/provas/unicamp/2006; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2006/F2/provas/aptidao/odontologia2006.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2006; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2006/F2/provas/aptidao/arquitetura2006.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/2006; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2006/F2/provas/quim-hist.pdf.
+- Educação Artística: https://gabaru.com.br/provas/unicamp/2006; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2006/F2/provas/aptidao/ed_artistica2006.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2006; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2006/F2/provas/aptidao/musica2006.pdf.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/2006; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2006/F2/provas/fis-geo.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/2006; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2006/F1/provaf1.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/2005; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2005/F2/quim-hist.pdf.
+- Matemática e Língua Estrangeira: https://gabaru.com.br/provas/unicamp/2005; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2005/F2/mat-est.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2005; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2005/F2/aptidao/Cenicas2005.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/2005; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2005/F1/provaf1.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2005; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2005/F2/aptidao/Arquitetura2005.pdf.
+- Odontologia: https://gabaru.com.br/provas/unicamp/2005; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2005/F2/aptidao/Odontologia2005.pdf.
+- Língua Portuguesa e Ciências Biológicas: https://gabaru.com.br/provas/unicamp/2005; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2005/F2/port-bio.pdf.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/2005; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2005/F2/fis-geo.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2005; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2005/F2/aptidao/Musica.pdf.
+- Educação Artística: https://gabaru.com.br/provas/unicamp/2005; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2005/F2/aptidao/Artistica2005.pdf.
+- Desenho de observação e expressão,: https://gabaru.com.br/provas/unicamp/2004; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2004/F2/provas/artistica2004_de.pdf.
+- Odontologia: https://gabaru.com.br/provas/unicamp/2004; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2004/F2/provas/odontologia2004.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2004; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2004/F2/provas/arquitetura2004.pdf.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/2004; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2004/F2/provas/fisgeo.pdf.
+- Matemática e Língua Estrangeira: https://gabaru.com.br/provas/unicamp/2004; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2004/F2/provas/matest.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/2004; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2004/F1/provaf1.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2004; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2004/F2/provas/cenicas.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/2004; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2004/F2/provas/quimhist.pdf.
+- História da Arte): https://gabaru.com.br/provas/unicamp/2004; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2004/F2/provas/artistica2004_ha.pdf.
+- Língua Portuguesa e Ciências Biológicas: https://gabaru.com.br/provas/unicamp/2004; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest2004/F2/provas/portbio.pdf.
+- Matemática e Língua Estrangeira: https://gabaru.com.br/provas/unicamp/2003; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2003/download/matestr.pdf.
+- Odontologia: https://gabaru.com.br/provas/unicamp/2003; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2003/download/Odontologia.pdf.
+- Arquitetura: https://gabaru.com.br/provas/unicamp/2003; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2003/download/Arquitetura.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/2003; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2003/download/ProvaFase1.pdf.
+- Língua Portuguesa e Ciências Biológicas: https://gabaru.com.br/provas/unicamp/2003; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2003/download/portbio.pdf.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/2003; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2003/download/fisgeo.pdf.
+- Educação Artística: https://gabaru.com.br/provas/unicamp/2003; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2003/download/EdArtistica.pdf.
+- Artes Cênicas: https://gabaru.com.br/provas/unicamp/2003; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2003/download/Acenicas.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/2003; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2003/download/quimhist.pdf.
+- Música: https://gabaru.com.br/provas/unicamp/2003; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2003/download/musica.pdf.
+- Física: https://gabaru.com.br/provas/unicamp/2002; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2002/download/fisica.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa: https://gabaru.com.br/provas/unicamp/2002; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2002/download/lport.pdf.
+- História: https://gabaru.com.br/provas/unicamp/2002; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2002/download/historia.pdf.
+- Língua Estrangeira – Inglês: https://gabaru.com.br/provas/unicamp/2002; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2002/download/ingles.pdf.
+- Língua Estrangeira – Francês: https://gabaru.com.br/provas/unicamp/2002; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2002/download/frances.pdf.
+- Geografia: https://gabaru.com.br/provas/unicamp/2002; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2002/download/geografia.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/2002; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2002/download/fase1.pdf.
+- Química: https://gabaru.com.br/provas/unicamp/2002; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2002/download/quimica.pdf.
+- Ciências Biológicas: https://gabaru.com.br/provas/unicamp/2002; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2002/download/cbiolog.pdf.
+- Matemática: https://gabaru.com.br/provas/unicamp/2002; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2002/download/matematica.pdf.
+- Matemática: https://gabaru.com.br/provas/unicamp/2001; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2001/download/matematica.pdf.
+- Língua Estrangeira – Francês: https://gabaru.com.br/provas/unicamp/2001; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2001/download/frances.pdf.
+- Ciências Biológicas: https://gabaru.com.br/provas/unicamp/2001; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2001/download/cbiolog.pdf.
+- Química: https://gabaru.com.br/provas/unicamp/2001; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2001/download/quimica.pdf.
+- Física: https://gabaru.com.br/provas/unicamp/2001; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2001/download/fisica.pdf.
+- História: https://gabaru.com.br/provas/unicamp/2001; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2001/download/historia%20.pdf.
+- Geografia: https://gabaru.com.br/provas/unicamp/2001; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2001/download/geografia.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa: https://gabaru.com.br/provas/unicamp/2001; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2001/download/portugues.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/2001; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2001/download/fase1.pdf.
+- Língua Estrangeira – Inglês: https://gabaru.com.br/provas/unicamp/2001; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2001/download/ingles.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa: https://gabaru.com.br/provas/unicamp/2000; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2000/download/lingport.pdf.
+- Língua Estrangeira – Inglês: https://gabaru.com.br/provas/unicamp/2000; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2000/download/ingles.pdf.
+- História: https://gabaru.com.br/provas/unicamp/2000; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2000/download/historia.pdf.
+- Ciências Biológicas: https://gabaru.com.br/provas/unicamp/2000; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2000/download/cbiol.pdf.
+- Matemática: https://gabaru.com.br/provas/unicamp/2000; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2000/download/matematica.pdf.
+- Química: https://gabaru.com.br/provas/unicamp/2000; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2000/download/quimica.pdf.
+- Física: https://gabaru.com.br/provas/unicamp/2000; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2000/download/fisica.pdf.
+- Geografia: https://gabaru.com.br/provas/unicamp/2000; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2000/download/geografia.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/2000; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2000/download/fase1.pdf.
+- Língua Estrangeira – Francês: https://gabaru.com.br/provas/unicamp/2000; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/2000/download/frances.pdf.
+- Matemática: https://gabaru.com.br/provas/unicamp/1999; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1999/download/matematica.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/1999; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1999/download/fase1.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa: https://gabaru.com.br/provas/unicamp/1999; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1999/download/portugues.pdf.
+- Língua Estrangeira – Inglês: https://gabaru.com.br/provas/unicamp/1999; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1999/download/ingles.pdf.
+- Biologia: https://gabaru.com.br/provas/unicamp/1999; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1999/download/biologia.pdf.
+- Língua Estrangeira – Francês: https://gabaru.com.br/provas/unicamp/1999; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1999/download/frances.pdf.
+- História: https://gabaru.com.br/provas/unicamp/1999; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1999/download/historia.pdf.
+- Física: https://gabaru.com.br/provas/unicamp/1999; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1999/download/fisica.pdf.
+- Química: https://gabaru.com.br/provas/unicamp/1999; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1999/download/quimica.pdf.
+- Geografia: https://gabaru.com.br/provas/unicamp/1999; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1999/download/geografia.pdf.
+- Química: https://gabaru.com.br/provas/unicamp/1998; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1998/download/quimica.pdf.
+- História: https://gabaru.com.br/provas/unicamp/1998; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1998/download/hist.pdf.
+- Geografia: https://gabaru.com.br/provas/unicamp/1998; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1998/download/geo.pdf.
+- Física: https://gabaru.com.br/provas/unicamp/1998; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1998/download/fisica.pdf.
+- Língua Estrangeira – Inglês: https://gabaru.com.br/provas/unicamp/1998; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1998/download/ingles.pdf.
+- Biologia: https://gabaru.com.br/provas/unicamp/1998; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1998/download/biologia.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa: https://gabaru.com.br/provas/unicamp/1998; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1998/download/port.pdf.
+- Língua Estrangeira – Francês: https://gabaru.com.br/provas/unicamp/1998; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1998/download/frances.pdf.
+- Matemática: https://gabaru.com.br/provas/unicamp/1998; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1998/download/mat.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/1998; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1998/download/fasei.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa: https://gabaru.com.br/provas/unicamp/1997; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1997/download/PORT97.pdf.
+- Matemática: https://gabaru.com.br/provas/unicamp/1997; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1997/download/MAT97.pdf.
+- Língua Estrangeira – Inglês: https://gabaru.com.br/provas/unicamp/1997; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1997/download/ING97.pdf.
+- Língua Estrangeira – Francês: https://gabaru.com.br/provas/unicamp/1997; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1997/download/FRAN97.pdf.
+- Química: https://gabaru.com.br/provas/unicamp/1997; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1997/download/QUI97.pdf.
+- História: https://gabaru.com.br/provas/unicamp/1997; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1997/download/HIST97.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/1997; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1997/download/FASE1.pdf.
+- Geografia: https://gabaru.com.br/provas/unicamp/1997; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1997/download/GEO97.pdf.
+- Física: https://gabaru.com.br/provas/unicamp/1997; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1997/download/FIS97.pdf.
+- Biologia: https://gabaru.com.br/provas/unicamp/1997; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1997/download/BIO97.pdf.
+- Geografia: https://gabaru.com.br/provas/unicamp/1996; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1996/download/GEO.PDF.
+- Língua Estrangeira – Inglês: https://gabaru.com.br/provas/unicamp/1996; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1996/download/ING.PDF.
+- Química: https://gabaru.com.br/provas/unicamp/1996; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1996/download/QUIMICA.PDF.
+- História: https://gabaru.com.br/provas/unicamp/1996; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1996/download/HIST.PDF.
+- Matemática: https://gabaru.com.br/provas/unicamp/1996; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1996/download/MAT.PDF.
+- Biologia: https://gabaru.com.br/provas/unicamp/1996; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1996/download/BIO.PDF.
+- Física: https://gabaru.com.br/provas/unicamp/1996; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1996/download/FIS.PDF.
+- Língua Estrangeira – Francês: https://gabaru.com.br/provas/unicamp/1996; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1996/download/FRANC.PDF.
+- Língua Portuguesa e Literaturas de Língua Portuguesa: https://gabaru.com.br/provas/unicamp/1996; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1996/download/PORT.PDF.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/1996; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1996/download/FASE1.PDF.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/1995; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1995/download/FIS_GEO.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/1995; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1995/download/FASE1.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia: https://gabaru.com.br/provas/unicamp/1995; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1995/download/POR_BIO.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/1995; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1995/download/QUI_HIS.pdf.
+- Matemática e Língua Estrangeira – Inglês e Francês: https://gabaru.com.br/provas/unicamp/1995; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1995/download/MAT_EST.pdf.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/1994; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1994/download/FIS_GEO.pdf.
+- Matemática e Língua Estrangeira – Inglês e Francês: https://gabaru.com.br/provas/unicamp/1994; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1994/download/MAT_EST.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia: https://gabaru.com.br/provas/unicamp/1994; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1994/download/POR_BIO.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/1994; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1994/download/QUI_HIS.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/1994; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1994/download/FASE1.pdf.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/1993; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1993/download/FIS_GEO.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia: https://gabaru.com.br/provas/unicamp/1993; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1993/download/POR_BIO.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/1993; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1993/download/FASE1.pdf.
+- Matemática e Língua Estrangeira – Inglês e Francês: https://gabaru.com.br/provas/unicamp/1993; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1993/download/MAT_EST.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/1993; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1993/download/QUI_HIS.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/1992; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1992/download/QUI_HIS.pdf.
+- Matemática e Língua Estrangeira – Inglês e Francês: https://gabaru.com.br/provas/unicamp/1992; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1992/download/MAT_EST.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/1992; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1992/download/FASE1.pdf.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/1992; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1992/download/FIS_GEO.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia: https://gabaru.com.br/provas/unicamp/1992; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1992/download/POR_BIO.pdf.
+- Matemática e Língua Estrangeira – Inglês e Francês: https://gabaru.com.br/provas/unicamp/1991; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1991/download/MAT_EST.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia: https://gabaru.com.br/provas/unicamp/1991; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1991/download/POR_BIO.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/1991; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1991/download/QUI_HIS.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/1991; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1991/download/FASE1.pdf.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/1991; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1991/download/FIS_GEO.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/1990; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1990/download/QUI_HIS.pdf.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/1990; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1990/download/FIS_GEO.pdf.
+- Matemática e Língua Estrangeira – Inglês e Francês: https://gabaru.com.br/provas/unicamp/1990; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1990/download/MAT_EST.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia: https://gabaru.com.br/provas/unicamp/1990; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1990/download/POR_BIO.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/1990; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1990/download/FASE1.pdf.
+- Matemática e Língua Estrangeira – Inglês e Francês: https://gabaru.com.br/provas/unicamp/1989; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1989/download/MAT_EST.pdf.
+- Química e História: https://gabaru.com.br/provas/unicamp/1989; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1989/download/QUI_HIS.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia: https://gabaru.com.br/provas/unicamp/1989; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1989/download/POR_BIO.pdf.
+- Física e Geografia: https://gabaru.com.br/provas/unicamp/1989; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1989/download/FIS_GEO.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/1989; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1989/download/FASE1.pdf.
+- Física e Língua Estrangeira – Inglês e Francês: https://gabaru.com.br/provas/unicamp/1988; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1988_2/download/FIS_EST.pdf.
+- Matemática e História: https://gabaru.com.br/provas/unicamp/1988; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1988/download/MAT_HIS.pdf.
+- Matemática e História: https://gabaru.com.br/provas/unicamp/1988; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1988_2/download/MAT_HIS.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/1988; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1988_2/download/FASE1.pdf.
+- Física e Língua Estrangeira – Inglês e Francês: https://gabaru.com.br/provas/unicamp/1988; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1988/download/FIS_EST.pdf.
+- Geografia e Química: https://gabaru.com.br/provas/unicamp/1988; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1988/download/GEO_QUI.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia: https://gabaru.com.br/provas/unicamp/1988; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1988/download/POR_BIO.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/1988; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1988/download/FASE1.pdf.
+- Geografia e Química: https://gabaru.com.br/provas/unicamp/1988; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1988_2/download/GEO_QUI.pdf.
+- Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia: https://gabaru.com.br/provas/unicamp/1988; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1988_2/download/POR_BIO.pdf.
+- Física e Língua Estrangeira – Inglês e Francês: https://gabaru.com.br/provas/unicamp/1987; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1987/download/FIS_EST.pdf.
+- Geografia e Química: https://gabaru.com.br/provas/unicamp/1987; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1987/download/GEO_QUI.pdf.
+- Matemática e História: https://gabaru.com.br/provas/unicamp/1987; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1987/download/MAT_HIS.pdf.
+- Redação e questões gerais: https://gabaru.com.br/provas/unicamp/1987; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1987/download/FASE1.pdf.
+- Comunicação e Expressão e Biologia: https://gabaru.com.br/provas/unicamp/1987; 0 itens; situação nivel-0-quarentena; fonte https://www.comvest.unicamp.br/vest_anteriores/1987/download/CEX_BIO.pdf.
 
+### UNIFESP: Universidade Federal de São Paulo
+https://gabaru.com.br/banca/unifesp
+Categoria: vestibulares; cadernos: 0.
 
-## INEP / ENEM — Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
-https://www.gabaru.com.br/banca/enem
+## Disciplinas e assuntos validados
+- disciplina: ciencias; https://gabaru.com.br/disciplina/ciencias
+- disciplina: geografia; https://gabaru.com.br/disciplina/geografia
+- disciplina: historia; https://gabaru.com.br/disciplina/historia
+- disciplina: matematica; https://gabaru.com.br/disciplina/matematica
+- disciplina: quimica; https://gabaru.com.br/disciplina/quimica
+- assunto: aritmetica; https://gabaru.com.br/assunto/aritmetica
+- assunto: escravidao-e-atlantico; https://gabaru.com.br/assunto/escravidao-e-atlantico
+- assunto: estatistica; https://gabaru.com.br/assunto/estatistica
+- assunto: expansao-maritima; https://gabaru.com.br/assunto/expansao-maritima
+- assunto: funcoes; https://gabaru.com.br/assunto/funcoes
+- assunto: funcoes-inorganicas; https://gabaru.com.br/assunto/funcoes-inorganicas
+- assunto: geometria-plana; https://gabaru.com.br/assunto/geometria-plana
+- assunto: grandezas-medidas-e-escalas; https://gabaru.com.br/assunto/grandezas-medidas-e-escalas
+- assunto: historia-antiga; https://gabaru.com.br/assunto/historia-antiga
+- assunto: historia-medieval; https://gabaru.com.br/assunto/historia-medieval
+- assunto: leitura-de-tabelas; https://gabaru.com.br/assunto/leitura-de-tabelas
+- assunto: neutralizacao; https://gabaru.com.br/assunto/neutralizacao
+- assunto: porcentagem-e-matematica-financeira; https://gabaru.com.br/assunto/porcentagem-e-matematica-financeira
+- assunto: razao-e-proporcao; https://gabaru.com.br/assunto/razao-e-proporcao
+- assunto: razao-proporcao-e-unidades; https://gabaru.com.br/assunto/razao-proporcao-e-unidades
+- assunto: substancias-e-misturas; https://gabaru.com.br/assunto/substancias-e-misturas
+- assunto: transportes-e-sociedade; https://gabaru.com.br/assunto/transportes-e-sociedade
+- assunto: urbanizacao-brasileira; https://gabaru.com.br/assunto/urbanizacao-brasileira
 
-
-## UEL — Universidade Estadual de Londrina
-https://www.gabaru.com.br/banca/uel
-
-
-## UERJ — Universidade do Estado do Rio de Janeiro
-https://www.gabaru.com.br/banca/uerj
-
-
-## UNESP — Universidade Estadual Paulista — Vunesp
-https://www.gabaru.com.br/banca/unesp
-
-
-## UNICAMP — Universidade Estadual de Campinas — Comvest
-https://www.gabaru.com.br/banca/unicamp
-
-
-## Questões completas com resolução editorial
-- [ETEC 2026, questão 1](https://www.gabaru.com.br/questoes/etec-2026-2-q001) — área: ciencias-humanas; disciplina: historia; assunto: historia-antiga.
-- [ETEC 2026, questão 2](https://www.gabaru.com.br/questoes/etec-2026-2-q002) — área: ciencias-humanas; disciplina: historia; assunto: historia-medieval.
-- [ETEC 2026, questão 3](https://www.gabaru.com.br/questoes/etec-2026-2-q003) — área: ciencias-humanas; disciplina: historia; assunto: expansao-maritima.
-- [ETEC 2026, questão 4](https://www.gabaru.com.br/questoes/etec-2026-2-q004) — área: ciencias-humanas; disciplina: historia; assunto: escravidao-e-atlantico.
-- [ETEC 2026, questão 5](https://www.gabaru.com.br/questoes/etec-2026-2-q005) — área: ciencias-humanas; disciplina: historia; assunto: transportes-e-sociedade.
-- [ETEC 2026, questão 7](https://www.gabaru.com.br/questoes/etec-2026-2-q007) — área: ciencias-humanas; disciplina: geografia; assunto: urbanizacao-brasileira.
-- [ETEC 2026, questão 8](https://www.gabaru.com.br/questoes/etec-2026-2-q008) — área: ciencias-da-natureza; disciplina: quimica; assunto: leitura-de-tabelas.
-- [ETEC 2026, questão 9](https://www.gabaru.com.br/questoes/etec-2026-2-q009) — área: ciencias-da-natureza; disciplina: quimica; assunto: funcoes-inorganicas.
-- [ETEC 2026, questão 11](https://www.gabaru.com.br/questoes/etec-2026-2-q011) — área: ciencias-da-natureza; disciplina: quimica; assunto: substancias-e-misturas.
-- [ETEC 2026, questão 12](https://www.gabaru.com.br/questoes/etec-2026-2-q012) — área: ciencias-da-natureza; disciplina: quimica; assunto: neutralizacao.
-- [ENEM 2025, questão 153](https://www.gabaru.com.br/questoes/enem-2025-d2-q153) — área: matematica; disciplina: matematica; assunto: porcentagem-e-matematica-financeira.
-- [ENEM 2025, questão 158](https://www.gabaru.com.br/questoes/enem-2025-d2-q158) — área: matematica; disciplina: matematica; assunto: razao-e-proporcao.
-- [ENEM 2025, questão 159](https://www.gabaru.com.br/questoes/enem-2025-d2-q159) — área: matematica; disciplina: matematica; assunto: estatistica.
-- [ENEM 2025, questão 164](https://www.gabaru.com.br/questoes/enem-2025-d2-q164) — área: matematica; disciplina: matematica; assunto: geometria-plana.
-- [ENEM 2025, questão 165](https://www.gabaru.com.br/questoes/enem-2025-d2-q165) — área: matematica; disciplina: matematica; assunto: grandezas-medidas-e-escalas.
-- [ENEM 2025, questão 166](https://www.gabaru.com.br/questoes/enem-2025-d2-q166) — área: matematica; disciplina: matematica; assunto: razao-e-proporcao.
-- [ENEM 2025, questão 167](https://www.gabaru.com.br/questoes/enem-2025-d2-q167) — área: matematica; disciplina: matematica; assunto: funcoes.
-- [ENEM 2025, questão 169](https://www.gabaru.com.br/questoes/enem-2025-d2-q169) — área: matematica; disciplina: matematica; assunto: estatistica.
-- [ENEM 2025, questão 170](https://www.gabaru.com.br/questoes/enem-2025-d2-q170) — área: matematica; disciplina: matematica; assunto: aritmetica.
-- [ENEM 2025, questão 174](https://www.gabaru.com.br/questoes/enem-2025-d2-q174) — área: matematica; disciplina: matematica; assunto: aritmetica.
-- [ENEM 2011, questão 138](https://www.gabaru.com.br/questoes/enem-2011-d2-q138) — área: matematica; disciplina: matematica; assunto: razao-proporcao-e-unidades.
-- [ENEM 2011, questão 141](https://www.gabaru.com.br/questoes/enem-2011-d2-q141) — área: matematica; disciplina: matematica; assunto: razao-proporcao-e-unidades.
-- [ENEM 2011, questão 143](https://www.gabaru.com.br/questoes/enem-2011-d2-q143) — área: matematica; disciplina: matematica; assunto: razao-proporcao-e-unidades.
-- [ENEM 2011, questão 147](https://www.gabaru.com.br/questoes/enem-2011-d2-q147) — área: matematica; disciplina: matematica; assunto: razao-proporcao-e-unidades.
+## Questões íntegras
+- ETEC 2026, questão 1: https://gabaru.com.br/questoes/etec-2026-2-q001; historia; historia-antiga; nivel-2-resolucao-comentada.
+- ETEC 2026, questão 2: https://gabaru.com.br/questoes/etec-2026-2-q002; historia; historia-medieval; nivel-2-resolucao-comentada.
+- ETEC 2026, questão 3: https://gabaru.com.br/questoes/etec-2026-2-q003; historia; expansao-maritima; nivel-2-resolucao-comentada.
+- ETEC 2026, questão 4: https://gabaru.com.br/questoes/etec-2026-2-q004; historia; escravidao-e-atlantico; nivel-2-resolucao-comentada.
+- ETEC 2026, questão 5: https://gabaru.com.br/questoes/etec-2026-2-q005; historia; transportes-e-sociedade; nivel-2-resolucao-comentada.
+- ETEC 2026, questão 6: https://gabaru.com.br/questoes/etec-2026-2-q006; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 7: https://gabaru.com.br/questoes/etec-2026-2-q007; geografia; urbanizacao-brasileira; nivel-2-resolucao-comentada.
+- ETEC 2026, questão 8: https://gabaru.com.br/questoes/etec-2026-2-q008; quimica; leitura-de-tabelas; nivel-2-resolucao-comentada.
+- ETEC 2026, questão 9: https://gabaru.com.br/questoes/etec-2026-2-q009; quimica; funcoes-inorganicas; nivel-2-resolucao-comentada.
+- ETEC 2026, questão 10: https://gabaru.com.br/questoes/etec-2026-2-q010; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 11: https://gabaru.com.br/questoes/etec-2026-2-q011; quimica; substancias-e-misturas; nivel-2-resolucao-comentada.
+- ETEC 2026, questão 12: https://gabaru.com.br/questoes/etec-2026-2-q012; quimica; neutralizacao; nivel-2-resolucao-comentada.
+- ETEC 2026, questão 13: https://gabaru.com.br/questoes/etec-2026-2-q013; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 14: https://gabaru.com.br/questoes/etec-2026-2-q014; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 15: https://gabaru.com.br/questoes/etec-2026-2-q015; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 16: https://gabaru.com.br/questoes/etec-2026-2-q016; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 17: https://gabaru.com.br/questoes/etec-2026-2-q017; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 18: https://gabaru.com.br/questoes/etec-2026-2-q018; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 19: https://gabaru.com.br/questoes/etec-2026-2-q019; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 20: https://gabaru.com.br/questoes/etec-2026-2-q020; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 21: https://gabaru.com.br/questoes/etec-2026-2-q021; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 22: https://gabaru.com.br/questoes/etec-2026-2-q022; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 23: https://gabaru.com.br/questoes/etec-2026-2-q023; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 24: https://gabaru.com.br/questoes/etec-2026-2-q024; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 25: https://gabaru.com.br/questoes/etec-2026-2-q025; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 26: https://gabaru.com.br/questoes/etec-2026-2-q026; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 27: https://gabaru.com.br/questoes/etec-2026-2-q027; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 28: https://gabaru.com.br/questoes/etec-2026-2-q028; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 29: https://gabaru.com.br/questoes/etec-2026-2-q029; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 30: https://gabaru.com.br/questoes/etec-2026-2-q030; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 31: https://gabaru.com.br/questoes/etec-2026-2-q031; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 32: https://gabaru.com.br/questoes/etec-2026-2-q032; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 33: https://gabaru.com.br/questoes/etec-2026-2-q033; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 34: https://gabaru.com.br/questoes/etec-2026-2-q034; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 35: https://gabaru.com.br/questoes/etec-2026-2-q035; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 36: https://gabaru.com.br/questoes/etec-2026-2-q036; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 37: https://gabaru.com.br/questoes/etec-2026-2-q037; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 38: https://gabaru.com.br/questoes/etec-2026-2-q038; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 39: https://gabaru.com.br/questoes/etec-2026-2-q039; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 40: https://gabaru.com.br/questoes/etec-2026-2-q040; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 41: https://gabaru.com.br/questoes/etec-2026-2-q041; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 42: https://gabaru.com.br/questoes/etec-2026-2-q042; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 43: https://gabaru.com.br/questoes/etec-2026-2-q043; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 44: https://gabaru.com.br/questoes/etec-2026-2-q044; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 45: https://gabaru.com.br/questoes/etec-2026-2-q045; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 46: https://gabaru.com.br/questoes/etec-2026-2-q046; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 47: https://gabaru.com.br/questoes/etec-2026-2-q047; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 48: https://gabaru.com.br/questoes/etec-2026-2-q048; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 49: https://gabaru.com.br/questoes/etec-2026-2-q049; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 50: https://gabaru.com.br/questoes/etec-2026-2-q050; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 2: https://gabaru.com.br/questoes/etec-2026-1-q002; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 8: https://gabaru.com.br/questoes/etec-2026-1-q008; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 9: https://gabaru.com.br/questoes/etec-2026-1-q009; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 10: https://gabaru.com.br/questoes/etec-2026-1-q010; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 11: https://gabaru.com.br/questoes/etec-2026-1-q011; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 12: https://gabaru.com.br/questoes/etec-2026-1-q012; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 13: https://gabaru.com.br/questoes/etec-2026-1-q013; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 15: https://gabaru.com.br/questoes/etec-2026-1-q015; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 16: https://gabaru.com.br/questoes/etec-2026-1-q016; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 21: https://gabaru.com.br/questoes/etec-2026-1-q021; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 22: https://gabaru.com.br/questoes/etec-2026-1-q022; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 23: https://gabaru.com.br/questoes/etec-2026-1-q023; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 24: https://gabaru.com.br/questoes/etec-2026-1-q024; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 25: https://gabaru.com.br/questoes/etec-2026-1-q025; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 26: https://gabaru.com.br/questoes/etec-2026-1-q026; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 28: https://gabaru.com.br/questoes/etec-2026-1-q028; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 29: https://gabaru.com.br/questoes/etec-2026-1-q029; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 31: https://gabaru.com.br/questoes/etec-2026-1-q031; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 32: https://gabaru.com.br/questoes/etec-2026-1-q032; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 33: https://gabaru.com.br/questoes/etec-2026-1-q033; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 34: https://gabaru.com.br/questoes/etec-2026-1-q034; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 36: https://gabaru.com.br/questoes/etec-2026-1-q036; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 37: https://gabaru.com.br/questoes/etec-2026-1-q037; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 38: https://gabaru.com.br/questoes/etec-2026-1-q038; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 39: https://gabaru.com.br/questoes/etec-2026-1-q039; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 40: https://gabaru.com.br/questoes/etec-2026-1-q040; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 45: https://gabaru.com.br/questoes/etec-2026-1-q045; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 49: https://gabaru.com.br/questoes/etec-2026-1-q049; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2026, questão 50: https://gabaru.com.br/questoes/etec-2026-1-q050; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 1: https://gabaru.com.br/questoes/etec-2025-1-q001; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 6: https://gabaru.com.br/questoes/etec-2025-1-q006; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 7: https://gabaru.com.br/questoes/etec-2025-1-q007; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 10: https://gabaru.com.br/questoes/etec-2025-1-q010; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 12: https://gabaru.com.br/questoes/etec-2025-1-q012; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 13: https://gabaru.com.br/questoes/etec-2025-1-q013; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 14: https://gabaru.com.br/questoes/etec-2025-1-q014; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 16: https://gabaru.com.br/questoes/etec-2025-1-q016; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 19: https://gabaru.com.br/questoes/etec-2025-1-q019; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 21: https://gabaru.com.br/questoes/etec-2025-1-q021; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 23: https://gabaru.com.br/questoes/etec-2025-1-q023; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 28: https://gabaru.com.br/questoes/etec-2025-1-q028; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 29: https://gabaru.com.br/questoes/etec-2025-1-q029; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 31: https://gabaru.com.br/questoes/etec-2025-1-q031; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 35: https://gabaru.com.br/questoes/etec-2025-1-q035; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 36: https://gabaru.com.br/questoes/etec-2025-1-q036; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 39: https://gabaru.com.br/questoes/etec-2025-1-q039; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 40: https://gabaru.com.br/questoes/etec-2025-1-q040; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 44: https://gabaru.com.br/questoes/etec-2025-1-q044; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 46: https://gabaru.com.br/questoes/etec-2025-1-q046; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 47: https://gabaru.com.br/questoes/etec-2025-1-q047; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 48: https://gabaru.com.br/questoes/etec-2025-1-q048; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 49: https://gabaru.com.br/questoes/etec-2025-1-q049; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 1: https://gabaru.com.br/questoes/etec-2024-2-q001; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 12: https://gabaru.com.br/questoes/etec-2024-2-q012; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 20: https://gabaru.com.br/questoes/etec-2024-2-q020; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 21: https://gabaru.com.br/questoes/etec-2024-2-q021; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 25: https://gabaru.com.br/questoes/etec-2024-2-q025; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 29: https://gabaru.com.br/questoes/etec-2024-2-q029; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 30: https://gabaru.com.br/questoes/etec-2024-2-q030; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 32: https://gabaru.com.br/questoes/etec-2024-2-q032; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 45: https://gabaru.com.br/questoes/etec-2024-2-q045; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 47: https://gabaru.com.br/questoes/etec-2024-2-q047; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 3: https://gabaru.com.br/questoes/etec-2024-1-q003; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 4: https://gabaru.com.br/questoes/etec-2024-1-q004; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 8: https://gabaru.com.br/questoes/etec-2024-1-q008; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 18: https://gabaru.com.br/questoes/etec-2024-1-q018; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 31: https://gabaru.com.br/questoes/etec-2024-1-q031; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 33: https://gabaru.com.br/questoes/etec-2024-1-q033; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 36: https://gabaru.com.br/questoes/etec-2024-1-q036; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 44: https://gabaru.com.br/questoes/etec-2024-1-q044; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 47: https://gabaru.com.br/questoes/etec-2024-1-q047; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 4: https://gabaru.com.br/questoes/etec-2023-2-q004; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 10: https://gabaru.com.br/questoes/etec-2023-2-q010; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 11: https://gabaru.com.br/questoes/etec-2023-2-q011; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 13: https://gabaru.com.br/questoes/etec-2023-2-q013; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 17: https://gabaru.com.br/questoes/etec-2023-2-q017; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 18: https://gabaru.com.br/questoes/etec-2023-2-q018; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 24: https://gabaru.com.br/questoes/etec-2023-2-q024; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 25: https://gabaru.com.br/questoes/etec-2023-2-q025; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 28: https://gabaru.com.br/questoes/etec-2023-2-q028; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 33: https://gabaru.com.br/questoes/etec-2023-2-q033; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 34: https://gabaru.com.br/questoes/etec-2023-2-q034; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 40: https://gabaru.com.br/questoes/etec-2023-2-q040; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 41: https://gabaru.com.br/questoes/etec-2023-2-q041; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 42: https://gabaru.com.br/questoes/etec-2023-2-q042; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 43: https://gabaru.com.br/questoes/etec-2023-2-q043; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 46: https://gabaru.com.br/questoes/etec-2023-2-q046; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 8: https://gabaru.com.br/questoes/etec-2023-1-q008; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 9: https://gabaru.com.br/questoes/etec-2023-1-q009; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 17: https://gabaru.com.br/questoes/etec-2023-1-q017; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2023, questão 18: https://gabaru.com.br/questoes/etec-2023-1-q018; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2022, questão 2: https://gabaru.com.br/questoes/etec-2022-2-q002; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2022, questão 13: https://gabaru.com.br/questoes/etec-2022-2-q013; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2022, questão 25: https://gabaru.com.br/questoes/etec-2022-2-q025; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2022, questão 32: https://gabaru.com.br/questoes/etec-2022-2-q032; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2022, questão 36: https://gabaru.com.br/questoes/etec-2022-2-q036; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2022, questão 45: https://gabaru.com.br/questoes/etec-2022-2-q045; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2020, questão 2: https://gabaru.com.br/questoes/etec-2020-1-q002; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2020, questão 13: https://gabaru.com.br/questoes/etec-2020-1-q013; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2020, questão 29: https://gabaru.com.br/questoes/etec-2020-1-q029; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2020, questão 35: https://gabaru.com.br/questoes/etec-2020-1-q035; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2020, questão 46: https://gabaru.com.br/questoes/etec-2020-1-q046; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2020, questão 49: https://gabaru.com.br/questoes/etec-2020-1-q049; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2026, questão 12: https://gabaru.com.br/questoes/ifsc-2026-2-q012; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2026, questão 16: https://gabaru.com.br/questoes/ifsc-2026-2-q016; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2026, questão 23: https://gabaru.com.br/questoes/ifsc-2026-2-q023; ciencias; a-classificar; nivel-1-gabarito-oficial.
+- ENEM 2025, questão 153: https://gabaru.com.br/questoes/enem-2025-d2-q153; matematica; porcentagem-e-matematica-financeira; nivel-2-resolucao-comentada.
+- ENEM 2025, questão 158: https://gabaru.com.br/questoes/enem-2025-d2-q158; matematica; razao-e-proporcao; nivel-2-resolucao-comentada.
+- ENEM 2025, questão 159: https://gabaru.com.br/questoes/enem-2025-d2-q159; matematica; estatistica; nivel-2-resolucao-comentada.
+- ENEM 2025, questão 164: https://gabaru.com.br/questoes/enem-2025-d2-q164; matematica; geometria-plana; nivel-2-resolucao-comentada.
+- ENEM 2025, questão 165: https://gabaru.com.br/questoes/enem-2025-d2-q165; matematica; grandezas-medidas-e-escalas; nivel-2-resolucao-comentada.
+- ENEM 2025, questão 166: https://gabaru.com.br/questoes/enem-2025-d2-q166; matematica; razao-e-proporcao; nivel-2-resolucao-comentada.
+- ENEM 2025, questão 167: https://gabaru.com.br/questoes/enem-2025-d2-q167; matematica; funcoes; nivel-2-resolucao-comentada.
+- ENEM 2025, questão 169: https://gabaru.com.br/questoes/enem-2025-d2-q169; matematica; estatistica; nivel-2-resolucao-comentada.
+- ENEM 2025, questão 170: https://gabaru.com.br/questoes/enem-2025-d2-q170; matematica; aritmetica; nivel-2-resolucao-comentada.
+- ENEM 2025, questão 174: https://gabaru.com.br/questoes/enem-2025-d2-q174; matematica; aritmetica; nivel-2-resolucao-comentada.
+- ENEM 2011, questão 138: https://gabaru.com.br/questoes/enem-2011-d2-q138; matematica; razao-proporcao-e-unidades; nivel-2-resolucao-comentada.
+- ENEM 2011, questão 141: https://gabaru.com.br/questoes/enem-2011-d2-q141; matematica; razao-proporcao-e-unidades; nivel-2-resolucao-comentada.
+- ENEM 2011, questão 143: https://gabaru.com.br/questoes/enem-2011-d2-q143; matematica; razao-proporcao-e-unidades; nivel-2-resolucao-comentada.
+- ENEM 2011, questão 147: https://gabaru.com.br/questoes/enem-2011-d2-q147; matematica; razao-proporcao-e-unidades; nivel-2-resolucao-comentada.

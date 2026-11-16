@@ -13,10 +13,10 @@ tema: "Descarte adequado de efluentes industriais contendo fenol"
 classificacao_confianca: media
 gabarito: D
 imagem: enem-2022-ppl-d2-q096.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 96 — ENEM 2022](enem-2022-ppl-d2-q096.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 96  
 O fenol (hidroxi-benzeno) e vários de seus  
@@ -37,5 +37,3 @@ C armazenar o rejeito em piscinas de contenção.
 D extrair e reinserir o produto na linha de produção.  
 E adicionar água suficiente para permitir o despejo  
 nos rios.
-
-</details>

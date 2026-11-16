@@ -13,10 +13,10 @@ tema: "Maior razão entre preços de gasolina e etanol"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q171.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 171 — ENEM 2024](enem-2024-ppl-d2-q171.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 171  
 Os preços da gasolina e do etanol no Brasil são frequentemente noticiados nos  
@@ -48,5 +48,3 @@ B Goiás.
 C Mato Grosso.  
 D Rio de Janeiro.  
 E São Paulo.
-
-</details>

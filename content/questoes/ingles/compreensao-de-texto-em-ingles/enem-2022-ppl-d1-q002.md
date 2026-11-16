@@ -13,10 +13,10 @@ tema: "Infográfico sobre poluição da indústria da moda"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q002.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 2 — ENEM 2022](enem-2022-ppl-d1-q002.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 02  
 FASHION IS THE 2 ND HIGHEST POLLUTING  
@@ -54,5 +54,3 @@ roupas.
 E   
 evidenciar o investimento da indústria da moda em novos  
 mercados.
-
-</details>

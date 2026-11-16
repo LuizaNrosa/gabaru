@@ -13,10 +13,10 @@ tema: "Anorexia, exercício físico e padrões de beleza"
 classificacao_confianca: media
 gabarito: A
 imagem: enem-2022-ppl-d1-q006.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 6 — ENEM 2022](enem-2022-ppl-d1-q006.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 06  
 A anorexia é um transtorno alimentar caracterizado por grande perda  
@@ -42,5 +42,3 @@ B conjunto de fatores familiares, psicológicos e socioculturais.
 C utilização de medicamentos e dietas restritivas.  
 D recorrência da provocação do vômito.  
 E medo exagerado de ganhar peso.
-
-</details>

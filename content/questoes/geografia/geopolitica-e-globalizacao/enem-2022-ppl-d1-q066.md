@@ -13,10 +13,10 @@ tema: "Disputa geopolítica por reservas naturais e controle de territórios"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q066.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 66 — ENEM 2022](enem-2022-ppl-d1-q066.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 66  
 Enquanto as tecnologias avançadas são desenvolvidas nos  
@@ -36,5 +36,3 @@ B definição e normatização de fronteiras.
 C formação e consolidação de acordos militares.  
 D assentamento e expansão de núcleos populacionais.  
 E planejamento e implantação de blocos econômicos.
-
-</details>

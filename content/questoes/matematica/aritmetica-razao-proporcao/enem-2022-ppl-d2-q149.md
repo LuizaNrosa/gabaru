@@ -13,10 +13,10 @@ tema: "Consumo mensal de energia a partir do custo adicional"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q149.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 149 — ENEM 2022](enem-2022-ppl-d2-q149.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 149  
 Uma família decidiu comprar um aparelho  
@@ -41,5 +41,3 @@ D
 240.  
 146.  
 E
-
-</details>

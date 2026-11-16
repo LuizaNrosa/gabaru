@@ -6,5 +6,643 @@
       "acervo-parts/coluni/2017/prova.pdf.part0",
       "acervo-parts/coluni/2017/prova.pdf.part1"
     ]
+  },
+  {
+    "file": "public/acervo/etec/2026-2/prova.pdf",
+    "sha256": "c0804a31a4f951f94668a2c4714ea085b343e6d155b81ebbd00014e635178a6a",
+    "parts": [
+      "acervo-parts/etec/2026-2/prova.pdf.part0",
+      "acervo-parts/etec/2026-2/prova.pdf.part1"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2026-2/gabarito.pdf",
+    "sha256": "0ad7c2544be28ea0beb22468c98333276026400ce073663bdc460c789f05c708",
+    "parts": [
+      "acervo-parts/etec/2026-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2026-1/prova.pdf",
+    "sha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+    "parts": [
+      "acervo-parts/etec/2026-1/prova.pdf.part0",
+      "acervo-parts/etec/2026-1/prova.pdf.part1"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2026-1/gabarito.pdf",
+    "sha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+    "parts": [
+      "acervo-parts/etec/2026-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2025-1/prova.pdf",
+    "sha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+    "parts": [
+      "acervo-parts/etec/2025-1/prova.pdf.part0",
+      "acervo-parts/etec/2025-1/prova.pdf.part1"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2025-1/gabarito.pdf",
+    "sha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+    "parts": [
+      "acervo-parts/etec/2025-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2024-2/prova.pdf",
+    "sha256": "d057529a7101cafac67a76fd099215a0d917501e54b183ab03d23a38d798c761",
+    "parts": [
+      "acervo-parts/etec/2024-2/prova.pdf.part0",
+      "acervo-parts/etec/2024-2/prova.pdf.part1"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2024-2/gabarito.pdf",
+    "sha256": "c5ad8ad9ed04efae88868a419d71d06c02aaa6232b2f1151d9523c72238422c1",
+    "parts": [
+      "acervo-parts/etec/2024-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2024-1/prova.pdf",
+    "sha256": "e332dcb18b302241d3da3c4f8428465c332a554458ecd78f14b3efdde667498f",
+    "parts": [
+      "acervo-parts/etec/2024-1/prova.pdf.part0",
+      "acervo-parts/etec/2024-1/prova.pdf.part1"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2024-1/gabarito.pdf",
+    "sha256": "f26127a2b2df31eafa57a4d770035411189e276df7089f07a41fb4c6e822dfa7",
+    "parts": [
+      "acervo-parts/etec/2024-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2023-2/prova.pdf",
+    "sha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+    "parts": [
+      "acervo-parts/etec/2023-2/prova.pdf.part0",
+      "acervo-parts/etec/2023-2/prova.pdf.part1",
+      "acervo-parts/etec/2023-2/prova.pdf.part2"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2023-2/gabarito.pdf",
+    "sha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+    "parts": [
+      "acervo-parts/etec/2023-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2023-1/prova.pdf",
+    "sha256": "e88907b015c024d2e17a0f6a3580a94b286c46b24073535e277aea1cb2d07d71",
+    "parts": [
+      "acervo-parts/etec/2023-1/prova.pdf.part0",
+      "acervo-parts/etec/2023-1/prova.pdf.part1",
+      "acervo-parts/etec/2023-1/prova.pdf.part2",
+      "acervo-parts/etec/2023-1/prova.pdf.part3"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2023-1/gabarito.pdf",
+    "sha256": "648e3e9f84c1c8f056e629d635b78b89321afbe6d86a5378b7b51afd0781e88e",
+    "parts": [
+      "acervo-parts/etec/2023-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2022-2/prova.pdf",
+    "sha256": "4ce97322a6ba1a98e948a11d19d8fdd62ebd40749b8b384ade71262cf891e752",
+    "parts": [
+      "acervo-parts/etec/2022-2/prova.pdf.part0",
+      "acervo-parts/etec/2022-2/prova.pdf.part1",
+      "acervo-parts/etec/2022-2/prova.pdf.part2"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2022-2/gabarito.pdf",
+    "sha256": "0e70376fedc01865700428f8478dbd60d6771fcc3a273ed5d5a10309757c0229",
+    "parts": [
+      "acervo-parts/etec/2022-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2020-1/prova.pdf",
+    "sha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+    "parts": [
+      "acervo-parts/etec/2020-1/prova.pdf.part0",
+      "acervo-parts/etec/2020-1/prova.pdf.part1",
+      "acervo-parts/etec/2020-1/prova.pdf.part2",
+      "acervo-parts/etec/2020-1/prova.pdf.part3"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2020-1/gabarito.pdf",
+    "sha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032",
+    "parts": [
+      "acervo-parts/etec/2020-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2019-2/prova.pdf",
+    "sha256": "6214eaab3d242b5ad2203e7c01043244f690b1d6ee4f5b6aace504ab0d13394f",
+    "parts": [
+      "acervo-parts/etec/2019-2/prova.pdf.part0",
+      "acervo-parts/etec/2019-2/prova.pdf.part1"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2019-2/gabarito.pdf",
+    "sha256": "3f5d61b5edcca01a9abdc22d867780b162d36fbc4372a46e5e85e4f247ac8008",
+    "parts": [
+      "acervo-parts/etec/2019-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2019-1/prova.pdf",
+    "sha256": "6ac0aef09ce612768edea553c9187a8608932a08bfd7f2d489022726e0499231",
+    "parts": [
+      "acervo-parts/etec/2019-1/prova.pdf.part0",
+      "acervo-parts/etec/2019-1/prova.pdf.part1",
+      "acervo-parts/etec/2019-1/prova.pdf.part2"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2019-1/gabarito.pdf",
+    "sha256": "051ea25b54bb0a00a31da938d5c7f6021089687b4910357fd6cff5ab3846d98f",
+    "parts": [
+      "acervo-parts/etec/2019-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2018-2/prova.pdf",
+    "sha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+    "parts": [
+      "acervo-parts/etec/2018-2/prova.pdf.part0",
+      "acervo-parts/etec/2018-2/prova.pdf.part1"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2018-2/gabarito.pdf",
+    "sha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309",
+    "parts": [
+      "acervo-parts/etec/2018-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2018-1/prova.pdf",
+    "sha256": "9b306c938949546bece133f1b12ddb15d8f49e8d06738c6a2124d01b44306f1f",
+    "parts": [
+      "acervo-parts/etec/2018-1/prova.pdf.part0",
+      "acervo-parts/etec/2018-1/prova.pdf.part1"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2018-1/gabarito.pdf",
+    "sha256": "4dbb6049781eb7a061d4e6a1fbd1f9c24edd3dae21c6b0c4809495ed972cb8d0",
+    "parts": [
+      "acervo-parts/etec/2018-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2017-2/prova.pdf",
+    "sha256": "cdec5bd7d83adede931224267fd333e28449fb02e9655b05ea1df07892337709",
+    "parts": [
+      "acervo-parts/etec/2017-2/prova.pdf.part0",
+      "acervo-parts/etec/2017-2/prova.pdf.part1",
+      "acervo-parts/etec/2017-2/prova.pdf.part2"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2017-2/gabarito.pdf",
+    "sha256": "c6adb0d65cf84a298c3887e4a84038b6e97be6730a916f9c70f126dc68bdfac0",
+    "parts": [
+      "acervo-parts/etec/2017-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2017-1/prova.pdf",
+    "sha256": "d1604110ff1df1dc22d67ca1e6c23a5eac22ceff5ad1f064071126c9609f4cc8",
+    "parts": [
+      "acervo-parts/etec/2017-1/prova.pdf.part0",
+      "acervo-parts/etec/2017-1/prova.pdf.part1"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2017-1/gabarito.pdf",
+    "sha256": "0554f61d57c2c63a9625e694cd47ee1b0ab23e6e9c3603175af041d87d0667c4",
+    "parts": [
+      "acervo-parts/etec/2017-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2016-2/prova.pdf",
+    "sha256": "f27a0d0391d4bbe28f0e7fab01f8464167265680bfbb33b73bcbcb9eec997c09",
+    "parts": [
+      "acervo-parts/etec/2016-2/prova.pdf.part0",
+      "acervo-parts/etec/2016-2/prova.pdf.part1"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2016-2/gabarito.pdf",
+    "sha256": "70b50a08e5c08d9f3729336c4778589d5a010939002f68e71f0b4121bfa11087",
+    "parts": [
+      "acervo-parts/etec/2016-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2016-1/prova.pdf",
+    "sha256": "f2d77beaa112d90a70354e447941c7646fc41f879bd7d829786dc05a622c26a1",
+    "parts": [
+      "acervo-parts/etec/2016-1/prova.pdf.part0",
+      "acervo-parts/etec/2016-1/prova.pdf.part1",
+      "acervo-parts/etec/2016-1/prova.pdf.part2"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2016-1/gabarito.pdf",
+    "sha256": "b9f3a67b6be9efbe7a3f465627aa10ed8ee7dab7b85e6a4c6bed49c80e7fa553",
+    "parts": [
+      "acervo-parts/etec/2016-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2015-2/prova.pdf",
+    "sha256": "97fe6947ca46bc12bb4a98781a9c17c3a83c8b1401b4f08c9a68dc5ab33975ed",
+    "parts": [
+      "acervo-parts/etec/2015-2/prova.pdf.part0",
+      "acervo-parts/etec/2015-2/prova.pdf.part1",
+      "acervo-parts/etec/2015-2/prova.pdf.part2"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2015-2/gabarito.pdf",
+    "sha256": "15493cee1976f1c1e07552e8fa3a67ba61dbbc8731a7f078a3d170b7bd0199c2",
+    "parts": [
+      "acervo-parts/etec/2015-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2015-1/prova.pdf",
+    "sha256": "60041ac1e74c8d4d1c244a1d1bb21a0bd26d9debf32c4a54c3fe53eef6c424ea",
+    "parts": [
+      "acervo-parts/etec/2015-1/prova.pdf.part0",
+      "acervo-parts/etec/2015-1/prova.pdf.part1",
+      "acervo-parts/etec/2015-1/prova.pdf.part2"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2015-1/gabarito.pdf",
+    "sha256": "81880ab430940425aa3a7907e2e7091edf78511e0ef7d615fa3ec0134f0abdca",
+    "parts": [
+      "acervo-parts/etec/2015-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2014-2/prova.pdf",
+    "sha256": "f8554abfdab7842d17f1c306b9aa104aacec5ab093b78dc94f3170910395926b",
+    "parts": [
+      "acervo-parts/etec/2014-2/prova.pdf.part0",
+      "acervo-parts/etec/2014-2/prova.pdf.part1",
+      "acervo-parts/etec/2014-2/prova.pdf.part2"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2014-2/gabarito.pdf",
+    "sha256": "d324fb6b40b67db77717050dee7ce5e09d3e3f504ffc91108f28451d1645e84c",
+    "parts": [
+      "acervo-parts/etec/2014-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2014-1/prova.pdf",
+    "sha256": "aef08331ea1cba5ae974200562c15b3684190d20ce9e560e0b8b716ea1765461",
+    "parts": [
+      "acervo-parts/etec/2014-1/prova.pdf.part0",
+      "acervo-parts/etec/2014-1/prova.pdf.part1",
+      "acervo-parts/etec/2014-1/prova.pdf.part2",
+      "acervo-parts/etec/2014-1/prova.pdf.part3"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2014-1/gabarito.pdf",
+    "sha256": "92bc48a22ab6b8baaa02f9e5b7c17aef731cd37f67824d327ba47a51b5eaef46",
+    "parts": [
+      "acervo-parts/etec/2014-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2013-2/prova.pdf",
+    "sha256": "41accf8702d8fc37a18919fadf17a32103b2849beb9d11ea7ba71b4c06276097",
+    "parts": [
+      "acervo-parts/etec/2013-2/prova.pdf.part0",
+      "acervo-parts/etec/2013-2/prova.pdf.part1",
+      "acervo-parts/etec/2013-2/prova.pdf.part2"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2013-2/gabarito.pdf",
+    "sha256": "52c933069cbbb6f7ce0c1d4a8b6a36f003bd384d02b0b42e6c59a1d4ead57b31",
+    "parts": [
+      "acervo-parts/etec/2013-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2013-1/prova.pdf",
+    "sha256": "72f18d275d9a88dcbb5dfc758f19b29637610b7a3b73cde35cde4517849042a4",
+    "parts": [
+      "acervo-parts/etec/2013-1/prova.pdf.part0",
+      "acervo-parts/etec/2013-1/prova.pdf.part1",
+      "acervo-parts/etec/2013-1/prova.pdf.part2",
+      "acervo-parts/etec/2013-1/prova.pdf.part3",
+      "acervo-parts/etec/2013-1/prova.pdf.part4",
+      "acervo-parts/etec/2013-1/prova.pdf.part5"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2013-1/gabarito.pdf",
+    "sha256": "5555efa08458df35b8e08f5836cfd6a43cbe8b31ae70f7a4a00dfef3efbf2e70",
+    "parts": [
+      "acervo-parts/etec/2013-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2012-2/prova.pdf",
+    "sha256": "f217349ddcef0a7cf55145d70db9d84db7b1fcd18106963d9ca8ce5093d79a1d",
+    "parts": [
+      "acervo-parts/etec/2012-2/prova.pdf.part0",
+      "acervo-parts/etec/2012-2/prova.pdf.part1",
+      "acervo-parts/etec/2012-2/prova.pdf.part2",
+      "acervo-parts/etec/2012-2/prova.pdf.part3"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2012-2/gabarito.pdf",
+    "sha256": "f1ee501d88e3df6bc31ecf5e4f708748c7357d96b1da8bcc7b465a3ad54ccffc",
+    "parts": [
+      "acervo-parts/etec/2012-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2012-1/prova.pdf",
+    "sha256": "e76d5d65de08eb6210a34d7c9146d6d3e9ab7b694f86f09779b71f52490427c2",
+    "parts": [
+      "acervo-parts/etec/2012-1/prova.pdf.part0",
+      "acervo-parts/etec/2012-1/prova.pdf.part1",
+      "acervo-parts/etec/2012-1/prova.pdf.part2"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2012-1/gabarito.pdf",
+    "sha256": "0ccb3dc75675e91de515230b3cff5bbcdbbb37adf1f3d4a5428775e8472e3c6d",
+    "parts": [
+      "acervo-parts/etec/2012-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2011-2/prova.pdf",
+    "sha256": "eacadb1e4a75e7f8042851bbbf77731f63c2705c541590bbe31b10eea18eea3f",
+    "parts": [
+      "acervo-parts/etec/2011-2/prova.pdf.part0",
+      "acervo-parts/etec/2011-2/prova.pdf.part1",
+      "acervo-parts/etec/2011-2/prova.pdf.part2"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2011-2/gabarito.pdf",
+    "sha256": "0c0a54064789490c001478934c475de0e61002de543f0faa795322dd9c665275",
+    "parts": [
+      "acervo-parts/etec/2011-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2011-1/prova.pdf",
+    "sha256": "8b1598b73e23ef9b1f4c2753c5f450417295466afb9edce9e4167ffada88ea25",
+    "parts": [
+      "acervo-parts/etec/2011-1/prova.pdf.part0",
+      "acervo-parts/etec/2011-1/prova.pdf.part1",
+      "acervo-parts/etec/2011-1/prova.pdf.part2"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2011-1/gabarito.pdf",
+    "sha256": "59170a56cd4fb063afc86a504d6f298b5d87d80458b5a65cd9abbc3928dc21d6",
+    "parts": [
+      "acervo-parts/etec/2011-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2010-2-extra1/prova.pdf",
+    "sha256": "311fcc656e3630c62843ce7c23a5b6515ab92b01ad916aa75edcf3507f840c9a",
+    "parts": [
+      "acervo-parts/etec/2010-2-extra1/prova.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2010-2-extra1/gabarito.pdf",
+    "sha256": "aba627e9ef46b25fd441e0fb38dda1cce0074970864501a9ad441d2b8696a866",
+    "parts": [
+      "acervo-parts/etec/2010-2-extra1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2010-2/prova.pdf",
+    "sha256": "6516472cce765f013fd3b8d1a9fb5d338e8cc912a3319922faf6a6267f355996",
+    "parts": [
+      "acervo-parts/etec/2010-2/prova.pdf.part0",
+      "acervo-parts/etec/2010-2/prova.pdf.part1",
+      "acervo-parts/etec/2010-2/prova.pdf.part2",
+      "acervo-parts/etec/2010-2/prova.pdf.part3"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2010-2/gabarito.pdf",
+    "sha256": "1dc709bdf92309f1b8ba33b33ca4cabc0341bc49ccece69d442357a60cba08ad",
+    "parts": [
+      "acervo-parts/etec/2010-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2010-1/prova.pdf",
+    "sha256": "0b51714761c26156a7e7a78d6dbf3967c85ec6a63de8a4b648bf6902becdeba1",
+    "parts": [
+      "acervo-parts/etec/2010-1/prova.pdf.part0",
+      "acervo-parts/etec/2010-1/prova.pdf.part1"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2010-1/gabarito.pdf",
+    "sha256": "416e6b0b7227715e475902e4524418edaf92e13952b514a20a61f0c2ace6720e",
+    "parts": [
+      "acervo-parts/etec/2010-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2009-2-extra1/prova.pdf",
+    "sha256": "737c13b9292023708eac004ae1c84d2f73ee3e32c49e227dea5fef615739203d",
+    "parts": [
+      "acervo-parts/etec/2009-2-extra1/prova.pdf.part0",
+      "acervo-parts/etec/2009-2-extra1/prova.pdf.part1"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2009-2-extra1/gabarito.pdf",
+    "sha256": "e126d0220c2040d94ee25339705cdf47e4b83bf2ffa401b647c009d010e242eb",
+    "parts": [
+      "acervo-parts/etec/2009-2-extra1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2009-2/prova.pdf",
+    "sha256": "e5a0cef81087fe978d21829056bb644f6403f6442e62400aa8fc51acd9d06954",
+    "parts": [
+      "acervo-parts/etec/2009-2/prova.pdf.part0",
+      "acervo-parts/etec/2009-2/prova.pdf.part1",
+      "acervo-parts/etec/2009-2/prova.pdf.part2"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2009-2/gabarito.pdf",
+    "sha256": "83ddf8e1f520152a112ddbf894771aaa2f50e495d226862948a2f4d314066ccb",
+    "parts": [
+      "acervo-parts/etec/2009-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2009-1-extra1/prova.pdf",
+    "sha256": "701e06de9cab391bca962b0f97b9edece4bad829e4a40531c2fd4c5009a73173",
+    "parts": [
+      "acervo-parts/etec/2009-1-extra1/prova.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2009-1-extra1/gabarito.pdf",
+    "sha256": "d169eb5878f424ddf90c580057aa574b0ecabd60c4c2fe67ee09fe8adcd21f4f",
+    "parts": [
+      "acervo-parts/etec/2009-1-extra1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2009-1/prova.pdf",
+    "sha256": "6d81bf00325eca801c75484a9df687ff8aeed9b9b829e27bcb78cc37bdd21b77",
+    "parts": [
+      "acervo-parts/etec/2009-1/prova.pdf.part0",
+      "acervo-parts/etec/2009-1/prova.pdf.part1",
+      "acervo-parts/etec/2009-1/prova.pdf.part2",
+      "acervo-parts/etec/2009-1/prova.pdf.part3"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2009-1/gabarito.pdf",
+    "sha256": "76e64d5e7bdaf0c4dd31e559fe59cd3c3084662297b4c3e8576d28826cf60a74",
+    "parts": [
+      "acervo-parts/etec/2009-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2008-2/prova.pdf",
+    "sha256": "987612a9abc8d85d05554d2f6bb02f46151efbe812f3dd903bd06ca9e9b913d9",
+    "parts": [
+      "acervo-parts/etec/2008-2/prova.pdf.part0",
+      "acervo-parts/etec/2008-2/prova.pdf.part1"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2008-2/gabarito.pdf",
+    "sha256": "207888e54ec15d7b17761a3d2af51ddf5fa2cbd064a64f8092f152e67bbaf172",
+    "parts": [
+      "acervo-parts/etec/2008-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2008-1-extra1/prova.pdf",
+    "sha256": "3fa2529df102dc6d2c62cd4afab6ee4012a20e3d8e28b581e0a40d44155e0aa0",
+    "parts": [
+      "acervo-parts/etec/2008-1-extra1/prova.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2008-1-extra1/gabarito.pdf",
+    "sha256": "f38c0db0fcf6acc181b688414f8a5abe745b2545b39374cea29755117321f605",
+    "parts": [
+      "acervo-parts/etec/2008-1-extra1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2008-1/prova.pdf",
+    "sha256": "51566b142f5c92f3322177ecab07e05ed83c71e5f260f5434a8cdf7bcd437bed",
+    "parts": [
+      "acervo-parts/etec/2008-1/prova.pdf.part0",
+      "acervo-parts/etec/2008-1/prova.pdf.part1",
+      "acervo-parts/etec/2008-1/prova.pdf.part2"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2008-1/gabarito.pdf",
+    "sha256": "8b523c5860288598a0513516bf8a7ee12655b307d2c60bfa476518d17543764d",
+    "parts": [
+      "acervo-parts/etec/2008-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2007-2/prova.pdf",
+    "sha256": "c672cc4d728278145f94164d2dac4544fa1ed1d1dcbca233282849b4d73fbf09",
+    "parts": [
+      "acervo-parts/etec/2007-2/prova.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2007-2/gabarito.pdf",
+    "sha256": "39482131195956980916b19d37c2f5a3312c329da43da0964761cef589cdd9e0",
+    "parts": [
+      "acervo-parts/etec/2007-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2007-1/prova.pdf",
+    "sha256": "d0c05e108864748a5d21619d54a677c22daf2ee3a6f4037a3515170ba7a34d10",
+    "parts": [
+      "acervo-parts/etec/2007-1/prova.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2007-1/gabarito.pdf",
+    "sha256": "d2bf8c3a33575ad7b7ce52a969b8e9899b85a5ad54dc6028a4ff15ea3bc4c1d7",
+    "parts": [
+      "acervo-parts/etec/2007-1/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2006-2/prova.pdf",
+    "sha256": "ee30be86075b8661588032def09fd6aa970347f97b8fc6ac7d7f54dfe1d36f8a",
+    "parts": [
+      "acervo-parts/etec/2006-2/prova.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2006-2/gabarito.pdf",
+    "sha256": "f31741de2cff5eafbaf1f21ac663f0635b6e799ca6f18d17047a483571db092f",
+    "parts": [
+      "acervo-parts/etec/2006-2/gabarito.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2006-1/prova.pdf",
+    "sha256": "fa297ad0dce3fa5e5126c1182f73634dfde272cd111bb30fbe5201f20597b9cc",
+    "parts": [
+      "acervo-parts/etec/2006-1/prova.pdf.part0"
+    ]
+  },
+  {
+    "file": "public/acervo/etec/2006-1/gabarito.pdf",
+    "sha256": "fb86f0c3aee25d048ded64e62afd5f83a137a37de724a3e0ccd08dd228254d9f",
+    "parts": [
+      "acervo-parts/etec/2006-1/gabarito.pdf.part0"
+    ]
   }
 ]

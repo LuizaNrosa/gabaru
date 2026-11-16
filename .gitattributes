@@ -1,0 +1,3 @@
+# Preserve official document bytes and avoid treating PDF chunks as source text.
+*.pdf binary
+*.pdf.part* binary

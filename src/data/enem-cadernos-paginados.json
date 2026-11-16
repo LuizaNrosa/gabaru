@@ -7291,5 +7291,2249 @@
         "gabarito": "B"
       }
     ]
+  },
+  {
+    "id": "enem-2018-ppl-azul-d2",
+    "year": 2018,
+    "day": 2,
+    "total": 90,
+    "description": "Reaplicação / PPL · Caderno 19 Azul",
+    "disciplines": [
+      "ciências da natureza",
+      "matemática"
+    ],
+    "pageCount": 32,
+    "questionSource": "https://download.inep.gov.br/educacao_basica/enem/provas/2018/2018_PV_reaplicacao_PPL_D2_CD19.pdf",
+    "questionCopy": "https://www.acheprovas.com.br/arquivos/academicas/b0c0cc54-2242-54e9-a173-248ab5966f04/prova.pdf",
+    "questionCopySha256": "8135da66fdcc134d5dc14fccdac08c4a8728fba587c3436a119bc8011ae07df0",
+    "source": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2018/GAB_ENEM_2018_DIA_2_P2_Azul.pdf",
+    "keyCopy": "https://www.acheprovas.com.br/arquivos/academicas/b0c0cc54-2242-54e9-a173-248ab5966f04/gabarito.pdf",
+    "numbers": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "questions": [
+      {
+        "numero": 91,
+        "pagina": 2,
+        "gabarito": "C"
+      },
+      {
+        "numero": 92,
+        "pagina": 2,
+        "gabarito": "D"
+      },
+      {
+        "numero": 93,
+        "pagina": 2,
+        "gabarito": "A"
+      },
+      {
+        "numero": 94,
+        "pagina": 2,
+        "gabarito": "B"
+      },
+      {
+        "numero": 95,
+        "pagina": 3,
+        "gabarito": "B"
+      },
+      {
+        "numero": 96,
+        "pagina": 3,
+        "gabarito": "C"
+      },
+      {
+        "numero": 97,
+        "pagina": 4,
+        "gabarito": "C"
+      },
+      {
+        "numero": 98,
+        "pagina": 4,
+        "gabarito": "E"
+      },
+      {
+        "numero": 99,
+        "pagina": 4,
+        "gabarito": "E"
+      },
+      {
+        "numero": 100,
+        "pagina": 4,
+        "gabarito": "C"
+      },
+      {
+        "numero": 101,
+        "pagina": 5,
+        "gabarito": "B"
+      },
+      {
+        "numero": 102,
+        "pagina": 5,
+        "gabarito": "D"
+      },
+      {
+        "numero": 103,
+        "pagina": 5,
+        "gabarito": "B"
+      },
+      {
+        "numero": 104,
+        "pagina": 6,
+        "gabarito": "E"
+      },
+      {
+        "numero": 105,
+        "pagina": 6,
+        "gabarito": "B"
+      },
+      {
+        "numero": 106,
+        "pagina": 7,
+        "gabarito": "A"
+      },
+      {
+        "numero": 107,
+        "pagina": 7,
+        "gabarito": "A"
+      },
+      {
+        "numero": 108,
+        "pagina": 7,
+        "gabarito": "C"
+      },
+      {
+        "numero": 109,
+        "pagina": 7,
+        "gabarito": "E"
+      },
+      {
+        "numero": 110,
+        "pagina": 8,
+        "gabarito": "A"
+      },
+      {
+        "numero": 111,
+        "pagina": 8,
+        "gabarito": "D"
+      },
+      {
+        "numero": 112,
+        "pagina": 8,
+        "gabarito": "E"
+      },
+      {
+        "numero": 113,
+        "pagina": 9,
+        "gabarito": "E"
+      },
+      {
+        "numero": 114,
+        "pagina": 9,
+        "gabarito": "E"
+      },
+      {
+        "numero": 115,
+        "pagina": 9,
+        "gabarito": "C"
+      },
+      {
+        "numero": 116,
+        "pagina": 9,
+        "gabarito": "A"
+      },
+      {
+        "numero": 117,
+        "pagina": 10,
+        "gabarito": "B"
+      },
+      {
+        "numero": 118,
+        "pagina": 10,
+        "gabarito": "D"
+      },
+      {
+        "numero": 119,
+        "pagina": 10,
+        "gabarito": "D"
+      },
+      {
+        "numero": 120,
+        "pagina": 10,
+        "gabarito": "A"
+      },
+      {
+        "numero": 121,
+        "pagina": 11,
+        "gabarito": "E"
+      },
+      {
+        "numero": 122,
+        "pagina": 11,
+        "gabarito": "D"
+      },
+      {
+        "numero": 123,
+        "pagina": 12,
+        "gabarito": "D"
+      },
+      {
+        "numero": 124,
+        "pagina": 12,
+        "gabarito": "B"
+      },
+      {
+        "numero": 125,
+        "pagina": 13,
+        "gabarito": "C"
+      },
+      {
+        "numero": 126,
+        "pagina": 13,
+        "gabarito": "A"
+      },
+      {
+        "numero": 127,
+        "pagina": 13,
+        "gabarito": "C"
+      },
+      {
+        "numero": 128,
+        "pagina": 13,
+        "gabarito": "B"
+      },
+      {
+        "numero": 129,
+        "pagina": 14,
+        "gabarito": "C"
+      },
+      {
+        "numero": 130,
+        "pagina": 14,
+        "gabarito": "E"
+      },
+      {
+        "numero": 131,
+        "pagina": 14,
+        "gabarito": "D"
+      },
+      {
+        "numero": 132,
+        "pagina": 15,
+        "gabarito": "E"
+      },
+      {
+        "numero": 133,
+        "pagina": 15,
+        "gabarito": "D"
+      },
+      {
+        "numero": 134,
+        "pagina": 15,
+        "gabarito": "C"
+      },
+      {
+        "numero": 135,
+        "pagina": 15,
+        "gabarito": "A"
+      },
+      {
+        "numero": 136,
+        "pagina": 16,
+        "gabarito": "A"
+      },
+      {
+        "numero": 137,
+        "pagina": 16,
+        "gabarito": "B"
+      },
+      {
+        "numero": 138,
+        "pagina": 17,
+        "gabarito": "C"
+      },
+      {
+        "numero": 139,
+        "pagina": 17,
+        "gabarito": "E"
+      },
+      {
+        "numero": 140,
+        "pagina": 18,
+        "gabarito": "C"
+      },
+      {
+        "numero": 141,
+        "pagina": 18,
+        "gabarito": "C"
+      },
+      {
+        "numero": 142,
+        "pagina": 19,
+        "gabarito": "E"
+      },
+      {
+        "numero": 143,
+        "pagina": 19,
+        "gabarito": "A"
+      },
+      {
+        "numero": 144,
+        "pagina": 19,
+        "gabarito": "B"
+      },
+      {
+        "numero": 145,
+        "pagina": 19,
+        "gabarito": "C"
+      },
+      {
+        "numero": 146,
+        "pagina": 20,
+        "gabarito": "D"
+      },
+      {
+        "numero": 147,
+        "pagina": 20,
+        "gabarito": "E"
+      },
+      {
+        "numero": 148,
+        "pagina": 20,
+        "gabarito": "D"
+      },
+      {
+        "numero": 149,
+        "pagina": 20,
+        "gabarito": "D"
+      },
+      {
+        "numero": 150,
+        "pagina": 21,
+        "gabarito": "D"
+      },
+      {
+        "numero": 151,
+        "pagina": 21,
+        "gabarito": "D"
+      },
+      {
+        "numero": 152,
+        "pagina": 21,
+        "gabarito": "A"
+      },
+      {
+        "numero": 153,
+        "pagina": 22,
+        "gabarito": "E"
+      },
+      {
+        "numero": 154,
+        "pagina": 22,
+        "gabarito": "E"
+      },
+      {
+        "numero": 155,
+        "pagina": 23,
+        "gabarito": "C"
+      },
+      {
+        "numero": 156,
+        "pagina": 23,
+        "gabarito": "C"
+      },
+      {
+        "numero": 157,
+        "pagina": 23,
+        "gabarito": "C"
+      },
+      {
+        "numero": 158,
+        "pagina": 24,
+        "gabarito": "E"
+      },
+      {
+        "numero": 159,
+        "pagina": 24,
+        "gabarito": "B"
+      },
+      {
+        "numero": 160,
+        "pagina": 24,
+        "gabarito": "D"
+      },
+      {
+        "numero": 161,
+        "pagina": 24,
+        "gabarito": "A"
+      },
+      {
+        "numero": 162,
+        "pagina": 25,
+        "gabarito": "D"
+      },
+      {
+        "numero": 163,
+        "pagina": 25,
+        "gabarito": "D"
+      },
+      {
+        "numero": 164,
+        "pagina": 25,
+        "gabarito": "B"
+      },
+      {
+        "numero": 165,
+        "pagina": 26,
+        "gabarito": "B"
+      },
+      {
+        "numero": 166,
+        "pagina": 26,
+        "gabarito": "D"
+      },
+      {
+        "numero": 167,
+        "pagina": 26,
+        "gabarito": "B"
+      },
+      {
+        "numero": 168,
+        "pagina": 27,
+        "gabarito": "B"
+      },
+      {
+        "numero": 169,
+        "pagina": 27,
+        "gabarito": "B"
+      },
+      {
+        "numero": 170,
+        "pagina": 28,
+        "gabarito": "C"
+      },
+      {
+        "numero": 171,
+        "pagina": 28,
+        "gabarito": "C"
+      },
+      {
+        "numero": 172,
+        "pagina": 28,
+        "gabarito": "E"
+      },
+      {
+        "numero": 173,
+        "pagina": 29,
+        "gabarito": "D"
+      },
+      {
+        "numero": 174,
+        "pagina": 29,
+        "gabarito": "C"
+      },
+      {
+        "numero": 175,
+        "pagina": 29,
+        "gabarito": "E"
+      },
+      {
+        "numero": 176,
+        "pagina": 30,
+        "gabarito": "B"
+      },
+      {
+        "numero": 177,
+        "pagina": 30,
+        "gabarito": "A"
+      },
+      {
+        "numero": 178,
+        "pagina": 30,
+        "gabarito": "B"
+      },
+      {
+        "numero": 179,
+        "pagina": 31,
+        "gabarito": "E"
+      },
+      {
+        "numero": 180,
+        "pagina": 31,
+        "gabarito": "B"
+      }
+    ]
+  },
+  {
+    "id": "enem-2019-ppl-azul-d2",
+    "year": 2019,
+    "day": 2,
+    "total": 90,
+    "description": "Reaplicação / PPL · Caderno 7 Azul",
+    "disciplines": [
+      "ciências da natureza",
+      "matemática"
+    ],
+    "pageCount": 32,
+    "questionSource": "https://download.inep.gov.br/educacao_basica/enem/provas/2019/2019_PV_reaplicacao_PPL_D2_CD7.pdf",
+    "questionCopy": "https://www.acheprovas.com.br/arquivos/academicas/a0da1808-a9ba-570b-a9f7-748671928351/prova.pdf",
+    "questionCopySha256": "2a29a49496bd045ef5ac67612b94e162b820f6efacfd174c92d872e8a25b8154",
+    "source": "https://download.inep.gov.br/educacao_basica/enem/ppl/2019/gabaritos/gabarito_2_dia_caderno_7_azul_2_aplicacao.pdf",
+    "keyCopy": "https://www.acheprovas.com.br/arquivos/academicas/a0da1808-a9ba-570b-a9f7-748671928351/gabarito.pdf",
+    "numbers": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "questions": [
+      {
+        "numero": 91,
+        "pagina": 2,
+        "gabarito": "B"
+      },
+      {
+        "numero": 92,
+        "pagina": 2,
+        "gabarito": "D"
+      },
+      {
+        "numero": 93,
+        "pagina": 3,
+        "gabarito": "A"
+      },
+      {
+        "numero": 94,
+        "pagina": 4,
+        "gabarito": "C"
+      },
+      {
+        "numero": 95,
+        "pagina": 4,
+        "gabarito": "A"
+      },
+      {
+        "numero": 96,
+        "pagina": 4,
+        "gabarito": "A"
+      },
+      {
+        "numero": 97,
+        "pagina": 4,
+        "gabarito": "D"
+      },
+      {
+        "numero": 98,
+        "pagina": 5,
+        "gabarito": "E"
+      },
+      {
+        "numero": 99,
+        "pagina": 5,
+        "gabarito": "B"
+      },
+      {
+        "numero": 100,
+        "pagina": 5,
+        "gabarito": "E"
+      },
+      {
+        "numero": 101,
+        "pagina": 6,
+        "gabarito": "D"
+      },
+      {
+        "numero": 102,
+        "pagina": 6,
+        "gabarito": "D"
+      },
+      {
+        "numero": 103,
+        "pagina": 7,
+        "gabarito": "D"
+      },
+      {
+        "numero": 104,
+        "pagina": 7,
+        "gabarito": "A"
+      },
+      {
+        "numero": 105,
+        "pagina": 7,
+        "gabarito": "E"
+      },
+      {
+        "numero": 106,
+        "pagina": 8,
+        "gabarito": "C"
+      },
+      {
+        "numero": 107,
+        "pagina": 8,
+        "gabarito": "A"
+      },
+      {
+        "numero": 108,
+        "pagina": 8,
+        "gabarito": "A"
+      },
+      {
+        "numero": 109,
+        "pagina": 9,
+        "gabarito": "E"
+      },
+      {
+        "numero": 110,
+        "pagina": 9,
+        "gabarito": "D"
+      },
+      {
+        "numero": 111,
+        "pagina": 9,
+        "gabarito": "B"
+      },
+      {
+        "numero": 112,
+        "pagina": 10,
+        "gabarito": "C"
+      },
+      {
+        "numero": 113,
+        "pagina": 10,
+        "gabarito": "E"
+      },
+      {
+        "numero": 114,
+        "pagina": 10,
+        "gabarito": "C"
+      },
+      {
+        "numero": 115,
+        "pagina": 11,
+        "gabarito": "E"
+      },
+      {
+        "numero": 116,
+        "pagina": 11,
+        "gabarito": "C"
+      },
+      {
+        "numero": 117,
+        "pagina": 11,
+        "gabarito": "E"
+      },
+      {
+        "numero": 118,
+        "pagina": 11,
+        "gabarito": "D"
+      },
+      {
+        "numero": 119,
+        "pagina": 12,
+        "gabarito": "C"
+      },
+      {
+        "numero": 120,
+        "pagina": 12,
+        "gabarito": "E"
+      },
+      {
+        "numero": 121,
+        "pagina": 12,
+        "gabarito": "C"
+      },
+      {
+        "numero": 122,
+        "pagina": 12,
+        "gabarito": "A"
+      },
+      {
+        "numero": 123,
+        "pagina": 13,
+        "gabarito": "D"
+      },
+      {
+        "numero": 124,
+        "pagina": 13,
+        "gabarito": "A"
+      },
+      {
+        "numero": 125,
+        "pagina": 13,
+        "gabarito": "E"
+      },
+      {
+        "numero": 126,
+        "pagina": 13,
+        "gabarito": "D"
+      },
+      {
+        "numero": 127,
+        "pagina": 13,
+        "gabarito": "E"
+      },
+      {
+        "numero": 128,
+        "pagina": 14,
+        "gabarito": "C"
+      },
+      {
+        "numero": 129,
+        "pagina": 14,
+        "gabarito": "B"
+      },
+      {
+        "numero": 130,
+        "pagina": 14,
+        "gabarito": "C"
+      },
+      {
+        "numero": 131,
+        "pagina": 14,
+        "gabarito": "B"
+      },
+      {
+        "numero": 132,
+        "pagina": 15,
+        "gabarito": "C"
+      },
+      {
+        "numero": 133,
+        "pagina": 16,
+        "gabarito": "D"
+      },
+      {
+        "numero": 134,
+        "pagina": 16,
+        "gabarito": "C"
+      },
+      {
+        "numero": 135,
+        "pagina": 16,
+        "gabarito": "B"
+      },
+      {
+        "numero": 136,
+        "pagina": 17,
+        "gabarito": "D"
+      },
+      {
+        "numero": 137,
+        "pagina": 17,
+        "gabarito": "E"
+      },
+      {
+        "numero": 138,
+        "pagina": 18,
+        "gabarito": "A"
+      },
+      {
+        "numero": 139,
+        "pagina": 19,
+        "gabarito": "B"
+      },
+      {
+        "numero": 140,
+        "pagina": 19,
+        "gabarito": "D"
+      },
+      {
+        "numero": 141,
+        "pagina": 19,
+        "gabarito": "E"
+      },
+      {
+        "numero": 142,
+        "pagina": 20,
+        "gabarito": "D"
+      },
+      {
+        "numero": 143,
+        "pagina": 20,
+        "gabarito": "B"
+      },
+      {
+        "numero": 144,
+        "pagina": 20,
+        "gabarito": "D"
+      },
+      {
+        "numero": 145,
+        "pagina": 21,
+        "gabarito": "D"
+      },
+      {
+        "numero": 146,
+        "pagina": 21,
+        "gabarito": "A"
+      },
+      {
+        "numero": 147,
+        "pagina": 21,
+        "gabarito": "D"
+      },
+      {
+        "numero": 148,
+        "pagina": 21,
+        "gabarito": "C"
+      },
+      {
+        "numero": 149,
+        "pagina": 22,
+        "gabarito": "B"
+      },
+      {
+        "numero": 150,
+        "pagina": 22,
+        "gabarito": "C"
+      },
+      {
+        "numero": 151,
+        "pagina": 22,
+        "gabarito": "A"
+      },
+      {
+        "numero": 152,
+        "pagina": 23,
+        "gabarito": "C"
+      },
+      {
+        "numero": 153,
+        "pagina": 23,
+        "gabarito": "D"
+      },
+      {
+        "numero": 154,
+        "pagina": 23,
+        "gabarito": "E"
+      },
+      {
+        "numero": 155,
+        "pagina": 23,
+        "gabarito": "D"
+      },
+      {
+        "numero": 156,
+        "pagina": 24,
+        "gabarito": "E"
+      },
+      {
+        "numero": 157,
+        "pagina": 24,
+        "gabarito": "B"
+      },
+      {
+        "numero": 158,
+        "pagina": 25,
+        "gabarito": "A"
+      },
+      {
+        "numero": 159,
+        "pagina": 25,
+        "gabarito": "E"
+      },
+      {
+        "numero": 160,
+        "pagina": 25,
+        "gabarito": "B"
+      },
+      {
+        "numero": 161,
+        "pagina": 26,
+        "gabarito": "B"
+      },
+      {
+        "numero": 162,
+        "pagina": 26,
+        "gabarito": "B"
+      },
+      {
+        "numero": 163,
+        "pagina": 26,
+        "gabarito": "B"
+      },
+      {
+        "numero": 164,
+        "pagina": 27,
+        "gabarito": "C"
+      },
+      {
+        "numero": 165,
+        "pagina": 27,
+        "gabarito": "B"
+      },
+      {
+        "numero": 166,
+        "pagina": 27,
+        "gabarito": "C"
+      },
+      {
+        "numero": 167,
+        "pagina": 28,
+        "gabarito": "C"
+      },
+      {
+        "numero": 168,
+        "pagina": 28,
+        "gabarito": "E"
+      },
+      {
+        "numero": 169,
+        "pagina": 28,
+        "gabarito": "B"
+      },
+      {
+        "numero": 170,
+        "pagina": 28,
+        "gabarito": "C"
+      },
+      {
+        "numero": 171,
+        "pagina": 29,
+        "gabarito": "A"
+      },
+      {
+        "numero": 172,
+        "pagina": 29,
+        "gabarito": "C"
+      },
+      {
+        "numero": 173,
+        "pagina": 29,
+        "gabarito": "E"
+      },
+      {
+        "numero": 174,
+        "pagina": 30,
+        "gabarito": "D"
+      },
+      {
+        "numero": 175,
+        "pagina": 30,
+        "gabarito": "B"
+      },
+      {
+        "numero": 176,
+        "pagina": 30,
+        "gabarito": "C"
+      },
+      {
+        "numero": 177,
+        "pagina": 31,
+        "gabarito": "A"
+      },
+      {
+        "numero": 178,
+        "pagina": 31,
+        "gabarito": "C"
+      },
+      {
+        "numero": 179,
+        "pagina": 31,
+        "gabarito": "C"
+      },
+      {
+        "numero": 180,
+        "pagina": 31,
+        "gabarito": "D"
+      }
+    ]
+  },
+  {
+    "id": "enem-2020-ppl-azul-d2",
+    "year": 2020,
+    "day": 2,
+    "total": 90,
+    "description": "Reaplicação / PPL · Caderno 7 Azul",
+    "disciplines": [
+      "ciências da natureza",
+      "matemática"
+    ],
+    "pageCount": 32,
+    "questionSource": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_PV_reaplicacao_PPL_D2_CD7.pdf",
+    "questionCopy": "https://www.acheprovas.com.br/arquivos/academicas/1c3a08bd-1c1e-596a-a3e0-c14d41655f71/prova.pdf",
+    "questionCopySha256": "dd9af0dd1e11e96d117f9f3e413505e9c61a6d5d6ea4bdd66018122861eabb38",
+    "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_GB_reaplicacao_PPL_D2_CD7.pdf",
+    "keyCopy": "https://www.acheprovas.com.br/arquivos/academicas/1c3a08bd-1c1e-596a-a3e0-c14d41655f71/gabarito.pdf",
+    "numbers": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "questions": [
+      {
+        "numero": 91,
+        "pagina": 2,
+        "gabarito": "D"
+      },
+      {
+        "numero": 92,
+        "pagina": 2,
+        "gabarito": "B"
+      },
+      {
+        "numero": 93,
+        "pagina": 3,
+        "gabarito": "D"
+      },
+      {
+        "numero": 94,
+        "pagina": 3,
+        "gabarito": "A"
+      },
+      {
+        "numero": 95,
+        "pagina": 3,
+        "gabarito": "C"
+      },
+      {
+        "numero": 96,
+        "pagina": 3,
+        "gabarito": "ANULADA"
+      },
+      {
+        "numero": 97,
+        "pagina": 4,
+        "gabarito": "D"
+      },
+      {
+        "numero": 98,
+        "pagina": 4,
+        "gabarito": "B"
+      },
+      {
+        "numero": 99,
+        "pagina": 4,
+        "gabarito": "E"
+      },
+      {
+        "numero": 100,
+        "pagina": 5,
+        "gabarito": "A"
+      },
+      {
+        "numero": 101,
+        "pagina": 5,
+        "gabarito": "A"
+      },
+      {
+        "numero": 102,
+        "pagina": 5,
+        "gabarito": "A"
+      },
+      {
+        "numero": 103,
+        "pagina": 5,
+        "gabarito": "D"
+      },
+      {
+        "numero": 104,
+        "pagina": 5,
+        "gabarito": "E"
+      },
+      {
+        "numero": 105,
+        "pagina": 6,
+        "gabarito": "C"
+      },
+      {
+        "numero": 106,
+        "pagina": 6,
+        "gabarito": "E"
+      },
+      {
+        "numero": 107,
+        "pagina": 6,
+        "gabarito": "C"
+      },
+      {
+        "numero": 108,
+        "pagina": 6,
+        "gabarito": "A"
+      },
+      {
+        "numero": 109,
+        "pagina": 6,
+        "gabarito": "C"
+      },
+      {
+        "numero": 110,
+        "pagina": 7,
+        "gabarito": "E"
+      },
+      {
+        "numero": 111,
+        "pagina": 7,
+        "gabarito": "A"
+      },
+      {
+        "numero": 112,
+        "pagina": 7,
+        "gabarito": "C"
+      },
+      {
+        "numero": 113,
+        "pagina": 7,
+        "gabarito": "C"
+      },
+      {
+        "numero": 114,
+        "pagina": 8,
+        "gabarito": "C"
+      },
+      {
+        "numero": 115,
+        "pagina": 8,
+        "gabarito": "D"
+      },
+      {
+        "numero": 116,
+        "pagina": 8,
+        "gabarito": "B"
+      },
+      {
+        "numero": 117,
+        "pagina": 8,
+        "gabarito": "E"
+      },
+      {
+        "numero": 118,
+        "pagina": 9,
+        "gabarito": "E"
+      },
+      {
+        "numero": 119,
+        "pagina": 9,
+        "gabarito": "B"
+      },
+      {
+        "numero": 120,
+        "pagina": 9,
+        "gabarito": "E"
+      },
+      {
+        "numero": 121,
+        "pagina": 9,
+        "gabarito": "C"
+      },
+      {
+        "numero": 122,
+        "pagina": 10,
+        "gabarito": "C"
+      },
+      {
+        "numero": 123,
+        "pagina": 10,
+        "gabarito": "A"
+      },
+      {
+        "numero": 124,
+        "pagina": 10,
+        "gabarito": "B"
+      },
+      {
+        "numero": 125,
+        "pagina": 10,
+        "gabarito": "E"
+      },
+      {
+        "numero": 126,
+        "pagina": 11,
+        "gabarito": "A"
+      },
+      {
+        "numero": 127,
+        "pagina": 11,
+        "gabarito": "D"
+      },
+      {
+        "numero": 128,
+        "pagina": 11,
+        "gabarito": "C"
+      },
+      {
+        "numero": 129,
+        "pagina": 11,
+        "gabarito": "C"
+      },
+      {
+        "numero": 130,
+        "pagina": 12,
+        "gabarito": "E"
+      },
+      {
+        "numero": 131,
+        "pagina": 12,
+        "gabarito": "D"
+      },
+      {
+        "numero": 132,
+        "pagina": 13,
+        "gabarito": "E"
+      },
+      {
+        "numero": 133,
+        "pagina": 13,
+        "gabarito": "A"
+      },
+      {
+        "numero": 134,
+        "pagina": 13,
+        "gabarito": "B"
+      },
+      {
+        "numero": 135,
+        "pagina": 13,
+        "gabarito": "D"
+      },
+      {
+        "numero": 136,
+        "pagina": 14,
+        "gabarito": "C"
+      },
+      {
+        "numero": 137,
+        "pagina": 14,
+        "gabarito": "D"
+      },
+      {
+        "numero": 138,
+        "pagina": 14,
+        "gabarito": "B"
+      },
+      {
+        "numero": 139,
+        "pagina": 14,
+        "gabarito": "E"
+      },
+      {
+        "numero": 140,
+        "pagina": 15,
+        "gabarito": "A"
+      },
+      {
+        "numero": 141,
+        "pagina": 16,
+        "gabarito": "A"
+      },
+      {
+        "numero": 142,
+        "pagina": 16,
+        "gabarito": "E"
+      },
+      {
+        "numero": 143,
+        "pagina": 16,
+        "gabarito": "C"
+      },
+      {
+        "numero": 144,
+        "pagina": 16,
+        "gabarito": "B"
+      },
+      {
+        "numero": 145,
+        "pagina": 17,
+        "gabarito": "A"
+      },
+      {
+        "numero": 146,
+        "pagina": 17,
+        "gabarito": "D"
+      },
+      {
+        "numero": 147,
+        "pagina": 17,
+        "gabarito": "A"
+      },
+      {
+        "numero": 148,
+        "pagina": 18,
+        "gabarito": "B"
+      },
+      {
+        "numero": 149,
+        "pagina": 18,
+        "gabarito": "C"
+      },
+      {
+        "numero": 150,
+        "pagina": 19,
+        "gabarito": "C"
+      },
+      {
+        "numero": 151,
+        "pagina": 20,
+        "gabarito": "A"
+      },
+      {
+        "numero": 152,
+        "pagina": 20,
+        "gabarito": "E"
+      },
+      {
+        "numero": 153,
+        "pagina": 20,
+        "gabarito": "B"
+      },
+      {
+        "numero": 154,
+        "pagina": 21,
+        "gabarito": "D"
+      },
+      {
+        "numero": 155,
+        "pagina": 21,
+        "gabarito": "B"
+      },
+      {
+        "numero": 156,
+        "pagina": 22,
+        "gabarito": "B"
+      },
+      {
+        "numero": 157,
+        "pagina": 22,
+        "gabarito": "A"
+      },
+      {
+        "numero": 158,
+        "pagina": 23,
+        "gabarito": "D"
+      },
+      {
+        "numero": 159,
+        "pagina": 24,
+        "gabarito": "E"
+      },
+      {
+        "numero": 160,
+        "pagina": 24,
+        "gabarito": "D"
+      },
+      {
+        "numero": 161,
+        "pagina": 25,
+        "gabarito": "D"
+      },
+      {
+        "numero": 162,
+        "pagina": 25,
+        "gabarito": "B"
+      },
+      {
+        "numero": 163,
+        "pagina": 26,
+        "gabarito": "B"
+      },
+      {
+        "numero": 164,
+        "pagina": 26,
+        "gabarito": "C"
+      },
+      {
+        "numero": 165,
+        "pagina": 26,
+        "gabarito": "E"
+      },
+      {
+        "numero": 166,
+        "pagina": 27,
+        "gabarito": "A"
+      },
+      {
+        "numero": 167,
+        "pagina": 27,
+        "gabarito": "E"
+      },
+      {
+        "numero": 168,
+        "pagina": 27,
+        "gabarito": "B"
+      },
+      {
+        "numero": 169,
+        "pagina": 27,
+        "gabarito": "B"
+      },
+      {
+        "numero": 170,
+        "pagina": 28,
+        "gabarito": "A"
+      },
+      {
+        "numero": 171,
+        "pagina": 28,
+        "gabarito": "D"
+      },
+      {
+        "numero": 172,
+        "pagina": 28,
+        "gabarito": "C"
+      },
+      {
+        "numero": 173,
+        "pagina": 28,
+        "gabarito": "E"
+      },
+      {
+        "numero": 174,
+        "pagina": 29,
+        "gabarito": "E"
+      },
+      {
+        "numero": 175,
+        "pagina": 29,
+        "gabarito": "C"
+      },
+      {
+        "numero": 176,
+        "pagina": 29,
+        "gabarito": "A"
+      },
+      {
+        "numero": 177,
+        "pagina": 30,
+        "gabarito": "D"
+      },
+      {
+        "numero": 178,
+        "pagina": 30,
+        "gabarito": "A"
+      },
+      {
+        "numero": 179,
+        "pagina": 30,
+        "gabarito": "D"
+      },
+      {
+        "numero": 180,
+        "pagina": 30,
+        "gabarito": "E"
+      }
+    ]
+  },
+  {
+    "id": "enem-2021-ppl-azul-d2",
+    "year": 2021,
+    "day": 2,
+    "total": 90,
+    "description": "Reaplicação / PPL / Segunda Oportunidade · Caderno 7 Azul",
+    "disciplines": [
+      "ciências da natureza",
+      "matemática"
+    ],
+    "pageCount": 32,
+    "questionSource": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_PV_reaplicacao_PPL_D2_CD7.pdf",
+    "questionCopy": "https://www.acheprovas.com.br/arquivos/academicas/10337e53-604f-5bfc-af77-f411cc1075bf/prova.pdf",
+    "questionCopySha256": "efbe07fc9a17f932c529a60c91e975ad2c3b464610ca0fcbfb98f641fa0b578d",
+    "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_GB_reaplicacao_PPL_D2_CD7.pdf",
+    "keyCopy": "https://www.acheprovas.com.br/arquivos/academicas/10337e53-604f-5bfc-af77-f411cc1075bf/gabarito.pdf",
+    "numbers": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "questions": [
+      {
+        "numero": 91,
+        "pagina": 2,
+        "gabarito": "B"
+      },
+      {
+        "numero": 92,
+        "pagina": 2,
+        "gabarito": "A"
+      },
+      {
+        "numero": 93,
+        "pagina": 2,
+        "gabarito": "C"
+      },
+      {
+        "numero": 94,
+        "pagina": 2,
+        "gabarito": "E"
+      },
+      {
+        "numero": 95,
+        "pagina": 2,
+        "gabarito": "E"
+      },
+      {
+        "numero": 96,
+        "pagina": 3,
+        "gabarito": "C"
+      },
+      {
+        "numero": 97,
+        "pagina": 3,
+        "gabarito": "D"
+      },
+      {
+        "numero": 98,
+        "pagina": 3,
+        "gabarito": "D"
+      },
+      {
+        "numero": 99,
+        "pagina": 4,
+        "gabarito": "D"
+      },
+      {
+        "numero": 100,
+        "pagina": 4,
+        "gabarito": "E"
+      },
+      {
+        "numero": 101,
+        "pagina": 4,
+        "gabarito": "A"
+      },
+      {
+        "numero": 102,
+        "pagina": 5,
+        "gabarito": "B"
+      },
+      {
+        "numero": 103,
+        "pagina": 5,
+        "gabarito": "E"
+      },
+      {
+        "numero": 104,
+        "pagina": 5,
+        "gabarito": "E"
+      },
+      {
+        "numero": 105,
+        "pagina": 5,
+        "gabarito": "D"
+      },
+      {
+        "numero": 106,
+        "pagina": 6,
+        "gabarito": "C"
+      },
+      {
+        "numero": 107,
+        "pagina": 6,
+        "gabarito": "B"
+      },
+      {
+        "numero": 108,
+        "pagina": 6,
+        "gabarito": "A"
+      },
+      {
+        "numero": 109,
+        "pagina": 6,
+        "gabarito": "C"
+      },
+      {
+        "numero": 110,
+        "pagina": 6,
+        "gabarito": "B"
+      },
+      {
+        "numero": 111,
+        "pagina": 7,
+        "gabarito": "D"
+      },
+      {
+        "numero": 112,
+        "pagina": 7,
+        "gabarito": "A"
+      },
+      {
+        "numero": 113,
+        "pagina": 7,
+        "gabarito": "B"
+      },
+      {
+        "numero": 114,
+        "pagina": 8,
+        "gabarito": "C"
+      },
+      {
+        "numero": 115,
+        "pagina": 8,
+        "gabarito": "C"
+      },
+      {
+        "numero": 116,
+        "pagina": 8,
+        "gabarito": "A"
+      },
+      {
+        "numero": 117,
+        "pagina": 8,
+        "gabarito": "E"
+      },
+      {
+        "numero": 118,
+        "pagina": 9,
+        "gabarito": "A"
+      },
+      {
+        "numero": 119,
+        "pagina": 9,
+        "gabarito": "A"
+      },
+      {
+        "numero": 120,
+        "pagina": 9,
+        "gabarito": "E"
+      },
+      {
+        "numero": 121,
+        "pagina": 10,
+        "gabarito": "A"
+      },
+      {
+        "numero": 122,
+        "pagina": 10,
+        "gabarito": "B"
+      },
+      {
+        "numero": 123,
+        "pagina": 10,
+        "gabarito": "A"
+      },
+      {
+        "numero": 124,
+        "pagina": 10,
+        "gabarito": "C"
+      },
+      {
+        "numero": 125,
+        "pagina": 11,
+        "gabarito": "C"
+      },
+      {
+        "numero": 126,
+        "pagina": 11,
+        "gabarito": "D"
+      },
+      {
+        "numero": 127,
+        "pagina": 11,
+        "gabarito": "A"
+      },
+      {
+        "numero": 128,
+        "pagina": 11,
+        "gabarito": "A"
+      },
+      {
+        "numero": 129,
+        "pagina": 12,
+        "gabarito": "A"
+      },
+      {
+        "numero": 130,
+        "pagina": 12,
+        "gabarito": "C"
+      },
+      {
+        "numero": 131,
+        "pagina": 12,
+        "gabarito": "C"
+      },
+      {
+        "numero": 132,
+        "pagina": 13,
+        "gabarito": "A"
+      },
+      {
+        "numero": 133,
+        "pagina": 13,
+        "gabarito": "E"
+      },
+      {
+        "numero": 134,
+        "pagina": 13,
+        "gabarito": "E"
+      },
+      {
+        "numero": 135,
+        "pagina": 13,
+        "gabarito": "A"
+      },
+      {
+        "numero": 136,
+        "pagina": 14,
+        "gabarito": "D"
+      },
+      {
+        "numero": 137,
+        "pagina": 14,
+        "gabarito": "B"
+      },
+      {
+        "numero": 138,
+        "pagina": 15,
+        "gabarito": "D"
+      },
+      {
+        "numero": 139,
+        "pagina": 15,
+        "gabarito": "B"
+      },
+      {
+        "numero": 140,
+        "pagina": 15,
+        "gabarito": "B"
+      },
+      {
+        "numero": 141,
+        "pagina": 16,
+        "gabarito": "D"
+      },
+      {
+        "numero": 142,
+        "pagina": 16,
+        "gabarito": "B"
+      },
+      {
+        "numero": 143,
+        "pagina": 16,
+        "gabarito": "A"
+      },
+      {
+        "numero": 144,
+        "pagina": 17,
+        "gabarito": "A"
+      },
+      {
+        "numero": 145,
+        "pagina": 17,
+        "gabarito": "C"
+      },
+      {
+        "numero": 146,
+        "pagina": 17,
+        "gabarito": "B"
+      },
+      {
+        "numero": 147,
+        "pagina": 18,
+        "gabarito": "A"
+      },
+      {
+        "numero": 148,
+        "pagina": 18,
+        "gabarito": "D"
+      },
+      {
+        "numero": 149,
+        "pagina": 18,
+        "gabarito": "B"
+      },
+      {
+        "numero": 150,
+        "pagina": 18,
+        "gabarito": "B"
+      },
+      {
+        "numero": 151,
+        "pagina": 19,
+        "gabarito": "D"
+      },
+      {
+        "numero": 152,
+        "pagina": 19,
+        "gabarito": "E"
+      },
+      {
+        "numero": 153,
+        "pagina": 20,
+        "gabarito": "C"
+      },
+      {
+        "numero": 154,
+        "pagina": 20,
+        "gabarito": "B"
+      },
+      {
+        "numero": 155,
+        "pagina": 21,
+        "gabarito": "D"
+      },
+      {
+        "numero": 156,
+        "pagina": 21,
+        "gabarito": "B"
+      },
+      {
+        "numero": 157,
+        "pagina": 21,
+        "gabarito": "B"
+      },
+      {
+        "numero": 158,
+        "pagina": 22,
+        "gabarito": "A"
+      },
+      {
+        "numero": 159,
+        "pagina": 22,
+        "gabarito": "C"
+      },
+      {
+        "numero": 160,
+        "pagina": 23,
+        "gabarito": "E"
+      },
+      {
+        "numero": 161,
+        "pagina": 23,
+        "gabarito": "B"
+      },
+      {
+        "numero": 162,
+        "pagina": 24,
+        "gabarito": "C"
+      },
+      {
+        "numero": 163,
+        "pagina": 24,
+        "gabarito": "B"
+      },
+      {
+        "numero": 164,
+        "pagina": 24,
+        "gabarito": "D"
+      },
+      {
+        "numero": 165,
+        "pagina": 25,
+        "gabarito": "C"
+      },
+      {
+        "numero": 166,
+        "pagina": 25,
+        "gabarito": "C"
+      },
+      {
+        "numero": 167,
+        "pagina": 25,
+        "gabarito": "E"
+      },
+      {
+        "numero": 168,
+        "pagina": 26,
+        "gabarito": "C"
+      },
+      {
+        "numero": 169,
+        "pagina": 26,
+        "gabarito": "D"
+      },
+      {
+        "numero": 170,
+        "pagina": 26,
+        "gabarito": "E"
+      },
+      {
+        "numero": 171,
+        "pagina": 27,
+        "gabarito": "E"
+      },
+      {
+        "numero": 172,
+        "pagina": 28,
+        "gabarito": "D"
+      },
+      {
+        "numero": 173,
+        "pagina": 28,
+        "gabarito": "C"
+      },
+      {
+        "numero": 174,
+        "pagina": 28,
+        "gabarito": "A"
+      },
+      {
+        "numero": 175,
+        "pagina": 28,
+        "gabarito": "D"
+      },
+      {
+        "numero": 176,
+        "pagina": 29,
+        "gabarito": "E"
+      },
+      {
+        "numero": 177,
+        "pagina": 29,
+        "gabarito": "A"
+      },
+      {
+        "numero": 178,
+        "pagina": 29,
+        "gabarito": "B"
+      },
+      {
+        "numero": 179,
+        "pagina": 30,
+        "gabarito": "B"
+      },
+      {
+        "numero": 180,
+        "pagina": 30,
+        "gabarito": "B"
+      }
+    ]
   }
 ]

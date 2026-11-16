@@ -4,7 +4,7 @@ export type Filters = { banca:string; ano:string; disciplina:string; assunto:str
 export const emptyFilters:Filters={banca:'',ano:'',disciplina:'',assunto:'',busca:'',pagina:'1'};
 export function filtersFromParams(params:URLSearchParams):Filters { return Object.fromEntries(Object.keys(emptyFilters).map(k=>[k,params.get(k)??emptyFilters[k as keyof Filters]])) as Filters; }
 export function makeSearch(items:SearchItem[]) {
-  const index=new MiniSearch<SearchItem>({fields:['enunciado','tema','banca','disciplina','assunto'],idField:'id',searchOptions:{prefix:true,fuzzy:0.15,combineWith:'AND'}});
+  const index=new MiniSearch<SearchItem>({fields:['enunciado','tema','banca','disciplina','assunto'],idField:'id',processTerm:term=>term.toLocaleLowerCase('pt-BR').normalize('NFD').replace(/[\u0300-\u036f]/g,''),searchOptions:{prefix:true,fuzzy:0.15,combineWith:'AND'}});
   index.addAll(items);return index;
 }
 export function filterItems(items:SearchItem[],index:MiniSearch<SearchItem>,filters:Filters) {

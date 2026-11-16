@@ -10,7 +10,7 @@ export const metadata = metaPagina({
 });
 export default function Page() {
   return (
-    <main>
+    <main id="conteudo-principal" tabIndex={-1}>
       <PageHero
         eyebrow="Materiais gratuitos"
         titulo={

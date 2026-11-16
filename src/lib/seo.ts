@@ -10,8 +10,7 @@ import type { Organization, WebSite, FAQPage, BreadcrumbList, ItemList, WithCont
  * correspondem a conteúdo real e visível da página.
  */
 
-export const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://gabaru.com.br";
+export const SITE_URL = "https://www.gabaru.com.br";
 
 export const SITE_NOME = "GABARU";
 
@@ -38,12 +37,12 @@ export function metaPagina({
   semIndice = false,
 }: OpcoesPagina): Metadata {
   const indexar =
-    process.env.NEXT_PUBLIC_INDEXAR === "1" && !semIndice;
+    process.env.NEXT_PUBLIC_INDEXAR !== "0" && !semIndice;
   return {
     title: titulo,
     description: descricao,
     alternates: { canonical: caminho },
-    robots: { index: indexar, follow: indexar },
+    robots: { index: indexar, follow: true },
     openGraph: {
       type: "website",
       locale: "pt_BR",
@@ -65,12 +64,12 @@ export function metaPagina({
 /** Metadata da página inicial: título absoluto, sem o template. */
 export function metaHome(): Metadata {
   const titulo = "ENEM, vestibulinhos e vestibulares: provas e questões | Gabaru";
-  const indexar = process.env.NEXT_PUBLIC_INDEXAR === "1";
+  const indexar = process.env.NEXT_PUBLIC_INDEXAR !== "0";
   return {
     title: { absolute: titulo },
     description: DESCRICAO_PADRAO,
     alternates: { canonical: "/" },
-    robots: { index: indexar, follow: indexar },
+    robots: { index: indexar, follow: true },
     openGraph: {
       type: "website",
       locale: "pt_BR",

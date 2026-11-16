@@ -6,7 +6,7 @@ export type Questao = {
   dificuldade: 'nao-classificada' | 'facil' | 'media' | 'dificil';
   textoBase?: { texto: string; fonte: string; idioma?: 'pt-BR' | 'en' | 'es' };
   enunciado: string; imagens: { src: string; alt: string; caption: string }[];
-  alternativas: Alternativa[]; correta: string | null; comentarioResolucao: string[];
+  alternativas: Alternativa[]; anulada: boolean; correta: string | null; comentarioResolucao: string[];
   statusPublicacao: 'completa' | 'rascunho'; fonte: string;
   idioma?: 'pt-BR' | 'en' | 'es'; atualizadaEm?: string;
 };

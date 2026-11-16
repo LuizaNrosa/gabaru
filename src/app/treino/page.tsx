@@ -11,7 +11,7 @@ export const metadata: Metadata = metaPagina({
 
 export default function Treino() {
   return (
-    <main className="mx-auto w-full max-w-3xl px-5 py-10 sm:px-8 sm:py-14">
+    <main id="conteudo-principal" tabIndex={-1} className="mx-auto w-full max-w-3xl px-5 py-10 sm:px-8 sm:py-14">
       <TreinoApp />
     </main>
   );

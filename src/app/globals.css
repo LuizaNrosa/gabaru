@@ -1065,3 +1065,25 @@ html { scroll-padding-block-start:7rem; }
 .v2-math { display:inline-block; max-width:100%; overflow-x:auto; vertical-align:middle; }
 @media(max-width:850px) { .v2-study-grid { grid-template-columns:minmax(0,1fr); } .v2-answer-sheet { position:static; grid-row:1; } .v2-question-nav { grid-template-columns:repeat(auto-fit,minmax(44px,1fr)); max-height:150px; } .v2-page { padding-block-start:2rem; } }
 @media(prefers-reduced-motion:reduce) { .v2-button:active:not(:disabled) { transform:none; } }
+
+/* Container breakpoints also protect navigation during page/text enlargement. */
+.gb-header { container-type:inline-size; container-name:site-header; }
+@container site-header (max-width:1050px) {
+  .gb-desktop-nav { gap:15px; font-size:12px; }
+  .gb-nav { gap:20px; }
+}
+@container site-header (max-width:760px) {
+  .gb-nav { padding-inline:24px; min-height:76px; gap:16px; }
+  .gb-wordmark { font-size:28px; }
+  .gb-symbol { width:50px; height:50px; }
+  .gb-desktop-nav { display:none; }
+  .gb-login { margin-inline-start:auto; padding:10px 13px; font-size:12px; gap:12px; }
+  .gb-menu-toggle { display:block; font-size:12px; font-weight:650; min-width:44px; min-height:44px; }
+}
+.v2-budget { display:flex; flex-wrap:wrap; align-items:center; gap:.75rem; margin-block:1rem; }
+.v2-budget input { width:6rem; min-height:44px; border:1px solid var(--reading-border); border-radius:.375rem; padding:.5rem; font-size:1rem; background:var(--reading-paper); }
+@container site-header (max-width:380px) {
+  .gb-nav { padding-inline:16px; gap:10px; }
+}
+.v2-text-base { max-width:var(--reading-measure); border-inline-start:3px solid var(--reading-border); padding-inline-start:1rem; margin-block:1.5rem; }
+.v2-text-base cite { display:block; margin-block-start:1rem; font-style:normal; font-size:.875rem; color:var(--reading-muted); }

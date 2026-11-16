@@ -1,3 +1,4 @@
+import Link from "next/link";
 import type { Metadata } from "next";
 import { CONTAINER, Eyebrow, PageHero } from "@/components/ui";
 import { QUESTOES_GRATIS } from "@/data/questoes-gratis";
@@ -12,7 +13,7 @@ export const metadata: Metadata = metaPagina({
 
 export default function QuestoesGratis() {
   return (
-    <main>
+    <main id="conteudo-principal" tabIndex={-1}>
       <PageHero
         eyebrow="Questões grátis"
         titulo={
@@ -76,9 +77,9 @@ export default function QuestoesGratis() {
             individual ainda estão em desenvolvimento.
           </p>
           <div className="mt-6">
-            <a href="/treino" className="gb-button gb-button-light">
+            <Link href="/treino" className="gb-button gb-button-light">
               Abrir treino ↗
-            </a>
+            </Link>
           </div>
         </div>
       </section>

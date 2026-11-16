@@ -9,7 +9,7 @@ export const metadata: Metadata = metaPagina({
 });
 export default function Page() {
   return (
-    <main className="gb-auth">
+    <main id="conteudo-principal" tabIndex={-1} className="gb-auth">
       <p className="gb-eyebrow">SEU ESPAÇO NO GABARU</p>
       <h1 className="mt-4">Criar sua conta</h1>
       <p className="mt-3 text-sm text-n5">

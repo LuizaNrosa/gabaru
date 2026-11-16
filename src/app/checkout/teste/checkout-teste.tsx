@@ -36,7 +36,7 @@ export function CheckoutTeste() {
   }
 
   return (
-    <main className="gb-container py-10">
+    <main id="conteudo-principal" tabIndex={-1} className="gb-container py-10">
       <h1 className="gb-page-title">Checkout de teste</h1>
       <p className="mt-4">Apostila Gabaru · R$ 60,00 · ambiente de teste do Mercado Pago.</p>
       {loading ? (

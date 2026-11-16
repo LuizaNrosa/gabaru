@@ -11,7 +11,7 @@ export const metadata = metaPagina({
 });
 export default function Page() {
   const verified = new Set([...verifiedExams,...paginatedExams].map(exam => exam.id));
-  return <main className="gb-container py-10">
+  return <main id="conteudo-principal" tabIndex={-1} className="gb-container py-10">
     <JsonLd dados={jsonLd.lista(enemExams.map(e => ({ nome: enemTitle(e), caminho: `/provas/enem/${e.id}` })))} />
     <Link href="/pre-vestibular" className="gb-text-link">← Vestibular</Link>
     <p className="gb-eyebrow mt-8">VESTIBULAR · ENEM</p>

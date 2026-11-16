@@ -13,7 +13,7 @@ const caminhos = [
 
 export default function Home() {
   return (
-    <main className="gb-home">
+    <main id="conteudo-principal" tabIndex={-1} className="gb-home">
       <section className="gb-hero gb-container" aria-labelledby="gb-title">
         <div className="gb-hero-copy">
           <p className="gb-eyebrow"><span className="gb-live-dot" /> SEU PRÓXIMO PASSO COMEÇA AQUI</p>

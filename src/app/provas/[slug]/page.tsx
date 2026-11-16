@@ -32,7 +32,7 @@ export default async function ProvaPage({ params }: Props) {
   const categoria = CATEGORIAS[prova.categoria];
 
   return (
-    <main>
+    <main id="conteudo-principal" tabIndex={-1}>
       <PageHero eyebrow={categoria.nome} titulo={prova.nome}>
         <p>
           {prova.completo}. {prova.resumo}

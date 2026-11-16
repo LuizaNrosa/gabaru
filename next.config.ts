@@ -35,8 +35,8 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [{
       source: "/:path*",
-      has: [{ type: "host", value: "www\\.gabaru\\.com\\.br" }],
-      destination: "https://gabaru.com.br/:path*",
+      has: [{ type: "host", value: "gabaru\\.com\\.br" }],
+      destination: "https://www.gabaru.com.br/:path*",
       statusCode: 301,
     }];
   },

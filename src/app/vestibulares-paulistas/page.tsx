@@ -16,7 +16,7 @@ const vestibulares = [
 
 export default function VestibularesPaulistasPage() {
   return (
-    <main>
+    <main id="conteudo-principal" tabIndex={-1}>
       <PageHero eyebrow="Vestibulares paulistas" titulo={<>FUVEST, Unesp e Unicamp. <mark>Escolha sua prova.</mark></>}>
         <p>Encontre os cadernos e gabaritos disponíveis por edição e consulte as notas de corte de cada vestibular.</p>
       </PageHero>

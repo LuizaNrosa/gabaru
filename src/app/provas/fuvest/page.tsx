@@ -72,7 +72,7 @@ const documentos2026 = [
 
 export default function FuvestPage() {
   return (
-    <main>
+    <main id="conteudo-principal" tabIndex={-1}>
       <PageHero eyebrow="Vestibulares · FUVEST" titulo={<>Uma edição de cada vez.<br /><mark>Provas da FUVEST.</mark></>}>
         <p>Encontre o vestibular da USP por ano e acesse os documentos disponibilizados pela FUVEST.</p>
       </PageHero>

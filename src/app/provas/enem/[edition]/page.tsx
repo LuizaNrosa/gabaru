@@ -1,3 +1,4 @@
+import { ExamYearIndex } from "@/components/exam-year-index";
 import { ExamEditorial } from "@/components/exam-editorial";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -21,11 +22,13 @@ export async function generateMetadata({ params }: Props) {
   });
 }
 export default async function Page({ params }: Props) {
-  const exam = readEnemExam((await params).edition);
+  const {edition}=await params;
+  if (/^\d{4}$/.test(edition)) return <ExamYearIndex banca="enem" year={Number(edition)}/>;
+  const exam = readEnemExam(edition);
   if (!exam) notFound();
   const verification = verifiedExams.find(e => e.id === exam.id);
   const verified = !!verification || !!exam.pageCount;
-  return <main className="gb-container py-10">
+  return <main id="conteudo-principal" tabIndex={-1} className="gb-container py-10">
     <JsonLd dados={jsonLd.trilhas([{ nome: "Início", caminho: "/" }, { nome: "ENEM e vestibulares", caminho: "/pre-vestibular" }, { nome: "Acervo ENEM", caminho: "/provas/enem" }, { nome: enemTitle(exam), caminho: `/provas/enem/${exam.id}` }])} />
     <Link href={`/provas/enem#ano-${exam.year}`} className="gb-text-link">← Acervo ENEM {exam.year}</Link>
     <p className="gb-eyebrow mt-8">VESTIBULAR · ENEM</p>
@@ -36,7 +39,7 @@ export default async function Page({ params }: Props) {
     {verification && "language" in verification && <p className="gb-notice mt-5">
       Neste caderno, a correção das questões de língua estrangeira corresponde à opção de inglês.
     </p>}
-    <EnemExamReader key={exam.id} id={exam.id} title={enemTitle(exam)} verified={verified} pageCount={exam.pageCount} questions={exam.questions.map(({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled})=>({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled}))} />
+    <details className="v2-solution"><summary>Caderno original e leitor de imagens</summary><EnemExamReader key={exam.id} id={exam.id} title={enemTitle(exam)} verified={verified} pageCount={exam.pageCount} questions={exam.questions.map(({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled})=>({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled}))} /></details>
     {!exam.pageCount && <section className="mt-12" aria-label="Transcrições das questões">
       <h2 className="gb-section-title">Transcrições das questões</h2>
       <p className="mt-3 text-sm text-n5">Texto auxiliar: para figuras e alternativas, consulte o recorte ou o caderno oficial.</p>

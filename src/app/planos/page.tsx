@@ -32,7 +32,7 @@ function Preparacao({ objetivo }: { objetivo: ObjetivoPreparacao }) {
 
 export default function Page() {
   return (
-    <main>
+    <main id="conteudo-principal" tabIndex={-1}>
       <PageHero eyebrow="Preparação Gabaru" titulo={<>Estude para <mark>a sua próxima prova.</mark></>}>
         <p>Estamos preparando materiais, videoaulas e exercícios resolvidos. Enquanto isso, você já pode praticar com as provas disponíveis no Gabaru.</p>
         <nav className="gb-actions" aria-label="Objetivos de preparação">

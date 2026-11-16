@@ -10,7 +10,7 @@ export default function Page() {
     if (!loading && !user) router.replace("/login");
   }, [loading, user, router]);
   return (
-    <main className="gb-container gb-dashboard">
+    <main id="conteudo-principal" tabIndex={-1} className="gb-container gb-dashboard">
       {loading || !user ? (
         <p role="status">Carregando sua área…</p>
       ) : (

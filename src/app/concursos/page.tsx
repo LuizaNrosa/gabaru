@@ -19,7 +19,7 @@ const COMUNS = [
 
 export default function Concursos() {
   return (
-    <main>
+    <main id="conteudo-principal" tabIndex={-1}>
       <PageHero
         eyebrow="Concursos"
         titulo={

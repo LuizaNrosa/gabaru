@@ -1,3 +1,5 @@
+> Registro histórico da primeira passagem. O estado atual está em [arquitetura-v2.md](arquitetura-v2.md).
+
 # Gabaru — Lote 0 e inventário inicial
 
 Base: LuizaNrosa/gabaru, main, commit 37d5fe6. Alterações locais; sem push ou deploy.

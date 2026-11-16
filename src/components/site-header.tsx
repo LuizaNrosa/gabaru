@@ -47,6 +47,7 @@ export function SiteHeader() {
           Entrar <span aria-hidden="true">↗</span>
         </Link>
         <button
+          type="button"
           className="gb-menu-toggle"
           aria-label={open ? "Fechar menu" : "Abrir menu"}
           aria-expanded={open}

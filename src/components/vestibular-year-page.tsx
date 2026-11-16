@@ -13,7 +13,7 @@ export function VestibularYearPage({ institution, year }: { institution: Institu
     documents.unshift(...cadernos);
   }
   if (!documents.length) notFound();
-  return <main className="gb-container py-10">
+  return <main id="conteudo-principal" tabIndex={-1} className="gb-container py-10">
     <Link href={`/provas/${institution}#ano-${year}`} className="gb-text-link">← Acervo {ARCHIVE_INFO[institution].name}</Link>
     <p className="gb-eyebrow mt-8">VESTIBULARES · PROVAS OFICIAIS</p>
     <h1 className="gb-page-title">{ARCHIVE_INFO[institution].name} {year}</h1>

@@ -27,7 +27,7 @@ export default async function DisciplinaPage({ params }: Props) {
   const d = disciplinaPorSlug((await params).slug);
   if (!d) notFound();
   return (
-    <main>
+    <main id="conteudo-principal" tabIndex={-1}>
       <PageHero eyebrow="Disciplina" titulo={d.nome}>
         <p>{d.resumo}</p>
         <p className="mt-4 text-sm">

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { PreparacaoLink } from "@/components/preparacao-link";
 import { CONTAINER, PageHero } from "@/components/ui";
 import { metaPagina } from "@/lib/seo";
 import exams from "@/data/etec-exams.json";
@@ -20,6 +21,7 @@ export default function EtecPage() {
         </div>
         <p className="gb-footnote">{exams.length} cadernos no catálogo do Gabaru.</p>
       </PageHero>
+      <PreparacaoLink objetivo="etec" />
       <section className={`${CONTAINER} py-10`} aria-labelledby="etec-acompanhamento">
         <div className="rounded-lg border border-n2 bg-gold-soft p-6 sm:p-8">
           <p className="gb-eyebrow">Em preparação</p>

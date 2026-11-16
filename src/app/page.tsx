@@ -43,7 +43,7 @@ export default function Home() {
         </div>
       </section>
       <section className="gb-home-next"><div className="gb-container gb-home-next-inner"><div><p className="gb-eyebrow">ESTUDO GRATUITO</p><h2>Pratique hoje.<br /><em>Continue amanhã.</em></h2><p>Explore o acervo e encontre o treino disponível para a sua prova. Os recursos e a correção variam conforme a edição.</p></div><Link href="/provas" className="gb-button gb-button-light">Ver acervo de provas <span aria-hidden="true">→</span></Link></div></section>
-      <section className="gb-section gb-container gb-home-materials"><div><p className="gb-eyebrow">PARA SEGUIR ESTUDANDO</p><h2>Mais caminhos para aprender.</h2><p>Conheça os materiais gratuitos e as ferramentas disponíveis no Gabaru.</p></div><Link href="/materiais-gratuitos" className="gb-button">Ver materiais gratuitos <span aria-hidden="true">→</span></Link></section>
+      <section className="gb-section gb-container gb-home-materials"><div><p className="gb-eyebrow">PARA SEGUIR ESTUDANDO</p><h2>Mais caminhos para aprender.</h2><p>Conheça os materiais gratuitos e as ferramentas disponíveis no Gabaru.</p></div><div className="gb-actions"><Link href="/materiais-gratuitos" className="gb-button">Ver materiais gratuitos <span aria-hidden="true">→</span></Link><Link href="/planos" className="gb-text-link">Materiais e videoaulas</Link></div></section>
     </main>
   );
 }

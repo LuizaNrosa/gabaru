@@ -33,7 +33,7 @@ export function SiteFooter() {
         <nav aria-label="Gabaru">
           <h2>Gabaru</h2>
           <Link href="/sobre">Sobre o projeto</Link>
-          <Link href="/planos">Planos e lançamento</Link>
+          <Link href="/planos">Materiais e videoaulas</Link>
           <Link href="/login">Área do aluno</Link>
         </nav>
       </div>

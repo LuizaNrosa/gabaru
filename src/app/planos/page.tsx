@@ -1,54 +1,61 @@
-import Image from "next/image";
 import Link from "next/link";
 import { PageHero, CONTAINER } from "@/components/ui";
-import { preparacoes } from "@/data/preparacoes";
+import { preparacoes, type ObjetivoPreparacao } from "@/data/preparacoes";
 import { metaPagina } from "@/lib/seo";
 
 export const metadata = metaPagina({
-  titulo: "Apostilas, cadernos e cursos",
-  descricao: "Conheça as apostilas, cadernos de exercícios e videoaulas em preparação no Gabaru.",
+  titulo: "Preparação para ETEC, Institutos Federais e ENEM",
+  descricao: "Veja o plano de apostilas, videoaulas e exercícios resolvidos do Gabaru para ETEC, Institutos Federais, ENEM e vestibulares paulistas.",
   caminho: "/planos",
 });
+
+function Preparacao({ objetivo }: { objetivo: ObjetivoPreparacao }) {
+  const { titulo, detalhe, acervo, linkAcervo } = preparacoes[objetivo];
+  return (
+    <article id={objetivo} className="gb-content-card scroll-mt-28">
+      <h3>{titulo}</h3>
+      <p>{detalhe}</p>
+      <dl className="mt-3 grid gap-3 text-sm">
+        <div>
+          <dt className="font-semibold">Material de estudo</dt>
+          <dd className="mt-1 text-n5">Teoria por matéria e caderno de exercícios comentados.</dd>
+        </div>
+        <div>
+          <dt className="font-semibold">Videoaulas</dt>
+          <dd className="mt-1 text-n5">Aulas por assunto e exercícios resolvidos passo a passo.</dd>
+        </div>
+      </dl>
+      <Link href={acervo} className="inline-flex min-h-11 items-center">{linkAcervo}</Link>
+    </article>
+  );
+}
 
 export default function Page() {
   return (
     <main>
-      <PageHero eyebrow="Materiais Gabaru" titulo={<>Prepare-se para<br /><mark>a sua próxima prova.</mark></>}>
-        <p>Apostilas, cadernos com resolução passo a passo e cursos em videoaulas estão em produção. Enquanto isso, estude com os acervos gratuitos.</p>
-        <Link href="/materiais-gratuitos" className="gb-button mt-5">Acessar materiais gratuitos ↗</Link>
+      <PageHero eyebrow="Preparação Gabaru" titulo={<>Estude para <mark>a sua próxima prova.</mark></>}>
+        <p>Estamos preparando materiais, videoaulas e exercícios resolvidos. Enquanto isso, você já pode praticar com as provas disponíveis no Gabaru.</p>
+        <nav className="gb-actions" aria-label="Objetivos de preparação">
+          <Link href="#vestibulinhos" className="gb-text-link inline-flex min-h-11 items-center">Vestibulinhos</Link>
+          <Link href="#enem" className="gb-text-link inline-flex min-h-11 items-center">ENEM</Link>
+          <Link href="#paulistas" className="gb-text-link inline-flex min-h-11 items-center">Vestibulares paulistas</Link>
+        </nav>
       </PageHero>
-      <section className={`${CONTAINER} py-10`} aria-labelledby="apostilas">
-        <div className="flex items-center gap-3">
-          <Image src="/marca/gabaru-carimbo.webp" width={48} height={48} alt="" />
-          <h2 id="apostilas" className="gb-section-title">Apostilas em produção</h2>
-        </div>
+      <section className={`${CONTAINER} py-10`} aria-labelledby="vestibulinhos">
+        <h2 id="vestibulinhos" className="gb-section-title scroll-mt-28">Material completo para vestibulinhos</h2>
+        <p className="mt-3 max-w-2xl text-n5">Escolha o seu. A trilha em produção prevê videoaulas de todas as matérias do programa e centenas de exercícios resolvidos passo a passo.</p>
         <div className="gb-content-grid mt-6">
-          {preparacoes.map(({ titulo, detalhe, acervo }) => (
-            <article key={titulo} className="gb-content-card">
-              <h3>{titulo}</h3>
-              <p>{detalhe}</p>
-              <Link href={acervo} aria-label={`Ver provas de ${titulo}`}>Ver provas disponíveis ↗</Link>
-            </article>
-          ))}
+          <Preparacao objetivo="etec" />
+          <Preparacao objetivo="ifs" />
         </div>
       </section>
-      <section className={`${CONTAINER} pb-12`} aria-labelledby="em-preparacao">
-        <h2 id="em-preparacao" className="gb-section-title">Cadernos, aulas e suporte</h2>
+      <section className={`${CONTAINER} pb-12`} aria-labelledby="outras-provas">
+        <h2 id="outras-provas" className="gb-section-title">Materiais e videoaulas para ENEM e vestibulares</h2>
         <div className="gb-content-grid mt-6">
-          <article className="gb-content-card">
-            <h3>Cadernos de exercícios</h3>
-            <p>Resoluções passo a passo das provas. A lista de edições revisadas acompanhará cada caderno.</p>
-          </article>
-          <article className="gb-content-card">
-            <h3>Cursos em videoaulas</h3>
-            <p>Aulas por assunto para ETEC, Institutos Federais, ENEM e vestibulares paulistas.</p>
-          </article>
-          <article className="gb-content-card">
-            <h3>Suporte a dúvidas</h3>
-            <p>Canal de dúvidas sobre questões, resoluções e aulas, em preparação.</p>
-          </article>
+          <Preparacao objetivo="enem" />
+          <Preparacao objetivo="paulistas" />
         </div>
-        <p className="mt-7 text-n5">As compras serão abertas quando os materiais e a entrega estiverem disponíveis. O pagamento será pelo Mercado Pago.</p>
+        <p className="mt-6 text-sm text-n5">Materiais e cursos em produção. <Link href="/materiais-gratuitos" className="gb-text-link">Ver materiais gratuitos disponíveis</Link>.</p>
       </section>
     </main>
   );

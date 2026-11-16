@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { PreparacaoLink } from "@/components/preparacao-link";
 import { InstitutoCollection } from "@/components/instituto-collection";
 import { CONTAINER, PageHero } from "@/components/ui";
 import { metaPagina } from "@/lib/seo";
@@ -15,6 +16,7 @@ export default function InstitutosFederaisPage() {
       <PageHero eyebrow="Institutos Federais" titulo={<>Encontre seu IF. <mark>Pratique com provas anteriores.</mark></>}>
         <p>Escolha o instituto em que você quer estudar. Cada acervo informa quais edições têm caderno, gabarito e resolução no site.</p>
       </PageHero>
+      <PreparacaoLink objetivo="ifs" />
       <section className={`${CONTAINER} py-10`} aria-labelledby="institutos">
         <h2 id="institutos" className="gb-section-title mb-6">Institutos por estado</h2>
         <InstitutoCollection />

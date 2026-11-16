@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { PreparacaoLink } from "@/components/preparacao-link";
 import type { Metadata } from "next";
 import { CONTAINER, CtaCadastro, PageHero } from "@/components/ui";
 import { MATRIZ_ENEM, type AreaEnem } from "@/data/enem-matriz";
@@ -34,6 +35,7 @@ export default function EnemPage() {
           <Link href="/provas/enem" className="gb-text-link">Escolher uma prova do ENEM</Link>
         </div>
       </PageHero>
+      <PreparacaoLink objetivo="enem" />
 
       <section className={`${CONTAINER} pt-14`} aria-labelledby="matriz-enem">
         <h2 id="matriz-enem" className="gb-section-title mb-6">Matriz de Referência do ENEM</h2>

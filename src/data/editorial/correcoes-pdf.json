@@ -1,0 +1,29 @@
+{
+  "etec-2026-2-q010": {
+    "enunciado": "O elemento cromo apresenta número atômico (Z) 24 e número de massa (A) 52. Portanto, ele é representado corretamente por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "\\({}^{24}_{52}\\mathrm{Cr}\\)"
+      },
+      {
+        "letra": "B",
+        "texto": "\\({}^{52}_{24}\\mathrm{Cr}\\)"
+      },
+      {
+        "letra": "C",
+        "texto": "\\({}^{76}_{54}\\mathrm{Cr}\\)"
+      },
+      {
+        "letra": "D",
+        "texto": "\\({}^{52}_{24}\\mathrm{Cu}\\)"
+      },
+      {
+        "letra": "E",
+        "texto": "\\({}^{24}_{52}\\mathrm{Cu}\\)"
+      }
+    ],
+    "pagina": 6,
+    "revisadaContraPdf": true
+  }
+}

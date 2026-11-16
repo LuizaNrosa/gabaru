@@ -1,0 +1,110 @@
+{
+  "paginas": [
+    {
+      "pagina": 2,
+      "colunas": 1,
+      "blocos": 0
+    },
+    {
+      "pagina": 3,
+      "colunas": 1,
+      "blocos": 19
+    },
+    {
+      "pagina": 4,
+      "colunas": 2,
+      "blocos": 35
+    },
+    {
+      "pagina": 5,
+      "colunas": 1,
+      "blocos": 21
+    },
+    {
+      "pagina": 6,
+      "colunas": 1,
+      "blocos": 38
+    },
+    {
+      "pagina": 7,
+      "colunas": 1,
+      "blocos": 25
+    },
+    {
+      "pagina": 8,
+      "colunas": 1,
+      "blocos": 13
+    },
+    {
+      "pagina": 9,
+      "colunas": 2,
+      "blocos": 26
+    },
+    {
+      "pagina": 10,
+      "colunas": 2,
+      "blocos": 30
+    },
+    {
+      "pagina": 11,
+      "colunas": 1,
+      "blocos": 15
+    },
+    {
+      "pagina": 12,
+      "colunas": 2,
+      "blocos": 18
+    },
+    {
+      "pagina": 13,
+      "colunas": 1,
+      "blocos": 36
+    },
+    {
+      "pagina": 14,
+      "colunas": 1,
+      "blocos": 4
+    },
+    {
+      "pagina": 16,
+      "colunas": 1,
+      "blocos": 1
+    }
+  ],
+  "gabarito": {
+    "1": "C",
+    "2": "DIVERGENTE",
+    "3": "E",
+    "4": "DIVERGENTE",
+    "5": "B",
+    "6": "E",
+    "7": "DIVERGENTE",
+    "8": "DIVERGENTE",
+    "9": "DIVERGENTE",
+    "10": "DIVERGENTE",
+    "11": "DIVERGENTE",
+    "12": "DIVERGENTE",
+    "13": "DIVERGENTE",
+    "14": "DIVERGENTE",
+    "15": "DIVERGENTE",
+    "16": "C",
+    "17": "DIVERGENTE",
+    "18": "E",
+    "19": "DIVERGENTE",
+    "20": "B",
+    "21": "E",
+    "22": "DIVERGENTE",
+    "23": "DIVERGENTE",
+    "24": "DIVERGENTE",
+    "25": "DIVERGENTE",
+    "26": "DIVERGENTE",
+    "27": "DIVERGENTE",
+    "28": "DIVERGENTE",
+    "29": "DIVERGENTE",
+    "30": "DIVERGENTE"
+  },
+  "esperadas": 30,
+  "extraidas": 30,
+  "aceitas": 0,
+  "quarentena": 30
+}

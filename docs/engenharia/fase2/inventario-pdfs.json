@@ -1,0 +1,2594 @@
+{
+  "arquivos": [
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2013/gabarito.pdf",
+      "bytes": 49350,
+      "sha256": "3a47ca3f9f04c2a88f6b1e9b73c865e401df60e70afc35f45eaad1a0a7f342b6",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2013/prova.pdf",
+      "bytes": 2723531,
+      "sha256": "c8456de63811b02de955d04472b08ef848e62ae3fa93e620c38c8818bab78c51",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2014/gabarito.pdf",
+      "bytes": 17387,
+      "sha256": "304e64e5074bc530c3b3c5b95d44fa38a7b5c93a0e915ecbc81a8e9d6b73664d",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2014/prova.pdf",
+      "bytes": 1590743,
+      "sha256": "11952f85576e64880683d7c30457646890f69e7afea6487c9b38d067a267c9ad",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2015/gabarito.pdf",
+      "bytes": 85101,
+      "sha256": "6278533aec92d1e5dd44d987519537eb5b7ccde976a84b9ca265aff16b106d57",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2015/prova.pdf",
+      "bytes": 1528016,
+      "sha256": "e053ed3128c093e43a10886e59d3b421f4d3b802a1d9e73ef6c06b37ba8d0939",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2016/gabarito.pdf",
+      "bytes": 50993,
+      "sha256": "96ce0f0f736a1bf8a1ebb746ade3025ad442f60a35f5caf46543a3f8ac8b3524",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2016/prova.pdf",
+      "bytes": 2895054,
+      "sha256": "d6ba1376d070c1d947cfd4ce508e1345ce244c31d51508c648b71c0afa43c9f4",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2017/gabarito.pdf",
+      "bytes": 163355,
+      "sha256": "4d37a598794483b8a06d322bc281ea0b6b77c8e96429773a4d4664a0d77704a3",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2017/prova.pdf",
+      "bytes": 3505125,
+      "sha256": "7c655ac298a49b5c6823722e1557a947a762669d6fa295272e8edf5dd3e48dd0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2018/gabarito.pdf",
+      "bytes": 162641,
+      "sha256": "79d7a457f6a5e0b33a843f647735585ba9499a81442c2b6cd80a5178b1f7de7c",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2018/prova.pdf",
+      "bytes": 2941741,
+      "sha256": "18fb8efa25266ae3c808e7899bed9215c87fee503062e49d4aa35d04679aaaaf",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2019/gabarito.pdf",
+      "bytes": 185871,
+      "sha256": "0c9bb62884e4dd33224f5196ee3f366071a4830ae27eb55027a0156d2c81e8d6",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2019/prova.pdf",
+      "bytes": 2417845,
+      "sha256": "5428ad6e038ea8102b572b0c9ff5ef7b4c2134af48fc472332894de21c5006bf",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2020/gabarito.pdf",
+      "bytes": 196649,
+      "sha256": "7d262a9f5de46f1e8ad86a8c5d74acd082e0e00f5455ed2b62ecf397a1716784",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2020/prova.pdf",
+      "bytes": 2915973,
+      "sha256": "96097dddfbd34f5a2ecac5ac3e327bddef5cb69f582bfc37392e96ad4cacaa99",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2021/gabarito.pdf",
+      "bytes": 627204,
+      "sha256": "2da5b7af62869e0d98f234501e08eccc1f22891313e1b94dac60963fb041c59c",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2021/prova.pdf",
+      "bytes": 2227660,
+      "sha256": "c762a48d6e4d3fa16789016cab0750a9e127015c3369f96e00c4568930e10d02",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2022/gabarito.pdf",
+      "bytes": 313887,
+      "sha256": "cbaad634cd854ea5e1b91cce1fa14f9cc30de3111a326cf2b556926b10194297",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2022/prova.pdf",
+      "bytes": 756368,
+      "sha256": "05aaf0c1722551ba78c33b9936138771e8aae2cf23eaddfaf5a53348e5a9787f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2023/gabarito.pdf",
+      "bytes": 339746,
+      "sha256": "bda32c9594a5289828c674faa5b9eeb1dcf91edbf16b5ae2311761716c27b660",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2023/prova.pdf",
+      "bytes": 731707,
+      "sha256": "c0a678922b441326ebac42755498d143067ca1c4f589dfd0d1f507b3e05ef785",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2024/gabarito.pdf",
+      "bytes": 290734,
+      "sha256": "0aadc6f3a10ba8b968ef9bc5b73172bafe4390ba2cdd294ee45bb3ff42a93a5a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2024/prova.pdf",
+      "bytes": 832433,
+      "sha256": "2ee1d58bfb313fb00ebd6bfe2576c77e4095b5c707ca2d4b453d6d7c25d8a5bb",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2025/gabarito.pdf",
+      "bytes": 104742,
+      "sha256": "4138c92ec4fb94ab9585a861b75e6f2e6431ac95edfc864adc00ad54fd0b7eab",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2025/prova.pdf",
+      "bytes": 877286,
+      "sha256": "89f943f0b3fea5475f70342e1ed782d3e9529d7628a3963cde6b11420aa0fd23",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2026/gabarito.pdf",
+      "bytes": 105900,
+      "sha256": "75631e5cdd1ee2ff4aeb6d9e1adceda0fc15b998ad7056450bde670c52c19f41",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/coluni-pdfs/2026/prova.pdf",
+      "bytes": 782687,
+      "sha256": "4eb1f0cdd56bf5021e3340a14c644e4b38fc204a53fc60af9860d185c6a76927",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/enem-pdfs/enem-2024-regular-d2/prova.pdf",
+      "bytes": 5429339,
+      "sha256": "01c869e9e2760e73341fbbc8adb40e23d9fa5d1e8dbf729f2e95c09444cd69da",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2006-1/gabarito.pdf",
+      "bytes": 3786,
+      "sha256": "fb86f0c3aee25d048ded64e62afd5f83a137a37de724a3e0ccd08dd228254d9f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2006-1/prova.pdf",
+      "bytes": 684896,
+      "sha256": "fa297ad0dce3fa5e5126c1182f73634dfde272cd111bb30fbe5201f20597b9cc",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2006-2/gabarito.pdf",
+      "bytes": 4403,
+      "sha256": "f31741de2cff5eafbaf1f21ac663f0635b6e799ca6f18d17047a483571db092f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2006-2/prova.pdf",
+      "bytes": 507800,
+      "sha256": "ee30be86075b8661588032def09fd6aa970347f97b8fc6ac7d7f54dfe1d36f8a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2007-1/gabarito.pdf",
+      "bytes": 5502,
+      "sha256": "d2bf8c3a33575ad7b7ce52a969b8e9899b85a5ad54dc6028a4ff15ea3bc4c1d7",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2007-1/prova.pdf",
+      "bytes": 949919,
+      "sha256": "d0c05e108864748a5d21619d54a677c22daf2ee3a6f4037a3515170ba7a34d10",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2007-2/gabarito.pdf",
+      "bytes": 34168,
+      "sha256": "39482131195956980916b19d37c2f5a3312c329da43da0964761cef589cdd9e0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2007-2/prova.pdf",
+      "bytes": 943614,
+      "sha256": "c672cc4d728278145f94164d2dac4544fa1ed1d1dcbca233282849b4d73fbf09",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2008-1-extra1/gabarito.pdf",
+      "bytes": 3848,
+      "sha256": "f38c0db0fcf6acc181b688414f8a5abe745b2545b39374cea29755117321f605",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2008-1-extra1/prova.pdf",
+      "bytes": 375059,
+      "sha256": "3fa2529df102dc6d2c62cd4afab6ee4012a20e3d8e28b581e0a40d44155e0aa0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2008-1/gabarito.pdf",
+      "bytes": 16986,
+      "sha256": "8b523c5860288598a0513516bf8a7ee12655b307d2c60bfa476518d17543764d",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2008-1/prova.pdf",
+      "bytes": 2475185,
+      "sha256": "51566b142f5c92f3322177ecab07e05ed83c71e5f260f5434a8cdf7bcd437bed",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2008-2/gabarito.pdf",
+      "bytes": 29762,
+      "sha256": "207888e54ec15d7b17761a3d2af51ddf5fa2cbd064a64f8092f152e67bbaf172",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2008-2/prova.pdf",
+      "bytes": 1828761,
+      "sha256": "987612a9abc8d85d05554d2f6bb02f46151efbe812f3dd903bd06ca9e9b913d9",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2009-1-extra1/gabarito.pdf",
+      "bytes": 64483,
+      "sha256": "d169eb5878f424ddf90c580057aa574b0ecabd60c4c2fe67ee09fe8adcd21f4f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2009-1-extra1/prova.pdf",
+      "bytes": 371096,
+      "sha256": "701e06de9cab391bca962b0f97b9edece4bad829e4a40531c2fd4c5009a73173",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2009-1/gabarito.pdf",
+      "bytes": 132190,
+      "sha256": "76e64d5e7bdaf0c4dd31e559fe59cd3c3084662297b4c3e8576d28826cf60a74",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2009-1/prova.pdf",
+      "bytes": 3429577,
+      "sha256": "6d81bf00325eca801c75484a9df687ff8aeed9b9b829e27bcb78cc37bdd21b77",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2009-2-extra1/gabarito.pdf",
+      "bytes": 88610,
+      "sha256": "e126d0220c2040d94ee25339705cdf47e4b83bf2ffa401b647c009d010e242eb",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2009-2-extra1/prova.pdf",
+      "bytes": 1304245,
+      "sha256": "737c13b9292023708eac004ae1c84d2f73ee3e32c49e227dea5fef615739203d",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2009-2/gabarito.pdf",
+      "bytes": 83610,
+      "sha256": "83ddf8e1f520152a112ddbf894771aaa2f50e495d226862948a2f4d314066ccb",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2009-2/prova.pdf",
+      "bytes": 2484687,
+      "sha256": "e5a0cef81087fe978d21829056bb644f6403f6442e62400aa8fc51acd9d06954",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2010-1/gabarito.pdf",
+      "bytes": 62909,
+      "sha256": "416e6b0b7227715e475902e4524418edaf92e13952b514a20a61f0c2ace6720e",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2010-1/prova.pdf",
+      "bytes": 1532009,
+      "sha256": "0b51714761c26156a7e7a78d6dbf3967c85ec6a63de8a4b648bf6902becdeba1",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2010-2-extra1/gabarito.pdf",
+      "bytes": 34363,
+      "sha256": "aba627e9ef46b25fd441e0fb38dda1cce0074970864501a9ad441d2b8696a866",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2010-2-extra1/prova.pdf",
+      "bytes": 564653,
+      "sha256": "311fcc656e3630c62843ce7c23a5b6515ab92b01ad916aa75edcf3507f840c9a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2010-2/gabarito.pdf",
+      "bytes": 34103,
+      "sha256": "1dc709bdf92309f1b8ba33b33ca4cabc0341bc49ccece69d442357a60cba08ad",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2010-2/prova.pdf",
+      "bytes": 3259795,
+      "sha256": "6516472cce765f013fd3b8d1a9fb5d338e8cc912a3319922faf6a6267f355996",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2011-1/gabarito.pdf",
+      "bytes": 32352,
+      "sha256": "59170a56cd4fb063afc86a504d6f298b5d87d80458b5a65cd9abbc3928dc21d6",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2011-1/prova.pdf",
+      "bytes": 2385649,
+      "sha256": "8b1598b73e23ef9b1f4c2753c5f450417295466afb9edce9e4167ffada88ea25",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2011-2/gabarito.pdf",
+      "bytes": 26917,
+      "sha256": "0c0a54064789490c001478934c475de0e61002de543f0faa795322dd9c665275",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2011-2/prova.pdf",
+      "bytes": 3134092,
+      "sha256": "eacadb1e4a75e7f8042851bbbf77731f63c2705c541590bbe31b10eea18eea3f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2012-1/gabarito.pdf",
+      "bytes": 24240,
+      "sha256": "0ccb3dc75675e91de515230b3cff5bbcdbbb37adf1f3d4a5428775e8472e3c6d",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2012-1/prova.pdf",
+      "bytes": 3027307,
+      "sha256": "e76d5d65de08eb6210a34d7c9146d6d3e9ab7b694f86f09779b71f52490427c2",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2012-2/gabarito.pdf",
+      "bytes": 24849,
+      "sha256": "f1ee501d88e3df6bc31ecf5e4f708748c7357d96b1da8bcc7b465a3ad54ccffc",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2012-2/prova.pdf",
+      "bytes": 4042721,
+      "sha256": "f217349ddcef0a7cf55145d70db9d84db7b1fcd18106963d9ca8ce5093d79a1d",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2013-1/gabarito.pdf",
+      "bytes": 24355,
+      "sha256": "5555efa08458df35b8e08f5836cfd6a43cbe8b31ae70f7a4a00dfef3efbf2e70",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2013-1/prova.pdf",
+      "bytes": 5798680,
+      "sha256": "72f18d275d9a88dcbb5dfc758f19b29637610b7a3b73cde35cde4517849042a4",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2013-2/gabarito.pdf",
+      "bytes": 58847,
+      "sha256": "52c933069cbbb6f7ce0c1d4a8b6a36f003bd384d02b0b42e6c59a1d4ead57b31",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2013-2/prova.pdf",
+      "bytes": 3106393,
+      "sha256": "41accf8702d8fc37a18919fadf17a32103b2849beb9d11ea7ba71b4c06276097",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2014-1/gabarito.pdf",
+      "bytes": 125577,
+      "sha256": "92bc48a22ab6b8baaa02f9e5b7c17aef731cd37f67824d327ba47a51b5eaef46",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2014-1/prova.pdf",
+      "bytes": 3252219,
+      "sha256": "aef08331ea1cba5ae974200562c15b3684190d20ce9e560e0b8b716ea1765461",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2014-2/gabarito.pdf",
+      "bytes": 47045,
+      "sha256": "d324fb6b40b67db77717050dee7ce5e09d3e3f504ffc91108f28451d1645e84c",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2014-2/prova.pdf",
+      "bytes": 2149493,
+      "sha256": "f8554abfdab7842d17f1c306b9aa104aacec5ab093b78dc94f3170910395926b",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2015-1/gabarito.pdf",
+      "bytes": 74745,
+      "sha256": "81880ab430940425aa3a7907e2e7091edf78511e0ef7d615fa3ec0134f0abdca",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2015-1/prova.pdf",
+      "bytes": 2905773,
+      "sha256": "60041ac1e74c8d4d1c244a1d1bb21a0bd26d9debf32c4a54c3fe53eef6c424ea",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2015-2/gabarito.pdf",
+      "bytes": 124201,
+      "sha256": "15493cee1976f1c1e07552e8fa3a67ba61dbbc8731a7f078a3d170b7bd0199c2",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2015-2/prova.pdf",
+      "bytes": 2108315,
+      "sha256": "97fe6947ca46bc12bb4a98781a9c17c3a83c8b1401b4f08c9a68dc5ab33975ed",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2016-1/gabarito.pdf",
+      "bytes": 163015,
+      "sha256": "b9f3a67b6be9efbe7a3f465627aa10ed8ee7dab7b85e6a4c6bed49c80e7fa553",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2016-1/prova.pdf",
+      "bytes": 3083908,
+      "sha256": "f2d77beaa112d90a70354e447941c7646fc41f879bd7d829786dc05a622c26a1",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2016-2/gabarito.pdf",
+      "bytes": 72822,
+      "sha256": "70b50a08e5c08d9f3729336c4778589d5a010939002f68e71f0b4121bfa11087",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2016-2/prova.pdf",
+      "bytes": 1923047,
+      "sha256": "f27a0d0391d4bbe28f0e7fab01f8464167265680bfbb33b73bcbcb9eec997c09",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2017-1/gabarito.pdf",
+      "bytes": 98055,
+      "sha256": "0554f61d57c2c63a9625e694cd47ee1b0ab23e6e9c3603175af041d87d0667c4",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2017-1/prova.pdf",
+      "bytes": 1891571,
+      "sha256": "d1604110ff1df1dc22d67ca1e6c23a5eac22ceff5ad1f064071126c9609f4cc8",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2017-2/gabarito.pdf",
+      "bytes": 130439,
+      "sha256": "c6adb0d65cf84a298c3887e4a84038b6e97be6730a916f9c70f126dc68bdfac0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2017-2/prova.pdf",
+      "bytes": 2519668,
+      "sha256": "cdec5bd7d83adede931224267fd333e28449fb02e9655b05ea1df07892337709",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2018-1/gabarito.pdf",
+      "bytes": 67180,
+      "sha256": "4dbb6049781eb7a061d4e6a1fbd1f9c24edd3dae21c6b0c4809495ed972cb8d0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2018-1/prova.pdf",
+      "bytes": 1901670,
+      "sha256": "9b306c938949546bece133f1b12ddb15d8f49e8d06738c6a2124d01b44306f1f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2018-2/gabarito.pdf",
+      "bytes": 72944,
+      "sha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2018-2/prova.pdf",
+      "bytes": 1380933,
+      "sha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2019-1/gabarito.pdf",
+      "bytes": 129911,
+      "sha256": "051ea25b54bb0a00a31da938d5c7f6021089687b4910357fd6cff5ab3846d98f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2019-1/prova.pdf",
+      "bytes": 2335968,
+      "sha256": "6ac0aef09ce612768edea553c9187a8608932a08bfd7f2d489022726e0499231",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2019-2/gabarito.pdf",
+      "bytes": 130071,
+      "sha256": "3f5d61b5edcca01a9abdc22d867780b162d36fbc4372a46e5e85e4f247ac8008",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2019-2/prova.pdf",
+      "bytes": 2053035,
+      "sha256": "6214eaab3d242b5ad2203e7c01043244f690b1d6ee4f5b6aace504ab0d13394f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2020-1/gabarito.pdf",
+      "bytes": 77767,
+      "sha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2020-1/prova.pdf",
+      "bytes": 3292092,
+      "sha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2022-2/gabarito.pdf",
+      "bytes": 80991,
+      "sha256": "0e70376fedc01865700428f8478dbd60d6771fcc3a273ed5d5a10309757c0229",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2022-2/prova.pdf",
+      "bytes": 2664049,
+      "sha256": "4ce97322a6ba1a98e948a11d19d8fdd62ebd40749b8b384ade71262cf891e752",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2023-1/gabarito.pdf",
+      "bytes": 58504,
+      "sha256": "648e3e9f84c1c8f056e629d635b78b89321afbe6d86a5378b7b51afd0781e88e",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2023-1/prova.pdf",
+      "bytes": 3248219,
+      "sha256": "e88907b015c024d2e17a0f6a3580a94b286c46b24073535e277aea1cb2d07d71",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2023-2/gabarito.pdf",
+      "bytes": 59125,
+      "sha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2023-2/prova.pdf",
+      "bytes": 2407974,
+      "sha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2024-1/gabarito.pdf",
+      "bytes": 42674,
+      "sha256": "f26127a2b2df31eafa57a4d770035411189e276df7089f07a41fb4c6e822dfa7",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2024-1/prova.pdf",
+      "bytes": 1471209,
+      "sha256": "e332dcb18b302241d3da3c4f8428465c332a554458ecd78f14b3efdde667498f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2024-2/gabarito.pdf",
+      "bytes": 56863,
+      "sha256": "c5ad8ad9ed04efae88868a419d71d06c02aaa6232b2f1151d9523c72238422c1",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2024-2/prova.pdf",
+      "bytes": 1830485,
+      "sha256": "d057529a7101cafac67a76fd099215a0d917501e54b183ab03d23a38d798c761",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2025-1/gabarito.pdf",
+      "bytes": 42688,
+      "sha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2025-1/prova.pdf",
+      "bytes": 1054348,
+      "sha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2026-1/gabarito.pdf",
+      "bytes": 44818,
+      "sha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2026-1/prova.pdf",
+      "bytes": 1201573,
+      "sha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2026-2/gabarito.pdf",
+      "bytes": 44824,
+      "sha256": "0ad7c2544be28ea0beb22468c98333276026400ce073663bdc460c789f05c708",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/etec-pdfs/2026-2/prova.pdf",
+      "bytes": 1692457,
+      "sha256": "c0804a31a4f951f94668a2c4714ea085b343e6d155b81ebbd00014e635178a6a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2017-1/gabarito.pdf",
+      "bytes": 63685,
+      "sha256": "b4ebfb59188643e3dc19b1b6f94cb17f2c468fa200e26e745837a1cce1bfb441",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2017-1/prova.pdf",
+      "bytes": 8120716,
+      "sha256": "72be95701d65b77707d5ba2656fa025d08225f3c77bf2282c128a130f85ca918",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2017-2/gabarito.pdf",
+      "bytes": 250888,
+      "sha256": "4f111d13ebe9c793e8ed04c9785e12c90447a2c20d698536d99c08821b7a6105",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2017-2/prova.pdf",
+      "bytes": 5864059,
+      "sha256": "48ac4b53530c7483a423c3f94c7f146be626b2a9592aa3009fd76ba76001df13",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2018-1/gabarito.pdf",
+      "bytes": 250732,
+      "sha256": "3b7f149933254cacbca174c8e6872ed8df49474048b2401c0cee3bf8d52b96ea",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2018-1/prova.pdf",
+      "bytes": 8190948,
+      "sha256": "29f31c065daab4f2b8f0088ac8f684b0a2d6b03c7395061c46b1da74b64d06e0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2018-2/gabarito.pdf",
+      "bytes": 247108,
+      "sha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2018-2/prova.pdf",
+      "bytes": 15110541,
+      "sha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2019-1/gabarito.pdf",
+      "bytes": 250854,
+      "sha256": "248f216074a4e24b2f1defce392ff75525d04cfd5eb263e5267d3258dd64b282",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2019-1/prova.pdf",
+      "bytes": 2641064,
+      "sha256": "4b0b102e9f3bcc612d97ca0fb1a463be26f010daf7752de7bf0a43e332268da6",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2019-2/gabarito.pdf",
+      "bytes": 251921,
+      "sha256": "c896ade1203a392b21597844e9adc29fb616b07b8031ad47307d5de0a714d954",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2019-2/prova.pdf",
+      "bytes": 8997019,
+      "sha256": "2f431ae9c18df35ced22700cb9019d34c8425bb187fdcec68ddd1f1fb312c3bb",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2020-1/gabarito.pdf",
+      "bytes": 244868,
+      "sha256": "27966e267681f29d6ad25f82b1724e6228472c4eeb5e06af54da3f6d335aa4a2",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2020-1/prova.pdf",
+      "bytes": 768443,
+      "sha256": "689e05c1d51bbfa8fafe68eb113f0ca5a1d20e5f0104d76514eaaa620a10d749",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2022-1/gabarito.pdf",
+      "bytes": 103051,
+      "sha256": "e5da03943e50c8e192a125f933e71cf60f49839bc221e3d97d08e087fd2a456a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2022-1/prova.pdf",
+      "bytes": 1169768,
+      "sha256": "2eb7b2ef2e7c685beb107fe3a4291e742b28e21f8c0893fc29b53d92ca584660",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2022-2/gabarito.pdf",
+      "bytes": 94279,
+      "sha256": "835c53c9ee48cbc603f39d66ca4a8f21e573c9d097ba21f0fca5d4c1e127fda7",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2022-2/prova.pdf",
+      "bytes": 509360,
+      "sha256": "c2e097302cad7319b7b5997ed2448294c1b623d52a1df5f4ac30b4eb7d7935cb",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2023-1/gabarito.pdf",
+      "bytes": 92454,
+      "sha256": "b464cd114045d12b020aea99d2a7aa3e2a76f0caef074682b1b06c7213d427ad",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2023-1/prova.pdf",
+      "bytes": 1110837,
+      "sha256": "a19a65310addb90076a7e95af6a28d0dc5388b408f250f0e1ec87cf37d868af5",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2023-2/gabarito.pdf",
+      "bytes": 98190,
+      "sha256": "ab3f931fa6724f7776d83535e92592fb67113daf35eb968234e8a2b0716a0e4a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2023-2/prova.pdf",
+      "bytes": 837412,
+      "sha256": "7a2a0e42aeb7bd4fb1e15ece686ed2ba94fa565727e40d5d0f2604a8796fc9cf",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2024-1-itajai/gabarito.pdf",
+      "bytes": 87626,
+      "sha256": "2784c7e6e254a697eb0ec1d125d336ed7db0d1e51aa019bb00809972cdf0adb3",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2024-1-itajai/prova.pdf",
+      "bytes": 732715,
+      "sha256": "09f8d760510db04e81031ad6c9bdda8c250750fd7ae1edfca637086a412e48aa",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2024-1/gabarito.pdf",
+      "bytes": 75944,
+      "sha256": "9c4615bf568c43d376cf4d911f730309350f2338fdc371cce48a3ed2a33c1802",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2024-1/prova.pdf",
+      "bytes": 1242001,
+      "sha256": "71b9753d0c6e095f72e12fa1e4f3fd363cdaad869bfda29b0c6402fb911638ed",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2024-2/gabarito.pdf",
+      "bytes": 69021,
+      "sha256": "cce1ae972690397553a5de159caaa41a27ecac35b14dbc3f1c634b4483936076",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2024-2/prova.pdf",
+      "bytes": 9489398,
+      "sha256": "ce4ac098275293fea6558544aff564407240b4e0b32ee909a3af735094aba4e4",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2025-1/gabarito.pdf",
+      "bytes": 82236,
+      "sha256": "70df3dbd86a601d509e22381bc654f950740b174bcd0f47b58e869987e78cec3",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2025-1/prova.pdf",
+      "bytes": 1731432,
+      "sha256": "26c33198300780a832a19d4c68ac563c3576c3a0cd5bcc710ca27cd2aa441b5d",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2025-2/gabarito.pdf",
+      "bytes": 74671,
+      "sha256": "1693fdd99bbcc062ceb43695c6dd5c047746156e5cfe10cf9f224b87d2c41d85",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2025-2/prova.pdf",
+      "bytes": 2222701,
+      "sha256": "8838f3533374193d3ed72d217e5bed2785a7e147dbe59481d64a80fe25de70d2",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2026-1/gabarito.pdf",
+      "bytes": 159915,
+      "sha256": "01ac684d6378c365550a0dc67a281168be0bb72be93829bd56f49f1497e79a94",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2026-1/prova.pdf",
+      "bytes": 1279916,
+      "sha256": "0bdbaabffa7774f4d28dc58e19dd50f8813f1d044c02205bf55aae7c77aa8dc6",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2026-2/gabarito.pdf",
+      "bytes": 166790,
+      "sha256": "647e8d90ed65211cbcafc157bd2678def71250e32acff7076974f846e055d9ad",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsc-pdfs/2026-2/prova.pdf",
+      "bytes": 1942625,
+      "sha256": "5c4341cf8cbfcd63ec7245bc1bfe3062698f48a075ccccaa10ad7504956acf9f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2022-1-manha/gabarito.pdf",
+      "bytes": 123292,
+      "sha256": "4ada65158ad503d3ee724e88d649c114f51a2ce8f118e7c0038717ab6fd7c8d3",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2022-1-manha/prova.pdf",
+      "bytes": 1887514,
+      "sha256": "aade2e4dfce6eb565886bef5c683c427f689d98904661d29f9ae5b1ee485e7bc",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2022-1-tarde/gabarito.pdf",
+      "bytes": 122904,
+      "sha256": "53446f5728bab948dbbc49a78a95867caa181c9ba1ac6558482cf2d6bde692f7",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2022-1-tarde/prova.pdf",
+      "bytes": 2140041,
+      "sha256": "cd428fe602b116417be71769926072b31a0bdc3d0cfe385dddc94b5e2d1f4df9",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2023-1-a/gabarito.pdf",
+      "bytes": 122359,
+      "sha256": "11d424a7aa1e08ede420398f838a8152fb440f45479de2495470858680f12253",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2023-1-a/prova.pdf",
+      "bytes": 1636462,
+      "sha256": "b0106897c67254ebb8d0ef5572b08066efb47d7d4e83917d4a9917346dfc2ac9",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2023-1-b/gabarito.pdf",
+      "bytes": 123554,
+      "sha256": "11a6a18cde0c12fffc86bc3828ffc2b810deb162c702e05610a0d228a081690e",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2023-1-b/prova.pdf",
+      "bytes": 2199818,
+      "sha256": "e1cc3a793e83d52420ed3729e36a51e4435728a033dda5cd6ee44cd4605505ac",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2024-1-a/gabarito.pdf",
+      "bytes": 80289,
+      "sha256": "36a225665055537e0f7c3dd7561d3cc60037a826d9184538419f9c84eb0cbe19",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2024-1-a/prova.pdf",
+      "bytes": 1331773,
+      "sha256": "61b3b98a3e48abfccf93af9831e66ce9954593bb2ee6b065ca91dbb0a9ddb995",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2024-1-b/gabarito.pdf",
+      "bytes": 78289,
+      "sha256": "b02d6875d33fb7798430c01775ec621a8484367b2406db5c6907a98bb0de97ec",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2024-1-b/prova.pdf",
+      "bytes": 1917755,
+      "sha256": "4cfb13ae163935249dadfdab779488a05d4f62c6237a66240d6b45d8286d79f3",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2025-1-a/gabarito.pdf",
+      "bytes": 40523,
+      "sha256": "0ee8cadc94fb0ce37c9ad7d048771b25cb79c9c8ed1c7b70b2ac2dbd8c2e7073",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2025-1-a/prova.pdf",
+      "bytes": 1962294,
+      "sha256": "629f84ad0a31cebf4c47822f45f8d1d10f2bf9135284ae5f8ba8d744bc7e056c",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2025-1-b/gabarito.pdf",
+      "bytes": 39136,
+      "sha256": "0e0e133086b312969f05bd5f06566d9269db94ba8e6b8eed49a0347e15a91b3a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2025-1-b/prova.pdf",
+      "bytes": 1207234,
+      "sha256": "7edb90de27ab52d6e46de9808fab955542083711aa4b328a9bdf595897829d60",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2026-1-tipo1/gabarito.pdf",
+      "bytes": 121946,
+      "sha256": "30ea755721c4819b541c99f705dff05956503771be1d64bf9b822a2dd0ef8391",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2026-1-tipo1/prova.pdf",
+      "bytes": 1079612,
+      "sha256": "df148d605407005741d75a32dcc8fa12bade6feea27ecb2b7ef9ab431bbb0965",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2026-1-tipo2/gabarito.pdf",
+      "bytes": 121946,
+      "sha256": "30ea755721c4819b541c99f705dff05956503771be1d64bf9b822a2dd0ef8391",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": ".next/cache/ifsp-pdfs/2026-1-tipo2/prova.pdf",
+      "bytes": 1075741,
+      "sha256": "adbe58b9599f8f5e859860dce274e56b0b95ca094c8eb084bc4e885f38cca57a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2013/gabarito.pdf",
+      "bytes": 49350,
+      "sha256": "3a47ca3f9f04c2a88f6b1e9b73c865e401df60e70afc35f45eaad1a0a7f342b6",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2013/prova.pdf",
+      "bytes": 2723531,
+      "sha256": "c8456de63811b02de955d04472b08ef848e62ae3fa93e620c38c8818bab78c51",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2014/gabarito.pdf",
+      "bytes": 17387,
+      "sha256": "304e64e5074bc530c3b3c5b95d44fa38a7b5c93a0e915ecbc81a8e9d6b73664d",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2014/prova.pdf",
+      "bytes": 1590743,
+      "sha256": "11952f85576e64880683d7c30457646890f69e7afea6487c9b38d067a267c9ad",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2015/gabarito.pdf",
+      "bytes": 85101,
+      "sha256": "6278533aec92d1e5dd44d987519537eb5b7ccde976a84b9ca265aff16b106d57",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2015/prova.pdf",
+      "bytes": 1528016,
+      "sha256": "e053ed3128c093e43a10886e59d3b421f4d3b802a1d9e73ef6c06b37ba8d0939",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2016/gabarito.pdf",
+      "bytes": 50993,
+      "sha256": "96ce0f0f736a1bf8a1ebb746ade3025ad442f60a35f5caf46543a3f8ac8b3524",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2016/prova-discursiva.pdf",
+      "bytes": 1336400,
+      "sha256": "4a55a1a07fc20a90cc8cca861f243a9475147fbccc48451fc6f53b0cef704420",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2016/prova.pdf",
+      "bytes": 2895054,
+      "sha256": "d6ba1376d070c1d947cfd4ce508e1345ce244c31d51508c648b71c0afa43c9f4",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2017/gabarito.pdf",
+      "bytes": 163355,
+      "sha256": "4d37a598794483b8a06d322bc281ea0b6b77c8e96429773a4d4664a0d77704a3",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2017/prova-discursiva.pdf",
+      "bytes": 1144963,
+      "sha256": "3cf5d616d00a5a59ef51a614099f0ee0f72bc2b742cdb303521e9fa6111d6488",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2017/prova.pdf",
+      "bytes": 3505125,
+      "sha256": "7c655ac298a49b5c6823722e1557a947a762669d6fa295272e8edf5dd3e48dd0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2018/gabarito.pdf",
+      "bytes": 162641,
+      "sha256": "79d7a457f6a5e0b33a843f647735585ba9499a81442c2b6cd80a5178b1f7de7c",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2018/prova.pdf",
+      "bytes": 2941741,
+      "sha256": "18fb8efa25266ae3c808e7899bed9215c87fee503062e49d4aa35d04679aaaaf",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2019/gabarito.pdf",
+      "bytes": 185871,
+      "sha256": "0c9bb62884e4dd33224f5196ee3f366071a4830ae27eb55027a0156d2c81e8d6",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2019/prova.pdf",
+      "bytes": 2417845,
+      "sha256": "5428ad6e038ea8102b572b0c9ff5ef7b4c2134af48fc472332894de21c5006bf",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2020/gabarito.pdf",
+      "bytes": 196649,
+      "sha256": "7d262a9f5de46f1e8ad86a8c5d74acd082e0e00f5455ed2b62ecf397a1716784",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2020/prova.pdf",
+      "bytes": 2915973,
+      "sha256": "96097dddfbd34f5a2ecac5ac3e327bddef5cb69f582bfc37392e96ad4cacaa99",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2021/gabarito.pdf",
+      "bytes": 627204,
+      "sha256": "2da5b7af62869e0d98f234501e08eccc1f22891313e1b94dac60963fb041c59c",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2021/prova.pdf",
+      "bytes": 2227660,
+      "sha256": "c762a48d6e4d3fa16789016cab0750a9e127015c3369f96e00c4568930e10d02",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2022/gabarito.pdf",
+      "bytes": 313887,
+      "sha256": "cbaad634cd854ea5e1b91cce1fa14f9cc30de3111a326cf2b556926b10194297",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2022/prova.pdf",
+      "bytes": 756368,
+      "sha256": "05aaf0c1722551ba78c33b9936138771e8aae2cf23eaddfaf5a53348e5a9787f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2023/gabarito.pdf",
+      "bytes": 339746,
+      "sha256": "bda32c9594a5289828c674faa5b9eeb1dcf91edbf16b5ae2311761716c27b660",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2023/prova.pdf",
+      "bytes": 731707,
+      "sha256": "c0a678922b441326ebac42755498d143067ca1c4f589dfd0d1f507b3e05ef785",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2024/gabarito.pdf",
+      "bytes": 290734,
+      "sha256": "0aadc6f3a10ba8b968ef9bc5b73172bafe4390ba2cdd294ee45bb3ff42a93a5a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2024/prova.pdf",
+      "bytes": 832433,
+      "sha256": "2ee1d58bfb313fb00ebd6bfe2576c77e4095b5c707ca2d4b453d6d7c25d8a5bb",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2025/gabarito.pdf",
+      "bytes": 104742,
+      "sha256": "4138c92ec4fb94ab9585a861b75e6f2e6431ac95edfc864adc00ad54fd0b7eab",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2025/prova.pdf",
+      "bytes": 877286,
+      "sha256": "89f943f0b3fea5475f70342e1ed782d3e9529d7628a3963cde6b11420aa0fd23",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2026/gabarito.pdf",
+      "bytes": 105900,
+      "sha256": "75631e5cdd1ee2ff4aeb6d9e1adceda0fc15b998ad7056450bde670c52c19f41",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/coluni/2026/prova.pdf",
+      "bytes": 782687,
+      "sha256": "4eb1f0cdd56bf5021e3340a14c644e4b38fc204a53fc60af9860d185c6a76927",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2006-1/gabarito.pdf",
+      "bytes": 3786,
+      "sha256": "fb86f0c3aee25d048ded64e62afd5f83a137a37de724a3e0ccd08dd228254d9f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2006-1/prova.pdf",
+      "bytes": 684896,
+      "sha256": "fa297ad0dce3fa5e5126c1182f73634dfde272cd111bb30fbe5201f20597b9cc",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2006-2/gabarito.pdf",
+      "bytes": 4403,
+      "sha256": "f31741de2cff5eafbaf1f21ac663f0635b6e799ca6f18d17047a483571db092f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2006-2/prova.pdf",
+      "bytes": 507800,
+      "sha256": "ee30be86075b8661588032def09fd6aa970347f97b8fc6ac7d7f54dfe1d36f8a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2007-1/gabarito.pdf",
+      "bytes": 5502,
+      "sha256": "d2bf8c3a33575ad7b7ce52a969b8e9899b85a5ad54dc6028a4ff15ea3bc4c1d7",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2007-1/prova.pdf",
+      "bytes": 949919,
+      "sha256": "d0c05e108864748a5d21619d54a677c22daf2ee3a6f4037a3515170ba7a34d10",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2007-2/gabarito.pdf",
+      "bytes": 34168,
+      "sha256": "39482131195956980916b19d37c2f5a3312c329da43da0964761cef589cdd9e0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2007-2/prova.pdf",
+      "bytes": 943614,
+      "sha256": "c672cc4d728278145f94164d2dac4544fa1ed1d1dcbca233282849b4d73fbf09",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2008-1-extra1/gabarito.pdf",
+      "bytes": 3848,
+      "sha256": "f38c0db0fcf6acc181b688414f8a5abe745b2545b39374cea29755117321f605",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2008-1-extra1/prova.pdf",
+      "bytes": 375059,
+      "sha256": "3fa2529df102dc6d2c62cd4afab6ee4012a20e3d8e28b581e0a40d44155e0aa0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2008-1/gabarito.pdf",
+      "bytes": 16986,
+      "sha256": "8b523c5860288598a0513516bf8a7ee12655b307d2c60bfa476518d17543764d",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2008-1/prova.pdf",
+      "bytes": 2475185,
+      "sha256": "51566b142f5c92f3322177ecab07e05ed83c71e5f260f5434a8cdf7bcd437bed",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2008-2/gabarito.pdf",
+      "bytes": 29762,
+      "sha256": "207888e54ec15d7b17761a3d2af51ddf5fa2cbd064a64f8092f152e67bbaf172",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2008-2/prova.pdf",
+      "bytes": 1828761,
+      "sha256": "987612a9abc8d85d05554d2f6bb02f46151efbe812f3dd903bd06ca9e9b913d9",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2009-1-extra1/gabarito.pdf",
+      "bytes": 64483,
+      "sha256": "d169eb5878f424ddf90c580057aa574b0ecabd60c4c2fe67ee09fe8adcd21f4f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2009-1-extra1/prova.pdf",
+      "bytes": 371096,
+      "sha256": "701e06de9cab391bca962b0f97b9edece4bad829e4a40531c2fd4c5009a73173",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2009-1/gabarito.pdf",
+      "bytes": 132190,
+      "sha256": "76e64d5e7bdaf0c4dd31e559fe59cd3c3084662297b4c3e8576d28826cf60a74",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2009-1/prova.pdf",
+      "bytes": 3429577,
+      "sha256": "6d81bf00325eca801c75484a9df687ff8aeed9b9b829e27bcb78cc37bdd21b77",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2009-2-extra1/gabarito.pdf",
+      "bytes": 88610,
+      "sha256": "e126d0220c2040d94ee25339705cdf47e4b83bf2ffa401b647c009d010e242eb",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2009-2-extra1/prova.pdf",
+      "bytes": 1304245,
+      "sha256": "737c13b9292023708eac004ae1c84d2f73ee3e32c49e227dea5fef615739203d",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2009-2/gabarito.pdf",
+      "bytes": 83610,
+      "sha256": "83ddf8e1f520152a112ddbf894771aaa2f50e495d226862948a2f4d314066ccb",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2009-2/prova.pdf",
+      "bytes": 2484687,
+      "sha256": "e5a0cef81087fe978d21829056bb644f6403f6442e62400aa8fc51acd9d06954",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2010-1/gabarito.pdf",
+      "bytes": 62909,
+      "sha256": "416e6b0b7227715e475902e4524418edaf92e13952b514a20a61f0c2ace6720e",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2010-1/prova.pdf",
+      "bytes": 1532009,
+      "sha256": "0b51714761c26156a7e7a78d6dbf3967c85ec6a63de8a4b648bf6902becdeba1",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2010-2-extra1/gabarito.pdf",
+      "bytes": 34363,
+      "sha256": "aba627e9ef46b25fd441e0fb38dda1cce0074970864501a9ad441d2b8696a866",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2010-2-extra1/prova.pdf",
+      "bytes": 564653,
+      "sha256": "311fcc656e3630c62843ce7c23a5b6515ab92b01ad916aa75edcf3507f840c9a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2010-2/gabarito.pdf",
+      "bytes": 34103,
+      "sha256": "1dc709bdf92309f1b8ba33b33ca4cabc0341bc49ccece69d442357a60cba08ad",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2010-2/prova.pdf",
+      "bytes": 3259795,
+      "sha256": "6516472cce765f013fd3b8d1a9fb5d338e8cc912a3319922faf6a6267f355996",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2011-1/gabarito.pdf",
+      "bytes": 32352,
+      "sha256": "59170a56cd4fb063afc86a504d6f298b5d87d80458b5a65cd9abbc3928dc21d6",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2011-1/prova.pdf",
+      "bytes": 2385649,
+      "sha256": "8b1598b73e23ef9b1f4c2753c5f450417295466afb9edce9e4167ffada88ea25",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2011-2/gabarito.pdf",
+      "bytes": 26917,
+      "sha256": "0c0a54064789490c001478934c475de0e61002de543f0faa795322dd9c665275",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2011-2/prova.pdf",
+      "bytes": 3134092,
+      "sha256": "eacadb1e4a75e7f8042851bbbf77731f63c2705c541590bbe31b10eea18eea3f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2012-1/gabarito.pdf",
+      "bytes": 24240,
+      "sha256": "0ccb3dc75675e91de515230b3cff5bbcdbbb37adf1f3d4a5428775e8472e3c6d",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2012-1/prova.pdf",
+      "bytes": 3027307,
+      "sha256": "e76d5d65de08eb6210a34d7c9146d6d3e9ab7b694f86f09779b71f52490427c2",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2012-2/gabarito.pdf",
+      "bytes": 24849,
+      "sha256": "f1ee501d88e3df6bc31ecf5e4f708748c7357d96b1da8bcc7b465a3ad54ccffc",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2012-2/prova.pdf",
+      "bytes": 4042721,
+      "sha256": "f217349ddcef0a7cf55145d70db9d84db7b1fcd18106963d9ca8ce5093d79a1d",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2013-1/gabarito.pdf",
+      "bytes": 24355,
+      "sha256": "5555efa08458df35b8e08f5836cfd6a43cbe8b31ae70f7a4a00dfef3efbf2e70",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2013-1/prova.pdf",
+      "bytes": 5798680,
+      "sha256": "72f18d275d9a88dcbb5dfc758f19b29637610b7a3b73cde35cde4517849042a4",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2013-2/gabarito.pdf",
+      "bytes": 58847,
+      "sha256": "52c933069cbbb6f7ce0c1d4a8b6a36f003bd384d02b0b42e6c59a1d4ead57b31",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2013-2/prova.pdf",
+      "bytes": 3106393,
+      "sha256": "41accf8702d8fc37a18919fadf17a32103b2849beb9d11ea7ba71b4c06276097",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2014-1/gabarito.pdf",
+      "bytes": 125577,
+      "sha256": "92bc48a22ab6b8baaa02f9e5b7c17aef731cd37f67824d327ba47a51b5eaef46",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2014-1/prova.pdf",
+      "bytes": 3252219,
+      "sha256": "aef08331ea1cba5ae974200562c15b3684190d20ce9e560e0b8b716ea1765461",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2014-2/gabarito.pdf",
+      "bytes": 47045,
+      "sha256": "d324fb6b40b67db77717050dee7ce5e09d3e3f504ffc91108f28451d1645e84c",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2014-2/prova.pdf",
+      "bytes": 2149493,
+      "sha256": "f8554abfdab7842d17f1c306b9aa104aacec5ab093b78dc94f3170910395926b",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2015-1/gabarito.pdf",
+      "bytes": 74745,
+      "sha256": "81880ab430940425aa3a7907e2e7091edf78511e0ef7d615fa3ec0134f0abdca",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2015-1/prova.pdf",
+      "bytes": 2905773,
+      "sha256": "60041ac1e74c8d4d1c244a1d1bb21a0bd26d9debf32c4a54c3fe53eef6c424ea",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2015-2/gabarito.pdf",
+      "bytes": 124201,
+      "sha256": "15493cee1976f1c1e07552e8fa3a67ba61dbbc8731a7f078a3d170b7bd0199c2",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2015-2/prova.pdf",
+      "bytes": 2108315,
+      "sha256": "97fe6947ca46bc12bb4a98781a9c17c3a83c8b1401b4f08c9a68dc5ab33975ed",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2016-1/gabarito.pdf",
+      "bytes": 163015,
+      "sha256": "b9f3a67b6be9efbe7a3f465627aa10ed8ee7dab7b85e6a4c6bed49c80e7fa553",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2016-1/prova.pdf",
+      "bytes": 3083908,
+      "sha256": "f2d77beaa112d90a70354e447941c7646fc41f879bd7d829786dc05a622c26a1",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2016-2/gabarito.pdf",
+      "bytes": 72822,
+      "sha256": "70b50a08e5c08d9f3729336c4778589d5a010939002f68e71f0b4121bfa11087",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2016-2/prova.pdf",
+      "bytes": 1923047,
+      "sha256": "f27a0d0391d4bbe28f0e7fab01f8464167265680bfbb33b73bcbcb9eec997c09",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2017-1/gabarito.pdf",
+      "bytes": 98055,
+      "sha256": "0554f61d57c2c63a9625e694cd47ee1b0ab23e6e9c3603175af041d87d0667c4",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2017-1/prova.pdf",
+      "bytes": 1891571,
+      "sha256": "d1604110ff1df1dc22d67ca1e6c23a5eac22ceff5ad1f064071126c9609f4cc8",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2017-2/gabarito.pdf",
+      "bytes": 130439,
+      "sha256": "c6adb0d65cf84a298c3887e4a84038b6e97be6730a916f9c70f126dc68bdfac0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2017-2/prova.pdf",
+      "bytes": 2519668,
+      "sha256": "cdec5bd7d83adede931224267fd333e28449fb02e9655b05ea1df07892337709",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2018-1/gabarito.pdf",
+      "bytes": 67180,
+      "sha256": "4dbb6049781eb7a061d4e6a1fbd1f9c24edd3dae21c6b0c4809495ed972cb8d0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2018-1/prova.pdf",
+      "bytes": 1901670,
+      "sha256": "9b306c938949546bece133f1b12ddb15d8f49e8d06738c6a2124d01b44306f1f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2018-2/gabarito.pdf",
+      "bytes": 72944,
+      "sha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2018-2/prova.pdf",
+      "bytes": 1380933,
+      "sha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2019-1/gabarito.pdf",
+      "bytes": 129911,
+      "sha256": "051ea25b54bb0a00a31da938d5c7f6021089687b4910357fd6cff5ab3846d98f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2019-1/prova.pdf",
+      "bytes": 2335968,
+      "sha256": "6ac0aef09ce612768edea553c9187a8608932a08bfd7f2d489022726e0499231",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2019-2/gabarito.pdf",
+      "bytes": 130071,
+      "sha256": "3f5d61b5edcca01a9abdc22d867780b162d36fbc4372a46e5e85e4f247ac8008",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2019-2/prova.pdf",
+      "bytes": 2053035,
+      "sha256": "6214eaab3d242b5ad2203e7c01043244f690b1d6ee4f5b6aace504ab0d13394f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2020-1/gabarito.pdf",
+      "bytes": 77767,
+      "sha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2020-1/prova.pdf",
+      "bytes": 3292092,
+      "sha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2022-2/gabarito.pdf",
+      "bytes": 80991,
+      "sha256": "0e70376fedc01865700428f8478dbd60d6771fcc3a273ed5d5a10309757c0229",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2022-2/prova.pdf",
+      "bytes": 2664049,
+      "sha256": "4ce97322a6ba1a98e948a11d19d8fdd62ebd40749b8b384ade71262cf891e752",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2023-1/gabarito.pdf",
+      "bytes": 58504,
+      "sha256": "648e3e9f84c1c8f056e629d635b78b89321afbe6d86a5378b7b51afd0781e88e",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2023-1/prova.pdf",
+      "bytes": 3248219,
+      "sha256": "e88907b015c024d2e17a0f6a3580a94b286c46b24073535e277aea1cb2d07d71",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2023-2/gabarito.pdf",
+      "bytes": 59125,
+      "sha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2023-2/prova.pdf",
+      "bytes": 2407974,
+      "sha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2024-1/gabarito.pdf",
+      "bytes": 42674,
+      "sha256": "f26127a2b2df31eafa57a4d770035411189e276df7089f07a41fb4c6e822dfa7",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2024-1/prova.pdf",
+      "bytes": 1471209,
+      "sha256": "e332dcb18b302241d3da3c4f8428465c332a554458ecd78f14b3efdde667498f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2024-2/gabarito.pdf",
+      "bytes": 56863,
+      "sha256": "c5ad8ad9ed04efae88868a419d71d06c02aaa6232b2f1151d9523c72238422c1",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2024-2/prova.pdf",
+      "bytes": 1830485,
+      "sha256": "d057529a7101cafac67a76fd099215a0d917501e54b183ab03d23a38d798c761",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2025-1/gabarito.pdf",
+      "bytes": 42688,
+      "sha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2025-1/prova.pdf",
+      "bytes": 1054348,
+      "sha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2026-1/gabarito.pdf",
+      "bytes": 44818,
+      "sha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2026-1/prova.pdf",
+      "bytes": 1201573,
+      "sha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2026-2/gabarito.pdf",
+      "bytes": 44824,
+      "sha256": "0ad7c2544be28ea0beb22468c98333276026400ce073663bdc460c789f05c708",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/etec/2026-2/prova.pdf",
+      "bytes": 1692457,
+      "sha256": "c0804a31a4f951f94668a2c4714ea085b343e6d155b81ebbd00014e635178a6a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/fuvest/2025/notas-de-corte.pdf",
+      "bytes": 71117,
+      "sha256": "d0b9c2b079e13876172f1de4bc533c167521be054790344c843ecd58821e911f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/fuvest/2025/prova-v1.pdf",
+      "bytes": 8978910,
+      "sha256": "f512449b47ac31abe1ae00d5f88fb14478c7139fa1db137145b7e33cec1b97c8",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifce-fortaleza-2023-2/gabarito.pdf",
+      "bytes": 118019,
+      "sha256": "e050de5a3b239fb0f0431590241152bc49f23bdbdf6e316a6c88dda8dee39f39",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifce-fortaleza-2023-2/prova.pdf",
+      "bytes": 1296522,
+      "sha256": "39750939d05947ab05ea98b37356339b069c5459cc955d01b14f852f9812b553",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifce-fortaleza-2024-2/gabarito.pdf",
+      "bytes": 174755,
+      "sha256": "9e824a7626df1d5f3d1a08aadc434f721ab8aa3e5d140b47a430cdda5b657e6f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifce-fortaleza-2024-2/prova.pdf",
+      "bytes": 1040824,
+      "sha256": "d00e9677eb0faec760a37c0f727dd1872b49a3e6494bc68a047fd47026799f77",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifce-fortaleza-caucaia-2025-1/gabarito.pdf",
+      "bytes": 126208,
+      "sha256": "ac986ae134eb2c724436457a9e345291e0b53a8430b77dee8b6d46a386448dc8",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifce-fortaleza-caucaia-2025-1/prova.pdf",
+      "bytes": 978961,
+      "sha256": "92ddabc8337bf5725538b99ab9d7bba2a42479bffd5bf831e6142606701e075c",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifmg-2023-1/gabarito.pdf",
+      "bytes": 410604,
+      "sha256": "35f84bb75163ef8b656cf9d5b6d285e412b6318559b0499d592701af778a8815",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifmg-2023-1/prova.pdf",
+      "bytes": 5638671,
+      "sha256": "e1637b1df6826fa28c8fb0bbd0ecc22b6b3ed24e356976702206a9bce50eb55c",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifmg-2024-1/gabarito.pdf",
+      "bytes": 449004,
+      "sha256": "462f1b8b7680418e5cb22dd027e9a6d3c9ac5afe349f5f28ca591a8647198770",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifmg-2024-1/prova.pdf",
+      "bytes": 3594829,
+      "sha256": "0b5ccd9ea65b6228f277ff5444a93f4c51fb515ea951d3e36d5bb97b79ff97df",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifmg-2025-1/gabarito.pdf",
+      "bytes": 433132,
+      "sha256": "af454cc653241b6527092e1c1934e6abb9b03adb0a72056dd722cad4cc5bf279",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifmg-2025-1/prova.pdf",
+      "bytes": 2739912,
+      "sha256": "df6eeb6f964c94cc3a41a7247063e06187dea4e6d53937eb10ccdabae96b6d63",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifmg-2026-1/gabarito.pdf",
+      "bytes": 53926,
+      "sha256": "1b86fa124b79a33e1b09eb56e0171c8ea911def538bcb407945bff171a96c48f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifmg-2026-1/prova.pdf",
+      "bytes": 2620596,
+      "sha256": "ebaa2499ad191c23b1eea5770893af4fda75775c6ed2b6f46a4b5892af2b988e",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifmt-2025-1/gabarito.pdf",
+      "bytes": 179597,
+      "sha256": "2caf2dffed8ab2a05179392249ff60bfe15d97d71f44767eb089fd5294d0fa2e",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifmt-2025-1/prova.pdf",
+      "bytes": 695316,
+      "sha256": "9d869ba65e668a25a19ed3d00bbf4ea75ef5d1577fc60458612837cbb14a6230",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifmt-2026-1/gabarito.pdf",
+      "bytes": 161822,
+      "sha256": "9b78344afcce91adb0e86d7a09d06346a1fd56278ef05cc1d44acc48c2f1fa9f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifmt-2026-1/prova.pdf",
+      "bytes": 3000985,
+      "sha256": "b2125eac5daaa0e0bed3d40928289e53eecd3e78a3f5fb1052a13b6457efeac3",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifrn-2022/gabarito.pdf",
+      "bytes": 124852,
+      "sha256": "35cd549542acd3c2c0fe02b35f447caacf61e74d86c07c83019cb6fa4faa403c",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifrn-2022/prova.pdf",
+      "bytes": 783072,
+      "sha256": "ffcfa54064c148c026d99c2a73ada3fdfee4a5c78d664ba4db06c7a8ffdf1bfe",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifrn-2023/gabarito.pdf",
+      "bytes": 213032,
+      "sha256": "57d989e8df89a59f819237e8bbd4b0e0975db341a250bfb91b9f48fecca180ac",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifrn-2023/prova.pdf",
+      "bytes": 720150,
+      "sha256": "99caba7636afdc10163c5e0bfddc0e1adbcf62443173e0196f08672b485772d8",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifrn-2024/gabarito.pdf",
+      "bytes": 91870,
+      "sha256": "6a1dfb5a8123641a9da011a0c80cbdfbabd8d390f69eece83463fc2fb551e8b6",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifrn-2024/prova.pdf",
+      "bytes": 571603,
+      "sha256": "8bf3f5931abdfb0e07868d061d9c30b877e3dd4869d5e4481f2cf5044b770020",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifrn-2025/gabarito.pdf",
+      "bytes": 89401,
+      "sha256": "878446a04760fd5f70d341f57ad307ceb08c3e73d574e698b93fcbb101efa756",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifrn-2025/prova.pdf",
+      "bytes": 648195,
+      "sha256": "3f35c8024ea875051f99cdf82c2271ceb9ce92d1de9e7f9222f6fe4ddd24cdc2",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifrs-2025-1/gabarito.pdf",
+      "bytes": 394509,
+      "sha256": "1be8d89767652aa68357f5f70c11fef956d17c1f30081a6eb69ad9cfa7192882",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifrs-2025-1/prova.pdf",
+      "bytes": 1758798,
+      "sha256": "3c54091520a178e2bfcdf619b2b4114c502c19d6fd3dd24a9ea0cdf66f3b75e1",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifrs-2026-1/gabarito.pdf",
+      "bytes": 385042,
+      "sha256": "b4b5a5acda2a5e4bfa87c93e6e5097b18e14cca68065b902df657b6650e05b4c",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifrs-2026-1/prova.pdf",
+      "bytes": 1180696,
+      "sha256": "9ffe4ac7056d7981ef4e34c077e9ffdee8132333d8b55852100d79a4c1f2cfdb",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2017-1/gabarito.pdf",
+      "bytes": 63685,
+      "sha256": "b4ebfb59188643e3dc19b1b6f94cb17f2c468fa200e26e745837a1cce1bfb441",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2017-1/prova.pdf",
+      "bytes": 8120716,
+      "sha256": "72be95701d65b77707d5ba2656fa025d08225f3c77bf2282c128a130f85ca918",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2017-2/gabarito.pdf",
+      "bytes": 250888,
+      "sha256": "4f111d13ebe9c793e8ed04c9785e12c90447a2c20d698536d99c08821b7a6105",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2017-2/prova.pdf",
+      "bytes": 5864059,
+      "sha256": "48ac4b53530c7483a423c3f94c7f146be626b2a9592aa3009fd76ba76001df13",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2018-1/gabarito.pdf",
+      "bytes": 250732,
+      "sha256": "3b7f149933254cacbca174c8e6872ed8df49474048b2401c0cee3bf8d52b96ea",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2018-1/prova.pdf",
+      "bytes": 8190948,
+      "sha256": "29f31c065daab4f2b8f0088ac8f684b0a2d6b03c7395061c46b1da74b64d06e0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2018-2/gabarito.pdf",
+      "bytes": 247108,
+      "sha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2018-2/prova.pdf",
+      "bytes": 15110541,
+      "sha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2019-1/gabarito.pdf",
+      "bytes": 250854,
+      "sha256": "248f216074a4e24b2f1defce392ff75525d04cfd5eb263e5267d3258dd64b282",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2019-1/prova.pdf",
+      "bytes": 2641064,
+      "sha256": "4b0b102e9f3bcc612d97ca0fb1a463be26f010daf7752de7bf0a43e332268da6",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2019-2/gabarito.pdf",
+      "bytes": 251921,
+      "sha256": "c896ade1203a392b21597844e9adc29fb616b07b8031ad47307d5de0a714d954",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2019-2/justificativa-anulacao.pdf",
+      "bytes": 233631,
+      "sha256": "7802aa731719c2ff850d023c92c830609e44a3fcc3465e11366b0c5cfbaf47a7",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2019-2/prova.pdf",
+      "bytes": 8997019,
+      "sha256": "2f431ae9c18df35ced22700cb9019d34c8425bb187fdcec68ddd1f1fb312c3bb",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2020-1/gabarito.pdf",
+      "bytes": 244868,
+      "sha256": "27966e267681f29d6ad25f82b1724e6228472c4eeb5e06af54da3f6d335aa4a2",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2020-1/prova.pdf",
+      "bytes": 768443,
+      "sha256": "689e05c1d51bbfa8fafe68eb113f0ca5a1d20e5f0104d76514eaaa620a10d749",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2022-1/gabarito.pdf",
+      "bytes": 103051,
+      "sha256": "e5da03943e50c8e192a125f933e71cf60f49839bc221e3d97d08e087fd2a456a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2022-1/prova.pdf",
+      "bytes": 1169768,
+      "sha256": "2eb7b2ef2e7c685beb107fe3a4291e742b28e21f8c0893fc29b53d92ca584660",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2022-2/gabarito.pdf",
+      "bytes": 94279,
+      "sha256": "835c53c9ee48cbc603f39d66ca4a8f21e573c9d097ba21f0fca5d4c1e127fda7",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2022-2/prova.pdf",
+      "bytes": 509360,
+      "sha256": "c2e097302cad7319b7b5997ed2448294c1b623d52a1df5f4ac30b4eb7d7935cb",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2023-1/gabarito.pdf",
+      "bytes": 92454,
+      "sha256": "b464cd114045d12b020aea99d2a7aa3e2a76f0caef074682b1b06c7213d427ad",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2023-1/prova.pdf",
+      "bytes": 1110837,
+      "sha256": "a19a65310addb90076a7e95af6a28d0dc5388b408f250f0e1ec87cf37d868af5",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2023-2/gabarito.pdf",
+      "bytes": 98190,
+      "sha256": "ab3f931fa6724f7776d83535e92592fb67113daf35eb968234e8a2b0716a0e4a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2023-2/prova.pdf",
+      "bytes": 837412,
+      "sha256": "7a2a0e42aeb7bd4fb1e15ece686ed2ba94fa565727e40d5d0f2604a8796fc9cf",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2024-1-itajai/gabarito.pdf",
+      "bytes": 87626,
+      "sha256": "2784c7e6e254a697eb0ec1d125d336ed7db0d1e51aa019bb00809972cdf0adb3",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2024-1-itajai/prova.pdf",
+      "bytes": 732715,
+      "sha256": "09f8d760510db04e81031ad6c9bdda8c250750fd7ae1edfca637086a412e48aa",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2024-1/gabarito.pdf",
+      "bytes": 75944,
+      "sha256": "9c4615bf568c43d376cf4d911f730309350f2338fdc371cce48a3ed2a33c1802",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2024-1/prova.pdf",
+      "bytes": 1242001,
+      "sha256": "71b9753d0c6e095f72e12fa1e4f3fd363cdaad869bfda29b0c6402fb911638ed",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2024-2/gabarito.pdf",
+      "bytes": 69021,
+      "sha256": "cce1ae972690397553a5de159caaa41a27ecac35b14dbc3f1c634b4483936076",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2024-2/prova.pdf",
+      "bytes": 9489398,
+      "sha256": "ce4ac098275293fea6558544aff564407240b4e0b32ee909a3af735094aba4e4",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2025-1/gabarito.pdf",
+      "bytes": 82236,
+      "sha256": "70df3dbd86a601d509e22381bc654f950740b174bcd0f47b58e869987e78cec3",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2025-1/prova.pdf",
+      "bytes": 1731432,
+      "sha256": "26c33198300780a832a19d4c68ac563c3576c3a0cd5bcc710ca27cd2aa441b5d",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2025-2/gabarito.pdf",
+      "bytes": 74671,
+      "sha256": "1693fdd99bbcc062ceb43695c6dd5c047746156e5cfe10cf9f224b87d2c41d85",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2025-2/prova.pdf",
+      "bytes": 2222701,
+      "sha256": "8838f3533374193d3ed72d217e5bed2785a7e147dbe59481d64a80fe25de70d2",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2026-1/gabarito.pdf",
+      "bytes": 159915,
+      "sha256": "01ac684d6378c365550a0dc67a281168be0bb72be93829bd56f49f1497e79a94",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2026-1/prova.pdf",
+      "bytes": 1279916,
+      "sha256": "0bdbaabffa7774f4d28dc58e19dd50f8813f1d044c02205bf55aae7c77aa8dc6",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2026-1/resposta-recursos.pdf",
+      "bytes": 282244,
+      "sha256": "93900dcf91c0034654dc2c8599a0fcfcfa11de38ffab5a9b9052773b036c4a96",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2026-2/gabarito.pdf",
+      "bytes": 166790,
+      "sha256": "647e8d90ed65211cbcafc157bd2678def71250e32acff7076974f846e055d9ad",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2026-2/prova.pdf",
+      "bytes": 1942625,
+      "sha256": "5c4341cf8cbfcd63ec7245bc1bfe3062698f48a075ccccaa10ad7504956acf9f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsc/2026-2/resposta-recursos.pdf",
+      "bytes": 180025,
+      "sha256": "74c83e2822a4562f01044565e07ab4d400cd1624a6bfd6014e5916f595a3a5a0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2022-1-manha/gabarito.pdf",
+      "bytes": 123292,
+      "sha256": "4ada65158ad503d3ee724e88d649c114f51a2ce8f118e7c0038717ab6fd7c8d3",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2022-1-manha/prova.pdf",
+      "bytes": 1887514,
+      "sha256": "aade2e4dfce6eb565886bef5c683c427f689d98904661d29f9ae5b1ee485e7bc",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2022-1-tarde/gabarito.pdf",
+      "bytes": 122904,
+      "sha256": "53446f5728bab948dbbc49a78a95867caa181c9ba1ac6558482cf2d6bde692f7",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2022-1-tarde/prova.pdf",
+      "bytes": 2140041,
+      "sha256": "cd428fe602b116417be71769926072b31a0bdc3d0cfe385dddc94b5e2d1f4df9",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2023-1-a/gabarito.pdf",
+      "bytes": 122359,
+      "sha256": "11d424a7aa1e08ede420398f838a8152fb440f45479de2495470858680f12253",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2023-1-a/prova.pdf",
+      "bytes": 1636462,
+      "sha256": "b0106897c67254ebb8d0ef5572b08066efb47d7d4e83917d4a9917346dfc2ac9",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2023-1-b/gabarito.pdf",
+      "bytes": 123554,
+      "sha256": "11a6a18cde0c12fffc86bc3828ffc2b810deb162c702e05610a0d228a081690e",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2023-1-b/prova.pdf",
+      "bytes": 2199818,
+      "sha256": "e1cc3a793e83d52420ed3729e36a51e4435728a033dda5cd6ee44cd4605505ac",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2024-1-a/gabarito.pdf",
+      "bytes": 80289,
+      "sha256": "36a225665055537e0f7c3dd7561d3cc60037a826d9184538419f9c84eb0cbe19",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2024-1-a/prova.pdf",
+      "bytes": 1331773,
+      "sha256": "61b3b98a3e48abfccf93af9831e66ce9954593bb2ee6b065ca91dbb0a9ddb995",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2024-1-b/gabarito.pdf",
+      "bytes": 78289,
+      "sha256": "b02d6875d33fb7798430c01775ec621a8484367b2406db5c6907a98bb0de97ec",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2024-1-b/prova.pdf",
+      "bytes": 1917755,
+      "sha256": "4cfb13ae163935249dadfdab779488a05d4f62c6237a66240d6b45d8286d79f3",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2025-1-a/gabarito.pdf",
+      "bytes": 40523,
+      "sha256": "0ee8cadc94fb0ce37c9ad7d048771b25cb79c9c8ed1c7b70b2ac2dbd8c2e7073",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2025-1-a/prova.pdf",
+      "bytes": 1962294,
+      "sha256": "629f84ad0a31cebf4c47822f45f8d1d10f2bf9135284ae5f8ba8d744bc7e056c",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2025-1-b/gabarito.pdf",
+      "bytes": 39136,
+      "sha256": "0e0e133086b312969f05bd5f06566d9269db94ba8e6b8eed49a0347e15a91b3a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2025-1-b/prova.pdf",
+      "bytes": 1207234,
+      "sha256": "7edb90de27ab52d6e46de9808fab955542083711aa4b328a9bdf595897829d60",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2026-1-tipo1/gabarito.pdf",
+      "bytes": 121946,
+      "sha256": "30ea755721c4819b541c99f705dff05956503771be1d64bf9b822a2dd0ef8391",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2026-1-tipo1/prova.pdf",
+      "bytes": 1079612,
+      "sha256": "df148d605407005741d75a32dcc8fa12bade6feea27ecb2b7ef9ab431bbb0965",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2026-1-tipo2/gabarito.pdf",
+      "bytes": 121946,
+      "sha256": "30ea755721c4819b541c99f705dff05956503771be1d64bf9b822a2dd0ef8391",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/ifsp/2026-1-tipo2/prova.pdf",
+      "bytes": 1075741,
+      "sha256": "adbe58b9599f8f5e859860dce274e56b0b95ca094c8eb084bc4e885f38cca57a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/uel-2026-espanhol-tipo1/prova.pdf",
+      "bytes": 3703627,
+      "sha256": "3b13e656d3dbf1be22210816a668e78d5c68694d62a4838f48e5a6b04d4442fa",
+      "assinaturaPdf": false
+    },
+    {
+      "arquivo": "public/acervo/uel-2026-ingles-tipo1/prova.pdf",
+      "bytes": 3903338,
+      "sha256": "7f38ea42c8d194f88d2c26b8bc24bf924456e703e77b6aa100121b3425f26d48",
+      "assinaturaPdf": false
+    },
+    {
+      "arquivo": "public/acervo/uerj-2017-eq1/prova.pdf",
+      "bytes": 1348963,
+      "sha256": "108f5563a12d69efb515df09b82770583aadb9a0d79963e76abdb2881ca4d6ca",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/uerj-2017-eq2/prova.pdf",
+      "bytes": 2339138,
+      "sha256": "572934efd1d3d5e10b5c2928fa25afb25e5d5589e7fa5fcbe2b224a10cd72365",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/uerj-2018-eq1/prova.pdf",
+      "bytes": 2113722,
+      "sha256": "a0b1ca6e4f789bb3bd249faea8a9ee7e5651eb10cedf4fab0333858959d84c50",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/uerj-2018-eq2/prova.pdf",
+      "bytes": 2206509,
+      "sha256": "b8c4d8b12ab3df98ed57abbc6e384775cc885bb8f55cdd0324a1037ce66dd416",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/uerj-2019-eq1/prova.pdf",
+      "bytes": 3741742,
+      "sha256": "85da3f061fbe1691a32a31e156182f0cefca6786e789d9bbfb9471e50da9d4ef",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/uerj-2019-eq2/prova.pdf",
+      "bytes": 3745424,
+      "sha256": "014f10674114426826eebb3ef41e67a569350191143db28ff79e9424c5eb2556",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/uerj-2020-eq1/prova.pdf",
+      "bytes": 4194138,
+      "sha256": "a7cd970a70d275f9d72b61505f8afb2f33507137a1b8b781f5c789742393e3b1",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/uerj-2020-eq2/prova.pdf",
+      "bytes": 1738480,
+      "sha256": "3c73c2149d5a2f64f31e2b91bfc3f81ace6d6522c0ae6cc5898b9f45088f9bb7",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/uerj-2024-eq1/prova.pdf",
+      "bytes": 8024521,
+      "sha256": "26d08adf5118a3b20f8beaf2e70b317d313924ac9389ae1745f8cf7c56b282a6",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/uerj-2024-eq2/prova.pdf",
+      "bytes": 8580612,
+      "sha256": "53a5922e903438655bdc39f666b5303f9a5ebbc5d55b432421b39893ae704de6",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/uerj-2025-eq1/prova.pdf",
+      "bytes": 13857566,
+      "sha256": "d2628c8e72a097fb060e5aead98c7e115e2ee654ea02712f3166509d66e8c7de",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/uerj-2025-eq2/prova.pdf",
+      "bytes": 8395168,
+      "sha256": "a93cda2ea1c0341d3e5640834b51bca4db29837be0fd2854afb2ded29405b8a9",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/uerj-2026-eq1/prova.pdf",
+      "bytes": 7752876,
+      "sha256": "05848496b1c8827919a9cc2923757a035076d769640dfaa324e3a28d0e4c17e0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/uerj-2026-eq2/prova.pdf",
+      "bytes": 5344631,
+      "sha256": "96b5836f5a75d0b7ae306c3f9cf246bce3bda0c9bf7131f715edb3d112837f66",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/unesp/2011/regular/prova.pdf",
+      "bytes": 2642382,
+      "sha256": "ba13874c34bf1b756168693fa4c495a5f025da8e10f011c036d813b465416bc1",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/unesp/2012/regular/prova.pdf",
+      "bytes": 2382981,
+      "sha256": "d0d80dcc942b228609ebe21a77092e9e294b79b0b70830a1624aa35254013638",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/unesp/2013/regular/prova.pdf",
+      "bytes": 1498090,
+      "sha256": "907764351ceb3041a4dcffc0521522ea57cc59b0c005535eb80bd5775c9ea2e8",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/unesp/2014/regular/prova.pdf",
+      "bytes": 2023642,
+      "sha256": "9e74645fbf7ada2cf7f555cf67aab24611d66da86f31e56065f86c2772a1fceb",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/unesp/2015/regular/prova.pdf",
+      "bytes": 2041159,
+      "sha256": "ef1e756a9b63307963017e3cce6f2e2e39af5f7854dd0e6af80e0d58ee22e9f4",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/unesp/2016/regular/prova.pdf",
+      "bytes": 1379346,
+      "sha256": "786786fac3551c054d23d61ebe2de3c1af5e0b4a787ea224a1e2b6ecaa4fc6c0",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/unesp/2017/regular/prova.pdf",
+      "bytes": 2043374,
+      "sha256": "d9daaeab4048a99314b584dbfa9aeecaa96198b8fc6f441942bc7023f7094a07",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/unesp/2018/regular/prova.pdf",
+      "bytes": 2936990,
+      "sha256": "72619edc7c4eece0489ca86a23177e85dee944d9de479e90a1031616f616f66f",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/unesp/2019/regular/prova.pdf",
+      "bytes": 3152213,
+      "sha256": "dbeba9650b1feb964a5d84783780ff702b671540c6cb17721c70a1082376b1d5",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/unesp/2020/regular/prova.pdf",
+      "bytes": 3523897,
+      "sha256": "6f85d56ada8bd57454ccdde39001f093abcf7a5efaa5c7ca1d4d2e1bac0d593a",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/unesp/2021/biologicas/prova.pdf",
+      "bytes": 2368573,
+      "sha256": "5fd2a9fcae7bd9bfae4807975b1d75ab8d181534f88c286c14ff70784a7d2590",
+      "assinaturaPdf": true
+    },
+    {
+      "arquivo": "public/acervo/unesp/2021/exatas-humanidades/prova.pdf",
+      "bytes": 1958714,
+      "sha256": "e60f09850e68739dd466c3cf131e830a9c905e3e20972e9c12d4e259caf77cd6",
+      "assinaturaPdf": true
+    }
+  ],
+  "pendenciasEnem": [
+    {
+      "id": "enem-2024-regular-d2",
+      "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2024/2dia/enem2024_2dia_prova_azul.pdf",
+      "sha256": "01c869e9e2760e73341fbbc8adb40e23d9fa5d1e8dbf729f2e95c09444cd69da",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD7.pdf",
+      "cached": true
+    },
+    {
+      "id": "enem-2023-d2",
+      "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2023/2dia/enem2023_2dia_prova_azul.pdf",
+      "sha256": "f69eafc76ed3cb94c43d9b6f533f12f71e5d9a2d9c8767d618c6254ed71c2bbe",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2022-regular-d2",
+      "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2022/2dia/enem2022_2dia_prova_azul.pdf",
+      "sha256": "0f6e817799f8ee9f1bd4810287ca504f0c4c3d21efc568394356635e12b8ae9e",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2021-regular-d2",
+      "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2021/2dia/enem2021_2dia_prova_azul.pdf",
+      "sha256": "d9cd4ef4e9b2b8a9b1bad031ceda4af7c34b8e15dfa8e520ad35c33c242c10ef",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_PV_impresso_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2020-regular-d2",
+      "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2020/presencial/2dia/enem2020_2dia_prova_azul.pdf",
+      "sha256": "8be14857f606e62076693c463f38a63a7382f27feed030d38a6a6d8c558d62cf",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_PV_impresso_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2019-regular-d2",
+      "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2019/2dia/enem2019_2dia_prova_azul.pdf",
+      "sha256": "fc119d058dd9a85738e46ea04a3b8bfa3f677b93e9a5b6a6936b542beffebb10",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/educacao_basica/enem/provas/2019/2019_PV_impresso_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2018-regular-d2",
+      "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2018/2dia/enem2018_2dia_prova_azul.pdf",
+      "sha256": "6f768388a757626f0f2d3b2b2512d93a6a00e388b5f678598675883aee920460",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/educacao_basica/enem/provas/2018/2018_PV_impresso_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2017-regular-d2",
+      "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2017/2dia/enem2017_2dia_prova_azul.pdf",
+      "sha256": "44d43ca17ab0339f8b1c6efd206348951ffdac616cd7ec92b049565f55e91952",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/educacao_basica/enem/provas/2017/2017_PV_impresso_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2022-ppl-azul-d2",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/6ee3c799-3c2e-5e6c-a310-ea8c0d6617ac/prova.pdf",
+      "sha256": "28b53d7853804ea535baba87e2cde67ae1d624aa3eea098a113bbbcf1f2a79e0",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_reaplicacao_PPL_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2023-ppl-azul-d2",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/969266e8-2421-51ea-ac66-e397ddaf7c19/prova.pdf",
+      "sha256": "09ac450450a1d3ed68619736055a9050ab47965b2d17da5c03c621082705f690",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_reaplicacao_PPL_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2024-ppl-azul-d2",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/f4f9134d-1111-5091-ae68-aba6fe7accf6/prova.pdf",
+      "sha256": "6a58e539664de1efe83bf59b078b990b22698f7192c8bd05a91d3bbcd5aa2906",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_reaplicacao_PPL_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2025-reaplicacao-d2",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/79f119c3-aa2e-55ee-a84e-6317b40b6165/prova.pdf",
+      "sha256": "3fb6e690918f0bcfa1c585dd77d88d1c8c4379744a9bbff49bea4a5a09aa54ef",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_PV_impresso_D6_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2018-ppl-azul-d2",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/b0c0cc54-2242-54e9-a173-248ab5966f04/prova.pdf",
+      "sha256": "8135da66fdcc134d5dc14fccdac08c4a8728fba587c3436a119bc8011ae07df0",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/educacao_basica/enem/provas/2018/2018_PV_reaplicacao_PPL_D2_CD19.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2019-ppl-azul-d2",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/a0da1808-a9ba-570b-a9f7-748671928351/prova.pdf",
+      "sha256": "2a29a49496bd045ef5ac67612b94e162b820f6efacfd174c92d872e8a25b8154",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/educacao_basica/enem/provas/2019/2019_PV_reaplicacao_PPL_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2020-ppl-azul-d2",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/1c3a08bd-1c1e-596a-a3e0-c14d41655f71/prova.pdf",
+      "sha256": "dd9af0dd1e11e96d117f9f3e413505e9c61a6d5d6ea4bdd66018122861eabb38",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_PV_reaplicacao_PPL_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2021-ppl-azul-d2",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/10337e53-604f-5bfc-af77-f411cc1075bf/prova.pdf",
+      "sha256": "efbe07fc9a17f932c529a60c91e975ad2c3b464610ca0fcbfb98f641fa0b578d",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_PV_reaplicacao_PPL_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2017-ppl-azul-d2",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/4fbb754c-f10a-5385-acf3-6857af87c91a/prova.pdf",
+      "sha256": "0c9a436eb6d5f790af061a1568d4a1550b20482c1f6775f60602862254587e70",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/educacao_basica/enem/provas/2017/2017_PV_reaplicacao_PPL_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2020-digital-azul-d2",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/73c50b77-4c26-5901-aa05-47375dbb5737/prova.pdf",
+      "sha256": "ddd2cf798c535fa3892f2c82eea7f08ea88d272f1a1e232df4d01cff6ba6bd6d",
+      "paginasAusentes": 96,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_PV_digital_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2021-digital-azul-d2",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/9df180c1-c426-559d-a40c-9a397dd489f3/prova.pdf",
+      "sha256": "a875236db7a294fb6f9c45d5a4adb3227bc6179cacb25cd1f037f8a411b86287",
+      "paginasAusentes": 101,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_PV_digital_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2022-digital-azul-d2",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/d3d373a3-32e6-577f-a2c5-20ea0f466fb6/prova.pdf",
+      "sha256": "c1540ab59a6a093f6a1fdca8cc700a7c64bdab0238909c5cea18e93ebf74bbfd",
+      "paginasAusentes": 100,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_digital_D2_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2025-belem-azul-d2",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/4520ee52-c578-590f-ae32-f6a0a408ca3f/prova.pdf",
+      "sha256": "3d63b84c36d9d8e2333cd4ccb9f8386cc235b1ac2de38549c0ed94aae9716982",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_PV_impresso_D4_CD7.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2017-regular-d1",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/29e64bed-8eec-5241-ac04-d41c0e97b7d4/prova.pdf",
+      "sha256": "c7e130925e3d9dddd2a6370cbfaacd5edbbc20c2b789f55522721954447038e6",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/educacao_basica/enem/provas/2017/2017_PV_impresso_D1_CD1.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2018-regular-d1",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/5d905b70-9bb6-54ab-a248-8d84fd5b77e8/prova.pdf",
+      "sha256": "ec8c73472ad5d64e69224abd20cd837c4ca4b58b607a3804dcac47ff4ffbe3a8",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/educacao_basica/enem/provas/2018/2018_PV_impresso_D1_CD1.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2019-regular-d1",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/e3cd3123-1392-5a60-ac77-45d5f30b2dfc/prova.pdf",
+      "sha256": "67d6ada3312f0964bf9fac60c28c550d96dc453f1352e4a59a06c4449a11fbc6",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/educacao_basica/enem/provas/2019/2019_PV_impresso_D1_CD1.pdf",
+      "cached": false
+    },
+    {
+      "id": "enem-2020-regular-d1",
+      "url": "https://www.acheprovas.com.br/arquivos/academicas/6e8893e7-d733-5700-a256-7490d6afd83f/prova.pdf",
+      "sha256": "ab25200a67d34c0c0be86316572d5ca5a93d7836f005fc1a90b1f195f7e5fdd2",
+      "paginasAusentes": 32,
+      "source": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_PV_impresso_D1_CD1.pdf",
+      "cached": false
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "banca": "coluni",
+  "edicao": "2025",
+  "provaSha256": "89f943f0b3fea5475f70342e1ed782d3e9529d7628a3963cde6b11420aa0fd23",
+  "gabaritoSha256": "4138c92ec4fb94ab9585a861b75e6f2e6431ac95edfc864adc00ad54fd0b7eab",
+  "esperadas": 38,
+  "aceitas": {}
+}

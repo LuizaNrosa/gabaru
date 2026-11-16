@@ -1,0 +1,1357 @@
+{
+  "banca": "etec",
+  "edicao": "2026-1",
+  "provaSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+  "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+  "esperadas": 50,
+  "aceitas": {
+    "etec-2026-1-q002": {
+      "id": "etec-2026-1-q002",
+      "numero": 2,
+      "enunciado": "De acordo com o texto e considerando que existem atualmente, no Brasil, cerca de 6,5 milhões de pessoas  com deficiência visual, assinale a alternativa que apresenta a melhor aproximação da razão entre o número  de cães-guia em atividade e o número de pessoas com deficiência visual em nosso país, respectivamente.",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 02 e 03.\n\nCães-guia são treinados para facilitar a locomoção e conduzir a pessoa cega ou com baixa visão em \nsegurança. Estima-se que, atualmente, 207 cães-guia estão em atividade no Brasil. Em uma perspectiva \nde distribuição quanto às raças, predominam Labradores (153) e Golden Retriever (16). \n\n<https://tinyurl.com/4ts3d877> Acesso em: 05.04.2025. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 para cada 29 000"
+        },
+        {
+          "letra": "B",
+          "texto": "1 para cada 30500"
+        },
+        {
+          "letra": "C",
+          "texto": "1 para cada 31400"
+        },
+        {
+          "letra": "D",
+          "texto": "1 para cada 31800"
+        },
+        {
+          "letra": "E",
+          "texto": "1 para cada 32 700"
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          2
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q008": {
+      "id": "etec-2026-1-q008",
+      "numero": 8,
+      "enunciado": "Segundo o texto, é correto afirmar que",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões de 08 a 12.\n\nCerta manhã, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um \nsusto: um bicho-preguiça estava dentro de casa. O visitante inesperado \nentrou de mansinho pela janela e logo chegou ao colo das irmãs \nTenetehar sem provocar medo. Pelo contrário, o que havia era encanto.\n\nMoradoras da terra indígena do Alto Rio Guamá, no Pará, Yzuahy e \nYwàna aprenderam com os pais e os avós que bichos da floresta não \nfazem mal nem precisam ser afugentados. A relação com eles é ancestral \ne baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem \nnatureza e animais, nada progride”, conta Josiane Tenetehar, mãe  \ndas meninas.\n\nAlém do bicho-preguiça, elas cuidaram por um tempo de um filhote de \ncapivara. “Não temos animais de estimação. A preguiça vem às vezes, \nchega em casa e depois volta. A capivara ficava com as meninas porque \nos guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram \npara ser cuidada. Quando cresceu, ficou livre e acabou indo com o  \nseu bando”, explica Josiane. \n\nNos territórios indígenas, não há pets do jeito como vemos nas cidades. \nOs animais vivem soltos na floresta. E mesmo os que recebem cuidados \nde crianças ou adultos nas aldeias podem voltar para a mata. A relação \ncom eles é de cuidado e de respeito, equilibrando a subsistência e o \nbem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, \njabutis, macacos e capivaras os companheiros de brincadeiras e afagos \ndos pequenos.\n\nPara esses bichinhos, dá-se o nome de xerimbabos, que em tupi \nsignifica “coisa muito querida”. A palavra aparece em vários registros \nhistóricos quando há a descrição da relação entre os povos originários \ne os animais da mata, sendo o termo cunhado pelos próprios indígenas.  \nNas aldeias, faz parte da cultura cuidar de tudo o que tem vida  \nna floresta.\n\n<https://tinyurl.com/3er3jb53> Acesso em: 10.04.2025. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o vocábulo “xerimbabos”, cujo sentido equivale a “entes muito amados”, é usado para se referir  às crianças que desenvolvem afeto pelos animais silvestres."
+        },
+        {
+          "letra": "B",
+          "texto": "o movimento repentino de ataque do bicho-preguiça traumatizou as irmãs Yzuahy e Ywàna,  desacostumadas ao convívio com a natureza local."
+        },
+        {
+          "letra": "C",
+          "texto": "a relação afetiva desenvolvida entre os animais silvestres e os domésticos acarretou desequilíbrio  ecológico para a comunidade indígena."
+        },
+        {
+          "letra": "D",
+          "texto": "a relação com a fauna e a flora é essencial para uma vivência harmônica na sociedade em  que as irmãs residem."
+        },
+        {
+          "letra": "E",
+          "texto": "o cuidado com a fauna local realizado pelos indígenas introduziu o conceito de “animais domésticos”  à comunidade."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          6
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q009": {
+      "id": "etec-2026-1-q009",
+      "numero": 9,
+      "enunciado": "Além dos animais citados no texto, muitos grupos indígenas ainda consideram águias, corujas, sabiás,  raposas, cobras e tartarugas como animais sagrados, sendo a onça um símbolo cultural e espiritual, vista como  a guardiã da floresta. Sobre os animais citados, é correto afirmar que",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões de 08 a 12.\n\nCerta manhã, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um \nsusto: um bicho-preguiça estava dentro de casa. O visitante inesperado \nentrou de mansinho pela janela e logo chegou ao colo das irmãs \nTenetehar sem provocar medo. Pelo contrário, o que havia era encanto.\n\nMoradoras da terra indígena do Alto Rio Guamá, no Pará, Yzuahy e \nYwàna aprenderam com os pais e os avós que bichos da floresta não \nfazem mal nem precisam ser afugentados. A relação com eles é ancestral \ne baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem \nnatureza e animais, nada progride”, conta Josiane Tenetehar, mãe  \ndas meninas.\n\nAlém do bicho-preguiça, elas cuidaram por um tempo de um filhote de \ncapivara. “Não temos animais de estimação. A preguiça vem às vezes, \nchega em casa e depois volta. A capivara ficava com as meninas porque \nos guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram \npara ser cuidada. Quando cresceu, ficou livre e acabou indo com o  \nseu bando”, explica Josiane. \n\nNos territórios indígenas, não há pets do jeito como vemos nas cidades. \nOs animais vivem soltos na floresta. E mesmo os que recebem cuidados \nde crianças ou adultos nas aldeias podem voltar para a mata. A relação \ncom eles é de cuidado e de respeito, equilibrando a subsistência e o \nbem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, \njabutis, macacos e capivaras os companheiros de brincadeiras e afagos \ndos pequenos.\n\nPara esses bichinhos, dá-se o nome de xerimbabos, que em tupi \nsignifica “coisa muito querida”. A palavra aparece em vários registros \nhistóricos quando há a descrição da relação entre os povos originários \ne os animais da mata, sendo o termo cunhado pelos próprios indígenas.  \nNas aldeias, faz parte da cultura cuidar de tudo o que tem vida  \nna floresta.\n\n<https://tinyurl.com/3er3jb53> Acesso em: 10.04.2025. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as aves se caracterizam por serem animais carnívoros, dotados de bico forte e curvo, com garras afiadas,  com pelos e escamas no corpo e nas patas."
+        },
+        {
+          "letra": "B",
+          "texto": "a relação dos indígenas com os xerimbabos tem o objetivo de garantir a criação desses animais em  cativeiro para o abate diário e a alimentação da comunidade."
+        },
+        {
+          "letra": "C",
+          "texto": "os xerimbabos são muito queridos pelos indígenas e,   apesar de estarem em cativeiro, são cuidados com  muito respeito e soltos na floresta quando em perigo de extinção."
+        },
+        {
+          "letra": "D",
+          "texto": "a onça é considerada a guardiã da floresta, ocupa o topo da cadeia alimentar por se alimentar de herbívoros  maiores e de predadores menores, mantendo dessa forma o equilíbrio ambiental."
+        },
+        {
+          "letra": "E",
+          "texto": "os animais considerados sagrados pelos indígenas se caracterizam por serem carnívoros e  por  conseguirem manter a temperatura corporal constante, independentemente da temperatura do ambiente."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          7
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q010": {
+      "id": "etec-2026-1-q010",
+      "numero": 10,
+      "enunciado": "As expressões em negrito no texto denotam, respectivamente,",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões de 08 a 12.\n\nCerta manhã, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um \nsusto: um bicho-preguiça estava dentro de casa. O visitante inesperado \nentrou de mansinho pela janela e logo chegou ao colo das irmãs \nTenetehar sem provocar medo. Pelo contrário, o que havia era encanto.\n\nMoradoras da terra indígena do Alto Rio Guamá, no Pará, Yzuahy e \nYwàna aprenderam com os pais e os avós que bichos da floresta não \nfazem mal nem precisam ser afugentados. A relação com eles é ancestral \ne baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem \nnatureza e animais, nada progride”, conta Josiane Tenetehar, mãe  \ndas meninas.\n\nAlém do bicho-preguiça, elas cuidaram por um tempo de um filhote de \ncapivara. “Não temos animais de estimação. A preguiça vem às vezes, \nchega em casa e depois volta. A capivara ficava com as meninas porque \nos guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram \npara ser cuidada. Quando cresceu, ficou livre e acabou indo com o  \nseu bando”, explica Josiane. \n\nNos territórios indígenas, não há pets do jeito como vemos nas cidades. \nOs animais vivem soltos na floresta. E mesmo os que recebem cuidados \nde crianças ou adultos nas aldeias podem voltar para a mata. A relação \ncom eles é de cuidado e de respeito, equilibrando a subsistência e o \nbem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, \njabutis, macacos e capivaras os companheiros de brincadeiras e afagos \ndos pequenos.\n\nPara esses bichinhos, dá-se o nome de xerimbabos, que em tupi \nsignifica “coisa muito querida”. A palavra aparece em vários registros \nhistóricos quando há a descrição da relação entre os povos originários \ne os animais da mata, sendo o termo cunhado pelos próprios indígenas.  \nNas aldeias, faz parte da cultura cuidar de tudo o que tem vida  \nna floresta.\n\n<https://tinyurl.com/3er3jb53> Acesso em: 10.04.2025. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tempo, origem, causa e lugar."
+        },
+        {
+          "letra": "B",
+          "texto": "condição, destino, instrumento e causa."
+        },
+        {
+          "letra": "C",
+          "texto": "consequência, origem, companhia e tempo."
+        },
+        {
+          "letra": "D",
+          "texto": "condição, destino, ferramenta e causa."
+        },
+        {
+          "letra": "E",
+          "texto": "tempo, lugar, companhia e lugar."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          7
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q011": {
+      "id": "etec-2026-1-q011",
+      "numero": 11,
+      "enunciado": "Na passagem “quando cresceu, ficou livre e acabou indo com o seu bando”, a expressão “acabou indo” aponta",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões de 08 a 12.\n\nCerta manhã, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um \nsusto: um bicho-preguiça estava dentro de casa. O visitante inesperado \nentrou de mansinho pela janela e logo chegou ao colo das irmãs \nTenetehar sem provocar medo. Pelo contrário, o que havia era encanto.\n\nMoradoras da terra indígena do Alto Rio Guamá, no Pará, Yzuahy e \nYwàna aprenderam com os pais e os avós que bichos da floresta não \nfazem mal nem precisam ser afugentados. A relação com eles é ancestral \ne baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem \nnatureza e animais, nada progride”, conta Josiane Tenetehar, mãe  \ndas meninas.\n\nAlém do bicho-preguiça, elas cuidaram por um tempo de um filhote de \ncapivara. “Não temos animais de estimação. A preguiça vem às vezes, \nchega em casa e depois volta. A capivara ficava com as meninas porque \nos guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram \npara ser cuidada. Quando cresceu, ficou livre e acabou indo com o  \nseu bando”, explica Josiane. \n\nNos territórios indígenas, não há pets do jeito como vemos nas cidades. \nOs animais vivem soltos na floresta. E mesmo os que recebem cuidados \nde crianças ou adultos nas aldeias podem voltar para a mata. A relação \ncom eles é de cuidado e de respeito, equilibrando a subsistência e o \nbem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, \njabutis, macacos e capivaras os companheiros de brincadeiras e afagos \ndos pequenos.\n\nPara esses bichinhos, dá-se o nome de xerimbabos, que em tupi \nsignifica “coisa muito querida”. A palavra aparece em vários registros \nhistóricos quando há a descrição da relação entre os povos originários \ne os animais da mata, sendo o termo cunhado pelos próprios indígenas.  \nNas aldeias, faz parte da cultura cuidar de tudo o que tem vida  \nna floresta.\n\n<https://tinyurl.com/3er3jb53> Acesso em: 10.04.2025. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uma ação inacabada que é realizada recorrentemente."
+        },
+        {
+          "letra": "B",
+          "texto": "uma ação inacabada que se prolonga infinitamente."
+        },
+        {
+          "letra": "C",
+          "texto": "uma ação finalizada que é enfatizada ao terminar."
+        },
+        {
+          "letra": "D",
+          "texto": "o início de uma ação que se realiza rapidamente."
+        },
+        {
+          "letra": "E",
+          "texto": "o desenvolvimento de uma ação que não se concretiza."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          7
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q012": {
+      "id": "etec-2026-1-q012",
+      "numero": 12,
+      "enunciado": "O pronome eles, sublinhado no quarto parágrafo do texto, refere-se aos termos",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões de 08 a 12.\n\nCerta manhã, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um \nsusto: um bicho-preguiça estava dentro de casa. O visitante inesperado \nentrou de mansinho pela janela e logo chegou ao colo das irmãs \nTenetehar sem provocar medo. Pelo contrário, o que havia era encanto.\n\nMoradoras da terra indígena do Alto Rio Guamá, no Pará, Yzuahy e \nYwàna aprenderam com os pais e os avós que bichos da floresta não \nfazem mal nem precisam ser afugentados. A relação com eles é ancestral \ne baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem \nnatureza e animais, nada progride”, conta Josiane Tenetehar, mãe  \ndas meninas.\n\nAlém do bicho-preguiça, elas cuidaram por um tempo de um filhote de \ncapivara. “Não temos animais de estimação. A preguiça vem às vezes, \nchega em casa e depois volta. A capivara ficava com as meninas porque \nos guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram \npara ser cuidada. Quando cresceu, ficou livre e acabou indo com o  \nseu bando”, explica Josiane. \n\nNos territórios indígenas, não há pets do jeito como vemos nas cidades. \nOs animais vivem soltos na floresta. E mesmo os que recebem cuidados \nde crianças ou adultos nas aldeias podem voltar para a mata. A relação \ncom eles é de cuidado e de respeito, equilibrando a subsistência e o \nbem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, \njabutis, macacos e capivaras os companheiros de brincadeiras e afagos \ndos pequenos.\n\nPara esses bichinhos, dá-se o nome de xerimbabos, que em tupi \nsignifica “coisa muito querida”. A palavra aparece em vários registros \nhistóricos quando há a descrição da relação entre os povos originários \ne os animais da mata, sendo o termo cunhado pelos próprios indígenas.  \nNas aldeias, faz parte da cultura cuidar de tudo o que tem vida  \nna floresta.\n\n<https://tinyurl.com/3er3jb53> Acesso em: 10.04.2025. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“territórios” e “pets”."
+        },
+        {
+          "letra": "B",
+          "texto": "“pets” e “adultos”."
+        },
+        {
+          "letra": "C",
+          "texto": "“indígenas” e “animais”."
+        },
+        {
+          "letra": "D",
+          "texto": "“pets” e “animais”."
+        },
+        {
+          "letra": "E",
+          "texto": "“territórios” e “adultos”."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          7
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q013": {
+      "id": "etec-2026-1-q013",
+      "numero": 13,
+      "enunciado": "Um município deseja implementar um projeto de equoterapia que terá uma equipe multidisciplinar  (psicólogos, fisioterapeutas, pedagogos, fonoaudiólogos, entre outros) e 12 cavalos preparados especialmente  para as atividades. Os atendimentos acontecerão de terça a sexta-feira,   e cada pessoa assistida pelo projeto  deverá realizar duas sessões por semana, tendo cada uma das sessões duração de 30 minutos. Sabendo que cada cavalo não pode trabalhar mais do que 3 horas por dia, o número máximo de pessoas  que poderão ser atendidas, por semana, pelo projeto é",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "144."
+        },
+        {
+          "letra": "B",
+          "texto": "180."
+        },
+        {
+          "letra": "C",
+          "texto": "288."
+        },
+        {
+          "letra": "D",
+          "texto": "360."
+        },
+        {
+          "letra": "E",
+          "texto": "576."
+        }
+      ],
+      "correta": "A",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          8
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q015": {
+      "id": "etec-2026-1-q015",
+      "numero": 15,
+      "enunciado": "O principal produto gasoso formado no processo mencionado é",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 15 e 16.\n\nO oxigênio (O2​) é essencial para a respiração aeróbica. \n\nDurante esse processo, o oxigênio reage com a glicose (C6​H12​O6​) liberando energia.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dióxido de carbono (CO2​)."
+        },
+        {
+          "letra": "B",
+          "texto": "monóxido de carbono (CO)."
+        },
+        {
+          "letra": "C",
+          "texto": "nitrogênio (N2​)."
+        },
+        {
+          "letra": "D",
+          "texto": "hidrogênio (H2)."
+        },
+        {
+          "letra": "E",
+          "texto": "ozônio (O3​)."
+        }
+      ],
+      "correta": "A",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          9
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q016": {
+      "id": "etec-2026-1-q016",
+      "numero": 16,
+      "enunciado": "O oxigênio e a glicose são classificados, respectivamente, como",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 15 e 16.\n\nO oxigênio (O2​) é essencial para a respiração aeróbica. \n\nDurante esse processo, o oxigênio reage com a glicose (C6​H12​O6​) liberando energia.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "substância composta e substância simples."
+        },
+        {
+          "letra": "B",
+          "texto": "substância simples e substância composta."
+        },
+        {
+          "letra": "C",
+          "texto": "substância composta e substância composta."
+        },
+        {
+          "letra": "D",
+          "texto": "substância composta e mistura."
+        },
+        {
+          "letra": "E",
+          "texto": "substância simples e mistura."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          9
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q021": {
+      "id": "etec-2026-1-q021",
+      "numero": 21,
+      "enunciado": "A letra da canção nos remete à",
+      "textoBase": {
+        "texto": "Leia o trecho da canção Passaredo, de Chico Buarque de Hollanda  \n\ne Francis Hime, para responder às questões de 21 a 24. \n\n1     Ei, quero-quero\n      Oi, tico-tico\n      Anum, pardal, chapim\n      Xô, cotovia\n      Xô, ave-fria\n\n6     Xô, pescador-martim\n      Some, rolinha\n      Anda, andorinha\n      Te esconde, bem-te-vi\n      Voa, bicudo\n\n11  Voa, sanhaço\n      Vai, juriti\n      Bico calado\n      Muito cuidado\n      Que o homem vem aí\n\n16  O homem vem aí\n      O homem vem aí.\n\n<https://tinyurl.com/3ucpw292> Acesso em: 10.04.2025. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ameaça que os pássaros representam aos seres humanos."
+        },
+        {
+          "letra": "B",
+          "texto": "relação harmoniosa entre os seres humanos e a natureza."
+        },
+        {
+          "letra": "C",
+          "texto": "preocupação com as doenças transmitidas por pássaros."
+        },
+        {
+          "letra": "D",
+          "texto": "destruição da natureza causada pelos seres humanos."
+        },
+        {
+          "letra": "E",
+          "texto": "necessidade de construção de viveiros nas florestas."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          12
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q022": {
+      "id": "etec-2026-1-q022",
+      "numero": 22,
+      "enunciado": "O título da canção apresentada se justifica pela",
+      "textoBase": {
+        "texto": "Leia o trecho da canção Passaredo, de Chico Buarque de Hollanda  \n\ne Francis Hime, para responder às questões de 21 a 24. \n\n1     Ei, quero-quero\n      Oi, tico-tico\n      Anum, pardal, chapim\n      Xô, cotovia\n      Xô, ave-fria\n\n6     Xô, pescador-martim\n      Some, rolinha\n      Anda, andorinha\n      Te esconde, bem-te-vi\n      Voa, bicudo\n\n11  Voa, sanhaço\n      Vai, juriti\n      Bico calado\n      Muito cuidado\n      Que o homem vem aí\n\n16  O homem vem aí\n      O homem vem aí.\n\n<https://tinyurl.com/3ucpw292> Acesso em: 10.04.2025. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ação de expulsão dos seres humanos do meio ambiente."
+        },
+        {
+          "letra": "B",
+          "texto": "dimensão dos versos, ressaltando a velocidade do desmatamento."
+        },
+        {
+          "letra": "C",
+          "texto": "sonoridade das vogais fechadas que remetem à melancolia da canção."
+        },
+        {
+          "letra": "D",
+          "texto": "repetição inicial de termos, expressando a posição dos animais nas árvores."
+        },
+        {
+          "letra": "E",
+          "texto": "enumeração de substantivos, indicando a diversidade de aves existentes."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          12
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q023": {
+      "id": "etec-2026-1-q023",
+      "numero": 23,
+      "enunciado": "Assinale a alternativa que apresenta um sinônimo para o termo destacado em negrito na canção.",
+      "textoBase": {
+        "texto": "Leia o trecho da canção Passaredo, de Chico Buarque de Hollanda  \n\ne Francis Hime, para responder às questões de 21 a 24. \n\n1     Ei, quero-quero\n      Oi, tico-tico\n      Anum, pardal, chapim\n      Xô, cotovia\n      Xô, ave-fria\n\n6     Xô, pescador-martim\n      Some, rolinha\n      Anda, andorinha\n      Te esconde, bem-te-vi\n      Voa, bicudo\n\n11  Voa, sanhaço\n      Vai, juriti\n      Bico calado\n      Muito cuidado\n      Que o homem vem aí\n\n16  O homem vem aí\n      O homem vem aí.\n\n<https://tinyurl.com/3ucpw292> Acesso em: 10.04.2025. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "porque"
+        },
+        {
+          "letra": "B",
+          "texto": "ainda que"
+        },
+        {
+          "letra": "C",
+          "texto": "desde que"
+        },
+        {
+          "letra": "D",
+          "texto": "contanto que"
+        },
+        {
+          "letra": "E",
+          "texto": "à medida que"
+        }
+      ],
+      "correta": "A",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          12
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q024": {
+      "id": "etec-2026-1-q024",
+      "numero": 24,
+      "enunciado": "A canção apresentada se utiliza tanto de imperativos, como em “some”, “anda” e “te esconde”, quanto de  vocativos, como em “rolinha”, “andorinha” e “ bem-te-vi”, com o objetivo de",
+      "textoBase": {
+        "texto": "Leia o trecho da canção Passaredo, de Chico Buarque de Hollanda  \n\ne Francis Hime, para responder às questões de 21 a 24. \n\n1     Ei, quero-quero\n      Oi, tico-tico\n      Anum, pardal, chapim\n      Xô, cotovia\n      Xô, ave-fria\n\n6     Xô, pescador-martim\n      Some, rolinha\n      Anda, andorinha\n      Te esconde, bem-te-vi\n      Voa, bicudo\n\n11  Voa, sanhaço\n      Vai, juriti\n      Bico calado\n      Muito cuidado\n      Que o homem vem aí\n\n16  O homem vem aí\n      O homem vem aí.\n\n<https://tinyurl.com/3ucpw292> Acesso em: 10.04.2025. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expressar as emoções vivenciadas pelo eu lírico diante do canto dos pássaros."
+        },
+        {
+          "letra": "B",
+          "texto": "manter um diálogo necessário com a natureza para a preservação da humanidade."
+        },
+        {
+          "letra": "C",
+          "texto": "persuadir os interlocutores a realizarem ações para protegê-los de uma iminente ameaça."
+        },
+        {
+          "letra": "D",
+          "texto": "evidenciar o domínio de estruturas poéticas que valorizam a sonoridade dos versos."
+        },
+        {
+          "letra": "E",
+          "texto": "ensinar os leitores sobre a diversidade de espécies existentes na flora brasileira."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          13
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q025": {
+      "id": "etec-2026-1-q025",
+      "numero": 25,
+      "enunciado": "A águia-de-asa-redonda é uma ave de rapina com uma das visões mais poderosas do reino animal.  A sua capacidade visual é ampla, tanto em acuidade, quanto em distinção cromática, características essenciais  para a eficiência de um predador. Estima-se que essa ave consiga reconhecer um roedor a 5 000 m de altitude. Isso é possível, em parte, devido à  altíssima densidade de cones, na fóvea do olho. Cones são células fotorreceptoras estimuladas pela percepção  das cores primárias ópticas. Na águia-de-asa-redonda, os cones de tipos azul, verde, vermelho e duplos  totalizam cerca de 1 milhão/mm2; enquanto o ser humano possui, aproximadamente, 200 000/mm2. Além da visão tetracromática, a águia possui uma fotossensibilidade ao espectro UV e apresenta filtros naturais  para luz polarizada, o que lhe permite localizar peixes rapidamente. Baseando-se no texto apresentado, sobre essa águia é correto afirmar que",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "enxerga, em período diurno, todas as presas na mesma cor acinzentada."
+        },
+        {
+          "letra": "B",
+          "texto": "o fato de possuir cones duplos a impede de visualizar quaisquer cores."
+        },
+        {
+          "letra": "C",
+          "texto": "o ser humano leva vantagem ao perceber também o espectro infravermelho."
+        },
+        {
+          "letra": "D",
+          "texto": "a acuidade visual dela é, aproximadamente, cinco vezes inferior a de um ser humano com visão normal."
+        },
+        {
+          "letra": "E",
+          "texto": "a capacidade de ela enxergar mais cores com melhor definição é superior à do ser humano."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          13
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q026": {
+      "id": "etec-2026-1-q026",
+      "numero": 26,
+      "enunciado": "O guano é um fertilizante orgânico natural, rico em nitrogênio, fósforo e potássio, que   provém das  fezes de aves migratórias atraídas pela grande quantidade de peixes existentes no litoral norte do Chile,  fazendo dessa região da América do Sul voltada para o Oceano Pacífico um grande depósito desse material. Essa profusão de peixes está relacionada ao fenômeno da Ressurgência, que é consequência da ação de  uma determinada corrente marítima fria. A ausência de chuvas naquela região, também resultado dessa  corrente marítima, contribui decisivamente para que o material fecal não perca suas propriedades químicas. De acordo com o texto, a corrente marítima citada no texto é a",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da Califórnia."
+        },
+        {
+          "letra": "B",
+          "texto": "da Antártica."
+        },
+        {
+          "letra": "C",
+          "texto": "de Benguela."
+        },
+        {
+          "letra": "D",
+          "texto": "do Brasil."
+        },
+        {
+          "letra": "E",
+          "texto": "do Peru."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          13
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q028": {
+      "id": "etec-2026-1-q028",
+      "numero": 28,
+      "enunciado": "A água (H2​O) é indispensável para a sobrevivência dos animais. Ela atua como solvente no corpo, transporta  nutrientes e regula a temperatura corporal. Sobre a água, é correto afirmar que é",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uma mistura de átomos de hidrogênio e oxigênio."
+        },
+        {
+          "letra": "B",
+          "texto": "uma mistura dos gases hidrogênio e oxigênio."
+        },
+        {
+          "letra": "C",
+          "texto": "um composto formado por 3 elementos químicos."
+        },
+        {
+          "letra": "D",
+          "texto": "um composto formado por 1 molécula de hidrogênio e 1 de oxigênio."
+        },
+        {
+          "letra": "E",
+          "texto": "um composto formado pela união de 2 átomos de hidrogênio com 1 átomo de oxigênio."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          14
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q029": {
+      "id": "etec-2026-1-q029",
+      "numero": 29,
+      "enunciado": "Os ratões-do-banhado (Myocastor coypus) são animais nativos da América do Sul, onde vivem nas margens  de lagos e rios. Possuem pelos, longa cauda cilíndrica e patas palmeadas. Além disso, são mais ágeis na água do que em terra.  Uma característica distintiva importante são seus grandes dentes frontais cor de laranja devido à presença de  ferro no esmalte dos dentes. Esses animais podem ser utilizados na produção de carne e de peles para consumo humano. Quando retirados de suas regiões de origem, podem se tornar espécies invasoras, porque se adaptam  rapidamente aos locais onde são introduzidos, reproduzindo-se com eficiência na ausência de predadores e  causando desequilíbrios nos ecossistemas. Sobre os animais citados no texto, é correto afirmar que",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "se adaptam ao meio ambiente em que são introduzidos, pois são mamíferos primatas facilmente  domesticáveis, o que acarreta um grande equilíbrio do ecossistema local."
+        },
+        {
+          "letra": "B",
+          "texto": "podem ser utilizados como fonte de proteína animal e possuem adaptações que permitem a movimentação  na água, apesar de serem mamíferos terrestres."
+        },
+        {
+          "letra": "C",
+          "texto": "dilaceram a carne das presas, pois são mamíferos carnívoros com dentes caninos pontiagudos e muito  resistentes devido à presença de ferro."
+        },
+        {
+          "letra": "D",
+          "texto": "pertencem ao grupo dos mamíferos ruminantes, pois possuem a capacidade de engolir e de mastigar o  mesmo alimento mais de uma vez."
+        },
+        {
+          "letra": "E",
+          "texto": "atuam no equilíbrio ecológico da fauna e da flora das matas e das florestas independentemente das  regiões onde foram introduzidos."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          14
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q031": {
+      "id": "etec-2026-1-q031",
+      "numero": 31,
+      "enunciado": "Com base nesses dados, podemos afirmar corretamente que",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 31 e 32.\n\nPara se adaptarem às mudanças sazonais, alguns povos nômades das savanas africanas seguem, \ntradicionalmente, a trilha de grandes manadas de gnus e zebras durante suas migrações em busca de água. \n\nConsidere que uma dessas manadas percorreu uma distância de 240 km em 4 dias. O grupo humano que \nseguiu a trilha fez o mesmo percurso, mas levou 6 dias.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a manada foi 20 km/dia mais rápida que os humanos."
+        },
+        {
+          "letra": "B",
+          "texto": "a manada foi 40 km/dia mais lenta que os humanos."
+        },
+        {
+          "letra": "C",
+          "texto": "a manada foi 20 km/dia mais lenta que os humanos."
+        },
+        {
+          "letra": "D",
+          "texto": "os humanos foram 40 km/dia mais lentos que a manada."
+        },
+        {
+          "letra": "E",
+          "texto": "os humanos foram 20 km/dia mais rápidos que a manada."
+        }
+      ],
+      "correta": "A",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          15
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q032": {
+      "id": "etec-2026-1-q032",
+      "numero": 32,
+      "enunciado": "A migração citada ocorre em função do ciclo da água. É correto afirmar que o princípio físico relacionado a esse ciclo está associado",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 31 e 32.\n\nPara se adaptarem às mudanças sazonais, alguns povos nômades das savanas africanas seguem, \ntradicionalmente, a trilha de grandes manadas de gnus e zebras durante suas migrações em busca de água. \n\nConsidere que uma dessas manadas percorreu uma distância de 240 km em 4 dias. O grupo humano que \nseguiu a trilha fez o mesmo percurso, mas levou 6 dias.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à aceleração centrípeta dos ventos tropicais."
+        },
+        {
+          "letra": "B",
+          "texto": "à diminuição da pressão atmosférica no solo."
+        },
+        {
+          "letra": "C",
+          "texto": "ao aquecimento constante de rochas vulcânicas."
+        },
+        {
+          "letra": "D",
+          "texto": "ao vasto aumento da umidade relativa nos desertos."
+        },
+        {
+          "letra": "E",
+          "texto": "à evaporação e à condensação provocadas pela energia solar."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          15
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q033": {
+      "id": "etec-2026-1-q033",
+      "numero": 33,
+      "enunciado": "Com base no texto, é correto afirmar que a tilápia é",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 33 e 34.\n\nO Brasil é o quarto maior produtor mundial de tilápia. Essa espécie \nrepresenta 63,5 % da produção de peixes do país.\n\nNa Região Nordeste, o cultivo comercial de tilápias começou a ser \nexpressivo em meados da década de 1990. O Ceará é o estado \ncom maior tradição no consumo de tilápia em virtude da produção  \ndesses peixes em seus reservatórios de água doce. Esse povoamento é \nfruto dos peixamentos realizados pelo Departamento Nacional de Obras \nContra as Secas (DNOCS). A primeira tilápia que chegou ao Ceará veio \nda região Sudeste do Brasil. \n\nPor ser um alimento rico em proteínas, esse peixe é um forte aliado para \nquem deseja ganhar massa magra e perder peso, especialmente, por \npossuir uma quantidade muito baixa de carboidratos.\n\nA tilápia também contém vitaminas A, B e D, bem como minerais, \nincluindo cálcio, ferro e zinco. Além disso, em 2015, médicos e \npesquisadores do Ceará iniciaram uma pesquisa e descobriram que a \npele desse peixe, quando usada como curativo para queimaduras de  \n2° e 3° graus, auxilia na cicatrização da pele humana.\n \n\n<https://tinyurl.com/4fzfupv7> Acesso em: 30.03.2025. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nativa da região Nordeste do Brasil, especificamente do Ceará."
+        },
+        {
+          "letra": "B",
+          "texto": "rica em vitaminas e minerais, podendo ser utilizada na medicina."
+        },
+        {
+          "letra": "C",
+          "texto": "cultivada em tanques de água salgada no interior da região Sudeste."
+        },
+        {
+          "letra": "D",
+          "texto": "o principal produto de exportação do Brasil desde a década de 1990."
+        },
+        {
+          "letra": "E",
+          "texto": "produzida e comercializada pelo Departamento de Obras Contra as Secas."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          16
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q034": {
+      "id": "etec-2026-1-q034",
+      "numero": 34,
+      "enunciado": "Sobre o peixe citado no texto, assinale a alternativa correta.",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 33 e 34.\n\nO Brasil é o quarto maior produtor mundial de tilápia. Essa espécie \nrepresenta 63,5 % da produção de peixes do país.\n\nNa Região Nordeste, o cultivo comercial de tilápias começou a ser \nexpressivo em meados da década de 1990. O Ceará é o estado \ncom maior tradição no consumo de tilápia em virtude da produção  \ndesses peixes em seus reservatórios de água doce. Esse povoamento é \nfruto dos peixamentos realizados pelo Departamento Nacional de Obras \nContra as Secas (DNOCS). A primeira tilápia que chegou ao Ceará veio \nda região Sudeste do Brasil. \n\nPor ser um alimento rico em proteínas, esse peixe é um forte aliado para \nquem deseja ganhar massa magra e perder peso, especialmente, por \npossuir uma quantidade muito baixa de carboidratos.\n\nA tilápia também contém vitaminas A, B e D, bem como minerais, \nincluindo cálcio, ferro e zinco. Além disso, em 2015, médicos e \npesquisadores do Ceará iniciaram uma pesquisa e descobriram que a \npele desse peixe, quando usada como curativo para queimaduras de  \n2° e 3° graus, auxilia na cicatrização da pele humana.\n \n\n<https://tinyurl.com/4fzfupv7> Acesso em: 30.03.2025. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ao ser consumido, a presença de ferro nesses peixes, favorece a formação dos glóbulos vermelhos no  sangue humano."
+        },
+        {
+          "letra": "B",
+          "texto": "A pele desses peixes, ao ser utilizada em queimaduras de 2° e 3° graus, impede a cicatrização da área  lesada no corpo humano."
+        },
+        {
+          "letra": "C",
+          "texto": "Ao ser consumido, a vitamina D presente nesses peixes é importante para prevenir doenças em crianças,  tais como o escorbuto e o sarampo."
+        },
+        {
+          "letra": "D",
+          "texto": "Ao ser consumido, a quantidade baixa de proteínas nesses peixes favorece o ganho de massa magra e  fortalece o tecido muscular, principalmente em praticantes de atividades físicas."
+        },
+        {
+          "letra": "E",
+          "texto": "Ao ser consumido, a presença de minerais como cálcio e zinco, nesses peixes, ajuda a prevenir o  aparecimento de tromboses, a febre amarela e a prisão de ventre nas pessoas idosas."
+        }
+      ],
+      "correta": "A",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          16
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q036": {
+      "id": "etec-2026-1-q036",
+      "numero": 36,
+      "enunciado": "Baseando-se no texto, é correto afirmar que",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 36 e 37.\n\nOs feromônios são substâncias químicas usadas por muitos animais para se comunicarem.  \nEssas moléculas podem transmitir informações sobre reprodução, perigo ou trilhas de alimentos. \nPortanto, as moléculas dos feromônios podem ser usadas em perfumes, em armadilhas e até no controle \nde pragas.\n\nEntre mulheres que convivem juntas por muito tempo, os feromônios são responsáveis por  regularem  \no ciclo menstrual entre elas.\n\nNa agricultura brasileira, uma das maiores pragas do milho é o inseto percevejo escuro. Para livrar as \nplantações dessa praga,  o homem sintetiza, em laboratório, seu feromônio sexual para ser usado em \narmadilhas como isca para atrair esses insetos e dificultar sua proliferação.\n\nFórmula estrutural do feromônio do percevejo escuro:\n\n \n \n\nCH3 – CH2 – CH – CH – C – CH2 – CH3\n\n<https://tinyurl.com/2nyw4rb9> Acesso em: 10.04.2025. Adaptado.\nOH\nCH3",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os feromônios são compostos produzidos por alguns animais, não sendo encontrados nos seres humanos."
+        },
+        {
+          "letra": "B",
+          "texto": "não é possível produzir feromônios em laboratório para usos específicos."
+        },
+        {
+          "letra": "C",
+          "texto": "utiliza-se, na agricultura, o feromônio de trilha do percevejo escuro para atrair predadores desse inseto."
+        },
+        {
+          "letra": "D",
+          "texto": "o feromônio sintetizado para controlar pragas no milho apresenta fórmula molecular C8H16O2."
+        },
+        {
+          "letra": "E",
+          "texto": "o feromônio representado tem, em sua estrutura, 15 átomos de hidrogênio e um átomo de oxigênio."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          17
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q037": {
+      "id": "etec-2026-1-q037",
+      "numero": 37,
+      "enunciado": "O uso desses compostos, na agricultura, está associado",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 36 e 37.\n\nOs feromônios são substâncias químicas usadas por muitos animais para se comunicarem.  \nEssas moléculas podem transmitir informações sobre reprodução, perigo ou trilhas de alimentos. \nPortanto, as moléculas dos feromônios podem ser usadas em perfumes, em armadilhas e até no controle \nde pragas.\n\nEntre mulheres que convivem juntas por muito tempo, os feromônios são responsáveis por  regularem  \no ciclo menstrual entre elas.\n\nNa agricultura brasileira, uma das maiores pragas do milho é o inseto percevejo escuro. Para livrar as \nplantações dessa praga,  o homem sintetiza, em laboratório, seu feromônio sexual para ser usado em \narmadilhas como isca para atrair esses insetos e dificultar sua proliferação.\n\nFórmula estrutural do feromônio do percevejo escuro:\n\n \n \n\nCH3 – CH2 – CH – CH – C – CH2 – CH3\n\n<https://tinyurl.com/2nyw4rb9> Acesso em: 10.04.2025. Adaptado.\nOH\nCH3",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à contaminação do solo e dos lençóis freáticos, causando danos irreversíveis ao meio ambiente."
+        },
+        {
+          "letra": "B",
+          "texto": "à exterminação de todos os insetos da área agrícola, incluindo polinizadores como abelhas."
+        },
+        {
+          "letra": "C",
+          "texto": "às alternativas sustentáveis, porque são específicos para o alvo-praga."
+        },
+        {
+          "letra": "D",
+          "texto": "à sua toxidade para humanos e animais, representando um risco à saúde pública."
+        },
+        {
+          "letra": "E",
+          "texto": "à produção de grande quantidade de produtos químicos industriais, contribuindo para a poluição do ar."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          17
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q038": {
+      "id": "etec-2026-1-q038",
+      "numero": 38,
+      "enunciado": "Em 2019, o Earthwatch Institute declarou que as abelhas são os seres vivos mais importantes do planeta,  durante uma reunião da Royal Geographical Society de Londres. Essa declaração está associada ao fato de as abelhas  serem os principais seres vivos responsáveis por  polinizar cerca de 75% das culturas alimentares do mundo. No entanto, vários estudos demonstram que as abelhas enfrentam risco de extinção, em várias partes do  mundo, devido a fatores como o desmatamento, o uso de agrotóxicos, a exposição a diferentes parasitas e as  mudanças climáticas, que afetam a disponibilidade de flores e de alimentos. Baseando-se no texto, é correto afirmar que",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a pulverização de agrotóxicos e o uso de inseticidas alteram o material genético das abelhas, deixando-as  lentas, sem asas, com maior capacidade de polinização e de produção de mel."
+        },
+        {
+          "letra": "B",
+          "texto": "o desmatamento beneficia a formação de enxames e a construção de novos ninhos de abelhas devido ao  aumento da disponibilidade de alimento, como flores silvestres."
+        },
+        {
+          "letra": "C",
+          "texto": "o aumento do número de flores encurta o tempo de vida das abelhas, causando a redução da reprodução  das plantas e prejudicando a biodiversidade terrestre."
+        },
+        {
+          "letra": "D",
+          "texto": "a ocorrência de doenças prejudiciais à visão e à memória de navegação das abelhas aumenta a  capacidade de elas retornarem às colmeias."
+        },
+        {
+          "letra": "E",
+          "texto": "o uso de agrotóxicos na agricultura para o controle de pragas acarreta a diminuição da população  de abelhas, interferindo na polinização natural."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          18
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q039": {
+      "id": "etec-2026-1-q039",
+      "numero": 39,
+      "enunciado": "Os povos inuítes, que habitam a região do Círculo Polar Ártico aprenderam a importância do uso de certos  tipos de peles para o isolamento térmico por meio da observação dos animais locais. Uma aplicação desse  aprendizado é a confecção de roupas feitas com pele de caribu (rena) que ajuda a manter a temperatura  corporal aproximadamente constante. Assinale a alternativa que justifica corretamente o equilíbrio térmico estabelecido.",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A alta capacidade de absorção de moléculas de água pela pele é a responsável por evitar a sudorese."
+        },
+        {
+          "letra": "B",
+          "texto": "A perda de calor da pele do corpo para o ambiente é a responsável por manter o corpo aquecido."
+        },
+        {
+          "letra": "C",
+          "texto": "A pele auxilia no equilíbrio térmico devido à convecção, mantendo o corpo aquecido."
+        },
+        {
+          "letra": "D",
+          "texto": "A reflexão total da radiação solar recebida pelo corpo aumenta a temperatura corporal."
+        },
+        {
+          "letra": "E",
+          "texto": "A presença de proteínas vivas isolantes na pele é a responsável por facilitar a transferência térmica."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          18
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q040": {
+      "id": "etec-2026-1-q040",
+      "numero": 40,
+      "enunciado": "Alguns povos nômades do deserto do Saara utilizam camelos como meio de transporte. Esses animais têm a  capacidade de caminhar longas distâncias sobre areia fofa sem afundar. Podemos afirmar corretamente que essa capacidade está relacionada ao princípio físico da",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "radiação solar, pois a areia úmida auxilia na sustentação do animal."
+        },
+        {
+          "letra": "B",
+          "texto": "gravidade, pois os desertos apresentam uma diminuição da gravidade local."
+        },
+        {
+          "letra": "C",
+          "texto": "condutividade térmica, pois os cascos são constituídos de uma resina isolante."
+        },
+        {
+          "letra": "D",
+          "texto": "resistividade elétrica, pois a areia apresenta sílica, um bom condutor de eletricidade."
+        },
+        {
+          "letra": "E",
+          "texto": "pressão superficial, pois os cascos amplos distribuem o peso do animal e da sua carga."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          18
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q045": {
+      "id": "etec-2026-1-q045",
+      "numero": 45,
+      "enunciado": "Ao consumir a carne suína ou bovina contaminada com cisticercos – quando não ocorre o cozimento  adequado – o ser humano pode adquirir uma doença denominada _______________ causada pelo parasita  conhecido como _______________. I II Assinale a alternativa que preenche correta e respectivamente os espaços numerados I e II. I II",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ascaridíase lombriga"
+        },
+        {
+          "letra": "B",
+          "texto": "teníase solitária"
+        },
+        {
+          "letra": "C",
+          "texto": "mal de Chagas barbeiro"
+        },
+        {
+          "letra": "D",
+          "texto": "amebíase ameba"
+        },
+        {
+          "letra": "E",
+          "texto": "toxoplasmose salmonella"
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          21
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q049": {
+      "id": "etec-2026-1-q049",
+      "numero": 49,
+      "enunciado": "Entre os principais fatores que ameaçam a sobrevivência das tartarugas marinhas do litoral do Brasil,  destacam-se a captura acidental em redes de pesca e anzóis, a degradação de áreas de desova, a fotopoluição,  a poluição dos oceanos e as mudanças climáticas. Essas ameaças ocorrem quando",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as tartarugas marinhas vivem a maior parte de suas vidas nas praias prioritárias de reprodução,  sem a presença de predadores."
+        },
+        {
+          "letra": "B",
+          "texto": "as tartarugas capturadas acidentalmente em redes de malha ou arrastos permanecem submersas,  sem subir à superfície, pois realizam respiração branquial."
+        },
+        {
+          "letra": "C",
+          "texto": "os filhotes das tartarugas, em vez de seguirem para o mar guiados pela luminosidade natural do horizonte,  deslocam-se para o continente, atraídos pela iluminação artificial nas praias."
+        },
+        {
+          "letra": "D",
+          "texto": "as mudanças climáticas ocasionam o aumento do nível do mar, cobrindo totalmente a areia das praias,  o que favorece a formação de novos ninhos e aumenta a quantidade de filhotes."
+        },
+        {
+          "letra": "E",
+          "texto": "a ausência de predadores e o cuidado parental realizado nas praias prioritárias de reprodução   diminuem a possibilidade de ocorrer alta taxa de mortalidade dos filhotes das tartarugas."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          23
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2026-1-q050": {
+      "id": "etec-2026-1-q050",
+      "numero": 50,
+      "enunciado": "Os animais têm uma grande importância para a vida humana e o equilíbrio ecológico do meio ambiente.   No entanto, a relação entre humanos e animais nem sempre é harmoniosa, pois os animais são, por vezes,  expostos a práticas cruéis e antiéticas, que colocam em risco as suas vidas. Desenvolver valores, como responsabilidade no cuidado do meio ambiente e de outro ser vivo, é importante  para ampliar a consciência social. Para isso, faz-se necessário",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "incentivar a introdução de espécies invasoras em habitats naturais de outras espécies, a fim de permitir  a transmissão de doenças aos animais nativos."
+        },
+        {
+          "letra": "B",
+          "texto": "comprar produtos feitos de animais ameaçados ou em perigo de extinção, a fim de inibir o tráfico ilegal  desses animais e a propagação de zoonoses."
+        },
+        {
+          "letra": "C",
+          "texto": "combater ações de reflorestamento, a fim de impedir a migração de animais para ambientes ou habitats  onde tenham espaço para se reproduzir."
+        },
+        {
+          "letra": "D",
+          "texto": "estimular a comercialização de animais silvestres vítimas do tráfico ilegal para serem usados como  cobaias em testes de laboratórios."
+        },
+        {
+          "letra": "E",
+          "texto": "denunciar o cativeiro ou os maus-tratos de animais, os desmatamentos e as queimadas ilegais às  autoridades competentes."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "b873528ca6e0e3841512508bc57d245bdef1ff4ad95d161b093594b9ab627a68",
+        "gabaritoSha256": "c3b9ba04937284b6e16a94bcaf73af10b895903e316e61a6069921971669bc4c",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2026",
+        "paginas": [
+          23
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    }
+  }
+}

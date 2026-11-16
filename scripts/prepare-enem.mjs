@@ -33,7 +33,7 @@ for (const exam of exams) {
   }));
   if (present.every(Boolean)) continue;
   const source = new URL(exam.questionCopy);
-  const trustedSource = source.host === 'www.curso-objetivo.br' ||
+  const trustedSource = ['www.curso-objetivo.br','guiadoestudante.abril.com.br'].includes(source.host) ||
     (source.host === 'www.acheprovas.com.br' &&
       /^\/arquivos\/academicas\/[a-f0-9-]{36}\/prova\.pdf$/.test(source.pathname));
   if (source.protocol !== 'https:' || !trustedSource ||
@@ -43,7 +43,9 @@ for (const exam of exams) {
   const cacheDir = join('.next', 'cache', 'enem-pdfs', exam.id);
   const cached = join(cacheDir, 'prova.pdf');
   if (!await readVerifiedSource(cached, cached, exam.questionCopySha256)) {
-    const response = await fetch(source, { redirect: 'error', signal: AbortSignal.timeout(90_000) });
+    let response;
+    try {response = await fetch(source, { redirect: 'error', signal: AbortSignal.timeout(90_000) });}
+    catch (error) {throw new Error(`ENEM ${exam.id}: falha no download ${source.href}: ${error.cause?.code??error.message}`,{cause:error});}
     if (!response.ok) throw new Error(`ENEM ${exam.id}: HTTP ${response.status}`);
     const bytes = Buffer.from(await response.arrayBuffer());
     if (bytes.toString('ascii', 0, 5) !== '%PDF-' ||

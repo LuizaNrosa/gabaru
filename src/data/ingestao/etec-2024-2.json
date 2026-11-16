@@ -1,0 +1,450 @@
+{
+  "banca": "etec",
+  "edicao": "2024-2",
+  "provaSha256": "d057529a7101cafac67a76fd099215a0d917501e54b183ab03d23a38d798c761",
+  "gabaritoSha256": "c5ad8ad9ed04efae88868a419d71d06c02aaa6232b2f1151d9523c72238422c1",
+  "esperadas": 50,
+  "aceitas": {
+    "etec-2024-2-q001": {
+      "id": "etec-2024-2-q001",
+      "numero": 1,
+      "enunciado": "Compreender a constituição e o desenvolvimento do corpo humano e de seus sistemas, entender seus  mecanismos fisiológicos e conhecer a relação de interdependência existente entre os seus órgãos são  habilidades importantes para o desenvolvimento de atitudes, de hábitos individuais e coletivos saudáveis, como,  por exemplo, cuidar da nutrição, da higiene, da prática de atividade física e da prevenção de doenças.  Quando uma pessoa está saudável, física e psicologicamente, tem maior disposição para buscar o equilíbrio em  outros aspectos e ter uma vida estável.  Para alcançar o ideal descrito no texto, deve-se",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "evitar o hábito de fazer refeições balanceadas, pois, a partir da diversidade de substâncias ingeridas,  o corpo fica com baixa imunidade e mais suscetível às doenças."
+        },
+        {
+          "letra": "B",
+          "texto": "realizar a prática regular de atividades físicas, pois elas auxiliam no controle da hipertensão arterial,  amenizam o risco de desenvolver diabetes, melhoram a flexibilidade e previnem a osteopenia."
+        },
+        {
+          "letra": "C",
+          "texto": "realizar acompanhamento médico periódico, por meio de determinados tipos de exames, pois impede  o aparecimento de doenças graves nos órgãos como o câncer, o infarto do miocárdio e o mal de Chagas."
+        },
+        {
+          "letra": "D",
+          "texto": "ingerir quantidade reduzida de água, pois garante a remoção de toxinas e impurezas do corpo,  especialmente as que se acumulam nos rins e podem formar os cálculos renais."
+        },
+        {
+          "letra": "E",
+          "texto": "utilizar, antes de dormir, dispositivos eletrônicos, pois a luz desses equipamentos prioriza o relaxamento,  promovendo o sono tranquilo e restaurador do corpo."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "d057529a7101cafac67a76fd099215a0d917501e54b183ab03d23a38d798c761",
+        "gabaritoSha256": "c5ad8ad9ed04efae88868a419d71d06c02aaa6232b2f1151d9523c72238422c1",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          2
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-2-q012": {
+      "id": "etec-2024-2-q012",
+      "numero": 12,
+      "enunciado": "A pele humana possui uma camada superior chamada epiderme, onde são encontrados os melanócitos, células  responsáveis pela produção da melanina, pigmento responsável pela cor da pele.  A ausência parcial ou total de melanina na pele, nos olhos, nos pelos e nos cabelos das pessoas é conhecida  como albinismo. O albinismo é uma característica genética recessiva presente em algumas pessoas, e pode acontecer quando",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas um dos pais adquire problemas infeciosos na pele durante a infância."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas um dos pais é albino, e o outro é não albino e homozigoto."
+        },
+        {
+          "letra": "C",
+          "texto": "nenhum dos pais é albino, mas ambos são heterozigotos."
+        },
+        {
+          "letra": "D",
+          "texto": "nenhum dos pais é albino, mas ambos são homozigotos."
+        },
+        {
+          "letra": "E",
+          "texto": "ambos os pais têm histórico de subnutrição infantil."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "d057529a7101cafac67a76fd099215a0d917501e54b183ab03d23a38d798c761",
+        "gabaritoSha256": "c5ad8ad9ed04efae88868a419d71d06c02aaa6232b2f1151d9523c72238422c1",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          7
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-2-q020": {
+      "id": "etec-2024-2-q020",
+      "numero": 20,
+      "enunciado": "A temperatura ambiente confortável para o ser humano fica em torno de 20 a 35 graus Celsius. Por sua vez, a  temperatura ideal do corpo humano é de 36,5 a 37 graus Celsius.  No corpo humano, há receptores que captam as variações de temperatura e ativam mecanismos para regular a  temperatura do corpo. Logo, para manter a temperatura corporal estável, tem-se que produzir ou perder calor. Assinale a alternativa que preenche, correta e respectivamente, a frase apresentada. Em um dia muito quente, um dos mecanismos de troca de calor entre o corpo e o ambiente é a sudorese, por meio  da .................. da água presente no suor. Nesse processo, a água ................... calor do corpo e, consequentemente,  .................. a temperatura corpórea. I I   I   I II I  II III",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "condensação absorve aumenta"
+        },
+        {
+          "letra": "B",
+          "texto": "condensação libera diminui"
+        },
+        {
+          "letra": "C",
+          "texto": "evaporação absorve aumenta"
+        },
+        {
+          "letra": "D",
+          "texto": "evaporação absorve   diminui"
+        },
+        {
+          "letra": "E",
+          "texto": "evaporação libera aumenta"
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "d057529a7101cafac67a76fd099215a0d917501e54b183ab03d23a38d798c761",
+        "gabaritoSha256": "c5ad8ad9ed04efae88868a419d71d06c02aaa6232b2f1151d9523c72238422c1",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          10
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-2-q021": {
+      "id": "etec-2024-2-q021",
+      "numero": 21,
+      "enunciado": "Um elemento fundamental no metabolismo de quase todos os organismos vivos é o ferro. Ele é encontrado na  hemoglobina e é responsável pelo transporte de oxigênio nas células vermelhas do sangue.  Considere um átomo do elemento ferro, no estado fundamental, que apresenta número atômico 26 (Z = 26) e  número de massa 56 (A = 56).  A partir dessas informações, assinale a alternativa que apresenta o número de partículas fundamentais  presentes na estrutura desse átomo de ferro. PRÓTONS ELÉTRONS NÊUTRONS",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "26 26 30"
+        },
+        {
+          "letra": "B",
+          "texto": "26 26 56"
+        },
+        {
+          "letra": "C",
+          "texto": "26 56 26"
+        },
+        {
+          "letra": "D",
+          "texto": "56 56 26"
+        },
+        {
+          "letra": "E",
+          "texto": "56 56 30"
+        }
+      ],
+      "correta": "A",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "d057529a7101cafac67a76fd099215a0d917501e54b183ab03d23a38d798c761",
+        "gabaritoSha256": "c5ad8ad9ed04efae88868a419d71d06c02aaa6232b2f1151d9523c72238422c1",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          11
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-2-q025": {
+      "id": "etec-2024-2-q025",
+      "numero": 25,
+      "enunciado": "Qual energia é responsável pela manutenção da vida? É a energia química proveniente da quebra e da formação de ligações entre os átomos. A quebra de ligações  é um processo que absorve energia, e a formação é um processo que libera energia. O balanço energético  entre a quebra e a formação de ligações químicas, em certas reações, é responsável pela manutenção da vida. No metabolismo humano, a oxidação aeróbica de moléculas orgânicas, como a glicose, além de formar água e  gás carbônico, libera energia para as atividades celulares. Baseando-se no texto, a quebra de ligações é um processo",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "endotérmico, pois libera energia."
+        },
+        {
+          "letra": "B",
+          "texto": "endotérmico, pois absorve energia."
+        },
+        {
+          "letra": "C",
+          "texto": "isotérmico, pois não há variação de energia."
+        },
+        {
+          "letra": "D",
+          "texto": "exotérmico, pois libera energia."
+        },
+        {
+          "letra": "E",
+          "texto": "exotérmico, pois absorve energia."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "d057529a7101cafac67a76fd099215a0d917501e54b183ab03d23a38d798c761",
+        "gabaritoSha256": "c5ad8ad9ed04efae88868a419d71d06c02aaa6232b2f1151d9523c72238422c1",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          12
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-2-q029": {
+      "id": "etec-2024-2-q029",
+      "numero": 29,
+      "enunciado": "Na Grécia Antiga, o corpo humano geralmente era modelado nos ginásios e exposto durante os Jogos  Olímpicos, representando juventude, saúde, força e virilidade. Nessa sociedade,",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a prática esportiva era mais valorizada do que as atividades intelectuais e políticas."
+        },
+        {
+          "letra": "B",
+          "texto": "o ideal de beleza era o homem, cujo corpo perfeito era considerado um reflexo da inteligência."
+        },
+        {
+          "letra": "C",
+          "texto": "os corpos femininos, que ocupavam os espaços públicos, eram a principal referência de virtude a ser  perseguida pelos homens."
+        },
+        {
+          "letra": "D",
+          "texto": "os jogos olímpicos eram uma forma de mobilidade social, pois premiavam os escravizados com a  ascensão para as classes altas."
+        },
+        {
+          "letra": "E",
+          "texto": "os jogos olímpicos e as atividades relacionadas ao desenvolvimento do corpo eram considerados indignos  e, por isso, só eram praticados pelos estrangeiros."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "d057529a7101cafac67a76fd099215a0d917501e54b183ab03d23a38d798c761",
+        "gabaritoSha256": "c5ad8ad9ed04efae88868a419d71d06c02aaa6232b2f1151d9523c72238422c1",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          14
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-2-q030": {
+      "id": "etec-2024-2-q030",
+      "numero": 30,
+      "enunciado": "Existe um tipo de máquina simples que consiste, normalmente, em uma barra rígida móvel apoiada em um  ponto fixo. Semelhante a essas máquinas, os músculos e os ossos, juntamente com as articulações, formam um conjunto  que nos permitem executar atividades corriqueiras como levantar objetos. Um exemplo são os exercícios com  halteres para trabalhar o bíceps. A máquina, citada no texto, é denominada",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "alavanca."
+        },
+        {
+          "letra": "B",
+          "texto": "polia."
+        },
+        {
+          "letra": "C",
+          "texto": "rosca."
+        },
+        {
+          "letra": "D",
+          "texto": "engrenagem."
+        },
+        {
+          "letra": "E",
+          "texto": "mola."
+        }
+      ],
+      "correta": "A",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "d057529a7101cafac67a76fd099215a0d917501e54b183ab03d23a38d798c761",
+        "gabaritoSha256": "c5ad8ad9ed04efae88868a419d71d06c02aaa6232b2f1151d9523c72238422c1",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          14
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-2-q032": {
+      "id": "etec-2024-2-q032",
+      "numero": 32,
+      "enunciado": "O Imperialismo, ou Neocolonialismo, é definido como um movimento de conquista, domínio e exploração  econômica e social, realizado pelas nações industrializadas europeias sobre a África e a Ásia, continentes  habitados por pessoas com fenótipos diferentes dos europeus. Esse movimento tem como uma de suas principais características",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a reivindicação de melhores condições de vida para as populações afetadas pela crise econômica  de 2008."
+        },
+        {
+          "letra": "B",
+          "texto": "a polarização do mundo em dois blocos ideológicos, no contexto da Guerra Fria, na segunda metade do  século XX."
+        },
+        {
+          "letra": "C",
+          "texto": "a utilização ideológica de teorias raciais, como o racismo científico e o darwinismo social, formuladas  no século XIX."
+        },
+        {
+          "letra": "D",
+          "texto": "a formação das monarquias nacionais europeias, como consequência da Guerra dos Cem Anos, entre  França e Inglaterra."
+        },
+        {
+          "letra": "E",
+          "texto": "a oposição da França à política ambiental dos países em desenvolvimento, em meio à crise climática que  caracteriza o início do século XXI."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "d057529a7101cafac67a76fd099215a0d917501e54b183ab03d23a38d798c761",
+        "gabaritoSha256": "c5ad8ad9ed04efae88868a419d71d06c02aaa6232b2f1151d9523c72238422c1",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          15
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-2-q045": {
+      "id": "etec-2024-2-q045",
+      "numero": 45,
+      "enunciado": "De acordo com estudos do Hospital de Genbaku da Cruz Vermelha Japonesa, crianças com idade inferior  a dez anos expostas à radiação atômica, em 1945, foram depois diagnosticadas com um tipo de leucemia,  que normalmente ocorre em idosos, em um índice quatro vezes superior ao da população geral. As crianças  sobreviventes dos bombardeios também demonstraram uma tendência a sofrer de múltiplos tipos de câncer ao  longo das décadas, cada um desenvolvendo-se de maneira independente. Isso se atribui à exposição do corpo  inteiro à radiação no momento da explosão, causando estragos nas células-tronco em múltiplos órgãos que,  por sua vez, podem produzir células anormais que se tornam cancerígenas. <http://tinyurl.com/mpsh9kjm> Acesso em: 31.01.2024. O evento histórico a que o texto faz referência é a",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Guerra Japão – Rússia."
+        },
+        {
+          "letra": "B",
+          "texto": "Guerra da Coreia."
+        },
+        {
+          "letra": "C",
+          "texto": "Guerra do Vietnã."
+        },
+        {
+          "letra": "D",
+          "texto": "Segunda Guerra Mundial."
+        },
+        {
+          "letra": "E",
+          "texto": "Primeira Guerra Mundial."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "d057529a7101cafac67a76fd099215a0d917501e54b183ab03d23a38d798c761",
+        "gabaritoSha256": "c5ad8ad9ed04efae88868a419d71d06c02aaa6232b2f1151d9523c72238422c1",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          20,
+          21
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-2-q047": {
+      "id": "etec-2024-2-q047",
+      "numero": 47,
+      "enunciado": "Josué de Castro, médico e geógrafo pernambucano, escreveu, em 1967, o romance autobiográfico “Homens  e Caranguejos”. O autor escreve sobre indivíduos que vivem nos mangues lamacentos do rio Capibaribe,  em uma situação de miséria e de muita fome, relacionando o homem ao caranguejo. Segundo ele, o homem  afunda-se na lama e torna-se alimento para caranguejos que alimentarão outros homens na mesma condição.  Embora não tenha utilizado o termo “homem-caranguejo”, Josué de Castro preocupou-se em estudar as  semelhanças entre os homens e os caranguejos que dividiam essas áreas. O conceito de “homem-caranguejo” surgiu como um desdobramento dos estudos de Castro sobre a fome e se  caracteriza",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pelo estado de miséria e de desnutrição dos habitantes das grandes cidades do interior da região  Centro-Oeste do Brasil, as quais possuem mangues em suas periferias."
+        },
+        {
+          "letra": "B",
+          "texto": "pela condição atual, no estado de Pernambuco, da população que habita a caatinga, região onde se  concentra a maior parte dos manguezais, principal habitat do caranguejo."
+        },
+        {
+          "letra": "C",
+          "texto": "pelo processo de aterramento artificial dos manguezais existentes no Sudeste brasileiro, como forma  de eliminar a população de caranguejos."
+        },
+        {
+          "letra": "D",
+          "texto": "por fatores sociais e econômicos que empurram o homem para uma situação de miséria,  relacionando-o ao caranguejo que habita os mangues."
+        },
+        {
+          "letra": "E",
+          "texto": "por uma situação inexistente no Brasil, uma vez que se relaciona às áreas de mangues  existentes no continente africano, rico em caranguejos."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "d057529a7101cafac67a76fd099215a0d917501e54b183ab03d23a38d798c761",
+        "gabaritoSha256": "c5ad8ad9ed04efae88868a419d71d06c02aaa6232b2f1151d9523c72238422c1",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          21
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    }
+  }
+}

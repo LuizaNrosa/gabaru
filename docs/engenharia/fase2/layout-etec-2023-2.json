@@ -1,0 +1,170 @@
+{
+  "paginas": [
+    {
+      "pagina": 2,
+      "colunas": 1,
+      "blocos": 21
+    },
+    {
+      "pagina": 3,
+      "colunas": 1,
+      "blocos": 23
+    },
+    {
+      "pagina": 4,
+      "colunas": 1,
+      "blocos": 21
+    },
+    {
+      "pagina": 5,
+      "colunas": 1,
+      "blocos": 24
+    },
+    {
+      "pagina": 6,
+      "colunas": 2,
+      "blocos": 28
+    },
+    {
+      "pagina": 7,
+      "colunas": 1,
+      "blocos": 30
+    },
+    {
+      "pagina": 8,
+      "colunas": 2,
+      "blocos": 38
+    },
+    {
+      "pagina": 9,
+      "colunas": 2,
+      "blocos": 28
+    },
+    {
+      "pagina": 10,
+      "colunas": 1,
+      "blocos": 26
+    },
+    {
+      "pagina": 11,
+      "colunas": 2,
+      "blocos": 31
+    },
+    {
+      "pagina": 12,
+      "colunas": 1,
+      "blocos": 6
+    },
+    {
+      "pagina": 13,
+      "colunas": 1,
+      "blocos": 19
+    },
+    {
+      "pagina": 14,
+      "colunas": 1,
+      "blocos": 14
+    },
+    {
+      "pagina": 15,
+      "colunas": 1,
+      "blocos": 30
+    },
+    {
+      "pagina": 16,
+      "colunas": 1,
+      "blocos": 26
+    },
+    {
+      "pagina": 17,
+      "colunas": 1,
+      "blocos": 10
+    },
+    {
+      "pagina": 18,
+      "colunas": 1,
+      "blocos": 19
+    },
+    {
+      "pagina": 19,
+      "colunas": 1,
+      "blocos": 22
+    },
+    {
+      "pagina": 20,
+      "colunas": 1,
+      "blocos": 14
+    },
+    {
+      "pagina": 21,
+      "colunas": 1,
+      "blocos": 19
+    },
+    {
+      "pagina": 22,
+      "colunas": 1,
+      "blocos": 27
+    },
+    {
+      "pagina": 23,
+      "colunas": 1,
+      "blocos": 10
+    }
+  ],
+  "gabarito": {
+    "1": "C",
+    "2": "E",
+    "3": "D",
+    "4": "B",
+    "5": "A",
+    "6": "C",
+    "7": "B",
+    "8": "C",
+    "9": "E",
+    "10": "E",
+    "11": "C",
+    "12": "B",
+    "13": "B",
+    "14": "E",
+    "15": "C",
+    "16": "C",
+    "17": "D",
+    "18": "B",
+    "19": "C",
+    "20": "E",
+    "21": "C",
+    "22": "E",
+    "23": "D",
+    "24": "E",
+    "25": "E",
+    "26": "D",
+    "27": "E",
+    "28": "D",
+    "29": "A",
+    "30": "D",
+    "31": "E",
+    "32": "C",
+    "33": "E",
+    "34": "D",
+    "35": "B",
+    "36": "D",
+    "37": "C",
+    "38": "D",
+    "39": "C",
+    "40": "B",
+    "41": "E",
+    "42": "D",
+    "43": "B",
+    "44": "D",
+    "45": "A",
+    "46": "E",
+    "47": "A",
+    "48": "C",
+    "49": "A",
+    "50": "E"
+  },
+  "esperadas": 50,
+  "extraidas": 48,
+  "aceitas": 16,
+  "quarentena": 34
+}

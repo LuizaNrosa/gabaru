@@ -11,7 +11,7 @@
     "db:migrate": "node scripts/migrate-db.mjs",
     "db:import-etec": "node scripts/import-etec-db.mjs",
     "validar:design": "node scripts/validar-design-unicamp.mjs",
-    "acervo:prepare": "node scripts/restore-acervo-parts.mjs && node scripts/prepare-etec.mjs --paginar && node scripts/prepare-coluni.mjs && node scripts/prepare-ifsc.mjs && node scripts/prepare-ifsp.mjs && node scripts/paginar-acervos.mjs && node scripts/prepare-ifs-reader.mjs && node scripts/prepare-enem.mjs",
+    "acervo:prepare": "node scripts/restore-acervo-parts.mjs && node scripts/prepare-etec.mjs --paginar && node scripts/prepare-coluni.mjs && node scripts/prepare-ifsc.mjs && node scripts/prepare-ifsp.mjs && node scripts/paginar-acervos.mjs && node scripts/prepare-ifs-reader.mjs && node --use-env-proxy scripts/prepare-enem.mjs",
     "catalogo:gerar": "node scripts/gerar-catalogo.mjs && node scripts/gerar-llms.mjs",
     "prebuild": "npm run catalogo:gerar",
     "validar:catalogo": "node --test tests/catalogo-v2.test.mjs",
@@ -23,14 +23,17 @@
   "dependencies": {
     "firebase": "^13.0.0",
     "firebase-admin": "^14.5.0",
+    "function-plot": "^1.26.0",
     "katex": "^0.19.1",
     "lucide-react": "^1.73.0",
     "minisearch": "^7.2.0",
     "next": "^16.4.1",
+    "pdf-parse": "^2.4.5",
     "pg": "^8.23.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "server-only": "^0.0.1",
+    "sitemap": "^10.0.0",
     "stripe": "^17.0.0"
   },
   "devDependencies": {

@@ -1,0 +1,185 @@
+{
+  "banca": "etec",
+  "edicao": "2023-1",
+  "provaSha256": "e88907b015c024d2e17a0f6a3580a94b286c46b24073535e277aea1cb2d07d71",
+  "gabaritoSha256": "648e3e9f84c1c8f056e629d635b78b89321afbe6d86a5378b7b51afd0781e88e",
+  "esperadas": 40,
+  "aceitas": {
+    "etec-2023-1-q008": {
+      "id": "etec-2023-1-q008",
+      "numero": 8,
+      "enunciado": "As relações alimentares entre os diversos organismos de um ecossistema costumam ser representadas  por meio de diagramas denominados teias alimentares, ou redes alimentares. Essas teias são compostas  de diversas cadeias interligadas por meio de setas, que unem os componentes da comunidade entre si,  evidenciando suas relações quanto aos diferentes níveis tróﬁcos. Considerando a teia alimentar representada, é correto aﬁrmar que",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as lulas são consumidores terciários, pois se alimentam de leões-marinhos, orcas e pinguins."
+        },
+        {
+          "letra": "B",
+          "texto": "os seres do zooplâncton constituem o primeiro nível tróﬁco e formam a base das cadeias alimentares aquáticas."
+        },
+        {
+          "letra": "C",
+          "texto": "as focas apresentam diferentes hábitos alimentares e ocupam diferentes níveis tróﬁcos."
+        },
+        {
+          "letra": "D",
+          "texto": "os peixes pequenos e o krill pertencem ao mesmo nível tróﬁco, pois se alimentam diretamente do ﬁtoplâncton."
+        },
+        {
+          "letra": "E",
+          "texto": "o extermínio dos pinguins ocasionará a diminuição da população de orcas, pois estas se alimentam daqueles mamíferos."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "e88907b015c024d2e17a0f6a3580a94b286c46b24073535e277aea1cb2d07d71",
+        "gabaritoSha256": "648e3e9f84c1c8f056e629d635b78b89321afbe6d86a5378b7b51afd0781e88e",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          5
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-1-q009": {
+      "id": "etec-2023-1-q009",
+      "numero": 9,
+      "enunciado": "Em relação aos seres vivos da teia alimentar marinha apresentada, é correto aﬁrmar que",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os seres do zooplâncton e os copépodes são macroscópicos, vivem em suspensão na água e produzem seu próprio alimento."
+        },
+        {
+          "letra": "B",
+          "texto": "os seres do ﬁtoplâncton são vegetais que sobrevivem nas regiões escuras dos oceanos sem a incidência de raios solares."
+        },
+        {
+          "letra": "C",
+          "texto": "a baleia-azul é um mamífero sem dentes, que ﬁltra a água do mar de onde retira grandes quantidades de alimento."
+        },
+        {
+          "letra": "D",
+          "texto": "os peixes pequenos e as lulas competem com a baleia azul e com as focas pelo seu alimento."
+        },
+        {
+          "letra": "E",
+          "texto": "os pinguins se alimentam principalmente de copépodes e de peixes pequenos."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "e88907b015c024d2e17a0f6a3580a94b286c46b24073535e277aea1cb2d07d71",
+        "gabaritoSha256": "648e3e9f84c1c8f056e629d635b78b89321afbe6d86a5378b7b51afd0781e88e",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          6
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-1-q017": {
+      "id": "etec-2023-1-q017",
+      "numero": 17,
+      "enunciado": "O oceano é um corpo contínuo de água salgada que recobre mais de 70% da superfície terrestre.  Sua importância para a vida no planeta Terra é signiﬁcativa. Porém, todos os dias são despejados  nesse corpo d’água milhões de litros de esgotos sanitários não tratados. Esse despejo constitui-se em  uma grande ameaça para a vida marinha, bem como para as pessoas que vivem e tiram seu sustento  dessas águas. A melhor forma de minimizar esse impacto é",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "despejar os esgotos sanitários nos rios interiores."
+        },
+        {
+          "letra": "B",
+          "texto": "lançar os esgotos sanitários nos lençóis freáticos."
+        },
+        {
+          "letra": "C",
+          "texto": "armazenar os esgotos sanitários nas lagoas costeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "jogar os esgotos sanitários nos lagos das usinas hidrelétricas."
+        },
+        {
+          "letra": "E",
+          "texto": "tratar os esgotos sanitários antes de despejá-los no oceano."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "e88907b015c024d2e17a0f6a3580a94b286c46b24073535e277aea1cb2d07d71",
+        "gabaritoSha256": "648e3e9f84c1c8f056e629d635b78b89321afbe6d86a5378b7b51afd0781e88e",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          11
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-1-q018": {
+      "id": "etec-2023-1-q018",
+      "numero": 18,
+      "enunciado": "A poluição marinha é um problema cada vez mais grave em todo o mundo, à medida que aumenta  sistematicamente todos os anos por conta do descarte irregular de diferentes tipos de resíduos e por  conta da falta de medidas sustentáveis. No entanto, esse problema pode ser revertido ou, pelo menos,  amenizado por meio de medidas mais responsáveis do ponto de vista ambiental. Assinale a alternativa que apresenta ações as quais indivíduos e empresas deveriam adotar para evitar  a poluição marinha.",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A utilização de microplásticos na produção de artigos de higiene pessoal, roupas e cosméticos, porque essas partículas, lançadas ao mar pelos esgotos, servem de alimentos para os seres vivos  marinhos."
+        },
+        {
+          "letra": "B",
+          "texto": "O descarte do lixo reciclável em locais inadequados, pois isso facilita o retorno da matéria-prima à cadeia produtiva a ﬁm de se transformar no mesmo produto ou em produtos diferentes dos originais."
+        },
+        {
+          "letra": "C",
+          "texto": "A substituição de copos, talheres, canudos e garrafas descartáveis  por produtos reutilizáveis a ﬁm de preservar os ecossistemas durante sua vida útil e também após o descarte."
+        },
+        {
+          "letra": "D",
+          "texto": "A utilização de sacolinhas plásticas para empacotar as compras no supermercado, pois não prejudicam o meio ambiente e são recicladas para a alimentação da fauna marinha."
+        },
+        {
+          "letra": "E",
+          "texto": "O estímulo à produção de objetos descartáveis a ﬁm de diminuir o consumo de recursos naturais e de reduzir o volume de lixo no ambiente."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "e88907b015c024d2e17a0f6a3580a94b286c46b24073535e277aea1cb2d07d71",
+        "gabaritoSha256": "648e3e9f84c1c8f056e629d635b78b89321afbe6d86a5378b7b51afd0781e88e",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          11
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    }
+  }
+}

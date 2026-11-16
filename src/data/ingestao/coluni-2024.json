@@ -1,0 +1,8 @@
+{
+  "banca": "coluni",
+  "edicao": "2024",
+  "provaSha256": "2ee1d58bfb313fb00ebd6bfe2576c77e4095b5c707ca2d4b453d6d7c25d8a5bb",
+  "gabaritoSha256": "0aadc6f3a10ba8b968ef9bc5b73172bafe4390ba2cdd294ee45bb3ff42a93a5a",
+  "esperadas": 38,
+  "aceitas": {}
+}

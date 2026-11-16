@@ -1,3 +1,4 @@
+// © 2026 Luiza Nascimento Rosa. Todos os direitos reservados.
 "use client";
 
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";

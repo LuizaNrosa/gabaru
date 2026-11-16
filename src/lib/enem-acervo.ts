@@ -12,7 +12,7 @@ function applicationOrder(id: string) {
   if (id === "enem-2025-d2") return 1;
   if (["enem-2021-d2", "enem-2022-d2"].includes(id)) return 1;
   if (id === "enem-2020-d2") return 2;
-  if (id.includes("-ppl-")) return 3;
+  if (id.includes("-ppl-") || id.includes("-reaplicacao-")) return 3;
   return 0;
 }
 

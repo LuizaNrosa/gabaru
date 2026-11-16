@@ -18,735 +18,88 @@ Cada questão pode conter banca, edição, ano, área, disciplina, assunto, difi
 ## COLUNI/UFV — Colégio de Aplicação da Universidade Federal de Viçosa
 https://www.gabaru.com.br/banca/coluni
 
-- [COLUNI/UFV 2026 · Caderno 1](https://www.gabaru.com.br/provas/coluni/2026) — ano 2026; 38 itens; duração consultar edital; situação editorial: rascunho.
-- [COLUNI/UFV 2025 · Caderno 1](https://www.gabaru.com.br/provas/coluni/2025) — ano 2025; 38 itens; duração consultar edital; situação editorial: rascunho.
-- [COLUNI/UFV 2024 · Caderno 1](https://www.gabaru.com.br/provas/coluni/2024) — ano 2024; 38 itens; duração consultar edital; situação editorial: rascunho.
-- [COLUNI/UFV 2023 · Caderno 1](https://www.gabaru.com.br/provas/coluni/2023) — ano 2023; 38 itens; duração consultar edital; situação editorial: rascunho.
-- [COLUNI/UFV 2022 · Caderno 1](https://www.gabaru.com.br/provas/coluni/2022) — ano 2022; 38 itens; duração consultar edital; situação editorial: rascunho.
-- [COLUNI/UFV 2021 · Caderno 1](https://www.gabaru.com.br/provas/coluni/2021) — ano 2021; 38 itens; duração consultar edital; situação editorial: rascunho.
-- [COLUNI/UFV 2020 · Caderno 1](https://www.gabaru.com.br/provas/coluni/2020) — ano 2020; 38 itens; duração consultar edital; situação editorial: rascunho.
-- [COLUNI/UFV 2019 · Caderno 1](https://www.gabaru.com.br/provas/coluni/2019) — ano 2019; 38 itens; duração consultar edital; situação editorial: rascunho.
-- [COLUNI/UFV 2018 · Caderno 1](https://www.gabaru.com.br/provas/coluni/2018) — ano 2018; 38 itens; duração consultar edital; situação editorial: rascunho.
-- [COLUNI/UFV 2017 · Caderno 1](https://www.gabaru.com.br/provas/coluni/2017) — ano 2017; 48 itens; duração consultar edital; situação editorial: rascunho.
-- [COLUNI/UFV 2016 · Caderno 1](https://www.gabaru.com.br/provas/coluni/2016) — ano 2016; 48 itens; duração consultar edital; situação editorial: rascunho.
-- [COLUNI/UFV 2015 · Caderno 1](https://www.gabaru.com.br/provas/coluni/2015) — ano 2015; 48 itens; duração consultar edital; situação editorial: rascunho.
-- [COLUNI/UFV 2014 · Caderno 1](https://www.gabaru.com.br/provas/coluni/2014) — ano 2014; 48 itens; duração consultar edital; situação editorial: rascunho.
-- [COLUNI/UFV 2013 · Caderno 1](https://www.gabaru.com.br/provas/coluni/2013) — ano 2013; 48 itens; duração consultar edital; situação editorial: rascunho.
 
 ## ETEC — Centro Paula Souza — Escolas Técnicas Estaduais
 https://www.gabaru.com.br/banca/etec
 
-- [ETEC 2026 · 1º semestre](https://www.gabaru.com.br/provas/etec/2026-1) — ano 2026; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2026 · 2º semestre](https://www.gabaru.com.br/provas/etec/2026-2) — ano 2026; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2025 · 1º semestre](https://www.gabaru.com.br/provas/etec/2025-1) — ano 2025; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2025 · 2º semestre](https://www.gabaru.com.br/provas/etec/2025-2) — ano 2025; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2024 · 1º semestre](https://www.gabaru.com.br/provas/etec/2024-1) — ano 2024; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2024 · 2º semestre](https://www.gabaru.com.br/provas/etec/2024-2) — ano 2024; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2023 · 1º semestre](https://www.gabaru.com.br/provas/etec/2023-1) — ano 2023; 40 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2023 · 2º semestre](https://www.gabaru.com.br/provas/etec/2023-2) — ano 2023; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2022 · 2º semestre](https://www.gabaru.com.br/provas/etec/2022-2) — ano 2022; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2020 · 1º semestre](https://www.gabaru.com.br/provas/etec/2020-1) — ano 2020; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2019 · 1º semestre](https://www.gabaru.com.br/provas/etec/2019-1) — ano 2019; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2019 · 2º semestre](https://www.gabaru.com.br/provas/etec/2019-2) — ano 2019; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2018 · 1º semestre](https://www.gabaru.com.br/provas/etec/2018-1) — ano 2018; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2018 · 2º semestre](https://www.gabaru.com.br/provas/etec/2018-2) — ano 2018; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2017 · 1º semestre](https://www.gabaru.com.br/provas/etec/2017-1) — ano 2017; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2017 · 2º semestre](https://www.gabaru.com.br/provas/etec/2017-2) — ano 2017; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2016 · 1º semestre](https://www.gabaru.com.br/provas/etec/2016-1) — ano 2016; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2016 · 2º semestre](https://www.gabaru.com.br/provas/etec/2016-2) — ano 2016; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2015 · 1º semestre](https://www.gabaru.com.br/provas/etec/2015-1) — ano 2015; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2015 · 2º semestre](https://www.gabaru.com.br/provas/etec/2015-2) — ano 2015; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2014 · 1º semestre](https://www.gabaru.com.br/provas/etec/2014-1) — ano 2014; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2014 · 2º semestre](https://www.gabaru.com.br/provas/etec/2014-2) — ano 2014; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2013 · 1º semestre](https://www.gabaru.com.br/provas/etec/2013-1) — ano 2013; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2013 · 2º semestre](https://www.gabaru.com.br/provas/etec/2013-2) — ano 2013; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2012 · 1º semestre](https://www.gabaru.com.br/provas/etec/2012-1) — ano 2012; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2012 · 2º semestre](https://www.gabaru.com.br/provas/etec/2012-2) — ano 2012; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2011 · 1º semestre](https://www.gabaru.com.br/provas/etec/2011-1) — ano 2011; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2011 · 2º semestre](https://www.gabaru.com.br/provas/etec/2011-2) — ano 2011; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2010 · 1º semestre](https://www.gabaru.com.br/provas/etec/2010-1) — ano 2010; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2010 · 2º semestre](https://www.gabaru.com.br/provas/etec/2010-2) — ano 2010; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2010 · 2º semestre · 2º processo seletivo](https://www.gabaru.com.br/provas/etec/2010-2-extra1) — ano 2010; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2009 · 1º semestre](https://www.gabaru.com.br/provas/etec/2009-1) — ano 2009; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2009 · 1º semestre · 2º processo seletivo](https://www.gabaru.com.br/provas/etec/2009-1-extra1) — ano 2009; 30 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2009 · 2º semestre](https://www.gabaru.com.br/provas/etec/2009-2) — ano 2009; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2009 · 2º semestre · 2º processo seletivo](https://www.gabaru.com.br/provas/etec/2009-2-extra1) — ano 2009; 40 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2008 · 1º semestre](https://www.gabaru.com.br/provas/etec/2008-1) — ano 2008; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2008 · 1º semestre · Extemporâneo](https://www.gabaru.com.br/provas/etec/2008-1-extra1) — ano 2008; 30 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2008 · 2º semestre](https://www.gabaru.com.br/provas/etec/2008-2) — ano 2008; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2007 · 1º semestre](https://www.gabaru.com.br/provas/etec/2007-1) — ano 2007; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2007 · 2º semestre](https://www.gabaru.com.br/provas/etec/2007-2) — ano 2007; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2006 · 1º semestre](https://www.gabaru.com.br/provas/etec/2006-1) — ano 2006; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2006 · 2º semestre](https://www.gabaru.com.br/provas/etec/2006-2) — ano 2006; 50 itens; duração 240 minutos; situação editorial: rascunho.
-- [ETEC 2005 · 2º semestre](https://www.gabaru.com.br/provas/etec/2005-2) — ano 2005; 50 itens; duração 240 minutos; situação editorial: rascunho.
 
 ## FUVEST — Fundação Universitária para o Vestibular
 https://www.gabaru.com.br/banca/fuvest
 
-- [1ª fase · prova V4](https://www.gabaru.com.br/provas/fuvest/2026) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da 2ª fase – 1º dia](https://www.gabaru.com.br/provas/fuvest/2026) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova – Música – São Paulo](https://www.gabaru.com.br/provas/fuvest/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova prática – Arte Cênicas](https://www.gabaru.com.br/provas/fuvest/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova escrita – Arte Cênicas](https://www.gabaru.com.br/provas/fuvest/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova – Artes Visuais](https://www.gabaru.com.br/provas/fuvest/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2025 · V1](https://www.gabaru.com.br/provas/fuvest/2025) — ano 2025; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2025 · V2](https://www.gabaru.com.br/provas/fuvest/2025) — ano 2025; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2025 · V3](https://www.gabaru.com.br/provas/fuvest/2025) — ano 2025; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2025 · V4](https://www.gabaru.com.br/provas/fuvest/2025) — ano 2025; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2024 · K](https://www.gabaru.com.br/provas/fuvest/2024) — ano 2024; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2024 · Q](https://www.gabaru.com.br/provas/fuvest/2024) — ano 2024; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2024 · V](https://www.gabaru.com.br/provas/fuvest/2024) — ano 2024; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2024 · X](https://www.gabaru.com.br/provas/fuvest/2024) — ano 2024; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2024 · Z](https://www.gabaru.com.br/provas/fuvest/2024) — ano 2024; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2023 · K](https://www.gabaru.com.br/provas/fuvest/2023) — ano 2023; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2023 · Q](https://www.gabaru.com.br/provas/fuvest/2023) — ano 2023; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2023 · V](https://www.gabaru.com.br/provas/fuvest/2023) — ano 2023; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2023 · X](https://www.gabaru.com.br/provas/fuvest/2023) — ano 2023; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2023 · Z](https://www.gabaru.com.br/provas/fuvest/2023) — ano 2023; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2022 · K](https://www.gabaru.com.br/provas/fuvest/2022) — ano 2022; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2022 · Q](https://www.gabaru.com.br/provas/fuvest/2022) — ano 2022; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2022 · V](https://www.gabaru.com.br/provas/fuvest/2022) — ano 2022; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2022 · X](https://www.gabaru.com.br/provas/fuvest/2022) — ano 2022; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2022 · Z](https://www.gabaru.com.br/provas/fuvest/2022) — ano 2022; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2021 · V](https://www.gabaru.com.br/provas/fuvest/2021) — ano 2021; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2020 · V](https://www.gabaru.com.br/provas/fuvest/2020) — ano 2020; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2019 · V](https://www.gabaru.com.br/provas/fuvest/2019) — ano 2019; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2018 · V](https://www.gabaru.com.br/provas/fuvest/2018) — ano 2018; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2017 · V](https://www.gabaru.com.br/provas/fuvest/2017) — ano 2017; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2016 · V](https://www.gabaru.com.br/provas/fuvest/2016) — ano 2016; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2015 · V](https://www.gabaru.com.br/provas/fuvest/2015) — ano 2015; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2014 · V](https://www.gabaru.com.br/provas/fuvest/2014) — ano 2014; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2013 · V](https://www.gabaru.com.br/provas/fuvest/2013) — ano 2013; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2012 · V](https://www.gabaru.com.br/provas/fuvest/2012) — ano 2012; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2011 · V](https://www.gabaru.com.br/provas/fuvest/2011) — ano 2011; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2010 · V](https://www.gabaru.com.br/provas/fuvest/2010) — ano 2010; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2009 · V](https://www.gabaru.com.br/provas/fuvest/2009) — ano 2009; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2008 · V](https://www.gabaru.com.br/provas/fuvest/2008) — ano 2008; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2007 · V](https://www.gabaru.com.br/provas/fuvest/2007) — ano 2007; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2006 · V](https://www.gabaru.com.br/provas/fuvest/2006) — ano 2006; 100 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2005 · V](https://www.gabaru.com.br/provas/fuvest/2005) — ano 2005; 100 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2004 · V](https://www.gabaru.com.br/provas/fuvest/2004) — ano 2004; 100 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2003 · V](https://www.gabaru.com.br/provas/fuvest/2003) — ano 2003; 100 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2002 · V](https://www.gabaru.com.br/provas/fuvest/2002) — ano 2002; 80 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2002 · T](https://www.gabaru.com.br/provas/fuvest/2002) — ano 2002; 80 itens; duração consultar edital; situação editorial: rascunho.
-- [Prova 2º Dia](https://www.gabaru.com.br/provas/fuvest/2001) — ano 2001; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2001 · V](https://www.gabaru.com.br/provas/fuvest/2001) — ano 2001; 80 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2000 · V](https://www.gabaru.com.br/provas/fuvest/2000) — ano 2000; 80 itens; duração consultar edital; situação editorial: rascunho.
-- [FUVEST 2000 · T](https://www.gabaru.com.br/provas/fuvest/2000) — ano 2000; 80 itens; duração consultar edital; situação editorial: rascunho.
-- [Prova 2º Dia](https://www.gabaru.com.br/provas/fuvest/1999) — ano 1999; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova 1º Dia](https://www.gabaru.com.br/provas/fuvest/1999) — ano 1999; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova 2º Dia](https://www.gabaru.com.br/provas/fuvest/1998) — ano 1998; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova 1º Dia](https://www.gabaru.com.br/provas/fuvest/1998) — ano 1998; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova 1º Dia](https://www.gabaru.com.br/provas/fuvest/1997) — ano 1997; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova 2º Dia](https://www.gabaru.com.br/provas/fuvest/1997) — ano 1997; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova 1º Dia](https://www.gabaru.com.br/provas/fuvest/1996) — ano 1996; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova 2º Dia](https://www.gabaru.com.br/provas/fuvest/1996) — ano 1996; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova 2º Dia](https://www.gabaru.com.br/provas/fuvest/1995) — ano 1995; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova 1º Dia](https://www.gabaru.com.br/provas/fuvest/1995) — ano 1995; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1994) — ano 1994; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1993) — ano 1993; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1992) — ano 1992; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1991) — ano 1991; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1990) — ano 1990; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1989) — ano 1989; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1988) — ano 1988; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1986) — ano 1986; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1985) — ano 1985; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1983) — ano 1983; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1982) — ano 1982; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1981) — ano 1981; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1980) — ano 1980; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1979) — ano 1979; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova](https://www.gabaru.com.br/provas/fuvest/1978) — ano 1978; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
 
 ## IFAM — Instituto Federal do Amazonas
 https://www.gabaru.com.br/banca/ifam
 
-- [IFAM 2015/1](https://www.gabaru.com.br/provas/ifam/2015) — ano 2015; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [IFAM 2013/1](https://www.gabaru.com.br/provas/ifam/2013) — ano 2013; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [IFAM 2012/1](https://www.gabaru.com.br/provas/ifam/2012) — ano 2012; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
 
 ## IFCE — Instituto Federal de Educação, Ciência e Tecnologia de Ceará
 https://www.gabaru.com.br/banca/ifce
 
-- [IFCE Fortaleza e Caucaia 2025.1 · Técnico integrado](https://www.gabaru.com.br/provas/ifce/ifce-fortaleza-caucaia-2025-1) — ano 2025; 45 itens; duração consultar edital; situação editorial: rascunho.
-- [IFCE Fortaleza 2024.2 · Técnico integrado](https://www.gabaru.com.br/provas/ifce/ifce-fortaleza-2024-2) — ano 2024; 45 itens; duração consultar edital; situação editorial: rascunho.
-- [IFCE Fortaleza 2023.2 · Técnico integrado](https://www.gabaru.com.br/provas/ifce/ifce-fortaleza-2023-2) — ano 2023; 45 itens; duração consultar edital; situação editorial: rascunho.
 
 ## IFMG — Instituto Federal de Minas Gerais
 https://www.gabaru.com.br/banca/ifmg
 
-- [IFMG 2026.1 · Técnico integrado](https://www.gabaru.com.br/provas/ifmg/ifmg-2026-1) — ano 2026; 48 itens; duração consultar edital; situação editorial: rascunho.
-- [IFMG 2025.1 · Técnico integrado](https://www.gabaru.com.br/provas/ifmg/ifmg-2025-1) — ano 2025; 50 itens; duração consultar edital; situação editorial: rascunho.
-- [IFMG 2024.1 · Cursos técnicos](https://www.gabaru.com.br/provas/ifmg/ifmg-2024-1) — ano 2024; 50 itens; duração consultar edital; situação editorial: rascunho.
-- [IFMG 2023/2](https://www.gabaru.com.br/provas/ifmg/2023) — ano 2023; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [IFMG 2023.1 · Cursos técnicos](https://www.gabaru.com.br/provas/ifmg/ifmg-2023-1) — ano 2023; 50 itens; duração consultar edital; situação editorial: rascunho.
 
 ## IFMT — Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso
 https://www.gabaru.com.br/banca/ifmt
 
-- [IFMT 2026/1 · Técnico integrado](https://www.gabaru.com.br/provas/ifmt/ifmt-2026-1) — ano 2026; 50 itens; duração consultar edital; situação editorial: rascunho.
-- [IFMT 2025/1 · Técnico integrado](https://www.gabaru.com.br/provas/ifmt/ifmt-2025-1) — ano 2025; 40 itens; duração consultar edital; situação editorial: rascunho.
 
 ## IFRN — Instituto Federal do Rio Grande do Norte
 https://www.gabaru.com.br/banca/ifrn
 
-- [IFRN 2026 · Técnico integrado](https://www.gabaru.com.br/provas/ifrn/ifrn-2026) — ano 2026; 40 itens; duração consultar edital; situação editorial: rascunho.
-- [IFRN 2025 · Técnico integrado](https://www.gabaru.com.br/provas/ifrn/ifrn-2025) — ano 2025; 40 itens; duração consultar edital; situação editorial: rascunho.
-- [IFRN 2024 · Técnico integrado](https://www.gabaru.com.br/provas/ifrn/ifrn-2024) — ano 2024; 40 itens; duração consultar edital; situação editorial: rascunho.
-- [IFRN 2023 · Técnico integrado](https://www.gabaru.com.br/provas/ifrn/ifrn-2023) — ano 2023; 40 itens; duração consultar edital; situação editorial: rascunho.
-- [IFRN 2022 · Técnico integrado](https://www.gabaru.com.br/provas/ifrn/ifrn-2022) — ano 2022; 40 itens; duração consultar edital; situação editorial: rascunho.
 
 ## IFRS — Instituto Federal de Educação, Ciência e Tecnologia de Rio Grande do Sul
 https://www.gabaru.com.br/banca/ifrs
 
-- [IFRS 2026/1 · Técnico integrado](https://www.gabaru.com.br/provas/ifrs/ifrs-2026-1) — ano 2026; 40 itens; duração consultar edital; situação editorial: rascunho.
-- [IFRS 2025/1 · Técnico integrado](https://www.gabaru.com.br/provas/ifrs/ifrs-2025-1) — ano 2025; 40 itens; duração consultar edital; situação editorial: rascunho.
 
 ## IFSC — Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina
 https://www.gabaru.com.br/banca/ifsc
 
-- [IFSC 2026.1 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2026-1) — ano 2026; 28 itens; duração 240 minutos; situação editorial: rascunho.
-- [IFSC 2026.2 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2026-2) — ano 2026; 28 itens; duração 240 minutos; situação editorial: rascunho.
-- [IFSC 2025.1 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2025-1) — ano 2025; 28 itens; duração 240 minutos; situação editorial: rascunho.
-- [IFSC 2025.2 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2025-2) — ano 2025; 28 itens; duração consultar edital; situação editorial: rascunho.
-- [IFSC 2024.1 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2024-1) — ano 2024; 24 itens; duração 240 minutos; situação editorial: rascunho.
-- [IFSC 2024.1 · Câmpus Itajaí (prova própria)](https://www.gabaru.com.br/provas/ifsc/2024-1-itajai) — ano 2024; 24 itens; duração 240 minutos; situação editorial: rascunho.
-- [IFSC 2024.2 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2024-2) — ano 2024; 28 itens; duração consultar edital; situação editorial: rascunho.
-- [IFSC 2023.1 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2023-1) — ano 2023; 20 itens; duração consultar edital; situação editorial: rascunho.
-- [IFSC 2023.2 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2023-2) — ano 2023; 20 itens; duração consultar edital; situação editorial: rascunho.
-- [IFSC 2022.1 · Câmpus Florianópolis](https://www.gabaru.com.br/provas/ifsc/2022-1) — ano 2022; 20 itens; duração consultar edital; situação editorial: rascunho.
-- [IFSC 2022.2 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2022-2) — ano 2022; 20 itens; duração consultar edital; situação editorial: rascunho.
-- [IFSC 2020.1 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2020-1) — ano 2020; 20 itens; duração consultar edital; situação editorial: rascunho.
-- [IFSC 2019.1 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2019-1) — ano 2019; 20 itens; duração consultar edital; situação editorial: rascunho.
-- [IFSC 2019.2 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2019-2) — ano 2019; 20 itens; duração consultar edital; situação editorial: rascunho.
-- [IFSC 2018.1 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2018-1) — ano 2018; 20 itens; duração consultar edital; situação editorial: rascunho.
-- [IFSC 2018.2 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2018-2) — ano 2018; 20 itens; duração consultar edital; situação editorial: rascunho.
-- [IFSC 2017.1 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2017-1) — ano 2017; 20 itens; duração consultar edital; situação editorial: rascunho.
-- [IFSC 2017.2 · Exame de Classificação](https://www.gabaru.com.br/provas/ifsc/2017-2) — ano 2017; 20 itens; duração consultar edital; situação editorial: rascunho.
 
 ## IFSP — Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
 https://www.gabaru.com.br/banca/ifsp
 
-- [IFSP 2026.1 · Integrado — Prova Tipo 1](https://www.gabaru.com.br/provas/ifsp/2026-1-tipo1) — ano 2026; 30 itens; duração 180 minutos; situação editorial: rascunho.
-- [IFSP 2026.1 · Integrado — Prova Tipo 2](https://www.gabaru.com.br/provas/ifsp/2026-1-tipo2) — ano 2026; 30 itens; duração 180 minutos; situação editorial: rascunho.
-- [IFSP 2025.1 · Integrado — Prova A (Manhã)](https://www.gabaru.com.br/provas/ifsp/2025-1-a) — ano 2025; 30 itens; duração 180 minutos; situação editorial: rascunho.
-- [IFSP 2025.1 · Integrado — Prova B (Tarde)](https://www.gabaru.com.br/provas/ifsp/2025-1-b) — ano 2025; 30 itens; duração 180 minutos; situação editorial: rascunho.
-- [IFSP 2024.1 · Integrado — Prova A (Manhã)](https://www.gabaru.com.br/provas/ifsp/2024-1-a) — ano 2024; 30 itens; duração 180 minutos; situação editorial: rascunho.
-- [IFSP 2024.1 · Integrado — Prova B (Tarde)](https://www.gabaru.com.br/provas/ifsp/2024-1-b) — ano 2024; 30 itens; duração 180 minutos; situação editorial: rascunho.
-- [IFSP 2023.1 · Integrado — Prova A](https://www.gabaru.com.br/provas/ifsp/2023-1-a) — ano 2023; 30 itens; duração 180 minutos; situação editorial: rascunho.
-- [IFSP 2023.1 · Integrado — Prova B](https://www.gabaru.com.br/provas/ifsp/2023-1-b) — ano 2023; 30 itens; duração 180 minutos; situação editorial: rascunho.
-- [IFSP 2022.1 · Integrado — Prova Manhã](https://www.gabaru.com.br/provas/ifsp/2022-1-manha) — ano 2022; 30 itens; duração 180 minutos; situação editorial: rascunho.
-- [IFSP 2022.1 · Integrado — Prova Tarde](https://www.gabaru.com.br/provas/ifsp/2022-1-tarde) — ano 2022; 30 itens; duração 180 minutos; situação editorial: rascunho.
 
 ## INEP / ENEM — Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
 https://www.gabaru.com.br/banca/enem
 
-- [ENEM 2025 — 2º dia · enem-2025-belem-azul-d2](https://www.gabaru.com.br/provas/enem/enem-2025-belem-azul-d2) — ano 2025; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2025 — 1º dia · enem-2025-d1](https://www.gabaru.com.br/provas/enem/enem-2025-d1) — ano 2025; 95 itens; duração 330 minutos; situação editorial: rascunho.
-- [ENEM 2025 — 2º dia · enem-2025-d2](https://www.gabaru.com.br/provas/enem/enem-2025-d2) — ano 2025; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2025 — 2º dia · enem-2025-reaplicacao-d2](https://www.gabaru.com.br/provas/enem/enem-2025-reaplicacao-d2) — ano 2025; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2025 — 2º dia · enem-2025-regular-d2](https://www.gabaru.com.br/provas/enem/enem-2025-regular-d2) — ano 2025; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2024 — 1º dia · enem-2024-d1](https://www.gabaru.com.br/provas/enem/enem-2024-d1) — ano 2024; 95 itens; duração 330 minutos; situação editorial: rascunho.
-- [ENEM 2024 — 2º dia · enem-2024-ppl-azul-d2](https://www.gabaru.com.br/provas/enem/enem-2024-ppl-azul-d2) — ano 2024; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2024 — 2º dia · enem-2024-ppl-d2](https://www.gabaru.com.br/provas/enem/enem-2024-ppl-d2) — ano 2024; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2024 — 2º dia · enem-2024-regular-d2](https://www.gabaru.com.br/provas/enem/enem-2024-regular-d2) — ano 2024; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2023 — 1º dia · enem-2023-d1](https://www.gabaru.com.br/provas/enem/enem-2023-d1) — ano 2023; 95 itens; duração 330 minutos; situação editorial: rascunho.
-- [ENEM 2023 — 2º dia · enem-2023-d2](https://www.gabaru.com.br/provas/enem/enem-2023-d2) — ano 2023; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2023 — 2º dia · enem-2023-ppl-azul-d2](https://www.gabaru.com.br/provas/enem/enem-2023-ppl-azul-d2) — ano 2023; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2022 — 1º dia · enem-2022-d1](https://www.gabaru.com.br/provas/enem/enem-2022-d1) — ano 2022; 95 itens; duração 330 minutos; situação editorial: rascunho.
-- [ENEM 2022 — 2º dia · enem-2022-d2](https://www.gabaru.com.br/provas/enem/enem-2022-d2) — ano 2022; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2022 — 2º dia · enem-2022-digital-azul-d2](https://www.gabaru.com.br/provas/enem/enem-2022-digital-azul-d2) — ano 2022; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2022 — 2º dia · enem-2022-ppl-azul-d2](https://www.gabaru.com.br/provas/enem/enem-2022-ppl-azul-d2) — ano 2022; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2022 — 1º dia · enem-2022-ppl-d1](https://www.gabaru.com.br/provas/enem/enem-2022-ppl-d1) — ano 2022; 95 itens; duração 330 minutos; situação editorial: rascunho.
-- [ENEM 2022 — 2º dia · enem-2022-ppl-d2](https://www.gabaru.com.br/provas/enem/enem-2022-ppl-d2) — ano 2022; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2022 — 2º dia · enem-2022-regular-d2](https://www.gabaru.com.br/provas/enem/enem-2022-regular-d2) — ano 2022; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2021 — 1º dia · enem-2021-d1](https://www.gabaru.com.br/provas/enem/enem-2021-d1) — ano 2021; 95 itens; duração 330 minutos; situação editorial: rascunho.
-- [ENEM 2021 — 2º dia · enem-2021-d2](https://www.gabaru.com.br/provas/enem/enem-2021-d2) — ano 2021; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2021 — 2º dia · enem-2021-digital-azul-d2](https://www.gabaru.com.br/provas/enem/enem-2021-digital-azul-d2) — ano 2021; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2021 — 2º dia · enem-2021-ppl-azul-d2](https://www.gabaru.com.br/provas/enem/enem-2021-ppl-azul-d2) — ano 2021; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2021 — 2º dia · enem-2021-regular-d2](https://www.gabaru.com.br/provas/enem/enem-2021-regular-d2) — ano 2021; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2020 — 2º dia · enem-2020-d2](https://www.gabaru.com.br/provas/enem/enem-2020-d2) — ano 2020; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2020 — 2º dia · enem-2020-digital-azul-d2](https://www.gabaru.com.br/provas/enem/enem-2020-digital-azul-d2) — ano 2020; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2020 — 2º dia · enem-2020-ppl-azul-d2](https://www.gabaru.com.br/provas/enem/enem-2020-ppl-azul-d2) — ano 2020; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2020 — 1º dia · enem-2020-regular-d1](https://www.gabaru.com.br/provas/enem/enem-2020-regular-d1) — ano 2020; 95 itens; duração 330 minutos; situação editorial: rascunho.
-- [ENEM 2020 — 2º dia · enem-2020-regular-d2](https://www.gabaru.com.br/provas/enem/enem-2020-regular-d2) — ano 2020; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2019 — 2º dia · enem-2019-ppl-azul-d2](https://www.gabaru.com.br/provas/enem/enem-2019-ppl-azul-d2) — ano 2019; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2019 — 1º dia · enem-2019-regular-d1](https://www.gabaru.com.br/provas/enem/enem-2019-regular-d1) — ano 2019; 95 itens; duração 330 minutos; situação editorial: rascunho.
-- [ENEM 2019 — 2º dia · enem-2019-regular-d2](https://www.gabaru.com.br/provas/enem/enem-2019-regular-d2) — ano 2019; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2018 — 2º dia · enem-2018-ppl-azul-d2](https://www.gabaru.com.br/provas/enem/enem-2018-ppl-azul-d2) — ano 2018; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2018 — 1º dia · enem-2018-regular-d1](https://www.gabaru.com.br/provas/enem/enem-2018-regular-d1) — ano 2018; 95 itens; duração 330 minutos; situação editorial: rascunho.
-- [ENEM 2018 — 2º dia · enem-2018-regular-d2](https://www.gabaru.com.br/provas/enem/enem-2018-regular-d2) — ano 2018; 90 itens; duração 300 minutos; situação editorial: rascunho.
-- [ENEM 2017 — 2º dia · enem-2017-ppl-azul-d2](https://www.gabaru.com.br/provas/enem/enem-2017-ppl-azul-d2) — ano 2017; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2017 — 1º dia · enem-2017-regular-d1](https://www.gabaru.com.br/provas/enem/enem-2017-regular-d1) — ano 2017; 95 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2017 — 2º dia · enem-2017-regular-d2](https://www.gabaru.com.br/provas/enem/enem-2017-regular-d2) — ano 2017; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2012 — 1º dia · enem-2012-d1](https://www.gabaru.com.br/provas/enem/enem-2012-d1) — ano 2012; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2011 — 1º dia · enem-2011-d1](https://www.gabaru.com.br/provas/enem/enem-2011-d1) — ano 2011; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2011 — 2º dia · enem-2011-d2](https://www.gabaru.com.br/provas/enem/enem-2011-d2) — ano 2011; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2009 — 1º dia · enem-2009-d1](https://www.gabaru.com.br/provas/enem/enem-2009-d1) — ano 2009; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2008 · enem-2008](https://www.gabaru.com.br/provas/enem/enem-2008) — ano 2008; 63 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2007 · enem-2007](https://www.gabaru.com.br/provas/enem/enem-2007) — ano 2007; 63 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2006 · enem-2006](https://www.gabaru.com.br/provas/enem/enem-2006) — ano 2006; 63 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2005 · enem-2005](https://www.gabaru.com.br/provas/enem/enem-2005) — ano 2005; 63 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2004 · enem-2004](https://www.gabaru.com.br/provas/enem/enem-2004) — ano 2004; 63 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2003 · enem-2003](https://www.gabaru.com.br/provas/enem/enem-2003) — ano 2003; 63 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2002 · enem-2002](https://www.gabaru.com.br/provas/enem/enem-2002) — ano 2002; 63 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2001 · enem-2001](https://www.gabaru.com.br/provas/enem/enem-2001) — ano 2001; 63 itens; duração consultar edital; situação editorial: rascunho.
-- [ENEM 2000 · enem-2000](https://www.gabaru.com.br/provas/enem/enem-2000) — ano 2000; 63 itens; duração consultar edital; situação editorial: rascunho.
 
 ## UEL — Universidade Estadual de Londrina
 https://www.gabaru.com.br/banca/uel
 
-- [UEL 2026 · Conhecimentos Gerais · Espanhol · Tipo 1](https://www.gabaru.com.br/provas/uel/uel-2026-espanhol-tipo1) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [UEL 2026 · Conhecimentos Gerais · Inglês · Tipo 1](https://www.gabaru.com.br/provas/uel/uel-2026-ingles-tipo1) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
 
 ## UERJ — Universidade do Estado do Rio de Janeiro
 https://www.gabaru.com.br/banca/uerj
 
-- [UERJ 2026 · 1º Exame de Qualificação](https://www.gabaru.com.br/provas/uerj/uerj-2026-eq1) — ano 2026; 60 itens; duração consultar edital; situação editorial: rascunho.
-- [UERJ 2026 · 2º Exame de Qualificação](https://www.gabaru.com.br/provas/uerj/uerj-2026-eq2) — ano 2026; 60 itens; duração consultar edital; situação editorial: rascunho.
-- [UERJ 2025 · 1º Exame de Qualificação](https://www.gabaru.com.br/provas/uerj/uerj-2025-eq1) — ano 2025; 60 itens; duração consultar edital; situação editorial: rascunho.
-- [UERJ 2025 · 2º Exame de Qualificação](https://www.gabaru.com.br/provas/uerj/uerj-2025-eq2) — ano 2025; 60 itens; duração consultar edital; situação editorial: rascunho.
-- [UERJ 2024 · 1º Exame de Qualificação](https://www.gabaru.com.br/provas/uerj/uerj-2024-eq1) — ano 2024; 60 itens; duração consultar edital; situação editorial: rascunho.
-- [UERJ 2024 · 2º Exame de Qualificação](https://www.gabaru.com.br/provas/uerj/uerj-2024-eq2) — ano 2024; 60 itens; duração consultar edital; situação editorial: rascunho.
-- [UERJ 2020 · 1º Exame de Qualificação](https://www.gabaru.com.br/provas/uerj/uerj-2020-eq1) — ano 2020; 60 itens; duração consultar edital; situação editorial: rascunho.
-- [UERJ 2020 · 2º Exame de Qualificação](https://www.gabaru.com.br/provas/uerj/uerj-2020-eq2) — ano 2020; 60 itens; duração consultar edital; situação editorial: rascunho.
-- [UERJ 2019 · 1º Exame de Qualificação](https://www.gabaru.com.br/provas/uerj/uerj-2019-eq1) — ano 2019; 60 itens; duração consultar edital; situação editorial: rascunho.
-- [UERJ 2019 · 2º Exame de Qualificação](https://www.gabaru.com.br/provas/uerj/uerj-2019-eq2) — ano 2019; 60 itens; duração consultar edital; situação editorial: rascunho.
-- [UERJ 2018 · 1º Exame de Qualificação](https://www.gabaru.com.br/provas/uerj/uerj-2018-eq1) — ano 2018; 60 itens; duração consultar edital; situação editorial: rascunho.
-- [UERJ 2018 · 2º Exame de Qualificação](https://www.gabaru.com.br/provas/uerj/uerj-2018-eq2) — ano 2018; 60 itens; duração consultar edital; situação editorial: rascunho.
-- [UERJ 2017 · 1º Exame de Qualificação](https://www.gabaru.com.br/provas/uerj/uerj-2017-eq1) — ano 2017; 60 itens; duração consultar edital; situação editorial: rascunho.
-- [UERJ 2017 · 2º Exame de Qualificação](https://www.gabaru.com.br/provas/uerj/uerj-2017-eq2) — ano 2017; 60 itens; duração consultar edital; situação editorial: rascunho.
 
 ## UNESP — Universidade Estadual Paulista — Vunesp
 https://www.gabaru.com.br/banca/unesp
 
-- [UNESP 2026 — vestibular de meio de ano, primeira fase](https://www.gabaru.com.br/provas/unesp/2026) — ano 2026; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2026 — vestibular regular, primeira fase](https://www.gabaru.com.br/provas/unesp/2026) — ano 2026; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [Caderno de Questões - Prova de Conhecimentos Específicos - C.Hum. e Soc.; C.Nat. e Mat. e suas Tec.](https://www.gabaru.com.br/provas/unesp/2026) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Caderno de Questões - Prova de Conhecimentos Específicos e Redação - Linguagens e suas Tecnologias](https://www.gabaru.com.br/provas/unesp/2026) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Caderno de Questões - Prova de Conhecimentos Específicos - C.Hum. e Soc.; C.Nat. e Mat. e suas Tec.](https://www.gabaru.com.br/provas/unesp/2026) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Caderno de Questões - Prova de Conhecimentos Específicos e Redação - Linguagens e suas Tecnologias](https://www.gabaru.com.br/provas/unesp/2026) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2025 — vestibular de meio de ano, primeira fase](https://www.gabaru.com.br/provas/unesp/2025) — ano 2025; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [Caderno de Questões - Prova de Conhecimentos Específicos e Redação - Linguagens e suas Tecnologias](https://www.gabaru.com.br/provas/unesp/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Caderno de Questões - Prova de Conhecimentos Gerais](https://www.gabaru.com.br/provas/unesp/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Caderno de Questões - Prova de Conhecimentos Específicos e Redação - Linguagens e suas Tecnologias](https://www.gabaru.com.br/provas/unesp/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Caderno de Questões - Prova de Conhecimentos Específicos - C.Hum. e Soc.; C.Nat. e Mat. e suas Tec.](https://www.gabaru.com.br/provas/unesp/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Caderno de Questões - Prova de Conhecimentos Específicos - C.Hum. e Soc.; C.Nat. e Mat. e suas Tec.](https://www.gabaru.com.br/provas/unesp/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2024 — vestibular de meio de ano, primeira fase](https://www.gabaru.com.br/provas/unesp/2024) — ano 2024; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2024 — vestibular regular, primeira fase](https://www.gabaru.com.br/provas/unesp/2024) — ano 2024; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [Caderno de Questões - Prova de Conhecimentos Específicos - C.Hum. e Soc.; C.Nat. e Mat. e suas Tec;](https://www.gabaru.com.br/provas/unesp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Caderno de Questões - Prova de Conhecimentos Específicos e Redação - Linguagens e suas Tecnologias;](https://www.gabaru.com.br/provas/unesp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Caderno de Questões - Prova de Conhecimentos Específicos - C.Hum. e Soc.; C.Nat. e Mat. e suas Tec](https://www.gabaru.com.br/provas/unesp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Caderno de Questões - Prova de Conhecimentos Específicos e Redação - Linguagens e suas Tecnologias.](https://www.gabaru.com.br/provas/unesp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2023 — vestibular regular, primeira fase](https://www.gabaru.com.br/provas/unesp/2023) — ano 2023; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [Prova Conhecimentos Específicos](https://www.gabaru.com.br/provas/unesp/2023) — ano 2023; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2022 — vestibular regular — Biológicas, primeira fase](https://www.gabaru.com.br/provas/unesp/2022) — ano 2022; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2022 — vestibular regular — Exatas e Humanidades, primeira fase](https://www.gabaru.com.br/provas/unesp/2022) — ano 2022; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [Prova Conhecimentos Específicos](https://www.gabaru.com.br/provas/unesp/2022) — ano 2022; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2021 — vestibular regular — Biológicas, primeira fase](https://www.gabaru.com.br/provas/unesp/2021) — ano 2021; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2021 — vestibular regular — Exatas e Humanidades, primeira fase](https://www.gabaru.com.br/provas/unesp/2021) — ano 2021; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2020 — vestibular regular, primeira fase](https://www.gabaru.com.br/provas/unesp/2020) — ano 2020; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2019 — vestibular regular, primeira fase](https://www.gabaru.com.br/provas/unesp/2019) — ano 2019; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2018 — vestibular regular, primeira fase](https://www.gabaru.com.br/provas/unesp/2018) — ano 2018; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2017 — vestibular regular, primeira fase](https://www.gabaru.com.br/provas/unesp/2017) — ano 2017; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2016 — vestibular regular, primeira fase](https://www.gabaru.com.br/provas/unesp/2016) — ano 2016; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2015 — vestibular regular, primeira fase](https://www.gabaru.com.br/provas/unesp/2015) — ano 2015; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2014 — vestibular regular, primeira fase](https://www.gabaru.com.br/provas/unesp/2014) — ano 2014; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2013 — vestibular regular, primeira fase](https://www.gabaru.com.br/provas/unesp/2013) — ano 2013; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2012 — vestibular regular, primeira fase](https://www.gabaru.com.br/provas/unesp/2012) — ano 2012; 90 itens; duração consultar edital; situação editorial: rascunho.
-- [UNESP 2011 — vestibular regular, primeira fase](https://www.gabaru.com.br/provas/unesp/2011) — ano 2011; 90 itens; duração consultar edital; situação editorial: rascunho.
 
 ## UNICAMP — Universidade Estadual de Campinas — Comvest
 https://www.gabaru.com.br/banca/unicamp
 
-- [UNICAMP 2026 · Q e X](https://www.gabaru.com.br/provas/unicamp/2026) — ano 2026; 72 itens; duração consultar edital; situação editorial: rascunho.
-- [Prova de Redação, Língua Portuguesa e Literaturas de Língua Portuguesa, interdisciplinar com língua inglesa e interdisciplinar de Ciências da Natureza](https://www.gabaru.com.br/provas/unicamp/2026) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas S e Z](https://www.gabaru.com.br/provas/unicamp/2026) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas T e W](https://www.gabaru.com.br/provas/unicamp/2026) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Humanas / Artes](https://www.gabaru.com.br/provas/unicamp/2026) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas R e Y](https://www.gabaru.com.br/provas/unicamp/2026) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Exatas / Tecnológicas](https://www.gabaru.com.br/provas/unicamp/2026) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Biológicas / Saúde](https://www.gabaru.com.br/provas/unicamp/2026) — ano 2026; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [UNICAMP 2025 · Q e Z](https://www.gabaru.com.br/provas/unicamp/2025) — ano 2025; 72 itens; duração consultar edital; situação editorial: rascunho.
-- [Provas S e X](https://www.gabaru.com.br/provas/unicamp/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Biológicas / Saúde](https://www.gabaru.com.br/provas/unicamp/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas T e Y](https://www.gabaru.com.br/provas/unicamp/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Humanas / Artes](https://www.gabaru.com.br/provas/unicamp/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Exatas / Tecnológicas](https://www.gabaru.com.br/provas/unicamp/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Redação, Língua Portuguesa e Literaturas de Língua Portuguesa, interdisciplinar com língua inglesa e interdisciplinares de Ciências da Natureza](https://www.gabaru.com.br/provas/unicamp/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas R e W](https://www.gabaru.com.br/provas/unicamp/2025) — ano 2025; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [UNICAMP 2024 · Q e Y](https://www.gabaru.com.br/provas/unicamp/2024) — ano 2024; 72 itens; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura e Urbanismo (P1)](https://www.gabaru.com.br/provas/unicamp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas R e Z](https://www.gabaru.com.br/provas/unicamp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Exatas / Tecnológicas](https://www.gabaru.com.br/provas/unicamp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais – História da Arte](https://www.gabaru.com.br/provas/unicamp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Humanas / Artes](https://www.gabaru.com.br/provas/unicamp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Biológicas / Saúde](https://www.gabaru.com.br/provas/unicamp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas S e W](https://www.gabaru.com.br/provas/unicamp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Redação, Língua Portuguesa e Literaturas de Língua Portuguesa, interdisciplinar com língua inglesa e interdisciplinares de Ciências da Natureza](https://www.gabaru.com.br/provas/unicamp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais – Expressão](https://www.gabaru.com.br/provas/unicamp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura e Urbanismo (P2)](https://www.gabaru.com.br/provas/unicamp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas T e X](https://www.gabaru.com.br/provas/unicamp/2024) — ano 2024; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [UNICAMP 2023 · Q e Z](https://www.gabaru.com.br/provas/unicamp/2023) — ano 2023; 72 itens; duração consultar edital; situação editorial: rascunho.
-- [Prova de Redação, Língua Portuguesa e de Literaturas de Língua Portuguesa, Interdisciplinares com Língua Inglesa e Interdisciplinares de Ciências da Natureza](https://www.gabaru.com.br/provas/unicamp/2023) — ano 2023; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Humanas / Artes](https://www.gabaru.com.br/provas/unicamp/2023) — ano 2023; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas S e X](https://www.gabaru.com.br/provas/unicamp/2023) — ano 2023; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais – Expressão plástica](https://www.gabaru.com.br/provas/unicamp/2023) — ano 2023; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Exatas / Tecnológicas](https://www.gabaru.com.br/provas/unicamp/2023) — ano 2023; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais – História da arte](https://www.gabaru.com.br/provas/unicamp/2023) — ano 2023; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquiteutra e Urbanismo – partes 2 e 3](https://www.gabaru.com.br/provas/unicamp/2023) — ano 2023; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Biológicas / Saúde](https://www.gabaru.com.br/provas/unicamp/2023) — ano 2023; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura e Urbanismo – parte 1](https://www.gabaru.com.br/provas/unicamp/2023) — ano 2023; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas T e W](https://www.gabaru.com.br/provas/unicamp/2023) — ano 2023; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas R e Y](https://www.gabaru.com.br/provas/unicamp/2023) — ano 2023; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2023) — ano 2023; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas T e Y](https://www.gabaru.com.br/provas/unicamp/2022) — ano 2022; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas Q e X](https://www.gabaru.com.br/provas/unicamp/2022) — ano 2022; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura e Urbanismo – parte 1](https://www.gabaru.com.br/provas/unicamp/2022) — ano 2022; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Redação, prova de Língua Portuguesa e Literaturas de Língua Portuguesa e Interdisciplinares com Língua Inglesa](https://www.gabaru.com.br/provas/unicamp/2022) — ano 2022; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas R e W](https://www.gabaru.com.br/provas/unicamp/2022) — ano 2022; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais – História da arte](https://www.gabaru.com.br/provas/unicamp/2022) — ano 2022; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Biológicas / Saúde](https://www.gabaru.com.br/provas/unicamp/2022) — ano 2022; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Humanas / Artes](https://www.gabaru.com.br/provas/unicamp/2022) — ano 2022; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Exatas / Tecnológicas](https://www.gabaru.com.br/provas/unicamp/2022) — ano 2022; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura e Urbanismo – partes 2 e 3](https://www.gabaru.com.br/provas/unicamp/2022) — ano 2022; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais – expressão plástica](https://www.gabaru.com.br/provas/unicamp/2022) — ano 2022; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas S e Z](https://www.gabaru.com.br/provas/unicamp/2022) — ano 2022; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2022) — ano 2022; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas Q e Z](https://www.gabaru.com.br/provas/unicamp/2021) — ano 2021; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Humanas / Artes](https://www.gabaru.com.br/provas/unicamp/2021) — ano 2021; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Biológicas / Saúde](https://www.gabaru.com.br/provas/unicamp/2021) — ano 2021; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas S e X](https://www.gabaru.com.br/provas/unicamp/2021) — ano 2021; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Exatas / Tecnológicas](https://www.gabaru.com.br/provas/unicamp/2021) — ano 2021; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas E e G](https://www.gabaru.com.br/provas/unicamp/2021) — ano 2021; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas J e L](https://www.gabaru.com.br/provas/unicamp/2021) — ano 2021; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas F e H](https://www.gabaru.com.br/provas/unicamp/2021) — ano 2021; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas R e Y](https://www.gabaru.com.br/provas/unicamp/2021) — ano 2021; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas T e W](https://www.gabaru.com.br/provas/unicamp/2021) — ano 2021; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Redação, prova de Língua Portuguesa e Literaturas de Língua Portuguesa e Interdisciplinares com Língua Inglesa](https://www.gabaru.com.br/provas/unicamp/2021) — ano 2021; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas K e M](https://www.gabaru.com.br/provas/unicamp/2021) — ano 2021; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas S e Z](https://www.gabaru.com.br/provas/unicamp/2020) — ano 2020; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas – Prova teórica](https://www.gabaru.com.br/provas/unicamp/2020) — ano 2020; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais – Desenho](https://www.gabaru.com.br/provas/unicamp/2020) — ano 2020; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música – prova teórica](https://www.gabaru.com.br/provas/unicamp/2020) — ano 2020; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Redação, prova de Língua Portuguesa e Literaturas de Língua Portuguesa e Interdisciplinares com Língua Inglesa](https://www.gabaru.com.br/provas/unicamp/2020) — ano 2020; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais – História da Arte](https://www.gabaru.com.br/provas/unicamp/2020) — ano 2020; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas Q e X](https://www.gabaru.com.br/provas/unicamp/2020) — ano 2020; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura – Partes 2 e 3](https://www.gabaru.com.br/provas/unicamp/2020) — ano 2020; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Humanas / Artes](https://www.gabaru.com.br/provas/unicamp/2020) — ano 2020; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas T e Y](https://www.gabaru.com.br/provas/unicamp/2020) — ano 2020; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Biológicas / Saúde](https://www.gabaru.com.br/provas/unicamp/2020) — ano 2020; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova da área de Ciências Exatas / Tecnológicas](https://www.gabaru.com.br/provas/unicamp/2020) — ano 2020; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura – Parte 1](https://www.gabaru.com.br/provas/unicamp/2020) — ano 2020; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas R e W](https://www.gabaru.com.br/provas/unicamp/2020) — ano 2020; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Matemática, prova de Geografia e prova de História](https://www.gabaru.com.br/provas/unicamp/2019) — ano 2019; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2019) — ano 2019; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Física, prova de Ciências Biológicas e prova de Química](https://www.gabaru.com.br/provas/unicamp/2019) — ano 2019; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas S e Y](https://www.gabaru.com.br/provas/unicamp/2019) — ano 2019; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura e Urbanismo](https://www.gabaru.com.br/provas/unicamp/2019) — ano 2019; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas T e W](https://www.gabaru.com.br/provas/unicamp/2019) — ano 2019; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2019) — ano 2019; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas Q e X](https://www.gabaru.com.br/provas/unicamp/2019) — ano 2019; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Redação e prova de Língua Portuguesa e Literaturas de Língua Portuguesa](https://www.gabaru.com.br/provas/unicamp/2019) — ano 2019; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais](https://www.gabaru.com.br/provas/unicamp/2019) — ano 2019; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas R e Z](https://www.gabaru.com.br/provas/unicamp/2019) — ano 2019; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Redação e prova de Língua Portuguesa e Literaturas de Língua Portuguesa](https://www.gabaru.com.br/provas/unicamp/2018) — ano 2018; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2018) — ano 2018; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Matemática, prova de Geografia e prova de História](https://www.gabaru.com.br/provas/unicamp/2018) — ano 2018; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova W](https://www.gabaru.com.br/provas/unicamp/2018) — ano 2018; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova T](https://www.gabaru.com.br/provas/unicamp/2018) — ano 2018; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova Z](https://www.gabaru.com.br/provas/unicamp/2018) — ano 2018; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Física, prova de Ciências Biológicas e prova de Química](https://www.gabaru.com.br/provas/unicamp/2018) — ano 2018; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova Y](https://www.gabaru.com.br/provas/unicamp/2018) — ano 2018; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova X](https://www.gabaru.com.br/provas/unicamp/2018) — ano 2018; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova Q](https://www.gabaru.com.br/provas/unicamp/2018) — ano 2018; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova R](https://www.gabaru.com.br/provas/unicamp/2018) — ano 2018; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais](https://www.gabaru.com.br/provas/unicamp/2018) — ano 2018; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2018) — ano 2018; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova S](https://www.gabaru.com.br/provas/unicamp/2018) — ano 2018; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2017) — ano 2017; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Ciências Biológicas, prova de Química e prova de Física](https://www.gabaru.com.br/provas/unicamp/2017) — ano 2017; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Redação e prova de Língua Portuguesa e Literaturas de Língua Portuguesa](https://www.gabaru.com.br/provas/unicamp/2017) — ano 2017; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas S e W](https://www.gabaru.com.br/provas/unicamp/2017) — ano 2017; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2017) — ano 2017; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas T e Z](https://www.gabaru.com.br/provas/unicamp/2017) — ano 2017; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2017) — ano 2017; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas Q e Y](https://www.gabaru.com.br/provas/unicamp/2017) — ano 2017; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais](https://www.gabaru.com.br/provas/unicamp/2017) — ano 2017; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Geografia, prova de História e prova de Matemática](https://www.gabaru.com.br/provas/unicamp/2017) — ano 2017; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas R e X](https://www.gabaru.com.br/provas/unicamp/2017) — ano 2017; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas S e X](https://www.gabaru.com.br/provas/unicamp/2016) — ano 2016; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas R e Y](https://www.gabaru.com.br/provas/unicamp/2016) — ano 2016; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2016) — ano 2016; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Redação e prova de Língua Portuguesa e Literaturas de Língua Portuguesa](https://www.gabaru.com.br/provas/unicamp/2016) — ano 2016; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2016) — ano 2016; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Química, prova de Física e prova de Biologia](https://www.gabaru.com.br/provas/unicamp/2016) — ano 2016; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas Q e Z](https://www.gabaru.com.br/provas/unicamp/2016) — ano 2016; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas T e W](https://www.gabaru.com.br/provas/unicamp/2016) — ano 2016; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais](https://www.gabaru.com.br/provas/unicamp/2016) — ano 2016; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de História, prova de Matemática e prova de Geografia](https://www.gabaru.com.br/provas/unicamp/2016) — ano 2016; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2016) — ano 2016; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais](https://www.gabaru.com.br/provas/unicamp/2015) — ano 2015; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Física, prova de Química e prova de Biologia](https://www.gabaru.com.br/provas/unicamp/2015) — ano 2015; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Redação e prova de Língua Portuguesa e Literaturas de Língua Portuguesa](https://www.gabaru.com.br/provas/unicamp/2015) — ano 2015; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas Q e W](https://www.gabaru.com.br/provas/unicamp/2015) — ano 2015; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas T e X](https://www.gabaru.com.br/provas/unicamp/2015) — ano 2015; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2015) — ano 2015; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2015) — ano 2015; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2015) — ano 2015; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas S e Y](https://www.gabaru.com.br/provas/unicamp/2015) — ano 2015; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova de Matemática, prova de História e prova de Geografia](https://www.gabaru.com.br/provas/unicamp/2015) — ano 2015; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Provas R e Z](https://www.gabaru.com.br/provas/unicamp/2015) — ano 2015; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais](https://www.gabaru.com.br/provas/unicamp/2014) — ano 2014; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova R e W](https://www.gabaru.com.br/provas/unicamp/2014) — ano 2014; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova S e Z](https://www.gabaru.com.br/provas/unicamp/2014) — ano 2014; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova T e Y](https://www.gabaru.com.br/provas/unicamp/2014) — ano 2014; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2014) — ano 2014; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Ciências Humanas e Artes; e Língua Inglesa](https://www.gabaru.com.br/provas/unicamp/2014) — ano 2014; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Ciências da Natureza](https://www.gabaru.com.br/provas/unicamp/2014) — ano 2014; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Segunda fase](https://www.gabaru.com.br/provas/unicamp/2014) — ano 2014; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Primeira fase](https://www.gabaru.com.br/provas/unicamp/2014) — ano 2014; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2014) — ano 2014; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova Q e X](https://www.gabaru.com.br/provas/unicamp/2014) — ano 2014; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa e Matemática](https://www.gabaru.com.br/provas/unicamp/2014) — ano 2014; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2014) — ano 2014; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova T e W](https://www.gabaru.com.br/provas/unicamp/2013) — ano 2013; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2013) — ano 2013; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Ciências da Natureza](https://www.gabaru.com.br/provas/unicamp/2013) — ano 2013; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2013) — ano 2013; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Ciências Humanas e Artes; e Língua Inglesa](https://www.gabaru.com.br/provas/unicamp/2013) — ano 2013; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2013) — ano 2013; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova Q e Z](https://www.gabaru.com.br/provas/unicamp/2013) — ano 2013; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova R e Y](https://www.gabaru.com.br/provas/unicamp/2013) — ano 2013; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa e Matemática](https://www.gabaru.com.br/provas/unicamp/2013) — ano 2013; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova S e X](https://www.gabaru.com.br/provas/unicamp/2013) — ano 2013; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais](https://www.gabaru.com.br/provas/unicamp/2013) — ano 2013; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova Q e Z](https://www.gabaru.com.br/provas/unicamp/2012) — ano 2012; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Ciências Humanas e Artes; e Língua Inglesa](https://www.gabaru.com.br/provas/unicamp/2012) — ano 2012; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova R e Y](https://www.gabaru.com.br/provas/unicamp/2012) — ano 2012; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova S e X](https://www.gabaru.com.br/provas/unicamp/2012) — ano 2012; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2012) — ano 2012; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2012) — ano 2012; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa e Matemática](https://www.gabaru.com.br/provas/unicamp/2012) — ano 2012; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Ciências da Natureza](https://www.gabaru.com.br/provas/unicamp/2012) — ano 2012; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2012) — ano 2012; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais](https://www.gabaru.com.br/provas/unicamp/2012) — ano 2012; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova T e W](https://www.gabaru.com.br/provas/unicamp/2012) — ano 2012; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova Q e Z](https://www.gabaru.com.br/provas/unicamp/2011) — ano 2011; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova S e X](https://www.gabaru.com.br/provas/unicamp/2011) — ano 2011; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Ciências da Natureza](https://www.gabaru.com.br/provas/unicamp/2011) — ano 2011; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2011) — ano 2011; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Ciências Humanas e Artes; e Língua Inglesa](https://www.gabaru.com.br/provas/unicamp/2011) — ano 2011; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa e Matemática](https://www.gabaru.com.br/provas/unicamp/2011) — ano 2011; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2011) — ano 2011; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais](https://www.gabaru.com.br/provas/unicamp/2011) — ano 2011; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2011) — ano 2011; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova R e Y](https://www.gabaru.com.br/provas/unicamp/2011) — ano 2011; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Prova T e W](https://www.gabaru.com.br/provas/unicamp/2011) — ano 2011; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais](https://www.gabaru.com.br/provas/unicamp/2010) — ano 2010; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Questões Gerais](https://www.gabaru.com.br/provas/unicamp/2010) — ano 2010; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/2010) — ano 2010; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2010) — ano 2010; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/2010) — ano 2010; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Ciências Biológicas](https://www.gabaru.com.br/provas/unicamp/2010) — ano 2010; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Inglês](https://www.gabaru.com.br/provas/unicamp/2010) — ano 2010; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2010) — ano 2010; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação](https://www.gabaru.com.br/provas/unicamp/2010) — ano 2010; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2010) — ano 2010; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2009) — ano 2009; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/2009) — ano 2009; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação](https://www.gabaru.com.br/provas/unicamp/2009) — ano 2009; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Inglês](https://www.gabaru.com.br/provas/unicamp/2009) — ano 2009; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2009) — ano 2009; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/2009) — ano 2009; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais](https://www.gabaru.com.br/provas/unicamp/2009) — ano 2009; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Ciências Biológicas](https://www.gabaru.com.br/provas/unicamp/2009) — ano 2009; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2009) — ano 2009; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Questões Gerais](https://www.gabaru.com.br/provas/unicamp/2009) — ano 2009; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2008) — ano 2008; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2008) — ano 2008; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Odontologia](https://www.gabaru.com.br/provas/unicamp/2008) — ano 2008; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/2008) — ano 2008; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/2008) — ano 2008; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2008) — ano 2008; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Ciências Biológicas –](https://www.gabaru.com.br/provas/unicamp/2008) — ano 2008; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/2008) — ano 2008; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Língua Estrangeira](https://www.gabaru.com.br/provas/unicamp/2008) — ano 2008; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais](https://www.gabaru.com.br/provas/unicamp/2008) — ano 2008; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/2007) — ano 2007; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Língua Estrangeira](https://www.gabaru.com.br/provas/unicamp/2007) — ano 2007; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2007) — ano 2007; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Ciências Biológicas](https://www.gabaru.com.br/provas/unicamp/2007) — ano 2007; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2007) — ano 2007; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2007) — ano 2007; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Visuais](https://www.gabaru.com.br/provas/unicamp/2007) — ano 2007; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/2007) — ano 2007; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Odontologia](https://www.gabaru.com.br/provas/unicamp/2007) — ano 2007; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/2007) — ano 2007; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Língua Estrangeira](https://www.gabaru.com.br/provas/unicamp/2006) — ano 2006; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Ciências Biológicas](https://www.gabaru.com.br/provas/unicamp/2006) — ano 2006; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2006) — ano 2006; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Odontologia](https://www.gabaru.com.br/provas/unicamp/2006) — ano 2006; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2006) — ano 2006; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/2006) — ano 2006; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Educação Artística](https://www.gabaru.com.br/provas/unicamp/2006) — ano 2006; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2006) — ano 2006; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/2006) — ano 2006; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/2006) — ano 2006; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/2005) — ano 2005; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Língua Estrangeira](https://www.gabaru.com.br/provas/unicamp/2005) — ano 2005; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2005) — ano 2005; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/2005) — ano 2005; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2005) — ano 2005; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Odontologia](https://www.gabaru.com.br/provas/unicamp/2005) — ano 2005; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Ciências Biológicas](https://www.gabaru.com.br/provas/unicamp/2005) — ano 2005; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/2005) — ano 2005; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2005) — ano 2005; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Educação Artística](https://www.gabaru.com.br/provas/unicamp/2005) — ano 2005; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Desenho de observação e expressão,](https://www.gabaru.com.br/provas/unicamp/2004) — ano 2004; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Odontologia](https://www.gabaru.com.br/provas/unicamp/2004) — ano 2004; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2004) — ano 2004; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/2004) — ano 2004; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Língua Estrangeira](https://www.gabaru.com.br/provas/unicamp/2004) — ano 2004; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/2004) — ano 2004; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2004) — ano 2004; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/2004) — ano 2004; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [História da Arte)](https://www.gabaru.com.br/provas/unicamp/2004) — ano 2004; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Ciências Biológicas](https://www.gabaru.com.br/provas/unicamp/2004) — ano 2004; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Língua Estrangeira](https://www.gabaru.com.br/provas/unicamp/2003) — ano 2003; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Odontologia](https://www.gabaru.com.br/provas/unicamp/2003) — ano 2003; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Arquitetura](https://www.gabaru.com.br/provas/unicamp/2003) — ano 2003; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/2003) — ano 2003; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Ciências Biológicas](https://www.gabaru.com.br/provas/unicamp/2003) — ano 2003; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/2003) — ano 2003; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Educação Artística](https://www.gabaru.com.br/provas/unicamp/2003) — ano 2003; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Artes Cênicas](https://www.gabaru.com.br/provas/unicamp/2003) — ano 2003; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/2003) — ano 2003; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Música](https://www.gabaru.com.br/provas/unicamp/2003) — ano 2003; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física](https://www.gabaru.com.br/provas/unicamp/2002) — ano 2002; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa](https://www.gabaru.com.br/provas/unicamp/2002) — ano 2002; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [História](https://www.gabaru.com.br/provas/unicamp/2002) — ano 2002; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Estrangeira – Inglês](https://www.gabaru.com.br/provas/unicamp/2002) — ano 2002; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Estrangeira – Francês](https://www.gabaru.com.br/provas/unicamp/2002) — ano 2002; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Geografia](https://www.gabaru.com.br/provas/unicamp/2002) — ano 2002; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/2002) — ano 2002; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química](https://www.gabaru.com.br/provas/unicamp/2002) — ano 2002; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Ciências Biológicas](https://www.gabaru.com.br/provas/unicamp/2002) — ano 2002; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática](https://www.gabaru.com.br/provas/unicamp/2002) — ano 2002; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática](https://www.gabaru.com.br/provas/unicamp/2001) — ano 2001; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Estrangeira – Francês](https://www.gabaru.com.br/provas/unicamp/2001) — ano 2001; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Ciências Biológicas](https://www.gabaru.com.br/provas/unicamp/2001) — ano 2001; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química](https://www.gabaru.com.br/provas/unicamp/2001) — ano 2001; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física](https://www.gabaru.com.br/provas/unicamp/2001) — ano 2001; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [História](https://www.gabaru.com.br/provas/unicamp/2001) — ano 2001; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Geografia](https://www.gabaru.com.br/provas/unicamp/2001) — ano 2001; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa](https://www.gabaru.com.br/provas/unicamp/2001) — ano 2001; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/2001) — ano 2001; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Estrangeira – Inglês](https://www.gabaru.com.br/provas/unicamp/2001) — ano 2001; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa](https://www.gabaru.com.br/provas/unicamp/2000) — ano 2000; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Estrangeira – Inglês](https://www.gabaru.com.br/provas/unicamp/2000) — ano 2000; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [História](https://www.gabaru.com.br/provas/unicamp/2000) — ano 2000; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Ciências Biológicas](https://www.gabaru.com.br/provas/unicamp/2000) — ano 2000; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática](https://www.gabaru.com.br/provas/unicamp/2000) — ano 2000; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química](https://www.gabaru.com.br/provas/unicamp/2000) — ano 2000; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física](https://www.gabaru.com.br/provas/unicamp/2000) — ano 2000; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Geografia](https://www.gabaru.com.br/provas/unicamp/2000) — ano 2000; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/2000) — ano 2000; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Estrangeira – Francês](https://www.gabaru.com.br/provas/unicamp/2000) — ano 2000; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática](https://www.gabaru.com.br/provas/unicamp/1999) — ano 1999; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/1999) — ano 1999; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa](https://www.gabaru.com.br/provas/unicamp/1999) — ano 1999; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Estrangeira – Inglês](https://www.gabaru.com.br/provas/unicamp/1999) — ano 1999; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Biologia](https://www.gabaru.com.br/provas/unicamp/1999) — ano 1999; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Estrangeira – Francês](https://www.gabaru.com.br/provas/unicamp/1999) — ano 1999; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [História](https://www.gabaru.com.br/provas/unicamp/1999) — ano 1999; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física](https://www.gabaru.com.br/provas/unicamp/1999) — ano 1999; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química](https://www.gabaru.com.br/provas/unicamp/1999) — ano 1999; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Geografia](https://www.gabaru.com.br/provas/unicamp/1999) — ano 1999; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química](https://www.gabaru.com.br/provas/unicamp/1998) — ano 1998; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [História](https://www.gabaru.com.br/provas/unicamp/1998) — ano 1998; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Geografia](https://www.gabaru.com.br/provas/unicamp/1998) — ano 1998; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física](https://www.gabaru.com.br/provas/unicamp/1998) — ano 1998; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Estrangeira – Inglês](https://www.gabaru.com.br/provas/unicamp/1998) — ano 1998; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Biologia](https://www.gabaru.com.br/provas/unicamp/1998) — ano 1998; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa](https://www.gabaru.com.br/provas/unicamp/1998) — ano 1998; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Estrangeira – Francês](https://www.gabaru.com.br/provas/unicamp/1998) — ano 1998; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática](https://www.gabaru.com.br/provas/unicamp/1998) — ano 1998; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/1998) — ano 1998; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa](https://www.gabaru.com.br/provas/unicamp/1997) — ano 1997; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática](https://www.gabaru.com.br/provas/unicamp/1997) — ano 1997; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Estrangeira – Inglês](https://www.gabaru.com.br/provas/unicamp/1997) — ano 1997; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Estrangeira – Francês](https://www.gabaru.com.br/provas/unicamp/1997) — ano 1997; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química](https://www.gabaru.com.br/provas/unicamp/1997) — ano 1997; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [História](https://www.gabaru.com.br/provas/unicamp/1997) — ano 1997; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/1997) — ano 1997; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Geografia](https://www.gabaru.com.br/provas/unicamp/1997) — ano 1997; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física](https://www.gabaru.com.br/provas/unicamp/1997) — ano 1997; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Biologia](https://www.gabaru.com.br/provas/unicamp/1997) — ano 1997; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Geografia](https://www.gabaru.com.br/provas/unicamp/1996) — ano 1996; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Estrangeira – Inglês](https://www.gabaru.com.br/provas/unicamp/1996) — ano 1996; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química](https://www.gabaru.com.br/provas/unicamp/1996) — ano 1996; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [História](https://www.gabaru.com.br/provas/unicamp/1996) — ano 1996; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática](https://www.gabaru.com.br/provas/unicamp/1996) — ano 1996; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Biologia](https://www.gabaru.com.br/provas/unicamp/1996) — ano 1996; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física](https://www.gabaru.com.br/provas/unicamp/1996) — ano 1996; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Estrangeira – Francês](https://www.gabaru.com.br/provas/unicamp/1996) — ano 1996; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa](https://www.gabaru.com.br/provas/unicamp/1996) — ano 1996; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/1996) — ano 1996; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/1995) — ano 1995; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/1995) — ano 1995; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia](https://www.gabaru.com.br/provas/unicamp/1995) — ano 1995; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/1995) — ano 1995; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Língua Estrangeira – Inglês e Francês](https://www.gabaru.com.br/provas/unicamp/1995) — ano 1995; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/1994) — ano 1994; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Língua Estrangeira – Inglês e Francês](https://www.gabaru.com.br/provas/unicamp/1994) — ano 1994; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia](https://www.gabaru.com.br/provas/unicamp/1994) — ano 1994; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/1994) — ano 1994; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/1994) — ano 1994; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/1993) — ano 1993; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia](https://www.gabaru.com.br/provas/unicamp/1993) — ano 1993; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/1993) — ano 1993; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Língua Estrangeira – Inglês e Francês](https://www.gabaru.com.br/provas/unicamp/1993) — ano 1993; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/1993) — ano 1993; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/1992) — ano 1992; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Língua Estrangeira – Inglês e Francês](https://www.gabaru.com.br/provas/unicamp/1992) — ano 1992; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/1992) — ano 1992; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/1992) — ano 1992; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia](https://www.gabaru.com.br/provas/unicamp/1992) — ano 1992; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Língua Estrangeira – Inglês e Francês](https://www.gabaru.com.br/provas/unicamp/1991) — ano 1991; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia](https://www.gabaru.com.br/provas/unicamp/1991) — ano 1991; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/1991) — ano 1991; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/1991) — ano 1991; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/1991) — ano 1991; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/1990) — ano 1990; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/1990) — ano 1990; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Língua Estrangeira – Inglês e Francês](https://www.gabaru.com.br/provas/unicamp/1990) — ano 1990; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia](https://www.gabaru.com.br/provas/unicamp/1990) — ano 1990; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/1990) — ano 1990; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e Língua Estrangeira – Inglês e Francês](https://www.gabaru.com.br/provas/unicamp/1989) — ano 1989; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Química e História](https://www.gabaru.com.br/provas/unicamp/1989) — ano 1989; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia](https://www.gabaru.com.br/provas/unicamp/1989) — ano 1989; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Geografia](https://www.gabaru.com.br/provas/unicamp/1989) — ano 1989; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/1989) — ano 1989; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Língua Estrangeira – Inglês e Francês](https://www.gabaru.com.br/provas/unicamp/1988) — ano 1988; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e História](https://www.gabaru.com.br/provas/unicamp/1988) — ano 1988; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e História](https://www.gabaru.com.br/provas/unicamp/1988) — ano 1988; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/1988) — ano 1988; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Língua Estrangeira – Inglês e Francês](https://www.gabaru.com.br/provas/unicamp/1988) — ano 1988; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Geografia e Química](https://www.gabaru.com.br/provas/unicamp/1988) — ano 1988; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia](https://www.gabaru.com.br/provas/unicamp/1988) — ano 1988; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/1988) — ano 1988; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Geografia e Química](https://www.gabaru.com.br/provas/unicamp/1988) — ano 1988; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Língua Portuguesa e Literaturas de Língua Portuguesa e Biologia](https://www.gabaru.com.br/provas/unicamp/1988) — ano 1988; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Física e Língua Estrangeira – Inglês e Francês](https://www.gabaru.com.br/provas/unicamp/1987) — ano 1987; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Geografia e Química](https://www.gabaru.com.br/provas/unicamp/1987) — ano 1987; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Matemática e História](https://www.gabaru.com.br/provas/unicamp/1987) — ano 1987; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Redação e questões gerais](https://www.gabaru.com.br/provas/unicamp/1987) — ano 1987; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
-- [Comunicação e Expressão e Biologia](https://www.gabaru.com.br/provas/unicamp/1987) — ano 1987; quantidade de itens em revisão; duração consultar edital; situação editorial: rascunho.
 
 ## Questões completas com resolução editorial
+- [ETEC 2026, questão 1](https://www.gabaru.com.br/questoes/etec-2026-2-q001) — área: ciencias-humanas; disciplina: historia; assunto: historia-antiga.
+- [ETEC 2026, questão 2](https://www.gabaru.com.br/questoes/etec-2026-2-q002) — área: ciencias-humanas; disciplina: historia; assunto: historia-medieval.
+- [ETEC 2026, questão 3](https://www.gabaru.com.br/questoes/etec-2026-2-q003) — área: ciencias-humanas; disciplina: historia; assunto: expansao-maritima.
+- [ETEC 2026, questão 4](https://www.gabaru.com.br/questoes/etec-2026-2-q004) — área: ciencias-humanas; disciplina: historia; assunto: escravidao-e-atlantico.
+- [ETEC 2026, questão 5](https://www.gabaru.com.br/questoes/etec-2026-2-q005) — área: ciencias-humanas; disciplina: historia; assunto: transportes-e-sociedade.
+- [ETEC 2026, questão 7](https://www.gabaru.com.br/questoes/etec-2026-2-q007) — área: ciencias-humanas; disciplina: geografia; assunto: urbanizacao-brasileira.
+- [ETEC 2026, questão 8](https://www.gabaru.com.br/questoes/etec-2026-2-q008) — área: ciencias-da-natureza; disciplina: quimica; assunto: leitura-de-tabelas.
+- [ETEC 2026, questão 9](https://www.gabaru.com.br/questoes/etec-2026-2-q009) — área: ciencias-da-natureza; disciplina: quimica; assunto: funcoes-inorganicas.
+- [ETEC 2026, questão 11](https://www.gabaru.com.br/questoes/etec-2026-2-q011) — área: ciencias-da-natureza; disciplina: quimica; assunto: substancias-e-misturas.
+- [ETEC 2026, questão 12](https://www.gabaru.com.br/questoes/etec-2026-2-q012) — área: ciencias-da-natureza; disciplina: quimica; assunto: neutralizacao.
+- [ENEM 2025, questão 153](https://www.gabaru.com.br/questoes/enem-2025-d2-q153) — área: matematica; disciplina: matematica; assunto: porcentagem-e-matematica-financeira.
+- [ENEM 2025, questão 158](https://www.gabaru.com.br/questoes/enem-2025-d2-q158) — área: matematica; disciplina: matematica; assunto: razao-e-proporcao.
+- [ENEM 2025, questão 159](https://www.gabaru.com.br/questoes/enem-2025-d2-q159) — área: matematica; disciplina: matematica; assunto: estatistica.
+- [ENEM 2025, questão 164](https://www.gabaru.com.br/questoes/enem-2025-d2-q164) — área: matematica; disciplina: matematica; assunto: geometria-plana.
+- [ENEM 2025, questão 165](https://www.gabaru.com.br/questoes/enem-2025-d2-q165) — área: matematica; disciplina: matematica; assunto: grandezas-medidas-e-escalas.
+- [ENEM 2025, questão 166](https://www.gabaru.com.br/questoes/enem-2025-d2-q166) — área: matematica; disciplina: matematica; assunto: razao-e-proporcao.
+- [ENEM 2025, questão 167](https://www.gabaru.com.br/questoes/enem-2025-d2-q167) — área: matematica; disciplina: matematica; assunto: funcoes.
+- [ENEM 2025, questão 169](https://www.gabaru.com.br/questoes/enem-2025-d2-q169) — área: matematica; disciplina: matematica; assunto: estatistica.
+- [ENEM 2025, questão 170](https://www.gabaru.com.br/questoes/enem-2025-d2-q170) — área: matematica; disciplina: matematica; assunto: aritmetica.
+- [ENEM 2025, questão 174](https://www.gabaru.com.br/questoes/enem-2025-d2-q174) — área: matematica; disciplina: matematica; assunto: aritmetica.
 - [ENEM 2011, questão 138](https://www.gabaru.com.br/questoes/enem-2011-d2-q138) — área: matematica; disciplina: matematica; assunto: razao-proporcao-e-unidades.
 - [ENEM 2011, questão 141](https://www.gabaru.com.br/questoes/enem-2011-d2-q141) — área: matematica; disciplina: matematica; assunto: razao-proporcao-e-unidades.
 - [ENEM 2011, questão 143](https://www.gabaru.com.br/questoes/enem-2011-d2-q143) — área: matematica; disciplina: matematica; assunto: razao-proporcao-e-unidades.

@@ -1,3 +1,4 @@
+import provasIndexaveis from '@/data/editorial/provas-indexaveis.json';
 import type { Metadata } from "next";
 import type { Organization, WebSite, FAQPage, BreadcrumbList, ItemList, WithContext } from "schema-dts";
 
@@ -37,7 +38,7 @@ export function metaPagina({
   semIndice = false,
 }: OpcoesPagina): Metadata {
   const indexar =
-    process.env.NEXT_PUBLIC_INDEXAR !== "0" && !semIndice;
+    process.env.NEXT_PUBLIC_INDEXAR !== "0" && !semIndice && (!/^\/provas\/[^/]+\/[^/]+$/.test(caminho)||(provasIndexaveis as string[]).includes(caminho));
   return {
     title: titulo,
     description: descricao,

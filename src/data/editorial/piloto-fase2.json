@@ -1,0 +1,395 @@
+{
+  "enem-2025-d2-q153": {
+    "disciplina": "matematica",
+    "assunto": "porcentagem-e-matematica-financeira",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "E",
+      "conceito": "Lucro é a receita efetiva menos os custos; um desconto percentual incide sobre o novo preço anunciado.",
+      "passos": [
+        "O custo inicial era 40 + 40 = 80 reais. Vendendo por 120 reais, o lucro era de 40 reais.",
+        "Os custos diversos passam a 40 × 1,5 = 60 reais. O custo total fica em 100 reais; para lucrar 40, a receita após o desconto deve ser 140 reais.",
+        "Se P é o preço anunciado, \\(0{,}8P=140\\), portanto P = 175 reais. O reajuste é 175 − 120 = 55 reais, alternativa E."
+      ],
+      "distratores": {
+        "A": "16 reais não compensam simultaneamente o aumento de custos e o desconto.",
+        "B": "20 reais representam somente o aumento do custo; o desconto ainda reduziria a receita.",
+        "C": "25 reais não elevam o preço até os 175 reais necessários.",
+        "D": "50 reais levariam o preço a 170; após desconto, a receita seria 136 e o lucro, 36 reais."
+      }
+    }
+  },
+  "enem-2025-d2-q158": {
+    "disciplina": "matematica",
+    "assunto": "razao-e-proporcao",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "C",
+      "conceito": "A regra informada estabelece uma correspondência proporcional entre redução da prestação e aumento da entrada.",
+      "passos": [
+        "A prestação cai de 150 para 120 reais: redução de 30 reais por mês.",
+        "Para cada real de redução, a entrada aumenta 10 reais. Assim, o acréscimo é 30 × 10 = 300 reais.",
+        "A pergunta pede o acréscimo, não a nova entrada de 800 reais nem a soma das parcelas. A alternativa é C."
+      ],
+      "distratores": {
+        "A": "100 reais só permitiriam reduzir a parcela em 10 reais.",
+        "B": "200 reais só permitiriam reduzir a parcela em 20 reais.",
+        "D": "600 reais corresponderiam a uma redução de 60 reais por parcela.",
+        "E": "800 reais são a entrada final, 500 + 300, e não o acréscimo solicitado."
+      }
+    }
+  },
+  "enem-2025-d2-q159": {
+    "disciplina": "matematica",
+    "assunto": "estatistica",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "A",
+      "conceito": "O desvio padrão mede a dispersão dos valores em torno da média e é a raiz quadrada da variância.",
+      "passos": [
+        "A média das taxas é (3 + 15 + 6 + 9 + 12) / 5 = 9%.",
+        "Os quadrados dos desvios são 36, 36, 9, 0 e 9. A variância populacional é 90 / 5 = 18.",
+        "O desvio padrão é \\(\\sqrt{18}\\approx4{,}24\\) pontos percentuais. Como é menor que 5%, a classe indicada é muito baixo, alternativa A."
+      ],
+      "distratores": {
+        "B": "Baixo exigiria desvio padrão de pelo menos 5%, o que não ocorre.",
+        "C": "Moderado exige desvio de pelo menos 10%; 18 é a variância, não o desvio padrão.",
+        "D": "Alto exige desvio de pelo menos 20%, acima do valor calculado.",
+        "E": "Muito alto exige desvio de pelo menos 30%, acima do valor calculado."
+      }
+    }
+  },
+  "enem-2025-d2-q164": {
+    "disciplina": "matematica",
+    "assunto": "geometria-plana",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "B",
+      "conceito": "A área de um círculo cresce com o quadrado do raio; o aumento é a diferença entre as duas áreas.",
+      "passos": [
+        "Usando π = 3, a área inicial é 3 × 30² = 2 700 km².",
+        "A área ampliada é 3 × 40² = 4 800 km².",
+        "O aumento é 4 800 − 2 700 = 2 100 km², alternativa B."
+      ],
+      "distratores": {
+        "A": "300 não é a diferença entre as áreas; o cálculo deve elevar os dois raios ao quadrado.",
+        "C": "4 800 km² são a área final total, não o aumento.",
+        "D": "7 500 km² são a soma das áreas inicial e final, não sua diferença.",
+        "E": "14 700 km² não resulta da diferença de áreas definida pelos raios 30 e 40 km."
+      }
+    }
+  },
+  "enem-2025-d2-q165": {
+    "disciplina": "matematica",
+    "assunto": "grandezas-medidas-e-escalas",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "D",
+      "conceito": "A escala relaciona medidas lineares do desenho e do objeto; antes de aplicá-la é preciso obter o lado do quadrado.",
+      "passos": [
+        "O lado do terreno é \\(\\sqrt{360000}=600\\) metros.",
+        "No primeiro mapa, o lado mede 600 / 2 500 = 0,24 m. No segundo, mede 600 / 1 600 = 0,375 m.",
+        "O aumento é 0,375 − 0,24 = 0,135 m. Arredondando a duas casas decimais, obtém-se 0,14 m, alternativa D."
+      ],
+      "distratores": {
+        "A": "0,02 m não corresponde à diferença entre as representações dos 600 m.",
+        "B": "0,05 m não resulta da aplicação das duas escalas ao lado do terreno.",
+        "C": "0,07 m não é a diferença entre 0,375 m e 0,24 m.",
+        "E": "0,67 m é maior que a própria representação do lado em qualquer um dos mapas."
+      }
+    }
+  },
+  "enem-2025-d2-q166": {
+    "disciplina": "matematica",
+    "assunto": "razao-e-proporcao",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "D",
+      "conceito": "Taxas só podem ser comparadas depois de converter megabytes para megabits e calcular o custo por unidade.",
+      "passos": [
+        "A taxa da empresa Y é \\(50\\times8=400\\) Mbps. A da empresa X é 50 Mbps. Portanto, Y é oito vezes mais rápida.",
+        "A empresa X cobra 50 / 50 = 1 real por Mbps. Y cobra 100 / 400 = 0,25 real por Mbps.",
+        "Y tem taxa oito vezes maior e custo unitário igual a um quarto do da concorrente. Essa é a alternativa D."
+      ],
+      "distratores": {
+        "A": "Inverte a comparação de velocidades: X é mais lenta, e não oito vezes mais rápida.",
+        "B": "Inverte a comparação das taxas e também não apresenta o custo unitário correto.",
+        "C": "As taxas não são iguais: 50 MB/s equivalem a 400 Mbps.",
+        "E": "O custo por Mbps de Y é um quarto, não um oitavo, pois o preço cobrado também é o dobro."
+      }
+    }
+  },
+  "enem-2025-d2-q167": {
+    "disciplina": "matematica",
+    "assunto": "funcoes",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "A",
+      "conceito": "Uma tarifa com parcela fixa e cobrança proporcional apenas sobre o excedente é representada por uma função afim.",
+      "passos": [
+        "A parcela fixa de 40 reais já cobre os primeiros 5 m³. Se x > 5, o volume excedente é x − 5.",
+        "Cobram-se 12 reais por metro cúbico excedente: \\(V=40+12(x-5)\\).",
+        "Distribuindo e reunindo os termos, \\(V=40+12x-60=12x-20\\). A alternativa correta é A."
+      ],
+      "distratores": {
+        "B": "Subtrair 40 não desconta corretamente o valor dos cinco metros cúbicos já cobertos.",
+        "C": "12x − 60 cobra só o excedente e omite a parcela fixa de 40 reais.",
+        "D": "12x cobraria os primeiros cinco metros cúbicos novamente à tarifa de 12 reais.",
+        "E": "52x transformaria a parcela fixa em cobrança por metro cúbico, o que o enunciado não estabelece."
+      },
+      "grafico": {
+        "funcao": "12*x-20",
+        "pontos": [
+          [
+            5,
+            40
+          ],
+          [
+            10,
+            100
+          ],
+          [
+            15,
+            160
+          ],
+          [
+            20,
+            220
+          ]
+        ]
+      }
+    }
+  },
+  "enem-2025-d2-q169": {
+    "disciplina": "matematica",
+    "assunto": "estatistica",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "D",
+      "conceito": "A média de um grupo é a soma dos valores dividida pela quantidade de integrantes.",
+      "passos": [
+        "Se n é a quantidade inicial de estudantes, a soma das alturas iniciais é 1,66n.",
+        "Com os dois novos estudantes, \\(1{,}66n+1{,}75+1{,}85=1{,}67(n+2)\\).",
+        "Reorganizando: 1,66n + 3,60 = 1,67n + 3,34. Logo, 0,26 = 0,01n e n = 26. A equipe nova tem 28 estudantes: alternativa D."
+      ],
+      "distratores": {
+        "A": "14 estudantes não satisfazem a igualdade entre a nova soma e a média de 1,67 m.",
+        "B": "16 estudantes não satisfazem a equação das duas médias.",
+        "C": "26 é a quantidade inicial de estudantes, não a quantidade depois das duas inclusões.",
+        "E": "30 não é a quantidade obtida ao somar dois aos 26 integrantes iniciais."
+      }
+    }
+  },
+  "enem-2025-d2-q170": {
+    "disciplina": "matematica",
+    "assunto": "aritmetica",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "B",
+      "conceito": "Um problema de composição mínima exige demonstrar a impossibilidade das quantidades menores e apresentar uma composição válida.",
+      "passos": [
+        "Uma peça não atinge 150 cm. Para duas peças, a única soma disponível de 150 é 75 + 75, mas ela usa apenas um tipo, contrariando o enunciado.",
+        "Com três peças, é possível combinar 75 + 40 + 35 = 150 cm, usando tipos diferentes.",
+        "Como duas não atendem à regra e três atendem, o mínimo é três peças: alternativa B."
+      ],
+      "distratores": {
+        "A": "Duas peças exigiriam 75 + 75 cm, combinação proibida por usar um único tipo.",
+        "C": "Quatro peças não constituem o mínimo, pois já existe uma solução com três.",
+        "D": "Cinco peças podem somar 150 cm em algumas combinações, mas não são o mínimo.",
+        "E": "Seis peças não são necessárias, já que três peças diferentes resolvem a composição."
+      }
+    }
+  },
+  "enem-2025-d2-q174": {
+    "disciplina": "matematica",
+    "assunto": "aritmetica",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "B",
+      "conceito": "A transferência entre caixas conserva o total de objetos e deve ser contabilizada por caixa, considerando entradas e saídas.",
+      "passos": [
+        "Em cada rodada, a caixa 4 recebe dois objetos e não envia nenhum. Após três rodadas, recebeu seis objetos.",
+        "Como terminou com 30, cada caixa começou com 30 − 6 = 24 objetos.",
+        "A caixa 1 só envia dois objetos por rodada. Terminou com 24 − 6 = 18 objetos, alternativa B."
+      ],
+      "distratores": {
+        "A": "12 resulta de descontar objetos além dos seis efetivamente retirados da caixa 1.",
+        "C": "22 representaria a caixa 1 após uma única rodada, e não após três.",
+        "D": "24 é a quantidade inicial; a caixa 1 perde seis objetos nas três rodadas.",
+        "E": "36 não corresponde à quantidade inicial nem ao saldo da caixa 1, que apenas perde objetos."
+      }
+    }
+  },
+  "etec-2026-2-q001": {
+    "disciplina": "historia",
+    "assunto": "historia-antiga",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "C",
+      "conceito": "Os rios eram vias de circulação fundamentais no Egito antigo, conectando centros de produção e povoamento.",
+      "passos": [
+        "O enunciado relaciona o Nilo à integração entre Alto e Baixo Egito e ao transporte de pessoas e mercadorias.",
+        "Embarcações a vela ou a remo aproveitavam o curso navegável do rio para transportar cargas. Essa relação corresponde à alternativa C."
+      ],
+      "distratores": {
+        "A": "Estradas asfaltadas não caracterizam a infraestrutura do Egito antigo.",
+        "B": "Soweto, na África do Sul, não corresponde ao eixo territorial egípcio descrito.",
+        "D": "Trenós sobre areia não utilizam o rio como via de circulação.",
+        "E": "Carruagens não explicam o transporte fluvial pelo Nilo."
+      }
+    }
+  },
+  "etec-2026-2-q002": {
+    "disciplina": "historia",
+    "assunto": "historia-medieval",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "B",
+      "conceito": "As peregrinações medievais eram viagens motivadas pela fé e também movimentavam as economias dos lugares percorridos.",
+      "passos": [
+        "O objetivo principal era visitar locais considerados sagrados, como Roma e Santiago de Compostela.",
+        "A circulação de peregrinos estimulava hospedarias, pontes, proteção dos viajantes e comércio local. A combinação de motivação religiosa e dinamização econômica está em B."
+      ],
+      "distratores": {
+        "A": "Feiras comerciais existiam, mas não definem a motivação central das peregrinações.",
+        "C": "A peregrinação não eliminou imediatamente as relações de suserania e vassalagem.",
+        "D": "Cruzadas militares e peregrinações não são o mesmo fenômeno; a expansão bizantina não é a consequência descrita.",
+        "E": "A fundação das universidades não explica o fluxo religioso narrado no enunciado."
+      }
+    }
+  },
+  "etec-2026-2-q003": {
+    "disciplina": "historia",
+    "assunto": "expansao-maritima",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "E",
+      "conceito": "A expansão marítima europeia articulou avanços náuticos, centralização monárquica e interesses comerciais.",
+      "passos": [
+        "Expedições de longa distância exigiam recursos, planejamento e organização política.",
+        "As monarquias centralizadas buscavam novas rotas comerciais e acumulação de riquezas. Essa associação entre Estado e expansão marítima corresponde à alternativa E."
+      ],
+      "distratores": {
+        "A": "O processo está ligado ao fortalecimento das monarquias, não à ascensão dos senhores feudais como agentes centrais.",
+        "B": "A alternativa não apresenta a relação principal entre monarquias e expansão atlântica.",
+        "C": "Corporações de ofício urbanas não constituem o centro de organização das expedições descritas.",
+        "D": "A expansão do Império Mongol não explica a organização política marítima europeia do século XV."
+      }
+    }
+  },
+  "etec-2026-2-q004": {
+    "disciplina": "historia",
+    "assunto": "escravidao-e-atlantico",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "D",
+      "conceito": "O comércio triangular designa circuitos atlânticos articulados entre Europa, África e América, incluindo o tráfico de pessoas escravizadas.",
+      "passos": [
+        "Identifique os três polos explicitados no texto: Europa, África e América.",
+        "A ligação desses três polos em circuitos comerciais atlânticos recebe o nome de comércio triangular, alternativa D."
+      ],
+      "distratores": {
+        "A": "A rota descrita atravessa o Atlântico, não o Pacífico.",
+        "B": "A rota das especiarias refere-se a outro eixo de produtos e circulação.",
+        "C": "A Rota da Seda está associada a ligações euro-asiáticas, não ao circuito atlântico descrito.",
+        "E": "Comércio intercolonial é uma expressão mais ampla e não identifica o circuito dos três continentes."
+      }
+    }
+  },
+  "etec-2026-2-q005": {
+    "disciplina": "historia",
+    "assunto": "transportes-e-sociedade",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "D",
+      "conceito": "Mudanças tecnológicas e históricas transformam a divisão do trabalho e as possibilidades de formação e carreira.",
+      "passos": [
+        "O texto apresenta meios de transporte desenvolvidos em épocas diferentes e seus efeitos sociais e econômicos.",
+        "A conclusão adequada relaciona essas transformações à criação de profissões e oportunidades, sem tratar a tecnologia como destino inevitável. É o que afirma D."
+      ],
+      "distratores": {
+        "A": "A tecnologia influencia carreiras, mas não torna impossível planejar sem dominar todo meio de transporte moderno.",
+        "B": "As oportunidades geradas não se restringem a físicos e engenheiros.",
+        "C": "O trabalho remoto não eliminou todas as necessidades de deslocamento.",
+        "E": "O contexto histórico e tecnológico influencia as escolhas profissionais; aptidões também podem ser desenvolvidas."
+      }
+    }
+  },
+  "etec-2026-2-q007": {
+    "disciplina": "geografia",
+    "assunto": "urbanizacao-brasileira",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "D",
+      "conceito": "A construção de Brasília integra o projeto desenvolvimentista do governo Juscelino Kubitschek e a interiorização da capital federal.",
+      "passos": [
+        "O texto cita JK, o ano de 1956 e a mudança da capital para o Planalto Central, elementos que identificam Brasília.",
+        "O planejamento da nova capital privilegiou grandes eixos viários e o automóvel, em sintonia com o incentivo à indústria automobilística. A alternativa D reúne essas relações."
+      ],
+      "distratores": {
+        "A": "Brasília está no Planalto Central, não na Bahia, e a descrição de mão de obra recém-liberta é anacrônica para 1956.",
+        "B": "Belo Horizonte não foi a nova capital federal e não corresponde ao projeto descrito.",
+        "C": "A capital não foi transferida para São Paulo.",
+        "E": "O Rio de Janeiro era a capital anterior, não a nova capital no Planalto Central."
+      }
+    }
+  },
+  "etec-2026-2-q008": {
+    "disciplina": "quimica",
+    "assunto": "leitura-de-tabelas",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "A",
+      "conceito": "Comparar porcentagens em uma tabela exige distinguir os ingredientes nomeados da linha agregada de outros ingredientes.",
+      "passos": [
+        "Entre os três compostos identificados, as porcentagens são 28,70%, 11,17% e 20,54%. A maior é a do CrO₃.",
+        "Assim, A está correta. A linha outros ingredientes, de 40%, não identifica um composto específico.",
+        "A soma dos valores impressos é 100,41%; portanto, a afirmação de que a soma é inferior a 100% também é falsa."
+      ],
+      "distratores": {
+        "B": "CuO representa 11,17%, valor menor que os 28,70% de CrO₃.",
+        "C": "Os compostos de cobre identificados correspondem a 11,17%, e não à metade da composição.",
+        "D": "Os três óxidos nomeados somam 60,41%, e não 70%.",
+        "E": "Os valores impressos somam 100,41%, acima, e não abaixo, de 100%."
+      }
+    }
+  },
+  "etec-2026-2-q009": {
+    "disciplina": "quimica",
+    "assunto": "funcoes-inorganicas",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "D",
+      "conceito": "Óxidos são compostos binários nos quais o oxigênio está combinado com outro elemento, nas condições usuais de classificação escolar.",
+      "passos": [
+        "CrO₃, CuO e As₂O₅ são formados por oxigênio e apenas mais um elemento em cada fórmula.",
+        "Por essa característica comum, todos pertencem à classe dos óxidos. A alternativa correta é D."
+      ],
+      "distratores": {
+        "A": "As fórmulas não representam oxiácidos, que contêm hidrogênio ionizável na classificação usual.",
+        "B": "Esses compostos não apresentam o grupo hidróxido característico das bases citadas.",
+        "C": "A característica comum das fórmulas dadas é a classe dos óxidos, não a de sais.",
+        "E": "Cromo e cobre são metais; a alternativa não descreve todos os compostos."
+      }
+    }
+  },
+  "etec-2026-2-q011": {
+    "disciplina": "quimica",
+    "assunto": "substancias-e-misturas",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "B",
+      "conceito": "Uma substância simples é formada por um único elemento químico; uma composta reúne elementos diferentes.",
+      "passos": [
+        "O₂ contém somente átomos de oxigênio e representa uma substância simples.",
+        "CO₂ contém carbono e oxigênio e representa uma substância composta. Na ordem pedida, a alternativa é B."
+      ],
+      "distratores": {
+        "A": "CO₂ representa uma substância química definida, e não uma mistura.",
+        "C": "Inverte as classificações: O₂ é simples e CO₂ é composta.",
+        "D": "Além de inverter a primeira classificação, trata CO₂ incorretamente como mistura.",
+        "E": "O₂ é uma substância simples, não uma mistura."
+      }
+    }
+  },
+  "etec-2026-2-q012": {
+    "disciplina": "quimica",
+    "assunto": "neutralizacao",
+    "resolucaoEstruturada": {
+      "alternativaCorreta": "A",
+      "conceito": "Em uma neutralização 1:1 com soluções de mesma concentração, o volume determina qual reagente limita a reação.",
+      "passos": [
+        "A reação é \\(\\mathrm{HCl}+\\mathrm{NaOH}\\rightarrow\\mathrm{NaCl}+\\mathrm{H_2O}\\). O enunciado informa proporção volumétrica 1:1.",
+        "Os 5 mL de ácido consomem somente 5 mL dos 100 mL de base. Portanto, o HCl se esgota e sobra NaOH.",
+        "Forma-se NaCl, misturado à solução básica remanescente. Isso corresponde à alternativa A."
+      ],
+      "distratores": {
+        "B": "A base está em excesso; não é ela que se esgota.",
+        "C": "Não houve neutralização total dos 100 mL de base, pois havia apenas 5 mL de ácido.",
+        "D": "Ao final, o ácido foi consumido; não permanecem ambos os reagentes na proporção descrita.",
+        "E": "Com a reação completa do reagente limitante, não resta HCl junto às três substâncias citadas."
+      }
+    }
+  }
+}

@@ -1,5 +1,6 @@
 'use client';
 import { useEffect, useRef, useState, type ReactNode } from 'react';
+import {QualityBadge} from './quality-badge';
 import { Scissors, RotateCcw, Clock3 } from 'lucide-react';
 import type { Questao } from '@/lib/catalogo/types';
 export type StudyCard = { q: Questao; statement: ReactNode; base?: ReactNode; options: ReactNode[]; resolution: ReactNode };
@@ -27,6 +28,7 @@ export function StudySession({ cards, storageKey, durationMinutes = 240 }: { car
     });return()=>{cancelled=true;};
   },[key,cards]);
   useEffect(()=>{if(!hydrated)return;try{localStorage.setItem(key,JSON.stringify(state));}catch{queueMicrotask(()=>setStorageError(true));}},[key,state,hydrated]);
+  useEffect(()=>{if(!hydrated)return;try{const ledger=JSON.parse(localStorage.getItem('gabaru:v2:erros')??'{}');let changed=false;for(const {q} of cards){if(q.anulada||!q.correta||!state.answers[q.id]||!(state.graded.includes(q.id)||state.finished))continue;if(state.answers[q.id]!==q.correta){const next={selecionada:state.answers[q.id],correta:q.correta};if(JSON.stringify(ledger[q.id])!==JSON.stringify(next)){ledger[q.id]=next;changed=true;}}}if(changed){localStorage.setItem('gabaru:v2:erros',JSON.stringify(ledger));window.dispatchEvent(new Event('gabaru-progresso'));}}catch{queueMicrotask(()=>setStorageError(true));}},[cards,state,hydrated]);
   useEffect(()=>{if(state.mode!=='simulado'||state.finished||!state.deadline)return;const deadline=state.deadline;const tick=()=>{const time=Date.now();setNow(time);if(time>=deadline)setState(s=>({...s,finished:true}));};const timer=setInterval(tick,1000);return()=>clearInterval(timer);},[state.mode,state.deadline,state.finished]);
   const simulado=state.mode==='simulado',showResults=!simulado||state.finished;
   const answered=cards.filter(({q})=>state.answers[q.id]);
@@ -45,7 +47,7 @@ export function StudySession({ cards, storageKey, durationMinutes = 240 }: { car
     const q=cards[active]?.q;if(!q)return;const letter=/^[1-5]$/.test(e.key)?String.fromCharCode(64+Number(e.key)):e.key.toUpperCase();
     if(q.alternativas.some(a=>a.letra===letter)){e.preventDefault();choose(q,letter);}else if(e.key==='Enter'){e.preventDefault();grade(q);}else if(e.key==='ArrowRight'||e.key==='ArrowLeft'){e.preventDefault();move(active+(e.key==='ArrowRight'?1:-1));}
   }}>
-    <div className="v2-toolbar"><div><p className="gb-eyebrow">Seu caderno de estudo</p><h2 className="v2-subtitle">Entenda cada resposta.</h2></div><div className="v2-actions"><button type="button" className="v2-button" onClick={reset}><RotateCcw size={16} aria-hidden="true"/>Recomeçar no modo estudo</button><button type="button" className="v2-button v2-primary" onClick={start}>Iniciar simulado de {budget} min</button></div></div>
+    <div className="v2-toolbar"><div><p className="gb-eyebrow">Seu caderno de estudo</p><a href="/questoes?erros=1">Revisar erros de outros simulados</a><h2 className="v2-subtitle">Entenda cada resposta.</h2></div><div className="v2-actions"><button type="button" className="v2-button" onClick={reset}><RotateCcw size={16} aria-hidden="true"/>Recomeçar no modo estudo</button><button type="button" className="v2-button v2-primary" onClick={start}>Iniciar simulado de {budget} min</button></div></div>
     <label className="v2-budget">Tempo do próximo simulado (minutos)<input type="number" min="1" max="1440" value={budget} onChange={e=>setBudget(Math.max(1,Math.min(1440,Number(e.target.value)||1)))}/></label>
     <p className="v2-help">Estudo: responda e confira cada questão. Simulado: o gabarito fica fechado até finalizar. Iniciar outro simulado ou recomeçar apaga as marcações deste caderno.</p>
     <label className="v2-shortcuts"><input type="checkbox" checked={shortcuts} onChange={e=>setShortcuts(e.target.checked)}/>Ativar atalhos: A–E ou 1–5 para marcar; Enter para responder; ← e → para navegar. Use fora dos campos e botões.</label>
@@ -55,7 +57,7 @@ export function StudySession({ cards, storageKey, durationMinutes = 240 }: { car
       const graded=state.graded.includes(q.id),reveal=showResults&&(graded||state.finished),correct=state.answers[q.id]===q.correta;
       return <article key={q.id} id={`estudo-${q.id}`} tabIndex={-1} onFocus={()=>setActive(index)} className="v2-question" aria-labelledby={`titulo-${q.id}`} hidden={onlyErrors&&!mistakes.some(c=>c.q.id===q.id)}>
         <div className="v2-question-heading"><h3 id={`titulo-${q.id}`}>Questão {q.numero}</h3><span>{q.banca.toUpperCase()} · {q.ano} · {q.disciplina==='a-classificar'?'Disciplina em revisão':q.disciplina}</span></div>
-        {base}
+        <QualityBadge nivel={q.nivelQualidade}/>{base}
         {q.anulada&&<p role="status">Questão anulada no gabarito oficial. Não entra na contagem de acertos, erros ou itens em branco.</p>}
         <fieldset><legend className="v2-statement">{statement}</legend>
         <div className="v2-options">{q.alternativas.map((a,i)=>{const eliminated=state.excluded[q.id]?.includes(a.letra)??false;return <div key={a.letra} className={`v2-option ${eliminated?'v2-eliminated':''}`}>

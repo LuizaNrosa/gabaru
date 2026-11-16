@@ -18,7 +18,14 @@
     "validar:interface": "node scripts/verificar-interface.mjs",
     "validar:estudo": "node scripts/verificar-estudo.mjs",
     "validar:crawl": "python scripts/verificar-crawl.py",
-    "build:release": "npm run acervo:prepare && npm run build"
+    "build:release": "npm run acervo:prepare && npm run build",
+    "pdf:inventario": "node scripts/inventariar-pdfs.mjs",
+    "pdf:extrair": "node scripts/extrair-provas-pdf.mjs",
+    "pdf:lote": "node scripts/extrair-lote-local.mjs",
+    "resolucoes:lote": "node scripts/gerar-resolucoes-lote.mjs",
+    "validar:fase2": "node --test tests/catalogo-v2.test.mjs tests/qualidade-fase2.test.mjs tests/sitemap-fase2.test.mjs tests/resolucoes-checkpoint.test.mjs",
+    "validar:links": "node scripts/verificar-links-internos.mjs",
+    "validar:fluxos-fase2": "node scripts/verificar-fase2.mjs"
   },
   "dependencies": {
     "firebase": "^13.0.0",

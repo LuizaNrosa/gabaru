@@ -1087,3 +1087,10 @@ html { scroll-padding-block-start:7rem; }
 }
 .v2-text-base { max-width:var(--reading-measure); border-inline-start:3px solid var(--reading-border); padding-inline-start:1rem; margin-block:1.5rem; }
 .v2-text-base cite { display:block; margin-block-start:1rem; font-style:normal; font-size:.875rem; color:var(--reading-muted); }
+.v2-quality { display:inline-flex; align-items:center; min-height:32px; padding:.375rem .75rem; border-radius:.375rem; background:#e5e0d5; color:#40372e; font-size:.875rem; font-weight:600; margin-block:.75rem; }
+.v2-quality[data-level="nivel-1-gabarito-oficial"] { background:#e2ece6; color:#28503f; }
+.v2-quality[data-level="nivel-2-resolucao-comentada"] { background:#f6e0d0; color:#78300d; }
+.v2-source-figure { max-width:70ch; margin-block:1.5rem; }
+.v2-source-figure figcaption { font-size:.875rem; line-height:1.6; margin-block-start:.75rem; color:var(--reading-muted); }
+
+.v2-filters .v2-filter-toggle{display:flex;align-items:center;gap:.7rem;min-height:44px}.v2-filters .v2-filter-toggle input{width:20px;min-height:20px;height:20px;flex-shrink:0}.v2-graph{max-width:100%;overflow:hidden}.v2-resolution h4{font-weight:700;margin-top:1.5rem}

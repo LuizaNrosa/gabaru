@@ -41,6 +41,7 @@ export default async function Page({ params }: Props) {
       Neste caderno, a correção das questões de língua estrangeira corresponde à opção de inglês.
     </p>}
     <details className="v2-solution"><summary>Caderno original e leitor de imagens</summary><EnemExamReader key={exam.id} id={exam.id} title={enemTitle(exam)} verified={verified} pageCount={exam.pageCount} questions={exam.questions.map(({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled})=>({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled}))} /></details>
+    {exam.id === "enem-2024-d2" && <p className="gb-notice mt-4">Transcrição e figuras de <a href="https://github.com/piresramon/gpt-4-enem" rel="noopener noreferrer" target="_blank">Pires e colaboradores</a>. Conteúdo em conferência; consulte o caderno oficial. A atribuição e a licença acompanham o material.</p>}
     {!exam.pageCount && <section className="mt-12" aria-label="Transcrições das questões">
       <h2 className="gb-section-title">Transcrições das questões</h2>
       <p className="mt-3 text-sm text-n5">Texto auxiliar: para figuras e alternativas, consulte o recorte ou o caderno oficial.</p>
@@ -48,6 +49,7 @@ export default async function Page({ params }: Props) {
         <h3 id={`titulo-${q.numero}-${q.disciplina}`} className="font-semibold">Questão {enemDisplayNumber(q)} · {q.disciplina}</h3>
         <p className="mt-3 text-sm text-n5">{q.tema} · {q.habilidade}</p>
         <p className="mt-4 whitespace-pre-wrap text-n5"><SafeText text={q.texto}/></p>
+        {q.figuras?.map(figura => <figure key={figura.url} className="mt-5"><img src={figura.url} alt={figura.descricao} loading="lazy" className="mx-auto h-auto max-w-full" /><figcaption><SafeText text={figura.descricao}/></figcaption></figure>)}
       </article>)}</div>
     </section>}
   <ExamEditorial banca="enem" edition={exam.id} />

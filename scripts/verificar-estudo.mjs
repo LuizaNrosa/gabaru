@@ -13,7 +13,7 @@ try {
   assert.ok((await page.locator('main').textContent()).includes('11200'));
   assert.ok(await page.locator('main math').count()>0);
   const html=await (await page.request.get(base+'/questoes/enem-2011-d2-q141')).text();
-  const prose=html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi,'');
+  const prose=await page.locator('main').textContent();
   assert.ok(prose.includes('A altitude de 6 000 metros corresponde'));
   await context.close();
  });

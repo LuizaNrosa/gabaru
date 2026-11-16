@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { useAuth } from "@/context/auth-context";
+import { PainelEvolucao } from "@/components/painel-evolucao";
 export default function Page() {
   const { user, loading, signOut } = useAuth();
   const router = useRouter();
@@ -34,14 +35,7 @@ export default function Page() {
                 Iniciar treino ↗
               </Link>
             </article>
-            <article className="gb-content-card">
-              <p className="gb-eyebrow">EM DESENVOLVIMENTO</p>
-              <h2>Sua evolução</h2>
-              <p>
-                Acertos, tempo de estudo e histórico aparecerão aqui quando o
-                registro de sessões e os gabaritos estiverem integrados.
-              </p>
-            </article>
+            <PainelEvolucao />
             <article className="gb-content-card">
               <p className="gb-eyebrow">CONHECER</p>
               <h2>Encontre seu caminho</h2>

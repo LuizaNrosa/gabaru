@@ -21,7 +21,6 @@ export const metadata: Metadata = {
   authors: [{ name: "Luiza Nascimento Rosa", url: "https://github.com/LuizaNrosa" }],
   creator: "Luiza Nascimento Rosa",
   publisher: "Luiza Nascimento Rosa",
-  other: { copyright: "© 2026 Luiza Nascimento Rosa" },
   // O preview pode definir NEXT_PUBLIC_INDEXAR=0. Produção usa o domínio canônico sem www.
   robots:
     process.env.NEXT_PUBLIC_INDEXAR !== "0"
@@ -42,6 +41,9 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     images: [OG_IMAGEM],
+  },
+  other: {
+    copyright: `© ${new Date().getFullYear()} Luiza Nascimento Rosa`,
   },
 };
 

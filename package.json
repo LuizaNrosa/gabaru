@@ -31,7 +31,8 @@
     "test:security": "node --test tests/security-total.test.mjs",
     "test:firestore": "node --use-env-proxy scripts/testar-firestore.mjs",
     "typecheck:apk": "npm --prefix APK run typecheck",
-    "validar:total": "node --test tests/catalogo-v2.test.mjs tests/qualidade-fase2.test.mjs tests/sitemap-fase2.test.mjs tests/resolucoes-checkpoint.test.mjs tests/security-total.test.mjs tests/saneamento.test.mjs tests/study-progress.test.mjs tests/incidence.test.mjs"
+    "validar:total": "node --test tests/catalogo-v2.test.mjs tests/qualidade-fase2.test.mjs tests/sitemap-fase2.test.mjs tests/resolucoes-checkpoint.test.mjs tests/security-total.test.mjs tests/saneamento.test.mjs tests/study-progress.test.mjs tests/incidence.test.mjs",
+    "test": "node scripts/testar-unitarios.mjs"
   },
   "dependencies": {
     "firebase": "^13.0.0",
@@ -49,7 +50,8 @@
     "server-only": "^0.0.1",
     "sitemap": "^10.0.0",
     "stripe": "^17.0.0",
-    "zod": "^4.6.7"
+    "zod": "^4.6.7",
+    "@tanstack/react-query": "^5.107.1"
   },
   "devDependencies": {
     "@axe-core/cli": "^4.14.0",
@@ -88,5 +90,18 @@
     "name": "Luiza Nascimento Rosa",
     "url": "https://github.com/LuizaNrosa"
   },
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "description": "Site para vestibulinhos, vestibulares e concursos — provas oficiais verificadas, nota de corte e treino. gabaru.com.br",
+  "homepage": "https://gabaru.com.br",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizaNrosa/gabaru.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuizaNrosa/gabaru/issues"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "copyright": "© 2026 Luiza Nascimento Rosa. Todos os direitos reservados."
 }

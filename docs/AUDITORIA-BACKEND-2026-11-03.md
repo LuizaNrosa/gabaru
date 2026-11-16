@@ -183,6 +183,12 @@ significa); o desenho mínimo, quando essa decisão existir:
 
 ## Pendentes priorizados (fora do âmbito desta frente)
 
+> **Atualização 2026-11-09** (branch `pro/profissionalizacao`): o item 1
+> (P0) está **RESOLVIDO** — `public/treino/banco.json` foi removido, com
+> teste de regressão em `tests/public-surface.test.mjs`. O item 3 (webhook)
+> está **COMPLETO** conforme o desenho abaixo, com a leitura no servidor em
+> `GET /api/v1/entitlement`. Ver `docs/PROFISSIONALIZACAO-2026-11-09.md`.
+
 1. **P0 — `public/treino/banco.json` continua acessível como ficheiro
    estático COM os gabaritos** (`/treino/banco.json`). A API já não os
    expõe (F1), mas o ficheiro em `public/` entrega o mesmo conteúdo a

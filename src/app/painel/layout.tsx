@@ -3,6 +3,7 @@ import {redirect} from 'next/navigation';
 import {verifySessionCookie} from '@/lib/firebase/admin';
 import type { Metadata } from "next";
 import { metaPagina } from "@/lib/seo";
+import { PainelProviders } from "@/components/painel-providers";
 
 // A página do painel é um componente de cliente; a metadata vive neste
 // layout de servidor. Área do aluno: nunca indexar.
@@ -20,5 +21,5 @@ export default async function PainelLayout({
 }) {
   const cookie=(await cookies()).get('__session')?.value;
   if(!cookie||!await verifySessionCookie(cookie))redirect('/login');
-  return children;
+  return <PainelProviders>{children}</PainelProviders>;
 }

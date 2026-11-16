@@ -52,7 +52,7 @@ jobs:
           npm run export:android --prefix APK
       - name: Guardar lockfiles para revisão
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: lockfiles-seguranca
           path: |

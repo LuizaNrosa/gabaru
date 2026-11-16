@@ -13,10 +13,10 @@ tema: "Opinião de psicóloga como argumento de autoridade"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q018.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 18 — ENEM 2022](enem-2022-ppl-d1-q018.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 18  
 A criança e a lógica  
@@ -47,5 +47,3 @@ B apresentar dados científicos sobre a falta de lógica na infância.
 C gerar efeitos de credibilidade para as informações apresentadas.  
 D justificar a natureza rudimentar do raciocínio infantil.  
 E ajudar os adultos na interlocução com as crianças.
-
-</details>

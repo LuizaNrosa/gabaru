@@ -13,10 +13,10 @@ tema: "Formação de raças de cães por seleção artificial"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q118.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 118 — ENEM 2024](enem-2024-ppl-d2-q118.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 118  
 A evolução das populações envolve processos de variação e adaptação ao longo do  
@@ -32,5 +32,3 @@ B seleção artificial.
 C formação de híbridos.  
 D especiação alopátrica.  
 E divergência adaptativa.
-
-</details>

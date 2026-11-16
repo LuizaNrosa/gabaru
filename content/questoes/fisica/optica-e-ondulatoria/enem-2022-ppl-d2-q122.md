@@ -13,10 +13,10 @@ tema: "Faixa de maior sensibilidade auditiva em audiograma"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d2-q122.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 122 — ENEM 2022](enem-2022-ppl-d2-q122.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 122  
 O audiograma corresponde a uma maneira objetiva de se representar a sensibilidade auditiva para diferentes  
@@ -60,5 +60,3 @@ entre 4 000 e 10 000.
 D  
 acima de 10 000.  
 E
-
-</details>

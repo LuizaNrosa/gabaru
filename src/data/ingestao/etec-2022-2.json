@@ -1,0 +1,273 @@
+{
+  "banca": "etec",
+  "edicao": "2022-2",
+  "provaSha256": "4ce97322a6ba1a98e948a11d19d8fdd62ebd40749b8b384ade71262cf891e752",
+  "gabaritoSha256": "0e70376fedc01865700428f8478dbd60d6771fcc3a273ed5d5a10309757c0229",
+  "esperadas": 50,
+  "aceitas": {
+    "etec-2022-2-q002": {
+      "id": "etec-2022-2-q002",
+      "numero": 2,
+      "enunciado": "O desemprego estrutural é aquele causado pela introdução de novas tecnologias no processo produtivo de uma  empresa, a fim de reduzir os custos. O desemprego conjuntural está vinculado às oscilações econômicas de um país: se a economia está aquecida,  as empresas contratam, diminuindo o desemprego; se a economia não está indo bem, as empresas demitem parte  de seus funcionários para equilibrar suas contas, aumentando o desemprego. Sobre os tipos de desemprego citados, podemos afirmar corretamente que",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o desemprego estrutural é passageiro, pois quando a economia de um determinado país começa a melhorar os empregos retornam e as pessoas se reempregam."
+        },
+        {
+          "letra": "B",
+          "texto": "o desemprego estrutural está ligado à adoção de novas máquinas e robôs nas empresas que os adotam para substituir o trabalho humano."
+        },
+        {
+          "letra": "C",
+          "texto": "o desemprego conjuntural diminui em tempos de crise econômica e aumenta quando a economia mostra sinais de vitalidade."
+        },
+        {
+          "letra": "D",
+          "texto": "o desemprego conjuntural será zerado quando todas as máquinas e robôs forem destruídos pelos trabalhadores."
+        },
+        {
+          "letra": "E",
+          "texto": "o desemprego conjuntural e o desemprego estrutural são sinônimos, pois definem o mesmo tipo de desemprego."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "4ce97322a6ba1a98e948a11d19d8fdd62ebd40749b8b384ade71262cf891e752",
+        "gabaritoSha256": "0e70376fedc01865700428f8478dbd60d6771fcc3a273ed5d5a10309757c0229",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2022",
+        "paginas": [
+          2
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2022-2-q013": {
+      "id": "etec-2022-2-q013",
+      "numero": 13,
+      "enunciado": "Thomas Robert Malthus foi um economista que em 1798 escreveu um livro denominado Ensaio Sobre a População no  qual defendia ser o ritmo do crescimento populacional maior que o ritmo do crescimento da produção de alimentos e,  portanto, faltariam alimentos. As previsões de Malthus não se concretizaram, pois",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a população mundial diminuiu lenta e continuamente, até os dias de hoje e, portanto, a necessidade por alimentos também diminuiu no mesmo ritmo."
+        },
+        {
+          "letra": "B",
+          "texto": "os trabalhadores urbanos, na Revolução Industrial, dividiam seu tempo entre o trabalho em fábricas e em atividades ligadas à horticultura, cultivando seu próprio alimento e, dessa forma, acabando com a fome no mundo."
+        },
+        {
+          "letra": "C",
+          "texto": "novas tecnologias surgiram e foram incorporadas ao processo produtivo nos campos, fazendo aumentar a produção de alimentos, em função do desenvolvimento tecnológico proporcionado pela Revolução Industrial."
+        },
+        {
+          "letra": "D",
+          "texto": "as pessoas se dirigiram em grande quantidade, com o avanço da Revolução Industrial, para as zonas rurais atrás de emprego, causando um esvaziamento das cidades e aumentando a produção de gêneros alimentícios nos campos."
+        },
+        {
+          "letra": "E",
+          "texto": "os proprietários das fábricas, durante a Revolução Industrial, preocupados com a qualidade de vida de seus trabalhadores e de suas famílias, criaram um projeto de distribuição de cestas básicas para as famílias de  trabalhadores sindicalizados, com o intuito de fidelizar a mão de obra."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "4ce97322a6ba1a98e948a11d19d8fdd62ebd40749b8b384ade71262cf891e752",
+        "gabaritoSha256": "0e70376fedc01865700428f8478dbd60d6771fcc3a273ed5d5a10309757c0229",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2022",
+        "paginas": [
+          7
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2022-2-q025": {
+      "id": "etec-2022-2-q025",
+      "numero": 25,
+      "enunciado": "Comer bem não é comer muito, mas ter uma dieta equilibrada, que atenda às necessidades do corpo e ajude a manter  a saúde, reduzindo o risco de várias doenças, como recomendam os nutricionistas e os técnicos em nutrição. Com relação aos tipos de alimentos, às orientações e aos problemas nutricionais, assinale o que for correto.",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Na promoção da alimentação saudável para diminuição de casos de obesidade e hipertensão, deve-se incentivar o consumo de alimentos industrializados e gordurosos na dieta da população."
+        },
+        {
+          "letra": "B",
+          "texto": "A celulose presente nas fibras de alimentos como grãos, verduras, legumes e frutas não é digerida pelo organismo humano, não fornece calorias, mas estimula o trânsito intestinal."
+        },
+        {
+          "letra": "C",
+          "texto": "Uma alimentação adequada apresenta grande consumo de frutas e outros vegetais, bem como a alta ingestão de gorduras saturadas, sal e carboidratos."
+        },
+        {
+          "letra": "D",
+          "texto": "O rótulo do alimento que contém a classificação Zero Lactose informa que esse alimento não tem valor calórico e é indicado para pacientes diabéticos."
+        },
+        {
+          "letra": "E",
+          "texto": "Os alimentos como arroz, macarrão e batatas devem ser retirados da dieta, pois não fornecem nenhuma vantagem ao organismo."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "4ce97322a6ba1a98e948a11d19d8fdd62ebd40749b8b384ade71262cf891e752",
+        "gabaritoSha256": "0e70376fedc01865700428f8478dbd60d6771fcc3a273ed5d5a10309757c0229",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2022",
+        "paginas": [
+          12
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2022-2-q032": {
+      "id": "etec-2022-2-q032",
+      "numero": 32,
+      "enunciado": "As enchentes são fenômenos naturais, as quais estão tomando grandes proporções em áreas urbanizadas devido aos  processos de transformações do espaço natural pela ação humana. Algumas práticas ambientais podem ajudar a diminuir as enchentes em áreas urbanas. Assinale a alternativa que apresenta corretamente uma dessas práticas ambientais.",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Jogar o lixo em valas e nas encostas para ser levado pela água da chuva até os pontos mais baixos, onde estão os canais de drenagem, os rios e os bueiros."
+        },
+        {
+          "letra": "B",
+          "texto": "Impermeabilizar as vias públicas, os quintais e as calçadas, a fim de impedir que grande parte do volume de água precipitado pelas chuvas penetre no solo."
+        },
+        {
+          "letra": "C",
+          "texto": "Permitir os processos de assoreamento, a erosão e a sedimentação nos rios, a fim de dificultar o transbordamento dos cursos de água."
+        },
+        {
+          "letra": "D",
+          "texto": "Diminuir a eficiência dos sistemas de drenagem, que visam conter ou escoar o curso das enxurradas por meio de bocas-de-lobo, piscinões ou dutos."
+        },
+        {
+          "letra": "E",
+          "texto": "Construir e preservar áreas verdes uma vez que a vegetação facilita o processo de infiltração da água da chuva no solo."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "4ce97322a6ba1a98e948a11d19d8fdd62ebd40749b8b384ade71262cf891e752",
+        "gabaritoSha256": "0e70376fedc01865700428f8478dbd60d6771fcc3a273ed5d5a10309757c0229",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2022",
+        "paginas": [
+          15
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2022-2-q036": {
+      "id": "etec-2022-2-q036",
+      "numero": 36,
+      "enunciado": "As cooperativas de catadores são responsáveis por buscar e receber os descartes de materiais possíveis de reutilização. Nas usinas de reciclagem, os materiais recebidos são separados por meio de processos que se baseiam nas propriedades  dos materiais, como densidade, imantação e outros. A propriedade física densidade é a razão entre a massa e o volume de uma amostra de um mesmo material. Por exemplo,  a razão entre a massa de uma barra de alumínio e o volume ocupado por essa mesma barra é 2,7 g/cm3, portanto  dizemos que essa é a densidade do alumínio (dAl = 2,7 g/cm3). Aplicando o conceito de densidade, a massa de alumínio, em gramas, que será reciclada de uma escultura que ocupa o  volume de 50 cm3, é",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,7."
+        },
+        {
+          "letra": "B",
+          "texto": "13,5."
+        },
+        {
+          "letra": "C",
+          "texto": "27,0."
+        },
+        {
+          "letra": "D",
+          "texto": "135,0."
+        },
+        {
+          "letra": "E",
+          "texto": "270,0."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "4ce97322a6ba1a98e948a11d19d8fdd62ebd40749b8b384ade71262cf891e752",
+        "gabaritoSha256": "0e70376fedc01865700428f8478dbd60d6771fcc3a273ed5d5a10309757c0229",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2022",
+        "paginas": [
+          17
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2022-2-q045": {
+      "id": "etec-2022-2-q045",
+      "numero": 45,
+      "enunciado": "O cotidiano da escravidão foi marcado por diversas formas de violências perpetradas por senhores e feitores, cujo  intuito era submeter as pessoas escravizadas e evitar a rebelião contra este regime de trabalho. Muitas estratégias de  resistência, porém, foram articuladas por escravizados. Entre elas, é correto mencionar",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a Greve Geral de 1917, encabeçada pelos escravos de ganho de São Paulo e Rio de Janeiro."
+        },
+        {
+          "letra": "B",
+          "texto": "a greve de fome realizada por Nelson Mandela na prisão, em Joanesburgo, na África do Sul, em 1948."
+        },
+        {
+          "letra": "C",
+          "texto": "a onda de rebeliões de escravizados que se iniciou nas fazendas de café na Amazônia e no Rio Grande do Sul."
+        },
+        {
+          "letra": "D",
+          "texto": "a revolução do Haiti, que derrubou o governo colonial português e estabeleceu a primeira monarquia das Américas."
+        },
+        {
+          "letra": "E",
+          "texto": "a formação de quilombos, comunidades estabelecidas por escravos fugidos em diferentes partes do Brasil."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "4ce97322a6ba1a98e948a11d19d8fdd62ebd40749b8b384ade71262cf891e752",
+        "gabaritoSha256": "0e70376fedc01865700428f8478dbd60d6771fcc3a273ed5d5a10309757c0229",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2022",
+        "paginas": [
+          21
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    }
+  }
+}

@@ -13,10 +13,10 @@ tema: "Grandezas proporcionais entre voluntários, estandes e tempo"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q174.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 174 — ENEM 2024](enem-2024-ppl-d2-q174.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 174  
 Na primeira edição de uma Feira do Livro, a organização contou com a participação  
@@ -40,5 +40,3 @@ B maior e menor.
 C igual e igual.  
 D igual e menor.  
 E menor e menor.
-
-</details>

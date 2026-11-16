@@ -13,10 +13,10 @@ tema: "Inequação de capacidade de condicionador conforme pessoas e aparelhos"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q145.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 145 — ENEM 2024](enem-2024-ppl-d2-q145.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 145  
 A capacidade de refrigeração de um condicionador de ar é medida na unidade  
@@ -43,5 +43,3 @@ B 4
 C 6  
 D 7  
 E 8
-
-</details>

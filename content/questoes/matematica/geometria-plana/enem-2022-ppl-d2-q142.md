@@ -14,13 +14,13 @@ classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q142.webp
 obs: "faixa de código de barras na margem esquerda, rodapé de página indevido (ROSA - 2ª Aplicação, logo enem2022) e região em branco grande"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 142 — ENEM 2022](enem-2022-ppl-d2-q142.webp)
 
-<details><summary>Texto extraído (pode conter ruído)</summary>
-
 QUESTÃO 142  
-ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022  
+
 Um cliente vai a uma loja de materiais de revestimento  
 cerâmico para adquirir porcelanato para a substituição do  
 piso de uma sala com formato retangular, com área total  
@@ -54,5 +54,3 @@ R$ 780,00.
 D  
 R$ 840,00.  
 E
-
-</details>

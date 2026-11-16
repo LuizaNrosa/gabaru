@@ -13,10 +13,10 @@ tema: "Doenças negligenciadas e leishmaniose"
 classificacao_confianca: media
 gabarito: E
 imagem: enem-2024-ppl-d2-q097.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 97 — ENEM 2024](enem-2024-ppl-d2-q097.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 97  
 Doenças negligenciadas são um grupo de enfermidades tropicais endêmicas que  
@@ -32,5 +32,3 @@ B Câncer.
 C Alzheimer.  
 D Influenza A.  
 E Leishmaniose.
-
-</details>

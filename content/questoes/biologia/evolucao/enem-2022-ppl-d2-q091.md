@@ -13,10 +13,10 @@ tema: "Adaptação de frutos do palmito juçara à extinção de aves"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d2-q091.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 91 — ENEM 2022](enem-2022-ppl-d2-q091.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 91  
 O palmito juçara (Euterpe edulis) é uma planta que ocorre em áreas florestadas e produz frutos com tamanhos  
@@ -34,5 +34,3 @@ aceleram a germinação das sementes, favorecendo a colonização de outras áre
 D  
 armazenam menor quantidade de fotoassimilados, mantendo as reservas da planta.  
 E
-
-</details>

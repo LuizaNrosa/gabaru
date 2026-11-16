@@ -13,10 +13,10 @@ tema: "Projeção cartográfica no símbolo da ONU e geopolítica"
 classificacao_confianca: media
 gabarito: B
 imagem: enem-2022-ppl-d1-q062.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 62 — ENEM 2022](enem-2022-ppl-d1-q062.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 62  
 Disponível em: http://apublica.org. Acesso em: 20 set. 2012.  
@@ -27,5 +27,3 @@ B centraliza a posição dos países do norte.
 C reduz a escala no traçado dos países periféricos.  
 D ignora a existência de continentes meridionais.  
 E apresenta uma continuidade entre as porções continentais.
-
-</details>

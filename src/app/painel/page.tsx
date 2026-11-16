@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { useAuth } from "@/context/auth-context";
+import { PainelEvolucao } from "@/components/painel-evolucao";
 export default function Page() {
   const { user, loading, signOut } = useAuth();
   const router = useRouter();
@@ -10,7 +11,7 @@ export default function Page() {
     if (!loading && !user) router.replace("/login");
   }, [loading, user, router]);
   return (
-    <main className="gb-container gb-dashboard">
+    <main id="conteudo-principal" tabIndex={-1} className="gb-container gb-dashboard">
       {loading || !user ? (
         <p role="status">Carregando sua área…</p>
       ) : (
@@ -28,20 +29,13 @@ export default function Page() {
               <h2>Seu treino de hoje</h2>
               <p>
                 Escolha uma disciplina e pratique com questões ENEM. As
-                respostas ainda não são salvas na conta.
+                respostas das questões validadas são preservadas no navegador e podem ser sincronizadas com sua conta.
               </p>
               <Link href="/treino" className="gb-button">
                 Iniciar treino ↗
               </Link>
             </article>
-            <article className="gb-content-card">
-              <p className="gb-eyebrow">EM DESENVOLVIMENTO</p>
-              <h2>Sua evolução</h2>
-              <p>
-                Acertos, tempo de estudo e histórico aparecerão aqui quando o
-                registro de sessões e os gabaritos estiverem integrados.
-              </p>
-            </article>
+            <PainelEvolucao />
             <article className="gb-content-card">
               <p className="gb-eyebrow">CONHECER</p>
               <h2>Encontre seu caminho</h2>

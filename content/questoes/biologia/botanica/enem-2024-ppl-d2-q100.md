@@ -13,10 +13,10 @@ tema: "Polinização pelo vento e produção de grãos de pólen"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2024-ppl-d2-q100.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 100 — ENEM 2024](enem-2024-ppl-d2-q100.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 100  
 O bioma Pampa corresponde a quase dois terços do Rio Grande do Sul e pouco  
@@ -32,5 +32,3 @@ B néctar açucarado.
 C odor desagradável.  
 D tamanho pronunciado.  
 E grãos de pólen numerosos.
-
-</details>

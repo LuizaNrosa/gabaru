@@ -14,13 +14,13 @@ classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d2-q135.webp
 obs: "rodapé de página indevido no fim da imagem com título de seção seguinte ('MATEMÁTICA E SUAS TECNOLOGIAS - Questões de 136 a 180') e faixa de código de barras na margem esquerda"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 135 — ENEM 2022](enem-2022-ppl-d2-q135.webp)
 
-<details><summary>Texto extraído (pode conter ruído)</summary>
-
 QUESTÃO 135  
-ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022  
+
 Detectores de fumaça baseados em ionização  
 funcionam como se fossem um “nariz eletrônico”, acusando  
 a presença de moléculas incomuns (fumaça) em seu  
@@ -71,5 +71,3 @@ decaimento radioativo do amerício.
 E fusão nuclear entre o hélio e o amerício.  
 MATEMÁTICA E SUAS TECNOLOGIAS  
 Questões de 136 a 180
-
-</details>

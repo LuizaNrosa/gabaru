@@ -13,10 +13,10 @@ tema: "Arte contemporânea indiana, globalização e novas mídias"
 classificacao_confianca: media
 gabarito: A
 imagem: enem-2022-ppl-d1-q027.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 27 — ENEM 2022](enem-2022-ppl-d1-q027.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 27  
 GUPTA, S. Booth B20 Thing (Coisa). Aço inoxidável e ferro,  
@@ -37,5 +37,3 @@ naturais.
 E   
 retratar imagens múltiplas que expressam a agitação da  
 modernidade.
-
-</details>

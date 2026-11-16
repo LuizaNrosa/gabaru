@@ -10,7 +10,7 @@ export const metadata = metaPagina({
 
 export default function Page() {
   return (
-    <main className="gb-container py-10">
+    <main id="conteudo-principal" tabIndex={-1} className="gb-container py-10">
       <Link href="/materiais-gratuitos#provas-ifs" className="gb-text-link">← Materiais gratuitos</Link>
       <h1 className="gb-page-title mt-6">Provas do IFAM</h1>
       <p className="mt-4 text-lg">Instituto Federal do Amazonas · cursos técnicos integrados ao ensino médio.</p>

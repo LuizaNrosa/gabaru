@@ -13,10 +13,10 @@ tema: "Festa do Pau da Bandeira e patrimônio religioso"
 classificacao_confianca: media
 gabarito: D
 imagem: enem-2022-ppl-d1-q076.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 76 — ENEM 2022](enem-2022-ppl-d1-q076.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 76  
 TEXTO I  
@@ -46,5 +46,3 @@ A Biomas degradados.
 B Explorações agrícolas.  
 C Ecossistemas intocados.  
 D Condições geoambientais.
-
-</details>

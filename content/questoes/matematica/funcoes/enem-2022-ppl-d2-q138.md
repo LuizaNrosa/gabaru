@@ -14,10 +14,10 @@ classificacao_confianca: media
 gabarito: D
 imagem: enem-2022-ppl-d2-q138.webp
 obs: "rodapé de página indevido (logo enem2022 e 'MT - 2º dia') no fim da imagem; região em branco grande"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 138 — ENEM 2022](enem-2022-ppl-d2-q138.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 138  
 No mercado de valores, denominam-se ativos  
@@ -64,5 +64,3 @@ B 4
 C 3  
 D 2  
 E 1
-
-</details>

@@ -31,7 +31,8 @@ export async function getJSON<T>(path: string): Promise<T> {
   }
 }
 export function imageUrl(q: Question) {
-  if (!/^\/questoes\/[a-zA-Z0-9._-]+$/.test(q.img))
-    throw new Error("Imagem inválida");
+  if(typeof q.img!=="string"||q.img.length>512||!q.img.startsWith("/questoes/"))throw new Error("Imagem inválida");
+  const parts=q.img.slice("/questoes/".length).split("/"),file=parts.pop()??"";
+  if(!/^[a-zA-Z0-9_-]+\.(?:webp|png|jpe?g)$/i.test(file)||parts.some(part=>!/^[a-zA-Z0-9_-]+$/.test(part)))throw new Error("Imagem inválida");
   return API + q.img;
 }

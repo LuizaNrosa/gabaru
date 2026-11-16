@@ -13,10 +13,10 @@ tema: "Crítica comum sobre excesso de informação e mundo digital"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d1-q044.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 44 — ENEM 2022](enem-2022-ppl-d1-q044.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 44  
 TEXTO I  
@@ -58,5 +58,3 @@ A aversão ao controverso.
 B incompreensão entre as pessoas.  
 C esvaziamento das relações sociais.  
 D distanciamento sistemático da realidade.
-
-</details>

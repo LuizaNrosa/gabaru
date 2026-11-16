@@ -1,5 +1,6 @@
 "use client";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { Wordmark } from "@/components/logo";
 import { EM_CONSTRUCAO } from "@/lib/construcao";
@@ -7,12 +8,20 @@ const links = [
   ["Vestibulinhos", "/pre-vestibulinho"],
   ["Nota de corte", "/nota-de-corte"],
   ["ENEM e vestibulares", "/pre-vestibular"],
-  ["Treino gratuito", "/treino"],
+  ["Banco de questões", "/questoes"],
   ["Materiais", "/materiais-gratuitos"],
   ["Sobre", "/sobre"],
-];
+] as const;
+
+/** A seção está ativa quando a rota atual é ela mesma ou um filho. */
+function secaoAtiva(pathname: string, href: string): boolean {
+  if (href === "/") return pathname === "/";
+  return pathname === href || pathname.startsWith(`${href}/`);
+}
+
 export function SiteHeader() {
   const [open, setOpen] = useState(false);
+  const pathname = usePathname();
   return (
     <header
       className="gb-header"
@@ -36,9 +45,13 @@ export function SiteHeader() {
         >
           <Wordmark />
         </Link>
-        <nav className="gb-desktop-nav" aria-label="Principal">
+        <nav className="gb-desktop-nav" aria-label="Navegação principal">
           {links.map(([label, href]) => (
-            <Link key={href} href={href}>
+            <Link
+              key={href}
+              href={href}
+              aria-current={secaoAtiva(pathname, href) ? "page" : undefined}
+            >
               {label}
             </Link>
           ))}
@@ -47,6 +60,7 @@ export function SiteHeader() {
           Entrar <span aria-hidden="true">↗</span>
         </Link>
         <button
+          type="button"
           className="gb-menu-toggle"
           aria-label={open ? "Fechar menu" : "Abrir menu"}
           aria-expanded={open}
@@ -63,7 +77,12 @@ export function SiteHeader() {
           aria-label="Navegação móvel"
         >
           {links.map(([label, href]) => (
-            <Link key={href} href={href} onClick={() => setOpen(false)}>
+            <Link
+              key={href}
+              href={href}
+              onClick={() => setOpen(false)}
+              aria-current={secaoAtiva(pathname, href) ? "page" : undefined}
+            >
               {label}
               <span aria-hidden="true">↗</span>
             </Link>

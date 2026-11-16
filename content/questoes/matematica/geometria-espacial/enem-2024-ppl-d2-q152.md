@@ -13,10 +13,10 @@ tema: "Menor caixa quadrada para recipiente cilíndrico"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2024-ppl-d2-q152.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 152 — ENEM 2024](enem-2024-ppl-d2-q152.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 152  
 Uma fábrica de produtos químicos utiliza, para armazenar a sua produção, recipientes  
@@ -32,5 +32,3 @@ B 35.
 C 39.  
 D 50.  
 E 157.
-
-</details>

@@ -13,10 +13,10 @@ tema: "Distância Sol-Terra em km como potência de base 10"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2024-ppl-d2-q180.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 180 — ENEM 2024](enem-2024-ppl-d2-q180.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 180  
 As distâncias no espaço são tão grandes que seria muito difícil gerenciar os números  
@@ -33,5 +33,3 @@ B 144 × 10 5
 C 18 × 10 6  
 D 24 × 10 6  
 E 144 × 10 6
-
-</details>

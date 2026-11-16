@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d2-q162.webp
 obs: "rodapé de página indevido (logo enem2022 e 'MT - 2º dia') no fim da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 162 — ENEM 2022](enem-2022-ppl-d2-q162.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 162  
 A associação de comerciantes varejistas de uma  
@@ -42,5 +42,3 @@ C
 D  
 E  
 25,00%
-
-</details>

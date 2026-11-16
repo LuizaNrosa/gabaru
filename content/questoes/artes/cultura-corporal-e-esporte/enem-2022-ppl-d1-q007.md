@@ -13,10 +13,10 @@ tema: "Exercício físico e saúde na pandemia de covid-19"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q007.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 7 — ENEM 2022](enem-2022-ppl-d1-q007.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 07  
 Uma polêmica relacionada à covid-19 com clara relação com  
@@ -49,5 +49,3 @@ sujeitos.
 D obrigatoriedade de adotar o hábito de praticar atividades físicas em  
 casa.  
 E importância de melhorar as defesas orgânicas contra a doença.
-
-</details>

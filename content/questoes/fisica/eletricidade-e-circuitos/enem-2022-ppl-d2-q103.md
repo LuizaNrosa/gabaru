@@ -13,10 +13,10 @@ tema: "Economia de energia ao trocar lâmpada incandescente por LED"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q103.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 103 — ENEM 2022](enem-2022-ppl-d2-q103.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 103  
 A preocupação com a sustentabilidade faz com  
@@ -39,5 +39,3 @@ C
 D  
 14,40.  
 E
-
-</details>

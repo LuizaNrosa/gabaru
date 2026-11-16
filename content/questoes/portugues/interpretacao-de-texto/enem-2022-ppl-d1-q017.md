@@ -13,10 +13,10 @@ tema: "Comparação de textos sobre educação financeira infantil"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q017.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 17 — ENEM 2022](enem-2022-ppl-d1-q017.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 17  
 TEXTO I  
@@ -63,5 +63,3 @@ uma das tarefas mais difíceis do processo de educação é
 estabelecer limites.  
 D a educação imposta pela sociedade substitui aquela recebida em  
 casa.
-
-</details>

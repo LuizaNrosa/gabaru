@@ -1,0 +1,278 @@
+[
+  {
+    "nome": "afk",
+    "sha256": "ab5366d54bf4ea990295ce6609b2cd01e739c9234b1a8ed2a6625be49c42dd1e"
+  },
+  {
+    "nome": "animate",
+    "sha256": "c457dc6228181294349052cd30feeaf6e97f7425258241a60ed22c2d00786288"
+  },
+  {
+    "nome": "animate-expo",
+    "sha256": "67e5d2ebe23b3edf52ce9d399532f2ead2bd7eff127919dd1c3bbe489b04dd4d"
+  },
+  {
+    "nome": "animation-performance",
+    "sha256": "6481e7a611b54c0d1d229ac3ac516c05648e63aa79de88c0a1bdc5ae2666ab80"
+  },
+  {
+    "nome": "animation-vocabulary",
+    "sha256": "42df33f1583483cc441fcd76693b3399148602705d2e9b8a26665d6b1951cd0b"
+  },
+  {
+    "nome": "apple-design",
+    "sha256": "7fbacf928637e136da6d475358d0639667a3637ba772f03f8e815bb4c0b86946"
+  },
+  {
+    "nome": "ask-emil",
+    "sha256": "b14d6fec27af1ce59e48c5444520c08abc3ae90e93e1843e19ca382512ac6233"
+  },
+  {
+    "nome": "ask-sonner",
+    "sha256": "4350ebfef0437875de80cc989059900b21ad621ea09f4709cc2917e7dee82d46"
+  },
+  {
+    "nome": "better-accessibility",
+    "sha256": "84fbeaf664029100430699c812785b7ad61fb27e9fc55151c8471cb82040b790"
+  },
+  {
+    "nome": "better-colors",
+    "sha256": "2fc5964fe9adae02e8ba4d80d40ad85d23da227f3eab3b55e06c7df0ac7e7652"
+  },
+  {
+    "nome": "better-interface",
+    "sha256": "915ed5dc1442d9b78782900ff8b62160133362a2fe23998917814bfb6422869e"
+  },
+  {
+    "nome": "better-layout",
+    "sha256": "1fd79a2e688288bb31427511e862154788f7cede16f09227fe78e3bfeab67a7a"
+  },
+  {
+    "nome": "better-typography",
+    "sha256": "8f00a576f6c8d2f8d72dfbffe765ce569982509d01533ea5881de6e1918d3a68"
+  },
+  {
+    "nome": "better-ui",
+    "sha256": "2d5f9fa4f3bbf045da914349b6e5fde559c947e5323968350b65bb2cdc6b3e4f"
+  },
+  {
+    "nome": "better-writing",
+    "sha256": "109e4337da3621410c225b137d4683d8c246ca06071990a22882376ad60ec6e3"
+  },
+  {
+    "nome": "break",
+    "sha256": "4e3b9788966cd1ee91fc5bb6488ffb11a3de54d56a09191a3b59e399240d8390"
+  },
+  {
+    "nome": "break-ui",
+    "sha256": "fb126d176f3b6bf7dfe71f2ae6620ab3dd81e6282c672a1801720055addfce18"
+  },
+  {
+    "nome": "build-design",
+    "sha256": "d51cb44f594de7248340e9369c767f70a955483ba77f9976697cdbaf2f073a68"
+  },
+  {
+    "nome": "choreograph",
+    "sha256": "0a6802bb2fd5a3993842d48332b8ab56ae5bab369ffa8700f85f6fcff56b8478"
+  },
+  {
+    "nome": "emil-design-eng",
+    "sha256": "cdbfe467e6c9a4940c3a19e795cecf1ba659378d7412e06c245c6ae49da47da6"
+  },
+  {
+    "nome": "explain-interface",
+    "sha256": "6795aff9a133b94c6398a95b5c8958a2eaccade5db18f58e752bc02460a356e0"
+  },
+  {
+    "nome": "find-animation-opportunities",
+    "sha256": "331479e0d867f90d637ef3ef1bdbbd38498d144ab493442afdfbc138abc751b4"
+  },
+  {
+    "nome": "gestures",
+    "sha256": "1928c86cce924a2a178ddd156ba5ed0f184665a1f95b549724ffb5ae703e994f"
+  },
+  {
+    "nome": "impeccable",
+    "sha256": "eb54ca0b7010b3eb7d680ad9bca8e36444388ec0ed88742a104ef9efa21758ae"
+  },
+  {
+    "nome": "improve-animations",
+    "sha256": "632be90e04261192112571b05abd5708fbb846808a4a7780717ee206daa6c6f6"
+  },
+  {
+    "nome": "interface-review",
+    "sha256": "976098555c7fe5dc0d082d70fd37b579f7513eb84a653d1abec8e347c80e32c1"
+  },
+  {
+    "nome": "landing-page-design",
+    "sha256": "0c0ad9323121c0cc4f52b637f64a3a446016f065ae9ebf012dab210559f03d5f"
+  },
+  {
+    "nome": "learn-taste",
+    "sha256": "d624b8cd475eec24c5dc3f49b0380b56c8dab8399df11b92d7c9685aa8d4d33e"
+  },
+  {
+    "nome": "make-interfaces-feel-better",
+    "sha256": "c1d508fa7bef8e47ee682b4f214c7a4ed1416b91d05a97285e555bad1c41a23e"
+  },
+  {
+    "nome": "mobile-native",
+    "sha256": "705e267bc47ea61e4c6f94d121efeebdb994055f482673b8a72f4a0dd62f1968"
+  },
+  {
+    "nome": "pick-ui-library",
+    "sha256": "db10dc6b2a0c340d873f69e35140ceb3c929e15664b33fcacd1ecb25c5574df3"
+  },
+  {
+    "nome": "prototype",
+    "sha256": "30def86c5a5a0794a954b2a046d24c847c7129f316d79892abff73d54d79adc0"
+  },
+  {
+    "nome": "remove-animations",
+    "sha256": "228d98a3d05637f2ff8fc2d1c2bd88c14783c8c901105cac39a7ae24a4d3e408"
+  },
+  {
+    "nome": "review-animations",
+    "sha256": "9ceb5072ce5d5e51b07efa60817c66d06fc6492b7900b44dff5ff0f8f7bcf188"
+  },
+  {
+    "nome": "schema",
+    "sha256": "673fa46bad2f2d4649955c473b11778bd2d258317662df670b31414e28725a84"
+  },
+  {
+    "nome": "seo",
+    "sha256": "870f414f30ff0def113f0804a67d5cf64bfb49f566c9f740a0af2a9aa5083970"
+  },
+  {
+    "nome": "seo-agentic",
+    "sha256": "9f9e1a06ecd9f5699e9d3da588a2b8d5397dfe569699ee439e4c6cf09652b203"
+  },
+  {
+    "nome": "seo-audit",
+    "sha256": "fb345045339bb0645029c1c0d682703d262f045a7184fe96cb0e13f509468e2a"
+  },
+  {
+    "nome": "seo-backlinks",
+    "sha256": "be67f94df838c7976e61fdd5864304c1d02e4f0332e39a030a5a076197a8b913"
+  },
+  {
+    "nome": "seo-bing",
+    "sha256": "3369b4a3a7916da787b3a7b4343553308a3d0320bca31f558e46bedf2ab2f0cc"
+  },
+  {
+    "nome": "seo-cluster",
+    "sha256": "f271f09f847805b954d304339a3235565bedc3977fff79983966fbfa17eef686"
+  },
+  {
+    "nome": "seo-competitor-pages",
+    "sha256": "8417cd3cea7f051cfb4ddd83580fa06a2b4e9fd2bd5b2996a735c7f84ec5947e"
+  },
+  {
+    "nome": "seo-content",
+    "sha256": "ed817c73bd198b7623f102a58464e17ba62af16f098f517f43f1ac2f1c0c9e2b"
+  },
+  {
+    "nome": "seo-content-brief",
+    "sha256": "82bb9b77327088cb34f96a60251e63f60c2a6d8fb09ae733c6c64bf29032e1ad"
+  },
+  {
+    "nome": "seo-dataforseo",
+    "sha256": "8a63481bc426ef689cfab484c94b6effd6872d324aaebe2e684bc0b7098d0775"
+  },
+  {
+    "nome": "seo-drift",
+    "sha256": "f17c3f5ab9f74420a06e3bbabae5b44c2c190e09a49ebe798ef16baba2f6ad3f"
+  },
+  {
+    "nome": "seo-ecommerce",
+    "sha256": "877041a2bb3d31e418cefea02b4e864977f63bb8055c17d057e4ba023fd50342"
+  },
+  {
+    "nome": "seo-flow",
+    "sha256": "736fdd58e1c32894d5da8dc4da87cdbdc588cb5e638d606757b2ab1da00496ad"
+  },
+  {
+    "nome": "seo-geo",
+    "sha256": "0d8a88cb672e8bbbeb6289f5fcdbd4e19eeabdfd428be63b3949d14cbc90c18b"
+  },
+  {
+    "nome": "seo-google",
+    "sha256": "f37ac0b372fc909d8aee8b97e8a2559ebf5f06696fe9a5ecf7e2b9c40e38169c"
+  },
+  {
+    "nome": "seo-hreflang",
+    "sha256": "d09a1e5243739ca59910fa43de8c4495acb166e68b879a4c0d8d385ce43d688e"
+  },
+  {
+    "nome": "seo-image-gen",
+    "sha256": "bf8d369e1ba072627d29000c40bb1b8bcc9bcfd1db219dab4c0278ebfcb70454"
+  },
+  {
+    "nome": "seo-images",
+    "sha256": "358d7e0db864b291183e7cabf2f01d2784d5ef5eebfa0ced9283769f9261734f"
+  },
+  {
+    "nome": "seo-local",
+    "sha256": "60b7fbc69d132603fdd7457cee4f2eaca57edec3ee7c72ce4cc3c10cda10babc"
+  },
+  {
+    "nome": "seo-maps",
+    "sha256": "16e90e48756014f712c635975131e373622a9be21906bc9145ac4b5cc02e2960"
+  },
+  {
+    "nome": "seo-page",
+    "sha256": "8a26845613013d8c33d7d78a18c6bece915762542e0599a1b31fee7f7d6eb8a9"
+  },
+  {
+    "nome": "seo-plan",
+    "sha256": "303103a6d51b0bc87c44506da3da5c590d2fb680fce8f1a937f36f85e87c8216"
+  },
+  {
+    "nome": "seo-posthog",
+    "sha256": "012a7723084607e35a7f9e3013043b95972910a73adf5e145d65b4656a3c1cb0"
+  },
+  {
+    "nome": "seo-programmatic",
+    "sha256": "fbe2bdef5712b3dd74c0f07086cacc98aa6a8ff6f82d5632207343fddc94186b"
+  },
+  {
+    "nome": "seo-schema",
+    "sha256": "58e3712740f0c734cf6a2ad8a940ca4e0de7ad5706dd65c373e29daa6a181854"
+  },
+  {
+    "nome": "seo-shopify",
+    "sha256": "4550399c9bd06c58be1867092d32837eea0cce21bdb3388ba6612a446f9b19c8"
+  },
+  {
+    "nome": "seo-sitemap",
+    "sha256": "438fdd3d19735e7fede64f424bc151c47029247a4e92e3a07e1a9562f301c071"
+  },
+  {
+    "nome": "seo-sxo",
+    "sha256": "74e9f75448747764696301f94a19cbc3c5277cfa93f3ce6fcc93aa3a88f3e9db"
+  },
+  {
+    "nome": "seo-technical",
+    "sha256": "fbe85b6bc71b6a29f2e387f75a50c12af3e67d3f1bbc6552279d4ca6f914e6b0"
+  },
+  {
+    "nome": "state-machine",
+    "sha256": "a94d55cf0a6b71bb8e374e66da9fd66fc8095141e7ff9859ab7c23e6f704f5cf"
+  },
+  {
+    "nome": "tastemaker",
+    "sha256": "8f05af57beb28fcd3069e70fee33f2534e0148b5dcb8c43aab5f32e316f97aef"
+  },
+  {
+    "nome": "variant",
+    "sha256": "6dbe09453c4521c13bf3788d64f2fcc8bcd8b5f7eeebbce95024ec5799defc11"
+  },
+  {
+    "nome": "web-design-engineer",
+    "sha256": "00633aa430281e9921c35bb181ab233879d2a21e999d605fc330258a54e26df1"
+  },
+  {
+    "nome": "write-swift",
+    "sha256": "ad8f3af70b627c165ecd73ecdba49449e35301dd845c397cf813f06582bbdac2"
+  }
+]

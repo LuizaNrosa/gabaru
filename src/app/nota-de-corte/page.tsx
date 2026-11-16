@@ -9,7 +9,7 @@ export const metadata: Metadata = metaPagina({
 });
 
 export default function NotaDeCorte() {
-  return <main className="gb-container py-10">
+  return <main id="conteudo-principal" tabIndex={-1} className="gb-container py-10">
     <h1 className="gb-page-title">Minha nota <mark>dá para passar?</mark></h1>
     <div id="etec" className="mt-8"><SeletorNotaDeCorte /></div>
   </main>;

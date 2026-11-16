@@ -13,10 +13,10 @@ tema: "Cartaz contra violência doméstica une verbal e não verbal"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q016.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 16 — ENEM 2022](enem-2022-ppl-d1-q016.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 16  
 O SILÊNCIO APRISIONA  
@@ -56,5 +56,3 @@ B mobilizar a vítima para denunciar as agressões sofridas.
 C expressar a reação da sociedade em relação ao crime.  
 D analisar as consequências resultantes do sofrimento.  
 E discutir o comportamento psicológico do agressor.
-
-</details>

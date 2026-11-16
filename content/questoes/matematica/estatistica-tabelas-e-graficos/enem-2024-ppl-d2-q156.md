@@ -13,10 +13,10 @@ tema: "Maior média de temperaturas em dois meses consecutivos"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2024-ppl-d2-q156.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 156 — ENEM 2024](enem-2024-ppl-d2-q156.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 156  
 Uma pessoa planeja fazer um intercâmbio com duração de dois meses consecutivos  
@@ -65,5 +65,3 @@ B Y
 C Z  
 D W  
 E K
-
-</details>

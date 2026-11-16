@@ -13,10 +13,10 @@ tema: "Origem do petróleo do pré-sal na Bacia de Santos"
 classificacao_confianca: media
 gabarito: E
 imagem: enem-2022-ppl-d1-q051.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 51 — ENEM 2022](enem-2022-ppl-d1-q051.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 51  
 Petrobras identifica a presença de hidrocarbonetos  
@@ -37,5 +37,3 @@ B colisão de placas tectônicas na costa brasileira.
 C temperatura elevada da água do Atlântico na região.  
 D presença de rochas de origem magmática no local.  
 E deposição de compostos orgânicos no leito oceânico.
-
-</details>

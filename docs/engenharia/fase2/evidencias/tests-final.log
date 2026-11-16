@@ -1,0 +1,29 @@
+
+> gabaru@0.1.0 validar:fase2
+> node --test tests/catalogo-v2.test.mjs tests/qualidade-fase2.test.mjs tests/sitemap-fase2.test.mjs tests/resolucoes-checkpoint.test.mjs
+
+(node:15423) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/catalogo/search.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ identidades únicas, proveniência e vínculos entre cadernos e questões (11.981252ms)
+✔ gate editorial não publica gabarito seco nem OCR incompleto (0.654526ms)
+✔ busca combina palavra, banca, ano, disciplina e assunto sem falsos resultados (485.070865ms)
+✔ schemas mantêm respostas correspondentes ao conteúdo e referências resolvidas (0.550675ms)
+✔ conferência documental é obrigatória; gabarito sem comentários pode promover caderno (2.443151ms)
+✔ resolução divergente ou sem análise de todos os distratores não é nível 2 (0.329155ms)
+✔ os 20 itens do piloto possuem três blocos e correspondem ao gabarito (1.467831ms)
+✔ checkpoint retoma sem duplicar e rejeita letra divergente sem salvar resolução (502.284624ms)
+(node:15477) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/seo/sitemap-stream.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ 4501 URLs viram três partes 2000/2000/501 sem perda e gzip reversível (31.504278ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 9
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1587.99391

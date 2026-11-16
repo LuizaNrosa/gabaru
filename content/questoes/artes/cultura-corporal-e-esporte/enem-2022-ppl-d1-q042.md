@@ -14,10 +14,10 @@ classificacao_confianca: media
 gabarito: A
 imagem: enem-2022-ppl-d1-q042.webp
 obs: "imagem com resquício de texto cortado da questão anterior no topo"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 42 — ENEM 2022](enem-2022-ppl-d1-q042.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 42  
 Diante de uma fórmula consagrada, mas dando indícios de desgaste,  
@@ -45,5 +45,3 @@ B obsoleta, ao premiar homens e mulheres de forma desigual.
 C reconhecida, ao manter o formato de seus eventos por décadas.  
 D desgastada, ao não atender a uma demanda do público espectador.  
 E conservadora, ao resistir à mudança do formato de seus eventos.
-
-</details>

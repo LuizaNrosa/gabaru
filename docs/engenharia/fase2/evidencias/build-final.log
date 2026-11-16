@@ -1,0 +1,445 @@
+
+> gabaru@0.1.0 prebuild
+> npm run catalogo:gerar
+
+
+> gabaru@0.1.0 catalogo:gerar
+> node scripts/gerar-catalogo.mjs && node scripts/gerar-llms.mjs
+
+Régua de qualidade {"cadernos":{"nivel-0-rascunho":666,"nivel-1-gabarito-oficial":1,"nivel-2-resolucao-comentada":0},"questoes":{"nivel-0-rascunho":14224,"nivel-1-gabarito-oficial":1020,"nivel-2-resolucao-comentada":24}}
+{
+  "bancas": 21,
+  "bancasComAcervo": 16,
+  "cadernos": 667,
+  "questoes": 15268,
+  "fontes": [
+    {
+      "arquivo": "etec-exams.json",
+      "registros": 43
+    },
+    {
+      "arquivo": "coluni-exams.json",
+      "registros": 14
+    },
+    {
+      "arquivo": "ifsc-exams.json",
+      "registros": 18
+    },
+    {
+      "arquivo": "ifsp-exams.json",
+      "registros": 10
+    },
+    {
+      "arquivo": "ENEM (catálogos unidos por id)",
+      "registros": 51
+    },
+    {
+      "arquivo": "fuvest-2000-2003-versoes.json",
+      "registros": 6
+    },
+    {
+      "arquivo": "fuvest-2004-2007-versoes.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "fuvest-2008-2011-versoes.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "fuvest-2012-2015-versoes.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "fuvest-2016-2017-versoes.json",
+      "registros": 2
+    },
+    {
+      "arquivo": "fuvest-2018-2019-versoes.json",
+      "registros": 2
+    },
+    {
+      "arquivo": "fuvest-2020-versoes.json",
+      "registros": 1
+    },
+    {
+      "arquivo": "fuvest-2021-versoes.json",
+      "registros": 1
+    },
+    {
+      "arquivo": "fuvest-2022-versoes.json",
+      "registros": 5
+    },
+    {
+      "arquivo": "fuvest-2023-versoes.json",
+      "registros": 5
+    },
+    {
+      "arquivo": "fuvest-2024-versoes.json",
+      "registros": 5
+    },
+    {
+      "arquivo": "fuvest-2025-versoes.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "ifmt-2025-1.json",
+      "registros": 1
+    },
+    {
+      "arquivo": "ifmt-2026-1.json",
+      "registros": 1
+    },
+    {
+      "arquivo": "ifrn-2026.json",
+      "registros": 1
+    },
+    {
+      "arquivo": "ifrs-2025-1.json",
+      "registros": 1
+    },
+    {
+      "arquivo": "ifrs-2026-1.json",
+      "registros": 1
+    },
+    {
+      "arquivo": "ifs-2023.json",
+      "registros": 3
+    },
+    {
+      "arquivo": "ifs-lote-2026.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "ifs-primeiros.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "uerj-2017-2018.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "uerj-2019-2020.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "uerj-2024-2025.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "uerj-uel-2026.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "unesp-2011-2014.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "unesp-2015-2016-2021.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "unesp-2017-2020.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "unesp-lote-quatro.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "unesp-lote-seguinte.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "unicamp-lote1.json",
+      "registros": 4
+    },
+    {
+      "arquivo": "unesp-archive.json",
+      "registros": 62
+    },
+    {
+      "arquivo": "unicamp-archive.json",
+      "registros": 580
+    },
+    {
+      "arquivo": "fuvest-documentos.json",
+      "registros": 172
+    },
+    {
+      "arquivo": "if-document-sources.json:ifam",
+      "registros": 3
+    },
+    {
+      "arquivo": "if-document-sources.json:ifrn",
+      "registros": 1
+    },
+    {
+      "arquivo": "if-document-sources.json:ifmg",
+      "registros": 1
+    }
+  ],
+  "cadernosSomenteDocumento": 432,
+  "anos": [
+    1978,
+    1979,
+    1980,
+    1981,
+    1982,
+    1983,
+    1985,
+    1986,
+    1987,
+    1988,
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "gabaritoSeco": 14588,
+  "comentadas": 24,
+  "completas": 24
+}
+llms.txt e llms-full.txt gerados do catálogo, sem datas artificiais.
+
+> gabaru@0.1.0 build
+> next build
+
+▲ Next.js 16.4.1 (Turbopack)
+✓ Running next.config.ts took 58ms
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 3.5s
+  Running TypeScript ...
+  Finished TypeScript in 4.6s ...
+  Collecting page data using 2 workers ...
+  Generating static pages using 2 workers (0/523) ...
+  Generating static pages using 2 workers (130/523)
+  Generating static pages using 2 workers (261/523)
+  Generating static pages using 2 workers (392/523)
+✓ Generating static pages using 2 workers (523/523) in 12.0s
+Turbopack build encountered 2 warnings:
+./
+Warning: Failed to find font override values for font `Atkinson Hyperlegible Mono`
+Skipping generating a fallback font.
+
+
+./
+Warning: Failed to find font override values for font `Atkinson Hyperlegible Next`
+Skipping generating a fallback font.
+
+
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├ ƒ /api/mercado-pago/checkout-teste
+├ ƒ /api/stripe/checkout
+├ ƒ /api/stripe/webhook
+├ ƒ /api/v1/acervo/correcao
+├ ƒ /api/v1/attempts
+├ ƒ /api/v1/catalog
+├ ƒ /api/v1/coluni
+├ ƒ /api/v1/enem-simulado
+├ ƒ /api/v1/etec
+├ ƒ /api/v1/etec/correcao
+├ ƒ /api/v1/fuvest/[doc]
+├ ƒ /api/v1/ifs/correcao
+├ ƒ /api/v1/ifsc
+├ ƒ /api/v1/ifsp
+├ ƒ /api/v1/progress
+├ ƒ /api/v1/questions
+├ ƒ /api/v1/vestibulares/[institution]/[document]
+├   /assunto/[slug]
+│ ├ ● /assunto/historia-antiga
+│ ├ ● /assunto/historia-medieval
+│ ├ ● /assunto/expansao-maritima
+│ └ ● [+89 more paths]
+├   /banca/[slug]
+│ ├ ● /banca/coluni
+│ ├ ● /banca/cotil
+│ ├ ● /banca/cotuca
+│ └ ● [+18 more paths]
+├ ○ /cadastro
+├ ƒ /checkout/teste
+├ ○ /concursos
+├   /disciplina/[disciplina]
+│ ├ ● /disciplina/historia
+│ ├ ● /disciplina/a-classificar
+│ ├ ● /disciplina/geografia
+│ └ ● [+13 more paths]
+├   /disciplinas/[slug]
+│ ├ ● /disciplinas/matematica
+│ ├ ● /disciplinas/fisica
+│ ├ ● /disciplinas/portugues
+│ └ ● [+10 more paths]
+├ ○ /enem
+├ ○ /etec
+├ ○ /icon.svg
+├ ○ /institutos-federais
+├ ○ /login
+├ ○ /materiais-gratuitos
+├ ○ /nota-de-corte
+├ ○ /nota-de-corte-coluni
+├ ○ /nota-de-corte-ifsc
+├ ○ /nota-de-corte/cotuca
+├ ○ /nota-de-corte/fuvest
+├ ○ /nota-de-corte/ifrn
+├ ○ /nota-de-corte/sisu
+├ ○ /nota-de-corte/unesp
+├ ○ /nota-de-corte/unicamp
+├ ○ /painel
+├ ○ /planos
+├ ○ /pre-vestibular
+├ ○ /pre-vestibulinho
+├ ○ /provas
+├   /provas/[slug]
+│ ├ ○ /provas/etec
+│ ├ ○ /provas/coluni
+│ ├ ○ /provas/ifsc
+│ └ ● [+10 more paths]
+├ ƒ /provas/[slug]/[ano]
+├ ○ /provas/coluni
+├   /provas/coluni/[edition]
+│ ├ ● /provas/coluni/2026
+│ ├ ● /provas/coluni/2025
+│ ├ ● /provas/coluni/2024
+│ └ ● [+11 more paths]
+├ ○ /provas/enem
+├   /provas/enem/[edition]
+│ ├ ● /provas/enem/enem-2025-d1
+│ ├ ● /provas/enem/enem-2025-regular-d2
+│ ├ ● /provas/enem/enem-2025-d2
+│ └ ● [+48 more paths]
+├ ○ /provas/etec
+├   /provas/etec/[edition]
+│ ├ ● /provas/etec/2026-1
+│ ├ ● /provas/etec/2025-2
+│ ├ ● /provas/etec/2025-1
+│ └ ● [+39 more paths]
+├ ○ /provas/etec/2026-2
+├ ○ /provas/fuvest
+├   /provas/fuvest/[year]
+│ ├ ● /provas/fuvest/2026
+│ ├ ● /provas/fuvest/2025
+│ ├ ● /provas/fuvest/2024
+│ └ ● [+47 more paths]
+├ ○ /provas/ifam
+├ ○ /provas/ifba
+├ ○ /provas/ifce
+├   /provas/ifce/[edition]
+│ ├ ● /provas/ifce/ifce-fortaleza-2024-2
+│ ├ ● /provas/ifce/ifce-fortaleza-2023-2
+│ └ ● /provas/ifce/ifce-fortaleza-caucaia-2025-1
+├ ○ /provas/ifmg
+├   /provas/ifmg/[edition]
+│ ├ ● /provas/ifmg/ifmg-2024-1
+│ ├ ● /provas/ifmg/ifmg-2025-1
+│ ├ ● /provas/ifmg/ifmg-2023-1
+│ └ ● /provas/ifmg/ifmg-2026-1
+├ ○ /provas/ifmt
+├   /provas/ifmt/[edition]
+│ ├ ● /provas/ifmt/ifmt-2025-1
+│ └ ● /provas/ifmt/ifmt-2026-1
+├ ○ /provas/ifrn
+├   /provas/ifrn/[edition]
+│ ├ ● /provas/ifrn/ifrn-2024
+│ ├ ● /provas/ifrn/ifrn-2023
+│ ├ ● /provas/ifrn/ifrn-2025
+│ └ ● [+2 more paths]
+├ ○ /provas/ifrs
+├   /provas/ifrs/[edition]
+│ ├ ● /provas/ifrs/ifrs-2025-1
+│ └ ● /provas/ifrs/ifrs-2026-1
+├ ○ /provas/ifsc
+├   /provas/ifsc/[edition]
+│ ├ ● /provas/ifsc/2026-2
+│ ├ ● /provas/ifsc/2026-1
+│ ├ ● /provas/ifsc/2025-2
+│ └ ● [+15 more paths]
+├ ○ /provas/ifsp
+├   /provas/ifsp/[edition]
+│ ├ ● /provas/ifsp/2026-1-tipo1
+│ ├ ● /provas/ifsp/2026-1-tipo2
+│ ├ ● /provas/ifsp/2025-1-a
+│ └ ● [+7 more paths]
+├ ○ /provas/uel
+├   /provas/uel/[edicao]
+│ ├ ● /provas/uel/uel-2026-ingles-tipo1
+│ └ ● /provas/uel/uel-2026-espanhol-tipo1
+├ ○ /provas/uerj
+├   /provas/uerj/[edicao]
+│ ├ ● /provas/uerj/uerj-2026-eq1
+│ ├ ● /provas/uerj/uerj-2026-eq2
+│ ├ ● /provas/uerj/uerj-2025-eq1
+│ └ ● [+11 more paths]
+├ ○ /provas/unesp
+├   /provas/unesp/[year]
+│ ├ ● /provas/unesp/2026
+│ ├ ● /provas/unesp/2025
+│ ├ ● /provas/unesp/2024
+│ └ ● [+20 more paths]
+├ ○ /provas/unicamp
+├   /provas/unicamp/[year]
+│ ├ ● /provas/unicamp/2026
+│ ├ ● /provas/unicamp/2025
+│ ├ ● /provas/unicamp/2024
+│ └ ● [+37 more paths]
+├ ƒ /questoes
+├ ○ /questoes-gratis
+├   /questoes/[slug]
+│ ├ ● /questoes/etec-2026-2-q001
+│ ├ ● /questoes/etec-2026-2-q002
+│ ├ ● /questoes/etec-2026-2-q003
+│ └ ● [+21 more paths]
+├ ○ /robots.txt
+├ ○ /sitemap-disciplinas.xml
+├ ○ /sitemap-hubs.xml
+├ ○ /sitemap-provas.xml
+├ ○ /sitemap-questoes.xml
+├ ○ /sitemap.xml
+├ ƒ /sitemaps/[tipo]/[parte]
+├ ○ /sobre
+├ ○ /treino
+├ ○ /vestibulares
+├ ○ /vestibulares-paulistas
+└ ○ /vestibulinho
+
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses generateStaticParams)
+ƒ  (Dynamic)  server-rendered on demand

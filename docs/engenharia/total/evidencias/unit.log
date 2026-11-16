@@ -1,0 +1,59 @@
+> gabaru@0.1.0 validar:total
+> node --test tests/catalogo-v2.test.mjs tests/qualidade-fase2.test.mjs tests/sitemap-fase2.test.mjs tests/resolucoes-checkpoint.test.mjs tests/security-total.test.mjs tests/saneamento.test.mjs tests/study-progress.test.mjs tests/incidence.test.mjs
+
+(node:28278) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/catalogo/search.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ identidades únicas, proveniência e vínculos entre cadernos e questões (23.937287ms)
+✔ gate editorial não publica gabarito seco nem OCR incompleto (0.865838ms)
+✔ busca combina palavra, banca, ano, disciplina e assunto sem falsos resultados (723.20986ms)
+✔ schemas mantêm respostas correspondentes ao conteúdo e referências resolvidas (0.546096ms)
+✔ JSON-LD não publica respostas de registros em quarentena (0.287275ms)
+(node:28285) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/catalogo/incidence.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ incidência não conta cópias de versão, quarentena ou rótulos pendentes como assunto (0.803845ms)
+✔ conferência documental é obrigatória; gabarito sem comentários pode promover caderno (3.220317ms)
+✔ resolução divergente ou sem análise de todos os distratores não é nível 2 (0.28073ms)
+✔ os 20 itens do piloto possuem três blocos e correspondem ao gabarito (2.762701ms)
+✔ OCR legado sem layout não promove questão contextual incompleta (0.713086ms)
+✔ checkpoint retoma sem duplicar e rejeita letra divergente sem salvar resolução (762.887384ms)
+✔ limpeza preserva conteúdo e é idempotente (1.25252ms)
+✔ cinco pares bilíngues mantêm identidades e não herdam resposta espanhola (71.17565ms)
+(node:28346) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/security/input.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:28346) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/APK/src/services/api.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/APK/package.json.
+✔ checkout rejeita preço, priceId, plano arbitrário e prototype pollution (4.396476ms)
+✔ sanitizador remove XSS e mantém tags pedagógicas permitidas (15.457162ms)
+✔ APK aceita subpastas e bloqueia traversal/encoding/URLs externas (0.57444ms)
+✔ limite é ponderado, expira e não cresce além da capacidade (0.283269ms)
+✔ corpo grande é rejeitado antes de JSON.parse (6.624359ms)
+✔ SDK Stripe rejeita assinatura inválida e aceita assinatura criptográfica válida (8.742304ms)
+✔ ledger transacional impede replay e cancelamento antigo não revoga assinatura nova (1.942967ms)
+✔ paywall só aceita assinatura ativa, não expirada e conferida no servidor (1.841261ms)
+✔ texto simples preserva desigualdades e código literal sem criar elementos HTML (6.389545ms)
+(node:28356) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/seo/sitemap-stream.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ 4501 URLs viram três partes 2000/2000/501 sem perda e gzip reversível (117.793186ms)
+(node:28363) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/study-progress.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ revisão espaçada mantém histórico de erro e separa dados de contas diferentes (2.123596ms)
+✔ busca combina habilidade, não resolvidas e comentadas sem inferir habilidade ausente (1699.654244ms)
+ℹ tests 25
+ℹ suites 0
+ℹ pass 25
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 6188.912596

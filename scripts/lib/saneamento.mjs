@@ -1,0 +1,2 @@
+export function cleanText(text){return text.replace(/\bENEM\s+(20\d{2})(?:\s+ENEM\s+\1)+/gi,'').replace(/\bPROVA\s+[a-z]\s*[-–]\s*(?:AMARELA|AZUL|BRANCA|ROSA|CINZA)\s*[-–]\s*\d+\b/gi,'').replace(/^(?:ENEM\s+\d{4}\s*){2,}\s*$/gmi,'').replace(/^\s*(?:PROVA\s+[a-z]\s*[-–]\s*(?:AMARELA|AZUL|BRANCA|ROSA|CINZA)\s*[-–]\s*\d+|\d+\s*[-–]\s*ENEM\s+\d{4})\s*$/gmi,'').replace(/\n{4,}/g,'\n\n\n').replace(/\n+$/,'\n');}
+export function severeNoise(text){return /\?@|#=\[|\ufffd|(?:ENEM\s+20\d{2}\s*){2,}/i.test(text);}

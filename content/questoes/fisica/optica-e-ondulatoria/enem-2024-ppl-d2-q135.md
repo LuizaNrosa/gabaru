@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: C
 imagem: enem-2024-ppl-d2-q135.webp
 obs: "grande região em branco entre os gráficos A e B e cabeçalho da seção de Matemática (questões 136 a 180) indevido no rodapé"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 135 — ENEM 2024](enem-2024-ppl-d2-q135.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 135  
 Quando utilizadas na iluminação pública noturna, as lâmpadas de LED brancas  
@@ -46,5 +46,3 @@ D absorve a luz azul e emite luz ultravioleta.
 E polariza a luz azul transmitida.  
 MATEMÁTICA E SUAS TECNOLOGIAS  
 Questões de 136 a 180
-
-</details>

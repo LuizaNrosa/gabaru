@@ -13,10 +13,10 @@ tema: "Escala de planta baixa a partir da área do quarto"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q139.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 139 — ENEM 2024](enem-2024-ppl-d2-q139.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 139  
 Na planta baixa de uma casa, um quarto retangular, cuja área é de 24 m 2 , está  
@@ -27,5 +27,3 @@ B 1 : 40.
 C 1 : 60.  
 D 1 : 1 600.  
 E 1 : 16 000.
-
-</details>

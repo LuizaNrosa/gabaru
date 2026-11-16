@@ -13,10 +13,10 @@ tema: "Sistema agroflorestal contra desertificação no Semiárido"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q073.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 73 — ENEM 2022](enem-2022-ppl-d1-q073.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 73  
 Uma mancha esverdeada se destaca na paisagem ondulada dos  
@@ -41,5 +41,3 @@ A inversão de equilíbrio ecológico.
 B preservação de cultivos orgânicos.  
 C recuperação de biomas degradados.  
 D expansão de métodos mecanizados.
-
-</details>

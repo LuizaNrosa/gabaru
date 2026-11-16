@@ -174,12 +174,12 @@ export function NotaCorteIfscTool() {
   const pisoEhGeral =
     derivado != null && oficial == null && referencia?.modalidade !== "GERAL";
 
-  const zona = useMemo(() => {
+  const zona = (() => {
     if (dispensado || alto == null) return null;
     if (nota >= alto) return "passar" as const;
     if (piso != null && nota >= piso) return "chamadas" as const;
     return "abaixo" as const;
-  }, [dispensado, nota, alto, piso]);
+  })();
 
   const aoMudarEdicao = (v: string) => {
     const nova = edicoes.find((e) => e.edicao === v);

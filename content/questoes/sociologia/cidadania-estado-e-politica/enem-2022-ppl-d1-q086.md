@@ -13,10 +13,10 @@ tema: "Autonomia do Banco Central: comparação de pontos de vista"
 classificacao_confianca: media
 gabarito: B
 imagem: enem-2022-ppl-d1-q086.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 86 — ENEM 2022](enem-2022-ppl-d1-q086.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 86  
 TEXTO I  
@@ -55,5 +55,3 @@ B Objetivo das decisões.
 C Origem dos mandatos.  
 D Legitimidade das ações.  
 E Composição dos cargos.
-
-</details>

@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d2-q119.webp
 obs: "rodapé de página indevido (início de 'CN - 2º dia | Caderno' no fim da imagem)"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 119 — ENEM 2022](enem-2022-ppl-d2-q119.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 119  
 Uma ferramenta biotecnológica para identificação  
@@ -48,5 +48,3 @@ avô.
 D  
 prima.  
 E
-
-</details>

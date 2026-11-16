@@ -13,10 +13,10 @@ tema: "Menor preço de banho em petshops com promoções"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2024-ppl-d2-q140.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 140 — ENEM 2024](enem-2024-ppl-d2-q140.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 140  
 O dono de dois cachorrinhos, um shitzu e um poodle, fez uma pesquisa na internet  
@@ -51,5 +51,3 @@ B II.
 C III.  
 D IV.  
 E V.
-
-</details>

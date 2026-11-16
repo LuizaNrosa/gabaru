@@ -1,0 +1,25 @@
+{
+  "fonte": "Binários já servidos pelo Next/Google Fonts na base, preservados sem alteração",
+  "arquivos": {
+    "e664fdf150ece08d.0uclrktt8h78d.woff2": {
+      "familia": "Atkinson Hyperlegible Next",
+      "sha256": "ca1969afa9058a41ced4a08bd54f48835cfe79dc6ccf9050dca7da85c9e0a9d9"
+    },
+    "847c6af3f14ca2aa.p.2dv7oiayrgfo5.woff2": {
+      "familia": "Atkinson Hyperlegible Next",
+      "sha256": "1e4cea71d75ec427581d6259fc07148a2e60d60d16cabf4b4f5360487b3f9dc3"
+    },
+    "d3c0e0b91ac3a3c1.0oq8s6qy1l2lw.woff2": {
+      "familia": "Atkinson Hyperlegible Mono",
+      "sha256": "6815df031cebeeac513bf56f56ef45fdc749ed8b0c91b2cbd274e68c3d66903b"
+    },
+    "50a63ac321745c44.p.202x5_1668z2o.woff2": {
+      "familia": "Atkinson Hyperlegible Mono",
+      "sha256": "f0230cab68ecdc96766fde00a89cf3167e668c3a8756f844cab554dc3bcfd030"
+    }
+  },
+  "preloads": [
+    "/fonts/atkinson/847c6af3f14ca2aa.p.2dv7oiayrgfo5.woff2",
+    "/fonts/atkinson/50a63ac321745c44.p.202x5_1668z2o.woff2"
+  ]
+}

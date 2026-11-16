@@ -13,10 +13,10 @@ tema: "Carlos Fuentes sobre o papel da amizade"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q102.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 102 — ENEM 2022](enem-2022-ppl-d1-q102.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 02  
 Amistad  
@@ -46,5 +46,3 @@ B recompensa a experiência de crescer em um lar infeliz.
 C reafirma valores adquiridos nas relações familiares.  
 D provoca disputa entre família e amigos.  
 E gera novos sentimentos no âmbito familiar.
-
-</details>

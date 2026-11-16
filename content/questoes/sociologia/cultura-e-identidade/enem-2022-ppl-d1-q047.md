@@ -13,10 +13,10 @@ tema: "Pretuguês de Lélia Gonzalez e herança cultural africana"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q047.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 47 — ENEM 2022](enem-2022-ppl-d1-q047.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 47  
 “Pretuguês” é o termo cunhado por Lélia Gonzalez para se referir  
@@ -34,5 +34,3 @@ B ampliação do sistema migratório.
 C diversidade do patrimônio cultural.  
 D variedade do conhecimento autóctone.  
 E multiplicidade do comércio estrangeiro.
-
-</details>

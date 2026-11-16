@@ -1,0 +1,62 @@
+{
+  "etec-2026-2": {
+    "status": "processado",
+    "erro": null
+  },
+  "etec-2026-1": {
+    "status": "processado",
+    "erro": null
+  },
+  "etec-2025-2": {
+    "status": "retido",
+    "erro": "file:///workspace/work/gabaru-code/scripts/extrair-provas-pdf.mjs:9\nasync function verified(name,expected){for(const path of [`public/acervo/${bank}/${edition}/${name}.pdf`,`.next/cache/${bank}-pdfs/${edition}/${name}.pdf`]){try{const bytes=await readFile(path);const sha=createHash('sha256').update(bytes).digest('hex');if(sha===expected&&bytes.subarray(0,5).toString()==='%PDF-')return {path:resolve(path),sha};}catch(e){if(e.code!=='ENOENT')throw e;}}throw new Error(`PDF local íntegro não encontrado: ${bank}/${edition}/${name}`);}\n                                                                                                                                                                                                                                                                                                                                                                                                        ^\n\nError: PDF local íntegro não encontrado: etec/2025-2/prova\n    at verified (file:///workspace/work/gabaru-code/scripts/extrair-provas-pdf.mjs:9:393)\n    at async file:///workspace/work/gabaru-code/scripts/extrair-provas-pdf.mjs:10:11\n\nNode.js v24.22.1\n"
+  },
+  "etec-2025-1": {
+    "status": "processado",
+    "erro": null
+  },
+  "etec-2024-2": {
+    "status": "processado",
+    "erro": null
+  },
+  "etec-2024-1": {
+    "status": "processado",
+    "erro": null
+  },
+  "etec-2023-2": {
+    "status": "processado",
+    "erro": null
+  },
+  "etec-2023-1": {
+    "status": "processado",
+    "erro": null
+  },
+  "etec-2022-2": {
+    "status": "processado",
+    "erro": null
+  },
+  "etec-2020-1": {
+    "status": "processado",
+    "erro": null
+  },
+  "coluni-2026": {
+    "status": "processado",
+    "erro": null
+  },
+  "coluni-2025": {
+    "status": "processado",
+    "erro": null
+  },
+  "coluni-2024": {
+    "status": "processado",
+    "erro": null
+  },
+  "ifsc-2026-2": {
+    "status": "processado",
+    "erro": null
+  },
+  "ifsp-2026-1-tipo1": {
+    "status": "processado",
+    "erro": null
+  }
+}

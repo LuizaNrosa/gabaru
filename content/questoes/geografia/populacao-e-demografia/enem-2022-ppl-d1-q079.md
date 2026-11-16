@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q079.webp
 obs: "imagem com resquício de texto cortado da questão anterior no topo"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 79 — ENEM 2022](enem-2022-ppl-d1-q079.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 79  
 O volume anual de população que se incorporará à faixa de 65  
@@ -32,5 +32,3 @@ A topo da pirâmide etária.
 B taxa de fecundidade anual.  
 C nível de mortalidade infantil.  
 D índice de desemprego estrutural.
-
-</details>

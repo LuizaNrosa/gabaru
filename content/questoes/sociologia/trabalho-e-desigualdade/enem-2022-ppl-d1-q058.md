@@ -13,10 +13,10 @@ tema: "Conflito de classes burguesia e proletariado em Marx e Engels"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q058.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 58 — ENEM 2022](enem-2022-ppl-d1-q058.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 58  
 A sociedade burguesa moderna, que surgiu do declínio da  
@@ -35,5 +35,3 @@ A imposição de políticas neoliberais.
 B exploração da propriedade privada.  
 C implantação da abertura comercial.  
 D repressão de movimentos sindicais.
-
-</details>

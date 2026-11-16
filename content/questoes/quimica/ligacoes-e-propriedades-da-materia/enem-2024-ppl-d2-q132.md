@@ -13,10 +13,10 @@ tema: "Nanocápsulas de anestésico e absorção pela pele"
 classificacao_confianca: media
 gabarito: E
 imagem: enem-2024-ppl-d2-q132.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 132 — ENEM 2024](enem-2024-ppl-d2-q132.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 132  
 Um laboratório farmacêutico desenvolveu um anestésico tópico, em forma de  
@@ -37,5 +37,3 @@ D utilização de uma maior quantidade do creme, para manter a eficiência da dr
 mesmo com a miniaturização da cápsula.  
 E aumento do transporte e da absorção dos princípios ativos, à medida que elas se  
 degradam ao migrarem da epiderme para a derme.
-
-</details>

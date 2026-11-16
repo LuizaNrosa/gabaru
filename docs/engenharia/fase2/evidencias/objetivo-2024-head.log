@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+date: Mon, 16 Nov 2026 08:26:11 GMT
+server: envoy
+
+HTTP/2 200
+content-length: 5429339
+content-type: application/pdf
+last-modified: Thu, 14 Nov 2024 14:49:17 GMT
+accept-ranges: bytes
+etag: "cdc69561a436db1:0"
+server: envoy
+x-powered-by: ASP.NET
+x-content-type-options: nosniff
+access-control-allow-origin: *
+access-control-allow-headers: *
+strict-transport-security: max-age=31536000 ; includeSubDomains
+date: Mon, 16 Nov 2026 08:26:12 GMT
+x-envoy-upstream-service-time: 684

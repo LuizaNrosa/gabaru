@@ -13,10 +13,10 @@ tema: "Representação numérica de quantidade escrita por extenso"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2024-ppl-d2-q146.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 146 — ENEM 2024](enem-2024-ppl-d2-q146.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 146  
 O Relâmpago de Catatumbo é um fenômeno natural que gera muitas tempestades  
@@ -31,5 +31,3 @@ B 1 176 000.
 C 100 000 176.  
 D 176 000 000.  
 E 1 000 000 176.
-
-</details>

@@ -13,10 +13,10 @@ tema: "Menor custo mensal com funções afins de aluguel"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2024-ppl-d2-q158.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 158 — ENEM 2024](enem-2024-ppl-d2-q158.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 158  
 Uma escola analisou as propostas de cinco empresas para alugar uma máquina  
@@ -43,5 +43,3 @@ B II.
 C III.  
 D IV.  
 E V.
-
-</details>

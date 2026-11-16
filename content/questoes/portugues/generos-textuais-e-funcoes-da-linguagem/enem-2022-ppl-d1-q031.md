@@ -13,10 +13,10 @@ tema: "Estratégia de convencimento em sinopse de filme"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q031.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 31 — ENEM 2022](enem-2022-ppl-d1-q031.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 31  
 Domésticas, de Fernando Meirelles e Nando Olival (2001)  
@@ -49,5 +49,3 @@ B Avaliação positiva do filme disfarçada de comparação.
 C Referência à mídia cinematográfica.  
 D Descrição de cenas do filme.  
 E Apelação ao leitor.
-
-</details>

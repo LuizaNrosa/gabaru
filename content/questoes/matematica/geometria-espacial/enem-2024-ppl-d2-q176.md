@@ -13,10 +13,10 @@ tema: "Gráfico da altura da água em garrafão em esvaziamento"
 classificacao_confianca: media
 gabarito: A
 imagem: enem-2024-ppl-d2-q176.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 176 — ENEM 2024](enem-2024-ppl-d2-q176.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 176  
 Um garrafão, cujas seções transversais são circunferências, encontra-se cheio de  
@@ -30,5 +30,3 @@ D
 B  
 E  
 C
-
-</details>

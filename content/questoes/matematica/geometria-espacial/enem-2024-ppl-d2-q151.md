@@ -13,10 +13,10 @@ tema: "Número de vértices do octaedro truncado"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2024-ppl-d2-q151.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 151 — ENEM 2024](enem-2024-ppl-d2-q151.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 151  
 O processo de truncamento de um octaedro regular consiste em retirar, a partir de  
@@ -30,5 +30,3 @@ B 8
 C 14  
 D 24  
 E 30
-
-</details>

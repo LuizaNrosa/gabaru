@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d2-q095.webp
 obs: "rodapé de página indevido no fim da imagem e faixa de código de barras na margem esquerda; região em branco grande"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 95 — ENEM 2022](enem-2022-ppl-d2-q095.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 95  
 Bebidas alcoólicas, algumas soluções desinfetantes  
@@ -44,5 +44,3 @@ D
 Ao estabelecimento de interações intermoleculares  
 E  
 mais intensas.
-
-</details>

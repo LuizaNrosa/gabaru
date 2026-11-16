@@ -14,10 +14,10 @@ classificacao_confianca: media
 gabarito: A
 imagem: enem-2022-ppl-d2-q165.webp
 obs: "Tabela cortada (apenas 3 de 5 UFs visíveis) e alternativas A-E ausentes"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 165 — ENEM 2022](enem-2022-ppl-d2-q165.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 165  
 Demografia médica é o estudo da população de  
@@ -63,5 +63,3 @@ D
 Sergipe.  
 Piauí.  
 E
-
-</details>

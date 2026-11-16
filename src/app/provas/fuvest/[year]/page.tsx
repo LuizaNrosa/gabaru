@@ -20,7 +20,7 @@ export default async function FuvestAno({ params }: Props) {
   if (!/^\d{4}$/.test(year) || !years.includes(Number(year))) notFound();
   const list = docs.map((d, globalIndex) => ({...d, globalIndex})).filter(d => d.year === Number(year));
   const source = `https://www.fuvest.br/acervo-vestibular-${year}/`;
-  return <main>
+  return <main id="conteudo-principal" tabIndex={-1}>
     <PageHero eyebrow="Vestibulares · FUVEST" titulo={<>FUVEST {year}.<br /><mark>Documentos oficiais.</mark></>}>
       <p>Escolha um documento disponibilizado na página oficial desta edição.</p>
     </PageHero>

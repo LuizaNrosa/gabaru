@@ -13,10 +13,10 @@ tema: "Mobilidade e meio ecológico no modo de vida caipira"
 classificacao_confianca: media
 gabarito: C
 imagem: enem-2022-ppl-d1-q065.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 65 — ENEM 2022](enem-2022-ppl-d1-q065.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 65  
 O equilíbrio ecológico e social do caipira se estabeleceu em função  
@@ -36,5 +36,3 @@ C cultivos itinerantes e disponibilidade de riquezas naturais.
 D cercamento de latifúndios e proletarização de setores camponeses.  
 E   
 condições de competitividade e ampliação da agroindústria
-
-</details>

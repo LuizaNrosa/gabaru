@@ -13,10 +13,10 @@ tema: "Inovações agrícolas e expansão do agronegócio no Cerrado"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q057.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 57 — ENEM 2022](enem-2022-ppl-d1-q057.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 57  
 As inovações no preparo do solo e na engenharia genética (variedades  
@@ -34,5 +34,3 @@ B Manutenção da empregabilidade rural.
 C Priorização da adubação orgânica.  
 D Preservação das nascentes de rios.  
 E Estagnação da mecanização agrícola.
-
-</details>

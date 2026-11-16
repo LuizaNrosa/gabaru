@@ -13,10 +13,10 @@ tema: "Foucault e biopoder: gestão calculista das vidas"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q077.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 77 — ENEM 2022](enem-2022-ppl-d1-q077.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 77  
 A velha potência de morte em que se simbolizava o poder soberano  
@@ -33,5 +33,3 @@ B exposição ostensiva das punições.
 C distribuição igualitária das riquezas.  
 D supressão estratégica das fronteiras.  
 E espacialização controlada das classes.
-
-</details>

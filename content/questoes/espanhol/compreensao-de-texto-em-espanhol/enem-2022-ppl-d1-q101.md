@@ -13,10 +13,10 @@ tema: "Canção Como en casa e sentimento de pertencimento"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q101.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 101 — ENEM 2022](enem-2022-ppl-d1-q101.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 01  
 Como en casa  
@@ -46,5 +46,3 @@ B valorização da cultura no processo de formação do compositor.
 C expressão do sentimento de pertencimento ao lugar de origem.  
 D revelação das dificuldades enfrentadas para tornar-se músico.  
 E negação da ostentação própria do mundo do entretenimento.
-
-</details>

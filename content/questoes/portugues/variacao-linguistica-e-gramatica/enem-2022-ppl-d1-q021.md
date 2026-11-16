@@ -13,10 +13,10 @@ tema: "Preconceito linguístico em conversa de aplicativo de emprego"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d1-q021.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 21 — ENEM 2022](enem-2022-ppl-d1-q021.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 21  
 Cuidadora humilhada por erros de português ao enviar  
@@ -67,5 +67,3 @@ D descuido com os padrões linguísticos no contexto de busca por
 emprego.  
 E negligência com a correção automática de palavras pelo corretor  
 de textos do celular.
-
-</details>

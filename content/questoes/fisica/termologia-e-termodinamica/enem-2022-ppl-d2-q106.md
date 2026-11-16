@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q106.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 106 — ENEM 2022](enem-2022-ppl-d2-q106.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 106  
 Um menino está ajudando sua mãe na cozinha. Ela  
@@ -37,5 +37,3 @@ condutividade térmica.
 D  
 coeficiente de dilatação térmica.  
 E
-
-</details>

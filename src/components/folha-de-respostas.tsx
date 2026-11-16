@@ -52,6 +52,9 @@ export function FolhaDeRespostas({
   const [carregado, setCarregado] = useState(false);
 
   useEffect(() => {
+    let cancelled = false;
+    queueMicrotask(() => {
+    if (cancelled) return;
     setCarregado(false);
     try {
       const salvo = localStorage.getItem(`gabaru:folha:${id}`);
@@ -73,7 +76,9 @@ export function FolhaDeRespostas({
       /* sem localStorage: sessão temporária */
     }
     setCarregado(true);
-  }, [id]);
+    });
+    return () => { cancelled = true; };
+  }, [id, automatico, correcaoUrl, sugeridas, alternativas]);
 
   useEffect(() => {
     if (!carregado) return;

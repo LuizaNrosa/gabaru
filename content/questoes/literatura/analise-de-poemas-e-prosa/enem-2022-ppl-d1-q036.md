@@ -13,10 +13,10 @@ tema: "Ironia e estilo machadiano em Memorial do fim"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d1-q036.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 36 — ENEM 2022](enem-2022-ppl-d1-q036.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 36  
 Duas castas de considerações fez de si para consigo o cauto  
@@ -44,5 +44,3 @@ B caracterizar a situação com profundidade dramática.
 C explorar a sensibilidade dos personagens envolvidos.  
 D assumir a perspectiva irônica e o estilo narrativo do personagem.  
 E recorrer a metáforas sutis e comparações de sentido filosófico.
-
-</details>

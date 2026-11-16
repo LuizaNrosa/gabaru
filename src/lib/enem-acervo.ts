@@ -19,7 +19,7 @@ function applicationOrder(id: string) {
 export const enemExams = [...exams.filter(exam => !paginatedExams.some(entry => entry.id === exam.id)), ...paginatedExams.map(({id, year, day, total, description, disciplines}) => ({
   id, year, day, total, description, disciplines,
 }))].sort((left, right) => right.year - left.year || applicationOrder(left.id) - applicationOrder(right.id) || (left.day ?? 0) - (right.day ?? 0));
-type Item = { numero: number; texto: string; disciplina: string; habilidade: string; tema: string; obs?: string; pagina?: number; annulled?: boolean };
+type Item = { numero: number; texto: string; disciplina: string; habilidade: string; tema: string; obs?: string; pagina?: number; annulled?: boolean; figuras?: {url:string;descricao:string}[] };
 export function readEnemExam(id: string) {
   const paginated = paginatedExams.find(entry => entry.id === id);
   if (paginated) {
@@ -38,7 +38,7 @@ export function readEnemExam(id: string) {
   return { ...exam, pageCount: undefined, questions: data.questoes.map(q => ({ ...q, annulled: annulled.has(q.numero) })) };
 }
 export function enemTitle(exam: (typeof exams)[number]) {
-  const application = exam.id === "enem-2025-d2" ? "Aplicação Belém / Ananindeua / Marituba" : exam.id.includes("-ppl-") ? "Reaplicação / PPL" : exam.id === "enem-2020-d2" ? "Digital" : "Regular";
+  const application = exam.id === "enem-2024-d2" ? "Regular · caderno 11 laranja (acessível)" : exam.id === "enem-2025-d2" ? "Aplicação Belém / Ananindeua / Marituba" : exam.id.includes("-ppl-") ? "Reaplicação / PPL" : exam.id === "enem-2020-d2" ? "Digital" : "Regular";
   const paginated = paginatedExams.find(entry => entry.id === exam.id);
   if (paginated) return `ENEM ${exam.year} · ${exam.day}º dia · ${paginated.description}`;
   if (exam.id === "enem-2021-d2") return "ENEM 2021 · 2º dia · Caderno 5 Amarelo (superampliado)";

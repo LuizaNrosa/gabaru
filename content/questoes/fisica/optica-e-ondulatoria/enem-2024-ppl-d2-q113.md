@@ -13,10 +13,10 @@ tema: "Frequência de oscilação do sistema massa-mola da suspensão"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q113.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 113 — ENEM 2024](enem-2024-ppl-d2-q113.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 113  
 A suspensão de um automóvel funciona como um sistema massa-mola amortecido  
@@ -43,5 +43,3 @@ B A constante elástica aumenta e o sistema passa a oscilar.
 C A constante elástica diminui e o sistema volta à posição original lentamente.  
 D A constante elástica diminui e o sistema volta à posição original rapidamente.  
 E A constante elástica aumenta e o sistema volta à posição original lentamente.
-
-</details>

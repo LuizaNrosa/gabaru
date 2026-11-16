@@ -13,10 +13,10 @@ tema: "Menor custo de tintas para paredes e teto"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d2-q177.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 177 — ENEM 2022](enem-2022-ppl-d2-q177.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 177  
 Um clube está sendo reformado e deve ter algumas  
@@ -56,5 +56,3 @@ II e Y.
 D  
 E  
 III e Y.
-
-</details>

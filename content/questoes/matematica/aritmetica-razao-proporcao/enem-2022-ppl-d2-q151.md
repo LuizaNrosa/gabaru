@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d2-q151.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 151 — ENEM 2022](enem-2022-ppl-d2-q151.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 151  
 Um jovem, no trajeto que usa para ir para a escola,  
@@ -44,5 +44,3 @@ C
 D  
 7 h e 12 min  
 E
-
-</details>

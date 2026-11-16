@@ -13,10 +13,10 @@ tema: "Brilho de lâmpadas em paralelo com resistência interna da fonte"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2024-ppl-d2-q116.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 116 — ENEM 2024](enem-2024-ppl-d2-q116.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 116  
 Ao realizar os preparativos para o Natal, uma pessoa resolveu aumentar o número  
@@ -44,5 +44,3 @@ R
 20  
 E R + r  
 40
-
-</details>

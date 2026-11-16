@@ -9,7 +9,7 @@ export default function Erro({
   reset: () => void;
 }) {
   return (
-    <main
+    <main id="conteudo-principal" tabIndex={-1}
       className={`${CONTAINER} grid min-h-[60vh] place-items-center py-24 text-center`}
     >
       <div>

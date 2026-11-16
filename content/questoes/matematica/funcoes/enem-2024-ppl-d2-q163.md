@@ -13,10 +13,10 @@ tema: "Desvalorização exponencial de automóvel após seis anos"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2024-ppl-d2-q163.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 163 — ENEM 2024](enem-2024-ppl-d2-q163.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 163  
 O automóvel é um bem que se desvaloriza muito rapidamente, quando comparado  
@@ -36,5 +36,3 @@ B 14,3.
 C 14,6.  
 D 15,9.  
 E 17,7.
-
-</details>

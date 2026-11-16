@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d2-q092.webp
 obs: "rodapé de página indevido (cabeçalho do caderno 'CN - 2º dia | Caderno 6 - ROSA - 2ª Aplicação' e logo enem2022 cortados no fim da imagem)"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 92 — ENEM 2022](enem-2022-ppl-d2-q092.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 92  
 Para reduzir a poluição atmosférica gerada pela emissão de fumaça por grandes indústrias, utilizam-se  
@@ -42,5 +42,3 @@ repelidas pelo fio carregado e se acumulam na parede do tubo.
 D  
 E  
 induzidas a fazer ligações iônicas, formando íons não poluentes.
-
-</details>

@@ -1,0 +1,165 @@
+{
+  "paginas": [
+    {
+      "pagina": 1,
+      "colunas": 1,
+      "blocos": 22
+    },
+    {
+      "pagina": 2,
+      "colunas": 1,
+      "blocos": 9
+    },
+    {
+      "pagina": 3,
+      "colunas": 1,
+      "blocos": 8
+    },
+    {
+      "pagina": 4,
+      "colunas": 1,
+      "blocos": 3
+    },
+    {
+      "pagina": 5,
+      "colunas": 1,
+      "blocos": 5
+    },
+    {
+      "pagina": 6,
+      "colunas": 1,
+      "blocos": 5
+    },
+    {
+      "pagina": 7,
+      "colunas": 1,
+      "blocos": 19
+    },
+    {
+      "pagina": 8,
+      "colunas": 1,
+      "blocos": 22
+    },
+    {
+      "pagina": 9,
+      "colunas": 1,
+      "blocos": 3
+    },
+    {
+      "pagina": 10,
+      "colunas": 1,
+      "blocos": 5
+    },
+    {
+      "pagina": 11,
+      "colunas": 1,
+      "blocos": 18
+    },
+    {
+      "pagina": 12,
+      "colunas": 1,
+      "blocos": 6
+    },
+    {
+      "pagina": 13,
+      "colunas": 1,
+      "blocos": 8
+    },
+    {
+      "pagina": 14,
+      "colunas": 1,
+      "blocos": 4
+    },
+    {
+      "pagina": 15,
+      "colunas": 1,
+      "blocos": 2
+    },
+    {
+      "pagina": 16,
+      "colunas": 1,
+      "blocos": 4
+    },
+    {
+      "pagina": 17,
+      "colunas": 1,
+      "blocos": 6
+    },
+    {
+      "pagina": 18,
+      "colunas": 1,
+      "blocos": 3
+    },
+    {
+      "pagina": 19,
+      "colunas": 1,
+      "blocos": 7
+    },
+    {
+      "pagina": 20,
+      "colunas": 1,
+      "blocos": 4
+    },
+    {
+      "pagina": 21,
+      "colunas": 1,
+      "blocos": 11
+    },
+    {
+      "pagina": 22,
+      "colunas": 1,
+      "blocos": 12
+    },
+    {
+      "pagina": 23,
+      "colunas": 1,
+      "blocos": 7
+    },
+    {
+      "pagina": 24,
+      "colunas": 1,
+      "blocos": 11
+    }
+  ],
+  "gabarito": {
+    "1": "A",
+    "2": "B",
+    "3": "B",
+    "4": "A",
+    "5": "A",
+    "6": "D",
+    "7": "ANULADA",
+    "8": "C",
+    "9": "C",
+    "10": "B",
+    "11": "B",
+    "12": "C",
+    "13": "D",
+    "14": "ANULADA",
+    "15": "B",
+    "16": "B",
+    "17": "A",
+    "18": "C",
+    "19": "C",
+    "20": "A",
+    "23": "ANULADA",
+    "24": "ANULADA",
+    "25": "C",
+    "26": "B",
+    "28": "C",
+    "29": "B",
+    "30": "D",
+    "31": "C",
+    "32": "A",
+    "33": "A",
+    "34": "B",
+    "35": "C",
+    "36": "B",
+    "37": "A",
+    "38": "A"
+  },
+  "esperadas": 38,
+  "extraidas": 0,
+  "aceitas": 0,
+  "quarentena": 38
+}

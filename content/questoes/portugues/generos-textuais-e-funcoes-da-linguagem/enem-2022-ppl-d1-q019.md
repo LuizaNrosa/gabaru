@@ -13,10 +13,10 @@ tema: "Estratégia argumentativa em divulgação científica sobre lobo-guará"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q019.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 19 — ENEM 2022](enem-2022-ppl-d1-q019.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 19  
 O lobo que não é mau  
@@ -58,5 +58,3 @@ E
 intimidação, explorando os efeitos de sentido desencadeados  
 pelo uso de palavras como “matança”, “perigoso”, “degradados”  
 e “atacando”.
-
-</details>

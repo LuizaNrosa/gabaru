@@ -13,10 +13,10 @@ tema: "Relações ecológicas entre abelhas polinizadoras do maracujá"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2024-ppl-d2-q131.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 131 — ENEM 2024](enem-2024-ppl-d2-q131.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 131  
 A abelha mamangava (Xylocopa sp.) é a mais eficiente polinizadora do maracujazeiro, por  
@@ -30,5 +30,3 @@ B mutualismo.
 C competição.  
 D inquilinismo.  
 E comensalismo.
-
-</details>

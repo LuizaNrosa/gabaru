@@ -13,10 +13,10 @@ tema: "Impressoras 3D e individualização da manufatura"
 classificacao_confianca: media
 gabarito: E
 imagem: enem-2022-ppl-d1-q024.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 24 — ENEM 2022](enem-2022-ppl-d1-q024.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 24  
 A produção em massa em grandes fábricas se tornou o símbolo da  
@@ -43,5 +43,3 @@ B tiveram seus preços reduzidos.
 C trabalham com um arquivo digital.  
 D facilitam a confecção de objetos 3D.  
 E permitem a individualização da manufatura.
-
-</details>

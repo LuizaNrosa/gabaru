@@ -13,10 +13,10 @@ tema: "Reivindicação de terras do povo mapuche na Argentina"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q103.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 103 — ENEM 2022](enem-2022-ppl-d1-q103.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 03  
 Diego Rosales viste y habla como gaucho. Para poder sobrevivir,  
@@ -46,5 +46,3 @@ B cuidar da fauna autóctone.
 C empoderar as novas gerações.  
 D vetar a exploração de gás no território.  
 E ensinar a língua indígena aos gaúchos.
-
-</details>

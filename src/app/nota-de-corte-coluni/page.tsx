@@ -75,7 +75,7 @@ const acDe = (e: EdicaoColuni) =>
 
 export default function NotaDeCorteColuni() {
   return (
-    <main className="gb-container py-10">
+    <main id="conteudo-principal" tabIndex={-1} className="gb-container py-10">
       <JsonLd dados={jsonLd.faq(faq)} />
       <p className="gb-eyebrow">FERRAMENTA GRATUITA · COLUNI/UFV</p>
       <h1 className="gb-page-title">

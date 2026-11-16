@@ -1,0 +1,1 @@
+export function isSubscriptionActive(value:Record<string,unknown>|undefined,now:number){return value?.plan==='premium'&&['active','trialing'].includes(String(value.subscriptionStatus))&&typeof value.planExpiresAt==='number'&&Number.isFinite(value.planExpiresAt)&&value.planExpiresAt>now;}

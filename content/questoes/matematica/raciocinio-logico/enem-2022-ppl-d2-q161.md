@@ -13,10 +13,10 @@ tema: "Posição no quadro de medalhas e medalhas necessárias"
 classificacao_confianca: media
 gabarito: D
 imagem: enem-2022-ppl-d2-q161.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 161 — ENEM 2022](enem-2022-ppl-d2-q161.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 161  
 A classificação de um país no quadro de medalhas  
@@ -61,5 +61,3 @@ C
 D  
 14  
 E
-
-</details>

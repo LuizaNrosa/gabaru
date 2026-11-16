@@ -1,0 +1,7 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const base=process.env.VERIFY_BASE_URL??'http://localhost:3000',cat=JSON.parse(await readFile('src/data/catalogo-v2.json','utf8'));
+const roots=['/','/questoes',...cat.bancas.filter(b=>cat.cadernos.some(e=>e.banca===b.slug)).map(b=>'/banca/'+b.slug),...cat.cadernos.filter(e=>e.nivelQualidade!=='nivel-0-quarentena').map(e=>e.href),...cat.questoes.filter(q=>q.nivelQualidade!=='nivel-0-quarentena').map(q=>'/questoes/'+q.slug)];
+const targets=new Set(roots),failures=[];
+for(const path of roots){const r=await fetch(base+path);if(!r.ok){failures.push({path,status:r.status});continue;}const html=await r.text();for(const m of html.matchAll(/(?:href|src)="(\/[^"<>]*)"/g)){const p=m[1].replaceAll('&amp;','&').split('#')[0];if(!p.startsWith('//')&&!p.startsWith('/_next/')&&!p.startsWith('/api/')&&!p.includes('?')&&p)targets.add(p);}}
+const list=[...targets];let cursor=0;await Promise.all(Array.from({length:4},async()=>{while(cursor<list.length){const path=list[cursor++];try{const r=await fetch(base+path,{method:'HEAD'});if(!r.ok)failures.push({path,status:r.status});await r.body?.cancel();}catch(e){failures.push({path,erro:e.message});}}}));
+await writeFile('docs/engenharia/total/links-internos.json',JSON.stringify({paginasOrigem:roots.length,alvos:list.length,falhas:failures},null,2)+'\n');console.log(JSON.stringify({paginasOrigem:roots.length,alvos:list.length,falhas:failures},null,2));if(failures.length)process.exitCode=1;

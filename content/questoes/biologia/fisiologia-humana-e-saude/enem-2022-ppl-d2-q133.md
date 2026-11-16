@@ -13,10 +13,10 @@ tema: "Doença celíaca e alimentos com glúten na dieta"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d2-q133.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 133 — ENEM 2022](enem-2022-ppl-d2-q133.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 133  
 Dores abdominais, vômito e diarreia são sintomas de  
@@ -41,5 +41,3 @@ D
 Bife com creme de leite.  
 Salada de alface e tomate.  
 E
-
-</details>

@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d1-q084.webp
 obs: "imagem cortada na base: alternativa E aparece parcialmente cortada"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 84 — ENEM 2022](enem-2022-ppl-d1-q084.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 84  
 Nações se comprometeram a reduzir as emissões de carbono  
@@ -44,5 +44,3 @@ A formação de cartéis.
 B criação de monopólio.  
 C supressão da poluição.  
 D legalização de territórios.
-
-</details>

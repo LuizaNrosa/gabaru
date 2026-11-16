@@ -13,10 +13,10 @@ tema: "Expressão do valor com desconto proporcional à quantidade"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d2-q172.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 172 — ENEM 2022](enem-2022-ppl-d2-q172.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 172  
 O chocolate é um dos alimentos mais apreciados  
@@ -49,5 +49,3 @@ x
 E V  2 x   
 x  
 100
-
-</details>

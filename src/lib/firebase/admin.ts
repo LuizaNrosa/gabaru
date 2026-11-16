@@ -1,7 +1,7 @@
 import "server-only";
 import { cert, getApps, initializeApp } from "firebase-admin/app";
 
-function getAdminApp() {
+export function getAdminApp() {
   const existing = getApps()[0];
   if (existing) return existing;
 
@@ -30,8 +30,11 @@ export async function verifyRequestUser(req: Request) {
   if (!token) return null;
   try {
     const auth = await adminAuth();
-    return await auth.verifyIdToken(token);
+    return await auth.verifyIdToken(token, true);
   } catch {
     return null;
   }
 }
+
+export async function adminDb(){const {getFirestore}=await import("firebase-admin/firestore");return getFirestore(getAdminApp());}
+export async function verifySessionCookie(cookie:string){try{return await (await adminAuth()).verifySessionCookie(cookie,true);}catch{return null;}}

@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d2-q152.webp
 obs: "faixa de código de barras na margem esquerda, rodapé de página indevido e região em branco grande"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 152 — ENEM 2022](enem-2022-ppl-d2-q152.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 152  
 Um carcinicultor tem um viveiro de camarão cuja  
@@ -46,5 +46,3 @@ D
 39  
 54  
 E
-
-</details>

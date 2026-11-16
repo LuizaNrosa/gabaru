@@ -1,0 +1,179 @@
+{
+  "banca": "ifsc",
+  "edicao": "2026-2",
+  "provaSha256": "5c4341cf8cbfcd63ec7245bc1bfe3062698f48a075ccccaa10ad7504956acf9f",
+  "gabaritoSha256": "647e8d90ed65211cbcafc157bd2678def71250e32acff7076974f846e055d9ad",
+  "esperadas": 28,
+  "aceitas": {
+    "ifsc-2026-2-q012": {
+      "id": "ifsc-2026-2-q012",
+      "numero": 12,
+      "enunciado": "Considerando que as matrículas citadas no Texto IX totalizam 46,46 milhões, podemos afirmar que o percen- tual de estudantes do ensino fundamental em relação ao total de matrículas representa:",
+      "textoBase": {
+        "texto": "Leia o Texto IX. \n\nTEXTO IX \n \nO Censo Escolar 2025, divulgado pelo INEP (Instituto Nacional de Estudos e Pesquisas Educacio-\nnais Anísio Teixeira), reúne um conjunto de dados que dá uma ideia do gigantismo da educação brasileira, \na começar pelo número de matrículas (mais de 46 milhões), que, em termos demográficos, corresponde à \npopulação da Espanha. Dentro desse escopo, 10,1 milhões são de matrículas no tempo integral, projeção \ncomparável à população de Portugal.  \n\nA tabela apresenta o número aproximado de matrículas em algumas etapas da educação básica \nbrasileira.  \n\nMatrículas na Educação Básica (milhões) \n\nEtapa \nMatrículas (milhões) \n\nEnsino Fundamental \n25,80 \n\nEnsino Médio \n7,37 \n\nEducação Profissional \n3,19 \n\nOutras \n10,10 \n\n \nFonte adaptada: Inep – Censo Escolar 2025. Disponível em: https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/ \ncenso-escolar/inep-apresenta-os-grandes-numeros-da-educacao-basica. Acesso: 16 mar 2026.",
+        "fonte": "https://www.ifsc.edu.br/provas-e-gabaritos"
+      },
+      "tabelas": [
+        {
+          "linhas": [
+            [
+              "Etapa",
+              "Matrículas(milhões)"
+            ],
+            [
+              "EnsinoFundamental",
+              "2580\n,"
+            ],
+            [
+              "EnsinoMédio",
+              "737\n,"
+            ],
+            [
+              "EducaçãoProfissional",
+              "319\n,"
+            ],
+            [
+              "Outras",
+              "1010\n,"
+            ]
+          ],
+          "pagina": 12
+        }
+      ],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "menos de 44%."
+        },
+        {
+          "letra": "B",
+          "texto": "entre 44% e 52%."
+        },
+        {
+          "letra": "C",
+          "texto": "entre 52% e 60%."
+        },
+        {
+          "letra": "D",
+          "texto": "entre 60% e 68%."
+        },
+        {
+          "letra": "E",
+          "texto": "mais do que 68%."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "5c4341cf8cbfcd63ec7245bc1bfe3062698f48a075ccccaa10ad7504956acf9f",
+        "gabaritoSha256": "647e8d90ed65211cbcafc157bd2678def71250e32acff7076974f846e055d9ad",
+        "fonte": "https://www.ifsc.edu.br/provas-e-gabaritos",
+        "paginas": [
+          12
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "ifsc-2026-2-q016": {
+      "id": "ifsc-2026-2-q016",
+      "numero": 16,
+      "enunciado": "O Texto XI apresenta a definição de Nei Lopes do termo Abolicionismo, encontrado na Enciclopédia Brasileira  da Diáspora Africana. Tendo em vista a passagem acima, podemos afirmar que:",
+      "textoBase": {
+        "texto": "Leia o Texto XI. \n\nTEXTO XI \n\n \n\nMovimento político do fim do século XVIII, surgido com o propósito de abolir a escravatura nas Amé-\nricas, como resultado das reações das próprias vítimas, expressas, desde o século XVI, em fugas, revoltas, \naquilombamentos, etc. [...] No Brasil, negociados e superados os principais impasses, foram sucessiva-\nmente promulgadas as leis Eusébio de Queirós, a do Ventre Livre, a dos Sexagenários e, finalmente, a Lei \nÁurea, que semeou o descontentamento entre boa parte dos conservadores, precipitando a queda da Mo-\nnarquia.  \n \nFonte adaptada: LOPES, Nei. Enciclopédia Brasileira da Diáspora Africana. São Paulo: Selo Negro, 2004.",
+        "fonte": "https://www.ifsc.edu.br/provas-e-gabaritos"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o Brasil foi o único país das Américas a desenvolver um movimento abolicionista."
+        },
+        {
+          "letra": "B",
+          "texto": "o movimento abolicionista brasileiro teve origem nas ações beneficentes das elites escravocratas que  queriam o fim do sistema escravista."
+        },
+        {
+          "letra": "C",
+          "texto": "as leis abolicionistas foram promovidas sem conflitos ou impasses, afinal a necessidade da abolição  era reconhecida por toda a sociedade no século XIX."
+        },
+        {
+          "letra": "D",
+          "texto": "o movimento abolicionista brasileiro teve em sua origem as lutas de resistência dos próprios escravi- zados, ocorridas desde a formação do sistema escravista no século XVI."
+        },
+        {
+          "letra": "E",
+          "texto": "as leis abolicionistas fortaleceram o regime imperial no Brasil, que ainda perdurou décadas após a  Abolição da Escravatura em 1888.     Leia o Texto XII. TEXTO XII Desde os anos 1950, a trajetória da inteligência artificial tem sido marcada pelos mesmos dilemas:  medo de que máquinas substituam humanos, a tendência de humanizar a tecnologia, o apego emocional  que muitas pessoas desenvolvem por ela e as promessas ambiciosas que raramente se cumprem — mas  que continuam a atrair investimentos e atenção. No entanto, o cenário do século passado e de agora são  diferentes em um aspecto principal: o tanto de dinheiro e recursos que se está investindo nessas tecnologias  nos dias atuais.    Fonte adaptada: BBC – jornalista Luiz Fernando Toledo. As previsões sobre inteligência artificial de 70 anos atrás que são  realidade hoje. Disponível em: https://www.bbc.com/portuguese/articles/cn76p0jjxz7o Acesso: 19 mar 2026."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "5c4341cf8cbfcd63ec7245bc1bfe3062698f48a075ccccaa10ad7504956acf9f",
+        "gabaritoSha256": "647e8d90ed65211cbcafc157bd2678def71250e32acff7076974f846e055d9ad",
+        "fonte": "https://www.ifsc.edu.br/provas-e-gabaritos",
+        "paginas": [
+          15
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "ifsc-2026-2-q023": {
+      "id": "ifsc-2026-2-q023",
+      "numero": 23,
+      "enunciado": "Com base no Texto XVII e nos conhecimentos sobre astronomia e física, analise as afirmações abaixo: I.  A gravidade na Lua é menor do que a gravidade terrestre; portanto, a massa de um astronauta na  Lua será menor do que na Terra.  II.  A presença de gelo na Lua é estratégica, pois a água pode ser decomposta em hidrogênio e oxi- gênio, servindo tanto para o consumo humano quanto para a produção de combustível.  III.  Na Lua, a ausência de uma atmosfera significativa faz com que não haja proteção contra radiações  solares e que o céu seja visto como escuro mesmo durante o dia.  IV.  O peso de um objeto é uma grandeza constante, independente do corpo celeste onde o objeto se  encontra.    Assinale a alternativa CORRETA.",
+      "textoBase": {
+        "texto": "Leia o Texto XVII. \n\nTEXTO XVII \n \nA Missão Artemis, da NASA, planeja levar a primeira mulher e a primeira pessoa negra à superfície \nlunar. Além do valor histórico, a missão busca estabelecer uma presença sustentável na Lua para servir de \nbase para futuras explorações a Marte. Diferente das missões Apollo, a Artemis utilizará o foguete SLS \n(Space Launch System) e a cápsula Orion, focando na exploração do polo sul lunar, onde se acredita haver \ngelo de água em crateras permanentemente sombreadas. \n \nFonte adaptada: NASA Disponível em: https://www.nasa.gov/humans-in-space/artemis/ Acesso: 10 mar 2026.",
+        "fonte": "https://www.ifsc.edu.br/provas-e-gabaritos"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas os itens I e II estão corretos."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas os itens II e III estão corretos."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas os itens III e IV estão corretos."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas os itens I, II e III estão corretos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão corretos."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "5c4341cf8cbfcd63ec7245bc1bfe3062698f48a075ccccaa10ad7504956acf9f",
+        "gabaritoSha256": "647e8d90ed65211cbcafc157bd2678def71250e32acff7076974f846e055d9ad",
+        "fonte": "https://www.ifsc.edu.br/provas-e-gabaritos",
+        "paginas": [
+          20
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    }
+  }
+}

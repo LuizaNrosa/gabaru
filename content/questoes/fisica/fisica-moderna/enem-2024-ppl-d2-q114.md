@@ -13,10 +13,10 @@ tema: "Moderador de nêutrons em reator por colisão elástica"
 classificacao_confianca: media
 gabarito: A
 imagem: enem-2024-ppl-d2-q114.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 114 — ENEM 2024](enem-2024-ppl-d2-q114.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 114  
 Na fissão do urânio-235, esse átomo é dividido em átomos mais leves quando  
@@ -58,5 +58,3 @@ C 6 C
 D 7 N  
 E 38 Sr  
 94
-
-</details>

@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d2-q147.webp
 obs: "rodapé de página indevido (início de 'MT - 2º dia') no fim da imagem e região em branco grande"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 147 — ENEM 2022](enem-2022-ppl-d2-q147.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 147  
 Uma empresa produz um equipamento para  
@@ -70,5 +70,3 @@ D
 20 meses.  
 24 meses.  
 E
-
-</details>

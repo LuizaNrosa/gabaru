@@ -13,10 +13,10 @@ tema: "Eficiência de climatizador evaporativo por tabelas de temperatura e umid
 classificacao_confianca: media
 gabarito: E
 imagem: enem-2024-ppl-d2-q134.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 134 — ENEM 2024](enem-2024-ppl-d2-q134.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 134  
 Tendo em vista a necessidade de economia de energia elétrica, os climatizadores de  
@@ -104,5 +104,3 @@ B Belém.
 C Cáceres.  
 D Corumbá.  
 E Janaúba.
-
-</details>

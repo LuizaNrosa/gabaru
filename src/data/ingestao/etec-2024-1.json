@@ -1,0 +1,405 @@
+{
+  "banca": "etec",
+  "edicao": "2024-1",
+  "provaSha256": "e332dcb18b302241d3da3c4f8428465c332a554458ecd78f14b3efdde667498f",
+  "gabaritoSha256": "f26127a2b2df31eafa57a4d770035411189e276df7089f07a41fb4c6e822dfa7",
+  "esperadas": 50,
+  "aceitas": {
+    "etec-2024-1-q003": {
+      "id": "etec-2024-1-q003",
+      "numero": 3,
+      "enunciado": "Apesar de ser um maciço florestal contínuo, a Floresta Amazônica, por sua grande extensão, é composta  por estratos, cada um com características que os diferenciam uns dos outros. Ela está subdivida em",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "floresta aciculifoliada, mata de transição e mata ciliar."
+        },
+        {
+          "letra": "B",
+          "texto": "mata de igapó, mata de várzea e mata de terra firme."
+        },
+        {
+          "letra": "C",
+          "texto": "restinga, campos limpos e mata dos cocais."
+        },
+        {
+          "letra": "D",
+          "texto": "pantanal, cerrado e floresta de araucária."
+        },
+        {
+          "letra": "E",
+          "texto": "caatinga, campos sujos e manguezais."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "e332dcb18b302241d3da3c4f8428465c332a554458ecd78f14b3efdde667498f",
+        "gabaritoSha256": "f26127a2b2df31eafa57a4d770035411189e276df7089f07a41fb4c6e822dfa7",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          3
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-1-q004": {
+      "id": "etec-2024-1-q004",
+      "numero": 4,
+      "enunciado": "Considerando o tipo de vegetação, é correto afirmar que o Bioma Amazônia se caracteriza, principalmente,  por apresentar",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "gramíneas e plantas arbustivas; árvores de pequeno e médio porte, com folhas transformadas em espinhos para diminuir a transpiração e caules suculentos que armazenam água."
+        },
+        {
+          "letra": "B",
+          "texto": "plantas, que se desenvolvem em solos lamacentos e salgados, com troncos finos, cujas raízes se adaptam à fixação e se elevam à superfície para permitir a respiração."
+        },
+        {
+          "letra": "C",
+          "texto": "plantas herbáceas e arbustivas que compõem os campos; árvores de médio porte, geralmente com troncos grossos e retorcidos, folhas de superfície reduzida e raízes profundas."
+        },
+        {
+          "letra": "D",
+          "texto": "árvores de médio e grande porte, com folhas largas e perenes; vários   tipos de flores e frutos; além de diversos tipos de arbustos, trepadeiras, cipós e planta epífitas."
+        },
+        {
+          "letra": "E",
+          "texto": "gramíneas; plantas herbáceas; leguminosas; algumas árvores de pequeno porte; além da presença de matas ciliares e algumas árvores decíduas. 3     \t VESTIBULINHO 1o semestre | 2024     •"
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "e332dcb18b302241d3da3c4f8428465c332a554458ecd78f14b3efdde667498f",
+        "gabaritoSha256": "f26127a2b2df31eafa57a4d770035411189e276df7089f07a41fb4c6e822dfa7",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          3
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-1-q008": {
+      "id": "etec-2024-1-q008",
+      "numero": 8,
+      "enunciado": "Nos rios que cortam a Floresta Amazônica, são encontradas várias espécies de vertebrados, como, por  exemplo, o pirarucu, o poraquê (peixe elétrico), a arraia (ou raia), o tucunaré, o peixe-boi e o boto-cor-de-rosa.  Este último é conhecido por ser personagem de uma lenda do folclore brasileiro. Com relação a todos os animais citados, é correto afirmar que",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "realizam as trocas gasosas por meio de um par de pulmões do tipo alveolar com paredes muito delgadas."
+        },
+        {
+          "letra": "B",
+          "texto": "conseguem manter a temperatura corporal constante apesar de alterações da temperatura ambiental."
+        },
+        {
+          "letra": "C",
+          "texto": "dependem de oxigênio, que é usado na oxidação de moléculas orgânicas, como a glicose, a fim de obter energia."
+        },
+        {
+          "letra": "D",
+          "texto": "apresentam fecundação externa, com desenvolvimento indireto por meio de fase larval, seguida de metamorfose."
+        },
+        {
+          "letra": "E",
+          "texto": "possuem bexiga natatória, que é um órgão responsável pela manutenção do equilíbrio hidrostático. 5     \t VESTIBULINHO 1o semestre | 2024     •"
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "e332dcb18b302241d3da3c4f8428465c332a554458ecd78f14b3efdde667498f",
+        "gabaritoSha256": "f26127a2b2df31eafa57a4d770035411189e276df7089f07a41fb4c6e822dfa7",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          5
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-1-q018": {
+      "id": "etec-2024-1-q018",
+      "numero": 18,
+      "enunciado": "No final do século XIX, eclodiu uma rebelião no Acre, que se prolongou por alguns anos e, ante a ameaça  de uma intervenção direta do governo brasileiro, foi firmado o Tratado de Petrópolis entre os governos  da Bolívia e do Brasil, em 1903. Foi por isso que a Bolívia cedeu o território do Acre ao Brasil em troca  de dois milhões de libras esterlinas; e o governo brasileiro se comprometeu a construir a estrada de ferro  Madeira – Mamoré. Sobre esse estado da federação, é correto afirmar que nele se encontra o ponto",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "central Geodésico do território brasileiro, localizado em sua capital."
+        },
+        {
+          "letra": "B",
+          "texto": "mais ocidental do território brasileiro, a nascente do Rio Moa."
+        },
+        {
+          "letra": "C",
+          "texto": "mais setentrional do território brasileiro, a nascente do Rio Ailã."
+        },
+        {
+          "letra": "D",
+          "texto": "mais oriental do território brasileiro, a Ponta do Seixas."
+        },
+        {
+          "letra": "E",
+          "texto": "mais meridional do território brasileiro, o Arroio Chuí. 9     \t VESTIBULINHO 1o semestre | 2024     •"
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "e332dcb18b302241d3da3c4f8428465c332a554458ecd78f14b3efdde667498f",
+        "gabaritoSha256": "f26127a2b2df31eafa57a4d770035411189e276df7089f07a41fb4c6e822dfa7",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          9
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-1-q031": {
+      "id": "etec-2024-1-q031",
+      "numero": 31,
+      "enunciado": "Por estarem localizadas próximas à linha do Equador, as regiões de clima equatorial recebem luz solar  direta durante todo o ano, o que contribui para elevada umidade do ar e temperaturas altas e relativamente  estáveis. Nas florestas ocorre a evapotranspiração, processo que combina a liberação de água na  atmosfera, por meio da transpiração das folhas, com a evaporação da água existente no ambiente. A evapotranspiração desempenha um papel fundamental como regulador no clima porque, conforme a  água evapora, ela",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contribui na formação de arco-íris por meio da refração dos raios solares, e consequentemente aquece o ambiente."
+        },
+        {
+          "letra": "B",
+          "texto": "produz gás hidrogênio, um gás combustível que pode liberar calor para o ambiente, e consequentemente o aquecer."
+        },
+        {
+          "letra": "C",
+          "texto": "libera átomos de hidrogênio e oxigênio no ambiente, consequentemente o resfriando."
+        },
+        {
+          "letra": "D",
+          "texto": "consome oxigênio do ambiente, consequentemente o resfriando."
+        },
+        {
+          "letra": "E",
+          "texto": "absorve calor do ambiente, e consequentemente o resfria."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "e332dcb18b302241d3da3c4f8428465c332a554458ecd78f14b3efdde667498f",
+        "gabaritoSha256": "f26127a2b2df31eafa57a4d770035411189e276df7089f07a41fb4c6e822dfa7",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          15
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-1-q033": {
+      "id": "etec-2024-1-q033",
+      "numero": 33,
+      "enunciado": "Segundo o IBGE, no Brasil, mais de 80 % da população vive em áreas urbanas. Isso, entretanto, não  impede a sociedade de se mobilizar e de realizar ações que possam auxiliar na preservação das florestas  e das espécies ameaçadas de extinção.  Embora ninguém consiga promover grandes mudanças sozinho, algumas atitudes  podem fazer a diferença  na preservação do meio ambiente e da biodiversidade, como",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "evitar comprar de pequenos produtores de hortifrúti que, por produzirem em menor escala, aumentam  as áreas desmatadas e, consequentemente, o impacto ambiental."
+        },
+        {
+          "letra": "B",
+          "texto": "comprar móveis e papéis cuja matéria-prima não seja de reflorestamento ou de empresas sem certificação de fonte legal e sustentável."
+        },
+        {
+          "letra": "C",
+          "texto": "aumentar o consumo de itens descartáveis, como guardanapos, papéis, pratos e canudos, evitando a reciclagem de produtos usados."
+        },
+        {
+          "letra": "D",
+          "texto": "aumentar o consumo de carne bovina, pois, na criação extensiva de gado, as florestas são derrubadas para dar espaço ao pasto."
+        },
+        {
+          "letra": "E",
+          "texto": "plantar árvores nativas, com autorização de órgãos responsáveis, para ajudar no reflorestamento de áreas urbanas e rurais."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "e332dcb18b302241d3da3c4f8428465c332a554458ecd78f14b3efdde667498f",
+        "gabaritoSha256": "f26127a2b2df31eafa57a4d770035411189e276df7089f07a41fb4c6e822dfa7",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          16
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-1-q036": {
+      "id": "etec-2024-1-q036",
+      "numero": 36,
+      "enunciado": "No período colonial, eram chamados de “drogas do sertão” os produtos nativos ou aclimatados que  tinham origem na região Norte, onde se localizam atualmente os estados do Amazonas, do Pará e do  Maranhão. Eram especiarias, castanhas, frutas, ervas, sementes, tintas e animais originários da Amazônia,   como o peixe-boi e as tartarugas. O início da exploração desses produtos",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estimulou o fluxo migratório de nordestinos, que buscavam alternativas à seca; e de escravizados das regiões Sul e Sudeste que, na floresta, refugiaram-se em comunidades quilombolas."
+        },
+        {
+          "letra": "B",
+          "texto": "permitiu a integração da Amazônia ao restante da colônia, já que incentivou a abertura de estradas e ferrovias que a ligavam a diferentes partes do território nacional."
+        },
+        {
+          "letra": "C",
+          "texto": "enfraqueceu o controle e a fiscalização das fronteiras, impondo dificuldades ao Exército no monitoramento eficiente da área."
+        },
+        {
+          "letra": "D",
+          "texto": "promoveu o desenvolvimento da pecuária e o surgimento de um cinturão verde que combinava segurança jurídica, controle ambiental e inovações tecnológicas."
+        },
+        {
+          "letra": "E",
+          "texto": "combinou as necessidades portuguesas de conter a presença estrangeira na colônia e de suprir parte da demanda europeia por especiarias, já que o comércio com o Oriente estava em declínio."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "e332dcb18b302241d3da3c4f8428465c332a554458ecd78f14b3efdde667498f",
+        "gabaritoSha256": "f26127a2b2df31eafa57a4d770035411189e276df7089f07a41fb4c6e822dfa7",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          17
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-1-q044": {
+      "id": "etec-2024-1-q044",
+      "numero": 44,
+      "enunciado": "Quando o petróleo é extraído, ele é separado em diferentes frações por meio de um processo denominado  destilação fracionada. Dessas frações, obtêm-se combustíveis como gás natural, gás liquefeito de petróleo,  gasolina e diesel. Esses combustíveis são de origem",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fóssil, portanto de fonte renovável."
+        },
+        {
+          "letra": "B",
+          "texto": "fóssil, portanto de fonte não renovável."
+        },
+        {
+          "letra": "C",
+          "texto": "não fóssil, portanto de fonte não renovável."
+        },
+        {
+          "letra": "D",
+          "texto": "animal, portanto de fonte renovável."
+        },
+        {
+          "letra": "E",
+          "texto": "vegetal, portanto de fonte renovável."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "e332dcb18b302241d3da3c4f8428465c332a554458ecd78f14b3efdde667498f",
+        "gabaritoSha256": "f26127a2b2df31eafa57a4d770035411189e276df7089f07a41fb4c6e822dfa7",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          20
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2024-1-q047": {
+      "id": "etec-2024-1-q047",
+      "numero": 47,
+      "enunciado": "A Cabanagem, uma das chamadas Revoltas Regenciais, ocorreu em meados do século XIX, na província  do Grão-Pará. De modo geral, essa revolta se caracterizou",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pela insatisfação dos donos de minas de ouro com a cobrança de impostos e com a instalação de Casas de Fundição pela administração portuguesa da colônia."
+        },
+        {
+          "letra": "B",
+          "texto": "pela combinação entre as reivindicações populares por melhores condições de sobrevivência e o desejo de ascensão política de grupos locais de médio e alto poder econômico."
+        },
+        {
+          "letra": "C",
+          "texto": "pela tentativa de separar o Brasil de Portugal, instalar o regime monárquico e abolir a escravidão, em consonância com as ideias renascentistas."
+        },
+        {
+          "letra": "D",
+          "texto": "pela exigência da realização de eleições diretas ao cargo de presidente da República, suspensas durante o período da ditadura civil-militar."
+        },
+        {
+          "letra": "E",
+          "texto": "pelas demandas trabalhistas como melhores salários, jornada de trabalho de oito horas, direito a férias e fim do trabalho infantil, entre outras."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "e332dcb18b302241d3da3c4f8428465c332a554458ecd78f14b3efdde667498f",
+        "gabaritoSha256": "f26127a2b2df31eafa57a4d770035411189e276df7089f07a41fb4c6e822dfa7",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2024",
+        "paginas": [
+          22
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    }
+  }
+}

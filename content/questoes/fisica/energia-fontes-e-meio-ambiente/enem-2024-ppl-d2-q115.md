@@ -13,10 +13,10 @@ tema: "Fonte primária que gera eletricidade por processos químicos"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2024-ppl-d2-q115.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 115 — ENEM 2024](enem-2024-ppl-d2-q115.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 115  
 Atualmente, temos um número considerável de alternativas de fontes primárias de  
@@ -29,5 +29,3 @@ B Nuclear.
 C Biomassa.  
 D Maremotriz.  
 E Geotérmica.
-
-</details>

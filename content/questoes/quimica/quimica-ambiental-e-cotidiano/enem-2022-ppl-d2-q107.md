@@ -14,10 +14,10 @@ classificacao_confianca: media
 gabarito: E
 imagem: enem-2022-ppl-d2-q107.webp
 obs: "rodapé de página indevido (ROSA - 2ª Aplicação, logo enem2022) no fim da imagem e faixa de código de barras na margem esquerda"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 107 — ENEM 2022](enem-2022-ppl-d2-q107.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 107  
 O Brasil foi o primeiro país a usar o álcool em  
@@ -39,5 +39,3 @@ preservação de espécies ameaçadas de extinção.
 D  
 diminuição da emissão efetiva de dióxido de carbono.  
 E
-
-</details>

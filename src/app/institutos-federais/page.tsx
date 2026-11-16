@@ -12,7 +12,7 @@ export const metadata = metaPagina({
 
 export default function InstitutosFederaisPage() {
   return (
-    <main>
+    <main id="conteudo-principal" tabIndex={-1}>
       <PageHero eyebrow="Institutos Federais" titulo={<>Encontre seu IF. <mark>Pratique com provas anteriores.</mark></>}>
         <p>Escolha o instituto em que você quer estudar. Cada acervo informa quais edições têm caderno, gabarito e resolução no site.</p>
       </PageHero>

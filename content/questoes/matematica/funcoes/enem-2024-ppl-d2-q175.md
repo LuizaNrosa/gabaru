@@ -13,10 +13,10 @@ tema: "Gráfico da relação linear entre escala Celsius e escala X"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q175.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 175 — ENEM 2024](enem-2024-ppl-d2-q175.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 175  
 Uma escala termométrica X marca −10 ° X para o ponto de fusão da água e 140 ° X  
@@ -31,5 +31,3 @@ B II
 C III  
 D IV  
 E V
-
-</details>

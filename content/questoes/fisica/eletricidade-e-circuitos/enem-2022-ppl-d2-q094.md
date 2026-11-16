@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d2-q094.webp
 obs: "faixa de código de barras na margem esquerda da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 94 — ENEM 2022](enem-2022-ppl-d2-q094.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 94  
 Em virtude do frio intenso, um casal adquire uma  
@@ -43,5 +43,3 @@ C
 D  
 220 V.  
 E
-
-</details>

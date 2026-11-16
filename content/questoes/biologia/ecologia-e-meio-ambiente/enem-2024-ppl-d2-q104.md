@@ -13,10 +13,10 @@ tema: "Cágado-de-barbelas como bioindicador de poluição"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2024-ppl-d2-q104.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 104 — ENEM 2024](enem-2024-ppl-d2-q104.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 104  
 O cágado-de-barbelas vive nas águas poluídas do Rio Preto, em São José do  
@@ -31,5 +31,3 @@ B biorremediadores.
 C organismos invasores.  
 D anaeróbios facultativos.  
 E decompositores adaptados.
-
-</details>

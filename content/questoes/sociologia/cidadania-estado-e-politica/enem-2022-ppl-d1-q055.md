@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d1-q055.webp
 obs: "imagem com resquício de texto cortado da questão anterior no topo"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 55 — ENEM 2022](enem-2022-ppl-d1-q055.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 55  
 Em um placar acirrado (quatro votos a três), a Suprema Corte dos  
@@ -34,5 +34,3 @@ B anulação das dívidas estudantis.
 C aprovação dos cursos superiores.  
 D utilização dos recursos estrangeiros.  
 E promoção da diversidade acadêmica.
-
-</details>

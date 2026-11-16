@@ -13,10 +13,10 @@ tema: "Corpo como construção cultural e valor da diversidade"
 classificacao_confianca: media
 gabarito: C
 imagem: enem-2022-ppl-d1-q074.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 74 — ENEM 2022](enem-2022-ppl-d1-q074.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 74  
 Pensar o corpo como algo produzido pela cultura é,  
@@ -38,5 +38,3 @@ B Fraternidade.
 C Diversidade.  
 D Igualdade.  
 E Liberdade.
-
-</details>

@@ -14,13 +14,13 @@ classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d2-q132.webp
 obs: "rodapé de página indevido no fim da imagem e faixa de código de barras na margem esquerda"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 132 — ENEM 2022](enem-2022-ppl-d2-q132.webp)
 
-<details><summary>Texto extraído (pode conter ruído)</summary>
-
 QUESTÃO 132  
-ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022  
+
 O feixe de um laser incide obliquamente na lateral de  
 uma janela de vidro, cujo índice de refração é maior do que  
 o do ar, e a atravessa. Uma representação esquemática  
@@ -36,5 +36,3 @@ B
 C  
 D  
 E
-
-</details>

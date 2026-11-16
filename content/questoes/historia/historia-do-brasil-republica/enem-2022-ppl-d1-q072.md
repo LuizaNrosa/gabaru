@@ -13,10 +13,10 @@ tema: "Frente Negra Brasileira e combate à discriminação racial"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d1-q072.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 72 — ENEM 2022](enem-2022-ppl-d1-q072.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 72  
 Disponível em: http://memorialdademocracia.com.br. Acesso em: 9 dez. 2018.  
@@ -27,5 +27,3 @@ B Padronizar as manifestações.
 C Ressignificar o socialismo.  
 D Combater as discriminações.  
 E Publicizar o totalitarismo.
-
-</details>

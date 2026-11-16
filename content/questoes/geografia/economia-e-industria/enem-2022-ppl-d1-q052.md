@@ -13,10 +13,10 @@ tema: "Alta do dólar e perda de poder de compra"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q052.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 52 — ENEM 2022](enem-2022-ppl-d1-q052.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 52  
 O dólar fechou esta sexta-feira (15/10/21) cotado a R$ 5,45, em queda  
@@ -36,5 +36,3 @@ B Crescimento da entrada de capital estrangeiro.
 C Diminuição no poder de compra da população.  
 D Aumento nas importações de manufaturados.  
 E Redução no fluxo de entrada de turistas.
-
-</details>

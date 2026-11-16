@@ -13,10 +13,10 @@ tema: "Predador-chave Pisaster e diversidade de espécies"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2024-ppl-d2-q094.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 94 — ENEM 2024](enem-2024-ppl-d2-q094.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 94  
 Pisaster ochraceus é uma espécie de estrela-do-mar que ocorre em comunidades da  
@@ -34,5 +34,3 @@ C isolam geograficamente as populações, reduzindo a taxa de especiação.
 D diminuem o número de moluscos, reduzindo a competição destes com outros seres.  
 E liberam substâncias inibidoras de outros organismos, favorecendo o aumento da  
 população de moluscos.
-
-</details>

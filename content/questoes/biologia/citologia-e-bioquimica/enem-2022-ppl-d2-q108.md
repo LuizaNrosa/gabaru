@@ -13,10 +13,10 @@ tema: "Ação da colchicina no fuso acromático durante a divisão celular"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d2-q108.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 108 — ENEM 2022](enem-2022-ppl-d2-q108.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 108  
 Um dos fármacos usados como quimioterápico contra  
@@ -37,5 +37,3 @@ mitose.
 E promove a despolimerização das fibras do fuso,  
 impossibilitando a separação dos cromossomos na  
 divisão.
-
-</details>

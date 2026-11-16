@@ -13,10 +13,10 @@ tema: "Consumo de combustível proporcional a distância e carga"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2024-ppl-d2-q159.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 159 — ENEM 2024](enem-2024-ppl-d2-q159.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 159  
 O limite recomendável de carga a ser transportada por um caminhão é 10 000 kg.  
@@ -33,5 +33,3 @@ B 50,0
 C 51,0  
 D 58,8  
 E 61,2
-
-</details>

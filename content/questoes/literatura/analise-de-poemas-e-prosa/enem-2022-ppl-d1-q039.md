@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q039.webp
 obs: "imagem com resquício de texto cortado da questão anterior no topo"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 39 — ENEM 2022](enem-2022-ppl-d1-q039.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 39  
 Bondade fazia jus ao apelido. Não tinha pouso certo. Morava em  
@@ -42,5 +42,3 @@ A generosidade em relação às demandas da comunidade onde vive.
 B capacidade de desprendimento material e benevolência afetiva.  
 C experiência em ignorar as provocações de seus inimigos.  
 D coragem em assumir uma vida de solidão e privações.
-
-</details>

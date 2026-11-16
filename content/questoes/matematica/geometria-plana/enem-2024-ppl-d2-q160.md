@@ -13,10 +13,10 @@ tema: "Quantidade mínima e máxima de tijolos em parede com janela"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2024-ppl-d2-q160.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 160 — ENEM 2024](enem-2024-ppl-d2-q160.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 160  
 Para estimar a quantidade de tijolos a ser usada na construção de uma parede, é  
@@ -40,5 +40,3 @@ B 100 e 2 400.
 C 2 000 e 2 300.  
 D 733 e 2 396.  
 E 2 500 e 2 800.
-
-</details>

@@ -13,10 +13,10 @@ tema: "Procedimentos para destino de resíduos plásticos e reciclagem"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q091.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 91 — ENEM 2024](enem-2024-ppl-d2-q091.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 91  
 O uso excessivo de embalagens plásticas ocasionou um aumento na quantidade de  
@@ -40,5 +40,3 @@ uma grande quantidade de resíduos e sua capacidade não se esgota rapidamente.
 E substituir por plásticos oxibiodegradáveis, visto que, ao serem descartados, são  
 rapidamente assimilados pelos microrganismos e não se acumulam no meio  
 ambiente.
-
-</details>

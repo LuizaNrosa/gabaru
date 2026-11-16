@@ -13,10 +13,10 @@ tema: "Ocupação de Minas Gerais e recursos minerais"
 classificacao_confianca: media
 gabarito: B
 imagem: enem-2022-ppl-d1-q071.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 71 — ENEM 2022](enem-2022-ppl-d1-q071.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 71  
 Diversas regiões do atual estado de Minas Gerais, onde não foram  
@@ -35,5 +35,3 @@ A Padrão climático.
 B Recursos minerais.  
 C Redes hidrográficas.  
 D Diversidade biológica.
-
-</details>

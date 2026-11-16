@@ -13,10 +13,10 @@ tema: "Menor preço por metro linear de papel higiênico"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2024-ppl-d2-q157.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 157 — ENEM 2024](enem-2024-ppl-d2-q157.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 157  
 Em um supermercado, uma marca de papel higiênico é comercializada em cinco  
@@ -41,5 +41,3 @@ B II
 C III  
 D IV  
 E V
-
-</details>

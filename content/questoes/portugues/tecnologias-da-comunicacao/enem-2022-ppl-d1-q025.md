@@ -13,10 +13,10 @@ tema: "Algoritmos de redes sociais e engajamento em detrimento do usuário"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d1-q025.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 25 — ENEM 2022](enem-2022-ppl-d1-q025.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 25  
 O sucesso das redes sociais é fruto da combinação inteligente da  
@@ -56,5 +56,3 @@ avaliações positivas.
 E   
 focar no engajamento dos usuários em detrimento de suas  
 necessidades concretas.
-
-</details>

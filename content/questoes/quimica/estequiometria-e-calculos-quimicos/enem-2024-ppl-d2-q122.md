@@ -13,10 +13,10 @@ tema: "Massa de sódio ingerida em excesso com sal light"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2024-ppl-d2-q122.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 122 — ENEM 2024](enem-2024-ppl-d2-q122.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 122  
 A hipertensão arterial é um problema de saúde que se agrava pelo crescente  
@@ -44,5 +44,3 @@ B 1,0 g.
 C 1,4 g.  
 D 2,8 g.  
 E 3,5 g.
-
-</details>

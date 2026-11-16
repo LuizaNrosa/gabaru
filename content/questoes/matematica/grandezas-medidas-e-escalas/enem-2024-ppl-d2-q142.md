@@ -13,10 +13,10 @@ tema: "Escala para reprodução de quadro em tela menor"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2024-ppl-d2-q142.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 142 — ENEM 2024](enem-2024-ppl-d2-q142.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 142  
 Um pintor pretende fazer uma reprodução do quadro Guernica em uma tela de  
@@ -30,5 +30,3 @@ B 1 : 18.
 C 1 : 21.  
 D 1 : 23.  
 E 1 : 26.
-
-</details>

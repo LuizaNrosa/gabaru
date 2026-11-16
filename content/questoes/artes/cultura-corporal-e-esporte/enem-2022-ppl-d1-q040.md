@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q040.webp
 obs: "imagem com resquício de texto cortado da questão anterior no topo"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 40 — ENEM 2022](enem-2022-ppl-d1-q040.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 40  
 Saúde aprova implantação de 82 academias em praças  
@@ -50,5 +50,3 @@ sociedade brasileira.
 E   
 estabelece relações entre a prática de atividade física e a  
 prevenção de doenças como a aids e a hepatite.
-
-</details>

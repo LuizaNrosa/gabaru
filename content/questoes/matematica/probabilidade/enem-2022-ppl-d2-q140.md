@@ -13,10 +13,10 @@ tema: "Probabilidade de aprovação com percentuais de duas turmas"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d2-q140.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 140 — ENEM 2022](enem-2022-ppl-d2-q140.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 140  
 Um curso preparatório para concursos tem duas  
@@ -54,5 +54,3 @@ IV.
 D  
 V  
 E
-
-</details>

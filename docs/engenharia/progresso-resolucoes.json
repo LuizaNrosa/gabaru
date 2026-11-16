@@ -1,0 +1,105 @@
+{
+  "versao": 1,
+  "itens": {
+    "enem-2025-d2-q153": {
+      "hash": "69ba6ea0e6357004bf972d7899ad0dc15a60be8a51343b89706142ec14b23dad",
+      "status": "validada",
+      "motivo": null
+    },
+    "enem-2025-d2-q158": {
+      "hash": "4cc9a11c90d3c467c196b933cbef6c70d9e8a29e68d170146593392039358b3e",
+      "status": "validada",
+      "motivo": null
+    },
+    "enem-2025-d2-q159": {
+      "hash": "3e6a3e96437709b5f15a566619e1d421923cc963f20029a943c93c44ee181b47",
+      "status": "validada",
+      "motivo": null
+    },
+    "enem-2025-d2-q164": {
+      "hash": "2add096363a10a0468ea1cb5517bcc490d1718a855556d59d688c376024f58e3",
+      "status": "validada",
+      "motivo": null
+    },
+    "enem-2025-d2-q165": {
+      "hash": "99bcef92f959038c51c9ed17e0c286db6a5ff45ec1a2c019f601ba1537b1ffce",
+      "status": "validada",
+      "motivo": null
+    },
+    "enem-2025-d2-q166": {
+      "hash": "a1c2a59981eeb013d6972d366a0d27e1f0d406ec08c1e45b1da229ae097b4cb3",
+      "status": "validada",
+      "motivo": null
+    },
+    "enem-2025-d2-q167": {
+      "hash": "53527d74508ea6646440d58fe455beee4bba7aa1f1a49702c4ae6b8b2d282b68",
+      "status": "validada",
+      "motivo": null
+    },
+    "enem-2025-d2-q169": {
+      "hash": "c9c95d6ddf5ed7e7c4f3104dbe3819ee7edb232c0e7036cc8312877f6932d43b",
+      "status": "validada",
+      "motivo": null
+    },
+    "enem-2025-d2-q170": {
+      "hash": "6ded096a33bde3ffa4963075f9dc0f2679ebb54e65a3894ddfbee56edccbf57e",
+      "status": "validada",
+      "motivo": null
+    },
+    "enem-2025-d2-q174": {
+      "hash": "93154aa27fed85a626cfadd0934c5e249a69a0821d79cf5e083f945f4ee97228",
+      "status": "validada",
+      "motivo": null
+    },
+    "etec-2026-2-q001": {
+      "hash": "3752a54723c1dae92bd37c6c906ea509c0346b4b0de58a2f5a2ceb860fd50968",
+      "status": "validada",
+      "motivo": null
+    },
+    "etec-2026-2-q002": {
+      "hash": "dfb3e72494e7c0366c35160b67a409875e556908000dfc9aae56c475ba7b7115",
+      "status": "validada",
+      "motivo": null
+    },
+    "etec-2026-2-q003": {
+      "hash": "55775e2447e96ae5500d16c35cc4e6f5ec8f62543d0709ba38cdbed087818153",
+      "status": "validada",
+      "motivo": null
+    },
+    "etec-2026-2-q004": {
+      "hash": "1b66571edb1235f85967d75d4cb47e0f09edab6868386d10a200c604c49070bb",
+      "status": "validada",
+      "motivo": null
+    },
+    "etec-2026-2-q005": {
+      "hash": "46726fa81c5e16c7bc34ec78d8aa3215a81465d963af1f476e700d38c7863ac8",
+      "status": "validada",
+      "motivo": null
+    },
+    "etec-2026-2-q007": {
+      "hash": "8f36c98648ed3993b566f9f4c518c7c4800711dac71e527b77779e91540babd5",
+      "status": "validada",
+      "motivo": null
+    },
+    "etec-2026-2-q008": {
+      "hash": "d1282935ac29db87497f4f07872a6f655e8a259712ea3cacf042db1af31e4801",
+      "status": "validada",
+      "motivo": null
+    },
+    "etec-2026-2-q009": {
+      "hash": "65a5da546ae46e4a09c626df9080deca770829cc624e65b90dee73aa9bf6066c",
+      "status": "validada",
+      "motivo": null
+    },
+    "etec-2026-2-q011": {
+      "hash": "879ddd5f0259ec8311d1ff0587913e7c45c8d86a12a460686a799b348d4cca75",
+      "status": "validada",
+      "motivo": null
+    },
+    "etec-2026-2-q012": {
+      "hash": "6b8fc395269a5c916a1f30774c8bc4f11377d95a6f665f0a6297d36bee884730",
+      "status": "validada",
+      "motivo": null
+    }
+  }
+}

@@ -1,0 +1,1089 @@
+{
+  "banca": "etec",
+  "edicao": "2025-1",
+  "provaSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+  "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+  "esperadas": 50,
+  "aceitas": {
+    "etec-2025-1-q001": {
+      "id": "etec-2025-1-q001",
+      "numero": 1,
+      "enunciado": "As plantas proporcionam uma infinidade de benefícios que são essenciais para a manutenção da vida na  Terra, como a produção de alimentos e de oxigênio. Além disso, são fontes de matéria-prima para a indústria,  uma vez que são utilizadas para a produção de biocombustíveis e de remédios.  Outro papel fundamental das plantas é o controle da dinâmica da água na Terra e da temperatura do planeta.  Compreender suas funções vitais é importante para promover esforços de conservação do meio ambiente. Em relação ao cultivo de plantas, uma ação que devemos adotar é",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "evitar adubar a terra, a fim de impedir o excesso de nutrientes tóxicos e a proliferação tanto de pragas  quanto de plantas daninhas."
+        },
+        {
+          "letra": "B",
+          "texto": "permitir que lesmas e caramujos cresçam entre as plantas, a fim de estimular a polinização das flores  e a formação dos frutos."
+        },
+        {
+          "letra": "C",
+          "texto": "utilizar a quantidade certa de água para cada tipo de planta, a fim de impedir que o solo fique encharcado  e as raízes não consigam respirar."
+        },
+        {
+          "letra": "D",
+          "texto": "evitar o uso de qualquer tipo de controle biológico, a fim de impedir a proliferação de pragas  e insetos transmissores de doenças."
+        },
+        {
+          "letra": "E",
+          "texto": "optar por locais bem ventilados, a fim de impedir a evaporação da água do solo, o que facilita  a condução de seiva pelos vasos das plantas."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          2
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q006": {
+      "id": "etec-2025-1-q006",
+      "numero": 6,
+      "enunciado": "Plantas carnívoras, como as dioneias, são conhecidas pelo aprisionamento de suas presas. Esse movimento  ocorre por um processo denominado tigmonastia, em que, ao serem tocadas, as células sensíveis da planta  geram sinais elétricos que são propagados rapidamente e fazem com que a planta se feche. Durante o fechamento das folhas, a resistência elétrica entre dois pontos do caule pode ser obtida por meio  da Lei de Ohm, conhecida por U = R ⋅ i, em que a diferença de potencial (U) aplicada nesses pontos gera uma  corrente elétrica (i) que depende da resistência elétrica (R) do material. Se uma diferença de potencial de 1x 10 –1 volt é aplicada entre esses pontos e a corrente elétrica medida é  de 2 x10 –8 ampères, a resistência elétrica, medida em ohm, do caule da planta é",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 x 10–9."
+        },
+        {
+          "letra": "B",
+          "texto": "5 x 10–7."
+        },
+        {
+          "letra": "C",
+          "texto": "5 x 10–1 ."
+        },
+        {
+          "letra": "D",
+          "texto": "5 x 106."
+        },
+        {
+          "letra": "E",
+          "texto": "5 x 108."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          4
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q007": {
+      "id": "etec-2025-1-q007",
+      "numero": 7,
+      "enunciado": "A construção de humor no texto se deve, entre outros fatores,",
+      "textoBase": {
+        "texto": "Leia os textos para responder às questões de 07 a 09.\n\n<https://tinyurl.com/3dxrhkpp> Acesso em: 13.09.2024. Original colorido.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à valorização do masculino, ao representá-lo como uma flor, o Cravo."
+        },
+        {
+          "letra": "B",
+          "texto": "à linguagem cerimoniosa e solene empregada pela Planta Carnívora."
+        },
+        {
+          "letra": "C",
+          "texto": "ao uso da linguagem verbal para amenizar atos de violência doméstica."
+        },
+        {
+          "letra": "D",
+          "texto": "à atribuição de comportamentos animalizados, como o canibalismo, a seres humanos."
+        },
+        {
+          "letra": "E",
+          "texto": "à prática da fofoca como um traço essencial para a sobrevivência da Planta Carnívora."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          5
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q010": {
+      "id": "etec-2025-1-q010",
+      "numero": 10,
+      "enunciado": "O evento histórico descrito no texto foi batizado de",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 10 e 11.\n\nO movimento, que completou 50 anos em 2024, foi o responsável pelo fim da longeva ditadura de António de \nOliveira Salazar, substituído, em 1968, por Marcello Caetano. Esse movimento ficou conhecido pelo nome da \nflor que a população colocava nos canos das armas dos soldados do exército, que se rebelaram para dar um \nbasta ao estado de coisas que sufocava a vida do país, restabelecendo a democracia.\nUm dos motivos da insatisfação foi a desastrosa campanha militar do governo ditatorial para enfrentar os \nmovimentos de libertação nacional que estavam ocorrendo em suas colônias na África.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Guerra da Papoula, e ocorreu na China."
+        },
+        {
+          "letra": "B",
+          "texto": "Guerra das Duas Rosas, e ocorreu na Inglaterra."
+        },
+        {
+          "letra": "C",
+          "texto": "Revolução do Mandacaru, e ocorreu no Brasil."
+        },
+        {
+          "letra": "D",
+          "texto": "Revolução do Lótus, e ocorreu na Índia."
+        },
+        {
+          "letra": "E",
+          "texto": "Revolução dos Cravos, e ocorreu em Portugal."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          6
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q012": {
+      "id": "etec-2025-1-q012",
+      "numero": 12,
+      "enunciado": "Sobre o texto, é correto afirmar que",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões de 12 a 15.\n\nO cravo-da-índia é uma especiaria usada desde a Antiguidade. Seu comércio motivou inúmeras viagens de \nnavegadores europeus para o continente Asiático. Essa especiaria já foi comercializada a preço de ouro e, \naté hoje, é utilizada na Medicina Ayurveda, na Medicina Chinesa e na fitoterapia ocidental. \nO cravo-da-índia é amplamente utilizado na culinária como condimento no preparo de pratos e doces.  \nSeu uso em doces teve início por sua ação repelente que impede a invasão de formigas, motivo pelo qual \né usado popularmente em açucareiros. Além disso, ele é usado na fabricação de medicamentos por suas \npropriedades antimicrobianas, antifúngicas, antivirais e anti-inflamatórias. \nSeu óleo essencial é rico em eugenol, princípio ativo responsável pelas propriedades analgésicas e \nantissépticas, sendo bastante usado em odontologia. Fonte de matéria-prima para a fabricação de fragrâncias \ne aromatizantes, também foi usado anteriormente para sintetizar a vanilina (aroma artificial de baunilha). \n\n<https://tinyurl.com/nmm3dzrv> Acesso em: 09.09.2024. Adaptado.\n\nAs imagens representam as estruturas do eugenol e da vanilina.\n\nH\n\nH\n\nC\nO\nO\n\nH\nH\nH\n\nC\n\nC\nH\n\nC\nC\n\nC\n\nH\n\nH\n\nH\n\nH\nH\n\nH\n\nC\nC\nC\nC\n\nC\n\nC\nC\nC\nC\n\nC\n\nO\n\nH\nH\n\nH\n\nC\nC\n\nO\n\nH\n\nO\n\nH\nH\nH\nH\n\neugenol\nvanilina",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "se extraía ouro, junto ao eugenol, na Antiguidade."
+        },
+        {
+          "letra": "B",
+          "texto": "o cravo-da-índia pode ser usado em açucareiros por repelir formigas."
+        },
+        {
+          "letra": "C",
+          "texto": "o eugenol, devido a sua ação repelente, é usado na fabricação de medicamentos."
+        },
+        {
+          "letra": "D",
+          "texto": "a vanilina está presente no óleo essencial do cravo-da-índia."
+        },
+        {
+          "letra": "E",
+          "texto": "o eugenol exala o aroma artificial de baunilha."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          7
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q013": {
+      "id": "etec-2025-1-q013",
+      "numero": 13,
+      "enunciado": "Assinale a alternativa que apresenta a comparação correta entre o eugenol e a vanilina.",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões de 12 a 15.\n\nO cravo-da-índia é uma especiaria usada desde a Antiguidade. Seu comércio motivou inúmeras viagens de \nnavegadores europeus para o continente Asiático. Essa especiaria já foi comercializada a preço de ouro e, \naté hoje, é utilizada na Medicina Ayurveda, na Medicina Chinesa e na fitoterapia ocidental. \nO cravo-da-índia é amplamente utilizado na culinária como condimento no preparo de pratos e doces.  \nSeu uso em doces teve início por sua ação repelente que impede a invasão de formigas, motivo pelo qual \né usado popularmente em açucareiros. Além disso, ele é usado na fabricação de medicamentos por suas \npropriedades antimicrobianas, antifúngicas, antivirais e anti-inflamatórias. \nSeu óleo essencial é rico em eugenol, princípio ativo responsável pelas propriedades analgésicas e \nantissépticas, sendo bastante usado em odontologia. Fonte de matéria-prima para a fabricação de fragrâncias \ne aromatizantes, também foi usado anteriormente para sintetizar a vanilina (aroma artificial de baunilha). \n\n<https://tinyurl.com/nmm3dzrv> Acesso em: 09.09.2024. Adaptado.\n\nAs imagens representam as estruturas do eugenol e da vanilina.\n\nH\n\nH\n\nC\nO\nO\n\nH\nH\nH\n\nC\n\nC\nH\n\nC\nC\n\nC\n\nH\n\nH\n\nH\n\nH\nH\n\nH\n\nC\nC\nC\nC\n\nC\n\nC\nC\nC\nC\n\nC\n\nO\n\nH\nH\n\nH\n\nC\nC\n\nO\n\nH\n\nO\n\nH\nH\nH\nH\n\neugenol\nvanilina",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O eugenol e a vanilina apresentam o mesmo número de átomos de carbono."
+        },
+        {
+          "letra": "B",
+          "texto": "O eugenol e a vanilina apresentam o mesmo número de átomos de hidrogênio."
+        },
+        {
+          "letra": "C",
+          "texto": "O eugenol apresenta elementos químicos diferentes da vanilina   em sua estrutura."
+        },
+        {
+          "letra": "D",
+          "texto": "O eugenol e a vanilina apresentam estruturas idênticas com mesmo número de átomos."
+        },
+        {
+          "letra": "E",
+          "texto": "O eugenol e a vanilina apresentam estruturas que diferem por um átomo de oxigênio, dois átomos  de carbono e quatro átomos de hidrogênio."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          7
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q014": {
+      "id": "etec-2025-1-q014",
+      "numero": 14,
+      "enunciado": "Arroz doce, canjica, doce de abóbora… Muitos doces consumidos no Brasil levam cravo-da-índia em  suas receitas.   Assinale a alternativa que apresenta, corretamente, a forma como esse ingrediente foi introduzido em  nosso território.",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões de 12 a 15.\n\nO cravo-da-índia é uma especiaria usada desde a Antiguidade. Seu comércio motivou inúmeras viagens de \nnavegadores europeus para o continente Asiático. Essa especiaria já foi comercializada a preço de ouro e, \naté hoje, é utilizada na Medicina Ayurveda, na Medicina Chinesa e na fitoterapia ocidental. \nO cravo-da-índia é amplamente utilizado na culinária como condimento no preparo de pratos e doces.  \nSeu uso em doces teve início por sua ação repelente que impede a invasão de formigas, motivo pelo qual \né usado popularmente em açucareiros. Além disso, ele é usado na fabricação de medicamentos por suas \npropriedades antimicrobianas, antifúngicas, antivirais e anti-inflamatórias. \nSeu óleo essencial é rico em eugenol, princípio ativo responsável pelas propriedades analgésicas e \nantissépticas, sendo bastante usado em odontologia. Fonte de matéria-prima para a fabricação de fragrâncias \ne aromatizantes, também foi usado anteriormente para sintetizar a vanilina (aroma artificial de baunilha). \n\n<https://tinyurl.com/nmm3dzrv> Acesso em: 09.09.2024. Adaptado.\n\nAs imagens representam as estruturas do eugenol e da vanilina.\n\nH\n\nH\n\nC\nO\nO\n\nH\nH\nH\n\nC\n\nC\nH\n\nC\nC\n\nC\n\nH\n\nH\n\nH\n\nH\nH\n\nH\n\nC\nC\nC\nC\n\nC\n\nC\nC\nC\nC\n\nC\n\nO\n\nH\nH\n\nH\n\nC\nC\n\nO\n\nH\n\nO\n\nH\nH\nH\nH\n\neugenol\nvanilina",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O cravo-da-índia foi trazido pelos portugueses ao território brasileiro no processo das Grandes  Navegações, que conectaram Europa, Ásia, África e América do Sul."
+        },
+        {
+          "letra": "B",
+          "texto": "As primeiras mudas de cravo-da-índia chegaram ao território do atual Brasil há cerca de 5 000 anos pela  Amazônia, por meio de uma rede de trilhas incas chamada de “caminho do rei”."
+        },
+        {
+          "letra": "C",
+          "texto": "Os caçadores-coletores da cultura de Clóvis trouxeram o cravo-da-índia durante o processo de  migração pelo Estreito de Bering, da Europa para a América do Norte, há cerca de 13 000 anos."
+        },
+        {
+          "letra": "D",
+          "texto": "As mulheres negras africanas trouxeram para o Brasil, além de um novo jeito de preparar a comida,  alimentos tipicamente africanos, como o cravo-da-índia, a canela e o gengibre."
+        },
+        {
+          "letra": "E",
+          "texto": "O cravo-da-índia, especiaria típica do norte da Itália, foi introduzido na culinária brasileira durante o  período da imigração italiana, ocorrida entre os anos de 1870 e 1930."
+        }
+      ],
+      "correta": "A",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          7
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q016": {
+      "id": "etec-2025-1-q016",
+      "numero": 16,
+      "enunciado": "Suponha que a rede de supermercados decida promover uma campanha de marketing para divulgar ainda  mais essa nova forma de paquera. A campanha terá como chamariz uma sigla formada por 3 letras diferentes  retiradas do nome da fruta utilizada para sinalizar disponibilidade. Assinale a alternativa que apresenta corretamente o total de siglas que podem ser formadas.",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 16 e 17.\n\nEm uma rede de supermercados de Madri, uma nova forma de paquera tem chamado a atenção:  \na “Hora do Flerte”. Entre 19 h e 20 h, solteiros circulam pelo supermercado sinalizando disponibilidade ao \nandar com um abacaxi virado para baixo dentro do carrinho. Caso encontre alguém interessante, basta bater \nno carrinho do “crush” e começar a conversar. Os solteiros se dividem em três faixas etárias, cada uma \ncirculando por uma seção diferente do supermercado:\n\n• pessoas entre 18 e 24 anos ficam no setor de congelados;\n• pessoas entre 25 e 40 anos ficam na peixaria; e\n• pessoas com mais de 40 anos ficam no corredor de vinhos.\nA popularidade é tamanha que, segundo relatos em redes sociais, o abacaxi tem acabado em várias noites.\n\n<https://tinyurl.com/mt7ytbzd> Acesso em: 09.09.2024. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24"
+        },
+        {
+          "letra": "B",
+          "texto": "35"
+        },
+        {
+          "letra": "C",
+          "texto": "60"
+        },
+        {
+          "letra": "D",
+          "texto": "98"
+        },
+        {
+          "letra": "E",
+          "texto": "210"
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          8
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q019": {
+      "id": "etec-2025-1-q019",
+      "numero": 19,
+      "enunciado": "As plantas purificam o ar, pois por absorverem a luz graças à presença de clorofila, realizam o processo da  fotossíntese. Este processo transforma o dióxido de carbono e a água em glicose e oxigênio, o qual é liberado  para o ambiente. Dessa forma, elas renovam o ar necessário ao processo de respiração. Sobre os dois processos mencionados, é correto afirmar que",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ambos atuam na transformação de dióxido de carbono e água em glicose e oxigênio."
+        },
+        {
+          "letra": "B",
+          "texto": "ambos dependem da presença de clorofila para absorver a energia luminosa."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas a fotossíntese ocorre tanto na presença como na ausência de luz."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas a respiração ocorre tanto na presença como na ausência de luz."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas a respiração transforma o dióxido de carbono em glicose."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          10
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q021": {
+      "id": "etec-2025-1-q021",
+      "numero": 21,
+      "enunciado": "Um grupo de cientistas está estudando como diferentes condições de luz afetam o crescimento de plantas.  Para isso, eles dividem as plantas em três grupos e as expõem às seguintes condições de iluminação: •\t grupo I – exposto à luz branca (composta por todas as cores do espectro visível); •\t grupo II – exposto apenas à luz monocromática verde; e •\t grupo III – mantido no escuro, sem nenhuma luz. Após algumas semanas, os cientistas avaliam o crescimento das plantas. O maior crescimento ocorrerá no grupo",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "III, porque a ausência de luz reduz o estresse nas plantas, permitindo um crescimento mais saudável."
+        },
+        {
+          "letra": "B",
+          "texto": "II, porque a luz verde é a mais eficiente para ser absorvida pelas folhas e alcançar os cloroplastos,  estimulando o crescimento."
+        },
+        {
+          "letra": "C",
+          "texto": "I, porque a luz branca é composta de todas as cores presentes no espectro visível, o que estimula a  fotossíntese e acelera o crescimento."
+        },
+        {
+          "letra": "D",
+          "texto": "I, porque a luz branca está na  mesma faixa de frequência que a luz ultravioleta, essencial para que ocorra  a fotossíntese."
+        },
+        {
+          "letra": "E",
+          "texto": "II, porque a luz verde é mais eficiente para estimular a floração, o que induz o maior crescimento  desse grupo."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          10
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q023": {
+      "id": "etec-2025-1-q023",
+      "numero": 23,
+      "enunciado": "A solução, apontada no texto, foi adotada para minimizar um fenômeno climático que ocorre devido à transmissão  de calor por meio da",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 23 e 24.\n\nConhecida como a Cidade da Primavera Eterna, Medellín costuma atrair turistas por todo o ano, mas o \naumento da urbanização expôs a cidade ao efeito de Ilha de Calor das áreas urbanas, que causa a absorção \ne a retenção do calor pelas ruas e construções da cidade.\nEm 2016, Medellín deu início ao seu programa de “corredores verdes” devido às preocupações com a \npoluição do ar e o aumento do calor. Os corredores verdes mostraram-se claramente eficientes para reverter \neste impacto. A temperatura caiu em 2 °C por toda a cidade, segundo dados da prefeitura local.\n\n<https://tinyurl.com/bdeprd3t> Acesso em: 07.09.2024. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "irradiação, uma vez que o material utilizado na construção das cidades absorve a radiação solar e irradia  esse calor para o ambiente."
+        },
+        {
+          "letra": "B",
+          "texto": "irradiação, já que os prédios das cidades dificultam a movimentação das nuvens e, dessa forma, impedem  a ocorrência de chuvas."
+        },
+        {
+          "letra": "C",
+          "texto": "condução, porque veículos, como ônibus e motos, transportam o calor para dentro dos grandes  centros urbanos."
+        },
+        {
+          "letra": "D",
+          "texto": "condução, dado que o material utilizado na construção das cidades conduz o calor gerado nas residências  para o meio exterior."
+        },
+        {
+          "letra": "E",
+          "texto": "convecção, pois o calor gerado pelos metrôs, no subterrâneo das grandes cidades, esquenta o ambiente  e se transmite para o solo."
+        }
+      ],
+      "correta": "A",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          11
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q028": {
+      "id": "etec-2025-1-q028",
+      "numero": 28,
+      "enunciado": "Assinale a alternativa em que a ação enunciada amenize a vivência no cenário descrito no texto.",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 28 e 29.\n\nO Instituto Nacional de Pesquisas Espaciais (INPE) registrou cerca de 160 mil focos de \nincêndio de janeiro até setembro de 2024, um aumento de 100 % em relação ao mesmo \nperíodo de 2023, que deixaram 60 % do país sob fumaça. A seca prolongada no Brasil, \naliada a incêndios por todo o país, provocou uma onda de clima seco severo por todo o \nterritório brasileiro. \n\nNa cidade de São Paulo, que já apresenta tempo seco no inverno, foi registrada a pior \nqualidade de ar do mundo em setembro, levando a um aumento do aparecimento de \nproblemas do sistema respiratório, como rinite e sinusite. \n\nEm consequência do atual cenário, é importante tomar medidas para se proteger e evitar \nque o corpo humano possa ser impactado negativamente. \n\n<https://tinyurl.com/9muukanr> Acesso em: 11.09.2024. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Usar umidificador de ar ou uma bacia com água no ambiente, pois tornam o ambiente mais seco,  colaborando com o ressecamento da mucosa respiratória."
+        },
+        {
+          "letra": "B",
+          "texto": "Não beber muita água para evitar a transpiração, bem como fazer refeições leves, pois não se perde  minerais no suor. E não fazer exercícios físicos entre 10 e 16 horas."
+        },
+        {
+          "letra": "C",
+          "texto": "Manter ambientes fechados, pois isso ajuda a fazer o ar circular, aumentando a ação de ácaros,  amigos da saúde respiratória, principalmente de quem já tem predisposição de alguma alergia."
+        },
+        {
+          "letra": "D",
+          "texto": "Evitar lavar cobertores e casacos, que estavam guardados no armário antes do inverno, para favorecer  o desenvolvimento de fungos e mofos, benéficos ao sistema respiratório."
+        },
+        {
+          "letra": "E",
+          "texto": "Cuidar, especialmente de crianças e idosos, que são os mais afetados pela baixa umidade do ar,  incentivando a ingestão de bastante água, além de sucos naturais."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          14
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q029": {
+      "id": "etec-2025-1-q029",
+      "numero": 29,
+      "enunciado": "Intervenções governamentais que poderiam contribuir com a melhora do problema apontado são",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 28 e 29.\n\nO Instituto Nacional de Pesquisas Espaciais (INPE) registrou cerca de 160 mil focos de \nincêndio de janeiro até setembro de 2024, um aumento de 100 % em relação ao mesmo \nperíodo de 2023, que deixaram 60 % do país sob fumaça. A seca prolongada no Brasil, \naliada a incêndios por todo o país, provocou uma onda de clima seco severo por todo o \nterritório brasileiro. \n\nNa cidade de São Paulo, que já apresenta tempo seco no inverno, foi registrada a pior \nqualidade de ar do mundo em setembro, levando a um aumento do aparecimento de \nproblemas do sistema respiratório, como rinite e sinusite. \n\nEm consequência do atual cenário, é importante tomar medidas para se proteger e evitar \nque o corpo humano possa ser impactado negativamente. \n\n<https://tinyurl.com/9muukanr> Acesso em: 11.09.2024. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a construção de novas rodovias próximas às áreas de maior incidência de incêndios e a liberação  de queimadas em áreas de proteção ambiental."
+        },
+        {
+          "letra": "B",
+          "texto": "a redução da fiscalização para queimadas ilegais e a criação de incentivos fiscais para a expansão  de pastagens em áreas de floresta."
+        },
+        {
+          "letra": "C",
+          "texto": "o estímulo ao desmatamento como forma de aumentar a área cultivável e o aumento da exportação  de produtos agrícolas."
+        },
+        {
+          "letra": "D",
+          "texto": "a criação de programas de divulgação que abordem a educação ambiental e o incentivo a práticas  agrícolas sustentáveis."
+        },
+        {
+          "letra": "E",
+          "texto": "o incentivo ao uso de queimadas como método de limpeza de terrenos e a liberação de agrotóxicos mais  potentes para combater pragas nas plantações."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          14
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q031": {
+      "id": "etec-2025-1-q031",
+      "numero": 31,
+      "enunciado": "Durante o Renascimento, houve um aumento de interesse por plantas medicinais. Desse período, data  o primeiro uso medicinal da dedaleira, da qual, hoje, é obtido um fitofármaco conhecido como digoxina,  usado no tratamento de insuficiência cardíaca. Suponha que, nesse período histórico, a eficácia do tratamento com dedaleira, em função das   semanas de  tratamento, pudesse ser estimada pela expressão matemática E(t) = −2t2 + 15t + 9 em que, •\t E(t) é a eficácia do tratamento, em porcentagem; e •\t t é o tempo, em semanas, desde o início do tratamento (t ≥ 0). Assinale a alternativa na qual é apontada a eficácia do tratamento após 6 semanas.",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11 %"
+        },
+        {
+          "letra": "B",
+          "texto": "27 %"
+        },
+        {
+          "letra": "C",
+          "texto": "43 %"
+        },
+        {
+          "letra": "D",
+          "texto": "59 %"
+        },
+        {
+          "letra": "E",
+          "texto": "75 %"
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          15
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q035": {
+      "id": "etec-2025-1-q035",
+      "numero": 35,
+      "enunciado": "No equipamento mencionado no texto, a transformação de energia ocorrida que mais contribui para a  produtividade agrícola é de energia",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 35 e 36.\n\nO Brasil é o maior produtor mundial de soja, com mais de 150 milhões de toneladas na safra 2022/2023, \nrepresentando aproximadamente 42 % da produção global. Para atingir essa produtividade agrícola, \nos tratores movidos a diesel são essenciais, pois permitem a cobertura mais eficiente de grandes \náreas de plantio.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "química para energia cinética."
+        },
+        {
+          "letra": "B",
+          "texto": "elétrica para energia térmica."
+        },
+        {
+          "letra": "C",
+          "texto": "química para energia sonora."
+        },
+        {
+          "letra": "D",
+          "texto": "cinética para energia térmica."
+        },
+        {
+          "letra": "E",
+          "texto": "luminosa para energia cinética."
+        }
+      ],
+      "correta": "A",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          17
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q036": {
+      "id": "etec-2025-1-q036",
+      "numero": 36,
+      "enunciado": "Considerando que a velocidade média de um trator movido a diesel é de 10 km/h, assinale a alternativa que  apresenta o tempo necessário, em minutos, para que ele percorra o perímetro externo de uma plantação com  formato quadrado de lado igual a 500 m.",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões 35 e 36.\n\nO Brasil é o maior produtor mundial de soja, com mais de 150 milhões de toneladas na safra 2022/2023, \nrepresentando aproximadamente 42 % da produção global. Para atingir essa produtividade agrícola, \nos tratores movidos a diesel são essenciais, pois permitem a cobertura mais eficiente de grandes \náreas de plantio.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "20"
+        },
+        {
+          "letra": "D",
+          "texto": "200"
+        },
+        {
+          "letra": "E",
+          "texto": "250"
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          17
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q039": {
+      "id": "etec-2025-1-q039",
+      "numero": 39,
+      "enunciado": "Baseando-se no texto, é correto afirmar que essa planta",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões de 39 a 42.\n\nA organização não governamental World Wide Fund for Nature (WWF) elaborou um relatório, no qual listou \nvários “superalimentos do futuro”.  Nessa lista, destaca-se a planta moringa (Moringa oleífera), também \nconhecida  em  algumas culturas como “acácia-branca” ou “árvore-da-vida” devido a suas propriedades \nantivirais, anti-inflamatórias, antidepressivas e antifúngicas.\n\nSuas folhas  são  ricas em proteínas, aminoácidos, vitaminas A e C, além de possuírem elevado teor de \nminerais como cálcio, potássio, fósforo, magnésio e ferro. Alguns desses minerais não só fortalecem ossos \n\ne dentes, como também colaboram na contração muscular. Possuem também muitas fibras que ajudam na \natividade intestinal e mantêm a sensação de saciedade.\n\nDentro de suas longas vagens, ficam as sementes, que, quando trituradas e adicionadas à agua barrenta, \ntêm a capacidade de atrair impurezas, atuando como um agente purificador natural. Essas sementes são \nricas em ácido oleico, que tem sido associado aos níveis elevados de colesterol “bom” no corpo. \n\n<https://tinyurl.com/486r4fux> Acesso em: 18.07.2024. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "provoca intoxicações graves, infecções, alergias e doenças degenerativas que prejudicam a atividade  intestinal e o metabolismo do corpo."
+        },
+        {
+          "letra": "B",
+          "texto": "auxilia na contração muscular, além de fortalecer ossos e dentes devido ao fato de ser rica em minerais,  como cálcio, fósforo e magnésio."
+        },
+        {
+          "letra": "C",
+          "texto": "dificulta a mobilidade do tubo digestório, prejudicando o peristaltismo intestinal e aumentando a  constipação ou prisão-de-ventre."
+        },
+        {
+          "letra": "D",
+          "texto": "possui longas vagens, que, moídas e ingeridas, regulam a função da tireoide e do pâncreas, diminuindo  os níveis do colesterol bom no sangue."
+        },
+        {
+          "letra": "E",
+          "texto": "atua purificando águas barrentas, pois suas sementes liberam substâncias que matam os  micro-organismos parasitas e as larvas dos vermes do ambiente aquático."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          19
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q040": {
+      "id": "etec-2025-1-q040",
+      "numero": 40,
+      "enunciado": "Sobre os nutrientes da planta mencionada no texto, é correto afirmar que",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões de 39 a 42.\n\nA organização não governamental World Wide Fund for Nature (WWF) elaborou um relatório, no qual listou \nvários “superalimentos do futuro”.  Nessa lista, destaca-se a planta moringa (Moringa oleífera), também \nconhecida  em  algumas culturas como “acácia-branca” ou “árvore-da-vida” devido a suas propriedades \nantivirais, anti-inflamatórias, antidepressivas e antifúngicas.\n\nSuas folhas  são  ricas em proteínas, aminoácidos, vitaminas A e C, além de possuírem elevado teor de \nminerais como cálcio, potássio, fósforo, magnésio e ferro. Alguns desses minerais não só fortalecem ossos \n\ne dentes, como também colaboram na contração muscular. Possuem também muitas fibras que ajudam na \natividade intestinal e mantêm a sensação de saciedade.\n\nDentro de suas longas vagens, ficam as sementes, que, quando trituradas e adicionadas à agua barrenta, \ntêm a capacidade de atrair impurezas, atuando como um agente purificador natural. Essas sementes são \nricas em ácido oleico, que tem sido associado aos níveis elevados de colesterol “bom” no corpo. \n\n<https://tinyurl.com/486r4fux> Acesso em: 18.07.2024. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o ferro atua como componente da hemoglobina, pigmento responsável pelo transporte de oxigênio dos  pulmões aos tecidos do corpo."
+        },
+        {
+          "letra": "B",
+          "texto": "o potássio regula a quantidade de água no corpo e é essencial para o funcionamento dos olhos, de modo  que sua escassez gera uma doença chamada escorbuto."
+        },
+        {
+          "letra": "C",
+          "texto": "a vitamina A atua como anticorpo, defendendo o organismo de micro-organismos parasitas e fortalecendo  o sistema imunológico humano."
+        },
+        {
+          "letra": "D",
+          "texto": "o magnésio é essencial para o funcionamento e a produção hormonal da glândula tireoide, além de  atuar também no aumento da sensibilidade térmica."
+        },
+        {
+          "letra": "E",
+          "texto": "a vitamina C atua na síntese de proteínas e é produzida pelo corpo humano, de modo que não precisa  ser ingerida na alimentação."
+        }
+      ],
+      "correta": "A",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          19
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q044": {
+      "id": "etec-2025-1-q044",
+      "numero": 44,
+      "enunciado": "O papiro foi uma planta de grande importância para os egípcios, uma vez que era abundante em seu território.  A planta era utilizada tanto para a confecção de cordas, como para a construção de barcos. Os egípcios antigos também utilizavam partes dessa planta para",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fabricar uma arma que garantiu sua hegemonia no norte da África."
+        },
+        {
+          "letra": "B",
+          "texto": "construir os canais que desviavam a água do rio Nilo para as suas plantações de trigo."
+        },
+        {
+          "letra": "C",
+          "texto": "produzir o material fino e resistente que foi utilizado como suporte para a sua escrita."
+        },
+        {
+          "letra": "D",
+          "texto": "criar os pigmentos utilizados na concepção de maquiagem para os olhos e os lábios."
+        },
+        {
+          "letra": "E",
+          "texto": "compor unguentos e pomadas utilizadas no tratamento de doenças de pele."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          21
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q046": {
+      "id": "etec-2025-1-q046",
+      "numero": 46,
+      "enunciado": "Pronomes são importantes elementos de coesão textual e têm a função de retomar ou antecipar informações  com as quais eles estabelecem uma referência.  Analisando os pronomes em destaque no texto, é correto afirmar que",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões de 46 a 49.\n\nBiotecnologia Indígena\nEntre 5 e 8 mil anos atrás, o cupuaçu estava em desenvolvimento na região do médio-alto Rio Negro. \nFruta hoje muito apreciada na culinária amazônica, ela (I) não surgiu da evolução natural da floresta: \nfoi obra da mão humana. Os indígenas que viviam na região milhares de anos antes da colonização portuguesa \nempregaram técnicas de domesticação de plantas para criá-la (II).\n\nPesquisadores, auxiliados por mateiros – os guias locais da região amazônica –, foram em busca das \nflorestas primárias, aquelas (III) nas quais houve pouca ou nenhuma interferência humana, e constataram que \nnelas (IV) não se encontrava o cupuaçu.\n\nSe o cupuaçu não nascia “naturalmente” em áreas de fraca interferência humana, era razoável supor que \nele (V) seria uma variante domesticada do cupuí, desenvolvida pelos antigos ocupantes da Amazônia.    \n\nComo muitas civilizações antigas, os pré-colombianos se valiam de técnicas elaboradas para cruzar os \nmelhores espécimes vegetais, com a finalidade de obter frutas e grãos aprimorados – é isso (VI) que Charles \nDarwin chamou de “seleção artificial”. Foi assim que, a partir do mirrado cupuí, os indígenas do Rio Negro \ndesenvolveram o cupuaçu, fruta mais gorda.\n\nA análise genética também permitiu datar o processo original de domesticação do cupuaçu em meados do \nHoloceno, época geológica iniciada há cerca de 11 mil anos e na qual (VII) vivemos ainda hoje. Uma segunda \nfase da domesticação se deu mais recentemente, nos últimos dois séculos, quando a fruta se popularizou e foi \nintroduzida em outras regiões.\n\nAntes da colonização, a Amazônia foi um centro de domesticação e modificação de espécies selvagens. \nO cupuaçu, sabemos agora, é mais um entre tantos outros frutos criados a partir de técnicas complexas de \nmanejo e cultivo utilizadas pelos povos indígenas para desenvolver novas plantas. “A mandioca, o bacuri e a \ncastanha-do-pará são alguns exemplos de frutos que (VIII) foram manipulados por eles (IX)”, diz Matheus \nColli-Silva, da USP, responsável pela descoberta. Desenvolvidas há milhares de anos, essas técnicas não \ncomprometiam a estrutura selvagem da Floresta Amazônica. O desmatamento só viria com a ocupação europeia.\n\n<https://tinyurl.com/rrfz6kuu> Acesso em: 13.09.2024. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II se referem ao termo “culinária”."
+        },
+        {
+          "letra": "B",
+          "texto": "II, III e IV se referem ao termo “florestas”."
+        },
+        {
+          "letra": "C",
+          "texto": "IV e V se referem à expressão “variante domesticada”."
+        },
+        {
+          "letra": "D",
+          "texto": "VI e VII se referem, respectivamente, a “frutas” e “pré-colombianos”."
+        },
+        {
+          "letra": "E",
+          "texto": "VIII e IX se referem, respectivamente, a “frutos” e “povos indígenas”."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          22
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q047": {
+      "id": "etec-2025-1-q047",
+      "numero": 47,
+      "enunciado": "Sobre as informações presentes no texto, é correto afirmar que",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões de 46 a 49.\n\nBiotecnologia Indígena\nEntre 5 e 8 mil anos atrás, o cupuaçu estava em desenvolvimento na região do médio-alto Rio Negro. \nFruta hoje muito apreciada na culinária amazônica, ela (I) não surgiu da evolução natural da floresta: \nfoi obra da mão humana. Os indígenas que viviam na região milhares de anos antes da colonização portuguesa \nempregaram técnicas de domesticação de plantas para criá-la (II).\n\nPesquisadores, auxiliados por mateiros – os guias locais da região amazônica –, foram em busca das \nflorestas primárias, aquelas (III) nas quais houve pouca ou nenhuma interferência humana, e constataram que \nnelas (IV) não se encontrava o cupuaçu.\n\nSe o cupuaçu não nascia “naturalmente” em áreas de fraca interferência humana, era razoável supor que \nele (V) seria uma variante domesticada do cupuí, desenvolvida pelos antigos ocupantes da Amazônia.    \n\nComo muitas civilizações antigas, os pré-colombianos se valiam de técnicas elaboradas para cruzar os \nmelhores espécimes vegetais, com a finalidade de obter frutas e grãos aprimorados – é isso (VI) que Charles \nDarwin chamou de “seleção artificial”. Foi assim que, a partir do mirrado cupuí, os indígenas do Rio Negro \ndesenvolveram o cupuaçu, fruta mais gorda.\n\nA análise genética também permitiu datar o processo original de domesticação do cupuaçu em meados do \nHoloceno, época geológica iniciada há cerca de 11 mil anos e na qual (VII) vivemos ainda hoje. Uma segunda \nfase da domesticação se deu mais recentemente, nos últimos dois séculos, quando a fruta se popularizou e foi \nintroduzida em outras regiões.\n\nAntes da colonização, a Amazônia foi um centro de domesticação e modificação de espécies selvagens. \nO cupuaçu, sabemos agora, é mais um entre tantos outros frutos criados a partir de técnicas complexas de \nmanejo e cultivo utilizadas pelos povos indígenas para desenvolver novas plantas. “A mandioca, o bacuri e a \ncastanha-do-pará são alguns exemplos de frutos que (VIII) foram manipulados por eles (IX)”, diz Matheus \nColli-Silva, da USP, responsável pela descoberta. Desenvolvidas há milhares de anos, essas técnicas não \ncomprometiam a estrutura selvagem da Floresta Amazônica. O desmatamento só viria com a ocupação europeia.\n\n<https://tinyurl.com/rrfz6kuu> Acesso em: 13.09.2024. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "houve interferência humana nas florestas primárias, pois os guias locais encontraram tanto cupuaçu  quanto cupuí nessas áreas."
+        },
+        {
+          "letra": "B",
+          "texto": "a interferência esporádica dos povos originários da Amazônia na natureza acarretou o surgimento de novas  espécies, como o cupuí e o cupuaçu."
+        },
+        {
+          "letra": "C",
+          "texto": "houve duas etapas no processo de domesticação do cupuaçu: a primeira, datada entre 5 e 8 mil anos  atrás; a segunda, há cerca de 200 anos."
+        },
+        {
+          "letra": "D",
+          "texto": "as civilizações pré-colombianas se apropriaram dos estudos de Darwin para desenvolver frutas e grãos  mais adaptados ao meio em que se encontravam."
+        },
+        {
+          "letra": "E",
+          "texto": "os povos originários já utilizavam técnicas complexas de manejo agrícola, como a modificação genética e  o desmatamento, para ampliar a produção de alimentos."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          22
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q048": {
+      "id": "etec-2025-1-q048",
+      "numero": 48,
+      "enunciado": "Assinale a alternativa na qual o elemento coesivo em destaque contribui para expressar uma hipótese.",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões de 46 a 49.\n\nBiotecnologia Indígena\nEntre 5 e 8 mil anos atrás, o cupuaçu estava em desenvolvimento na região do médio-alto Rio Negro. \nFruta hoje muito apreciada na culinária amazônica, ela (I) não surgiu da evolução natural da floresta: \nfoi obra da mão humana. Os indígenas que viviam na região milhares de anos antes da colonização portuguesa \nempregaram técnicas de domesticação de plantas para criá-la (II).\n\nPesquisadores, auxiliados por mateiros – os guias locais da região amazônica –, foram em busca das \nflorestas primárias, aquelas (III) nas quais houve pouca ou nenhuma interferência humana, e constataram que \nnelas (IV) não se encontrava o cupuaçu.\n\nSe o cupuaçu não nascia “naturalmente” em áreas de fraca interferência humana, era razoável supor que \nele (V) seria uma variante domesticada do cupuí, desenvolvida pelos antigos ocupantes da Amazônia.    \n\nComo muitas civilizações antigas, os pré-colombianos se valiam de técnicas elaboradas para cruzar os \nmelhores espécimes vegetais, com a finalidade de obter frutas e grãos aprimorados – é isso (VI) que Charles \nDarwin chamou de “seleção artificial”. Foi assim que, a partir do mirrado cupuí, os indígenas do Rio Negro \ndesenvolveram o cupuaçu, fruta mais gorda.\n\nA análise genética também permitiu datar o processo original de domesticação do cupuaçu em meados do \nHoloceno, época geológica iniciada há cerca de 11 mil anos e na qual (VII) vivemos ainda hoje. Uma segunda \nfase da domesticação se deu mais recentemente, nos últimos dois séculos, quando a fruta se popularizou e foi \nintroduzida em outras regiões.\n\nAntes da colonização, a Amazônia foi um centro de domesticação e modificação de espécies selvagens. \nO cupuaçu, sabemos agora, é mais um entre tantos outros frutos criados a partir de técnicas complexas de \nmanejo e cultivo utilizadas pelos povos indígenas para desenvolver novas plantas. “A mandioca, o bacuri e a \ncastanha-do-pará são alguns exemplos de frutos que (VIII) foram manipulados por eles (IX)”, diz Matheus \nColli-Silva, da USP, responsável pela descoberta. Desenvolvidas há milhares de anos, essas técnicas não \ncomprometiam a estrutura selvagem da Floresta Amazônica. O desmatamento só viria com a ocupação europeia.\n\n<https://tinyurl.com/rrfz6kuu> Acesso em: 13.09.2024. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“Entre 5 e 8 mil anos atrás, o cupuaçu estava sendo desenvolvido na região do médio-alto Rio Negro.”"
+        },
+        {
+          "letra": "B",
+          "texto": "“...ela não surgiu da evolução natural da floresta: foi obra da mão humana.”"
+        },
+        {
+          "letra": "C",
+          "texto": "“Os indígenas que viviam na região milhares de anos antes da colonização portuguesa empregaram  técnicas de domesticação de plantas para criá-la.”"
+        },
+        {
+          "letra": "D",
+          "texto": "“Se o cupuaçu não nascia ‘naturalmente’ em áreas de fraca interferência humana, era razoável supor que  ele seria uma variante domesticada do cupuí...”"
+        },
+        {
+          "letra": "E",
+          "texto": "“Antes da colonização, a Amazônia foi um centro de domesticação e modificação de espécies selvagens.”"
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          23
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2025-1-q049": {
+      "id": "etec-2025-1-q049",
+      "numero": 49,
+      "enunciado": "No segundo parágrafo, os travessões em “– os guias locais da região amazônica –” destacam trecho que se  refere aos mateiros, apresentando uma",
+      "textoBase": {
+        "texto": "Leia o texto para responder às questões de 46 a 49.\n\nBiotecnologia Indígena\nEntre 5 e 8 mil anos atrás, o cupuaçu estava em desenvolvimento na região do médio-alto Rio Negro. \nFruta hoje muito apreciada na culinária amazônica, ela (I) não surgiu da evolução natural da floresta: \nfoi obra da mão humana. Os indígenas que viviam na região milhares de anos antes da colonização portuguesa \nempregaram técnicas de domesticação de plantas para criá-la (II).\n\nPesquisadores, auxiliados por mateiros – os guias locais da região amazônica –, foram em busca das \nflorestas primárias, aquelas (III) nas quais houve pouca ou nenhuma interferência humana, e constataram que \nnelas (IV) não se encontrava o cupuaçu.\n\nSe o cupuaçu não nascia “naturalmente” em áreas de fraca interferência humana, era razoável supor que \nele (V) seria uma variante domesticada do cupuí, desenvolvida pelos antigos ocupantes da Amazônia.    \n\nComo muitas civilizações antigas, os pré-colombianos se valiam de técnicas elaboradas para cruzar os \nmelhores espécimes vegetais, com a finalidade de obter frutas e grãos aprimorados – é isso (VI) que Charles \nDarwin chamou de “seleção artificial”. Foi assim que, a partir do mirrado cupuí, os indígenas do Rio Negro \ndesenvolveram o cupuaçu, fruta mais gorda.\n\nA análise genética também permitiu datar o processo original de domesticação do cupuaçu em meados do \nHoloceno, época geológica iniciada há cerca de 11 mil anos e na qual (VII) vivemos ainda hoje. Uma segunda \nfase da domesticação se deu mais recentemente, nos últimos dois séculos, quando a fruta se popularizou e foi \nintroduzida em outras regiões.\n\nAntes da colonização, a Amazônia foi um centro de domesticação e modificação de espécies selvagens. \nO cupuaçu, sabemos agora, é mais um entre tantos outros frutos criados a partir de técnicas complexas de \nmanejo e cultivo utilizadas pelos povos indígenas para desenvolver novas plantas. “A mandioca, o bacuri e a \ncastanha-do-pará são alguns exemplos de frutos que (VIII) foram manipulados por eles (IX)”, diz Matheus \nColli-Silva, da USP, responsável pela descoberta. Desenvolvidas há milhares de anos, essas técnicas não \ncomprometiam a estrutura selvagem da Floresta Amazônica. O desmatamento só viria com a ocupação europeia.\n\n<https://tinyurl.com/rrfz6kuu> Acesso em: 13.09.2024. Adaptado.",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025"
+      },
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contradição."
+        },
+        {
+          "letra": "B",
+          "texto": "explicação."
+        },
+        {
+          "letra": "C",
+          "texto": "retificação."
+        },
+        {
+          "letra": "D",
+          "texto": "enumeração."
+        },
+        {
+          "letra": "E",
+          "texto": "advertência."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "cdae62df4be1aed5edd850f45955d1dd309b4b7ad35ce42be7ca2a6cf3dfdc82",
+        "gabaritoSha256": "4e0c01178868d96af15020d4e01b482b0ef602a9be6795889e20ce549072ecad",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2025",
+        "paginas": [
+          23
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    }
+  }
+}

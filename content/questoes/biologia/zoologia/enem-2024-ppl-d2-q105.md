@@ -13,10 +13,10 @@ tema: "Gráficos de osmorregulação e osmoconformação em invertebrados"
 classificacao_confianca: media
 gabarito: B
 imagem: enem-2024-ppl-d2-q105.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 105 — ENEM 2024](enem-2024-ppl-d2-q105.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 105  
 Animais invertebrados que vivem em regiões de estuário, cujas águas têm grandes  
@@ -35,5 +35,3 @@ A
 E  
 B  
 C
-
-</details>

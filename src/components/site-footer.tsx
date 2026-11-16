@@ -10,7 +10,10 @@ export function SiteFooter() {
             ENEM, vestibulinhos e vestibulares: encontre provas anteriores,
             questões e ferramentas para preparar seu próximo passo.
           </p>
-          <p className="mt-3 text-xs text-n4">Plataforma em construção.</p>
+          <p className="mt-3 text-xs text-n4">
+            Plataforma em construção · © {new Date().getFullYear()} Luiza
+            Nascimento Rosa.
+          </p>
         </div>
         <nav aria-label="Caminhos">
           <h2>Caminhos</h2>
@@ -26,7 +29,9 @@ export function SiteFooter() {
           <Link href="/nota-de-corte/unicamp">Nota de corte Unicamp</Link>
           <Link href="/provas">Acervo de provas</Link>
           <Link href="/treino">Treino gratuito</Link>
-          <Link href="/questoes-gratis">Questões abertas</Link>
+          <Link href="/questoes">Banco de questões</Link>
+          <Link href="/vestibulinho">Vestibulinhos por banca</Link>
+          <Link href="/vestibulares">Vestibulares por banca</Link>
           <Link href="/materiais-gratuitos">Materiais e fontes</Link>
           <Link href="/disciplinas/matematica">Disciplinas</Link>
         </nav>
@@ -39,10 +44,11 @@ export function SiteFooter() {
       </div>
       <div className="gb-footer-bottom">
         <div className="gb-container">
-          © 2026 Luiza Nascimento Rosa · gabaru.com.br · Projeto independente, sem
-          vínculo com as instituições dos exames.
+          © {new Date().getFullYear()} Luiza Nascimento Rosa · gabaru.com.br ·
+          Projeto independente, sem vínculo com as instituições dos exames.
         </div>
       </div>
     </footer>
   );
 }
+

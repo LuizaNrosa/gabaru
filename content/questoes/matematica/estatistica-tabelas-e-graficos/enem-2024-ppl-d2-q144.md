@@ -13,10 +13,10 @@ tema: "Maior média aritmética de frequências em testes de cantores"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2024-ppl-d2-q144.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 144 — ENEM 2024](enem-2024-ppl-d2-q144.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 144  
 Os integrantes de uma banda de rock realizaram um processo seletivo para contratar  
@@ -40,5 +40,3 @@ B II.
 C III.  
 D IV.  
 E V.
-
-</details>

@@ -10,7 +10,7 @@ export const metadata = metaPagina({
 });
 
 export default function AcervoDeProvas() {
-  return <main>
+  return <main id="conteudo-principal" tabIndex={-1}>
     <PageHero eyebrow="Acervo de provas" titulo={<>Encontre sua prova.<br /><mark>Comece a estudar.</mark></>}>
       <p>Busque por instituição, exame ou estado. A disponibilidade de cadernos, gabaritos e correção varia conforme a edição.</p>
     </PageHero>

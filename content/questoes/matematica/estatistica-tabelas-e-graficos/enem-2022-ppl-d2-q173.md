@@ -13,10 +13,10 @@ tema: "Escolher tubo de menor custo em tabela de vazão"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d2-q173.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 173 — ENEM 2022](enem-2022-ppl-d2-q173.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 173  
 Um proprietário precisa comprar tubos para  
@@ -101,5 +101,3 @@ D
 PVC roscável com 25 mm de diâmetro.  
 Polietileno reticulado com 20 mm de diâmetro.  
 E
-
-</details>

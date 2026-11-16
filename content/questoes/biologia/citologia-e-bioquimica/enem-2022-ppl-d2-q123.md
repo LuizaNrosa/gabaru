@@ -14,10 +14,10 @@ classificacao_confianca: media
 gabarito: A
 imagem: enem-2022-ppl-d2-q123.webp
 obs: "rodapé de página indevido (logo enem2022 e 'CN - 2º dia | Caderno 6 - ROSA - 2ª Aplicação') no fim da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 123 — ENEM 2022](enem-2022-ppl-d2-q123.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 123  
 Os fabricantes de bebidas só podem chamar de suco de frutas os produtos que tiverem cerca de 50% de polpa,  
@@ -35,5 +35,3 @@ há maior quantidade de frutose no suco e quantidades iguais de sacarose nos doi
 D  
 E  
 há maior quantidade de frutose no néctar e quantidades iguais de sacarose nos dois produtos.
-
-</details>

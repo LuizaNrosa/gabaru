@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d1-q059.webp
 obs: "imagem com resquício de texto cortado da questão anterior no topo"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 59 — ENEM 2022](enem-2022-ppl-d1-q059.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 59  
 Quando as elites de cada região do país procuraram estabelecer sua  
@@ -37,5 +37,3 @@ B consolidação dos ideais republicanos.
 C promoção da identidade brasileira.  
 D elaboração das leis abolicionistas.  
 E eclosão de revoltas regenciais.
-
-</details>

@@ -12,7 +12,7 @@ export const metadata = metaPagina({
 
 export default function EtecPage() {
   return (
-    <main>
+    <main id="conteudo-principal" tabIndex={-1}>
       <PageHero eyebrow="Vestibulinho ETEC" titulo={<>Faça a prova da ETEC. <mark>Prepare-se para a próxima.</mark></>}>
         <p>O acesso de estudo da ETEC reúne provas anteriores no leitor do Gabaru, com marcação de respostas e correção pelo gabarito oficial.</p>
         <div className="gb-actions">

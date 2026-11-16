@@ -13,10 +13,10 @@ tema: "Perda de memória imunológica após vacinação em cobaias"
 classificacao_confianca: media
 gabarito: C
 imagem: enem-2024-ppl-d2-q099.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 99 — ENEM 2024](enem-2024-ppl-d2-q099.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 99  
 Em um laboratório, pesquisadores tentavam desenvolver uma vacina contra um vírus  
@@ -31,5 +31,3 @@ B Supressão do sistema imune das cobaias.
 C Elevada taxa de mutação dos vírus ativos.  
 D Perda da memória imunológica das cobaias.  
 E Mudança da janela imunológica dos animais testados.
-
-</details>

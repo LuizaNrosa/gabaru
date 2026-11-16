@@ -1,0 +1,8 @@
+{
+  "banca": "ifsp",
+  "edicao": "2026-1-tipo1",
+  "provaSha256": "df148d605407005741d75a32dcc8fa12bade6feea27ecb2b7ef9ab431bbb0965",
+  "gabaritoSha256": "30ea755721c4819b541c99f705dff05956503771be1d64bf9b822a2dd0ef8391",
+  "esperadas": 30,
+  "aceitas": {}
+}

@@ -13,10 +13,10 @@ tema: "Pressão sonora a partir de nível em decibel com logaritmo"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2024-ppl-d2-q178.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 178 — ENEM 2024](enem-2024-ppl-d2-q178.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 178  
 A pressão sonora (P), medida em newton por metro quadrado (N/m 2 ), e o nível dessa  
@@ -33,5 +33,3 @@ B 5 × 10 −2
 C 2 × 10 −1  
 D 1 × 10 3  
 E 2 × 10 9
-
-</details>

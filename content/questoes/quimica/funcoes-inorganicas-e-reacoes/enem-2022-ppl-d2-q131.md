@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d2-q131.webp
 obs: "imagem com texto de outra questão misturado: à direita aparecem figuras das alternativas D e E (Ar/Vidro/Ar) da questão 132 e trecho cortado no topo; rodapé de página indevido"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 131 — ENEM 2022](enem-2022-ppl-d2-q131.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 131  
 Solos ácidos apresentam baixo valor de pH, e o  
@@ -46,5 +46,3 @@ IV.
 D  
 V.  
 E
-
-</details>

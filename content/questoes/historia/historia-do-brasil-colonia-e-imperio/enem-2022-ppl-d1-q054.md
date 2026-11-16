@@ -13,10 +13,10 @@ tema: "Relatos de viajantes e identidade europeia sobre o Brasil"
 classificacao_confianca: media
 gabarito: C
 imagem: enem-2022-ppl-d1-q054.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 54 — ENEM 2022](enem-2022-ppl-d1-q054.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 54  
 A abertura dos portos brasileiros em 1808 inaugurou a possibilidade,  
@@ -40,5 +40,3 @@ D
 analisaram a miscigenação dos grupos raciais, atribuindo um  
 caráter positivo a esse processo.  
 E descreveram a diversidade das etnias indígenas, contribuindo
-
-</details>

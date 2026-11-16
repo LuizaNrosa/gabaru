@@ -13,10 +13,10 @@ tema: "Comparação de modelos explicativos da condição humana"
 classificacao_confianca: media
 gabarito: C
 imagem: enem-2022-ppl-d1-q049.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 49 — ENEM 2022](enem-2022-ppl-d1-q049.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 49  
 TEXTO I  
@@ -39,5 +39,3 @@ A estéticos e éticos.
 B místicos e científicos.  
 C culturais e biológicos.  
 D emocionais e racionais.
-
-</details>

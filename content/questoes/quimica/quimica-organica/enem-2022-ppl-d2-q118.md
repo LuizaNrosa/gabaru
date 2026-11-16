@@ -13,10 +13,10 @@ tema: "Solubilização do timol em NaOH por formação de sal orgânico"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d2-q118.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 118 — ENEM 2022](enem-2022-ppl-d2-q118.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 118  
 O timol é encontrado em óleos essenciais de ervas  
@@ -35,5 +35,3 @@ D formação de ligações de hidrogênio entre a hidroxila
 fenólica do timol e os íons hidróxido.  
 E aumento da polaridade do solvente mediante a  
 dissolução do hidróxido de sódio na água.
-
-</details>

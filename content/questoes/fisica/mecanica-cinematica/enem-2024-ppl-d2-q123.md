@@ -13,10 +13,10 @@ tema: "Tempo de queda livre de corpos de massas diferentes"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2024-ppl-d2-q123.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 123 — ENEM 2024](enem-2024-ppl-d2-q123.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 123  
 Um experimento foi montado com o intuito de determinar o tempo de queda livre de  
@@ -30,5 +30,3 @@ B t 1 > t 2 > t 3 .
 C t 1 < t 2 < t 3 .  
 D t 1 > t 2 < t 3 .  
 E t 1 < t 2 > t 3 .
-
-</details>

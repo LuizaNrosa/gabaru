@@ -1,0 +1,3 @@
+import { gzipSync } from 'node:zlib';
+import { sitemapNames,sitemapXml,type SitemapName } from '@/lib/seo/sitemaps';
+export async function GET(_req:Request,{params}:{params:Promise<{tipo:string;parte:string}>}){const {tipo,parte}=await params;const name=`sitemap-${tipo}.xml` as SitemapName;const m=/^([1-9]\d*)\.xml(\.gz)?$/.exec(parte);if(!m||!sitemapNames.includes(name))return new Response('Não encontrado',{status:404});try{const xml=await sitemapXml(name,Number(m[1]));return new Response(m[2]?new Uint8Array(gzipSync(xml)):xml,{headers:{'Content-Type':'application/xml; charset=utf-8',...(m[2]?{'Content-Encoding':'gzip'}:{})}});}catch{return new Response('Parte não encontrada',{status:404});}}

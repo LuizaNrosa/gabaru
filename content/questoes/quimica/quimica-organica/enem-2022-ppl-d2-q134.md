@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d2-q134.webp
 obs: "rodapé de página indevido (logo enem2022 e 'CN - 2º dia') no fim da imagem"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 134 — ENEM 2022](enem-2022-ppl-d2-q134.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 134  
 A primeira relação entre câncer e produtos de  
@@ -48,5 +48,3 @@ D
 substituição.  
 hidrogenação.  
 E
-
-</details>

@@ -1,0 +1,715 @@
+{
+  "banca": "etec",
+  "edicao": "2023-2",
+  "provaSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+  "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+  "esperadas": 50,
+  "aceitas": {
+    "etec-2023-2-q004": {
+      "id": "etec-2023-2-q004",
+      "numero": 4,
+      "enunciado": "O encontro que, segundo o texto, gerou a cultura caipira ocorreu devido",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "às diferentes ondas migratórias que, das regiões norte e centro-oeste, trouxeram novos artistas e instrumentos, promovendo grande miscigenação cultural no início do século XX."
+        },
+        {
+          "letra": "B",
+          "texto": "à atuação dos bandeirantes, que realizavam expedições ao interior para escravizar populações indígenas e procurar metais preciosos no período colonial."
+        },
+        {
+          "letra": "C",
+          "texto": "ao dialeto falado pelos portugueses da corte que, quando chegaram ao Brasil, desenvolveram uma linguagem própria, traduzida no ritmo sofisticado da viola caipira."
+        },
+        {
+          "letra": "D",
+          "texto": "ao processo de industrialização, na década de 1960, em que a viola caipira virou símbolo de modernidade e foi adotada pelos membros da burguesia."
+        },
+        {
+          "letra": "E",
+          "texto": "ao uso que os bandeirantes deram ao instrumento trazido ao Brasil pelos negros escravizados no continente africano, no início do século XVI."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          3
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q010": {
+      "id": "etec-2023-2-q010",
+      "numero": 10,
+      "enunciado": "O culto a Nossa Senhora Aparecida começou em outubro de 1717, na cidade de Guaratinguetá, no Vale do  Paraíba paulista. Foi no rio Paraíba do Sul que a santa apareceu, primeiro o corpo, depois a cabeça, nas  redes de pescadores locais. Na segunda metade do século XIX, a princesa Isabel, uma de suas devotas  mais famosas, mandou confeccionar  uma coroa de ouro e um manto de veludo azul escuro, bordado  com vinte e um brilhantes que representavam a capital e as vinte províncias do Império. Nossa Senhora  Aparecida foi proclamada padroeira do Brasil em 1930, após um decreto do papa Pio XI. Em 1980, o dia  12 de outubro passou a ser feriado oficial no Brasil. Conforme as informações do texto, é correto afirmar que a devoção a Nossa Senhora Aparecida",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "foi trazida ao país pela princesa Isabel, herdeira da família imperial, que presenteou a santa com uma coroa de ouro e um manto de veludo azul escuro."
+        },
+        {
+          "letra": "B",
+          "texto": "marca a divisão de classes presente na sociedade brasileira na medida em que está restrita aos representantes das classes baixas."
+        },
+        {
+          "letra": "C",
+          "texto": "foi imposta pelos poderes político e religioso, por meio de decretos papais e projetos de lei, embora não tivesse apelo popular."
+        },
+        {
+          "letra": "D",
+          "texto": "é um fenômeno inexpressivo na história do Brasil, tendo sido ignorada pelas autoridades desde o período colonial."
+        },
+        {
+          "letra": "E",
+          "texto": "iniciou-se no Brasil colônia, atravessou o período imperial e se manteve viva na República."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          5
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q011": {
+      "id": "etec-2023-2-q011",
+      "numero": 11,
+      "enunciado": "Segundo a Resolução nº 001/86 do Conselho  Nacional do Meio Ambiente (CONAMA), impacto  ambiental é qualquer alteração das propriedades  físicas, químicas e biológicas do meio ambiente,  causada por qualquer forma de matéria ou  energia resultante das atividades humanas que  afetem diretamente ou indiretamente: a saúde,  a segurança, e o bem-estar da população; as  atividades sociais e econômicas; a biota; as  condições estéticas e sanitárias ambientais; e  a qualidade dos recursos ambientais. Esses  impactos podem ser positivos ou não. Assinale a alternativa que apresenta ações que  impactam positivamente o meio ambiente.",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A  recuperação de áreas degradadas e o esgotamento dos recursos naturais."
+        },
+        {
+          "letra": "B",
+          "texto": "A destruição da camada de ozônio e a utilização de energia eólica."
+        },
+        {
+          "letra": "C",
+          "texto": "A utilização de produtos biodegradáveis e a reciclagem de materiais."
+        },
+        {
+          "letra": "D",
+          "texto": "A potencialização do efeito estufa e a modificação de habitat."
+        },
+        {
+          "letra": "E",
+          "texto": "A diminuição de mananciais e a extinção de <https://tinyurl.com/39su978z> Acesso em: 18.03.2023. espécies."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          5
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q013": {
+      "id": "etec-2023-2-q013",
+      "numero": 13,
+      "enunciado": "A  Companhia Ambiental do Estado de São Paulo  (CETESB) é   a agência do Governo do Estado  responsável pelo controle, pela fiscalização, pelo  monitoramento e pelo licenciamento de atividades  geradoras de poluição.  Em relação à qualidade do ar, há monitoramento  automático para a avaliação de SO2, de material  particulado inalável (MP10), de ozônio (O3), de  óxidos de nitrogênio (NO e NO2    – NOx), de  monóxido de carbono (CO) e de hidrocarbonetos  não-metânicos (NMHC); além disso, monitoram- se os parâmetros meteorológicos, como direção e  velocidade do vento, temperatura e umidade relativa  do ar. <https://tinyurl.com/496kkmmb> Acesso em: 01.03.23. Adaptado. Entre as substâncias monitoradas pela CETESB,  temos o",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "SO2, formado por átomos de 3 elementos químicos."
+        },
+        {
+          "letra": "B",
+          "texto": "O3, formado por 3 átomos de 1 elemento químico."
+        },
+        {
+          "letra": "C",
+          "texto": "NO2, formado por átomos de 3 elementos químicos."
+        },
+        {
+          "letra": "D",
+          "texto": "NO e o NO2, que diferem por 1 elemento químico."
+        },
+        {
+          "letra": "E",
+          "texto": "CO, que, diferentemente do CO2, é formado por 2  elementos químicos."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          6
+        ],
+        "colunas": 2,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q017": {
+      "id": "etec-2023-2-q017",
+      "numero": 17,
+      "enunciado": "O litoral de São Paulo possui cerca de  880 km de extensão de linha de costa e abrange  16 municípios. Ele é banhado pelo Oceano  Atlântico, cuja água apresenta densidade média  de 1,03 g/cm3. <https://tinyurl.com/bdhu88jp> Acesso em: 28.02.23. Adaptado. Considere que densidade (d) é a razão entre  a massa (m) e o volume (V) de uma amostra:                . V m d Quando coletarmos 1 kg de água do Oceano  Atlântico,  necessitaremos  de  um  recipiente  cujo volume mínimo, em cm3, deverá ser  aproximadamente de",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 030,0."
+        },
+        {
+          "letra": "B",
+          "texto": "103,0."
+        },
+        {
+          "letra": "C",
+          "texto": "350,0."
+        },
+        {
+          "letra": "D",
+          "texto": "970,9."
+        },
+        {
+          "letra": "E",
+          "texto": "97,0."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          8
+        ],
+        "colunas": 2,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q018": {
+      "id": "etec-2023-2-q018",
+      "numero": 18,
+      "enunciado": "O cloreto de sódio é o sal mais abundante nas  águas do Oceano Atlântico, que também contém  cloreto de potássio e cloreto de magnésio. <https://tinyurl.com/udtxz52v> Acesso em: 28.02.23. Adaptado. Os sais são formados por cátions (íons positivos)  e  ânions (íons negativos). Saiba que as representações dos íons presentes  nos sais citados no texto são: Cátions: Na+, K+ e Mg2+ Ânion: Cl– Assinale a alternativa que apresenta a fórmula  correta para os sais presentes no texto.",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "NaCl,   KCl,   MgCl"
+        },
+        {
+          "letra": "B",
+          "texto": "NaCl,   KCl,   MgCl2"
+        },
+        {
+          "letra": "C",
+          "texto": "NaCl,   KCl,   Mg2Cl"
+        },
+        {
+          "letra": "D",
+          "texto": "ClNa,   ClK,   Cl2Mg"
+        },
+        {
+          "letra": "E",
+          "texto": "ClNa,   ClK,   ClMg 8     \t VESTIBULINHO 2o semestre | 2023     •"
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          8
+        ],
+        "colunas": 2,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q024": {
+      "id": "etec-2023-2-q024",
+      "numero": 24,
+      "enunciado": "O processo convencional de tratamento de água é dividido em fases que contam com um rígido controle  de dosagem de produtos químicos e com o acompanhamento dos padrões de qualidade. Uma dessas fases é a Floculação, que serve para provocar a formação de flocos aglutinando as  partículas de sujeira. Essa fase é seguida pela Decantação, em que a água passa por grandes tanques  para separar os flocos de sujeira formados na etapa anterior. <https://tinyurl.com/ycfrmbt5> Acesso em: 28.02.23. Adaptado. Nessa última etapa, os flocos de sujeira são separados usando uma propriedade específica da matéria  denominada",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ponto de fusão, pois os flocos são fundidos e retirados quando se depositam no fundo dos tanques."
+        },
+        {
+          "letra": "B",
+          "texto": "ponto de fusão, pois os flocos formam vapores que serão eliminados no ar."
+        },
+        {
+          "letra": "C",
+          "texto": "solubilidade, pois os flocos são dissolvidos e separados na filtração."
+        },
+        {
+          "letra": "D",
+          "texto": "solubilidade, pois os flocos formados irão para a superfície dos tanques e serão retirados com peneiras."
+        },
+        {
+          "letra": "E",
+          "texto": "densidade, pois os flocos formados irão para o fundo dos tanques e serão aspirados lentamente. 10     \t VESTIBULINHO 2o semestre | 2023     •"
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          10
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q025": {
+      "id": "etec-2023-2-q025",
+      "numero": 25,
+      "enunciado": "Toda vez que nos alimentamos, resíduos  ficam depositados em nossos dentes e, se a  higienização não for realizada corretamente, o  ambiente bucal fica propício à proliferação de  bactérias e à formação de placas bacterianas.   As bactérias degradam os carboidratos dos  alimentos,  elas  produzem  ácidos  que  desmineralizam o esmalte dos dentes, dando  origem as cáries. Para prevenir as cáries, adiciona-se o flúor à  água potável distribuída à população, essa prática  é chamada de fluoretação e é uma importante  medida de saúde pública. Isso ocorre, pois o flúor se une ao cálcio e ao  fosfato, naturalmente presentes no esmalte dos  dentes, criando um material resistente que ajuda a  prevenir as cáries. A partir da leitura do texto, podemos concluir  corretamente que",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a higiene bucal, quando realizada com eficiência diariamente, ocasiona um elevado  índice de proliferação de bactérias e de  formação de placas bacterianas."
+        },
+        {
+          "letra": "B",
+          "texto": "a ação de bactérias na degradação dos carboidratos aumenta a acidez bucal, que é  fundamental para o processo de proteção e  de mineralização dos dentes."
+        },
+        {
+          "letra": "C",
+          "texto": "o flúor, adicionado à água potável, atua na digestão dos resíduos alimentares que ficam  na cavidade bucal quando a higienização  não é realizada corretamente."
+        },
+        {
+          "letra": "D",
+          "texto": "a  fluoretação  da  água  aumenta  a  desmineralização do esmalte dos dentes,  reduzindo o aparecimento de cáries, por isso  é um processo importante na saúde bucal."
+        },
+        {
+          "letra": "E",
+          "texto": "o flúor é usado na prevenção de cáries, pois fortalece o esmalte dos dentes, formando um  material resistente à acidez decorrente da  ação de bactérias."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          11
+        ],
+        "colunas": 2,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q028": {
+      "id": "etec-2023-2-q028",
+      "numero": 28,
+      "enunciado": "No site Inova Educação, do estado de São Paulo, encontramos este infográfico. <https://tinyurl.com/y2zk2fsr> Acesso em: 26.02.23. Original colorido. Adaptado. De acordo com o infográfico, assinale a alternativa que apresenta, corretamente, uma atividade relacionada  à pergunta “Como ser um cidadão mais participativo?”.",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Trabalhar com carteira assinada como atendente em uma pizzaria."
+        },
+        {
+          "letra": "B",
+          "texto": "Produzir lanches saudáveis para vender na escola."
+        },
+        {
+          "letra": "C",
+          "texto": "Ser estagiário remunerado em uma empresa de distribuição de alimentos."
+        },
+        {
+          "letra": "D",
+          "texto": "Visitar e conversar com pacientes internados em hospitais."
+        },
+        {
+          "letra": "E",
+          "texto": "Atuar profissionalmente na elaboração de jogos on-line. 12     \t VESTIBULINHO 2o semestre | 2023     •"
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          12
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q033": {
+      "id": "etec-2023-2-q033",
+      "numero": 33,
+      "enunciado": "No estado de São Paulo, durante a segunda metade do século XIX, grandes ferrovias foram construídas.  O principal motivo desse empreendimento foi o escoamento da produção do café até às proximidades do  porto de Santos. Atualmente, um dos principais produtos exportados pelo porto de Santos é",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "semicondutor."
+        },
+        {
+          "letra": "B",
+          "texto": "óleo de palma."
+        },
+        {
+          "letra": "C",
+          "texto": "fertilizante."
+        },
+        {
+          "letra": "D",
+          "texto": "trigo."
+        },
+        {
+          "letra": "E",
+          "texto": "soja."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          14
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q034": {
+      "id": "etec-2023-2-q034",
+      "numero": 34,
+      "enunciado": "Em 1904, a Companhia Paulista de Estradas de Ferro demonstrou interesse em continuar com seus  trilhos pela zona da futura Alta Paulista. Adolpho Pinto, engenheiro da Companhia, determinou o  nome das futuras estações ao longo da linha. Por se tratar de uma linha nova, o engenheiro pode  dar uma nomenclatura especial para as futuras estações, com as iniciais dos nomes formando um  abecedário. Cada um dos nomes recordaria vários acontecimentos históricos que marcaram o estado  de São Paulo. Seguindo essa lógica, os nomes escolhidos por Adolpho Pinto para o Abecedário  da Paulista foram: América, Brasília, Cabrália, Duartina, Esmeraldas, Fernandina, Gália, Hespéria,  Italina, Jafa, Kobe, Lácio, Marília, Nipônica, Ormuz, Pompeia, Tupã e Universo. Referências  históricas presentes nos nomes fazem menção à localização geográfica do país (América Latina)  e às correntes imigratórias vindas de países como Itália e Japão. Muitos desses nomes foram  posteriormente mudados, mas a companhia empenhou-se em manter a ideia do abecedário. CAMPOS, C.; INOUE, L. M. “A Ferrovia e a Ocupação do Sertão Paulista: A companhia Paulista e sua Linha Tronco Oeste”. Projeto  História: Revista do Programa de Estudos Pós-Graduados de História, [S. l.], v. 69, 2020. DOI: 10.23925/2176-2767.2020v69p172-203. <https://tinyurl.com/mry5hu2t>  Acesso em: 16.03.2023. Adaptado. 14     \t VESTIBULINHO 2o semestre | 2023     • Com base no texto, é correto afirmar que",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as outras ferrovias paulistas nomeavam suas estações seguindo um padrão estabelecido pelo governo federal desde 1808."
+        },
+        {
+          "letra": "B",
+          "texto": "as outras ferrovias paulistas copiaram o modelo abecedário da Companhia Paulista de Estradas de Ferro, utilizado por esta desde o século XVII."
+        },
+        {
+          "letra": "C",
+          "texto": "a estação Nipônica foi assim nomeada como uma homenagem aos imigrantes japoneses que vieram ao Brasil no século XIX para participar da construção de ferrovias."
+        },
+        {
+          "letra": "D",
+          "texto": "o nome de cada estação da linha citada estava ligado tanto a eventos históricos vinculados ao estado de São Paulo quanto a correntes imigratórias e à localização geográfica."
+        },
+        {
+          "letra": "E",
+          "texto": "o nome das estações coincide com o nome das cidades que se formaram ao seu redor, pois elas  mantiveram suas denominações e, portanto, não houve trocas de nomes até os dias de hoje."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          14,
+          15
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q040": {
+      "id": "etec-2023-2-q040",
+      "numero": 40,
+      "enunciado": "O Jardim Botânico de São Paulo é uma importante área de conservação ambiental e de pesquisa científica.  Ele possui atrações como o museu botânico, as estufas de plantas, o orquidário e outros espaços de  visitação. Nestes espaços, há não só diferentes  tipos de palmeiras, ciprestes,  pinheiros, árvores de  madeiras nobres, plantas ameaçadas de extinção e árvores frutíferas, mas também várias espécies de  animais, como os bichos-preguiça e os bugios. Entre os espaços de visitação, destacam-se: •\t Lago das Ninfeias  —  onde há não apenas ninfeias, plantas aquáticas que apresentam flores de  várias cores, mas também borboletas, libélulas, peixes, aves e tartarugas;  •\t Bosque das Imbuias —  lugar dedicado às imbuias, que, atualmente, estão em perigo de extinção  devido à exploração de sua madeira para fabricação de móveis; e •\t Bosque do Pau-Brasil —  em que se pode ver essa espécie típica da Mata Atlântica, o pau-brasil, que  pode alcançar até 30 metros de altura e que também está ameaçado de extinção. Considerando os seres vivos citados no texto , podemos afirmar que",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as borboletas e as libélulas liberam pela respiração o gás oxigênio, o qual é fundamental para a sobrevivência das ninfeias."
+        },
+        {
+          "letra": "B",
+          "texto": "os ciprestes e os pinheiros são plantas conhecidas como gimnospermas, pois formam sementes não envolvidas por frutos."
+        },
+        {
+          "letra": "C",
+          "texto": "todos os vegetais descritos nos espaços de visitação são aclorofilados, portanto incapazes de realizar fotossíntese e de produzir seu próprio alimento."
+        },
+        {
+          "letra": "D",
+          "texto": "as espécies pau-brasil e imbuia são plantas arbustivas, de dois a seis metros de altura,  que estão ameaçadas de extinção, pois não possuem vasos condutores de seiva."
+        },
+        {
+          "letra": "E",
+          "texto": "a presença de bichos-preguiça e bugios no Jardim Botânico é prejudicial ao equilíbrio do ecossistema, pois são carnívoros e competem entre si pelo alimento escasso."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          18
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q041": {
+      "id": "etec-2023-2-q041",
+      "numero": 41,
+      "enunciado": "A Figueira das Lágrimas é a árvore mais antiga do município de São Paulo e já foi passagem de mercadores,  soldados, viajantes e até do Imperador D. Pedro I. Mães chorosas, pais apreensivos e esposas angustiadas encostavam no tronco dessa figueira para ver  seus filhos e maridos viajarem rumo à Guerra do Paraguai (1865-1870). A árvore, cuja idade é mais antiga que a própria história da Independência do Brasil, está em uma área de  100 m² na Praça Figueira das Lágrimas. Em 2019, suas raízes foram objeto de análise pelo Instituto de  Pesquisas Tecnológicas. A árvore pode ter entre 360 e 400 anos. A figueira chegou a correr riscos, como quando o dono do terreno quis derrubá-la, em 1909; a mobilização  da imprensa conseguiu impedir essa tragédia. Em 1920, o então prefeito Firmiano Pinto mandou construir  uma mureta com grades ao redor da figueira para protegê-la. No dia da Árvore de 1952, a Sociedade  Geográfica Brasileira produziu uma placa de bronze; nos anos 1980, ela foi considerada patrimônio  ambiental e declarada imune de corte por iniciativa da Secretaria de Estado do Meio Ambiente. Nas proximidades dessa figueira, está a Estrada das Lágrimas, assim batizada em homenagem à árvore. <https://tinyurl.com/3p7zchde> Acesso em: 14.03.2023. Adaptado. 18     \t VESTIBULINHO 2o semestre | 2023     • De acordo com o texto, é correto afirmar que",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "essa árvore nasceu no século XX, de acordo com o Instituto de Pesquisas Tecnológicas."
+        },
+        {
+          "letra": "B",
+          "texto": "o prefeito Firmiano Pinto resolveu cortar essa árvore em 1909, mas foi impedido pela imprensa paulista."
+        },
+        {
+          "letra": "C",
+          "texto": "Dom Pedro I se dirigia a essa árvore para chorar e lamentar a ida de milhares de paulistas para lutarem na Guerra do Paraguai."
+        },
+        {
+          "letra": "D",
+          "texto": "essa árvore foi trazida do Paraguai durante a Guerra para servir de apoio psicológico para as mães que tinham perdido seus filhos no conflito."
+        },
+        {
+          "letra": "E",
+          "texto": "a árvore, que dá nome a uma estrada localizada no município de São Paulo, está protegida, hoje em dia, pelo poder público, que proíbe seu corte."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          18,
+          19
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q042": {
+      "id": "etec-2023-2-q042",
+      "numero": 42,
+      "enunciado": "Em 2022, alguns fósseis de dinossauro foram encontrados por acaso durante as obras de duplicação  da rodovia BR-153, em Mirassol, no interior de São Paulo. Os paleontólogos identificaram esses fósseis como sendo um fragmento de fêmur, um úmero, uma  vértebra caudal e um dente, provavelmente partes pertencentes ao grupo de Titanossauros Saurópodes. Esses animais eram quadrúpedes, de pescoço longo e herbívoros. Eles viveram no período Cretáceo,  o período final da “Era dos dinossauros”, há 80 milhões de anos, teriam aproximadamente de  12 a 15 metros de comprimento, e massa entre 10 e 15 toneladas. <https://tinyurl.com/5bsxkp3x> Acesso em: 04.03.2023. Adaptado. A descoberta descrita no texto evidencia corretamente que",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as espécies existentes há milhões de anos eram iguais às atuais."
+        },
+        {
+          "letra": "B",
+          "texto": "os seres vivos se transformam em fósseis quando são totalmente decompostos após sua morte."
+        },
+        {
+          "letra": "C",
+          "texto": "as partes duras dos animais, como  dentes, ossos, vértebras e carapaças, não são passíveis de fossilização."
+        },
+        {
+          "letra": "D",
+          "texto": "os registros paleontológicos revelam informações as quais permitem os estudos sobre seres vivos de determinadas épocas."
+        },
+        {
+          "letra": "E",
+          "texto": "as partes moles dos animais e dos vegetais são rapidamente fossilizadas devido à presença de bactérias e fungos decompositores."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          19
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q043": {
+      "id": "etec-2023-2-q043",
+      "numero": 43,
+      "enunciado": "O estado de São Paulo possui diversos pontos turísticos,  sendo alguns exemplos de possíveis destinos: Um turista pretende visitar três dos destinos  listados, sendo que sua primeira parada será  o Museu do Café, e os outros dois destinos  serão escolhidos de forma aleatória. •   a Igreja Matriz de Santa Ana, em Santana do Parnaíba; •   a Capela das Mercês, em São Luiz do Paraitinga;                 •   a Estação Ferroviária, em Paranapiacaba;       •   o Museu Frei Galvão, em Guaratinguetá;    •   a Cachoeira Salto Botelho, em Lucélia;    •   a Fazenda Vila Rica, em Itatiba; e •   o Museu do Café, em Santos. O número máximo de roteiros diferentes,  levando em conta a ordem de visitação aos  pontos turísticos, corresponde a",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15."
+        },
+        {
+          "letra": "B",
+          "texto": "30."
+        },
+        {
+          "letra": "C",
+          "texto": "36."
+        },
+        {
+          "letra": "D",
+          "texto": "42."
+        },
+        {
+          "letra": "E",
+          "texto": "210. 19  \t VESTIBULINHO 2o semestre | 2023     •"
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          19
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2023-2-q046": {
+      "id": "etec-2023-2-q046",
+      "numero": 46,
+      "enunciado": "As estâncias hidrominerais possuem fontes de águas minerais, com cachoeiras e rios, sendo uma opção  de passeio no estado de São Paulo. Na região centro-oeste do estado, fica Águas de Santa Bárbara e, perto de Minas Gerais, Águas da  Prata. No Parque Estadual de Águas da Prata, a água é tida como a mais radioativa das Américas. Essa  radiação, contudo, não faz mal, já que possui propriedades medicinais. <https://tinyurl.com/8pctdtht> Acesso em: 01.03.23. Adaptado. O produto dessas fontes, a água mineral, é um exemplo de",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "substância composta."
+        },
+        {
+          "letra": "B",
+          "texto": "substância simples."
+        },
+        {
+          "letra": "C",
+          "texto": "substância pura."
+        },
+        {
+          "letra": "D",
+          "texto": "mistura destilada."
+        },
+        {
+          "letra": "E",
+          "texto": "mistura."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+        "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2023",
+        "paginas": [
+          21
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    }
+  }
+}

@@ -13,10 +13,10 @@ tema: "Unidade de medida da resolução de imagem em pixels"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2024-ppl-d2-q170.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 170 — ENEM 2024](enem-2024-ppl-d2-q170.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 170  
 Uma pessoa ampliou uma foto no computador e, ao imprimi-la, verificou que a qualidade  
@@ -37,5 +37,3 @@ cm
 pixel  
 E  
 cm 2
-
-</details>

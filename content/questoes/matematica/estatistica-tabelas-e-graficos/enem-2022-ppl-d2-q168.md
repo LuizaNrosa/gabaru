@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d2-q168.webp
 obs: "Branco enorme abaixo da questão"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 168 — ENEM 2022](enem-2022-ppl-d2-q168.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 168  
 Descargas atmosféricas, objetos estranhos e  
@@ -53,5 +53,3 @@ C
 D  
 E  
 10 e 2,4.
-
-</details>

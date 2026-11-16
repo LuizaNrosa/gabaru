@@ -13,10 +13,10 @@ tema: "Origem de Papai Noel, tradição religiosa e publicidade"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q068.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 68 — ENEM 2022](enem-2022-ppl-d1-q068.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 68  
 São Nicolau, bispo de Mira, viveu no século IV e ficou conhecido  
@@ -37,5 +37,3 @@ B histórica e midiática.
 C botânica e universal.  
 D científica e astrológica.  
 E etnográfica e astronômica.
-
-</details>

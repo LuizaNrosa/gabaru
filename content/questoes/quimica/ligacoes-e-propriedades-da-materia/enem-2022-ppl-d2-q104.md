@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d2-q104.webp
 obs: "rodapé de página indevido (início de 'CN - 2º dia | Caderno' no fim da imagem)"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 104 — ENEM 2022](enem-2022-ppl-d2-q104.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 104  
 Um dos materiais mais antigos e ainda utilizados na  
@@ -37,5 +37,3 @@ produtos de oxidação.
 D  
 E  
 compostos covalentes.
-
-</details>

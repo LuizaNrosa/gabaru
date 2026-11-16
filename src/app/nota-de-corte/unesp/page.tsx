@@ -10,7 +10,7 @@ export const metadata: Metadata = metaPagina({
 });
 
 export default function NotaDeCorteUnesp() {
-  return <main className="gb-container py-10">
+  return <main id="conteudo-principal" tabIndex={-1} className="gb-container py-10">
     <p className="gb-eyebrow">NOTA DE CORTE · UNESP 2026</p>
     <h1 className="gb-page-title">Quantos acertos para a <mark>segunda fase da Unesp?</mark></h1>
     <p className="mt-5 max-w-2xl text-lg leading-relaxed text-n5">Escolha seu curso, cidade e modalidade. Compare seus acertos com os números mínimos publicados pela Unesp para a convocação da segunda fase de 2026.</p>

@@ -122,13 +122,13 @@ export function NotaCorteColuniTool() {
   const piso = modalidade.piso;
   const fronteira = modalidade.fronteiraEspera;
 
-  const zona = useMemo(() => {
+  const zona = (() => {
     if (corte == null) return null;
     if (nota >= corte) return "convocacao" as const;
     if (piso && nota >= piso.nota) return "chamadas" as const;
     if (fronteira != null && nota > fronteira) return "espera" as const;
     return "abaixo" as const;
-  }, [nota, corte, piso, fronteira]);
+  })();
 
   const aoMudarEdicao = (v: string) => {
     const nova = edicoes.find((e) => e.edicao === Number(v));

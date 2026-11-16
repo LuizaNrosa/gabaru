@@ -13,10 +13,10 @@ tema: "Intensificação do trabalho no corte de cana e produtividade"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2022-ppl-d1-q088.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 88 — ENEM 2022](enem-2022-ppl-d1-q088.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 88  
 Há quinze anos, a média de cana cortada era de seis toneladas por  
@@ -36,5 +36,3 @@ B incremento da oferta de emprego.
 C demanda de elevada qualificação.  
 D exigência crescente de produtividade.  
 E aperfeiçoamento do marco normativo.
-
-</details>

@@ -13,10 +13,10 @@ tema: "Inibição da transcriptase reversa do HIV"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2024-ppl-d2-q117.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 117 — ENEM 2024](enem-2024-ppl-d2-q117.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 117  
 A agência norte-americana que regula medicamentos (FDA) aprovou um fármaco  
@@ -36,5 +36,3 @@ D dificulta a duplicação do DNA celular, com a formação de duas novas fitas 
 DNA viral.  
 E controla a formação de moléculas de RNA transportadoras, que impedem a formação  
 de novos vírus.
-
-</details>

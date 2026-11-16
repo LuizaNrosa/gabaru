@@ -13,10 +13,10 @@ tema: "Maquiavel e flexibilidade moral na conservação do poder"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q069.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 69 — ENEM 2022](enem-2022-ppl-d1-q069.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 69  
 A um príncipe, portanto, não é necessário ter de fato todas as  
@@ -32,5 +32,3 @@ A flexibilidade moral do monarca.
 B retomada dos valores cristãos.  
 C consulta periódica dos cidadãos.  
 D adoção do imperativo categórico.
-
-</details>

@@ -13,10 +13,10 @@ tema: "Leitura de curvas de igual audibilidade em gráfico"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2024-ppl-d2-q098.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 98 — ENEM 2024](enem-2024-ppl-d2-q098.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 98  
 O ouvido humano apresenta algumas características interessantes. Uma delas é que  
@@ -36,5 +36,3 @@ B 0.
 C 30.  
 D 40.  
 E 4 000.
-
-</details>

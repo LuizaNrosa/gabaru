@@ -1,0 +1,5 @@
+{"route":"/","status":200,"htmlhint":0,"axeSeriousCritical":0,"axeOther":0,"h1":1,"main":1,"mobileOverflow":false,"schemas":2,"errors":[],"violations":[]}
+{"route":"/banca/etec","status":200,"htmlhint":0,"axeSeriousCritical":0,"axeOther":0,"h1":1,"main":1,"mobileOverflow":false,"schemas":3,"errors":[],"violations":[]}
+{"route":"/provas/etec/2026-2","status":200,"htmlhint":0,"axeSeriousCritical":0,"axeOther":0,"h1":1,"main":1,"mobileOverflow":false,"schemas":4,"errors":[],"violations":[]}
+{"route":"/questoes/enem-2025-d2-q167","status":200,"htmlhint":0,"axeSeriousCritical":0,"axeOther":0,"h1":1,"main":1,"mobileOverflow":false,"schemas":3,"errors":[],"violations":[]}
+{"route":"/questoes","status":200,"htmlhint":0,"axeSeriousCritical":0,"axeOther":0,"h1":1,"main":1,"mobileOverflow":false,"schemas":2,"errors":[],"violations":[]}

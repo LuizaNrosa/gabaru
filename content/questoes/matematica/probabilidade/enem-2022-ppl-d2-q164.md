@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d2-q164.webp
 obs: "Rodapé da página (ROSA - 2ª Aplicação) incluído no recorte"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 164 — ENEM 2022](enem-2022-ppl-d2-q164.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 164  
 Sete países americanos, Argentina, Brasil, Canadá,  
@@ -48,5 +48,3 @@ D
 16  
 E  
 49
-
-</details>

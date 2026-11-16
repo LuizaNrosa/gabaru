@@ -13,10 +13,10 @@ tema: "Contrapoder dos movimentos sociais em Castells"
 classificacao_confianca: media
 gabarito: A
 imagem: enem-2022-ppl-d1-q087.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 87 — ENEM 2022](enem-2022-ppl-d1-q087.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 87  
 Ao longo da história, os movimentos sociais são produtores de  
@@ -32,5 +32,3 @@ B rejeição de dissidências morais.
 C negação de estratégias coletivas.  
 D promoção de descrenças axiológicas.  
 E incorporação de convenções estatais.
-
-</details>

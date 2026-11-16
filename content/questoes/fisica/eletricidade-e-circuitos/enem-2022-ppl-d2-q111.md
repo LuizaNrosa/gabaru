@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d2-q111.webp
 obs: "rodapé de página indevido no fim da imagem, faixa de código de barras na margem esquerda e região em branco"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 111 — ENEM 2022](enem-2022-ppl-d2-q111.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 111  
 Carregadores elétricos são projetados para  
@@ -43,5 +43,3 @@ B
 C 4.  
 D 6.  
 E 8.
-
-</details>

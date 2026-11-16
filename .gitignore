@@ -11,3 +11,8 @@ next-env.d.ts
 .vercel
 .DS_Store
 __pycache__/
+
+# Local browser evidence, test reports and intermediate files
+/work/
+/test-results/
+/playwright-report/

@@ -14,13 +14,13 @@ classificacao_confianca: alta
 gabarito: E
 imagem: enem-2022-ppl-d2-q174.webp
 obs: "Branco enorme abaixo da questão"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 174 — ENEM 2022](enem-2022-ppl-d2-q174.webp)
 
-<details><summary>Texto extraído (pode conter ruído)</summary>
-
 QUESTÃO 174  
-ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022  
+
 Um cortador de grama elétrico tem o cabo plugado  
 em uma tomada fixa rente ao solo plano de um gramado.  
 O cabo de energia mede 5 metros, e o cortador tem uma  
@@ -47,5 +47,3 @@ C
 D  
 2,5  
 E
-
-</details>

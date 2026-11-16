@@ -13,10 +13,10 @@ tema: "Adubação nitrogenada e eutrofização de rios e lagos"
 classificacao_confianca: alta
 gabarito: C
 imagem: enem-2024-ppl-d2-q095.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 95 — ENEM 2024](enem-2024-ppl-d2-q095.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 95  
 É comum o álcool ser mencionado como combustível ecologicamente correto, pois,  
@@ -35,5 +35,3 @@ B redução de nutrientes disponíveis, que afeta a vida aquática.
 C proliferação de grandes quantidades de algas nos cursos d’água.  
 D retenção de íons nitrato e amônio nos solos, que diminui suas solubilidades.  
 E multiplicação de espécies nativas, que mantém o equilíbrio trófico do ecossistema natural.
-
-</details>

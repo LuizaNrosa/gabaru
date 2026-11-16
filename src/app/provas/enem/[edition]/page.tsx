@@ -1,3 +1,6 @@
+import {SafeText} from "@/components/safe-text";
+import { ExamYearIndex } from "@/components/exam-year-index";
+import { ExamEditorial } from "@/components/exam-editorial";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ENEM_SOURCE, enemExams, enemTitle, readEnemExam } from "@/lib/enem-acervo";
@@ -20,11 +23,13 @@ export async function generateMetadata({ params }: Props) {
   });
 }
 export default async function Page({ params }: Props) {
-  const exam = readEnemExam((await params).edition);
+  const {edition}=await params;
+  if (/^\d{4}$/.test(edition)) return <ExamYearIndex banca="enem" year={Number(edition)}/>;
+  const exam = readEnemExam(edition);
   if (!exam) notFound();
   const verification = verifiedExams.find(e => e.id === exam.id);
   const verified = !!verification || !!exam.pageCount;
-  return <main className="gb-container py-10">
+  return <main id="conteudo-principal" tabIndex={-1} className="gb-container py-10">
     <JsonLd dados={jsonLd.trilhas([{ nome: "Início", caminho: "/" }, { nome: "ENEM e vestibulares", caminho: "/pre-vestibular" }, { nome: "Acervo ENEM", caminho: "/provas/enem" }, { nome: enemTitle(exam), caminho: `/provas/enem/${exam.id}` }])} />
     <Link href={`/provas/enem#ano-${exam.year}`} className="gb-text-link">← Acervo ENEM {exam.year}</Link>
     <p className="gb-eyebrow mt-8">VESTIBULAR · ENEM</p>
@@ -35,15 +40,18 @@ export default async function Page({ params }: Props) {
     {verification && "language" in verification && <p className="gb-notice mt-5">
       Neste caderno, a correção das questões de língua estrangeira corresponde à opção de inglês.
     </p>}
-    <EnemExamReader key={exam.id} id={exam.id} title={enemTitle(exam)} verified={verified} pageCount={exam.pageCount} questions={exam.questions.map(({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled})=>({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled}))} />
+    {exam.id!=="enem-2024-d2" && <details className="v2-solution"><summary>Caderno original e leitor de imagens</summary><EnemExamReader key={exam.id} id={exam.id} title={enemTitle(exam)} verified={verified} pageCount={exam.pageCount} questions={exam.questions.map(({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled})=>({numero,texto,disciplina,habilidade,tema,obs,pagina,annulled}))} /></details>}
+    {exam.id === "enem-2024-d2" && <p className="gb-notice mt-4">Transcrição e figuras de <a href="https://github.com/piresramon/gpt-4-enem" rel="noopener noreferrer" target="_blank">Pires e colaboradores</a>. Conteúdo em conferência; consulte o caderno oficial. A atribuição e a licença acompanham o material.</p>}
     {!exam.pageCount && <section className="mt-12" aria-label="Transcrições das questões">
       <h2 className="gb-section-title">Transcrições das questões</h2>
       <p className="mt-3 text-sm text-n5">Texto auxiliar: para figuras e alternativas, consulte o recorte ou o caderno oficial.</p>
-      <div className="mt-5 grid gap-4">{exam.questions.map(q => <details key={q.numero} id={`questao-${q.numero}`} className="scroll-mt-28 rounded-lg border border-n2 bg-white/60 p-5">
-        <summary className="min-h-11 cursor-pointer font-semibold">Questão {enemDisplayNumber(q)} · {q.disciplina}</summary>
+      <div className="mt-5 grid gap-4">{exam.questions.map(q => <article aria-labelledby={`titulo-${q.numero}-${q.disciplina}`} key={`${q.numero}-${q.disciplina}`} id={`questao-${q.numero}${q.disciplina==='espanhol'?'-es':''}`} className="scroll-mt-28 rounded-lg border border-n2 bg-white/60 p-5">
+        <h3 id={`titulo-${q.numero}-${q.disciplina}`} className="font-semibold">Questão {enemDisplayNumber(q)} · {q.disciplina}</h3>
         <p className="mt-3 text-sm text-n5">{q.tema} · {q.habilidade}</p>
-        <p className="mt-4 whitespace-pre-wrap text-n5">{q.texto}</p>
-      </details>)}</div>
+        <p className="mt-4 whitespace-pre-wrap text-n5"><SafeText text={q.texto}/></p>
+        {q.figuras?.map(figura => <figure key={figura.url} className="mt-5"><img src={figura.url} alt={figura.descricao} loading="lazy" className="mx-auto h-auto max-w-full" /><figcaption><SafeText text={figura.descricao}/></figcaption></figure>)}
+      </article>)}</div>
     </section>}
-  </main>;
+  <ExamEditorial banca="enem" edition={exam.id} />
+</main>;
 }

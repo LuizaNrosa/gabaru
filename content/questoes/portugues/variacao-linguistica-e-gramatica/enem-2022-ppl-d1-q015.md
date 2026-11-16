@@ -13,10 +13,10 @@ tema: "Patrimônio linguístico brasileiro e língua geral nheengatu"
 classificacao_confianca: alta
 gabarito: A
 imagem: enem-2022-ppl-d1-q015.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 15 — ENEM 2022](enem-2022-ppl-d1-q015.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 15  
 A historiografia do país demonstra que foi necessário considerável  
@@ -53,5 +53,3 @@ B decorrente da tentativa de fusão de diferentes línguas indígenas.
 C exemplificativo da miscigenação étnica da sociedade nacional.  
 D caracterizado pela diversidade de sotaques e regionalismos.  
 E resultado de sucessivas ações de expansão territorial.
-
-</details>

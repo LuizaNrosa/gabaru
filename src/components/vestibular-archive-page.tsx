@@ -3,7 +3,7 @@ import { ARCHIVES, ARCHIVE_INFO, archiveYears, applicationName, type Institution
 
 export function VestibularArchivePage({ institution }: { institution: Institution }) {
   const archive = ARCHIVES[institution], info = ARCHIVE_INFO[institution], years = archiveYears(institution);
-  return <main className="gb-container py-10">
+  return <main id="conteudo-principal" tabIndex={-1} className="gb-container py-10">
     <Link href="/pre-vestibular#paulistas" className="gb-text-link">← Vestibulares</Link>
     <p className="gb-eyebrow mt-8">VESTIBULARES · ACERVO OFICIAL</p>
     <h1 className="gb-page-title">Provas da {info.name}</h1>

@@ -13,10 +13,10 @@ tema: "Produto de matrizes para notas finais com pesos"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d2-q158.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 158 — ENEM 2022](enem-2022-ppl-d2-q158.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 158  
 Uma faculdade oferece dois cursos diferentes na área  
@@ -59,5 +59,3 @@ D
        
 E   
  2 3   X
-
-</details>

@@ -1,0 +1,273 @@
+{
+  "banca": "etec",
+  "edicao": "2020-1",
+  "provaSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+  "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032",
+  "esperadas": 50,
+  "aceitas": {
+    "etec-2020-1-q002": {
+      "id": "etec-2020-1-q002",
+      "numero": 2,
+      "enunciado": "A pele, maior órgão do corpo humano, é importante na manutenção da saúde porque reveste toda a superfície corporal,  atuando, entre outras coisas, na proteção contra germes e raios solares, e é também responsável pela sensibilidade tátil e  pela manutenção da temperatura corporal.  O ser humano apresenta a temperatura corporal normal de 36,5 ºC. A elevação ou redução dessa temperatura pode ter  efeitos danosos ao organismo. Assim, na pele, entre os fatores que contribuem para a manutenção da temperatura corporal em dias frios, em ambientes  abertos, destacam-se",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a dilatação dos vasos sanguíneos periféricos e maior eliminação de oleosidade pelas glândulas sebáceas."
+        },
+        {
+          "letra": "B",
+          "texto": "a dilatação dos vasos sanguíneos periféricos e maior eliminação de suor pelas glândulas sudoríparas."
+        },
+        {
+          "letra": "C",
+          "texto": "a dilatação dos vasos sanguíneos periféricos e eliminação contínua de suor pelas glândulas sebáceas."
+        },
+        {
+          "letra": "D",
+          "texto": "a contração dos vasos sanguíneos periféricos e menor eliminação de suor pelas glândulas sudoríparas."
+        },
+        {
+          "letra": "E",
+          "texto": "a contração dos vasos sanguíneos periféricos e maior eliminação de suor pelas glândulas sebáceas."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+        "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2020",
+        "paginas": [
+          3
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2020-1-q013": {
+      "id": "etec-2020-1-q013",
+      "numero": 13,
+      "enunciado": "Uma das mais antigas formas de exploração econômica do território da América portuguesa, a produção de açúcar aconteceu  principalmente nos engenhos do Nordeste e se organizava segundo um sistema que ficou conhecido como plantation. Assinale a alternativa que apresenta, corretamente, as principais características do sistema de plantation.",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Agricultura diversificada, voltada para a subsistência, pequenas propriedades rurais, mão de obra familiar."
+        },
+        {
+          "letra": "B",
+          "texto": "Extrativismo, voltado para o mercado interno, médias propriedades, mão de obra imigrante."
+        },
+        {
+          "letra": "C",
+          "texto": "Monocultura, voltada para o mercado externo, latifúndio e mão de obra escrava."
+        },
+        {
+          "letra": "D",
+          "texto": "Produção agrícola diversificada, voltada para o mercado externo, latifúndio e mão de obra livre."
+        },
+        {
+          "letra": "E",
+          "texto": "Produção mecanizada, voltada para o mercado interno, pequenas propriedades, mão de obra escrava."
+        }
+      ],
+      "correta": "C",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+        "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2020",
+        "paginas": [
+          7
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2020-1-q029": {
+      "id": "etec-2020-1-q029",
+      "numero": 29,
+      "enunciado": "Iniciada em 1789, a Revolução Francesa tinha como um  de seus principais objetivos a abolição da sociedade de  Antigo Regime, com o fim dos privilégios e das desigualdades  entre os diferentes grupos sociais. Pouco antes da Revolução, a sociedade francesa estava  dividida entre",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apoiadores de Napoleão e de Robespierre, importantes lideranças políticas conservadoras que lutavam pela  manutenção da monarquia francesa."
+        },
+        {
+          "letra": "B",
+          "texto": "burguesia e trabalhadores rurais e urbanos, já que o clero e a nobreza não tinham participação  significativa na política francesa no período  pré-revolucionário."
+        },
+        {
+          "letra": "C",
+          "texto": "Girondinos e Sans Culottes, grupos rivais que disputavam a hegemonia política e representavam os  diferentes interesses da burguesia na relação com o  rei Luís XVI."
+        },
+        {
+          "letra": "D",
+          "texto": "Primeiro e Segundo Estados (clero e nobreza), que reuniam cerca de 3% da população, e Terceiro  Estado, que abrigava a burguesia, os trabalhadores  urbanos e rurais e pagava, sozinho, todas as taxas  e os impostos diretos cobrados pela monarquia."
+        },
+        {
+          "letra": "E",
+          "texto": "Primeiro e Segundo Estados (clero e nobreza), que reuniam a minoria da população, mas pagavam,  sozinhos, todas as taxas e os impostos diretos  que financiavam os programas assistenciais que  mantinham parte do Terceiro Estado."
+        }
+      ],
+      "correta": "D",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+        "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2020",
+        "paginas": [
+          13
+        ],
+        "colunas": 2,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2020-1-q035": {
+      "id": "etec-2020-1-q035",
+      "numero": 35,
+      "enunciado": "Oficialmente, a Conferência de Berlim, realizada entre novembro de 1884 e fevereiro de 1885, na Alemanha, serviria para  garantir a livre circulação e comércio na bacia do rio do Congo e no rio Níger, bem como o compromisso das potências  europeias de lutar pelo fim da escravidão no Continente. Entretanto, o maior objetivo das negociações era",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "garantir os direitos portugueses de colonização sobre toda a área que se estende entre Angola e Moçambique, na África Austral, já que Portugal foi o primeiro país a se instalar nos territórios africanos."
+        },
+        {
+          "letra": "B",
+          "texto": "resolver os conflitos entre as potências europeias, que tinham interesse em adquirir a maior extensão de territórios e possessões na África, continente rico em recursos naturais e em matérias-primas."
+        },
+        {
+          "letra": "C",
+          "texto": "concretizar os planos de Martinho Lutero que, no contexto da Reforma Protestante, preconizou a conversão dos povos africanos ao cristianismo evangélico."
+        },
+        {
+          "letra": "D",
+          "texto": "apoiar a expansão do Partido Nazista alemão com a anexação de novos territórios e, consequentemente, de novos cidadãos para a formação do III Reich."
+        },
+        {
+          "letra": "E",
+          "texto": "impedir a participação dos países emergentes da América do Sul no comércio de longa distância de produtos como ouro, diamantes e marfim."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+        "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2020",
+        "paginas": [
+          16
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2020-1-q046": {
+      "id": "etec-2020-1-q046",
+      "numero": 46,
+      "enunciado": "A légua é uma medida de comprimento que varia de acordo  com o período histórico e o país em que é usada. Segundo  o dicionário Priberam, por exemplo, ela equivale a 5 km em  Portugal. Pode-se, portanto, estimar que a légua brasileira é maior  que a portuguesa em cerca de",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "76%."
+        },
+        {
+          "letra": "B",
+          "texto": "68%."
+        },
+        {
+          "letra": "C",
+          "texto": "32%."
+        },
+        {
+          "letra": "D",
+          "texto": "24%."
+        },
+        {
+          "letra": "E",
+          "texto": "13%."
+        }
+      ],
+      "correta": "B",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+        "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2020",
+        "paginas": [
+          21
+        ],
+        "colunas": 2,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    },
+    "etec-2020-1-q049": {
+      "id": "etec-2020-1-q049",
+      "numero": 49,
+      "enunciado": "A quimioterapia é um dos principais métodos para o tratamento do câncer. Como a doença se caracteriza pela multiplicação  descontrolada de células, a maioria das drogas utilizadas no tratamento quimioterápico age bloqueando o mecanismo  celular responsável pela produção de novas células. Por isso, tanto células cancerosas quanto sadias são afetadas, o que  resulta em efeitos colaterais, tais como queda de cabelo e prejuízo aos tecidos que têm alta taxa de renovação celular. Com base nessas informações, podemos afirmar corretamente que a quimioterapia atua",
+      "tabelas": [],
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "bloqueando a digestão celular realizada pelos lisossomos."
+        },
+        {
+          "letra": "B",
+          "texto": "impedindo a respiração celular realizada pelas mitocôndrias."
+        },
+        {
+          "letra": "C",
+          "texto": "dificultando a eliminação de substâncias tóxicas do organismo."
+        },
+        {
+          "letra": "D",
+          "texto": "acelerando os processos de renovação celular dos tecidos sadios."
+        },
+        {
+          "letra": "E",
+          "texto": "inibindo a ocorrência de mitoses responsáveis pela proliferação celular."
+        }
+      ],
+      "correta": "E",
+      "imagens": [],
+      "proveniencia": {
+        "parser": "PyMuPDF",
+        "versao": "2.1",
+        "pdfSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+        "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032",
+        "fonte": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/detalhe.asp?q=2020",
+        "paginas": [
+          22
+        ],
+        "colunas": 1,
+        "gabaritoConferido": true,
+        "extracaoValidada": true
+      },
+      "motivos": []
+    }
+  }
+}

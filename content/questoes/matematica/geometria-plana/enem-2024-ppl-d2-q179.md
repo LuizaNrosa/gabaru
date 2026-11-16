@@ -13,10 +13,10 @@ tema: "Área de pipa em quadrilátero com diagonais perpendiculares"
 classificacao_confianca: alta
 gabarito: E
 imagem: enem-2024-ppl-d2-q179.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 179 — ENEM 2024](enem-2024-ppl-d2-q179.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 179  
 Uma microempresa pretende fabricar pipas para vender no próximo verão. Um modelo  
@@ -29,5 +29,3 @@ B 96.
 C 108.  
 D 184.  
 E 672.
-
-</details>

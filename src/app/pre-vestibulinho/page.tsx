@@ -12,7 +12,7 @@ export const metadata = metaPagina({
 });
 export default function Page() {
   return (
-    <main>
+    <main id="conteudo-principal" tabIndex={-1}>
       <PageHero
         eyebrow="Vestibulinhos"
         titulo={
@@ -38,7 +38,7 @@ export default function Page() {
       </section>
       <section className={`${CONTAINER} py-10`}>
         <p className="gb-notice mb-8">
-          Os acervos incluem ETEC, COLUNI, IFSC, IFSP, IFMG, IFRN, IFCE, IFMT e IFRS. Confira as provas e a forma de correção disponível em cada instituição.
+          Os acervos incluem ETEC, COLUNI, IFSC, IFSP, IFMG, IFRN, IFCE, IFMT, IFRS e IFBA. Confira as provas e a forma de correção disponível em cada instituição.
         </p>
         <PathCards items={provasDa("vestibulinho")} />
       </section>

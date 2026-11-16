@@ -13,10 +13,10 @@ tema: "Progressão aritmética na equivalência entre idade de gato e humano"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2024-ppl-d2-q138.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 138 — ENEM 2024](enem-2024-ppl-d2-q138.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 138  
 É comum pensarmos na equivalência entre a idade de um animal de estimação, no  
@@ -60,5 +60,3 @@ B 133
 C 158  
 D 168  
 E 176
-
-</details>

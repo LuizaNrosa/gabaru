@@ -1,0 +1,7 @@
+PASS HTML sem JavaScript contém enunciado, cinco alternativas, gabarito, comentário e MathML
+PASS riscador, resposta imediata e progresso persistem após recarregar
+PASS simulado preserva prazo, bloqueia resolução e finaliza com boletim e caderno de erros
+PASS atalhos são opcionais e respeitam campos de formulário
+PASS busca combina filtros, reflete URL e restaura resultados no SSR
+PASS limites responsivos de 320 px e ampliação de 200% preservam conteúdo
+6 cenários funcionais passaram.

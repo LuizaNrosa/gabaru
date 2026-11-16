@@ -13,10 +13,10 @@ tema: "Mudanças nas regras do voleibol e espetáculo televisivo"
 classificacao_confianca: alta
 gabarito: B
 imagem: enem-2022-ppl-d1-q008.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 8 — ENEM 2022](enem-2022-ppl-d1-q008.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 08  
 A partir da década de 1980, o voleibol começa a ser visto como  
@@ -45,5 +45,3 @@ E
 permissão ao chamado bloqueio ou ataque, ampliando a  
 possibilidade de utilização de recursos técnicos e estratégicos no  
 jogo.
-
-</details>

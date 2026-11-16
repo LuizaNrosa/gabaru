@@ -13,10 +13,10 @@ tema: "Volume de latas cilíndricas ao variar raio e altura"
 classificacao_confianca: alta
 gabarito: D
 imagem: enem-2024-ppl-d2-q167.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 167 — ENEM 2024](enem-2024-ppl-d2-q167.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 167  
 Uma fábrica utiliza latas cilíndricas como embalagem de seus produtos. Para embalar  
@@ -42,5 +42,3 @@ B II.
 C III.  
 D IV.  
 E V.
-
-</details>

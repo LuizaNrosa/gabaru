@@ -14,10 +14,10 @@ classificacao_confianca: alta
 gabarito: C
 imagem: enem-2022-ppl-d2-q167.webp
 obs: "Branco enorme abaixo da questão"
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 167 — ENEM 2022](enem-2022-ppl-d2-q167.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 167  
 Com o intuito de fazer bombons para vender, uma  
@@ -38,5 +38,3 @@ C
 D  
 E  
 83
-
-</details>

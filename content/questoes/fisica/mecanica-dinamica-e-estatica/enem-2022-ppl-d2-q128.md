@@ -13,10 +13,10 @@ tema: "Velocidade constante de esteira com força impulsiva e variação de mass
 classificacao_confianca: media
 gabarito: D
 imagem: enem-2022-ppl-d2-q128.webp
+nivelQualidade: nivel-0-quarentena
+motivoQualidade: transcricao-ocr-auxiliar-nao-promovida
 ---
 ![Questão 128 — ENEM 2022](enem-2022-ppl-d2-q128.webp)
-
-<details><summary>Texto extraído (pode conter ruído)</summary>
 
 QUESTÃO 128  
 Esteiras e escadas rolantes são dispositivos que deslocam, a velocidade constante, os objetos neles colocados,  
@@ -32,5 +32,3 @@ B 0,021.
 C 0,025.  
 D 0,125.  
 E 0,500.
-
-</details>

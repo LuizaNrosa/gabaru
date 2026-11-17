@@ -8,12 +8,18 @@ service cloud.firestore {
    allow update: if owner(uid) && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['displayName','preferences']);
    allow delete: if false;
    match /{collection}/{id} {
-    allow read: if owner(uid) && collection in ['progress','errors','simulados'];
+    allow read: if owner(uid) && collection in ['progress','errors','simulados','respostas','revisoes'];
     allow create, update: if owner(uid) && collection in ['progress','errors','simulados'] && request.resource.data.keys().hasOnly(['questionId','selected','updatedAt','dueAt','intervalDays','attemptId']) && request.resource.data.questionId is string && request.resource.data.selected in ['A','B','C','D','E'];
     allow delete: if owner(uid) && collection in ['progress','errors','simulados'];
    }
   }
   match /subscriptions/{uid} { allow read: if owner(uid); allow write: if false; }
+  match /launch_notifications/{uid} { allow read, write: if false; }
+  match /billing_events/{id} { allow read, write: if false; }
+  match /billing_orders/{id} { allow read, write: if false; }
+  match /billing_payments/{id} { allow read, write: if false; }
+  match /billing_entitlements/{id} { allow read, write: if false; }
+  match /stripe_events/{id} { allow read, write: if false; }
   match /processed_stripe_events/{id} { allow read, write: if false; }
   match /stripe_subscriptions/{id} { allow read, write: if false; }
   match /{document=**} { allow read, write: if false; }

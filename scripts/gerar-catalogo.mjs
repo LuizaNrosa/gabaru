@@ -1,9 +1,16 @@
+import {splitTextOptions} from './lib/alternativas-ocr.mjs';
 import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { mkdirSync,existsSync } from 'node:fs';
 import { questionQuality,examQuality,contentFingerprint,N0,N1,N2 } from './lib/qualidade.mjs';
 const read = p => JSON.parse(readFileSync(p, 'utf8'));
 const slug = s => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+const rescue=existsSync('src/data/editorial/resgate-v3.json')?read('src/data/editorial/resgate-v3.json').records:{};
+const sourceHashes=new Map();
+function sourceHash(file){if(!/^src\/data\/(?:(?:etec|coluni|ifsc|ifsp)-exams\.json|fontes-abertas\/[a-z0-9-]+\.json)$/.test(file))return null;if(!sourceHashes.has(file))sourceHashes.set(file,createHash('sha256').update(readFileSync(file)).digest('hex'));return sourceHashes.get(file);}
+const tier=level=>level===N2?'tier-2-completa':level===N1?'tier-1-gabarito-oficial':'tier-0-quarentena';
+const massive=existsSync('src/data/editorial/promocoes-massivas.json')?read('src/data/editorial/promocoes-massivas.json').records:{};
+const massiveHashes=new Map();function massiveSource(file){if(!/^src\/data\/[a-z0-9-]+\.json$/.test(file))return null;if(!massiveHashes.has(file))massiveHashes.set(file,createHash('sha256').update(readFileSync(file)).digest('hex'));return massiveHashes.get(file);}
 const editorial=read('src/data/editorial/resolucoes.json');
 const bloqueios=read('src/data/editorial/bloqueios-catalogo.json');
 const ingestion=new Map();if(existsSync('src/data/ingestao'))for(const file of readdirSync('src/data/ingestao').filter(f=>f.endsWith('.json')).sort()){const d=read('src/data/ingestao/'+file);for(const [id,q]of Object.entries(d.aceitas??{}))ingestion.set(id,q);}
@@ -20,6 +27,8 @@ function question(exam,id,num,statement,options,correct,extra={}) {
  const alternatives=Object.entries(options??{}).filter(([k,v])=>/^[A-E]$/.test(k)&&typeof v==='string'&&v.trim()).map(([letra,texto])=>({letra,texto}));
  const q={id,slug:id,banca:exam.banca,ano:exam.ano,edicao:exam.id,numero:num,area:'a-classificar',disciplina:'a-classificar',assunto:'a-classificar',tema:`Questão ${num}`,dificuldade:'nao-classificada',enunciado:statement??'',imagens:[],alternativas:alternatives,anulada:correct==='ANULADA'||correct==='*',correta:/^[A-E]$/.test(correct??'')?correct:null,comentarioResolucao:[],statusPublicacao:'rascunho',fonte:exam.fonte,...extra,...editorial[id]};
  const imported=ingestion.get(id);if(imported){if(imported.correta!==q.correta)throw new Error('Ingestão diverge do gabarito original: '+id);for(const k of ['enunciado','alternativas','textoBase','imagens','proveniencia','tabelas'])if(imported[k]!==undefined)q[k]=imported[k];}
+ const restored=rescue[id];if(restored&&restored.originalFingerprint===contentFingerprint(q)&&sourceHash(restored.source.file)===restored.source.sha256){for(const k of ['enunciado','alternativas','proveniencia',...(!q.correta?['correta']:[])])if(restored.updates[k]!==undefined)q[k]=restored.updates[k];}
+ const promoted=massive[id];if(promoted&&promoted.fingerprint===contentFingerprint(q)&&massiveSource(promoted.sourceFile)===promoted.sourceSha)for(const k of ['enunciado','alternativas','imagens','textoBase','correta','anulada','quantidadeAlternativas','proveniencia'])if(promoted.changes[k]!==undefined)q[k]=promoted.changes[k];
  if(batchEditorial[id]?.validacao?.fingerprint===contentFingerprint(q))for(const k of ['disciplina','assunto','resolucaoEstruturada'])if(batchEditorial[id][k]!==undefined)q[k]=batchEditorial[id][k];
  q.categoria=board(q.banca).categoria;
  if(editorial[id]||batchEditorial[id])q.enunciado=q.enunciado.replace(/\n+/g,' ');
@@ -27,7 +36,8 @@ function question(exam,id,num,statement,options,correct,extra={}) {
  // Only hand-curated, complete records enter the public search index and sitemaps.
  const verification=verifiedEnem.get(q.id.split('-q')[0]);
  const checked=!!q.proveniencia?.gabaritoConferido||(q.banca==='enem'&&!!verification&&verification.numbers.includes(q.numero)&&(!(q.idioma==='es'||q.disciplina==='espanhol')||verification.language==='espanhol'));
- Object.assign(q,questionQuality(q,{textoConferido:!!editorial[id]||batchEditorial[id]?.validacao?.fingerprint===contentFingerprint(q),gabaritoVerificado:checked,expected:q.banca==='coluni'?4:5,legadaComentada:!!editorial[id]&&q.comentarioResolucao.length>=3}));
+ Object.assign(q,questionQuality(q,{textoConferido:!!editorial[id]||batchEditorial[id]?.validacao?.fingerprint===contentFingerprint(q),gabaritoVerificado:checked,expected:q.quantidadeAlternativas??(q.banca==='coluni'?4:5),legadaComentada:!!editorial[id]&&q.comentarioResolucao.length>=3}));
+ if(bloqueios[exam.id]){q.nivelQualidade=N0;q.motivos.push(bloqueios[exam.id]);}q.statusQuestao=q.anulada?'anulada':'regular';q.tier=tier(q.nivelQualidade);
  q.statusPublicacao=q.nivelQualidade===N0?'rascunho':'completa';
  questoes.set(id,q);if(!exam.questoes.includes(id))exam.questoes.push(id);
 }
@@ -39,7 +49,7 @@ for(const banca of ['etec','coluni','ifsc','ifsp']){
 const bank=read('src/data/treino-banco.json'),bankMap=new Map(bank.map(q=>[q.id,q]));
 const enem=new Map(read('src/data/enem-exams.json').map(e=>[e.id,e]));for(const e of read('src/data/enem-cadernos-paginados.json'))enem.set(e.id,e);
 fontes.push({arquivo:'ENEM (catálogos unidos por id)',registros:enem.size});
-function splitOptions(text){const matches=[...text.matchAll(/^(?:\(([A-E])\)|([A-E]))[ \t]*(?:\n|[ \t]+)(?![a-z]\))/gm)];const last=matches.slice(-5);if(last.map(m=>m[1]??m[2]).join('')!=='ABCDE')return {text,options:{}};return {text:text.slice(0,last[0].index).trim(),options:Object.fromEntries(last.map((m,i)=>[m[1]??m[2],text.slice(m.index+m[0].length,last[i+1]?.index??text.length).trim()]))};}
+const splitOptions=splitTextOptions;
 for(const e of enem.values()){
  const exam=addExam(e.id,'enem',e.year,`ENEM ${e.year}${e.day?` — ${e.day}º dia`:''} · ${e.id}`,e.total,bancas.get('enem').fonte,`/provas/enem/${e.id}`,e.year>=2018?(e.day===1?330:e.day===2?300:null):null);
  let data=[];try{data=read(`content/enem/${e.id}/dados.json`).questoes}catch{data=e.questions??[]}
@@ -62,7 +72,7 @@ function addDocument(banca,ano,titulo,url,source,href){if(!url||!ano||seenDocume
 for(const banca of ['unesp','unicamp']){const filename=`${banca}-archive.json`,archive=read(`src/data/${filename}`);fontes.push({arquivo:filename,registros:archive.documents.length});for(const d of archive.documents.filter(d=>d.kind==='prova'))addDocument(banca,d.year,d.label,d.url,d.source);}
 const fvDocs=read('src/data/fuvest-documentos.json');fontes.push({arquivo:'fuvest-documentos.json',registros:fvDocs.length});for(const d of fvDocs.filter(d=>/prova/i.test(d.label)&&!/(gabarito|resposta|abordagem)/i.test(d.label)))addDocument('fuvest',d.year,d.label,d.url,'https://www.fuvest.br/');
 const ifDocs=read('src/data/if-document-sources.json');for(const [id,group] of Object.entries(ifDocs)){const b=board(id);b.nome=group.name;b.fonte=group.source;fontes.push({arquivo:`if-document-sources.json:${id}`,registros:group.editions.length});for(const e of group.editions)addDocument(id,Number(String(e.edition).match(/(?:19|20)\d{2}/)?.[0]),`${b.sigla} ${e.edition}`,e.exam,group.source,`/provas/${id}`);}
-for(const exam of cadernos.values()){Object.assign(exam,examQuality(exam,questoes));if(bloqueios[exam.id]){exam.nivelQualidade=N0;exam.motivos.push(bloqueios[exam.id]);}exam.statusPublicacao=exam.nivelQualidade===N0?'rascunho':'completa';}
+for(const exam of cadernos.values()){Object.assign(exam,examQuality(exam,questoes));if(bloqueios[exam.id]){exam.nivelQualidade=N0;exam.motivos.push(bloqueios[exam.id]);}exam.tier=tier(exam.nivelQualidade);exam.statusPublicacao=exam.nivelQualidade===N0?'rascunho':'completa';}
 const questions=[...questoes.values()],commented=questions.filter(q=>q.resolucaoEstruturada||q.comentarioResolucao.length).length;
 const catalog={bancas:[...bancas.values()].sort((a,b)=>a.sigla.localeCompare(b.sigla,'pt-BR')),cadernos:[...cadernos.values()].sort((a,b)=>b.ano-a.ano||a.id.localeCompare(b.id)),questoes:questions,inventario:{fontes,cadernosSomenteDocumento:documentOnly,anos:[...new Set([...cadernos.values()].map(e=>e.ano))].sort(),gabaritoSeco:questions.filter(q=>q.correta&&!q.resolucaoEstruturada&&!q.comentarioResolucao.length).length,comentadas:commented,completas:questions.filter(q=>q.nivelQualidade===N2).length}};
 writeFileSync('src/data/catalogo-v2.json',JSON.stringify(catalog));

@@ -1,0 +1,28 @@
+
+> gabaru@0.1.0 test:firestore
+> node --use-env-proxy scripts/testar-firestore.mjs
+
+(node:51179) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/server/stripe-events.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[2026-11-16T22:33:00.807Z]  @firebase/firestore: Firestore (13.0.0): GrpcConnection RPC 'Write' stream 0x79a07095 error. Code: 7 Message: 7 PERMISSION_DENIED:
+false for 'create' @ L12, false for 'create' @ L20, false for 'update' @ L12, false for 'update' @ L20
+[2026-11-16T22:33:00.949Z]  @firebase/firestore: Firestore (13.0.0): GrpcConnection RPC 'Write' stream 0x79a07097 error. Code: 7 Message: 7 PERMISSION_DENIED:
+false for 'create' @ L12, false for 'create' @ L20, false for 'update' @ L12, false for 'update' @ L20
+[2026-11-16T22:33:01.130Z]  @firebase/firestore: Firestore (13.0.0): GrpcConnection RPC 'Write' stream 0x79a07092 error. Code: 7 Message: 7 PERMISSION_DENIED:
+false for 'create' @ L7, false for 'create' @ L20, evaluation error at L8:21 for 'update' @ L8, false for 'update' @ L20, false for 'create' @ L7, false for 'create' @ L20
+[2026-11-16T22:33:01.197Z]  @firebase/firestore: Firestore (13.0.0): GrpcConnection RPC 'Write' stream 0x79a07098 error. Code: 7 Message: 7 PERMISSION_DENIED:
+false for 'create' @ L16, false for 'create' @ L20, false for 'update' @ L16, false for 'update' @ L20
+[2026-11-16T22:33:01.227Z]  @firebase/firestore: Firestore (13.0.0): GrpcConnection RPC 'Write' stream 0x79a07099 error. Code: 7 Message: 7 PERMISSION_DENIED:
+false for 'create' @ L18, false for 'create' @ L20, false for 'update' @ L18, false for 'update' @ L20
+(node:51179) MetadataLookupWarning: received unexpected error = All promises were rejected code = ECONNRESET, 403
+✔ Firestore real: isolamento por uid, plano somente Admin e replay concorrente (9600.684301ms)
+ℹ tests 1
+ℹ suites 0
+ℹ pass 1
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 10419.156464

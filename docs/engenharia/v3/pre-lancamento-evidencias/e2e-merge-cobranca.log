@@ -1,0 +1,21 @@
+
+Running 12 tests using 1 worker
+
+(node:84592) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓   1 [desktop] › tests/e2e/billing-brasil.spec.ts:3:1 › questão recém-promovida: HTML, gabarito, alternativas e sitemap (3.5s)
+  ✓   2 [desktop] › tests/e2e/billing-brasil.spec.ts:4:1 › Pix e cartão: checkout, confirmação, replay e cancelamento dentro do painel (5.1s)
+  ✓   3 [desktop] › tests/e2e/plataforma-v3.spec.ts:3:1 › sitemaps modular, metadata Next e quarentena (48ms)
+  ✓   4 [desktop] › tests/e2e/plataforma-v3.spec.ts:4:1 › capítulo exige login e respeita o modo gratuito ou assinatura (67ms)
+  ✓   5 [desktop] › tests/e2e/plataforma-v3.spec.ts:5:1 › capítulo autenticado tem conteúdo SSR e MathML sem download (359ms)
+  ✓   6 [desktop] › tests/e2e/plataforma-v3.spec.ts:6:1 › métricas autenticadas são idempotentes e UID vem do token (146ms)
+(node:84765) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓   7 [mobile] › tests/e2e/billing-brasil.spec.ts:3:1 › questão recém-promovida: HTML, gabarito, alternativas e sitemap (1.3s)
+  ✓   8 [mobile] › tests/e2e/billing-brasil.spec.ts:4:1 › Pix e cartão: checkout, confirmação, replay e cancelamento dentro do painel (3.1s)
+  ✓   9 [mobile] › tests/e2e/plataforma-v3.spec.ts:3:1 › sitemaps modular, metadata Next e quarentena (33ms)
+  ✓  10 [mobile] › tests/e2e/plataforma-v3.spec.ts:4:1 › capítulo exige login e respeita o modo gratuito ou assinatura (41ms)
+  ✓  11 [mobile] › tests/e2e/plataforma-v3.spec.ts:5:1 › capítulo autenticado tem conteúdo SSR e MathML sem download (431ms)
+  ✓  12 [mobile] › tests/e2e/plataforma-v3.spec.ts:6:1 › métricas autenticadas são idempotentes e UID vem do token (144ms)
+
+  12 passed (16.4s)

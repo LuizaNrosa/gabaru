@@ -1,0 +1,7 @@
+# Lote 5 — métricas, FSRS e billing
+
+Respostas são avaliadas pelo catálogo validado no servidor, nunca pelo gabarito informado pelo navegador. A transação por tentativa escreve também `users/{uid}/respostas/{questionId}` e `revisoes/{questionId}`; o UID vem do token revogado verificado. Campos incluem banca, ano, disciplina, assunto, habilidade, alternativa, gabarito, acerto, tempo declarado limitado e timestamp do servidor. O tempo do navegador não é evidência antifraude. Visitantes usam armazenamento local separado por conta. O painel SSR usa Firestore, sem depender de PostgreSQL, e apresenta acertos por disciplina/assunto/banca, erros e links de revisão.
+
+FSRS-7 utiliza estado de memória persistido; o teste de duas revisões identificou que `newCard` reiniciava repetições. Corrigido para reutilizar o cartão serializado com datas reconstituídas. Testes agora comprovam aumento de reps e manutenção do histórico de erro. A tipagem apontou `lastReviewAt` nulo, corrigido para o contrato da biblioteca.
+
+Portal Stripe usa somente customer vinculado ao UID no servidor, corpo estrito Zod e retorno canônico. Checkout continua usando preço do ambiente. Webhook mantém validação criptográfica e transação idempotente; agora grava também `stripe_events/{eventId}` e perfil `users/{uid}`, preservando registros legados. Regras impedem cliente de escrever assinatura, respostas e revisões. Não foram feitas cobranças reais nem inseridas credenciais.

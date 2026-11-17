@@ -12,8 +12,8 @@ test('resolução divergente ou sem análise de todos os distratores não é ní
  assert.equal(resolutionValid({...q.resolucaoEstruturada,alternativaCorreta:'A'},q),false);
  assert.equal(resolutionValid({...q.resolucaoEstruturada,distratores:{}},q),false);
 });
-test('os 20 itens do piloto possuem três blocos e correspondem ao gabarito',()=>{
- const pilot=JSON.parse(readFileSync('src/data/editorial/resolucoes-lotes.json'));assert.equal(Object.keys(pilot).length,20);
+test('todos os lotes possuem três blocos e correspondem ao gabarito',()=>{
+ const pilot=JSON.parse(readFileSync('src/data/editorial/resolucoes-lotes.json'));assert.ok(Object.keys(pilot).length>=150);
  for(const id of Object.keys(pilot)){const item=c.questoes.find(q=>q.id===id);assert.equal(item.nivelQualidade,N2,id);assert.ok(resolutionValid(item.resolucaoEstruturada,item));}
 });
 

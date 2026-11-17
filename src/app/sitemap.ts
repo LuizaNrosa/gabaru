@@ -1,0 +1,5 @@
+// © 2026 Luiza Nascimento Rosa. Todos os direitos reservados.
+import type {MetadataRoute} from 'next';import {sitemapNames,sitemapEntries} from '@/lib/seo/sitemaps';import {chunks} from '@/lib/seo/sitemap-stream';import {ORIGIN} from '@/lib/seo/schema-graph';
+/** Native Next metadata aliases; named XML routes preserve existing Search Console submissions. */
+export async function generateSitemaps(){return sitemapNames.flatMap(name=>chunks(sitemapEntries(name)).map((_,i)=>({id:`${name.replace('sitemap-','').replace('.xml','')}-${i+1}`})));}
+export default async function sitemap({id}:{id:Promise<string>}):Promise<MetadataRoute.Sitemap>{const value=await id;const match=/^(hubs|provas|disciplinas|questoes)-(\d+)$/.exec(value);if(!match)return [];const entries=chunks(sitemapEntries(`sitemap-${match[1]}.xml` as typeof sitemapNames[number]))[Number(match[2])-1]??[];return entries.map(e=>({url:ORIGIN+e.path,...(e.updated?{lastModified:e.updated}:{}),...(e.priority?{priority:e.priority}:{})}));}

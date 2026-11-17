@@ -1,0 +1,16 @@
+{
+  "modo": "dry-run",
+  "antes": {
+    "tier-2-completa": 24,
+    "tier-1-gabarito-oficial": 310,
+    "tier-0-quarentena": 15965
+  },
+  "depois": {
+    "tier-2-completa": 24,
+    "tier-1-gabarito-oficial": 310,
+    "tier-0-quarentena": 15965
+  },
+  "avaliadas": 0,
+  "aprovadas": 0,
+  "rows": []
+}

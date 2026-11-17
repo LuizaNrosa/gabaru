@@ -1,0 +1,25 @@
+{
+  "sitemaps": [
+    {
+      "sitemap": "sitemap-hubs.xml",
+      "status": 200,
+      "urls": 25
+    },
+    {
+      "sitemap": "sitemap-provas.xml",
+      "status": 200,
+      "urls": 1
+    },
+    {
+      "sitemap": "sitemap-disciplinas.xml",
+      "status": 200,
+      "urls": 23
+    },
+    {
+      "sitemap": "sitemap-questoes.xml",
+      "status": 200,
+      "urls": 334
+    }
+  ],
+  "totalUrlsDistintas": 383
+}

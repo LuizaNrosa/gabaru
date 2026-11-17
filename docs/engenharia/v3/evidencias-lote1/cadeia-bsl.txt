@@ -1,0 +1,7 @@
+interval-arithmetic@1.1.3
+node_modules/interval-arithmetic
+  interval-arithmetic@"^1.1.2" from interval-arithmetic-eval@0.5.3
+  node_modules/interval-arithmetic-eval
+    interval-arithmetic-eval@"^0.5.3" from function-plot@1.26.0
+    node_modules/function-plot
+      function-plot@"^1.26.0" from the root project

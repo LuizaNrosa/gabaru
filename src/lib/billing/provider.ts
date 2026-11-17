@@ -1,0 +1,5 @@
+import 'server-only';import {MercadoPagoProvider} from './mercado-pago';import type {BillingProvider} from './types';
+export function getBillingProvider():BillingProvider{if((process.env.BILLING_PROVIDER??'mercadopago')!=='mercadopago')throw Error('billing-unavailable');const token=process.env.MP_ACCESS_TOKEN||process.env.MERCADO_PAGO_ACCESS_TOKEN,secret=process.env.MP_WEBHOOK_SECRET||process.env.MERCADO_PAGO_WEBHOOK_SECRET,collectorId=process.env.MERCADO_PAGO_COLLECTOR_ID;if(!token||!secret||!collectorId)throw Error('billing-unavailable');let baseUrl:string|undefined;
+ // Transporte local restrito à fixture demo; autenticação do produto continua integral.
+ if(process.env.BILLING_EMULATOR_URL){const u=new URL(process.env.BILLING_EMULATOR_URL);if(process.env.VERCEL||!process.env.FIREBASE_ADMIN_PROJECT_ID?.startsWith('demo-')||!/^127\.0\.0\.1:\d+$/.test(process.env.FIRESTORE_EMULATOR_HOST??'')||u.protocol!=='http:'||u.hostname!=='127.0.0.1')throw Error('invalid-billing-emulator');baseUrl=u.origin;}
+ return new MercadoPagoProvider({token,secret,collectorId,origin:'https://gabaru.com.br',...(baseUrl?{baseUrl}:{})});}

@@ -1,0 +1,3 @@
+import katex from 'katex';import type {MathSegment} from './catalogo/types';
+/** Explicit author intent only: currency and dollar signs are always prose here. */
+export function projectEditorialText(text:string):MathSegment[]{const result:MathSegment[]=[];let at=0;for(const m of text.matchAll(/\\\(([\s\S]+?)\\\)/g)){if(m.index>at)result.push({type:'text',value:text.slice(at,m.index)});katex.renderToString(m[1],{throwOnError:true,trust:false,strict:'error'});result.push({type:'math-inline',latex:m[1]});at=m.index+m[0].length;}if(at<text.length)result.push({type:'text',value:text.slice(at)});if(result.some(s=>'value'in s&&(s.value.includes('\\(')||s.value.includes('\\)'))))throw Error('Delimitadores de fórmula desequilibrados.');return result;}

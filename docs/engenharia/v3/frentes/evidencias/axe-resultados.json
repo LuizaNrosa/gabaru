@@ -1,0 +1,236 @@
+[
+  {
+    "path": "/",
+    "width": 390,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/enem",
+    "width": 390,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/vestibulinho",
+    "width": 390,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/questoes/enem-2025-d2-q167",
+    "width": 390,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/questoes/enem-2024-d2-q091",
+    "width": 390,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/questoes/etec-2023-2-q032",
+    "width": 390,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/planos",
+    "width": 390,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/questoes",
+    "width": 390,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/livros",
+    "width": 390,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/videoaulas",
+    "width": 390,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/livros/enem-exatas-e-linguagens/funcoes-e-modelagem",
+    "width": 390,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/livros/enem-exatas-e-linguagens/moleculas-e-leitura-cientifica",
+    "width": 390,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/painel",
+    "width": 390,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "width": 1280,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/enem",
+    "width": 1280,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/vestibulinho",
+    "width": 1280,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/questoes/enem-2025-d2-q167",
+    "width": 1280,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/questoes/enem-2024-d2-q091",
+    "width": 1280,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/questoes/etec-2023-2-q032",
+    "width": 1280,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/planos",
+    "width": 1280,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/questoes",
+    "width": 1280,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/livros",
+    "width": 1280,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/videoaulas",
+    "width": 1280,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/livros/enem-exatas-e-linguagens/funcoes-e-modelagem",
+    "width": 1280,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/livros/enem-exatas-e-linguagens/moleculas-e-leitura-cientifica",
+    "width": 1280,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  },
+  {
+    "path": "/painel",
+    "width": 1280,
+    "status": 200,
+    "redirect": false,
+    "htmlErrors": [],
+    "violations": [],
+    "overflow": false
+  }
+]

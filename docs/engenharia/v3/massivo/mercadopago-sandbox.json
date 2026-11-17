@@ -1,0 +1,18 @@
+{
+  "credencialTeste": false,
+  "payloads": [
+    "POST /v1/payments: válido",
+    "POST /preapproval: válido"
+  ],
+  "sandboxReal": {
+    "status": "NAO_EXECUTADO_SEM_TOKEN_TEST"
+  },
+  "webhookLocal": {
+    "firestoreConfirmado": true,
+    "status": "PASS",
+    "valida": 200,
+    "adulterada": 401,
+    "plano": "premium",
+    "expiracaoFutura": true
+  }
+}

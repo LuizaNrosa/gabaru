@@ -1,0 +1,39 @@
+
+Running 38 tests using 1 worker
+
+(node:57487) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓   1 [desktop] › tests/e2e/billing-brasil.spec.ts:3:1 › questão recém-promovida: HTML, gabarito, alternativas e sitemap (4.4s)
+  ✘   2 [desktop] › tests/e2e/billing-brasil.spec.ts:4:1 › Pix e cartão: checkout, confirmação, replay e cancelamento dentro do painel (2.0m)
+Testing stopped early after 1 maximum allowed failures.
+
+
+  1) [desktop] › tests/e2e/billing-brasil.spec.ts:4:1 › Pix e cartão: checkout, confirmação, replay e cancelamento dentro do painel
+
+    Test timeout of 120000ms exceeded.
+
+    Error: page.waitForURL: Test timeout of 120000ms exceeded.
+    =========================== logs ===========================
+    waiting for navigation to "**/painel" until "load"
+    ============================================================
+
+      3 | test('questão recém-promovida: HTML, gabarito, alternativas e sitemap',async({page,request})=>{await page.goto('/questoes/etec-2023-2-q032');await expect(page.locator('input[type=radio]')).toHaveCount(5);await expect(page.getByRole('region',{name:'Gabarito oficial da questão 32'})).toBeVisible();expect(await(await request.get('/sitemap-questoes.xml')).text()).toContain('/questoes/etec-2023-2-q032');const a=await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa','wcag22aa']).analyze();expect(a.violations.filter(v=>['critical','serious'].includes(v.impact??''))).toEqual([]);});
+      4 | test('Pix e cartão: checkout, confirmação, replay e cancelamento dentro do painel',async({page,request})=>{test.skip(!fixture?.billingToken,'Requer fixture de homologação local.');const mobile=test.info().project.name==='mobile',billingToken=mobile?fixture.billingMobileToken:fixture.billingToken;const headers={Origin:'http://localhost:3000',Authorization:`Bearer ${billingToken}`};const injected=await request.post('/api/billing/checkout',{headers,data:{plan:'pix-30',requestId:randomUUID(),amount:1}});expect(injected.status()).toBe(400);
+    > 5 |  await page.goto('/login');await page.getByLabel('E-mail',{exact:true}).fill(mobile?'v3-billing-mobile@example.invalid':'v3-billing@example.invalid');await page.getByLabel('Senha',{exact:true}).fill('fixture-password');await page.getByRole('button',{name:'Entrar',exact:true}).click();await page.waitForURL('**/painel');
+        |                                                                                                                                                                                                                                                                                                         ^
+      6 |  await page.goto('/planos');await page.getByRole('combobox',{name:'Forma e período'}).selectOption('pix-30');const pixResponse=page.waitForResponse(r=>r.url().endsWith('/api/billing/checkout')&&r.request().method()==='POST');await page.getByRole('button',{name:'Gerar Pix',exact:true}).click();const pix=await(await pixResponse).json();expect(pix.kind).toBe('pix');await expect(page.getByLabel('Pix Copia e Cola')).toHaveValue(/000201-PIX-FIXTURE/);let a=await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa','wcag22aa']).analyze();expect(a.violations.filter(v=>['critical','serious'].includes(v.impact??''))).toEqual([]);
+      7 |  const before=await(await request.get('/api/billing/status',{headers})).json();expect(before.plan).toBe('free');
+      8 |  async function confirm(resourceId:string,type:string){const ts=String(Date.now()),requestId=randomUUID(),body={id:randomUUID(),type,data:{id:resourceId}};const v1=createHmac('sha256','fixture-secret').update(`id:${resourceId};request-id:${requestId};ts:${ts};`).digest('hex');return request.post('/api/billing/webhook?data.id='+resourceId,{headers:{'x-request-id':requestId,'x-signature':`ts=${ts},v1=${v1}`},data:body});}
+        at /workspace/work/gabaru-code/tests/e2e/billing-brasil.spec.ts:5:297
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/billing-brasil-Pix-e-cartã-96b8a-ncelamento-dentro-do-painel-desktop/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results/billing-brasil-Pix-e-cartã-96b8a-ncelamento-dentro-do-painel-desktop/error-context.md
+
+  1 failed
+    [desktop] › tests/e2e/billing-brasil.spec.ts:4:1 › Pix e cartão: checkout, confirmação, replay e cancelamento dentro do painel
+  36 did not run
+  1 passed (2.1m)
+  1 error was not a part of any test, see above for details

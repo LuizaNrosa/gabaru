@@ -1,0 +1,9 @@
+/sitemap-hubs.xml: 25 URLs
+/sitemap-provas.xml: 28 URLs
+/sitemap-disciplinas.xml: 107 URLs
+/sitemap-questoes.xml: 2000 URLs
+/sitemaps/questoes/2.xml: 1208 URLs
+enem-2025-d2-q141: SSR sem JavaScript, canonical e alternativas completos.
+etec-2023-2-q032: SSR sem JavaScript, canonical e alternativas completos.
+Questão fora do lote SSG entregue por SSR: PASS.
+Release sem configuração demo: PASS.

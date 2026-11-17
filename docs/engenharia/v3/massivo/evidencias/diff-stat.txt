@@ -1,0 +1,677 @@
+ .env.example                                       |      7 +
+ docs/engenharia/total/auditoria-qualidade.json     |  63504 ++--
+ docs/engenharia/v3/auditoria-gabaritos.json        | 132194 ++++++++
+ .../v3/massivo/evidencias/axe-corrigido-final.log  |     30 +
+ .../v3/massivo/evidencias/axe-detalhes.json        |    272 +
+ .../v3/massivo/evidencias/build-release-final.log  |    481 +
+ .../engenharia/v3/massivo/evidencias/diff-stat.txt |      0
+ .../v3/massivo/evidencias/disco-final.log          |      2 +
+ .../v3/massivo/evidencias/e2e-corrigido-final.log  |     53 +
+ .../evidencias/enem-reproducibilidade-final.log    |    498 +
+ .../v3/massivo/evidencias/eslint-release-final.log |    189 +
+ .../v3/massivo/evidencias/firestore-final.log      |     36 +
+ .../massivo/evidencias/htmlhint-release-final.log  |      4 +
+ .../v3/massivo/evidencias/release-http.log         |      9 +
+ .../massivo/evidencias/restaurar-fontes-cache.log  |      1 +
+ .../v3/massivo/evidencias/sandbox-local-final.log  |     18 +
+ .../v3/massivo/evidencias/tsc-release-final.log    |      1 +
+ .../massivo/evidencias/unitarios-verificados.log   |    327 +
+ .../v3/massivo/evidencias/vercel-final.log         |      1 +
+ .../massivo/evidencias/vitest-contratos-final.log  |      8 +
+ docs/engenharia/v3/massivo/lote-a.json             | 286407 ++++++++++++++++++
+ docs/engenharia/v3/massivo/lote-a.md               |      7 +
+ docs/engenharia/v3/massivo/lote-b.md               |     19 +
+ docs/engenharia/v3/massivo/lote-c.md               |     11 +
+ docs/engenharia/v3/massivo/lote-d.md               |     72 +
+ .../engenharia/v3/massivo/mercadopago-sandbox.json |     18 +
+ docs/engenharia/v3/massivo/placar-final.json       |     33 +
+ .../v3/massivo/resolucoes-checkpoint.json          |    880 +
+ docs/engenharia/v3/massivo/retencoes-finais.json   |     33 +
+ public/acervo/coluni/massivo-2013/pagina-01.webp   |    Bin 0 -> 229474 bytes
+ public/acervo/coluni/massivo-2013/pagina-02.webp   |    Bin 0 -> 298588 bytes
+ public/acervo/coluni/massivo-2013/pagina-03.webp   |    Bin 0 -> 211272 bytes
+ public/acervo/coluni/massivo-2013/pagina-04.webp   |    Bin 0 -> 198616 bytes
+ public/acervo/coluni/massivo-2013/pagina-05.webp   |    Bin 0 -> 272542 bytes
+ public/acervo/coluni/massivo-2013/pagina-06.webp   |    Bin 0 -> 227866 bytes
+ public/acervo/coluni/massivo-2013/pagina-07.webp   |    Bin 0 -> 177276 bytes
+ public/acervo/coluni/massivo-2013/pagina-08.webp   |    Bin 0 -> 63036 bytes
+ public/acervo/coluni/massivo-2013/pagina-09.webp   |    Bin 0 -> 168612 bytes
+ public/acervo/coluni/massivo-2013/pagina-10.webp   |    Bin 0 -> 78260 bytes
+ public/acervo/coluni/massivo-2013/pagina-11.webp   |    Bin 0 -> 216928 bytes
+ public/acervo/coluni/massivo-2013/pagina-12.webp   |    Bin 0 -> 206164 bytes
+ public/acervo/coluni/massivo-2013/pagina-13.webp   |    Bin 0 -> 130032 bytes
+ public/acervo/coluni/massivo-2013/pagina-14.webp   |    Bin 0 -> 151750 bytes
+ public/acervo/coluni/massivo-2013/pagina-15.webp   |    Bin 0 -> 122994 bytes
+ public/acervo/coluni/massivo-2013/pagina-16.webp   |    Bin 0 -> 170236 bytes
+ public/acervo/coluni/massivo-2013/pagina-17.webp   |    Bin 0 -> 130098 bytes
+ public/acervo/coluni/massivo-2013/pagina-18.webp   |    Bin 0 -> 39840 bytes
+ public/acervo/coluni/massivo-2013/pagina-19.webp   |    Bin 0 -> 286126 bytes
+ public/acervo/coluni/massivo-2013/pagina-20.webp   |    Bin 0 -> 251042 bytes
+ public/acervo/coluni/massivo-2013/pagina-21.webp   |    Bin 0 -> 266000 bytes
+ public/acervo/coluni/massivo-2013/pagina-22.webp   |    Bin 0 -> 200316 bytes
+ public/acervo/coluni/massivo-2013/pagina-23.webp   |    Bin 0 -> 97318 bytes
+ public/acervo/coluni/massivo-2013/pagina-24.webp   |    Bin 0 -> 182888 bytes
+ public/acervo/coluni/massivo-2013/pagina-25.webp   |    Bin 0 -> 196176 bytes
+ public/acervo/coluni/massivo-2014/pagina-01.webp   |    Bin 0 -> 153742 bytes
+ public/acervo/coluni/massivo-2014/pagina-02.webp   |    Bin 0 -> 246898 bytes
+ public/acervo/coluni/massivo-2014/pagina-03.webp   |    Bin 0 -> 274640 bytes
+ public/acervo/coluni/massivo-2014/pagina-04.webp   |    Bin 0 -> 281190 bytes
+ public/acervo/coluni/massivo-2014/pagina-05.webp   |    Bin 0 -> 79358 bytes
+ public/acervo/coluni/massivo-2014/pagina-06.webp   |    Bin 0 -> 84894 bytes
+ public/acervo/coluni/massivo-2014/pagina-07.webp   |    Bin 0 -> 202738 bytes
+ public/acervo/coluni/massivo-2014/pagina-08.webp   |    Bin 0 -> 149804 bytes
+ public/acervo/coluni/massivo-2014/pagina-09.webp   |    Bin 0 -> 166474 bytes
+ public/acervo/coluni/massivo-2014/pagina-10.webp   |    Bin 0 -> 221554 bytes
+ public/acervo/coluni/massivo-2014/pagina-11.webp   |    Bin 0 -> 236778 bytes
+ public/acervo/coluni/massivo-2014/pagina-12.webp   |    Bin 0 -> 155156 bytes
+ public/acervo/coluni/massivo-2014/pagina-13.webp   |    Bin 0 -> 150022 bytes
+ public/acervo/coluni/massivo-2014/pagina-14.webp   |    Bin 0 -> 108034 bytes
+ public/acervo/coluni/massivo-2014/pagina-15.webp   |    Bin 0 -> 127904 bytes
+ public/acervo/coluni/massivo-2014/pagina-16.webp   |    Bin 0 -> 218120 bytes
+ public/acervo/coluni/massivo-2014/pagina-17.webp   |    Bin 0 -> 187614 bytes
+ public/acervo/coluni/massivo-2014/pagina-18.webp   |    Bin 0 -> 261618 bytes
+ public/acervo/coluni/massivo-2014/pagina-19.webp   |    Bin 0 -> 300430 bytes
+ public/acervo/coluni/massivo-2014/pagina-20.webp   |    Bin 0 -> 166234 bytes
+ public/acervo/coluni/massivo-2014/pagina-21.webp   |    Bin 0 -> 188038 bytes
+ public/acervo/coluni/massivo-2014/pagina-22.webp   |    Bin 0 -> 179856 bytes
+ public/acervo/coluni/massivo-2014/pagina-23.webp   |    Bin 0 -> 154570 bytes
+ public/acervo/coluni/massivo-2015/pagina-01.webp   |    Bin 0 -> 232048 bytes
+ public/acervo/coluni/massivo-2015/pagina-02.webp   |    Bin 0 -> 238840 bytes
+ public/acervo/coluni/massivo-2015/pagina-03.webp   |    Bin 0 -> 229358 bytes
+ public/acervo/coluni/massivo-2015/pagina-04.webp   |    Bin 0 -> 212502 bytes
+ public/acervo/coluni/massivo-2015/pagina-05.webp   |    Bin 0 -> 274548 bytes
+ public/acervo/coluni/massivo-2015/pagina-06.webp   |    Bin 0 -> 178312 bytes
+ public/acervo/coluni/massivo-2015/pagina-07.webp   |    Bin 0 -> 171450 bytes
+ public/acervo/coluni/massivo-2015/pagina-08.webp   |    Bin 0 -> 129064 bytes
+ public/acervo/coluni/massivo-2015/pagina-09.webp   |    Bin 0 -> 200218 bytes
+ public/acervo/coluni/massivo-2015/pagina-10.webp   |    Bin 0 -> 207596 bytes
+ public/acervo/coluni/massivo-2015/pagina-11.webp   |    Bin 0 -> 198686 bytes
+ public/acervo/coluni/massivo-2015/pagina-12.webp   |    Bin 0 -> 152154 bytes
+ public/acervo/coluni/massivo-2015/pagina-13.webp   |    Bin 0 -> 71088 bytes
+ public/acervo/coluni/massivo-2015/pagina-14.webp   |    Bin 0 -> 137742 bytes
+ public/acervo/coluni/massivo-2015/pagina-15.webp   |    Bin 0 -> 106932 bytes
+ public/acervo/coluni/massivo-2015/pagina-16.webp   |    Bin 0 -> 63948 bytes
+ public/acervo/coluni/massivo-2015/pagina-17.webp   |    Bin 0 -> 291542 bytes
+ public/acervo/coluni/massivo-2015/pagina-18.webp   |    Bin 0 -> 317782 bytes
+ public/acervo/coluni/massivo-2015/pagina-19.webp   |    Bin 0 -> 234204 bytes
+ public/acervo/coluni/massivo-2015/pagina-20.webp   |    Bin 0 -> 186372 bytes
+ public/acervo/coluni/massivo-2015/pagina-21.webp   |    Bin 0 -> 108760 bytes
+ public/acervo/coluni/massivo-2015/pagina-22.webp   |    Bin 0 -> 172758 bytes
+ public/acervo/coluni/massivo-2015/pagina-23.webp   |    Bin 0 -> 228806 bytes
+ public/acervo/coluni/massivo-2015/pagina-24.webp   |    Bin 0 -> 76284 bytes
+ public/acervo/coluni/massivo-2015/pagina-25.webp   |    Bin 0 -> 159712 bytes
+ public/acervo/coluni/massivo-2016/pagina-01.webp   |    Bin 0 -> 335152 bytes
+ public/acervo/coluni/massivo-2016/pagina-02.webp   |    Bin 0 -> 206022 bytes
+ public/acervo/coluni/massivo-2016/pagina-03.webp   |    Bin 0 -> 177314 bytes
+ public/acervo/coluni/massivo-2016/pagina-04.webp   |    Bin 0 -> 225116 bytes
+ public/acervo/coluni/massivo-2016/pagina-05.webp   |    Bin 0 -> 157772 bytes
+ public/acervo/coluni/massivo-2016/pagina-06.webp   |    Bin 0 -> 162810 bytes
+ public/acervo/coluni/massivo-2016/pagina-07.webp   |    Bin 0 -> 172626 bytes
+ public/acervo/coluni/massivo-2016/pagina-08.webp   |    Bin 0 -> 201514 bytes
+ public/acervo/coluni/massivo-2016/pagina-09.webp   |    Bin 0 -> 144472 bytes
+ public/acervo/coluni/massivo-2016/pagina-10.webp   |    Bin 0 -> 154364 bytes
+ public/acervo/coluni/massivo-2016/pagina-11.webp   |    Bin 0 -> 236682 bytes
+ public/acervo/coluni/massivo-2016/pagina-12.webp   |    Bin 0 -> 268848 bytes
+ public/acervo/coluni/massivo-2016/pagina-13.webp   |    Bin 0 -> 116806 bytes
+ public/acervo/coluni/massivo-2016/pagina-14.webp   |    Bin 0 -> 97150 bytes
+ public/acervo/coluni/massivo-2016/pagina-15.webp   |    Bin 0 -> 70060 bytes
+ public/acervo/coluni/massivo-2016/pagina-16.webp   |    Bin 0 -> 215162 bytes
+ public/acervo/coluni/massivo-2016/pagina-17.webp   |    Bin 0 -> 286362 bytes
+ public/acervo/coluni/massivo-2016/pagina-18.webp   |    Bin 0 -> 256804 bytes
+ public/acervo/coluni/massivo-2016/pagina-19.webp   |    Bin 0 -> 99972 bytes
+ public/acervo/coluni/massivo-2016/pagina-20.webp   |    Bin 0 -> 301066 bytes
+ public/acervo/coluni/massivo-2016/pagina-21.webp   |    Bin 0 -> 180866 bytes
+ public/acervo/coluni/massivo-2016/pagina-22.webp   |    Bin 0 -> 120294 bytes
+ public/acervo/coluni/massivo-2016/pagina-23.webp   |    Bin 0 -> 155816 bytes
+ public/acervo/coluni/massivo-2016/pagina-24.webp   |    Bin 0 -> 124296 bytes
+ public/acervo/coluni/massivo-2019/pagina-01.webp   |    Bin 0 -> 140840 bytes
+ public/acervo/coluni/massivo-2019/pagina-02.webp   |    Bin 0 -> 117280 bytes
+ public/acervo/coluni/massivo-2019/pagina-03.webp   |    Bin 0 -> 147728 bytes
+ public/acervo/coluni/massivo-2019/pagina-05.webp   |    Bin 0 -> 206008 bytes
+ public/acervo/coluni/massivo-2019/pagina-06.webp   |    Bin 0 -> 146166 bytes
+ public/acervo/coluni/massivo-2019/pagina-07.webp   |    Bin 0 -> 132942 bytes
+ public/acervo/coluni/massivo-2019/pagina-08.webp   |    Bin 0 -> 114984 bytes
+ public/acervo/coluni/massivo-2019/pagina-09.webp   |    Bin 0 -> 73970 bytes
+ public/acervo/coluni/massivo-2019/pagina-10.webp   |    Bin 0 -> 123372 bytes
+ public/acervo/coluni/massivo-2019/pagina-11.webp   |    Bin 0 -> 253922 bytes
+ public/acervo/coluni/massivo-2019/pagina-12.webp   |    Bin 0 -> 73366 bytes
+ public/acervo/coluni/massivo-2019/pagina-13.webp   |    Bin 0 -> 122620 bytes
+ public/acervo/coluni/massivo-2019/pagina-14.webp   |    Bin 0 -> 107942 bytes
+ public/acervo/coluni/massivo-2019/pagina-15.webp   |    Bin 0 -> 133082 bytes
+ public/acervo/coluni/massivo-2019/pagina-16.webp   |    Bin 0 -> 180024 bytes
+ public/acervo/coluni/massivo-2019/pagina-17.webp   |    Bin 0 -> 74780 bytes
+ public/acervo/coluni/massivo-2019/pagina-18.webp   |    Bin 0 -> 205316 bytes
+ public/acervo/coluni/massivo-2019/pagina-19.webp   |    Bin 0 -> 186404 bytes
+ public/acervo/coluni/massivo-2019/pagina-20.webp   |    Bin 0 -> 295174 bytes
+ public/acervo/coluni/massivo-2019/pagina-21.webp   |    Bin 0 -> 183544 bytes
+ public/acervo/coluni/massivo-2019/pagina-22.webp   |    Bin 0 -> 191082 bytes
+ public/acervo/coluni/massivo-2019/pagina-23.webp   |    Bin 0 -> 197890 bytes
+ public/acervo/coluni/massivo-2019/pagina-24.webp   |    Bin 0 -> 259240 bytes
+ public/acervo/coluni/massivo-2020/pagina-01.webp   |    Bin 0 -> 163726 bytes
+ public/acervo/coluni/massivo-2020/pagina-02.webp   |    Bin 0 -> 118448 bytes
+ public/acervo/coluni/massivo-2020/pagina-03.webp   |    Bin 0 -> 214016 bytes
+ public/acervo/coluni/massivo-2020/pagina-04.webp   |    Bin 0 -> 155620 bytes
+ public/acervo/coluni/massivo-2020/pagina-05.webp   |    Bin 0 -> 153596 bytes
+ public/acervo/coluni/massivo-2020/pagina-06.webp   |    Bin 0 -> 147926 bytes
+ public/acervo/coluni/massivo-2020/pagina-07.webp   |    Bin 0 -> 146784 bytes
+ public/acervo/coluni/massivo-2020/pagina-08.webp   |    Bin 0 -> 54574 bytes
+ public/acervo/coluni/massivo-2020/pagina-09.webp   |    Bin 0 -> 195632 bytes
+ public/acervo/coluni/massivo-2020/pagina-10.webp   |    Bin 0 -> 48154 bytes
+ public/acervo/coluni/massivo-2020/pagina-11.webp   |    Bin 0 -> 134396 bytes
+ public/acervo/coluni/massivo-2020/pagina-12.webp   |    Bin 0 -> 176650 bytes
+ public/acervo/coluni/massivo-2020/pagina-13.webp   |    Bin 0 -> 199478 bytes
+ public/acervo/coluni/massivo-2020/pagina-14.webp   |    Bin 0 -> 187252 bytes
+ public/acervo/coluni/massivo-2020/pagina-15.webp   |    Bin 0 -> 98884 bytes
+ public/acervo/coluni/massivo-2020/pagina-16.webp   |    Bin 0 -> 103904 bytes
+ public/acervo/coluni/massivo-2020/pagina-17.webp   |    Bin 0 -> 99198 bytes
+ public/acervo/coluni/massivo-2020/pagina-18.webp   |    Bin 0 -> 83780 bytes
+ public/acervo/coluni/massivo-2020/pagina-19.webp   |    Bin 0 -> 141512 bytes
+ public/acervo/coluni/massivo-2020/pagina-20.webp   |    Bin 0 -> 210650 bytes
+ public/acervo/coluni/massivo-2020/pagina-21.webp   |    Bin 0 -> 199200 bytes
+ public/acervo/coluni/massivo-2020/pagina-22.webp   |    Bin 0 -> 151972 bytes
+ public/acervo/coluni/massivo-2020/pagina-23.webp   |    Bin 0 -> 209068 bytes
+ public/acervo/coluni/massivo-2020/pagina-24.webp   |    Bin 0 -> 223196 bytes
+ public/acervo/coluni/massivo-2021/pagina-01.webp   |    Bin 0 -> 129880 bytes
+ public/acervo/coluni/massivo-2021/pagina-02.webp   |    Bin 0 -> 167622 bytes
+ public/acervo/coluni/massivo-2021/pagina-03.webp   |    Bin 0 -> 157948 bytes
+ public/acervo/coluni/massivo-2021/pagina-04.webp   |    Bin 0 -> 180856 bytes
+ public/acervo/coluni/massivo-2021/pagina-05.webp   |    Bin 0 -> 176746 bytes
+ public/acervo/coluni/massivo-2021/pagina-06.webp   |    Bin 0 -> 87630 bytes
+ public/acervo/coluni/massivo-2021/pagina-07.webp   |    Bin 0 -> 90784 bytes
+ public/acervo/coluni/massivo-2021/pagina-08.webp   |    Bin 0 -> 117994 bytes
+ public/acervo/coluni/massivo-2021/pagina-09.webp   |    Bin 0 -> 188090 bytes
+ public/acervo/coluni/massivo-2021/pagina-10.webp   |    Bin 0 -> 78834 bytes
+ public/acervo/coluni/massivo-2021/pagina-11.webp   |    Bin 0 -> 107840 bytes
+ public/acervo/coluni/massivo-2021/pagina-12.webp   |    Bin 0 -> 279590 bytes
+ public/acervo/coluni/massivo-2021/pagina-13.webp   |    Bin 0 -> 243472 bytes
+ public/acervo/coluni/massivo-2021/pagina-15.webp   |    Bin 0 -> 172350 bytes
+ public/acervo/coluni/massivo-2021/pagina-16.webp   |    Bin 0 -> 97096 bytes
+ public/acervo/coluni/massivo-2021/pagina-17.webp   |    Bin 0 -> 135336 bytes
+ public/acervo/coluni/massivo-2021/pagina-18.webp   |    Bin 0 -> 185750 bytes
+ public/acervo/coluni/massivo-2021/pagina-19.webp   |    Bin 0 -> 216632 bytes
+ public/acervo/coluni/massivo-2021/pagina-20.webp   |    Bin 0 -> 249940 bytes
+ public/acervo/coluni/massivo-2021/pagina-21.webp   |    Bin 0 -> 199534 bytes
+ public/acervo/coluni/massivo-2021/pagina-22.webp   |    Bin 0 -> 303118 bytes
+ public/acervo/coluni/massivo-2021/pagina-23.webp   |    Bin 0 -> 303568 bytes
+ public/acervo/coluni/massivo-2021/pagina-24.webp   |    Bin 0 -> 173226 bytes
+ public/acervo/coluni/massivo-2022/pagina-01.webp   |    Bin 0 -> 292486 bytes
+ public/acervo/coluni/massivo-2022/pagina-02.webp   |    Bin 0 -> 139766 bytes
+ public/acervo/coluni/massivo-2022/pagina-03.webp   |    Bin 0 -> 159176 bytes
+ public/acervo/coluni/massivo-2022/pagina-04.webp   |    Bin 0 -> 98478 bytes
+ public/acervo/coluni/massivo-2022/pagina-05.webp   |    Bin 0 -> 135334 bytes
+ public/acervo/coluni/massivo-2022/pagina-06.webp   |    Bin 0 -> 103318 bytes
+ public/acervo/coluni/massivo-2022/pagina-07.webp   |    Bin 0 -> 176194 bytes
+ public/acervo/coluni/massivo-2022/pagina-08.webp   |    Bin 0 -> 148380 bytes
+ public/acervo/coluni/massivo-2022/pagina-09.webp   |    Bin 0 -> 211600 bytes
+ public/acervo/coluni/massivo-2022/pagina-10.webp   |    Bin 0 -> 147668 bytes
+ public/acervo/coluni/massivo-2022/pagina-11.webp   |    Bin 0 -> 228442 bytes
+ public/acervo/coluni/massivo-2022/pagina-12.webp   |    Bin 0 -> 130626 bytes
+ public/acervo/coluni/massivo-2022/pagina-13.webp   |    Bin 0 -> 142204 bytes
+ public/acervo/coluni/massivo-2022/pagina-14.webp   |    Bin 0 -> 250694 bytes
+ public/acervo/coluni/massivo-2022/pagina-15.webp   |    Bin 0 -> 323474 bytes
+ public/acervo/coluni/massivo-2022/pagina-16.webp   |    Bin 0 -> 157272 bytes
+ public/acervo/coluni/massivo-2022/pagina-17.webp   |    Bin 0 -> 158584 bytes
+ public/acervo/coluni/massivo-2022/pagina-18.webp   |    Bin 0 -> 143254 bytes
+ public/acervo/coluni/massivo-2022/pagina-19.webp   |    Bin 0 -> 128068 bytes
+ public/acervo/coluni/massivo-2022/pagina-20.webp   |    Bin 0 -> 209720 bytes
+ public/acervo/coluni/massivo-2022/pagina-21.webp   |    Bin 0 -> 92810 bytes
+ public/acervo/coluni/massivo-2022/pagina-22.webp   |    Bin 0 -> 270106 bytes
+ public/acervo/coluni/massivo-2022/pagina-23.webp   |    Bin 0 -> 224630 bytes
+ public/acervo/coluni/massivo-2023/pagina-01.webp   |    Bin 0 -> 289906 bytes
+ public/acervo/coluni/massivo-2023/pagina-02.webp   |    Bin 0 -> 240138 bytes
+ public/acervo/coluni/massivo-2023/pagina-03.webp   |    Bin 0 -> 255548 bytes
+ public/acervo/coluni/massivo-2023/pagina-04.webp   |    Bin 0 -> 346118 bytes
+ public/acervo/coluni/massivo-2023/pagina-05.webp   |    Bin 0 -> 158114 bytes
+ public/acervo/coluni/massivo-2023/pagina-06.webp   |    Bin 0 -> 85378 bytes
+ public/acervo/coluni/massivo-2023/pagina-07.webp   |    Bin 0 -> 123456 bytes
+ public/acervo/coluni/massivo-2023/pagina-08.webp   |    Bin 0 -> 114142 bytes
+ public/acervo/coluni/massivo-2023/pagina-09.webp   |    Bin 0 -> 245164 bytes
+ public/acervo/coluni/massivo-2023/pagina-10.webp   |    Bin 0 -> 134028 bytes
+ public/acervo/coluni/massivo-2023/pagina-11.webp   |    Bin 0 -> 114738 bytes
+ public/acervo/coluni/massivo-2023/pagina-12.webp   |    Bin 0 -> 51994 bytes
+ public/acervo/coluni/massivo-2023/pagina-13.webp   |    Bin 0 -> 172702 bytes
+ public/acervo/coluni/massivo-2023/pagina-14.webp   |    Bin 0 -> 213652 bytes
+ public/acervo/coluni/massivo-2023/pagina-15.webp   |    Bin 0 -> 97142 bytes
+ public/acervo/coluni/massivo-2023/pagina-16.webp   |    Bin 0 -> 245272 bytes
+ public/acervo/coluni/massivo-2023/pagina-17.webp   |    Bin 0 -> 253678 bytes
+ public/acervo/coluni/massivo-2023/pagina-18.webp   |    Bin 0 -> 184106 bytes
+ public/acervo/coluni/massivo-2023/pagina-19.webp   |    Bin 0 -> 195868 bytes
+ public/acervo/coluni/massivo-2023/pagina-20.webp   |    Bin 0 -> 193194 bytes
+ public/acervo/coluni/massivo-2023/pagina-21.webp   |    Bin 0 -> 124198 bytes
+ public/acervo/coluni/massivo-2023/pagina-22.webp   |    Bin 0 -> 279376 bytes
+ public/acervo/coluni/massivo-2023/pagina-23.webp   |    Bin 0 -> 226168 bytes
+ public/acervo/coluni/massivo-2023/pagina-24.webp   |    Bin 0 -> 262396 bytes
+ public/acervo/coluni/massivo-2024/pagina-01.webp   |    Bin 0 -> 190154 bytes
+ public/acervo/coluni/massivo-2024/pagina-02.webp   |    Bin 0 -> 177684 bytes
+ public/acervo/coluni/massivo-2024/pagina-03.webp   |    Bin 0 -> 259638 bytes
+ public/acervo/coluni/massivo-2024/pagina-04.webp   |    Bin 0 -> 73870 bytes
+ public/acervo/coluni/massivo-2024/pagina-05.webp   |    Bin 0 -> 137814 bytes
+ public/acervo/coluni/massivo-2024/pagina-06.webp   |    Bin 0 -> 83306 bytes
+ public/acervo/coluni/massivo-2024/pagina-07.webp   |    Bin 0 -> 131290 bytes
+ public/acervo/coluni/massivo-2024/pagina-08.webp   |    Bin 0 -> 75754 bytes
+ public/acervo/coluni/massivo-2024/pagina-09.webp   |    Bin 0 -> 225626 bytes
+ public/acervo/coluni/massivo-2024/pagina-10.webp   |    Bin 0 -> 100188 bytes
+ public/acervo/coluni/massivo-2024/pagina-11.webp   |    Bin 0 -> 109938 bytes
+ public/acervo/coluni/massivo-2024/pagina-12.webp   |    Bin 0 -> 65424 bytes
+ public/acervo/coluni/massivo-2024/pagina-13.webp   |    Bin 0 -> 183264 bytes
+ public/acervo/coluni/massivo-2024/pagina-14.webp   |    Bin 0 -> 252526 bytes
+ public/acervo/coluni/massivo-2024/pagina-15.webp   |    Bin 0 -> 142800 bytes
+ public/acervo/coluni/massivo-2024/pagina-16.webp   |    Bin 0 -> 144702 bytes
+ public/acervo/coluni/massivo-2024/pagina-17.webp   |    Bin 0 -> 127924 bytes
+ public/acervo/coluni/massivo-2024/pagina-18.webp   |    Bin 0 -> 92522 bytes
+ public/acervo/coluni/massivo-2024/pagina-19.webp   |    Bin 0 -> 153106 bytes
+ public/acervo/coluni/massivo-2024/pagina-20.webp   |    Bin 0 -> 168068 bytes
+ public/acervo/coluni/massivo-2024/pagina-21.webp   |    Bin 0 -> 215550 bytes
+ public/acervo/coluni/massivo-2024/pagina-22.webp   |    Bin 0 -> 328514 bytes
+ public/acervo/coluni/massivo-2024/pagina-23.webp   |    Bin 0 -> 239200 bytes
+ public/acervo/coluni/massivo-2025/pagina-01.webp   |    Bin 0 -> 195840 bytes
+ public/acervo/coluni/massivo-2025/pagina-02.webp   |    Bin 0 -> 305748 bytes
+ public/acervo/coluni/massivo-2025/pagina-03.webp   |    Bin 0 -> 201078 bytes
+ public/acervo/coluni/massivo-2025/pagina-04.webp   |    Bin 0 -> 190582 bytes
+ public/acervo/coluni/massivo-2025/pagina-05.webp   |    Bin 0 -> 122196 bytes
+ public/acervo/coluni/massivo-2025/pagina-06.webp   |    Bin 0 -> 144594 bytes
+ public/acervo/coluni/massivo-2025/pagina-07.webp   |    Bin 0 -> 127474 bytes
+ public/acervo/coluni/massivo-2025/pagina-08.webp   |    Bin 0 -> 66870 bytes
+ public/acervo/coluni/massivo-2025/pagina-09.webp   |    Bin 0 -> 148612 bytes
+ public/acervo/coluni/massivo-2025/pagina-10.webp   |    Bin 0 -> 286288 bytes
+ public/acervo/coluni/massivo-2025/pagina-11.webp   |    Bin 0 -> 173948 bytes
+ public/acervo/coluni/massivo-2025/pagina-12.webp   |    Bin 0 -> 102664 bytes
+ public/acervo/coluni/massivo-2025/pagina-13.webp   |    Bin 0 -> 71010 bytes
+ public/acervo/coluni/massivo-2025/pagina-14.webp   |    Bin 0 -> 130416 bytes
+ public/acervo/coluni/massivo-2025/pagina-15.webp   |    Bin 0 -> 152976 bytes
+ public/acervo/coluni/massivo-2025/pagina-16.webp   |    Bin 0 -> 195524 bytes
+ public/acervo/coluni/massivo-2025/pagina-17.webp   |    Bin 0 -> 186878 bytes
+ public/acervo/coluni/massivo-2025/pagina-18.webp   |    Bin 0 -> 227406 bytes
+ public/acervo/coluni/massivo-2025/pagina-19.webp   |    Bin 0 -> 250126 bytes
+ public/acervo/coluni/massivo-2025/pagina-20.webp   |    Bin 0 -> 189590 bytes
+ public/acervo/coluni/massivo-2025/pagina-21.webp   |    Bin 0 -> 282006 bytes
+ public/acervo/coluni/massivo-2025/pagina-22.webp   |    Bin 0 -> 216306 bytes
+ public/acervo/coluni/massivo-2025/pagina-23.webp   |    Bin 0 -> 258138 bytes
+ public/acervo/coluni/massivo-2025/pagina-24.webp   |    Bin 0 -> 156810 bytes
+ public/acervo/coluni/massivo-2026/pagina-01.webp   |    Bin 0 -> 351552 bytes
+ public/acervo/coluni/massivo-2026/pagina-02.webp   |    Bin 0 -> 191444 bytes
+ public/acervo/coluni/massivo-2026/pagina-03.webp   |    Bin 0 -> 258076 bytes
+ public/acervo/coluni/massivo-2026/pagina-04.webp   |    Bin 0 -> 179188 bytes
+ public/acervo/coluni/massivo-2026/pagina-05.webp   |    Bin 0 -> 283652 bytes
+ public/acervo/coluni/massivo-2026/pagina-06.webp   |    Bin 0 -> 79660 bytes
+ public/acervo/coluni/massivo-2026/pagina-07.webp   |    Bin 0 -> 107070 bytes
+ public/acervo/coluni/massivo-2026/pagina-08.webp   |    Bin 0 -> 130218 bytes
+ public/acervo/coluni/massivo-2026/pagina-09.webp   |    Bin 0 -> 154656 bytes
+ public/acervo/coluni/massivo-2026/pagina-10.webp   |    Bin 0 -> 145220 bytes
+ public/acervo/coluni/massivo-2026/pagina-11.webp   |    Bin 0 -> 324690 bytes
+ public/acervo/coluni/massivo-2026/pagina-12.webp   |    Bin 0 -> 93964 bytes
+ public/acervo/coluni/massivo-2026/pagina-13.webp   |    Bin 0 -> 181780 bytes
+ public/acervo/coluni/massivo-2026/pagina-14.webp   |    Bin 0 -> 215356 bytes
+ public/acervo/coluni/massivo-2026/pagina-15.webp   |    Bin 0 -> 103984 bytes
+ public/acervo/coluni/massivo-2026/pagina-16.webp   |    Bin 0 -> 203078 bytes
+ public/acervo/coluni/massivo-2026/pagina-17.webp   |    Bin 0 -> 189548 bytes
+ public/acervo/coluni/massivo-2026/pagina-18.webp   |    Bin 0 -> 125386 bytes
+ public/acervo/coluni/massivo-2026/pagina-19.webp   |    Bin 0 -> 227872 bytes
+ public/acervo/coluni/massivo-2026/pagina-20.webp   |    Bin 0 -> 210282 bytes
+ public/acervo/coluni/massivo-2026/pagina-22.webp   |    Bin 0 -> 222326 bytes
+ public/acervo/coluni/massivo-2026/pagina-23.webp   |    Bin 0 -> 198962 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-04.webp   |    Bin 0 -> 91158 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-05.webp   |    Bin 0 -> 92658 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-06.webp   |    Bin 0 -> 70808 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-07.webp   |    Bin 0 -> 64814 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-08.webp   |    Bin 0 -> 66608 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-09.webp   |    Bin 0 -> 189146 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-10.webp   |    Bin 0 -> 61536 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-11.webp   |    Bin 0 -> 112908 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-12.webp   |    Bin 0 -> 173640 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-13.webp   |    Bin 0 -> 104710 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-15.webp   |    Bin 0 -> 104722 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-16.webp   |    Bin 0 -> 102144 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-17.webp   |    Bin 0 -> 100920 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-18.webp   |    Bin 0 -> 93480 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-19.webp   |    Bin 0 -> 104650 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-20.webp   |    Bin 0 -> 128916 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-21.webp   |    Bin 0 -> 105232 bytes
+ public/acervo/ifsc/massivo-2017-1/pagina-22.webp   |    Bin 0 -> 69460 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-04.webp   |    Bin 0 -> 126418 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-05.webp   |    Bin 0 -> 86138 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-06.webp   |    Bin 0 -> 79394 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-07.webp   |    Bin 0 -> 73466 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-08.webp   |    Bin 0 -> 90056 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-09.webp   |    Bin 0 -> 82890 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-12.webp   |    Bin 0 -> 298036 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-13.webp   |    Bin 0 -> 87666 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-14.webp   |    Bin 0 -> 92554 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-15.webp   |    Bin 0 -> 104068 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-16.webp   |    Bin 0 -> 113850 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-17.webp   |    Bin 0 -> 240328 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-18.webp   |    Bin 0 -> 112310 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-19.webp   |    Bin 0 -> 202360 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-20.webp   |    Bin 0 -> 100926 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-21.webp   |    Bin 0 -> 137896 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-22.webp   |    Bin 0 -> 128700 bytes
+ public/acervo/ifsc/massivo-2017-2/pagina-23.webp   |    Bin 0 -> 25416 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-05.webp   |    Bin 0 -> 76128 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-06.webp   |    Bin 0 -> 59164 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-07.webp   |    Bin 0 -> 59304 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-09.webp   |    Bin 0 -> 72652 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-10.webp   |    Bin 0 -> 47696 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-11.webp   |    Bin 0 -> 108674 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-12.webp   |    Bin 0 -> 325250 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-13.webp   |    Bin 0 -> 106962 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-14.webp   |    Bin 0 -> 110054 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-15.webp   |    Bin 0 -> 116784 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-16.webp   |    Bin 0 -> 107426 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-17.webp   |    Bin 0 -> 142776 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-18.webp   |    Bin 0 -> 127398 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-19.webp   |    Bin 0 -> 146260 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-20.webp   |    Bin 0 -> 316690 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-21.webp   |    Bin 0 -> 85916 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-22.webp   |    Bin 0 -> 143054 bytes
+ public/acervo/ifsc/massivo-2018-1/pagina-23.webp   |    Bin 0 -> 25424 bytes
+ public/acervo/ifsc/massivo-2018-2/pagina-03.webp   |    Bin 0 -> 89214 bytes
+ public/acervo/ifsc/massivo-2018-2/pagina-04.webp   |    Bin 0 -> 106442 bytes
+ public/acervo/ifsc/massivo-2018-2/pagina-10.webp   |    Bin 0 -> 132584 bytes
+ public/acervo/ifsc/massivo-2018-2/pagina-12.webp   |    Bin 0 -> 105120 bytes
+ public/acervo/ifsc/massivo-2018-2/pagina-14.webp   |    Bin 0 -> 90804 bytes
+ public/acervo/ifsc/massivo-2018-2/pagina-15.webp   |    Bin 0 -> 138368 bytes
+ public/acervo/ifsc/massivo-2018-2/pagina-16.webp   |    Bin 0 -> 161888 bytes
+ public/acervo/ifsc/massivo-2018-2/pagina-17.webp   |    Bin 0 -> 200990 bytes
+ public/acervo/ifsc/massivo-2018-2/pagina-18.webp   |    Bin 0 -> 215972 bytes
+ public/acervo/ifsc/massivo-2018-2/pagina-19.webp   |    Bin 0 -> 297470 bytes
+ public/acervo/ifsc/massivo-2018-2/pagina-20.webp   |    Bin 0 -> 81870 bytes
+ public/acervo/ifsc/massivo-2018-2/pagina-21.webp   |    Bin 0 -> 118336 bytes
+ public/acervo/ifsc/massivo-2018-2/pagina-22.webp   |    Bin 0 -> 128254 bytes
+ public/acervo/ifsc/massivo-2018-2/pagina-23.webp   |    Bin 0 -> 24794 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-03.webp   |    Bin 0 -> 92970 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-04.webp   |    Bin 0 -> 74712 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-07.webp   |    Bin 0 -> 50616 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-08.webp   |    Bin 0 -> 81996 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-09.webp   |    Bin 0 -> 71286 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-10.webp   |    Bin 0 -> 64978 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-11.webp   |    Bin 0 -> 208618 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-12.webp   |    Bin 0 -> 101540 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-13.webp   |    Bin 0 -> 157708 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-14.webp   |    Bin 0 -> 150194 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-16.webp   |    Bin 0 -> 313390 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-17.webp   |    Bin 0 -> 163118 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-18.webp   |    Bin 0 -> 142404 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-20.webp   |    Bin 0 -> 129108 bytes
+ public/acervo/ifsc/massivo-2019-1/pagina-23.webp   |    Bin 0 -> 27936 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-03.webp   |    Bin 0 -> 130294 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-04.webp   |    Bin 0 -> 84560 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-05.webp   |    Bin 0 -> 80146 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-06.webp   |    Bin 0 -> 120832 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-07.webp   |    Bin 0 -> 90384 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-08.webp   |    Bin 0 -> 81628 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-09.webp   |    Bin 0 -> 122534 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-10.webp   |    Bin 0 -> 107844 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-11.webp   |    Bin 0 -> 142544 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-12.webp   |    Bin 0 -> 238020 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-13.webp   |    Bin 0 -> 133906 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-14.webp   |    Bin 0 -> 152546 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-15.webp   |    Bin 0 -> 235026 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-16.webp   |    Bin 0 -> 132464 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-17.webp   |    Bin 0 -> 233950 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-18.webp   |    Bin 0 -> 137484 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-19.webp   |    Bin 0 -> 87020 bytes
+ public/acervo/ifsc/massivo-2020-1/pagina-24.webp   |    Bin 0 -> 165842 bytes
+ public/acervo/ifsc/massivo-2022-2/pagina-03.webp   |    Bin 0 -> 282122 bytes
+ public/acervo/ifsc/massivo-2022-2/pagina-04.webp   |    Bin 0 -> 164844 bytes
+ public/acervo/ifsc/massivo-2022-2/pagina-05.webp   |    Bin 0 -> 217084 bytes
+ public/acervo/ifsc/massivo-2022-2/pagina-06.webp   |    Bin 0 -> 218734 bytes
+ public/acervo/ifsc/massivo-2022-2/pagina-07.webp   |    Bin 0 -> 234002 bytes
+ public/acervo/ifsc/massivo-2022-2/pagina-08.webp   |    Bin 0 -> 149290 bytes
+ public/acervo/ifsc/massivo-2022-2/pagina-09.webp   |    Bin 0 -> 127118 bytes
+ public/acervo/ifsc/massivo-2022-2/pagina-10.webp   |    Bin 0 -> 166126 bytes
+ public/acervo/ifsc/massivo-2022-2/pagina-11.webp   |    Bin 0 -> 90116 bytes
+ public/acervo/ifsc/massivo-2022-2/pagina-12.webp   |    Bin 0 -> 170724 bytes
+ public/acervo/ifsc/massivo-2022-2/pagina-13.webp   |    Bin 0 -> 123888 bytes
+ public/acervo/ifsc/massivo-2022-2/pagina-14.webp   |    Bin 0 -> 111318 bytes
+ public/acervo/ifsc/massivo-2022-2/pagina-15.webp   |    Bin 0 -> 120264 bytes
+ public/acervo/ifsc/massivo-2022-2/pagina-16.webp   |    Bin 0 -> 24190 bytes
+ public/acervo/ifsc/massivo-2023-1/pagina-03.webp   |    Bin 0 -> 124282 bytes
+ public/acervo/ifsc/massivo-2023-1/pagina-04.webp   |    Bin 0 -> 172116 bytes
+ public/acervo/ifsc/massivo-2023-1/pagina-05.webp   |    Bin 0 -> 212544 bytes
+ public/acervo/ifsc/massivo-2023-1/pagina-06.webp   |    Bin 0 -> 141702 bytes
+ public/acervo/ifsc/massivo-2023-1/pagina-07.webp   |    Bin 0 -> 249688 bytes
+ public/acervo/ifsc/massivo-2023-1/pagina-08.webp   |    Bin 0 -> 167670 bytes
+ public/acervo/ifsc/massivo-2023-1/pagina-09.webp   |    Bin 0 -> 198344 bytes
+ public/acervo/ifsc/massivo-2023-1/pagina-10.webp   |    Bin 0 -> 175012 bytes
+ public/acervo/ifsc/massivo-2023-1/pagina-11.webp   |    Bin 0 -> 98816 bytes
+ public/acervo/ifsc/massivo-2023-1/pagina-12.webp   |    Bin 0 -> 166304 bytes
+ public/acervo/ifsc/massivo-2023-1/pagina-13.webp   |    Bin 0 -> 147648 bytes
+ public/acervo/ifsc/massivo-2023-1/pagina-14.webp   |    Bin 0 -> 179428 bytes
+ public/acervo/ifsc/massivo-2023-1/pagina-15.webp   |    Bin 0 -> 137946 bytes
+ public/acervo/ifsc/massivo-2023-1/pagina-16.webp   |    Bin 0 -> 22638 bytes
+ public/acervo/ifsc/massivo-2023-2/pagina-02.webp   |    Bin 0 -> 221160 bytes
+ public/acervo/ifsc/massivo-2023-2/pagina-03.webp   |    Bin 0 -> 194960 bytes
+ public/acervo/ifsc/massivo-2023-2/pagina-04.webp   |    Bin 0 -> 170880 bytes
+ public/acervo/ifsc/massivo-2023-2/pagina-05.webp   |    Bin 0 -> 203550 bytes
+ public/acervo/ifsc/massivo-2023-2/pagina-06.webp   |    Bin 0 -> 145224 bytes
+ public/acervo/ifsc/massivo-2023-2/pagina-07.webp   |    Bin 0 -> 222422 bytes
+ public/acervo/ifsc/massivo-2023-2/pagina-08.webp   |    Bin 0 -> 225228 bytes
+ public/acervo/ifsc/massivo-2023-2/pagina-09.webp   |    Bin 0 -> 224960 bytes
+ public/acervo/ifsc/massivo-2023-2/pagina-10.webp   |    Bin 0 -> 178000 bytes
+ public/acervo/ifsc/massivo-2023-2/pagina-11.webp   |    Bin 0 -> 250306 bytes
+ public/acervo/ifsc/massivo-2023-2/pagina-12.webp   |    Bin 0 -> 141838 bytes
+ public/acervo/ifsc/massivo-2023-2/pagina-13.webp   |    Bin 0 -> 155256 bytes
+ public/acervo/ifsc/massivo-2023-2/pagina-14.webp   |    Bin 0 -> 198242 bytes
+ public/acervo/ifsc/massivo-2023-2/pagina-16.webp   |    Bin 0 -> 121790 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-02.webp      |    Bin 0 -> 201662 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-03.webp      |    Bin 0 -> 141418 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-04.webp      |    Bin 0 -> 185630 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-05.webp      |    Bin 0 -> 125866 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-06.webp      |    Bin 0 -> 156728 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-07.webp      |    Bin 0 -> 176050 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-08.webp      |    Bin 0 -> 244436 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-09.webp      |    Bin 0 -> 146916 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-10.webp      |    Bin 0 -> 176926 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-11.webp      |    Bin 0 -> 89150 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-12.webp      |    Bin 0 -> 185486 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-13.webp      |    Bin 0 -> 167598 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-14.webp      |    Bin 0 -> 204678 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-15.webp      |    Bin 0 -> 107712 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-16.webp      |    Bin 0 -> 205392 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-17.webp      |    Bin 0 -> 324756 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-18.webp      |    Bin 0 -> 285372 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-19.webp      |    Bin 0 -> 242630 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-20.webp      |    Bin 0 -> 270284 bytes
+ .../ifsc/massivo-2024-1-itajai/pagina-21.webp      |    Bin 0 -> 188834 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-02.webp   |    Bin 0 -> 202320 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-03.webp   |    Bin 0 -> 189762 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-04.webp   |    Bin 0 -> 164598 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-05.webp   |    Bin 0 -> 259076 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-06.webp   |    Bin 0 -> 210122 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-07.webp   |    Bin 0 -> 100182 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-08.webp   |    Bin 0 -> 115748 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-09.webp   |    Bin 0 -> 134886 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-10.webp   |    Bin 0 -> 114404 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-11.webp   |    Bin 0 -> 115246 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-12.webp   |    Bin 0 -> 150874 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-13.webp   |    Bin 0 -> 165842 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-14.webp   |    Bin 0 -> 143146 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-15.webp   |    Bin 0 -> 151520 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-16.webp   |    Bin 0 -> 113058 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-17.webp   |    Bin 0 -> 195730 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-18.webp   |    Bin 0 -> 156696 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-19.webp   |    Bin 0 -> 162062 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-20.webp   |    Bin 0 -> 146248 bytes
+ public/acervo/ifsc/massivo-2024-1/pagina-21.webp   |    Bin 0 -> 203524 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-02.webp   |    Bin 0 -> 199368 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-03.webp   |    Bin 0 -> 189992 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-04.webp   |    Bin 0 -> 192538 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-05.webp   |    Bin 0 -> 214684 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-06.webp   |    Bin 0 -> 204126 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-07.webp   |    Bin 0 -> 154564 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-08.webp   |    Bin 0 -> 192648 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-09.webp   |    Bin 0 -> 230730 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-10.webp   |    Bin 0 -> 202284 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-11.webp   |    Bin 0 -> 170424 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-12.webp   |    Bin 0 -> 95474 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-13.webp   |    Bin 0 -> 189566 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-14.webp   |    Bin 0 -> 136064 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-15.webp   |    Bin 0 -> 102808 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-16.webp   |    Bin 0 -> 298840 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-17.webp   |    Bin 0 -> 196436 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-18.webp   |    Bin 0 -> 150142 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-19.webp   |    Bin 0 -> 155514 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-20.webp   |    Bin 0 -> 142238 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-21.webp   |    Bin 0 -> 238082 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-22.webp   |    Bin 0 -> 198642 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-23.webp   |    Bin 0 -> 201712 bytes
+ public/acervo/ifsc/massivo-2025-1/pagina-24.webp   |    Bin 0 -> 235694 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-02.webp   |    Bin 0 -> 190290 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-03.webp   |    Bin 0 -> 130558 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-04.webp   |    Bin 0 -> 182532 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-05.webp   |    Bin 0 -> 127850 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-06.webp   |    Bin 0 -> 235688 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-07.webp   |    Bin 0 -> 122336 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-08.webp   |    Bin 0 -> 166898 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-09.webp   |    Bin 0 -> 110058 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-10.webp   |    Bin 0 -> 182018 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-11.webp   |    Bin 0 -> 212790 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-12.webp   |    Bin 0 -> 238338 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-13.webp   |    Bin 0 -> 145912 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-14.webp   |    Bin 0 -> 155432 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-15.webp   |    Bin 0 -> 193350 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-16.webp   |    Bin 0 -> 161600 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-17.webp   |    Bin 0 -> 179288 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-18.webp   |    Bin 0 -> 175028 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-19.webp   |    Bin 0 -> 123504 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-20.webp   |    Bin 0 -> 137278 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-21.webp   |    Bin 0 -> 192124 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-22.webp   |    Bin 0 -> 197178 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-23.webp   |    Bin 0 -> 141654 bytes
+ public/acervo/ifsc/massivo-2026-1/pagina-24.webp   |    Bin 0 -> 177678 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-02.webp   |    Bin 0 -> 199450 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-03.webp   |    Bin 0 -> 143700 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-04.webp   |    Bin 0 -> 193608 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-05.webp   |    Bin 0 -> 261692 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-06.webp   |    Bin 0 -> 152480 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-07.webp   |    Bin 0 -> 163678 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-08.webp   |    Bin 0 -> 191238 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-09.webp   |    Bin 0 -> 133520 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-10.webp   |    Bin 0 -> 211764 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-11.webp   |    Bin 0 -> 131878 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-12.webp   |    Bin 0 -> 210266 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-13.webp   |    Bin 0 -> 132116 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-14.webp   |    Bin 0 -> 188172 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-15.webp   |    Bin 0 -> 277582 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-16.webp   |    Bin 0 -> 252716 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-17.webp   |    Bin 0 -> 242628 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-18.webp   |    Bin 0 -> 211928 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-19.webp   |    Bin 0 -> 163774 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-20.webp   |    Bin 0 -> 223952 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-21.webp   |    Bin 0 -> 283884 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-22.webp   |    Bin 0 -> 195586 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-23.webp   |    Bin 0 -> 151394 bytes
+ public/acervo/ifsc/massivo-2026-2/pagina-24.webp   |    Bin 0 -> 180642 bytes
+ .../ifsp/massivo-2026-1-tipo1/pagina-03.webp       |    Bin 0 -> 261066 bytes
+ .../ifsp/massivo-2026-1-tipo1/pagina-04.webp       |    Bin 0 -> 200018 bytes
+ .../ifsp/massivo-2026-1-tipo1/pagina-05.webp       |    Bin 0 -> 238028 bytes
+ .../ifsp/massivo-2026-1-tipo1/pagina-06.webp       |    Bin 0 -> 217808 bytes
+ .../ifsp/massivo-2026-1-tipo1/pagina-07.webp       |    Bin 0 -> 148532 bytes
+ .../ifsp/massivo-2026-1-tipo1/pagina-09.webp       |    Bin 0 -> 192090 bytes
+ .../ifsp/massivo-2026-1-tipo1/pagina-10.webp       |    Bin 0 -> 154206 bytes
+ .../ifsp/massivo-2026-1-tipo1/pagina-11.webp       |    Bin 0 -> 66986 bytes
+ .../ifsp/massivo-2026-1-tipo1/pagina-12.webp       |    Bin 0 -> 133986 bytes
+ .../ifsp/massivo-2026-1-tipo1/pagina-13.webp       |    Bin 0 -> 82670 bytes
+ .../ifsp/massivo-2026-1-tipo1/pagina-14.webp       |    Bin 0 -> 43046 bytes
+ .../ifsp/massivo-2026-1-tipo2/pagina-03.webp       |    Bin 0 -> 154830 bytes
+ .../ifsp/massivo-2026-1-tipo2/pagina-04.webp       |    Bin 0 -> 66944 bytes
+ .../ifsp/massivo-2026-1-tipo2/pagina-05.webp       |    Bin 0 -> 134066 bytes
+ .../ifsp/massivo-2026-1-tipo2/pagina-06.webp       |    Bin 0 -> 82710 bytes
+ .../ifsp/massivo-2026-1-tipo2/pagina-07.webp       |    Bin 0 -> 43070 bytes
+ .../ifsp/massivo-2026-1-tipo2/pagina-08.webp       |    Bin 0 -> 262848 bytes
+ .../ifsp/massivo-2026-1-tipo2/pagina-09.webp       |    Bin 0 -> 199954 bytes
+ .../ifsp/massivo-2026-1-tipo2/pagina-10.webp       |    Bin 0 -> 237996 bytes
+ .../ifsp/massivo-2026-1-tipo2/pagina-11.webp       |    Bin 0 -> 213842 bytes
+ .../ifsp/massivo-2026-1-tipo2/pagina-12.webp       |    Bin 0 -> 148658 bytes
+ .../ifsp/massivo-2026-1-tipo2/pagina-13.webp       |    Bin 0 -> 271916 bytes
+ .../ifsp/massivo-2026-1-tipo2/pagina-14.webp       |    Bin 0 -> 190342 bytes
+ .../pagina-03.webp                                 |    Bin 0 -> 300136 bytes
+ .../pagina-04.webp                                 |    Bin 0 -> 338870 bytes
+ .../pagina-05.webp                                 |    Bin 0 -> 340664 bytes
+ .../pagina-06.webp                                 |    Bin 0 -> 233282 bytes
+ .../pagina-07.webp                                 |    Bin 0 -> 246532 bytes
+ .../pagina-08.webp                                 |    Bin 0 -> 240396 bytes
+ .../pagina-09.webp                                 |    Bin 0 -> 301850 bytes
+ .../pagina-10.webp                                 |    Bin 0 -> 378682 bytes
+ .../pagina-11.webp                                 |    Bin 0 -> 372244 bytes
+ .../pagina-12.webp                                 |    Bin 0 -> 408882 bytes
+ .../pagina-13.webp                                 |    Bin 0 -> 367908 bytes
+ .../pagina-14.webp                                 |    Bin 0 -> 314236 bytes
+ .../pagina-15.webp                                 |    Bin 0 -> 314796 bytes
+ .../pagina-16.webp                                 |    Bin 0 -> 316426 bytes
+ .../pagina-17.webp                                 |    Bin 0 -> 237520 bytes
+ .../pagina-18.webp                                 |    Bin 0 -> 162902 bytes
+ .../pagina-19.webp                                 |    Bin 0 -> 124300 bytes
+ .../pagina-20.webp                                 |    Bin 0 -> 348644 bytes
+ .../pagina-21.webp                                 |    Bin 0 -> 306634 bytes
+ .../pagina-22.webp                                 |    Bin 0 -> 341420 bytes
+ .../pagina-23.webp                                 |    Bin 0 -> 273108 bytes
+ .../pagina-02.webp                                 |    Bin 0 -> 113792 bytes
+ .../pagina-03.webp                                 |    Bin 0 -> 267002 bytes
+ .../pagina-04.webp                                 |    Bin 0 -> 348526 bytes
+ .../pagina-05.webp                                 |    Bin 0 -> 297158 bytes
+ .../pagina-06.webp                                 |    Bin 0 -> 259954 bytes
+ .../pagina-07.webp                                 |    Bin 0 -> 308252 bytes
+ .../pagina-08.webp                                 |    Bin 0 -> 318830 bytes
+ .../pagina-09.webp                                 |    Bin 0 -> 258562 bytes
+ .../pagina-10.webp                                 |    Bin 0 -> 334032 bytes
+ .../pagina-11.webp                                 |    Bin 0 -> 376864 bytes
+ .../pagina-12.webp                                 |    Bin 0 -> 353882 bytes
+ .../pagina-13.webp                                 |    Bin 0 -> 306966 bytes
+ .../pagina-15.webp                                 |    Bin 0 -> 290486 bytes
+ .../pagina-16.webp                                 |    Bin 0 -> 227300 bytes
+ .../pagina-17.webp                                 |    Bin 0 -> 236394 bytes
+ .../pagina-18.webp                                 |    Bin 0 -> 184136 bytes
+ .../pagina-19.webp                                 |    Bin 0 -> 147354 bytes
+ .../pagina-20.webp                                 |    Bin 0 -> 387254 bytes
+ .../pagina-21.webp                                 |    Bin 0 -> 308064 bytes
+ .../pagina-22.webp                                 |    Bin 0 -> 327126 bytes
+ .../pagina-23.webp                                 |    Bin 0 -> 317618 bytes
+ .../pagina-24.webp                                 |    Bin 0 -> 253736 bytes
+ .../pagina-25.webp                                 |    Bin 0 -> 283954 bytes
+ .../pagina-26.webp                                 |    Bin 0 -> 283424 bytes
+ .../pagina-27.webp                                 |    Bin 0 -> 12740 bytes
+ public/llms-full.txt                               |   3016 +-
+ scripts/auditar-gargalo-16k.mjs                    |      8 +
+ scripts/auditar-interface-v3.mjs                   |      2 +-
+ scripts/comparar-enem-api.mjs                      |      5 +
+ scripts/enriquecer-resolucoes-tier2.mjs            |     16 +
+ scripts/gerar-catalogo.mjs                         |      7 +-
+ scripts/gerar-llms.mjs                             |      2 +-
+ scripts/homologar-mercadopago-sandbox.mjs          |     20 +
+ scripts/lib/enem-cruzamento.mjs                    |     14 +
+ scripts/lib/pdf-massivo.mjs                        |     45 +
+ scripts/lib/qualidade.mjs                          |     10 +-
+ scripts/promover-acervo-massivo.mjs                |     26 +
+ src/app/api/billing/webhook/route.ts               |      2 +-
+ src/app/api/v1/study/route.ts                      |      4 +-
+ src/app/globals.css                                |      2 +-
+ src/app/questoes/[slug]/page.tsx                   |      2 +-
+ src/components/ResolucaoQuestao.tsx                |      2 +-
+ src/components/exam-editorial.tsx                  |      2 +-
+ src/components/math-text.tsx                       |      4 +-
+ src/components/painel-metricas.tsx                 |      2 +-
+ src/components/study-session.tsx                   |     16 +-
+ src/components/use-study-progress.ts               |      2 +-
+ src/data/catalogo-v2.json                          |      2 +-
+ .../editorial/modelos-resolucoes-massivas.json     |   1829 +
+ src/data/editorial/promocoes-massivas.json         | 167485 ++++++++++
+ src/data/editorial/provas-indexaveis.json          |     29 +-
+ src/data/editorial/resolucoes-lotes.json           |  11310 +
+ src/data/reader-pages-manifest.json                |      2 +-
+ src/lib/catalogo/schema.ts                         |      2 +-
+ src/lib/catalogo/types.ts                          |      6 +-
+ src/lib/metricasAluno.ts                           |      6 +-
+ src/lib/security/asset-path.ts                     |      4 +-
+ src/lib/seo/schema-graph.ts                        |      2 +-
+ src/lib/study-progress.ts                          |      2 +-
+ tests/catalogo-v2.test.mjs                         |      8 +-
+ tests/e2e/billing-brasil.spec.ts                   |      2 +-
+ tests/e2e/gabaru.spec.ts                           |      2 +-
+ tests/e2e/massivo.spec.ts                          |      3 +
+ tests/e2e/plataforma-v3.spec.ts                    |      2 +-
+ tests/massivo.test.mjs                             |      9 +
+ tests/qualidade-fase2.test.mjs                     |      4 +-
+ tests/resolucoes-massivas.test.mjs                 |      4 +
+ tests/vitest/billing.test.ts                       |      2 +
+ 676 files changed, 632439 insertions(+), 36600 deletions(-)

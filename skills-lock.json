@@ -3,408 +3,483 @@
   "skills": {
     "afk": {
       "source": "jakubkrehel/skills",
+      "commit": "6c2120103600407a1a9986afd834e73144ef8998",
       "sourceType": "github",
       "skillPath": "skills/afk/SKILL.md",
       "computedHash": "ce5b7348ecd357db6c0c162375f1fe171dbd02f2cff35b49cd81e4390438859f"
     },
     "animate": {
-      "source": "delphi-ai/animate-skill",
+      "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
-      "skillPath": "SKILL.md",
-      "computedHash": "0c7b6b236797e43a0b185dc4913484612efa4f8d22ce05812f7467761120837d"
+      "skillPath": "skills/animate/SKILL.md",
+      "computedHash": "c622e29fa956aea703dc4e2b8726d9a017d438beb284a60bc3fdb2540c602102"
     },
     "animate-expo": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/animate-expo/SKILL.md",
       "computedHash": "f221c9cfe03d9255ac3e2383bfb8b1481036142fe2fe9567403eb071d21092bb"
     },
     "animation-performance": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/animation-performance/SKILL.md",
       "computedHash": "1ff92f577fc2b7781ed622fd4eb5e514c252cf5cb95c3661743cd127ee01290a"
     },
     "animation-vocabulary": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/animation-vocabulary/SKILL.md",
       "computedHash": "e1d19134dc63dfb09379f7b42557b63b6123becdd36d15bae991d0b6ca5b2110"
     },
     "apple-design": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/apple-design/SKILL.md",
       "computedHash": "163ba8b42c7d9d5ccb08674266d4727c9ec610b9d876c906b1f29ce5e0d933da"
     },
     "ask-emil": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/ask-emil/SKILL.md",
       "computedHash": "e7a92fe034a4151a27fbe2fad8813ffd18a9c98d6db8689930a1fdb3a7d536f5"
     },
     "ask-sonner": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/ask-sonner/SKILL.md",
       "computedHash": "9e82788679f5f71c9e0686b66200565c3f4e47037a06b9d1e94567ed42361bbc"
     },
     "better-accessibility": {
       "source": "jakubkrehel/skills",
+      "commit": "6c2120103600407a1a9986afd834e73144ef8998",
       "sourceType": "github",
       "skillPath": "skills/better-accessibility/SKILL.md",
       "computedHash": "e610b7be067fb62bc09094ebabcaaef429dde4398900b340e29f00a0217a5731"
     },
     "better-colors": {
       "source": "jakubkrehel/skills",
+      "commit": "6c2120103600407a1a9986afd834e73144ef8998",
       "sourceType": "github",
       "skillPath": "skills/better-colors/SKILL.md",
       "computedHash": "d114ace9df09574564a14316882d80501b48bea636017dc7e4c0ad53053d6319"
     },
     "better-interface": {
       "source": "jakubkrehel/skills",
+      "commit": "6c2120103600407a1a9986afd834e73144ef8998",
       "sourceType": "github",
       "skillPath": "skills/better-interface/SKILL.md",
       "computedHash": "37ae068dc11f7548c3064848cb6d97f4e4626e689ad374c192ddc05d11641c04"
     },
     "better-layout": {
       "source": "jakubkrehel/skills",
+      "commit": "6c2120103600407a1a9986afd834e73144ef8998",
       "sourceType": "github",
       "skillPath": "skills/better-layout/SKILL.md",
       "computedHash": "c00f4b9a36a561d2b5f63ce318467f6e522294bdd217684d3c12c7ec7ce86ea1"
     },
     "better-typography": {
       "source": "jakubkrehel/skills",
+      "commit": "6c2120103600407a1a9986afd834e73144ef8998",
       "sourceType": "github",
       "skillPath": "skills/better-typography/SKILL.md",
       "computedHash": "85b6c26d65e0bcf11fb97f03ec91c057d5adc5d87bdffdee2eb14e0fac59c0a8"
     },
     "better-ui": {
       "source": "jakubkrehel/skills",
+      "commit": "6c2120103600407a1a9986afd834e73144ef8998",
       "sourceType": "github",
       "skillPath": "skills/better-ui/SKILL.md",
       "computedHash": "abfdcb9c08248aa0f1ed413ff5390574fa799b6dcb9237fe7e7ce965598a0753"
     },
     "better-writing": {
       "source": "jakubkrehel/skills",
+      "commit": "6c2120103600407a1a9986afd834e73144ef8998",
       "sourceType": "github",
       "skillPath": "skills/better-writing/SKILL.md",
       "computedHash": "1a0f637280dfd4d2a3245ab6a0dad4b48b22a4a2ced64915eb51876012cf46f0"
     },
     "break": {
       "source": "jakubkrehel/skills",
+      "commit": "6c2120103600407a1a9986afd834e73144ef8998",
       "sourceType": "github",
       "skillPath": "skills/break/SKILL.md",
       "computedHash": "4dc3ebcbe19fde77ea97f01bd85c43e9091e54cab5f818fc51ccae8ead60f9ec"
     },
     "break-ui": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/break-ui/SKILL.md",
       "computedHash": "f089f3663e197fb4e106249df70e815a96e3236520a2e1c0919d1694816baca8"
     },
+    "build-awwwards-quality-sites": {
+      "source": "MengTo/Skills",
+      "commit": "3cc93458c4949c39a04e938ea7892a1d6d3d40bf",
+      "sourceType": "github",
+      "skillPath": "agent-skills/web-design/build-awwwards-quality-sites/SKILL.md",
+      "computedHash": "8a661b539323c08d28ece1b242de7285403469bfc0a09028f783cfc9338dcae6"
+    },
     "build-design": {
       "source": "jakubkrehel/skills",
+      "commit": "6c2120103600407a1a9986afd834e73144ef8998",
       "sourceType": "github",
       "skillPath": "skills/build-design/SKILL.md",
       "computedHash": "9935cc12c9138b34c3cb8f1827d30286e87a3b274fd7f194b97cf6d94a5a79f0"
     },
     "choreograph": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/choreograph/SKILL.md",
       "computedHash": "a33a7cf57eacff502f833778eed62244fb5a890bb25124dacde73bcf8716218c"
     },
     "emil-design-eng": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/emil-design-eng/SKILL.md",
       "computedHash": "e1b377ccde1d32743d1d3f7d8626629deb8055c9114d180c184697928cc66cc6"
     },
     "explain-interface": {
       "source": "jakubkrehel/skills",
+      "commit": "6c2120103600407a1a9986afd834e73144ef8998",
       "sourceType": "github",
       "skillPath": "skills/explain-interface/SKILL.md",
       "computedHash": "027b08c97bb30e38a4498612dd1a8d1ff5424ae535dd9eec61c5de62b5df5b7a"
     },
     "find-animation-opportunities": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/find-animation-opportunities/SKILL.md",
       "computedHash": "9ec1c8c622b2c3caf9bda1712440e25dd4f9bc6da1207db4fa80b784aa319186"
     },
     "gestures": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/gestures/SKILL.md",
       "computedHash": "f17aa90d244bed37d09a608f9b8f58cd7a8dd6b9ff1a06fe2217f6f242c624f7"
     },
     "improve-animations": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/improve-animations/SKILL.md",
       "computedHash": "5c33add82a79754bec0d7ee3376525e24e77b34575d5ae29d0c204f730356eab"
     },
     "interface-review": {
       "source": "jakubkrehel/skills",
+      "commit": "6c2120103600407a1a9986afd834e73144ef8998",
       "sourceType": "github",
       "skillPath": "skills/interface-review/SKILL.md",
       "computedHash": "635ca1213ec840ddbe45d21463f8122dad06cd92643610e09a0304bf2563388a"
     },
     "landing-page-design": {
       "source": "elayadesign/ai-design-skills",
+      "commit": "456d9e0d3e2d84c748bb143c6ca3d90c45e16213",
       "sourceType": "github",
       "skillPath": "skills/landing-page-design/SKILL.md",
       "computedHash": "98fa8463d5fc56f969d52f24512366d66655271080cb67b43ca0790d8e951bc6"
     },
     "learn-taste": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/learn-taste/SKILL.md",
       "computedHash": "edaec540d02abdad48727b7d769574d0ee42e79304826c899a7aba90ef0197c1"
     },
     "make-interfaces-feel-better": {
       "source": "jakubkrehel/make-interfaces-feel-better",
+      "commit": "1a2aa9695487dc6d2a59af28e34db9b1490ab181",
       "sourceType": "github",
       "skillPath": "skills/make-interfaces-feel-better/SKILL.md",
       "computedHash": "076aa566b86b44e1691a4167ea88a85d6853c5f2eb00c39cc719ce5fa21d0731"
     },
     "mobile-native": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/mobile-native/SKILL.md",
       "computedHash": "2f55a258f185314d585cb6a3514a66c15e9cfc8cd45c936284c4fb7374603d7e"
     },
     "pick-ui-library": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/pick-ui-library/SKILL.md",
       "computedHash": "3bc44e7faccb949583f4af6c8a15b5a50acc04a5e656f5168a96e5aa43e9f3cd"
     },
     "prototype": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/prototype/SKILL.md",
       "computedHash": "00fb13a91dbb746e2be91ae4dd67c4cc1f9907351f2d404a0cc6c849be1ebd95"
     },
     "remove-animations": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/remove-animations/SKILL.md",
       "computedHash": "22491898575c9eed57fc1add66a072bfb5ed2cc946289c54f41c3d10b6be4204"
     },
     "review-animations": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/review-animations/SKILL.md",
       "computedHash": "50f1de2394b88bb3433eca1e30da6866a4e310963d872a66af20ca77fd77f07d"
     },
     "schema": {
       "source": "coreyhaines31/marketingskills",
+      "commit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "sourceType": "github",
       "skillPath": "skills/schema/SKILL.md",
       "computedHash": "f8704ea70fc7d7ff985b9d902e52bac2d455baa6678b803b4306c8afb99997b1"
     },
     "seo": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo/SKILL.md",
       "computedHash": "70afc0c9ac0af4329789a719b4c7407997e138dba46e3551d76ca2e20f9c9417"
     },
     "seo-agentic": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-agentic/SKILL.md",
       "computedHash": "442a854a68ef393ef827374907a219b677cd3dcc38c928b42f8e3f30d9cebfa6"
     },
     "seo-audit": {
       "source": "coreyhaines31/marketingskills",
+      "commit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
       "sourceType": "github",
       "skillPath": "skills/seo-audit/SKILL.md",
       "computedHash": "37ac5512c83e37dea45ba4a1d8075623812df56db712b2461509d79b5599881e"
     },
     "seo-backlinks": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-backlinks/SKILL.md",
       "computedHash": "a29bc539a709e8e3bd7dab230b304d7ef6f4c5cd49aa4895864385f441991f44"
     },
     "seo-bing": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-bing/SKILL.md",
       "computedHash": "3f9c78967ff07666b71eddf1456e91a99b0246b823c9dfbb4bcec49cb75fc005"
     },
     "seo-cluster": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-cluster/SKILL.md",
       "computedHash": "bd96e29db3a82f7555a71c820707f87dff2a45a59dd938eb76f0f92028662ef5"
     },
     "seo-competitor-pages": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-competitor-pages/SKILL.md",
       "computedHash": "7e6cd7f0c83101e1878288dab1aaec8a82ffbc9cdd248b909a9ad550c3319468"
     },
     "seo-content": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-content/SKILL.md",
       "computedHash": "6ea804d62407e269baa12d3f657b92fe9aa245bf464230edceda7ec4c17d2b47"
     },
     "seo-content-brief": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-content-brief/SKILL.md",
       "computedHash": "05044d28ba409e89cd6c864c3a32787616aecaf6e5456a1ad53ffe37160755cc"
     },
     "seo-dataforseo": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-dataforseo/SKILL.md",
       "computedHash": "7f6d0593d680e262145c67b54bdc3c10771e819c36463b347476a68d2e27f042"
     },
     "seo-drift": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-drift/SKILL.md",
       "computedHash": "82bd60fe5c56ce10aa3855b0d0afdea017697d8c1fd2571501474ce0126171f6"
     },
     "seo-ecommerce": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-ecommerce/SKILL.md",
       "computedHash": "ee167a00601780d8b351b944af993fda8a2e5201987ba908b99b807c80f39497"
     },
     "seo-flow": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-flow/SKILL.md",
       "computedHash": "5c7451359e80f99f94c0b8cb77db9d2fb00ffa38e35ff8a2e8d1f9b5a9ff0665"
     },
     "seo-geo": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-geo/SKILL.md",
       "computedHash": "1286382bba5b6389e79c81a92714d2c397df8a1661fda15490e6e31374e4d2ec"
     },
     "seo-google": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-google/SKILL.md",
       "computedHash": "ec21ca84a17214a12f544df34e406d5c4e3811799a5db7458e4817ce6613e06a"
     },
     "seo-hreflang": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-hreflang/SKILL.md",
       "computedHash": "d13efa4250c9b2eb6c7729d0daefe705d8ec86fec8b940476c34da662e63079e"
     },
     "seo-image-gen": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-image-gen/SKILL.md",
       "computedHash": "95dd2ffaf0539b3c971aa84ea1f8d41045c382902227459f9be04db79d657348"
     },
     "seo-images": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-images/SKILL.md",
       "computedHash": "60f2505e771945fd2f92d229cd639ca02343e9f6d60e55cf3830c066d8203705"
     },
     "seo-local": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-local/SKILL.md",
       "computedHash": "1aab8d93e3ff31d8f88485eed1e6633ee6dc818f832179a478b6581ecd5a5e68"
     },
     "seo-maps": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-maps/SKILL.md",
       "computedHash": "3c50c5c9818bc96146b7bea28da91bd9542db8aaf61c6f73cf6f27f7192f1275"
     },
     "seo-page": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-page/SKILL.md",
       "computedHash": "7c81e37089770fe67e811e228af978626f9ab31b66116222cd3cc5c4e7d57bf7"
     },
     "seo-plan": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-plan/SKILL.md",
       "computedHash": "824a12a62e271862ec2b8b3fd667ff542b079d7f87faefde28539bf731135af3"
     },
     "seo-posthog": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-posthog/SKILL.md",
       "computedHash": "d26e3cc70433025f6057bc686f80435f01877e3fcf5e41f46a727249ad7054c3"
     },
     "seo-programmatic": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-programmatic/SKILL.md",
       "computedHash": "6f81387c2a76b57be636f0c422f0d2843c70362b06cdf750cc893d90eabf0abc"
     },
     "seo-schema": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-schema/SKILL.md",
       "computedHash": "9ee7b7155a6175209bbb3a8fc990ffe9fa12743e1dfcad01e893a9cc0a63db69"
     },
     "seo-shopify": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-shopify/SKILL.md",
       "computedHash": "9d90437c9ccef1dae5535e09b108e59f20ec6a96321e02fd28bda241fb2e6879"
     },
     "seo-sitemap": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-sitemap/SKILL.md",
       "computedHash": "a0b4726933719cd56b25987beb325847ad2306fb945072d1c57bfb602842a1d8"
     },
     "seo-sxo": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-sxo/SKILL.md",
       "computedHash": "d038c7b90be5c8a1233e46f6ac70650ba349f148aaf81dcd73e033b38c60cc79"
     },
     "seo-technical": {
       "source": "AgriciDaniel/claude-seo",
+      "commit": "468ed5b0d9e3249394783710e54abb02837e326b",
       "sourceType": "github",
       "skillPath": "skills/seo-technical/SKILL.md",
       "computedHash": "afa2fe34eafb143ea3187608395f399568ee8e4e995729c92a9f5a259ebc6e2b"
     },
     "state-machine": {
       "source": "jakubkrehel/skills",
+      "commit": "6c2120103600407a1a9986afd834e73144ef8998",
       "sourceType": "github",
       "skillPath": "skills/state-machine/SKILL.md",
       "computedHash": "17ec370138b8959afdcf60f6e0a4765497cbcc723269225745f9ac5c11677ec2"
     },
     "tastemaker": {
       "source": "Thecsiz/tastemaker",
+      "commit": "e39f724b0596e73931ab2884c812d945f4bb0cbc",
       "sourceType": "github",
       "skillPath": "skills/tastemaker/SKILL.md",
       "computedHash": "6c0a3569549ec9a6f716428450f5b9e02177d5f187a2878a4fbbe8322b0502af"
     },
     "variant": {
       "source": "jakubkrehel/skills",
+      "commit": "6c2120103600407a1a9986afd834e73144ef8998",
       "sourceType": "github",
       "skillPath": "skills/variant/SKILL.md",
       "computedHash": "3f761b70ef27b2c7e19451c00f5d70877ac9d296967b1363c97254f747ac23dc"
     },
     "web-design-engineer": {
       "source": "ConardLi/garden-skills",
+      "commit": "9578a34edf3c359da23d8a632b72790834961d11",
       "sourceType": "github",
       "skillPath": "skills/web-design-engineer/SKILL.md",
       "computedHash": "c8fcbb8fa6b93cb47a1dec38c300489a2eb10b2874dc1a03e0e69163cf8b40d2"
     },
     "write-swift": {
       "source": "emilkowalski/skills",
+      "commit": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
       "sourceType": "github",
       "skillPath": "skills/write-swift/SKILL.md",
       "computedHash": "8e4baab8638930f60e44545f9cc2ec61b0ee18b1b9b18aafe29ebc0bdd6972b8"

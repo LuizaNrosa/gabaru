@@ -1,0 +1,3 @@
+// © 2026 Luiza Nascimento Rosa. Todos os direitos reservados.
+/** Reconhece somente sequência explícita A–E; não infere letra nem texto ausente. */
+export function splitTextOptions(text){const matches=[...text.matchAll(/^[ \t]*(?:\(([A-E])\)|([A-E])[.)]|([A-E])[ \t]*[-–]|([A-E]))[ \t]*(?:\n|[ \t]+)(?![a-z]\))/gm)];const last=matches.slice(-5);const letter=m=>m[1]??m[2]??m[3]??m[4];if(last.map(letter).join('')!=='ABCDE')return {text,options:{}};return {text:text.slice(0,last[0].index).trim(),options:Object.fromEntries(last.map((m,i)=>[letter(m),text.slice(m.index+m[0].length,last[i+1]?.index??text.length).trim()]))};}

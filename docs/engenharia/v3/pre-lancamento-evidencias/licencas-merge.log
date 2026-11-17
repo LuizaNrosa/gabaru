@@ -1,0 +1,5 @@
+
+> gabaru@0.1.0 validar:licencas
+> node scripts/verificar-licencas.mjs
+
+894/894 dependências aprovadas; 0 bloqueadas.

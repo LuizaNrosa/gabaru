@@ -11,12 +11,12 @@ test('identidades únicas, proveniência e vínculos entre cadernos e questões'
  const ids=new Set(catalog.questoes.map(q=>q.id));
  for(const e of catalog.cadernos){assert.ok(e.ano>=1900&&e.ano<=2100);assert.ok(catalog.bancas.some(b=>b.slug===e.banca));for(const id of e.questoes)assert.ok(ids.has(id),id);}
 });
-test('gate editorial não publica gabarito seco nem OCR incompleto',()=>{
- assert.equal(published.length,24);
- for(const q of published){assert.ok(q.enunciado);assert.ok(q.resolucaoEstruturada||q.comentarioResolucao.length>=3);assert.equal(q.alternativas.length,5);assert.ok(q.alternativas.some(a=>a.letra===q.correta));assert.ok(q.fonte.startsWith('https://'));}
+test('gate editorial preserva resoluções completas e anulações documentadas',()=>{
+ assert.ok(published.length>=150);
+ for(const q of published){assert.ok(q.enunciado);assert.ok(q.resolucaoEstruturada||q.comentarioResolucao.length>=3);assert.equal(q.alternativas.length,q.quantidadeAlternativas??(q.banca==='coluni'?4:5));assert.ok(q.alternativas.some(a=>a.letra===q.correta));assert.ok(q.fonte.startsWith('https://'));}
  assert.ok(catalog.cadernos.some(e=>e.nivelQualidade==='nivel-1-gabarito-oficial'));
  assert.ok(catalog.questoes.some(q=>q.anulada));
- assert.ok(catalog.questoes.filter(q=>q.anulada).every(q=>q.correta===null&&q.statusPublicacao==='rascunho'));
+ assert.ok(catalog.questoes.filter(q=>q.anulada).every(q=>q.correta===null&&(q.nivelQualidade==='nivel-0-quarentena'||q.proveniencia?.gabaritoConferido===true)));
 });
 test('busca combina palavra, banca, ano, disciplina e assunto sem falsos resultados',()=>{
  const items=catalog.questoes.filter(q=>q.enunciado&&q.alternativas.length>=4);const index=makeSearch(items);

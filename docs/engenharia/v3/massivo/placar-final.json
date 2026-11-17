@@ -1,0 +1,33 @@
+{
+  "Hubs": 25,
+  "Provas": 28,
+  "Disciplinas": 107,
+  "Questoes": 3208,
+  "totalDistinto": 3368,
+  "partes": [
+    {
+      "path": "/sitemap-hubs.xml",
+      "urls": 25
+    },
+    {
+      "path": "/sitemap-provas.xml",
+      "urls": 28
+    },
+    {
+      "path": "/sitemap-disciplinas.xml",
+      "urls": 107
+    },
+    {
+      "path": "/sitemap-questoes.xml",
+      "urls": 2000
+    },
+    {
+      "path": "/sitemaps/questoes/2.xml",
+      "urls": 1208
+    }
+  ],
+  "totalQuestões": 16299,
+  "tier2": 170,
+  "tier1": 3038,
+  "tier0": 13091
+}

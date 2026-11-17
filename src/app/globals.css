@@ -1083,7 +1083,7 @@ html { scroll-padding-block-start:7rem; }
 .v2-quality[data-level="nivel-1-gabarito-oficial"] { background:#e2ece6; color:#28503f; }
 .v2-quality[data-level="nivel-2-resolucao-comentada"] { background:#f6e0d0; color:#78300d; }
 .v2-source-figure { max-width:70ch; margin-block:1.5rem; }
-.v2-source-figure figcaption { font-size:.875rem; line-height:1.6; margin-block-start:.75rem; color:var(--reading-muted); }
+.v2-source-figure figcaption { overflow-wrap:anywhere; font-size:.875rem; line-height:1.6; margin-block-start:.75rem; color:var(--reading-muted); }
 
 .v2-filters .v2-filter-toggle{display:flex;align-items:center;gap:.7rem;min-height:44px}.v2-filters .v2-filter-toggle input{width:20px;min-height:20px;height:20px;flex-shrink:0}.v2-graph{max-width:100%;overflow:hidden}.v2-resolution h4{font-weight:700;margin-top:1.5rem}
 

@@ -1,0 +1,33 @@
+{
+  "observacao": "Motivos não exclusivos; um item pode ter múltiplos bloqueios.",
+  "total": 13091,
+  "motivos": {
+    "enunciado-ausente-ou-insuficiente": 11357,
+    "alternativas-incompletas": 12037,
+    "gabarito-ausente-ou-invalido": 12368,
+    "gabarito-sem-conferencia-documentada": 12524,
+    "texto-ou-formula-requer-revisao": 88,
+    "anulacao-sem-conferencia-documentada": 75,
+    "recurso-visual-ausente": 360,
+    "ruido-severo-de-ocr": 12,
+    "transcricao-ocr-sem-conferencia-de-layout": 3455,
+    "suspensao-editorial-versao-v-vs-t-requer-conferencia": 80
+  },
+  "porBanca": {
+    "etec": 1083,
+    "coluni": 135,
+    "ifsc": 145,
+    "ifsp": 285,
+    "enem": 3464,
+    "fuvest": 3544,
+    "ifmt": 90,
+    "ifrn": 520,
+    "ifrs": 80,
+    "ifce": 135,
+    "ifmg": 298,
+    "ifba": 36,
+    "uerj": 1320,
+    "unesp": 1800,
+    "unicamp": 156
+  }
+}

@@ -22,7 +22,7 @@ Os logs integrais selecionados estão em `blindagem-evidencias/`.
 | Licenças | 919/919 aprovadas; 0 bloqueadas |
 | `npx tsc --noEmit` | código 0 |
 | `npm run lint` (inclui eslint-plugin-security) | código 0; 0 erros, 118 avisos |
-| `npm test` | 284 aprovados, 0 falhas |
+| `npm test` | 285 aprovados, 0 falhas |
 | `npx vitest run` | 23 aprovados, 0 falhas |
 | `npm run build` | código 0, incluindo prebuild/postbuild |
 | `npx htmlhint '.next/server/app/**/*.html'` | 700 arquivos, 0 erros |
@@ -48,3 +48,13 @@ HTMLHint verifica as regras da configuração versionada; não representa certif
 Push e atualização de produção autorizados pelo usuário. A produção anterior apontava para main `bb8c16d3`; publicar somente a branch criaria preview. A entrega exige PR para main e confirmação do novo deployment. Nenhum deploy será declarado concluído antes de verificar seu estado e o domínio público.
 
 Disco ao concluir a validação: **74%**. Foram removidos downloads antigos de navegadores de teste; fontes oficiais, PDFs bibliográficos e índice privado foram preservados. O cache temporário de compilação em RAM foi removido e `.next/cache` voltou a diretório local. Nenhum PDF bibliográfico, work, test-results ou arquivo de segredo é rastreado.
+
+## Revisão de segurança no PR #111
+
+A primeira execução remota do CodeQL apontou três alertas altos e um médio nos scripts: decodificação XML em etapas, duas sequências de existência/escrita de arquivo e dados de arquivo usados em URL de requisição. O merge foi suspenso para corrigir a causa, sem ignorar alertas ou desabilitar regras.
+
+A decodificação agora substitui entidades em uma única passagem; um teste de regressão comprova que `&amp;lt;` permanece `&lt;`. O gerador grava em arquivo temporário exclusivo (`wx` e UUID) e renomeia atomicamente, sem verificar existência do destino antes de gravar. Leitura opcional captura somente ENOENT e propaga corrupção/permissões. As três amostras públicas Tier 0 agora são casos fixos de regressão validados contra o catálogo; conteúdo de arquivo não escolhe destinos de rede. Se uma amostra for promovida, o auditor exige atualizar esse caso explicitamente.
+
+A implementação do site e as 3.372 URLs elegíveis não foram alteradas por essa correção dos scripts. Logs do CodeQL inicial e dos testes de regressão acompanham as evidências; a aprovação final é registrada pelo check CodeQL do PR #111, e a integração depende desse check aprovado.
+
+Revalidação local após correções CodeQL: build/postbuild código 0; 285 unitários aprovados; a segunda auditoria integral repetiu 6.240 URLs, 0 quebradas/falhas, 3.372 lastmod válidos e 0 duplicatas. O manifesto permaneceu byte a byte idêntico.

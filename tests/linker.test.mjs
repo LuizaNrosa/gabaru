@@ -37,3 +37,6 @@ test('auditor rejeita lastmod ausente e URL duplicada entre partes',async()=>{
  const body='<urlset><url><loc>https://gabaru.com.br/a</loc><lastmod>2026-11-17T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url></urlset>';
  await assert.rejects(expandSitemaps(origin,async url=>new Response(url.endsWith('/sitemap.xml')?'<sitemapindex><loc>https://gabaru.com.br/one.xml</loc><loc>https://gabaru.com.br/two.xml</loc></sitemapindex>':body)),/duplicada/);
 });
+test('XML decodifica entidades uma única vez, preservando entidade literal escapada',()=>{
+ assert.deepEqual(locations('<loc>https://gabaru.com.br/a?q=&amp;lt;&amp;amp;&quot;x&quot;</loc>'),['https://gabaru.com.br/a?q=&lt;&amp;"x"']);
+});

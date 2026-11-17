@@ -1,0 +1,18 @@
+✔ catálogo único não duplica livros, exclui Tier 0 e congela lastmod quando o conteúdo não muda (6.210873ms)
+✔ partes de 2.000 não emitem alias /sitemaps/questoes/1.xml (0.639497ms)
+✔ classificação ambígua falha fechada: Tier 0 nunca ganha indexação por outro campo (0.574342ms)
+✔ remapeia somente a origem interna exata (1.168112ms)
+✔ extrai todas as partes XML preservando parâmetros escapados (1.142855ms)
+✔ expande índice e todas as partes e conserva origem XML (9.985424ms)
+✔ sitemap com status inválido interrompe cobertura em vez de ignorar (2.001802ms)
+✔ limpeza do ISR preserva arquivos recentes (32.352941ms)
+✔ auditor rejeita lastmod ausente e URL duplicada entre partes (3.664206ms)
+✔ XML decodifica entidades uma única vez, preservando entidade literal escapada (0.140467ms)
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 615.976321

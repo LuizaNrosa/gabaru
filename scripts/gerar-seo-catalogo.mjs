@@ -1,12 +1,19 @@
 import nextEnv from '@next/env';
 import fs from 'node:fs';
 import path from 'node:path';
+import {randomUUID} from 'node:crypto';
 import {execFileSync} from 'node:child_process';
 import {buildPublicCatalog,digest} from './lib/catalogo-seo.mjs';
 nextEnv.loadEnvConfig(process.cwd(),false);
 const {env}=await import('../src/env.mjs');
 const file='src/data/seo-publico.json';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
+const readOptional=p=>{try{return read(p)}catch(error){if(error.code==='ENOENT')return undefined;throw error}};
+function writeAtomic(file,text){
+ const temporary=file+'.'+randomUUID()+'.tmp';
+ try{fs.writeFileSync(temporary,text,{flag:'wx'});fs.renameSync(temporary,file)}
+ finally{try{fs.unlinkSync(temporary)}catch(error){if(error.code!=='ENOENT')throw error}}
+}
 const git=args=>{try{return execFileSync('git',args,{encoding:'utf8',stdio:['ignore','pipe','ignore']}).trim()}catch{return ''}};
 const planned=[...read('src/data/colecao-vestibulinho.json'),...read('src/data/livros-base.json')];
 const merged=new Map(planned.map(b=>[b.slug,{...b,capitulos:[...b.capitulos]}]));
@@ -14,14 +21,14 @@ for(const b of read('src/data/livros-gerados.json')){const existing=merged.get(b
 const dedup=[...merged.values()].map(b=>({...b,capitulos:b.capitulos.map(c=>{const file=path.join('content/livros',b.slug,c.slug+'.json');const published=fs.existsSync(file)&&read(file).status==='publicado';return {...c,status:published?'publicado':c.status??'preparacao'};}).filter(c=>planned.some(p=>p.slug===b.slug)||c.status==='publicado')})).filter(b=>b.capitulos.length);
 const catalog=read('src/data/catalogo-v2.json');
 const banks=JSON.stringify(catalog.bancas.map(b=>b.slug),null,2)+'\n';
-if(!fs.existsSync('src/data/bancas-publicas.json')||fs.readFileSync('src/data/bancas-publicas.json','utf8')!==banks)fs.writeFileSync('src/data/bancas-publicas.json',banks);
+writeAtomic('src/data/bancas-publicas.json',banks);
 const primary=[];
 function walk(dir){for(const e of fs.readdirSync(dir,{withFileTypes:true})){const p=path.join(dir,e.name);if(e.isDirectory())walk(p);else if(e.name==='page.tsx')primary.push(p)}}walk('src/app');
 const shared=['src/app/layout.tsx','src/app/globals.css','src/components/site-header.tsx','src/components/site-footer.tsx','src/lib/seo.ts'];
 const publicConfig={billing:env.NEXT_PUBLIC_BILLING_ENABLED==='true',support:env.NEXT_PUBLIC_SUPPORT_EMAIL};
 const configFingerprint=digest(publicConfig);
 const commonFingerprint=digest(shared.map(p=>fs.readFileSync(p,'utf8')));
-const previous=fs.existsSync(file)?read(file):undefined;
+const previous=readOptional(file);
 const commitDate=git(['log','-1','--format=%cI','--','src','content/livros','scripts/gerar-llms.mjs']);
 const epoch=Number(process.env.SOURCE_DATE_EPOCH);
 // Vercel/source archives may omit .git. Unchanged fingerprints still preserve their dates.
@@ -35,5 +42,5 @@ for(const loc of new Set(paths.filter(Boolean))){const pieces=loc.split('/').fil
 if(previous?.configFingerprint&&previous.configFingerprint!==configFingerprint)timestamp=Math.max(timestamp,Date.now());
 const manifest=buildPublicCatalog({catalog,books:dedup,previous,sourceDate:new Date(timestamp).toISOString(),pageFingerprints,commonFingerprint});
 manifest.configFingerprint=configFingerprint;
-fs.writeFileSync(file,JSON.stringify(manifest,null,2)+'\n');
+writeAtomic(file,JSON.stringify(manifest,null,2)+'\n');
 console.log('Catálogo público SEO:',Object.fromEntries(Object.entries(manifest.families).map(([k,v])=>[k,v.length])));

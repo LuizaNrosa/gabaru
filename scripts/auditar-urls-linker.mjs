@@ -10,7 +10,7 @@ export function localUrl(value, origin) {
  if(!['gabaru.com.br','www.gabaru.com.br',new URL(origin).host].includes(url.host))throw new Error(`Origem externa: ${url.host}`);
  return origin+url.pathname+url.search;
 }
-export function locations(xml){return [...xml.matchAll(/<loc>\s*([^<]+)\s*<\/loc>/g)].map(m=>m[1].trim().replaceAll('&amp;','&').replaceAll('&lt;','<').replaceAll('&gt;','>').replaceAll('&quot;','"').replaceAll('&apos;',"'"));}
+export function locations(xml){return [...xml.matchAll(/<loc>\s*([^<]+)\s*<\/loc>/g)].map(m=>m[1].trim().replace(/&(amp|lt|gt|quot|apos);/g,(_,name)=>({amp:'&',lt:'<',gt:'>',quot:'"',apos:"'"}[name])));}
 export async function expandSitemaps(origin, request=fetch){
  const seeds=new Map(),xmlSeen=new Set(),xmlStats={occurrences:0,validLastmod:0,duplicates:0};
  async function expand(url){
@@ -52,7 +52,10 @@ export async function audit(){
  if(!ready)throw new Error('Servidor não ficou pronto em 30s');
  const {seeds,xmlSeen,xmlStats}=await expandSitemaps(origin);
  const catalog=JSON.parse(await readFile('src/data/catalogo-v2.json','utf8'));
- const tier0=catalog.questoes.filter(q=>q.tier==='tier-0-quarentena').slice(0,3).map(q=>origin+'/questoes/'+q.slug);
+ // Fixed public regression cases; local file contents cannot choose a network destination.
+ const tier0Paths=['/questoes/etec-2025-2-q001','/questoes/etec-2025-2-q002','/questoes/etec-2025-2-q003'];
+ for(const path of tier0Paths)if(!catalog.questoes.some(q=>'/questoes/'+q.slug===path&&q.tier==='tier-0-quarentena'))throw new Error('Atualize o caso de regressão Tier 0: '+path);
+ const tier0=tier0Paths.map(path=>origin+path);
  for(const q of catalog.questoes.filter(q=>q.tier==='tier-0-quarentena'))if(seeds.has(origin+'/questoes/'+q.slug))throw new Error(`Tier 0 no sitemap: ${q.slug}`);
  const legacy=['/sitemaps/questoes/1.xml','/sitemaps/questoes/2.xml','/sitemap/questoes-1.xml','/sitemap-index.xml'];
  const checker=new LinkChecker(), rows=new Map(), redirected=new Set();let checked=0;

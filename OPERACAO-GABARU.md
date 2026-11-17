@@ -38,7 +38,7 @@ Troque os slugs pelos nomes da pasta e do PDF. O script confere novamente o hash
 
 O resultado é um **rascunho**, com transcrição por página, fontes e exercícios. O leitor renderiza fórmulas explícitas `\(...\)` com KaTeX validado; texto e valores monetários ficam separados da matemática. Fórmulas desenhadas e figuras exigem revisão da fonte, não são inventadas pela extração.
 
-Revise transcrição, fórmulas, figuras, direitos e pertinência dos cinco exercícios. Edite a introdução editorial e os títulos e mude `status` de `rascunho` para `publicado` no JSON do capítulo. Rascunhos não aparecem no catálogo nem são servidos pelo leitor; amostras existentes permanecem identificadas. O gerador não sobrescreve capítulos publicados.
+Revise transcrição, fórmulas, figuras, direitos e pertinência dos cinco exercícios. Edite a introdução editorial, os títulos das seções e os títulos do catálogo em `src/data/livros-gerados.json`; depois mude `status` de `rascunho` para `publicado` no JSON do capítulo. Rascunhos não aparecem no catálogo nem são servidos pelo leitor; amostras existentes permanecem identificadas. O gerador não sobrescreve capítulos publicados.
 
 Versione os JSONs revisados e faça novo build/deploy. A leitura é em `/livros/<livro>/<capitulo>`, com autenticação no servidor e mini-simulado de cinco questões; não há endpoint para baixar o PDF nem JSON público do livro inteiro.
 

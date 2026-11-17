@@ -42,3 +42,13 @@ Foram removidos 268,55 MiB de `tmp_pack_*` abandonados pelo Git e 92.037.670 byt
 Nenhum PDF privado ou temporário novo entra no commit. `bibliografia-pdfs/**` é ignorado, exceto seu README; também está excluído das funções da Vercel. Não há arquivos rastreados de `work/` ou `test-results/`. Os 181 PDFs oficiais herdados do acervo foram preservados (o maior tem 15.110.541 bytes); não foram confundidos com fontes privadas dos livros.
 
 O push da branch foi expressamente autorizado nesta entrega. O estado remoto e o link do PR serão informados após o envio; nenhum merge em main foi autorizado.
+
+## Integração com main e alertas remotos
+
+O push inicial criou o PR draft #110 e um Preview Vercel READY. O GitHub revelou divergência com sete commits de main, todos de dependências. A integração foi feita nesta branch, sem alterar main: foram preservados os scripts, os pacotes e a restrição Node 24 da v3, incorporando as dez atualizações de versões aprovadas na main, incluindo Next 16.4.6, React 19.3.1 e Firebase 13.3.0.
+
+CodeQL apontou dois alertas na comparação da branch: checagem de existência seguida de gravação e regex permissiva sobre URL em um teste. O resgate agora lê com tratamento direto de ENOENT e grava por staging privado exclusivo com rename atômico. O teste de symlink comprova que o destino externo não é alterado. O E2E valida protocolo, hostname e caminho da URL, em vez de substring.
+
+Após integração: **894/894 licenças aprovadas**, TypeScript e build final sem ambiente demo aprovados, **699 HTMLs válidos**, **261 testes Node**, **21 Vitest**, **12 E2E de cobrança** e **46 E2E gratuitos** aprovados. Axe: **32 auditorias autenticadas** e **6 públicas** sem violações críticas/sérias, erros HTML ou overflow. Maior função: **46.986.986 bytes**, sem arquivos ausentes. Logs pós-integração têm `merge` no nome.
+
+A instalação das atualizações chegou temporariamente a 82% de disco. O cache de downloads npm e os artefatos antigos foram removidos imediatamente, reduzindo o uso para 68%; as validações seguintes ficaram em 72–77%. O snapshot final após limpeza está em `disco-merge.log`. Nenhum PDF oficial foi removido do Git e nenhuma fonte privada foi adicionada.

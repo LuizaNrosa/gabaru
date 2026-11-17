@@ -1,3 +1,4 @@
+import {gravarJsonAtomico} from './lib/gravar-json-atomico.mjs';
 // © 2026 Luiza Nascimento Rosa. Todos os direitos reservados.
 import {readFileSync,writeFileSync,existsSync,mkdirSync} from 'node:fs';
 import {createHash} from 'node:crypto';
@@ -8,7 +9,7 @@ import {contentFingerprint,N0} from './lib/qualidade.mjs';
 import {tierFor,officialKey,textProof,normalizeExactNotation} from './lib/resgate-v3.mjs';
 const read=p=>JSON.parse(readFileSync(p,'utf8')),hash=b=>createHash('sha256').update(b).digest('hex');
 const catalog=read('src/data/catalogo-v2.json'),file='src/data/editorial/resgate-v3.json';
-const previous=existsSync(file)?read(file):{records:{}};
+let previous;try{previous=read(file);}catch(error){if(error.code!=='ENOENT')throw error;previous={records:{}};}
 const records={};for(const [id,item]of Object.entries(previous.records)){if(existsSync(item.source.file)&&hash(readFileSync(item.source.file))===item.source.sha256)records[id]=item;}
 const counts=rows=>Object.fromEntries(['tier-0-quarentena','tier-1-gabarito-oficial','tier-2-completa'].map(t=>[t,rows.filter(q=>tierFor(q.nivelQualidade)===t).length]));
 const before=counts(catalog.questoes),attempts=[],refusals={},increment=r=>refusals[r]=(refusals[r]??0)+1;
@@ -35,7 +36,7 @@ for(const bank of ['etec','coluni','ifsc','ifsp']){
 }
 const manifestFile='src/data/fontes-abertas/manifest.json';
 if(existsSync(manifestFile))for(const item of await fontesEnemOffline(read(manifestFile))){const q=catalog.questoes.find(q=>q.id===item.question.id);if(!q||q.banca!=='enem'||q.ano<2000||q.ano>2008||q.nivelQualidade!==N0||q.correta&&q.correta!==item.question.correta)continue;const updates={enunciado:item.question.enunciado,alternativas:item.question.alternativas,correta:item.question.correta,proveniencia:item.proveniencia};records[q.id]={originalFingerprint:contentFingerprint(q),resultFingerprint:contentFingerprint({...q,...updates}),source:item.source,updates};}
-writeFileSync(file,JSON.stringify({baseline:previous.baseline??{total:catalog.questoes.length,tiers:before},records},null,2)+'\n');
+gravarJsonAtomico(file,{baseline:previous.baseline??{total:catalog.questoes.length,tiers:before},records});
 execFileSync(process.execPath,['scripts/gerar-catalogo.mjs'],{stdio:'inherit'});
 const afterCatalog=read('src/data/catalogo-v2.json'),after=counts(afterCatalog.questoes);
 const report={baseline:previous.baseline??{total:catalog.questoes.length,tiers:before},antes:before,depois:after,promovidasNestaExecucao:{tier1:after['tier-1-gabarito-oficial']-before['tier-1-gabarito-oficial'],tier2:after['tier-2-completa']-before['tier-2-completa']},ondas:{estrutural:'Nenhum cabeçalho mecânico ou par bilíngue concatenado encontrado no diagnóstico; sem alteração especulativa.',fontesOficiais:attempts,exatas:'Conversões conservadoras após prova textual; cada fórmula validada pelo KaTeX.',classificacao:after},recusas:refusals,motivosRetencao:Object.fromEntries([...new Set(afterCatalog.questoes.filter(q=>q.nivelQualidade===N0).flatMap(q=>q.motivos))].map(r=>[r,afterCatalog.questoes.filter(q=>q.nivelQualidade===N0&&q.motivos.includes(r)).length])),fontes2000a2008:'Adapter offline disponível; nenhum dataset externo sem hash, licença e versão conferidos foi usado.'};

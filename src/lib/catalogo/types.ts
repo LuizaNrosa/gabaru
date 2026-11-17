@@ -3,6 +3,7 @@ export type NivelQualidade='nivel-0-quarentena'|'nivel-1-gabarito-oficial'|'nive
 export type Categoria = 'enem' | 'vestibulinho' | 'vestibulares';
 export type Alternativa = { letra: string; texto: string };
 export type Questao = {
+  statusQuestao?:'regular'|'anulada'; quantidadeAlternativas?:number;
   tier?: TierPublicacao; youtubeVideoId?:string; youtubeStartSec?:number;
   nivelQualidade: NivelQualidade; motivos: string[]; categoria: Categoria;
   tabelas?: {linhas:(string|null)[][];pagina:number}[];
@@ -17,7 +18,7 @@ export type Questao = {
   idioma?: 'pt-BR' | 'en' | 'es'; atualizadaEm?: string;
 };
 export type Caderno = {
-  nivelQualidade:NivelQualidade; motivos:string[];
+  percentualValidado?:number; nivelQualidade:NivelQualidade; motivos:string[];
   id: string; banca: string; ano: number; titulo: string; href: string; fonte: string;
   questoes: string[]; total: number; duracaoMinutos: number | null;
   statusPublicacao: 'completa' | 'rascunho';

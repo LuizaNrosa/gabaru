@@ -32,17 +32,17 @@ export function StudySession({ cards, storageKey, durationMinutes = 240 }: { car
     });return()=>{cancelled=true;};
   },[key,cards]);
   useEffect(()=>{if(!hydrated||loadedKey.current!==key)return;try{localStorage.setItem(key,JSON.stringify(state));}catch{queueMicrotask(()=>setStorageError(true));}},[key,state,hydrated]);
-  useEffect(()=>{if(!hydrated||loadedKey.current!==key||!state.attemptId)return;for(const {q} of cards){if(q.nivelQualidade==='nivel-0-quarentena'||!q.correta||!state.answers[q.id]||!(state.graded.includes(q.id)||state.finished))continue;record({questionId:q.id,selected:state.answers[q.id],correctKey:q.correta,attemptId:state.attemptId,metadata:{banca:q.banca,ano:q.ano,disciplina:q.disciplina,subtopico:q.assunto,habilidade:q.habilidade??''},tempoMs:Math.min(86400000,Math.max(0,Date.now()-(state.startedAt??Date.now())))});}},[cards,state,hydrated,record,key]);
+  useEffect(()=>{if(!hydrated||loadedKey.current!==key||!state.attemptId)return;for(const {q} of cards){if(q.nivelQualidade==='nivel-0-quarentena'||!q.correta&&!q.anulada||!state.answers[q.id]||!(state.graded.includes(q.id)||state.finished))continue;record({questionId:q.id,selected:state.answers[q.id],correctKey:q.anulada?state.answers[q.id]:q.correta!,anulada:q.anulada,attemptId:state.attemptId,metadata:{banca:q.banca,ano:q.ano,disciplina:q.disciplina,subtopico:q.assunto,habilidade:q.habilidade??''},tempoMs:Math.min(86400000,Math.max(0,Date.now()-(state.startedAt??Date.now())))});}},[cards,state,hydrated,record,key]);
   useEffect(()=>{if(state.mode!=='simulado'||state.finished||!state.deadline)return;const deadline=state.deadline;const tick=()=>{const time=Date.now();setNow(time);if(time>=deadline)setState(s=>({...s,finished:true}));};const timer=setInterval(tick,1000);return()=>clearInterval(timer);},[state.mode,state.deadline,state.finished]);
   const hasQuarantine=cards.some(c=>c.q.nivelQualidade==='nivel-0-quarentena');
   const simulado=state.mode==='simulado',showResults=!simulado||state.finished;
   const answered=cards.filter(({q})=>state.answers[q.id]);
   const mistakes=cards.filter(({q})=>q.correta&&state.answers[q.id]&&state.answers[q.id]!==q.correta);
-  const score=cards.filter(({q})=>q.correta&&state.answers[q.id]===q.correta).length;
+  const score=cards.filter(({q})=>state.answers[q.id]&&(q.anulada||state.answers[q.id]===q.correta)).length;
   const seconds=state.deadline?Math.max(0,Math.ceil((state.deadline-now)/1000)):budget*60;
   const time=`${Math.floor(seconds/3600).toString().padStart(2,'0')}:${Math.floor(seconds%3600/60).toString().padStart(2,'0')}:${(seconds%60).toString().padStart(2,'0')}`;
   function move(index:number){const next=Math.max(0,Math.min(cards.length-1,index));setActive(next);requestAnimationFrame(()=>document.getElementById(`estudo-${cards[next].q.id}`)?.focus());}
-  function choose(q:Questao,letter:string){if(q.nivelQualidade==='nivel-0-quarentena'||q.anulada||state.finished||state.graded.includes(q.id)||state.excluded[q.id]?.includes(letter))return;setState(s=>({...s,attemptId:s.attemptId??crypto.randomUUID(),startedAt:s.startedAt??Date.now(),answers:{...s.answers,[q.id]:letter}}));}
+  function choose(q:Questao,letter:string){if(q.nivelQualidade==='nivel-0-quarentena'||state.finished||state.graded.includes(q.id)||state.excluded[q.id]?.includes(letter))return;setState(s=>({...s,attemptId:s.attemptId??crypto.randomUUID(),startedAt:s.startedAt??Date.now(),answers:{...s.answers,[q.id]:letter}}));}
   function grade(q:Questao){if(simulado||!state.answers[q.id])return;setState(s=>({...s,graded:[...new Set([...s.graded,q.id])]}));}
   function start(){setOnlyErrors(false);setNow(Date.now());setState({...empty,mode:'simulado',attemptId:crypto.randomUUID(),startedAt:Date.now(),deadline:Date.now()+budget*60000});}
   function reset(){setState(empty);setOnlyErrors(false);setActive(0);}
@@ -62,19 +62,19 @@ export function StudySession({ cards, storageKey, durationMinutes = 240 }: { car
     {storageError&&<p role="status">O navegador não permitiu salvar o progresso. Esta sessão continua disponível enquanto a página estiver aberta.</p>}
     <div className="v2-study-grid"><div>
     {cards.map(({q,statement,base,options,resolution},index)=>{
-      const graded=state.graded.includes(q.id),reveal=showResults&&(graded||state.finished),correct=state.answers[q.id]===q.correta;
+      const graded=state.graded.includes(q.id),reveal=showResults&&(graded||state.finished),correct=q.anulada||state.answers[q.id]===q.correta;
       return <article key={q.id} id={`estudo-${q.id}`} tabIndex={-1} onFocus={()=>setActive(index)} className="v2-question" aria-labelledby={`titulo-${q.id}`} hidden={onlyErrors&&!mistakes.some(c=>c.q.id===q.id)}>
         <div className="v2-question-heading"><h3 id={`titulo-${q.id}`}>Questão {q.numero}</h3><span>{q.banca.toUpperCase()} · {q.ano} · {q.disciplina==='a-classificar'?'Disciplina em revisão':q.disciplina}</span></div>
         <QualityBadge nivel={q.nivelQualidade}/>{base}
-        {q.anulada&&<p role="status">Questão anulada no gabarito oficial. Não entra na contagem de acertos, erros ou itens em branco.</p>}
+        {q.anulada&&<p role="status">Questão oficialmente anulada: qualquer alternativa é aceita. Não entra no diagnóstico de erros.</p>}
         <fieldset><legend className="v2-statement">{statement}</legend>
         <div className="v2-options">{q.alternativas.map((a,i)=>{const eliminated=state.excluded[q.id]?.includes(a.letra)??false;return <div key={a.letra} className={`v2-option ${eliminated?'v2-eliminated':''}`}>
-          <label htmlFor={`${key}-${q.id}-${a.letra}`}><input id={`${key}-${q.id}-${a.letra}`} type="radio" name={`${key}-${q.id}`} value={a.letra} checked={state.answers[q.id]===a.letra} disabled={q.nivelQualidade==='nivel-0-quarentena'||q.anulada||state.finished||graded||eliminated} onChange={()=>choose(q,a.letra)}/><strong>{a.letra}</strong><span>{options[i]}</span></label>
+          <label htmlFor={`${key}-${q.id}-${a.letra}`}><input id={`${key}-${q.id}-${a.letra}`} type="radio" name={`${key}-${q.id}`} value={a.letra} checked={state.answers[q.id]===a.letra} disabled={q.nivelQualidade==='nivel-0-quarentena'||state.finished||graded||eliminated} onChange={()=>choose(q,a.letra)}/><strong>{a.letra}</strong><span>{options[i]}</span></label>
           <button type="button" className="v2-eliminate" aria-label={`${eliminated?'Restaurar':'Eliminar'} alternativa ${a.letra} da questão ${q.numero}`} aria-pressed={eliminated} disabled={graded||state.finished} onClick={()=>setState(s=>{const old=s.excluded[q.id]??[];const answers={...s.answers};if(!eliminated&&answers[q.id]===a.letra)delete answers[q.id];return {...s,answers,excluded:{...s.excluded,[q.id]:eliminated?old.filter(x=>x!==a.letra):[...old,a.letra]}};})}><Scissors size={18} aria-hidden="true"/></button>
         </div>;})}</div></fieldset>
         {!q.alternativas.length&&<p>Alternativas em transcrição. Consulte o caderno na fonte oficial.</p>}
-        {!simulado&&<button type="button" className="v2-button v2-primary" disabled={q.nivelQualidade==='nivel-0-quarentena'||!state.answers[q.id]||graded||!q.correta} onClick={()=>grade(q)}>Responder questão {q.numero}</button>}
-        <p role="status" aria-live="polite" aria-atomic="true">{reveal&&q.correta?(correct?'Resposta correta.':`Revise sua resposta. Gabarito oficial: ${q.correta}.`):''}</p>
+        {!simulado&&<button type="button" className="v2-button v2-primary" disabled={q.nivelQualidade==='nivel-0-quarentena'||!state.answers[q.id]||graded||!q.correta&&!q.anulada} onClick={()=>grade(q)}>Responder questão {q.numero}</button>}
+        <p role="status" aria-live="polite" aria-atomic="true">{reveal&&(q.correta||q.anulada)?(correct?'Resposta correta.':`Revise sua resposta. Gabarito oficial: ${q.correta}.`):''}</p>
         {q.nivelQualidade==='nivel-1-gabarito-oficial'?<section className="v2-solution" hidden={simulado&&!state.finished} aria-label={`Gabarito oficial da questão ${q.numero}`}>{resolution}</section>:<details className="v2-solution" hidden={simulado&&!state.finished} open={reveal}><summary>Gabarito e resolução da questão {q.numero}</summary>{resolution}</details>}
         <a href={q.fonte} className="v2-source" target="_blank" rel="noopener noreferrer">Consultar a fonte oficial</a>
       </article>;

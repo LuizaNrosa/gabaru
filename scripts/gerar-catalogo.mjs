@@ -9,6 +9,8 @@ const rescue=existsSync('src/data/editorial/resgate-v3.json')?read('src/data/edi
 const sourceHashes=new Map();
 function sourceHash(file){if(!/^src\/data\/(?:(?:etec|coluni|ifsc|ifsp)-exams\.json|fontes-abertas\/[a-z0-9-]+\.json)$/.test(file))return null;if(!sourceHashes.has(file))sourceHashes.set(file,createHash('sha256').update(readFileSync(file)).digest('hex'));return sourceHashes.get(file);}
 const tier=level=>level===N2?'tier-2-completa':level===N1?'tier-1-gabarito-oficial':'tier-0-quarentena';
+const massive=existsSync('src/data/editorial/promocoes-massivas.json')?read('src/data/editorial/promocoes-massivas.json').records:{};
+const massiveHashes=new Map();function massiveSource(file){if(!/^src\/data\/[a-z0-9-]+\.json$/.test(file))return null;if(!massiveHashes.has(file))massiveHashes.set(file,createHash('sha256').update(readFileSync(file)).digest('hex'));return massiveHashes.get(file);}
 const editorial=read('src/data/editorial/resolucoes.json');
 const bloqueios=read('src/data/editorial/bloqueios-catalogo.json');
 const ingestion=new Map();if(existsSync('src/data/ingestao'))for(const file of readdirSync('src/data/ingestao').filter(f=>f.endsWith('.json')).sort()){const d=read('src/data/ingestao/'+file);for(const [id,q]of Object.entries(d.aceitas??{}))ingestion.set(id,q);}
@@ -26,6 +28,7 @@ function question(exam,id,num,statement,options,correct,extra={}) {
  const q={id,slug:id,banca:exam.banca,ano:exam.ano,edicao:exam.id,numero:num,area:'a-classificar',disciplina:'a-classificar',assunto:'a-classificar',tema:`Questão ${num}`,dificuldade:'nao-classificada',enunciado:statement??'',imagens:[],alternativas:alternatives,anulada:correct==='ANULADA'||correct==='*',correta:/^[A-E]$/.test(correct??'')?correct:null,comentarioResolucao:[],statusPublicacao:'rascunho',fonte:exam.fonte,...extra,...editorial[id]};
  const imported=ingestion.get(id);if(imported){if(imported.correta!==q.correta)throw new Error('Ingestão diverge do gabarito original: '+id);for(const k of ['enunciado','alternativas','textoBase','imagens','proveniencia','tabelas'])if(imported[k]!==undefined)q[k]=imported[k];}
  const restored=rescue[id];if(restored&&restored.originalFingerprint===contentFingerprint(q)&&sourceHash(restored.source.file)===restored.source.sha256){for(const k of ['enunciado','alternativas','proveniencia',...(!q.correta?['correta']:[])])if(restored.updates[k]!==undefined)q[k]=restored.updates[k];}
+ const promoted=massive[id];if(promoted&&promoted.fingerprint===contentFingerprint(q)&&massiveSource(promoted.sourceFile)===promoted.sourceSha)for(const k of ['enunciado','alternativas','imagens','textoBase','correta','anulada','quantidadeAlternativas','proveniencia'])if(promoted.changes[k]!==undefined)q[k]=promoted.changes[k];
  if(batchEditorial[id]?.validacao?.fingerprint===contentFingerprint(q))for(const k of ['disciplina','assunto','resolucaoEstruturada'])if(batchEditorial[id][k]!==undefined)q[k]=batchEditorial[id][k];
  q.categoria=board(q.banca).categoria;
  if(editorial[id]||batchEditorial[id])q.enunciado=q.enunciado.replace(/\n+/g,' ');
@@ -33,8 +36,8 @@ function question(exam,id,num,statement,options,correct,extra={}) {
  // Only hand-curated, complete records enter the public search index and sitemaps.
  const verification=verifiedEnem.get(q.id.split('-q')[0]);
  const checked=!!q.proveniencia?.gabaritoConferido||(q.banca==='enem'&&!!verification&&verification.numbers.includes(q.numero)&&(!(q.idioma==='es'||q.disciplina==='espanhol')||verification.language==='espanhol'));
- Object.assign(q,questionQuality(q,{textoConferido:!!editorial[id]||batchEditorial[id]?.validacao?.fingerprint===contentFingerprint(q),gabaritoVerificado:checked,expected:q.banca==='coluni'?4:5,legadaComentada:!!editorial[id]&&q.comentarioResolucao.length>=3}));
- if(bloqueios[exam.id]){q.nivelQualidade=N0;q.motivos.push(bloqueios[exam.id]);}q.tier=tier(q.nivelQualidade);
+ Object.assign(q,questionQuality(q,{textoConferido:!!editorial[id]||batchEditorial[id]?.validacao?.fingerprint===contentFingerprint(q),gabaritoVerificado:checked,expected:q.quantidadeAlternativas??(q.banca==='coluni'?4:5),legadaComentada:!!editorial[id]&&q.comentarioResolucao.length>=3}));
+ if(bloqueios[exam.id]){q.nivelQualidade=N0;q.motivos.push(bloqueios[exam.id]);}q.statusQuestao=q.anulada?'anulada':'regular';q.tier=tier(q.nivelQualidade);
  q.statusPublicacao=q.nivelQualidade===N0?'rascunho':'completa';
  questoes.set(id,q);if(!exam.questoes.includes(id))exam.questoes.push(id);
 }

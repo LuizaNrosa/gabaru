@@ -1,0 +1,8 @@
+
+ RUN  v5.1.0 /workspace/work/gabaru-code
+
+
+ Test Files  1 passed (1)
+      Tests  14 passed (14)
+   Start at  00:42:13
+   Duration  500ms (import 47%, tests 26%, transform 25%, worker 2%)

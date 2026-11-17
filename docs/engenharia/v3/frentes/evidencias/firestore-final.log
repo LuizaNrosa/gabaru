@@ -1,0 +1,36 @@
+
+> gabaru@0.1.0 test:firestore
+> node --use-env-proxy scripts/testar-firestore.mjs
+
+(node:61100) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/server/billing/events.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[2026-11-17T03:29:09.915Z]  @firebase/firestore: Firestore (13.0.0): GrpcConnection RPC 'Write' stream 0x6d18c99e error. Code: 7 Message: 7 PERMISSION_DENIED:
+false for 'create' @ L12, false for 'create' @ L24, false for 'update' @ L12, false for 'update' @ L24
+[2026-11-17T03:29:09.979Z]  @firebase/firestore: Firestore (13.0.0): GrpcConnection RPC 'Write' stream 0x6d18c9a0 error. Code: 7 Message: 7 PERMISSION_DENIED:
+false for 'create' @ L12, false for 'create' @ L24, false for 'update' @ L12, false for 'update' @ L24
+[2026-11-17T03:29:10.030Z]  @firebase/firestore: Firestore (13.0.0): GrpcConnection RPC 'Write' stream 0x6d18c99b error. Code: 7 Message: 7 PERMISSION_DENIED:
+false for 'create' @ L7, false for 'create' @ L24, evaluation error at L8:21 for 'update' @ L8, false for 'update' @ L24, false for 'create' @ L7, false for 'create' @ L24
+[2026-11-17T03:29:10.042Z]  @firebase/firestore: Firestore (13.0.0): GrpcConnection RPC 'Write' stream 0x6d18c9a1 error. Code: 7 Message: 7 PERMISSION_DENIED:
+false for 'create' @ L16, false for 'create' @ L24, false for 'update' @ L16, false for 'update' @ L24
+[2026-11-17T03:29:10.053Z]  @firebase/firestore: Firestore (13.0.0): GrpcConnection RPC 'Write' stream 0x6d18c9a2 error. Code: 7 Message: 7 PERMISSION_DENIED:
+false for 'create' @ L22, false for 'create' @ L24, false for 'update' @ L22, false for 'update' @ L24
+(node:61100) MetadataLookupWarning: received unexpected error = All promises were rejected code = ECONNRESET, 403
+[2026-11-17T03:29:14.877Z]  @firebase/firestore: Firestore (13.0.0): GrpcConnection RPC 'Write' stream 0x6d18c9a3 error. Code: 7 Message: 7 PERMISSION_DENIED:
+false for 'create' @ L17, false for 'create' @ L24, false for 'update' @ L17, false for 'update' @ L24
+[2026-11-17T03:29:14.892Z]  @firebase/firestore: Firestore (13.0.0): GrpcConnection RPC 'Write' stream 0x6d18c9a4 error. Code: 7 Message: 7 PERMISSION_DENIED:
+false for 'create' @ L18, false for 'create' @ L24, false for 'update' @ L18, false for 'update' @ L24
+[2026-11-17T03:29:14.903Z]  @firebase/firestore: Firestore (13.0.0): GrpcConnection RPC 'Write' stream 0x6d18c9a5 error. Code: 7 Message: 7 PERMISSION_DENIED:
+false for 'create' @ L19, false for 'create' @ L24, false for 'update' @ L19, false for 'update' @ L24
+[2026-11-17T03:29:14.916Z]  @firebase/firestore: Firestore (13.0.0): GrpcConnection RPC 'Write' stream 0x6d18c9a6 error. Code: 7 Message: 7 PERMISSION_DENIED:
+false for 'create' @ L20, false for 'create' @ L24, false for 'update' @ L20, false for 'update' @ L24
+✔ Firestore real: isolamento por uid, plano somente Admin e replay concorrente (13807.173653ms)
+ℹ tests 1
+ℹ suites 0
+ℹ pass 1
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 14694.952392

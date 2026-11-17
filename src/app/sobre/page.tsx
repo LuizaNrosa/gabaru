@@ -1,3 +1,4 @@
+import {JsonLd} from '@/components/json-ld';import {schemaGraph} from '@/lib/seo/schema-graph';
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CONTAINER, PageHero } from "@/components/ui";
@@ -12,7 +13,7 @@ export const metadata: Metadata = metaPagina({
 export default function Sobre() {
   return (
     <main id="conteudo-principal" tabIndex={-1}>
-      <PageHero eyebrow="Sobre o Gabaru" titulo={<>Estudo de verdade. <mark>Direto ao ponto.</mark></>}>
+      <JsonLd dados={schemaGraph({path:"/sobre",title:"Sobre o Gabaru",breadcrumbs:[{name:"Início",path:"/"},{name:"Sobre o Gabaru",path:"/sobre"}]})}/><PageHero eyebrow="Sobre o Gabaru" titulo={<>Estudo de verdade. <mark>Direto ao ponto.</mark></>}>
         <p>O Gabaru existe para aproximar o estudante da prova que ele quer conquistar. Do vestibulinho ao ENEM e aos vestibulares, acreditamos em prática, informação clara e oportunidades para aprender.</p>
       </PageHero>
 

@@ -66,3 +66,11 @@ npx vitest run
 ```
 
 Mantenha PDFs privados, `.env*`, `work/`, traces e screenshots fora do commit. Não inclua credenciais nem PDFs pesados no push. Os cenários E2E cobrem os modos lançamento e cobrança; as evidências desta entrega ficam em `docs/engenharia/v3/pre-lancamento.md`.
+
+## Esqueleto de SEO e ambiente
+
+Execute sempre `npm run build`: o prebuild atualiza o catálogo público e o postbuild obrigatório gera `sitemap.xml`, as cinco famílias (hubs, provas, disciplinas, questões e livros) e `robots.txt` com next-sitemap. A configuração `vercel.json` fixa esse comando na Vercel. Não crie XML paralelo em rotas ou `public/`. Partes têm até 2.000 URLs; aliases antigos redirecionam com 301. Cada URL indexada tem lastmod estável quando seu conteúdo não mudou.
+
+Auditoria integral após build: `node scripts/auditar-urls-linker.mjs`. O relatório versionado fica em `docs/engenharia/v3/relatorio-urls-linker.md`. Tier 0 e capítulos privados nunca entram nos sitemaps.
+
+`src/env.mjs` valida ambiente no build e nos serviços. Deixe segredos opcionais vazios até configurar o serviço; não use valores fictícios. `NEXT_PUBLIC_BILLING_ENABLED` aceita somente `true` ou `false` e permanece `false` no lançamento. O contato público autorizado é `NEXT_PUBLIC_SUPPORT_EMAIL=meugabaru@gmail.com`. Variáveis públicas exigem novo build para atualizar o site. Não exponha segredos com prefixo público.

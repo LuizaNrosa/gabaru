@@ -1,3 +1,4 @@
+import {getServerEnv} from '../../../../env.mjs';
 import { NextResponse } from "next/server";
 import { verifyRequestUser } from "@/lib/firebase/admin";
 import { limitar, origemPermitida } from "@/lib/seguranca";
@@ -5,7 +6,7 @@ import { limitar, origemPermitida } from "@/lib/seguranca";
 export const runtime = "nodejs";
 
 export async function POST(request: Request) {
-  if (process.env.VERCEL_ENV !== "preview" || process.env.MERCADO_PAGO_ENABLE_TEST_CHECKOUT !== "1") {
+  if (getServerEnv().VERCEL_ENV !== "preview" || getServerEnv().MERCADO_PAGO_ENABLE_TEST_CHECKOUT !== "1") {
     return NextResponse.json({ error: "Checkout de teste indisponível." }, { status: 404 });
   }
   if (!origemPermitida(request)) {
@@ -16,14 +17,14 @@ export async function POST(request: Request) {
   if (!user) {
     return NextResponse.json({ error: "Entre na sua conta de teste." }, { status: 401 });
   }
-  if (user.uid !== process.env.MERCADO_PAGO_TEST_OPERATOR_UID) {
+  if (user.uid !== getServerEnv().MERCADO_PAGO_TEST_OPERATOR_UID) {
     return NextResponse.json({ error: "Conta sem acesso ao teste." }, { status: 403 });
   }
   if (!limitar(`mp-preview:${user.uid}`, 5, 60_000)) {
     return NextResponse.json({ error: "Aguarde um minuto para tentar novamente." }, { status: 429 });
   }
 
-  const token = process.env.MERCADO_PAGO_TEST_ACCESS_TOKEN?.trim();
+  const token = getServerEnv().MERCADO_PAGO_TEST_ACCESS_TOKEN?.trim();
   if (!token) {
     return NextResponse.json({ error: "Credencial de teste ausente." }, { status: 503 });
   }

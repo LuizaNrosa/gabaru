@@ -1,3 +1,5 @@
+import {NuqsAdapter} from 'nuqs/adapters/next/app';
+import {env} from '../env.mjs';
 import { organization, author } from "@/lib/seo/schema-graph";
 import type { Metadata, Viewport } from "next";
 import { AuthProvider } from "@/context/auth-context";
@@ -17,13 +19,13 @@ export const metadata: Metadata = {
     template: "%s · GABARU",
   },
   description:
-    "Vestibulinho ETEC com as provas oficiais: 41 edições e 1.990 questões com gabarito verificado, nota de corte e demanda por curso, unidade e turno. Acervo ENEM, COLUNI, Unesp e Unicamp.",
+    "Estude para ENEM, vestibulinhos e vestibulares com questões verificadas, provas oficiais, revisão espaçada e livros lidos na plataforma.",
   authors: [{ name: "Luiza Nascimento Rosa", url: "https://github.com/LuizaNrosa" }],
   creator: "Luiza Nascimento Rosa",
   publisher: "Luiza Nascimento Rosa",
   // O preview pode definir NEXT_PUBLIC_INDEXAR=0. Produção usa o domínio canônico sem www.
   robots:
-    process.env.NEXT_PUBLIC_INDEXAR !== "0"
+    env.NEXT_PUBLIC_INDEXAR !== "0"
       ? { index: true, follow: true }
       : { index: false, follow: false },
   metadataBase: new URL(
@@ -35,7 +37,7 @@ export const metadata: Metadata = {
     siteName: "GABARU",
     title: "GABARU · A gente estuda junto até você gabaritar",
     description:
-      "Vestibulinho ETEC com as provas oficiais: 41 edições e 1.990 questões com gabarito verificado, nota de corte e demanda por curso, unidade e turno. Acervo ENEM, COLUNI, Unesp e Unicamp.",
+      "Estude para ENEM, vestibulinhos e vestibulares com questões verificadas, provas oficiais, revisão espaçada e livros lidos na plataforma.",
     images: [{ url: OG_IMAGEM, width: 1200, height: 630, alt: "GABARU" }],
   },
   twitter: {
@@ -74,14 +76,14 @@ export default function RootLayout({
         >
           Pular para o conteúdo
         </a>
-        <AuthProvider>
+        <NuqsAdapter><AuthProvider>
           <SiteHeader />
           <div id="conteudo" tabIndex={-1} className="outline-none">
             {children}
           </div>
           <SiteFooter />
           <TabBar />
-        </AuthProvider>
+        </AuthProvider></NuqsAdapter>
       </body>
     </html>
   );

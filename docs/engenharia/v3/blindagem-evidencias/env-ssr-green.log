@@ -1,0 +1,13 @@
+✔ ambiente sem segredos compila com billing desligado e domínio canônico (148.705155ms)
+✔ configuração inválida falha sem imprimir valores sensíveis (105.741699ms)
+✔ cliente não pode ler variável do servidor (124.101945ms)
+✔ origem pública rejeita protocolos não HTTP e credenciais na URL (235.021545ms)
+✔ visão pública também bloqueia segredos durante SSR; getter de servidor permanece funcional (115.29501ms)
+ℹ tests 5
+ℹ suites 0
+ℹ pass 5
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 849.422213

@@ -1,0 +1,13 @@
+Comandos executados no terminal; exit codes observados após o encerramento:
+node --test tests/env-esqueleto.test.mjs: 0 (5/5)
+npx tsc --noEmit: 0
+npm run lint: 0 (0 erros; 118 avisos)
+npm test: 0 (284/284)
+npx vitest run: 0 (23/23)
+npm run build: 0 (prebuild + build + postbuild)
+npx htmlhint '.next/server/app/**/*.html': 0 (700 HTMLs, zero erros)
+CHROMIUM_EXECUTABLE=/usr/bin/chromium npx playwright test tests/e2e/esqueleto.spec.ts tests/e2e/colecao-vestibulinho.spec.ts: 0 (10/10 no build final, cobrança desligada, sem fixture de autenticação)
+Perfil isolado gratuito anterior: 56 aprovados, 2 skips exclusivos do cenário pago.
+Perfil isolado pago anterior: 6 aprovados.
+Não houve chamada de cobrança real nesses testes.
+node scripts/auditar-urls-linker.mjs: 0 (6240 URLs internas, zero quebradas/falhas, 3372 lastmod válidos, zero duplicatas)

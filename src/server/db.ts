@@ -1,3 +1,4 @@
+import {getServerEnv} from '../env.mjs';
 import "server-only";
 import { Pool } from "pg";
 
@@ -26,14 +27,14 @@ let pool: Pool | null = null;
 let adapter: Db | null = null;
 
 export function isDbConfigured(): boolean {
-  return Boolean(process.env.DATABASE_URL);
+  return Boolean(getServerEnv().DATABASE_URL);
 }
 
 /** Devolve o adaptador do banco, ou `null` quando DATABASE_URL não existe. */
 export function getDb(): Db | null {
-  if (!process.env.DATABASE_URL) return null;
+  if (!getServerEnv().DATABASE_URL) return null;
   if (!pool) {
-    pool = new Pool({ connectionString: process.env.DATABASE_URL });
+    pool = new Pool({ connectionString: getServerEnv().DATABASE_URL });
     // Um cliente ocioso que falha (rede, restart do banco) emite "error"
     // no pool; sem listener, o Node trata-o como exceção não apanhada e
     // derruba o processo. Registar e seguir: o pool aposenta o cliente e

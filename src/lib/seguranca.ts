@@ -1,3 +1,4 @@
+import {getServerEnv} from '../env.mjs';
 import "server-only";
 import {RateBucket} from "./security/bucket";
 
@@ -12,7 +13,7 @@ export function limitar(chave:string,max:number,janelaMs:number,cost=1){return b
 export function origemPermitida(req: Request): boolean {
   const origin = req.headers.get("origin");
   if (!origin) return false;
-  const site = process.env.NEXT_PUBLIC_SITE_URL;
+  const site = getServerEnv().NEXT_PUBLIC_SITE_URL;
   const permitidas = new Set([site, "http://localhost:3000"].filter(Boolean) as string[]);
   try {
     if (site) permitidas.add(new URL(site).origin);

@@ -1,3 +1,4 @@
+import {getServerEnv} from '../../env.mjs';
 import {LaunchAccess} from '@/components/launch-access';
 import {BillingCheckout} from '@/components/billing-checkout';import {getPlan,billingEnabled} from '@/lib/billing/config';import type {BillingPlan} from '@/lib/billing/types';
 import Link from "next/link";
@@ -34,7 +35,7 @@ function Preparacao({ objetivo }: { objetivo: ObjetivoPreparacao }) {
 }
 
 export default function Page() {
- const prices:Partial<Record<BillingPlan,number>>={};for(const id of ['pix-30','pix-90','pix-365','cartao-mensal','cartao-anual'] as const)try{if(!billingEnabled||process.env.BILLING_ENABLED!=='1')continue;prices[id]=getPlan(id).amountCents;}catch{}
+ const prices:Partial<Record<BillingPlan,number>>={};for(const id of ['pix-30','pix-90','pix-365','cartao-mensal','cartao-anual'] as const)try{if(!billingEnabled||getServerEnv().BILLING_ENABLED!=='1')continue;prices[id]=getPlan(id).amountCents;}catch{}
   return (
     <main id="conteudo-principal" tabIndex={-1}>
       <div className="gb-container v2-page"><>{billingEnabled?<BillingCheckout prices={prices}/>:<LaunchAccess/>}</></div>

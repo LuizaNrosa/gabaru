@@ -1,14 +1,37 @@
 # Gabaru
 
-Plataforma independente de provas, questões e estudo para ENEM, vestibulinhos e vestibulares. Curadoria pedagógica: Luiza Nascimento Rosa. Os conteúdos não substituem editais ou fontes oficiais.
+Preparação para ENEM, vestibulinhos e vestibulares. Origem canônica: https://gabaru.com.br. Autoria e curadoria: Luiza Nascimento Rosa.
 
-- [ENEM](https://gabaru.com.br/enem)
-- [Vestibulinhos](https://gabaru.com.br/vestibulinho)
-- [Vestibulares](https://gabaru.com.br/vestibulares)
-- [Questões](https://gabaru.com.br/questoes)
-- [Livros internos](https://gabaru.com.br/livros)
-- [Videoaulas](https://gabaru.com.br/videoaulas)
-- [Metodologia e autoria](https://gabaru.com.br/sobre)
+## Catálogo público
+- https://gabaru.com.br/
+- https://gabaru.com.br/sobre
+- https://gabaru.com.br/privacidade
+- https://gabaru.com.br/termos
+- https://gabaru.com.br/reembolso
+- https://gabaru.com.br/enem
+- https://gabaru.com.br/vestibulinho
+- https://gabaru.com.br/vestibulares
+- https://gabaru.com.br/provas
+- https://gabaru.com.br/questoes
+- https://gabaru.com.br/videoaulas
+- https://gabaru.com.br/banca/coluni
+- https://gabaru.com.br/banca/etec
+- https://gabaru.com.br/banca/fuvest
+- https://gabaru.com.br/banca/ifam
+- https://gabaru.com.br/banca/ifba
+- https://gabaru.com.br/banca/ifce
+- https://gabaru.com.br/banca/ifmg
+- https://gabaru.com.br/banca/ifmt
+- https://gabaru.com.br/banca/ifrn
+- https://gabaru.com.br/banca/ifrs
+- https://gabaru.com.br/banca/ifsc
+- https://gabaru.com.br/banca/ifsp
+- https://gabaru.com.br/banca/enem
+- https://gabaru.com.br/banca/uel
+- https://gabaru.com.br/banca/uerj
+- https://gabaru.com.br/banca/unesp
+- https://gabaru.com.br/banca/unicamp
+- https://gabaru.com.br/livros
 
 Catálogo detalhado: https://gabaru.com.br/llms-full.txt
 Sitemap: https://gabaru.com.br/sitemap.xml

@@ -1,7 +1,9 @@
 "use client";
 
 import Link from "next/link";
-import { useId, useState } from "react";
+import { useId } from "react";
+import {useQueryStates} from 'nuqs';
+import {examParsers} from '@/lib/catalogo/query-parsers';
 import { CONTAINER } from "@/components/ui";
 
 type Exame = { nome: string; detalhe: string; href: string; busca?: string; emColeta?: boolean };
@@ -39,16 +41,17 @@ const normalizar = (valor: string) => valor.normalize("NFD").replace(/[\u0300-\u
 
 export function AcervoBusca() {
   const id = useId();
-  const [busca, setBusca] = useState("");
+  const [{q:busca,banca},setQuery]=useQueryStates(examParsers,{history:'push',shallow:true,clearOnDefault:true});
+  const setBusca=(q:string)=>void setQuery({q});
   const termo = normalizar(busca);
-  const resultados = grupos.map((grupo) => ({ ...grupo, exames: grupo.exames.filter((exame) => normalizar(`${exame.nome} ${exame.detalhe} ${exame.busca ?? ""}`).includes(termo)) }));
+  const resultados = grupos.map((grupo) => ({ ...grupo, exames: grupo.exames.filter((exame) => ( !banca || exame.href===`/provas/${banca}` ) && normalizar(`${exame.nome} ${exame.detalhe} ${exame.busca ?? ""}`).includes(termo)) }));
   const total = resultados.reduce((soma, grupo) => soma + grupo.exames.length, 0);
   return <>
     <section className={`${CONTAINER} pt-8`} aria-label="Encontrar prova">
       <label htmlFor={id} className="block font-semibold">Busque por prova, instituição ou estado</label>
       <div className="mt-2 flex max-w-2xl flex-wrap gap-3">
         <input id={id} type="search" value={busca} onChange={(event) => setBusca(event.target.value)} placeholder="Ex.: ENEM, Vunesp, Minas Gerais" className="min-h-12 min-w-0 flex-1 rounded border border-n2 bg-white px-4" />
-        {busca && <button type="button" onClick={() => setBusca("")} className="min-h-12 rounded border border-n2 px-4 font-semibold">Limpar busca</button>}
+        <label className="min-h-12">Banca<select aria-label="Banca da prova" className="ml-2 min-h-12 rounded border border-n2 bg-white px-3" value={banca} onChange={e=>void setQuery({banca:e.target.value})}><option value="">Todas</option>{grupos.flatMap(g=>g.exames).map(e=><option key={e.href} value={e.href.split('/').at(-1)}>{e.nome}</option>)}</select></label>{busca && <button type="button" onClick={() => setBusca("")} className="min-h-12 rounded border border-n2 px-4 font-semibold">Limpar busca</button>}
       </div>
       <p className="mt-3 text-sm text-n5" aria-live="polite">{termo ? `${total} ${total === 1 ? "resultado" : "resultados"} para “${busca.trim()}”` : "Escolha uma instituição abaixo ou use a busca."}</p>
       {!termo && <nav className="mt-5 flex flex-wrap gap-x-5 gap-y-3" aria-label="Categorias de provas">{grupos.map((grupo) => <a key={grupo.id} className="gb-text-link" href={`#${grupo.id}`}>{grupo.titulo} ↓</a>)}</nav>}

@@ -1,3 +1,4 @@
+import {getServerEnv} from '../../env.mjs';
 import "server-only";
 import { cert, getApps, initializeApp } from "firebase-admin/app";
 
@@ -5,9 +6,9 @@ export function getAdminApp() {
   const existing = getApps()[0];
   if (existing) return existing;
 
-  const projectId = process.env.FIREBASE_ADMIN_PROJECT_ID;
-  const clientEmail = process.env.FIREBASE_ADMIN_CLIENT_EMAIL;
-  const privateKey = process.env.FIREBASE_ADMIN_PRIVATE_KEY?.replace(/\\n/g, "\n");
+  const projectId = getServerEnv().FIREBASE_ADMIN_PROJECT_ID;
+  const clientEmail = getServerEnv().FIREBASE_ADMIN_CLIENT_EMAIL;
+  const privateKey = getServerEnv().FIREBASE_ADMIN_PRIVATE_KEY?.replace(/\\n/g, "\n");
 
   if (!projectId || !clientEmail || !privateKey) {
     throw new Error("Variáveis FIREBASE_ADMIN_* não configuradas.");

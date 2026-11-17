@@ -11,7 +11,7 @@ test('extrai todas as partes XML preservando parâmetros escapados',()=>{
 import { expandSitemaps } from '../scripts/auditar-urls-linker.mjs';
 test('expande índice e todas as partes e conserva origem XML',async()=>{
  const origin='http://127.0.0.1:3100', seen=[];
- const request=async url=>{seen.push(url);return new Response(url.endsWith('/sitemap.xml')?'<sitemapindex><loc>https://gabaru.com.br/one.xml</loc><loc>https://gabaru.com.br/two.xml</loc></sitemapindex>':`<urlset><loc>https://gabaru.com.br/${url.endsWith('one.xml')?'a':'b'}</loc></urlset>`)};
+ const request=async url=>{seen.push(url);return new Response(url.endsWith('/sitemap.xml')?'<sitemapindex><loc>https://gabaru.com.br/one.xml</loc><loc>https://gabaru.com.br/two.xml</loc></sitemapindex>':`<urlset><url><loc>https://gabaru.com.br/${url.endsWith('one.xml')?'a':'b'}</loc><lastmod>2026-11-17T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url></urlset>`)};
  const {seeds,xmlSeen}=await expandSitemaps(origin,request);
  assert.equal(xmlSeen.size,3);assert.equal(seeds.size,2);
  assert.deepEqual([...seeds.get(origin+'/b')],[origin+'/two.xml']);assert.equal(seen.length,3);
@@ -30,4 +30,10 @@ test('limpeza do ISR preserva arquivos recentes',async()=>{
  await pruneRouteCache(dir,Date.now()-10000);
  await assert.rejects(access(join(dir,'old.html')));await access(join(dir,'new.html'));
  }finally{await rm(dir,{recursive:true,force:true})}
+});
+test('auditor rejeita lastmod ausente e URL duplicada entre partes',async()=>{
+ const origin='http://127.0.0.1:3100';
+ await assert.rejects(expandSitemaps(origin,async()=>new Response('<urlset><url><loc>https://gabaru.com.br/a</loc></url></urlset>')),/Lastmod/);
+ const body='<urlset><url><loc>https://gabaru.com.br/a</loc><lastmod>2026-11-17T00:00:00.000Z</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url></urlset>';
+ await assert.rejects(expandSitemaps(origin,async url=>new Response(url.endsWith('/sitemap.xml')?'<sitemapindex><loc>https://gabaru.com.br/one.xml</loc><loc>https://gabaru.com.br/two.xml</loc></sitemapindex>':body)),/duplicada/);
 });

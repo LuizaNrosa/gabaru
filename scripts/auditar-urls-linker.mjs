@@ -12,17 +12,18 @@ export function localUrl(value, origin) {
 }
 export function locations(xml){return [...xml.matchAll(/<loc>\s*([^<]+)\s*<\/loc>/g)].map(m=>m[1].trim().replaceAll('&amp;','&').replaceAll('&lt;','<').replaceAll('&gt;','>').replaceAll('&quot;','"').replaceAll('&apos;',"'"));}
 export async function expandSitemaps(origin, request=fetch){
- const seeds=new Map(),xmlSeen=new Set();
+ const seeds=new Map(),xmlSeen=new Set(),xmlStats={occurrences:0,validLastmod:0,duplicates:0};
  async function expand(url){
- const local=localUrl(url,origin);if(xmlSeen.has(local))return;xmlSeen.add(local);
+ const local=localUrl(url,origin);if(xmlSeen.has(local))throw new Error('Sitemap repetido ou circular: '+local);xmlSeen.add(local);
  const response=await request(local,{redirect:'manual',signal:AbortSignal.timeout(30000)});
  if(response.status!==200)throw new Error(`Sitemap ${local}: ${response.status}`);
  const xml=await response.text(), locs=locations(xml);
+ if(!xml.includes('<sitemapindex')){const blocks=[...xml.matchAll(/<url>([\s\S]*?)<\/url>/g)];if(blocks.length!==locs.length||blocks.length>2000)throw new Error('Estrutura/tamanho de sitemap inválido: '+local);for(const [,block]of blocks){xmlStats.occurrences++;const date=/<lastmod>([^<]+)<\/lastmod>/.exec(block)?.[1];if(!date||!/^\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d\.000Z$/.test(date)||Number.isNaN(Date.parse(date))||new Date(date).toISOString()!==date)throw new Error('Lastmod ausente/inválido: '+local);if(!/<changefreq>(always|hourly|daily|weekly|monthly|yearly|never)<\/changefreq>/.test(block)||!/<priority>(0(?:\.\d+)?|1(?:\.0+)?)<\/priority>/.test(block))throw new Error('Frequência/prioridade inválida: '+local);xmlStats.validLastmod++;}}
  if(!locs.length)throw new Error(`Sitemap vazio: ${local}`);
- for(const loc of locs){if(xml.includes('<sitemapindex'))await expand(loc);else{const key=localUrl(loc,origin);if(!seeds.has(key))seeds.set(key,new Set());seeds.get(key).add(local)}}
+ for(const loc of locs){if(xml.includes('<sitemapindex'))await expand(loc);else{const key=localUrl(loc,origin);if(seeds.has(key)){xmlStats.duplicates++;throw new Error('URL duplicada entre sitemaps: '+key)}seeds.set(key,new Set([local]))}}
  }
  await expand(origin+'/sitemap.xml');
- return {seeds,xmlSeen};
+ return {seeds,xmlSeen,xmlStats};
 }
 // Evict only old, disposable ISR files; never touch compiled app files or source PDFs.
 export async function pruneRouteCache(directory, olderThan=Date.now()-10_000){
@@ -49,10 +50,11 @@ export async function audit(){
  await pause(250);
  }
  if(!ready)throw new Error('Servidor não ficou pronto em 30s');
- const {seeds,xmlSeen}=await expandSitemaps(origin);
+ const {seeds,xmlSeen,xmlStats}=await expandSitemaps(origin);
  const catalog=JSON.parse(await readFile('src/data/catalogo-v2.json','utf8'));
  const tier0=catalog.questoes.filter(q=>q.tier==='tier-0-quarentena').slice(0,3).map(q=>origin+'/questoes/'+q.slug);
  for(const q of catalog.questoes.filter(q=>q.tier==='tier-0-quarentena'))if(seeds.has(origin+'/questoes/'+q.slug))throw new Error(`Tier 0 no sitemap: ${q.slug}`);
+ const legacy=['/sitemaps/questoes/1.xml','/sitemaps/questoes/2.xml','/sitemap/questoes-1.xml','/sitemap-index.xml'];
  const checker=new LinkChecker(), rows=new Map(), redirected=new Set();let checked=0;
  checker.on('redirect',r=>redirected.add(r.url));
  checker.on('link',r=>{
@@ -61,7 +63,7 @@ export async function audit(){
  if(r.parent)row.sources.add(r.parent);
  if(++checked%250===0)console.log(`Linkinator: ${checked} resultados; ${rows.size} URLs internas`);
  });
- await checker.check({path:[...seeds.keys(),...tier0,origin+'/painel'],recurse:true,concurrency:3,timeout:30000,retry:false,retryErrors:false,checkFragments:false,redirects:'warn',
+ await checker.check({path:[...seeds.keys(),...tier0,origin+'/painel',...legacy.map(p=>origin+p)],recurse:true,concurrency:3,timeout:30000,retry:false,retryErrors:false,checkFragments:false,redirects:'warn',
  urlRewriteExpressions:[{pattern:/^https?:\/\/(?:www\.)?gabaru\.com\.br(?=\/|$)/,replacement:origin}],
  linksToSkip:async value=>{try{return new URL(value).origin!==origin}catch{return true}}
  });
@@ -74,6 +76,8 @@ export async function audit(){
  if(row.status>=300&&row.status<400)redirects.push(row);
  }
  const semantic=[];
+ for(const path of legacy){const row=rows.get(origin+path),expected=path==='/sitemap-index.xml'?'/sitemap.xml':path==='/sitemaps/questoes/2.xml'?'/sitemap-questoes-1.xml':'/sitemap-questoes.xml';if(row?.status!==301||!row.target||new URL(row.target,origin).pathname!==expected)semantic.push('Alias legado sem 301 correto: '+path);}
+
  for(const url of tier0){const r=await fetch(url);const html=await r.text();if(r.status!==200||!/<meta\s+name="robots"\s+content="[^"]*noindex[^\"]*follow/i.test(html))semantic.push(`Tier 0 sem noindex/follow: ${url}`)}
  const auth=await fetch(origin+'/painel',{redirect:'manual'});await auth.body?.cancel();
  for(const row of rows.values())if(row.url.includes('/livros/')&&(row.status!==307||!row.target?.includes('/login')))semantic.push(`Proteção anônima do leitor inválida: ${row.url}`);
@@ -81,7 +85,7 @@ export async function audit(){
  for(const url of seeds.keys())if(!rows.has(url)||rows.get(url).status!==200)semantic.push(`URL de sitemap sem 200: ${url}`);
  const failures=[...rows.values()].filter(r=>r.status===0||r.status>=400);
  const canonical=s=>s.replaceAll(origin,'https://gabaru.com.br').replaceAll('|','%7C').replaceAll('\n',' ');
- const counts={sitemapUrls:seeds.size,sitemaps:xmlSeen.size,internalUrls:rows.size,ok:[...rows.values()].filter(r=>r.status===200).length,redirects:redirects.length,broken:failures.length,contractFailures:semantic.length,tier0Samples:tier0.length,protectedReaderSamples:[...rows.values()].filter(r=>r.url.includes('/livros/')).length,redirectStatuses:Object.fromEntries([...new Set(redirects.map(r=>r.status))].map(status=>[status,redirects.filter(r=>r.status===status).length]))};
+ const counts={sitemapUrls:seeds.size,sitemapOccurrences:xmlStats.occurrences,sitemapDuplicates:xmlStats.duplicates,validLastmod:xmlStats.validLastmod,sitemaps:xmlSeen.size,internalUrls:rows.size,ok:[...rows.values()].filter(r=>r.status===200).length,redirects:redirects.length,broken:failures.length,contractFailures:semantic.length,tier0Samples:tier0.length,protectedReaderSamples:[...rows.values()].filter(r=>r.url.includes('/livros/')).length,redirectStatuses:Object.fromEntries([...new Set(redirects.map(r=>r.status))].map(status=>[status,redirects.filter(r=>r.status===status).length]))};
  const report=`# Auditoria local integral de URLs\n\nExecução: ${new Date().toISOString()}. Next compilado iniciado e encerrado pelo auditor. Linkinator percorre páginas e recursos internos; links externos e fragmentos não são rastreados diretamente. Endpoints internos de PDF consultam suas fontes oficiais usando o proxy de rede do ambiente, com validação de integridade quando prevista no endpoint. Rotas protegidas são verificadas como visitante, sem simular sessão autenticada.\n\n\`\`\`json\n${JSON.stringify(counts,null,2)}\n\`\`\`\n\n${semantic.join('\n')}\n\n| URL | HTTP | Origem do link | Destino do redirecionamento |\n| --- | --- | --- | --- |\n`+[...rows.values()].sort((a,b)=>a.url.localeCompare(b.url)).map(r=>`| ${canonical(r.url)} | ${r.status} | ${[...r.sources].map(canonical).join('<br>')||'Amostra explícita'} | ${r.target?canonical(r.target):''} |`).join('\n')+'\n';
  await mkdir('docs/engenharia/v3',{recursive:true});await writeFile('docs/engenharia/v3/relatorio-urls-linker.md',report);
  await writeFile('work/linker/resultados.json',JSON.stringify({counts,failures:failures.map(r=>({...r,sources:[...r.sources]})),semantic},null,2));

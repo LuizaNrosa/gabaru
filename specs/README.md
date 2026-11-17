@@ -4,9 +4,9 @@ Base sincronizada: main `bb8c16d3` (PR #110). Mudanças de rota devem atualizar 
 
 ## Rotas públicas
 
-Origem canônica: `https://gabaru.com.br`. `/`, `/sobre`, `/enem`, `/vestibulinho`, `/vestibulares`, `/provas`, `/questoes`, `/livros`, `/videoaulas` e os hubs `/banca/[slug]`, `/disciplina/[disciplina]`, `/assunto/[slug]` são públicos. Edições oficiais ficam em `/provas/[instituicao]/[edicao]`; questões em `/questoes/[slug]`. Parâmetros devem existir no catálogo; identificadores inexistentes retornam 404.
+Origem canônica: `https://gabaru.com.br`. `/`, `/sobre`, `/privacidade`, `/termos`, `/reembolso`, `/enem`, `/vestibulinho`, `/vestibulares`, `/provas`, `/questoes`, `/livros`, `/videoaulas` e os hubs `/banca/[slug]`, `/disciplina/[disciplina]`, `/assunto/[slug]` são públicos. Edições oficiais ficam em `/provas/[instituicao]/[edicao]`; questões em `/questoes/[slug]`. Parâmetros devem existir no catálogo; identificadores inexistentes retornam 404.
 
-O índice `/sitemap.xml` aponta para `sitemap-hubs.xml`, `sitemap-provas.xml`, `sitemap-disciplinas.xml` e `sitemap-questoes.xml`. Cada parte admite até 2.000 URLs; partes seguintes usam `/sitemaps/[tipo]/[parte].xml`. A auditoria percorre recursivamente todo o índice, sem limitar a primeira parte. Toda URL declarada deve retornar 200, sem redirecionamento, e nunca pertencer ao Tier 0.
+O índice `/sitemap.xml` aponta para `sitemap-hubs.xml`, `sitemap-provas.xml`, `sitemap-disciplinas.xml` `sitemap-questoes.xml` e `sitemap-livros.xml`. Cada parte admite até 2.000 URLs; partes seguintes usam `/sitemap-questoes-1.xml` e a mesma convenção para outras famílias. Aliases legados `/sitemaps/[tipo]/[parte].xml`, `/sitemap/[id].xml` e `/sitemap-index.xml` respondem apenas 301. next-sitemap gera XML e robots no postbuild obrigatório de `npm run build`; não há rota paralela gerando XML. Toda entrada contém lastmod ISO com milissegundos .000Z, frequência e prioridade. Datas seguem fingerprints do conteúdo e permanecem estáveis quando nada mudou. A auditoria percorre recursivamente todo o índice, sem limitar a primeira parte. Toda URL declarada deve retornar 200, sem redirecionamento, e nunca pertencer ao Tier 0.
 
 ## Promoção editorial
 
@@ -31,3 +31,7 @@ Fluxo: contrato → teste de regressão → implementação → diagnóstico da 
 `src/data/colecao-vestibulinho.json` registra quatro livros e 23 capítulos (6/7/5/5). Sumários são públicos em `/livros`; capítulos em preparação continuam identificados e protegidos. As quatro amostras anteriores permanecem disponíveis. Publicados da nova coleção exigem seis questões reais ETEC/IFs em Tier 1/2, distintas, referências atribuídas e revisão editorial identificada. Livros legados mantêm cinco exercícios. Rascunhos nunca são servidos como capítulos concluídos.
 
 O mapa versionado em `bibliografia-pdfs/MAPA-FONTES.json` liga prefixos a capítulos. PDFs, autorizações e índice permanecem privados e fora do build. Fontes com texto ilegível entram em quarentena de extração/OCR; não fornecem teoria nem exercícios publicados. Licença da edição e páginas autorizadas não são inferidas pelo nome do arquivo. Referências BNCC/INEP não constituem, sozinhas, validação automática de alinhamento curricular.
+
+## Ambiente e filtros
+
+`src/env.mjs` valida as variáveis com t3-env/zod. Segredos são opcionais para compilar páginas públicas, mas valores presentes inválidos interrompem a configuração sem imprimir seus valores. `env` expõe somente NEXT_PUBLIC_* mesmo no SSR; serviços usam `getServerEnv()`. Billing continua desligado por padrão. Filtros usam parsers compartilhados nuqs no servidor e cliente; valores inválidos são removidos por redirecionamento e canonical permanece sem parâmetros.

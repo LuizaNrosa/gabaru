@@ -52,7 +52,7 @@
     "server-only": "^0.0.1",
     "sitemap": "^10.0.0",
     "smiles-drawer": "^2.4.1",
-    "stripe": "^17.0.0",
+    "stripe": "^23.1.0",
     "ts-fsrs": "^6.0.0",
     "zod": "^4.6.7"
   },

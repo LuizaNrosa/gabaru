@@ -1,0 +1,550 @@
+{
+  "limiteConservador": 250000000,
+  "maior": {
+    "file": ".next/server/app/livros/[livroSlug]/[capituloSlug]/page.js.nft.json",
+    "bytes": 40078638,
+    "missing": []
+  },
+  "functions": [
+    {
+      "file": ".next/server/app/livros/[livroSlug]/[capituloSlug]/page.js.nft.json",
+      "bytes": 40078638,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/enem/[edition]/page.js.nft.json",
+      "bytes": 33939887,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/etec/2026-2/page.js.nft.json",
+      "bytes": 31041257,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/etec/[edition]/page.js.nft.json",
+      "bytes": 31040949,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/coluni/[edition]/page.js.nft.json",
+      "bytes": 31029497,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifsc/[edition]/page.js.nft.json",
+      "bytes": 30706541,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifsp/[edition]/page.js.nft.json",
+      "bytes": 30550499,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/questoes/[slug]/page.js.nft.json",
+      "bytes": 29886227,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/disciplina/[disciplina]/page.js.nft.json",
+      "bytes": 29588712,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/assunto/[slug]/page.js.nft.json",
+      "bytes": 29588605,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/questoes/page.js.nft.json",
+      "bytes": 29354394,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/painel/page.js.nft.json",
+      "bytes": 29257260,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/study/route.js.nft.json",
+      "bytes": 28891122,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/banca/[slug]/page.js.nft.json",
+      "bytes": 19141590,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/[slug]/[ano]/page.js.nft.json",
+      "bytes": 19133783,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/vestibulares/page.js.nft.json",
+      "bytes": 19079279,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/vestibulinho/page.js.nft.json",
+      "bytes": 19079279,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/enem/page.js.nft.json",
+      "bytes": 19079190,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/videoaulas/page.js.nft.json",
+      "bytes": 19070867,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/sitemap/[__metadata_id__]/route.js.nft.json",
+      "bytes": 18877989,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/sitemaps/[tipo]/[parte]/route.js.nft.json",
+      "bytes": 18768455,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/sitemap-disciplinas.xml/route.js.nft.json",
+      "bytes": 18768181,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/sitemap-questoes.xml/route.js.nft.json",
+      "bytes": 18768161,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/sitemap-provas.xml/route.js.nft.json",
+      "bytes": 18768147,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/sitemap-hubs.xml/route.js.nft.json",
+      "bytes": 18768133,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/sitemap-index.xml/route.js.nft.json",
+      "bytes": 18768121,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/painel/premium/page.js.nft.json",
+      "bytes": 12372906,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/attempts/route.js.nft.json",
+      "bytes": 12325494,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/stripe/webhook/route.js.nft.json",
+      "bytes": 12248918,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/stripe/checkout/route.js.nft.json",
+      "bytes": 12248116,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/stripe/portal/route.js.nft.json",
+      "bytes": 12247901,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/progress/route.js.nft.json",
+      "bytes": 12212910,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/auth/session/route.js.nft.json",
+      "bytes": 12118146,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/mercado-pago/checkout-teste/route.js.nft.json",
+      "bytes": 12010117,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/entitlement/route.js.nft.json",
+      "bytes": 12009313,
+      "missing": []
+    },
+    {
+      "file": ".next/server/middleware.js.nft.json",
+      "bytes": 11963019,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/enem/page.js.nft.json",
+      "bytes": 6263397,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/pre-vestibulinho/page.js.nft.json",
+      "bytes": 5736122,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/etec/correcao/route.js.nft.json",
+      "bytes": 5460052,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/acervo/correcao/route.js.nft.json",
+      "bytes": 5460048,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/institutos-federais/page.js.nft.json",
+      "bytes": 3596373,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/nota-de-corte/page.js.nft.json",
+      "bytes": 3384411,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/etec/page.js.nft.json",
+      "bytes": 3333258,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/etec/page.js.nft.json",
+      "bytes": 3332382,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/coluni/page.js.nft.json",
+      "bytes": 3321205,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/nota-de-corte-ifsc/page.js.nft.json",
+      "bytes": 3127659,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/etec/route.js.nft.json",
+      "bytes": 3083030,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/disciplinas/[slug]/page.js.nft.json",
+      "bytes": 3079042,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/coluni/route.js.nft.json",
+      "bytes": 3071239,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifsc/page.js.nft.json",
+      "bytes": 2998535,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/questions/route.js.nft.json",
+      "bytes": 2876179,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifsp/page.js.nft.json",
+      "bytes": 2842113,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/unicamp/[year]/page.js.nft.json",
+      "bytes": 2827815,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/unesp/[year]/page.js.nft.json",
+      "bytes": 2824535,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/catalog/route.js.nft.json",
+      "bytes": 2765949,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/ifsc/route.js.nft.json",
+      "bytes": 2747519,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/enem-simulado/route.js.nft.json",
+      "bytes": 2746583,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/pre-vestibular/page.js.nft.json",
+      "bytes": 2727802,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/unicamp/page.js.nft.json",
+      "bytes": 2717922,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/unesp/page.js.nft.json",
+      "bytes": 2717912,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/ifsp/route.js.nft.json",
+      "bytes": 2591893,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/nota-de-corte/ifrn/page.js.nft.json",
+      "bytes": 2430606,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/nota-de-corte/sisu/page.js.nft.json",
+      "bytes": 2424779,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/nota-de-corte/fuvest/page.js.nft.json",
+      "bytes": 2421693,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/fuvest/[year]/page.js.nft.json",
+      "bytes": 2396699,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/nota-de-corte-coluni/page.js.nft.json",
+      "bytes": 2383087,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/uerj/[edicao]/page.js.nft.json",
+      "bytes": 2365541,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/uel/[edicao]/page.js.nft.json",
+      "bytes": 2365530,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/vestibulares/[institution]/[document]/route.js.nft.json",
+      "bytes": 2363684,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifmg/[edition]/page.js.nft.json",
+      "bytes": 2358235,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifmt/[edition]/page.js.nft.json",
+      "bytes": 2358235,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifrs/[edition]/page.js.nft.json",
+      "bytes": 2358235,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifba/[edition]/page.js.nft.json",
+      "bytes": 2358233,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifce/[edition]/page.js.nft.json",
+      "bytes": 2358233,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifrn/[edition]/page.js.nft.json",
+      "bytes": 2358233,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifce/page.js.nft.json",
+      "bytes": 2357903,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifmg/page.js.nft.json",
+      "bytes": 2357903,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifmt/page.js.nft.json",
+      "bytes": 2357903,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifrn/page.js.nft.json",
+      "bytes": 2357903,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifrs/page.js.nft.json",
+      "bytes": 2357903,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifba/page.js.nft.json",
+      "bytes": 2357901,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/uerj/page.js.nft.json",
+      "bytes": 2351476,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/uel/page.js.nft.json",
+      "bytes": 2351466,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/[slug]/page.js.nft.json",
+      "bytes": 2333942,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/checkout/teste/page.js.nft.json",
+      "bytes": 2323837,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/nota-de-corte/unesp/page.js.nft.json",
+      "bytes": 2290551,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/fuvest/page.js.nft.json",
+      "bytes": 2288457,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/nota-de-corte/unicamp/page.js.nft.json",
+      "bytes": 2283797,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/treino/page.js.nft.json",
+      "bytes": 2269677,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/nota-de-corte/cotuca/page.js.nft.json",
+      "bytes": 2267520,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/page.js.nft.json",
+      "bytes": 2265457,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/materiais-gratuitos/page.js.nft.json",
+      "bytes": 2264297,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/sobre/page.js.nft.json",
+      "bytes": 2263746,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/concursos/page.js.nft.json",
+      "bytes": 2263241,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/questoes-gratis/page.js.nft.json",
+      "bytes": 2263210,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/page.js.nft.json",
+      "bytes": 2262994,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/provas/ifam/page.js.nft.json",
+      "bytes": 2262873,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/cadastro/page.js.nft.json",
+      "bytes": 2262671,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/login/page.js.nft.json",
+      "bytes": 2262656,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/planos/page.js.nft.json",
+      "bytes": 2262538,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/livros/page.js.nft.json",
+      "bytes": 2260655,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/vestibulares-paulistas/page.js.nft.json",
+      "bytes": 2260440,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/_not-found/page.js.nft.json",
+      "bytes": 2258100,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/ifs/correcao/route.js.nft.json",
+      "bytes": 2029764,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/robots.txt/route.js.nft.json",
+      "bytes": 2015929,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/icon.svg/route.js.nft.json",
+      "bytes": 2011202,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/_global-error/page.js.nft.json",
+      "bytes": 1945688,
+      "missing": []
+    },
+    {
+      "file": ".next/server/app/api/v1/fuvest/[doc]/route.js.nft.json",
+      "bytes": 1930854,
+      "missing": []
+    }
+  ]
+}

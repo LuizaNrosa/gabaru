@@ -9,7 +9,8 @@ const links = [
   ["Nota de corte", "/nota-de-corte"],
   ["ENEM e vestibulares", "/pre-vestibular"],
   ["Banco de questões", "/questoes"],
-  ["Materiais", "/materiais-gratuitos"],
+  ["Livros", "/livros"],
+  ["Videoaulas", "/videoaulas"],
   ["Sobre", "/sobre"],
 ] as const;
 

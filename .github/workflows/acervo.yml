@@ -16,6 +16,7 @@ jobs:
         with:
           node-version: '22'
       - run: npm ci
+      - run: npm run validar:licencas
       - run: node scripts/restore-acervo-parts.mjs
       - run: node scripts/prepare-enem.mjs
       - run: node scripts/prepare-etec.mjs --paginar

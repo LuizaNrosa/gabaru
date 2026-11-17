@@ -1,0 +1,175 @@
+
+/workspace/work/gabaru-code/APK/App.tsx
+   61:20  warning  Variable Assigned to Object Injection Sink                                                                   security/detect-object-injection
+  244:17  warning  Image elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+/workspace/work/gabaru-code/src/app/api/v1/fuvest/[doc]/route.ts
+  20:16  warning  Variable Assigned to Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/app/planos/page.tsx
+  13:51  warning  Variable Assigned to Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/app/pre-vestibular/page.tsx
+  63:69  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/app/provas/enem/[edition]/page.tsx
+  52:77  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/workspace/work/gabaru-code/src/components/catalog-search.tsx
+  19:340  warning  Function Call Object Injection Sink  security/detect-object-injection
+  22:104  warning  Generic Object Injection Sink        security/detect-object-injection
+  22:252  warning  Generic Object Injection Sink        security/detect-object-injection
+  22:444  warning  Generic Object Injection Sink        security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/coluni-exam-reader.tsx
+  26:74    warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  30:391   warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  30:828   warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  30:982   warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  30:1113  warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  30:1463  warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  30:1617  warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  31:87    warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/enem-exam-reader.tsx
+  36:20   warning  Variable Assigned to Object Injection Sink                                                                                                                                                                                                                                               security/detect-object-injection
+  57:52   warning  Unused eslint-disable directive (no problems were reported from '@next/next/no-img-element')
+  57:109  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  70:9    warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  71:154  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  82:176  warning  '_removed' is defined but never used                                                                                                                                                                                                                                                     @typescript-eslint/no-unused-vars
+
+/workspace/work/gabaru-code/src/components/etec-answer-sheet.tsx
+  9:442  warning  Generic Object Injection Sink  security/detect-object-injection
+  9:589  warning  Generic Object Injection Sink  security/detect-object-injection
+  9:803  warning  Generic Object Injection Sink  security/detect-object-injection
+  9:831  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/etec-exam-reader.tsx
+  30:22    warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  64:4     warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  82:149   warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  85:424   warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  85:847   warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  85:1001  warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  85:1141  warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  85:1619  warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  85:1773  warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  86:78    warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/folha-de-respostas.tsx
+  167:15  warning  Generic Object Injection Sink  security/detect-object-injection
+  181:30  warning  Generic Object Injection Sink  security/detect-object-injection
+  186:29  warning  Generic Object Injection Sink  security/detect-object-injection
+  186:51  warning  Generic Object Injection Sink  security/detect-object-injection
+  187:30  warning  Generic Object Injection Sink  security/detect-object-injection
+  194:23  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/fuvest-doc-reader.tsx
+  39:15  warning  Variable Assigned to Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/if-archive-pages.tsx
+   9:157  warning  Generic Object Injection Sink  security/detect-object-injection
+  11:454  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/if-caderno-reader.tsx
+  15:6   warning  Unused eslint-disable directive (no problems were reported from '@next/next/no-img-element')
+  15:63  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/workspace/work/gabaru-code/src/components/if-official-documents.tsx
+  5:32  warning  Variable Assigned to Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/ifsc-exam-reader.tsx
+  27:74    warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  31:370   warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  31:786   warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  31:940   warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  31:1071  warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  31:1411  warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  31:1565  warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  32:87    warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/ifsp-exam-reader.tsx
+  29:74    warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  33:370   warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  33:786   warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  33:940   warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  33:1071  warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  33:1471  warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  33:1625  warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+  34:87    warning  Generic Object Injection Sink                                                                                                                                                                                                                                                            security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/nota-corte-unesp-tool.tsx
+  19:17  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/nota-corte-unicamp-tool.tsx
+  9:15  warning  Variable Assigned to Object Injection Sink  security/detect-object-injection
+  9:49  warning  Variable Assigned to Object Injection Sink  security/detect-object-injection
+  9:49  warning  Generic Object Injection Sink               security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/preparacao-link.tsx
+   8:22  warning  Variable Assigned to Object Injection Sink  security/detect-object-injection
+  13:85  warning  Generic Object Injection Sink               security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/seletor-nota-de-corte.tsx
+  56:31  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/study-session.tsx
+  44:161  warning  Generic Object Injection Sink  security/detect-object-injection
+  53:13   warning  Generic Object Injection Sink  security/detect-object-injection
+  72:354  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/topic-page.tsx
+   8:40   warning  Generic Object Injection Sink  security/detect-object-injection
+  14:267  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/treino-app.tsx
+  226:20  warning  Generic Object Injection Sink               security/detect-object-injection
+  314:13  warning  Variable Assigned to Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/uerj-uel-reader.tsx
+  20:356  warning  Generic Object Injection Sink  security/detect-object-injection
+  28:350  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/use-study-progress.ts
+  9:986  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/vestibular-archive-page.tsx
+  5:19  warning  Variable Assigned to Object Injection Sink  security/detect-object-injection
+  5:49  warning  Variable Assigned to Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/vestibular-document-reader.tsx
+  32:25  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/vestibular-year-page.tsx
+  10:21  warning  Generic Object Injection Sink  security/detect-object-injection
+  17:90  warning  Generic Object Injection Sink  security/detect-object-injection
+  19:36  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/components/youtube-facade.tsx
+  3:722  warning  Unused eslint-disable directive (no problems were reported from '@next/next/no-img-element')
+  3:779  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/workspace/work/gabaru-code/src/lib/catalogo/index.ts
+  13:10  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/lib/enem-acervo.ts
+  34:27  warning  Found readFileSync from package "node:fs" with non literal argument at index 0  security/detect-non-literal-fs-filename
+
+/workspace/work/gabaru-code/src/lib/exam-public.ts
+  34:36  warning  '_text' is defined but never used  @typescript-eslint/no-unused-vars
+
+/workspace/work/gabaru-code/src/lib/metricasAluno.ts
+  15:168  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/lib/questions.ts
+  75:8   warning  Generic Object Injection Sink  security/detect-object-injection
+  75:17  warning  Generic Object Injection Sink  security/detect-object-injection
+  75:29  warning  Generic Object Injection Sink  security/detect-object-injection
+  75:38  warning  Generic Object Injection Sink  security/detect-object-injection
+
+/workspace/work/gabaru-code/src/lib/vestibular-archive.ts
+  12:71  warning  Generic Object Injection Sink  security/detect-object-injection
+
+✖ 100 problems (0 errors, 100 warnings)
+  0 errors and 3 warnings potentially fixable with the `--fix` option.

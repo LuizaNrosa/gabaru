@@ -1,0 +1,38 @@
+
+Running 34 tests using 1 worker
+
+(node:52947) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓   1 [desktop] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: / (3.7s)
+  ✓   2 [desktop] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /banca/etec (3.0s)
+  ✓   3 [desktop] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /provas/etec/2026-2 (11.9s)
+  ✓   4 [desktop] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /questoes/enem-2025-d2-q167 (3.0s)
+  ✓   5 [desktop] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /questoes (3.1s)
+  ✓   6 [desktop] › tests/e2e/gabaru.spec.ts:3:128 › HTML, canônico, JSON-LD e axe: /disciplina/matematica (3.3s)
+  ✓   7 [desktop] › tests/e2e/gabaru.spec.ts:4:1 › resolução, riscador, erro persistente e filtros combinados (2.0s)
+  ✓   8 [desktop] › tests/e2e/gabaru.spec.ts:5:1 › simulado bloqueia resolução até finalizar e preserva resultado (1.4s)
+  ✓   9 [desktop] › tests/e2e/gabaru.spec.ts:6:1 › HTML sem JavaScript contém conteúdo e MathML; quarentena noindex (765ms)
+  ✓  10 [desktop] › tests/e2e/gabaru.spec.ts:7:1 › painel, assinatura premium e cookie forjado são bloqueados no servidor (166ms)
+  ✓  11 [desktop] › tests/e2e/gabaru.spec.ts:8:1 › webhook sem assinatura ou forjado, IDOR e checkout não autenticado (675ms)
+  ✓  12 [desktop] › tests/e2e/gabaru.spec.ts:9:1 › redirecionamento canônico, alias bilíngue e headers de segurança (52ms)
+  ✓  13 [desktop] › tests/e2e/gabaru.spec.ts:10:1 › API limita exportação em massa e devolve Retry-After (693ms)
+  ✓  14 [desktop] › tests/e2e/plataforma-v3.spec.ts:3:1 › sitemaps modular, metadata Next e quarentena (59ms)
+  ✓  15 [desktop] › tests/e2e/plataforma-v3.spec.ts:4:1 › capítulo protegido não vaza texto para sessão ausente ou plano gratuito (70ms)
+  ✓  16 [desktop] › tests/e2e/plataforma-v3.spec.ts:5:1 › capítulo autenticado tem conteúdo SSR e MathML sem download (684ms)
+  ✘  17 [desktop] › tests/e2e/plataforma-v3.spec.ts:6:1 › métricas autenticadas são idempotentes e UID vem do token (267ms)
+Testing stopped early after 1 maximum allowed failures.
+
+
+  1) [desktop] › tests/e2e/plataforma-v3.spec.ts:6:1 › métricas autenticadas são idempotentes e UID vem do token
+
+    Error: apiRequestContext.dispose: ENOSPC: no space left on device, open '/workspace/work/gabaru-code/test-results/.playwright-artifacts-0/traces/a12a8d36c97297a1ebcf-82b97857900a14823f5e-recording26.trace'
+
+    Error: ENOSPC: no space left on device, mkdir '/workspace/work/gabaru-code/test-results/plataforma-v3-métricas-aut-25cf2-potentes-e-UID-vem-do-token-desktop'
+
+    Error: ENOSPC: no space left on device, mkdir '/workspace/work/gabaru-code/test-results/plataforma-v3-métricas-aut-25cf2-potentes-e-UID-vem-do-token-desktop'
+
+  1 failed
+    [desktop] › tests/e2e/plataforma-v3.spec.ts:6:1 › métricas autenticadas são idempotentes e UID vem do token
+  17 did not run
+  16 passed (37.5s)
+  1 error was not a part of any test, see above for details

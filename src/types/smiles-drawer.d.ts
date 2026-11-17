@@ -1,0 +1,1 @@
+declare module 'smiles-drawer' {type Tree=object;const SmilesDrawer:{parse:(smiles:string,success:(tree:Tree)=>void,failure:(error:unknown)=>void)=>void;Drawer:new(options:{width:number;height:number})=>{draw:(tree:Tree,target:HTMLCanvasElement,theme:string,infoOnly:boolean)=>void}};export default SmilesDrawer;}

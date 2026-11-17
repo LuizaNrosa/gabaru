@@ -1,0 +1,150 @@
+[
+  {
+    "command": [
+      "npx",
+      "--yes",
+      "skills@1.9.0",
+      "add",
+      "emilkowalski/skills",
+      "-a",
+      "codex",
+      "-y"
+    ],
+    "exitCode": 0,
+    "log": "work/v3/skills-install-1.log"
+  },
+  {
+    "command": [
+      "npx",
+      "--yes",
+      "skills@1.9.0",
+      "add",
+      "ConardLi/garden-skills",
+      "--skill",
+      "web-design-engineer",
+      "-a",
+      "codex",
+      "-y"
+    ],
+    "exitCode": 0,
+    "log": "work/v3/skills-install-2.log"
+  },
+  {
+    "command": [
+      "npx",
+      "--yes",
+      "skills@1.9.0",
+      "add",
+      "elayadesign/ai-design-skills",
+      "--skill",
+      "landing-page-design",
+      "-a",
+      "codex",
+      "-y"
+    ],
+    "exitCode": 0,
+    "log": "work/v3/skills-install-3.log"
+  },
+  {
+    "command": [
+      "npx",
+      "--yes",
+      "skills@1.9.0",
+      "add",
+      "MengTo/Skills",
+      "--skill",
+      "build-awwwards-quality-sites",
+      "-a",
+      "codex",
+      "-y"
+    ],
+    "exitCode": 0,
+    "log": "work/v3/skills-install-4.log"
+  },
+  {
+    "command": [
+      "npx",
+      "--yes",
+      "skills@1.9.0",
+      "add",
+      "jakubkrehel/skills",
+      "-a",
+      "codex",
+      "-y"
+    ],
+    "exitCode": 0,
+    "log": "work/v3/skills-install-5.log"
+  },
+  {
+    "command": [
+      "npx",
+      "--yes",
+      "skills@1.9.0",
+      "add",
+      "jakubkrehel/make-interfaces-feel-better",
+      "-a",
+      "codex",
+      "-y"
+    ],
+    "exitCode": 0,
+    "log": "work/v3/skills-install-6.log"
+  },
+  {
+    "command": [
+      "npx",
+      "--yes",
+      "skills@1.9.0",
+      "add",
+      "AgriciDaniel/claude-seo",
+      "-a",
+      "codex",
+      "-y"
+    ],
+    "exitCode": 0,
+    "log": "work/v3/skills-install-7.log"
+  },
+  {
+    "command": [
+      "npx",
+      "--yes",
+      "skills@1.9.0",
+      "add",
+      "coreyhaines31/marketingskills",
+      "--skill",
+      "seo-audit",
+      "-a",
+      "codex",
+      "-y"
+    ],
+    "exitCode": 0,
+    "log": "work/v3/skills-install-8.log"
+  },
+  {
+    "command": [
+      "npx",
+      "--yes",
+      "skills@1.9.0",
+      "add",
+      "coreyhaines31/marketingskills",
+      "--skill",
+      "schema",
+      "-a",
+      "codex",
+      "-y"
+    ],
+    "exitCode": 0,
+    "log": "work/v3/skills-install-9.log"
+  },
+  {
+    "command": [
+      "npx",
+      "--yes",
+      "impeccable@4.9.2",
+      "install",
+      "--providers=codex",
+      "--scope=project"
+    ],
+    "exitCode": 0,
+    "log": "work/v3/skills-install-10.log"
+  }
+]

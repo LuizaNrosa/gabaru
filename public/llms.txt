@@ -6,6 +6,8 @@ Plataforma independente de provas, questões e estudo para ENEM, vestibulinhos e
 - [Vestibulinhos](https://gabaru.com.br/vestibulinho)
 - [Vestibulares](https://gabaru.com.br/vestibulares)
 - [Questões](https://gabaru.com.br/questoes)
+- [Livros internos](https://gabaru.com.br/livros)
+- [Videoaulas](https://gabaru.com.br/videoaulas)
 - [Metodologia e autoria](https://gabaru.com.br/sobre)
 
 Catálogo detalhado: https://gabaru.com.br/llms-full.txt

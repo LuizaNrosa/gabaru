@@ -6,6 +6,8 @@ Plataforma independente de provas, questões e estudo para ENEM, vestibulinhos e
 - [Vestibulinhos](https://gabaru.com.br/vestibulinho)
 - [Vestibulares](https://gabaru.com.br/vestibulares)
 - [Questões](https://gabaru.com.br/questoes)
+- [Livros internos](https://gabaru.com.br/livros)
+- [Videoaulas](https://gabaru.com.br/videoaulas)
 - [Metodologia e autoria](https://gabaru.com.br/sobre)
 
 ## Estrutura e qualidade
@@ -816,6 +818,10 @@ Categoria: vestibulares; cadernos: 0.
 - assunto: transportes-e-sociedade; https://gabaru.com.br/assunto/transportes-e-sociedade
 - assunto: urbanizacao-brasileira; https://gabaru.com.br/assunto/urbanizacao-brasileira
 
+## Livros internos
+
+Apostila Preparatória Vestibulinho ETEC e Guia ENEM: Exatas e Linguagens. Catálogo: https://gabaru.com.br/livros. Leitura por capítulos na plataforma, mediante assinatura; sem download PDF/EPUB. O texto protegido não integra este arquivo.
+
 ## Questões íntegras
 - ETEC 2026, questão 1: https://gabaru.com.br/questoes/etec-2026-2-q001; historia; historia-antiga; nivel-2-resolucao-comentada.
 - ETEC 2026, questão 2: https://gabaru.com.br/questoes/etec-2026-2-q002; historia; historia-medieval; nivel-2-resolucao-comentada.
@@ -912,8 +918,10 @@ Categoria: vestibulares; cadernos: 0.
 - ETEC 2025, questão 31: https://gabaru.com.br/questoes/etec-2025-1-q031; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - ETEC 2025, questão 35: https://gabaru.com.br/questoes/etec-2025-1-q035; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - ETEC 2025, questão 36: https://gabaru.com.br/questoes/etec-2025-1-q036; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 37: https://gabaru.com.br/questoes/etec-2025-1-q037; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - ETEC 2025, questão 39: https://gabaru.com.br/questoes/etec-2025-1-q039; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - ETEC 2025, questão 40: https://gabaru.com.br/questoes/etec-2025-1-q040; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2025, questão 43: https://gabaru.com.br/questoes/etec-2025-1-q043; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - ETEC 2025, questão 44: https://gabaru.com.br/questoes/etec-2025-1-q044; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - ETEC 2025, questão 46: https://gabaru.com.br/questoes/etec-2025-1-q046; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - ETEC 2025, questão 47: https://gabaru.com.br/questoes/etec-2025-1-q047; a-classificar; a-classificar; nivel-1-gabarito-oficial.
@@ -921,6 +929,7 @@ Categoria: vestibulares; cadernos: 0.
 - ETEC 2025, questão 49: https://gabaru.com.br/questoes/etec-2025-1-q049; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - ETEC 2024, questão 1: https://gabaru.com.br/questoes/etec-2024-2-q001; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - ETEC 2024, questão 12: https://gabaru.com.br/questoes/etec-2024-2-q012; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2024, questão 19: https://gabaru.com.br/questoes/etec-2024-2-q019; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - ETEC 2024, questão 20: https://gabaru.com.br/questoes/etec-2024-2-q020; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - ETEC 2024, questão 21: https://gabaru.com.br/questoes/etec-2024-2-q021; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - ETEC 2024, questão 25: https://gabaru.com.br/questoes/etec-2024-2-q025; a-classificar; a-classificar; nivel-1-gabarito-oficial.
@@ -970,9 +979,122 @@ Categoria: vestibulares; cadernos: 0.
 - ETEC 2020, questão 35: https://gabaru.com.br/questoes/etec-2020-1-q035; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - ETEC 2020, questão 46: https://gabaru.com.br/questoes/etec-2020-1-q046; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - ETEC 2020, questão 49: https://gabaru.com.br/questoes/etec-2020-1-q049; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2015, questão 40: https://gabaru.com.br/questoes/etec-2015-1-q040; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2009, questão 7: https://gabaru.com.br/questoes/etec-2009-1-extra1-q007; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2009, questão 9: https://gabaru.com.br/questoes/etec-2009-1-extra1-q009; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2009, questão 10: https://gabaru.com.br/questoes/etec-2009-1-extra1-q010; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2009, questão 14: https://gabaru.com.br/questoes/etec-2009-1-extra1-q014; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- ETEC 2009, questão 17: https://gabaru.com.br/questoes/etec-2009-1-extra1-q017; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2026, questão 2: https://gabaru.com.br/questoes/coluni-2026-q002; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2026, questão 3: https://gabaru.com.br/questoes/coluni-2026-q003; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2026, questão 10: https://gabaru.com.br/questoes/coluni-2026-q010; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2026, questão 16: https://gabaru.com.br/questoes/coluni-2026-q016; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2026, questão 20: https://gabaru.com.br/questoes/coluni-2026-q020; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2026, questão 26: https://gabaru.com.br/questoes/coluni-2026-q026; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2026, questão 29: https://gabaru.com.br/questoes/coluni-2026-q029; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2026, questão 34: https://gabaru.com.br/questoes/coluni-2026-q034; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2026, questão 35: https://gabaru.com.br/questoes/coluni-2026-q035; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2026, questão 36: https://gabaru.com.br/questoes/coluni-2026-q036; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2025, questão 4: https://gabaru.com.br/questoes/coluni-2025-q004; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2025, questão 9: https://gabaru.com.br/questoes/coluni-2025-q009; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2025, questão 13: https://gabaru.com.br/questoes/coluni-2025-q013; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2025, questão 27: https://gabaru.com.br/questoes/coluni-2025-q027; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2025, questão 30: https://gabaru.com.br/questoes/coluni-2025-q030; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2025, questão 33: https://gabaru.com.br/questoes/coluni-2025-q033; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2025, questão 36: https://gabaru.com.br/questoes/coluni-2025-q036; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2024, questão 5: https://gabaru.com.br/questoes/coluni-2024-q005; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2024, questão 6: https://gabaru.com.br/questoes/coluni-2024-q006; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2024, questão 9: https://gabaru.com.br/questoes/coluni-2024-q009; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2024, questão 10: https://gabaru.com.br/questoes/coluni-2024-q010; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2024, questão 13: https://gabaru.com.br/questoes/coluni-2024-q013; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2024, questão 16: https://gabaru.com.br/questoes/coluni-2024-q016; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2024, questão 20: https://gabaru.com.br/questoes/coluni-2024-q020; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2024, questão 26: https://gabaru.com.br/questoes/coluni-2024-q026; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2024, questão 28: https://gabaru.com.br/questoes/coluni-2024-q028; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2024, questão 30: https://gabaru.com.br/questoes/coluni-2024-q030; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2022, questão 4: https://gabaru.com.br/questoes/coluni-2022-q004; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2022, questão 6: https://gabaru.com.br/questoes/coluni-2022-q006; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2022, questão 9: https://gabaru.com.br/questoes/coluni-2022-q009; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2022, questão 13: https://gabaru.com.br/questoes/coluni-2022-q013; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2022, questão 15: https://gabaru.com.br/questoes/coluni-2022-q015; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2022, questão 16: https://gabaru.com.br/questoes/coluni-2022-q016; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2022, questão 17: https://gabaru.com.br/questoes/coluni-2022-q017; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2022, questão 36: https://gabaru.com.br/questoes/coluni-2022-q036; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2021, questão 1: https://gabaru.com.br/questoes/coluni-2021-q001; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2021, questão 3: https://gabaru.com.br/questoes/coluni-2021-q003; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2021, questão 5: https://gabaru.com.br/questoes/coluni-2021-q005; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2021, questão 7: https://gabaru.com.br/questoes/coluni-2021-q007; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2021, questão 9: https://gabaru.com.br/questoes/coluni-2021-q009; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2021, questão 13: https://gabaru.com.br/questoes/coluni-2021-q013; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2021, questão 15: https://gabaru.com.br/questoes/coluni-2021-q015; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2021, questão 20: https://gabaru.com.br/questoes/coluni-2021-q020; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2021, questão 28: https://gabaru.com.br/questoes/coluni-2021-q028; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2021, questão 29: https://gabaru.com.br/questoes/coluni-2021-q029; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2020, questão 2: https://gabaru.com.br/questoes/coluni-2020-q002; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2020, questão 7: https://gabaru.com.br/questoes/coluni-2020-q007; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2020, questão 13: https://gabaru.com.br/questoes/coluni-2020-q013; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2020, questão 16: https://gabaru.com.br/questoes/coluni-2020-q016; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2020, questão 18: https://gabaru.com.br/questoes/coluni-2020-q018; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2020, questão 24: https://gabaru.com.br/questoes/coluni-2020-q024; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2020, questão 27: https://gabaru.com.br/questoes/coluni-2020-q027; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2019, questão 1: https://gabaru.com.br/questoes/coluni-2019-q001; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2019, questão 3: https://gabaru.com.br/questoes/coluni-2019-q003; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2019, questão 4: https://gabaru.com.br/questoes/coluni-2019-q004; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2019, questão 6: https://gabaru.com.br/questoes/coluni-2019-q006; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2019, questão 7: https://gabaru.com.br/questoes/coluni-2019-q007; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2019, questão 8: https://gabaru.com.br/questoes/coluni-2019-q008; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2019, questão 11: https://gabaru.com.br/questoes/coluni-2019-q011; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2019, questão 12: https://gabaru.com.br/questoes/coluni-2019-q012; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2019, questão 27: https://gabaru.com.br/questoes/coluni-2019-q027; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2019, questão 28: https://gabaru.com.br/questoes/coluni-2019-q028; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2019, questão 33: https://gabaru.com.br/questoes/coluni-2019-q033; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2016, questão 2: https://gabaru.com.br/questoes/coluni-2016-q002; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2016, questão 4: https://gabaru.com.br/questoes/coluni-2016-q004; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2016, questão 8: https://gabaru.com.br/questoes/coluni-2016-q008; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2016, questão 9: https://gabaru.com.br/questoes/coluni-2016-q009; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2016, questão 22: https://gabaru.com.br/questoes/coluni-2016-q022; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2016, questão 23: https://gabaru.com.br/questoes/coluni-2016-q023; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2016, questão 25: https://gabaru.com.br/questoes/coluni-2016-q025; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2016, questão 27: https://gabaru.com.br/questoes/coluni-2016-q027; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2016, questão 29: https://gabaru.com.br/questoes/coluni-2016-q029; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- COLUNI 2016, questão 35: https://gabaru.com.br/questoes/coluni-2016-q035; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2026, questão 10: https://gabaru.com.br/questoes/ifsc-2026-2-q010; matematica; a-classificar; nivel-1-gabarito-oficial.
 - IFSC 2026, questão 12: https://gabaru.com.br/questoes/ifsc-2026-2-q012; matematica; a-classificar; nivel-1-gabarito-oficial.
 - IFSC 2026, questão 16: https://gabaru.com.br/questoes/ifsc-2026-2-q016; a-classificar; a-classificar; nivel-1-gabarito-oficial.
 - IFSC 2026, questão 23: https://gabaru.com.br/questoes/ifsc-2026-2-q023; ciencias; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2026, questão 9: https://gabaru.com.br/questoes/ifsc-2026-1-q009; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2026, questão 10: https://gabaru.com.br/questoes/ifsc-2026-1-q010; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2026, questão 12: https://gabaru.com.br/questoes/ifsc-2026-1-q012; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2025, questão 25: https://gabaru.com.br/questoes/ifsc-2025-1-q025; ciencias; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2024, questão 12: https://gabaru.com.br/questoes/ifsc-2024-1-itajai-q012; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2023, questão 15: https://gabaru.com.br/questoes/ifsc-2023-2-q015; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2023, questão 18: https://gabaru.com.br/questoes/ifsc-2023-2-q018; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2023, questão 11: https://gabaru.com.br/questoes/ifsc-2023-1-q011; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2023, questão 17: https://gabaru.com.br/questoes/ifsc-2023-1-q017; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2023, questão 18: https://gabaru.com.br/questoes/ifsc-2023-1-q018; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2022, questão 13: https://gabaru.com.br/questoes/ifsc-2022-2-q013; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2022, questão 14: https://gabaru.com.br/questoes/ifsc-2022-2-q014; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2022, questão 15: https://gabaru.com.br/questoes/ifsc-2022-2-q015; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2022, questão 16: https://gabaru.com.br/questoes/ifsc-2022-2-q016; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2022, questão 18: https://gabaru.com.br/questoes/ifsc-2022-2-q018; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2020, questão 11: https://gabaru.com.br/questoes/ifsc-2020-1-q011; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2019, questão 13: https://gabaru.com.br/questoes/ifsc-2019-1-q013; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2018, questão 4: https://gabaru.com.br/questoes/ifsc-2018-1-q004; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2018, questão 7: https://gabaru.com.br/questoes/ifsc-2018-1-q007; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2017, questão 1: https://gabaru.com.br/questoes/ifsc-2017-2-q001; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2017, questão 3: https://gabaru.com.br/questoes/ifsc-2017-2-q003; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2017, questão 5: https://gabaru.com.br/questoes/ifsc-2017-2-q005; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2017, questão 8: https://gabaru.com.br/questoes/ifsc-2017-2-q008; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2017, questão 9: https://gabaru.com.br/questoes/ifsc-2017-2-q009; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2017, questão 10: https://gabaru.com.br/questoes/ifsc-2017-2-q010; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2017, questão 12: https://gabaru.com.br/questoes/ifsc-2017-2-q012; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2017, questão 1: https://gabaru.com.br/questoes/ifsc-2017-1-q001; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2017, questão 2: https://gabaru.com.br/questoes/ifsc-2017-1-q002; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2017, questão 4: https://gabaru.com.br/questoes/ifsc-2017-1-q004; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- IFSC 2017, questão 20: https://gabaru.com.br/questoes/ifsc-2017-1-q020; a-classificar; a-classificar; nivel-1-gabarito-oficial.
+- IFSP 2026, questão 22: https://gabaru.com.br/questoes/ifsp-2026-1-tipo1-q022; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSP 2026, questão 2: https://gabaru.com.br/questoes/ifsp-2026-1-tipo2-q002; matematica; a-classificar; nivel-1-gabarito-oficial.
+- IFSP 2026, questão 7: https://gabaru.com.br/questoes/ifsp-2026-1-tipo2-q007; matematica; a-classificar; nivel-1-gabarito-oficial.
 - ENEM 2025, questão 153: https://gabaru.com.br/questoes/enem-2025-d2-q153; matematica; porcentagem-e-matematica-financeira; nivel-2-resolucao-comentada.
 - ENEM 2025, questão 158: https://gabaru.com.br/questoes/enem-2025-d2-q158; matematica; razao-e-proporcao; nivel-2-resolucao-comentada.
 - ENEM 2025, questão 159: https://gabaru.com.br/questoes/enem-2025-d2-q159; matematica; estatistica; nivel-2-resolucao-comentada.

@@ -6,7 +6,7 @@ import {QualityBadge} from './quality-badge';
 import { Scissors, RotateCcw, Clock3 } from 'lucide-react';
 import type { Questao } from '@/lib/catalogo/types';
 export type StudyCard = { q: Questao; statement: ReactNode; base?: ReactNode; options: ReactNode[]; resolution: ReactNode };
-type Saved = { version: 1; attemptId?:string; answers: Record<string,string>; excluded: Record<string,string[]>; graded: string[]; mode: 'estudo'|'simulado'; deadline: number|null; finished: boolean };
+type Saved = { version: 1; attemptId?:string; startedAt?:number; answers: Record<string,string>; excluded: Record<string,string[]>; graded: string[]; mode: 'estudo'|'simulado'; deadline: number|null; finished: boolean };
 const empty: Saved = {version:1,answers:{},excluded:{},graded:[],mode:'estudo',deadline:null,finished:false};
 export function StudySession({ cards, storageKey, durationMinutes = 240 }: { cards: StudyCard[]; storageKey: string; durationMinutes?: number }) {
   const {record,user,syncError,retry}=useStudyProgress();
@@ -32,7 +32,7 @@ export function StudySession({ cards, storageKey, durationMinutes = 240 }: { car
     });return()=>{cancelled=true;};
   },[key,cards]);
   useEffect(()=>{if(!hydrated||loadedKey.current!==key)return;try{localStorage.setItem(key,JSON.stringify(state));}catch{queueMicrotask(()=>setStorageError(true));}},[key,state,hydrated]);
-  useEffect(()=>{if(!hydrated||loadedKey.current!==key||!state.attemptId)return;for(const {q} of cards){if(q.nivelQualidade==='nivel-0-quarentena'||!q.correta||!state.answers[q.id]||!(state.graded.includes(q.id)||state.finished))continue;record({questionId:q.id,selected:state.answers[q.id],correctKey:q.correta,attemptId:state.attemptId});}},[cards,state,hydrated,record,key]);
+  useEffect(()=>{if(!hydrated||loadedKey.current!==key||!state.attemptId)return;for(const {q} of cards){if(q.nivelQualidade==='nivel-0-quarentena'||!q.correta||!state.answers[q.id]||!(state.graded.includes(q.id)||state.finished))continue;record({questionId:q.id,selected:state.answers[q.id],correctKey:q.correta,attemptId:state.attemptId,metadata:{banca:q.banca,ano:q.ano,disciplina:q.disciplina,subtopico:q.assunto,habilidade:q.habilidade??''},tempoMs:Math.min(86400000,Math.max(0,Date.now()-(state.startedAt??Date.now())))});}},[cards,state,hydrated,record,key]);
   useEffect(()=>{if(state.mode!=='simulado'||state.finished||!state.deadline)return;const deadline=state.deadline;const tick=()=>{const time=Date.now();setNow(time);if(time>=deadline)setState(s=>({...s,finished:true}));};const timer=setInterval(tick,1000);return()=>clearInterval(timer);},[state.mode,state.deadline,state.finished]);
   const hasQuarantine=cards.some(c=>c.q.nivelQualidade==='nivel-0-quarentena');
   const simulado=state.mode==='simulado',showResults=!simulado||state.finished;
@@ -42,9 +42,9 @@ export function StudySession({ cards, storageKey, durationMinutes = 240 }: { car
   const seconds=state.deadline?Math.max(0,Math.ceil((state.deadline-now)/1000)):budget*60;
   const time=`${Math.floor(seconds/3600).toString().padStart(2,'0')}:${Math.floor(seconds%3600/60).toString().padStart(2,'0')}:${(seconds%60).toString().padStart(2,'0')}`;
   function move(index:number){const next=Math.max(0,Math.min(cards.length-1,index));setActive(next);requestAnimationFrame(()=>document.getElementById(`estudo-${cards[next].q.id}`)?.focus());}
-  function choose(q:Questao,letter:string){if(q.nivelQualidade==='nivel-0-quarentena'||q.anulada||state.finished||state.graded.includes(q.id)||state.excluded[q.id]?.includes(letter))return;setState(s=>({...s,attemptId:s.attemptId??crypto.randomUUID(),answers:{...s.answers,[q.id]:letter}}));}
+  function choose(q:Questao,letter:string){if(q.nivelQualidade==='nivel-0-quarentena'||q.anulada||state.finished||state.graded.includes(q.id)||state.excluded[q.id]?.includes(letter))return;setState(s=>({...s,attemptId:s.attemptId??crypto.randomUUID(),startedAt:s.startedAt??Date.now(),answers:{...s.answers,[q.id]:letter}}));}
   function grade(q:Questao){if(simulado||!state.answers[q.id])return;setState(s=>({...s,graded:[...new Set([...s.graded,q.id])]}));}
-  function start(){setOnlyErrors(false);setNow(Date.now());setState({...empty,mode:'simulado',attemptId:crypto.randomUUID(),deadline:Date.now()+budget*60000});}
+  function start(){setOnlyErrors(false);setNow(Date.now());setState({...empty,mode:'simulado',attemptId:crypto.randomUUID(),startedAt:Date.now(),deadline:Date.now()+budget*60000});}
   function reset(){setState(empty);setOnlyErrors(false);setActive(0);}
   const disciplines=[...new Set(cards.map(c=>c.q.disciplina))];
   const skills=[...new Set(cards.map(c=>c.q.habilidade).filter((h):h is string=>!!h))];
@@ -75,7 +75,7 @@ export function StudySession({ cards, storageKey, durationMinutes = 240 }: { car
         {!q.alternativas.length&&<p>Alternativas em transcrição. Consulte o caderno na fonte oficial.</p>}
         {!simulado&&<button type="button" className="v2-button v2-primary" disabled={q.nivelQualidade==='nivel-0-quarentena'||!state.answers[q.id]||graded||!q.correta} onClick={()=>grade(q)}>Responder questão {q.numero}</button>}
         <p role="status" aria-live="polite" aria-atomic="true">{reveal&&q.correta?(correct?'Resposta correta.':`Revise sua resposta. Gabarito oficial: ${q.correta}.`):''}</p>
-        <details className="v2-solution" hidden={simulado&&!state.finished} open={reveal}><summary>Gabarito e resolução da questão {q.numero}</summary>{resolution}</details>
+        {q.nivelQualidade==='nivel-1-gabarito-oficial'?<section className="v2-solution" hidden={simulado&&!state.finished} aria-label={`Gabarito oficial da questão ${q.numero}`}>{resolution}</section>:<details className="v2-solution" hidden={simulado&&!state.finished} open={reveal}><summary>Gabarito e resolução da questão {q.numero}</summary>{resolution}</details>}
         <a href={q.fonte} className="v2-source" target="_blank" rel="noopener noreferrer">Consultar a fonte oficial</a>
       </article>;
     })}

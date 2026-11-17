@@ -1,0 +1,12 @@
+✔ licenças: impede copyleft e expressões ambíguas em dependências diretas, dev e opcionais (2.9969ms)
+✔ licenças: OR seleciona licença permissiva e AND mantém todas as obrigações (1.585445ms)
+✔ licenças: metadados ausentes não podem ser aprovados por um arquivo falsificado (0.918842ms)
+✔ licenças: reconhece o texto MIT distribuído pelo limiter, conferido por hash (0.435242ms)
+ℹ tests 4
+ℹ suites 0
+ℹ pass 4
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 142.340932

@@ -9,9 +9,9 @@ const csp = [
   `script-src 'self' 'unsafe-inline'${isDev ? " 'unsafe-eval'" : ""}`,
   "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
   "font-src 'self' https://fonts.gstatic.com",
-  "img-src 'self' data: blob:",
+  "img-src 'self' data: blob: https://i.ytimg.com",
   "connect-src 'self' https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://*.googleapis.com https://*.firebaseio.com",
-  "frame-src 'self' https://*.firebaseapp.com",
+  "frame-src 'self' https://*.firebaseapp.com https://www.youtube-nocookie.com",
   "frame-ancestors 'none'",
   "base-uri 'self'",
   "form-action 'self' https://checkout.stripe.com",
@@ -31,7 +31,9 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
+  outputFileTracingExcludes: { "/*": ["./public/**/*.webp", "./public/**/*.png", "./public/**/*.jpg", "./public/**/*.jpeg", "./node_modules/@napi-rs/canvas/**", "./node_modules/@napi-rs/canvas-*/**"] },
   poweredByHeader: false,
+  async rewrites() { return [{source:"/sitemap.xml",destination:"/sitemap-index.xml"}]; },
   async redirects() {
     return [...Array.from({length:5},(_,i)=>({source:`/questoes/enem-2011-d2-q09${i+1}`,destination:`https://gabaru.com.br/questoes/enem-2011-d2-q09${i+1}-en`,statusCode:301})),{
       source: "/:path*",

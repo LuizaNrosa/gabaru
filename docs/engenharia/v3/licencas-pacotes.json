@@ -1,0 +1,171 @@
+[
+  {
+    "package": "skills",
+    "metadata": {
+      "version": "1.9.0",
+      "license": "MIT",
+      "repository": {
+        "url": "git+https://github.com/vercel-labs/skills.git",
+        "type": "git"
+      }
+    }
+  },
+  {
+    "package": "impeccable",
+    "metadata": {
+      "version": "4.9.2",
+      "license": "Apache-2.0",
+      "repository": {
+        "url": "git+https://github.com/pbakaus/impeccable.git",
+        "type": "git"
+      }
+    }
+  },
+  {
+    "package": "katex",
+    "metadata": {
+      "version": "0.19.1",
+      "license": "MIT",
+      "repository": {
+        "url": "git+https://github.com/KaTeX/KaTeX.git",
+        "type": "git"
+      }
+    }
+  },
+  {
+    "package": "function-plot",
+    "metadata": {
+      "version": "1.26.0",
+      "license": "MIT",
+      "repository": {
+        "url": "git+https://github.com/mauriciopoppe/function-plot.git",
+        "type": "git"
+      }
+    }
+  },
+  {
+    "package": "smiles-drawer",
+    "metadata": {
+      "version": "2.4.1",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/reymond-group/smilesDrawer.git"
+      }
+    }
+  },
+  {
+    "package": "ts-fsrs",
+    "metadata": {
+      "version": "6.0.0",
+      "license": "MIT",
+      "repository": {
+        "url": "git+https://github.com/open-spaced-repetition/ts-fsrs.git",
+        "type": "git",
+        "directory": "packages/fsrs"
+      }
+    }
+  },
+  {
+    "package": "minisearch",
+    "metadata": {
+      "version": "7.2.0",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/lucaong/minisearch.git"
+      }
+    }
+  },
+  {
+    "package": "zod",
+    "metadata": {
+      "version": "4.6.7",
+      "license": "MIT",
+      "repository": {
+        "url": "git+https://github.com/colinhacks/zod.git",
+        "type": "git"
+      }
+    }
+  },
+  {
+    "package": "isomorphic-dompurify",
+    "metadata": {
+      "version": "4.7.0",
+      "license": "MIT",
+      "repository": {
+        "url": "kkomelin/isomorphic-dompurify",
+        "type": "git"
+      }
+    }
+  },
+  {
+    "package": "lucide-react",
+    "metadata": {
+      "version": "1.73.0",
+      "license": "ISC",
+      "repository": {
+        "url": "https://github.com/lucide-icons/lucide.git",
+        "type": "git",
+        "directory": "packages/lucide-react"
+      }
+    }
+  },
+  {
+    "package": "@types/katex",
+    "metadata": {
+      "version": "0.16.8",
+      "license": "MIT",
+      "repository": {
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "type": "git",
+        "directory": "types/katex"
+      }
+    }
+  },
+  {
+    "package": "schema-dts",
+    "metadata": {
+      "version": "2.1.0",
+      "license": "Apache-2.0",
+      "repository": {
+        "url": "git+https://github.com/google/schema-dts.git",
+        "type": "git",
+        "directory": "packages/schema-dts"
+      }
+    }
+  },
+  {
+    "package": "htmlhint",
+    "metadata": {
+      "version": "1.9.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/htmlhint/HTMLHint.git"
+      }
+    }
+  },
+  {
+    "package": "@axe-core/cli",
+    "metadata": {
+      "version": "4.14.0",
+      "license": "MPL-2.0",
+      "repository": {
+        "url": "git+https://github.com/dequelabs/axe-core-npm.git",
+        "type": "git"
+      }
+    }
+  },
+  {
+    "package": "eslint-plugin-security",
+    "metadata": {
+      "version": "4.2.1",
+      "license": "Apache-2.0",
+      "repository": {
+        "url": "git+https://github.com/eslint-community/eslint-plugin-security.git",
+        "type": "git"
+      }
+    }
+  }
+]

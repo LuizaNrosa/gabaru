@@ -1,0 +1,317 @@
+{
+  "baseline": {
+    "total": 16299,
+    "tiers": {
+      "tier-0-quarentena": 16129,
+      "tier-1-gabarito-oficial": 146,
+      "tier-2-completa": 24
+    }
+  },
+  "antes": {
+    "tier-0-quarentena": 16013,
+    "tier-1-gabarito-oficial": 262,
+    "tier-2-completa": 24
+  },
+  "depois": {
+    "tier-0-quarentena": 16013,
+    "tier-1-gabarito-oficial": 262,
+    "tier-2-completa": 24
+  },
+  "promovidasNestaExecucao": {
+    "tier1": 0,
+    "tier2": 0
+  },
+  "ondas": {
+    "estrutural": "Nenhum cabeçalho mecânico ou par bilíngue concatenado encontrado no diagnóstico; sem alteração especulativa.",
+    "fontesOficiais": [
+      {
+        "banca": "etec",
+        "edicao": "2026-1",
+        "candidatas": 10,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2025-1",
+        "candidatas": 10,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2024-2",
+        "candidatas": 16,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2024-1",
+        "candidatas": 13,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2023-2",
+        "candidatas": 15,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2023-1",
+        "candidatas": 13,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2020-1",
+        "candidatas": 29,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2018-2",
+        "candidatas": 25,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2017-2",
+        "candidatas": 19,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2017-1",
+        "candidatas": 16,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2016-2",
+        "candidatas": 16,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2016-1",
+        "candidatas": 35,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2015-2",
+        "candidatas": 19,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2015-1",
+        "candidatas": 20,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2013-1",
+        "candidatas": 20,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2010-2",
+        "candidatas": 16,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2010-1",
+        "candidatas": 7,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2009-2",
+        "candidatas": 8,
+        "resgatadas": 0
+      },
+      {
+        "banca": "etec",
+        "edicao": "2009-1-extra1",
+        "candidatas": 13,
+        "resgatadas": 0
+      },
+      {
+        "banca": "coluni",
+        "edicao": "2026",
+        "candidatas": 14,
+        "resgatadas": 0
+      },
+      {
+        "banca": "coluni",
+        "edicao": "2025",
+        "candidatas": 17,
+        "resgatadas": 0
+      },
+      {
+        "banca": "coluni",
+        "edicao": "2024",
+        "candidatas": 12,
+        "resgatadas": 0
+      },
+      {
+        "banca": "coluni",
+        "edicao": "2022",
+        "candidatas": 13,
+        "resgatadas": 0
+      },
+      {
+        "banca": "coluni",
+        "edicao": "2021",
+        "candidatas": 10,
+        "resgatadas": 0
+      },
+      {
+        "banca": "coluni",
+        "edicao": "2020",
+        "candidatas": 18,
+        "resgatadas": 0
+      },
+      {
+        "banca": "coluni",
+        "edicao": "2019",
+        "candidatas": 13,
+        "resgatadas": 0
+      },
+      {
+        "banca": "coluni",
+        "edicao": "2016",
+        "candidatas": 20,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsc",
+        "edicao": "2026-2",
+        "candidatas": 7,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsc",
+        "edicao": "2026-1",
+        "candidatas": 9,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsc",
+        "edicao": "2025-1",
+        "candidatas": 11,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsc",
+        "edicao": "2024-1",
+        "candidatas": 13,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsc",
+        "edicao": "2024-1-itajai",
+        "candidatas": 13,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsc",
+        "edicao": "2023-2",
+        "candidatas": 7,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsc",
+        "edicao": "2023-1",
+        "candidatas": 12,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsc",
+        "edicao": "2022-2",
+        "candidatas": 11,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsc",
+        "edicao": "2020-1",
+        "candidatas": 16,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsc",
+        "edicao": "2019-1",
+        "candidatas": 11,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsc",
+        "edicao": "2018-2",
+        "candidatas": 12,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsc",
+        "edicao": "2018-1",
+        "candidatas": 14,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsc",
+        "edicao": "2017-2",
+        "candidatas": 8,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsc",
+        "edicao": "2017-1",
+        "candidatas": 10,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsp",
+        "edicao": "2026-1-tipo1",
+        "candidatas": 13,
+        "resgatadas": 0
+      },
+      {
+        "banca": "ifsp",
+        "edicao": "2026-1-tipo2",
+        "candidatas": 12,
+        "resgatadas": 0
+      }
+    ],
+    "exatas": "Conversões conservadoras após prova textual; cada fórmula validada pelo KaTeX.",
+    "classificacao": {
+      "tier-0-quarentena": 16013,
+      "tier-1-gabarito-oficial": 262,
+      "tier-2-completa": 24
+    }
+  },
+  "recusas": {
+    "contexto-compartilhado-ou-visual-requer-revisao": 370,
+    "enunciado-nao-coincide-com-bloco-oficial": 209,
+    "alternativas-nao-coincidem-em-ordem-no-bloco-oficial": 31,
+    "gabarito-versao-ou-extracao-nao-confirmada": 377,
+    "marcador-oficial-nao-localizado": 6
+  },
+  "motivosRetencao": {
+    "gabarito-sem-conferencia-documentada": 14497,
+    "enunciado-ausente-ou-insuficiente": 12634,
+    "alternativas-incompletas": 13403,
+    "gabarito-ausente-ou-invalido": 13743,
+    "recurso-visual-ausente": 550,
+    "questao-anulada-retida-para-revisao-editorial": 118,
+    "texto-ou-formula-requer-revisao": 33,
+    "ruido-severo-de-ocr": 12,
+    "transcricao-ocr-sem-conferencia-de-layout": 4478,
+    "suspensao-editorial-versao-v-vs-t-requer-conferencia": 80
+  },
+  "fontes2000a2008": "Adapter offline disponível; nenhum dataset externo sem hash, licença e versão conferidos foi usado.",
+  "promovidasDesdeBaseline": {
+    "tier1": 116,
+    "tier2": 0
+  }
+}

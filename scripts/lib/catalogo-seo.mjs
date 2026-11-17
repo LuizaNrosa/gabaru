@@ -14,7 +14,7 @@ export function buildPublicCatalog({catalog,books=[],previous,sourceDate,pageFin
   families[kind].push({loc,lastmod,changefreq,priority,fingerprint});
  }
  const questions=catalog.questoes.filter(q=>q.tier!=='tier-0-quarentena'&&q.nivelQualidade!=='nivel-0-quarentena'&&(['tier-1-gabarito-oficial','tier-2-completa'].includes(q.tier)||['nivel-1-gabarito-oficial','nivel-2-resolucao-comentada'].includes(q.nivelQualidade)));
- const bookMetadata=books.map(b=>({slug:b.slug,titulo:b.titulo,descricao:b.descricao??'',capitulos:(b.capitulos??[]).map(c=>({slug:c.slug,titulo:c.titulo,status:c.status??'preparacao'}))}));
+ const bookMetadata=books.map(b=>({slug:b.slug,titulo:b.titulo,descricao:b.descricao??'',capa:`/capas/livro-${b.slug}.svg`,social:`/capas/social-livro-${b.slug}.svg`,capitulos:(b.capitulos??[]).map(c=>({slug:c.slug,titulo:c.titulo,status:c.status??'preparacao'}))}));
  for(const loc of ['/','/sobre','/privacidade','/termos','/reembolso','/enem','/vestibulinho','/vestibulares','/provas','/questoes','/videoaulas'])add('hubs',loc,{path:loc,...(['/questoes','/provas'].includes(loc)?{catalog:questions}: {})},loc==='/'?1:0.7,['/sobre','/privacidade','/termos','/reembolso'].includes(loc)?'monthly':'weekly');
  for(const b of catalog.bancas.filter(b=>catalog.cadernos.some(e=>e.banca===b.slug)))add('hubs','/banca/'+b.slug,{b,exams:catalog.cadernos.filter(e=>e.banca===b.slug)},0.7);
  const exams=new Map();for(const e of catalog.cadernos.filter(e=>['nivel-1-gabarito-oficial','nivel-2-resolucao-comentada'].includes(e.nivelQualidade)))if(e.href)exams.set(e.href,e);

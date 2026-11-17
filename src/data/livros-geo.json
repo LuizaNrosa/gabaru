@@ -1,0 +1,178 @@
+{
+  "vestibulinho-etec/razao-e-proporcao": [
+    {
+      "definicao": "Uma razão compara duas grandezas por meio de uma divisão cuja ordem precisa ser explicitada. Em uma proporção, duas razões representam o mesmo quociente. Antes de calcular, identifique o significado de cada quantidade, mantenha unidades compatíveis e verifique se a comparação pedida é parte por parte ou parte pelo total.",
+      "exemplo": {
+        "enunciado": "Uma receita usa duas medidas de arroz para três de água. Quantas medidas de água acompanham quatro de arroz?",
+        "passos": [
+          "Escreva a razão arroz/água como $2/3$.",
+          "Quatro medidas de arroz correspondem ao dobro da quantidade inicial.",
+          "Multiplique também a água por dois: $3\\times2=6$."
+        ],
+        "resposta": "Seis medidas de água."
+      },
+      "pegadinha": "A razão arroz/água é diferente da fração de arroz no total da mistura: os denominadores são, respectivamente, três e cinco.",
+      "assunto": "aritmetica-razao-proporcao"
+    },
+    {
+      "definicao": "Duas grandezas são diretamente proporcionais quando o quociente entre seus valores correspondentes permanece constante. Multiplicar uma delas por determinado fator exige multiplicar a outra pelo mesmo fator. O modelo é $y=kx$, sem parcela fixa adicional; por isso, a reta passa pela origem e a constante expressa uma taxa por unidade.",
+      "exemplo": {
+        "enunciado": "Três quilogramas custam R$ 24. Quanto custam cinco quilogramas com preço unitário constante?",
+        "passos": [
+          "Calcule o preço por quilograma: $24/3=8$.",
+          "Modele o custo por $C(x)=8x$.",
+          "Substitua $x=5$: $C(5)=40$."
+        ],
+        "resposta": "R$ 40."
+      },
+      "pegadinha": "Uma promoção por faixa de quantidade pode alterar o preço unitário; confira a condição antes de aplicar proporcionalidade direta.",
+      "assunto": "aritmetica-razao-proporcao"
+    },
+    {
+      "definicao": "A regra de três só pode ser aplicada depois de identificar a relação entre as grandezas. Uma cobrança com parcela fixa e parcela variável segue um modelo afim, não uma proporcionalidade direta. Nesse caso, o aumento relativo da quantidade não coincide necessariamente com o aumento relativo do preço final pago pelo consumidor.",
+      "exemplo": {
+        "enunciado": "Uma corrida custa R$ 6 fixos mais R$ 2 por quilômetro. Compare os custos de cinco e dez quilômetros.",
+        "passos": [
+          "Escreva o modelo $C(x)=6+2x$.",
+          "Calcule $C(5)=16$ e $C(10)=26$.",
+          "Compare R$ 26 com o dobro de R$ 16: os valores não coincidem."
+        ],
+        "resposta": "Dobrar a distância aumenta o custo de R$ 16 para R$ 26."
+      },
+      "pegadinha": "Aplicar regra de três ao preço total ignora a parcela fixa e produz uma resposta incompatível com a tarifa descrita.",
+      "assunto": "funcoes"
+    }
+  ],
+  "vestibulinho-etec/unidades-e-escalas": [
+    {
+      "definicao": "Converter uma medida significa mudar sua unidade sem alterar a quantidade representada. O fator usado em comprimentos precisa ser elevado ao quadrado nas áreas e ao cubo nos volumes. Escreva a igualdade entre unidades antes de efetuar a conta e mantenha explícito o expoente correspondente à grandeza que está sendo convertida.",
+      "exemplo": {
+        "enunciado": "Converta dois metros quadrados em centímetros quadrados.",
+        "passos": [
+          "Parta de $1\\,\\mathrm{m}=100\\,\\mathrm{cm}$.",
+          "Eleve o fator ao quadrado: $1\\,\\mathrm{m}^2=10\\,000\\,\\mathrm{cm}^2$.",
+          "Multiplique por dois: $2\\times10\\,000=20\\,000$."
+        ],
+        "resposta": "$20\\,000\\,\\mathrm{cm}^2$."
+      },
+      "pegadinha": "Multiplicar uma área por cem em vez de dez mil confunde o fator linear com o fator de superfície.",
+      "assunto": "grandezas-medidas-e-escalas"
+    },
+    {
+      "definicao": "Uma escala cartográfica relaciona uma distância no mapa à distância correspondente no terreno, usando a mesma unidade nos dois termos. Na escala $1:n$, cada unidade desenhada representa $n$ unidades reais. Converta o resultado somente depois da multiplicação e diferencie distância linear, área representada e ampliação gráfica de uma imagem.",
+      "exemplo": {
+        "enunciado": "Um mapa tem escala 1:50 000. Qual distância real corresponde a quatro centímetros?",
+        "passos": [
+          "Multiplique $4\\times50\\,000=200\\,000$ centímetros.",
+          "Use $100\\,000$ centímetros para cada quilômetro.",
+          "Divida $200\\,000$ por $100\\,000$."
+        ],
+        "resposta": "Dois quilômetros."
+      },
+      "pegadinha": "O denominador da escala não é uma distância em quilômetros; primeiro preserve a unidade usada no numerador.",
+      "assunto": "grandezas-medidas-e-escalas"
+    },
+    {
+      "definicao": "A análise dimensional verifica se as unidades de uma expressão são compatíveis com a grandeza procurada. Uma velocidade resulta de distância dividida por tempo, enquanto uma área envolve duas dimensões de comprimento. Converter unidades antes de substituir valores ajuda a detectar respostas numericamente plausíveis, mas fisicamente incompatíveis com o problema apresentado.",
+      "exemplo": {
+        "enunciado": "Converta uma velocidade de 72 quilômetros por hora para metros por segundo.",
+        "passos": [
+          "Converta quilômetros em metros: multiplique por mil.",
+          "Converta horas em segundos: divida por $3\\,600$.",
+          "Calcule $72/3{,}6=20$."
+        ],
+        "resposta": "Vinte metros por segundo."
+      },
+      "pegadinha": "Converter apenas a distância, esquecendo o tempo no denominador, altera a grandeza e gera um fator incorreto.",
+      "assunto": "grandezas-medidas-e-escalas"
+    }
+  ],
+  "enem-exatas-e-linguagens/funcoes-e-modelagem": [
+    {
+      "definicao": "A taxa de variação média mede a mudança da saída de uma função dividida pela mudança da entrada em um intervalo. Em uma função afim, essa taxa coincide com o coeficiente angular e permanece constante. Identifique as unidades dos dois eixos e mantenha a mesma ordem nas diferenças do numerador e do denominador.",
+      "exemplo": {
+        "enunciado": "Uma função afim passa pelos pontos $(2,7)$ e $(5,16)$. Determine a taxa de variação.",
+        "passos": [
+          "Calcule a diferença das saídas: $16-7=9$.",
+          "Calcule a diferença das entradas: $5-2=3$.",
+          "Divida: $9/3=3$."
+        ],
+        "resposta": "A saída cresce três unidades para cada unidade da entrada."
+      },
+      "pegadinha": "Trocar a ordem em apenas uma das diferenças muda o sinal da taxa e inverte a interpretação do crescimento.",
+      "assunto": "funcoes"
+    },
+    {
+      "definicao": "O domínio reúne os valores de entrada para os quais a função está definida e faz sentido no contexto. Uma expressão algébrica pode aceitar números que o problema real não permite, como quantidades negativas de objetos. Depois de resolver a equação, confronte cada resultado com as restrições explícitas e com as unidades envolvidas.",
+      "exemplo": {
+        "enunciado": "Uma venda admite apenas caixas inteiras, sem quantidades negativas. O resultado algébrico obtido foi $x=2{,}5$. Ele representa uma venda permitida?",
+        "passos": [
+          "Identifique a variável como número de caixas.",
+          "Registre a restrição: valores inteiros não negativos.",
+          "Compare $2{,}5$ com essa restrição, sem arredondar automaticamente."
+        ],
+        "resposta": "Não; o resultado não pertence ao domínio contextual."
+      },
+      "pegadinha": "Arredondar uma raiz sem verificar o enunciado pode criar uma solução que deixa de satisfazer a equação original.",
+      "assunto": "funcoes"
+    },
+    {
+      "definicao": "O ponto de interseção de dois gráficos representa uma entrada para a qual as saídas das duas funções são iguais. Para encontrá-lo algebricamente, iguale as expressões e depois calcule a saída correspondente. A coordenada horizontal pode indicar equilíbrio, mas seu significado depende das grandezas e das unidades representadas no problema.",
+      "exemplo": {
+        "enunciado": "Encontre a interseção de $f(x)=2x+4$ e $g(x)=4x$.",
+        "passos": [
+          "Iguale as saídas: $2x+4=4x$.",
+          "Resolva a equação: $4=2x$, então $x=2$.",
+          "Substitua em uma função: $g(2)=8$."
+        ],
+        "resposta": "O ponto de interseção é $(2,8)$."
+      },
+      "pegadinha": "A entrada de equilíbrio e o valor da saída são coordenadas diferentes; confira qual delas a pergunta solicita.",
+      "assunto": "funcoes"
+    }
+  ],
+  "enem-exatas-e-linguagens/moleculas-e-leitura-cientifica": [
+    {
+      "definicao": "A fórmula molecular informa quantos átomos de cada elemento formam uma molécula, mas não determina sozinha sua conectividade. Compostos com a mesma fórmula podem apresentar estruturas e propriedades diferentes. Para identificar uma função orgânica, examine os grupos característicos e a posição das ligações, em vez de contar apenas os elementos presentes.",
+      "exemplo": {
+        "enunciado": "A fórmula $\\mathrm{C}_2\\mathrm{H}_6\\mathrm{O}$ basta para distinguir etanol de um éter com essa composição?",
+        "passos": [
+          "Conte os mesmos átomos nas duas possibilidades.",
+          "Observe que o álcool apresenta hidroxila ligada ao carbono.",
+          "No éter, o oxigênio liga dois grupos carbonados; a conectividade é diferente."
+        ],
+        "resposta": "Não; é necessário conhecer a estrutura."
+      },
+      "pegadinha": "A presença de oxigênio não identifica automaticamente a função álcool, pois o elemento também aparece em outras funções orgânicas.",
+      "assunto": "quimica-organica"
+    },
+    {
+      "definicao": "As propriedades de uma substância dependem de sua estrutura e das interações entre suas partículas. Um grupo capaz de formar ligações de hidrogênio influencia essas interações, mas tamanho molecular e outras características também importam. Compare substâncias sob condições equivalentes e use as evidências fornecidas para justificar uma tendência, evitando conclusões baseadas em um único detalhe.",
+      "exemplo": {
+        "enunciado": "O grupo hidroxila do etanol permite qual interação intermolecular característica?",
+        "passos": [
+          "Identifique a ligação entre oxigênio e hidrogênio na hidroxila.",
+          "Reconheça que essa configuração permite ligações de hidrogênio entre moléculas.",
+          "Separe a possibilidade dessa interação de uma comparação completa de temperaturas de ebulição."
+        ],
+        "resposta": "Ligações de hidrogênio."
+      },
+      "pegadinha": "Uma interação identificada não basta para ordenar todas as substâncias; massa, geometria e condições de comparação também podem influenciar o resultado.",
+      "assunto": "ligacoes-e-propriedades-da-materia"
+    },
+    {
+      "definicao": "Interpretar uma investigação científica exige distinguir observações, hipóteses e conclusões. Uma associação entre variáveis não demonstra, por si só, que uma delas cause a outra. Examine controles, condições de medida, tamanho da comparação e explicações alternativas antes de atribuir causalidade ou generalizar o resultado para situações que não foram efetivamente investigadas.",
+      "exemplo": {
+        "enunciado": "Duas variáveis aumentam juntas em um gráfico. Isso demonstra que uma causa o aumento da outra?",
+        "passos": [
+          "Identifique o dado observado como associação.",
+          "Procure controles e informações sobre variáveis alternativas.",
+          "Limite a conclusão ao que o desenho da investigação permite demonstrar."
+        ],
+        "resposta": "Não; o gráfico isolado mostra associação, não uma demonstração causal."
+      },
+      "pegadinha": "Confundir uma hipótese plausível com uma conclusão comprovada faz a alternativa extrapolar as evidências apresentadas.",
+      "assunto": "leitura-de-tabelas"
+    }
+  ]
+}

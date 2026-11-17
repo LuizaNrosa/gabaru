@@ -13,7 +13,7 @@
     "validar:design": "node scripts/validar-design-unicamp.mjs",
     "acervo:prepare": "node scripts/restore-acervo-parts.mjs && node scripts/prepare-etec.mjs --paginar && node scripts/prepare-coluni.mjs && node scripts/prepare-ifsc.mjs && node scripts/prepare-ifsp.mjs && node scripts/paginar-acervos.mjs && node scripts/prepare-ifs-reader.mjs && node --use-env-proxy scripts/prepare-enem.mjs",
     "catalogo:gerar": "node scripts/gerar-catalogo.mjs && node scripts/gerar-seo-catalogo.mjs && node scripts/gerar-llms.mjs",
-    "prebuild": "npm run validar:licencas && npm run catalogo:gerar && node scripts/gerar-manifesto-leitor.mjs",
+    "prebuild": "npm run validar:licencas && node scripts/gerar-capas.mjs && npm run catalogo:gerar && node scripts/gerar-manifesto-leitor.mjs",
     "validar:catalogo": "node --test tests/catalogo-v2.test.mjs",
     "validar:interface": "node scripts/verificar-interface.mjs",
     "validar:estudo": "node scripts/verificar-estudo.mjs",

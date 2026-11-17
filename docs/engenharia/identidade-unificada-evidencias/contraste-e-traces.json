@@ -1,0 +1,46 @@
+{
+  "contrast": [
+    {
+      "fg": "ink",
+      "bg": "paper",
+      "ratio": 11.292
+    },
+    {
+      "fg": "ink-soft",
+      "bg": "paper",
+      "ratio": 7.493
+    },
+    {
+      "fg": "ink-muted",
+      "bg": "paper",
+      "ratio": 6.094
+    },
+    {
+      "fg": "stamp-ink",
+      "bg": "paper",
+      "ratio": 7.118
+    },
+    {
+      "fg": "paper",
+      "bg": "stamp",
+      "ratio": 4.262
+    },
+    {
+      "fg": "ink",
+      "bg": "sage-soft",
+      "ratio": 10.401
+    },
+    {
+      "fg": "stamp-ink",
+      "bg": "paper-elevated",
+      "ratio": 6.268
+    }
+  ],
+  "traceCount": 111,
+  "largestTrace": {
+    "trace": ".next/server/app/livros/[livroSlug]/[capituloSlug]/page.js.nft.json",
+    "bytes": 47166303
+  },
+  "over250MiB": [],
+  "privateSourceFilesInTraces": []
+}

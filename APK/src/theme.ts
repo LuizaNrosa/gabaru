@@ -3,8 +3,13 @@ export const colors = {
   ink: "#123d35",
   muted: "#52645a",
   line: "#cad5c7",
-  accent: "#d7ee79",
+  accent: "#c8501e",
   surface: "#eaf1df",
+  stampInk: "#9c2b12",
+  paperElevated: "#efe9db",
+  inkSoft: "#28594e",
+  inkMuted: "#4c6358",
+  stampSoft: "#f6e0d0",
   white: "#fff",
 };
 export const subjects: Record<string, string> = {

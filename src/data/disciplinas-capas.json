@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "matematica",
+    "titulo": "Matemática",
+    "eixos": [
+      "Aritmética e proporções",
+      "Álgebra e funções",
+      "Geometria e medidas",
+      "Estatística e probabilidade"
+    ],
+    "status": "planejado"
+  },
+  {
+    "slug": "fisica",
+    "titulo": "Física",
+    "eixos": [
+      "Movimento e forças",
+      "Energia e termologia",
+      "Ondas e óptica",
+      "Eletricidade e magnetismo"
+    ],
+    "status": "planejado"
+  },
+  {
+    "slug": "portugues",
+    "titulo": "Português",
+    "eixos": [
+      "Leitura e interpretação",
+      "Linguagem e gêneros",
+      "Análise linguística",
+      "Produção de sentidos"
+    ],
+    "status": "planejado"
+  },
+  {
+    "slug": "biologia",
+    "titulo": "Biologia",
+    "eixos": [
+      "Citologia e metabolismo",
+      "Genética e evolução",
+      "Fisiologia e saúde",
+      "Ecologia e ambiente"
+    ],
+    "status": "planejado"
+  },
+  {
+    "slug": "quimica",
+    "titulo": "Química",
+    "eixos": [
+      "Matéria e estrutura",
+      "Transformações e cálculos",
+      "Soluções e equilíbrio",
+      "Química orgânica"
+    ],
+    "status": "planejado"
+  },
+  {
+    "slug": "historia",
+    "titulo": "História",
+    "eixos": [
+      "Fontes e temporalidades",
+      "História do Brasil",
+      "História geral",
+      "Trabalho e cidadania"
+    ],
+    "status": "planejado"
+  },
+  {
+    "slug": "geografia",
+    "titulo": "Geografia",
+    "eixos": [
+      "Cartografia e escalas",
+      "Natureza e ambiente",
+      "População e urbanização",
+      "Economia e geopolítica"
+    ],
+    "status": "planejado"
+  },
+  {
+    "slug": "literatura",
+    "titulo": "Literatura",
+    "eixos": [
+      "Leitura literária",
+      "Gêneros e linguagem",
+      "Contextos e movimentos",
+      "Literatura brasileira"
+    ],
+    "status": "planejado"
+  },
+  {
+    "slug": "ingles",
+    "titulo": "Inglês",
+    "eixos": [
+      "Leitura e inferência",
+      "Vocabulário em contexto",
+      "Estruturas linguísticas",
+      "Gêneros e comunicação"
+    ],
+    "status": "planejado"
+  },
+  {
+    "slug": "espanhol",
+    "titulo": "Espanhol",
+    "eixos": [
+      "Leitura e interpretação",
+      "Vocabulário em contexto",
+      "Estruturas linguísticas",
+      "Cultura e comunicação"
+    ],
+    "status": "planejado"
+  },
+  {
+    "slug": "filosofia",
+    "titulo": "Filosofia",
+    "eixos": [
+      "Conhecimento e argumentação",
+      "Ética e política",
+      "Tradições filosóficas",
+      "Ciência e sociedade"
+    ],
+    "status": "planejado"
+  },
+  {
+    "slug": "sociologia",
+    "titulo": "Sociologia",
+    "eixos": [
+      "Teorias e conceitos",
+      "Cultura e identidade",
+      "Trabalho e desigualdade",
+      "Política e cidadania"
+    ],
+    "status": "planejado"
+  },
+  {
+    "slug": "artes",
+    "titulo": "Artes",
+    "eixos": [
+      "Linguagens artísticas",
+      "Artes visuais",
+      "Música e cena",
+      "Arte e sociedade"
+    ],
+    "status": "planejado"
+  },
+  {
+    "slug": "interdisciplinar",
+    "titulo": "Interdisciplinar",
+    "eixos": [
+      "Leitura de problemas",
+      "Ciência e sociedade",
+      "Dados e evidências",
+      "Ambiente e cidadania"
+    ],
+    "status": "planejado"
+  }
+]

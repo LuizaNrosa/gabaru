@@ -1,3 +1,4 @@
+import {applyBillingEvent} from '../src/server/billing/events.ts';
 import test from 'node:test';import assert from 'node:assert/strict';import {readFileSync} from 'node:fs';import {initializeApp,deleteApp} from 'firebase/app';import {getFirestore,connectFirestoreEmulator,setDoc,getDoc,doc,terminate} from 'firebase/firestore';import {initializeApp as adminInit,deleteApp as adminDelete} from 'firebase-admin/app';import {getFirestore as adminStore} from 'firebase-admin/firestore';import {applyStripeEvent} from '../src/server/stripe-events.ts';
 const project='demo-gabaru';
 test('Firestore real: isolamento por uid, plano somente Admin e replay concorrente',async()=>{
@@ -8,5 +9,12 @@ test('Firestore real: isolamento por uid, plano somente Admin e replay concorren
  for(const store of [bob,anon]){await assert.rejects(getDoc(doc(store,'users/alice/progress/q1')),e=>e.code==='permission-denied');await assert.rejects(setDoc(doc(store,'users/alice/progress/q1'),{questionId:'q1',selected:'B'}),e=>e.code==='permission-denied');}
  await assert.rejects(setDoc(doc(alice,'users/alice'),{subscriptionStatus:'active',stripeCustomerId:'cus_evil',planExpiresAt:9999999999999}),e=>e.code==='permission-denied');await assert.rejects(setDoc(doc(alice,'subscriptions/alice'),{plan:'premium'}),e=>e.code==='permission-denied');await assert.rejects(setDoc(doc(alice,'processed_stripe_events/evt_fake'),{processed:true}),e=>e.code==='permission-denied');
  const id='evt_concurrent'+Date.now(),event={id,type:'checkout.session.completed',created:Math.floor(Date.now()/1000)},state={id:'sub_concurrent',uid:'alice',customerId:'cus_alice',status:'active',expiresAt:null,priceId:'price_real'};const outcomes=await Promise.all(Array.from({length:8},()=>applyStripeEvent(db,event,state)));assert.equal(outcomes.filter(r=>!r.replayed).length,1);assert.equal((await getDoc(doc(alice,'subscriptions/alice'))).data().plan,'premium');await assert.rejects(getDoc(doc(bob,'subscriptions/alice')),e=>e.code==='permission-denied');
+
+ for(const name of ['billing_events','billing_orders','billing_payments','billing_entitlements'])await assert.rejects(setDoc(doc(alice,name+'/forged'),{uid:'alice',status:'approved'}),e=>e.code==='permission-denied');
+ const billingNow=Date.now(),orderId='b'.repeat(48)+billingNow.toString(16).padStart(16,'0'),billingUid='billing-fixture-'+billingNow,paymentId=String(billingNow);await db.collection('billing_orders').doc(orderId).set({id:orderId,uid:billingUid,provider:'mercadopago',resourceId:paymentId,method:'pix',days:30,amountCents:3000});
+ const snapshot={kind:'payment',resourceId:paymentId,orderId,status:'approved',amountCents:3000,currency:'BRL',collectorId:'7',paidAt:billingNow};
+ await Promise.all(Array.from({length:8},(_,i)=>applyBillingEvent(db,{eventId:'billing_parallel_'+billingNow+'_'+i,type:'payment',resourceId:paymentId},snapshot,'7',billingNow)));
+ assert.equal((await db.collection('subscriptions').doc(billingUid).get()).data().planExpiresAt,billingNow+30*86400000);
+ await applyBillingEvent(db,{eventId:'billing_refund_'+billingNow,type:'payment',resourceId:paymentId},{...snapshot,status:'refunded'},'7',billingNow+1);assert.equal((await db.collection('subscriptions').doc(billingUid).get()).data().plan,'free');
  }finally{await Promise.all(stores.map(s=>terminate(s)));await Promise.all(apps.map(a=>deleteApp(a)));await db.terminate();await adminDelete(admin);}
 });

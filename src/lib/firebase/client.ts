@@ -1,5 +1,5 @@
 import { getApp, getApps, initializeApp, type FirebaseApp } from "firebase/app";
-import { getAuth, type Auth } from "firebase/auth";
+import { connectAuthEmulator, getAuth, type Auth } from "firebase/auth";
 
 // NEXT_PUBLIC_* precisam ser referenciadas literalmente para o Next inlinar no build.
 const firebaseConfig = {
@@ -16,8 +16,14 @@ export const isFirebaseConfigured = Boolean(
 );
 
 /** Inicialização preguiçosa: build e páginas públicas funcionam sem as chaves. */
+const emulatedAuth = new WeakSet<Auth>();
 export function getClientAuth(): Auth {
   if (!isFirebaseConfigured) throw new Error("firebase-not-configured");
   const app: FirebaseApp = getApps().length ? getApp() : initializeApp(firebaseConfig);
-  return getAuth(app);
+  const auth=getAuth(app);
+  const emulator=process.env.NEXT_PUBLIC_FIREBASE_AUTH_EMULATOR_URL;
+  if(emulator&&!emulatedAuth.has(auth)&&typeof location!=='undefined'&&['localhost','127.0.0.1'].includes(location.hostname)&&firebaseConfig.projectId?.startsWith('demo-')){
+    const url=new URL(emulator);if(url.protocol==='http:'&&['127.0.0.1','localhost'].includes(url.hostname)){connectAuthEmulator(auth,url.origin,{disableWarnings:true});emulatedAuth.add(auth);}
+  }
+  return auth;
 }

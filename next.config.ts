@@ -1,5 +1,6 @@
 import type { NextConfig } from "next";
 
+const demoAuth = process.env.VERCEL !== '1' && process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID?.startsWith('demo-') && process.env.NEXT_PUBLIC_FIREBASE_AUTH_EMULATOR_URL === 'http://127.0.0.1:9099';
 const isDev = process.env.NODE_ENV !== "production";
 
 // CSP: Next injeta scripts inline na hidratação, por isso 'unsafe-inline' em script-src.
@@ -10,13 +11,13 @@ const csp = [
   "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
   "font-src 'self' https://fonts.gstatic.com",
   "img-src 'self' data: blob: https://i.ytimg.com",
-  "connect-src 'self' https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://*.googleapis.com https://*.firebaseio.com",
+  `connect-src 'self' https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://*.googleapis.com https://*.firebaseio.com${demoAuth ? ' http://127.0.0.1:9099' : ''}`,
   "frame-src 'self' https://*.firebaseapp.com https://www.youtube-nocookie.com",
   "frame-ancestors 'none'",
   "base-uri 'self'",
   "form-action 'self' https://checkout.stripe.com",
   "object-src 'none'",
-  ...(isDev ? [] : ["upgrade-insecure-requests"]),
+  ...(isDev || demoAuth ? [] : ["upgrade-insecure-requests"]),
 ].join("; ");
 
 const securityHeaders = [

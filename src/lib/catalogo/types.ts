@@ -1,3 +1,4 @@
+export type MathSegment={type:"text"|"currency";value:string}|{type:"math-inline"|"math-block";latex:string};
 export type TierPublicacao='tier-0-quarentena'|'tier-1-gabarito-oficial'|'tier-2-completa';
 export type NivelQualidade='nivel-0-quarentena'|'nivel-1-gabarito-oficial'|'nivel-2-resolucao-comentada';
 export type Categoria = 'enem' | 'vestibulinho' | 'vestibulares';
@@ -7,7 +8,7 @@ export type Questao = {
   tier?: TierPublicacao; youtubeVideoId?:string; youtubeStartSec?:number;
   nivelQualidade: NivelQualidade; motivos: string[]; categoria: Categoria;
   tabelas?: {linhas:(string|null)[][];pagina:number}[];
-  resolucaoEstruturada?: {alternativaCorreta:string;conceito:string;passos:string[];distratores:Record<string,string>;grafico?:{funcao:string;pontos:[number,number][]}};
+  resolucaoEstruturada?: {alternativaCorreta:string;conceito:string;passos:string[];distratores:Record<string,string>;projecao?:{conceito:MathSegment[];passos:MathSegment[][];distratores:Record<string,MathSegment[]>};grafico?:{funcao:string;pontos:[number,number][]}};
   id: string; slug: string; banca: string; ano: number; edicao: string; numero: number;
   habilidade?:string; area: string; disciplina: string; assunto: string; tema: string;
   dificuldade: 'nao-classificada' | 'facil' | 'media' | 'dificil';

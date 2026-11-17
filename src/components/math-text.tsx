@@ -1,7 +1,9 @@
+import type {MathSegment} from '@/lib/catalogo/types';
 import {sanitizePlainText,sanitizeMath} from '@/lib/security/content';
 import katex from 'katex';
 /** Only math delimiters are interpreted. All prose remains React-escaped text. */
-export function MathText({ text }: { text: string }) {
+export function MathText({ text,segments }: { text: string;segments?:MathSegment[] }) {
+  if(segments)return <span className="v2-prose">{segments.map((s,i)=>!('latex' in s)?<span key={i}>{s.value}</span>:<span key={i} className="v2-math" dangerouslySetInnerHTML={{__html:sanitizeMath(katex.renderToString(s.latex,{output:'htmlAndMathml',displayMode:s.type==='math-block',throwOnError:true,trust:false,strict:'error'}))}}/>)}</span>;
   return <span className="v2-prose">{text.split(/(\\\([\s\S]*?\\\)|\$\$[\s\S]*?\$\$|(?<![\p{L}\p{N}])\$(?!\s)[^$\n]+(?<!\s)\$)/gu).map((part, i) => {
     const inline = part.startsWith('\\(') && part.endsWith('\\)');
     const display = part.startsWith('$$') && part.endsWith('$$');

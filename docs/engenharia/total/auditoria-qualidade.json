@@ -6,8 +6,8 @@
   },
   "questoes": {
     "nivel-0-quarentena": 13091,
-    "nivel-1-gabarito-oficial": 3184,
-    "nivel-2-resolucao-comentada": 24
+    "nivel-1-gabarito-oficial": 3038,
+    "nivel-2-resolucao-comentada": 170
   },
   "motivosRetencaoCadernos": {
     "caderno-apenas-documental-sem-itens": 434,
@@ -6299,7 +6299,7 @@
     },
     {
       "id": "etec-2025-1-q019",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -29740,7 +29740,7 @@
     },
     {
       "id": "enem-2025-d2-q136",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -29766,17 +29766,17 @@
     },
     {
       "id": "enem-2025-d2-q140",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "enem-2025-d2-q141",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "enem-2025-d2-q142",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -29796,7 +29796,7 @@
     },
     {
       "id": "enem-2025-d2-q146",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105262,7 +105262,7 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q001",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105277,7 +105277,7 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q004",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105287,7 +105287,7 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q006",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105297,42 +105297,42 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q008",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q009",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q010",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q011",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q012",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q013",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q014",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q015",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105365,12 +105365,12 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q020",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q021",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105382,17 +105382,17 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q023",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q024",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q025",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105402,47 +105402,47 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q027",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q028",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q029",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q030",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q031",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q032",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q033",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q034",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q035",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105452,12 +105452,12 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q037",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q038",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105467,32 +105467,32 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q040",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q041",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q042",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q043",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q044",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q045",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105601,12 +105601,12 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q066",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v1-q067",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105734,32 +105734,32 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q001",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q002",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q003",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q004",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q005",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q006",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105792,12 +105792,12 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q011",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q012",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105809,17 +105809,17 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q014",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q015",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q016",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105829,47 +105829,47 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q018",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q019",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q020",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q021",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q022",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q023",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q024",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q025",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q026",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105879,12 +105879,12 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q028",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q029",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -105894,32 +105894,32 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q031",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q032",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q033",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q034",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q035",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q036",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106028,12 +106028,12 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q057",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q058",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106161,7 +106161,7 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q082",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106176,7 +106176,7 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q085",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106186,7 +106186,7 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q087",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106196,12 +106196,12 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q089",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v2-q090",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106211,47 +106211,47 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q002",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q003",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q004",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q005",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q006",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q007",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q008",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q009",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q010",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106261,12 +106261,12 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q012",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q013",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106276,32 +106276,32 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q015",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q016",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q017",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q018",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q019",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q020",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106410,12 +106410,12 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q041",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q042",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106543,7 +106543,7 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q066",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106558,7 +106558,7 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q069",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106568,7 +106568,7 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q071",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106578,42 +106578,42 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q073",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q074",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q075",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q076",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q077",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q078",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q079",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q080",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106646,12 +106646,12 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q085",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q086",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106663,42 +106663,42 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q088",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q089",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v3-q090",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q001",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q002",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q003",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q004",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q005",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106807,12 +106807,12 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q026",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q027",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106940,7 +106940,7 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q051",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106955,7 +106955,7 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q054",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106965,7 +106965,7 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q056",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -106975,42 +106975,42 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q058",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q059",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q060",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q061",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q062",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q063",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q064",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q065",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -107043,12 +107043,12 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q070",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q071",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -107060,17 +107060,17 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q073",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q074",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q075",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -107080,47 +107080,47 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q077",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q078",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q079",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q080",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q081",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q082",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q083",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q084",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q085",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -107130,12 +107130,12 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q087",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q088",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {
@@ -107145,7 +107145,7 @@
     },
     {
       "id": "fuvest-fuvest-2025-fase1-v4-q090",
-      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "nivelQualidade": "nivel-2-resolucao-comentada",
       "motivos": []
     },
     {

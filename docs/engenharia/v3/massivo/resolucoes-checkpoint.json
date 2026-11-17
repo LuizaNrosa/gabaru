@@ -1,0 +1,880 @@
+{
+  "itens": {
+    "enem-2025-d2-q136": {
+      "hash": "e669745f3be8f58171f2068268b04ac4290dd92d97cfcd4cb765a99508cf5669",
+      "fingerprint": "b43154fa22b11c9f19a5be7e4432763d1277e68d5df5e8a218b5553792842556",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "enem-2025-d2-q140": {
+      "hash": "982a6e82882ef986b788079729b2094e9e81819cce50fb65857d60689d0aa75d",
+      "fingerprint": "f736dcc631d1aa92239f58ccb505bfdf8678d4cfbe079cc814ef478d8b6bbb4b",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "enem-2025-d2-q141": {
+      "hash": "eb348c7dec46d6b3bf06ddaf059c99cb99dec970688db7e99678e9605618a647",
+      "fingerprint": "f71fa16221db451f5feb63d3acdcfcd9c650f90667e262c290638f5055adfac4",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "enem-2025-d2-q142": {
+      "hash": "714b11a338b11cf775c911a031ba24a46555ccd5df650b273dce143b94985c7e",
+      "fingerprint": "59e6fde7c1d8f0b53cb9c8b9ad326c8030c6b5478643837287a6c5787499f728",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "enem-2025-d2-q146": {
+      "hash": "2db9ccd0123efdc3d4c78afde5a8ecbc1591d573d44eeebdabbddac4057d3fc0",
+      "fingerprint": "25e793f0822882e6db5f82eb4637adbd9a19bcddda2d0cf8c594ea4b1c099c4c",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "etec-2025-1-q019": {
+      "hash": "4b7ff00a41e5b623099e3e43f64b800825055df5503774eeeba74d8bff1f693d",
+      "fingerprint": "debb2103286e7bc44eeedb4d8067d62484611c64e4e8344cd2fb54c52272e5e2",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q001": {
+      "hash": "09aeef5be8c8f6475d8ed1cdf0a61e7860af0dd4b58e8a5570e90be394baf89b",
+      "fingerprint": "19e099088f5243fef90e64fc99c774667915258cf3a21a726b140944f94753ac",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q004": {
+      "hash": "c211eae74831df76e81d5194fa1d3c69e47e031afcb8554e3e24d1f193c9f5f8",
+      "fingerprint": "1a15cc8c34e99e47702ddb2caae3dfbf26d3110705a321983e08aaeee38db5ee",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q006": {
+      "hash": "ed0ea5d8fe274d9bb4504ac55182d0436c0f33dd6e718f4710589f7707cb9ff8",
+      "fingerprint": "9ec21dd8a58547c8bb437437862d22d3ce8031330e61b50f7980fad59955d289",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q008": {
+      "hash": "beb7a7acd790730445f01da6b0841048f7eea0babbb0057d34493cb672aa9de5",
+      "fingerprint": "4c5136149afa3c6e46bf25b33af6cb4b4d7ec913505ade2db5d6814d63dfdb08",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q009": {
+      "hash": "d948ead180af0f142f6d491a4eaab7d4b1ea7f57b3639759697028f28068d816",
+      "fingerprint": "9ef45eef9eeace49fbbe7323a4f9cb1b14118b561f81cf29714212e3d4533a15",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q010": {
+      "hash": "e22fb95688154bd4ada911e40456db0c83e8ea5ff5fff80f1f0ff218d93c11b3",
+      "fingerprint": "47bf4c591bcf80cf24be54a7d96a88eb147d05c42e300aa8886538834072c50b",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q011": {
+      "hash": "8780aca9a2fc4adc64d7327fd3b9e4069523fa0fe575453c39f30de7c3a4c1be",
+      "fingerprint": "32a812e4647e9a396c129e9220ef278c987f65bd62efbc2bf7f5058589e9b9e2",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q012": {
+      "hash": "bc04ab7d874b25e6723f4ff47f73158dd5fc505ec3249fe552b3af56f76b47d1",
+      "fingerprint": "5546c416648a28a9663879867afbaa8d1d33283e5e322c5d596d7fd1b8c83536",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q013": {
+      "hash": "4e0e3a278271dac311f67b47b345933d9c8917fc7adf41c7b89a6e28f275516f",
+      "fingerprint": "d30d02f4357006f41f04e18cd93a4f2aefb1e582cf5770c73fbe872d4153f0ca",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q014": {
+      "hash": "c458d67dc90eb17a177e5c9a6275db5e04268264819ba4dde364c7d2e529eece",
+      "fingerprint": "cf51d4aa9585f062bbda84c0663664ce617cb30c230205d764dc80c136e0ecb5",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q015": {
+      "hash": "6d5620e28f40bdc320f940b3c409c5cbb30dded70c3ceb36e9d5a5dcf1c759e9",
+      "fingerprint": "c8b02e1b9f085a0cb0dc87a0c1ea899bd24dcd65ac4c7254b36e72c940e136a3",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q020": {
+      "hash": "b05eb6f956e5a87b06b953f5fd21235ffb4a86fcdb1fd96518307c6aa8702669",
+      "fingerprint": "b63c3668f9cabfd58a69bee5a3c71f036842dc9abe4891fbac30f98587a14ef0",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q021": {
+      "hash": "6ebc2749db4dd971ca3f0080464f24e47aa4df49dd5599bdbf9264d256a0103e",
+      "fingerprint": "dfbb2d963f5d3d13f15c27f3d34f3790505564a357085f4d942a79a66abcd04b",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q023": {
+      "hash": "a4e8e3b657a8232d3ef2949b9472207e7d1e2762c6703b22b80915c5a57a9960",
+      "fingerprint": "ff68bacf94e53a58eddc7ae0c2eab90f0bfc4b82e01a244cc517508da11ce9fa",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q024": {
+      "hash": "bceac7315fe6501cd14facefabfa1259206dc856f77d0f30aac368d91336a7eb",
+      "fingerprint": "41c3ffc9aacb9897a1fcf6a23b1c0e315bbe19941faf66648cbf7003fef73031",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q025": {
+      "hash": "0a4f32c4f54a37b9bac35350dbfb90693689fda684fa1926e931193ebf6448c7",
+      "fingerprint": "18f5096757bffb5d71d85854e5512c3fc5e2ee8eee71551193ab9aebe1070bb1",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q027": {
+      "hash": "af4fb369368110e236e43265db61f4cb73b29cb5c51f04bc88e0e017394ef899",
+      "fingerprint": "ba56265796785efe9efc0ac3f20aaf48e699c67e6db1f282107097f24ac87820",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q028": {
+      "hash": "b996643f8a51425b5bc19cdc5d7822fc3a5d1dffca1200d673c302ea6aed3c76",
+      "fingerprint": "e729b69b581096f2b4003b2f8acf08e8d3068189abf90ba7cfe19c0f2b4ab286",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q029": {
+      "hash": "ac59a2d8c21ef0ce8d402dbe5779bb669772f79fe4ef111983d1abbde05af0c0",
+      "fingerprint": "bd4cd78f072281efc782432cf5209b03f048e43498d9568bcb4e077c556ab95e",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q030": {
+      "hash": "3f6b575b435d8196d15d7961015fe6ebf06606d2946dedfec692f5e886617802",
+      "fingerprint": "e75565ad58b5fd5a4d3638373b7153742128a993556389d102737e8eb78e92a8",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q031": {
+      "hash": "624518abcf72b3bdff0630541ffbc1be017176c6fbb4e6f08b9a5a68fa248046",
+      "fingerprint": "5ffe4752b12db93c550de4a7f82bee7680f59d2cce0c30108d301fcd8f1b700d",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q032": {
+      "hash": "dc3df40eb8c7c213dbf2429e1a9219e2f8e34bf4cf52a53571d76fbe7be0c00d",
+      "fingerprint": "fa5bb61aff5a6b4281d6e688fb6d57712b3d3947d54955a3b7cb3eb55fdd04c0",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q033": {
+      "hash": "3fad9ebc0053aae7f9c1c128cbdf5f900b0165b4bb102e2d68f75cc2f63ce712",
+      "fingerprint": "9f14c122e8cb910fdac18aeb0ff0e1a205800b54e6045d2e1cb658841de24a13",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q034": {
+      "hash": "b80fe36d678604bf63323499ef1975b1b1c99e6146d3320fc4a6beab9f47ee98",
+      "fingerprint": "fc149b18a61aba8aa8892dcbec0ad60f7621a6d28f95896720a4616b9cae8f9b",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q035": {
+      "hash": "46deb5b621ce599b1983882ba296b322b290e5dcc2a11a8c62ce6667fbbbc5c4",
+      "fingerprint": "4135285933d93a8b8c1b0f12d3736f94cada04d18842b8049be32db06a91164c",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q037": {
+      "hash": "1f70fe68c4390f6c48731630400ff2e45140bbc1413ff63841b5f063350a56a8",
+      "fingerprint": "67de8af46cc2128264818cc58a9c92a434d09244fe4a83f40a61548d459130b9",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q038": {
+      "hash": "dacd7b77b75093c50f93efeecd3fd7f6bcccd31be203073b35bf07c7d991ff5c",
+      "fingerprint": "8cc367f979b4a763e8813f3b9ba2d4aa5dcd1922539e22242060e173b4ab69b6",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q040": {
+      "hash": "384e1a0746899f9a74387f48819c24feeb6a6fbd01f2298693543483ca0d344a",
+      "fingerprint": "4ea130aef7c5c0e05b266c0f38f5100b81840b60564bc73f6fe6ad68ae7f53a6",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q041": {
+      "hash": "963a0bdc87fd6f839013aae5827d064d1357b3db5c28b57c0671f14e6ac052a2",
+      "fingerprint": "1718e5fdd6ecfc946a055857a40da5356f422bf7f2293241c5917d385f42a6aa",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q042": {
+      "hash": "2a5dd2e6ba5bc71766625756dec9e6b34ad0e420cd581c10b5b3fd94234b335a",
+      "fingerprint": "a9f243437c34ff541297dd23de765e24bf054cfab43b0213f6a6c2b0ee188549",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q043": {
+      "hash": "39a48580f1351479eaee8c281254fed42bd9991011f0ff6010b940dce9599b9d",
+      "fingerprint": "1e61d216e663a5da6f829627706fc4742af0589ecdbd67ae7445f1ec9e1b9998",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q044": {
+      "hash": "f7d346be3a642bc0287784c35b877f4c02df54e5bdae4b4bd9e5169d77f38748",
+      "fingerprint": "37f98fd6b5e59b5e2a1887d959cba71cdca1b916c57cfc43e6ea65f0357cfeb9",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q045": {
+      "hash": "a6fc9a795d495ad06b263970999e944e9d3cccbf16a67eca9fb2454987b47383",
+      "fingerprint": "061f5acf556a7b3142f3ce342d0414d5d288ee5162a695ce65bec9bc02af5357",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q066": {
+      "hash": "bc9c4c43deca9547ebedaad57d8d83226cc48c170ebcd2011d30473ccfac71e1",
+      "fingerprint": "7ff0da44608e01040cb38731a787326fc201955bceab7d591aa15af89c1db436",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v1-q067": {
+      "hash": "93e49367b15ebda1f1b7375f1d87c31a73263c000492c36b462b25d2b2c3e76a",
+      "fingerprint": "4837c02fccaa105d93af0e1080b326dd9aac087af2371c70886173ad5d86d55d",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q001": {
+      "hash": "d7b59b15d90f5772e57d3d6c5b50f2de80b4a57e2f2ddef8d0df3074bc25ad53",
+      "fingerprint": "6248d9244b5832d7f08fa910103f8c19541db836292debf45af85fd033091b3e",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q002": {
+      "hash": "105d39fa466ec1ec93658f74d7105c7e9452f953bc88f7cb6255b966d9ed22d0",
+      "fingerprint": "adc40190c8bbd4d5ad7c838a731d2d4e05061ba0a33c20acccc617b927f65780",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q003": {
+      "hash": "9cbb3e1b89707ed0097ee190b24a974fb8f0eab3dd44c53dfcbabf305fc2ff1f",
+      "fingerprint": "3623015d2d59bcbc0134c8be774164eef06b25f55b7829591c55aee2bfd5c453",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q004": {
+      "hash": "705d7bec379aa9b2cc7868b5d88e3af89dbde9a3868b3c5098eeaae1d08a7f66",
+      "fingerprint": "ad55d7c28688981b4af756b179563908daa1ad58f85f895792e8e1b73b162962",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q005": {
+      "hash": "b315a001a43150ee19cacb74b3bb8885e0b297d38296c8acf4efe644c3cc248f",
+      "fingerprint": "3b9a235e6d036bdc4d7f02df77ac15973489b89329a2eed86259208fc222ce9e",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q006": {
+      "hash": "e4c9e7fde732e79d0233f53de376592af4a6045e030d2451ac89369ea5f87571",
+      "fingerprint": "64daf399563421605e20252c2d666a437a2ad39892c8bcda4465fc37f40d87a6",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q011": {
+      "hash": "b05eb6f956e5a87b06b953f5fd21235ffb4a86fcdb1fd96518307c6aa8702669",
+      "fingerprint": "b63c3668f9cabfd58a69bee5a3c71f036842dc9abe4891fbac30f98587a14ef0",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q012": {
+      "hash": "6ebc2749db4dd971ca3f0080464f24e47aa4df49dd5599bdbf9264d256a0103e",
+      "fingerprint": "dfbb2d963f5d3d13f15c27f3d34f3790505564a357085f4d942a79a66abcd04b",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q014": {
+      "hash": "a4e8e3b657a8232d3ef2949b9472207e7d1e2762c6703b22b80915c5a57a9960",
+      "fingerprint": "ff68bacf94e53a58eddc7ae0c2eab90f0bfc4b82e01a244cc517508da11ce9fa",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q015": {
+      "hash": "bceac7315fe6501cd14facefabfa1259206dc856f77d0f30aac368d91336a7eb",
+      "fingerprint": "41c3ffc9aacb9897a1fcf6a23b1c0e315bbe19941faf66648cbf7003fef73031",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q016": {
+      "hash": "0a4f32c4f54a37b9bac35350dbfb90693689fda684fa1926e931193ebf6448c7",
+      "fingerprint": "18f5096757bffb5d71d85854e5512c3fc5e2ee8eee71551193ab9aebe1070bb1",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q018": {
+      "hash": "12bbe6ae072ff4a7d60649005a46378a490c173e37166e455af7fdd786061f2f",
+      "fingerprint": "d57d545dba067b0118476b40fe2a03496d0021b68cf3518354c3d2556c6ce12f",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q019": {
+      "hash": "d8391170daf256da195030cee08e8f8704c8a49c4007e2f783a81f8417def4ee",
+      "fingerprint": "79c09e1f4f66e8177fe4868bbd30752a73e365219ec99e0e8f9de0e8bb9620ec",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q020": {
+      "hash": "da10be1f8fdaefa81e9d66edd9d43a3e857b48b29a901164448194a3f8e58117",
+      "fingerprint": "3021bdff70ba3f8274d0b0906421a2c91d617a4bc33e60d382d361eb5f7cb725",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q021": {
+      "hash": "57e3069bd651c18e16fe1fdf79eae4dcddafdd3c4889f025d2bef892c8967e9b",
+      "fingerprint": "8989d7d573a59a067ca77624cc64b59a6a92ff39f253c75383a0383c90c31207",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q022": {
+      "hash": "61128865bb7e430b88af265adca2ee2adadc3b9344d301863d5f19fcfa9fe3d3",
+      "fingerprint": "ba176ccd49ea929f81588005120c6642fdb420569049d908c54df2135c6319a3",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q023": {
+      "hash": "b20c0584ce1fb974dbae655552ae8b096796cd3a332053d84139f7b2515a7874",
+      "fingerprint": "0c6b51e1c15e40c8b246d0fedfd63088028d1b931d383ac28839185eacd1381f",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q024": {
+      "hash": "1e80d82263fda064e50f9380d60bacc4b7457d982d93a183728762821aa2fe42",
+      "fingerprint": "c883c38ca678cae8087d7ecc27ba207a26f256728f96e8df62b9c65dc831a216",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q025": {
+      "hash": "870c1b987aaae7db5b64c50b1ef5605d1d4b82d8ea8cb55ed8fc63d4c6585c18",
+      "fingerprint": "2b68c6154d2afffa53216926cdbf58e33860947a5531e358ee96eba20454ca45",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q026": {
+      "hash": "90ec1403a87a69cfc13dff099573c4817c1bece69994842c4bf58e7993a921b3",
+      "fingerprint": "0b09f10eff813ee2105ff44a1e5889ae0340d16f92883cf85b00ffb0a269fc0c",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q028": {
+      "hash": "58e875bdedc0675023813f136b005b18a2862095cc1da51a389cfb4d417f8697",
+      "fingerprint": "e7fdf9bd6d4cec0df67f7911a470d19456cb3d28c45984f75b3e58019bfee417",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q029": {
+      "hash": "d10fc918538bfc898be532f2430e7ae429d74dbc07297542375e1aded0bdfc09",
+      "fingerprint": "ee7c51d9984328f964bf99586b2b5e9d1dac80dfc518fa7170409dfaefc0e0e8",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q031": {
+      "hash": "e57c7830652614c3a982d76fe71cb17dafc96bc5040a401729e97392217da3c3",
+      "fingerprint": "8a56c7c847f4bf7a0e73970722ee1ab9c36070564388b16d2dd3aba1cdb457c7",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q032": {
+      "hash": "5eb922b7ed27d6f43d0f21d63d6e072c579144b744a6039c157d3cc7a677176e",
+      "fingerprint": "794ead22730928c948ad881edeb11d49fb987b1e8612b9032028bd91a7bfc583",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q033": {
+      "hash": "6aae17a5cb220335e5f479d8b3b1dcc81d0a18f7fc88e2e8c28ec39e25a5aebf",
+      "fingerprint": "7e1fc9e2e9a7d47b84197313bc61fa588609b217ad9f37885b77d4d7aaed852e",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q034": {
+      "hash": "f6a324d3010cacf9daf775d35a47337bf748b73e62d89f01a1a3b18006d4f250",
+      "fingerprint": "936848c44810b494096db2a27bab35cae0c001b3cc10ee135292608aa833abf0",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q035": {
+      "hash": "8f9ebdba6870183ed9dda95113d0c3d968a951fec0e195c4a484ef59d7174647",
+      "fingerprint": "3129e2d91baa1aaf3af2b6fd4e4ee4aaf451265e1ad7d90beb5f7187bff758fd",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q036": {
+      "hash": "c5eb7bbbd11b2679ff69d7e4cb66e708d8d186c1dd6c0a468b3def60a6545f2b",
+      "fingerprint": "6394e6821bef7e374a467636c27786c151d12eafcffde47d577657abc2dee27f",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q057": {
+      "hash": "f3f1397ec279edfa916d46547a9cc471e4c96567dafe026de8d6309c07bffb43",
+      "fingerprint": "11afc4ea8eb97a4d58586e17649fa1aa18acf442f17087f48cd0b6843e75d094",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q058": {
+      "hash": "1ccf2d012a8b9e88534252a7fbf835b6da03a0b5005628663d0fa0b6cf32b898",
+      "fingerprint": "08fb2468ce204737350235dc0f927f78a3b36a601f9b8ef1e792d75594d2b2fe",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q082": {
+      "hash": "39e844158d644241d80015bd2323423a5e0808e202574843563dfc7ae0ad34ad",
+      "fingerprint": "95f3a45302735d1049af46fc01b29c5ab57900696d4c2f8aa54557e57fe59103",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q085": {
+      "hash": "c211eae74831df76e81d5194fa1d3c69e47e031afcb8554e3e24d1f193c9f5f8",
+      "fingerprint": "1a15cc8c34e99e47702ddb2caae3dfbf26d3110705a321983e08aaeee38db5ee",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q087": {
+      "hash": "ed0ea5d8fe274d9bb4504ac55182d0436c0f33dd6e718f4710589f7707cb9ff8",
+      "fingerprint": "9ec21dd8a58547c8bb437437862d22d3ce8031330e61b50f7980fad59955d289",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q089": {
+      "hash": "d4c2cd16a562b86673562294a92c96fbf33711c245f6f76a3edfedd22c567d79",
+      "fingerprint": "ad17129e48223e89ee2d8e1fa292af38c7845b4d05f3825a2699e2919fb05fce",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v2-q090": {
+      "hash": "b8d2ff32212fab0e985d4cec8da5a479e13b16a7f48a84a7f1fd2b5f15661af4",
+      "fingerprint": "52fa04d99535edab47d3d1704651707d2e7432d194f7443184969a30c70dd129",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q002": {
+      "hash": "2a17c8aa8b356193998822bacc7e6120cd049233bdd7efe350e7a2dbf74046c7",
+      "fingerprint": "3cbfef501957cd9a93498fd504bed77a081c4740cc83c31db67ca057221ae1e5",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q003": {
+      "hash": "53d5b65818d9a689fcb7e81482774c57aac64290517dbc44e52bdbc62bd7ecf7",
+      "fingerprint": "46b3a5ab898cb534d2f77648221dbe825fbb23ea8ebcd814a61be902b0988c44",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q004": {
+      "hash": "c990ce681da1417ce838d1507f57c1738463f1ecf0d58b47fa91fa31fce15a9f",
+      "fingerprint": "3055f5a203c34304173814406f73563369ff20799644747f2a05cd82c1d01583",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q005": {
+      "hash": "f13b301801034bd8a4fad377da57532a6f085cec5e6db2b7e591b5ae58a635c0",
+      "fingerprint": "cffddd20ca165e2595861e08925b81d3b460aca1da4471d62b4b780ffb786e51",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q006": {
+      "hash": "45fe10b5e70a53e7559ca854d2b8eaf5732d900da7b853c2b437cdff8d572041",
+      "fingerprint": "da99351af910f67bf8c5c0a1bbb0ac1c6c4eb5a2357520a318f7b050a3312ecf",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q007": {
+      "hash": "33f49bf05cf5bd019d77ff1b1b864c629a5008f37e36b2b3bc4f741b7701b076",
+      "fingerprint": "4df694c05cd0a32920837cc933e8510195180a83dbcd8b4e0e4349d701cca824",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q008": {
+      "hash": "c23c4b70867c344f054d6e362632332629c8a4ced29d80f7152fb08b9fafc013",
+      "fingerprint": "718db1290cbb45686c75adba4e9191f3bd23105c6cacb508ea7d35ca4e66e614",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q009": {
+      "hash": "bb60e2d7090b2308332364b6bf7cf6b091261548345a8de44201c64de08e4bed",
+      "fingerprint": "3fb59a957cb581c1cc4f4b19373ef618a3db2cef6dec2cedfdd41ff26e1767a2",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q010": {
+      "hash": "a250f73907ccd2c56b5023383141a213129d9b003b47fd509dffcf119c5a4487",
+      "fingerprint": "7e6fa41751c054ff800904dbfabab948a2d64df55e24823d881a2a92f504d541",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q012": {
+      "hash": "839289787804926aeb31d02b89cbad893e385afaaad7965e36d629cd3754d1a6",
+      "fingerprint": "40dc2d76551403888722e85e577f82eb31d717e22317251e34cd30e666519458",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q013": {
+      "hash": "df9c3d01422fed01f1efa59011c6e8dec25077f8c8a7d2692577dbd5849f93e6",
+      "fingerprint": "f32ac67b1d2932d126f3d240bc60004ef99912bc54aac5cc1e369e6cf807fe99",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q015": {
+      "hash": "6e173110212d8042080a69886e2ef2480ddf0d1c3765369883688fe5c7a42465",
+      "fingerprint": "3a1f0148ce2addc37d2b57d85352ed945337cf756ab12d47d7ab025001d9b3ce",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q016": {
+      "hash": "01f5d8b7e2c4d8c2f063e4bb6bb9dc17c1cea9aeface5c0d7263385a20e3c37c",
+      "fingerprint": "b3951f3ac85ad715e34e022c3b5edc88df75ca7099111d747d9c4cdb8dd56f91",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q017": {
+      "hash": "5d8cf1be0e94caf56ec76c638a6e22d0571a9aaf3a365dc0113f6e850bc47b6a",
+      "fingerprint": "e9b78ea4b55121df609d0dfd503c6312e7c9d11ece1a0a8f9263ee1964665432",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q018": {
+      "hash": "88e369d458bdbe2785e0f05dc115c48af3d760c87ab4e8a0daa14f9bb41e5cb1",
+      "fingerprint": "3bab25b1d4de405d3e6e11082dbaaad3b0cf4b0e18b83a1d5b8ffa29f569feb0",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q019": {
+      "hash": "5cc76c0e4f67fb264aac0e36686489a2316d0d5f6c57184f8f7b04e87e7b1cde",
+      "fingerprint": "09941b4d3933b04cd5949ab55a27beb99092c653f6a425053387d7e0f6802f3d",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q020": {
+      "hash": "0b164aa8b9e8b20ed547caeced4aae38de8f75c40c443bddb9b56d16ec2309bb",
+      "fingerprint": "484cf1093f76c27315db06728493dea5f90bb2207f58a952fec6151235bd6463",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q041": {
+      "hash": "b625b618fa4edaf672b04a96bc6e2a99be2eb8b0ccd719da98f12b38c502c998",
+      "fingerprint": "a76cbf6d856e64594398fbb93a8ad8941ff8a75d0bc2f8b44f7f0499eb35993d",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q042": {
+      "hash": "3392960160aaa5a8c7afd7e43ca1df7e5a3d9902e8a56c208d51129a00904e6e",
+      "fingerprint": "8292e7d1744a08eb764b1d6155b87dfdaf7fc32a475b15c82d3b2f58b3541f80",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q066": {
+      "hash": "e9c733aa758f01b43799c51cbc947f2ff10f3ea243c6e06357190727a09905d9",
+      "fingerprint": "f73312caaedb79709aa26d02c618970b8af44b0956377d47e2ec0dca0f793109",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q069": {
+      "hash": "c211eae74831df76e81d5194fa1d3c69e47e031afcb8554e3e24d1f193c9f5f8",
+      "fingerprint": "1a15cc8c34e99e47702ddb2caae3dfbf26d3110705a321983e08aaeee38db5ee",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q071": {
+      "hash": "ed0ea5d8fe274d9bb4504ac55182d0436c0f33dd6e718f4710589f7707cb9ff8",
+      "fingerprint": "9ec21dd8a58547c8bb437437862d22d3ce8031330e61b50f7980fad59955d289",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q073": {
+      "hash": "c0708adfd509cfcb6367ed86815fff38d2614bf9ca1cc07957ca96aacd27a9ef",
+      "fingerprint": "3eb3497d1afd7258c88fc3a6aab10e3f6526254b5541c7295c1a841807ab9c51",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q074": {
+      "hash": "f8a7c283ca15224a7f9bd5e6340b1c3f842c378158a00081047470792c4e9650",
+      "fingerprint": "f12bd558885e21d275e6a04e47af480b0141f03a08f4401a5245762e9f5049c2",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q075": {
+      "hash": "9a3bc3afbf97bfb0449323b15160306ac842fb9c26b241d5d7174b2697868107",
+      "fingerprint": "4a8e66a3a394e0d0adcb672396c41a0ce811b8cc652e8de051ede6cf6be36450",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q076": {
+      "hash": "e5387bfb685a5e775e1503927236c4ec96bba4723659798c8c2e1130dd97d71e",
+      "fingerprint": "50297716a71e0fecf69eb258069626cfc822c192e71b28e7e6279023ca8d39a2",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q077": {
+      "hash": "77e73c41ab77052a3626608d89b85fb7ed5d702743310de85a1bf77e587877ef",
+      "fingerprint": "f5f91bbca52c710503ba20101abc5ee851fa39349f55a6874ddd989c27763e6c",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q078": {
+      "hash": "baacdc5186815f7d2df74277e28cff3df9b38349f54d5425ef8677bd837ff931",
+      "fingerprint": "3d34fed3f9d95963d1fdade599d7099c79f86f139483c5de7f2fef45087012c7",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q079": {
+      "hash": "0be72d0511f54ffc23548638b626a851349d4424320346b5fdcdb6034ee872f9",
+      "fingerprint": "6296ce05d6c767ff91c2fbd19ea9668679514a49c8c035756b4ea9a47972f252",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q080": {
+      "hash": "07f81f75d9b2e870eb25b379115f8576835aeef469d4bf6a0bd8052e497b4d2c",
+      "fingerprint": "68dac77ca9022792b88271863814849e058e2ed9894012d4cdd0480b9159eb5d",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q085": {
+      "hash": "b05eb6f956e5a87b06b953f5fd21235ffb4a86fcdb1fd96518307c6aa8702669",
+      "fingerprint": "b63c3668f9cabfd58a69bee5a3c71f036842dc9abe4891fbac30f98587a14ef0",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q086": {
+      "hash": "6ebc2749db4dd971ca3f0080464f24e47aa4df49dd5599bdbf9264d256a0103e",
+      "fingerprint": "dfbb2d963f5d3d13f15c27f3d34f3790505564a357085f4d942a79a66abcd04b",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q088": {
+      "hash": "a4e8e3b657a8232d3ef2949b9472207e7d1e2762c6703b22b80915c5a57a9960",
+      "fingerprint": "ff68bacf94e53a58eddc7ae0c2eab90f0bfc4b82e01a244cc517508da11ce9fa",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q089": {
+      "hash": "bceac7315fe6501cd14facefabfa1259206dc856f77d0f30aac368d91336a7eb",
+      "fingerprint": "41c3ffc9aacb9897a1fcf6a23b1c0e315bbe19941faf66648cbf7003fef73031",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v3-q090": {
+      "hash": "0a4f32c4f54a37b9bac35350dbfb90693689fda684fa1926e931193ebf6448c7",
+      "fingerprint": "18f5096757bffb5d71d85854e5512c3fc5e2ee8eee71551193ab9aebe1070bb1",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q001": {
+      "hash": "2a98abb5bde1625deb9e5d1383f3428498d78cd432b137faf4f0dc518b00de5f",
+      "fingerprint": "cace6a46c09920811fd1b5aa7fd64147c83a9b49f70958377ec33af4038c6e10",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q002": {
+      "hash": "1fdc4a15b3c8bc711b268c59f81ba160cec21cbe1ead7e74e21621f17476f6cb",
+      "fingerprint": "76ff4301abc8619f8f8c46d118cd8448644a92451d7b8d58ec5c77528c739606",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q003": {
+      "hash": "537f157d774e0547ca65dd0387165777426aad2703102b2fee9b4fa489cbd065",
+      "fingerprint": "61421028d60cfd880294987aa5cce2f9527c19c570cec3e35c25bfd8fce4564f",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q004": {
+      "hash": "09aedb3d7c0998060606ef152d90d68bafd531185c60ef9ca6f708c21803d2ff",
+      "fingerprint": "8b114fabb453563d42747223a4331f25e1efb2be9469d3b3bb3b808c9279b47e",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q005": {
+      "hash": "0403d0e40237514647fa4c485147de9a1714fd7529b92d8f990abd3c6e798812",
+      "fingerprint": "feb82f6d792af74660abc378fe8560ca4e483288c0c53d885110f6449b12c08b",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q026": {
+      "hash": "3ff17d6aa980c57084c4353e05d65fe93dc41b1d00b74c9f7da48d07201133fa",
+      "fingerprint": "056495bf58d89a6ee33581341d381f2e2ae72fed3e74080ef21320c75b87e83c",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q027": {
+      "hash": "9393b94afa921fec31e072e0d9716e7cb59045bb8d9603242571093fe0573529",
+      "fingerprint": "54798a1b0464452e2e36df9aacb243419d9dc6a26e81e49cc8a92c95f99e4c64",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q051": {
+      "hash": "349418d62a41f7933756e7cba9ef1024d9964b960518b71c56500b3e19118b57",
+      "fingerprint": "23fb2fff2744f73eda8bf3acf3fcdb867adf6242bfb92190813b8659790f1df8",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q054": {
+      "hash": "c211eae74831df76e81d5194fa1d3c69e47e031afcb8554e3e24d1f193c9f5f8",
+      "fingerprint": "1a15cc8c34e99e47702ddb2caae3dfbf26d3110705a321983e08aaeee38db5ee",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q056": {
+      "hash": "ed0ea5d8fe274d9bb4504ac55182d0436c0f33dd6e718f4710589f7707cb9ff8",
+      "fingerprint": "9ec21dd8a58547c8bb437437862d22d3ce8031330e61b50f7980fad59955d289",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q058": {
+      "hash": "f760d5e6394dce4c3d0fe03ec54c3d498d893ebf1c2d5281726744bcc648b76f",
+      "fingerprint": "237deec77219e2f372afe68235e91a956efa8a094e1ef5d7db53d7c303350377",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q059": {
+      "hash": "6a87b5cfc2c0f9fede024fca64b21000c5b042fa39c501211dcf2961d8471b09",
+      "fingerprint": "96a1af9794396b8aefcb73911148d519c71eb2caf6720cdbe95b14e6827d188b",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q060": {
+      "hash": "4430618a2defb943af1455dc631f38cc9a1d4d195a0eb93d229cc5d51e464daa",
+      "fingerprint": "4877482ebdd8d0259bff7a17a73ac6af77b1cbf4b065aff0ca2d3903da727ecd",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q061": {
+      "hash": "18d4e098a394f4114dc73e8c9249e6252008164c21b95389c16f735682ad115f",
+      "fingerprint": "a923413666a2c1d0362d8b0c7d35339e98911ed971f9deb23f23c6dc75d1f678",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q062": {
+      "hash": "80e6bb92f15ac2654b84664a819f19099dfa5e6c0ed3476d65d9cb95964d3db8",
+      "fingerprint": "6b3fdd25e44319081a4a70ef050a250590a52e0fbfbe4bf8c7efc44d7f2eeea4",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q063": {
+      "hash": "2c97e0c5df3dfc4b269abc896938a5acf7f2b4380ed4843722940eef60af0e99",
+      "fingerprint": "74f209b8c69025cd82a2c62e3b570c10c564feae61c8c58dfa61be3128bb3025",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q064": {
+      "hash": "6da71b369e544df395e53cbee8e8e0006046b693f8966251748f7efcd4d1dd37",
+      "fingerprint": "0177fc27bbcbfb878099e9781aed9ed3dffdbd12aa020fd93dec0d490621fb17",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q065": {
+      "hash": "2484b9145b258ef9a9dd4a31dba4e3c7883cda9ffb6ee503738ffaf2c9e48ba3",
+      "fingerprint": "d7bb0c894b2f13fc45aacbd542d1fa885b78a29de6427e2c9c600a37f58a3e76",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q070": {
+      "hash": "b05eb6f956e5a87b06b953f5fd21235ffb4a86fcdb1fd96518307c6aa8702669",
+      "fingerprint": "b63c3668f9cabfd58a69bee5a3c71f036842dc9abe4891fbac30f98587a14ef0",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q071": {
+      "hash": "6ebc2749db4dd971ca3f0080464f24e47aa4df49dd5599bdbf9264d256a0103e",
+      "fingerprint": "dfbb2d963f5d3d13f15c27f3d34f3790505564a357085f4d942a79a66abcd04b",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q073": {
+      "hash": "a4e8e3b657a8232d3ef2949b9472207e7d1e2762c6703b22b80915c5a57a9960",
+      "fingerprint": "ff68bacf94e53a58eddc7ae0c2eab90f0bfc4b82e01a244cc517508da11ce9fa",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q074": {
+      "hash": "bceac7315fe6501cd14facefabfa1259206dc856f77d0f30aac368d91336a7eb",
+      "fingerprint": "41c3ffc9aacb9897a1fcf6a23b1c0e315bbe19941faf66648cbf7003fef73031",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q075": {
+      "hash": "0a4f32c4f54a37b9bac35350dbfb90693689fda684fa1926e931193ebf6448c7",
+      "fingerprint": "18f5096757bffb5d71d85854e5512c3fc5e2ee8eee71551193ab9aebe1070bb1",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q077": {
+      "hash": "49bf946087e0749238152805abd4cf6b248d6cee4c6ebbf3b4418c4a1636b72e",
+      "fingerprint": "40d8bdb553e4bca1225da806b3da49854b3479c47440a16d2ea4020b33f0d615",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q078": {
+      "hash": "ea9fa02937204da0cb62efa07582716edc235fcbaf736ec72213861c1a7d2478",
+      "fingerprint": "cedb281e50f2fc7b58976185b9b2a69a4acff48c24e1fedb52e704bd3d5aa2f2",
+      "status": "validada",
+      "gabarito": "D"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q079": {
+      "hash": "281602f9e8c699a7c50e0d6108e256a65bfdfc03b02c6c91a712e1f457964394",
+      "fingerprint": "830e4bd5db2b246da78058325ea17dd22606aff7b28ac98407bd7c8177c2f734",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q080": {
+      "hash": "d4df218f74dad2abde063355b0774bdf9f7cd63bdeb9d967ff910a034b678c5a",
+      "fingerprint": "bb341fc66a9172b3d0a89d0222c1f31c1a78839446c215f5df050fad0aa02ddf",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q081": {
+      "hash": "ffbb5bd4008b9d9bbd2ab8d75db64b9f702152abca3327ef8bb213e90b3412a6",
+      "fingerprint": "cbf66457ea028ed49c132b4b3d90818c602a736bbb6827624afe3d5c07ac15ff",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q082": {
+      "hash": "563d07f96db7a58da95462d9a435ef274571f9c3214639894d6fd4078a17401e",
+      "fingerprint": "91240784a2c006196ad6ae14b2c00397a005ede5c70851a939516a90f4ea7ac3",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q083": {
+      "hash": "7dec5000006d1a507d904442474e7586fdde27a950587b59b34fc0bd03a93b32",
+      "fingerprint": "32e03487c8ad8fcedcbc91093ac7567f378abf270fb85488ef43cdeb0a11e772",
+      "status": "validada",
+      "gabarito": "B"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q084": {
+      "hash": "399da36961cb437e35ee1afa58a5f49d548b1c5ffc519bde059b37eefec6f5a4",
+      "fingerprint": "c49e58335321aa947886b35bb8a280f195a05868f9f9b8f65b7e378d612c701e",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q085": {
+      "hash": "27fc470152ee3046a945dfec1bcc96c0561232fa58d4ea5086afffe8d7889cc3",
+      "fingerprint": "785888d5cc2a77b12d0130ee126e8752ca2effe4424815344cdbfb2addd3ff7f",
+      "status": "validada",
+      "gabarito": "E"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q087": {
+      "hash": "ae89f4895b689f754ffd32fedd28db468f52b2f83041e6843da154bf35e81048",
+      "fingerprint": "03bc428693b0ef48ab2bd8f6a6fc9867510ce7e518feeae18765d1d34f8a3f21",
+      "status": "validada",
+      "gabarito": "C"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q088": {
+      "hash": "ecef16c0bac3eaf4f166a0fb24db63e06c8340193c6cf3aad200757c0cda6cc3",
+      "fingerprint": "fabfb79467d236f881227aa2fcf9245eb73569543a603a0948044b1e31b86286",
+      "status": "validada",
+      "gabarito": "A"
+    },
+    "fuvest-fuvest-2025-fase1-v4-q090": {
+      "hash": "ea46e9f96b8fc8302ab83a32d44803dbb45d34e002fbbf9b9733f60f962c8569",
+      "fingerprint": "e417c236cb2ee928679b3dd351edb3adc3a0f2c5f011f2d55255112ceaedde25",
+      "status": "validada",
+      "gabarito": "C"
+    }
+  }
+}

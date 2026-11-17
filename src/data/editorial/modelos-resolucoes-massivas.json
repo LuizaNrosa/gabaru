@@ -1,0 +1,1829 @@
+[
+  {
+    "id": "etec-2025-1-q019",
+    "source": "etec:2025-1",
+    "disciplina": "a-classificar",
+    "sourceRaw": {
+      "enunciado": "As plantas purificam o ar, pois por absorverem a luz graças à presença de clorofila, realizam o processo da  fotossíntese. Este processo transforma o dióxido de carbono e a água em glicose e oxigênio, o qual é liberado  para o ambiente. Dessa forma, elas renovam o ar necessário ao processo de respiração. Sobre os dois processos mencionados, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ambos atuam na transformação de dióxido de carbono e água em glicose e oxigênio."
+        },
+        {
+          "letra": "B",
+          "texto": "ambos dependem da presença de clorofila para absorver a energia luminosa."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas a fotossíntese ocorre tanto na presença como na ausência de luz."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas a respiração ocorre tanto na presença como na ausência de luz."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas a respiração transforma o dióxido de carbono em glicose."
+        }
+      ]
+    },
+    "conceito": "Fotossíntese utiliza energia luminosa para produzir matéria orgânica; respiração celular libera energia química e não depende diretamente de luz.",
+    "passos": [
+      "A clorofila absorve luz na fotossíntese, processo de formação de glicose a partir de dióxido de carbono e água.",
+      "As plantas também respiram: a respiração ocorre tanto de dia quanto à noite. A distinção pedida é a independência da respiração em relação à presença de luz."
+    ],
+    "alternativaCorreta": "D",
+    "distratores": {
+      "A": "A respiração consome matéria orgânica; não realiza a mesma transformação da fotossíntese.",
+      "B": "A respiração não exige clorofila nem absorção de luz.",
+      "C": "A etapa dependente de luz impede afirmar fotossíntese na ausência dela.",
+      "E": "Transformar dióxido de carbono em glicose caracteriza fotossíntese, não respiração."
+    }
+  },
+  {
+    "id": "enem-2025-d2-q146",
+    "source": "enem:enem-2025-d2",
+    "disciplina": "matematica",
+    "sourceRaw": {
+      "enunciado": "Uma citação presente no livro dos recordes destaca que o maior pneu do mundo é produzido para um tipo de caminhão\nutilizado em mineração. A largura de cada pneu desse tipo de caminhão mede 148 cm e seu diâmetro externo mede 403 cm.\nDisponível em: https://dinamicarpneus.com.br. Acesso em: 2 dez. 2018 (adaptado).\nUma loja de pneus pretende distribuir aos seus clientes uma miniatura desse tipo de caminhão, confeccionada com dimensões\nproporcionais às medidas reais. Após receber as miniaturas confeccionadas, foi verificado que a largura de cada pneu dessa\nminiatura mede 7,4 cm.\nO diâmetro externo de cada pneu dessa miniatura, em centímetro, mede",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,72."
+        },
+        {
+          "letra": "B",
+          "texto": "4,29."
+        },
+        {
+          "letra": "C",
+          "texto": "12,75."
+        },
+        {
+          "letra": "D",
+          "texto": "20,15."
+        },
+        {
+          "letra": "E",
+          "texto": "27,55."
+        }
+      ]
+    },
+    "conceito": "Uma miniatura semelhante preserva uma única razão entre todas as medidas lineares correspondentes.",
+    "passos": [
+      "A razão entre a largura da miniatura e a real é \\(7{,}4/148=1/20\\).",
+      "O diâmetro segue a mesma escala: \\(403/20=20{,}15\\) centímetros."
+    ],
+    "alternativaCorreta": "D",
+    "distratores": {
+      "A": "2,72 não conserva a razão de 1/20 entre os diâmetros.",
+      "B": "4,29 não resulta da aplicação da mesma escala usada na largura.",
+      "C": "12,75 corresponde a uma escala diferente da largura informada.",
+      "E": "27,55 produz uma razão diferente de 7,4/148."
+    }
+  },
+  {
+    "id": "enem-2025-d2-q142",
+    "source": "enem:enem-2025-d2",
+    "disciplina": "matematica",
+    "sourceRaw": {
+      "enunciado": "De acordo com pesquisas realizadas pela Inserção de\nImigrantes no Mercado de Trabalho Brasileiro (IIMTB), o número\nde estrangeiros trabalhando com carteira assinada no Brasil\ncresceu entre os anos de 2011 e 2012, passando de 80 000 para\n96 000, e também cresceu entre os anos de 2012 e 2013, quando\npassou de 96 000 para 120 000.\nDisponível em: www.redebrasilatual.com.br.\nAcesso em: 10 abr. 2015 (adaptado).\nÀ época, os pesquisadores da IIMTB estimaram que\no aumento percentual desse número, tanto de 2013 para\n2014 quanto de 2014 para 2015, seria igual à média dos\npercentuais anuais de aumento observados nos períodos de\n2011 a 2012 e de 2012 a 2013. Considere que essa estimativa\ntenha se concretizado.\nA quantidade de estrangeiros trabalhando com carteira assinada\nno Brasil em 2015 foi de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "147 000."
+        },
+        {
+          "letra": "B",
+          "texto": "174 000."
+        },
+        {
+          "letra": "C",
+          "texto": "180 000."
+        },
+        {
+          "letra": "D",
+          "texto": "180 075."
+        },
+        {
+          "letra": "E",
+          "texto": "228 000."
+        }
+      ]
+    },
+    "conceito": "Uma taxa percentual usa o valor inicial do respectivo intervalo; crescimento composto reaplica o fator a cada ano.",
+    "passos": [
+      "De 80.000 para 96.000 houve aumento de 20%; de 96.000 para 120.000, aumento de 25%. A média das taxas é 22,5%.",
+      "Aplicando a estimativa por dois anos: \\(120000\\times1{,}225^2=180075\\)."
+    ],
+    "alternativaCorreta": "D",
+    "distratores": {
+      "A": "147.000 é o resultado de aplicar 22,5% apenas uma vez.",
+      "B": "174.000 resulta de somar dois aumentos de 22,5% sobre a mesma base, sem composição.",
+      "C": "180.000 usa o acréscimo absoluto de 30.000 por ano em vez da taxa média composta.",
+      "E": "228.000 supera o resultado da aplicação de 22,5% em ambos os intervalos."
+    }
+  },
+  {
+    "id": "enem-2025-d2-q141",
+    "source": "enem:enem-2025-d2",
+    "disciplina": "matematica",
+    "sourceRaw": {
+      "enunciado": "A prefeitura de um município, dependendo do consumo\nmensal C de água, em litro, concederá ao consumidor um dos\ncinco tipos de desconto:\n• tipo I, se 29 000 ≤ C ≤ 30 000;\n• tipo II, se 27 500 ≤ C < 29 000;\n• tipo III, se 26 000 ≤ C < 27 500;\n• tipo IV, se 24 000 ≤ C < 26 000;\n• tipo V, se C < 24 000.\nO desconto será aplicado no valor da conta a ser paga,\ne não será concedido desconto para contas com consumo\nsuperior a 30 000 L.\nUm consumidor, no primeiro mês, não obteve desconto.\nSe consumisse 40% a menos de água, alcançaria o consumo\nmáximo estabelecido para conseguir o desconto do tipo I.\nNo segundo mês, seu consumo de água reduziu 20% em relação\nao consumo do primeiro mês; e no terceiro mês, seu consumo\nde água reduziu 30% em relação ao consumo do segundo mês.\nAssim, no terceiro mês, esse consumidor receberá desconto\ndo tipo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "II."
+        },
+        {
+          "letra": "C",
+          "texto": "III."
+        },
+        {
+          "letra": "D",
+          "texto": "IV."
+        },
+        {
+          "letra": "E",
+          "texto": "V."
+        }
+      ]
+    },
+    "conceito": "Reduções percentuais sucessivas multiplicam o valor anterior por fatores distintos, em vez de somar percentuais.",
+    "passos": [
+      "Se 60% do primeiro consumo equivale a 30.000 litros, o consumo inicial era \\(30000/0{,}6=50000\\) litros.",
+      "Após as reduções, \\(50000\\times0{,}8\\times0{,}7=28000\\) litros. Esse valor pertence ao intervalo do tipo II."
+    ],
+    "alternativaCorreta": "B",
+    "distratores": {
+      "A": "Tipo I exige pelo menos 29.000 litros, acima dos 28.000 calculados.",
+      "C": "Tipo III termina antes de 27.500 litros, abaixo do consumo calculado.",
+      "D": "Tipo IV exige consumo inferior a 26.000 litros.",
+      "E": "Tipo V exige menos de 24.000 litros; somar reduções percentuais leva a um resultado incorreto."
+    }
+  },
+  {
+    "id": "enem-2025-d2-q140",
+    "source": "enem:enem-2025-d2",
+    "disciplina": "matematica",
+    "sourceRaw": {
+      "enunciado": "Um jogador de videogame tem quatro personagens com\ndiferentes habilidades para avançar no jogo. Para uma missão,\né apresentado um quadro que descreve os níveis de cada\npersonagem em suas diferentes habilidades, no qual 10 é o\nmaior nível de qualquer habilidade. O jogador sabe que, para\navançar nessa missão, deve escolher um personagem cuja\nmédia entre os níveis de suas diferentes habilidades seja igual\nou superior a 6.\nHabilidades\nPersonagem\nForça Agilidade Poder Magia sabedoria\nI\n10\n8\n7\n3\n4\nII\n3\n6\n10\n6\n4\nIII\n5\n5\n5\n6\n9\nIV\n7\n7\n7\n7\n1\nDe acordo com as informações apresentadas, os possíveis\npersonagens para avançar nessa missão são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II, III e IV."
+        }
+      ]
+    },
+    "conceito": "A média aritmética é a soma dos níveis dividida pela quantidade de habilidades.",
+    "passos": [
+      "Há cinco habilidades. Para média de pelo menos 6, a soma deve alcançar 30.",
+      "As somas são I: 32, II: 29, III: 30 e IV: 29. Apenas I e III atendem ao limite, incluindo a igualdade."
+    ],
+    "alternativaCorreta": "B",
+    "distratores": {
+      "A": "Inclui II, cuja média é 5,8, e exclui III, cuja média é 6.",
+      "C": "IV tem média 5,8; III é elegível e foi omitido.",
+      "D": "Inclui II e IV abaixo do limite e omite III.",
+      "E": "II e IV somam 29, portanto não alcançam a média mínima."
+    }
+  },
+  {
+    "id": "enem-2025-d2-q136",
+    "source": "enem:enem-2025-d2",
+    "disciplina": "matematica",
+    "sourceRaw": {
+      "enunciado": "A imagem apresenta uma tirinha com os personagens Caco e Tuca. Na tirinha, o macaco Caco e o tucano Tuca estão utilizando\num mapa para procurar um tesouro.\nDisponível em: www.humorcomciencia.com. Acesso em: 22 out. 2019.\nCansado de escavar à procura do tesouro, Tuca percebeu que, mesmo que o mapa levasse a algum tesouro, eles encontrariam\nproblemas nessa busca, pois a unidade de medida indicada no mapa é o passo, uma unidade não convencional, logo, não presente\nno Sistema Internacional de Unidades (SI), que é um conjunto padronizado de definições para unidades de medida utilizado em\nquase todo o mundo.\nCom relação à grandeza expressa em passo na tirinha, no SI, sua unidade padrão é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metro."
+        },
+        {
+          "letra": "B",
+          "texto": "grama."
+        },
+        {
+          "letra": "C",
+          "texto": "segundo."
+        },
+        {
+          "letra": "D",
+          "texto": "metro cúbico."
+        },
+        {
+          "letra": "E",
+          "texto": "metro por segundo."
+        }
+      ]
+    },
+    "conceito": "O Sistema Internacional utiliza o metro como unidade básica de comprimento.",
+    "passos": [
+      "O passo mede uma distância percorrida; sua extensão depende da pessoa e por isso não padroniza o comprimento.",
+      "Para expressar a mesma grandeza no SI, utiliza-se o metro, independentemente do instrumento ou do mapa."
+    ],
+    "alternativaCorreta": "A",
+    "distratores": {
+      "B": "O grama mede massa, não distância; a unidade básica de massa do SI é o quilograma.",
+      "C": "O segundo mede intervalo de tempo, não comprimento.",
+      "D": "O metro cúbico mede volume, envolvendo três dimensões de comprimento.",
+      "E": "Metro por segundo mede velocidade, razão entre distância e tempo."
+    }
+  },
+  {
+    "ref": 1,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "portugues",
+    "sourceRaw": {
+      "enunciado": "Texto 1 “Afinal, depois de ver todas as coisas daquele museu, acabei me perguntando se os brancos já não teriam começado a adquirir também tantas de nossas coisas só porque nós, Yanomami, já estamos começando também a desaparecer. Por que ficam nos pedindo nossos cestos, nossos arcos e nossos adornos de penas, enquanto garimpeiros e fazendeiros invadem nossa terra?” KOPENAWA, Davi; ALBERT, Bruce. Queda do céu: palavras de um xamã yanomami. São Paulo: Companhia das Letras, 2015. p.429. Texto 2 “Em seu trabalho, Glicéria debruça-se sobre a artesania do manto tupinambá, símbolo das tradições ancestrais de seu povo. A artista chama de cosmo-técnica a feitura do manto, e hoje busca compreender qual era sua função cultural e social em sua comunidade. Recentemente, a artista esteve na Europa e encontrou mantos datados do século XVII, que foram levados do Brasil ao longo da colonização, na Dinamarca. Segundo Glicéria, ‘hoje, as pessoas entendem o manto como arte, arte contemporânea, mas eu vejo muito além. É um ancestral nosso’.” Instituto Pipa. Ocupação dos artistas premiados do Pipa 2023: Glicéria Tupinambá. Disponível em: https://www.premiopipa.com/2023/10/ (Adaptado). A reflexão de Davi Kopenawa sobre a apropriação de objetos indígenas por museus e a pesquisa de Glicéria Tupinambá sobre o manto tupinambá em contextos europeus permitem explorar diversas dimensões da arte indígena. Glicéria Tupinambá, Assojaba Tupinambá, 2021. Disponível em: https://dasartes.com.br/de-arte-a-z/. Com base nos textos e na imagem, assinale a alternativa que relaciona corretamente as reflexões apresentadas à importância da arte e dos artefatos culturais na discussão sobre questões indígenas no Brasil.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A arte indígena, ao ser exposta em museus europeus, perde seu significado original e se transforma apenas em objeto de decoração, desvinculando-se completamente de suas raízes culturais e simbólicas, de acordo com David Kopenawa."
+        },
+        {
+          "letra": "B",
+          "texto": "Glicéria Tupinambá, ao retomar elementos tradicionais em suas obras, busca uma representação autêntica que resiste à domesticação cultural imposta pelos colonizadores, valorizando o aspecto utilitário desses objetos."
+        },
+        {
+          "letra": "C",
+          "texto": "O trabalho de Glicéria Tupinambá, ao redescobrir os mantos tupinambá na Europa, revela como a arte indígena pode servir como uma ponte para o entendimento e a valorização das culturas indígenas por sociedades que historicamente as marginalizaram."
+        },
+        {
+          "letra": "D",
+          "texto": "Para David Kopenawa, a guarda de artefatos indígenas em museus da Europa é uma forma eficaz de preservação e valorização da cultura indígena, pois demonstra reconhecimento da sua importância e esforço, por parte da sociedade, para proteger os direitos territoriais desses povos."
+        },
+        {
+          "letra": "E",
+          "texto": "A arte, como mostrado por Glicéria Tupinambá, atua como um meio de resistência cultural, em que elementos tradicionais são recontextualizados para contestar narrativas coloniais e reafirmar identidades indígenas em face de processos de desapropriação e desaparecimento. #####"
+        }
+      ],
+      "page": 2,
+      "endPage": 3,
+      "context": ""
+    },
+    "conceito": "A arte indígena articula ancestralidade, identidade e resistência à expropriação colonial.",
+    "passos": [
+      "Kopenawa contrapõe o interesse dos museus pelos objetos à invasão das terras e ao risco de desaparecimento dos povos que os produzem. A denúncia impede ler a coleção como preservação suficiente.",
+      "Glicéria identifica no manto um ancestral e recupera sua função cultural. A articulação dos dois textos privilegia resistência e reafirmação identitária, e não apenas circulação de objetos."
+    ],
+    "alternativaCorreta": "E",
+    "distratores": {
+      "A": "A expressão “apenas decoração” apaga o vínculo ancestral que Glicéria afirma explicitamente.",
+      "B": "Reduzir o manto à utilidade não corresponde à referência a um ancestral e à função cultural e social.",
+      "C": "A ponte entre culturas é uma possibilidade, mas não expressa a denúncia de desapropriação e a resistência que unem os dois excertos.",
+      "D": "Kopenawa questiona a coleta enquanto suas terras são invadidas; não a apresenta como garantia de direitos territoriais."
+    }
+  },
+  {
+    "ref": 4,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "historia",
+    "sourceRaw": {
+      "enunciado": "“E assim como o branco e os mamelucos se aproveitaram não raro das veredas dos índios, há motivo para pensar que estes, por sua vez, foram, em muitos casos, simples sucessores dos animais selvagens, do tapir especialmente, cujos carreiros ao longo dos rios e riachos, ou em direção a nascentes de águas, se adaptavam perfeitamente às necessidades e hábitos daquelas populações.” HOLANDA, Sergio Buarque de. Caminhos e fronteiras. Rio de Janeiro: José Olympio, 1975. p.35. De acordo com o excerto, a ocupação territorial da América portuguesa pelos colonizadores foi inicialmente marcada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pela construção de caminhos que os afastassem dos cursos dos rios."
+        },
+        {
+          "letra": "B",
+          "texto": "pela desconsideração das rotas de deslocamento abertas pelos animais."
+        },
+        {
+          "letra": "C",
+          "texto": "pela utilização de picadas abertas pelas comunidades indígenas."
+        },
+        {
+          "letra": "D",
+          "texto": "pelo emprego de tropas de muares, responsáveis por abrir trilhas nas matas."
+        },
+        {
+          "letra": "E",
+          "texto": "pela exploração do transporte fluvial e marítimo por meio de pirogas. #####"
+        }
+      ],
+      "page": 3,
+      "endPage": 4,
+      "context": ""
+    },
+    "conceito": "A interiorização colonial aproveitou conhecimentos e caminhos indígenas já existentes.",
+    "passos": [
+      "O trecho afirma que brancos e mamelucos se aproveitaram das veredas indígenas. Isso indica apropriação de uma infraestrutura de circulação preexistente.",
+      "A referência aos carreiros do tapir explica uma origem ainda anterior de parte dessas rotas; não elimina o papel das comunidades que as utilizavam."
+    ],
+    "alternativaCorreta": "C",
+    "distratores": {
+      "A": "Os caminhos seguiam rios e nascentes, em vez de buscar afastamento da água.",
+      "B": "Os carreiros dos animais são reconhecidos expressamente como antecedentes das veredas.",
+      "D": "O excerto não atribui a abertura inicial das trilhas a tropas de muares.",
+      "E": "O argumento trata de caminhos terrestres; pirogas e transporte marítimo não explicam as veredas citadas."
+    }
+  },
+  {
+    "ref": 6,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "filosofia",
+    "sourceRaw": {
+      "enunciado": "Leia o texto e analise a charge a seguir. “Se, compreendendo um outro ser humano, penetro profundamente no horizonte do que lhe é próprio, então logo me depararei com o fato de que, assim como o seu corpo se encontra no meu campo de percepção, também o meu corpo se encontra no dele, e que, em geral, ele me experiencia sem mais como um outro para ele, tal como eu o experiencio como outro para mim.” HUSSERL, E. Meditações cartesianas. Rio de Janeiro: Forense Universitária, 2013. Bira Dantas. Disponível em https://facebook.com/. O filósofo Edmund Husserl propõe uma reflexão sobre como cada pessoa estabelece relações com as outras. Ocorre uma equiparação dos pontos de vista, de modo que cada uma aparecerá às demais não como uma consciência incomparável, mas justamente como uma outra pessoa. Essa ideia ajuda a entender a perspectiva crítica contida na charge: certas condições ou características que percebemos como depreciativas em outras pessoas também podem ser percebidas da mesma maneira pelos outros em nós. Qual situação reproduz essa estrutura de equiparação exibida na charge?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Torcedores de diversos times de futebol se reúnem desanimados para assistir a um jogo da seleção."
+        },
+        {
+          "letra": "B",
+          "texto": "Religiosos conservadores sugerem banir livros eróticos doados por desconhecidos para a sua comunidade."
+        },
+        {
+          "letra": "C",
+          "texto": "Com medo da violência, um homem passa a andar armado na rua e assusta os transeuntes."
+        },
+        {
+          "letra": "D",
+          "texto": "Um homem acusa uma mulher de racismo e algumas testemunhas confirmam a versão dele para a polícia."
+        },
+        {
+          "letra": "E",
+          "texto": "Um trabalhador denuncia ao chefe um colega por assédio moral, mas esse último não é punido. #####"
+        }
+      ],
+      "page": 4,
+      "endPage": 5,
+      "context": ""
+    },
+    "conceito": "A intersubjetividade envolve reconhecer que também somos objetos da percepção e do julgamento alheios.",
+    "passos": [
+      "O homem armado pretende proteger-se de uma violência percebida nos outros.",
+      "Ao assustar os transeuntes, torna-se para eles a ameaça de que procurava se defender: há reciprocidade entre a posição de observador e a de observado."
+    ],
+    "alternativaCorreta": "C",
+    "distratores": {
+      "A": "O desânimo compartilhado não inverte a posição de ameaça e de ameaçado.",
+      "B": "A censura religiosa envolve um juízo, mas não explicita que os censores produzam o mesmo atributo que condenam.",
+      "D": "A confirmação por testemunhas mantém a acusação na mesma direção, sem reciprocidade do atributo.",
+      "E": "A ausência de punição descreve impunidade; não faz o denunciante ocupar a posição que atribui ao colega."
+    }
+  },
+  {
+    "ref": 8,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "historia",
+    "sourceRaw": {
+      "enunciado": "“Eu não venero a criação mais do que o Criador, mas venero a criatura criada como eu sou, adotando a criação de maneira livre e espontânea, de modo que Ele possa elevar nossa natureza e nos tornar partícipes de Sua natureza divina. Sendo assim, eu me atrevo a fazer uma imagem do Deus invisível não como invisível, mas como tendo se tornado visível por nossa causa, tornando-se carne e sangue. Eu não faço uma imagem da divindade imortal. Eu pinto a carne visível de Deus, pois é impossível representar o espírito e ainda mais Deus, que dá vida ao espírito.” John Damascene. On holy images. Disponível em https://www.gutenberg.org/files/49917/ (Adaptado). Nessa citação, João Damasceno (675-749), monge e teólogo cristão do período medieval, dirige-se contra o movimento iconoclasta ao",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "colocar a criatura no mesmo nível do Criador."
+        },
+        {
+          "letra": "B",
+          "texto": "reduzir a divindade a seus elementos materiais."
+        },
+        {
+          "letra": "C",
+          "texto": "identificar a imagem visível com a natureza divina."
+        },
+        {
+          "letra": "D",
+          "texto": "negar o dogma da divindade de Jesus Cristo."
+        },
+        {
+          "letra": "E",
+          "texto": "justificar a veneração de imagens sagradas. #####"
+        }
+      ],
+      "page": 5,
+      "endPage": 5,
+      "context": "Leia o texto e analise a charge a seguir. “Se, compreendendo um outro ser humano, penetro profundamente no horizonte do que lhe é próprio, então logo me depararei com o fato de que, assim como o seu corpo se encontra no meu campo de percepção, também o meu corpo se encontra no dele, e que, em geral, ele me experiencia sem mais como um outro para ele, tal como eu o experiencio como outro para mim.” HUSSERL, E. Meditações cartesianas. Rio de Janeiro: Forense Universitária,"
+    },
+    "conceito": "A defesa medieval das imagens distingue a veneração da representação e a adoração da divindade.",
+    "passos": [
+      "João Damasceno afirma que Deus se tornou visível na carne: a encarnação oferece fundamento à representação.",
+      "O autor reconhece a impossibilidade de pintar o espírito divino, mas legitima a imagem da carne visível. Assim responde à destruição iconoclasta."
+    ],
+    "alternativaCorreta": "E",
+    "distratores": {
+      "A": "O autor declara não venerar a criação mais do que o Criador; não os equipara.",
+      "B": "A distinção entre espírito e carne impede reduzir toda a divindade à matéria.",
+      "C": "A imagem representa a manifestação visível, não a natureza divina invisível.",
+      "D": "A encarnação é usada como fundamento, não negada."
+    }
+  },
+  {
+    "ref": 9,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "portugues",
+    "sourceRaw": {
+      "enunciado": "“A mídia digital é uma mídia da presença. A sua temporalidade é o presente imediato. A comunicação digital se caracteriza pelo fato de que informações são produzidas, enviadas e recebidas sem mediação por meio de intermediários. Mediação e representação são interpretadas como não transparência e ineficiência, como congestionamento de tempo e de informação. Uma mídia eletrônica de massa clássica como o rádio só permite uma comunicação unilateral. O destinatário da mensagem é condenado à passividade. Hoje não somos mais destinatários e consumidores passivos de informação, mas sim remetentes e produtores ativos. Não nos contentamos mais em consumir informações passivamente, mas sim queremos produzi-las e comunicá-las ativamente nós mesmos. Somos simultaneamente consumidores e produtores.” HAN, Byung-Chul. No enxame: Perspectivas do digital. São Paulo: Editora Vozes, 2018. p.35-36 (Adaptado). Segundo o texto, a mídia digital distingue-se da mídia de massa tradicional por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reforçar a separação entre consumidor e produtor, resultante da ampliação da comunicação unilateral na internet."
+        },
+        {
+          "letra": "B",
+          "texto": "apostar na passividade do público, que precisa de um mediador para poder comunicar informações ativamente."
+        },
+        {
+          "letra": "C",
+          "texto": "gerar excesso de informação, que consolida estrutura capaz de condenar todos os consumidores à passividade."
+        },
+        {
+          "letra": "D",
+          "texto": "provocar presentificação, decorrente da dissolução dos intermediários e da combinação dos papéis de consumidor e produtor."
+        },
+        {
+          "letra": "E",
+          "texto": "dissolver a distinção entre produtor e consumidor, causadora de congestionamento de tempo e de informação. ##### TEXTO PARA AS QUESTÕES 10 E 11 “O que torna possível o surgimento de uma ‘cultura do cancelamento’ é um cenário em que os detentores de poder econômico e/ou político vislumbram a utilização de valores morais como valores de mercado, seja no campo da publicidade, seja no campo da responsabilidade social da empresa. O conjunto de valores defendidos pelos movimentos sociais que lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento. Sendo assim, a sanção específica realizada pelos agentes do ‘cancelamento’ procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, mas sim impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito ‘cancelado’. Nesse contexto, a ‘cultura do cancelamento’ representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, como inadequação de valores morais ostentados, por atos e/ou palavras, em determinados ambientes sociais.” MARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. Extraprensa, v.15, n. esp., p.39, mai.2022 (Adaptado)."
+        }
+      ],
+      "page": 5,
+      "endPage": 6,
+      "context": "Leia o texto e analise a charge a seguir. “Se, compreendendo um outro ser humano, penetro profundamente no horizonte do que lhe é próprio, então logo me depararei com o fato de que, assim como o seu corpo se encontra no meu campo de percepção, também o meu corpo se encontra no dele, e que, em geral, ele me experiencia sem mais como um outro para ele, tal como eu o experiencio como outro para mim.” HUSSERL, E. Meditações cartesianas. Rio de Janeiro: Forense Universitária,"
+    },
+    "conceito": "Na comunicação digital, a simultaneidade e a participação ativa alteram a separação entre emissores e receptores.",
+    "passos": [
+      "O rádio é descrito como unilateral, enquanto usuários digitais enviam e produzem informações.",
+      "A presença imediata e a redução de intermediários combinam consumo e produção: são esses os dois eixos que a alternativa deve reunir."
+    ],
+    "alternativaCorreta": "D",
+    "distratores": {
+      "A": "A separação rígida e a unilateralidade são características atribuídas à mídia tradicional.",
+      "B": "A participação direta dispensa o intermediário obrigatório descrito na alternativa.",
+      "C": "O texto enfatiza atividade dos usuários, e não passividade universal.",
+      "E": "O congestionamento é associado à mediação criticada, não apresentado como consequência necessária de combinar os papéis."
+    }
+  },
+  {
+    "ref": 10,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "portugues",
+    "sourceRaw": {
+      "enunciado": "Segundo o texto, a cultura do “cancelamento”",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "busca punir transgressões a valores morais caros aos canceladores com danos à vida econômica do cancelado."
+        },
+        {
+          "letra": "B",
+          "texto": "aplica os instrumentos coercitivos do direito penal ao contexto da internet para impedir o crescimento profissional do cancelado."
+        },
+        {
+          "letra": "C",
+          "texto": "é uma resposta natural à emergência de movimentos sociais que lutam por respeito à diversidade e por mais poder econômico."
+        },
+        {
+          "letra": "D",
+          "texto": "elimina profissionais do mercado com o objetivo de desmoralizar as empresas contratantes, causando-lhes prejuízos."
+        },
+        {
+          "letra": "E",
+          "texto": "visa a aumentar a competição entre as empresas, que se valem do cancelamento para eliminar valores morais que consideram irresponsáveis. #####"
+        }
+      ],
+      "page": 6,
+      "endPage": 6,
+      "context": "TEXTO PARA AS QUESTÕES 10 E 11 “O que torna possível o surgimento de uma ‘cultura do cancelamento’ é um cenário em que os detentores de poder econômico e/ou político vislumbram a utilização de valores morais como valores de mercado, seja no campo da publicidade, seja no campo da responsabilidade social da empresa. O conjunto de valores defendidos pelos movimentos sociais que lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento. Sendo assim, a sanção específica realizada pelos agentes do ‘cancelamento’ procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, mas sim impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito ‘cancelado’. Nesse contexto, a ‘cultura do cancelamento’ representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, como inadequação de valores morais ostentados, por atos e/ou palavras, em determinados ambientes sociais.” MARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. Extraprensa, v.15, n. esp., p.39, mai.2022 (Adaptado)."
+    },
+    "conceito": "A interpretação deve distinguir sanção econômica informal de punição jurídica estatal.",
+    "passos": [
+      "As autoras descrevem valores morais convertidos em atributos competitivos no mercado.",
+      "A reação procura impedir ou prejudicar a trajetória econômica e profissional do cancelado, em vez de aplicar prisão ou indenização civil."
+    ],
+    "alternativaCorreta": "A",
+    "distratores": {
+      "B": "O texto distingue a sanção do cancelamento do instrumento coercitivo do direito penal.",
+      "C": "A palavra “natural” e a busca por mais poder econômico dos movimentos não são teses apresentadas.",
+      "D": "O alvo da sanção é a trajetória do sujeito cancelado; desmoralizar contratantes não é o objetivo definido.",
+      "E": "O argumento trata da exclusão por inadequação a valores, não de eliminar os valores para aumentar competição."
+    }
+  },
+  {
+    "ref": 11,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "portugues",
+    "sourceRaw": {
+      "enunciado": "Em relação aos conectivos sublinhados no texto, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "seja...seja evidencia a dúvida das autoras quanto aos campos afetados pelo cancelamento."
+        },
+        {
+          "letra": "B",
+          "texto": "que é utilizado para intensificar o valor dos movimentos sociais na luta pela diversidade."
+        },
+        {
+          "letra": "C",
+          "texto": "sendo assim indica adesão autoral diante das formas de sanção aplicadas pelos agentes do cancelamento."
+        },
+        {
+          "letra": "D",
+          "texto": "mas sim ressalta a diferença entre como se pune na cultura do cancelamento e no direito penal."
+        },
+        {
+          "letra": "E",
+          "texto": "como introduz uma comparação entre distintas ações passíveis de gerar cancelamento. #####"
+        }
+      ],
+      "page": 6,
+      "endPage": 6,
+      "context": "TEXTO PARA AS QUESTÕES 10 E 11 “O que torna possível o surgimento de uma ‘cultura do cancelamento’ é um cenário em que os detentores de poder econômico e/ou político vislumbram a utilização de valores morais como valores de mercado, seja no campo da publicidade, seja no campo da responsabilidade social da empresa. O conjunto de valores defendidos pelos movimentos sociais que lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento. Sendo assim, a sanção específica realizada pelos agentes do ‘cancelamento’ procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, mas sim impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito ‘cancelado’. Nesse contexto, a ‘cultura do cancelamento’ representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, como inadequação de valores morais ostentados, por atos e/ou palavras, em determinados ambientes sociais.” MARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. Extraprensa, v.15, n. esp., p.39, mai.2022 (Adaptado)."
+    },
+    "conceito": "Conectivos organizam relações de alternância, conclusão, exemplificação e oposição entre partes do argumento.",
+    "passos": [
+      "O trecho opõe “não a liberdade do sujeito” a “mas sim impedir, restringir ou infligir danos” à trajetória econômica.",
+      "A expressão “mas sim” corrige a hipótese de punição penal e destaca o tipo econômico de sanção do cancelamento."
+    ],
+    "alternativaCorreta": "D",
+    "distratores": {
+      "A": "“Seja...seja” enumera campos possíveis; não traduz dúvida das autoras.",
+      "B": "O relativo “que” introduz caracterização dos movimentos, sem funcionar como intensificador.",
+      "C": "“Sendo assim” marca uma conclusão argumentativa, não aprovação moral da sanção.",
+      "E": "“Como inadequação” exemplifica um fator competitivo; não estabelece comparação entre ações."
+    }
+  },
+  {
+    "ref": 12,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "portugues",
+    "sourceRaw": {
+      "enunciado": "Texto 1 “Em Big Tech: a ascensão dos dados e a morte da política, Morozov estabelece ‘um paralelo com os setores extrativistas de recursos naturais, como o petróleo’, colocando ‘no centro da discussão o modo de produção dessa economia, que ele chama de ‘extrativismo de dados’. Apesar de a frase ‘os dados são o novo petróleo’ ser um chavão fraco em termos conceituais, Morozov acha o modismo útil para debatermos a matriz extrativista desse modo de produção, em especial a forma como as grandes empresas de tecnologia ‘continuam escavando a nossa psique tal como as empresas de petróleo escavam o solo’.” ZANATTA, Rafael. “Extrativismo Digital”. Quatro Cinco Um, 01/04/2019. Disponível em: https://quatrocincoum.com.br/resenhas/ (Adaptado). Texto 2 “Colonialismo de dados é um modo de configurar o mundo inteiro, de tal forma que um recurso novo possa ser extraído – e esse recurso é a vida humana a partir da qual se pode extrair um valor econômico. Sustentamos que os modos nos quais este novo colonialismo opera, as escalas nas quais opera diferem do colonialismo histórico que tão bem entendemos. Mas a função, a finalidade subjacente, o núcleo deste novo colonialismo é exatamente o mesmo do colonialismo histórico. É o de despossuir, apropriar-se dos recursos do mundo para o bem de uns poucos, de uma parte do mundo.” COULDRY, Nick. Colonialismo de Dados e Esvaziamento da Vida Social Antes e Pós Pandemia de Covid-19. In: Homo Digitalis. A Escalada da Algoritmização da Vida em Tempos de Pandemia. Anais do XIX Simpósio Internacional Instituto Humanitas Unisinos (Adaptado). Considerando os excertos apresentados, é correto afirmar que extrativismo de dados e colonialismo de dados são conceitos desenvolvidos por Morozov e Couldry para nomear e descrever fenômenos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "baseados em mecanismos inéditos de acumulação de dados na história, de amplo alcance, complementares e centrais para diferenciar a atual fase do modo de produção capitalista."
+        },
+        {
+          "letra": "B",
+          "texto": "essencialmente diferentes, pois, enquanto o extrativismo trata de uma relação das empresas de tecnologia com a psique, o colonialismo trata de uma relação dessas empresas com a vida humana."
+        },
+        {
+          "letra": "C",
+          "texto": "cuja lógica de apropriação é diferente daquela verificada em relação ao petróleo, o que explica os limites da comparação entre os dados produzidos por usuários da internet e o petróleo."
+        },
+        {
+          "letra": "D",
+          "texto": "correspondentes a duas formas análogas de apreender transformações do capitalismo contemporâneo, referindo-se a práticas que surgiram no passado, colonização e extrativismo, e com os quais compartilham finalidades."
+        },
+        {
+          "letra": "E",
+          "texto": "que abrem possibilidades para que alguns países desprovidos de recursos naturais valiosos se apropriem de dados produzidos por usuários, sem autorização prévia destes, para extrair lucros. #####"
+        }
+      ],
+      "page": 6,
+      "endPage": 7,
+      "context": "TEXTO PARA AS QUESTÕES 10 E 11 “O que torna possível o surgimento de uma ‘cultura do cancelamento’ é um cenário em que os detentores de poder econômico e/ou político vislumbram a utilização de valores morais como valores de mercado, seja no campo da publicidade, seja no campo da responsabilidade social da empresa. O conjunto de valores defendidos pelos movimentos sociais que lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento. Sendo assim, a sanção específica realizada pelos agentes do ‘cancelamento’ procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, mas sim impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito ‘cancelado’. Nesse contexto, a ‘cultura do cancelamento’ representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, como inadequação de valores morais ostentados, por atos e/ou palavras, em determinados ambientes sociais.” MARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. Extraprensa, v.15, n. esp., p.39, mai.2022 (Adaptado)."
+    },
+    "conceito": "Analogias conceituais comparam mecanismos de apropriação, preservando diferenças históricas e técnicas.",
+    "passos": [
+      "Morozov aproxima a extração de dados da exploração de petróleo; Couldry compara sua finalidade à despossessão colonial.",
+      "Ambos relacionam práticas contemporâneas de acumulação a formas históricas de apropriação em benefício de poucos, sem afirmar identidade técnica entre épocas."
+    ],
+    "alternativaCorreta": "D",
+    "distratores": {
+      "A": "Os autores recorrem a práticas históricas; a alternativa transforma essa continuidade em ineditismo irrestrito.",
+      "B": "Psique e vida humana não tornam as análises incompatíveis; ambas discutem apropriação de valor.",
+      "C": "Morozov usa justamente uma analogia de extração; não afirma lógicas de apropriação opostas.",
+      "E": "A possibilidade de países sem recursos naturais lucrar não define os conceitos nos excertos."
+    }
+  },
+  {
+    "ref": 13,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "historia",
+    "sourceRaw": {
+      "enunciado": "As formas de colonização ibérica e inglesa na América foram, durante muito tempo, consideradas processos isolados, estruturados em dois modelos opostos: as colônias de exploração e as de povoamento, respectivamente. No entanto, elas constituíram um emaranhado de experiências compartilhadas pelos impérios atlânticos. Os aspectos comuns a essas formas de colonização foram a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "partida dos colonizadores da metrópole, da qual saíram por fatores religiosos, e a adoção do trabalho livre como base da produção."
+        },
+        {
+          "letra": "B",
+          "texto": "dominação e a exploração dos povos originários e o emprego sistemático do trabalho forçado dessas populações."
+        },
+        {
+          "letra": "C",
+          "texto": "introdução de colonos sem interesse na ocupação demográfica e o objetivo exclusivo da extração de riquezas minerais."
+        },
+        {
+          "letra": "D",
+          "texto": "produção local organizada em pequenas propriedades e a utilização primordial da força de trabalho familiar."
+        },
+        {
+          "letra": "E",
+          "texto": "falta de interesse metropolitano pela exploração comercial e a inexistência de benefícios financeiros para a metrópole. #####"
+        }
+      ],
+      "page": 7,
+      "endPage": 7,
+      "context": "TEXTO PARA AS QUESTÕES 10 E 11 “O que torna possível o surgimento de uma ‘cultura do cancelamento’ é um cenário em que os detentores de poder econômico e/ou político vislumbram a utilização de valores morais como valores de mercado, seja no campo da publicidade, seja no campo da responsabilidade social da empresa. O conjunto de valores defendidos pelos movimentos sociais que lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento. Sendo assim, a sanção específica realizada pelos agentes do ‘cancelamento’ procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, mas sim impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito ‘cancelado’. Nesse contexto, a ‘cultura do cancelamento’ representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, como inadequação de valores morais ostentados, por atos e/ou palavras, em determinados ambientes sociais.” MARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. Extraprensa, v.15, n. esp., p.39, mai.2022 (Adaptado)."
+    },
+    "conceito": "A diversidade colonial atlântica não excluiu práticas comuns de conquista e coerção sobre povos originários.",
+    "passos": [
+      "A pergunta solicita aspectos compartilhados pelos impérios, e não características exclusivas de uma região.",
+      "Dominação indígena e exploração coercitiva aparecem em diferentes experiências coloniais; a oposição rígida entre povoamento e exploração não dá conta dessa história."
+    ],
+    "alternativaCorreta": "B",
+    "distratores": {
+      "A": "A motivação religiosa e o trabalho livre não caracterizam de modo geral toda colonização ibérica e inglesa.",
+      "C": "Houve ocupação demográfica e atividades agrícolas e comerciais; a extração mineral não foi objetivo exclusivo.",
+      "D": "Pequena propriedade e trabalho familiar não constituíram a base universal dos territórios coloniais.",
+      "E": "As metrópoles tinham interesses comerciais e benefícios financeiros nas colônias."
+    }
+  },
+  {
+    "ref": 14,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "historia",
+    "sourceRaw": {
+      "enunciado": "“Brasileiros! (...) está conhecida nossa ilusão ou engano em adotarmos um sistema de governo defeituoso em sua origem, e mais defeituoso em suas partes componentes. As constituições, as leis e todas as instituições humanas são feitas para os povos e não os povos para elas. Eia, pois, brasileiros, tratemos de constituirmos de um modo análogo às luzes do século em que vivemos; o sistema americano deve ser idêntico; desprezemos instituições oligárquicas, só cabidas na encanecida Europa.” ANDRADE, Manoel de Carvalho Paes de. Manifesto de proclamação da Confederação do Equador. Apud TORRES, João Camillo de Oliveira. A democracia coroada: Teoria política do Império do Brasil. Petrópolis: Vozes, 1964. p.522 (Adaptado). O excerto apresenta trecho do manifesto divulgado pelos rebeldes da Confederação do Equador (1824) e reage explicitamente",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à dissolução da Assembleia Constituinte e à outorga de uma constituição elaborada pelo Conselho de Estado."
+        },
+        {
+          "letra": "B",
+          "texto": "ao distanciamento do governo brasileiro em relação à Coroa Portuguesa e à política europeia do período."
+        },
+        {
+          "letra": "C",
+          "texto": "ao caráter descentralizador do regime monárquico e ao aumento da autonomia das províncias."
+        },
+        {
+          "letra": "D",
+          "texto": "ao poder exercido pelos produtores nordestinos de algodão e pelos cafeicultores paulistas."
+        },
+        {
+          "letra": "E",
+          "texto": "à adoção de regime republicano pela Constituição e ao fechamento do parlamento nacional. #####"
+        }
+      ],
+      "page": 7,
+      "endPage": 7,
+      "context": "TEXTO PARA AS QUESTÕES 10 E 11 “O que torna possível o surgimento de uma ‘cultura do cancelamento’ é um cenário em que os detentores de poder econômico e/ou político vislumbram a utilização de valores morais como valores de mercado, seja no campo da publicidade, seja no campo da responsabilidade social da empresa. O conjunto de valores defendidos pelos movimentos sociais que lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento. Sendo assim, a sanção específica realizada pelos agentes do ‘cancelamento’ procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, mas sim impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito ‘cancelado’. Nesse contexto, a ‘cultura do cancelamento’ representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, como inadequação de valores morais ostentados, por atos e/ou palavras, em determinados ambientes sociais.” MARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. Extraprensa, v.15, n. esp., p.39, mai.2022 (Adaptado)."
+    },
+    "conceito": "A Confederação do Equador reagiu à centralização política do Primeiro Reinado.",
+    "passos": [
+      "Em 1823, D. Pedro I dissolveu a Assembleia Constituinte; em 1824, outorgou uma Constituição elaborada pelo Conselho de Estado.",
+      "O manifesto critica instituições oligárquicas e propõe outro sistema, no contexto da oposição à imposição centralizadora."
+    ],
+    "alternativaCorreta": "A",
+    "distratores": {
+      "B": "A reação era à centralização interna, não ao afastamento da Coroa Portuguesa.",
+      "C": "O regime concentrava poder; a alternativa inverte o sentido da crítica provincial.",
+      "D": "O alvo imediato não era uma aliança entre produtores de algodão e cafeicultores paulistas.",
+      "E": "A Constituição de 1824 estabeleceu monarquia, não república."
+    }
+  },
+  {
+    "ref": 15,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "ingles",
+    "sourceRaw": {
+      "enunciado": "“justice, each getting what he or she is due. Formal justice is the impartial and consistent application of principles, whether or not the principles themselves are just. Substantive justice is closely associated with rights, i.e., with what individuals can legitimately demand of one another or what they can legitimately demand of their government (e.g., with respect to the protection of liberty or the promotion of equality). Retributive justice concerns when and why punishment is justified. Debate continues over whether punishment is justified as retribution for past wrongdoing or because it deters future wrongdoing. Those who stress retribution as the justification for punishment usually believe human beings have libertarian free will, while those who stress deterrence usually accept determinism. At least since Aristotle, justice has commonly been identified both with obeying law and with treating everyone with fairness. But if law is, and justice is not, entirely a matter of convention, then justice cannot be identified with obeying law.” The Cambridge Dictionary of Philosophy. General Editor Robert Audi, Cambridge, U.K.: C.U.P., 1999. p.456. Conforme o verbete, a justiça substantiva pode ser definida como a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aplicação imparcial e consistente de princípios éticos e morais."
+        },
+        {
+          "letra": "B",
+          "texto": "promoção de punições rigorosas para qualquer tipo de crime."
+        },
+        {
+          "letra": "C",
+          "texto": "distribuição de recursos econômicos de maneira equitativa, com ênfase no coletivo."
+        },
+        {
+          "letra": "D",
+          "texto": "garantia de que todos recebam o que lhes é devido, contemplando direitos individuais."
+        },
+        {
+          "letra": "E",
+          "texto": "proteção exclusiva dos direitos das minorias, aumentando sua visibilidade social. #####"
+        }
+      ],
+      "page": 7,
+      "endPage": 8,
+      "context": "TEXTO PARA AS QUESTÕES 10 E 11 “O que torna possível o surgimento de uma ‘cultura do cancelamento’ é um cenário em que os detentores de poder econômico e/ou político vislumbram a utilização de valores morais como valores de mercado, seja no campo da publicidade, seja no campo da responsabilidade social da empresa. O conjunto de valores defendidos pelos movimentos sociais que lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento. Sendo assim, a sanção específica realizada pelos agentes do ‘cancelamento’ procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, mas sim impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito ‘cancelado’. Nesse contexto, a ‘cultura do cancelamento’ representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, como inadequação de valores morais ostentados, por atos e/ou palavras, em determinados ambientes sociais.” MARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. Extraprensa, v.15, n. esp., p.39, mai.2022 (Adaptado)."
+    },
+    "conceito": "Na leitura do verbete, justiça substantiva se relaciona aos direitos legitimamente exigíveis.",
+    "passos": [
+      "O verbete associa substantive justice a rights e ao que indivíduos podem demandar uns dos outros ou do governo.",
+      "A alternativa adequada precisa contemplar o que é devido a cada pessoa, sem substituir essa definição pela aplicação formal de princípios ou pela punição."
+    ],
+    "alternativaCorreta": "D",
+    "distratores": {
+      "A": "Aplicação imparcial e consistente define formal justice no próprio texto.",
+      "B": "Punição pertence à discussão da justiça retributiva; rigor para todo crime não é a definição.",
+      "C": "A distribuição econômica é um tema possível, mas a definição do verbete é mais ampla e centrada em direitos.",
+      "E": "Os direitos não são limitados exclusivamente a minorias."
+    }
+  },
+  {
+    "ref": 20,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "quimica",
+    "sourceRaw": {
+      "enunciado": "A figura a seguir apresenta a evolução dos modelos atômicos, desde o primeiro, proposto por Dalton em 1803, até o de Bohr, proposto em 1913. Sobre os quatro modelos atômicos apresentados, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Todos os modelos previram a presença de cargas positivas no núcleo atômico."
+        },
+        {
+          "letra": "B",
+          "texto": "O modelo proposto por Thomson, por prever a existência de nêutrons, não poderia explicar a radiação alfa (α)."
+        },
+        {
+          "letra": "C",
+          "texto": "Diferentemente do modelo de Dalton, o modelo de Rutherford não explica a estrutura de cátions e ânions."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas o modelo de Bohr, com o advento de balanças de precisão, considerou a diferença de massa entre os elementos."
+        },
+        {
+          "letra": "E",
+          "texto": "Elementos radioativos não poderiam ser explicados pelo modelo proposto por Dalton. #####"
+        }
+      ],
+      "page": 9,
+      "endPage": 10,
+      "context": ""
+    },
+    "conceito": "O modelo de Dalton descreve átomos indivisíveis e não contém mecanismos internos capazes de explicar radioatividade.",
+    "passos": [
+      "A emissão de partículas e as transformações nucleares revelam estrutura e processos internos do átomo.",
+      "A indivisibilidade postulada no modelo de Dalton é incompatível com esses fenômenos, embora o modelo tenha valor histórico para outras regularidades químicas."
+    ],
+    "alternativaCorreta": "E",
+    "distratores": {
+      "A": "Dalton e Thomson não propuseram o núcleo positivo do modelo de Rutherford.",
+      "B": "O nêutron foi descoberto posteriormente; não integrava o modelo de Thomson.",
+      "C": "A estrutura eletrônica dos modelos nucleares permite discutir ganho e perda de elétrons.",
+      "D": "A distinção de massas entre elementos já estava presente antes de Bohr."
+    }
+  },
+  {
+    "ref": 21,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "quimica",
+    "sourceRaw": {
+      "enunciado": "Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons Li + penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons Li + intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon- sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta. Considerando que a única diferença entre baterias de mesma massa e volume seja o íon utilizado (Na + ou Li + ) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria íon-Na é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "maior do que de uma bateria íon-Li, pois o Na + tem maior massa e menor raio iônico do que o Li+ ."
+        },
+        {
+          "letra": "B",
+          "texto": "menor do que de uma bateria íon-Li, pois o Na + tem maior massa e maior raio iônico do que o Li + ."
+        },
+        {
+          "letra": "C",
+          "texto": "maior do que de uma bateria íon-Li, pois o Na + tem menor massa e maior raio iônico do que o Li + ."
+        },
+        {
+          "letra": "D",
+          "texto": "menor do que de uma bateria íon-Li, pois o Na + tem menor massa e menor raio iônico do que o Li+ ."
+        },
+        {
+          "letra": "E",
+          "texto": "igual à de uma bateria íon-Li, pois ambos os íons são monovalentes. Note e adote: Distribuição eletrônica: Li = 1s 2 , 2s1 ; Na = 1s 2 , 2s2 , 2p 6 , 3s1 . Massa atômica (u): Li = 7; Na = 23. #####"
+        }
+      ],
+      "page": 10,
+      "endPage": 10,
+      "context": ""
+    },
+    "conceito": "Íons maiores e mais pesados limitam o número de portadores de carga acomodados por massa e volume.",
+    "passos": [
+      "O sódio possui uma camada eletrônica a mais que o lítio e maior massa atômica: seu cátion é maior e mais pesado.",
+      "No modelo da questão, essa diferença reduz a quantidade de íons intercalados no mesmo ânodo e a densidade de energia da bateria de sódio."
+    ],
+    "alternativaCorreta": "B",
+    "distratores": {
+      "A": "O sódio tem maior raio, não menor; a conclusão de maior densidade também está invertida.",
+      "C": "O sódio não tem menor massa e o maior raio não permite mais íons no mesmo espaço.",
+      "D": "A densidade menor é compatível, mas as duas justificativas físicas estão invertidas.",
+      "E": "A monovalência igual não elimina as diferenças de massa e tamanho."
+    }
+  },
+  {
+    "ref": 23,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "fisica",
+    "sourceRaw": {
+      "enunciado": "Considere o texto a seguir. The Event Horizon Telescope Collaboration. “Com observações feitas pela primeira vez em luz polarizada, a nova imagem do buraco negro que se esconde no coração da Via Láctea revelou um campo magnético com uma estrutura muito semelhante à de outro buraco negro situado no centro da galáxia M87, sugerindo que campos magnéticos intensos podem ser comuns a todos os buracos negros. A luz é uma onda eletromagnética que nos permite ver objetos. Por vezes, os campos elétrico e magnético associados à onda oscilam em direções preferenciais, definindo o que chamamos de luz polarizada. Apesar de estarmos rodeados por luz polarizada, aos olhos humanos essa luz é indistinguível da luz dita ‘normal’. No plasma que rodeia estes buracos negros, as partículas que giram em torno das linhas de campo magnético conferem-lhe um padrão de polarização com orientação na direção perpendicular ao campo magnético do buraco negro, o que permite aos astrônomos ver com muitos detalhes o que se passa nas regiões dos buracos negros e mapear as suas linhas de campo magnético.” “Astrônomos descobrem campos magnéticos em espiral nas bordas de buraco negro da Via Láctea”, Jornal da USP 29/03/2024. Disponível em https://jornal.usp.br/ciencias/ (Adaptado). Com base no texto e em seus conhecimentos, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A medida do padrão de polarização da luz mencionada no texto permite somente o mapeamento das linhas de campos magnéticos na direção paralela à direção da polarização."
+        },
+        {
+          "letra": "B",
+          "texto": "O olho humano pode discriminar as diferentes direções da luz polarizada dos buracos negros, mapeando suas linhas de campo."
+        },
+        {
+          "letra": "C",
+          "texto": "Campos magnéticos como os mencionados no texto são criados apenas por cargas elétricas em repouso no plasma que rodeia os buracos negros."
+        },
+        {
+          "letra": "D",
+          "texto": "O plasma é formado por partículas eletricamente carregadas, dado que essas partículas exibem um movimento circular perpendicular à direção do campo magnético."
+        },
+        {
+          "letra": "E",
+          "texto": "O processo de mapeamento das linhas de campo magnético mencionado no texto pode ser realizado por meio da detecção de qualquer tipo de onda eletromagnética gerada em buracos negros. #####"
+        }
+      ],
+      "page": 11,
+      "endPage": 11,
+      "context": ""
+    },
+    "conceito": "No plasma, partículas carregadas sofrem força magnética quando sua velocidade tem componente perpendicular ao campo.",
+    "passos": [
+      "O texto descreve partículas girando em torno das linhas de campo magnético. Esse comportamento é compatível com a força de Lorentz sobre cargas em movimento.",
+      "A orientação da polarização permite inferir o campo, mas o próprio excerto diz que o olho humano não discrimina esse padrão."
+    ],
+    "alternativaCorreta": "D",
+    "distratores": {
+      "A": "O excerto relaciona a polarização à direção perpendicular ao campo, não paralela.",
+      "B": "O texto afirma explicitamente que as direções de polarização são indistinguíveis ao olho humano.",
+      "C": "Cargas em repouso não fornecem, sozinhas, as correntes responsáveis por esse campo magnético.",
+      "E": "O procedimento exige informação de polarização; a detecção indiferenciada de qualquer onda não basta."
+    }
+  },
+  {
+    "ref": 24,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "quimica",
+    "sourceRaw": {
+      "enunciado": "Na zona sul da cidade de São Paulo, há uma esquina formada pelas ruas Cloreto de Sódio e Relíquia do Oceano. A coincidência do encontro dessas ruas chama a atenção, pois o cloreto de sódio",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "praticamente não está presente no oceano, apesar de este ser salgado."
+        },
+        {
+          "letra": "B",
+          "texto": "é insolúvel na água do oceano por apresentar ligação iônica."
+        },
+        {
+          "letra": "C",
+          "texto": "utilizado no Brasil é quase todo proveniente do oceano."
+        },
+        {
+          "letra": "D",
+          "texto": "obtido do oceano apresenta ligação covalente, enquanto o extraído do sal-gema, ligação iônica."
+        },
+        {
+          "letra": "E",
+          "texto": "retirado do oceano tem mais átomos de cloro ligados ao sódio do que o oriundo de outras fontes. #####"
+        }
+      ],
+      "page": 11,
+      "endPage": 11,
+      "context": ""
+    },
+    "conceito": "A identidade química do cloreto de sódio não depende da origem geológica; a produção brasileira explora principalmente sal marinho.",
+    "passos": [
+      "O NaCl está dissolvido na água do mar e pode ser obtido por evaporação e cristalização nas salinas.",
+      "A coincidência dos nomes das ruas remete à origem oceânica de quase todo o sal produzido no Brasil, não a uma diferença de ligação química entre fontes."
+    ],
+    "alternativaCorreta": "C",
+    "distratores": {
+      "A": "O cloreto de sódio é um componente importante dos sais dissolvidos no oceano.",
+      "B": "Sólidos iônicos podem dissolver-se em água; insolubilidade não decorre automaticamente da ligação iônica.",
+      "D": "NaCl de salina e de sal-gema tem a mesma natureza de ligação.",
+      "E": "A proporção entre sódio e cloro no composto não muda com a fonte."
+    }
+  },
+  {
+    "ref": 25,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "geografia",
+    "sourceRaw": {
+      "enunciado": "“Historiadores encontraram um mapa antigo onde não era possível identificar a escala do mapa. Com algum esforço e apoio de Geógrafos, foi possível avaliar a distância no mapa entre duas localidades como sendo de 20 centímetros. Buscando elementos na paisagem, foi possível quantificar a distância entre elas como equivalente a 40 quilômetros.” FITZ, Paulo Roberto. Cartografia Básica. São Paulo: Oficina de Textos, 2008 (Adaptado). Com base nessas medidas, a escala numérica do mapa corresponde a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1:20.000."
+        },
+        {
+          "letra": "B",
+          "texto": "1:200.000."
+        },
+        {
+          "letra": "C",
+          "texto": "1:2.000.000."
+        },
+        {
+          "letra": "D",
+          "texto": "1:2.200.000."
+        },
+        {
+          "letra": "E",
+          "texto": "1:20.000.000. #####"
+        }
+      ],
+      "page": 11,
+      "endPage": 12,
+      "context": ""
+    },
+    "conceito": "Escala numérica é a razão entre distância no mapa e distância real, expressas na mesma unidade.",
+    "passos": [
+      "Converta 40 quilômetros em centímetros: \\(40\\times100000=4000000\\).",
+      "Divida a distância real pelos 20 centímetros no mapa: \\(4000000/20=200000\\). A escala é 1:200.000."
+    ],
+    "alternativaCorreta": "B",
+    "distratores": {
+      "A": "Na escala 1:20.000, os 20 cm representariam somente 4 km.",
+      "C": "Na escala 1:2.000.000, os 20 cm representariam 400 km.",
+      "D": "Na escala 1:2.200.000, os 20 cm representariam 440 km.",
+      "E": "Na escala 1:20.000.000, os 20 cm representariam 4.000 km."
+    }
+  },
+  {
+    "ref": 27,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "ingles",
+    "sourceRaw": {
+      "enunciado": "Segundo o texto, o processo de derretimento das calotas polares",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "põe em dúvida a necessidade do conceito de segundo bissexto."
+        },
+        {
+          "letra": "B",
+          "texto": "desloca o fluxo de água para regiões afastadas da linha do Equador."
+        },
+        {
+          "letra": "C",
+          "texto": "deve antecipar em três anos o ajuste dos relógios atômicos."
+        },
+        {
+          "letra": "D",
+          "texto": "ultrapassa o alcance do sistema do Tempo Universal Coordenado."
+        },
+        {
+          "letra": "E",
+          "texto": "tende a reduzir a velocidade de rotação da Terra. #####"
+        }
+      ],
+      "page": 13,
+      "endPage": 13,
+      "context": "TEXTO PARA AS QUESTÕES DE 27 A 29 Climate change is messing with time “The melting of polar ice due to global warming is affecting Earth’s rotation and could impact on precision timekeeping, according to a recent study. The planet is not about to jerk to a halt, nor speed up so rapidly that everyone gets flung into space. But timekeeping is an exact science in a highly technological society, which is why global authorities more than half a century ago felt compelled by the slight changes in Earth’s rotation to invent the concept of the ‘leap second’. Climate change makes these calculations even more complicated: Soon it may be necessary to insert a ‘negative leap second’ into the calendar to get the planet’s rotation in sync with Coordinated Universal Time. Timekeeping is based on an astronomical basis. Earth is a type of a clock. In simpler times, the planet would spin one full revolution on its axis, and everyone would call it a day. But Earth doesn’t spin at a perfectly constant speed. Our planet is in a complicated gravitational dance with the moon, the sun, the oceanic tides, Earth’s own atmosphere and the motion of the planet’s solid inner core. The planet’s fluctuating spin rate is carefully tracked by the International Earth Rotation and Reference Systems Service. In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the ‘leap second’ to adjust for the fact that the ‘day’ was getting a bit longer. The melting of the ice caps in Antarctica and Greenland shifts mass — meltwater — toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical. According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet’s rotation might require timekeepers to insert a ‘negative leap second’ at the end of 2026. Because of climate change, that might not be necessary until 2029.” Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado)."
+    },
+    "conceito": "A leitura causal exige separar a aceleração associada ao núcleo e a desaceleração associada à redistribuição da massa superficial.",
+    "passos": [
+      "O texto diz que a água do degelo se desloca em direção ao Equador e altera a distribuição de massa da Terra.",
+      "A conclusão explícita é que as mudanças de forma ligadas ao aquecimento retardam a aceleração, adiando a possível correção negativa de 2026 para 2029."
+    ],
+    "alternativaCorreta": "E",
+    "distratores": {
+      "A": "A necessidade de sincronização continua; não se invalida o conceito de segundo bissexto.",
+      "B": "O deslocamento descrito é em direção ao Equador, não para longe dele.",
+      "C": "O texto fala em adiamento de três anos, não antecipação.",
+      "D": "O fenômeno é analisado justamente para ajustar o Tempo Universal Coordenado."
+    }
+  },
+  {
+    "ref": 28,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "ingles",
+    "sourceRaw": {
+      "enunciado": "Conforme o texto, os fenômenos naturais que desempenham papel significativo na complexa interação gravitacional que afeta a rotação da Terra são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "terremotos."
+        },
+        {
+          "letra": "B",
+          "texto": "vulcões."
+        },
+        {
+          "letra": "C",
+          "texto": "avalanches."
+        },
+        {
+          "letra": "D",
+          "texto": "marés dos oceanos."
+        },
+        {
+          "letra": "E",
+          "texto": "ciclones. #####"
+        }
+      ],
+      "page": 13,
+      "endPage": 13,
+      "context": "TEXTO PARA AS QUESTÕES DE 27 A 29 Climate change is messing with time “The melting of polar ice due to global warming is affecting Earth’s rotation and could impact on precision timekeeping, according to a recent study. The planet is not about to jerk to a halt, nor speed up so rapidly that everyone gets flung into space. But timekeeping is an exact science in a highly technological society, which is why global authorities more than half a century ago felt compelled by the slight changes in Earth’s rotation to invent the concept of the ‘leap second’. Climate change makes these calculations even more complicated: Soon it may be necessary to insert a ‘negative leap second’ into the calendar to get the planet’s rotation in sync with Coordinated Universal Time. Timekeeping is based on an astronomical basis. Earth is a type of a clock. In simpler times, the planet would spin one full revolution on its axis, and everyone would call it a day. But Earth doesn’t spin at a perfectly constant speed. Our planet is in a complicated gravitational dance with the moon, the sun, the oceanic tides, Earth’s own atmosphere and the motion of the planet’s solid inner core. The planet’s fluctuating spin rate is carefully tracked by the International Earth Rotation and Reference Systems Service. In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the ‘leap second’ to adjust for the fact that the ‘day’ was getting a bit longer. The melting of the ice caps in Antarctica and Greenland shifts mass — meltwater — toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical. According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet’s rotation might require timekeepers to insert a ‘negative leap second’ at the end of 2026. Because of climate change, that might not be necessary until 2029.” Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado)."
+    },
+    "conceito": "Questões de localização de informação exigem identificar o elemento efetivamente enumerado pelo autor.",
+    "passos": [
+      "O parágrafo sobre a rotação menciona Lua, Sol, marés oceânicas, atmosfera e movimento do núcleo.",
+      "Entre as opções, oceanic tides corresponde a marés dos oceanos, constituindo a correspondência textual direta."
+    ],
+    "alternativaCorreta": "D",
+    "distratores": {
+      "A": "Terremotos não são o elemento enumerado no trecho.",
+      "B": "Vulcões não são citados na enumeração dos agentes da interação.",
+      "C": "Avalanches não aparecem na lista de fenômenos indicada.",
+      "E": "O texto menciona a atmosfera, mas não especifica ciclones como resposta à enumeração."
+    }
+  },
+  {
+    "ref": 29,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "biologia",
+    "sourceRaw": {
+      "enunciado": "Considerando os seres vivos atuais, as informações trazidas pelo texto e os princípios da Teoria Sintética da Evolução, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as espécies necessariamente se adaptarão às novas mudanças do planeta."
+        },
+        {
+          "letra": "B",
+          "texto": "somente espécies de dias longos, ou seja, aquelas que precisam de mais horas de luz, sobreviverão às mudanças previstas."
+        },
+        {
+          "letra": "C",
+          "texto": "é difícil prever como se dará a evolução das espécies, porque esse é um processo mediado pelo acaso."
+        },
+        {
+          "letra": "D",
+          "texto": "nenhuma espécie sobreviverá às mudanças na Terra e novas espécies surgirão em seu lugar."
+        },
+        {
+          "letra": "E",
+          "texto": "espécies aquáticas terão vantagem adaptativa sobre espécies terrestres, uma vez que todos os continentes submergirão com o derretimento das geleiras. #####"
+        }
+      ],
+      "page": 13,
+      "endPage": 13,
+      "context": "TEXTO PARA AS QUESTÕES DE 27 A 29 Climate change is messing with time “The melting of polar ice due to global warming is affecting Earth’s rotation and could impact on precision timekeeping, according to a recent study. The planet is not about to jerk to a halt, nor speed up so rapidly that everyone gets flung into space. But timekeeping is an exact science in a highly technological society, which is why global authorities more than half a century ago felt compelled by the slight changes in Earth’s rotation to invent the concept of the ‘leap second’. Climate change makes these calculations even more complicated: Soon it may be necessary to insert a ‘negative leap second’ into the calendar to get the planet’s rotation in sync with Coordinated Universal Time. Timekeeping is based on an astronomical basis. Earth is a type of a clock. In simpler times, the planet would spin one full revolution on its axis, and everyone would call it a day. But Earth doesn’t spin at a perfectly constant speed. Our planet is in a complicated gravitational dance with the moon, the sun, the oceanic tides, Earth’s own atmosphere and the motion of the planet’s solid inner core. The planet’s fluctuating spin rate is carefully tracked by the International Earth Rotation and Reference Systems Service. In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the ‘leap second’ to adjust for the fact that the ‘day’ was getting a bit longer. The melting of the ice caps in Antarctica and Greenland shifts mass — meltwater — toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical. According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet’s rotation might require timekeepers to insert a ‘negative leap second’ at the end of 2026. Because of climate change, that might not be necessary until 2029.” Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado)."
+    },
+    "conceito": "A Teoria Sintética da Evolução combina variação genética, acaso e processos como seleção e deriva; não prevê adaptação garantida.",
+    "passos": [
+      "Mutações e recombinação não surgem para atender às necessidades futuras dos organismos.",
+      "O resultado depende da variação disponível e das condições ambientais, o que impede prever com certeza a sobrevivência e a transformação de todas as espécies."
+    ],
+    "alternativaCorreta": "C",
+    "distratores": {
+      "A": "Adaptação não é destino necessário de cada espécie; também pode haver extinção.",
+      "B": "A duração do dia não é critério único nem garante sobrevivência de um grupo.",
+      "D": "A extinção de absolutamente todas as espécies não decorre das informações apresentadas.",
+      "E": "O degelo não implica submersão de todos os continentes nem vantagem universal para espécies aquáticas."
+    }
+  },
+  {
+    "ref": 30,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "biologia",
+    "sourceRaw": {
+      "enunciado": "A imagem a seguir ilustra o aparecimento de uma barreira que promoveu separação de uma população de rinocerontes e consequente redução no tamanho das populações resultantes. Disponível em https://kids.frontiersin.org/articles/10.3389/ (Adaptado). É correto afirmar que, nas populações fragmentadas, ocorre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "maior variabilidade genética."
+        },
+        {
+          "letra": "B",
+          "texto": "maior risco de aparecimento de doenças genéticas recessivas."
+        },
+        {
+          "letra": "C",
+          "texto": "menor frequência de mutações."
+        },
+        {
+          "letra": "D",
+          "texto": "seleção natural dos indivíduos com características genéticas dominantes."
+        },
+        {
+          "letra": "E",
+          "texto": "favorecimento da mistura entre elas. #####"
+        }
+      ],
+      "page": 13,
+      "endPage": 14,
+      "context": "TEXTO PARA AS QUESTÕES DE 27 A 29 Climate change is messing with time “The melting of polar ice due to global warming is affecting Earth’s rotation and could impact on precision timekeeping, according to a recent study. The planet is not about to jerk to a halt, nor speed up so rapidly that everyone gets flung into space. But timekeeping is an exact science in a highly technological society, which is why global authorities more than half a century ago felt compelled by the slight changes in Earth’s rotation to invent the concept of the ‘leap second’. Climate change makes these calculations even more complicated: Soon it may be necessary to insert a ‘negative leap second’ into the calendar to get the planet’s rotation in sync with Coordinated Universal Time. Timekeeping is based on an astronomical basis. Earth is a type of a clock. In simpler times, the planet would spin one full revolution on its axis, and everyone would call it a day. But Earth doesn’t spin at a perfectly constant speed. Our planet is in a complicated gravitational dance with the moon, the sun, the oceanic tides, Earth’s own atmosphere and the motion of the planet’s solid inner core. The planet’s fluctuating spin rate is carefully tracked by the International Earth Rotation and Reference Systems Service. In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the ‘leap second’ to adjust for the fact that the ‘day’ was getting a bit longer. The melting of the ice caps in Antarctica and Greenland shifts mass — meltwater — toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical. According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet’s rotation might require timekeepers to insert a ‘negative leap second’ at the end of 2026. Because of climate change, that might not be necessary until 2029.” Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado)."
+    },
+    "conceito": "Populações pequenas e isoladas tendem a maior endogamia, favorecendo homozigose de alelos recessivos deletérios.",
+    "passos": [
+      "A barreira reduz o fluxo gênico e o tamanho dos grupos resultantes.",
+      "O acasalamento entre indivíduos aparentados aumenta a chance de combinar duas cópias do mesmo alelo recessivo, elevando o risco de certas doenças genéticas."
+    ],
+    "alternativaCorreta": "B",
+    "distratores": {
+      "A": "Fragmentação e deriva tendem a reduzir a diversidade, não aumentá-la de modo necessário.",
+      "C": "O isolamento não determina uma redução da taxa de mutação.",
+      "D": "Dominância descreve expressão de alelos, não superioridade adaptativa automática.",
+      "E": "A barreira dificulta o intercâmbio, em vez de favorecer mistura."
+    }
+  },
+  {
+    "ref": 31,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "biologia",
+    "sourceRaw": {
+      "enunciado": "Alguns corais contêm, em sua estrutura, algas fornecedoras de carboidratos que auxiliam no crescimento e na construção do esqueleto do coral. Os corais, por sua vez, fornecem um ambiente de proteção e importantes nutrientes às algas. As mudanças climáticas globais têm provocado a morte dessas algas e, em muitos casos, a morte dos corais. Assinale a alternativa que representa a relação ecológica entre os corais e as algas, assim como o impacto imediato causado pela morte dos corais. Relação ecológica Impacto imediato",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Predação Formação das marés vermelhas e desoxigenação das águas oceânicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Mutualismo Perda de habitat para diversas espécies marinhas, assim como diminuição de suas fontes de proteção e alimento."
+        },
+        {
+          "letra": "C",
+          "texto": "Colônia Aumento de habitats e nichos ecológicos para espécies que passam a viver no local antes ocupado pelos corais."
+        },
+        {
+          "letra": "D",
+          "texto": "Competição Invasão biológica por espécies que ocupam o nicho deixado vago pelos corais."
+        },
+        {
+          "letra": "E",
+          "texto": "Comensalismo Enriquecimento das águas oceânicas por cálcio e nitrogênio, favorecendo o desenvolvimento de algas marinhas. #####"
+        }
+      ],
+      "page": 14,
+      "endPage": 14,
+      "context": "TEXTO PARA AS QUESTÕES DE 27 A 29 Climate change is messing with time “The melting of polar ice due to global warming is affecting Earth’s rotation and could impact on precision timekeeping, according to a recent study. The planet is not about to jerk to a halt, nor speed up so rapidly that everyone gets flung into space. But timekeeping is an exact science in a highly technological society, which is why global authorities more than half a century ago felt compelled by the slight changes in Earth’s rotation to invent the concept of the ‘leap second’. Climate change makes these calculations even more complicated: Soon it may be necessary to insert a ‘negative leap second’ into the calendar to get the planet’s rotation in sync with Coordinated Universal Time. Timekeeping is based on an astronomical basis. Earth is a type of a clock. In simpler times, the planet would spin one full revolution on its axis, and everyone would call it a day. But Earth doesn’t spin at a perfectly constant speed. Our planet is in a complicated gravitational dance with the moon, the sun, the oceanic tides, Earth’s own atmosphere and the motion of the planet’s solid inner core. The planet’s fluctuating spin rate is carefully tracked by the International Earth Rotation and Reference Systems Service. In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the ‘leap second’ to adjust for the fact that the ‘day’ was getting a bit longer. The melting of the ice caps in Antarctica and Greenland shifts mass — meltwater — toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical. According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet’s rotation might require timekeepers to insert a ‘negative leap second’ at the end of 2026. Because of climate change, that might not be necessary until 2029.” Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado)."
+    },
+    "conceito": "Mutualismo é uma associação interespecífica com benefícios recíprocos; recifes também oferecem habitat e recursos a outras espécies.",
+    "passos": [
+      "As algas fornecem carboidratos aos corais, que oferecem proteção e nutrientes às algas: ambos se beneficiam.",
+      "A perda dos corais elimina estruturas utilizadas como abrigo e alimentação por muitos organismos, produzindo perda imediata de habitat."
+    ],
+    "alternativaCorreta": "B",
+    "distratores": {
+      "A": "Não há consumo de uma espécie pela outra como base da associação; maré vermelha não é consequência necessária.",
+      "C": "Colônia reúne indivíduos da mesma espécie; coral e alga são organismos de grupos distintos.",
+      "D": "O enunciado descreve troca de benefícios, não disputa por recurso limitante.",
+      "E": "No comensalismo somente um parceiro se beneficia sem afetar o outro, diferente do caso."
+    }
+  },
+  {
+    "ref": 32,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "fisica",
+    "sourceRaw": {
+      "enunciado": "O fenômeno físico conhecido como iridescência ocorre nas asas de certas espécies de borboletas e caracteriza-se pela variação das cores de acordo com o ângulo de observação. A existência de faixas coloridas na superfície das asas das borboletas ocorre devido a diferentes formas de superposição entre raios luminosos refletidos por uma fina camada de substância transparente existente na superfície das asas. Disponível em https://www.pbs.org/wgbh/. Os fenômenos físicos diretamente relacionados com a iridescência são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dilatação e reflexão."
+        },
+        {
+          "letra": "B",
+          "texto": "interferência e dilatação."
+        },
+        {
+          "letra": "C",
+          "texto": "dissipação e difração."
+        },
+        {
+          "letra": "D",
+          "texto": "convecção e dispersão."
+        },
+        {
+          "letra": "E",
+          "texto": "reflexão e interferência. #####"
+        }
+      ],
+      "page": 14,
+      "endPage": 14,
+      "context": "TEXTO PARA AS QUESTÕES DE 27 A 29 Climate change is messing with time “The melting of polar ice due to global warming is affecting Earth’s rotation and could impact on precision timekeeping, according to a recent study. The planet is not about to jerk to a halt, nor speed up so rapidly that everyone gets flung into space. But timekeeping is an exact science in a highly technological society, which is why global authorities more than half a century ago felt compelled by the slight changes in Earth’s rotation to invent the concept of the ‘leap second’. Climate change makes these calculations even more complicated: Soon it may be necessary to insert a ‘negative leap second’ into the calendar to get the planet’s rotation in sync with Coordinated Universal Time. Timekeeping is based on an astronomical basis. Earth is a type of a clock. In simpler times, the planet would spin one full revolution on its axis, and everyone would call it a day. But Earth doesn’t spin at a perfectly constant speed. Our planet is in a complicated gravitational dance with the moon, the sun, the oceanic tides, Earth’s own atmosphere and the motion of the planet’s solid inner core. The planet’s fluctuating spin rate is carefully tracked by the International Earth Rotation and Reference Systems Service. In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the ‘leap second’ to adjust for the fact that the ‘day’ was getting a bit longer. The melting of the ice caps in Antarctica and Greenland shifts mass — meltwater — toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical. According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet’s rotation might require timekeepers to insert a ‘negative leap second’ at the end of 2026. Because of climate change, that might not be necessary until 2029.” Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado)."
+    },
+    "conceito": "Filmes finos podem produzir interferência entre ondas luminosas refletidas em suas interfaces.",
+    "passos": [
+      "Parte da luz reflete na superfície e outra parte percorre a camada antes de ser refletida.",
+      "A diferença de percurso varia com o ângulo de observação, favorecendo interferência construtiva ou destrutiva para diferentes comprimentos de onda."
+    ],
+    "alternativaCorreta": "E",
+    "distratores": {
+      "A": "A dilatação térmica não é o mecanismo descrito para formar faixas coloridas.",
+      "B": "A interferência participa, mas a dilatação não explica os raios refletidos.",
+      "C": "Dissipação e difração não correspondem à superposição de reflexões no filme fino.",
+      "D": "Convecção é transporte de calor por movimento de fluido; não é a origem óptica das cores."
+    }
+  },
+  {
+    "ref": 33,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "fisica",
+    "sourceRaw": {
+      "enunciado": "WASSENBERGH, Sam Van; MIELKE, Maia. Physics Today, vol. 77 (2024) (Adaptado). Em um estudo relatado no periódico Physics Today, cientistas belgas mostraram que os pica-paus não dispõem de mecanismos de absorção de choques em seus ossos do crânio, ao contrário do que se acreditava anteriormente. Nos experimentos realizados, verificou-se que o cérebro de um pica-pau pode experimentar desacelerações instantâneas de até 400 g, sendo g o módulo da aceleração da gravidade. Suponha que, durante uma batida em um tronco de árvore, o crânio do pica-pau, suposto perfeitamente rígido, sofra uma desaceleração constante de 200 g ao longo de um tempo de 2,0 milissegundos. Qual é a distância percorrida pelo crânio do pica-pau durante esse tempo, até atingir momentaneamente o repouso?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,0 mm"
+        },
+        {
+          "letra": "B",
+          "texto": "4,0 mm"
+        },
+        {
+          "letra": "C",
+          "texto": "8,0 mm"
+        },
+        {
+          "letra": "D",
+          "texto": "16 mm"
+        },
+        {
+          "letra": "E",
+          "texto": "32 mm Note e adote: Aceleração da gravidade: g = 10 m/s2 . #####"
+        }
+      ],
+      "page": 14,
+      "endPage": 15,
+      "context": "TEXTO PARA AS QUESTÕES DE 27 A 29 Climate change is messing with time “The melting of polar ice due to global warming is affecting Earth’s rotation and could impact on precision timekeeping, according to a recent study. The planet is not about to jerk to a halt, nor speed up so rapidly that everyone gets flung into space. But timekeeping is an exact science in a highly technological society, which is why global authorities more than half a century ago felt compelled by the slight changes in Earth’s rotation to invent the concept of the ‘leap second’. Climate change makes these calculations even more complicated: Soon it may be necessary to insert a ‘negative leap second’ into the calendar to get the planet’s rotation in sync with Coordinated Universal Time. Timekeeping is based on an astronomical basis. Earth is a type of a clock. In simpler times, the planet would spin one full revolution on its axis, and everyone would call it a day. But Earth doesn’t spin at a perfectly constant speed. Our planet is in a complicated gravitational dance with the moon, the sun, the oceanic tides, Earth’s own atmosphere and the motion of the planet’s solid inner core. The planet’s fluctuating spin rate is carefully tracked by the International Earth Rotation and Reference Systems Service. In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the ‘leap second’ to adjust for the fact that the ‘day’ was getting a bit longer. The melting of the ice caps in Antarctica and Greenland shifts mass — meltwater — toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical. According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet’s rotation might require timekeepers to insert a ‘negative leap second’ at the end of 2026. Because of climate change, that might not be necessary until 2029.” Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado)."
+    },
+    "conceito": "Em desaceleração constante até o repouso, a distância é metade do módulo da aceleração multiplicado pelo tempo ao quadrado.",
+    "passos": [
+      "Converta os dados: \\(a=200\\times10=2000\\,\\mathrm{m/s^2}\\) e \\(t=0{,}002\\,\\mathrm{s}\\). A velocidade inicial é \\(v_0=at=4\\,\\mathrm{m/s}\\).",
+      "A velocidade média é 2 m/s. Assim, \\(d=2\\times0{,}002=0{,}004\\,\\mathrm{m}=4\\,\\mathrm{mm}\\)."
+    ],
+    "alternativaCorreta": "B",
+    "distratores": {
+      "A": "Dois milímetros é metade do deslocamento calculado com a velocidade média correta.",
+      "C": "Oito milímetros resulta de usar a velocidade inicial durante todo o intervalo, ignorando a desaceleração.",
+      "D": "Dezesseis milímetros é quatro vezes o resultado; não satisfaz a relação de movimento uniformemente variado.",
+      "E": "Trinta e dois milímetros é oito vezes o resultado obtido após converter milissegundos."
+    }
+  },
+  {
+    "ref": 34,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "portugues",
+    "sourceRaw": {
+      "enunciado": "“São os ratos!... Vai escutar com atenção, a respiração meio parada. Hão de ser muitos: há várias fontes daquele guinchinho, e de quando em quando, no forro, em vários pontos, o rufar... A casa está cheia de ratos...” Dyonélio Machado. Os ratos. A obra Os ratos (1935), de Dyonélio Machado, narra o dia em que Naziazeno saiu pela cidade de Porto Alegre no intuito de conseguir dinheiro para pagar a conta do leiteiro. Os animais que dão título à narrativa apenas aparecem em seus últimos capítulos e ocupam o tempo reservado para o descanso do protagonista. É possível, então, afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Naziazeno, inconformado com sua condição de devedor, perambula pela cidade, encontrando refúgio junto aos ratos que o acolhem."
+        },
+        {
+          "letra": "B",
+          "texto": "Os ratos são os credores de Naziazeno zoomorfizados, que se encontram à espreita para a cobrança de outras dívidas."
+        },
+        {
+          "letra": "C",
+          "texto": "Os “guinchinhos”, que ressoam nos ouvidos de Naziazeno, são o eco de seu dia de perambulação, como se lembrassem os obstáculos que venceu."
+        },
+        {
+          "letra": "D",
+          "texto": "Os ruídos dos roedores mostram que Naziazeno, ao pagar a sua dívida, esquece os obstáculos que venceu."
+        },
+        {
+          "letra": "E",
+          "texto": "O contraste entre o repouso de Naziazeno e o aparecimento dos roedores denuncia a permanência da sua situação de penúria social e financeira. #####"
+        }
+      ],
+      "page": 15,
+      "endPage": 15,
+      "context": "TEXTO PARA AS QUESTÕES DE 27 A 29 Climate change is messing with time “The melting of polar ice due to global warming is affecting Earth’s rotation and could impact on precision timekeeping, according to a recent study. The planet is not about to jerk to a halt, nor speed up so rapidly that everyone gets flung into space. But timekeeping is an exact science in a highly technological society, which is why global authorities more than half a century ago felt compelled by the slight changes in Earth’s rotation to invent the concept of the ‘leap second’. Climate change makes these calculations even more complicated: Soon it may be necessary to insert a ‘negative leap second’ into the calendar to get the planet’s rotation in sync with Coordinated Universal Time. Timekeeping is based on an astronomical basis. Earth is a type of a clock. In simpler times, the planet would spin one full revolution on its axis, and everyone would call it a day. But Earth doesn’t spin at a perfectly constant speed. Our planet is in a complicated gravitational dance with the moon, the sun, the oceanic tides, Earth’s own atmosphere and the motion of the planet’s solid inner core. The planet’s fluctuating spin rate is carefully tracked by the International Earth Rotation and Reference Systems Service. In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the ‘leap second’ to adjust for the fact that the ‘day’ was getting a bit longer. The melting of the ice caps in Antarctica and Greenland shifts mass — meltwater — toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical. According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet’s rotation might require timekeepers to insert a ‘negative leap second’ at the end of 2026. Because of climate change, that might not be necessary until 2029.” Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado)."
+    },
+    "conceito": "Na narrativa de Os ratos, a resolução de uma dívida imediata não elimina a insegurança estrutural do protagonista.",
+    "passos": [
+      "Naziazeno percorre a cidade para pagar o leiteiro, mas o período destinado ao repouso é invadido pelo temor dos roedores.",
+      "O contraste prolonga a angústia e evidencia que a penúria social e financeira persiste para além do pagamento daquele dia."
+    ],
+    "alternativaCorreta": "E",
+    "distratores": {
+      "A": "Os ratos não acolhem o protagonista nem constituem um refúgio.",
+      "B": "Não se trata de uma transformação literal dos credores em animais.",
+      "C": "O retorno da inquietação impede interpretar os sons apenas como lembrança de obstáculos definitivamente vencidos.",
+      "D": "A atenção angustiada aos ruídos mostra que ele não esqueceu sua vulnerabilidade."
+    }
+  },
+  {
+    "ref": 35,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "biologia",
+    "sourceRaw": {
+      "enunciado": "“Ele vê o gesto do advogado Dr. Otávio Conti, no café, metendo a mão no bolso, tirando uma cédula de cem mil- réis e entregando-a ao Duque: ‘— Vá levantar esta letra. Você me devolve depois.’ Não é bem caridade... Ele não sabe explicar... Há nisso um certo tom de versatilidade... de facilidade... de um tal ou qual afrouxamento do caráter... Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti, a ‘mesma’ cédula do bolso e entregando-lha... A casa aristocrática acha-se perto. A numeração já está em quase trezentos. Uma pequena aragem que sopra levemente nesta parte alta da rua passa-lhe pelas mãos e esfria-as... O seu corpo suado fica como que um bloco gelado e dá-lhe a sensação de que se encolhe, se retrai dentro da sua roupa quente e assoleada, que dela se despega como duma carapaça. Ao mesmo tempo o coração, que batia lá no fundo do peito, veio palpitar bem à superfície, quase à flor da pele, meio engasgando-o.” Dyonélio Machado. Os ratos. Dentre as frases em destaque, a que caracteriza os efeitos fisiológicos em Naziazeno da reação de luta ou fuga pela ativação do sistema nervoso simpático é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ele vê o gesto do advogado Dr. Otávio Conti, no café, metendo a mão no bolso, tirando uma cédula de cem mil- réis e entregando-a ao Duque."
+        },
+        {
+          "letra": "B",
+          "texto": "Ele não sabe explicar... Há nisso um certo tom de versatilidade... de facilidade... de um tal ou qual afrouxamento do caráter..."
+        },
+        {
+          "letra": "C",
+          "texto": "Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti, a “mesma” cédula do bolso e entregando-lha..."
+        },
+        {
+          "letra": "D",
+          "texto": "Uma pequena aragem que sopra levemente nesta parte alta da rua passa-lhe pelas mãos e esfria-as."
+        },
+        {
+          "letra": "E",
+          "texto": "Ao mesmo tempo o coração, que batia lá no fundo do peito, veio palpitar bem à superfície, quase à flor da pele, meio engasgando-o. #####"
+        }
+      ],
+      "page": 15,
+      "endPage": 15,
+      "context": "TEXTO PARA AS QUESTÕES DE 27 A 29 Climate change is messing with time “The melting of polar ice due to global warming is affecting Earth’s rotation and could impact on precision timekeeping, according to a recent study. The planet is not about to jerk to a halt, nor speed up so rapidly that everyone gets flung into space. But timekeeping is an exact science in a highly technological society, which is why global authorities more than half a century ago felt compelled by the slight changes in Earth’s rotation to invent the concept of the ‘leap second’. Climate change makes these calculations even more complicated: Soon it may be necessary to insert a ‘negative leap second’ into the calendar to get the planet’s rotation in sync with Coordinated Universal Time. Timekeeping is based on an astronomical basis. Earth is a type of a clock. In simpler times, the planet would spin one full revolution on its axis, and everyone would call it a day. But Earth doesn’t spin at a perfectly constant speed. Our planet is in a complicated gravitational dance with the moon, the sun, the oceanic tides, Earth’s own atmosphere and the motion of the planet’s solid inner core. The planet’s fluctuating spin rate is carefully tracked by the International Earth Rotation and Reference Systems Service. In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the ‘leap second’ to adjust for the fact that the ‘day’ was getting a bit longer. The melting of the ice caps in Antarctica and Greenland shifts mass — meltwater — toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical. According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet’s rotation might require timekeepers to insert a ‘negative leap second’ at the end of 2026. Because of climate change, that might not be necessary until 2029.” Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado)."
+    },
+    "conceito": "A resposta simpática de luta ou fuga aumenta a atividade cardíaca para preparar o organismo para uma ameaça.",
+    "passos": [
+      "O trecho pede um efeito fisiológico, e não uma impressão visual ou um julgamento moral.",
+      "As palpitações intensas descrevem a resposta cardiovascular compatível com a ativação simpática em situação de tensão."
+    ],
+    "alternativaCorreta": "E",
+    "distratores": {
+      "A": "A observação do gesto do advogado descreve uma percepção, não a resposta fisiológica pedida.",
+      "B": "A avaliação do caráter pertence ao pensamento do narrador, não ao funcionamento autonômico.",
+      "C": "A lembrança de Andrade retirando dinheiro é uma imagem mental, não efeito corporal.",
+      "D": "O próprio texto atribui o resfriamento das mãos à aragem; essa frase não identifica a reação autonômica solicitada."
+    }
+  },
+  {
+    "ref": 37,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "portugues",
+    "sourceRaw": {
+      "enunciado": "A expressão bem-vinda usada no título e repetida no último verso faz alusão",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao aprisionamento da mulher que não consegue se libertar do poderio masculino."
+        },
+        {
+          "letra": "B",
+          "texto": "à guerra interior e à falta de forças da mulher oprimida, que aceita sua condição."
+        },
+        {
+          "letra": "C",
+          "texto": "ao renascimento da mulher que alcança, após a opressão, coragem para encontrar-se a si mesma."
+        },
+        {
+          "letra": "D",
+          "texto": "ao rebaixamento da mulher que se cala e se desculpa, perdendo aos poucos sua autoestima."
+        },
+        {
+          "letra": "E",
+          "texto": "à força da mulher que, mesmo hostilizada, tem poder para fazer entrar em sua casa quem a encurralava. #####"
+        }
+      ],
+      "page": 16,
+      "endPage": 16,
+      "context": "TEXTO PARA AS QUESTÕES 37 E 38 Bem-vinda! “Eram faíscas suas palavras que me queimavam em doses homeopáticas durante todas as noites... Foram longos anos, dia após dia perdendo um pouco mais minha autoestima, abrindo mão das roupas que gostava, dos estudos, do trabalho e das amigas fazendo de tudo pra evitar brigas, mas ele sempre dizia que a culpa era minha. Até que um dia, me empurrou, me acuou como se eu pudesse caber em qualquer fresta, encurralada, me mandou ficar calada e, com medo, obedeci. Eu pedia desculpa toda vez depois de falar como se fosse um defeito de nascença querer me colocar. A minha casa se tornou um ambiente tão hostil e eu, prisioneira das minhas próprias ideias, acreditando que o amor era isso, esse abismo, onde só um fala e o outro, fica omisso. Precisei tirar forças de lugares sagrados pra me afastar e reagir, recolher meus pedaços. Meus olhos encheram de mar, eu desaguei, decidi não mais me calar, denunciei! E depois do silêncio quebrado, meus pensamentos em guerra cessaram, recuperei o fôlego e ouvi meu coração sendo grato. Encontrei em mim um porto seguro, entendi que meu corpo é meu lar e, no caminho até ele, escolho quem anda comigo e quem convido pra entrar. Hoje, quando olho pra dentro, vejo uma nova mulher renascendo, eu celebro sua chegada e contemplo essa nova vida. Sem medo, abro a janela de casa e, com olhar de quem há tanto tempo esperava, te pego pela mão e digo: Seja bem-vinda!” Mel Duarte. Colmeia - Poemas Reunidos."
+    },
+    "conceito": "A interpretação do título depende do percurso da voz poética, que passa da violência à retomada da autonomia.",
+    "passos": [
+      "No início, a mulher se cala e perde autoestima para evitar agressões. Depois, rompe o silêncio, denuncia e escolhe quem pode acompanhá-la.",
+      "A saudação final acolhe a mulher que renasce desse processo: o título retoma o encontro consigo e a reconstrução da própria vida."
+    ],
+    "alternativaCorreta": "C",
+    "distratores": {
+      "A": "O título acolhe a superação do aprisionamento, não sua permanência.",
+      "B": "A denúncia e a decisão de reagir contradizem a aceitação passiva da opressão.",
+      "D": "O rebaixamento pertence ao período que a voz poética procura superar.",
+      "E": "Escolher quem entra em sua vida exprime autonomia; não significa acolher novamente quem a encurralava."
+    }
+  },
+  {
+    "ref": 38,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "portugues",
+    "sourceRaw": {
+      "enunciado": "Assinale a alternativa que apresenta uma correspondência correta entre os versos destacados e os recursos utilizados para evidenciar a dor expressa no poema.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“Eram faíscas suas palavras que me queimavam em/ doses homeopáticas/ durante todas as noites...” ꟷ conotação: o predicativo “faíscas” e a forma verbal “queimavam” estão sendo usados em sentido figurado, enfatizando seu sofrimento."
+        },
+        {
+          "letra": "B",
+          "texto": "“Até que um dia, me empurrou, me acuou/como se eu pudesse caber em qualquer fresta, /encurralada” ꟷ antítese: os elementos “empurrou”, “acuou” e “encurralada” potencializam de forma contraditória seu sofrimento."
+        },
+        {
+          "letra": "C",
+          "texto": "“acreditando que o amor era isso, esse abismo, onde só/ um fala e o outro, fica omisso” ꟷ metonímia: o uso do aposto “esse abismo”, referindo-se a “amor”, expressa literalmente seu sofrimento."
+        },
+        {
+          "letra": "D",
+          "texto": "“Precisei tirar forças de lugares sagrados/ pra me afastar e reagir, recolher meus pedaços” ꟷ pleonasmo: o complemento “meus pedaços” reforça o significado do verbo “recolher”, acentuando seu sofrimento."
+        },
+        {
+          "letra": "E",
+          "texto": "“Meus olhos encheram de mar, eu desaguei, /decidi não mais me calar, denunciei!” ꟷ paronímia: os verbos “encher” e “desaguar” são elementos de significação próxima que dão ênfase a seu sofrimento. #####"
+        }
+      ],
+      "page": 16,
+      "endPage": 17,
+      "context": "TEXTO PARA AS QUESTÕES 37 E 38 Bem-vinda! “Eram faíscas suas palavras que me queimavam em doses homeopáticas durante todas as noites... Foram longos anos, dia após dia perdendo um pouco mais minha autoestima, abrindo mão das roupas que gostava, dos estudos, do trabalho e das amigas fazendo de tudo pra evitar brigas, mas ele sempre dizia que a culpa era minha. Até que um dia, me empurrou, me acuou como se eu pudesse caber em qualquer fresta, encurralada, me mandou ficar calada e, com medo, obedeci. Eu pedia desculpa toda vez depois de falar como se fosse um defeito de nascença querer me colocar. A minha casa se tornou um ambiente tão hostil e eu, prisioneira das minhas próprias ideias, acreditando que o amor era isso, esse abismo, onde só um fala e o outro, fica omisso. Precisei tirar forças de lugares sagrados pra me afastar e reagir, recolher meus pedaços. Meus olhos encheram de mar, eu desaguei, decidi não mais me calar, denunciei! E depois do silêncio quebrado, meus pensamentos em guerra cessaram, recuperei o fôlego e ouvi meu coração sendo grato. Encontrei em mim um porto seguro, entendi que meu corpo é meu lar e, no caminho até ele, escolho quem anda comigo e quem convido pra entrar. Hoje, quando olho pra dentro, vejo uma nova mulher renascendo, eu celebro sua chegada e contemplo essa nova vida. Sem medo, abro a janela de casa e, com olhar de quem há tanto tempo esperava, te pego pela mão e digo: Seja bem-vinda!” Mel Duarte. Colmeia - Poemas Reunidos."
+    },
+    "conceito": "A conotação desloca palavras de seu sentido literal para construir imagens da experiência emocional.",
+    "passos": [
+      "Palavras não são faíscas materiais: a aproximação com fogo transforma agressão verbal em imagem de queimadura e sofrimento.",
+      "Os demais pares precisam ser testados pela definição de cada recurso, evitando chamar de antítese palavras convergentes ou de paronímia uma associação de sentidos."
+    ],
+    "alternativaCorreta": "A",
+    "distratores": {
+      "B": "“Empurrou”, “acuou” e “encurralada” reforçam a mesma opressão; não formam polos opostos de uma antítese.",
+      "C": "“Amor” como “abismo” é imagem metafórica, não referência literal nem simples substituição metonímica.",
+      "D": "“Recolher meus pedaços” não repete redundantemente o sentido do verbo; projeta metaforicamente uma reconstrução.",
+      "E": "Parônimos têm semelhança de forma e diferença de sentido; encher e desaguar compõem uma imagem, não esse par formal."
+    }
+  },
+  {
+    "ref": 40,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "sociologia",
+    "sourceRaw": {
+      "enunciado": "Atingir a igualdade de gênero é uma das metas do Objetivo de Desenvolvimento Sustentável (ODS) de número 5 da Agenda 2030, adotada pela ONU em 2015. No cenário esportivo, é possível identificar alguns avanços em relação ao alcance dessa meta, conforme reconheceu a jogadora brasileira de futebol Marta: “Quando as atletas do sexo feminino têm a chance de se destacar, os resultados são enormes. E para isso, a Copa do Mundo Feminina de 2019 foi realmente uma virada no jogo. A audiência global do torneio ultrapassou 1 bilhão de pessoas.” Disponível em https://brasil.un.org/. A Olimpíada de Paris 2024, por sua vez, estabeleceu, pela primeira vez na história, a paridade de gênero em todos os esportes olímpicos, com 5.250 vagas destinadas a cada sexo. Apesar das conquistas, o caminho rumo à igualdade de gênero continua. Com base no exposto, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As práticas esportivas devem ser consideradas como práticas sociais, pois claramente refletem em sua realidade as potencialidades e os retrocessos da sociedade. Sendo assim, as mulheres já atingiram o mesmo nível de destaque que os homens na sociedade contemporânea, haja vista a ascensão e visibilidade feminina no cenário esportivo."
+        },
+        {
+          "letra": "B",
+          "texto": "Os grandes eventos esportivos conferem às mulheres uma visibilidade muitas vezes camuflada na sociedade. A visibilidade gerada para as atletas em cenário esportivo, a partir dos grandes eventos, demonstra o quanto elas já atingiram em totalidade seu status social e caminham no sentido de alcançar a agenda dos ODS."
+        },
+        {
+          "letra": "C",
+          "texto": "As mulheres atletas têm, vagarosamente, alcançado mais possibilidades de inclusão e participação junto ao mundo esportivo, porém a igualdade de gênero ainda se mostra uma meta distante de ser alcançada quando se observa a baixa proporção de mulheres ocupando cargos de gestão e liderança no cenário esportivo."
+        },
+        {
+          "letra": "D",
+          "texto": "O mundo esportivo não tem implicação direta junto ao alcance das metas dos ODS, uma vez que possui organização e regramento específicos, além de uma constituição social própria. Dessa maneira, a instituição esportiva não deve ser padrão de referência para revelar avanços ou retrocessos da sociedade como um todo."
+        },
+        {
+          "letra": "E",
+          "texto": "O esporte tem sido importante fenômeno de promoção das mulheres, mas sua influência é limitada à prática profissional de modalidades esportivas mais populares, sem potencial de contribuir para a igualdade de oportunidades para as mulheres em todos os níveis de tomada de decisão na vida política, econômica e pública. ##### TEXTO PARA AS QUESTÕES 41 E 42 “Quick, quick, tell me something awful Like you are a poet trapped inside the body of a finance guy Tell me all your secrets, all you'll ever be is My eternal consolation prize You see, I was a debutante in another life, but Now I seem to be scared to go outside If comfort is a construct, I don't believe in good luck Now that I know what's what I hate it here so I will go to secret gardens in my mind People need a key to get to, the only one is mine I read about it in a book when I was a precocious child No mid-sized city hopes and small-town fears I'm there most of the year 'cause I hate it here I hate it here My friends used to play a game where We would pick a decade We wished we could live in instead of this I'd say the 1830s but without all the racists And getting married off for the highest bid Everyone would look down 'cause it wasn't fun now Seems like it was never even fun back then Nostalgia is a mind's trick If I'd been there, I'd hate it It was freezing in the palace” “I hate it here”, Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado)."
+        }
+      ],
+      "page": 17,
+      "endPage": 18,
+      "context": "TEXTO PARA AS QUESTÕES 37 E 38 Bem-vinda! “Eram faíscas suas palavras que me queimavam em doses homeopáticas durante todas as noites... Foram longos anos, dia após dia perdendo um pouco mais minha autoestima, abrindo mão das roupas que gostava, dos estudos, do trabalho e das amigas fazendo de tudo pra evitar brigas, mas ele sempre dizia que a culpa era minha. Até que um dia, me empurrou, me acuou como se eu pudesse caber em qualquer fresta, encurralada, me mandou ficar calada e, com medo, obedeci. Eu pedia desculpa toda vez depois de falar como se fosse um defeito de nascença querer me colocar. A minha casa se tornou um ambiente tão hostil e eu, prisioneira das minhas próprias ideias, acreditando que o amor era isso, esse abismo, onde só um fala e o outro, fica omisso. Precisei tirar forças de lugares sagrados pra me afastar e reagir, recolher meus pedaços. Meus olhos encheram de mar, eu desaguei, decidi não mais me calar, denunciei! E depois do silêncio quebrado, meus pensamentos em guerra cessaram, recuperei o fôlego e ouvi meu coração sendo grato. Encontrei em mim um porto seguro, entendi que meu corpo é meu lar e, no caminho até ele, escolho quem anda comigo e quem convido pra entrar. Hoje, quando olho pra dentro, vejo uma nova mulher renascendo, eu celebro sua chegada e contemplo essa nova vida. Sem medo, abro a janela de casa e, com olhar de quem há tanto tempo esperava, te pego pela mão e digo: Seja bem-vinda!” Mel Duarte. Colmeia - Poemas Reunidos."
+    },
+    "conceito": "Igualdade de gênero envolve participação e poder de decisão; visibilidade esportiva não prova igualdade já alcançada.",
+    "passos": [
+      "A audiência da Copa e a paridade de vagas olímpicas são avanços de participação destacados no texto.",
+      "A análise precisa distinguir essas conquistas da distribuição desigual de cargos de gestão e liderança, que mantém a meta de igualdade em aberto."
+    ],
+    "alternativaCorreta": "C",
+    "distratores": {
+      "A": "A visibilidade de atletas não permite concluir que mulheres já tenham o mesmo destaque em toda a sociedade.",
+      "B": "A expressão “em totalidade” transforma avanços parciais em igualdade concluída, contrariando o enunciado.",
+      "D": "O esporte é prática social e participa das condições de inclusão contempladas nos ODS.",
+      "E": "A influência não está necessariamente restrita às modalidades profissionais populares; pode afetar participação e decisões."
+    }
+  },
+  {
+    "ref": 41,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "ingles",
+    "sourceRaw": {
+      "enunciado": "Na letra da música, o verso “Like you are a poet trapped inside the body of a finance guy”",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "enaltece a romantização e idealização de épocas passadas."
+        },
+        {
+          "letra": "B",
+          "texto": "destaca o papel de contextos externos no manejo de frustrações."
+        },
+        {
+          "letra": "C",
+          "texto": "expressa o sentimento de insatisfação ou inadequação em relação às expectativas sociais."
+        },
+        {
+          "letra": "D",
+          "texto": "critica a revelação de segredos e o rompimento de fronteiras pessoais."
+        },
+        {
+          "letra": "E",
+          "texto": "enfatiza a importância da sorte e de elementos culturais como mitos e rituais. #####"
+        }
+      ],
+      "page": 18,
+      "endPage": 18,
+      "context": "TEXTO PARA AS QUESTÕES 41 E 42 “Quick, quick, tell me something awful Like you are a poet trapped inside the body of a finance guy Tell me all your secrets, all you'll ever be is My eternal consolation prize You see, I was a debutante in another life, but Now I seem to be scared to go outside If comfort is a construct, I don't believe in good luck Now that I know what's what I hate it here so I will go to secret gardens in my mind People need a key to get to, the only one is mine I read about it in a book when I was a precocious child No mid-sized city hopes and small-town fears I'm there most of the year 'cause I hate it here I hate it here My friends used to play a game where We would pick a decade We wished we could live in instead of this I'd say the 1830s but without all the racists And getting married off for the highest bid Everyone would look down 'cause it wasn't fun now Seems like it was never even fun back then Nostalgia is a mind's trick If I'd been there, I'd hate it It was freezing in the palace” “I hate it here”, Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado)."
+    },
+    "conceito": "Uma comparação pode expressar o conflito entre a identidade subjetiva e o papel social atribuído à pessoa.",
+    "passos": [
+      "O verso imagina um poeta aprisionado no corpo de um profissional de finanças. A palavra trapped marca limitação e desconforto.",
+      "O contraste entre sensibilidade poética e identidade profissional representa inadequação às expectativas sociais, em coerência com o descontentamento da canção."
+    ],
+    "alternativaCorreta": "C",
+    "distratores": {
+      "A": "O verso contrasta identidades presentes; não exalta diretamente uma época passada.",
+      "B": "A imagem focaliza inadequação subjetiva, não uma técnica de manejo por contextos externos.",
+      "D": "A revelação de segredos ocorre em outro verso e não explica a comparação poeta/profissional.",
+      "E": "Sorte, mitos e rituais não são os elementos dessa comparação."
+    }
+  },
+  {
+    "ref": 42,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "ingles",
+    "sourceRaw": {
+      "enunciado": "No texto, a percepção de “conforto como construto” indica que o eu lírico vê o conforto como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "refúgio mental para apaziguar as pressões e o descontentamento da vida."
+        },
+        {
+          "letra": "B",
+          "texto": "concepção ligada às experiências infantis em mecanismos de enfrentamento."
+        },
+        {
+          "letra": "C",
+          "texto": "conceito pressuposto, dependente da realidade concreta das pessoas."
+        },
+        {
+          "letra": "D",
+          "texto": "dificuldade de ter autoafirmação, por conta de questões internas pendentes."
+        },
+        {
+          "letra": "E",
+          "texto": "algo criado pela sociedade, produzindo falsa sensação de segurança. #####"
+        }
+      ],
+      "page": 18,
+      "endPage": 18,
+      "context": "TEXTO PARA AS QUESTÕES 41 E 42 “Quick, quick, tell me something awful Like you are a poet trapped inside the body of a finance guy Tell me all your secrets, all you'll ever be is My eternal consolation prize You see, I was a debutante in another life, but Now I seem to be scared to go outside If comfort is a construct, I don't believe in good luck Now that I know what's what I hate it here so I will go to secret gardens in my mind People need a key to get to, the only one is mine I read about it in a book when I was a precocious child No mid-sized city hopes and small-town fears I'm there most of the year 'cause I hate it here I hate it here My friends used to play a game where We would pick a decade We wished we could live in instead of this I'd say the 1830s but without all the racists And getting married off for the highest bid Everyone would look down 'cause it wasn't fun now Seems like it was never even fun back then Nostalgia is a mind's trick If I'd been there, I'd hate it It was freezing in the palace” “I hate it here”, Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado)."
+    },
+    "conceito": "Construct designa algo elaborado cultural ou socialmente, em vez de uma segurança natural ou garantida.",
+    "passos": [
+      "A voz lírica afirma “If comfort is a construct” e, em seguida, questiona sorte e formas de sentir-se em casa no mundo.",
+      "A formulação problematiza uma promessa socialmente construída de segurança, distinguindo-a dos jardins imaginários usados como refúgio."
+    ],
+    "alternativaCorreta": "E",
+    "distratores": {
+      "A": "O refúgio mental corresponde aos secret gardens, não define por si só construct.",
+      "B": "A lembrança da infância explica a origem de uma imagem, mas não o caráter socialmente produzido do conforto.",
+      "C": "“Pressuposto” trata o conceito como dado e não explica o seu caráter construído.",
+      "D": "Dificuldade de autoafirmação é uma consequência possível do conflito, não o significado da expressão."
+    }
+  },
+  {
+    "ref": 43,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "portugues",
+    "sourceRaw": {
+      "enunciado": "Carlos Drummond de Andrade foi o criador de uma obra lírica que, ao mesmo tempo, se aproxima e se afasta do Modernismo de 1922, propondo, a partir de traços desse movimento, uma poética original. Com base no exposto, em Alguma poesia (1930),",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os aspectos prosaicos da linguagem modernista ganham expressão lírica a partir de um sujeito poético que repropõe, em versos livres, a nostalgia romântica da infância idealizada."
+        },
+        {
+          "letra": "B",
+          "texto": "o sujeito poético incorpora, sob a perspectiva de uma lírica de raiz subjetiva, vários procedimentos estilísticos das vanguardas modernistas, em especial a escrita automática e o surrealismo."
+        },
+        {
+          "letra": "C",
+          "texto": "a tópica literária do desconcerto do mundo ganha uma reconfiguração moderna, a partir de um sujeito poético que, mais do que revelar um mundo às avessas, focaliza o seu desajuste frente à realidade."
+        },
+        {
+          "letra": "D",
+          "texto": "o nacionalismo literário, tão típico da revisão empreendida pela primeira geração modernista sobre a realidade brasileira, apresenta-se como eixo temático de cunho ufanista."
+        },
+        {
+          "letra": "E",
+          "texto": "a paisagem mineira, no espaço literário, é configurada pelo sujeito poético como ambiente bucólico e refúgio privilegiado para os seus desajustes frente ao “vasto mundo”. #####"
+        }
+      ],
+      "page": 18,
+      "endPage": 19,
+      "context": "TEXTO PARA AS QUESTÕES 41 E 42 “Quick, quick, tell me something awful Like you are a poet trapped inside the body of a finance guy Tell me all your secrets, all you'll ever be is My eternal consolation prize You see, I was a debutante in another life, but Now I seem to be scared to go outside If comfort is a construct, I don't believe in good luck Now that I know what's what I hate it here so I will go to secret gardens in my mind People need a key to get to, the only one is mine I read about it in a book when I was a precocious child No mid-sized city hopes and small-town fears I'm there most of the year 'cause I hate it here I hate it here My friends used to play a game where We would pick a decade We wished we could live in instead of this I'd say the 1830s but without all the racists And getting married off for the highest bid Everyone would look down 'cause it wasn't fun now Seems like it was never even fun back then Nostalgia is a mind's trick If I'd been there, I'd hate it It was freezing in the palace” “I hate it here”, Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado)."
+    },
+    "conceito": "Na lírica drummondiana, o sujeito desajustado reelabora criticamente o cotidiano e os recursos modernistas.",
+    "passos": [
+      "Alguma poesia utiliza linguagem cotidiana, ironia e verso livre, mas não resolve o conflito entre o eu e o mundo pela exaltação nacional.",
+      "O foco no desajuste do sujeito diante da realidade renova a tópica do desconcerto do mundo, como a tensão entre o eu e o “vasto mundo”."
+    ],
+    "alternativaCorreta": "C",
+    "distratores": {
+      "A": "A infância não é reconstituída somente como idealização romântica nostálgica.",
+      "B": "Escrita automática e surrealismo não definem o eixo predominante dessa lírica.",
+      "D": "O nacionalismo da obra é crítico, não um programa ufanista.",
+      "E": "Minas não constitui refúgio bucólico que elimine as contradições do sujeito."
+    }
+  },
+  {
+    "ref": 44,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "filosofia",
+    "sourceRaw": {
+      "enunciado": "Disponível em https://br.pinterest.com/. “Quem negaria que os futuros ainda não são? Mas já está na mente a espera dos futuros. E quem negaria que os passados já não são? Todavia, ainda está na mente a memória dos passados. E quem negaria que o tempo presente não tem extensão temporal, porque passa em um instante? Todavia, perdura a atenção, pela qual o que está presente se encaminha para a ausência.” Agostinho de Hipona. Confissões. Ao propor uma aproximação entre a fala da personagem Calvin no quadrinho e o trecho citado das Confissões de Agostinho, é possível encontrar semelhanças com relação à descrição do tempo e sua compreensão filosófica. Dentre as afirmativas a seguir, qual delas pode ser considerada verdadeira para ambos os casos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A passagem do tempo é ilusória."
+        },
+        {
+          "letra": "B",
+          "texto": "O tempo desfaz a mudança."
+        },
+        {
+          "letra": "C",
+          "texto": "Há um paradoxo na compreensão do tempo."
+        },
+        {
+          "letra": "D",
+          "texto": "Os momentos do tempo identificam-se entre si."
+        },
+        {
+          "letra": "E",
+          "texto": "Há ruptura completa entre o tempo presente e o futuro. #####"
+        }
+      ],
+      "page": 19,
+      "endPage": 19,
+      "context": "TEXTO PARA AS QUESTÕES 41 E 42 “Quick, quick, tell me something awful Like you are a poet trapped inside the body of a finance guy Tell me all your secrets, all you'll ever be is My eternal consolation prize You see, I was a debutante in another life, but Now I seem to be scared to go outside If comfort is a construct, I don't believe in good luck Now that I know what's what I hate it here so I will go to secret gardens in my mind People need a key to get to, the only one is mine I read about it in a book when I was a precocious child No mid-sized city hopes and small-town fears I'm there most of the year 'cause I hate it here I hate it here My friends used to play a game where We would pick a decade We wished we could live in instead of this I'd say the 1830s but without all the racists And getting married off for the highest bid Everyone would look down 'cause it wasn't fun now Seems like it was never even fun back then Nostalgia is a mind's trick If I'd been there, I'd hate it It was freezing in the palace” “I hate it here”, Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado)."
+    },
+    "conceito": "O paradoxo temporal surge quando passado e futuro não estão presentes e o presente desaparece continuamente, embora sejam vividos pela consciência.",
+    "passos": [
+      "Agostinho situa passado na memória, futuro na espera e presente na atenção. Assim explica a experiência temporal sem transformar todos os momentos em objetos simultaneamente existentes.",
+      "O problema é conciliar essa experiência com o fato de o instante passar: a aproximação pedida explora uma dificuldade paradoxal, não uma simples negação da mudança."
+    ],
+    "alternativaCorreta": "C",
+    "distratores": {
+      "A": "A análise não conclui que toda passagem seja mera ilusão.",
+      "B": "O trecho descreve passagem e transformação, não seu desfazimento.",
+      "D": "Memória, espera e atenção são modos distintos, não identidade entre todos os momentos.",
+      "E": "A atenção liga a experiência do presente à passagem; não há ruptura absoluta com o futuro."
+    }
+  },
+  {
+    "ref": 45,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "matematica",
+    "sourceRaw": {
+      "enunciado": "Considere que a expectativa de vida no Brasil à idade de 19 anos pode ser calculada, de forma aproximada, como a média aritmética simples entre a expectativa de vida estimada à mesma idade dos homens e das mulheres. O mesmo pode ser feito à idade de 20 anos. Segundo dados do IBGE, em 2022, a expectativa de vida estimada no Brasil à idade de 19 anos era 58, e a expectativa de vida estimada dos homens à mesma idade era 54,7. Sabe-se que a diferença entre a expectativa de vida estimada dos homens e a das mulheres se manteve à idade de 20 anos e que a expectativa de vida estimada dos homens a essa idade (EVH 20 ) era 53,8. Com base nos dados apresentados, assinale a alternativa que apresenta a expectativa de vida estimada das mulheres à idade de 19 anos (EVM 19) e a expectativa de vida estimada à idade de 20 anos no Brasil (EVB 20 ) em 2022. EVM 19 EVB20",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "54,7 54,7"
+        },
+        {
+          "letra": "B",
+          "texto": "54,7 58"
+        },
+        {
+          "letra": "C",
+          "texto": "60 54"
+        },
+        {
+          "letra": "D",
+          "texto": "61,3 56"
+        },
+        {
+          "letra": "E",
+          "texto": "61,3 57,1 #####"
+        }
+      ],
+      "page": 19,
+      "endPage": 19,
+      "context": "TEXTO PARA AS QUESTÕES 41 E 42 “Quick, quick, tell me something awful Like you are a poet trapped inside the body of a finance guy Tell me all your secrets, all you'll ever be is My eternal consolation prize You see, I was a debutante in another life, but Now I seem to be scared to go outside If comfort is a construct, I don't believe in good luck Now that I know what's what I hate it here so I will go to secret gardens in my mind People need a key to get to, the only one is mine I read about it in a book when I was a precocious child No mid-sized city hopes and small-town fears I'm there most of the year 'cause I hate it here I hate it here My friends used to play a game where We would pick a decade We wished we could live in instead of this I'd say the 1830s but without all the racists And getting married off for the highest bid Everyone would look down 'cause it wasn't fun now Seems like it was never even fun back then Nostalgia is a mind's trick If I'd been there, I'd hate it It was freezing in the palace” “I hate it here”, Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado)."
+    },
+    "conceito": "A média aritmética de dois valores permite recuperar um deles; diferenças mantidas podem ser transferidas entre idades.",
+    "passos": [
+      "A expectativa feminina aos 19 anos satisfaz \\((54{,}7+x)/2=58\\), portanto \\(x=61{,}3\\). A diferença entre os sexos é 6,6 anos.",
+      "Aos 20 anos, a expectativa feminina é \\(53{,}8+6{,}6=60{,}4\\). A média brasileira passa a \\((53{,}8+60{,}4)/2=57{,}1\\)."
+    ],
+    "alternativaCorreta": "E",
+    "distratores": {
+      "A": "Igualar ambos os valores a 54,7 ignora a média inicial de 58.",
+      "B": "A expectativa feminina aos 19 não é 54,7; o cálculo da idade seguinte também não preserva a diferença.",
+      "C": "Os dois números divergem das equações: 60 não produz média 58 com 54,7.",
+      "D": "O primeiro valor está correto, mas a média aos 20 anos é 57,1, não 56."
+    }
+  },
+  {
+    "ref": 66,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "portugues",
+    "sourceRaw": {
+      "enunciado": "Ao empregar o pronome se em “utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica”, o pesquisador",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "indetermina o sujeito, tentando mostrar que desconhece a real autoria do experimento."
+        },
+        {
+          "letra": "B",
+          "texto": "valoriza o objeto “caldo de cana”, enfatizando a importância desse produto para o experimento."
+        },
+        {
+          "letra": "C",
+          "texto": "chama a atenção para o verbo transitivo “utilizar”, valorizando a importância de se experimentar diretamente o caldo de cana."
+        },
+        {
+          "letra": "D",
+          "texto": "faz uso da voz passiva, construção em que “caldo de cana” atua como sujeito, deixando de haver menção a quem realizou o experimento."
+        },
+        {
+          "letra": "E",
+          "texto": "escolhe uma construção reflexiva em que “caldo de cana” é, ao mesmo tempo, o agente e o objeto do experimento realizado. #####"
+        }
+      ],
+      "page": 25,
+      "endPage": 25,
+      "context": "TEXTO PARA AS QUESTÕES 65 E 66 Da moenda para a célula a combustível: caldo de cana é usado para produzir energia elétrica “Pesquisadores do Instituto de Pesquisas Energéticas e Nucleares (Ipen), órgão associado à USP, testaram o uso de caldo de cana para gerar energia elétrica em células a combustível. O processo dispensa a transformação do caldo in natura em etanol, feita nas usinas de álcool, impedindo a formação de resíduos nocivos ao meio ambiente. Após o êxito dos experimentos em laboratório, os cientistas vão desenvolver a aplicação da técnica em escala industrial. ‘A célula a combustível tem o mesmo princípio de funcionamento de uma pilha. A diferença é que o combustível serve como reagente para ser consumido e gerar eletricidade’, explica o pesquisador do Ipen, Almir Oliveira Neto, que coordenou a pesquisa. ‘No dispositivo que foi desenvolvido na pesquisa, a oxidação do caldo de cana acontece no ânodo e a redução de oxigênio no cátodo. O objetivo do experimento era obter energia da biomassa com o mínimo impacto ambiental possível. Para isso, utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica’, diz o pesquisador. ‘O uso do caldo de cana direto evita a formação de vinhaça, um resíduo ambientalmente perigoso decorrente da produção de etanol, contribuindo, assim, para a preservação do meio ambiente’.” Disponível em https://jornal.usp.br/ciencias/ (Adaptado)."
+    },
+    "conceito": "A voz passiva sintética se constrói com verbo transitivo direto e pronome apassivador se.",
+    "passos": [
+      "“Utilizou-se o caldo de cana” pode ser reescrito como “o caldo de cana foi utilizado”.",
+      "O sintagma “o caldo de cana” é sujeito paciente; o agente do experimento não é expresso nessa construção."
+    ],
+    "alternativaCorreta": "D",
+    "distratores": {
+      "A": "Não se trata de índice de indeterminação do sujeito: há sujeito paciente que admite concordância.",
+      "B": "Na passiva, “caldo de cana” não exerce função de objeto direto.",
+      "C": "Destacar o verbo não explica a função sintática e a transformação para a passiva.",
+      "E": "O caldo não utiliza a si mesmo; a construção não é reflexiva."
+    }
+  },
+  {
+    "ref": 67,
+    "source": "fuvest-2025-fase1-v1",
+    "disciplina": "biologia",
+    "sourceRaw": {
+      "enunciado": "Pesquisas e terapias com células-tronco têm se mostrado cada vez mais promissoras pela possibilidade de seu uso no tratamento de diferentes tipos de doenças, como câncer e doenças degenerativas. As células-tronco podem se diferenciar em células especializadas, conforme exemplificado a seguir. Disponível em https://upload.wikimedia.org/wikipedia/ (Adaptado). As células especializadas que derivam de uma mesma célula- tronco possuem os(as) mesmos(as)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "genes."
+        },
+        {
+          "letra": "B",
+          "texto": "RNAs."
+        },
+        {
+          "letra": "C",
+          "texto": "proteínas."
+        },
+        {
+          "letra": "D",
+          "texto": "lipídeos."
+        },
+        {
+          "letra": "E",
+          "texto": "organelas. #####"
+        }
+      ],
+      "page": 25,
+      "endPage": 26,
+      "context": "TEXTO PARA AS QUESTÕES 65 E 66 Da moenda para a célula a combustível: caldo de cana é usado para produzir energia elétrica “Pesquisadores do Instituto de Pesquisas Energéticas e Nucleares (Ipen), órgão associado à USP, testaram o uso de caldo de cana para gerar energia elétrica em células a combustível. O processo dispensa a transformação do caldo in natura em etanol, feita nas usinas de álcool, impedindo a formação de resíduos nocivos ao meio ambiente. Após o êxito dos experimentos em laboratório, os cientistas vão desenvolver a aplicação da técnica em escala industrial. ‘A célula a combustível tem o mesmo princípio de funcionamento de uma pilha. A diferença é que o combustível serve como reagente para ser consumido e gerar eletricidade’, explica o pesquisador do Ipen, Almir Oliveira Neto, que coordenou a pesquisa. ‘No dispositivo que foi desenvolvido na pesquisa, a oxidação do caldo de cana acontece no ânodo e a redução de oxigênio no cátodo. O objetivo do experimento era obter energia da biomassa com o mínimo impacto ambiental possível. Para isso, utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica’, diz o pesquisador. ‘O uso do caldo de cana direto evita a formação de vinhaça, um resíduo ambientalmente perigoso decorrente da produção de etanol, contribuindo, assim, para a preservação do meio ambiente’.” Disponível em https://jornal.usp.br/ciencias/ (Adaptado)."
+    },
+    "conceito": "A diferenciação celular modifica a expressão gênica, mantendo em regra o mesmo conjunto de genes das células derivadas.",
+    "passos": [
+      "Células especializadas descendentes da mesma célula-tronco recebem o patrimônio genético por divisões mitóticas.",
+      "A especialização seleciona quais genes serão expressos, gerando diferenças de RNAs, proteínas e organização celular sem exigir genomas distintos."
+    ],
+    "alternativaCorreta": "A",
+    "distratores": {
+      "B": "O conjunto e a quantidade de RNAs variam com os genes expressos em cada célula.",
+      "C": "Proteínas específicas refletem a função celular e não são idênticas em todos os tipos.",
+      "D": "A composição lipídica pode variar com membranas e metabolismo de cada célula.",
+      "E": "Quantidade e distribuição de organelas variam com a especialização."
+    }
+  }
+]

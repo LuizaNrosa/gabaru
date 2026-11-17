@@ -1,0 +1,45 @@
+[WebServer] (node:111997) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+
+Running 10 tests using 1 worker
+
+(node:112011) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓   1 [desktop] › tests/e2e/colecao-vestibulinho.spec.ts:4:1 › sumário público apresenta quatro livros e 23 capítulos sem JavaScript (3.2s)
+  ✓   2 [desktop] › tests/e2e/colecao-vestibulinho.spec.ts:12:1 › 23 leitores exigem sessão e não revelam o conteúdo no redirecionamento (3.3s)
+  ✓   3 [desktop] › tests/e2e/esqueleto.spec.ts:7:1 › filtros nuqs mantêm URL, voltar/avançar e canonical limpo (6.1s)
+{"path":"/","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":2}
+{"path":"/sobre","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/privacidade","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/termos","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/reembolso","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/provas","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/provas/coluni/2026","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":4}
+{"path":"/questoes","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/questoes/etec-2026-2-q001","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/disciplina/matematica","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/livros","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/videoaulas","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":2}
+  ✓   4 [desktop] › tests/e2e/esqueleto.spec.ts:15:1 › esqueleto tem metadados, JSON-LD, semântica e axe sem violações sérias/críticas (37.2s)
+  ✓   5 [desktop] › tests/e2e/esqueleto.spec.ts:21:1 › aliases de sitemap redirecionam e robots declara apenas o índice (163ms)
+(node:112512) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓   6 [mobile] › tests/e2e/colecao-vestibulinho.spec.ts:4:1 › sumário público apresenta quatro livros e 23 capítulos sem JavaScript (2.4s)
+  ✓   7 [mobile] › tests/e2e/colecao-vestibulinho.spec.ts:12:1 › 23 leitores exigem sessão e não revelam o conteúdo no redirecionamento (1.4s)
+  ✓   8 [mobile] › tests/e2e/esqueleto.spec.ts:7:1 › filtros nuqs mantêm URL, voltar/avançar e canonical limpo (5.8s)
+{"path":"/","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":2}
+{"path":"/sobre","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/privacidade","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/termos","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/reembolso","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/provas","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/provas/coluni/2026","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":4}
+{"path":"/questoes","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/questoes/etec-2026-2-q001","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/disciplina/matematica","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/livros","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/videoaulas","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":2}
+  ✓   9 [mobile] › tests/e2e/esqueleto.spec.ts:15:1 › esqueleto tem metadados, JSON-LD, semântica e axe sem violações sérias/críticas (37.7s)
+  ✓  10 [mobile] › tests/e2e/esqueleto.spec.ts:21:1 › aliases de sitemap redirecionam e robots declara apenas o índice (44ms)
+
+  10 passed (1.7m)

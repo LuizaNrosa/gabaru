@@ -1,0 +1,45 @@
+
+Running 6 tests using 1 worker
+
+(node:107663) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓  1 [desktop] › tests/e2e/billing-brasil.spec.ts:4:1 › Pix e cartão: checkout, confirmação, replay e cancelamento dentro do painel (8.2s)
+{"path":"/","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":2}
+{"path":"/sobre","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/privacidade","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/termos","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/reembolso","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/provas","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/provas/coluni/2026","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":4}
+{"path":"/questoes","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/questoes/etec-2026-2-q001","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/disciplina/matematica","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/livros","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/videoaulas","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":2}
+{"path":"/painel","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/livros/enem-exatas-e-linguagens/funcoes-e-modelagem","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/livros/matematica-essencial-ifs-etec/razao-proporcao-escalas-e-regra-de-tres","width":1280,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+  ✓  2 [desktop] › tests/e2e/esqueleto.spec.ts:15:1 › esqueleto tem metadados, JSON-LD, semântica e axe sem violações sérias/críticas (28.2s)
+  ✓  3 [desktop] › tests/e2e/plataforma-v3.spec.ts:4:1 › capítulo exige login e respeita o modo gratuito ou assinatura (61ms)
+(node:108108) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓  4 [mobile] › tests/e2e/billing-brasil.spec.ts:4:1 › Pix e cartão: checkout, confirmação, replay e cancelamento dentro do painel (5.4s)
+{"path":"/","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":2}
+{"path":"/sobre","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/privacidade","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/termos","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/reembolso","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/provas","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/provas/coluni/2026","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":4}
+{"path":"/questoes","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/questoes/etec-2026-2-q001","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/disciplina/matematica","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/livros","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/videoaulas","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":2}
+{"path":"/painel","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/livros/enem-exatas-e-linguagens/funcoes-e-modelagem","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+{"path":"/livros/matematica-essencial-ifs-etec/razao-proporcao-escalas-e-regra-de-tres","width":390,"htmlErrors":0,"seriasCriticas":0,"schemas":3}
+  ✓  5 [mobile] › tests/e2e/esqueleto.spec.ts:15:1 › esqueleto tem metadados, JSON-LD, semântica e axe sem violações sérias/críticas (28.2s)
+  ✓  6 [mobile] › tests/e2e/plataforma-v3.spec.ts:4:1 › capítulo exige login e respeita o modo gratuito ou assinatura (80ms)
+
+  6 passed (1.2m)

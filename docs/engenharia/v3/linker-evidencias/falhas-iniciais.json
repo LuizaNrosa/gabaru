@@ -1,0 +1,85 @@
+{
+  "counts": {
+    "sitemapUrls": 3368,
+    "sitemaps": 6,
+    "internalUrls": 6167,
+    "ok": 6152,
+    "redirects": 5,
+    "broken": 10,
+    "contractFailures": 0,
+    "tier0Samples": 3
+  },
+  "failures": [
+    {
+      "url": "http://127.0.0.1:3100/api/v1/vestibulares/unicamp/2025-regular-41564e9bbd20",
+      "status": 502,
+      "sources": [
+        "http://127.0.0.1:3100/provas/unicamp/2025"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:3100/api/v1/vestibulares/unesp/2010-regular-71341915205c",
+      "status": 502,
+      "sources": [
+        "http://127.0.0.1:3100/provas/unesp/2010"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:3100/api/v1/vestibulares/unesp/2009-regular-e17cce8be9d5",
+      "status": 502,
+      "sources": [
+        "http://127.0.0.1:3100/provas/unesp/2009"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:3100/api/v1/vestibulares/unesp/2007-regular-6388bff10067",
+      "status": 502,
+      "sources": [
+        "http://127.0.0.1:3100/provas/unesp/2007"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:3100/api/v1/vestibulares/unesp/2008-regular-4232bbd9516f",
+      "status": 502,
+      "sources": [
+        "http://127.0.0.1:3100/provas/unesp/2008"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:3100/api/v1/vestibulares/unesp/2005-regular-4842096857a5",
+      "status": 502,
+      "sources": [
+        "http://127.0.0.1:3100/provas/unesp/2005"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:3100/api/v1/vestibulares/unesp/2006-regular-80e579c859ec",
+      "status": 502,
+      "sources": [
+        "http://127.0.0.1:3100/provas/unesp/2006"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:3100/api/v1/vestibulares/unesp/2004-regular-fd8b093956f5",
+      "status": 502,
+      "sources": [
+        "http://127.0.0.1:3100/provas/unesp/2004"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:3100/api/v1/fuvest/140",
+      "status": 502,
+      "sources": [
+        "http://127.0.0.1:3100/provas/fuvest/1984"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:3100/api/v1/fuvest/136",
+      "status": 502,
+      "sources": [
+        "http://127.0.0.1:3100/provas/fuvest/1987"
+      ]
+    }
+  ],
+  "semantic": []
+}

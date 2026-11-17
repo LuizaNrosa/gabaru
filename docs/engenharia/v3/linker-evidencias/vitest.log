@@ -1,0 +1,11 @@
+
+ RUN  v5.1.0 /workspace/work/gabaru-code
+
+
+ Test Files  3 passed (3)
+      Tests  21 passed (21)
+   Start at  04:43:09
+   Duration  1.76s (tests 55%, transform 23%, import 18%, environment 3%, worker 2%)
+
+    Isolate  3 workers spawned · ~254ms startup each (spawn + environment, per file)
+             at least ~507ms faster with isolate: false — reuses workers across files instead of one per file

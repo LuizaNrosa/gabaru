@@ -1,7 +1,9 @@
+import {getServerEnv} from './src/env.mjs';
 import type { NextConfig } from "next";
 
-const demoAuth = process.env.VERCEL !== '1' && process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID?.startsWith('demo-') && process.env.NEXT_PUBLIC_FIREBASE_AUTH_EMULATOR_URL === 'http://127.0.0.1:9099';
-const isDev = process.env.NODE_ENV !== "production";
+const configEnv=getServerEnv();
+const demoAuth = configEnv.VERCEL !== '1' && configEnv.NEXT_PUBLIC_FIREBASE_PROJECT_ID?.startsWith('demo-') && configEnv.NEXT_PUBLIC_FIREBASE_AUTH_EMULATOR_URL === 'http://127.0.0.1:9099';
+const isDev = configEnv.NODE_ENV !== "production";
 
 // CSP: Next injeta scripts inline na hidratação, por isso 'unsafe-inline' em script-src.
 // Migrar para nonce por requisição (middleware) é o próximo endurecimento.
@@ -34,9 +36,9 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   outputFileTracingExcludes: { "/*": ["./bibliografia-pdfs/**", "./work/**", "./public/**/*.webp", "./public/**/*.png", "./public/**/*.jpg", "./public/**/*.jpeg", "./node_modules/@napi-rs/canvas/**", "./node_modules/@napi-rs/canvas-*/**"] },
   poweredByHeader: false,
-  async rewrites() { return [{source:"/sitemap.xml",destination:"/sitemap-index.xml"}]; },
+
   async redirects() {
-    return [...Array.from({length:5},(_,i)=>({source:`/questoes/enem-2011-d2-q09${i+1}`,destination:`https://gabaru.com.br/questoes/enem-2011-d2-q09${i+1}-en`,statusCode:301})),{
+    return [{source:"/sitemap-index.xml",destination:"/sitemap.xml",statusCode:301},...Array.from({length:5},(_,i)=>({source:`/questoes/enem-2011-d2-q09${i+1}`,destination:`https://gabaru.com.br/questoes/enem-2011-d2-q09${i+1}-en`,statusCode:301})),{
       source: "/:path*",
       has: [{ type: "host", value: "www\\.gabaru\\.com\\.br" }],
       destination: "https://gabaru.com.br/:path*",

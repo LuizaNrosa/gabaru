@@ -1,0 +1,11 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {spawnSync} from 'node:child_process';
+const run=(env,code)=>spawnSync(process.execPath,['--input-type=module','-e',code],{env:{NODE_ENV:'test',...env},encoding:'utf8'});
+test('ambiente sem segredos compila com billing desligado e domínio canônico',()=>{const r=run({},"const {env}=await import('./src/env.mjs');console.log(JSON.stringify({billing:env.NEXT_PUBLIC_BILLING_ENABLED,site:env.NEXT_PUBLIC_SITE_URL}));");assert.equal(r.status,0,r.stderr);assert.deepEqual(JSON.parse(r.stdout),{billing:'false',site:'https://gabaru.com.br'});});
+test('configuração inválida falha sem imprimir valores sensíveis',()=>{const secret='VALOR_PRIVADO_NAO_IMPRIMIR';const r=run({NEXT_PUBLIC_BILLING_ENABLED:secret},"await import('./src/env.mjs')");assert.notEqual(r.status,0);assert.match(r.stderr,/Invalid environment variables.*NEXT_PUBLIC_BILLING_ENABLED/);assert.ok(!r.stderr.includes(secret));});
+test('cliente não pode ler variável do servidor',()=>{const r=run({MP_ACCESS_TOKEN:'token-privado'},"globalThis.window={};const {env}=await import('./src/env.mjs');try{console.log(env.MP_ACCESS_TOKEN)}catch(e){console.log(e.message)}");assert.equal(r.status,0,r.stderr);assert.match(r.stdout,/Server environment access/);assert.ok(!r.stdout.includes('token-privado'));});
+test('origem pública rejeita protocolos não HTTP e credenciais na URL',()=>{
+ for(const site of ['javascript:alert(1)','https://user:password@gabaru.com.br']){const r=run({NEXT_PUBLIC_SITE_URL:site},"await import('./src/env.mjs')");assert.notEqual(r.status,0);assert.match(r.stderr,/NEXT_PUBLIC_SITE_URL/);assert.ok(!r.stderr.includes('password'));}
+});
+test('visão pública também bloqueia segredos durante SSR; getter de servidor permanece funcional',()=>{
+ const r=run({MP_ACCESS_TOKEN:'segredo-de-teste'},"const {env,getServerEnv}=await import('./src/env.mjs');let blocked=false;try{void env.MP_ACCESS_TOKEN}catch{blocked=true}console.log(JSON.stringify({blocked,server:getServerEnv().MP_ACCESS_TOKEN==='segredo-de-teste'}));");assert.equal(r.status,0,r.stderr);assert.deepEqual(JSON.parse(r.stdout),{blocked:true,server:true});assert.ok(!r.stdout.includes('segredo-de-teste'));
+});

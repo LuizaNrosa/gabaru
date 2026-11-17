@@ -1,3 +1,10 @@
-import { gzipSync } from 'node:zlib';
-import { sitemapNames,sitemapXml,type SitemapName } from '@/lib/seo/sitemaps';
-export async function GET(_req:Request,{params}:{params:Promise<{tipo:string;parte:string}>}){const {tipo,parte}=await params;const name=`sitemap-${tipo}.xml` as SitemapName;const m=/^([1-9]\d*)\.xml(\.gz)?$/.exec(parte);if(!m||!sitemapNames.includes(name))return new Response('Não encontrado',{status:404});try{const xml=await sitemapXml(name,Number(m[1]));return new Response(m[2]?new Uint8Array(gzipSync(xml)):xml,{headers:{'Content-Type':'application/xml; charset=utf-8',...(m[2]?{'Content-Encoding':'gzip'}:{})}});}catch{return new Response('Parte não encontrada',{status:404});}}
+import manifest from '@/data/seo-publico.json';
+export async function GET(req:Request,{params}:{params:Promise<{tipo:string;parte:string}>}){
+ const {tipo,parte}=await params;
+ const match=/^([1-9]\d*)\.xml(?:\.gz)?$/.exec(parte);
+ if(!match||!Object.hasOwn(manifest.families,tipo))return new Response('Parte não encontrada',{status:404});
+ const family=manifest.families[tipo as keyof typeof manifest.families],number=Number(match[1]);
+ if(number>Math.ceil(family.length/2000))return new Response('Parte não encontrada',{status:404});
+ const path=`/sitemap-${tipo}${number>1?'-'+(number-1):''}.xml`;
+ return new Response(null,{status:301,headers:{Location:path}});
+}

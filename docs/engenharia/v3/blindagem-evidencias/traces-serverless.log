@@ -1,0 +1,10 @@
+{
+  "traces": 110,
+  "forbiddenPrivatePaths": 0,
+  "largest": {
+    "trace": ".next/server/app/livros/[livroSlug]/[capituloSlug]/page.js.nft.json",
+    "bytes": 47155614,
+    "mib": 44.97
+  },
+  "limitMiB": 250
+}

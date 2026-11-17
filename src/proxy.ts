@@ -1,3 +1,4 @@
+import {getServerEnv} from './env.mjs';
 import {NextRequest,NextResponse} from 'next/server';
 import {createHash} from 'node:crypto';
 import {limitar} from '@/lib/seguranca';
@@ -6,11 +7,11 @@ import {adminDb} from '@/lib/firebase/admin';
 export async function proxy(req:NextRequest){
  const path=req.nextUrl.pathname;if(!path.startsWith('/api/'))return NextResponse.next();
  if(path==='/api/stripe/webhook'&&!req.headers.get('stripe-signature'))return NextResponse.json({error:'Assinatura exigida.'},{status:400});
- const raw=process.env.VERCEL==='1'?req.headers.get('x-vercel-forwarded-for')??'unknown':'shared';
+ const raw=getServerEnv().VERCEL==='1'?req.headers.get('x-vercel-forwarded-for')??'unknown':'shared';
  const ip=createHash('sha256').update(raw.split(',')[0]).digest('hex').slice(0,32),key=ip+':'+path,max=path==='/api/stripe/webhook'?600:120;
  const requested=Number(req.nextUrl.searchParams.get('limit')??30),cost=path==='/api/v1/questions'?(Number.isInteger(requested)&&requested>=1&&requested<=90?requested:1):0;
  if(!limitar(key,max,60000))return NextResponse.json({error:'Limite atingido. Tente novamente em um minuto.'},{status:429,headers:{'Retry-After':'60'}});
- if(process.env.API_RATE_LIMIT_BACKEND==='firestore'){
+ if(getServerEnv().API_RATE_LIMIT_BACKEND==='firestore'){
   try{const db=await adminDb(),now=Date.now(),minute=db.collection('api_rate_limits').doc(createHash('sha256').update('minute:'+key).digest('hex')),daily=db.collection('api_rate_limits').doc(createHash('sha256').update('daily:'+ip).digest('hex'));
    const retry=await db.runTransaction(async tx=>{
     const m=(await tx.get(minute)).data(),d=cost?(await tx.get(daily)).data():undefined;

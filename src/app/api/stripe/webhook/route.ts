@@ -1,8 +1,9 @@
+import {getServerEnv} from '../../../../env.mjs';
 import {NextResponse} from 'next/server';import type Stripe from 'stripe';
 import {getStripe} from '@/lib/stripe';import {adminDb} from '@/lib/firebase/admin';import {uidInput,readLimitedText} from '@/lib/security/input';import {applyStripeEvent} from '@/server/stripe-events';
 export const runtime='nodejs';
 export async function POST(req:Request){
- const signature=req.headers.get('stripe-signature'),secret=process.env.STRIPE_WEBHOOK_SECRET;
+ const signature=req.headers.get('stripe-signature'),secret=getServerEnv().STRIPE_WEBHOOK_SECRET;
  if(!signature||!secret)return NextResponse.json({error:'Assinatura exigida.'},{status:400});
  let event:Stripe.Event;try{event=getStripe().webhooks.constructEvent(await readLimitedText(req,1048576),signature,secret);}catch{return NextResponse.json({error:'Assinatura inválida.'},{status:400});}
  if(!/^evt_[a-zA-Z0-9]+$/.test(event.id))return NextResponse.json({error:'Evento inválido.'},{status:400});
@@ -16,7 +17,7 @@ export async function POST(req:Request){
    // Out-of-order delivery before checkout: retry; never acknowledge a lost activation.
    if(!uid)throw Error('owner-not-yet-linked');
   }
-  if(subId&&uid){uid=uidInput.parse(uid);if(!/^sub_[a-zA-Z0-9]+$/.test(subId))throw Error('subscription-id');const subscription=await getStripe().subscriptions.retrieve(subId);const price=process.env.STRIPE_PRICE_ID;if(!price||!subscription.items.data.some(item=>item.price.id===price))throw Error('price-mismatch');
+  if(subId&&uid){uid=uidInput.parse(uid);if(!/^sub_[a-zA-Z0-9]+$/.test(subId))throw Error('subscription-id');const subscription=await getStripe().subscriptions.retrieve(subId);const price=getServerEnv().STRIPE_PRICE_ID;if(!price||!subscription.items.data.some(item=>item.price.id===price))throw Error('price-mismatch');
    await applyStripeEvent(db,event,{id:subId,uid,customerId:typeof subscription.customer==='string'?subscription.customer:subscription.customer.id,status:subscription.status,expiresAt:subscription.current_period_end?subscription.current_period_end*1000:null,priceId:price});
   }else await applyStripeEvent(db,event);
   return NextResponse.json({received:true});

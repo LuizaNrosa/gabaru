@@ -1,0 +1,33 @@
+(node:97202) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/editorial-segments.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+{"pdfs":1,"quarentena":0,"paginas":1,"paginasOmitidas":0,"fontesSemAutorizacao":1,"indice":"/tmp/gabaru-biblio-ku9aHt/indice.json"}
+{"capitulo":"/tmp/gabaru-biblio-ku9aHt/capitulos/guia/funcoes.json","status":"rascunho","questoes":["enem-2021-d2-q155","enem-2022-ppl-d2-q138","enem-2023-d2-q177","enem-2024-ppl-d2-q161","enem-2024-ppl-d2-q163"],"fonteSha256":"498217038edbdc6bbc33384a52fcf88ab40617fcc37632d7cfdd268d4afb6a25"}
+{"capitulo":"/tmp/gabaru-biblio-ku9aHt/capitulos/guia/funcoes.json","status":"rascunho","questoes":["enem-2021-d2-q155","enem-2022-ppl-d2-q138","enem-2023-d2-q177","enem-2024-ppl-d2-q161","enem-2024-ppl-d2-q163"],"fonteSha256":"498217038edbdc6bbc33384a52fcf88ab40617fcc37632d7cfdd268d4afb6a25"}
+✔ PDF local → capítulo privado, KaTeX e cinco questões reais; hash e publicação protegidos (1928.978137ms)
+✔ ingestão recusa links simbólicos (1.21967ms)
+✔ projeção editorial diferencia dinheiro de fórmulas e recusa TeX inválido (2.165276ms)
+(node:97211) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/editorial-segments.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+{"pdfs":1,"quarentena":0,"paginas":1,"paginasOmitidas":0,"fontesSemAutorizacao":0,"indice":"/tmp/gabaru-colecao-AK7hJQ/indice.json"}
+{"capitulo":"/tmp/gabaru-colecao-AK7hJQ/content/matematica-essencial-ifs-etec/razao-proporcao-escalas-e-regra-de-tres.json","status":"rascunho","fontes":1,"questoes":["etec-2019-2-q025","etec-2007-2-q016","etec-2010-1-q007","etec-2010-1-q008","etec-2013-2-q039","etec-2014-1-q003"]}
+{"capitulo":"/tmp/gabaru-colecao-AK7hJQ/content/matematica-essencial-ifs-etec/razao-proporcao-escalas-e-regra-de-tres.json","status":"rascunho","fontes":1,"questoes":["etec-2019-2-q025","etec-2007-2-q016","etec-2010-1-q007","etec-2010-1-q008","etec-2013-2-q039","etec-2014-1-q003"]}
+{"pdfs":1,"quarentena":1,"paginas":0,"paginasOmitidas":1,"fontesSemAutorizacao":1,"indice":"/tmp/gabaru-ocr-yZziNG/indice.json"}
+✔ coleção registra quatro livros, 23 capítulos únicos e exemplos estruturados (1.882217ms)
+✔ PDF por prefixo → trechos pertinentes, seis questões ETEC/IFs e referências; hash/licença protegidos (600.467911ms)
+✔ licença NC ou autorização ausente não libera adaptação comercial (0.51394ms)
+✔ 23 capítulos têm seis candidatas reais distintas; pertinência permanece sujeita à revisão (1047.952106ms)
+✔ fórmulas dos 23 planos e exemplos são válidas em KaTeX (13.950939ms)
+✔ fonte mapeada sem camada de texto fica em quarentena sem bloquear as demais (6.849442ms)
+✔ a disciplina do capítulo respeita Física, Química, Português e as áreas de Humanas (0.520543ms)
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 4840.420625

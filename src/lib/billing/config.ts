@@ -1,7 +1,9 @@
-/** Explicit opt-in: unset, false or any other value keeps launch access free. */
-export const billingEnabled=process.env.NEXT_PUBLIC_BILLING_ENABLED==='true';
+import type {ValidatedEnv} from '../../env.mjs';
+import {env,getServerEnv} from '../../env.mjs';
+/** Explicit opt-in: unset or false keeps launch access free; invalid configuration is rejected. */
+export const billingEnabled=env.NEXT_PUBLIC_BILLING_ENABLED==='true';
 import {z} from 'zod';import type {BillingPlan,PlanConfig} from './types';
 export const checkoutSchema=z.object({plan:z.enum(['pix-30','pix-90','pix-365','cartao-mensal','cartao-anual']),requestId:z.uuid()}).strict();
 export const cancelSchema=z.object({requestId:z.uuid()}).strict();
-const settings:Record<BillingPlan,{env:string;days:number;months?:number}>={'pix-30':{env:'BILLING_PIX_30_CENTS',days:30},'pix-90':{env:'BILLING_PIX_90_CENTS',days:90},'pix-365':{env:'BILLING_PIX_365_CENTS',days:365},'cartao-mensal':{env:'BILLING_CARD_MONTHLY_CENTS',days:30,months:1},'cartao-anual':{env:'BILLING_CARD_YEARLY_CENTS',days:365,months:12}};
-export function getPlan(id:BillingPlan):PlanConfig{const config=settings[id],raw=process.env[config.env];if(!raw||!/^\d+$/.test(raw))throw Error('billing-plan-unavailable');const amountCents=Number(raw);if(!Number.isSafeInteger(amountCents)||amountCents<100||amountCents>10000000)throw Error('billing-plan-unavailable');return {id,method:id.startsWith('pix-')?'pix':'card',amountCents,days:config.days,...(config.months?{months:config.months}:{})};}
+const settings:Record<BillingPlan,{env:keyof ValidatedEnv;days:number;months?:number}>={'pix-30':{env:'BILLING_PIX_30_CENTS',days:30},'pix-90':{env:'BILLING_PIX_90_CENTS',days:90},'pix-365':{env:'BILLING_PIX_365_CENTS',days:365},'cartao-mensal':{env:'BILLING_CARD_MONTHLY_CENTS',days:30,months:1},'cartao-anual':{env:'BILLING_CARD_YEARLY_CENTS',days:365,months:12}};
+export function getPlan(id:BillingPlan):PlanConfig{const config=settings[id],raw=getServerEnv()[config.env];if(!raw||!/^\d+$/.test(raw))throw Error('billing-plan-unavailable');const amountCents=Number(raw);if(!Number.isSafeInteger(amountCents)||amountCents<100||amountCents>10000000)throw Error('billing-plan-unavailable');return {id,method:id.startsWith('pix-')?'pix':'card',amountCents,days:config.days,...(config.months?{months:config.months}:{})};}

@@ -1,0 +1,4 @@
+[
+ {"slug":"vestibulinho-etec","titulo":"Apostila Preparatória Vestibulinho ETEC","descricao":"Razão, unidades e leitura de problemas para começar a preparação.","capitulos":[{"slug":"razao-e-proporcao","titulo":"Razão e proporção","status":"amostra"},{"slug":"unidades-e-escalas","titulo":"Unidades e escalas","status":"amostra"}]},
+ {"slug":"enem-exatas-e-linguagens","titulo":"Guia ENEM: Exatas e Linguagens","descricao":"Fundamentos de funções, química e interpretação, com prática ao final de cada capítulo.","capitulos":[{"slug":"funcoes-e-modelagem","titulo":"Funções e modelagem","status":"amostra"},{"slug":"moleculas-e-leitura-cientifica","titulo":"Moléculas e leitura científica","status":"amostra"}]}
+]

@@ -4,21 +4,22 @@ import {useStudyProgress} from './use-study-progress';
 import { QualityBadge } from './quality-badge';
 import type { NivelQualidade } from '@/lib/catalogo/types';
 import Link from 'next/link';
-import { useEffect, useMemo, useState } from 'react';
-import { makeSearch, filterItems, filtersFromParams, emptyFilters, type Filters, type SearchItem } from '@/lib/catalogo/search';
-export function CatalogSearch({items,initialFilters,labels,bancas}:{items:SearchItem[];initialFilters:Filters;labels:Record<string,string>;bancas:string[]}) {
-  const [filters,setFilters]=useState(initialFilters);
+import {useMemo} from 'react';
+import {useQueryStates} from 'nuqs';
+import {questionParsers} from '@/lib/catalogo/query-parsers';
+import { makeSearch, filterItems, emptyFilters, type Filters, type SearchItem } from '@/lib/catalogo/search';
+export function CatalogSearch({items,labels,bancas}:{items:SearchItem[];labels:Record<string,string>;bancas:string[]}) {
+  const [filters,setQueryFilters]=useQueryStates(questionParsers,{history:'push',shallow:true,clearOnDefault:true});
   const {progress,errors,syncError,user,retry}=useStudyProgress();
   const wrongIDs=useMemo(()=>new Set(items.filter(q=>{const entry=progress[q.id];return filters.status==='erradas'?entry&&!entry.correct&&entry.correctKey===q.correta:errors[q.id]&&(errors[q.id].correctKey??(errors[q.id] as unknown as {correta:string}).correta)===q.correta;}).map(q=>q.id)),[items,progress,errors,filters.status]);
   const resolvedIDs=useMemo(()=>new Set(items.filter(q=>progress[q.id]?.correctKey===q.correta).map(q=>q.id)),[items,progress]);
   const index=useMemo(()=>makeSearch(items),[items]);
   const results=useMemo(()=>filterItems(items,index,filters,wrongIDs,resolvedIDs),[items,index,filters,wrongIDs,resolvedIDs]);
   const pages=Math.max(1,Math.ceil(results.length/30)),page=Math.max(1,Math.min(pages,Number(filters.pagina)||1));
-  useEffect(()=>{const restore=()=>setFilters(filtersFromParams(new URLSearchParams(location.search)));window.addEventListener('popstate',restore);return()=>window.removeEventListener('popstate',restore);},[]);
-  function change(next:Filters){setFilters(next);const params=new URLSearchParams();Object.entries(next).forEach(([k,v])=>{if(v&&!(k==='pagina'&&v==='1'))params.set(k,v);});history.replaceState(null,'',`${location.pathname}${params.size?'?'+params:''}`);}
+  function change(next:Filters,history:'push'|'replace'='push'){void setQueryFilters(next,{history});}
   function options(key:'habilidade'|'categoria'|'banca'|'disciplina'|'assunto'|'ano'){if(key==='banca')return bancas;if(key==='categoria')return ['enem','vestibulinho','vestibulares'];const applicable=key==='assunto'?items.filter(q=>!filters.disciplina||q.disciplina===filters.disciplina):items;return [...new Set(applicable.map(q=>String(q[key])))].filter(v=>v&&v!=='undefined').sort((a,b)=>key==='ano'?Number(b)-Number(a):a.localeCompare(b,'pt-BR'));}
   return <><form method="get" action="/questoes" onSubmit={e=>e.preventDefault()} className="v2-filters" aria-label="Filtrar banco de questões">
-    <label>Palavra-chave<input name="busca" type="search" value={filters.busca} onChange={e=>change({...filters,busca:e.target.value,pagina:'1'})} placeholder="Enunciado, tema ou habilidade"/></label>
+    <label>Palavra-chave<input name="busca" type="search" value={filters.busca} onChange={e=>change({...filters,busca:e.target.value,pagina:'1'},'replace')} placeholder="Enunciado, tema ou habilidade"/></label>
     {(['categoria','banca','ano','disciplina','assunto','habilidade'] as const).map(k=><label key={k}>{({habilidade:'Habilidade ENEM',categoria:'Categoria',banca:'Banca',ano:'Ano',disciplina:'Disciplina',assunto:'Assunto'})[k]}<select name={k} value={filters[k]} onChange={e=>change({...filters,[k]:e.target.value,...(k==='disciplina'?{assunto:''}:{}),pagina:'1'})}><option value="">Todos</option>{options(k).map(v=><option key={v} value={v}>{labels[v]??v}</option>)}</select></label>)}
     <label>Status<select name="status" value={filters.status} onChange={e=>change({...filters,status:e.target.value,pagina:'1'})}><option value="">Todas</option><option value="nao-resolvidas">Não resolvidas</option><option value="erradas">Erradas</option><option value="comentadas">Com resolução comentada</option><option value="video">Com vídeo</option></select></label><label className="v2-filter-toggle"><input type="checkbox" name="comentadas" value="1" checked={!!filters.comentadas} onChange={e=>change({...filters,comentadas:e.target.checked?'1':'',pagina:'1'})}/>Somente com resolução comentada</label><label className="v2-filter-toggle"><input type="checkbox" name="erros" value="1" checked={!!filters.erros} onChange={e=>change({...filters,erros:e.target.checked?'1':'',pagina:'1'})}/>Caderno de erros e revisão</label><div className="v2-actions"><button type="submit" className="v2-button v2-primary">Buscar questões</button><button type="button" className="v2-button" onClick={()=>change(emptyFilters)}>Limpar filtros</button></div>
     </form>{syncError&&user&&<p role="status">Sincronização indisponível. O progresso deste navegador está preservado; reconecte para tentar novamente. <button type="button" className="v2-button" onClick={()=>void retry()}>Tentar sincronização</button></p>}<p role="status" aria-live="polite" className="v2-help">{results.length} {results.length===1?"questão encontrada":"questões encontradas"} · página {page} de {pages}. Filtros refletem o endereço desta página.</p>

@@ -1,4 +1,5 @@
-import {BillingCheckout} from '@/components/billing-checkout';import {getPlan} from '@/lib/billing/config';import type {BillingPlan} from '@/lib/billing/types';
+import {LaunchAccess} from '@/components/launch-access';
+import {BillingCheckout} from '@/components/billing-checkout';import {getPlan,billingEnabled} from '@/lib/billing/config';import type {BillingPlan} from '@/lib/billing/types';
 import Link from "next/link";
 import { PageHero, CONTAINER } from "@/components/ui";
 import { preparacoes, type ObjetivoPreparacao } from "@/data/preparacoes";
@@ -33,10 +34,10 @@ function Preparacao({ objetivo }: { objetivo: ObjetivoPreparacao }) {
 }
 
 export default function Page() {
- const prices:Partial<Record<BillingPlan,number>>={};for(const id of ['pix-30','pix-90','pix-365','cartao-mensal','cartao-anual'] as const)try{if(process.env.BILLING_ENABLED!=='1')continue;prices[id]=getPlan(id).amountCents;}catch{}
+ const prices:Partial<Record<BillingPlan,number>>={};for(const id of ['pix-30','pix-90','pix-365','cartao-mensal','cartao-anual'] as const)try{if(!billingEnabled||process.env.BILLING_ENABLED!=='1')continue;prices[id]=getPlan(id).amountCents;}catch{}
   return (
     <main id="conteudo-principal" tabIndex={-1}>
-      <div className="gb-container v2-page"><BillingCheckout prices={prices}/></div>
+      <div className="gb-container v2-page"><>{billingEnabled?<BillingCheckout prices={prices}/>:<LaunchAccess/>}</></div>
       <PageHero eyebrow="Preparação Gabaru" titulo={<>Estude para <mark>a sua próxima prova.</mark></>}>
         <p>Estamos preparando materiais, videoaulas e exercícios resolvidos. Enquanto isso, você já pode praticar com as provas disponíveis no Gabaru.</p>
         <nav className="gb-actions" aria-label="Objetivos de preparação">

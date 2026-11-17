@@ -16,3 +16,7 @@ __pycache__/
 /work/
 /test-results/
 /playwright-report/
+
+# Fontes editoriais privadas; somente a documentação da pasta entra no Git.
+/bibliografia-pdfs/**
+!/bibliografia-pdfs/README.md

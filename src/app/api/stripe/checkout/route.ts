@@ -1,3 +1,4 @@
+import {billingEnabled} from '@/lib/billing/config';
 import {NextResponse} from 'next/server';
 import {verifyRequestUser} from '@/lib/firebase/admin';
 import {origemPermitida} from '@/lib/seguranca';
@@ -9,6 +10,7 @@ export async function POST(req:Request){
  if(!origemPermitida(req))return NextResponse.json({error:'Origem não permitida.'},{status:403});
  const user=await verifyRequestUser(req);if(!user)return NextResponse.json({error:'Não autenticado.'},{status:401});
  let input;try{input=checkoutInput.parse(await readJsonBody(req));}catch{return NextResponse.json({error:'Informe plano premium e requestId válido. Preços não são aceitos.'},{status:400});}
+ if(!billingEnabled)return NextResponse.json({error:'Acesso gratuito de lançamento. Cobranças desativadas.'},{status:503});
  if(process.env.BILLING_ENABLED==='1')return NextResponse.json({error:'Use os meios de pagamento atuais na página de planos.'},{status:409});
  const price=process.env.STRIPE_PRICE_ID;
  if(process.env.STRIPE_CHECKOUT_ENABLED!=='1'||!price||!process.env.STRIPE_WEBHOOK_SECRET)return NextResponse.json({error:'Assinatura ainda indisponível.'},{status:503});

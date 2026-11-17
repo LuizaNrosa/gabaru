@@ -1,3 +1,5 @@
+/** Explicit opt-in: unset, false or any other value keeps launch access free. */
+export const billingEnabled=process.env.NEXT_PUBLIC_BILLING_ENABLED==='true';
 import {z} from 'zod';import type {BillingPlan,PlanConfig} from './types';
 export const checkoutSchema=z.object({plan:z.enum(['pix-30','pix-90','pix-365','cartao-mensal','cartao-anual']),requestId:z.uuid()}).strict();
 export const cancelSchema=z.object({requestId:z.uuid()}).strict();

@@ -1,0 +1,18 @@
+(node:80492) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/editorial-segments.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+{"pdfs":1,"paginas":1,"indice":"/tmp/gabaru-biblio-GhXTbp/indice.json"}
+{"capitulo":"/tmp/gabaru-biblio-GhXTbp/capitulos/guia/funcoes.json","status":"rascunho","questoes":["enem-2021-d2-q155","enem-2022-ppl-d2-q138","enem-2023-d2-q177","enem-2024-ppl-d2-q161","enem-2024-ppl-d2-q163"],"fonteSha256":"498217038edbdc6bbc33384a52fcf88ab40617fcc37632d7cfdd268d4afb6a25"}
+{"capitulo":"/tmp/gabaru-biblio-GhXTbp/capitulos/guia/funcoes.json","status":"rascunho","questoes":["enem-2021-d2-q155","enem-2022-ppl-d2-q138","enem-2023-d2-q177","enem-2024-ppl-d2-q161","enem-2024-ppl-d2-q163"],"fonteSha256":"498217038edbdc6bbc33384a52fcf88ab40617fcc37632d7cfdd268d4afb6a25"}
+✔ PDF local → capítulo privado, KaTeX e cinco questões reais; hash e publicação protegidos (1575.214886ms)
+✔ ingestão recusa links simbólicos (0.954417ms)
+✔ projeção editorial diferencia dinheiro de fórmulas e recusa TeX inválido (2.084909ms)
+ℹ tests 3
+ℹ suites 0
+ℹ pass 3
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 2288.734291

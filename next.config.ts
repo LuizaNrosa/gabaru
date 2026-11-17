@@ -32,7 +32,7 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
-  outputFileTracingExcludes: { "/*": ["./public/**/*.webp", "./public/**/*.png", "./public/**/*.jpg", "./public/**/*.jpeg", "./node_modules/@napi-rs/canvas/**", "./node_modules/@napi-rs/canvas-*/**"] },
+  outputFileTracingExcludes: { "/*": ["./bibliografia-pdfs/**", "./work/**", "./public/**/*.webp", "./public/**/*.png", "./public/**/*.jpg", "./public/**/*.jpeg", "./node_modules/@napi-rs/canvas/**", "./node_modules/@napi-rs/canvas-*/**"] },
   poweredByHeader: false,
   async rewrites() { return [{source:"/sitemap.xml",destination:"/sitemap-index.xml"}]; },
   async redirects() {

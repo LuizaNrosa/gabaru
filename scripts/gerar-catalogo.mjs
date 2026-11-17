@@ -1,3 +1,4 @@
+import {splitTextOptions} from './lib/alternativas-ocr.mjs';
 import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { mkdirSync,existsSync } from 'node:fs';
@@ -45,7 +46,7 @@ for(const banca of ['etec','coluni','ifsc','ifsp']){
 const bank=read('src/data/treino-banco.json'),bankMap=new Map(bank.map(q=>[q.id,q]));
 const enem=new Map(read('src/data/enem-exams.json').map(e=>[e.id,e]));for(const e of read('src/data/enem-cadernos-paginados.json'))enem.set(e.id,e);
 fontes.push({arquivo:'ENEM (catálogos unidos por id)',registros:enem.size});
-function splitOptions(text){const matches=[...text.matchAll(/^(?:\(([A-E])\)|([A-E]))[ \t]*(?:\n|[ \t]+)(?![a-z]\))/gm)];const last=matches.slice(-5);if(last.map(m=>m[1]??m[2]).join('')!=='ABCDE')return {text,options:{}};return {text:text.slice(0,last[0].index).trim(),options:Object.fromEntries(last.map((m,i)=>[m[1]??m[2],text.slice(m.index+m[0].length,last[i+1]?.index??text.length).trim()]))};}
+const splitOptions=splitTextOptions;
 for(const e of enem.values()){
  const exam=addExam(e.id,'enem',e.year,`ENEM ${e.year}${e.day?` — ${e.day}º dia`:''} · ${e.id}`,e.total,bancas.get('enem').fonte,`/provas/enem/${e.id}`,e.year>=2018?(e.day===1?330:e.day===2?300:null):null);
  let data=[];try{data=read(`content/enem/${e.id}/dados.json`).questoes}catch{data=e.questions??[]}

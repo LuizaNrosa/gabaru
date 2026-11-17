@@ -1,20 +1,20 @@
 # Auditoria local integral de URLs
 
-Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo auditor. Linkinator percorre páginas e recursos internos; links externos e fragmentos não são rastreados diretamente. Endpoints internos de PDF consultam suas fontes oficiais usando o proxy de rede do ambiente, com validação de integridade quando prevista no endpoint. Rotas protegidas são verificadas como visitante, sem simular sessão autenticada.
+Execução: 2026-11-17T08:40:19.478Z. Next compilado iniciado e encerrado pelo auditor. Linkinator percorre páginas e recursos internos; links externos e fragmentos não são rastreados diretamente. Endpoints internos de PDF consultam suas fontes oficiais usando o proxy de rede do ambiente, com validação de integridade quando prevista no endpoint. Rotas protegidas são verificadas como visitante, sem simular sessão autenticada.
 
 ```json
 {
   "sitemapUrls": 3368,
   "sitemaps": 6,
-  "internalUrls": 6167,
+  "internalUrls": 6190,
   "ok": 6162,
-  "redirects": 5,
+  "redirects": 28,
   "broken": 0,
   "contractFailures": 0,
   "tier0Samples": 3,
-  "protectedReaderSamples": 4,
+  "protectedReaderSamples": 27,
   "redirectStatuses": {
-    "307": 5
+    "307": 28
   }
 }
 ```
@@ -26,17 +26,17 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/ | 200 | https://gabaru.com.br/sitemap-hubs.xml |  |
 | https://gabaru.com.br/_next/image?url=%2Fmarca%2Fgabaru-carimbo.webp&w=256&q=75 | 200 | https://gabaru.com.br/sobre |  |
 | https://gabaru.com.br/_next/image?url=%2Fmarca%2Fgabaru-carimbo.webp&w=640&q=75 | 200 | https://gabaru.com.br/sobre |  |
+| https://gabaru.com.br/_next/static/chunks/019ad6boa45xs.css | 200 | https://gabaru.com.br/sobre |  |
 | https://gabaru.com.br/_next/static/chunks/07eeatlimmdm5.js | 200 | https://gabaru.com.br/questoes |  |
 | https://gabaru.com.br/_next/static/chunks/092r-mewpaf3q.js | 200 | https://gabaru.com.br/sobre |  |
 | https://gabaru.com.br/_next/static/chunks/0cz1d0mv5g_q7.js | 200 | https://gabaru.com.br/sobre |  |
 | https://gabaru.com.br/_next/static/chunks/0ez1bma-_3i29.js | 200 | https://gabaru.com.br/painel |  |
-| https://gabaru.com.br/_next/static/chunks/0q22ct6tk0r2i.css | 200 | https://gabaru.com.br/sobre |  |
 | https://gabaru.com.br/_next/static/chunks/0th5hdrpqjqve.js | 200 | https://gabaru.com.br/questoes |  |
 | https://gabaru.com.br/_next/static/chunks/1g-cbbij1gr6p.js | 200 | https://gabaru.com.br/questoes/etec-2026-2-q001 |  |
 | https://gabaru.com.br/_next/static/chunks/1h8pmzmbtr_8p.js | 200 | https://gabaru.com.br/questoes |  |
 | https://gabaru.com.br/_next/static/chunks/1n7xp-hv06g-h.js | 200 | https://gabaru.com.br/provas/coluni/2026 |  |
 | https://gabaru.com.br/_next/static/chunks/1oe5nk75dfitc.js | 200 | https://gabaru.com.br/sobre |  |
-| https://gabaru.com.br/_next/static/chunks/1p0wr9-jrrt14.js | 200 | https://gabaru.com.br/provas/enem/enem-2025-d2 |  |
+| https://gabaru.com.br/_next/static/chunks/1p0wr9-jrrt14.js | 200 | https://gabaru.com.br/provas/enem/enem-2025-d1 |  |
 | https://gabaru.com.br/_next/static/chunks/1pcw6gskne7pf.js | 200 | https://gabaru.com.br/sobre |  |
 | https://gabaru.com.br/_next/static/chunks/1rbxx-7l08gjb.js | 200 | https://gabaru.com.br/questoes |  |
 | https://gabaru.com.br/_next/static/chunks/1wnov70f88xjy.js | 200 | https://gabaru.com.br/sobre |  |
@@ -48,7 +48,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/_next/static/chunks/2yl_tb9bm_6-r.js | 200 | https://gabaru.com.br/provas/unicamp/2025 |  |
 | https://gabaru.com.br/_next/static/chunks/3nzqkg_wklfu0.js | 200 | https://gabaru.com.br/sobre |  |
 | https://gabaru.com.br/_next/static/chunks/3qfy96eoyh-ek.js | 200 | https://gabaru.com.br/sobre |  |
-| https://gabaru.com.br/_next/static/chunks/3zj733gxariya.js | 200 | https://gabaru.com.br/provas/ifrn |  |
+| https://gabaru.com.br/_next/static/chunks/3zj733gxariya.js | 200 | https://gabaru.com.br/provas/ifce |  |
 | https://gabaru.com.br/_next/static/chunks/40e9rozb4fmi7.js | 200 | https://gabaru.com.br/sobre |  |
 | https://gabaru.com.br/_next/static/chunks/turbopack-077hmtqrhcoji.js | 200 | https://gabaru.com.br/sobre |  |
 | https://gabaru.com.br/acervo/coluni/2014/prova.pdf | 200 | https://gabaru.com.br/provas/coluni/2014 |  |
@@ -62,17 +62,17 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-01.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q001 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-02.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q001 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-03.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q002 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-04.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q005 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-04.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q004 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-05.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q005 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-06.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q007 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-07.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q010 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-08.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q013 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-06.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q009 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-07.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q012 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-08.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q014 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-09.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q014 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-10.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q017 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-11.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q017 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-12.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q020 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-13.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q022 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-14.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q024 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-14.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q023 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-15.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q024 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-17.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q033 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-18.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q033 |  |
@@ -80,7 +80,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-20.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q037 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-21.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q041 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-22.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q041 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-23.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q044 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-23.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q043 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-24.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q044 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2013/pagina-25.webp | 200 | https://gabaru.com.br/questoes/coluni-2013-q046 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2014/pagina-01.webp | 200 | https://gabaru.com.br/provas/coluni/2014 |  |
@@ -106,31 +106,31 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/coluni/massivo-2014/pagina-21.webp | 200 | https://gabaru.com.br/provas/coluni/2014 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2014/pagina-22.webp | 200 | https://gabaru.com.br/provas/coluni/2014 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2014/pagina-23.webp | 200 | https://gabaru.com.br/provas/coluni/2014 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-01.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q001 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-02.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q003 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-01.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q002 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-02.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q002 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-03.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q003 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-04.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q005 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-05.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q009 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-06.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q011 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-07.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q015 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-06.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q010 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-07.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q014 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-08.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q016 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-09.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q018 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-10.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q018 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-09.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q017 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-10.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q019 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-11.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q021 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-12.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q024 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-12.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q023 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-13.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q024 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-14.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q030 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-15.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q030 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-14.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q028 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-15.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q033 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-16.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q033 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-17.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q034 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-18.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q037 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-19.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q039 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-20.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q041 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-21.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q043 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-22.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q044 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-22.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q045 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-23.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q045 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-24.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q046 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-25.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q047 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-24.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q047 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2015/pagina-25.webp | 200 | https://gabaru.com.br/questoes/coluni-2015-q048 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2016/pagina-01.webp | 200 | https://gabaru.com.br/provas/coluni/2016 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2016/pagina-02.webp | 200 | https://gabaru.com.br/provas/coluni/2016 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2016/pagina-03.webp | 200 | https://gabaru.com.br/provas/coluni/2016 |  |
@@ -251,9 +251,9 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-01.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q001 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-02.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q001 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-03.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q005 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-04.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q007 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-04.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q008 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-05.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q010 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-06.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q014 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-06.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q013 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-07.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q016 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-08.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q020 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-09.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q020 |  |
@@ -262,14 +262,14 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-12.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q024 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-13.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q025 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-14.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q026 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-15.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q029 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-15.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q028 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-16.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q030 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-17.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q032 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-17.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q031 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-18.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q032 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-19.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q033 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-20.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q034 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-21.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q035 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-22.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q036 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-22.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q037 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-23.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q037 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2023/pagina-24.webp | 200 | https://gabaru.com.br/questoes/coluni-2023-q038 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2024/pagina-01.webp | 200 | https://gabaru.com.br/provas/coluni/2024 |  |
@@ -299,7 +299,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-02.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q001 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-03.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q003 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-04.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q005 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-05.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q008 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-05.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q007 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-06.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q010 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-10.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q021 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-11.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q021 |  |
@@ -310,9 +310,9 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-16.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q026 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-17.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q028 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-18.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q031 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-19.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q032 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-19.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q031 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-20.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q034 |  |
-| https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-21.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q035 |  |
+| https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-21.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q034 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-22.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q037 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-23.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q037 |  |
 | https://gabaru.com.br/acervo/coluni/massivo-2025/pagina-24.webp | 200 | https://gabaru.com.br/questoes/coluni-2025-q038 |  |
@@ -346,23 +346,23 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2007-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2007-1-q043 |  |
 | https://gabaru.com.br/acervo/etec/2007-1/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2007-1-q043 |  |
 | https://gabaru.com.br/acervo/etec/2007-2/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q001 |  |
-| https://gabaru.com.br/acervo/etec/2007-2/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q001 |  |
+| https://gabaru.com.br/acervo/etec/2007-2/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q002 |  |
 | https://gabaru.com.br/acervo/etec/2007-2/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q012 |  |
 | https://gabaru.com.br/acervo/etec/2007-2/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q012 |  |
 | https://gabaru.com.br/acervo/etec/2007-2/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q016 |  |
 | https://gabaru.com.br/acervo/etec/2007-2/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q016 |  |
 | https://gabaru.com.br/acervo/etec/2007-2/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q027 |  |
-| https://gabaru.com.br/acervo/etec/2007-2/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q027 |  |
+| https://gabaru.com.br/acervo/etec/2007-2/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q032 |  |
 | https://gabaru.com.br/acervo/etec/2007-2/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q032 |  |
 | https://gabaru.com.br/acervo/etec/2007-2/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q032 |  |
-| https://gabaru.com.br/acervo/etec/2007-2/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q034 |  |
+| https://gabaru.com.br/acervo/etec/2007-2/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q035 |  |
 | https://gabaru.com.br/acervo/etec/2007-2/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q040 |  |
 | https://gabaru.com.br/acervo/etec/2007-2/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q040 |  |
 | https://gabaru.com.br/acervo/etec/2007-2/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q043 |  |
 | https://gabaru.com.br/acervo/etec/2007-2/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q046 |  |
 | https://gabaru.com.br/acervo/etec/2007-2/pagina-20.webp | 200 | https://gabaru.com.br/questoes/etec-2007-2-q049 |  |
-| https://gabaru.com.br/acervo/etec/2008-1-extra1/pagina-01.webp | 200 | https://gabaru.com.br/questoes/etec-2008-1-extra1-q002 |  |
-| https://gabaru.com.br/acervo/etec/2008-1-extra1/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2008-1-extra1-q002 |  |
+| https://gabaru.com.br/acervo/etec/2008-1-extra1/pagina-01.webp | 200 | https://gabaru.com.br/questoes/etec-2008-1-extra1-q003 |  |
+| https://gabaru.com.br/acervo/etec/2008-1-extra1/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2008-1-extra1-q003 |  |
 | https://gabaru.com.br/acervo/etec/2008-1-extra1/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2008-1-extra1-q010 |  |
 | https://gabaru.com.br/acervo/etec/2008-1-extra1/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2008-1-extra1-q011 |  |
 | https://gabaru.com.br/acervo/etec/2008-1-extra1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2008-1-extra1-q016 |  |
@@ -389,9 +389,9 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2009-2/pagina-21.webp | 200 | https://gabaru.com.br/questoes/etec-2009-2-q049 |  |
 | https://gabaru.com.br/acervo/etec/2009-2/pagina-22.webp | 200 | https://gabaru.com.br/questoes/etec-2009-2-q005 |  |
 | https://gabaru.com.br/acervo/etec/2010-1/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q003 |  |
-| https://gabaru.com.br/acervo/etec/2010-1/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q003 |  |
-| https://gabaru.com.br/acervo/etec/2010-1/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q006 |  |
-| https://gabaru.com.br/acervo/etec/2010-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q008 |  |
+| https://gabaru.com.br/acervo/etec/2010-1/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q004 |  |
+| https://gabaru.com.br/acervo/etec/2010-1/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q005 |  |
+| https://gabaru.com.br/acervo/etec/2010-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q007 |  |
 | https://gabaru.com.br/acervo/etec/2010-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q009 |  |
 | https://gabaru.com.br/acervo/etec/2010-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q012 |  |
 | https://gabaru.com.br/acervo/etec/2010-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q015 |  |
@@ -402,11 +402,11 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2010-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q025 |  |
 | https://gabaru.com.br/acervo/etec/2010-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q029 |  |
 | https://gabaru.com.br/acervo/etec/2010-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q032 |  |
-| https://gabaru.com.br/acervo/etec/2010-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q036 |  |
-| https://gabaru.com.br/acervo/etec/2010-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q036 |  |
+| https://gabaru.com.br/acervo/etec/2010-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q035 |  |
+| https://gabaru.com.br/acervo/etec/2010-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q038 |  |
 | https://gabaru.com.br/acervo/etec/2010-1/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q039 |  |
 | https://gabaru.com.br/acervo/etec/2010-1/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q041 |  |
-| https://gabaru.com.br/acervo/etec/2010-1/pagina-20.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q044 |  |
+| https://gabaru.com.br/acervo/etec/2010-1/pagina-20.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q045 |  |
 | https://gabaru.com.br/acervo/etec/2010-1/pagina-21.webp | 200 | https://gabaru.com.br/questoes/etec-2010-1-q046 |  |
 | https://gabaru.com.br/acervo/etec/2010-2/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2010-2-q013 |  |
 | https://gabaru.com.br/acervo/etec/2011-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2011-1-q013 |  |
@@ -416,21 +416,21 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2011-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2011-1-q027 |  |
 | https://gabaru.com.br/acervo/etec/2011-1/pagina-21.webp | 200 | https://gabaru.com.br/questoes/etec-2011-1-q048 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q001 |  |
-| https://gabaru.com.br/acervo/etec/2011-2/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q004 |  |
+| https://gabaru.com.br/acervo/etec/2011-2/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q003 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q006 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q008 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q012 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q012 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q013 |  |
-| https://gabaru.com.br/acervo/etec/2011-2/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q017 |  |
-| https://gabaru.com.br/acervo/etec/2011-2/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q019 |  |
+| https://gabaru.com.br/acervo/etec/2011-2/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q014 |  |
+| https://gabaru.com.br/acervo/etec/2011-2/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q018 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q021 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q023 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q026 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q032 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q033 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q036 |  |
-| https://gabaru.com.br/acervo/etec/2011-2/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q038 |  |
+| https://gabaru.com.br/acervo/etec/2011-2/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q039 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q041 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-20.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q044 |  |
 | https://gabaru.com.br/acervo/etec/2011-2/pagina-21.webp | 200 | https://gabaru.com.br/questoes/etec-2011-2-q048 |  |
@@ -441,47 +441,47 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2012-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q008 |  |
 | https://gabaru.com.br/acervo/etec/2012-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q010 |  |
 | https://gabaru.com.br/acervo/etec/2012-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q013 |  |
-| https://gabaru.com.br/acervo/etec/2012-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q018 |  |
+| https://gabaru.com.br/acervo/etec/2012-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q017 |  |
 | https://gabaru.com.br/acervo/etec/2012-1/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q021 |  |
 | https://gabaru.com.br/acervo/etec/2012-1/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q021 |  |
 | https://gabaru.com.br/acervo/etec/2012-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q024 |  |
 | https://gabaru.com.br/acervo/etec/2012-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q027 |  |
 | https://gabaru.com.br/acervo/etec/2012-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q030 |  |
 | https://gabaru.com.br/acervo/etec/2012-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q032 |  |
-| https://gabaru.com.br/acervo/etec/2012-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q034 |  |
-| https://gabaru.com.br/acervo/etec/2012-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q037 |  |
+| https://gabaru.com.br/acervo/etec/2012-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q035 |  |
+| https://gabaru.com.br/acervo/etec/2012-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q038 |  |
 | https://gabaru.com.br/acervo/etec/2012-1/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q039 |  |
-| https://gabaru.com.br/acervo/etec/2012-1/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q042 |  |
+| https://gabaru.com.br/acervo/etec/2012-1/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q043 |  |
 | https://gabaru.com.br/acervo/etec/2012-1/pagina-20.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q045 |  |
 | https://gabaru.com.br/acervo/etec/2012-1/pagina-21.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q049 |  |
 | https://gabaru.com.br/acervo/etec/2012-1/pagina-22.webp | 200 | https://gabaru.com.br/questoes/etec-2012-1-q049 |  |
 | https://gabaru.com.br/acervo/etec/2013-1/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q003 |  |
-| https://gabaru.com.br/acervo/etec/2013-1/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q006 |  |
+| https://gabaru.com.br/acervo/etec/2013-1/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q003 |  |
 | https://gabaru.com.br/acervo/etec/2013-1/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q006 |  |
-| https://gabaru.com.br/acervo/etec/2013-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q008 |  |
-| https://gabaru.com.br/acervo/etec/2013-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q011 |  |
+| https://gabaru.com.br/acervo/etec/2013-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q007 |  |
+| https://gabaru.com.br/acervo/etec/2013-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q010 |  |
 | https://gabaru.com.br/acervo/etec/2013-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q012 |  |
-| https://gabaru.com.br/acervo/etec/2013-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q017 |  |
+| https://gabaru.com.br/acervo/etec/2013-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q016 |  |
 | https://gabaru.com.br/acervo/etec/2013-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q020 |  |
 | https://gabaru.com.br/acervo/etec/2013-1/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q021 |  |
 | https://gabaru.com.br/acervo/etec/2013-1/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q023 |  |
-| https://gabaru.com.br/acervo/etec/2013-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q026 |  |
+| https://gabaru.com.br/acervo/etec/2013-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q027 |  |
 | https://gabaru.com.br/acervo/etec/2013-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q028 |  |
-| https://gabaru.com.br/acervo/etec/2013-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q031 |  |
+| https://gabaru.com.br/acervo/etec/2013-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q032 |  |
 | https://gabaru.com.br/acervo/etec/2013-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q033 |  |
 | https://gabaru.com.br/acervo/etec/2013-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q035 |  |
 | https://gabaru.com.br/acervo/etec/2013-1/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q038 |  |
 | https://gabaru.com.br/acervo/etec/2013-1/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q041 |  |
-| https://gabaru.com.br/acervo/etec/2013-1/pagina-20.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q042 |  |
+| https://gabaru.com.br/acervo/etec/2013-1/pagina-20.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q043 |  |
 | https://gabaru.com.br/acervo/etec/2013-1/pagina-21.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q049 |  |
 | https://gabaru.com.br/acervo/etec/2013-1/pagina-22.webp | 200 | https://gabaru.com.br/questoes/etec-2013-1-q049 |  |
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q003 |  |
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q003 |  |
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q008 |  |
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q008 |  |
-| https://gabaru.com.br/acervo/etec/2013-2/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q011 |  |
+| https://gabaru.com.br/acervo/etec/2013-2/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q010 |  |
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q014 |  |
-| https://gabaru.com.br/acervo/etec/2013-2/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q017 |  |
+| https://gabaru.com.br/acervo/etec/2013-2/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q016 |  |
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q018 |  |
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q021 |  |
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q023 |  |
@@ -489,7 +489,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q029 |  |
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q029 |  |
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q033 |  |
-| https://gabaru.com.br/acervo/etec/2013-2/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q034 |  |
+| https://gabaru.com.br/acervo/etec/2013-2/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q035 |  |
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q037 |  |
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q039 |  |
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q041 |  |
@@ -497,7 +497,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-21.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q046 |  |
 | https://gabaru.com.br/acervo/etec/2013-2/pagina-22.webp | 200 | https://gabaru.com.br/questoes/etec-2013-2-q049 |  |
 | https://gabaru.com.br/acervo/etec/2014-1/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2014-1-q001 |  |
-| https://gabaru.com.br/acervo/etec/2014-1/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2014-1-q002 |  |
+| https://gabaru.com.br/acervo/etec/2014-1/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2014-1-q003 |  |
 | https://gabaru.com.br/acervo/etec/2014-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2014-1-q006 |  |
 | https://gabaru.com.br/acervo/etec/2014-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2014-1-q009 |  |
 | https://gabaru.com.br/acervo/etec/2014-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2014-1-q012 |  |
@@ -507,7 +507,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2014-1/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2014-1-q022 |  |
 | https://gabaru.com.br/acervo/etec/2014-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2014-1-q025 |  |
 | https://gabaru.com.br/acervo/etec/2014-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2014-1-q027 |  |
-| https://gabaru.com.br/acervo/etec/2014-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2014-1-q029 |  |
+| https://gabaru.com.br/acervo/etec/2014-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2014-1-q030 |  |
 | https://gabaru.com.br/acervo/etec/2014-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2014-1-q032 |  |
 | https://gabaru.com.br/acervo/etec/2014-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2014-1-q037 |  |
 | https://gabaru.com.br/acervo/etec/2014-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2014-1-q037 |  |
@@ -521,11 +521,11 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2014-2/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q002 |  |
 | https://gabaru.com.br/acervo/etec/2014-2/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q004 |  |
 | https://gabaru.com.br/acervo/etec/2014-2/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q006 |  |
-| https://gabaru.com.br/acervo/etec/2014-2/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q009 |  |
+| https://gabaru.com.br/acervo/etec/2014-2/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q008 |  |
 | https://gabaru.com.br/acervo/etec/2014-2/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q012 |  |
-| https://gabaru.com.br/acervo/etec/2014-2/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q017 |  |
+| https://gabaru.com.br/acervo/etec/2014-2/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q016 |  |
 | https://gabaru.com.br/acervo/etec/2014-2/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q020 |  |
-| https://gabaru.com.br/acervo/etec/2014-2/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q021 |  |
+| https://gabaru.com.br/acervo/etec/2014-2/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q020 |  |
 | https://gabaru.com.br/acervo/etec/2014-2/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q023 |  |
 | https://gabaru.com.br/acervo/etec/2014-2/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q028 |  |
 | https://gabaru.com.br/acervo/etec/2014-2/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q028 |  |
@@ -536,7 +536,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2014-2/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q042 |  |
 | https://gabaru.com.br/acervo/etec/2014-2/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q042 |  |
 | https://gabaru.com.br/acervo/etec/2014-2/pagina-20.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q045 |  |
-| https://gabaru.com.br/acervo/etec/2014-2/pagina-21.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q048 |  |
+| https://gabaru.com.br/acervo/etec/2014-2/pagina-21.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q047 |  |
 | https://gabaru.com.br/acervo/etec/2014-2/pagina-22.webp | 200 | https://gabaru.com.br/questoes/etec-2014-2-q049 |  |
 | https://gabaru.com.br/acervo/etec/2015-1/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2015-1-q008 |  |
 | https://gabaru.com.br/acervo/etec/2015-1/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2015-1-q008 |  |
@@ -545,7 +545,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2015-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2015-1-q013 |  |
 | https://gabaru.com.br/acervo/etec/2015-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2015-1-q016 |  |
 | https://gabaru.com.br/acervo/etec/2015-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2015-1-q019 |  |
-| https://gabaru.com.br/acervo/etec/2015-1/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2015-1-q025 |  |
+| https://gabaru.com.br/acervo/etec/2015-1/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2015-1-q024 |  |
 | https://gabaru.com.br/acervo/etec/2015-1/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2015-1-q025 |  |
 | https://gabaru.com.br/acervo/etec/2015-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2015-1-q028 |  |
 | https://gabaru.com.br/acervo/etec/2015-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2015-1-q029 |  |
@@ -559,19 +559,19 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2015-1/pagina-21.webp | 200 | https://gabaru.com.br/questoes/etec-2015-1-q049 |  |
 | https://gabaru.com.br/acervo/etec/2015-1/pagina-22.webp | 200 | https://gabaru.com.br/questoes/etec-2015-1-q049 |  |
 | https://gabaru.com.br/acervo/etec/2015-2/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q007 |  |
-| https://gabaru.com.br/acervo/etec/2015-2/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q008 |  |
+| https://gabaru.com.br/acervo/etec/2015-2/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q007 |  |
 | https://gabaru.com.br/acervo/etec/2015-2/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q009 |  |
 | https://gabaru.com.br/acervo/etec/2015-2/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q011 |  |
 | https://gabaru.com.br/acervo/etec/2015-2/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q016 |  |
 | https://gabaru.com.br/acervo/etec/2015-2/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q016 |  |
 | https://gabaru.com.br/acervo/etec/2015-2/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q019 |  |
-| https://gabaru.com.br/acervo/etec/2015-2/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q021 |  |
+| https://gabaru.com.br/acervo/etec/2015-2/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q022 |  |
 | https://gabaru.com.br/acervo/etec/2015-2/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q023 |  |
 | https://gabaru.com.br/acervo/etec/2015-2/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q025 |  |
 | https://gabaru.com.br/acervo/etec/2015-2/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q027 |  |
 | https://gabaru.com.br/acervo/etec/2015-2/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q029 |  |
 | https://gabaru.com.br/acervo/etec/2015-2/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q032 |  |
-| https://gabaru.com.br/acervo/etec/2015-2/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q034 |  |
+| https://gabaru.com.br/acervo/etec/2015-2/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q037 |  |
 | https://gabaru.com.br/acervo/etec/2015-2/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q037 |  |
 | https://gabaru.com.br/acervo/etec/2015-2/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q042 |  |
 | https://gabaru.com.br/acervo/etec/2015-2/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2015-2-q042 |  |
@@ -580,10 +580,10 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2016-1/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2016-1-q001 |  |
 | https://gabaru.com.br/acervo/etec/2016-1/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2016-1-q011 |  |
 | https://gabaru.com.br/acervo/etec/2016-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2016-1-q011 |  |
-| https://gabaru.com.br/acervo/etec/2016-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2016-1-q014 |  |
+| https://gabaru.com.br/acervo/etec/2016-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2016-1-q013 |  |
 | https://gabaru.com.br/acervo/etec/2016-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2016-1-q014 |  |
-| https://gabaru.com.br/acervo/etec/2016-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2016-1-q019 |  |
-| https://gabaru.com.br/acervo/etec/2016-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2016-1-q022 |  |
+| https://gabaru.com.br/acervo/etec/2016-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2016-1-q018 |  |
+| https://gabaru.com.br/acervo/etec/2016-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2016-1-q023 |  |
 | https://gabaru.com.br/acervo/etec/2016-1/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2016-1-q023 |  |
 | https://gabaru.com.br/acervo/etec/2016-1/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2016-1-q025 |  |
 | https://gabaru.com.br/acervo/etec/2016-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2016-1-q029 |  |
@@ -606,7 +606,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2016-2/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2016-2-q028 |  |
 | https://gabaru.com.br/acervo/etec/2016-2/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2016-2-q029 |  |
 | https://gabaru.com.br/acervo/etec/2016-2/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2016-2-q032 |  |
-| https://gabaru.com.br/acervo/etec/2016-2/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2016-2-q036 |  |
+| https://gabaru.com.br/acervo/etec/2016-2/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2016-2-q035 |  |
 | https://gabaru.com.br/acervo/etec/2016-2/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2016-2-q038 |  |
 | https://gabaru.com.br/acervo/etec/2016-2/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2016-2-q038 |  |
 | https://gabaru.com.br/acervo/etec/2016-2/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2016-2-q045 |  |
@@ -615,19 +615,19 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2016-2/pagina-22.webp | 200 | https://gabaru.com.br/questoes/etec-2016-2-q049 |  |
 | https://gabaru.com.br/acervo/etec/2017-1/pagina-01.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q001 |  |
 | https://gabaru.com.br/acervo/etec/2017-1/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q001 |  |
-| https://gabaru.com.br/acervo/etec/2017-1/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q006 |  |
-| https://gabaru.com.br/acervo/etec/2017-1/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q006 |  |
+| https://gabaru.com.br/acervo/etec/2017-1/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q005 |  |
+| https://gabaru.com.br/acervo/etec/2017-1/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q005 |  |
 | https://gabaru.com.br/acervo/etec/2017-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q007 |  |
-| https://gabaru.com.br/acervo/etec/2017-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q009 |  |
+| https://gabaru.com.br/acervo/etec/2017-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q008 |  |
 | https://gabaru.com.br/acervo/etec/2017-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q011 |  |
 | https://gabaru.com.br/acervo/etec/2017-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q013 |  |
-| https://gabaru.com.br/acervo/etec/2017-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q016 |  |
+| https://gabaru.com.br/acervo/etec/2017-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q015 |  |
 | https://gabaru.com.br/acervo/etec/2017-1/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q017 |  |
 | https://gabaru.com.br/acervo/etec/2017-1/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q021 |  |
 | https://gabaru.com.br/acervo/etec/2017-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q030 |  |
 | https://gabaru.com.br/acervo/etec/2017-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q030 |  |
 | https://gabaru.com.br/acervo/etec/2017-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q030 |  |
-| https://gabaru.com.br/acervo/etec/2017-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q033 |  |
+| https://gabaru.com.br/acervo/etec/2017-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q034 |  |
 | https://gabaru.com.br/acervo/etec/2017-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q034 |  |
 | https://gabaru.com.br/acervo/etec/2017-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q037 |  |
 | https://gabaru.com.br/acervo/etec/2017-1/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2017-1-q038 |  |
@@ -646,7 +646,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2017-2/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2017-2-q024 |  |
 | https://gabaru.com.br/acervo/etec/2017-2/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2017-2-q030 |  |
 | https://gabaru.com.br/acervo/etec/2017-2/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2017-2-q030 |  |
-| https://gabaru.com.br/acervo/etec/2017-2/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2017-2-q033 |  |
+| https://gabaru.com.br/acervo/etec/2017-2/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2017-2-q032 |  |
 | https://gabaru.com.br/acervo/etec/2017-2/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2017-2-q033 |  |
 | https://gabaru.com.br/acervo/etec/2017-2/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2017-2-q036 |  |
 | https://gabaru.com.br/acervo/etec/2017-2/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2017-2-q044 |  |
@@ -657,30 +657,30 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2018-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q016 |  |
 | https://gabaru.com.br/acervo/etec/2018-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q016 |  |
 | https://gabaru.com.br/acervo/etec/2018-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q016 |  |
-| https://gabaru.com.br/acervo/etec/2018-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q018 |  |
+| https://gabaru.com.br/acervo/etec/2018-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q017 |  |
 | https://gabaru.com.br/acervo/etec/2018-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q023 |  |
 | https://gabaru.com.br/acervo/etec/2018-1/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q023 |  |
-| https://gabaru.com.br/acervo/etec/2018-1/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q026 |  |
-| https://gabaru.com.br/acervo/etec/2018-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q028 |  |
+| https://gabaru.com.br/acervo/etec/2018-1/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q027 |  |
+| https://gabaru.com.br/acervo/etec/2018-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q029 |  |
 | https://gabaru.com.br/acervo/etec/2018-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q033 |  |
 | https://gabaru.com.br/acervo/etec/2018-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q033 |  |
 | https://gabaru.com.br/acervo/etec/2018-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q034 |  |
 | https://gabaru.com.br/acervo/etec/2018-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q036 |  |
 | https://gabaru.com.br/acervo/etec/2018-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q038 |  |
 | https://gabaru.com.br/acervo/etec/2018-1/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q042 |  |
-| https://gabaru.com.br/acervo/etec/2018-1/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q044 |  |
+| https://gabaru.com.br/acervo/etec/2018-1/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q045 |  |
 | https://gabaru.com.br/acervo/etec/2018-1/pagina-20.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q045 |  |
-| https://gabaru.com.br/acervo/etec/2018-1/pagina-21.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q047 |  |
-| https://gabaru.com.br/acervo/etec/2018-2/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q001 |  |
-| https://gabaru.com.br/acervo/etec/2018-2/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q003 |  |
-| https://gabaru.com.br/acervo/etec/2018-2/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q006 |  |
+| https://gabaru.com.br/acervo/etec/2018-1/pagina-21.webp | 200 | https://gabaru.com.br/questoes/etec-2018-1-q046 |  |
+| https://gabaru.com.br/acervo/etec/2018-2/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q002 |  |
+| https://gabaru.com.br/acervo/etec/2018-2/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q004 |  |
+| https://gabaru.com.br/acervo/etec/2018-2/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q005 |  |
 | https://gabaru.com.br/acervo/etec/2018-2/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q007 |  |
 | https://gabaru.com.br/acervo/etec/2018-2/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q009 |  |
 | https://gabaru.com.br/acervo/etec/2018-2/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q011 |  |
 | https://gabaru.com.br/acervo/etec/2018-2/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q014 |  |
 | https://gabaru.com.br/acervo/etec/2018-2/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q017 |  |
 | https://gabaru.com.br/acervo/etec/2018-2/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q020 |  |
-| https://gabaru.com.br/acervo/etec/2018-2/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q021 |  |
+| https://gabaru.com.br/acervo/etec/2018-2/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q025 |  |
 | https://gabaru.com.br/acervo/etec/2018-2/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q025 |  |
 | https://gabaru.com.br/acervo/etec/2018-2/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q026 |  |
 | https://gabaru.com.br/acervo/etec/2018-2/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q029 |  |
@@ -689,47 +689,47 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2018-2/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q034 |  |
 | https://gabaru.com.br/acervo/etec/2018-2/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q036 |  |
 | https://gabaru.com.br/acervo/etec/2018-2/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q039 |  |
-| https://gabaru.com.br/acervo/etec/2018-2/pagina-20.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q045 |  |
+| https://gabaru.com.br/acervo/etec/2018-2/pagina-20.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q044 |  |
 | https://gabaru.com.br/acervo/etec/2018-2/pagina-21.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q045 |  |
 | https://gabaru.com.br/acervo/etec/2018-2/pagina-22.webp | 200 | https://gabaru.com.br/questoes/etec-2018-2-q047 |  |
-| https://gabaru.com.br/acervo/etec/2019-1/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q001 |  |
+| https://gabaru.com.br/acervo/etec/2019-1/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q002 |  |
 | https://gabaru.com.br/acervo/etec/2019-1/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q002 |  |
-| https://gabaru.com.br/acervo/etec/2019-1/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q006 |  |
+| https://gabaru.com.br/acervo/etec/2019-1/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q005 |  |
 | https://gabaru.com.br/acervo/etec/2019-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q008 |  |
 | https://gabaru.com.br/acervo/etec/2019-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q010 |  |
-| https://gabaru.com.br/acervo/etec/2019-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q013 |  |
-| https://gabaru.com.br/acervo/etec/2019-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q016 |  |
-| https://gabaru.com.br/acervo/etec/2019-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q016 |  |
-| https://gabaru.com.br/acervo/etec/2019-1/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q019 |  |
+| https://gabaru.com.br/acervo/etec/2019-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q015 |  |
+| https://gabaru.com.br/acervo/etec/2019-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q015 |  |
+| https://gabaru.com.br/acervo/etec/2019-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q017 |  |
+| https://gabaru.com.br/acervo/etec/2019-1/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q020 |  |
 | https://gabaru.com.br/acervo/etec/2019-1/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q021 |  |
-| https://gabaru.com.br/acervo/etec/2019-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q024 |  |
+| https://gabaru.com.br/acervo/etec/2019-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q023 |  |
 | https://gabaru.com.br/acervo/etec/2019-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q024 |  |
 | https://gabaru.com.br/acervo/etec/2019-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q028 |  |
 | https://gabaru.com.br/acervo/etec/2019-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q029 |  |
 | https://gabaru.com.br/acervo/etec/2019-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q032 |  |
-| https://gabaru.com.br/acervo/etec/2019-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q034 |  |
-| https://gabaru.com.br/acervo/etec/2019-1/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q037 |  |
-| https://gabaru.com.br/acervo/etec/2019-1/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q040 |  |
+| https://gabaru.com.br/acervo/etec/2019-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q035 |  |
+| https://gabaru.com.br/acervo/etec/2019-1/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q036 |  |
+| https://gabaru.com.br/acervo/etec/2019-1/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q039 |  |
 | https://gabaru.com.br/acervo/etec/2019-1/pagina-20.webp | 200 | https://gabaru.com.br/questoes/etec-2019-1-q042 |  |
 | https://gabaru.com.br/acervo/etec/2019-2/pagina-02.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q003 |  |
 | https://gabaru.com.br/acervo/etec/2019-2/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q003 |  |
-| https://gabaru.com.br/acervo/etec/2019-2/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q005 |  |
+| https://gabaru.com.br/acervo/etec/2019-2/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q006 |  |
 | https://gabaru.com.br/acervo/etec/2019-2/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q007 |  |
-| https://gabaru.com.br/acervo/etec/2019-2/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q011 |  |
+| https://gabaru.com.br/acervo/etec/2019-2/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q009 |  |
 | https://gabaru.com.br/acervo/etec/2019-2/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q011 |  |
 | https://gabaru.com.br/acervo/etec/2019-2/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q016 |  |
-| https://gabaru.com.br/acervo/etec/2019-2/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q014 |  |
+| https://gabaru.com.br/acervo/etec/2019-2/pagina-09.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q016 |  |
 | https://gabaru.com.br/acervo/etec/2019-2/pagina-10.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q017 |  |
-| https://gabaru.com.br/acervo/etec/2019-2/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q020 |  |
+| https://gabaru.com.br/acervo/etec/2019-2/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q019 |  |
 | https://gabaru.com.br/acervo/etec/2019-2/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q023 |  |
-| https://gabaru.com.br/acervo/etec/2019-2/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q025 |  |
+| https://gabaru.com.br/acervo/etec/2019-2/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q026 |  |
 | https://gabaru.com.br/acervo/etec/2019-2/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q027 |  |
 | https://gabaru.com.br/acervo/etec/2019-2/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q029 |  |
 | https://gabaru.com.br/acervo/etec/2019-2/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q040 |  |
 | https://gabaru.com.br/acervo/etec/2019-2/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2019-2-q040 |  |
-| https://gabaru.com.br/acervo/etec/2020-1/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q003 |  |
+| https://gabaru.com.br/acervo/etec/2020-1/pagina-03.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q004 |  |
 | https://gabaru.com.br/acervo/etec/2020-1/pagina-04.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q005 |  |
-| https://gabaru.com.br/acervo/etec/2020-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q007 |  |
+| https://gabaru.com.br/acervo/etec/2020-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q008 |  |
 | https://gabaru.com.br/acervo/etec/2020-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q009 |  |
 | https://gabaru.com.br/acervo/etec/2020-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q010 |  |
 | https://gabaru.com.br/acervo/etec/2020-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q014 |  |
@@ -738,8 +738,8 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2020-1/pagina-11.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q019 |  |
 | https://gabaru.com.br/acervo/etec/2020-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q024 |  |
 | https://gabaru.com.br/acervo/etec/2020-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q026 |  |
-| https://gabaru.com.br/acervo/etec/2020-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q031 |  |
-| https://gabaru.com.br/acervo/etec/2020-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q031 |  |
+| https://gabaru.com.br/acervo/etec/2020-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q032 |  |
+| https://gabaru.com.br/acervo/etec/2020-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q032 |  |
 | https://gabaru.com.br/acervo/etec/2020-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q034 |  |
 | https://gabaru.com.br/acervo/etec/2020-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q036 |  |
 | https://gabaru.com.br/acervo/etec/2020-1/pagina-18.webp | 200 | https://gabaru.com.br/questoes/etec-2020-1-q039 |  |
@@ -801,7 +801,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/etec/2023-2/pagina-12.webp | 200 | https://gabaru.com.br/questoes/etec-2023-2-q031 |  |
 | https://gabaru.com.br/acervo/etec/2023-2/pagina-13.webp | 200 | https://gabaru.com.br/questoes/etec-2023-2-q031 |  |
 | https://gabaru.com.br/acervo/etec/2023-2/pagina-14.webp | 200 | https://gabaru.com.br/questoes/etec-2023-2-q031 |  |
-| https://gabaru.com.br/acervo/etec/2023-2/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2023-2-q035 |  |
+| https://gabaru.com.br/acervo/etec/2023-2/pagina-15.webp | 200 | https://gabaru.com.br/questoes/etec-2023-2-q036 |  |
 | https://gabaru.com.br/acervo/etec/2023-2/pagina-16.webp | 200 | https://gabaru.com.br/questoes/etec-2023-2-q036 |  |
 | https://gabaru.com.br/acervo/etec/2023-2/pagina-17.webp | 200 | https://gabaru.com.br/questoes/etec-2023-2-q038 |  |
 | https://gabaru.com.br/acervo/etec/2023-2/pagina-19.webp | 200 | https://gabaru.com.br/questoes/etec-2023-2-q044 |  |
@@ -901,47 +901,47 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/fuvest/2025/v1/04.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q005 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/05.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q007 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/06.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q009 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v1/07.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q013 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v1/07.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q012 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/08.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q015 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/09.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q020 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/10.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q020 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/11.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q023 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/12.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q025 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/13.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q026 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v1/14.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q031 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v1/15.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q034 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v1/14.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q030 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v1/15.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q033 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/16.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q036 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v1/17.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q038 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v1/17.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q039 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/18.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q040 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/19.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q043 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v1/20.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q048 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v1/20.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q047 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/21.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q050 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/22.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q053 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v1/23.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q058 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v1/23.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q057 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/24.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q060 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/25.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q063 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v1/26.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q068 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v1/27.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q072 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v1/26.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q071 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v1/27.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q071 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/28.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q072 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/29.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q078 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/30.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q079 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v1/31.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q082 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v1/31.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q083 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/32.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q084 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v1/33.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v1-q086 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v2/01.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q001 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v2/02.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q001 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v2/01.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q002 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v2/02.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q002 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/03.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q003 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/04.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q006 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/05.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q011 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/06.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q011 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v2/07.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q015 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v2/07.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q014 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/08.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q017 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/09.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q017 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/10.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q021 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/11.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q024 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/12.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q027 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/13.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q030 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v2/14.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q031 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v2/14.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q032 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/15.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q034 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/16.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q038 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/17.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q042 |  |
@@ -951,42 +951,42 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/fuvest/2025/v2/21.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q054 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/22.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q059 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/23.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q062 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v2/24.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q064 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v2/24.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q063 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/25.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q069 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v2/26.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q070 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v2/26.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q071 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/27.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q073 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/28.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q075 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/29.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q077 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/30.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q081 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v2/31.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q084 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v2/32.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q086 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v2/31.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q082 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v2/32.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q085 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v2/33.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v2-q088 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/02.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q001 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/03.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q001 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/04.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q005 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/05.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q008 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/06.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q011 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v3/07.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q014 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v3/08.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q015 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v3/07.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q013 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v3/08.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q016 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/09.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q018 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/10.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q022 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/11.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q025 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/12.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q028 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v3/13.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q032 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v3/14.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q035 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v3/15.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q038 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v3/16.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q042 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v3/17.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q047 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v3/18.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q047 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v3/13.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q033 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v3/14.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q036 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v3/15.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q039 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v3/16.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q043 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v3/17.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q048 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v3/18.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q048 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/19.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q053 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/20.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q054 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v3/21.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q057 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v3/21.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q058 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/22.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q059 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/23.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q061 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/24.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q065 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/25.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q067 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/26.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q070 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v3/27.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q072 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v3/27.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q071 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/28.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q074 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/29.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q077 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v3/30.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v3-q080 |  |
@@ -997,15 +997,15 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/fuvest/2025/v4/02.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q001 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/03.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q003 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/04.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q007 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v4/05.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q011 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v4/05.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q010 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/06.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q013 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/07.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q017 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/08.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q020 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/09.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q023 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/10.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q028 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/11.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q031 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v4/12.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q032 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v4/13.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q039 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v4/12.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q033 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v4/13.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q038 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/14.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q039 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/15.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q042 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/16.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q044 |  |
@@ -1014,18 +1014,18 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/fuvest/2025/v4/19.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q051 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/20.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q054 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/21.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q057 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v4/22.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q059 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v4/22.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q060 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/23.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q062 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/24.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q065 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/25.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q070 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/26.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q070 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/27.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q073 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v4/28.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q075 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v4/28.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q076 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/29.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q076 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/30.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q080 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v4/31.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q083 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v4/31.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q084 |  |
 | https://gabaru.com.br/acervo/fuvest/2025/v4/32.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q086 |  |
-| https://gabaru.com.br/acervo/fuvest/2025/v4/33.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q089 |  |
+| https://gabaru.com.br/acervo/fuvest/2025/v4/33.webp | 200 | https://gabaru.com.br/questoes/fuvest-fuvest-2025-fase1-v4-q088 |  |
 | https://gabaru.com.br/acervo/ifsc/2017-2/prova.pdf | 200 | https://gabaru.com.br/provas/ifsc/2017-2 |  |
 | https://gabaru.com.br/acervo/ifsc/2020-1/prova.pdf | 200 | https://gabaru.com.br/provas/ifsc/2020-1 |  |
 | https://gabaru.com.br/acervo/ifsc/2022-2/prova.pdf | 200 | https://gabaru.com.br/provas/ifsc/2022-2 |  |
@@ -1036,11 +1036,11 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/ifsc/massivo-2017-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/ifsc-2017-1-q005 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2017-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/ifsc-2017-1-q005 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2017-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/ifsc-2017-1-q008 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2017-1/pagina-10.webp | 200 | https://gabaru.com.br/questoes/ifsc-2017-1-q009 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2017-1/pagina-10.webp | 200 | https://gabaru.com.br/questoes/ifsc-2017-1-q008 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2017-1/pagina-11.webp | 200 | https://gabaru.com.br/questoes/ifsc-2017-1-q009 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2017-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/ifsc-2017-1-q011 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2017-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/ifsc-2017-1-q011 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2017-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/ifsc-2017-1-q013 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2017-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/ifsc-2017-1-q012 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2017-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/ifsc-2017-1-q012 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2017-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/ifsc-2017-1-q013 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2017-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/ifsc-2017-1-q014 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2017-1/pagina-18.webp | 200 | https://gabaru.com.br/questoes/ifsc-2017-1-q015 |  |
@@ -1073,11 +1073,11 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/ifsc/massivo-2018-1/pagina-10.webp | 200 | https://gabaru.com.br/questoes/ifsc-2018-1-q008 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2018-1/pagina-11.webp | 200 | https://gabaru.com.br/questoes/ifsc-2018-1-q010 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2018-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/ifsc-2018-1-q011 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2018-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/ifsc-2018-1-q011 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2018-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/ifsc-2018-1-q010 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2018-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/ifsc-2018-1-q011 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2018-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/ifsc-2018-1-q012 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2018-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/ifsc-2018-1-q014 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2018-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/ifsc-2018-1-q016 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2018-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/ifsc-2018-1-q014 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2018-1/pagina-18.webp | 200 | https://gabaru.com.br/questoes/ifsc-2018-1-q016 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2018-1/pagina-19.webp | 200 | https://gabaru.com.br/questoes/ifsc-2018-1-q016 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2018-1/pagina-20.webp | 200 | https://gabaru.com.br/questoes/ifsc-2018-1-q019 |  |
@@ -1102,12 +1102,12 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/ifsc/massivo-2019-1/pagina-04.webp | 200 | https://gabaru.com.br/questoes/ifsc-2019-1-q001 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2019-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/ifsc-2019-1-q006 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2019-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/ifsc-2019-1-q006 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2019-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/ifsc-2019-1-q008 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2019-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/ifsc-2019-1-q007 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2019-1/pagina-10.webp | 200 | https://gabaru.com.br/questoes/ifsc-2019-1-q010 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2019-1/pagina-11.webp | 200 | https://gabaru.com.br/questoes/ifsc-2019-1-q012 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2019-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/ifsc-2019-1-q010 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2019-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/ifsc-2019-1-q012 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2019-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/ifsc-2019-1-q014 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2019-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/ifsc-2019-1-q015 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2019-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/ifsc-2019-1-q016 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2019-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/ifsc-2019-1-q015 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2019-1/pagina-18.webp | 200 | https://gabaru.com.br/questoes/ifsc-2019-1-q017 |  |
@@ -1194,8 +1194,8 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-04.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q004 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q004 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q004 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q005 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q008 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q006 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q006 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q008 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-10.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q008 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-11.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q012 |  |
@@ -1204,7 +1204,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q015 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q015 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q016 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q018 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q017 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-18.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q019 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-19.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q021 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2024-1/pagina-20.webp | 200 | https://gabaru.com.br/questoes/ifsc-2024-1-q022 |  |
@@ -1212,14 +1212,14 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-02.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q001 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-03.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q001 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-04.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q001 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q004 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q004 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q006 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-05.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q003 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-06.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q005 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-07.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q005 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-08.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q008 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-09.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q008 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-12.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q015 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q015 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q015 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-13.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q016 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-14.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q016 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-15.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q016 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-16.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q017 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-17.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q018 |  |
@@ -1227,8 +1227,8 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-19.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q020 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-20.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q021 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-21.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q022 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-22.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q026 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-23.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q026 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-22.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q027 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-23.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q027 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2025-1/pagina-24.webp | 200 | https://gabaru.com.br/questoes/ifsc-2025-1-q027 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2026-1/pagina-02.webp | 200 | https://gabaru.com.br/provas/ifsc/2026-1 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2026-1/pagina-03.webp | 200 | https://gabaru.com.br/provas/ifsc/2026-1 |  |
@@ -1260,7 +1260,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/ifsc/massivo-2026-2/pagina-07.webp | 200 | https://gabaru.com.br/questoes/ifsc-2026-2-q007 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2026-2/pagina-08.webp | 200 | https://gabaru.com.br/questoes/ifsc-2026-2-q007 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2026-2/pagina-09.webp | 200 | https://gabaru.com.br/questoes/ifsc-2026-2-q007 |  |
-| https://gabaru.com.br/acervo/ifsc/massivo-2026-2/pagina-10.webp | 200 | https://gabaru.com.br/questoes/ifsc-2026-2-q009 |  |
+| https://gabaru.com.br/acervo/ifsc/massivo-2026-2/pagina-10.webp | 200 | https://gabaru.com.br/questoes/ifsc-2026-2-q008 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2026-2/pagina-11.webp | 200 | https://gabaru.com.br/questoes/ifsc-2026-2-q011 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2026-2/pagina-12.webp | 200 | https://gabaru.com.br/questoes/ifsc-2026-2-q011 |  |
 | https://gabaru.com.br/acervo/ifsc/massivo-2026-2/pagina-13.webp | 200 | https://gabaru.com.br/questoes/ifsc-2026-2-q015 |  |
@@ -1279,45 +1279,45 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/acervo/ifsp/massivo-2026-1-tipo2/pagina-10.webp | 200 | https://gabaru.com.br/questoes/ifsp-2026-1-tipo2-q024 |  |
 | https://gabaru.com.br/acervo/ifsp/massivo-2026-1-tipo2/pagina-11.webp | 200 | https://gabaru.com.br/questoes/ifsp-2026-1-tipo2-q024 |  |
 | https://gabaru.com.br/acervo/ifsp/massivo-2026-1-tipo2/pagina-12.webp | 200 | https://gabaru.com.br/questoes/ifsp-2026-1-tipo2-q024 |  |
-| https://gabaru.com.br/acervo/ifsp/massivo-2026-1-tipo2/pagina-13.webp | 200 | https://gabaru.com.br/questoes/ifsp-2026-1-tipo2-q026 |  |
+| https://gabaru.com.br/acervo/ifsp/massivo-2026-1-tipo2/pagina-13.webp | 200 | https://gabaru.com.br/questoes/ifsp-2026-1-tipo2-q027 |  |
 | https://gabaru.com.br/acervo/ifsp/massivo-2026-1-tipo2/pagina-14.webp | 200 | https://gabaru.com.br/questoes/ifsp-2026-1-tipo2-q027 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-03.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q001 |  |
-| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-04.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q003 |  |
+| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-04.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q004 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-05.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q006 |  |
-| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-06.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q008 |  |
-| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-07.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q013 |  |
-| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-08.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q016 |  |
+| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-06.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q009 |  |
+| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-07.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q014 |  |
+| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-08.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q018 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-09.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q018 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-10.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q021 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-11.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q025 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-12.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q028 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-13.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q033 |  |
-| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-14.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q034 |  |
+| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-14.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q035 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-15.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q037 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-16.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q041 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-17.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q045 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-18.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q049 |  |
-| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-19.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q056 |  |
+| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-19.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q055 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-20.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q058 |  |
-| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-21.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q062 |  |
+| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-21.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q063 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-22.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q065 |  |
-| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-23.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q070 |  |
+| https://gabaru.com.br/acervo/unicamp/massivo-2025-regular-41564e9bbd20/pagina-23.webp | 200 | https://gabaru.com.br/questoes/unicamp-2025-regular-41564e9bbd20-q069 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-02.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q002 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-03.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q002 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-04.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q003 |  |
-| https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-05.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q009 |  |
+| https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-05.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q007 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-06.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q012 |  |
-| https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-07.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q015 |  |
+| https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-07.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q016 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-08.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q017 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-09.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q019 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-10.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q021 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-11.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q024 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-12.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q027 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-13.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q030 |  |
-| https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-15.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q035 |  |
+| https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-15.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q036 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-16.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q038 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-17.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q041 |  |
-| https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-18.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q046 |  |
+| https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-18.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q045 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-19.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q048 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-20.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q053 |  |
 | https://gabaru.com.br/acervo/unicamp/massivo-2026-regular-8f6955a3d2b3/pagina-21.webp | 200 | https://gabaru.com.br/questoes/unicamp-2026-regular-8f6955a3d2b3-q056 |  |
@@ -1478,12 +1478,35 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/icon.svg?icon.0dfh9_x44rus4.svg | 200 | https://gabaru.com.br/sobre |  |
 | https://gabaru.com.br/institutos-federais | 200 | https://gabaru.com.br/ |  |
 | https://gabaru.com.br/livros | 200 | https://gabaru.com.br/sitemap-hubs.xml |  |
+| https://gabaru.com.br/livros/ciencias-humanas-atualidades-etec/cartografia-paisagem-e-meio-fisico-brasileiro | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/ciencias-humanas-atualidades-etec/da-antiguidade-ao-iluminismo | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/ciencias-humanas-atualidades-etec/globalizacao-blocos-economicos-e-geopolitica | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/ciencias-humanas-atualidades-etec/historia-do-brasil-colonia-imperio-e-republica | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/ciencias-humanas-atualidades-etec/populacao-urbanizacao-espaco-agrario-e-matriz-energetica | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/ciencias-natureza-ifs-etec/astronomia-basica-e-movimentos-da-terra | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/ciencias-natureza-ifs-etec/corpo-humano-citologia-e-saude-publica | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/ciencias-natureza-ifs-etec/ecologia-meio-ambiente-e-sustentabilidade | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/ciencias-natureza-ifs-etec/materia-estados-fisicos-e-quimica-do-cotidiano | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/ciencias-natureza-ifs-etec/mecanica-fontes-de-energia-e-eletricidade-residencial | 307 | https://gabaru.com.br/livros | /login |
 | https://gabaru.com.br/livros/enem-exatas-e-linguagens/funcoes-e-modelagem | 307 | https://gabaru.com.br/livros | /login |
 | https://gabaru.com.br/livros/enem-exatas-e-linguagens/moleculas-e-leitura-cientifica | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/matematica-essencial-ifs-etec/algebra-equacoes-e-sistemas | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/matematica-essencial-ifs-etec/aritmetica-conjuntos-fracoes-potenciacao-e-notacao-cientifica | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/matematica-essencial-ifs-etec/estatistica-e-probabilidade-no-cotidiano | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/matematica-essencial-ifs-etec/geometria-plana-pitagoras-e-geometria-espacial | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/matematica-essencial-ifs-etec/plano-cartesiano-graficos-tabelas-e-funcoes | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/matematica-essencial-ifs-etec/porcentagem-e-matematica-financeira-basica | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/matematica-essencial-ifs-etec/razao-proporcao-escalas-e-regra-de-tres | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/portugues-interpretacao-ifs-etec/coesao-coerencia-e-variacao-linguistica | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/portugues-interpretacao-ifs-etec/compreensao-e-interpretacao-de-textos | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/portugues-interpretacao-ifs-etec/generos-textuais-charges-tirinhas-e-infograficos | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/portugues-interpretacao-ifs-etec/morfossintaxe-aplicada-ao-texto | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/portugues-interpretacao-ifs-etec/pontuacao-crase-concordancia-e-regencia | 307 | https://gabaru.com.br/livros | /login |
+| https://gabaru.com.br/livros/portugues-interpretacao-ifs-etec/semantica-e-figuras-de-linguagem | 307 | https://gabaru.com.br/livros | /login |
 | https://gabaru.com.br/livros/vestibulinho-etec/razao-e-proporcao | 307 | https://gabaru.com.br/livros | /login |
 | https://gabaru.com.br/livros/vestibulinho-etec/unidades-e-escalas | 307 | https://gabaru.com.br/livros | /login |
 | https://gabaru.com.br/login | 200 | https://gabaru.com.br/sobre |  |
-| https://gabaru.com.br/marca/gabaru-carimbo.webp | 200 | https://gabaru.com.br/provas/enem/enem-2025-d2 |  |
+| https://gabaru.com.br/marca/gabaru-carimbo.webp | 200 | https://gabaru.com.br/provas/enem/enem-2025-d1 |  |
 | https://gabaru.com.br/materiais-gratuitos | 200 | https://gabaru.com.br/sobre |  |
 | https://gabaru.com.br/nota-de-corte | 200 | https://gabaru.com.br/sobre |  |
 | https://gabaru.com.br/nota-de-corte/fuvest | 200 | https://gabaru.com.br/sobre |  |
@@ -1509,7 +1532,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/provas/coluni/2024 | 200 | https://gabaru.com.br/sitemap-provas.xml |  |
 | https://gabaru.com.br/provas/coluni/2025 | 200 | https://gabaru.com.br/vestibulinho |  |
 | https://gabaru.com.br/provas/coluni/2026 | 200 | https://gabaru.com.br/sitemap-provas.xml |  |
-| https://gabaru.com.br/provas/enem | 200 | https://gabaru.com.br/provas/enem/enem-2025-d2 |  |
+| https://gabaru.com.br/provas/enem | 200 | https://gabaru.com.br/provas/enem/enem-2025-d1 |  |
 | https://gabaru.com.br/provas/enem/enem-2000 | 200 | https://gabaru.com.br/enem |  |
 | https://gabaru.com.br/provas/enem/enem-2001 | 200 | https://gabaru.com.br/enem |  |
 | https://gabaru.com.br/provas/enem/enem-2002 | 200 | https://gabaru.com.br/enem |  |
@@ -1562,7 +1585,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/provas/enem/enem-2025-d2 | 200 | https://gabaru.com.br/sitemap-provas.xml |  |
 | https://gabaru.com.br/provas/enem/enem-2025-reaplicacao-d2 | 200 | https://gabaru.com.br/enem |  |
 | https://gabaru.com.br/provas/enem/enem-2025-regular-d2 | 200 | https://gabaru.com.br/enem |  |
-| https://gabaru.com.br/provas/etec | 200 | https://gabaru.com.br/provas/etec/2026-2 |  |
+| https://gabaru.com.br/provas/etec | 200 | https://gabaru.com.br/provas/etec/2026-1 |  |
 | https://gabaru.com.br/provas/etec/2005-2 | 200 | https://gabaru.com.br/vestibulinho |  |
 | https://gabaru.com.br/provas/etec/2006-1 | 200 | https://gabaru.com.br/vestibulinho |  |
 | https://gabaru.com.br/provas/etec/2006-2 | 200 | https://gabaru.com.br/vestibulinho |  |
@@ -6185,7 +6208,7 @@ Execução: 2026-11-17T07:47:36.976Z. Next compilado iniciado e encerrado pelo a
 | https://gabaru.com.br/treino?ano=2009 | 200 | https://gabaru.com.br/provas/enem/enem-2009-d1 |  |
 | https://gabaru.com.br/treino?ano=2023 | 200 | https://gabaru.com.br/provas/enem/enem-2023-d1 |  |
 | https://gabaru.com.br/treino?ano=2024 | 200 | https://gabaru.com.br/provas/enem/enem-2024-ppl-d2 |  |
-| https://gabaru.com.br/treino?ano=2025 | 200 | https://gabaru.com.br/provas/enem/enem-2025-d2 |  |
+| https://gabaru.com.br/treino?ano=2025 | 200 | https://gabaru.com.br/provas/enem/enem-2025-d1 |  |
 | https://gabaru.com.br/vestibulares | 200 | https://gabaru.com.br/sitemap-hubs.xml |  |
 | https://gabaru.com.br/vestibulares-paulistas | 200 | https://gabaru.com.br/ |  |
 | https://gabaru.com.br/vestibulinho | 200 | https://gabaru.com.br/sitemap-hubs.xml |  |

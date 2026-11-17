@@ -1,0 +1,599 @@
+{
+  "versao": 2,
+  "colecao": "vestibulinho-ifs-etec",
+  "fontes": [
+    {
+      "prefixo": "bncc-",
+      "titulo": "Matriz curricular BNCC",
+      "papel": "matriz-curricular",
+      "url": "https://basenacionalcomum.mec.gov.br/",
+      "exigeAutorizacaoPorArquivo": true
+    },
+    {
+      "prefixo": "openstax-",
+      "titulo": "OpenStax: conferir licença da edição",
+      "papel": "referencia",
+      "url": "https://openstax.org/books/prealgebra-2e/pages/preface",
+      "exigeAutorizacaoPorArquivo": true
+    },
+    {
+      "prefixo": "ibge-",
+      "titulo": "IBGE: conferir créditos de cada obra/mapa",
+      "papel": "referencia",
+      "url": "https://educa.ibge.gov.br/",
+      "exigeAutorizacaoPorArquivo": true
+    },
+    {
+      "prefixo": "dominio-publico-",
+      "titulo": "Obra com domínio público e edição conferidos",
+      "papel": "referencia",
+      "url": "http://www.dominiopublico.gov.br/",
+      "exigeAutorizacaoPorArquivo": true
+    },
+    {
+      "prefixo": "etec-",
+      "titulo": "Prova oficial ETEC: conferir direitos dos textos e figuras",
+      "papel": "calibracao",
+      "url": "https://vestibulinho.etec.sp.gov.br/",
+      "exigeAutorizacaoPorArquivo": true
+    },
+    {
+      "prefixo": "ifsp-",
+      "titulo": "Prova oficial IFSP: conferir direitos dos textos e figuras",
+      "papel": "calibracao",
+      "url": "https://www.ifsp.edu.br/ps2027i",
+      "exigeAutorizacaoPorArquivo": true
+    },
+    {
+      "prefixo": "wikilivros-",
+      "titulo": "Wikilivros: preservar atribuição e compartilhamento pela mesma licença",
+      "papel": "referencia",
+      "url": "https://pt.wikibooks.org/",
+      "exigeAutorizacaoPorArquivo": true
+    },
+    {
+      "prefixo": "inep-",
+      "titulo": "Matriz INEP, referência complementar: não substitui a BNCC nem o edital",
+      "papel": "matriz-complementar",
+      "url": "https://www.gov.br/inep/",
+      "exigeAutorizacaoPorArquivo": true
+    },
+    {
+      "prefixo": "referencia-matematica-",
+      "titulo": "Anexos privados de matematica: licença não presumida",
+      "papel": "consulta-privada",
+      "exigeAutorizacaoPorArquivo": true
+    },
+    {
+      "prefixo": "referencia-fisica-",
+      "titulo": "Anexos privados de fisica: licença não presumida",
+      "papel": "consulta-privada",
+      "exigeAutorizacaoPorArquivo": true
+    },
+    {
+      "prefixo": "referencia-ingles-",
+      "titulo": "Anexos privados de ingles: licença não presumida",
+      "papel": "consulta-privada",
+      "exigeAutorizacaoPorArquivo": true
+    },
+    {
+      "prefixo": "referencia-humanas-",
+      "titulo": "Anexos privados de humanas: licença não presumida",
+      "papel": "consulta-privada",
+      "exigeAutorizacaoPorArquivo": true
+    }
+  ],
+  "capitulos": [
+    {
+      "livro": "portugues-interpretacao-ifs-etec",
+      "capitulo": "compreensao-e-interpretacao-de-textos",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "dominio-publico-",
+        "ibge-",
+        "inep-"
+      ],
+      "termos": [
+        "ideia central",
+        "inferência",
+        "pressupostos",
+        "intenção comunicativa",
+        "comparação de textos"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "portugues-interpretacao-ifs-etec",
+      "capitulo": "generos-textuais-charges-tirinhas-e-infograficos",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "dominio-publico-",
+        "ibge-",
+        "inep-"
+      ],
+      "termos": [
+        "gêneros textuais",
+        "notícia",
+        "artigo de opinião",
+        "propaganda",
+        "infográfico",
+        "charge",
+        "tirinha"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "portugues-interpretacao-ifs-etec",
+      "capitulo": "semantica-e-figuras-de-linguagem",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "dominio-publico-",
+        "ibge-",
+        "inep-"
+      ],
+      "termos": [
+        "denotação",
+        "conotação",
+        "polissemia",
+        "ambiguidade",
+        "metáfora",
+        "ironia",
+        "hipérbole",
+        "metonímia"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "portugues-interpretacao-ifs-etec",
+      "capitulo": "coesao-coerencia-e-variacao-linguistica",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "dominio-publico-",
+        "ibge-",
+        "inep-"
+      ],
+      "termos": [
+        "coesão",
+        "coerência",
+        "conectivos",
+        "referenciação pronominal",
+        "variação linguística",
+        "adequação"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "portugues-interpretacao-ifs-etec",
+      "capitulo": "morfossintaxe-aplicada-ao-texto",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "dominio-publico-",
+        "ibge-",
+        "inep-"
+      ],
+      "termos": [
+        "classes de palavras",
+        "verbos",
+        "pronomes",
+        "preposições",
+        "advérbios",
+        "sujeito",
+        "predicado",
+        "vozes verbais"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "portugues-interpretacao-ifs-etec",
+      "capitulo": "pontuacao-crase-concordancia-e-regencia",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "dominio-publico-",
+        "ibge-",
+        "inep-"
+      ],
+      "termos": [
+        "vírgula",
+        "crase",
+        "concordância verbal",
+        "concordância nominal",
+        "regência",
+        "sentido"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "matematica-essencial-ifs-etec",
+      "capitulo": "aritmetica-conjuntos-fracoes-potenciacao-e-notacao-cientifica",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "openstax-",
+        "inep-",
+        "ibge-",
+        "referencia-matematica-"
+      ],
+      "termos": [
+        "inteiros",
+        "racionais",
+        "frações",
+        "decimais",
+        "dízimas",
+        "MMC",
+        "MDC",
+        "potenciação",
+        "radiciação",
+        "notação científica"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "matematica-essencial-ifs-etec",
+      "capitulo": "razao-proporcao-escalas-e-regra-de-tres",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "openstax-",
+        "inep-",
+        "ibge-",
+        "referencia-matematica-"
+      ],
+      "termos": [
+        "razão",
+        "proporção",
+        "regra de três",
+        "grandezas proporcionais",
+        "escala",
+        "velocidade média"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "matematica-essencial-ifs-etec",
+      "capitulo": "porcentagem-e-matematica-financeira-basica",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "openstax-",
+        "inep-",
+        "ibge-",
+        "referencia-matematica-"
+      ],
+      "termos": [
+        "porcentagem",
+        "acréscimo",
+        "desconto",
+        "lucro",
+        "prejuízo",
+        "juros simples"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "matematica-essencial-ifs-etec",
+      "capitulo": "algebra-equacoes-e-sistemas",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "openstax-",
+        "inep-",
+        "ibge-",
+        "referencia-matematica-"
+      ],
+      "termos": [
+        "expressões algébricas",
+        "produtos notáveis",
+        "fatoração",
+        "equação",
+        "segundo grau",
+        "sistemas"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "matematica-essencial-ifs-etec",
+      "capitulo": "plano-cartesiano-graficos-tabelas-e-funcoes",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "openstax-",
+        "inep-",
+        "ibge-",
+        "referencia-matematica-"
+      ],
+      "termos": [
+        "plano cartesiano",
+        "gráfico",
+        "tabela",
+        "função afim",
+        "função quadrática",
+        "taxa de variação"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "matematica-essencial-ifs-etec",
+      "capitulo": "geometria-plana-pitagoras-e-geometria-espacial",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "openstax-",
+        "inep-",
+        "ibge-",
+        "referencia-matematica-"
+      ],
+      "termos": [
+        "ângulos",
+        "polígonos",
+        "semelhança",
+        "Pitágoras",
+        "áreas",
+        "perímetros",
+        "prismas",
+        "cilindros",
+        "volume",
+        "capacidade"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "matematica-essencial-ifs-etec",
+      "capitulo": "estatistica-e-probabilidade-no-cotidiano",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "openstax-",
+        "inep-",
+        "ibge-",
+        "referencia-matematica-"
+      ],
+      "termos": [
+        "média",
+        "mediana",
+        "moda",
+        "pesquisa",
+        "probabilidade",
+        "eventos"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "ciencias-natureza-ifs-etec",
+      "capitulo": "ecologia-meio-ambiente-e-sustentabilidade",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "ibge-",
+        "wikilivros-",
+        "inep-"
+      ],
+      "termos": [
+        "cadeia alimentar",
+        "teia alimentar",
+        "ciclos biogeoquímicos",
+        "biomas",
+        "poluição",
+        "efeito estufa",
+        "saneamento"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "ciencias-natureza-ifs-etec",
+      "capitulo": "corpo-humano-citologia-e-saude-publica",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "ibge-",
+        "wikilivros-",
+        "inep-"
+      ],
+      "termos": [
+        "célula",
+        "nutrientes",
+        "sistema digestório",
+        "respiração",
+        "circulação",
+        "vacinação",
+        "parasitoses",
+        "prevenção"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "ciencias-natureza-ifs-etec",
+      "capitulo": "materia-estados-fisicos-e-quimica-do-cotidiano",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "ibge-",
+        "wikilivros-",
+        "inep-"
+      ],
+      "termos": [
+        "estados físicos",
+        "mudança de fase",
+        "substâncias",
+        "misturas",
+        "filtração",
+        "destilação",
+        "decantação",
+        "átomo",
+        "transformações"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "ciencias-natureza-ifs-etec",
+      "capitulo": "mecanica-fontes-de-energia-e-eletricidade-residencial",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "ibge-",
+        "wikilivros-",
+        "inep-",
+        "referencia-fisica-"
+      ],
+      "termos": [
+        "movimento",
+        "velocidade média",
+        "Newton",
+        "energia renovável",
+        "potência",
+        "consumo elétrico"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "ciencias-natureza-ifs-etec",
+      "capitulo": "astronomia-basica-e-movimentos-da-terra",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "ibge-",
+        "wikilivros-",
+        "inep-"
+      ],
+      "termos": [
+        "Sistema Solar",
+        "rotação",
+        "translação",
+        "estações do ano",
+        "fases da Lua"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "ciencias-humanas-atualidades-etec",
+      "capitulo": "cartografia-paisagem-e-meio-fisico-brasileiro",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "ibge-",
+        "wikilivros-",
+        "inep-"
+      ],
+      "termos": [
+        "mapas",
+        "escala",
+        "coordenadas",
+        "relevo",
+        "clima",
+        "hidrografia",
+        "domínios morfoclimáticos"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "ciencias-humanas-atualidades-etec",
+      "capitulo": "populacao-urbanizacao-espaco-agrario-e-matriz-energetica",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "ibge-",
+        "wikilivros-",
+        "inep-"
+      ],
+      "termos": [
+        "migração",
+        "urbanização",
+        "industrialização",
+        "questão agrária",
+        "matriz energética",
+        "matriz elétrica"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "ciencias-humanas-atualidades-etec",
+      "capitulo": "globalizacao-blocos-economicos-e-geopolitica",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "ibge-",
+        "wikilivros-",
+        "inep-"
+      ],
+      "termos": [
+        "globalização",
+        "comércio internacional",
+        "blocos econômicos",
+        "geopolítica",
+        "mudanças climáticas",
+        "atualidades"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "ciencias-humanas-atualidades-etec",
+      "capitulo": "da-antiguidade-ao-iluminismo",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "ibge-",
+        "wikilivros-",
+        "inep-"
+      ],
+      "termos": [
+        "civilizações antigas",
+        "feudalismo",
+        "Renascimento",
+        "expansão marítima",
+        "colonização",
+        "Iluminismo"
+      ],
+      "limitePaginas": 8
+    },
+    {
+      "livro": "ciencias-humanas-atualidades-etec",
+      "capitulo": "historia-do-brasil-colonia-imperio-e-republica",
+      "prefixos": [
+        "bncc-",
+        "etec-",
+        "ifsp-",
+        "ibge-",
+        "wikilivros-",
+        "inep-"
+      ],
+      "termos": [
+        "colonização",
+        "escravidão",
+        "resistência",
+        "Independência",
+        "Império",
+        "Era Vargas",
+        "Ditadura Militar",
+        "redemocratização"
+      ],
+      "limitePaginas": 8
+    }
+  ]
+}

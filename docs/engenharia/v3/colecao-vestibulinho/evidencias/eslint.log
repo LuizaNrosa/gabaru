@@ -1,0 +1,52 @@
+
+/workspace/work/gabaru-code/scripts/gerar-capitulo-livro.mjs
+   3:12   warning  Unsafe Regular Expression                                                       security/detect-unsafe-regex
+   5:273  warning  Found readFileSync from package "node:fs" with non literal argument at index 0  security/detect-non-literal-fs-filename
+   5:461  warning  Found readFileSync from package "node:fs" with non literal argument at index 0  security/detect-non-literal-fs-filename
+   6:668  warning  Found existsSync from package "node:fs" with non literal argument at index 0    security/detect-non-literal-fs-filename
+   6:700  warning  Found readFileSync from package "node:fs" with non literal argument at index 0  security/detect-non-literal-fs-filename
+   6:846  warning  Found existsSync from package "node:fs" with non literal argument at index 0    security/detect-non-literal-fs-filename
+   6:882  warning  Found readFileSync from package "node:fs" with non literal argument at index 0  security/detect-non-literal-fs-filename
+  11:9    warning  Found readFileSync from package "node:fs" with non literal argument at index 0  security/detect-non-literal-fs-filename
+  34:5    warning  Found existsSync from package "node:fs" with non literal argument at index 0    security/detect-non-literal-fs-filename
+  34:37   warning  Found readFileSync from package "node:fs" with non literal argument at index 0  security/detect-non-literal-fs-filename
+  35:17   warning  Found readFileSync from package "node:fs" with non literal argument at index 0  security/detect-non-literal-fs-filename
+  35:87   warning  Found readFileSync from package "node:fs" with non literal argument at index 0  security/detect-non-literal-fs-filename
+  63:14   warning  Found existsSync from package "node:fs" with non literal argument at index 0    security/detect-non-literal-fs-filename
+  63:50   warning  Found readFileSync from package "node:fs" with non literal argument at index 0  security/detect-non-literal-fs-filename
+
+/workspace/work/gabaru-code/scripts/ingerir-bibliografia.mjs
+   9:35   warning  Found mkdirSync from package "node:fs" with non literal argument at index 0      security/detect-non-literal-fs-filename
+   9:85   warning  Found writeFileSync from package "node:fs" with non literal argument at index 0  security/detect-non-literal-fs-filename
+   9:148  warning  Found renameSync from package "node:fs" with non literal argument at index 0,1   security/detect-non-literal-fs-filename
+  12:9    warning  Found existsSync from package "node:fs" with non literal argument at index 0     security/detect-non-literal-fs-filename
+  12:40   warning  Found readFileSync from package "node:fs" with non literal argument at index 0   security/detect-non-literal-fs-filename
+  16:6    warning  Found existsSync from package "node:fs" with non literal argument at index 0     security/detect-non-literal-fs-filename
+  18:23   warning  Found existsSync from package "node:fs" with non literal argument at index 0     security/detect-non-literal-fs-filename
+  18:95   warning  Found readFileSync from package "node:fs" with non literal argument at index 0   security/detect-non-literal-fs-filename
+  20:36   warning  Found readdirSync from package "node:fs" with non literal argument at index 0    security/detect-non-literal-fs-filename
+  25:26   warning  Unsafe Regular Expression                                                        security/detect-unsafe-regex
+  28:15   warning  Found readFileSync from package "node:fs" with non literal argument at index 0   security/detect-non-literal-fs-filename
+  41:37   warning  Found existsSync from package "node:fs" with non literal argument at index 0     security/detect-non-literal-fs-filename
+  41:91   warning  Found readFileSync from package "node:fs" with non literal argument at index 0   security/detect-non-literal-fs-filename
+
+/workspace/work/gabaru-code/src/lib/livros-conteudo.ts
+  19:6   warning  Unsafe Regular Expression                                                       security/detect-unsafe-regex
+  19:49  warning  Unsafe Regular Expression                                                       security/detect-unsafe-regex
+  23:6   warning  Found existsSync from package "node:fs" with non literal argument at index 0    security/detect-non-literal-fs-filename
+  24:23  warning  Found readFileSync from package "node:fs" with non literal argument at index 0  security/detect-non-literal-fs-filename
+
+/workspace/work/gabaru-code/tests/colecao-vestibulinho.test.mjs
+  20:2    warning  Found writeFileSync from package "node:fs" with non literal argument at index 0   security/detect-non-literal-fs-filename
+  21:2    warning  Found writeFileSync from package "node:fs" with non literal argument at index 0   security/detect-non-literal-fs-filename
+  22:52   warning  Found readFileSync from package "node:fs" with non literal argument at index 0    security/detect-non-literal-fs-filename
+  23:2    warning  Found writeFileSync from package "node:fs" with non literal argument at index 0   security/detect-non-literal-fs-filename
+  30:14   warning  Found readFileSync from package "node:fs" with non literal argument at index 0    security/detect-non-literal-fs-filename
+  30:120  warning  Found readFileSync from package "node:fs" with non literal argument at index 0    security/detect-non-literal-fs-filename
+  31:2    warning  Found appendFileSync from package "node:fs" with non literal argument at index 0  security/detect-non-literal-fs-filename
+  37:44   warning  Found writeFileSync from package "node:fs" with non literal argument at index 0   security/detect-non-literal-fs-filename
+  37:91   warning  Found readFileSync from package "node:fs" with non literal argument at index 0    security/detect-non-literal-fs-filename
+  49:6    warning  Found writeFileSync from package "node:fs" with non literal argument at index 0   security/detect-non-literal-fs-filename
+  49:78   warning  Found writeFileSync from package "node:fs" with non literal argument at index 0   security/detect-non-literal-fs-filename
+
+✖ 42 problems (0 errors, 42 warnings)

@@ -20,6 +20,8 @@ __pycache__/
 # Fontes editoriais privadas; somente a documentação da pasta entra no Git.
 /bibliografia-pdfs/**
 !/bibliografia-pdfs/README.md
+!/bibliografia-pdfs/MAPA-FONTES.json
+!/bibliografia-pdfs/AUTORIZACOES.exemplo.json
 
 # Staging privado de gravações atômicas do resgate.
 /src/data/editorial/.resgate-*/

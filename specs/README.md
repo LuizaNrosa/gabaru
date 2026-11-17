@@ -25,3 +25,9 @@ Questões Tier 1/2 entram no sitemap de questões. Cadernos entram quando atinge
 Superpowers instalado por `npx skills add obra/superpowers -a codex -y` (MIT, revisão fixada em `skills-lock.json`). Spec-Kit instalado por `uv tool install specify-cli --from git+https://github.com/github/spec-kit.git` (MIT; CLI 1.4.2.dev0, commit `e210504aa09c9273a38bba665b12b8088468c96f`). Linkinator 8.1.0 (MIT) é dependência de desenvolvimento fixada pelo lockfile.
 
 Fluxo: contrato → teste de regressão → implementação → diagnóstico da causa de qualquer falha → build e auditoria completa → revisão do diff → commit. Execução direta, sem subagentes, conforme instrução do usuário. Links externos não são rastreados diretamente; endpoints locais de PDFs podem consultar fontes oficiais pelo proxy de rede do ambiente; URLs canônicas internas são remapeadas ao servidor compilado. Artefatos intermediários ficam em `work/`, ignorado pelo Git.
+
+## Coleção Vestibulinho IFs & ETEC
+
+`src/data/colecao-vestibulinho.json` registra quatro livros e 23 capítulos (6/7/5/5). Sumários são públicos em `/livros`; capítulos em preparação continuam identificados e protegidos. As quatro amostras anteriores permanecem disponíveis. Publicados da nova coleção exigem seis questões reais ETEC/IFs em Tier 1/2, distintas, referências atribuídas e revisão editorial identificada. Livros legados mantêm cinco exercícios. Rascunhos nunca são servidos como capítulos concluídos.
+
+O mapa versionado em `bibliografia-pdfs/MAPA-FONTES.json` liga prefixos a capítulos. PDFs, autorizações e índice permanecem privados e fora do build. Fontes com texto ilegível entram em quarentena de extração/OCR; não fornecem teoria nem exercícios publicados. Licença da edição e páginas autorizadas não são inferidas pelo nome do arquivo. Referências BNCC/INEP não constituem, sozinhas, validação automática de alinhamento curricular.

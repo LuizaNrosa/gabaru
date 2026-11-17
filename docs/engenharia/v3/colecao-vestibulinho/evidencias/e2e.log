@@ -1,0 +1,15 @@
+[WebServer] (node:94497) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+
+Running 4 tests using 1 worker
+
+(node:94511) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓  1 [desktop] › tests/e2e/colecao-vestibulinho.spec.ts:4:1 › sumário público apresenta quatro livros e 23 capítulos sem JavaScript (2.4s)
+  ✓  2 [desktop] › tests/e2e/colecao-vestibulinho.spec.ts:12:1 › 23 leitores exigem sessão e não revelam o conteúdo no redirecionamento (2.6s)
+(node:94668) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓  3 [mobile] › tests/e2e/colecao-vestibulinho.spec.ts:4:1 › sumário público apresenta quatro livros e 23 capítulos sem JavaScript (2.3s)
+  ✓  4 [mobile] › tests/e2e/colecao-vestibulinho.spec.ts:12:1 › 23 leitores exigem sessão e não revelam o conteúdo no redirecionamento (601ms)
+
+  4 passed (12.4s)

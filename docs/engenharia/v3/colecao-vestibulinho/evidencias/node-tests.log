@@ -1,0 +1,358 @@
+
+> gabaru@0.1.0 test
+> node scripts/testar-unitarios.mjs
+
+✔ gravação do resgate não segue symlink de destino e limpa seu staging exclusivo (2.522366ms)
+(node:97252) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/server/migrate.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ (a) histórico vem com o mais recente primeiro e com disciplina/assunto (3786.431995ms)
+✔ (b) paginação: limit/offset com total e nextOffset coerentes (4.528116ms)
+✔ (c) isolamento: o histórico de A nunca inclui tentativas de B (4.158241ms)
+✔ (d) aluno sem tentativas → página limpa (2.0802ms)
+(node:97263) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/server/migrate.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ F3: elapsedMs no teto do int4 grava; acima dele é erro de validação (2931.996119ms)
+✔ F4: UUID de tentativa de outro aluno não derruba o pedido nem vaza o registo (9.726828ms)
+✔ F8: questão não publicada não é corrigida nem aceita tentativas (5.311035ms)
+✔ Repo: limit/offset NaN ou fracionários são sanitizados, não quebram (4.638902ms)
+✔ F1: questão pública do ENEM nunca inclui o gabarito (0.400023ms)
+✔ F2: detalhe público de edição não inclui `answer` nem o texto das páginas (0.29903ms)
+(node:97274) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/editorial-segments.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+{"pdfs":1,"quarentena":0,"paginas":1,"paginasOmitidas":0,"fontesSemAutorizacao":1,"indice":"/tmp/gabaru-biblio-ztMUfu/indice.json"}
+{"capitulo":"/tmp/gabaru-biblio-ztMUfu/capitulos/guia/funcoes.json","status":"rascunho","questoes":["enem-2021-d2-q155","enem-2022-ppl-d2-q138","enem-2023-d2-q177","enem-2024-ppl-d2-q161","enem-2024-ppl-d2-q163"],"fonteSha256":"498217038edbdc6bbc33384a52fcf88ab40617fcc37632d7cfdd268d4afb6a25"}
+{"capitulo":"/tmp/gabaru-biblio-ztMUfu/capitulos/guia/funcoes.json","status":"rascunho","questoes":["enem-2021-d2-q155","enem-2022-ppl-d2-q138","enem-2023-d2-q177","enem-2024-ppl-d2-q161","enem-2024-ppl-d2-q163"],"fonteSha256":"498217038edbdc6bbc33384a52fcf88ab40617fcc37632d7cfdd268d4afb6a25"}
+✔ PDF local → capítulo privado, KaTeX e cinco questões reais; hash e publicação protegidos (1102.582109ms)
+✔ ingestão recusa links simbólicos (1.029111ms)
+✔ projeção editorial diferencia dinheiro de fórmulas e recusa TeX inválido (1.829745ms)
+(node:97283) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/catalogo/search.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ identidades únicas, proveniência e vínculos entre cadernos e questões (11.282143ms)
+✔ gate editorial preserva resoluções completas e anulações documentadas (1.963102ms)
+✔ busca combina palavra, banca, ano, disciplina e assunto sem falsos resultados (833.819975ms)
+✔ schemas mantêm respostas correspondentes ao conteúdo e referências resolvidas (0.576342ms)
+✔ JSON-LD não publica respostas de registros em quarentena (0.422718ms)
+(node:97290) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/editorial-segments.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+{"pdfs":1,"quarentena":0,"paginas":1,"paginasOmitidas":0,"fontesSemAutorizacao":0,"indice":"/tmp/gabaru-colecao-UEOFyv/indice.json"}
+{"capitulo":"/tmp/gabaru-colecao-UEOFyv/content/matematica-essencial-ifs-etec/razao-proporcao-escalas-e-regra-de-tres.json","status":"rascunho","fontes":1,"questoes":["etec-2019-2-q025","etec-2007-2-q016","etec-2010-1-q007","etec-2010-1-q008","etec-2013-2-q039","etec-2014-1-q003"]}
+{"capitulo":"/tmp/gabaru-colecao-UEOFyv/content/matematica-essencial-ifs-etec/razao-proporcao-escalas-e-regra-de-tres.json","status":"rascunho","fontes":1,"questoes":["etec-2019-2-q025","etec-2007-2-q016","etec-2010-1-q007","etec-2010-1-q008","etec-2013-2-q039","etec-2014-1-q003"]}
+{"pdfs":1,"quarentena":1,"paginas":0,"paginasOmitidas":1,"fontesSemAutorizacao":1,"indice":"/tmp/gabaru-ocr-uuZKLw/indice.json"}
+✔ coleção registra quatro livros, 23 capítulos únicos e exemplos estruturados (1.797421ms)
+✔ PDF por prefixo → trechos pertinentes, seis questões ETEC/IFs e referências; hash/licença protegidos (669.94997ms)
+✔ licença NC ou autorização ausente não libera adaptação comercial (0.912707ms)
+✔ 23 capítulos têm seis candidatas reais distintas; pertinência permanece sujeita à revisão (1188.522487ms)
+✔ fórmulas dos 23 planos e exemplos são válidas em KaTeX (14.268368ms)
+✔ fonte mapeada sem camada de texto fica em quarentena sem bloquear as demais (8.5103ms)
+✔ a disciplina do capítulo respeita Física, Química, Português e as áreas de Humanas (0.540539ms)
+✔ One caderno per edition, no duplicate IDs or PDFs (2.296727ms)
+✔ COLUNI 2026: final caderno 1 key, question mapping and original PDFs (12.571672ms)
+✔ COLUNI 2025: final caderno 1 key, question mapping and original PDFs (5.273573ms)
+✔ COLUNI 2024: final caderno 1 key, question mapping and original PDFs (7.437876ms)
+✔ COLUNI 2023: final caderno 1 key, question mapping and original PDFs (7.470936ms)
+✔ COLUNI 2022: final caderno 1 key, question mapping and original PDFs (8.250103ms)
+✔ COLUNI 2021: final caderno 1 key, question mapping and original PDFs (9.239239ms)
+✔ COLUNI 2020: final caderno 1 key, question mapping and original PDFs (14.232312ms)
+✔ COLUNI 2019: final caderno 1 key, question mapping and original PDFs (23.369625ms)
+✔ COLUNI 2018: final caderno 1 key, question mapping and original PDFs (27.456677ms)
+✔ COLUNI 2017: final caderno 1 key, question mapping and original PDFs (15.527367ms)
+✔ COLUNI 2016: final caderno 1 key, question mapping and original PDFs (30.710651ms)
+✔ COLUNI 2015: final caderno 1 key, question mapping and original PDFs (6.481395ms)
+✔ COLUNI 2014: final caderno 1 key, question mapping and original PDFs (11.671849ms)
+✔ COLUNI 2013: final caderno 1 key, question mapping and original PDFs (19.213214ms)
+✔ COLUNI cortes: meta confere com a base oficial compilada (1.820321ms)
+✔ COLUNI cortes: edições de modalidades 2022–2026, escala 73, 150 vagas (0.883287ms)
+✔ COLUNI cortes: série da ampla concorrência (1ª chamada) é a das listas oficiais (0.199344ms)
+✔ COLUNI cortes: 2026 AC — exemplo completo conferido à mão (0.225637ms)
+✔ COLUNI cortes: demanda documental por edição (inscritos dos relatórios oficiais) (0.256148ms)
+✔ COLUNI cortes: toda a modalidade tem corte de 1ª chamada com fonte; 130 chamadas no total (0.340868ms)
+✔ COLUNI cortes: histórico da era do bônus fica separado, com escalas e lacunas honestas (0.263807ms)
+✔ reconstrói somente bloco completo e mantém todas as alternativas (2.104277ms)
+✔ contexto visual ou compartilhado não é reconstruído por inferência (0.497186ms)
+✔ marcadores A), (A), A - e quebra de linha exigem sequência explícita completa (1.23059ms)
+✔ COTUCA 2027 preserva ofertas distintas por modalidade e turno (1.231841ms)
+(node:97341) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/server/migrate.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ migração e importação idempotentes não duplicam registos (3162.37253ms)
+✔ (a) seleção pública não expõe gabarito (17.300348ms)
+✔ (b) correção no servidor: certa, errada, anulada e inexistente (3.367095ms)
+✔ (b)+(c) tentativas gravam correct do servidor e o progresso agrega (18.858159ms)
+✔ FSRS-7 mantém estado de memória rápida e produz revisão futura sem fuzz (10.683244ms)
+✔ parser SMILES distingue os três átomos do etanol e rejeita sintaxe incompleta (1.931397ms)
+✔ ENEM: catálogo possui identificadores únicos e seguros (1.532257ms)
+(node:97359) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/enem-question-order.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ ENEM enem-2025-d1: dados e imagens das questões estão disponíveis (108.175744ms)
+✔ ENEM enem-2025-d2: dados e imagens das questões estão disponíveis (145.743997ms)
+✔ ENEM enem-2024-d1: dados e imagens das questões estão disponíveis (63.211849ms)
+✔ ENEM enem-2024-d2: dados e imagens das questões estão disponíveis (2.471081ms)
+✔ ENEM enem-2024-ppl-d2: dados e imagens das questões estão disponíveis (47.263855ms)
+✔ ENEM enem-2023-d1: dados e imagens das questões estão disponíveis (43.259288ms)
+✔ ENEM enem-2023-d2: dados e imagens das questões estão disponíveis (33.945112ms)
+✔ ENEM enem-2022-d1: dados e imagens das questões estão disponíveis (38.984084ms)
+✔ ENEM enem-2022-d2: dados e imagens das questões estão disponíveis (33.762068ms)
+✔ ENEM enem-2022-ppl-d1: dados e imagens das questões estão disponíveis (53.720954ms)
+✔ ENEM enem-2022-ppl-d2: dados e imagens das questões estão disponíveis (38.194607ms)
+✔ ENEM enem-2021-d1: dados e imagens das questões estão disponíveis (40.557313ms)
+✔ ENEM enem-2021-d2: dados e imagens das questões estão disponíveis (36.561272ms)
+✔ ENEM enem-2020-d2: dados e imagens das questões estão disponíveis (40.912818ms)
+✔ ENEM enem-2012-d1: dados e imagens das questões estão disponíveis (40.742837ms)
+✔ ENEM enem-2011-d1: dados e imagens das questões estão disponíveis (41.179431ms)
+✔ ENEM enem-2011-d2: dados e imagens das questões estão disponíveis (39.074501ms)
+✔ ENEM enem-2009-d1: dados e imagens das questões estão disponíveis (31.566956ms)
+✔ ENEM enem-2008: dados e imagens das questões estão disponíveis (29.468975ms)
+✔ ENEM enem-2007: dados e imagens das questões estão disponíveis (29.618718ms)
+✔ ENEM enem-2006: dados e imagens das questões estão disponíveis (28.567109ms)
+✔ ENEM enem-2005: dados e imagens das questões estão disponíveis (21.731331ms)
+✔ ENEM enem-2004: dados e imagens das questões estão disponíveis (18.963133ms)
+✔ ENEM enem-2003: dados e imagens das questões estão disponíveis (19.624515ms)
+✔ ENEM enem-2002: dados e imagens das questões estão disponíveis (29.032427ms)
+✔ ENEM enem-2001: dados e imagens das questões estão disponíveis (20.129595ms)
+✔ ENEM enem-2000: dados e imagens das questões estão disponíveis (20.00365ms)
+✔ ENEM: navegador e correção usam a numeração oficial nas duas línguas (2.195089ms)
+✔ ENEM: cadernos paginados têm uma imagem por página e gabarito completo (626.080444ms)
+(node:97370) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/server/entitlements-decisao.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ checkout.session.completed com uid → ativar, com ids mapeados (0.682663ms)
+✔ checkout.session.completed SEM uid → ignorar (nunca ativar às cegas) (0.147807ms)
+✔ uid vem de metadata.firebaseUid quando client_reference_id falta (0.104447ms)
+✔ subscription_details.metadata também resolve o uid (0.169508ms)
+✔ eventos de corte → desativar (0.187673ms)
+✔ invoice.payment_failed → marcar (o corte vem da subscription) (0.092863ms)
+✔ evento desconhecido → ignorar, sem lançar (0.093027ms)
+✔ gabarito contém exatamente 50 alternativas válidas (0.890195ms)
+✔ sequência coincide com transcrição independente do PDF oficial (0.130376ms)
+✔ fontes correspondem à mesma edição e hashes estão registrados (0.312995ms)
+✔ historical ETEC archive: 43 unique exams, 2090 questions and official annulments (6.59438ms)
+✔ PDFs kept by the reader match their SHA-256 provenance and page images remain present (275.48888ms)
+✔ ETEC 2025/2 has 50 mapped questions and serves every page as a WebP (7.241702ms)
+✔ paginated builds serve only individual images for every ETEC caderno (646.33437ms)
+✔ contagens de questões com texto batem com a regra de publicação, por edição (2.049901ms)
+✔ toda a questão publicada tem enunciado e 5 alternativas íntegras (5.450141ms)
+✔ casos conhecidos: fusão de alternativas e edições sem segmentação ficam de fora (0.320643ms)
+✔ FUVEST: dados oficiais têm uma linha por carreira e modalidade (6.509634ms)
+✔ FUVEST 2027 preserva valores ausentes e ausência de convocados (2.850707ms)
+✔ FUVEST 2000–2003: provas, exames e gabaritos identificados (6.311818ms)
+✔ FUVEST 2004–2007 V: quantidade por ano, gabaritos e fontes (6.845584ms)
+✔ FUVEST 2008–2011 V: 90 respostas por versão e fontes oficiais (6.085996ms)
+✔ FUVEST 2012–2015 V: gabaritos e questões anuladas (7.975862ms)
+✔ FUVEST 2016 e 2017 V têm 90 respostas e fontes identificadas (5.97977ms)
+✔ FUVEST 2018 e 2019 V têm respostas e documentos oficiais identificados (5.919163ms)
+✔ FUVEST 2020 V tem 90 respostas e documento identificado (5.798035ms)
+✔ FUVEST 2021 V: 90 respostas e caderno oficial identificado (5.292512ms)
+✔ FUVEST 2022: cinco versões identificam gabarito e questão anulada (6.019089ms)
+✔ FUVEST 2023: cinco versões completas com identidade e gabarito próprios (5.882183ms)
+✔ FUVEST 2024: as cinco versões têm cadernos e gabaritos identificados (6.795512ms)
+✔ Cada versão oficial tem caderno único, 90 respostas e proveniência (6.743353ms)
+✔ IFCE Fortaleza: referências agregadas da ampla concorrência de 2026.2 (4.858963ms)
+✔ IFMT 2025/1: caderno e gabarito oficial preservados (9.419222ms)
+✔ IFMT 2026/1: caderno e gabarito definitivo completos (6.710123ms)
+✔ IFRN 2026: agregados preservam modalidade e vagas sem informações pessoais (2.220384ms)
+✔ IFRS 2025/1 preserva o caderno e o gabarito definitivo publicado (9.090923ms)
+✔ IFRS 2026/1: caderno íntegro e gabarito definitivo com questão anulada (12.452422ms)
+✔ IFMG, IFRN e IFCE de 2023: arquivos e correção (31.551606ms)
+✔ IFRN 2013–2015 e IFBA 2026: arquivos e gabaritos (26.514999ms)
+✔ IFRN 2016–2018 e IFMG 2019: provas e gabaritos (44.760498ms)
+✔ IFRN 2019, 2020 e 2026 e IFMG 2020: arquivos e anulações (33.908705ms)
+✔ quatro cadernos IFMG, IFRN e IFCE: arquivos e gabaritos (24.660385ms)
+✔ IFMG, IFRN e IFCE: arquivos e formas de correção (38.594235ms)
+✔ IFSC editions newest-first, no duplicate IDs or PDFs (2.223631ms)
+✔ IFSC 2026-2: official key, mapping, method/format and original PDFs (14.712145ms)
+✔ IFSC 2026-1: official key, mapping, method/format and original PDFs (6.233852ms)
+✔ IFSC 2025-2: official key, mapping, method/format and original PDFs (6.662243ms)
+✔ IFSC 2025-1: official key, mapping, method/format and original PDFs (5.177076ms)
+✔ IFSC 2024-2: official key, mapping, method/format and original PDFs (17.782026ms)
+✔ IFSC 2024-1: official key, mapping, method/format and original PDFs (5.081996ms)
+✔ IFSC 2024-1-itajai: official key, mapping, method/format and original PDFs (3.648783ms)
+✔ IFSC 2023-2: official key, mapping, method/format and original PDFs (3.55501ms)
+✔ IFSC 2023-1: official key, mapping, method/format and original PDFs (3.61216ms)
+✔ IFSC 2022-2: official key, mapping, method/format and original PDFs (2.493347ms)
+✔ IFSC 2022-1: official key, mapping, method/format and original PDFs (3.951425ms)
+✔ IFSC 2020-1: official key, mapping, method/format and original PDFs (4.772154ms)
+✔ IFSC 2019-2: official key, mapping, method/format and original PDFs (19.083278ms)
+✔ IFSC 2019-1: official key, mapping, method/format and original PDFs (7.556497ms)
+✔ IFSC 2018-2: official key, mapping, method/format and original PDFs (26.609226ms)
+✔ IFSC 2018-1: official key, mapping, method/format and original PDFs (19.672166ms)
+✔ IFSC 2017-2: official key, mapping, method/format and original PDFs (10.31287ms)
+✔ IFSC 2017-1: official key, mapping, method/format and original PDFs (15.77599ms)
+✔ IFSC cortes: meta confere com a base oficial compilada (0.871246ms)
+✔ IFSC cortes: edições semestrais 2026.2→2017.1 e questões por era (0.754764ms)
+✔ IFSC cortes: 975 referências — 742 oficiais, 233 derivadas só em 2026.1 (1.348906ms)
+✔ IFSC cortes: seis edições sem lista oficial ficam sem nenhuma referência (0.586504ms)
+✔ IFSC cortes: 2017.1 só tem as três modalidades de cota localizadas (sem AC) (0.324165ms)
+✔ IFSC cortes: exemplo completo 2026.1 — Florianópolis - Centro, Química, matutino (0.564032ms)
+✔ IFSC cortes: registo padrão da ferramenta (2026.2, Chapecó, DS, vespertino) (0.146239ms)
+✔ IFSC cortes: dispensa de prova — 12 cursos, com a exceção documentada de 2018.1 (0.283159ms)
+✔ IFSC cortes: o único erro real de C/V da fonte fica visível (Jaraguá 2026.2) (0.222012ms)
+✔ IFSP editions newest-first, no duplicate IDs or PDFs (1.345496ms)
+✔ IFSP 2026.1: Tipo 2 é o Tipo 1 com as secções trocadas (0.150575ms)
+✔ IFSP 2026-1-tipo1: official key, mapping, method/format and original PDFs (13.940129ms)
+✔ IFSP 2026-1-tipo2: official key, mapping, method/format and original PDFs (4.231396ms)
+✔ IFSP 2025-1-a: official key, mapping, method/format and original PDFs (6.019328ms)
+✔ IFSP 2025-1-b: official key, mapping, method/format and original PDFs (5.843664ms)
+✔ IFSP 2024-1-a: official key, mapping, method/format and original PDFs (5.128293ms)
+✔ IFSP 2024-1-b: official key, mapping, method/format and original PDFs (8.519871ms)
+✔ IFSP 2023-1-a: official key, mapping, method/format and original PDFs (4.746139ms)
+✔ IFSP 2023-1-b: official key, mapping, method/format and original PDFs (6.048186ms)
+✔ IFSP 2022-1-manha: official key, mapping, method/format and original PDFs (4.925087ms)
+✔ IFSP 2022-1-tarde: official key, mapping, method/format and original PDFs (4.782526ms)
+✔ IFSP 2027: demanda oficial por campus, curso e turno não é corte (5.174065ms)
+(node:97709) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/catalogo/incidence.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ incidência não conta cópias de versão, quarentena ou rótulos pendentes como assunto (1.203708ms)
+✔ licenças: impede copyleft e expressões ambíguas em dependências diretas, dev e opcionais (1.490962ms)
+✔ licenças: OR seleciona licença permissiva e AND mantém todas as obrigações (0.717678ms)
+✔ licenças: metadados ausentes não podem ser aprovados por um arquivo falsificado (1.714845ms)
+✔ licenças: reconhece o texto MIT distribuído pelo limiter, conferido por hash (0.313027ms)
+✔ licenças: exceção LGPL só vale para o mesmo artefato Sharp herdado (0.489721ms)
+✔ remapeia somente a origem interna exata (1.131036ms)
+✔ extrai todas as partes XML preservando parâmetros escapados (0.89757ms)
+✔ expande índice e todas as partes e conserva origem XML (3.087321ms)
+✔ sitemap com status inválido interrompe cobertura em vez de ignorar (0.695803ms)
+✔ limpeza do ISR preserva arquivos recentes (8.836829ms)
+✔ números entre chaves, artigo A na prosa e marcadores inline preservam o bloco (2.755368ms)
+✔ duas sequências A–E no mesmo bloco não comprovam integridade (0.395873ms)
+✔ nota e texto da próxima questão não pertencem à alternativa E (0.194256ms)
+✔ cabeçalho de gabarito ETEC não gera uma resposta fantasma (1.48601ms)
+✔ COLUNI escolhe versão da capa e reconhece anuladas adjacentes (0.729737ms)
+✔ 90% é o limite inclusivo, e abaixo dele o caderno segue em quarentena (0.51844ms)
+✔ anulação comprovada permite gabarito nulo, mas glifos matemáticos ilegíveis seguem retidos (1.747128ms)
+✔ dry-run preserves catalog; approved batch writes once and cannot duplicate (34.366996ms)
+✔ self-review, mismatched evidence and corrupt PDF never change catalog (7.387524ms)
+(node:97794) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/metricasAluno.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ FSRS-7 persiste memória entre revisões e agenda erro antes de acerto (20.500742ms)
+✔ métricas agrupam assunto/banca/disciplina sem contar acerto falso (0.769102ms)
+(node:97801) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/official-pdf.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ returns the exact verified PDF bytes (53.998672ms)
+✔ rejects a same-length changed PDF (0.71438ms)
+✔ rejects excessive body size even without Content-Length (0.4364ms)
+✔ does not follow a redirect to an external host (1.061607ms)
+✔ rejects a source with credentials before requesting it (0.230123ms)
+✔ legados podem declarar revisão pós-recursos não comprovada (1.160129ms)
+✔ rejeita corrupção de catálogo antes de downloads (0.810443ms)
+COLUNI: 2 PDFs oficiais verificados; 1 questões.
+✔ cache íntegro dispensa rede, cache corrompido é substituído (50.488374ms)
+COLUNI: 2 PDFs oficiais verificados; 1 questões.
+✔ retry limitado a falhas transitórias; hash incorreto nunca publicado (8.132021ms)
+COLUNI: 8 PDFs oficiais verificados; 4 questões.
+✔ limita a quatro downloads e não repete HTTP 404 (25.708427ms)
+✔ retries a transient error and preserves the verified PDFs (218.968682ms)
+✔ fails on mismatched content without publishing an invalid PDF (202.804919ms)
+✔ stops forbidden without publishing after 1 request(s) (191.577604ms)
+✔ stops unavailable without publishing after 2 request(s) (184.102405ms)
+✔ preparar o leitor IF preserva os bytes da prova e do gabarito (148.785092ms)
+✔ P0: public/treino/banco.json não existe (a base vive em src/data/) (0.937823ms)
+✔ nenhum ficheiro em public/ contém gabarito (116.83408ms)
+✔ conferência documental é obrigatória; gabarito sem comentários pode promover caderno (21.185767ms)
+✔ resolução divergente ou sem análise de todos os distratores não é nível 2 (0.226128ms)
+✔ todos os lotes possuem três blocos e correspondem ao gabarito (70.521201ms)
+✔ OCR legado sem layout não promove questão contextual incompleta (0.264159ms)
+✔ gabarito não aceita conflito ou versão divergente (1.105359ms)
+✔ prova textual exige bloco, ordem e todas as alternativas (1.199482ms)
+✔ notação preserva subtração e matemática já marcada (11.637951ms)
+✔ idiomas não são inferidos e espanhol não herda resposta inglesa (0.927041ms)
+✔ checkpoint retoma sem duplicar e rejeita letra divergente sem salvar resolução (1694.563657ms)
+✔ pelo menos 150 resoluções completas, modelos específicos e gabarito documental coincidente (13.283779ms)
+✔ projeção tipada preserva a fonte autoral e todas as fórmulas passam em KaTeX estrito (51.580091ms)
+✔ reconstrói bytes idênticos e substitui cache corrompido atomicamente (75.628624ms)
+✔ cache íntegro pula partes ausentes (13.320781ms)
+✔ rejeita ordem, duplicatas e partes descontínuas (0.855719ms)
+✔ corrupção e ausência nunca sobrescrevem cache existente (26.964762ms)
+✔ hash válido de conteúdo não PDF é rejeitado (37.340077ms)
+✔ bloqueia traversal, caminhos absolutos e fonte de outra instituição (1.08654ms)
+✔ bloqueia escape por link simbólico das partes (10.734301ms)
+✔ bloqueia ancestral de destino simbólico antes de criar diretórios (16.036952ms)
+✔ limpeza preserva conteúdo e é idempotente (1.688298ms)
+✔ cinco pares bilíngues mantêm identidades e não herdam resposta espanhola (574.877796ms)
+(node:97999) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/security/input.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:97999) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/APK/src/services/api.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/APK/package.json.
+✔ checkout rejeita preço, priceId, plano arbitrário e prototype pollution (3.164597ms)
+✔ sanitizador remove XSS e mantém tags pedagógicas permitidas (14.281947ms)
+✔ APK aceita subpastas e bloqueia traversal/encoding/URLs externas (0.51483ms)
+✔ limite é ponderado, expira e não cresce além da capacidade (0.252165ms)
+✔ corpo grande é rejeitado antes de JSON.parse (7.110409ms)
+✔ SDK Stripe rejeita assinatura inválida e aceita assinatura criptográfica válida (4.904534ms)
+✔ ledger transacional impede replay e cancelamento antigo não revoga assinatura nova (1.300763ms)
+✔ paywall só aceita assinatura ativa, não expirada e conferida no servidor (0.552677ms)
+✔ texto simples preserva desigualdades e código literal sem criar elementos HTML (3.256002ms)
+✔ UFC: referência da chamada regular de 2026 distingue unidade, curso, turno e modalidade (1.611838ms)
+(node:98020) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/seo/sitemap-stream.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ 4501 URLs viram três partes 2000/2000/501 sem perda e gzip reversível (43.189038ms)
+(node:98027) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/study-progress.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ revisão espaçada mantém histórico de erro e separa dados de contas diferentes (0.705065ms)
+✔ busca combina habilidade, não resolvidas e comentadas sem inferir habilidade ausente (877.004802ms)
+✔ UERJ 2013 e 2014: cadernos e gabaritos por idioma (51.486498ms)
+✔ UERJ 2015 e 2016: cadernos, idiomas e anulação oficial (94.902026ms)
+✔ UERJ 2017 e 2018: cadernos, idiomas e anulação oficial (38.469614ms)
+✔ UERJ 2019 e 2020: cadernos e gabaritos por idioma (39.072788ms)
+✔ quatro exames UERJ 2024–2025: gabaritos, idiomas, anulações e arquivos (89.962619ms)
+✔ UERJ e UEL 2026: arquivos, idiomas e gabaritos (53.467281ms)
+✔ UNESP de 2011 a 2014: arquivos, dados e respostas (36.331122ms)
+✔ UNESP 2015, 2016 e dois cadernos de 2021: arquivos, dados e respostas (30.453915ms)
+✔ quatro cadernos UNESP têm gabaritos, fontes e imagens correspondentes (45.482794ms)
+✔ UNESP 2025 regular: caderno e gabarito oficial identificados (5.605446ms)
+✔ UNESP 2026: tabela oficial por curso e modalidade (8.120391ms)
+✔ quatro cadernos UNESP têm gabaritos, fontes e imagens correspondentes (15.877612ms)
+✔ quatro cadernos UNESP têm gabaritos, fontes e imagens correspondentes (16.386906ms)
+✔ Unicamp 2027 preserva todas as modalidades e lacunas da COMVEST (5.703356ms)
+✔ Unicamp: gabaritos e alternativas conferidos por caderno (9.645407ms)
+(node:98199) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///workspace/work/gabaru-code/src/lib/validation.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /workspace/work/gabaru-code/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ CorpoTentativa aceita um corpo válido (3.490315ms)
+✔ CorpoTentativa rejeita selectedKey fora de A–E e UUID malformado (0.598884ms)
+✔ CorpoTentativa aplica o teto do int4 em elapsedMs (0.324049ms)
+✔ ConsultaHistorico faz coerção e limita a página (1.362571ms)
+✔ ConsultaHistorico rejeita chaves repetidas em searchParams multi-valor (0.321671ms)
+✔ ConsultaQuestoes valida ano de quatro dígitos e limit 1–90 (0.963708ms)
+✔ mensagemDeErro produz mensagem única em pt-BR com campo (0.583799ms)
+✔ unesp: verified official PDFs have unique IDs and hashes (1.628131ms)
+✔ unesp: every year in the declared collection has a question source (0.283807ms)
+✔ unicamp: verified official PDFs have unique IDs and hashes (4.251246ms)
+✔ unicamp: every year in the declared collection has a question source (0.526148ms)
+✔ copied 2024 links are not attributed to the 2025 selection (5.334816ms)
+✔ the 2008 UNESP report is identified as reproduced questions (1.206667ms)
+ℹ tests 273
+ℹ suites 0
+ℹ pass 273
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 63833.575283

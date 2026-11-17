@@ -10,37 +10,27 @@ Checkout Mercado Pago e o checkout legado Stripe recusam novas cobranças com a 
 
 ## PDFs → capítulo: dois comandos
 
-Na raiz do repositório, coloque fontes autorizadas em:
+A coleção Vestibulinho IFs & ETEC registra quatro livros e 23 capítulos. Capítulos planejados aparecem com o estado **Em preparação editorial**; as amostras anteriores continuam disponíveis. PDF disponível não significa conteúdo autorizado para adaptação.
 
-```text
-bibliografia-pdfs/
-  enem-exatas-e-linguagens/
-    funcoes-e-modelagem.pdf
-```
+Coloque PDFs com prefixos previstos em `bibliografia-pdfs/MAPA-FONTES.json` e registre sua edição, licença, páginas e SHA-256 no arquivo privado `bibliografia-pdfs/AUTORIZACOES.json` (há modelo na pasta). Confira a licença da cópia: o OpenStax Prealgebra 2e atual informa CC BY-NC-SA. Os anexos recebidos em `referencias/` são bibliografia privada e não têm autorização comercial presumida.
 
-Cada PDF representa um capítulo, com texto selecionável, até 30 páginas e 32 MiB. Fontes escaneadas ou com glifos corrompidos precisam de OCR/conferência antes da ingestão. A pasta é privada, ignorada pelo Git e excluída das funções Vercel.
-
-**1. Extraia as fontes e registre os hashes:**
+**1. Extraia e indexe as fontes por página:**
 
 ```bash
 node scripts/ingerir-bibliografia.mjs
 ```
 
-Saída local: `work/bibliografia/indice.json`, com páginas, texto, caminho privado e SHA-256. A extração é estruturada por página; não interpreta automaticamente gráficos nem reescreve a teoria.
-
-**2. Gere o capítulo e selecione cinco questões reais:**
+**2. Gere o rascunho do capítulo com seis candidatas reais de ETEC/IFs:**
 
 ```bash
-node scripts/gerar-capitulo-livro.mjs --livro=enem-exatas-e-linguagens --capitulo=funcoes-e-modelagem
+node scripts/gerar-capitulo-livro.mjs --livro=matematica-essencial-ifs-etec --capitulo=razao-proporcao-escalas-e-regra-de-tres
 ```
 
-Troque os slugs pelos nomes da pasta e do PDF. O script confere novamente o hash, gera `content/livros/<livro>/<capitulo>.json` e atualiza somente metadados públicos em `src/data/livros-gerados.json`. Seleciona cinco questões Tier 1/2 não anuladas, sem repetir versões do mesmo enunciado, por correspondência textual documentada. Falha se não houver cinco correspondências; não fabrica exercícios nem gabaritos.
+Substitua os slugs pelos do sumário. A saída em `content/livros/<livro>/<capitulo>.json` reúne conceitos e exemplo autorais, trechos pertinentes das fontes autorizadas, fórmulas KaTeX, gráfico quando previsto e atribuições por página/hash. O gerador é determinístico; não usa um serviço externo para produzir texto nem interpreta figuras automaticamente. O ranking de exercícios por palavras é uma seleção inicial para revisão, não prova de alinhamento pedagógico.
 
-O resultado é um **rascunho**, com transcrição por página, fontes e exercícios. O leitor renderiza fórmulas explícitas `\(...\)` com KaTeX validado; texto e valores monetários ficam separados da matemática. Fórmulas desenhadas e figuras exigem revisão da fonte, não são inventadas pela extração.
+Complete e revise a exposição, as figuras e as seis questões; identifique a pessoa revisora em `revisaoEditorial: {"responsavel":"Nome","data":"AAAA-MM-DD"}` e só então marque `status: "publicado"`. Rascunhos não são servidos como capítulos concluídos. CC BY-SA exige a mesma licença na adaptação. O gerador não sobrescreve publicados. Versione apenas JSONs revisados, faça novo build e valide antes do deploy.
 
-Revise transcrição, fórmulas, figuras, direitos e pertinência dos cinco exercícios. Edite a introdução editorial, os títulos das seções e os títulos do catálogo em `src/data/livros-gerados.json`; depois mude `status` de `rascunho` para `publicado` no JSON do capítulo. Rascunhos não aparecem no catálogo nem são servidos pelo leitor; amostras existentes permanecem identificadas. O gerador não sobrescreve capítulos publicados.
-
-Versione os JSONs revisados e faça novo build/deploy. A leitura é em `/livros/<livro>/<capitulo>`, com autenticação no servidor e mini-simulado de cinco questões; não há endpoint para baixar o PDF nem JSON público do livro inteiro.
+O fluxo anterior `<livro>/<capitulo>.pdf` continua aceito para livros fora da coleção, com cinco exercícios e as amostras existentes. Fontes mapeadas aceitam 64 MiB/1.500 páginas; no legado, 32 MiB/30 páginas. Páginas que precisam de OCR permanecem sinalizadas. Consulte `bibliografia-pdfs/README.md` para o contrato completo. Não existe endpoint de download dos livros autorais.
 
 ## Quando os livros estiverem prontos para venda
 

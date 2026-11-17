@@ -1,0 +1,1091 @@
+[
+  {
+    "slug": "portugues-interpretacao-ifs-etec",
+    "titulo": "Língua Portuguesa e Interpretação Crítica (Núcleo IFs & ETEC)",
+    "descricao": "Leitura, linguagem e análise linguística em seis capítulos. Núcleo comum de preparação para ETEC e IFSP integrado.",
+    "colecao": "vestibulinho-ifs-etec",
+    "capitulos": [
+      {
+        "slug": "compreensao-e-interpretacao-de-textos",
+        "titulo": "Compreensão e Interpretação de Textos",
+        "topicos": [
+          "ideia central",
+          "inferência",
+          "pressupostos",
+          "intenção comunicativa",
+          "comparação de textos"
+        ],
+        "disciplinas": [
+          "lingua-portuguesa",
+          "portugues",
+          "literatura"
+        ],
+        "introducao": "Neste capítulo, estude compreensão e interpretação de textos com leitura contextualizada, exemplos e prática.",
+        "conceito": "Interpretar exige relacionar pistas do texto e distinguir informação explícita de inferência. Uma conclusão possível no mundo não é necessariamente sustentada pelo trecho.",
+        "exemplo": {
+          "enunciado": "Leia: “Ana voltou a estudar na biblioteca.” O que o verbo voltou pressupõe?",
+          "passos": [
+            "Identifique a ação: estudar na biblioteca.",
+            "O verbo voltar marca a retomada de uma ação anterior.",
+            "Separe esse pressuposto de informações ausentes: o trecho não informa horário nem motivo da interrupção."
+          ],
+          "resposta": "Ana já havia estudado na biblioteca antes."
+        },
+        "termosBusca": [
+          "autor",
+          "leitura",
+          "informacoes",
+          "sentido",
+          "trecho",
+          "afirma",
+          "conclui",
+          "ideia",
+          "opiniao",
+          "interpretacao",
+          "contexto",
+          "narrador",
+          "personagem",
+          "poema"
+        ]
+      },
+      {
+        "slug": "generos-textuais-charges-tirinhas-e-infograficos",
+        "titulo": "Gêneros Textuais, Charges, Tirinhas e Infográficos",
+        "topicos": [
+          "gêneros textuais",
+          "notícia",
+          "artigo de opinião",
+          "propaganda",
+          "infográfico",
+          "charge",
+          "tirinha"
+        ],
+        "disciplinas": [
+          "lingua-portuguesa",
+          "portugues",
+          "literatura"
+        ],
+        "introducao": "Neste capítulo, estude gêneros textuais, charges, tirinhas e infográficos com leitura contextualizada, exemplos e prática.",
+        "conceito": "Gênero, finalidade e público orientam a leitura. Em textos multimodais, legenda, escala, imagem e palavras devem ser interpretadas em conjunto.",
+        "exemplo": {
+          "enunciado": "Um infográfico informa: ônibus transportaram 60 pessoas e automóveis 40, em um total de 100 passageiros. Qual grupo reúne a maioria?",
+          "passos": [
+            "Leia a unidade: os números contam pessoas, não veículos.",
+            "Compare 60 com 40 e confirme que a soma é 100.",
+            "Evite concluir que houve mais ônibus que automóveis: essa quantidade não foi informada."
+          ],
+          "resposta": "Os passageiros de ônibus são a maioria: 60% do total."
+        },
+        "termosBusca": [
+          "charge",
+          "tirinha",
+          "quadrinho",
+          "imagem",
+          "infografico",
+          "tabela",
+          "grafico",
+          "noticia",
+          "propaganda",
+          "genero",
+          "humor",
+          "campanha",
+          "texto",
+          "autor",
+          "linguagem"
+        ]
+      },
+      {
+        "slug": "semantica-e-figuras-de-linguagem",
+        "titulo": "Semântica e Figuras de Linguagem",
+        "topicos": [
+          "denotação",
+          "conotação",
+          "polissemia",
+          "ambiguidade",
+          "metáfora",
+          "ironia",
+          "hipérbole",
+          "metonímia"
+        ],
+        "disciplinas": [
+          "lingua-portuguesa",
+          "portugues",
+          "literatura"
+        ],
+        "introducao": "Neste capítulo, estude semântica e figuras de linguagem com leitura contextualizada, exemplos e prática.",
+        "conceito": "O sentido depende do contexto e das relações entre palavras. Figuras de linguagem criam efeitos expressivos; identificá-las deve ajudar a explicar o texto.",
+        "exemplo": {
+          "enunciado": "Em “Esperei uma eternidade pelo ônibus”, que efeito produz eternidade?",
+          "passos": [
+            "O contexto descreve uma espera cotidiana.",
+            "A palavra eternidade amplia a duração muito além do sentido literal.",
+            "Relacione o exagero à sensação de demora do falante."
+          ],
+          "resposta": "Há hipérbole: exagero expressivo que intensifica a demora."
+        },
+        "termosBusca": [
+          "palavra",
+          "sentido",
+          "expressao",
+          "figurado",
+          "metafora",
+          "ironia",
+          "exagero",
+          "personificacao",
+          "ambiguidade",
+          "contexto",
+          "comparacao"
+        ]
+      },
+      {
+        "slug": "coesao-coerencia-e-variacao-linguistica",
+        "titulo": "Coesão, Coerência e Variação Linguística",
+        "topicos": [
+          "coesão",
+          "coerência",
+          "conectivos",
+          "referenciação pronominal",
+          "variação linguística",
+          "adequação"
+        ],
+        "disciplinas": [
+          "lingua-portuguesa",
+          "portugues",
+          "literatura"
+        ],
+        "introducao": "Neste capítulo, estude coesão, coerência e variação linguística com leitura contextualizada, exemplos e prática.",
+        "conceito": "Conectivos e pronomes organizam relações entre ideias. A adequação linguística depende da situação de comunicação, sem tornar variedades regionais formas inferiores de linguagem.",
+        "exemplo": {
+          "enunciado": "Em “Choveu; por isso, o jogo foi adiado”, qual relação o conectivo estabelece?",
+          "passos": [
+            "Identifique os dois fatos: chuva e adiamento.",
+            "Por isso apresenta o segundo fato como consequência do primeiro.",
+            "Substitua por portanto e confira se a relação entre as ideias se mantém."
+          ],
+          "resposta": "O conectivo introduz consequência ou conclusão em relação à chuva."
+        },
+        "termosBusca": [
+          "pronome",
+          "conectivo",
+          "conjuncao",
+          "referencia",
+          "substitui",
+          "retoma",
+          "expressao",
+          "termo",
+          "palavra",
+          "relacao",
+          "sentido",
+          "contexto",
+          "linguagem",
+          "variedade",
+          "fala"
+        ]
+      },
+      {
+        "slug": "morfossintaxe-aplicada-ao-texto",
+        "titulo": "Morfossintaxe Aplicada ao Texto",
+        "topicos": [
+          "classes de palavras",
+          "verbos",
+          "pronomes",
+          "preposições",
+          "advérbios",
+          "sujeito",
+          "predicado",
+          "vozes verbais"
+        ],
+        "disciplinas": [
+          "lingua-portuguesa",
+          "portugues",
+          "literatura"
+        ],
+        "introducao": "Neste capítulo, estude morfossintaxe aplicada ao texto com leitura contextualizada, exemplos e prática.",
+        "conceito": "A função sintática é determinada pela organização da oração, não apenas pela posição da palavra. O núcleo do sujeito orienta a concordância verbal.",
+        "exemplo": {
+          "enunciado": "Identifique o sujeito em “Os estudantes da escola organizaram a feira”.",
+          "passos": [
+            "Localize o verbo organizaram.",
+            "Pergunte quem realizou a ação: os estudantes da escola.",
+            "Distinga o núcleo estudantes do termo que o acompanha, da escola."
+          ],
+          "resposta": "O sujeito é Os estudantes da escola; seu núcleo é estudantes."
+        },
+        "termosBusca": [
+          "verbo",
+          "sujeito",
+          "predicado",
+          "substantivo",
+          "adjetivo",
+          "pronome",
+          "adverbio",
+          "preposicao",
+          "oracao",
+          "verbal",
+          "tempo",
+          "classe",
+          "palavras"
+        ]
+      },
+      {
+        "slug": "pontuacao-crase-concordancia-e-regencia",
+        "titulo": "Pontuação, Crase, Concordância e Regência em Contexto",
+        "topicos": [
+          "vírgula",
+          "crase",
+          "concordância verbal",
+          "concordância nominal",
+          "regência",
+          "sentido"
+        ],
+        "disciplinas": [
+          "lingua-portuguesa",
+          "portugues",
+          "literatura"
+        ],
+        "introducao": "Neste capítulo, estude pontuação, crase, concordância e regência em contexto com leitura contextualizada, exemplos e prática.",
+        "conceito": "Pontuação organiza relações e pode alterar sentidos. A crase depende da combinação de preposição a com artigo ou pronome compatível, e não apenas de haver palavra feminina.",
+        "exemplo": {
+          "enunciado": "Por que há crase em “A turma foi à biblioteca”?",
+          "passos": [
+            "O verbo ir, nesse uso, pede a preposição a.",
+            "Biblioteca admite o artigo a.",
+            "A combinação da preposição e do artigo é assinalada pelo acento grave."
+          ],
+          "resposta": "Há crase em à biblioteca pela fusão de a + a."
+        },
+        "termosBusca": [
+          "virgula",
+          "pontuacao",
+          "crase",
+          "concordancia",
+          "regencia",
+          "acento",
+          "verbal",
+          "nominal",
+          "oracao",
+          "verbo",
+          "sujeito",
+          "plural",
+          "norma",
+          "escrita",
+          "frase"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "matematica-essencial-ifs-etec",
+    "titulo": "Matemática Essencial do 6º ao 9º Ano (Núcleo IFs & ETEC)",
+    "descricao": "Sete capítulos de números, proporcionalidade, álgebra, geometria e análise de dados.",
+    "colecao": "vestibulinho-ifs-etec",
+    "capitulos": [
+      {
+        "slug": "aritmetica-conjuntos-fracoes-potenciacao-e-notacao-cientifica",
+        "titulo": "Aritmética, Conjuntos, Frações, Potenciação e Notação Científica",
+        "topicos": [
+          "inteiros",
+          "racionais",
+          "frações",
+          "decimais",
+          "dízimas",
+          "MMC",
+          "MDC",
+          "potenciação",
+          "radiciação",
+          "notação científica"
+        ],
+        "disciplinas": [
+          "matematica"
+        ],
+        "introducao": "Neste capítulo, estude aritmética, conjuntos, frações, potenciação e notação científica com leitura contextualizada, exemplos e prática.",
+        "conceito": "Operações com frações exigem respeitar o significado das partes e a ordem das operações. A notação científica separa um coeficiente e uma potência de dez.",
+        "exemplo": {
+          "enunciado": "Calcule \\(\\frac{1}{2}+\\frac{1}{3}\\).",
+          "passos": [
+            "Escolha um denominador comum: \\(\\operatorname{mmc}(2,3)=6\\).",
+            "Escreva frações equivalentes: \\(1/2=3/6\\) e \\(1/3=2/6\\).",
+            "Some os numeradores e conserve o denominador: \\((3+2)/6=5/6\\)."
+          ],
+          "resposta": "A soma é \\(5/6\\)."
+        },
+        "termosBusca": [
+          "numeros",
+          "numero",
+          "racionais",
+          "inteiros",
+          "fracao",
+          "fracoes",
+          "decimal",
+          "decimais",
+          "potencia",
+          "raiz",
+          "divisao",
+          "multiplicacao",
+          "soma",
+          "produto",
+          "quantidade",
+          "partes"
+        ]
+      },
+      {
+        "slug": "razao-proporcao-escalas-e-regra-de-tres",
+        "titulo": "Razão, Proporção, Escalas e Regra de Três",
+        "topicos": [
+          "razão",
+          "proporção",
+          "regra de três",
+          "grandezas proporcionais",
+          "escala",
+          "velocidade média"
+        ],
+        "disciplinas": [
+          "matematica"
+        ],
+        "introducao": "Neste capítulo, estude razão, proporção, escalas e regra de três com leitura contextualizada, exemplos e prática.",
+        "conceito": "Antes de aplicar uma regra de três, verifique se as grandezas são direta ou inversamente proporcionais. Na escala, distâncias do mapa e do terreno devem usar unidades compatíveis.",
+        "exemplo": {
+          "enunciado": "Em um mapa de escala 1:50.000, uma estrada mede 4 cm. Qual sua extensão real?",
+          "passos": [
+            "Cada centímetro representa 50.000 cm no terreno.",
+            "Multiplique 4 por 50.000: são 200.000 cm.",
+            "Converta dividindo por 100.000 cm por quilômetro."
+          ],
+          "resposta": "A extensão é de 2 km."
+        },
+        "termosBusca": [
+          "preco",
+          "custo",
+          "quantidade",
+          "total",
+          "tempo",
+          "distancia",
+          "proporcional",
+          "escala",
+          "quilometros",
+          "litros",
+          "velocidade",
+          "razao",
+          "proporcao",
+          "grandeza"
+        ]
+      },
+      {
+        "slug": "porcentagem-e-matematica-financeira-basica",
+        "titulo": "Porcentagem e Matemática Financeira Básica",
+        "topicos": [
+          "porcentagem",
+          "acréscimo",
+          "desconto",
+          "lucro",
+          "prejuízo",
+          "juros simples"
+        ],
+        "disciplinas": [
+          "matematica"
+        ],
+        "introducao": "Neste capítulo, estude porcentagem e matemática financeira básica com leitura contextualizada, exemplos e prática.",
+        "conceito": "Uma porcentagem é uma razão de base cem. Em variações sucessivas, cada taxa incide sobre o valor atualizado; taxas iguais de aumento e desconto não se anulam.",
+        "exemplo": {
+          "enunciado": "Um produto de R$ 100 recebe aumento de 20% e depois desconto de 20%. Qual o preço final?",
+          "passos": [
+            "O aumento multiplica o preço por \\(1{,}20\\): o valor passa a R$ 120.",
+            "O desconto multiplica o novo valor por \\(0{,}80\\).",
+            "Calcule 120 × 0,80 e compare com o preço inicial."
+          ],
+          "resposta": "O preço final é R$ 96, uma redução de 4% em relação ao inicial."
+        },
+        "termosBusca": [
+          "porcentagem",
+          "percentual",
+          "desconto",
+          "aumento",
+          "juros",
+          "lucro",
+          "valor",
+          "preco",
+          "centavos",
+          "reais",
+          "taxa",
+          "compra",
+          "venda",
+          "total"
+        ]
+      },
+      {
+        "slug": "algebra-equacoes-e-sistemas",
+        "titulo": "Álgebra, Equações do 1º/2º Grau e Sistemas",
+        "topicos": [
+          "expressões algébricas",
+          "produtos notáveis",
+          "fatoração",
+          "equação",
+          "segundo grau",
+          "sistemas"
+        ],
+        "disciplinas": [
+          "matematica"
+        ],
+        "introducao": "Neste capítulo, estude álgebra, equações do 1º/2º grau e sistemas com leitura contextualizada, exemplos e prática.",
+        "conceito": "Uma equação exprime uma igualdade entre expressões. Operações equivalentes preservam suas soluções; ao terminar, substitua a resposta na relação original.",
+        "exemplo": {
+          "enunciado": "Resolva \\(3x+5=20\\).",
+          "passos": [
+            "Subtraia 5 dos dois lados: \\(3x=15\\).",
+            "Divida os dois lados por 3: \\(x=5\\).",
+            "Confira na expressão inicial: \\(3\\cdot5+5=20\\)."
+          ],
+          "resposta": "A solução é \\(x=5\\)."
+        },
+        "termosBusca": [
+          "equacao",
+          "sistema",
+          "incognita",
+          "algebra",
+          "expressao",
+          "fator",
+          "produto",
+          "soma",
+          "numero",
+          "valor",
+          "solucao",
+          "quadrado",
+          "igualdade"
+        ]
+      },
+      {
+        "slug": "plano-cartesiano-graficos-tabelas-e-funcoes",
+        "titulo": "Plano Cartesiano, Gráficos, Tabelas e Funções",
+        "topicos": [
+          "plano cartesiano",
+          "gráfico",
+          "tabela",
+          "função afim",
+          "função quadrática",
+          "taxa de variação"
+        ],
+        "disciplinas": [
+          "matematica"
+        ],
+        "introducao": "Neste capítulo, estude plano cartesiano, gráficos, tabelas e funções com leitura contextualizada, exemplos e prática.",
+        "conceito": "Um gráfico relaciona grandezas com unidades e domínio definidos. Em uma função afim, o coeficiente de x indica a taxa de variação e o termo constante indica o valor inicial.",
+        "exemplo": {
+          "enunciado": "Para \\(f(x)=2x+1\\), determine a entrada que produz saída 7.",
+          "passos": [
+            "Iguale a expressão a 7: \\(2x+1=7\\).",
+            "Subtraia 1 e divida por 2: \\(x=3\\).",
+            "Confira no gráfico e na expressão: \\(f(3)=7\\)."
+          ],
+          "resposta": "A entrada é \\(x=3\\)."
+        },
+        "grafico": {
+          "funcao": "2*x+1",
+          "pontos": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              5
+            ],
+            [
+              3,
+              7
+            ]
+          ]
+        },
+        "termosBusca": [
+          "funcao",
+          "grafico",
+          "tabela",
+          "plano",
+          "cartesiano",
+          "coordenada",
+          "variacao",
+          "valor",
+          "custo",
+          "inicial",
+          "linear",
+          "pontos",
+          "eixo"
+        ]
+      },
+      {
+        "slug": "geometria-plana-pitagoras-e-geometria-espacial",
+        "titulo": "Geometria Plana, Teorema de Pitágoras e Geometria Espacial",
+        "topicos": [
+          "ângulos",
+          "polígonos",
+          "semelhança",
+          "Pitágoras",
+          "áreas",
+          "perímetros",
+          "prismas",
+          "cilindros",
+          "volume",
+          "capacidade"
+        ],
+        "disciplinas": [
+          "matematica"
+        ],
+        "introducao": "Neste capítulo, estude geometria plana, teorema de pitágoras e geometria espacial com leitura contextualizada, exemplos e prática.",
+        "conceito": "Área mede uma superfície e volume mede o espaço ocupado. O teorema de Pitágoras aplica-se a triângulos retângulos, relacionando os quadrados dos catetos e da hipotenusa.",
+        "exemplo": {
+          "enunciado": "Uma escada apoia-se em uma parede: a base está a 3 m da parede e o topo, a 4 m de altura. Qual o comprimento da escada?",
+          "passos": [
+            "Reconheça o ângulo reto entre chão e parede.",
+            "Aplique \\(c^2=3^2+4^2=9+16=25\\).",
+            "Considere o comprimento positivo: \\(c=\\sqrt{25}=5\\)."
+          ],
+          "resposta": "A escada mede 5 m."
+        },
+        "termosBusca": [
+          "area",
+          "volume",
+          "perimetro",
+          "triangulo",
+          "retangulo",
+          "quadrado",
+          "cilindro",
+          "prisma",
+          "circulo",
+          "diametro",
+          "altura",
+          "base",
+          "comprimento",
+          "largura",
+          "raio"
+        ]
+      },
+      {
+        "slug": "estatistica-e-probabilidade-no-cotidiano",
+        "titulo": "Estatística e Probabilidade no Cotidiano",
+        "topicos": [
+          "média",
+          "mediana",
+          "moda",
+          "pesquisa",
+          "probabilidade",
+          "eventos"
+        ],
+        "disciplinas": [
+          "matematica"
+        ],
+        "introducao": "Neste capítulo, estude estatística e probabilidade no cotidiano com leitura contextualizada, exemplos e prática.",
+        "conceito": "Medidas de tendência central resumem aspectos diferentes de um conjunto de dados. Na probabilidade clássica, a razão entre casos favoráveis e possíveis requer resultados equiprováveis.",
+        "exemplo": {
+          "enunciado": "As notas são 2, 3, 3 e 8. Determine média, mediana e moda.",
+          "passos": [
+            "Some os valores e divida por quatro: 16/4 = 4.",
+            "Os valores centrais são 3 e 3; a média entre eles é 3.",
+            "O valor mais frequente é 3, que aparece duas vezes."
+          ],
+          "resposta": "Média 4, mediana 3 e moda 3."
+        },
+        "termosBusca": [
+          "media",
+          "mediana",
+          "moda",
+          "probabilidade",
+          "dados",
+          "pesquisa",
+          "tabela",
+          "grafico",
+          "sorteio",
+          "aleatorio",
+          "chance",
+          "percentual",
+          "frequencia",
+          "amostra"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ciencias-natureza-ifs-etec",
+    "titulo": "Ciências da Natureza Contextualizadas (ETEC & IFs)",
+    "descricao": "Cinco capítulos de ambiente, saúde, matéria, energia e astronomia. A distribuição varia conforme o edital de cada IF.",
+    "colecao": "vestibulinho-ifs-etec",
+    "capitulos": [
+      {
+        "slug": "ecologia-meio-ambiente-e-sustentabilidade",
+        "titulo": "Ecologia, Meio Ambiente e Sustentabilidade",
+        "topicos": [
+          "cadeia alimentar",
+          "teia alimentar",
+          "ciclos biogeoquímicos",
+          "biomas",
+          "poluição",
+          "efeito estufa",
+          "saneamento"
+        ],
+        "disciplinas": [
+          "biologia",
+          "ciencias",
+          "fisica",
+          "quimica"
+        ],
+        "introducao": "Neste capítulo, estude ecologia, meio ambiente e sustentabilidade com leitura contextualizada, exemplos e prática.",
+        "conceito": "Uma cadeia alimentar descreve transferências de matéria e energia. As setas apontam do recurso consumido para o organismo que o consome.",
+        "exemplo": {
+          "enunciado": "Na cadeia capim → gafanhoto → sapo, identifique produtor e consumidor primário.",
+          "passos": [
+            "O capim produz matéria orgânica por fotossíntese.",
+            "O gafanhoto alimenta-se do produtor.",
+            "O sapo consome o gafanhoto e ocupa o nível seguinte."
+          ],
+          "resposta": "O capim é produtor; o gafanhoto é consumidor primário."
+        },
+        "termosBusca": [
+          "ecologia",
+          "ambiente",
+          "ambiental",
+          "cadeia",
+          "alimentar",
+          "energia",
+          "consumidor",
+          "produtor",
+          "bioma",
+          "floresta",
+          "biodiversidade",
+          "poluicao",
+          "sustentavel",
+          "carbono",
+          "atmosfera",
+          "saneamento"
+        ]
+      },
+      {
+        "slug": "corpo-humano-citologia-e-saude-publica",
+        "titulo": "Corpo Humano, Citologia e Saúde Pública",
+        "topicos": [
+          "célula",
+          "nutrientes",
+          "sistema digestório",
+          "respiração",
+          "circulação",
+          "vacinação",
+          "parasitoses",
+          "prevenção"
+        ],
+        "disciplinas": [
+          "biologia",
+          "ciencias",
+          "fisica",
+          "quimica"
+        ],
+        "introducao": "Neste capítulo, estude corpo humano, citologia e saúde pública com leitura contextualizada, exemplos e prática.",
+        "conceito": "A organização celular sustenta as funções dos organismos. Medidas de saúde pública devem ser relacionadas aos mecanismos de transmissão e prevenção de cada doença.",
+        "exemplo": {
+          "enunciado": "Por que eliminar recipientes com água parada ajuda no controle da dengue?",
+          "passos": [
+            "A dengue é transmitida principalmente por mosquitos infectados do gênero Aedes.",
+            "Recipientes com água podem permitir o desenvolvimento das fases aquáticas do mosquito.",
+            "Eliminar esses criadouros reduz oportunidades de reprodução do vetor."
+          ],
+          "resposta": "A medida atua sobre o ciclo do vetor; não substitui outras ações de prevenção."
+        },
+        "termosBusca": [
+          "celula",
+          "celular",
+          "organismo",
+          "saude",
+          "vacina",
+          "dengue",
+          "mosquito",
+          "prevencao",
+          "doenca",
+          "nutrientes",
+          "digestao",
+          "respiracao",
+          "sangue",
+          "sistema",
+          "imunidade",
+          "bacteria",
+          "virus"
+        ]
+      },
+      {
+        "slug": "materia-estados-fisicos-e-quimica-do-cotidiano",
+        "titulo": "Matéria, Estados Físicos e Química do Cotidiano",
+        "topicos": [
+          "estados físicos",
+          "mudança de fase",
+          "substâncias",
+          "misturas",
+          "filtração",
+          "destilação",
+          "decantação",
+          "átomo",
+          "transformações"
+        ],
+        "disciplinas": [
+          "biologia",
+          "ciencias",
+          "fisica",
+          "quimica"
+        ],
+        "introducao": "Neste capítulo, estude matéria, estados físicos e química do cotidiano com leitura contextualizada, exemplos e prática.",
+        "conceito": "Métodos de separação exploram propriedades físicas dos componentes. Na escolha do método, considere solubilidade, tamanho das partículas, densidade e temperatura de ebulição.",
+        "exemplo": {
+          "enunciado": "Como separar areia de água e depois recuperar a água de uma solução de sal?",
+          "passos": [
+            "A areia insolúvel pode ser retida por filtração.",
+            "O sal dissolvido atravessa um filtro comum junto com a água.",
+            "A destilação vaporiza e condensa a água, separando-a do sal não volátil."
+          ],
+          "resposta": "Filtração para areia/água; destilação para recuperar água de água salgada."
+        },
+        "termosBusca": [
+          "materia",
+          "mistura",
+          "substancia",
+          "separacao",
+          "filtracao",
+          "destilacao",
+          "decantacao",
+          "fusao",
+          "evaporacao",
+          "molecula",
+          "atomo",
+          "elemento",
+          "solucao",
+          "quimica",
+          "fisica",
+          "temperatura"
+        ]
+      },
+      {
+        "slug": "mecanica-fontes-de-energia-e-eletricidade-residencial",
+        "titulo": "Mecânica, Fontes de Energia e Eletricidade Residencial",
+        "topicos": [
+          "movimento",
+          "velocidade média",
+          "Newton",
+          "energia renovável",
+          "potência",
+          "consumo elétrico"
+        ],
+        "disciplinas": [
+          "biologia",
+          "ciencias",
+          "fisica",
+          "quimica"
+        ],
+        "introducao": "Neste capítulo, estude mecânica, fontes de energia e eletricidade residencial com leitura contextualizada, exemplos e prática.",
+        "conceito": "Potência expressa a rapidez de transformação de energia. O consumo em kWh resulta do produto da potência em kW pelo tempo em horas, e não da potência isoladamente.",
+        "exemplo": {
+          "enunciado": "Um aparelho de 1.000 W funciona por 2 horas. Qual energia elétrica consome?",
+          "passos": [
+            "Converta 1.000 W em 1 kW.",
+            "Use \\(E=P\\,t\\), com potência em kW e tempo em h.",
+            "Calcule \\(E=1\\cdot2=2\\,\\mathrm{kWh}\\)."
+          ],
+          "resposta": "O consumo é 2 kWh."
+        },
+        "termosBusca": [
+          "velocidade",
+          "tempo",
+          "distancia",
+          "movimento",
+          "forca",
+          "newton",
+          "energia",
+          "potencia",
+          "eletrica",
+          "consumo",
+          "eletricidade",
+          "renovavel",
+          "combustivel",
+          "watts",
+          "corrente",
+          "resistencia",
+          "tensao"
+        ]
+      },
+      {
+        "slug": "astronomia-basica-e-movimentos-da-terra",
+        "titulo": "Astronomia Básica e Movimentos da Terra",
+        "topicos": [
+          "Sistema Solar",
+          "rotação",
+          "translação",
+          "estações do ano",
+          "fases da Lua"
+        ],
+        "disciplinas": [
+          "biologia",
+          "ciencias",
+          "fisica",
+          "quimica"
+        ],
+        "introducao": "Neste capítulo, estude astronomia básica e movimentos da terra com leitura contextualizada, exemplos e prática.",
+        "conceito": "A rotação da Terra explica a alternância entre dia e noite. As estações resultam da inclinação do eixo terrestre combinada com a translação, alterando a incidência solar ao longo do ano.",
+        "exemplo": {
+          "enunciado": "Por que os hemisférios Norte e Sul apresentam estações opostas?",
+          "passos": [
+            "O eixo de rotação terrestre é inclinado em relação ao plano da órbita.",
+            "Em uma parte do ano, um hemisfério recebe luz mais diretamente e tem dias mais longos.",
+            "Ao mesmo tempo, o outro recebe luz menos diretamente e tem dias mais curtos."
+          ],
+          "resposta": "A geometria de iluminação favorece alternadamente cada hemisfério durante a translação."
+        },
+        "termosBusca": [
+          "Terra",
+          "Sol",
+          "Lua",
+          "planeta",
+          "solar",
+          "rotacao",
+          "translacao",
+          "estacoes",
+          "orbita",
+          "hemisferio",
+          "noite",
+          "iluminacao",
+          "astronomia",
+          "eclipse",
+          "estrelas"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ciencias-humanas-atualidades-etec",
+    "titulo": "Ciências Humanas e Atualidades (História & Geografia — Foco ETEC)",
+    "descricao": "Cinco capítulos para interpretar espaço, processos históricos e informações do presente sem perder o contexto.",
+    "colecao": "vestibulinho-ifs-etec",
+    "capitulos": [
+      {
+        "slug": "cartografia-paisagem-e-meio-fisico-brasileiro",
+        "titulo": "Cartografia, Paisagem e Meio Físico Brasileiro",
+        "topicos": [
+          "mapas",
+          "escala",
+          "coordenadas",
+          "relevo",
+          "clima",
+          "hidrografia",
+          "domínios morfoclimáticos"
+        ],
+        "disciplinas": [
+          "historia",
+          "geografia"
+        ],
+        "introducao": "Neste capítulo, estude cartografia, paisagem e meio físico brasileiro com leitura contextualizada, exemplos e prática.",
+        "conceito": "Mapas representam o espaço por convenções e recortes. Título, legenda, escala e orientação devem ser lidos antes de comparar regiões ou medir distâncias.",
+        "exemplo": {
+          "enunciado": "Em um mapa, uma cor representa altitude acima de 1.000 m. Essa cor indica automaticamente população elevada?",
+          "passos": [
+            "Leia a legenda: a variável representada é altitude.",
+            "População é uma variável diferente e requer dados próprios.",
+            "Evite transformar uma associação visual em informação não apresentada."
+          ],
+          "resposta": "Não. O mapa informa altitude; não permite concluir o tamanho da população."
+        },
+        "termosBusca": [
+          "mapa",
+          "escala",
+          "cartografia",
+          "coordenada",
+          "latitude",
+          "longitude",
+          "relevo",
+          "clima",
+          "rio",
+          "bacia",
+          "hidrografia",
+          "paisagem",
+          "territorio",
+          "altitude",
+          "vegetacao",
+          "brasileiro"
+        ]
+      },
+      {
+        "slug": "populacao-urbanizacao-espaco-agrario-e-matriz-energetica",
+        "titulo": "População, Urbanização, Espaço Agrário e Matriz Energética",
+        "topicos": [
+          "migração",
+          "urbanização",
+          "industrialização",
+          "questão agrária",
+          "matriz energética",
+          "matriz elétrica"
+        ],
+        "disciplinas": [
+          "historia",
+          "geografia"
+        ],
+        "introducao": "Neste capítulo, estude população, urbanização, espaço agrário e matriz energética com leitura contextualizada, exemplos e prática.",
+        "conceito": "Processos populacionais e econômicos transformam o território. Matriz elétrica descreve fontes usadas para gerar eletricidade; matriz energética inclui também transportes e outros usos de energia.",
+        "exemplo": {
+          "enunciado": "Um gráfico mostra as fontes da eletricidade de um país. Ele basta para descrever todo o consumo de energia?",
+          "passos": [
+            "Identifique que a variável é geração de eletricidade.",
+            "O consumo energético também inclui combustíveis usados diretamente, por exemplo em transportes.",
+            "Delimite a conclusão ao universo dos dados representados."
+          ],
+          "resposta": "Não: o gráfico da matriz elétrica não representa, sozinho, toda a matriz energética."
+        },
+        "termosBusca": [
+          "populacao",
+          "migracao",
+          "urbano",
+          "rural",
+          "cidade",
+          "urbanizacao",
+          "industria",
+          "agrario",
+          "energia",
+          "matriz",
+          "eletrica",
+          "transporte",
+          "campo",
+          "producao",
+          "brasileiros"
+        ]
+      },
+      {
+        "slug": "globalizacao-blocos-economicos-e-geopolitica",
+        "titulo": "Globalização, Blocos Econômicos e Geopolítica",
+        "topicos": [
+          "globalização",
+          "comércio internacional",
+          "blocos econômicos",
+          "geopolítica",
+          "mudanças climáticas",
+          "atualidades"
+        ],
+        "disciplinas": [
+          "historia",
+          "geografia"
+        ],
+        "introducao": "Neste capítulo, estude globalização, blocos econômicos e geopolítica com leitura contextualizada, exemplos e prática.",
+        "conceito": "A globalização conecta produção, circulação e consumo em diferentes territórios. Atualidades exigem atenção à data, à fonte e à escala do fenômeno; acordos de um bloco não eliminam automaticamente todas as barreiras.",
+        "exemplo": {
+          "enunciado": "Um produto é projetado em um país, montado em outro e vendido em vários mercados. Que característica da produção ele ilustra?",
+          "passos": [
+            "Identifique as etapas realizadas em lugares diferentes.",
+            "Relacione as etapas por fluxos de componentes, serviços e mercadorias.",
+            "Reconheça a divisão internacional das etapas produtivas."
+          ],
+          "resposta": "Uma cadeia de produção internacionalizada, associada à globalização."
+        },
+        "termosBusca": [
+          "globalizacao",
+          "comercio",
+          "internacional",
+          "economia",
+          "paises",
+          "bloco",
+          "mercado",
+          "geopolítica",
+          "clima",
+          "aquecimento",
+          "importacao",
+          "exportacao",
+          "mundial",
+          "producao"
+        ]
+      },
+      {
+        "slug": "da-antiguidade-ao-iluminismo",
+        "titulo": "Da Antiguidade ao Iluminismo",
+        "topicos": [
+          "civilizações antigas",
+          "feudalismo",
+          "Renascimento",
+          "expansão marítima",
+          "colonização",
+          "Iluminismo"
+        ],
+        "disciplinas": [
+          "historia",
+          "geografia"
+        ],
+        "introducao": "Neste capítulo, estude da antiguidade ao iluminismo com leitura contextualizada, exemplos e prática.",
+        "conceito": "Processos históricos devem ser situados em seus contextos, evitando tratar todos os períodos como iguais. Ideias iluministas enfatizaram a razão e críticas a formas de autoridade, com diferenças entre autores.",
+        "exemplo": {
+          "enunciado": "Qual cuidado é necessário ao comparar a cidadania ateniense antiga à cidadania brasileira contemporânea?",
+          "passos": [
+            "Localize cada experiência no tempo e no espaço.",
+            "Identifique quem tinha direitos políticos e quem era excluído em cada contexto.",
+            "Compare sem presumir que a mesma palavra teve sempre o mesmo alcance."
+          ],
+          "resposta": "É preciso distinguir os critérios históricos de pertencimento e participação política."
+        },
+        "termosBusca": [
+          "grego",
+          "grecia",
+          "romano",
+          "roma",
+          "egito",
+          "nilo",
+          "feudal",
+          "renascimento",
+          "iluminismo",
+          "atlantico",
+          "maritima",
+          "colonizacao",
+          "america",
+          "mercantilismo",
+          "indigena",
+          "sociedade",
+          "escravidao"
+        ]
+      },
+      {
+        "slug": "historia-do-brasil-colonia-imperio-e-republica",
+        "titulo": "História do Brasil (Colônia, Império, Era Vargas, Ditadura e Redemocratização)",
+        "topicos": [
+          "colonização",
+          "escravidão",
+          "resistência",
+          "Independência",
+          "Império",
+          "Era Vargas",
+          "Ditadura Militar",
+          "redemocratização"
+        ],
+        "disciplinas": [
+          "historia",
+          "geografia"
+        ],
+        "introducao": "Neste capítulo, estude história do brasil (colônia, império, era vargas, ditadura e redemocratização) com leitura contextualizada, exemplos e prática.",
+        "conceito": "A periodização ajuda a organizar acontecimentos, mas mudanças institucionais não eliminam imediatamente desigualdades sociais. Fontes devem ser analisadas considerando autoria, contexto e interesses.",
+        "exemplo": {
+          "enunciado": "A abolição legal da escravidão em 1888 garantiu imediatamente igualdade social à população anteriormente escravizada?",
+          "passos": [
+            "Diferencie o fim jurídico da escravidão das condições de vida posteriores.",
+            "Considere acesso a terra, educação, trabalho e direitos efetivos.",
+            "Evite confundir uma mudança legal com a superação automática de todas as desigualdades."
+          ],
+          "resposta": "Não. A abolição foi uma ruptura jurídica fundamental, mas não eliminou imediatamente as desigualdades."
+        },
+        "termosBusca": [
+          "Brasil",
+          "colonia",
+          "imperio",
+          "republica",
+          "Vargas",
+          "ditadura",
+          "democracia",
+          "escravidao",
+          "abolicao",
+          "resistencia",
+          "independencia",
+          "colonial",
+          "governo",
+          "militar",
+          "redemocratizacao"
+        ]
+      }
+    ]
+  }
+]

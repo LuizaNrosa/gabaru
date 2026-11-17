@@ -1,0 +1,13 @@
+[
+  {
+    "arquivo": "fonte-exemplo.pdf",
+    "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+    "titulo": "SUBSTITUIR pelo título e edição da obra autorizada",
+    "autores": ["SUBSTITUIR pelo autor ou instituição"],
+    "url": "https://example.org/substituir-fonte",
+    "licenca": "CC-BY-4.0",
+    "evidenciaLicenca": "https://example.org/substituir-licenca-da-edicao",
+    "usoComercialAutorizado": false,
+    "paginasAutorizadas": [1, 2, 3]
+  }
+]

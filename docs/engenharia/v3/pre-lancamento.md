@@ -52,3 +52,5 @@ CodeQL apontou dois alertas na comparação da branch: checagem de existência s
 Após integração: **894/894 licenças aprovadas**, TypeScript e build final sem ambiente demo aprovados, **699 HTMLs válidos**, **261 testes Node**, **21 Vitest**, **12 E2E de cobrança** e **46 E2E gratuitos** aprovados. Axe: **32 auditorias autenticadas** e **6 públicas** sem violações críticas/sérias, erros HTML ou overflow. Maior função: **46.986.986 bytes**, sem arquivos ausentes. Logs pós-integração têm `merge` no nome.
 
 A instalação das atualizações chegou temporariamente a 82% de disco. O cache de downloads npm e os artefatos antigos foram removidos imediatamente, reduzindo o uso para 68%; as validações seguintes ficaram em 72–77%. O snapshot final após limpeza está em `disco-merge.log`. Nenhum PDF oficial foi removido do Git e nenhuma fonte privada foi adicionada.
+
+O workflow de integridade do acervo foi alinhado à `.nvmrc` (Node 24), removendo a divergência herdada de Node 22 em relação ao runtime declarado pela plataforma.

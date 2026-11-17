@@ -1,0 +1,11 @@
+
+/workspace/work/gabaru-code/scripts/auditar-urls-linker.mjs
+  29:32  warning  Found readdir from package "node:fs/promises" with non literal argument at index 0  security/detect-non-literal-fs-filename
+  32:41  warning  Found stat from package "node:fs/promises" with non literal argument at index 0     security/detect-non-literal-fs-filename
+
+/workspace/work/gabaru-code/tests/linker.test.mjs
+  28:12  warning  Found writeFile from package "node:fs/promises" with non literal argument at index 0  security/detect-non-literal-fs-filename
+  28:56  warning  Found writeFile from package "node:fs/promises" with non literal argument at index 0  security/detect-non-literal-fs-filename
+  29:8   warning  Found utimes from package "node:fs/promises" with non literal argument at index 0     security/detect-non-literal-fs-filename
+
+✖ 5 problems (0 errors, 5 warnings)

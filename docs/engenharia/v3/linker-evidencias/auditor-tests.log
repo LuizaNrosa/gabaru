@@ -1,0 +1,13 @@
+✔ remapeia somente a origem interna exata (0.946402ms)
+✔ extrai todas as partes XML preservando parâmetros escapados (0.948524ms)
+✔ expande índice e todas as partes e conserva origem XML (3.08279ms)
+✔ sitemap com status inválido interrompe cobertura em vez de ignorar (0.780554ms)
+✔ limpeza do ISR preserva arquivos recentes (10.745172ms)
+ℹ tests 5
+ℹ suites 0
+ℹ pass 5
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 323.934444

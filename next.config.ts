@@ -11,7 +11,7 @@ const csp = [
   "default-src 'self'",
   `script-src 'self' 'unsafe-inline'${isDev ? " 'unsafe-eval'" : ""}`,
   "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
-  "font-src 'self' https://fonts.gstatic.com",
+  "font-src 'self' data: https://fonts.gstatic.com",
   "img-src 'self' data: blob: https://i.ytimg.com",
   `connect-src 'self' https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://*.googleapis.com https://*.firebaseio.com${demoAuth ? ' http://127.0.0.1:9099' : ''}`,
   "frame-src 'self' https://*.firebaseapp.com https://www.youtube-nocookie.com",

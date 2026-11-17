@@ -24,7 +24,7 @@ const banks=JSON.stringify(catalog.bancas.map(b=>b.slug),null,2)+'\n';
 writeAtomic('src/data/bancas-publicas.json',banks);
 const primary=[];
 function walk(dir){for(const e of fs.readdirSync(dir,{withFileTypes:true})){const p=path.join(dir,e.name);if(e.isDirectory())walk(p);else if(e.name==='page.tsx')primary.push(p)}}walk('src/app');
-const shared=['src/app/layout.tsx','src/app/globals.css','src/components/site-header.tsx','src/components/site-footer.tsx','src/lib/seo.ts'];
+const shared=['src/app/tokens.css','src/components/logo.tsx','src/app/fontes-locais.css','src/lib/seo/metadata-contract.ts','src/app/layout.tsx','src/app/globals.css','src/components/site-header.tsx','src/components/site-footer.tsx','src/lib/seo.ts'];
 const publicConfig={billing:env.NEXT_PUBLIC_BILLING_ENABLED==='true',support:env.NEXT_PUBLIC_SUPPORT_EMAIL};
 const configFingerprint=digest(publicConfig);
 const commonFingerprint=digest(shared.map(p=>fs.readFileSync(p,'utf8')));

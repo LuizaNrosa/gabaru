@@ -1,0 +1,13 @@
+{
+  "sitemapUrlsBefore": 3372,
+  "sitemapUrlsAfter": 3372,
+  "added": [],
+  "removed": [],
+  "validSVGs": 90,
+  "verifiedSHA256": 90,
+  "repeatGenerationIdentical": true,
+  "manifestAndPngHashes": {
+    "src/data/capas-manifesto.json": "db9fa9012b6402525c955f84c7691ad2b81ced5f2ef99110e9fa26f7be6ae845",
+    "public/og/gabaru.png": "6ce7e18f9b634fabdce92d00be918789ce7ecfbe0a98f32c081f05227823808b"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "base": "a09c4ee0",
+  "branch": "feat/identidade-unificada-capas-sumarios",
+  "commands": [
+    {
+      "command": "npx tsc --noEmit",
+      "exitCode": 0,
+      "diagnostics": 0
+    },
+    {
+      "command": "npm --prefix APK run typecheck",
+      "exitCode": 0,
+      "diagnostics": 0,
+      "environment": "dependências do lockfile existente em RAM; src/ idêntico byte a byte"
+    },
+    {
+      "command": "npm run lint",
+      "exitCode": 0,
+      "errors": 0,
+      "warnings": 118
+    },
+    {
+      "command": "npm test",
+      "exitCode": 0,
+      "passed": 290,
+      "failed": 0
+    },
+    {
+      "command": "npx vitest run",
+      "exitCode": 0,
+      "passed": 25,
+      "failed": 0
+    },
+    {
+      "command": "npm run build",
+      "exitCode": 0
+    },
+    {
+      "command": "npx htmlhint '.next/server/app/**/*.html'",
+      "exitCode": 0,
+      "files": 700,
+      "errors": 0
+    },
+    {
+      "command": "Playwright identidade desktop + regressão desktop/mobile",
+      "exitCode": 0,
+      "passed": 14,
+      "failed": 0,
+      "axePageAudits": 60,
+      "axeSeriousCriticalViolations": 0
+    },
+    {
+      "command": "node scripts/auditar-urls-linker.mjs",
+      "exitCode": 0,
+      "metadataPages": 3372,
+      "metadataFailures": 0,
+      "sitemapUrls": 3372,
+      "sitemapOccurrences": 3372,
+      "sitemapDuplicates": 0,
+      "validLastmod": 3372,
+      "sitemaps": 7,
+      "internalUrls": 6220,
+      "ok": 6188,
+      "redirects": 32,
+      "broken": 0,
+      "contractFailures": 0,
+      "tier0Samples": 3,
+      "protectedReaderSamples": 27,
+      "redirectStatuses": {
+        "301": 4,
+        "307": 28
+      }
+    }
+  ]
+}

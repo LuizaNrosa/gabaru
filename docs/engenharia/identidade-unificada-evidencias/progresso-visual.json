@@ -1,0 +1,7 @@
+{
+  "width": 318,
+  "height": 8,
+  "orangePixels": 1272,
+  "renderedColor": "#c8501e",
+  "note": "Valor visual fixado em 50% somente no DOM da fixture para verificar pintura nativa."
+}

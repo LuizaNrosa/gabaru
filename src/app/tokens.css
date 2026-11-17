@@ -1,0 +1,41 @@
+@theme {
+  --color-paper: #f8f8f2;
+  --color-ink: #123d35;
+  --color-paper-elevated: #efe9db;
+  --color-ink-soft: #28594e;
+  --color-ink-muted: #4c6358;
+  --color-stamp: #c8501e;
+  --color-stamp-ink: #9c2b12;
+  --color-stamp-soft: #f6e0d0;
+  --color-sage-soft: #eaf1df;
+  --color-line: #cad5c7;
+  /* Compatibility aliases retain existing Tailwind classes without a second brand palette. */
+  --color-gold: var(--color-stamp);
+  --color-gold-text: var(--color-stamp-ink);
+  --color-gold-soft: var(--color-stamp-soft);
+  --color-anil: #9c2b12;
+  --color-sage: #dce9df;
+  --color-sage-ink: #28594e;
+  --color-sky: #dfeaf0;
+  --color-sky-ink: #34586a;
+  --color-ochre: #f2e5c7;
+  --color-ochre-ink: #79591e;
+
+  --color-n1: #efe9db;
+  --color-n2: #d8cfb6;
+  --color-n3: #a79c86;
+  --color-n4: #6f675a;
+  --color-n5: #4c463d;
+
+  --radius-card: 12px;
+  --radius-button: 8px;
+  --radius-stamp: 6px;
+  --font-display: "Archivo", "Atkinson Hyperlegible Next", sans-serif;
+
+  --font-sans:
+    var(--font-atkinson-next), "Atkinson Hyperlegible Next", ui-sans-serif,
+    system-ui, sans-serif;
+  --font-mono:
+    var(--font-atkinson-mono), "Atkinson Hyperlegible Mono", ui-monospace,
+    monospace;
+}

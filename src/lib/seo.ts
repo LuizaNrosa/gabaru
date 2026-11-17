@@ -1,3 +1,4 @@
+import {seoTitle,seoDescription} from './seo/metadata-contract';
 import {env} from '../env.mjs';
 import provasIndexaveis from '@/data/editorial/provas-indexaveis.json';
 import type { Metadata } from "next";
@@ -38,10 +39,11 @@ export function metaPagina({
   caminho,
   semIndice = false,
 }: OpcoesPagina): Metadata {
+  titulo=seoTitle(titulo);descricao=seoDescription(descricao);
   const indexar =
     env.NEXT_PUBLIC_INDEXAR !== "0" && !semIndice && (!/^\/provas\/[^/]+\/[^/]+$/.test(caminho)||(provasIndexaveis as string[]).includes(caminho));
   return {
-    title: titulo,
+    title: {absolute:titulo},
     description: descricao,
     alternates: { canonical: caminho },
     robots: { index: indexar, follow: true },
@@ -49,14 +51,14 @@ export function metaPagina({
       type: "website",
       locale: "pt_BR",
       siteName: SITE_NOME,
-      title: `${titulo} · ${SITE_NOME}`,
+      title: titulo,
       description: descricao,
       url: caminho,
       images: [{ url: OG_IMAGEM, width: 1200, height: 630, alt: "GABARU" }],
     },
     twitter: {
       card: "summary_large_image",
-      title: `${titulo} · ${SITE_NOME}`,
+      title: titulo,
       description: descricao,
       images: [OG_IMAGEM],
     },
@@ -65,7 +67,7 @@ export function metaPagina({
 
 /** Metadata da página inicial: título absoluto, sem o template. */
 export function metaHome(): Metadata {
-  const titulo = "ENEM, vestibulinhos e vestibulares: provas e questões | Gabaru";
+  const titulo = seoTitle("ENEM, vestibulinhos e vestibulares: provas");
   const indexar = env.NEXT_PUBLIC_INDEXAR !== "0";
   return {
     title: { absolute: titulo },

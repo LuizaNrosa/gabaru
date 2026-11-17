@@ -1,0 +1,24 @@
+{
+  "counts": {
+    "metadataPages": 3372,
+    "metadataFailures": 0,
+    "sitemapUrls": 3372,
+    "sitemapOccurrences": 3372,
+    "sitemapDuplicates": 0,
+    "validLastmod": 3372,
+    "sitemaps": 7,
+    "internalUrls": 6220,
+    "ok": 6188,
+    "redirects": 32,
+    "broken": 0,
+    "contractFailures": 0,
+    "tier0Samples": 3,
+    "protectedReaderSamples": 27,
+    "redirectStatuses": {
+      "301": 4,
+      "307": 28
+    }
+  },
+  "failures": [],
+  "semantic": []
+}

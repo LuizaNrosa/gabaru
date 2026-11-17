@@ -1,0 +1,49 @@
+[WebServer] (node:131639) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+
+Running 4 tests using 1 worker
+
+(node:131665) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+{"path":"/","width":1440,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros","width":1440,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/matematica-essencial-ifs-etec","width":1440,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/vestibulinho-etec","width":1440,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/provas","width":1440,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/questoes/etec-2026-2-q001","width":1440,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/painel","width":1440,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/enem-exatas-e-linguagens/funcoes-e-modelagem","width":1440,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/enem-exatas-e-linguagens/moleculas-e-leitura-cientifica","width":1440,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/vestibulinho-etec/razao-e-proporcao","width":1440,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/vestibulinho-etec/unidades-e-escalas","width":1440,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/matematica-essencial-ifs-etec/razao-proporcao-escalas-e-regra-de-tres","width":1440,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+  ✓  1 [desktop] › tests/e2e/identidade.spec.ts:6:35 › identidade, catálogo, preview e leitor em 1440px (1.0m)
+{"path":"/","width":390,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros","width":390,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/matematica-essencial-ifs-etec","width":390,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/vestibulinho-etec","width":390,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/provas","width":390,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/questoes/etec-2026-2-q001","width":390,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/painel","width":390,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/enem-exatas-e-linguagens/funcoes-e-modelagem","width":390,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/enem-exatas-e-linguagens/moleculas-e-leitura-cientifica","width":390,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/vestibulinho-etec/razao-e-proporcao","width":390,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/vestibulinho-etec/unidades-e-escalas","width":390,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/matematica-essencial-ifs-etec/razao-proporcao-escalas-e-regra-de-tres","width":390,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+  ✓  2 [desktop] › tests/e2e/identidade.spec.ts:6:35 › identidade, catálogo, preview e leitor em 390px (40.4s)
+{"path":"/","width":320,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros","width":320,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/matematica-essencial-ifs-etec","width":320,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/vestibulinho-etec","width":320,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/provas","width":320,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/questoes/etec-2026-2-q001","width":320,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/painel","width":320,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/enem-exatas-e-linguagens/funcoes-e-modelagem","width":320,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/enem-exatas-e-linguagens/moleculas-e-leitura-cientifica","width":320,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/vestibulinho-etec/razao-e-proporcao","width":320,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/vestibulinho-etec/unidades-e-escalas","width":320,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+{"path":"/livros/matematica-essencial-ifs-etec/razao-proporcao-escalas-e-regra-de-tres","width":320,"htmlErrors":0,"seriousCritical":0,"overflow":false}
+  ✓  3 [desktop] › tests/e2e/identidade.spec.ts:6:35 › identidade, catálogo, preview e leitor em 320px (42.2s)
+  ✓  4 [desktop] › tests/e2e/identidade.spec.ts:17:1 › fontes e capas a 120px com caminhos editáveis e sem raster (945ms)
+
+  4 passed (2.5m)

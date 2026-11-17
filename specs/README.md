@@ -1,6 +1,6 @@
 # Contrato vivo de rotas e indexação
 
-Base sincronizada: main `bb8c16d3` (PR #110). Mudanças de rota devem atualizar este contrato e passar pelo auditor `node scripts/auditar-urls-linker.mjs` após o build.
+Base sincronizada: main `a09c4ee0` (PR #111). Mudanças de rota devem atualizar este contrato e passar pelo auditor `node scripts/auditar-urls-linker.mjs` após o build.
 
 ## Rotas públicas
 
@@ -35,3 +35,10 @@ O mapa versionado em `bibliografia-pdfs/MAPA-FONTES.json` liga prefixos a capít
 ## Ambiente e filtros
 
 `src/env.mjs` valida as variáveis com t3-env/zod. Segredos são opcionais para compilar páginas públicas, mas valores presentes inválidos interrompem a configuração sem imprimir seus valores. `env` expõe somente NEXT_PUBLIC_* mesmo no SSR; serviços usam `getServerEnv()`. Billing continua desligado por padrão. Filtros usam parsers compartilhados nuqs no servidor e cliente; valores inválidos são removidos por redirecionamento e canonical permanece sem parâmetros.
+
+
+## Identidade, capas e sumários públicos
+
+O contrato complementar está em [identidade-unificada.md](identidade-unificada.md). A paleta é Papel de Prova + Carimbo; `src/app/tokens.css` é a origem dos tokens da interface. Capas são geradas por `scripts/gerar-capas.mjs`, com manifesto de dimensões e SHA-256 em `src/data/capas-manifesto.json`.
+
+`/livros/[livroSlug]` é uma prévia pública do sumário, com `noindex, follow`, fora dos XMLs nesta entrega para preservar exatamente as 3.372 URLs anteriores. Não substitui o leitor autenticado `/livros/[livroSlug]/[capituloSlug]`. Os capítulos preparados continuam sem conteúdo concluído e sem tempo ou contagens inventados.

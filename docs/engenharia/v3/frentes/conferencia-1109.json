@@ -1,0 +1,5222 @@
+{
+  "modo": "aplicar",
+  "antes": {
+    "tier-2-completa": 24,
+    "tier-1-gabarito-oficial": 262,
+    "tier-0-quarentena": 16013
+  },
+  "depois": {
+    "tier-2-completa": 24,
+    "tier-1-gabarito-oficial": 310,
+    "tier-0-quarentena": 15965
+  },
+  "avaliadas": 993,
+  "aprovadas": 48,
+  "rows": [
+    {
+      "id": "etec-2026-1-q001",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2026-1-q004",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2026-1-q005",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2026-1-q006",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2026-1-q017",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2026-1-q042",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2026-1-q044",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2026-1-q046",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2026-1-q047",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2026-1-q048",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2025-1-q004",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2025-1-q008",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "etec-2025-1-q018",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2025-1-q025",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "etec-2025-1-q030",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2025-1-q032",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2025-1-q033",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2025-1-q034",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "etec-2025-1-q041",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2025-1-q042",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q004",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q006",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q013",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "etec-2024-2-q014",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q015",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q016",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q017",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q018",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q034",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q036",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q037",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q039",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q041",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q046",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-2-q048",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-1-q006",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-1-q011",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-1-q014",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-1-q020",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-1-q022",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-1-q026",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-1-q032",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-1-q034",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-1-q035",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2024-1-q041",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-1-q042",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2024-1-q046",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2024-1-q049",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-2-q001",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-2-q006",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-2-q007",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-2-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-2-q012",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2023-2-q014",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-2-q015",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-2-q016",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-2-q022",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-2-q027",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-2-q031",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-2-q032",
+      "status": "aprovada",
+      "edicao": "2023-2",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 14,
+      "provaSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+      "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f"
+    },
+    {
+      "id": "etec-2023-2-q036",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2023-2-q038",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-2-q048",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-1-q002",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-1-q005",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-1-q006",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "etec-2023-1-q015",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-1-q016",
+      "status": "aprovada",
+      "edicao": "2023-1",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 10,
+      "provaSha256": "e88907b015c024d2e17a0f6a3580a94b286c46b24073535e277aea1cb2d07d71",
+      "gabaritoSha256": "648e3e9f84c1c8f056e629d635b78b89321afbe6d86a5378b7b51afd0781e88e"
+    },
+    {
+      "id": "etec-2023-1-q019",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2023-1-q021",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-1-q024",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-1-q026",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-1-q027",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-1-q028",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-1-q034",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2023-1-q036",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2022-2-q001",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q003",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q006",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q007",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q008",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q010",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q011",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q012",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q014",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q015",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q020",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q021",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q022",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q023",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q024",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q026",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q027",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q028",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q031",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q033",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q037",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q040",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q042",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q043",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2022-2-q047",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2020-1-q001",
+      "status": "aprovada",
+      "edicao": "2020-1",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 2,
+      "provaSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+      "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032"
+    },
+    {
+      "id": "etec-2020-1-q003",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2020-1-q005",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2020-1-q006",
+      "status": "aprovada",
+      "edicao": "2020-1",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 4,
+      "provaSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+      "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032"
+    },
+    {
+      "id": "etec-2020-1-q011",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2020-1-q012",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2020-1-q014",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2020-1-q015",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2020-1-q017",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "etec-2020-1-q018",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2020-1-q019",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2020-1-q021",
+      "status": "aprovada",
+      "edicao": "2020-1",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 11,
+      "provaSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+      "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032"
+    },
+    {
+      "id": "etec-2020-1-q024",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2020-1-q025",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2020-1-q026",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2020-1-q027",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2020-1-q030",
+      "status": "aprovada",
+      "edicao": "2020-1",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 14,
+      "provaSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+      "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032"
+    },
+    {
+      "id": "etec-2020-1-q031",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2020-1-q032",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2020-1-q036",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2020-1-q037",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2020-1-q038",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2020-1-q039",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2020-1-q040",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2020-1-q041",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2020-1-q044",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2020-1-q045",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "etec-2020-1-q047",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2020-1-q048",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2019-2-q001",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q004",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q007",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q009",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q010",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q012",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q015",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q017",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q018",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q020",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q023",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q025",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q027",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q029",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q032",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q034",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q035",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q036",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q037",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q038",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q039",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q042",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q043",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q044",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q045",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q046",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q047",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-2-q049",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q001",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q003",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q004",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q008",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q010",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q011",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q016",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q017",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q019",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q021",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q023",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q025",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q026",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q029",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q030",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q031",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q032",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q035",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q037",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q039",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q040",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q042",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q045",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q047",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q048",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2019-1-q049",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2018-2-q002",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2018-2-q003",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2018-2-q006",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2018-2-q008",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2018-2-q012",
+      "status": "aprovada",
+      "edicao": "2018-2",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 7,
+      "provaSha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+      "gabaritoSha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309"
+    },
+    {
+      "id": "etec-2018-2-q014",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2018-2-q015",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2018-2-q019",
+      "status": "aprovada",
+      "edicao": "2018-2",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 10,
+      "provaSha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+      "gabaritoSha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309"
+    },
+    {
+      "id": "etec-2018-2-q020",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2018-2-q022",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2018-2-q023",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2018-2-q024",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2018-2-q025",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2018-2-q026",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2018-2-q028",
+      "status": "aprovada",
+      "edicao": "2018-2",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 14,
+      "provaSha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+      "gabaritoSha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309"
+    },
+    {
+      "id": "etec-2018-2-q030",
+      "status": "aprovada",
+      "edicao": "2018-2",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 15,
+      "provaSha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+      "gabaritoSha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309"
+    },
+    {
+      "id": "etec-2018-2-q031",
+      "status": "aprovada",
+      "edicao": "2018-2",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 15,
+      "provaSha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+      "gabaritoSha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309"
+    },
+    {
+      "id": "etec-2018-2-q032",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2018-2-q036",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2018-2-q037",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2018-2-q039",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2018-2-q042",
+      "status": "aprovada",
+      "edicao": "2018-2",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 20,
+      "provaSha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+      "gabaritoSha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309"
+    },
+    {
+      "id": "etec-2018-2-q043",
+      "status": "aprovada",
+      "edicao": "2018-2",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 20,
+      "provaSha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+      "gabaritoSha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309"
+    },
+    {
+      "id": "etec-2018-2-q047",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2018-2-q049",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2018-1-q005",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2018-1-q006",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2018-1-q013",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2018-1-q016",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2018-1-q022",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2018-1-q023",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2018-1-q024",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2018-1-q026",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2018-1-q028",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2018-1-q030",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2018-1-q033",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2018-1-q040",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2018-1-q045",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2018-1-q049",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2017-2-q001",
+      "status": "aprovada",
+      "edicao": "2017-2",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 2,
+      "provaSha256": "cdec5bd7d83adede931224267fd333e28449fb02e9655b05ea1df07892337709",
+      "gabaritoSha256": "c6adb0d65cf84a298c3887e4a84038b6e97be6730a916f9c70f126dc68bdfac0"
+    },
+    {
+      "id": "etec-2017-2-q002",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-2-q004",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-2-q007",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-2-q011",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-2-q013",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-2-q014",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-2-q017",
+      "status": "aprovada",
+      "edicao": "2017-2",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 8,
+      "provaSha256": "cdec5bd7d83adede931224267fd333e28449fb02e9655b05ea1df07892337709",
+      "gabaritoSha256": "c6adb0d65cf84a298c3887e4a84038b6e97be6730a916f9c70f126dc68bdfac0"
+    },
+    {
+      "id": "etec-2017-2-q024",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-2-q025",
+      "status": "aprovada",
+      "edicao": "2017-2",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 12,
+      "provaSha256": "cdec5bd7d83adede931224267fd333e28449fb02e9655b05ea1df07892337709",
+      "gabaritoSha256": "c6adb0d65cf84a298c3887e4a84038b6e97be6730a916f9c70f126dc68bdfac0"
+    },
+    {
+      "id": "etec-2017-2-q028",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-2-q034",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2017-2-q036",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-2-q037",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2017-2-q038",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2017-2-q040",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2017-2-q041",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2017-2-q046",
+      "status": "aprovada",
+      "edicao": "2017-2",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 21,
+      "provaSha256": "cdec5bd7d83adede931224267fd333e28449fb02e9655b05ea1df07892337709",
+      "gabaritoSha256": "c6adb0d65cf84a298c3887e4a84038b6e97be6730a916f9c70f126dc68bdfac0"
+    },
+    {
+      "id": "etec-2017-2-q049",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2017-1-q007",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2017-1-q009",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-1-q011",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-1-q013",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2017-1-q016",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-1-q020",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2017-1-q021",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-1-q023",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-1-q024",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2017-1-q025",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-1-q027",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2017-1-q028",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-1-q031",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2017-1-q039",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-1-q044",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2017-1-q046",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2016-2-q001",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-2-q002",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-2-q003",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-2-q006",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-2-q008",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-2-q011",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-2-q013",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2016-2-q019",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2016-2-q020",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2016-2-q023",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-2-q030",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-2-q033",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2016-2-q039",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2016-2-q040",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-2-q046",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-2-q049",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q001",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q003",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q004",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q005",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q006",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q007",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q008",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q009",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q011",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q012",
+      "status": "aprovada",
+      "edicao": "2016-1",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 5,
+      "provaSha256": "f2d77beaa112d90a70354e447941c7646fc41f879bd7d829786dc05a622c26a1",
+      "gabaritoSha256": "b9f3a67b6be9efbe7a3f465627aa10ed8ee7dab7b85e6a4c6bed49c80e7fa553"
+    },
+    {
+      "id": "etec-2016-1-q014",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2016-1-q015",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q016",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q018",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q019",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q021",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q023",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2016-1-q024",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q026",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2016-1-q027",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2016-1-q029",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2016-1-q030",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q032",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q033",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q035",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2016-1-q038",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q039",
+      "status": "retida",
+      "motivo": "marcador-oficial-nao-localizado"
+    },
+    {
+      "id": "etec-2016-1-q041",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q042",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2016-1-q043",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q044",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q046",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2016-1-q047",
+      "status": "aprovada",
+      "edicao": "2016-1",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 20,
+      "provaSha256": "f2d77beaa112d90a70354e447941c7646fc41f879bd7d829786dc05a622c26a1",
+      "gabaritoSha256": "b9f3a67b6be9efbe7a3f465627aa10ed8ee7dab7b85e6a4c6bed49c80e7fa553"
+    },
+    {
+      "id": "etec-2016-1-q048",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2016-1-q049",
+      "status": "retida",
+      "motivo": "marcador-oficial-nao-localizado"
+    },
+    {
+      "id": "etec-2015-2-q002",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-2-q003",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-2-q005",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-2-q006",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-2-q007",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-2-q009",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-2-q017",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-2-q018",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-2-q020",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-2-q021",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-2-q027",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-2-q029",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-2-q030",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-2-q031",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-2-q035",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-2-q036",
+      "status": "retida",
+      "motivo": "marcador-oficial-nao-localizado"
+    },
+    {
+      "id": "etec-2015-2-q042",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-2-q044",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-2-q048",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-1-q002",
+      "status": "retida",
+      "motivo": "marcador-oficial-nao-localizado"
+    },
+    {
+      "id": "etec-2015-1-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-1-q009",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-1-q013",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-1-q016",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-1-q017",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-1-q019",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-1-q023",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-1-q024",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-1-q025",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-1-q026",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-1-q028",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-1-q031",
+      "status": "retida",
+      "motivo": "marcador-oficial-nao-localizado"
+    },
+    {
+      "id": "etec-2015-1-q032",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-1-q036",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-1-q041",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-1-q042",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-1-q044",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2015-1-q046",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2015-1-q047",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2014-2-q002",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q004",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q008",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q010",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q012",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q013",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q014",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q016",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q017",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q018",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q019",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q027",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q028",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q030",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q031",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q032",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q033",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q038",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q039",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q040",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q043",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q047",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q048",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-2-q049",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q001",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q002",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q006",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q007",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q008",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q009",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q010",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q012",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q013",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q014",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q015",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q016",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q017",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q018",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q020",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q021",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q022",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q023",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q024",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q025",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q030",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q032",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q034",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q039",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q040",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q043",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q044",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q045",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q047",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2014-1-q048",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q003",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q004",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q005",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q008",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q009",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q011",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q012",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q013",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q014",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q016",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q022",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q024",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q028",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q031",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q033",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q035",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q036",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q039",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q040",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q042",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q043",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q044",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q045",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q048",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-2-q049",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2013-1-q003",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2013-1-q004",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2013-1-q011",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2013-1-q013",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2013-1-q015",
+      "status": "aprovada",
+      "edicao": "2013-1",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 7,
+      "provaSha256": "72f18d275d9a88dcbb5dfc758f19b29637610b7a3b73cde35cde4517849042a4",
+      "gabaritoSha256": "5555efa08458df35b8e08f5836cfd6a43cbe8b31ae70f7a4a00dfef3efbf2e70"
+    },
+    {
+      "id": "etec-2013-1-q016",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2013-1-q017",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2013-1-q021",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2013-1-q024",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2013-1-q032",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2013-1-q033",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2013-1-q036",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2013-1-q038",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2013-1-q041",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2013-1-q043",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2013-1-q045",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2013-1-q046",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2013-1-q047",
+      "status": "retida",
+      "motivo": "marcador-oficial-nao-localizado"
+    },
+    {
+      "id": "etec-2013-1-q048",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2013-1-q049",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2012-2-q003",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q006",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q009",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q014",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q015",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q019",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q020",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q021",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q022",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q023",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q026",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q027",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q030",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q031",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q032",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q033",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q034",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q035",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q038",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q040",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q041",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q042",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q043",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q044",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q045",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q046",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q047",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-2-q048",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q003",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q005",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q010",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q012",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q017",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q018",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q022",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q023",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q024",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q026",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q029",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q031",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q033",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q035",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q036",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q039",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q040",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q041",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q043",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q045",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q046",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q048",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2012-1-q049",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2011-2-q001",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2011-2-q004",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2011-2-q015",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2011-2-q019",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2011-2-q022",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2011-2-q024",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2011-2-q032",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2011-2-q042",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2011-1-q001",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2011-1-q003",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2011-1-q023",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2011-1-q036",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q001",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q002",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q004",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q007",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q008",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q009",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q013",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q014",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q015",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q016",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q017",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q018",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q019",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q020",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q022",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q023",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q026",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q028",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q029",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q031",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q033",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q037",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q038",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q039",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q041",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q043",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q045",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q047",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q048",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-extra1-q049",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2010-2-q003",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-2-q005",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-2-q006",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-2-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2010-2-q009",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-2-q014",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2010-2-q019",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-2-q020",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-2-q027",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2010-2-q031",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-2-q033",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-2-q038",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-2-q040",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-2-q042",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2010-2-q044",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-2-q049",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-1-q001",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-1-q010",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-1-q016",
+      "status": "aprovada",
+      "edicao": "2010-1",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 9,
+      "provaSha256": "0b51714761c26156a7e7a78d6dbf3967c85ec6a63de8a4b648bf6902becdeba1",
+      "gabaritoSha256": "416e6b0b7227715e475902e4524418edaf92e13952b514a20a61f0c2ace6720e"
+    },
+    {
+      "id": "etec-2010-1-q024",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-1-q026",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-1-q037",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2010-1-q047",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2009-2-extra1-q001",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q002",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q004",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q005",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q006",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q008",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q011",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q012",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q013",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q015",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q016",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q018",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q019",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q023",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q025",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q026",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-extra1-q033",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-2-q007",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2009-2-q028",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2009-2-q030",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2009-2-q036",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2009-2-q039",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2009-2-q045",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2009-2-q047",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2009-2-q049",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2009-1-extra1-q001",
+      "status": "aprovada",
+      "edicao": "2009-1-extra1",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 2,
+      "provaSha256": "701e06de9cab391bca962b0f97b9edece4bad829e4a40531c2fd4c5009a73173",
+      "gabaritoSha256": "d169eb5878f424ddf90c580057aa574b0ecabd60c4c2fe67ee09fe8adcd21f4f"
+    },
+    {
+      "id": "etec-2009-1-extra1-q002",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2009-1-extra1-q005",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2009-1-extra1-q006",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2009-1-extra1-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2009-1-extra1-q012",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2009-1-extra1-q013",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2009-1-extra1-q015",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2009-1-extra1-q018",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2009-1-extra1-q019",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "etec-2009-1-extra1-q025",
+      "status": "aprovada",
+      "edicao": "2009-1-extra1",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 8,
+      "provaSha256": "701e06de9cab391bca962b0f97b9edece4bad829e4a40531c2fd4c5009a73173",
+      "gabaritoSha256": "d169eb5878f424ddf90c580057aa574b0ecabd60c4c2fe67ee09fe8adcd21f4f"
+    },
+    {
+      "id": "etec-2009-1-extra1-q026",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "etec-2009-1-extra1-q029",
+      "status": "aprovada",
+      "edicao": "2009-1-extra1",
+      "banca": "etec",
+      "alternativas": 5,
+      "pagina": 9,
+      "provaSha256": "701e06de9cab391bca962b0f97b9edece4bad829e4a40531c2fd4c5009a73173",
+      "gabaritoSha256": "d169eb5878f424ddf90c580057aa574b0ecabd60c4c2fe67ee09fe8adcd21f4f"
+    },
+    {
+      "id": "etec-2009-1-q021",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-1-q024",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-1-q028",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-1-q029",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-1-q036",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "etec-2009-1-q037",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2026-q001",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2026-q005",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2026-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2026-q009",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2026-q013",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2026-q015",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2026-q021",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2026-q022",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2026-q025",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2026-q030",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "coluni-2026-q031",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2026-q032",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2026-q033",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2026-q037",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q001",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q002",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q003",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q005",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q006",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q007",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q010",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q016",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q020",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q021",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q022",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q024",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q026",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q028",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q034",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2025-q037",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2024-q002",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2024-q003",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2024-q004",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2024-q007",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2024-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2024-q012",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2024-q021",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2024-q022",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2024-q027",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2024-q029",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2024-q035",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2024-q038",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2023-q001",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q003",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q004",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q005",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q006",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q007",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q008",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q009",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q010",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q011",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q013",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q015",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q021",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q022",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q028",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q029",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q030",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q033",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q035",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q036",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q037",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2023-q038",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2022-q005",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2022-q007",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2022-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2022-q010",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "coluni-2022-q012",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "coluni-2022-q020",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2022-q021",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2022-q022",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2022-q023",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2022-q025",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2022-q026",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2022-q030",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2022-q035",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2021-q002",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2021-q004",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2021-q006",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2021-q011",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2021-q012",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2021-q016",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "coluni-2021-q021",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2021-q022",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2021-q026",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "coluni-2021-q030",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q001",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q004",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q005",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q006",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q009",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q010",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "coluni-2020-q011",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q012",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q014",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "coluni-2020-q019",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q020",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q021",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q022",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q028",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "coluni-2020-q030",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q032",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2020-q036",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2019-q005",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2019-q010",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "coluni-2019-q013",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "coluni-2019-q015",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "coluni-2019-q016",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "coluni-2019-q018",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2019-q019",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "coluni-2019-q021",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2019-q022",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2019-q026",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "coluni-2019-q029",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2019-q031",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2019-q036",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2018-q001",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q002",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q003",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q004",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q005",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q006",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q007",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q008",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q009",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q010",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q011",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q013",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q019",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q020",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q021",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q022",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q026",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q029",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q031",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q033",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q035",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q036",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2018-q037",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q001",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q002",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q003",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q004",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q008",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q009",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q010",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q011",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q016",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q017",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q022",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q024",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q025",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q026",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q027",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q028",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q029",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q030",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q032",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q033",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q035",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q037",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q039",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q040",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q041",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q043",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q045",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q046",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2017-q048",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "coluni-2016-q001",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2016-q003",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2016-q005",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2016-q006",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2016-q010",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "coluni-2016-q013",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2016-q019",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2016-q024",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2016-q026",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "coluni-2016-q028",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "coluni-2016-q032",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "coluni-2016-q033",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2016-q034",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "coluni-2016-q036",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2016-q038",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2016-q041",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "coluni-2016-q042",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "coluni-2016-q044",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2016-q047",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "coluni-2016-q048",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2026-2-q002",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2026-2-q011",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2026-2-q014",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2026-2-q018",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2026-2-q019",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2026-2-q024",
+      "status": "aprovada",
+      "edicao": "2026-2",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 20,
+      "provaSha256": "5c4341cf8cbfcd63ec7245bc1bfe3062698f48a075ccccaa10ad7504956acf9f",
+      "gabaritoSha256": "647e8d90ed65211cbcafc157bd2678def71250e32acff7076974f846e055d9ad"
+    },
+    {
+      "id": "ifsc-2026-2-q026",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2026-1-q001",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2026-1-q004",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2026-1-q011",
+      "status": "aprovada",
+      "edicao": "2026-1",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 10,
+      "provaSha256": "0bdbaabffa7774f4d28dc58e19dd50f8813f1d044c02205bf55aae7c77aa8dc6",
+      "gabaritoSha256": "01ac684d6378c365550a0dc67a281168be0bb72be93829bd56f49f1497e79a94"
+    },
+    {
+      "id": "ifsc-2026-1-q013",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2026-1-q016",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2026-1-q020",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2026-1-q024",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2026-1-q025",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2026-1-q028",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2025-1-q001",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2025-1-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2025-1-q009",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2025-1-q010",
+      "status": "aprovada",
+      "edicao": "2025-1",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 9,
+      "provaSha256": "26c33198300780a832a19d4c68ac563c3576c3a0cd5bcc710ca27cd2aa441b5d",
+      "gabaritoSha256": "70df3dbd86a601d509e22381bc654f950740b174bcd0f47b58e869987e78cec3"
+    },
+    {
+      "id": "ifsc-2025-1-q011",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2025-1-q012",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2025-1-q022",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2025-1-q024",
+      "status": "aprovada",
+      "edicao": "2025-1",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 21,
+      "provaSha256": "26c33198300780a832a19d4c68ac563c3576c3a0cd5bcc710ca27cd2aa441b5d",
+      "gabaritoSha256": "70df3dbd86a601d509e22381bc654f950740b174bcd0f47b58e869987e78cec3"
+    },
+    {
+      "id": "ifsc-2025-1-q026",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2025-1-q027",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2025-1-q028",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-q003",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-q005",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-q006",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-q007",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-q009",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-q010",
+      "status": "aprovada",
+      "edicao": "2024-1",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 10,
+      "provaSha256": "71b9753d0c6e095f72e12fa1e4f3fd363cdaad869bfda29b0c6402fb911638ed",
+      "gabaritoSha256": "9c4615bf568c43d376cf4d911f730309350f2338fdc371cce48a3ed2a33c1802"
+    },
+    {
+      "id": "ifsc-2024-1-q014",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2024-1-q017",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-q019",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-q020",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-q021",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-q023",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-q024",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-itajai-q001",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-itajai-q002",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-itajai-q004",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-itajai-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-itajai-q009",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2024-1-itajai-q011",
+      "status": "aprovada",
+      "edicao": "2024-1-itajai",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 12,
+      "provaSha256": "09f8d760510db04e81031ad6c9bdda8c250750fd7ae1edfca637086a412e48aa",
+      "gabaritoSha256": "2784c7e6e254a697eb0ec1d125d336ed7db0d1e51aa019bb00809972cdf0adb3"
+    },
+    {
+      "id": "ifsc-2024-1-itajai-q013",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-itajai-q014",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-itajai-q015",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-itajai-q018",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-itajai-q021",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-itajai-q022",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2024-1-itajai-q024",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-2-q002",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-2-q003",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-2-q004",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-2-q005",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-2-q007",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-2-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-2-q013",
+      "status": "aprovada",
+      "edicao": "2023-2",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 12,
+      "provaSha256": "7a2a0e42aeb7bd4fb1e15ece686ed2ba94fa565727e40d5d0f2604a8796fc9cf",
+      "gabaritoSha256": "ab3f931fa6724f7776d83535e92592fb67113daf35eb968234e8a2b0716a0e4a"
+    },
+    {
+      "id": "ifsc-2023-1-q001",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-1-q002",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-1-q003",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-1-q004",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-1-q005",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-1-q007",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-1-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-1-q009",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-1-q010",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2023-1-q013",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2023-1-q014",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2023-1-q020",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2022-2-q001",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2022-2-q002",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2022-2-q004",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2022-2-q005",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2022-2-q006",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2022-2-q007",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2022-2-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2022-2-q009",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2022-2-q012",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2022-2-q017",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2022-2-q020",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2022-1-q002",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2022-1-q003",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2022-1-q005",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2022-1-q006",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2022-1-q007",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2022-1-q010",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2022-1-q011",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2022-1-q012",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2022-1-q013",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2022-1-q014",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2022-1-q015",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2022-1-q016",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2022-1-q017",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2022-1-q018",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2022-1-q020",
+      "status": "retida",
+      "motivo": "versao-gabarito-nao-confirmada"
+    },
+    {
+      "id": "ifsc-2020-1-q001",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2020-1-q002",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2020-1-q003",
+      "status": "aprovada",
+      "edicao": "2020-1",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 4,
+      "provaSha256": "689e05c1d51bbfa8fafe68eb113f0ca5a1d20e5f0104d76514eaaa620a10d749",
+      "gabaritoSha256": "27966e267681f29d6ad25f82b1724e6228472c4eeb5e06af54da3f6d335aa4a2"
+    },
+    {
+      "id": "ifsc-2020-1-q004",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2020-1-q006",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2020-1-q008",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2020-1-q009",
+      "status": "aprovada",
+      "edicao": "2020-1",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 10,
+      "provaSha256": "689e05c1d51bbfa8fafe68eb113f0ca5a1d20e5f0104d76514eaaa620a10d749",
+      "gabaritoSha256": "27966e267681f29d6ad25f82b1724e6228472c4eeb5e06af54da3f6d335aa4a2"
+    },
+    {
+      "id": "ifsc-2020-1-q010",
+      "status": "aprovada",
+      "edicao": "2020-1",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 10,
+      "provaSha256": "689e05c1d51bbfa8fafe68eb113f0ca5a1d20e5f0104d76514eaaa620a10d749",
+      "gabaritoSha256": "27966e267681f29d6ad25f82b1724e6228472c4eeb5e06af54da3f6d335aa4a2"
+    },
+    {
+      "id": "ifsc-2020-1-q012",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2020-1-q013",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2020-1-q014",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2020-1-q015",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2020-1-q016",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2020-1-q017",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2020-1-q018",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2020-1-q019",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2019-1-q001",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2019-1-q008",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2019-1-q009",
+      "status": "aprovada",
+      "edicao": "2019-1",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 9,
+      "provaSha256": "4b0b102e9f3bcc612d97ca0fb1a463be26f010daf7752de7bf0a43e332268da6",
+      "gabaritoSha256": "248f216074a4e24b2f1defce392ff75525d04cfd5eb263e5267d3258dd64b282"
+    },
+    {
+      "id": "ifsc-2019-1-q011",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2019-1-q012",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2019-1-q014",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2019-1-q015",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2019-1-q016",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2019-1-q017",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2019-1-q018",
+      "status": "aprovada",
+      "edicao": "2019-1",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 18,
+      "provaSha256": "4b0b102e9f3bcc612d97ca0fb1a463be26f010daf7752de7bf0a43e332268da6",
+      "gabaritoSha256": "248f216074a4e24b2f1defce392ff75525d04cfd5eb263e5267d3258dd64b282"
+    },
+    {
+      "id": "ifsc-2019-1-q019",
+      "status": "aprovada",
+      "edicao": "2019-1",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 19,
+      "provaSha256": "4b0b102e9f3bcc612d97ca0fb1a463be26f010daf7752de7bf0a43e332268da6",
+      "gabaritoSha256": "248f216074a4e24b2f1defce392ff75525d04cfd5eb263e5267d3258dd64b282"
+    },
+    {
+      "id": "ifsc-2018-2-q006",
+      "status": "aprovada",
+      "edicao": "2018-2",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 8,
+      "provaSha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+      "gabaritoSha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b"
+    },
+    {
+      "id": "ifsc-2018-2-q007",
+      "status": "aprovada",
+      "edicao": "2018-2",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 8,
+      "provaSha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+      "gabaritoSha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b"
+    },
+    {
+      "id": "ifsc-2018-2-q008",
+      "status": "aprovada",
+      "edicao": "2018-2",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 9,
+      "provaSha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+      "gabaritoSha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b"
+    },
+    {
+      "id": "ifsc-2018-2-q009",
+      "status": "aprovada",
+      "edicao": "2018-2",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 10,
+      "provaSha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+      "gabaritoSha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b"
+    },
+    {
+      "id": "ifsc-2018-2-q010",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2018-2-q011",
+      "status": "aprovada",
+      "edicao": "2018-2",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 12,
+      "provaSha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+      "gabaritoSha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b"
+    },
+    {
+      "id": "ifsc-2018-2-q012",
+      "status": "aprovada",
+      "edicao": "2018-2",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 13,
+      "provaSha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+      "gabaritoSha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b"
+    },
+    {
+      "id": "ifsc-2018-2-q013",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2018-2-q014",
+      "status": "aprovada",
+      "edicao": "2018-2",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 15,
+      "provaSha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+      "gabaritoSha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b"
+    },
+    {
+      "id": "ifsc-2018-2-q016",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2018-2-q018",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2018-2-q020",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2018-1-q001",
+      "status": "aprovada",
+      "edicao": "2018-1",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 3,
+      "provaSha256": "29f31c065daab4f2b8f0088ac8f684b0a2d6b03c7395061c46b1da74b64d06e0",
+      "gabaritoSha256": "3b7f149933254cacbca174c8e6872ed8df49474048b2401c0cee3bf8d52b96ea"
+    },
+    {
+      "id": "ifsc-2018-1-q003",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2018-1-q005",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2018-1-q006",
+      "status": "aprovada",
+      "edicao": "2018-1",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 7,
+      "provaSha256": "29f31c065daab4f2b8f0088ac8f684b0a2d6b03c7395061c46b1da74b64d06e0",
+      "gabaritoSha256": "3b7f149933254cacbca174c8e6872ed8df49474048b2401c0cee3bf8d52b96ea"
+    },
+    {
+      "id": "ifsc-2018-1-q008",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2018-1-q009",
+      "status": "aprovada",
+      "edicao": "2018-1",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 10,
+      "provaSha256": "29f31c065daab4f2b8f0088ac8f684b0a2d6b03c7395061c46b1da74b64d06e0",
+      "gabaritoSha256": "3b7f149933254cacbca174c8e6872ed8df49474048b2401c0cee3bf8d52b96ea"
+    },
+    {
+      "id": "ifsc-2018-1-q010",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2018-1-q011",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2018-1-q012",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2018-1-q013",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2018-1-q014",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2018-1-q016",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2018-1-q019",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2018-1-q020",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-2-q006",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2017-2-q011",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-2-q013",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-2-q015",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-2-q016",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-2-q017",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-2-q018",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-2-q019",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-1-q003",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-1-q006",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsc-2017-1-q007",
+      "status": "aprovada",
+      "edicao": "2017-1",
+      "banca": "ifsc",
+      "alternativas": 5,
+      "pagina": 8,
+      "provaSha256": "72be95701d65b77707d5ba2656fa025d08225f3c77bf2282c128a130f85ca918",
+      "gabaritoSha256": "b4ebfb59188643e3dc19b1b6f94cb17f2c468fa200e26e745837a1cce1bfb441"
+    },
+    {
+      "id": "ifsc-2017-1-q010",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-1-q011",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-1-q012",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-1-q013",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-1-q014",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-1-q015",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsc-2017-1-q016",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo1-q001",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo1-q003",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo1-q005",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo1-q007",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo1-q008",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo1-q009",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo1-q010",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo1-q013",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsp-2026-1-tipo1-q015",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo1-q016",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsp-2026-1-tipo1-q017",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsp-2026-1-tipo1-q020",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsp-2026-1-tipo1-q021",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsp-2026-1-tipo2-q001",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsp-2026-1-tipo2-q005",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "ifsp-2026-1-tipo2-q006",
+      "status": "retida",
+      "motivo": "enunciado-nao-coincide-com-bloco-oficial"
+    },
+    {
+      "id": "ifsp-2026-1-tipo2-q016",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo2-q018",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo2-q020",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo2-q022",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo2-q023",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo2-q024",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo2-q025",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    },
+    {
+      "id": "ifsp-2026-1-tipo2-q028",
+      "status": "retida",
+      "motivo": "alternativas-nao-coincidem-em-ordem-no-bloco-oficial"
+    },
+    {
+      "id": "ifsp-2026-1-tipo2-q030",
+      "status": "retida",
+      "motivo": "contexto-compartilhado-ou-visual-requer-revisao"
+    }
+  ]
+}

@@ -4703,6 +4703,2070 @@
           "gabaritoUrl": "https://concurso30.fundacaocefetminas.org.br/documentos/GabaritoFinalIntegrado122639014208834868178.pdf"
         }
       }
+    },
+    "etec-2023-2-q032": {
+      "originalFingerprint": "866c0bba2e4dcad23c6cf9edf8ff96ecf8144c80d4e3a1e9904f0b3668538b54",
+      "resultFingerprint": "ff3f08bcfd85a037392bc60936e333a2645be71cd19c4452b3e8a2c65673bc2b",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "No início da década de 1970, eram necessárias aproximadamente 2 horas para realizar o trajeto entre a estação Valongo e a estação da Luz. Nesse percurso, o trem se locomovia com uma velocidade escalar média, aproximadamente, de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "69,5 km/h"
+          },
+          {
+            "letra": "B",
+            "texto": "54,5 km/h"
+          },
+          {
+            "letra": "C",
+            "texto": "39,5 km/h"
+          },
+          {
+            "letra": "D",
+            "texto": "34,5 km/h"
+          },
+          {
+            "letra": "E",
+            "texto": "24,5 km/h"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 14,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "c1f51662976e85a56c26ae6d6dc0fcb83aa3c89bf258699219280c3184d0cab7",
+          "gabaritoSha256": "c0e9e399b5de633d27d4935d6df8c607be543ed2e5c0db52e236510af1c90a4f",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/202323718/Prova.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/202323718/Gabarito.pdf"
+        }
+      }
+    },
+    "etec-2023-1-q016": {
+      "originalFingerprint": "08ad3f5456771587497b48fb7b8a26d24c324d8ec415d59a96e6f4a511ab1c17",
+      "resultFingerprint": "b8a37bc84aa62f973347c1147c14576c6905d609641f28dbc5e10abc61b54c3a",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "A segunda Conferência dos Oceanos das Nações Unidas (UNOC), que ocorreu de 27 de junho a 01 de julho de 2022, em Lisboa, teve como objetivo mobilizar o apoio global para conservar e utilizar, de uma forma sustentável, os mares, os oceanos e os recursos marinhos. Entre as inúmeras preocupações dos cientistas e dos participantes dessa conferência, destacaram-se: r a restauração e a manutenção dos estoques de peixes, reconhecendo que um oceano saudável é uma parte importante do sistema alimentar; e r a prevenção, a redução e o controle da poluição marinha de todos os tipos, incluindo a poluição plástica e os riscos relacionados à mineração em alto-mar. A partir das informações apresentadas, pode-se concluir corretamente que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o sequestro de carbono ocorre quando crustáceos e ostras fazem os processos de descalcificação, acelerando os efeitos das mudanças climáticas."
+          },
+          {
+            "letra": "B",
+            "texto": "a eliminação de metais pesados nos ecossistemas aquáticos marinhos é pouco prejudicial aos animais marinhos, em decorrência de seus resistentes e especializados sistemas de filtração e excreção de impurezas."
+          },
+          {
+            "letra": "C",
+            "texto": "a poluição dos oceanos causada por substâncias tóxicas utilizadas nas atividades de mineração é benéfica para as cadeias alimentares dos ecossistemas de mangues e recifes."
+          },
+          {
+            "letra": "D",
+            "texto": "a pesca predatória ocorre quando a remoção de uma espécie de peixe é feita em um ritmo maior do que a taxa de reprodução da espécie para repor sua população."
+          },
+          {
+            "letra": "E",
+            "texto": "os plásticos, dentre os diversos tipos de poluentes que afetam os mares, têm a grande vantagem de permanecer pouco tempo no ambiente. 11 VESTIBULINHO 1o semestre | 2023 •"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 10,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "e88907b015c024d2e17a0f6a3580a94b286c46b24073535e277aea1cb2d07d71",
+          "gabaritoSha256": "648e3e9f84c1c8f056e629d635b78b89321afbe6d86a5378b7b51afd0781e88e",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/202311698/Prova.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/202311698/Gabarito.pdf"
+        }
+      }
+    },
+    "etec-2020-1-q001": {
+      "originalFingerprint": "291b2ec5d560082b685bfa8f3a9daacb50f3dfcd7c227a28e90a308b4c622426",
+      "resultFingerprint": "09f2c79ccff689d258cea380b8bf8ec19578f3eac81636e8ee32bcbd3635192c",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "<https://tinyurl.com/y2xxx63q> Acesso em: 07.10.2019. Original colorido. Um número natural, diferente de zero e diferente de um, pode ser classificado como primo ou composto. Os quadrinhos fornecem algumas pistas sobre o que permite caracterizar um número para que ele seja dito primo. Analise as alternativas e assinale a correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "O número 6 056 529 316 217 não é primo, e por isso está distante do restante."
+          },
+          {
+            "letra": "B",
+            "texto": "Como os números 37 e 73 são primos, então 16 e 61 também são."
+          },
+          {
+            "letra": "C",
+            "texto": "O número 237 é um número primo, assim como o 37 e o 137."
+          },
+          {
+            "letra": "D",
+            "texto": "Todo número primo é ímpar e só pode terminar em 1, 3, 7 ou 9."
+          },
+          {
+            "letra": "E",
+            "texto": "Há apenas quatro números primos que são menores do que 10. Nesta prova você vai se deparar com diversos temas nas diferentes áreas do conhecimento. As questões abordarão conceitos e conteúdos que fizeram parte de sua formação escolar e do seu cotidiano. Boa prova! 3 VESTIBULINHO 1o semestre|2020 •"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 2,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+          "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/202017430/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/202017430/Gabarito_1modulo-retificado.pdf"
+        }
+      }
+    },
+    "etec-2020-1-q006": {
+      "originalFingerprint": "9525c09901b9afd4b008eec442c39d54fa55b8620404ea2a4da7aa4bf86ec921",
+      "resultFingerprint": "1c184837b380409a133341dd84931596bd19a003a46a437685e80174fc0aafc0",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "Com a promessa de tornar economicamente mais viáveis os voos espaciais, uma empresa demonstrou ser capaz de fazer retornarem os propulsores de seu foguete. A recuperação desses propulsores possibilita que eles sejam reparados para serem reutilizados em novos lançamentos. Após terem cumprido sua função, os propulsores do foguete se desprendem, caindo aceleradamente em direção ao planeta. Ao se aproximarem da superfície, retropropulsores são acionados, imprimindo uma força vertical e para cima de intensidade __________ que a do peso dos propulsores, diminuindo contínua e drasticamente a velocidade de queda, até próximo ao toque no solo. Nesse momento, os retropropulsores imprimem uma força vertical e para cima de intensidade __________ a do peso dos propulsores, o que os mantém pairando, sem velocidade, enquanto os computadores avaliam a telemetria para, finalmente, diminuírem até zero a retropropulsão. Assinale a alternativa que completa correta e respectivamente as lacunas da frase. I II",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "maior menor que"
+          },
+          {
+            "letra": "B",
+            "texto": "maior igual"
+          },
+          {
+            "letra": "C",
+            "texto": "maior maior que"
+          },
+          {
+            "letra": "D",
+            "texto": "menor igual"
+          },
+          {
+            "letra": "E",
+            "texto": "menor maior que II Eu herdei da minha mãe esse trabalho de artesanato com barro. E, desde a minha bisavó, já se fazia desse jeito. Ela era índia. Então, a minha mãe fazia pote, bilha, qualquer tipo de louça. A gente faz assim: pega o barro mole, mistura com caraipé*, amassa até ele ficar mesmo bem ligado e, depois que ele já está bem ligado, a gente já vai começar a formar a louça. Agora, tem que ter uma coisa, tem que saber a temperatura e a quantia que o barro pega do caraipé. Se estiver bem areadinho, ele já tá bom. E eu tenho esperança que meu filho também vai continuar a trabalhar e alguém além dele vai também. Vai aprender um filho dele, um sobrinho, porque toda criança sempre mostra logo uma coisa que ela quer ser, que ela quer fazer. Eu acho que vai ter alguém assim, não vai ficar parado, não. Vão continuar a fazer essas panelas aqui. <https://tinyurl.com/y6lw6rbu> Acesso em: 09.10.2019. * Árvore cujas cinzas são utilizadas pelos oleiros da região Amazônica para misturar com o barro, também denominada caripé-verdadeiro (Licania floribunda). 5 VESTIBULINHO 1o semestre|2020 • Antologia do Pasquim, v.2: 1972-1973. Desiderata: Rio de Janeiro, 2007, p. 90."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 4,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+          "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/202017430/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/202017430/Gabarito_1modulo-retificado.pdf"
+        }
+      }
+    },
+    "etec-2020-1-q021": {
+      "originalFingerprint": "3b1c3e008fc9ca540d40bc123313b8d80693e8211c569e73c3454da6142c8a2c",
+      "resultFingerprint": "5844bc7ec6ebaaa63188293f709485b1a9a90c782d2829dfad540bbfb438dd57",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "Antecedente é a palavra empregada pela gramática tradicional para identificar o termo ao qual o pronome relativo se refere em uma oração. Assinale a alternativa cujo antecedente do pronome relativo está corretamente destacado.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "“...o desmatamento da Amazônia gradualmente desmonta os frágeis processos ecológicos que levaram anos para serem construídos e refinados.”"
+          },
+          {
+            "letra": "B",
+            "texto": "“O conhecimento sobre o uso dessas plantas geralmente fica nas mãos de um curandeiro, que por sua vez repassa a tradição para um aprendiz...”"
+          },
+          {
+            "letra": "C",
+            "texto": "“Além disso, de todas as florestas tropicais do mundo, a Amazônia é a única que ainda está conservada, em termos de tamanho e diversidade.”"
+          },
+          {
+            "letra": "D",
+            "texto": "“Os cientistas acreditam que menos de 0,5% das espécies da flora foram detalhadamente estudadas...”"
+          },
+          {
+            "letra": "E",
+            "texto": "“Ao mesmo tempo em que o bioma Amazônia está encolhendo lentamente em tamanho...”"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 11,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+          "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/202017430/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/202017430/Gabarito_1modulo-retificado.pdf"
+        }
+      }
+    },
+    "etec-2020-1-q030": {
+      "originalFingerprint": "7e5fddd86ded71686eed3dd55aaa101eb8d27abda4eb703e5b1a6d33c10fd9cc",
+      "resultFingerprint": "b81b33e96de3a4175ea4d9451278b55c4d877dcb214c2dadb5a95fe043641c98",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "O diálogo, desenvolvido entre as personagens Menipo e Hermes, faz parte do livro Diálogo dos Mortos, do escritor Luciano de Samósata. Menipo – Onde estão os belos e as belas, Hermes 1 ? Leva-me até eles, pois eu sou novato aqui. Hermes – Não tenho tempo, Menipo. Mas, olha aquilo ali, à direita: ali está Jacinto, também Narciso e Nireu e Aquiles2; e ainda Tiró, Helena3, Leda, em suma, todas as beldades antigas. Menipo – Eu estou vendo só ossos e crânios desprovidos de carnes, a maioria desses semelhantes. Hermes – Contudo, aqueles são os ossos que todos os poetas admiram e que tu pareces desprezar. Menipo – Mesmo assim, mostra-me Helena, pois eu não saberia reconhecê-la. Hermes – Esse crânio aí é Helena. Menipo – Então é por causa disso aí que foram lotados milhares de navios da Grécia inteira e tombaram tantos gregos e bárbaros, e tantas cidades foram arrasadas! Hermes – Mas, Menipo, tu não viste essa mulher em vida; senão tu também terias dito que não merece castigo “sofrer dores por muito tempo por uma mulher”, porque também as flores secas, se alguém as contempla depois que elas perdem o viço, é evidente que lhe parecerão murchas; mas enquanto florescem e mantêm o colorido, elas são muito belas. Menipo – Pois é isso mesmo que me causa admiração, Hermes: que os Aqueus 4 não perceberam que estavam sofrendo por uma coisa tão efêmera e tão facilmente perecível. Luciano de Samósata, Diálogo dos Mortos. Trad. Henrique G. Murachco. Edusp: São Paulo, p. 67. 1. Hermes: divindade grega posteriormente assimilada à representação do deus Mercúrio, pela mitologia romana. Na cena, Hermes entrega as almas a Caronte, que se encarrega de fazê-las atravessar o Aqueronte, rio que separa o mundo dos vivos e dos mortos. 2. Aquiles: filho de Peleu e Tétis, o mais valente dos heróis na guerra de Troia, de cabeleira dourada. É jovem, forte e belo. Morre em plena juventude; por isso ele está ao lado de beldades, tais como Jacinto e Narciso. 3. Helena: mulher de Menelau, raptada por Páris, filho de Príamo, rei de Troia, foi a causa da guerra que levou ao Hades milhares de almas de heróis, segundo Homero. 4. Aqueu: relativo aos aqueus, um dos quatro ramos do povo grego antigo, ou indivíduo dos aqueus, relativo à Acaia (antiga Grécia), ou ao seu natural ou habitante. Luciano de Samósata, escritor grego do século II, mistura em sua obra dois gêneros diferentes: a Comédia, destinada ao riso; e o Diálogo, destinado às reflexões filosóficas. Sobre o conteúdo reflexivo-filosófico do diálogo transcrito, depreende-se corretamente que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "questiona as ações realizadas em vida para se alcançarem beleza e poder, uma vez que apenas os verdadeiros heróis, como Aquiles, são capazes de os manter na morte."
+          },
+          {
+            "letra": "B",
+            "texto": "expõe a importância da guerra para conseguir reconhecimento, já que, sem alguém para se lembrar dos heróis, a morte lentamente apaga suas grandes obras."
+          },
+          {
+            "letra": "C",
+            "texto": "critica a falta de objetividade de grandes líderes guerreiros, como Aquiles e Hermes, cuja atuação na Guerra de Troia levou milhares à morte."
+          },
+          {
+            "letra": "D",
+            "texto": "reflete sobre a validade das ações dos seres humanos para alcançar reconhecimento e beleza, condições perdidas após a morte."
+          },
+          {
+            "letra": "E",
+            "texto": "tem por objetivo criticar a vaidade excessiva de grandes líderes e intelectuais cuja morte aumenta ainda mais suas riquezas. Leia o diálogo entre Menipo e Hermes para responder às questões de 30 a 32. 15 VESTIBULINHO 1o semestre|2020 •"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 14,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "2616e27c92b2ece494912fa1513e9ea7ccf59d7ef78e1bcb30518db077935baa",
+          "gabaritoSha256": "5d72927ab010226bdd98fa7fd72a6fd656c53e70a0090ae5d15d64d18266c032",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/202017430/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/202017430/Gabarito_1modulo-retificado.pdf"
+        }
+      }
+    },
+    "etec-2018-2-q012": {
+      "originalFingerprint": "fb12098adb0bdd57128b037bf336f855cfeec8dde9631d5b1ecea05f26f53ea3",
+      "resultFingerprint": "54ed90b680789f70d9b67685a66e0a846b2798e0fa214761f57f42f813c1bc71",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "O termo poluição deriva da palavra latina polluere, que significa sujar. Desde os tempos mais remotos, o ser humano tem sujado o meio ambiente, o qual sofre impacto constante desse processo. A poluição do ar é resultado do lançamento de enorme quantidade de gases e materiais particulados na atmosfera. Algumas maneiras de minimizar esse tipo de poluição são",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "estabelecer a energia eólica como prioritária para que esse sistema funcione graças ao deslocamento dos poluentes na atmosfera e desativar as usinas nucleares."
+          },
+          {
+            "letra": "B",
+            "texto": "aproveitar antigas minas de carvão desativadas para o armazenamento dos poluentes aéreos e permitir que o sistema metroviário utilize combustíveis fósseis."
+          },
+          {
+            "letra": "C",
+            "texto": "lançar o material poluente, por intermédio de dutos, em áreas não industriais e permitir o uso de termelétricas em substituição às usinas hidrelétricas."
+          },
+          {
+            "letra": "D",
+            "texto": "implementar políticas públicas que retirem os trens urbanos de circulação e incentivar o uso de óleo diesel nos transportes coletivos."
+          },
+          {
+            "letra": "E",
+            "texto": "usar catalisadores nos escapamentos dos automóveis e utilizar filtros nas chaminés industriais."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 7,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+          "gabaritoSha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201826901/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201826901/Gabarito_1modulo.pdf"
+        }
+      }
+    },
+    "etec-2018-2-q019": {
+      "originalFingerprint": "b5a3e6c25c662f3a8340b598ea06be54067c1b93373b6e780dc922cb7267a3e3",
+      "resultFingerprint": "19364ae0061c8da279755e67362801918d9f8e1faf0af10de05bb83aff8bf03c",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "Uma fornalha de 300 mil anos descoberta em uma caverna paleolítica de Israel levou os cientistas a concluir que esta se trata da mais antiga descoberta que aponta para o controle do fogo por parte do homem. O uso do fogo é um dos fatores que contribuíram para a evolução de nossos ancestrais pré-históricos. Apesar de o fogo ser usado pelo homem há cerca de 1 milhão de anos, a aprendizagem sobre como acendê-lo e controlá-lo para uso doméstico só aconteceu muito depois. <https://tinyurl.com/yal2ab2b> Acesso em: 10.04.2018. Adaptado. Questão 21 Assinale a alternativa que explica, corretamente, por que o uso do fogo é considerado um dos fatores que contribuíram para o desenvolvimento dos homens pré-históricos.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "O controle do fogo e a descoberta da pólvora possibilitaram o desenvolvimento de armas de precisão e longo alcance utilizadas nas guerras entre grupos humanos rivais."
+          },
+          {
+            "letra": "B",
+            "texto": "O fogo era utilizado como arma de caça e fonte de calor, além de permitir o cozimento dos alimentos e, posteriormente, a fundição de metais."
+          },
+          {
+            "letra": "C",
+            "texto": "Durante o período da pré-história, o fogo foi utilizado como energia para impulsionar os motores de máquinas simples, principalmente de uso agrícola."
+          },
+          {
+            "letra": "D",
+            "texto": "Para produzir e controlar o fogo, os grupos pré-históricos foram obrigados a se estabelecer em áreas próximas às fogueiras, deixando o nomadismo e iniciando o processo de sedentarização."
+          },
+          {
+            "letra": "E",
+            "texto": "A descoberta do fogo permitiu o desenvolvimento de atividades culturais, como o Teatro, que eram realizadas em volta da fogueira e desenvolveram-se rapidamente no período pré-histórico. Em 1953, instituiu-se o monopólio do petróleo no Brasil e, consequentemente, criou-se a Petrobrás. Com o início de suas operações em 1955, a Refinaria Presidente Bernardes de Cubatão (RPBC) representou um impacto grande, desencadeando o processo industrial na cidade, por atrair as indústrias de derivados de petróleo, as petroquímicas. Na década de 1980, a Cidade de Cubatão foi considerada pela ONU a cidade mais poluída do mundo. <https://tinyurl.com/yccqej4c> Acesso em: 16.04.2018. Adaptado."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 10,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+          "gabaritoSha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201826901/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201826901/Gabarito_1modulo.pdf"
+        }
+      }
+    },
+    "etec-2018-2-q028": {
+      "originalFingerprint": "387218aa8489131d50c11a1bdf34cef452ff59232437f210bf26b7831bd39e7a",
+      "resultFingerprint": "48ae8c1fe32bea66d0535b05a19c61975c178c38f8df6c546bbec05c36385ebf",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "Aproveitando o desnível de um rio, um proprietário rural construiu uma mini-hidrelétrica, conduzindo água por uma calha até uma roda d’água que será conectada a um dínamo. A roda d’água possui uma polia grande presa a ela enquanto o dínamo possui uma polia pequena. O desenho mostra como as polias são conectadas por intermédio de uma correia de borracha. Conclui-se, corretamente, que o tempo para que a polia grande complete uma volta, considerando que não há escorregamento da correia sobre as polias, é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "menor que o tempo gasto pela polia menor, sendo que ambas giram no mesmo sentido."
+          },
+          {
+            "letra": "B",
+            "texto": "menor que o tempo gasto pela polia menor, sendo que elas giram em sentidos opostos."
+          },
+          {
+            "letra": "C",
+            "texto": "igual ao tempo gasto pela polia menor, sendo que ambas giram no mesmo sentido."
+          },
+          {
+            "letra": "D",
+            "texto": "maior que o tempo gasto pela a polia menor, sendo que ambas giram no mesmo sentido."
+          },
+          {
+            "letra": "E",
+            "texto": "maior que o tempo gasto pela polia menor, sendo que elas giram em sentidos opostos."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 14,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+          "gabaritoSha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201826901/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201826901/Gabarito_1modulo.pdf"
+        }
+      }
+    },
+    "etec-2018-2-q030": {
+      "originalFingerprint": "da219ca8abb9971e92a6f4a6911a50cd0576336c6bf4995aa9c7214b9da0c89f",
+      "resultFingerprint": "b680f4aea10c011f472d8c187508d1659dc7ab18b00a60b87e5a2805acef9720",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "Um técnico em edificações irá acompanhar a instalação de painéis solares em uma laje plana e horizontal. Após os cálculos necessários, ele determina que, para ocupar menos espaço nos telhados e obter melhor ângulo solar: • cada painel deve ter uma inclinação constante e igual a 20o; e • a distância entre os dois painéis deve ser 3,5 vezes a altura h dos painéis. Sabendo que cada placa solar é quadrada e tem 1 m2 de superfície, a distância entre dois painéis é, em metros, de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,34."
+          },
+          {
+            "letra": "B",
+            "texto": "0,36."
+          },
+          {
+            "letra": "C",
+            "texto": "0,94."
+          },
+          {
+            "letra": "D",
+            "texto": "1,19."
+          },
+          {
+            "letra": "E",
+            "texto": "1,26."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 15,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+          "gabaritoSha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201826901/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201826901/Gabarito_1modulo.pdf"
+        }
+      }
+    },
+    "etec-2018-2-q031": {
+      "originalFingerprint": "14a920edd9a4950163b7ce3dffcf38dd29ebe4f66b317a59d27acbf1d1bc86fe",
+      "resultFingerprint": "c66a21d4297928448ede333e972933ddf35ae8f134730c60e31ec2bd553b2695",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "O gasto de energia de uma lâmpada de bulbo de LED de 10 W, acesa por 8 horas, equivale ao mesmo gasto de energia de uma lâmpada incandescente convencional de 75 W, que se mantenha acesa por um tempo aproximado de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1 h."
+          },
+          {
+            "letra": "B",
+            "texto": "2 h."
+          },
+          {
+            "letra": "C",
+            "texto": "3 h."
+          },
+          {
+            "letra": "D",
+            "texto": "4 h."
+          },
+          {
+            "letra": "E",
+            "texto": "5 h."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 15,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+          "gabaritoSha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201826901/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201826901/Gabarito_1modulo.pdf"
+        }
+      }
+    },
+    "etec-2018-2-q042": {
+      "originalFingerprint": "d84d0ba2b04938d3619b85ed8e5ebc1e4b06c79fd0a62ca7ebff60e59efb689b",
+      "resultFingerprint": "55a57b7b9b0d8af719c22ebb5e1d59f3b7a13df95c3a7c0b6105e88868c635ac",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "Entre as formas mais comuns de coleta seletiva existentes no Brasil, existe aquela realizada porta a porta por associações ou cooperativas de catadores de materiais recicláveis. Suponha que um caminhão, pertencente a uma dessas cooperativas, faça diariamente um percurso de 630 km com mesma velocidade média. Excepcionalmente, em um determinado dia, o motorista aumenta sua velocidade média em 10 km/h, economizando 4 h em seu percurso habitual. Logo, o número de horas gastos, diariamente, no percurso habitual, é de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "14."
+          },
+          {
+            "letra": "B",
+            "texto": "15."
+          },
+          {
+            "letra": "C",
+            "texto": "16."
+          },
+          {
+            "letra": "D",
+            "texto": "17."
+          },
+          {
+            "letra": "E",
+            "texto": "18."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 20,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+          "gabaritoSha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201826901/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201826901/Gabarito_1modulo.pdf"
+        }
+      }
+    },
+    "etec-2018-2-q043": {
+      "originalFingerprint": "3e89d09c577566d26e11d1405a6a4f24ab1d48e12088fbc5215b92a5bd484ba9",
+      "resultFingerprint": "c1c48fb56dc43b40dd83afa522c67abac4751f500bc6ec70052b44a5fc1710ac",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "A colonização europeia da América foi responsável pela devastação de grandes áreas de floresta em diferentes partes do continente. Ela também provocou uma corrida por metais, a exemplo do ouro e da prata, o que teve impacto destrutivo para a natureza e para a vida das sociedades que aqui viviam, como ocorreu com a prata espanhola de Potosí, na atual Bolívia, e com o ouro das Minas Gerais, no atual Brasil. Nessas áreas, economias voltadas para a alimentação foram urbanizadas e orientadas para a mineração, provocando fome. Além disso, a grande demanda por mão de obra intensificou as guerras e a escravização de povos indígenas e africanos por parte dos colonizadores. O objetivo de buscar avidamente o ouro e a prata da América estava relacionado a uma política econômica praticada pelas nações europeias, a partir do século XVI, conhecida como",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Materialismo, caracterizado pela valorização do desenvolvimento espiritual em detrimento dos bens materiais."
+          },
+          {
+            "letra": "B",
+            "texto": "Autoritarismo, caracterizado pela ausência de eleições livres e pelo uso da força militar para conter as dissidências."
+          },
+          {
+            "letra": "C",
+            "texto": "Maniqueísmo, caracterizado pela divisão da sociedade em dois grupos antagônicos, que disputavam espaços de poder e prestígio."
+          },
+          {
+            "letra": "D",
+            "texto": "Liberalismo, caracterizado pela abertura dos mercados mundiais, pela livre concorrência e pela criação de mecanismos de autorregulação do mercado financeiro."
+          },
+          {
+            "letra": "E",
+            "texto": "Mercantilismo, caracterizado pela acumulação de metais, pela adoção de medidas econômicas protecionistas e pelo controle mais rígido das colônias pelas metrópoles europeias."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 20,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "7c1bab660270d84590613ea01b2902cea211b6551c8fb2cb0147ec3030440393",
+          "gabaritoSha256": "e076e651b35a9f27e61f94e3b499fd471ac16e5d3fb5a26172564a4ae1843309",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201826901/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201826901/Gabarito_1modulo.pdf"
+        }
+      }
+    },
+    "etec-2017-2-q001": {
+      "originalFingerprint": "9c5292ba8d3ec0f2c008619cd453a122ef263fd2216521c21614b4f47507fdf9",
+      "resultFingerprint": "1a01fe4421c0ccf7dbde89baf55ec4ddd62b4d9fc4508d974aaf92f70a879bbd",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "A ideia química, no primeiro exemplo se refere ao conceito de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "diluição."
+          },
+          {
+            "letra": "B",
+            "texto": "dissolução."
+          },
+          {
+            "letra": "C",
+            "texto": "evaporação."
+          },
+          {
+            "letra": "D",
+            "texto": "destilação fracionada."
+          },
+          {
+            "letra": "E",
+            "texto": "separação de misturas."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 2,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "cdec5bd7d83adede931224267fd333e28449fb02e9655b05ea1df07892337709",
+          "gabaritoSha256": "c6adb0d65cf84a298c3887e4a84038b6e97be6730a916f9c70f126dc68bdfac0",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201727490/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201727490/Gabarito_1modulo_retificado.pdf"
+        }
+      }
+    },
+    "etec-2017-2-q017": {
+      "originalFingerprint": "c35ac6a005cc9dccd78ddde2e5b5066e3c0012bf933db47a9eea4140e5c67245",
+      "resultFingerprint": "dae22d92e7ac959aea28e50776b36e87bfc570bca93fb76ef63ce58335df26a1",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "O turismo é uma atividade econômica de muita importância para diversos países. Vários deles têm no turismo uma importante fonte de renda. Existem diversas modalidades turísticas e, portanto, diferentes razões para viajar. A cidade de Meca, na Arábia Saudita, é um exemplo de turismo",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "de negócio, pois nessa cidade se situa o maior mercado de compra e venda de petróleo."
+          },
+          {
+            "letra": "B",
+            "texto": "ecológico, pois essa cidade possui um dos maiores ecossistemas tropicais do mundo."
+          },
+          {
+            "letra": "C",
+            "texto": "de entretenimento, pois nessa cidade se encontra o maior cassino do mundo."
+          },
+          {
+            "letra": "D",
+            "texto": "religioso, pois nessa cidade se localiza a Caaba, local mais sagrado do islã."
+          },
+          {
+            "letra": "E",
+            "texto": "desportivo, pois nessa cidade ocorrem diversos eventos automobilísticos."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 8,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "cdec5bd7d83adede931224267fd333e28449fb02e9655b05ea1df07892337709",
+          "gabaritoSha256": "c6adb0d65cf84a298c3887e4a84038b6e97be6730a916f9c70f126dc68bdfac0",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201727490/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201727490/Gabarito_1modulo_retificado.pdf"
+        }
+      }
+    },
+    "etec-2017-2-q025": {
+      "originalFingerprint": "8a1d3739d51d73157355df0ba05f73b135e8db6ce0838548710e16dee91e69ff",
+      "resultFingerprint": "fb113a67cfe1f0279bbd8eeadaf50233821491f5ff0637f2348a3eb65aaeb388",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "Marcelo decidiu construir uma gangorra para poder brincar com seu filho. Sobre um cavalete, ele apoiou uma tábua de modo que, quando ambos se sentassem, estando cada um em um dos extremos da tábua e sem tocar os pés no chão, a gangorra pudesse ficar equilibrada horizontalmente, sem pender para nenhum dos lados. Considerou também o fato de que seu peso era três vezes maior que o de seu filho, e que a distância entre os locais onde ele e o filho deveriam se sentar era de 3,2 m. De acordo com essas considerações, a distância entre o ponto onde o filho de Marcelo deve se sentar e o ponto de apoio da tábua no cavalete é, aproximadamente, de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,8 m."
+          },
+          {
+            "letra": "B",
+            "texto": "1,2 m."
+          },
+          {
+            "letra": "C",
+            "texto": "1,6 m."
+          },
+          {
+            "letra": "D",
+            "texto": "2,0 m."
+          },
+          {
+            "letra": "E",
+            "texto": "2,4 m. Despreze o peso da tábua, bem como as dimensões dos corpos de Marcelo e de seu filho"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 12,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "cdec5bd7d83adede931224267fd333e28449fb02e9655b05ea1df07892337709",
+          "gabaritoSha256": "c6adb0d65cf84a298c3887e4a84038b6e97be6730a916f9c70f126dc68bdfac0",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201727490/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201727490/Gabarito_1modulo_retificado.pdf"
+        }
+      }
+    },
+    "etec-2017-2-q046": {
+      "originalFingerprint": "0e4f229e5aa0cb9c85e9fc1a1b6cebe3b8b78e7c07f959f2b3a9a1e5e316d7bb",
+      "resultFingerprint": "6527d21e3df53fe01599061624951846f8321c14e76f4a641d0560830aa0cf70",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "Um exemplo de cada função, na ordem em que aparecem na primeira estrofe do poema, está presente na alternativa",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "NaOH HCl CO2 NaCl"
+          },
+          {
+            "letra": "B",
+            "texto": "NaOH NaCl CO2 HCl"
+          },
+          {
+            "letra": "C",
+            "texto": "HCl NaOH CO2 NaCl"
+          },
+          {
+            "letra": "D",
+            "texto": "HCl NaOH NaCl CO2"
+          },
+          {
+            "letra": "E",
+            "texto": "HCl NaCl NaOH CO2 Em um trabalho interdisciplinar, o professor de redação pede aos alunos que façam um poema que seria denominado “Cienciando”, usando o estudo de Ciências. Observe um desses poemas, em que o aluno cita algumas funções químicas."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 21,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "cdec5bd7d83adede931224267fd333e28449fb02e9655b05ea1df07892337709",
+          "gabaritoSha256": "c6adb0d65cf84a298c3887e4a84038b6e97be6730a916f9c70f126dc68bdfac0",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201727490/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/201727490/Gabarito_1modulo_retificado.pdf"
+        }
+      }
+    },
+    "etec-2016-1-q012": {
+      "originalFingerprint": "bfc8b084e7c31a7b24aaa34255b99bdfc127f5b618061fb6d335996d6abb91d4",
+      "resultFingerprint": "098233ad37175b6b5741d3e4fd5d154efdc6f8d6dcc046c4e5ec73ee699684e6",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "A colonização do norte do Paraná ocorreu principalmente pela expansão da cafeicultura. Para que essa ocupação ocorresse, um dos fatores decisivos foi a presença de um solo muito fértil denominado",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "terra roxa, de cor vermelha."
+          },
+          {
+            "letra": "B",
+            "texto": "salmourão, de cor amarela."
+          },
+          {
+            "letra": "C",
+            "texto": "massapé, de cor marrom."
+          },
+          {
+            "letra": "D",
+            "texto": "tchernozion, de cor preta."
+          },
+          {
+            "letra": "E",
+            "texto": "calcário, de cor branca. Os fertilizantes podem ser definidos como qualquer material orgânico ou inorgânico (mineral), de origem natural ou sintética, que é adicionado ao solo com vistas ao suprimento de certos elementos essenciais ao crescimento vegetal. Os fertilizantes são empregados, predominantemente, na forma sólida, contudo, podem ser aplicados também na forma de soluções ou suspensões. Os fertilizantes mais usados são do tipo NPK, fontes de nitrogênio, fósforo e potássio, elementos essenciais às plantas. A tabela apresenta possíveis compostos usados nos fertilizantes do tipo NPK. Leia o texto para responder às questões de números 14 a 16. FERTILIZANTES DO TIPO NPK POSSÍVEIS COMPOSTOS MAIS UTILIZADOS NITROGENADOS sulfato de amônio [(NH4 )2 SO4 ] nitrato de amônio (NH4 NO3 ) uréia [ CO(NH 2 ) 2 ] fosfato monoamônico (NH 4 H2 PO4 ) fosfato diamônico [(NH4 ) 2 HPO4 ] FOSFATADOS superfosfato simples [Ca(H2 PO4 ) 2 + 2CaSO 4 ] superfosfato triplo [Ca(H2 PO4 )2 ] escória básica [ (CaO) 5 . P2 O5 . SiO2 ] farinha de ossos cozida [Ca3 (PO4 ) 2 ] fosfato monoamônico (NH4 H2 PO4 ) fosfato diamônico [(NH4 ) 2 HPO4 ] POTÁSSICOS cloreto ou sulfato de potássio (KCl e K 2 SO4 ) <http://tinyurl.com/nft6ftk> Acesso em: 28.08.2015. Adaptado."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 5,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "f2d77beaa112d90a70354e447941c7646fc41f879bd7d829786dc05a622c26a1",
+          "gabaritoSha256": "b9f3a67b6be9efbe7a3f465627aa10ed8ee7dab7b85e6a4c6bed49c80e7fa553",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20161738/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20161738/Gabarito_1modulo.pdf"
+        }
+      }
+    },
+    "etec-2016-1-q047": {
+      "originalFingerprint": "ffd3f7e6b04c648b4dd8138f318aed0a2dd204cf05038a7e3b0e51a3aeb3fcaa",
+      "resultFingerprint": "093a22f772f57d09ef138dffc6902e883560f81bb85b7d70f9b9f982bf0c034f",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "Trilhões de dólares estão enterrados no solo vermelho do leste da República Democrática do Congo: um dos maiores países do continente africano e também um dos mais ricos em recursos naturais, os quais tinham sido confiscados durante a colonização belga. Atualmente, essa riqueza financia os grupos armados que controlam ilegalmente boa parte das minas, sem que a população do país se beneficie. Ouro, diamantes, coltan (minério que contém tântalo, usado para armazenar energia em celulares e tablets), entre outros, são extraídos e contrabandeados para países vizinhos, a partir de onde abastecem a indústria de eletroeletrônicos que, muitas vezes, não se preocupa com a procedência da matéria-prima. Em quase duas décadas, a guerra civil naquele país já fez milhões de mortos e outros muitos refugiados, tornando-se o maior e mais sangrento conflito desde a Segunda Guerra Mundial. <http://tinyurl.com/pb3vyy9> Acesso em: 10.09.2015. Adaptado. No decorrer do tempo geológico, apenas uma porcentagem muito pequena das espécies que um dia habitaram a biosfera terrestre preservou-se nas rochas. Muitas espécies surgiram e desapareceram sem deixar vestígios. Em rochas muito antigas, não são encontrados vestígios de animais atuais, o que sugere que eles apareceram muito depois. Porém, nessas camadas antigas, são encontrados restos de animais que não existem mais, o que poderia indicar que se extinguiram. Os vestígios de organismos que existiram no passado e se mantiveram preservados, como pedaços de troncos de árvores, conchas, ossos, dentes, cascas de ovos, esqueletos e carapaças são denominados fósseis. O modo de fossilização pode ser determinado por vários fatores como, por exemplo, a rapidez do soterramento e da decomposição bacteriológica, após a morte dos organismos; a composição química e estrutural do esqueleto e as condições químicas, que imperavam no meio ambiente durante esse processo. Assim, quando um organismo morre e suas partes moles são decompostas, as partes duras, como os ossos, ao longo do tempo, podem ser encobertas por camadas de sedimentos, sofrendo fossilização. Como base nessas informações, é correto afi rmar que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "os fósseis representam os restos preservados somente dos animais que viveram no passado."
+          },
+          {
+            "letra": "B",
+            "texto": "os fósseis evidenciam que todos os organismos existentes no passado desapareceram sem deixar vestígios."
+          },
+          {
+            "letra": "C",
+            "texto": "as camadas de rochas mais antigas apresentam fósseis dos seres vivos atuais, evidenciando que eles se extinguiram."
+          },
+          {
+            "letra": "D",
+            "texto": "os registros fósseis se formaram apenas a partir de organismos que, depois de mortos, foram totalmente decompostos."
+          },
+          {
+            "letra": "E",
+            "texto": "os fósseis podem ser originados a partir de organismos que, depois de mortos, sofreram decomposição, e suas partes duras foram preservadas."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 20,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "f2d77beaa112d90a70354e447941c7646fc41f879bd7d829786dc05a622c26a1",
+          "gabaritoSha256": "b9f3a67b6be9efbe7a3f465627aa10ed8ee7dab7b85e6a4c6bed49c80e7fa553",
+          "provaUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20161738/Prova_1modulo.pdf",
+          "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20161738/Gabarito_1modulo.pdf"
+        }
+      }
+    },
+    "etec-2013-1-q015": {
+      "originalFingerprint": "47a871876f0ec0e2c7e5b07e2c4b650bb4f144677f0f3e3a24dd65be8792a1a4",
+      "resultFingerprint": "a2ebbdeb775ff9cfff0284384ada0782d03a85a4793e5010681df07fd7cd2b77",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "Partindo dessas informações, conclui-se que, de acordo com a norma-padrão, também está correta a concordância nominal em:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Elas mesmos, por serem pesquisadoras do assunto e antigas voluntárias da instituição, resolveram dar palestras sobre interatividade."
+          },
+          {
+            "letra": "B",
+            "texto": "O presidente considerou elogiosas, apesar da forte oposição interna ao seu governo, as mensagens enviadas por outros líderes mundiais."
+          },
+          {
+            "letra": "C",
+            "texto": "Espalhada, sobre as mesas da sala de espera do consultório dentário, encontravam-se várias revistas."
+          },
+          {
+            "letra": "D",
+            "texto": "As bulas de remédio, embora informem sobre o produto, não são destinada à automedicação."
+          },
+          {
+            "letra": "E",
+            "texto": "Saíram perfeita as fotos que o repórter tirou da Amazônia para publicar no jornal de domingo."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 7,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "72f18d275d9a88dcbb5dfc758f19b29637610b7a3b73cde35cde4517849042a4",
+          "gabaritoSha256": "5555efa08458df35b8e08f5836cfd6a43cbe8b31ae70f7a4a00dfef3efbf2e70",
+          "provaUrl": "https://vestibulinho.etec.sp.gov.br/download/prova_ant/86.pdf",
+          "gabaritoUrl": "https://vestibulinho.etec.sp.gov.br/download/prova_ant/87-ret.pdf"
+        }
+      }
+    },
+    "etec-2010-1-q016": {
+      "originalFingerprint": "b4e31ccf783c81f97bddf6d7f34f898fda5cb39c28f3e722cc9f154f770f3d4e",
+      "resultFingerprint": "f1a9e0d940b5c0843a15a1a7710dda12ab2f49d1385b0a2d9a2be4f98d577e5f",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "Vestibulinho 1o sem/10 ● eteC 9 Doença Agente causador Forma de contágio",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Ascaridíase (Lombriga) Verme Ingestão de carne contaminada com cisticercos."
+          },
+          {
+            "letra": "B",
+            "texto": "Ancilostomose (Amarelão) Verme Picada do mosquito."
+          },
+          {
+            "letra": "C",
+            "texto": "Esquistossomose (Barriga d’água) Verme Penetração de larvas através da pele."
+          },
+          {
+            "letra": "D",
+            "texto": "Febre amarela Vírus Contato com animais domésticos ou silvestres infectados."
+          },
+          {
+            "letra": "E",
+            "texto": "Amebíase (Disenteria amebiana) Vírus Ingestão de água ou alimentos contaminados."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 9,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "0b51714761c26156a7e7a78d6dbf3967c85ec6a63de8a4b648bf6902becdeba1",
+          "gabaritoSha256": "416e6b0b7227715e475902e4524418edaf92e13952b514a20a61f0c2ace6720e",
+          "provaUrl": "https://vestibulinho.etec.sp.gov.br/download/prova_ant/70.pdf",
+          "gabaritoUrl": "https://vestibulinho.etec.sp.gov.br/download/prova_ant/71.pdf"
+        }
+      }
+    },
+    "etec-2009-1-extra1-q001": {
+      "originalFingerprint": "66c05333fc062102bb53ead4e3b6439cf197c2ec87a2bdb5c8165e17289faa46",
+      "resultFingerprint": "54a389d17c32138e682c0cb8956d63fcdcb45b14ff6d019615b40d9b09c95a68",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "O desenrolar da história, nos três primeiros quadrinhos, são baseados na atitude do menino e podem ser sintetizados pelo seguinte ditado popular:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "quem com ferro fere, com ferro será ferido."
+          },
+          {
+            "letra": "B",
+            "texto": "não se deve ir com muita sede ao pote."
+          },
+          {
+            "letra": "C",
+            "texto": "nos pequenos frascos estão os melhores perfumes."
+          },
+          {
+            "letra": "D",
+            "texto": "depois da tempestade, vem a bonança."
+          },
+          {
+            "letra": "E",
+            "texto": "de limões pode-se fazer uma boa limonada."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 2,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "701e06de9cab391bca962b0f97b9edece4bad829e4a40531c2fd4c5009a73173",
+          "gabaritoSha256": "d169eb5878f424ddf90c580057aa574b0ecabd60c4c2fe67ee09fe8adcd21f4f",
+          "provaUrl": "https://vestibulinho.etec.sp.gov.br/download/prova_ant/63.pdf",
+          "gabaritoUrl": "https://vestibulinho.etec.sp.gov.br/download/prova_ant/65.pdf"
+        }
+      }
+    },
+    "etec-2009-1-extra1-q025": {
+      "originalFingerprint": "29524ae3861221e711b87190148b87c36f4775683fb0ce77ba9bd3172f0ca03b",
+      "resultFingerprint": "6a171c42d19c9122b0bc4c9e01c1c47ce78c9a5bee5a348fc28b07cad3bbf359",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "Ana e Beatriz constituíram uma sociedade a fim de montar uma loja de roupas. Ana investiu R$ 15.000,00 (quinze mil reais), e Beatriz investiu R$ 45.000,00 (quarenta e cinco mil reais). Três meses após a inauguração da loja, as sócias obtiveram um lucro de R$ 7.200,00 (sete mil e duzentos reais). As sócias combinaram de dividir os lucros de forma diretamente proporcional ao investimento inicial, portanto Ana e Beatriz receberam, respectivamente, nesse primeiro trimestre",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "R$ 5.400,00 e R$ 1.800,00"
+          },
+          {
+            "letra": "B",
+            "texto": "R$ 4.800,00 e R$ 2.400,00"
+          },
+          {
+            "letra": "C",
+            "texto": "R$ 3.600,00 e R$ 3.600,00"
+          },
+          {
+            "letra": "D",
+            "texto": "R$ 2.400,00 e R$ 4.800,00"
+          },
+          {
+            "letra": "E",
+            "texto": "R$ 1.800,00 e R$ 5.400,00"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 8,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "701e06de9cab391bca962b0f97b9edece4bad829e4a40531c2fd4c5009a73173",
+          "gabaritoSha256": "d169eb5878f424ddf90c580057aa574b0ecabd60c4c2fe67ee09fe8adcd21f4f",
+          "provaUrl": "https://vestibulinho.etec.sp.gov.br/download/prova_ant/63.pdf",
+          "gabaritoUrl": "https://vestibulinho.etec.sp.gov.br/download/prova_ant/65.pdf"
+        }
+      }
+    },
+    "etec-2009-1-extra1-q029": {
+      "originalFingerprint": "1f2d3ea938b9e6ecec8109699f4bee3ead84a09c9be816535a82d673e8f9c8c3",
+      "resultFingerprint": "1c25dc7fe562af041fb8763823f49cb64a98af0e95708878596e8e7f70373bcb",
+      "source": {
+        "file": "src/data/etec-exams.json",
+        "sha256": "6084eeb8bfad03022b64ac5e2bc72b714212152ddf8487f2500831a7e9e5bb79"
+      },
+      "updates": {
+        "enunciado": "Numa determinada cidade, 80% dos habitantes são eleitores. Dentre eles, 60% são do sexo masculino. Considerando que os 20% de não-eleitores correspondem a 20.000 habitantes, calcule o número de eleitores do sexo feminino dessa cidade.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "20.000"
+          },
+          {
+            "letra": "B",
+            "texto": "32.000"
+          },
+          {
+            "letra": "C",
+            "texto": "40.000"
+          },
+          {
+            "letra": "D",
+            "texto": "60.000"
+          },
+          {
+            "letra": "E",
+            "texto": "80.000"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 9,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "701e06de9cab391bca962b0f97b9edece4bad829e4a40531c2fd4c5009a73173",
+          "gabaritoSha256": "d169eb5878f424ddf90c580057aa574b0ecabd60c4c2fe67ee09fe8adcd21f4f",
+          "provaUrl": "https://vestibulinho.etec.sp.gov.br/download/prova_ant/63.pdf",
+          "gabaritoUrl": "https://vestibulinho.etec.sp.gov.br/download/prova_ant/65.pdf"
+        }
+      }
+    },
+    "ifsc-2026-2-q024": {
+      "originalFingerprint": "c1f61be44bc270e6cb05acf0326aeb7382019b970b0cac8e5a3ced35364b1d75",
+      "resultFingerprint": "326d9ef3dc55ca2ab099ffb51e35702546cbc6c1755f8a93ef74377a26f74f62",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Os átomos são as unidades fundamentais que constituem toda a matéria. Cada átomo é caracterizado por valores como número atômico (Z) e número de massa (A), que permitem determinar a quantidade de partículas subatômicas presentes em sua estrutura. Essas partículas influenciam diretamente as propriedades dos ele- mentos químicos. Considere um átomo hipotético X, cujo número atômico é 15 e cujo número de massa é 31. Analise as afirmações a seguir. I. O átomo X possui 15 prótons em seu núcleo. II. O átomo X possui 16 nêutrons em seu núcleo. III. Se o átomo X estiver eletricamente neutro, ele possui 15 elétrons. IV. O número de massa corresponde à soma de prótons e elétrons do átomo. Assinale a alternativa CORRETA.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Apenas os itens I e II estão corretos."
+          },
+          {
+            "letra": "B",
+            "texto": "Apenas os itens I, II e III estão corretos."
+          },
+          {
+            "letra": "C",
+            "texto": "Apenas os itens I, III e IV estão corretos."
+          },
+          {
+            "letra": "D",
+            "texto": "Apenas os itens II, III e IV estão corretos."
+          },
+          {
+            "letra": "E",
+            "texto": "Todos os itens estão corretos. MINISTÉRIO DA EDUCAÇÃO 21 INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO Exame de Classificação 2026.2 – Cursos Técnicos Integrados Leia o Texto XVIII. TEXTO XVIII VOLDEMORT: UM VILÃO FICTÍCIO? O mais poderoso antagonista da saga de Harry Potter defendia a superioridade dos bruxos de sangue puro e desejava promover uma limpeza étnica no mundo mágico, um discurso supremacista que já apare- ceu várias vezes ao longo da história da humanidade [...] Nos séculos 18 e 19, a crença de que a espécie humana era composta por diferentes raças levou pensadores e cientistas europeus a tentar estabelecer uma hierarquia entre elas. Estudos em diversas áreas do conhecimento buscavam demonstrar que negros, africanos, indíge- nas, mongóis, eslavos eram raças inferiores, menos inteligentes, com crânios menos desenvolvidos. Na época, essas ideias foram bastante influentes e se tornaram a base do que chamamos de ‘racismo cientí- fico’. Hoje, sabemos que essas pesquisas eram completamente enviesadas, baseadas em preconceitos e sem embasamento científico real. Nessa mesma linha de pensamento, o diplomata e filósofo francês Joseph Arthur de Gobi- neau (1816-1882), considerado um dos grandes teóricos do racismo, chegou a afirmar que os brasileiros, por culpa da miscigenação, eram esteticamente repugnantes, avessos ao trabalho, pouco férteis e fisica- mente fracos, o que os levaria à inevitável extinção em menos de 200 anos. No universo de Harry Potter, Voldemort não apenas era adepto a essa ideia da existência de uma raça superior, como liderava os Comensais da Morte, um grupo seleto de seguidores que estavam dispostos a matar e morrer para defender seu líder e garantir a supremacia dos bruxos de sangue puro. [...] O racismo está presente na dominação de uma nação sobre outra, na prática da escravidão, na marginalização e opressão de grupos étnicos, raciais e religiosos, nas barreiras invisíveis que dificultam a ascensão social e financeira, na exploração do trabalhador. Com essas reflexões, fica claro também que o pensamento de Voldemort infelizmente não é coisa de ficção (e nem coisa do passado). É uma ideia que assombra a humanidade desde muito tempo atrás e que ainda não fomos capazes de eliminar por completo. Fonte: https://cienciahoje.org.br/artigo/voldemort-um-vilao-ficticio/ Acesso: 19 fev 2026. OBS: Em Harry Potter, bruxos de sangue ruim ou não puro são aqueles cujo pai ou mãe (ou ambos) não são bruxos."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 20,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "5c4341cf8cbfcd63ec7245bc1bfe3062698f48a075ccccaa10ad7504956acf9f",
+          "gabaritoSha256": "647e8d90ed65211cbcafc157bd2678def71250e32acff7076974f846e055d9ad",
+          "provaUrl": "https://www.ifsc.edu.br/documents/d/ingresso/2026-2-ec-int-prova-titular-ifsc",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/d/ingresso/integrado_-_gabarito_definitivo_2026-2_assinado-1-"
+        }
+      }
+    },
+    "ifsc-2026-1-q011": {
+      "originalFingerprint": "6b06b44c5c1dff08eebf57f4ebbf6a28df0f0672a6482e50d67c97e1d421a084",
+      "resultFingerprint": "8064576fa4699061981c80f71315204c34a5f7cdbca8a0d424fa5d4ee295c2e8",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "A Serra do Rio do Rastro é um dos destinos turísticos mais visitados de Santa Catarina. Nos últimos anos, a região tem investido no turismo sustentável, incentivando o controle do número de visitantes e o consumo consciente de recursos naturais. Uma pousada da região oferece kits de lanche artesanal, preparados por produtores locais, com alimentos orgânicos. Cada kit contém: ∑ ! \" de um pão caseiro; ∑ # \" de um queijo serrano; ∑ $ % de um bolo de milho; ∑ 1 jarra de suco natural. Durante um fim de semana, 18 kits foram vendidos a visitantes. Para planejar a produção da próxima semana, os responsáveis calcularam a quantidade consumida de cada item. Quantas unidades de cada alimento foram consumidas nesse fim de semana?",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "24 pães, 12 queijos e 15 bolos"
+          },
+          {
+            "letra": "B",
+            "texto": "20 pães, 13 queijos e 16 bolos"
+          },
+          {
+            "letra": "C",
+            "texto": "24 pães, 12 queijos e 14 bolos"
+          },
+          {
+            "letra": "D",
+            "texto": "24 pães, 14 queijos e 15 bolos"
+          },
+          {
+            "letra": "E",
+            "texto": "20 pães, 12 queijos e 15 bolos"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 10,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "0bdbaabffa7774f4d28dc58e19dd50f8813f1d044c02205bf55aae7c77aa8dc6",
+          "gabaritoSha256": "01ac684d6378c365550a0dc67a281168be0bb72be93829bd56f49f1497e79a94",
+          "provaUrl": "https://www.ifsc.edu.br/documents/d/ingresso/2026-1-ec-int-prova-ifsc",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/d/ingresso/integrado_-_gabarito_definitivo_2026-1_-_prova_titular_-_ifsc_assinado"
+        }
+      }
+    },
+    "ifsc-2025-1-q010": {
+      "originalFingerprint": "7f90bc1f94d5db450a54082866b20357bd26efb6ff0fcc98a6a6426e440edace",
+      "resultFingerprint": "7f77014d97f774d1c16c660454eeec6b47d9d800fb9f9acd47c8914ee4ce4dd1",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "O número de casos de dengue tem crescido muito no Brasil sendo que, em Santa Catarina, a situação motivou as autoridades a decretarem Situação de Emergência, com ampla divulgação nos meios de comunicação. Para o controle do mosquito Aedes aegypti, que é o transmissor da doença, toda a sociedade precisa estar envolvida, especialmente na eliminação de água parada que é utilizada pelo mosquito na sua reprodução. Outra estratégia de combate à dengue, utilizada pelos governantes, é realizar a aplicação de inseticida por pulverização em regiões com alto índice de proliferação do mosquito. Considere que 3 pessoas, cada uma usando um reservatório com capacidade de 8 litros do produto, conseguem pulverizar 100 imóveis em um dia. Quantos imóveis podem ser pulverizados em um dia, se tivermos 5 pessoas aplicando o produto com reser- vatórios de 6 litros cada?",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "45 imóveis."
+          },
+          {
+            "letra": "B",
+            "texto": "80 imóveis."
+          },
+          {
+            "letra": "C",
+            "texto": "125 imóveis."
+          },
+          {
+            "letra": "D",
+            "texto": "222 imóveis."
+          },
+          {
+            "letra": "E",
+            "texto": "320 imóveis. MINISTÉRIO DA EDUCAÇÃO 10 INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO Exame de Classificação 2025.1 – Cursos Técnicos Integrados Leia o Texto IX. TEXTO IX Em 2023, comemorou-se 20 anos do lançamento dos carros flex no Brasil. O motor do carro flex é bicombustível, ou seja, funciona tanto com etanol (álcool) quanto com gasolina. O etanol é um combustível considerado limpo e mais sustentável, já que é produzido a partir de um vegetal e libera menos gases polu- entes do que a gasolina, que é derivada do petróleo. Muitos motoristas ficam na dúvida sobre qual combustível escolher devido à diferença de preço entre eles. Apesar de o carro abastecido com etanol ter um consumo maior por quilômetro rodado, do ponto de vista financeiro, o etanol se torna vantajoso quando comercializado, no mínimo, 30% abaixo do preço da gasolina comum. O quadro apresenta o preço médio registrado nas capitais listadas, entre os dias 25 e 31 de agosto de 2024, pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis: Capital Preço médio por litro do Etanol Preço médio por litro da Gasolina comum Curitiba R$ 4,44 R$ 6,23 Florianópolis R$ 4,65 R$ 5,95 Porto Alegre R$ 4,71 R$ 6,05 São Paulo R$ 3,89 R$ 5,92 Goiânia R$ 3,72 R$ 5,85 Fonte adaptada: ANP. Disponível em: https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/levan- tamento-de-precos-de-combustiveis-ultimas-semanas-pesquisadas Acesso: 3 set 2024."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 9,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "26c33198300780a832a19d4c68ac563c3576c3a0cd5bcc710ca27cd2aa441b5d",
+          "gabaritoSha256": "70df3dbd86a601d509e22381bc654f950740b174bcd0f47b58e869987e78cec3",
+          "provaUrl": "https://www.ifsc.edu.br/documents/d/ingresso/2025-1-ec-int-prova-titular-ifsc",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/d/ingresso/integrado_-_gabarito_definitivo_2025-1_-_prova_titular_-_ifsc_assinado"
+        }
+      }
+    },
+    "ifsc-2025-1-q024": {
+      "originalFingerprint": "968838b4c727516ace3b3539fdf2c618aa25d1b2d26140866a32699ff8071eef",
+      "resultFingerprint": "e30b83a79ddf943c07d1dc402a1826fb862d05705028a87a9e436205608ac78c",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Durante uma aula experimental de química em um Instituto Federal, um aluno do curso técnico integrado estava distraído no laboratório, o que é inadequado e perigoso! O aluno se confundiu e leu o procedimento do roteiro de forma equivocada, misturando todos os reagentes que estavam sobre a bancada em um único bé- quer. Assim, nesse descuido não intencional, areia, sal, óleo e água foram combinados em um único recipiente. Para corrigir o erro, o aluno teve que executar as seguintes etapas para separar cada componente dessa mistura:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "filtração, destilação simples, catação."
+          },
+          {
+            "letra": "B",
+            "texto": "filtração, decantação e destilação simples."
+          },
+          {
+            "letra": "C",
+            "texto": "decantação, catação, filtração."
+          },
+          {
+            "letra": "D",
+            "texto": "destilação simples, centrifugação, sifonação."
+          },
+          {
+            "letra": "E",
+            "texto": "destilação simples, decantação e centrifugação. MINISTÉRIO DA EDUCAÇÃO 22 INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO Exame de Classificação 2025.1 – Cursos Técnicos Integrados"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 21,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "26c33198300780a832a19d4c68ac563c3576c3a0cd5bcc710ca27cd2aa441b5d",
+          "gabaritoSha256": "70df3dbd86a601d509e22381bc654f950740b174bcd0f47b58e869987e78cec3",
+          "provaUrl": "https://www.ifsc.edu.br/documents/d/ingresso/2025-1-ec-int-prova-titular-ifsc",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/d/ingresso/integrado_-_gabarito_definitivo_2025-1_-_prova_titular_-_ifsc_assinado"
+        }
+      }
+    },
+    "ifsc-2024-1-q010": {
+      "originalFingerprint": "a2b595207a24c5860b0f7e881eeb5235dfa8b1a3f8253144d80d1f88cf14a6d2",
+      "resultFingerprint": "71da4479290beb852f6e06972933daeca5079f93db6a620a624787114ad49e41",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Preocupados com os animais abandonados em um câmpus do IFSC, um grupo de estudantes organizou uma ação para angariar fundos, com o objetivo de adquirir ração para alimentar os animais. Ao longo de uma semana, foram arrecadadas 180 cédulas de dinheiro (reais). As cédulas foram separadas por valor, resultando na composição a seguir: • R$ 2,00 que corresponde a 2 5 das cédulas; • R$ 5,00 que corresponde a 1 3 das cédulas; • R$ 10,00 que corresponde a 1 4 das cédulas; • R$ 20,00 que corresponde às cédulas restantes. O valor total, em reais, arrecadado ao longo da semana é igual a:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "R$ 101,00."
+          },
+          {
+            "letra": "B",
+            "texto": "R$ 535,00."
+          },
+          {
+            "letra": "C",
+            "texto": "R$ 954,00."
+          },
+          {
+            "letra": "D",
+            "texto": "R$ 963,00."
+          },
+          {
+            "letra": "E",
+            "texto": "R$ 1.190,00. MINISTÉRIO DA EDUCAÇÃO 11 INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO Exame de Classificação 2024.1 – Cursos Técnicos Integrados"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 10,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "71b9753d0c6e095f72e12fa1e4f3fd363cdaad869bfda29b0c6402fb911638ed",
+          "gabaritoSha256": "9c4615bf568c43d376cf4d911f730309350f2338fdc371cce48a3ed2a33c1802",
+          "provaUrl": "https://www.ifsc.edu.br/documents/d/ingresso/2024-1-ec-int-prova-titular",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/d/ingresso/gabarito-definitivo-2024-1-prova-titular"
+        }
+      }
+    },
+    "ifsc-2024-1-itajai-q011": {
+      "originalFingerprint": "eab0a36efe614c940078a6934c317a581eb2fca69d1caee1b8fbd5cd22706dd9",
+      "resultFingerprint": "61ae95b9b8b7562e15d697cb143bca288c95bbec496572d0cf183d73ab69af46",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Entre as competências do Corpo de Bombeiros Militar estão a prevenção e o combate a incêndios. Para realizar uma tarefa tão importante, é necessário dispor de equipamentos e viaturas. Uma das viaturas utilizadas para esse fim é o caminhão Auto Bomba Tanque Reserva, que possui capacidade de transporte de 4.500 litros de água. Sabendo que 1.000 litros correspondem a 1 m3, essa capacidade equivale a encher um tanque retangular que mede 2 metros de largura, 1,8 metros de comprimento e:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,70 m de profundidade."
+          },
+          {
+            "letra": "B",
+            "texto": "0,90 m de profundidade."
+          },
+          {
+            "letra": "C",
+            "texto": "1,25 m de profundidade."
+          },
+          {
+            "letra": "D",
+            "texto": "1,30 m de profundidade."
+          },
+          {
+            "letra": "E",
+            "texto": "1,50 m de profundidade. Exame de Classificação 2024.1 – Cursos Técnicos Integrados 10 cm 3 cm MINISTÉRIO DA EDUCAÇÃO 13 INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 12,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "09f8d760510db04e81031ad6c9bdda8c250750fd7ae1edfca637086a412e48aa",
+          "gabaritoSha256": "2784c7e6e254a697eb0ec1d125d336ed7db0d1e51aa019bb00809972cdf0adb3",
+          "provaUrl": "https://www.ifsc.edu.br/documents/d/ingresso/2024-1-ec-int-prova-itajai-pdf",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/d/ingresso/gabarito-definitivo-2024-1-prova-aplicada-em-itajai"
+        }
+      }
+    },
+    "ifsc-2023-2-q013": {
+      "originalFingerprint": "bc8209998b3e90a251715b93e5b0c5248a1c22b657daf17a68803f8d9dd00280",
+      "resultFingerprint": "5edd78777623f0989485465c7bcd5e0f844f05fec1b815f0593073714e0d7a26",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Carlos, Fabiano e Bruna juntaram dinheiro para comprar uma barraca de acampamento. Fabiano contribuiu com 60% do valor total da barraca. Carlos contribuiu com 40% do que faltava pagar. Bruna, por fim, contri- buiu com R$ 30,00. Sendo assim, o valor total da barraca foi:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "R$ 150,00"
+          },
+          {
+            "letra": "B",
+            "texto": "R$ 125,00"
+          },
+          {
+            "letra": "C",
+            "texto": "R$ 130,00"
+          },
+          {
+            "letra": "D",
+            "texto": "R$ 115,00"
+          },
+          {
+            "letra": "E",
+            "texto": "R$ 140,00 COMPRE 1 RODÍZIO DE PIZZA E ESCOLHA ENTRE 1 REFRIGERANTE OU 1 SOBREMESA DE GRAÇA! MINISTÉRIO DA EDUCAÇÃO 13 INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO Exame de Classificação 2023.2 – Cursos Técnicos Integrados Leia o Texto IX, a seguir. TEXTO IX Fonte: https://exame.com/marketing/sadia-responde-irma-mais-nova-que-questiona-numero-de-nuggets/ Acesso em: 16 mar. 2023."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 12,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "7a2a0e42aeb7bd4fb1e15ece686ed2ba94fa565727e40d5d0f2604a8796fc9cf",
+          "gabaritoSha256": "ab3f931fa6724f7776d83535e92592fb67113daf35eb968234e8a2b0716a0e4a",
+          "provaUrl": "https://www.ifsc.edu.br/documents/d/ingresso/2023-2-ec-int-prova-titular",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/d/ingresso/gabarito-oficial-2023-2-prova-titular"
+        }
+      }
+    },
+    "ifsc-2020-1-q003": {
+      "originalFingerprint": "5242e0b0757918eb4088a384d058c2a42835e3ec37ad4fef896af642875bf51d",
+      "resultFingerprint": "95da7e80485724cb002441ac2d57141a9f4744e5fc4628b25b833dbccdfbb9f0",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "A Federação Internacional de Atletismo – IAAF divulgou, no início do ano de 2019, os índices olímpicos para as Olimpíadas de Tokyo em 2020. O índice olímpico para a prova da Maratona Feminina, por exemplo, é de 2h29min30s. Assinale a alternativa que mais se aproxima deste índice olímpico, expresso apenas na unidade de tempo horas: Assinale a alternativa CORRETA.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2,5001h"
+          },
+          {
+            "letra": "B",
+            "texto": "2,4899h"
+          },
+          {
+            "letra": "C",
+            "texto": "2,4916h"
+          },
+          {
+            "letra": "D",
+            "texto": "2,2930h"
+          },
+          {
+            "letra": "E",
+            "texto": "2,5102h Exame de Classificação 2020.1 – Cursos Técnicos Integrados MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DIRETORIA DE ASSUNTOS ESTUDANTIS DEPARTAMENTO DE INGRESSO"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 4,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "689e05c1d51bbfa8fafe68eb113f0ca5a1d20e5f0104d76514eaaa620a10d749",
+          "gabaritoSha256": "27966e267681f29d6ad25f82b1724e6228472c4eeb5e06af54da3f6d335aa4a2",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/1761846/2020+1+INT++PROVA_FINAL-1.pdf/d6a1214c-bf1e-4a89-b5e4-463b3c6a9fe8",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/1761846/GABARITO+FINAL+2020.1.pdf/819227aa-5b98-49ee-b6b4-92d06d71c3b3"
+        }
+      }
+    },
+    "ifsc-2020-1-q009": {
+      "originalFingerprint": "2ea39eb4dee9852fbd21c847a772e680152ba79fc876a10b490e37c989b4e35c",
+      "resultFingerprint": "7b734bd3a968ba1cb89e11975c8f261037d0edd6a5c54b2e7f1683dffdd782f5",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Um triângulo ABC, retângulo em B possui catetos medindo (x−2) metros e (x+ 5) metros, com hipotenusa igual a ( x+7) metros. João percorrerá o caminho de A a C sobre os catetos e Maria também irá de A a C, mas pela hipotenusa. Assim, é correto afirmar que Maria fará um trajeto, em relação a João: Assinale a alternativa CORRETA.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "6 (seis) metros menor"
+          },
+          {
+            "letra": "B",
+            "texto": "4 (quatro) metros menor"
+          },
+          {
+            "letra": "C",
+            "texto": "de mesma distância"
+          },
+          {
+            "letra": "D",
+            "texto": "4 (quatro) metros maior"
+          },
+          {
+            "letra": "E",
+            "texto": "6 (seis) metros maior"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 10,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "689e05c1d51bbfa8fafe68eb113f0ca5a1d20e5f0104d76514eaaa620a10d749",
+          "gabaritoSha256": "27966e267681f29d6ad25f82b1724e6228472c4eeb5e06af54da3f6d335aa4a2",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/1761846/2020+1+INT++PROVA_FINAL-1.pdf/d6a1214c-bf1e-4a89-b5e4-463b3c6a9fe8",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/1761846/GABARITO+FINAL+2020.1.pdf/819227aa-5b98-49ee-b6b4-92d06d71c3b3"
+        }
+      }
+    },
+    "ifsc-2020-1-q010": {
+      "originalFingerprint": "65fd47f3cd3435913a8cd32016b70d7199bbb342a0d6d8a79d42d0e35a35ce32",
+      "resultFingerprint": "ff2cd3ceb082b78f21d3a44ad387566229a13c6e21ee96b542bfbcb46dba749e",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Na secretaria acadêmica de um campus do IFSC, no dia da matrícula dos alunos, 3 (três) colaboradores atenderam 80 (oitenta) alunos em 4 (quatro) horas. Se houvessem 4 (quatro) colaboradores atendendo os alunos no mesmo ritmo, quantas horas eles levariam para atender 160 (cento e sessenta) alunos? Assinale a alternativa CORRETA.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "3 (três) horas"
+          },
+          {
+            "letra": "B",
+            "texto": "5 (cinco) horas"
+          },
+          {
+            "letra": "C",
+            "texto": "6 (seis) horas"
+          },
+          {
+            "letra": "D",
+            "texto": "8 (oito) horas"
+          },
+          {
+            "letra": "E",
+            "texto": "9 (nove) horas Exame de Classificação 2020.1 – Cursos Técnicos Integrados MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DIRETORIA DE ASSUNTOS ESTUDANTIS DEPARTAMENTO DE INGRESSO P O R T U G U Ê S Leia o TEXTO I a seguir para responder às questões de 11 e 12. Sinopse - O Rei Leão O Rei Leão, da Disney, dirigido por Jon Favreau, retrata uma jornada pela savana africana, onde nasce o futuro rei da Pedra do Reino, Simba. O pequeno leão que idolatra seu pai, o rei Mufasa, é fiel ao seu destino de assumir o reinado. Mas nem todos no reino pensam da mesma maneira. Scar, irmão de Mufasa e ex-herdeiro do trono, tem seus próprios planos. A batalha pela Pedra do Reino é repleta de traição, eventos trágicos e drama, o que acaba resultando no exílio de Simba. Com a ajuda de dois novos e inusitados amigos, Simba terá que crescer e voltar para recuperar o que é seu por direito. Disponível em: https://www.cinepolis.com.br/filme/9848-o-rei-leao.html. Acesso em: 02 set5 2019"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 10,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "689e05c1d51bbfa8fafe68eb113f0ca5a1d20e5f0104d76514eaaa620a10d749",
+          "gabaritoSha256": "27966e267681f29d6ad25f82b1724e6228472c4eeb5e06af54da3f6d335aa4a2",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/1761846/2020+1+INT++PROVA_FINAL-1.pdf/d6a1214c-bf1e-4a89-b5e4-463b3c6a9fe8",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/1761846/GABARITO+FINAL+2020.1.pdf/819227aa-5b98-49ee-b6b4-92d06d71c3b3"
+        }
+      }
+    },
+    "ifsc-2019-1-q009": {
+      "originalFingerprint": "e9272a8e3612b3b327d9cbee476fc829e88825e622a3d1b834d3a3441b3bf67d",
+      "resultFingerprint": "59c939c597c24913c88f4aa2b27434644e2aee78f44a0906b9e5d4a580c7842b",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Quatro pedreiros, trabalhando 8 horas por dia, constroem 15m de muro em 5 dias. Sabendo-se que todos os pedreiros trabalham no mesmo ritmo e que dois pedreiros adoeceram e se ausentaram do trabalho, quantos dias serão necessários para construir 18m de muro, trabalhando-se 6 horas por dia:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "16 dias"
+          },
+          {
+            "letra": "B",
+            "texto": "15 dias"
+          },
+          {
+            "letra": "C",
+            "texto": "14 dias"
+          },
+          {
+            "letra": "D",
+            "texto": "13 dias"
+          },
+          {
+            "letra": "E",
+            "texto": "12 dias Exame de Classificação 2019.1 – Cursos Técnicos Integrados MINISTÉRIO DA EDUCAÇÃO 9 INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DIRETORIA DE ASSUNTOS ESTUDANTIS DEPARTAMENTO DE INGRESSO"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 9,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "4b0b102e9f3bcc612d97ca0fb1a463be26f010daf7752de7bf0a43e332268da6",
+          "gabaritoSha256": "248f216074a4e24b2f1defce392ff75525d04cfd5eb263e5267d3258dd64b282",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/1101478/2019+1+INT++-+PROVA.pdf/4f0f072a-a407-2210-39ae-74d9d44f7107",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/1101478/GABARITO+FINAL++2019+1+ec.pdf/4c11a84f-0ab7-2b74-6470-7a7911215f9f"
+        }
+      }
+    },
+    "ifsc-2019-1-q018": {
+      "originalFingerprint": "2076da46f6a537542ebe6f5c404bd8b902ae5e24d4683ef3d4a21bee0a5e2c06",
+      "resultFingerprint": "473e6cb96b93e98ba4e515fae92b015ddf88ff2d79d4e5a09e22c157e238c386",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Leia com atenção as alternativas a seguir, considerando V (verdadeiro) ou F (falso): I. Em: “Durante a campanha de Donald Trump à Presidência, o tema da migração ga- nhou destaque com o então candidato...” (linhas 5-6), os termos sublinhados são substantivos. II. Em: “Corporações de países ricos ou em desenvolvimento superexploram territórios na periferia do mundo ou seus governos promovem conflitos armados em nome de recursos naturais ou de interesses geopolíticos” (linhas 10-12), os termos sublinhados são adjetivos. III. Em: “Qualquer pessoa que estuda migração sabe que esse fluxo de gente tem sido fundamental para a economia do centro rico” (linhas 20-21), os termos sublinhados são advérbios. IV. Em: “Os migrantes estrangeiros vêm buscar oportunidades de vida que não são en- contradas em seu país, fugindo de guerras ou de desastres naturais” (linhas 43-45), todos os termos sublinhados pertencem à classe gramatical denominada: preposição. V. Em: “E há jovens brasileiros de classes mais baixas que não querem ser costureiros ou empregadas domésticas” (linhas 48-50), todos os termos sublinhas pertencem à classe gramatical denominada verbo. Assinale a alternativa CORRETA:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "V, V, V, V, V."
+          },
+          {
+            "letra": "B",
+            "texto": "V, F, F, F, F."
+          },
+          {
+            "letra": "C",
+            "texto": "V, V, F, F, V."
+          },
+          {
+            "letra": "D",
+            "texto": "F, F, F, V, V."
+          },
+          {
+            "letra": "E",
+            "texto": "F, V, V, F, F. Exame de Classificação 2019.1 – Cursos Técnicos Integrados MINISTÉRIO DA EDUCAÇÃO 18 INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DIRETORIA DE ASSUNTOS ESTUDANTIS DEPARTAMENTO DE INGRESSO"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 18,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "4b0b102e9f3bcc612d97ca0fb1a463be26f010daf7752de7bf0a43e332268da6",
+          "gabaritoSha256": "248f216074a4e24b2f1defce392ff75525d04cfd5eb263e5267d3258dd64b282",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/1101478/2019+1+INT++-+PROVA.pdf/4f0f072a-a407-2210-39ae-74d9d44f7107",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/1101478/GABARITO+FINAL++2019+1+ec.pdf/4c11a84f-0ab7-2b74-6470-7a7911215f9f"
+        }
+      }
+    },
+    "ifsc-2019-1-q019": {
+      "originalFingerprint": "83eac2147a5655e2f1b4feafbc69da356e3bd85a6dd9b7c32046b32ed2c37c3f",
+      "resultFingerprint": "60cbad207eae0cadbf462193cd24d5829525849b2bc5e99b31da05c0203a6960",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Leia o glossário que segue: Migrante: termo genérico empregado para designar qualquer pessoa que se desloque do país ou da região onde nasceu. Emigrante: designa aquele que deixa seu local de nascimento para viver em outro país, região ou estado. Imigrante: migrante que entra em determinado país ou região para ali viver. Imigrantes ilegais são pessoas que imigram informalmente, em busca de melhores condições de vida, sem atender às exigências da legislação do país a que chegam. Refugiado: Constitui um tipo especial de migrante - pessoas que deixam seu país ou região de origem devido à perseguição política, religiosa ou étnica, a conflitos armados, ou por violação dos direitos humanos. O governo do país que recebe esses migrantes é quem reconhece, em documento oficial, o status de refugiado. Fonte: Dicionário Houaiss, 2001. Adaptado. Assinale a alternativa CORRETA.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Os vocábulos “imigrante” e “emigrante” são formados pelo processo de justaposição."
+          },
+          {
+            "letra": "B",
+            "texto": "As palavras “migrante”, “emigrante” e “imigrante” são formadas a partir do mesmo radical."
+          },
+          {
+            "letra": "C",
+            "texto": "Os vocábulos “emigrante” e “imigrante” são formados pelo processo de sufixação."
+          },
+          {
+            "letra": "D",
+            "texto": "A palavra “refugiado” é formada por prefixação."
+          },
+          {
+            "letra": "E",
+            "texto": "A palavra “refugiado” é formada por redução vocabular. Exame de Classificação 2019.1 – Cursos Técnicos Integrados MINISTÉRIO DA EDUCAÇÃO 19 INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DIRETORIA DE ASSUNTOS ESTUDANTIS DEPARTAMENTO DE INGRESSO"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 19,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "4b0b102e9f3bcc612d97ca0fb1a463be26f010daf7752de7bf0a43e332268da6",
+          "gabaritoSha256": "248f216074a4e24b2f1defce392ff75525d04cfd5eb263e5267d3258dd64b282",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/1101478/2019+1+INT++-+PROVA.pdf/4f0f072a-a407-2210-39ae-74d9d44f7107",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/1101478/GABARITO+FINAL++2019+1+ec.pdf/4c11a84f-0ab7-2b74-6470-7a7911215f9f"
+        }
+      }
+    },
+    "ifsc-2018-2-q006": {
+      "originalFingerprint": "e3cfe7e5d98db0e8035e7f448765f90b36520c182fdf494457f9514da845ae18",
+      "resultFingerprint": "c0ca5eac21d049aefd52131235c787c5df1d8ac7223cd95fd28eba964387abd7",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Sobre as expressões numéricas I) 5 & 23 \u001d 4 \u001f 75 ; é CORRETO afirmar que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o resultado da expressão I é 80."
+          },
+          {
+            "letra": "B",
+            "texto": "apresentam resultados iguais porque envolvem os mesmos números e as mesmas operações."
+          },
+          {
+            "letra": "C",
+            "texto": "o resultado da expressão I é maior que o resultado da expressão II."
+          },
+          {
+            "letra": "D",
+            "texto": "o resultado da expressão I é menor que o resultado da expressão II."
+          },
+          {
+            "letra": "E",
+            "texto": "o resultado da expressão II é 106."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 8,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+          "gabaritoSha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/916666/PROVA+CORRETA+-+PUBLICAR.pdf/edf1387f-5d9e-b7f1-ea79-106c59115df8",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/916666/GABARITO+DEFINITIVO+2018+2.pdf/712b5cde-5af2-2e88-cd02-6a7b02e2f62c"
+        }
+      }
+    },
+    "ifsc-2018-2-q007": {
+      "originalFingerprint": "234cdbcc33ad28f9b7f1e22c02e23b288ed120bc34e2ed9cdfb1ebecc1f175df",
+      "resultFingerprint": "a947cf5eebd135fc64cbc385d3d2bf078230c80f2d0d5032178f762955d3c0c8",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "No mês em que entra em férias, um trabalhador recebe como salário bruto o valor do seu vencimento mensal e mais 1/3 des receberá como salário bruto de férias um trabalhador cujo vencimen R$1.080,72?",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "R$1.440,96"
+          },
+          {
+            "letra": "B",
+            "texto": "R$ 360,24"
+          },
+          {
+            "letra": "C",
+            "texto": "R$ 1.340,86"
+          },
+          {
+            "letra": "D",
+            "texto": "R$ 1.240,96"
+          },
+          {
+            "letra": "E",
+            "texto": "R$ 3.242,16 MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO Exame de Classificação 2018.2 – Cursos Técnicos Integrados Sobre as expressões numéricas ; 15 e II) \"5 & 23% \u001d 4 \u001f 75 ; o resultado da expressão I é 80. apresentam resultados iguais porque envolvem os mesmos números e as mesmas o resultado da expressão I é maior que o resultado da expressão II. o resultado da expressão I é menor que o resultado da expressão II. essão II é 106. o mês em que entra em férias, um trabalhador recebe como salário bruto o valor do seu vencimento mensal e mais 1/3 desse vencimento como gratificação. Q receberá como salário bruto de férias um trabalhador cujo vencimen MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA 6 Cursos Técnicos Integrados ; 15 apresentam resultados iguais porque envolvem os mesmos números e as mesmas o resultado da expressão I é menor que o resultado da expressão II. o mês em que entra em férias, um trabalhador recebe como salário bruto o valor do se vencimento como gratificação. Quanto receberá como salário bruto de férias um trabalhador cujo vencimento mensal é Exame de Classificação 2018.2"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 8,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+          "gabaritoSha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/916666/PROVA+CORRETA+-+PUBLICAR.pdf/edf1387f-5d9e-b7f1-ea79-106c59115df8",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/916666/GABARITO+DEFINITIVO+2018+2.pdf/712b5cde-5af2-2e88-cd02-6a7b02e2f62c"
+        }
+      }
+    },
+    "ifsc-2018-2-q008": {
+      "originalFingerprint": "45d66c26675b88fc4c7062280f87f7de18aac04b6d68200477d0cab02319ee86",
+      "resultFingerprint": "2affc790f54725eefce9dde03833947f4f22f9096806e0a6550360499d957a46",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Pretende-se encher uma caixa em forma de cubo, com 80cm de aresta, utilizando caixas menores em forma de paralelepípedo retângulo, cujas dimensões são 4cmx2cmx8cm. Sobre essa situação é CORRETO",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "se forem colocadas 6.000 caixas em forma de paralelepípedo, met caixa cúbica com 80cm de aresta não será preenchido."
+          },
+          {
+            "letra": "B",
+            "texto": "se forem colocadas 800 caixas em forma de paralelepípedo, será possível preencher totalmente o espaço da caixa cúbica com"
+          },
+          {
+            "letra": "C",
+            "texto": "se forem colocadas 600 caixas em forma de paralelepípedo, met caixa cúbica com 80cm de aresta"
+          },
+          {
+            "letra": "D",
+            "texto": "Serão necessárias 8.000 caixas em forma de paralelepí totalmente o espaço da caixa cúbica com"
+          },
+          {
+            "letra": "E",
+            "texto": "é impossível ter uma quantidade de caixas em forma de paralelepíp dimensões 4cmx2cmx8cm que preencha totalmente o e cúbica com 80cm de aresta. MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO Exame de Classificação 2018.2 – Cursos Técnicos Integrados er uma caixa em forma de cubo, com 80cm de aresta, utilizando caixas menores em forma de paralelepípedo retângulo, cujas dimensões são CORRETO afirmar que se forem colocadas 6.000 caixas em forma de paralelepípedo, metade do volume da 80cm de aresta não será preenchido. se forem colocadas 800 caixas em forma de paralelepípedo, será possível preencher ente o espaço da caixa cúbica com 80cm de aresta. se forem colocadas 600 caixas em forma de paralelepípedo, metade do volum caixa cúbica com 80cm de aresta será preenchido. 8.000 caixas em forma de paralelepípedo para ente o espaço da caixa cúbica com 80cm de aresta. é impossível ter uma quantidade de caixas em forma de paralelepíp dimensões 4cmx2cmx8cm que preencha totalmente o espaço interno da caixa 80cm de aresta. MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA 7 Cursos Técnicos Integrados er uma caixa em forma de cubo, com 80cm de aresta, utilizando-se caixas menores em forma de paralelepípedo retângulo, cujas dimensões são ade do volume da se forem colocadas 800 caixas em forma de paralelepípedo, será possível preencher ade do volume da pedo para preencher é impossível ter uma quantidade de caixas em forma de paralelepípedo de spaço interno da caixa Exame de Classificação 2018.2"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 9,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+          "gabaritoSha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/916666/PROVA+CORRETA+-+PUBLICAR.pdf/edf1387f-5d9e-b7f1-ea79-106c59115df8",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/916666/GABARITO+DEFINITIVO+2018+2.pdf/712b5cde-5af2-2e88-cd02-6a7b02e2f62c"
+        }
+      }
+    },
+    "ifsc-2018-2-q009": {
+      "originalFingerprint": "fe70f3a9b7e40ec56f35facebf5d96d76578fde80fd9c9d16e823a4995d4ea5d",
+      "resultFingerprint": "0a0f4d5ecd40ce1ababfb2f2792a7c8d5fad9611693bc0c3e6343c3f5ee5d3d3",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Para ir de sua casa até a escola, Lucas percorre outra parte do trajeto de ônibus. O tempo total que Lucas leva para se deslocar de casa até a escola é de 1 hora e 12 minutos do tempo do deslocamento que ele faz de ônibus. Nessas condições, para se deslocar de casa até a escola, é Lucas gasta",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "24 minutos caminhando e 48 minutos viajando de ônibus."
+          },
+          {
+            "letra": "B",
+            "texto": "18 minutos caminhando e 54 minutos viajando de ônibus."
+          },
+          {
+            "letra": "C",
+            "texto": "12 minutos caminhando e 1"
+          },
+          {
+            "letra": "D",
+            "texto": "20 minutos caminhando e 52 minutos viajando de ônibus."
+          },
+          {
+            "letra": "E",
+            "texto": "15 minutos caminhando e 45 minutos viajando de ônibus."
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 10,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+          "gabaritoSha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/916666/PROVA+CORRETA+-+PUBLICAR.pdf/edf1387f-5d9e-b7f1-ea79-106c59115df8",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/916666/GABARITO+DEFINITIVO+2018+2.pdf/712b5cde-5af2-2e88-cd02-6a7b02e2f62c"
+        }
+      }
+    },
+    "ifsc-2018-2-q011": {
+      "originalFingerprint": "1af19a6b35d719a36a0925a43f08398bf4221e8eebfa1cfa23ea69dcd5329b3a",
+      "resultFingerprint": "b4dde99c321c19050b6bf1e17fa614c3e894c9897457cc6a35bf7c8fd109ca6e",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Analise o que está sublinhado nos excertos a seguir. “As famílias são apontadas pelos brasileiros como principais responsáveis por ensinar os valores. A transmissão desses conceitos, dinâmicas estruturas familiares, pois o afeto é um ponto nevrálgico.” “Existem novas dificuldades a ser superadas em cada caso, como por exemplo, a gravidez precoce”, afirma. No entanto dos pais não implica em dificuldade para transmissão dos valores. Assinale a alternativa CORRETA Contudo e no entanto poderiam ser substituídos, respectivamente, sem que houvesse alteração de sentido, por",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "porque, à medida que"
+          },
+          {
+            "letra": "B",
+            "texto": "pois, logo"
+          },
+          {
+            "letra": "C",
+            "texto": "todavia, embora"
+          },
+          {
+            "letra": "D",
+            "texto": "entretanto, porém"
+          },
+          {
+            "letra": "E",
+            "texto": "portanto, mesmo que MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO Exame de Classificação 2018.2 – Cursos Técnicos Integrados Analise o que está sublinhado nos excertos a seguir. As famílias são apontadas pelos brasileiros como principais responsáveis por ensinar os valores. A transmissão desses conceitos, contudo, independe das diversas e dinâmicas estruturas familiares, pois o afeto é um ponto nevrálgico.” (linhas 8 novas dificuldades a ser superadas em cada caso, como por exemplo, a No entanto, o fato de uma criança ser criada sem a presença dos pais não implica em dificuldade para transmissão dos valores.” (linhas 14 CORRETA. poderiam ser substituídos, respectivamente, sem que houvesse MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA 10 Cursos Técnicos Integrados As famílias são apontadas pelos brasileiros como principais responsáveis por ensinar , independe das diversas e (linhas 8 -10) novas dificuldades a ser superadas em cada caso, como por exemplo, a , o fato de uma criança ser criada sem a presença ” (linhas 14-17) poderiam ser substituídos, respectivamente, sem que houvesse Exame de Classificação 2018.2"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 12,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+          "gabaritoSha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/916666/PROVA+CORRETA+-+PUBLICAR.pdf/edf1387f-5d9e-b7f1-ea79-106c59115df8",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/916666/GABARITO+DEFINITIVO+2018+2.pdf/712b5cde-5af2-2e88-cd02-6a7b02e2f62c"
+        }
+      }
+    },
+    "ifsc-2018-2-q012": {
+      "originalFingerprint": "52b35cd7db07d11047ded09f13d19b67c809ae3a587ac91b787aa603195ae65d",
+      "resultFingerprint": "06cef9566675398781f0e6b9187f0d8d31ea3a6c14024ca61e14150280801f3d",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Leia com atenção as afirmativas a seguir, a respeito do Relatório de Desenvolvimento Humano 2010. I. A família exerce grande influência na transmissão de valores aos filhos. II. A transmissão dos valores aos filhos está condicionada à estrutu III.O mais importante para a transmissão de valores é a estrutura da organização familiar. IV. O mais importante para a transmissão de valores é a afetividade. Assinale a alternativa CORRETA",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Apenas II e III são verdadeiras."
+          },
+          {
+            "letra": "B",
+            "texto": "Apenas I é verdadeira."
+          },
+          {
+            "letra": "C",
+            "texto": "Apenas I e IV são verdadeiras."
+          },
+          {
+            "letra": "D",
+            "texto": "Apenas III e IV são verdadeiras."
+          },
+          {
+            "letra": "E",
+            "texto": "Todas são verdadeiras. MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO Exame de Classificação 2018.2 – Cursos Técnicos Integrados Leia com atenção as afirmativas a seguir, a respeito do Relatório de Desenvolvimento A família exerce grande influência na transmissão de valores aos filhos. . A transmissão dos valores aos filhos está condicionada à estrutura familiar tradicional. .O mais importante para a transmissão de valores é a estrutura da organização . O mais importante para a transmissão de valores é a afetividade. CORRETA. Apenas II e III são verdadeiras. Apenas I e IV são verdadeiras. Apenas III e IV são verdadeiras. MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA 11 Cursos Técnicos Integrados Leia com atenção as afirmativas a seguir, a respeito do Relatório de Desenvolvimento A família exerce grande influência na transmissão de valores aos filhos. ra familiar tradicional. .O mais importante para a transmissão de valores é a estrutura da organização Exame de Classificação 2018.2"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 13,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+          "gabaritoSha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/916666/PROVA+CORRETA+-+PUBLICAR.pdf/edf1387f-5d9e-b7f1-ea79-106c59115df8",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/916666/GABARITO+DEFINITIVO+2018+2.pdf/712b5cde-5af2-2e88-cd02-6a7b02e2f62c"
+        }
+      }
+    },
+    "ifsc-2018-2-q014": {
+      "originalFingerprint": "432f96efcf10f8a11bc1b05a642830bb74e77b24c1a281e1870efa36db4c52b7",
+      "resultFingerprint": "894baf8397cdbe2fa332890a6f255b9ff4af1f6c657f9e4f224dcf49dda4651b",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Considere as seguintes afirmações quanto à classe das palavras sublinhadas e marque (V) para as que forem verdadeiras e ( ( ) Em “ As famílias são apontadas pelos brasileiros como responsáveis por ensinar os valores.” (linhas 8 e 9), as palavras em destaque são substantivos. ( )Em “ Quando se analisa o cada um.” (linhas 25-26), as palavras em destaque são preposições. ( ) Em “Existem novas dificuldades a gravidez precoce.” (linhas 14 ( ) Em “As novas famílias integram a realidade brasileira, de modo que a Lei da Adoção já valoriza o conceito de família estendida.” (linhas 35 são pronomes. ( ) Em “A nova organização familiar, contudo, não se brasileiros temerem a violência dentro de casa.” (linhas 6 destaque são verbos. Assinale a alternativa que contém a sequência baixo.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "V, F, F, F, V."
+          },
+          {
+            "letra": "B",
+            "texto": "V, V, F, V, F."
+          },
+          {
+            "letra": "C",
+            "texto": "F, F, F, V, V."
+          },
+          {
+            "letra": "D",
+            "texto": "V, F, V, F, F."
+          },
+          {
+            "letra": "E",
+            "texto": "F, V, V, F, V. MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO Exame de Classificação 2018.2 – Cursos Técnicos Integrados Considere as seguintes afirmações quanto à classe das palavras sublinhadas e marque ) para as que forem verdadeiras e (F) para as que forem falsas. são apontadas pelos brasileiros como responsáveis por ensinar os .” (linhas 8 e 9), as palavras em destaque são substantivos. o ser humano, vê-se mais de perto as particularidades de 26), as palavras em destaque são preposições. dificuldades a ser superadas em cada caso, como por exemplo, .” (linhas 14-15), as palavras em destaque são adjetivos. novas famílias integram a realidade brasileira, de modo que a Lei da Adoção conceito de família estendida.” (linhas 35-36), as palavras em destaque Em “A nova organização familiar, contudo, não se relaciona com o fato de 23% dos a violência dentro de casa.” (linhas 6-7), as palavras em Assinale a alternativa que contém a sequência CORRETA das respostas, de cima para MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA 13 Cursos Técnicos Integrados Considere as seguintes afirmações quanto à classe das palavras sublinhadas e marque são apontadas pelos brasileiros como responsáveis por ensinar os .” (linhas 8 e 9), as palavras em destaque são substantivos. mais de perto as particularidades de 26), as palavras em destaque são preposições. a ser superadas em cada caso, como por exemplo, adjetivos. novas famílias integram a realidade brasileira, de modo que a Lei da Adoção 36), as palavras em destaque com o fato de 23% dos 7), as palavras em das respostas, de cima para Exame de Classificação 2018.2"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 15,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "873cfb5d750ad7a8f2ab445bba3c39b6ace12d1775281454dd1ae270807253e7",
+          "gabaritoSha256": "a59d53caea03c5fe4a62e37404ec5b55af83b32e0909e647b9ce68190470b60b",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/916666/PROVA+CORRETA+-+PUBLICAR.pdf/edf1387f-5d9e-b7f1-ea79-106c59115df8",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/916666/GABARITO+DEFINITIVO+2018+2.pdf/712b5cde-5af2-2e88-cd02-6a7b02e2f62c"
+        }
+      }
+    },
+    "ifsc-2018-1-q001": {
+      "originalFingerprint": "09f8634c652eaf9487ffac41f1a8549c77009a63822791b2d8542215cbdcbe3b",
+      "resultFingerprint": "538907cdc75a812dd52ae5a89d0905f4bd83cb31284d2314d0d5e9e709c61161",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "A tela de proteção para janelas é um acessório útil para garantir segurança em uma residência. Telas ou redes são comumente instaladas em janelas de prédios onde moram crianças ou animais de estimação. Sabendo da importância de prezar pela segurança da família, Sr. João decide instalar, em cada janela de seu apartamento, uma tela retangular com área 18.000 cm 2 , cuja altura mede \u0000 \u0000 do seu comprimento. Quais são as dimensões, em centímetros, dessa tela? Assinale a alternativa CORRETA.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "200 e 160"
+          },
+          {
+            "letra": "B",
+            "texto": "120 e 96"
+          },
+          {
+            "letra": "C",
+            "texto": "150 e 100"
+          },
+          {
+            "letra": "D",
+            "texto": "100 e 80"
+          },
+          {
+            "letra": "E",
+            "texto": "150 e 120 MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO 2 Exame de Classificação 2018.1 – Cursos Técnicos Integrados"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 3,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "29f31c065daab4f2b8f0088ac8f684b0a2d6b03c7395061c46b1da74b64d06e0",
+          "gabaritoSha256": "3b7f149933254cacbca174c8e6872ed8df49474048b2401c0cee3bf8d52b96ea",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/826702/20181-Prova.pdf/524c2e24-5be1-2933-aacb-f686f031172a",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/826702/GABARITO_final_20181.pdf/a76edec7-5fb9-45be-9d14-3e77f54471d4"
+        }
+      }
+    },
+    "ifsc-2018-1-q006": {
+      "originalFingerprint": "58ee321f71dddac0b3bcb01c0501461a969ab1648299d6e89078d9298c73a22a",
+      "resultFingerprint": "4a75bfaa5bad6c8868438481ddb53e22fea83a44fc60372918529ac9993bce08",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Uma caixa de leite de determinada marca possui 22 \u0000\u0000 de altura e perímetro da base medindo 28\u0000\u0000. Sabendo-se que a base da caixa é formada por um quadrado, calcule a quantidade de papel necessária, em \u0000\u0000 \u0000 , para confeccionar a caixa, desprezando-se as dobras. Assinale a alternativa CORRETA.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "600"
+          },
+          {
+            "letra": "B",
+            "texto": "665"
+          },
+          {
+            "letra": "C",
+            "texto": "714"
+          },
+          {
+            "letra": "D",
+            "texto": "564"
+          },
+          {
+            "letra": "E",
+            "texto": "832 MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO 6 Exame de Classificação 2018.1 – Cursos Técnicos Integrados"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 7,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "29f31c065daab4f2b8f0088ac8f684b0a2d6b03c7395061c46b1da74b64d06e0",
+          "gabaritoSha256": "3b7f149933254cacbca174c8e6872ed8df49474048b2401c0cee3bf8d52b96ea",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/826702/20181-Prova.pdf/524c2e24-5be1-2933-aacb-f686f031172a",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/826702/GABARITO_final_20181.pdf/a76edec7-5fb9-45be-9d14-3e77f54471d4"
+        }
+      }
+    },
+    "ifsc-2018-1-q009": {
+      "originalFingerprint": "e90efa09063b3ba919f6b372f8f3c36167ca352469988794a9f576df7e551671",
+      "resultFingerprint": "b55083f0da2f31486ef2fe44bc7dc7db86b41b1398b3c9fb5bb98cfac05974d6",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Resolva a expressão numérica \u0000\u00002 3\u0000 \u0000 \u00005 4 − 1 2\u0000\u0000 + 2 5 ÷ 3 10 Assinale a alternativa CORRETA. Qual o resultado da expressão, em sua forma irredutível (mais simplificada possível)?",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "5/3"
+          },
+          {
+            "letra": "B",
+            "texto": "10/6"
+          },
+          {
+            "letra": "C",
+            "texto": "260/123"
+          },
+          {
+            "letra": "D",
+            "texto": "90/54"
+          },
+          {
+            "letra": "E",
+            "texto": "12/25 MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO 9 Exame de Classificação 2018.1 – Cursos Técnicos Integrados"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 10,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "29f31c065daab4f2b8f0088ac8f684b0a2d6b03c7395061c46b1da74b64d06e0",
+          "gabaritoSha256": "3b7f149933254cacbca174c8e6872ed8df49474048b2401c0cee3bf8d52b96ea",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/826702/20181-Prova.pdf/524c2e24-5be1-2933-aacb-f686f031172a",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/826702/GABARITO_final_20181.pdf/a76edec7-5fb9-45be-9d14-3e77f54471d4"
+        }
+      }
+    },
+    "ifsc-2017-1-q007": {
+      "originalFingerprint": "79bef6c4456b8d1f5341b70928174bb4cd90b1855415f9545295fc61c215bd92",
+      "resultFingerprint": "bdcebbea793013dfc84dc20fc003aa5add60bc696a0d3dc7ea5a45b8c1bcc190",
+      "source": {
+        "file": "src/data/ifsc-exams.json",
+        "sha256": "2c6483aaa303771acc3a8c4cc22d18afa63a00e2c830ef1760d0cdf0d1fc029f"
+      },
+      "updates": {
+        "enunciado": "Uma cooperativa de Santa Catarina recebe, por mês, certa quantidade de matéria- prima para produzir ração. A quantidade de ração produzida equivale a 20% do total da matéria-prima recebida. Sabendo-se que 1 tonelada corresponde a 1.000 Kg, qual a quantidade de matéria- prima, em Kg, que será necessária para produzir 150 toneladas de ração? Assinale a alternativa CORRETA.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "150 000 kg."
+          },
+          {
+            "letra": "B",
+            "texto": "750 kg."
+          },
+          {
+            "letra": "C",
+            "texto": "300 kg."
+          },
+          {
+            "letra": "D",
+            "texto": "300 000 kg."
+          },
+          {
+            "letra": "E",
+            "texto": "750 000 kg. MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE SANTA CATARINA 7 PRÓ-REITORIA DE ENSINO DEPARTAMENTO DE INGRESSO Exame de Classificação 2017.1 – Cursos Técnicos Integrados e Concomitantes"
+          }
+        ],
+        "proveniencia": {
+          "extracaoValidada": true,
+          "gabaritoConferido": true,
+          "pagina": 8,
+          "metodo": "Conferência offline: hashes + versão integral do gabarito + bloco textual e alternativas ordenadas",
+          "provaSha256": "72be95701d65b77707d5ba2656fa025d08225f3c77bf2282c128a130f85ca918",
+          "gabaritoSha256": "b4ebfb59188643e3dc19b1b6f94cb17f2c468fa200e26e745837a1cce1bfb441",
+          "provaUrl": "https://www.ifsc.edu.br/documents/177207/826711/PROVA_INTEGRADO_VersaoFinal.pdf/e35af3db-0aef-1718-f32b-430be2d95957",
+          "gabaritoUrl": "https://www.ifsc.edu.br/documents/177207/826711/Gabarito_Definitivo_INTeCONC_ED0120171.pdf/4b640dbe-e8d1-b423-3cdf-28224e751eae"
+        }
+      }
     }
   }
 }

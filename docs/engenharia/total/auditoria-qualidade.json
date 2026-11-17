@@ -5,8 +5,8 @@
     "nivel-2-resolucao-comentada": 0
   },
   "questoes": {
-    "nivel-0-quarentena": 16013,
-    "nivel-1-gabarito-oficial": 262,
+    "nivel-0-quarentena": 15965,
+    "nivel-1-gabarito-oficial": 310,
     "nivel-2-resolucao-comentada": 24
   },
   "motivosRetencaoCadernos": {
@@ -7292,10 +7292,8 @@
     },
     {
       "id": "etec-2023-2-q032",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2023-2-q033",
@@ -7563,10 +7561,8 @@
     },
     {
       "id": "etec-2023-1-q016",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2023-1-q017",
@@ -8171,10 +8167,8 @@
     },
     {
       "id": "etec-2020-1-q001",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2020-1-q002",
@@ -8207,10 +8201,8 @@
     },
     {
       "id": "etec-2020-1-q006",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2020-1-q007",
@@ -8324,10 +8316,8 @@
     },
     {
       "id": "etec-2020-1-q021",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2020-1-q022",
@@ -8395,10 +8385,8 @@
     },
     {
       "id": "etec-2020-1-q030",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2020-1-q031",
@@ -9487,10 +9475,8 @@
     },
     {
       "id": "etec-2018-2-q012",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2018-2-q013",
@@ -9548,10 +9534,8 @@
     },
     {
       "id": "etec-2018-2-q019",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2018-2-q020",
@@ -9617,10 +9601,8 @@
     },
     {
       "id": "etec-2018-2-q028",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2018-2-q029",
@@ -9634,17 +9616,13 @@
     },
     {
       "id": "etec-2018-2-q030",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2018-2-q031",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2018-2-q032",
@@ -9734,17 +9712,13 @@
     },
     {
       "id": "etec-2018-2-q042",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2018-2-q043",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2018-2-q044",
@@ -10270,10 +10244,8 @@
     },
     {
       "id": "etec-2017-2-q001",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2017-2-q002",
@@ -10409,10 +10381,8 @@
     },
     {
       "id": "etec-2017-2-q017",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2017-2-q018",
@@ -10483,10 +10453,8 @@
     },
     {
       "id": "etec-2017-2-q025",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2017-2-q026",
@@ -10671,10 +10639,8 @@
     },
     {
       "id": "etec-2017-2-q046",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2017-2-q047",
@@ -11696,10 +11662,8 @@
     },
     {
       "id": "etec-2016-1-q012",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2016-1-q013",
@@ -11977,10 +11941,8 @@
     },
     {
       "id": "etec-2016-1-q047",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2016-1-q048",
@@ -14276,10 +14238,8 @@
     },
     {
       "id": "etec-2013-1-q015",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2013-1-q016",
@@ -17404,10 +17364,8 @@
     },
     {
       "id": "etec-2010-1-q016",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2010-1-q017",
@@ -18564,10 +18522,8 @@
     },
     {
       "id": "etec-2009-1-extra1-q001",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2009-1-extra1-q002",
@@ -18749,10 +18705,8 @@
     },
     {
       "id": "etec-2009-1-extra1-q025",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2009-1-extra1-q026",
@@ -18783,10 +18737,8 @@
     },
     {
       "id": "etec-2009-1-extra1-q029",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "etec-2009-1-extra1-q030",
@@ -28128,10 +28080,8 @@
     },
     {
       "id": "ifsc-2026-2-q024",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2026-2-q025",
@@ -28256,10 +28206,8 @@
     },
     {
       "id": "ifsc-2026-1-q011",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2026-1-q012",
@@ -28771,10 +28719,8 @@
     },
     {
       "id": "ifsc-2025-1-q010",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2025-1-q011",
@@ -28900,10 +28846,8 @@
     },
     {
       "id": "ifsc-2025-1-q024",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2025-1-q025",
@@ -29286,10 +29230,8 @@
     },
     {
       "id": "ifsc-2024-1-q010",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2024-1-q011",
@@ -29495,10 +29437,8 @@
     },
     {
       "id": "ifsc-2024-1-itajai-q011",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2024-1-itajai-q012",
@@ -29703,10 +29643,8 @@
     },
     {
       "id": "ifsc-2023-2-q013",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2023-2-q014",
@@ -30224,10 +30162,8 @@
     },
     {
       "id": "ifsc-2020-1-q003",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2020-1-q004",
@@ -30272,17 +30208,13 @@
     },
     {
       "id": "ifsc-2020-1-q009",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2020-1-q010",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2020-1-q011",
@@ -30633,10 +30565,8 @@
     },
     {
       "id": "ifsc-2019-1-q009",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2019-1-q010",
@@ -30698,17 +30628,13 @@
     },
     {
       "id": "ifsc-2019-1-q018",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2019-1-q019",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2019-1-q020",
@@ -30772,31 +30698,23 @@
     },
     {
       "id": "ifsc-2018-2-q006",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2018-2-q007",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2018-2-q008",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2018-2-q009",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2018-2-q010",
@@ -30807,17 +30725,13 @@
     },
     {
       "id": "ifsc-2018-2-q011",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2018-2-q012",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2018-2-q013",
@@ -30828,10 +30742,8 @@
     },
     {
       "id": "ifsc-2018-2-q014",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2018-2-q015",
@@ -30884,10 +30796,8 @@
     },
     {
       "id": "ifsc-2018-1-q001",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2018-1-q002",
@@ -30921,10 +30831,8 @@
     },
     {
       "id": "ifsc-2018-1-q006",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2018-1-q007",
@@ -30940,10 +30848,8 @@
     },
     {
       "id": "ifsc-2018-1-q009",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2018-1-q010",
@@ -31206,10 +31112,8 @@
     },
     {
       "id": "ifsc-2017-1-q007",
-      "nivelQualidade": "nivel-0-quarentena",
-      "motivos": [
-        "gabarito-sem-conferencia-documentada"
-      ]
+      "nivelQualidade": "nivel-1-gabarito-oficial",
+      "motivos": []
     },
     {
       "id": "ifsc-2017-1-q008",

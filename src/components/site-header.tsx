@@ -58,7 +58,7 @@ export function SiteHeader() {
           ))}
         </nav>
         <Link href="/login" className="gb-login">
-          Entrar <span aria-hidden="true">↗</span>
+          Entrar <span aria-hidden="true">→</span>
         </Link>
         <button
           type="button"

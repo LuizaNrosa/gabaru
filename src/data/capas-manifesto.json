@@ -1,549 +1,552 @@
 {
   "palette": {
-    "paper": "#f8f8f2",
-    "ink": "#123d35",
-    "stamp": "#c8501e"
+    "paper": "#f6f2e9",
+    "ink": "#1c1e1b",
+    "forest": "#2e3f38",
+    "ochre": "#be965e",
+    "stamp": "#b1251b",
+    "line": "#d5ccb8"
   },
   "generated": [
     {
       "file": "public/capas/livro-matematica.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "6feaa064e656e368e64878e0bdae131ab6711d4403e381e57b8d404e18bdb978"
+      "sha256": "33b10ded3e32a5bbc0d4bc3d86c1453e51215f505a2fe10230ebacaedc02d288"
     },
     {
       "file": "public/capas/social-livro-matematica.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "ea5f4a19f947a951a6ee78c27007eece04daf9112ad67eb2af282f319867f720"
+      "sha256": "aa4c9120868d79c5f03c00e1e16251e2d87fe39bb9060f210af97a32637bcfe8"
     },
     {
       "file": "public/capas/mini-livro-matematica.svg",
       "width": 320,
       "height": 452,
-      "sha256": "6d4da645ca2a7fdcf0bf00885ebcdfea82675832f74fc43924cbdf95992baf39"
+      "sha256": "c3dd26617a6d89e6543cf468d17adc85f9701f1e65b31bef5c4ae7db46f80f1c"
     },
     {
       "file": "public/capas/livro-fisica.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "9a093be9aae8ab97bb562de1f3f29db6f5374add7672ffb9a5d851ede58583b0"
+      "sha256": "08dfca28c5121ec48a9cf63d292f99a9bedff2cf05c2d66bcb5c0fee90ea77db"
     },
     {
       "file": "public/capas/social-livro-fisica.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "2c72ab006295b11069cb0ca585af5e171cf73d5aa58ede4bccc49c924c0260c0"
+      "sha256": "94a48bbe21b52344adfe7897a01db9a5f66281c9e82e531bd59ab8471f541a75"
     },
     {
       "file": "public/capas/mini-livro-fisica.svg",
       "width": 320,
       "height": 452,
-      "sha256": "67c628fa18a50267378827bcaede8ac6ad1d41237c42636bb2f15a30716a9d61"
+      "sha256": "2ddc20b4be24f54f70777a159e610fc1d77b24ac240ddd6577724b74c8e92335"
     },
     {
       "file": "public/capas/livro-portugues.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "d318281d5a410c5e2da68803dceb13ac8012ba4b99f981e268a02978d53afcf4"
+      "sha256": "07d1bfb2a88861acc263270f3c0ba79af98e72706527d9f81b85f59c592e673d"
     },
     {
       "file": "public/capas/social-livro-portugues.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "7f0e7e14a47d65f8ac29d23515fffa4348bb88d6d7d644df654ba7de3f25e1b2"
+      "sha256": "d0b319ae5449db253a6437fde34405c3eb47b14cd73a887837d4049bbb1f7765"
     },
     {
       "file": "public/capas/mini-livro-portugues.svg",
       "width": 320,
       "height": 452,
-      "sha256": "ae7beb232f198aec2d72ef036fcce4dee34559390909dd8d91136b0fd6a7749f"
+      "sha256": "665cb46af079ac8b8f29b06666e42c07c90f3264d6da442f7b91f464eaadd78b"
     },
     {
       "file": "public/capas/livro-biologia.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "19e49fe8034b1545f1f8311629558eaaff56e9fc97ebc947da3e8f9fa2aefbb0"
+      "sha256": "292790a29a4da5fae2908d9233fb0d4a07c706ab08845dd708b419da7974a428"
     },
     {
       "file": "public/capas/social-livro-biologia.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "7d7a667b0eb47d7dcbda97634246bd6c62db63e9b7c0121bba84c620a4062eac"
+      "sha256": "f313f83b6fb43ead726e59b4c73b1d29daca3b717e1f40afbfbf854ff1fe7e24"
     },
     {
       "file": "public/capas/mini-livro-biologia.svg",
       "width": 320,
       "height": 452,
-      "sha256": "c0a061cfa4d1b83e8e645d0ccf595a14f9a75ccb840ea8935f2cf42c6bf64642"
+      "sha256": "02f5fc07f59244061ff35746bf6d9dbedd765b57fc146a444864d9eac468484b"
     },
     {
       "file": "public/capas/livro-quimica.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "4d377d76aa4bd7221e7050866a68d8f08c4903ca191b289ecad2069febf0141e"
+      "sha256": "8787d6c66e76cbc536b53b06162171ea4cdf6260dc2cd0b5d8c4eef9d0e805c9"
     },
     {
       "file": "public/capas/social-livro-quimica.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "08de7769843e515e2f5ba17ed797a5bbfd6e50a85330c7d48961f50b59b05b14"
+      "sha256": "4e51088c3f230972bba891ad4d055860c39a5acb56729abbe842122eebd6558d"
     },
     {
       "file": "public/capas/mini-livro-quimica.svg",
       "width": 320,
       "height": 452,
-      "sha256": "76b721a142a0c904d10f040eff390220244c397afd296ec6f9c90ac62c5b0fa7"
+      "sha256": "efa243e34597f257b18622ff535ef507d0ee7384be49cb2a5829dfe582dd15da"
     },
     {
       "file": "public/capas/livro-historia.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "8b675c25985af8f4bf2721cc9c7f11c5d6c4a08f1e7b85c43ca0805e7a0ebd18"
+      "sha256": "54d10ef3c8590b8e66b6ade5d6e888e60f390e14a2a07ab873d2700ca1577e24"
     },
     {
       "file": "public/capas/social-livro-historia.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "4c9be9037dbda0225768cdbb7f6afef8ff9a9e4d0a1414bee6080e7ebdd09c0d"
+      "sha256": "19c3d55115c2aeacfd94dedd14c862ed80b5acabb17963f3e7fdee1ce21bac6e"
     },
     {
       "file": "public/capas/mini-livro-historia.svg",
       "width": 320,
       "height": 452,
-      "sha256": "9a339c906893de4d0b9318bdafe2ade657e2fbd6939799372ea61ce494a50033"
+      "sha256": "7a3eda29e7122cca65f7516b112e97e45b5ef5dd80f4ab8184f5e1a6c6ebaf89"
     },
     {
       "file": "public/capas/livro-geografia.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "81f08d9fbe9359ed5a77c64dd0efecaab5aadab49159a4228b6f56a77620d500"
+      "sha256": "c2e1350aaaa828ffd15c95f970b8b9c7bed4e87dcacbdb8e08e13c47dd1b2277"
     },
     {
       "file": "public/capas/social-livro-geografia.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "c8a2177ac22692674156e2d636917300db7b51d0f86ce69a23c06c9ba9f203c8"
+      "sha256": "6c1d10178f2e0142bb76bd587cd54081d9a1aa0ad83ea71c0bdfb21f04ae251b"
     },
     {
       "file": "public/capas/mini-livro-geografia.svg",
       "width": 320,
       "height": 452,
-      "sha256": "81123eb0a8e2ba64ae7b9405f444a0fe4614731b7ada297a2b5657ca6c05d38a"
+      "sha256": "77cbf1cac7ef693598144e2ac35351e7cc77c93c94817f97feab52a4e0600fb0"
     },
     {
       "file": "public/capas/livro-literatura.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "edfcc39dafdcce53e5e0758a0afe4829a00e535c6b72dee5ffd659616037b500"
+      "sha256": "ea490af223a4527fffedd0260934a8060eb3cc7049c025f9213a0ef105c3177d"
     },
     {
       "file": "public/capas/social-livro-literatura.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "17f1a76f5a004a192159ac5fcdb0bba67072762d5cc5f8cdc018facc86236c1a"
+      "sha256": "dc92653b77202baa5727cf96fd2782b9f36c728cf3246e6c3626fa187bfc9491"
     },
     {
       "file": "public/capas/mini-livro-literatura.svg",
       "width": 320,
       "height": 452,
-      "sha256": "17c0984a5717fc68c4eadd44f1ec1d56871416130e9e059f65d2c73a9b72f778"
+      "sha256": "201e45ffe5276d3cd9892c0325e4e6c1078cfe3dbc4f1ffc422d492e420a632c"
     },
     {
       "file": "public/capas/livro-ingles.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "54d534a2e3d7ee400e996fffc5e00d9aeb0d755ff27804f85a9ea032389d9f7c"
+      "sha256": "5d6e390a54ce764154b2c1f176dda66d32c65b2dbfd5a9a74d1994858cb69bb1"
     },
     {
       "file": "public/capas/social-livro-ingles.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "f6347453ea6b87b05ae5ceb9982eee744aeded8ec6a835b7ca364fe5dae9ab5d"
+      "sha256": "5ca726bb8fa98933bcfd2876ff1c6874a4ae6845863bbf6201f2385731ac57c1"
     },
     {
       "file": "public/capas/mini-livro-ingles.svg",
       "width": 320,
       "height": 452,
-      "sha256": "017129290b682a3587b8a64a2097eafe32a92ceb7ad98bfd2158ebc5c0a74d7c"
+      "sha256": "ffb1274fdc30e9840b0b3289547b41a075b2f3c72050e17bb5275106fd9a45e0"
     },
     {
       "file": "public/capas/livro-espanhol.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "c4eac2ca6f2ef173dff6f45c8005a5947e2fb88976a6d7218a451029efb17185"
+      "sha256": "b1c32a00b4b37ea4e721f103d0925f9ae753fc1f259d912fe789ff439478cc58"
     },
     {
       "file": "public/capas/social-livro-espanhol.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "e21a1f044d07b540884b2b45add0669dc1da3d5ad618b9c9b7a5d7ed4a559a26"
+      "sha256": "bd9db253736ab950e53f360d6649865aab7439d42d97d8c75de91c04b3dfa973"
     },
     {
       "file": "public/capas/mini-livro-espanhol.svg",
       "width": 320,
       "height": 452,
-      "sha256": "88f496af030a8df82c998632d5a62cd192ccc9be4141673088c2cba2b4ab4e17"
+      "sha256": "3f97d35439c7954b91daec73bdbb8e8eb40acfc7c01102d90f56fea72d1ee8d4"
     },
     {
       "file": "public/capas/livro-filosofia.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "33b1c72e820f1b9b3823856ae29735dcbe0256a185052b1ee72c8233bcfa7a21"
+      "sha256": "f8eaa723d170e034552d9ae7ce863202dab737557dd44636f3e2a19378985665"
     },
     {
       "file": "public/capas/social-livro-filosofia.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "f60b3a4eb47fd35400a5349f6821fd373a2e406a16e7ccb7b6ac3ee18a248be4"
+      "sha256": "c186db1d4c01f4ab817bf4a690959f7f689aad474ea427d8fdf9c600557c0a19"
     },
     {
       "file": "public/capas/mini-livro-filosofia.svg",
       "width": 320,
       "height": 452,
-      "sha256": "675e4c99d5592ca7dfbd087f87f69547378b81e3a7ae128c6e581dbd0921ebde"
+      "sha256": "306be95e784402838bfedf9e119a2a21b6d44ebf106454f9b541a811444f866b"
     },
     {
       "file": "public/capas/livro-sociologia.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "4c277d0e48eefed29037e272dec98d992792b56cb04c6711d38cc87fd0735ba3"
+      "sha256": "97eb3a924edd3005c8e0deda3ac41b03fc7fb1739af97aa6168eec31d33d2b58"
     },
     {
       "file": "public/capas/social-livro-sociologia.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "773e1d39991ab4e28263f73fb0055e5c5b10f38549bd247d372bc0aa2e608288"
+      "sha256": "985e3e42906b4756b0ef11890324a3fd869dbf6c8aa84e87065b7e6e5dccf5cf"
     },
     {
       "file": "public/capas/mini-livro-sociologia.svg",
       "width": 320,
       "height": 452,
-      "sha256": "82a1457c821f92a1fd6a721d9acd78661b1f9f8b60ccc6af704849438cb1beb6"
+      "sha256": "b2488777ebdd55037095d7d38abbe138ba19993216f11d6ee1122805b513abb2"
     },
     {
       "file": "public/capas/livro-artes.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "fe37c214d100abff8572e9fbc79f494c2dcfbcedec43ad79dadec8f458e8a92a"
+      "sha256": "b4b538340f484c6a1114728e075295b184a5bb176ec9d8bbea4c268fe66f4613"
     },
     {
       "file": "public/capas/social-livro-artes.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "50cb2f717472e856b6178b96354eccfa75eafd01c6f823a93236e6a61dac7868"
+      "sha256": "766e21040de26684d0d433c72bd9208d79a425f7b7c3f524d8c3d032aae62901"
     },
     {
       "file": "public/capas/mini-livro-artes.svg",
       "width": 320,
       "height": 452,
-      "sha256": "0109799b7217d31d70fa4f01ddb8f2142764c6a3b9294abfbe5c2d914c6fde25"
+      "sha256": "7e6c6adf33c7b19666bebd461efd277ae42dd891868e338343e956fc52384901"
     },
     {
       "file": "public/capas/livro-interdisciplinar.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "6a29abf617581a577445bc60012863f0be44299850b421f026da57116e90bcc4"
+      "sha256": "6c858d24da591039da0e3a68f71e66f5e5682c13585fa0d2464ffe6e51331662"
     },
     {
       "file": "public/capas/social-livro-interdisciplinar.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "f7cc8c2f98fdba39edb1608be531c8f097349c99dcd79806b81ca3d47ade8027"
+      "sha256": "0e015d8d4b897a3f5a2b397f46732b38931ccaa159b5fd3058a950986b18fb18"
     },
     {
       "file": "public/capas/mini-livro-interdisciplinar.svg",
       "width": 320,
       "height": 452,
-      "sha256": "a08902ee95ef4f33bee9ea437c6167cb52fb6e955a889c7221ca14f2a5c11d93"
+      "sha256": "08279c4f1cf3db5831b3de375c2c2b21de356ba1a74d2027ad290a3a76367649"
     },
     {
       "file": "public/capas/capa-etec.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "76f35757c6d9893da3bfe23a0637e3a88da51176dcc7ebeb1ceda0d4eff1ddc6"
+      "sha256": "23246a60db477c91645692b819bdd5b72d1a8fb8ddbd8a7836914bcb8b8485b0"
     },
     {
       "file": "public/capas/social-etec.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "18e0131a691e0f378b01a811a387616747ea5ae0abd413d2ec7eac163b42dbb3"
+      "sha256": "c9dde387879f7497fe8c5b112a569e19c57e6f7ab164bf22fd4e91853c10466e"
     },
     {
       "file": "public/capas/mini-capa-etec.svg",
       "width": 320,
       "height": 452,
-      "sha256": "b1028751ea9559b407124a94add43a6b82c6abcab1e2926fe05340552fd09e86"
+      "sha256": "acb12dfae983d5ef9755521cfcac2600950c496ceb78be49fbbf35a5bf44bb2f"
     },
     {
       "file": "public/capas/capa-enem.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "6563a5c738f557594913b6d6e953f184cdb95d1fb629f008ec5e200c40bf4fad"
+      "sha256": "1b9a794201001135bed85d8513fe2c45794035ef7cd9da18e378dde4b862d671"
     },
     {
       "file": "public/capas/social-enem.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "18e328b307d069210bcefa728dccb09cfeb1e4fba92907e02f2cdc732c302add"
+      "sha256": "81839493434445b6e0b830f921af29577303c40a94b16eb2a4896b3f2ed6bf3d"
     },
     {
       "file": "public/capas/mini-capa-enem.svg",
       "width": 320,
       "height": 452,
-      "sha256": "ab2a263d1ecba644f8d7fdf85206e574fd4500e4ad8201600c69ced95694707d"
+      "sha256": "53332a1cc0063a63b1bc0b6033477cbf03a92558c83eda3068f38342d568575f"
     },
     {
       "file": "public/capas/capa-coluni.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "d62fd971be339c085888118319f5def0620c6af17c624f43201ea3a38f3aeabc"
+      "sha256": "ef8c81ac7a5d07ab0185524b5ebc194f855b63def5cb0217cd0b275e7380ef83"
     },
     {
       "file": "public/capas/social-coluni.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "14ec174efefe124529cf0e19a2591c9751e78a5767e2551695168869ab285fa9"
+      "sha256": "4d942cd92d68d8a83aee0acfcd509ce84a33828dfda7c2a5ef607f680079795a"
     },
     {
       "file": "public/capas/mini-capa-coluni.svg",
       "width": 320,
       "height": 452,
-      "sha256": "9868295558ebdbdc0d858fe42ebf188684dd9278e677ae8c4d5ed75331d28f23"
+      "sha256": "22b1ea91a5b688d3a565afa99c429cfdddec5491a54b0ed35355a89282d37a80"
     },
     {
       "file": "public/capas/capa-fuvest.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "22eb3c502073fb493cc0c7af43abcbb7f2019c24d385e4b567c8ba5f2a8417fc"
+      "sha256": "00e2ce23d23993807703b679f9900f339c04a84d87d444297a14f5b645e68525"
     },
     {
       "file": "public/capas/social-fuvest.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "575e96dbbcc3997096725d375ea7f7ff8f48e94eab0c6f36794f8487d82a8732"
+      "sha256": "4f93aec3736b9fe8670a3e9351920599218dc8c7d945c2834ec55ba4d7746cb9"
     },
     {
       "file": "public/capas/mini-capa-fuvest.svg",
       "width": 320,
       "height": 452,
-      "sha256": "9b63d7a9cf8200691e58343a68f706250a1c14366c977ec8e304f5c19c4bfbc5"
+      "sha256": "5e9476b84076e2693242526890499d55d71e2c2efea7aee0b50f583b83a9b6a2"
     },
     {
       "file": "public/capas/capa-unicamp.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "350913885b1ca6b4f303f3153ecab6fb284bcdf73665ee3b6668ece7e776de2d"
+      "sha256": "b502c6478b3c074604f0e9a05d6053cd9d5080ebed881afc569c9a3b59a7bd95"
     },
     {
       "file": "public/capas/social-unicamp.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "3f95c462167a127095b6250c24a9678137705e63766a968a36d96ae9c8c83958"
+      "sha256": "dd64ef5eed99440858fe364dc5db021d033fefb80f446f823de196b4628d6c1d"
     },
     {
       "file": "public/capas/mini-capa-unicamp.svg",
       "width": 320,
       "height": 452,
-      "sha256": "9c9ac3a8afc6961e1ebccd150e046014c9ea6de03ec65c7760192fe8bad422cf"
+      "sha256": "f3d4e5a4dd9b18b5633956b8ac00f7e05d7365bbd2455d3cbdde1530791dac7f"
     },
     {
       "file": "public/capas/capa-unesp.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "f76be00fc5adfd17b3c7ff3188c57ec6e14df5eb39c06e5210ff2db9a0d83a0f"
+      "sha256": "c9038a3373202c72750b699316948a72f6ee67285408017bb60062d368665790"
     },
     {
       "file": "public/capas/social-unesp.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "0f1941efcd7cc3a384703eda8486b4e4d4114d91545d81a12bc5e13d410b4013"
+      "sha256": "88672a2b0eb0ab1668f71dc13399a45706ee8a883f2fac0dbd63e4111f8a5106"
     },
     {
       "file": "public/capas/mini-capa-unesp.svg",
       "width": 320,
       "height": 452,
-      "sha256": "f8ba610a92b83839c75abffd472cae31840885d894c9dc1ec9d4a44c2cbe2003"
+      "sha256": "49ef9419018958ad831bcbfe12f28444622a6072d42f22d213b94f4a63b74821"
     },
     {
       "file": "public/capas/capa-ifsp.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "636ade95fcf3697b2710a3e1d36f75ed45701d0139d4bde242b1f0db7386bd99"
+      "sha256": "51c619f77354fa495ced81fe3f33e95abbf1b612e8b41a7ae3486bbc699cffcb"
     },
     {
       "file": "public/capas/social-ifsp.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "610c713d7ada0746631372a704231ece108d9fe8a5dea7b86b93e9a6c7c19cd5"
+      "sha256": "2005846205218cba30dfb7396f63d4f76618e3be113cef3433d6a87dc98c943d"
     },
     {
       "file": "public/capas/mini-capa-ifsp.svg",
       "width": 320,
       "height": 452,
-      "sha256": "867896fd41b820000ec44dfcdf87e9c77a4b2c1ab11b17bac6b3989a73abcac9"
+      "sha256": "c2ea55e620a534fa8e53464dd292564120b0a3a4800fa1b7ee305b39a2d15005"
     },
     {
       "file": "public/capas/capa-ifsc.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "e8199805ac150d9749e0013c5854632d2f17a31cebeaffc9cfdca137242ae1b2"
+      "sha256": "4076620895b80cabc315dd86e8fd9211e59192b60ead51089655c7b8fd4a5bec"
     },
     {
       "file": "public/capas/social-ifsc.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "87875ee731c23a683ba205e0e1c0fc12e8931dcf546c436cec32a5c187a76199"
+      "sha256": "0556ebe0353bc68ab6ae05f4d87273bbb13d4c845ec8c01f4a2dd52eaa54124c"
     },
     {
       "file": "public/capas/mini-capa-ifsc.svg",
       "width": 320,
       "height": 452,
-      "sha256": "4a80bc33827a3cae7d63ae86bec63c34f6a2de4061212f17fc51206b2ecd719d"
+      "sha256": "960c2078c0f62e29f7ce26ffc1060586518fb96b6b7039cfc8b276ccbea6c4d3"
     },
     {
       "file": "public/capas/capa-ifrn.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "dac207c63fb4a3fa137b9cf960e0fa7d14001630f24d288d07335e0b5fe251d1"
+      "sha256": "a68014bc036da97bddc5704f0418d255d5d7389dc56aaf38817a977ac5d6388d"
     },
     {
       "file": "public/capas/social-ifrn.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "a2fbe3cd2558367f10beb4eb11e35ab3bbbd2173fd9509a87ec26bcc249ce302"
+      "sha256": "2502aec45d43160b41022c747f1026b0da30878a4fcb6d72e7c7e20836e61d22"
     },
     {
       "file": "public/capas/mini-capa-ifrn.svg",
       "width": 320,
       "height": 452,
-      "sha256": "ab5a2283e31ac3e23520cb1d48b0875f2a8363388543064dc42c75bec724606f"
+      "sha256": "5ce1fa36ce0f6cbd8abaa1e16f6d0e663c16f4d9eb91f411fadfb76fb9331f88"
     },
     {
       "file": "public/capas/capa-ifmg.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "5c967aa939cee7373abc07e6dc25b2a925d91ee5b4a1bf594021f2022cc72989"
+      "sha256": "66b507062e7b017dabbc5b01c0cd6b566aaae400a96367d5e653ed8da5032a48"
     },
     {
       "file": "public/capas/social-ifmg.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "784e51f953ae4af289feae9990a005807a509f3a4d1bc4b60f6f56ee3df1db7f"
+      "sha256": "440940b657e5f0fe732a8747abac45eb3da1c9245bdd2b5c9f53cf11beb145c0"
     },
     {
       "file": "public/capas/mini-capa-ifmg.svg",
       "width": 320,
       "height": 452,
-      "sha256": "fb36793355960b2cc334404606f82a3aa00783da8c25b66ec22fe083cd7f610c"
+      "sha256": "ebee96d5080de57d3021cb645674743f2686ca9d607623275a99fd8e78638c7c"
     },
     {
       "file": "public/capas/livro-portugues-interpretacao-ifs-etec.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "b7fdd50d40c69451c77b563550ecd85285d1c8e981a7fbbcc6af4ffef56bb457"
+      "sha256": "f0514ca0a2157972c318a6ca7a164e4e5bdffefb8331e1d7ae1e8d020c811ee9"
     },
     {
       "file": "public/capas/social-livro-portugues-interpretacao-ifs-etec.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "42577d3258e82a908f7345a92dc9213d9bdd87f07eb63ad32304d381dcb75c91"
+      "sha256": "75a8064376e775e4d4d6139dd32a63f9ee1cf65684ba79646e5e7a9bf2af72fc"
     },
     {
       "file": "public/capas/mini-livro-portugues-interpretacao-ifs-etec.svg",
       "width": 320,
       "height": 452,
-      "sha256": "5c5ac23ed275c62cf3b936b148205526d5e1fa6df0c131cc4d15553b40748605"
+      "sha256": "040f07b8cd98943a37ac6e764bf8fd8747aa400612223c48e2d9b85465b2f528"
     },
     {
       "file": "public/capas/livro-matematica-essencial-ifs-etec.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "5163a485962d4e9315090798f47822fae84d1af3e217875a4e68bf7628f7d05f"
+      "sha256": "c19c9fae1ffd5238adc9e1b207787bea0cfaace32d7cf09e9314dda7ee7d7a54"
     },
     {
       "file": "public/capas/social-livro-matematica-essencial-ifs-etec.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "ce7c2f098378937de4dc70b400d57f6125091b954db63d04d2cc5c11d1ae5d20"
+      "sha256": "14b7bb8df774e6403d6dfe55750e8be0e65f9cc3ccadc188550bcf58abe48fce"
     },
     {
       "file": "public/capas/mini-livro-matematica-essencial-ifs-etec.svg",
       "width": 320,
       "height": 452,
-      "sha256": "fa3375310e3d70a19a1241feac9f88bb3a6b22c9e71f5056f9e97375ab23f969"
+      "sha256": "ff8598806985cf956babe59bf5e4f1d32715c546d64ab25d70c94e273537085c"
     },
     {
       "file": "public/capas/livro-ciencias-natureza-ifs-etec.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "30477eef7ae0deb5e16c9f1ad03acfdb8ea95970d9ddafda6ed2a196115d9db6"
+      "sha256": "b74b9084332ab03eefb07f59678b17aa0af16d34745831059df7c3d3300d29ee"
     },
     {
       "file": "public/capas/social-livro-ciencias-natureza-ifs-etec.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "b481931ceeebbeb9ca5fa2b8cccfdd2c88833f989f284595ecbb3f7a2c82963c"
+      "sha256": "2db63ff6242965099e354785aca4a109a01e7abd70acb0f2a6a8986784f96369"
     },
     {
       "file": "public/capas/mini-livro-ciencias-natureza-ifs-etec.svg",
       "width": 320,
       "height": 452,
-      "sha256": "9c9ec4d528a9fe2e0b97bacfa5207f7e76db0c26ebcd62ce2eb77e3f36a2a7dc"
+      "sha256": "b0212ed1996c37cb13e3003ad6e09e2670a0ef8ce279040ad8360b1adaada3df"
     },
     {
       "file": "public/capas/livro-ciencias-humanas-atualidades-etec.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "c2c5999e8af8987f40f87eb12a9e1a8e4a79c7b0d7bae2ea8cb18ac48e21a05b"
+      "sha256": "5fcdc2d7ebaf68f41cfc59f8be3cdffdef071ca50efe620092e18379e1472615"
     },
     {
       "file": "public/capas/social-livro-ciencias-humanas-atualidades-etec.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "a93cef73086b0217ff95900d2279b6c5eb6175616aefc44b0fca738c44968221"
+      "sha256": "6cbd2036fcc06d475577a424d9d15c17f12bce13d9be9708f94556bb9ceb580b"
     },
     {
       "file": "public/capas/mini-livro-ciencias-humanas-atualidades-etec.svg",
       "width": 320,
       "height": 452,
-      "sha256": "5d1a7b13b37ff28891beaa5c70ec13e211bb940b47a46810655c541d7f69f373"
+      "sha256": "945d794d59e2e5376e589cad4a294ba292b087aa3dd5cd4a925ca294a2d52bef"
     },
     {
       "file": "public/capas/livro-vestibulinho-etec.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "6b83bf74f055d123aaee6f78c4d65998bedbcf31aacddfa742b3ef6384f56c73"
+      "sha256": "d341589f64c60f27423c2e8c3d9fca5379e9d2842e703b7b3d3355afa74520c0"
     },
     {
       "file": "public/capas/social-livro-vestibulinho-etec.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "26ef9e9acb2165cfc60f5da5068d5a16af5ae9b9963c03f2abda84459f73558d"
+      "sha256": "f1f3b79d103a6ee67f6ad3d0db98da2013ef55d42e47de20c5ac0eabe67de1cc"
     },
     {
       "file": "public/capas/mini-livro-vestibulinho-etec.svg",
       "width": 320,
       "height": 452,
-      "sha256": "a94d41bda884b1306dcc3047cb7db4eb1a575f42b08869e21d99bc5c587d7383"
+      "sha256": "4851f201225de92ea1890f1d321e4659082c4109e7df2e7cd77cb4e352801ecc"
     },
     {
       "file": "public/capas/livro-enem-exatas-e-linguagens.svg",
       "width": 1240,
       "height": 1754,
-      "sha256": "2425c243ce9c4d0616dc82e65761cd95c89145e322e7039fadc11d6e13b9aba0"
+      "sha256": "ce0dfbcf0d8c1ddf866e0f3567165e70748c4c032bce9c6007d3cc83d122b6d3"
     },
     {
       "file": "public/capas/social-livro-enem-exatas-e-linguagens.svg",
       "width": 1200,
       "height": 1200,
-      "sha256": "2ca9726cf0e0b6600981ece1a3dc19daced30afe4918ff74b250f5ce38922901"
+      "sha256": "8473856ebf56346933c66aad75fc7f102b4a83632a9f29dbc774cb3950d9400d"
     },
     {
       "file": "public/capas/mini-livro-enem-exatas-e-linguagens.svg",
       "width": 320,
       "height": 452,
-      "sha256": "713fa83480f6d3da6c8ed0f18450d526c871ae99562ce7e09066f6f0165101ad"
+      "sha256": "8eb7821404acba1115721cbf9053cd259722031f35dbfa5b77ae6528b7bd8e45"
     }
   ]
 }

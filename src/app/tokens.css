@@ -1,24 +1,26 @@
 @theme {
-  --color-paper: #f8f8f2;
-  --color-ink: #123d35;
+  --color-forest: #2e3f38;
+  --color-ochre-soft: #f2e5d2;
+  --color-paper: #f6f2e9;
+  --color-ink: #1c1e1b;
   --color-paper-elevated: #efe9db;
-  --color-ink-soft: #28594e;
-  --color-ink-muted: #4c6358;
-  --color-stamp: #c8501e;
-  --color-stamp-ink: #9c2b12;
-  --color-stamp-soft: #f6e0d0;
-  --color-sage-soft: #eaf1df;
-  --color-line: #cad5c7;
+  --color-ink-soft: #44483f;
+  --color-ink-muted: #57534a;
+  --color-stamp: #b1251b;
+  --color-stamp-ink: #8a211a;
+  --color-stamp-soft: #f4e0d9;
+  --color-sage-soft: #e8eae1;
+  --color-line: #d5ccb8;
   /* Compatibility aliases retain existing Tailwind classes without a second brand palette. */
   --color-gold: var(--color-stamp);
   --color-gold-text: var(--color-stamp-ink);
   --color-gold-soft: var(--color-stamp-soft);
-  --color-anil: #9c2b12;
+  --color-anil: var(--color-stamp-ink);
   --color-sage: #dce9df;
-  --color-sage-ink: #28594e;
+  --color-sage-ink: #44483f;
   --color-sky: #dfeaf0;
   --color-sky-ink: #34586a;
-  --color-ochre: #f2e5c7;
+  --color-ochre: #be965e;
   --color-ochre-ink: #79591e;
 
   --color-n1: #efe9db;

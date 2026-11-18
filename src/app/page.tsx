@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { Simbolo } from "@/components/logo";
 import type { Metadata } from "next";
 import { metaHome } from "@/lib/seo";
 
@@ -25,13 +26,18 @@ export default function Home() {
           </div>
           <p className="gb-footnote">Grátis para começar, sem cadastro.</p>
         </div>
-        <div className="gb-hero-choice" aria-label="Escolha seu objetivo">
-          <p className="gb-eyebrow">ESCOLHA SEU CAMINHO</p>
-          <h2>Qual é a sua próxima prova?</h2>
-          <div className="gb-choice-list">
-            {caminhos.map((item) => <Link key={item.href} href={item.href} className="gb-choice">
-              <span className="gb-choice-number" aria-hidden="true">·</span><span><strong>{item.titulo}</strong><small>{item.texto}</small></span><span className="gb-choice-arrow" aria-hidden="true">→</span>
-            </Link>)}
+        <div className="gb-hero-board">
+          <div className="gb-hero-choice" aria-label="Escolha seu objetivo">
+            <div className="gb-hero-choice-heading">
+              <p className="gb-eyebrow">ESCOLHA SEU CAMINHO</p>
+              <Simbolo />
+            </div>
+            <h2>Qual é a sua próxima prova?</h2>
+            <div className="gb-choice-list">
+              {caminhos.map((item) => <Link key={item.href} href={item.href} className="gb-choice">
+                <span className="gb-choice-number" aria-hidden="true">·</span><span><strong>{item.titulo}</strong><small>{item.texto}</small></span><span className="gb-choice-arrow" aria-hidden="true">→</span>
+              </Link>)}
+            </div>
           </div>
         </div>
       </section>

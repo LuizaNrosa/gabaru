@@ -155,7 +155,7 @@ export function NotaCorteColuniTool() {
     edicao.era === "siglas" ? `${m.codigo} — ${m.rotulo}` : m.rotulo;
 
   return (
-    <div className="rounded-lg border border-n2 bg-[#fffdf7] p-6 shadow-[0_14px_36px_#123d3512] sm:p-8">
+    <div className="rounded-lg border border-n2 bg-[#fffdf7] p-6 shadow-sm sm:p-8">
       <fieldset>
         <legend className="font-mono text-xs font-bold uppercase tracking-[0.14em] text-n4">
           1 · Edição e modalidade (150 vagas, escola única)
@@ -292,7 +292,7 @@ export function NotaCorteColuniTool() {
                     onChange={(e) =>
                       aoMudarAcertos(c.id, c.questoes, e.target.value)
                     }
-                    className="w-full accent-[#c8501e]"
+                    className="w-full accent-stamp"
                   />
                   <input
                     type="number"
@@ -325,7 +325,7 @@ export function NotaCorteColuniTool() {
                   step={1}
                   value={pt}
                   onChange={(e) => aoMudarPt(e.target.value)}
-                  className="w-full accent-[#c8501e]"
+                  className="w-full accent-stamp"
                 />
                 <input
                   type="number"

@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useId } from "react";
 import {useQueryStates} from 'nuqs';
 import {examParsers} from '@/lib/catalogo/query-parsers';
+import { ExamCover } from "./exam-cover";
 import { CONTAINER } from "@/components/ui";
 
 type Exame = { nome: string; detalhe: string; href: string; busca?: string; emColeta?: boolean };
@@ -60,8 +61,13 @@ export function AcervoBusca() {
     {resultados.filter((grupo) => grupo.exames.length > 0).map((grupo) => <section id={grupo.id} key={grupo.id} className={`${CONTAINER} py-10`} aria-labelledby={`${grupo.id}-titulo`}>
       <h2 id={`${grupo.id}-titulo`} className="gb-section-title">{grupo.titulo}</h2>
       <p className="mt-3 mb-6 text-n5">{grupo.descricao}</p>
-      <div className="gb-content-grid">{grupo.exames.map((exame) => <Link key={exame.href} href={exame.href} className="gb-content-card">
-        <h3>{exame.nome}</h3><p>{exame.detalhe}</p><span className="gb-text-link">{exame.emColeta ? "Acompanhar disponibilidade" : "Ver provas e disponibilidade"} →</span>
+      <div className="gb-content-grid">{grupo.exames.map((exame) => <Link key={exame.href} href={exame.href} className="gb-content-card gb-exam-card">
+        <ExamCover banca={exame.href.split("/").at(-1) ?? ""} className="gb-exam-cover" />
+        <div>
+          <h3>{exame.nome}</h3>
+          <p>{exame.detalhe}</p>
+          <span className="gb-text-link">{exame.emColeta ? "Acompanhar disponibilidade" : "Ver provas e disponibilidade"} →</span>
+        </div>
       </Link>)}</div>
     </section>)}
   </>;

@@ -122,7 +122,7 @@ export function NotaCorteTool() {
   const demandaRecente = combo.demanda[0];
 
   return (
-    <div className="rounded-lg border border-n2 bg-[#fffdf7] p-6 shadow-[0_14px_36px_#123d3512] sm:p-8">
+    <div className="rounded-lg border border-n2 bg-[#fffdf7] p-6 shadow-sm sm:p-8">
       <fieldset>
         <legend className="font-mono text-xs font-bold uppercase tracking-[0.14em] text-n4">
           1 · Seu curso-alvo
@@ -245,7 +245,7 @@ export function NotaCorteTool() {
                 step={1}
                 value={acertos}
                 onChange={(e) => aoMudarAcertos(e.target.value)}
-                className="w-full accent-[#c8501e]"
+                className="w-full accent-stamp"
               />
               <input
                 type="number"
@@ -263,7 +263,7 @@ export function NotaCorteTool() {
                   type="checkbox"
                   checked={bonusPublica}
                   onChange={(e) => setBonusPublica(e.target.checked)}
-                  className="mt-1 size-4 accent-[#c8501e]"
+                  className="mt-1 size-4 accent-stamp"
                 />
                 <span>
                   Fiz todo o Ensino Fundamental II em escola pública{" "}
@@ -275,7 +275,7 @@ export function NotaCorteTool() {
                   type="checkbox"
                   checked={bonusAfro}
                   onChange={(e) => setBonusAfro(e.target.checked)}
-                  className="mt-1 size-4 accent-[#c8501e]"
+                  className="mt-1 size-4 accent-stamp"
                 />
                 <span>
                   Autodeclaração afrodescendente <strong>(+3%)</strong>

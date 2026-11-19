@@ -1,5 +1,5 @@
 {
-  "versao": 1,
+  "versao": 2,
   "data_referencia": "2026-11-18",
   "inventario_local": {
     "diretorio": "bibliografia-pdfs/",
@@ -575,6 +575,22 @@
       "origem": "Drive da bibliografia",
       "papel": "metadados, consulta privada",
       "localizador": "Volumes 5, 9, 10 e 11 têm assuntos pertinentes por título. Páginas temáticas específicas ainda requerem conferência. Evitar capítulos avançados."
+    },
+    "wikilivros-concordancia": {
+      "titulo": "Wikilivros — Português / Concordância verbal",
+      "url": "https://pt.wikibooks.org/wiki/Portugu%C3%AAs/Concord%C3%A2ncia/Concord%C3%A2ncia_verbal",
+      "papel": "referência educacional aberta consultada",
+      "uso": "Consulta de concordância e impessoalidade verbal.",
+      "licenca_texto_indicada": "CC BY-SA 4.0",
+      "evidencia_licenca": "Rodapé da página, conferido em 2026-11-18. A teoria e os exercícios da apostila têm redação autoral."
+    },
+    "wikilivros-crase": {
+      "titulo": "Wikilivros — Português / Acento grave",
+      "url": "https://pt.wikibooks.org/wiki/Portugu%C3%AAs/Acentua%C3%A7%C3%A3o_e_sinais_auxiliares_da_escrita/Acento_grave",
+      "papel": "referência educacional aberta consultada",
+      "uso": "Consulta sobre a fusão da preposição a com determinantes.",
+      "licenca_texto_indicada": "CC BY-SA 4.0",
+      "evidencia_licenca": "Rodapé da página, conferido em 2026-11-18. A teoria e os exercícios da apostila têm redação autoral."
     }
   },
   "topicos": {
@@ -647,7 +663,9 @@
     "LP06": {
       "fontes_publicas": [
         "bncc",
-        "cadernos-etec"
+        "cadernos-etec",
+        "wikilivros-concordancia",
+        "wikilivros-crase"
       ],
       "secoes_bncc": [
         "EF67LP32",
@@ -1336,5 +1354,21 @@
       "consultas_privadas": [],
       "nota": null
     }
+  },
+  "sincronizacao_portugues": {
+    "estado": "plano_b_acesso_autenticado_indisponivel",
+    "pasta_local": "bibliografia-pdfs/portugues/",
+    "referencias_sincronizadas": 0,
+    "diagnostico": [
+      "O endereço da pasta retornou HTTP 302 para o login do Google. A rede chegou ao serviço.",
+      "A listagem pelo conector Google Drive retornou uma lista vazia para a pasta indicada.",
+      "O rclone do ambiente não tem remoto autenticado. Erro: didn’t find section in config file."
+    ],
+    "script": "scripts/sincronizar-bibliografia-drive.sh",
+    "comando": "scripts/sincronizar-bibliografia-drive.sh --materia portugues --remote gabaru-drive:",
+    "pre_requisito": "Remoto Google Drive autenticado no rclone local, com acesso à pasta oficial.",
+    "inventario_privado": "bibliografia-pdfs/portugues/inventario-sincronizacao.json",
+    "regra_de_transferencia": "Selecionar arquivos de Português pelo caminho ou título, excluir outras matérias e particionar PDFs com mais de 32 MB durante a transferência.",
+    "indice_real_capitulos_e_paginas": "Aguardando acesso aos arquivos. A conferência de títulos da Fase 1, a BNCC e os cadernos oficiais continuam disponíveis para a etapa histórica."
   }
 }

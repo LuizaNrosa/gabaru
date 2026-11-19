@@ -1659,7 +1659,7 @@
       "topico": "Compreensão literal, ideia central e inferência",
       "escopo_editorial": "Localizar informação, inferir relações e distinguir conclusão sustentada de extrapolação.",
       "componente_bncc": "LP",
-      "capitulo": null,
+      "capitulo": "compreensao-e-inferencia",
       "competencias_etec_relacionadas": [
         "C1",
         "C3",
@@ -1677,7 +1677,7 @@
       "topico": "Gêneros, finalidade, público e multimodalidade",
       "escopo_editorial": "Identificar função social e integrar elementos verbais e visuais em infográficos, publicidade, charges, tirinhas e notícias.",
       "componente_bncc": "LP",
-      "capitulo": null,
+      "capitulo": "generos-e-leitura-multimodal",
       "competencias_etec_relacionadas": [
         "C1",
         "C3",
@@ -1695,7 +1695,7 @@
       "topico": "Argumentação, fato, opinião e fontes",
       "escopo_editorial": "Reconhecer tese, evidência, posição do autor e confiabilidade de fontes.",
       "componente_bncc": "LP",
-      "capitulo": null,
+      "capitulo": "argumentacao-e-revisao",
       "competencias_etec_relacionadas": [
         "C1",
         "C3",
@@ -1714,7 +1714,7 @@
       "topico": "Sentido contextual e figuras de linguagem",
       "escopo_editorial": "Interpretar polissemia, sinonímia, metáfora, ironia, humor e efeitos expressivos.",
       "componente_bncc": "LP",
-      "capitulo": null,
+      "capitulo": "sentido-e-leitura-literaria",
       "competencias_etec_relacionadas": [
         "C1",
         "C3",
@@ -1732,7 +1732,7 @@
       "topico": "Coesão, coerência e intertextualidade",
       "escopo_editorial": "Rastrear referências, operadores, progressão, paráfrases e diálogo entre textos.",
       "componente_bncc": "LP",
-      "capitulo": null,
+      "capitulo": "coesao-e-intertextualidade",
       "competencias_etec_relacionadas": [
         "C1",
         "C3",
@@ -1750,7 +1750,7 @@
       "topico": "Morfossintaxe, pontuação, ortografia e acentuação",
       "escopo_editorial": "Relacionar classes, flexões, sintaxe e convenções gráficas aos efeitos de sentido.",
       "componente_bncc": "LP",
-      "capitulo": null,
+      "capitulo": "gramatica-e-variacao",
       "competencias_etec_relacionadas": [
         "C1",
         "C3",
@@ -1769,7 +1769,7 @@
       "topico": "Variação linguística, registros e adequação",
       "escopo_editorial": "Reconhecer variedades, adequação a contexto e preconceito linguístico.",
       "componente_bncc": "LP",
-      "capitulo": null,
+      "capitulo": "gramatica-e-variacao",
       "competencias_etec_relacionadas": [
         "C1",
         "C3",
@@ -1786,7 +1786,7 @@
       "topico": "Leitura literária e recursos narrativos e poéticos",
       "escopo_editorial": "Relacionar narrador, personagem, voz poética, ritmo e construção literária à interpretação.",
       "componente_bncc": "LP",
-      "capitulo": null,
+      "capitulo": "sentido-e-leitura-literaria",
       "competencias_etec_relacionadas": [
         "C1",
         "C3",
@@ -1804,7 +1804,7 @@
       "topico": "Produção, edição, oralidade e práticas de linguagem",
       "escopo_editorial": "Cobrir habilidades curriculares de autoria, revisão, apresentação e debate por reconhecimento em prova objetiva.",
       "componente_bncc": "LP",
-      "capitulo": null,
+      "capitulo": "argumentacao-e-revisao",
       "competencias_etec_relacionadas": [
         "C1",
         "C3",

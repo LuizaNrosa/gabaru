@@ -36,12 +36,12 @@ O Livro 1 fica no nível da BNCC dos anos finais. Equivalência de expressões, 
 - 2025/1, 2026/1 e 2026/2 foram conferidos a partir dos cadernos com SHA-256 igual ao registrado no Gabaru. A edição 2025/2 integra o banco, mas o endereço original respondeu 403. A verificação usou as 12 páginas do leitor do Gabaru, com OCR em português e conferência dos itens 48 e 49 no texto da página 12. O caderno identifica a organizadora **IDECAN**. Seu desenho por blocos explícitos fica identificado na matriz para comparação com as outras edições. [Acervo ETEC](https://gabaru.com.br/provas/etec)
 - O levantamento de junho de 2026 do Passaporte ETEC foi usado como referência qualitativa. Ele aponta leitura, porcentagem, razão/proporção e dados, mas o texto consultado não lista o denominador por edição nem a codificação questão a questão. Seus números e afirmações de frequência não entram nas contagens do Gabaru. [Levantamento externo](https://passaporteetec.com.br/blog/materias-que-mais-caem-etec.html)
 
-## Resultado e proposta da primeira disciplina
+## Primeira disciplina confirmada
 
 O inventário cobre **43 cadernos** (39 regulares e 4 adicionais) e **2.090 questões**.
-Foram classificados semanticamente os **200 itens de 2025–2026** e **37 itens em amostra histórica dirigida**. No restante, 436 itens têm sugestões por enunciado, 1.359 aguardam classificação e 58 exigem localizar o item no caderno.
+Para Português e Interpretação de Texto, os **2.090 itens** foram conferidos pela operação principal. A matriz identifica **610 questões de Português**, das quais **609 válidas**, e registra a incidência consolidada por caderno. A classificação integral dos demais componentes está fora deste recorte. [Matriz histórica](matriz-incidencia-etec.json) · [Auditoria de cobertura de Português](auditoria-cobertura-portugues.md)
 
-**Português e Interpretação é a primeira matéria proposta.** No recorte recente completo há **49 questões** cuja operação principal é de Português, ante **27 de Matemática**. Velocidade e outros problemas de Física foram registrados na disciplina correspondente, mesmo quando exigem cálculo. A comparação usa as quatro edições recentes e seus critérios editoriais.
+**Português e Interpretação de Texto é a Matéria 1 da Apostila ETEC.** No recorte recente completo há **49 questões** cuja operação principal é de Português, ante **27 de Matemática**. Velocidade e outros problemas de Física foram registrados na disciplina correspondente, mesmo quando exigem cálculo. A comparação usa as quatro edições recentes e seus critérios editoriais.
 
 ### Temas mais observados em 2025–2026
 
@@ -58,15 +58,15 @@ Até dez por disciplina. A ordem usa primeiro a presença por caderno e depois a
 | Geografia | Cartografia, orientação e escalas (3/4, 4 itens) · Dinâmica natural, paisagens, biomas e recursos (3/4, 4 itens) · Brasil: território, campo, indústria e redes (3/4, 4 itens) · População, migração, urbanização e desigualdade (2/4, 4 itens) · Mundo, globalização, regionalização e geopolítica (2/4, 3 itens) |
 | Atualidades e Interdisciplinaridade | Cidadania, ambiente, trabalho e intervenção (4/4, 8 itens) · Contexto, interpretação de representações e dados (1/4, 1 item) |
 
-Nenhum nível final de incidência foi atribuído no histórico. O percentual mínimo confirmado e as candidaturas para revisão estão na matriz. O índice bibliográfico diferencia amostras lidas, recursos públicos e obras privadas consultáveis pelo título.
+A matriz consolida os níveis históricos de Português. As candidaturas das demais áreas continuam registradas para revisão. O índice bibliográfico registra amostras, recursos públicos e títulos da bibliografia privada. [Mapa bibliográfico](mapa-bibliografia.json)
 
-**Ordem pedagógica proposta para Português e Interpretação.** Preservar a estrutura do leitor e trabalhar primeiro a leitura que destrava as demais questões.
+**Ordem pedagógica de Português e Interpretação de Texto.**
 
 1. Informação explícita, ideia central e inferência. Distinguir informação no texto e inferência autorizada.
 2. Gêneros, finalidade e leitura multimodal. Integrar a leitura de textos, charges, tiras e infográficos.
-3. Sentido em contexto e recursos expressivos. Trabalhar vocabulário, paráfrase, ironia, humor e figuras.
+3. Sentido em contexto e leitura literária. Trabalhar vocabulário, figuras, vozes narrativas, poemas e canções.
 4. Coesão, coerência e intertextualidade. Rastrear retomadas, operadores e relações entre textos.
-5. Argumentação, fatos, opiniões e fontes. Testar tese, argumento, evidência e a validade de uma conclusão.
-6. Gramática, variação e leitura literária em contexto. Aplicar pontuação, morfossintaxe e adequação em prosa, poemas e canções. As habilidades de autoria e revisão entram como reconhecimento de escolhas textuais.
+5. Argumentação, autoria e revisão. Testar tese, evidência, pertinência das fontes e fidelidade da reescrita.
+6. Gramática e variação em contexto. Aplicar morfossintaxe, pontuação e adequação a diferentes gêneros.
 
-Esta proposta é planejamento editorial da Fase 1. A matriz acompanha a contagem e as lacunas. Um tema sem observação confirmada ainda pode estar presente nos cadernos registrados.
+O apêndice do leitor reúne os vínculos com o edital e as frequências por tópico. [Sumário da apostila](https://gabaru.com.br/livros/vestibulinho-etec) · [Apêndice](https://gabaru.com.br/livros/vestibulinho-etec/apendice)

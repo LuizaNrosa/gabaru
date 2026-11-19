@@ -18,6 +18,17 @@ const sumario = [
 
 const percentual = new Intl.NumberFormat('pt-BR', { maximumFractionDigits: 2 });
 
+/** Blocos separados por linha em branco viram parágrafos; um bloco cujas linhas começam com "• " vira lista. */
+export function TextoTeoria({ texto }: { texto: string }) {
+  return texto.split(/\n{2,}/).map((bloco, i) => {
+    const linhas = bloco.split('\n');
+    if (linhas.every(linha => linha.startsWith('• '))) {
+      return <ul key={i} className="list-disc pl-6">{linhas.map(linha => <li key={linha}>{linha.slice(2)}</li>)}</ul>;
+    }
+    return <p key={i}>{bloco}</p>;
+  });
+}
+
 function ExemploResolvido({ exemplo, numero }: { exemplo: ExemploPortugues; numero: number }) {
   return (
     <section className="gb-worked-example" aria-labelledby={`exemplo-${numero}`}>
@@ -75,7 +86,7 @@ export function LeitorPortuguesEtec({ livro, slug, titulo, capitulo, marca, minu
       </section>
       <section aria-labelledby="teoria">
         <h2 id="teoria">Teoria calibrada ao edital</h2>
-        {capitulo.teoria.map(item => <div key={item.titulo}><h3>{item.titulo}</h3><p>{item.texto}</p></div>)}
+        {capitulo.teoria.map(item => <div key={item.titulo}><h3>{item.titulo}</h3><TextoTeoria texto={item.texto} /></div>)}
         <aside className="gb-exam-trap" aria-labelledby="armadilha">
           <h3 id="armadilha">Armadilha clássica da ETEC</h3>
           <p>{capitulo.armadilha}</p>

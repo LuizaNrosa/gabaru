@@ -3,7 +3,6 @@ import {env} from '../env.mjs';
 import { organization, author } from "@/lib/seo/schema-graph";
 import type { Metadata, Viewport } from "next";
 import { AuthProvider } from "@/context/auth-context";
-import { LogoDefs } from "@/components/logo";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import { TabBar } from "@/components/tab-bar";
@@ -69,7 +68,6 @@ export default function RootLayout({
       <body className="min-h-screen bg-paper pb-16 font-sans text-ink antialiased sm:pb-0">
         <JsonLd dados={{"@context":"https://schema.org","@graph":[organization,author]}} />
         <JsonLd dados={jsonLd.site()} />
-        <LogoDefs />
         <a
           href="#conteudo-principal"
           className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[60] focus:rounded-md focus:bg-gold-text focus:px-4 focus:py-2 focus:font-semibold focus:text-white"

@@ -6,7 +6,31 @@ test('metadados emitidos respeitam os limites inclusive com marca e entradas ext
  for(const d of ['',...c.bancas.map(b=>b.descricao??''),'a'.repeat(300)]){const v=seoDescription(d);assert.ok(v.length>=120&&v.length<=160,JSON.stringify({d,v}));}
 });
 test('as doze regras GEO são autossuficientes de 40–60 palavras, com exemplos e matemática válida',()=>{const geo=read('src/data/livros-geo.json');assert.equal(Object.values(geo).flat().length,12);for(const entries of Object.values(geo))for(const g of entries){const words=g.definicao.trim().split(/\s+/).length;assert.ok(words>=40&&words<=60);assert.ok(g.exemplo.passos.length>=3&&g.exemplo.resposta&&g.pegadinha);for(const text of [g.definicao,g.exemplo.enunciado,...g.exemplo.passos,g.exemplo.resposta,g.pegadinha])for(const [,math]of text.matchAll(/\$([^$]+)\$/g))assert.doesNotThrow(()=>katex.renderToString(math,{throwOnError:true}));}});
-test('90 capas com paleta exclusiva, textos editáveis e geometria de carimbo preservada',()=>{const manifest=read('src/data/capas-manifesto.json');assert.equal(manifest.generated.length,90);for(const g of manifest.generated){const svg=fs.readFileSync(g.file,'utf8');assert.ok(svg.includes('<text ')&&svg.includes('font-weight="900"'));assert.ok(!/<(?:image|linearGradient|radialGradient)\b/i.test(svg));assert.ok(!/#(?:d7ee79|232323|f7f3ea)\b/i.test(svg));const colors=[...svg.matchAll(/#[a-f0-9]{6}\b/gi)].map(m=>m[0].toLowerCase());assert.ok(colors.every(c=>Object.values(manifest.palette).includes(c)));assert.ok(svg.includes('rotate(-4 28 28)'));if(g.file.includes('livro-')){assert.ok(svg.includes('rotate(-4 80 110)'));assert.ok(svg.includes(`fill="${manifest.palette.ochre}"`));}else{assert.ok(svg.includes('rotate(-9 190 100)'));}assert.ok(svg.includes('stroke-width="8"')&&svg.includes('stroke-width="2.5"'));assert.ok(svg.includes(`width="${g.width}" height="${g.height}"`));}assert.equal(read('src/data/disciplinas-capas.json').length,14);});
+test('90 capas com paleta exclusiva, textos editáveis e o carimbo oficial incorporado', () => {
+ const manifest = read('src/data/capas-manifesto.json');
+ const carimbo = fs.readFileSync('public/marca/gabaru-carimbo.svg', 'utf8');
+ const vetor = carimbo.match(/<path[^>]+\/>/)?.[0];
+ assert.ok(vetor);
+ assert.equal(manifest.generated.length, 90);
+ for (const capa of manifest.generated) {
+  const svg = fs.readFileSync(capa.file, 'utf8');
+  assert.ok(svg.includes(vetor), capa.file);
+  assert.ok(svg.includes('>gabaru</text>') && svg.includes('font-weight="900"'));
+  assert.ok(!/<(?:image|linearGradient|radialGradient)\b/i.test(svg));
+  assert.ok(!/#(?:d7ee79|232323|f7f3ea)\b/i.test(svg));
+  const cores = [...svg.matchAll(/#[a-f0-9]{6}\b/gi)].map(cor => cor[0].toLowerCase());
+  assert.ok(cores.every(cor => Object.values(manifest.palette).includes(cor)));
+  if (capa.file.includes('livro-')) {
+   assert.ok(svg.includes('rotate(-4 80 110)'));
+   assert.ok(svg.includes(`fill="${manifest.palette.ochre}"`));
+  } else {
+   assert.ok(svg.includes('rotate(-9 190 100)'));
+  }
+  assert.ok(svg.includes('stroke-width="8"') && svg.includes('stroke-width="2.5"'));
+  assert.ok(svg.includes(`width="${capa.width}" height="${capa.height}"`));
+ }
+ assert.equal(read('src/data/disciplinas-capas.json').length, 14);
+});
 test('volumes planejados não ganham selos de edital validado ou conteúdo resolvido sem evidência',()=>{for(const s of read('src/data/disciplinas-capas.json')){const svg=fs.readFileSync(`public/capas/livro-${s.slug}.svg`,'utf8');assert.ok(svg.includes('PREPARAÇÃO'));assert.ok(!svg.includes('CONFERIDO')&&!svg.includes('RESOLVIDAS'));}});
 test('contraste de leitura, ações e fundos da paleta editorial', () => {
  const tokens = fs.readFileSync('src/app/tokens.css', 'utf8');
@@ -24,6 +48,7 @@ test('contraste de leitura, ações e fundos da paleta editorial', () => {
   ['ink-muted', 'paper', 4.5],
   ['stamp', 'paper', 4.5],
   ['stamp-ink', 'paper', 4.5],
+  ['stamp-ink', 'stamp-soft', 4.5],
   ['paper', 'forest', 7],
   ['ink', 'ochre', 4.5],
  ]) assert.ok(contrast(foreground, background) >= minimum, `${foreground} / ${background}`);

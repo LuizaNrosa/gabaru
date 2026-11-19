@@ -22,14 +22,15 @@ const style=`@font-face{font-family:Archivo;src:url(data:font/woff2;base64,${fon
 const esc=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&apos;'}[c]));
 function lines(text,max=30){const out=[];for(const word of text.split(/\s+/)){const i=out.length-1;if(i>=0&&(out[i]+' '+word).length<=max)out[i]+=' '+word;else out.push(word)}return out;}
 const text=(value,x,y,size=32,extra='')=>`<text x="${x}" y="${y}" font-size="${size}" ${extra}>${esc(value)}</text>`;
-function logo(x, y) {
+const brandAsset = fs.readFileSync('public/marca/gabaru-carimbo.svg', 'utf8');
+const brand = brandAsset.match(/^<svg[^>]* viewBox="([^"]+)">(<path[^>]+\/>)<\/svg>\s*$/);
+if (!brand) throw new Error('Carimbo Gabaru inválido');
+const [, brandViewBox, brandPath] = brand;
+
+function logo(x, y, size, wordSize) {
   return `<g transform="translate(${x} ${y})">
-    <g transform="rotate(-4 28 28)">
-      <rect x="-11" y="-11" width="78" height="78" rx="10" fill="none" stroke="${palette.forest}" stroke-width="3"/>
-      <rect x="-6" y="-6" width="68" height="68" rx="7" fill="none" stroke="${palette.forest}" stroke-width="1"/>
-      <path d="M38 12A17 17 0 1 0 40 29H25V21H48V29A25 25 0 1 1 43 6Z" fill="${palette.forest}"/>
-    </g>
-    ${text('gabaru', 86, 42, 58, 'font-weight="900" letter-spacing="-1.74"')}${text('.', 283, 42, 58, 'class="stamp" font-weight="900"')}
+    <svg width="${size}" height="${size}" viewBox="${brandViewBox}" aria-hidden="true">${brandPath}</svg>
+    ${text('gabaru', size + Math.round(size * .14), Math.round((size + wordSize * .66) / 2), wordSize, 'font-weight="900" letter-spacing="-1.7"')}
   </g>`;
 }
 function examStamp(verified, x, y) {
@@ -52,7 +53,7 @@ function bookFace(item, width, height, margin, social) {
 
   return `<rect width="${width}" height="${height}" fill="${palette.paper}"/>
     <rect x="${margin}" y="${margin}" width="${width - 2 * margin}" height="${height - 2 * margin}" fill="none" stroke="${palette.forest}" stroke-width="2"/>
-    ${logo(98, 105)}
+    ${logo(92, 93, social ? 152 : 174, social ? 96 : 107)}
     <path d="${emblem}" fill="none" stroke="${palette.line}" stroke-width="2"/>
     ${title.map((part, i) => text(part, center, titleStart + i * (social ? 88 : 112), Math.min(social ? 90 : 112, displaySize(part)), 'font-weight="900" text-anchor="middle"')).join('')}
     ${text('LIVRO-TEXTO · TEORIA E QUESTÕES', center, social ? 720 : 920, 25, centered)}
@@ -75,7 +76,7 @@ function svg(item,variant){const social=variant==='social',thumb=variant==='thum
  if (book) {
   body = bookFace(item, VW, VH, m, social);
  } else {
-  body =`<rect width="${VW}" height="${VH}" fill="${palette.paper}"/><rect x="${m}" y="${m}" width="${VW-2*m}" height="${VH-2*m}" fill="none" stroke="${palette.ink}" stroke-width="3"/>${logo(88,96)}`;
+  body =`<rect width="${VW}" height="${VH}" fill="${palette.paper}"/><rect x="${m}" y="${m}" width="${VW-2*m}" height="${VH-2*m}" fill="none" stroke="${palette.ink}" stroke-width="3"/>${logo(88,78,106,66)}`;
  body+=text('ACERVO · PROVAS OFICIAIS',VW-88,126,22,'text-anchor="end" class="mono"');
  body+=`<path d="M88 198H${VW-88}" fill="none" stroke="${palette.ink}" stroke-width="4"/><path d="M88 210H${VW-88}" fill="none" stroke="${palette.ink}" stroke-width="1.5"/>`;
  body+=text('CADERNO DE QUESTÕES',88,270,26,'class="mono" letter-spacing="3"');

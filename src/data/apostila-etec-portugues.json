@@ -1,4 +1,65 @@
 {
+  "como-a-etec-pergunta": {
+    "materia": "Abertura · Antes de começar",
+    "introducao": "Antes de estudar cada matéria, vale entender a prova como um todo: quantas questões são, o que o edital pede, como as perguntas são montadas e de onde vêm as alternativas erradas. Este capítulo é o mapa da apostila e o seu plano de jogo para o dia da prova.",
+    "codigos": [],
+    "raioX": "",
+    "intuicao": [
+      "A ETEC não pergunta “o que é X?”. Ela mostra uma situação (um texto, um gráfico, um caso do cotidiano) e pede que você use o que sabe para interpretá-la ou resolvê-la.",
+      "Quase tudo de que você precisa está no enunciado. O conhecimento prévio serve para reconhecer o assunto e não para substituir a leitura.",
+      "As alternativas erradas não são aleatórias: cada uma desvia do texto ou do raciocínio de um jeito conhecido. Aprender a nomear esses desvios vale pontos em todas as matérias."
+    ],
+    "teoria": [
+      {
+        "titulo": "A prova em números",
+        "texto": "O Vestibulinho ETEC para a 1ª série do Ensino Médio e para o 1º módulo dos cursos técnicos segue o artigo 28 da Portaria CEETEPS-Presidência nº 5320/2026, o edital do processo 2027/1.\n\n• 50 questões de múltipla escolha, cada uma com 5 alternativas (A a E) e apenas uma correta.\n• Cada questão vale 1 ponto. Não há desconto por erro: nunca deixe uma questão em branco.\n• Duração de 4 horas, incluindo o preenchimento da folha de respostas definitiva.\n• A prova de 2027/1 será em 06/12/2026, às 13h30. O portão abre às 12h30 e fecha às 13h30 em ponto.\n• O gabarito oficial sai em 09/12/2026, a partir das 15h, no site vestibulinho.etec.sp.gov.br.\n\nO mesmo formato vale para os processos 2026/1 e 2026/2. As regras de conteúdo não mudaram entre os três editais mais recentes."
+      },
+      {
+        "titulo": "O que o edital pede",
+        "texto": "O edital não traz uma lista de assuntos. Ele diz que a prova avalia as competências e habilidades da BNCC (Base Nacional Comum Curricular) do Ensino Fundamental II, ou seja, o que se estuda do 6º ao 9º ano, em quatro áreas:\n\n• Linguagens (Português).\n• Matemática.\n• Ciências Humanas (Geografia e História).\n• Ciências da Natureza (Biologia, Física e Química, no nível do fundamental).\n\nO edital também diz que a prova contempla valores ligados à cidadania, ao trabalho, à justiça social e à preservação da natureza, e avalia a capacidade de aplicar esses valores em situações do cotidiano. Por isso aparecem tantas questões sobre saúde pública, meio ambiente, consumo consciente e ações solidárias.\n\nEsta apostila organizou a BNCC dos anos finais em 52 tópicos, agrupados em 8 matérias. O apêndice traz a lista completa com as habilidades correspondentes."
+      },
+      {
+        "titulo": "As cinco competências: como a banca pensa",
+        "texto": "O edital lista cinco competências. Entender cada uma ajuda a reconhecer o que uma questão realmente pede.\n\n• C1 · Interpretar textos e outras representações: crônicas, poemas, charges, tabelas, gráficos, mapas e imagens. É a competência mais frequente, em todas as matérias.\n• C2 · Aplicar conhecimentos do Ensino Fundamental para compreender a realidade e resolver problemas: fazer uma conta de proporção, identificar um processo de separação de misturas, localizar um país no mapa.\n• C3 · Analisar criticamente argumentos: reconhecer a tese de um texto, avaliar se uma conclusão se sustenta.\n• C4 · Reconhecer e relacionar diferentes linguagens: comparar um poema e uma charge sobre o mesmo tema, relacionar texto e imagem.\n• C5 · Avaliar ações e soluções segundo critérios: escolher a melhor proposta para um problema ambiental ou social, dentro de condições dadas.\n\nUma mesma questão costuma combinar competências. Uma questão de Física pode pedir que você leia um gráfico (C1) e calcule uma velocidade (C2)."
+      },
+      {
+        "titulo": "Quanto cai de cada matéria",
+        "texto": "A ETEC não divide a prova em blocos fixos por matéria. Para saber o peso real de cada uma, a equipe do Gabaru classificou uma a uma as 1.136 questões válidas das 23 provas de 2013/2 a 2026/2.\n\nMédia de questões por prova nesse período:\n\n• Português e interpretação: 14,5.\n• Biologia: 7,1.\n• Matemática: 6,9.\n• Física: 6,3.\n• História: 5,2.\n• Química: 4,3.\n• Geografia: 4,0.\n• Atualidades e cidadania: 1,1.\n\nSomadas, Biologia, Física e Química dão cerca de 18 questões por prova, mais do que Português. Ninguém chega perto de 45 acertos estudando só Português e Matemática.\n\nOs assuntos que mais aparecem são compreensão e inferência de textos (presente nas 23 provas), movimento, força e pressão (23 de 23), saúde e alimentação (22 de 23) e átomos, elementos e fórmulas (20 de 23). Cada capítulo desta apostila abre com o selo de incidência do seu assunto."
+      },
+      {
+        "titulo": "A prova conta uma história",
+        "texto": "Muitas provas da ETEC giram em torno de um tema que costura as questões de todas as matérias. Em 2026/2, o tema foi transporte: a primeira questão tratava do rio Nilo como “estrada” do Egito antigo, e outras cobravam proporcionalidade, circuitos elétricos, geografia e história a partir do mesmo eixo. Outras edições usaram turismo, profissões técnicas, a Amazônia, o oceano, a alimentação e a energia.\n\nIsso tem duas consequências práticas:\n\n• Um mesmo texto de apoio pode servir a duas ou três questões de matérias diferentes. Leia o texto uma vez com atenção e aproveite a leitura.\n• O assunto do texto não diz a matéria da pergunta. Um texto sobre culinária pode esconder uma questão de Química; um texto sobre esportes, uma questão de Física."
+      },
+      {
+        "titulo": "O enunciado ensina: o “edital oculto”",
+        "texto": "Às vezes a ETEC cobra algo que vai um pouco além do 9º ano: isomeria, estequiometria, trigonometria, função quadrática, compatibilidade de tipos sanguíneos. Mas, quase sempre, o próprio enunciado fornece a definição, a fórmula ou a tabela necessária.\n\nExemplos reais:\n\n• Uma questão de 2026/2 definiu isômeros no enunciado e pediu que o candidato aplicasse a definição.\n• Questões de trigonometria trazem os valores de seno, cosseno e tangente em uma tabela.\n• Questões de energia trazem a fórmula (energia = potência × tempo, energia potencial = massa × gravidade × altura).\n\nRegra de ouro: quando aparecer um conceito desconhecido, procure no enunciado a frase “Lembre-se de que”, “Considere”, “Adote” ou uma tabela de apoio. A questão está testando se você sabe usar a informação dada, não se você decorou o conteúdo."
+      },
+      {
+        "titulo": "De onde vêm as alternativas erradas",
+        "texto": "Em todas as matérias, as alternativas incorretas seguem padrões. Saber reconhecê-los é a habilidade que mais rende pontos na prova.\n\n• Extrapolação: a alternativa vai além do texto ou do dado. Generaliza (“alguns” vira “todos”), aumenta a certeza (“pode” vira “garante”) ou inventa uma consequência.\n• Redução: toma uma parte pelo todo, um exemplo pelo assunto inteiro.\n• Contradição: diz o oposto do texto ou da ciência.\n• Informação externa: traz algo verdadeiro ou plausível que o material não diz.\n• Troca de relações: inverte causa e efeito, mistura quem fez o quê, troca a ordem dos fatos ou a unidade de medida.\n• Erro de conta previsível: em Matemática e Física, a alternativa errada é o resultado de um erro comum (esquecer de converter minutos em horas, usar o diâmetro no lugar do raio, somar porcentagens que não se somam).\n\nEm cada capítulo, as questões oficiais vêm comentadas alternativa por alternativa, sempre dizendo qual desvio cada distrator comete."
+      },
+      {
+        "titulo": "Plano para as 4 horas",
+        "texto": "Com 50 questões em 240 minutos, você tem pouco menos de 5 minutos por questão, já descontado o tempo de passar as respostas para a folha definitiva. Questões longas de interpretação consomem mais tempo; questões diretas, menos.\n\n• Primeira volta (cerca de 2h30): resolva todas as questões que você sabe, sem travar. Marque no caderno as que deixou para depois.\n• Segunda volta (cerca de 50 min): volte às marcadas. Elimine o que puder e escolha entre as que sobrarem.\n• Folha de respostas (cerca de 30 min): transcreva com calma, conferindo o número de cada questão. Não deixe para os últimos 10 minutos.\n• Reserva (cerca de 10 min): revise a folha. Não deixe nenhuma em branco, porque não há desconto por erro.\n\nDurante a prova:\n\n• Leia o comando antes do texto de apoio, para saber o que procurar.\n• Quando várias questões usam o mesmo texto, resolva todas em sequência.\n• Nas contas, confira a unidade pedida na pergunta antes de marcar.\n• Na dúvida entre duas alternativas, compare-as palavra por palavra com o texto: a diferença entre elas mostra onde está o erro."
+      },
+      {
+        "titulo": "Como usar esta apostila",
+        "texto": "Cada capítulo segue a mesma ordem, pensada para quem estuda sozinho:\n\n• Raio-X da banca: com que frequência o assunto aparece e como ele costuma ser cobrado.\n• Desbloqueio e intuição: o jeito de pensar antes da teoria.\n• Teoria calibrada ao edital: tudo o que você precisa saber, no nível do 9º ano, com exemplos.\n• Armadilha clássica: o erro que a banca mais explora naquele assunto.\n• Exemplos resolvidos: questões inéditas do Gabaru no formato da ETEC, com resolução passo a passo.\n• Bateria oficial: questões reais da ETEC, com gabarito comentado alternativa por alternativa e link para resolver no banco de questões.\n• Resumo de bolso: para revisar na véspera.\n\nSugestão de estudo: leia a teoria, resolva os exemplos sem olhar a resolução, depois faça a bateria oficial no banco de questões e só então leia os comentários. Os erros que você cometer ficam registrados no seu caderno de erros, para a revisão."
+      }
+    ],
+    "armadilha": "Responder com o que você sabe sobre o assunto, e não com o que o texto ou o dado da questão permite concluir. A ETEC premia quem lê com cuidado: a alternativa “verdadeira no mundo”, mas ausente do enunciado, é uma das armadilhas mais frequentes da prova.",
+    "exemplos": [],
+    "oficiais": [],
+    "resumo": [
+      "50 questões, 5 alternativas, 1 ponto cada, 4 horas, sem desconto por erro.",
+      "Conteúdo: BNCC do 6º ao 9º ano em Português, Matemática, Humanas e Ciências.",
+      "C1 (interpretar representações) aparece em todas as matérias.",
+      "Por prova: Português ~14,5; Ciências da Natureza ~18; Matemática ~7; Humanas ~9.",
+      "Conceito além do 9º ano? Procure a definição no próprio enunciado.",
+      "Nomeie o desvio de cada alternativa errada.",
+      "Duas voltas na prova e 30 minutos reservados para a folha de respostas."
+    ]
+  },
   "compreensao-e-inferencia": {
     "introducao": "Este capítulo ensina as três operações que sustentam quase toda a prova de Português da ETEC: localizar uma informação, resumir a ideia central e tirar conclusões que o texto autoriza. Ao final, você saberá reconhecer qual operação cada comando pede, ler as palavras que mudam o alcance de uma frase e eliminar alternativas pelos cinco desvios que a banca mais usa.",
     "codigos": [

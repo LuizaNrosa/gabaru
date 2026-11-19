@@ -1227,3 +1227,26 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
   width: 26px;
   height: 26px;
 }
+
+/* Apostila ETEC · diagramação editorial (Ma e Shibui): espaço generoso, linhas de 1px, cor só nos detalhes. */
+.gb-apostila { max-inline-size:65ch; font-size:1.125rem; line-height:1.75; }
+.gb-apostila > header { padding-block-end:40px; margin-block-end:48px; border-block-end:1px solid var(--color-line); }
+.gb-apostila > header img { margin-block-end:24px; }
+.gb-apostila h1 { font-size:clamp(2rem,4vw,2.75rem); line-height:1.15; letter-spacing:-.01em; margin-block:8px 20px; }
+.gb-apostila > header > p:last-child { font-size:1.2rem; line-height:1.7; }
+.gb-apostila > section { margin-block:72px; }
+.gb-apostila h2 { font-size:1.5rem; line-height:1.3; padding-block-start:20px; border-block-start:1px solid var(--color-ochre); margin-block-end:24px; }
+.gb-apostila h3 { font-size:1.15rem; line-height:1.4; font-weight:700; margin-block:44px 12px; }
+.gb-apostila p { margin-block:0 1.1em; }
+.gb-apostila ul, .gb-apostila ol { margin-block:0 1.25em; }
+.gb-apostila li { margin-block:.45em; }
+.gb-apostila .gb-incidencia { list-style:none; padding:0; margin-block:0 20px; }
+.gb-apostila .gb-incidencia li { padding-block:10px; border-block-end:1px solid var(--color-line); }
+.gb-apostila .gb-incidencia-selo { display:inline-block; margin-inline-end:8px; font-family:var(--font-mono); font-size:.78rem; letter-spacing:.06em; text-transform:uppercase; color:var(--color-stamp); }
+.gb-apostila .gb-exam-trap { background:none; border:0; border-inline-start:1px solid var(--color-stamp); padding:4px 0 4px 24px; margin-block:48px; font-size:1rem; }
+.gb-apostila .gb-exam-trap h3 { margin-block:0 8px; font-family:var(--font-mono); font-size:.8rem; letter-spacing:.06em; text-transform:uppercase; color:var(--color-stamp); }
+.gb-apostila .gb-worked-example { background:none; border-radius:0; padding:28px 0; margin-block:40px; border-block:1px solid var(--color-line); }
+.gb-apostila .gb-worked-example h3 { margin-block-start:0; }
+.gb-apostila details > summary { margin-block:12px; }
+.gb-apostila #bateria ~ section h3, .gb-apostila section > section > h3 { margin-block-start:36px; }
+@media(max-width:767px){.gb-apostila{font-size:1.0625rem;line-height:1.7}.gb-apostila > section{margin-block:56px}.gb-apostila .gb-exam-trap{padding-inline-start:16px}}

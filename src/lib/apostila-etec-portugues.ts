@@ -19,6 +19,7 @@ type QuestaoComentada = {
 };
 
 export type CapituloPortugues = {
+  materia?: string;
   introducao: string;
   codigos: string[];
   raioX: string;

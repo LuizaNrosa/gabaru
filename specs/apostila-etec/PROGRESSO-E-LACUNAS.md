@@ -1,7 +1,7 @@
 # Progresso e lacunas · Apostila ETEC
 
 Produto pago previsto para o leitor interno do Gabaru. **Apostila Completa para Vestibulinho da ETEC Atualizada — Teoria e Resoluções Comentadas.**
-Base auditada `23981b5` no PR #115. O status técnico de publicação dos seis capítulos indica disponibilidade no leitor. O aceite editorial para o produto pago depende dos critérios abaixo.
+Ciclo de ampliação de Português no PR #115, sobre o diagnóstico `46cafac`. O aceite editorial para o produto pago depende dos critérios abaixo.
 
 ## 1. Placar Real em `%` (O Que Está Pronto vs. O Que Falta)
 
@@ -9,7 +9,7 @@ O placar mede entrega comprovada. A coluna “faltante” é o saldo de 100% ap�
 
 | Matéria | Tópicos | % concluído comprovado | % faltante ao placar comprovado |
 | --- | ---: | ---: | ---: |
-| Português | 9 | 24,75% | 75,25% |
+| Português | 9 | 51,60% | 48,40% |
 | Matemática | 12 | 7,66% | 92,34% |
 | Física | 6 | 7,62% | 92,38% |
 | Química | 5 | 7,58% | 92,42% |
@@ -17,32 +17,32 @@ O placar mede entrega comprovada. A coluna “faltante” é o saldo de 100% ap�
 | História | 7 | 7,65% | 92,35% |
 | Geografia | 5 | 7,61% | 92,39% |
 | Atualidades | 2 | 7,55% | 92,45% |
-| **Apostila ETEC** | **52** | **11,77%** | **88,23%** |
+| **Apostila ETEC** | **52** | **15,26%** | **84,74%** |
 
 Regra de cálculo aplicada aos quatro pesos fixos. A nota geral usa os denominadores do projeto.
 
 - **Mapeamento · 15 pontos.** 7,5 pelo edital verticalizado (52/52). Os outros 7,5 são proporcionais à classificação dos itens. O geral usa `(761 válidas classificadas + 7 anulações registradas) ÷ 2.090`. Em Português, 609/609 classificadas pela operação principal, com revisão qualitativa contabilizada no componente de auditoria. Para as outras matérias, o menor percentual comprovável usa `confirmadas ÷ (confirmadas + 1.322)`. O saldo de 1.322 é compartilhado e esses limites por matéria não se somam.
-- **Teoria completa no leitor · 35 pontos.** Crédito por tópico com teoria completa e revisão editorial comprovada. Os seis capítulos de Português tocam nove tópicos e os dois textos de Matemática são amostras. A contagem de tópicos completos pelo critério é 0/52.
+- **Teoria completa no leitor · 35 pontos.** Crédito por tópico com teoria completa e revisão editorial comprovada. Os seis capítulos de Português foram ampliados nos nove tópicos. A revisão do acervo continua aberta e a meta de aceite permanece em 0/52. Os dois textos de Matemática são amostras.
 - **Exercícios · 30 pontos.** 20 para oficiais e 10 para autorais, proporcionais às metas mínimas de 10 e 5 por capítulo. O geral usa 490 oficiais e 245 autorais. Crédito exige justificativa da correta e dos quatro distratores separadamente.
-- **Auditoria, revisão e apêndice · 20 pontos.** 15 pela checagem qualitativa por questão válida (17/2.083 no geral) e 5 pelo apêndice por tópico (9/52 no geral). Revisão sem evidência individual não soma pontos. Em Português, a checagem documentada é 17/609 e o apêndice cobre 9/9 tópicos.
+- **Auditoria, revisão e apêndice · 20 pontos.** 15 pela checagem qualitativa por questão válida (65/2.083 no geral) e 5 pelo apêndice por tópico (9/52 no geral). Em Português, o apêndice cobre 9/9 tópicos. A checagem documentada passou de 17 para **65/609 (10,67%)**, com 48 novos confrontos com o caderno e comentários por alternativa.
 
 ## 2. O Que Falta de Teoria Real (Sem Pular Nada)
 
-**Português.** Há 592 questões pendentes, identificadas uma a uma com edição e página no JSON. A busca por palavras nos trechos extraídos indica o que procurar. O número de itens por sinal pode se sobrepor e a página oficial decide o gênero, o alvo do comando e a pegadinha. Em trechos truncados ou com colunas misturadas, o JSON preserva a pendência. Há **188 itens** sem sinal textual suficiente.
+**Português.** Há 544 questões pendentes, identificadas uma a uma com edição e página no JSON. A busca por palavras nos trechos extraídos indica o que procurar. O número de itens por sinal pode se sobrepor e a página oficial decide o gênero, o alvo do comando e a pegadinha. Em trechos truncados ou com colunas misturadas, o JSON preserva a pendência. Há **169 itens** sem sinal textual suficiente.
 
 | Tópico | Itens pendentes | Sinais localizados e aprofundamento |
 | --- | ---: | --- |
-| LP01 | 206 | Separar paráfrase, síntese, pressuposto e inferência. Treinar quantificadores, modalização, inversão de causa e efeito e comandos com I–IV em textos longos e técnico-científicos. **Sinais na fila.** Inferência, conclusão e formulação explícita (94), Exige leitura direta do caderno (85), Textos técnicos, dados e séries de afirmações (18), Campanha, anúncio, notícia e artigo (14), Imagem, mapa, gráfico e tabela (6), Poema, letra, verso e ritmo (5), Prosa narrativa, vozes e personagens (4), Charge, cartum, quadrinhos e tirinha (1). |
-| LP02 | 91 | Treinar leitura integral de charge e tirinha, anúncio e campanha, notícia, artigo, cartum, mapa, tabela e gráfico. Distinguir intenção, suporte, público, legenda e o papel da imagem. **Sinais na fila.** Charge, cartum, quadrinhos e tirinha (35), Exige leitura direta do caderno (24), Imagem, mapa, gráfico e tabela (23), Prosa narrativa, vozes e personagens (11), Campanha, anúncio, notícia e artigo (8), Comparação de textos, reescrita e intertextualidade (7), Poema, letra, verso e ritmo (2). |
-| LP03 | 29 | Reconstruir tese, evidência e justificativa. Distinguir afirmação factual, juízo, analogia, autoridade, contraexemplo, generalização e proposta compatível com o critério. **Sinais na fila.** Tese, evidência, fonte, fato e opinião (17), Textos técnicos, dados e séries de afirmações (8), Exige leitura direta do caderno (7), Campanha, anúncio, notícia e artigo (4), Comparação de textos, reescrita e intertextualidade (2). |
-| LP04 | 71 | Contrastar denotação e conotação, polissemia, ambiguidade, sinonímia aproximada, ironia, metáfora e outras figuras. Explicar como testar substituição sem mudar tom, tempo ou intensidade. **Sinais na fila.** Polissemia, sinonímia e sentido em contexto (25), Figuras, humor, ironia e som (21), Exige leitura direta do caderno (18), Poema, letra, verso e ritmo (16), Charge, cartum, quadrinhos e tirinha (15), Prosa narrativa, vozes e personagens (5). |
-| LP05 | 65 | Treinar retomada pronominal e lexical, elipse, sequência, valores de conjunções e preposições, troca de conectores e relação entre textos, imagem e letra de canção. **Sinais na fila.** Exige leitura direta do caderno (30), Comparação de textos, reescrita e intertextualidade (16), Retomadas, conectores e valores semânticos (10), Charge, cartum, quadrinhos e tirinha (8), Poema, letra, verso e ritmo (4). |
-| LP06 | 82 | Aprofundar classes e funções, formação de palavras, sujeito e predicação, concordância e impessoalidade, regência e crase, pronomes e colocação, flexão, discurso direto e indireto, pontuação, acentuação e ortografia. Contrastar mudanças de norma e de sentido. **Sinais na fila.** Classes, formação, sintaxe e flexão (52), Variedade, tratamento, norma e registro (22), Exige leitura direta do caderno (10), Grafia, pontuação, acentuação e discurso (8), Concordância, regência, crase e colocação (7). |
-| LP07 | 7 | Analisar variantes de registro, regionais e sociais e o valor de coloquialismos e formas de tratamento. Explicar adequação e efeitos de voz sem confundir variedade e erro. **Sinais na fila.** Variedade, tratamento, norma e registro (5), Prosa narrativa, vozes e personagens (2), Exige leitura direta do caderno (1). |
-| LP08 | 41 | Trabalhar crônica, conto, poema, letra de canção e diálogo, autor e narrador, foco narrativo, eu lírico, personagem, contexto, título, ritmo, repetição e desfecho. **Sinais na fila.** Poema, letra, verso e ritmo (22), Exige leitura direta do caderno (13), Prosa narrativa, vozes e personagens (7). |
-| LP09 | 0 | O único item histórico do código já está nos 17 casos. Ainda faltam revisão editorial de reescrita, edição e oralidade e uma bateria que avalie as habilidades de referência sem presumir redação discursiva na prova. |
+| LP01 | 197 | Separar paráfrase, síntese, pressuposto e inferência. Treinar quantificadores, modalização, inversão de causa e efeito e comandos com I–IV em textos longos e técnico-científicos. **Sinais na fila.** Inferência, conclusão e formulação explícita (88), Exige leitura direta do caderno (82), Textos técnicos, dados e séries de afirmações (17), Campanha, anúncio, notícia e artigo (14), Imagem, mapa, gráfico e tabela (6), Poema, letra, verso e ritmo (5), Prosa narrativa, vozes e personagens (4), Charge, cartum, quadrinhos e tirinha (1). |
+| LP02 | 83 | Treinar leitura integral de charge e tirinha, anúncio e campanha, notícia, artigo, cartum, mapa, tabela e gráfico. Distinguir intenção, suporte, público, legenda e o papel da imagem. **Sinais na fila.** Charge, cartum, quadrinhos e tirinha (33), Imagem, mapa, gráfico e tabela (22), Exige leitura direta do caderno (21), Prosa narrativa, vozes e personagens (10), Campanha, anúncio, notícia e artigo (7), Comparação de textos, reescrita e intertextualidade (6), Poema, letra, verso e ritmo (2). |
+| LP03 | 22 | Reconstruir tese, evidência e justificativa. Distinguir afirmação factual, juízo, analogia, autoridade, contraexemplo, generalização e proposta compatível com o critério. **Sinais na fila.** Tese, evidência, fonte, fato e opinião (16), Textos técnicos, dados e séries de afirmações (7), Campanha, anúncio, notícia e artigo (4), Comparação de textos, reescrita e intertextualidade (2), Exige leitura direta do caderno (2). |
+| LP04 | 66 | Contrastar denotação e conotação, polissemia, ambiguidade, sinonímia aproximada, ironia, metáfora e outras figuras. Explicar como testar substituição sem mudar tom, tempo ou intensidade. **Sinais na fila.** Polissemia, sinonímia e sentido em contexto (24), Figuras, humor, ironia e som (18), Exige leitura direta do caderno (17), Poema, letra, verso e ritmo (15), Charge, cartum, quadrinhos e tirinha (13), Prosa narrativa, vozes e personagens (5). |
+| LP05 | 57 | Treinar retomada pronominal e lexical, elipse, sequência, valores de conjunções e preposições, troca de conectores e relação entre textos, imagem e letra de canção. **Sinais na fila.** Exige leitura direta do caderno (23), Comparação de textos, reescrita e intertextualidade (15), Retomadas, conectores e valores semânticos (10), Charge, cartum, quadrinhos e tirinha (8), Poema, letra, verso e ritmo (4). |
+| LP06 | 76 | Aprofundar classes e funções, formação de palavras, sujeito e predicação, concordância e impessoalidade, regência e crase, pronomes e colocação, flexão, discurso direto e indireto, pontuação, acentuação e ortografia. Contrastar mudanças de norma e de sentido. **Sinais na fila.** Classes, formação, sintaxe e flexão (49), Variedade, tratamento, norma e registro (21), Exige leitura direta do caderno (10), Grafia, pontuação, acentuação e discurso (5), Concordância, regência, crase e colocação (5). |
+| LP07 | 5 | Analisar variantes de registro, regionais e sociais e o valor de coloquialismos e formas de tratamento. Explicar adequação e efeitos de voz sem confundir variedade e erro. **Sinais na fila.** Variedade, tratamento, norma e registro (4), Prosa narrativa, vozes e personagens (1), Exige leitura direta do caderno (1). |
+| LP08 | 38 | Trabalhar crônica, conto, poema, letra de canção e diálogo, autor e narrador, foco narrativo, eu lírico, personagem, contexto, título, ritmo, repetição e desfecho. **Sinais na fila.** Poema, letra, verso e ritmo (20), Exige leitura direta do caderno (13), Prosa narrativa, vozes e personagens (6). |
+| LP09 | 0 | O único item histórico do código já foi analisado. A teoria e os exemplos agora cobrem reescrita e passagem da fala para a escrita. Ainda falta o aceite editorial desse tópico para o conjunto da disciplina. |
 
-Para cada item da fila, comparar enunciado, suporte, cinco alternativas e gabarito com a teoria. Apontar a técnica que resolve a questão e como cada distrator desvia dela. Registrar no item qualquer conceito ausente ou exemplo insuficiente. Os 17 casos anteriores, com suas referências, estão na auditoria. [Fila individual](progresso-apostila.json) · [Auditoria anterior](auditoria-cobertura-portugues.md)
+Para cada item da fila, comparar enunciado, suporte, cinco alternativas e gabarito com a teoria. Apontar a técnica que resolve a questão e como cada distrator desvia dela. Registrar no item qualquer conceito ausente ou exemplo insuficiente. A auditoria reúne 17 casos anteriores e 48 novos, com referência à página do caderno e à análise dos distratores. [Fila individual](progresso-apostila.json) · [Auditoria atualizada](auditoria-cobertura-portugues.md)
 
 **Outras matérias.** O corpus soma **2.083 válidas** e **7 anuladas**. Das **1.474 válidas fora de Português**, **152** têm matéria confirmada e **1.322** aguardam classificação individual. Os mínimos abaixo são contagens exatas de registros confirmados. O total histórico de cada uma dessas matérias permanece indeterminado. Os 43 tópicos listados têm 0% de teoria completa.
 
@@ -54,7 +54,7 @@ Para cada item da fila, comparar enunciado, suporte, cinco alternativas e gabari
 - **Geografia · 19 confirmadas.** `GE01` Cartografia, orientação e escalas · `GE02` Dinâmica natural, paisagens, biomas e recursos · `GE03` População, migração, urbanização e desigualdade · `GE04` Brasil: território, campo, indústria e redes · `GE05` Mundo, globalização, regionalização e geopolítica.
 - **Atualidades · 9 confirmadas.** `IN01` Contexto, interpretação de representações e dados · `IN02` Cidadania, ambiente, trabalho e intervenção.
 
-**Edital oculto.** O art. 28 remete à BNCC e não enumera microassuntos. A tabela lista ocorrências identificadas que pedem granularidade adicional em relação à portaria e aos descritores editoriais. Alguns itens fornecem a definição ou o modelo. A relação com a BNCC precisa ser verificada caso a caso antes de dizer que houve cobrança além do escopo. A lista é parcial, especialmente enquanto 1.322 questões carecem de classificação disciplinar e 592 de Português carecem de confronto qualitativo.
+**Edital oculto.** O art. 28 remete à BNCC e não enumera microassuntos. A tabela lista ocorrências identificadas que pedem granularidade adicional em relação à portaria e aos descritores editoriais. Alguns itens fornecem a definição ou o modelo. A relação com a BNCC precisa ser verificada caso a caso antes de dizer que houve cobrança além do escopo. A lista é parcial, especialmente enquanto 1.322 questões carecem de classificação disciplinar e 544 de Português carecem de confronto qualitativo.
 
 | Detalhe identificado | Questões oficiais | Tratamento |
 | --- | --- | --- |
@@ -74,7 +74,7 @@ Meta mínima por capítulo de **10 oficiais ETEC e 5 autorais**, com correta e q
 
 | Matéria | Capítulos usados na meta | Oficiais completas | Meta oficial | Faltam para a meta | Faltam para comentar o histórico |
 | --- | ---: | ---: | ---: | ---: | --- |
-| Português | 6 | 12 | 60 | **48** | 597 |
+| Português | 6 | 60 | 60 | **0** | 549 |
 | Matemática | 12 | 0 | 120 | **120** | ≥ 28 confirmadas, total em aberto |
 | Física | 6 | 0 | 60 | **60** | ≥ 21 confirmadas, total em aberto |
 | Química | 5 | 0 | 50 | **50** | ≥ 15 confirmadas, total em aberto |
@@ -83,20 +83,19 @@ Meta mínima por capítulo de **10 oficiais ETEC e 5 autorais**, com correta e q
 | Geografia | 5 | 0 | 50 | **50** | ≥ 19 confirmadas, total em aberto |
 | Atualidades | 2 | 0 | 20 | **20** | ≥ 9 confirmadas, total em aberto |
 
-Português precisa de **8 oficiais adicionais em cada capítulo**. Dos 12 exemplos autorais existentes, **1** cumpre a regra de justificar individualmente os quatro distratores (Compreensão e inferência, exemplo 1). Para a meta de 30 completos, faltam **29**. É possível completar o comentário de 11 existentes e escrever 18 novos. No planejamento das demais matérias a meta é de **215 autorais**, todos pendentes.
+Português atingiu o piso de **60 oficiais e 30 autorais**, com 10 e 5 por capítulo. Foram acrescentadas 48 oficiais, completados os comentários de 11 exemplos anteriores e escritos 18 novos. No planejamento das demais matérias a meta é de **215 autorais**, todos pendentes.
 
 ## 4. Lista Cirúrgica do Que Eu Preciso Te Enviar Agora
 
-O Drive registrou HTTP 302 para o login. O Lote 1 pede três recortes de Português e dois de Matemática. Os títulos privados de Português ainda são desconhecidos. Os rótulos abaixo indicam exatamente o conteúdo dos capítulos a recortar de material já disponível para consulta. Os títulos de Matemática foram conferidos no inventário do Drive.
+O Lote 1 chegou em seis PDFs. Platão e Fiorin e Fernando Pestana serviram à consulta dirigida de Português. Os quatro arquivos de Matemática foram guardados para o ciclo seguinte.
 
-| Material | Recorte solicitado | Destino | Limite |
-| --- | --- | --- | ---: |
-| Interpretação e gêneros | Texto longo e técnico, inferência e pressuposto, argumento e distratores, charge, tirinha, anúncio, notícia, artigo e infográfico. | `bibliografia-pdfs/portugues/` | 24 MB |
-| Semântica, coesão e leitura literária | Figuras, ambiguidade, referenciação, conectores, reescrita, intertextualidade, narrador, poema e letra de canção. | `bibliografia-pdfs/portugues/` | 24 MB |
-| Gramática em contexto e revisão | Classes e sintaxe, regência, concordância, crase, colocação, discurso, pontuação, ortografia, variação, adequação e reescrita. | `bibliografia-pdfs/portugues/` | 24 MB |
-| `CAP.1-CONJUNTOS NUMÉRICOS.pdf` | Recorte de naturais, inteiros, racionais, frações e decimais. | `bibliografia-pdfs/matematica/` | 28 MB |
-| `CAP.9-MATEMATICA FINANCEIRA.pdf` | Recorte de razão, proporção, porcentagem e juros simples. | `bibliografia-pdfs/matematica/` | 28 MB |
+| Arquivo | Destino | Páginas do PDF | Uso |
+| --- | --- | ---: | --- |
+| `PARA_ENTENDER_O_TEXTO_LEITURA_E_REDAÇÃO_PLATÃO_E_FIORIN_16_edição.pdf` | `bibliografia-pdfs/portugues/` | 433 | Consulta dirigida |
+| `Português - A Gramática para Concursos Públicos - Edição do Professor.pdf` | `bibliografia-pdfs/portugues/` | 1505 | Consulta dirigida |
+| `Apostila Matematica Financeira.pdf` | `bibliografia-pdfs/matematica/` | 34 | Reservado para o próximo ciclo |
+| `Aula 00 - Teoria Elementar dos Conjuntos - EFOMM 2024.pdf` | `bibliografia-pdfs/matematica/` | 179 | Reservado para o próximo ciclo |
+| `Aula 08 - Matemática Financeira - EFOMM 2024.pdf` | `bibliografia-pdfs/matematica/` | 47 | Reservado para o próximo ciclo |
+| `Teoria Conjuntos att.pdf` | `bibliografia-pdfs/matematica/` | 33 | Reservado para o próximo ciclo |
 
-Limite de **128 MB no lote** e **32 MB por arquivo**. Divida por páginas se necessário e conte todas as partes na soma do lote. A medição de disco foi **70%**. A margem conservadora até 79% é de **731 MB**. O orçamento reserva até **512 MB no pico local** para originais, cópias e temporários. Se o uso variar, a transferência só cabe se a margem até 79% continuar cobrindo esse pico.
-
-Inclua título, autor, edição e intervalo de páginas. Esses arquivos servem de consulta local, estão fora do Git e não substituem a revisão dos 592 itens, o aprofundamento e a produção de exercícios. O acervo oficial de provas já está disponível. [Mapa da bibliografia](mapa-bibliografia.json)
+Os PDFs somam **40.61 MB** e o disco estava em **71%** na medição. O inventário registra os intervalos conferidos e o offset de uma página entre o miolo impresso de Platão e Fiorin e o arquivo digital. Pestana tem 1.505 páginas no PDF e 1.112 na ficha editorial. [Mapa da bibliografia](mapa-bibliografia.json)

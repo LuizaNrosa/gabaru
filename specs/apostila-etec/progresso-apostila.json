@@ -1,7 +1,7 @@
 {
-  "versao": 1,
+  "versao": 2,
   "data_referencia": "2026-11-18",
-  "base_auditada_git": "23981b5acaeb21da2002e8235a154bd6840ebce4",
+  "commit_de_referencia_anterior": "46cafaceede17ff24f05bbaa0da6b355d7c4836e",
   "produto": "Apostila Completa para Vestibulinho da ETEC Atualizada — Teoria e Resoluções Comentadas",
   "inventario": {
     "topicos": 52,
@@ -51,23 +51,23 @@
       "validas_confirmadas": 609,
       "validas_total": 609,
       "limite_superior_individual_validas": 609,
-      "percentual_concluido_comprovado": 24.7521,
-      "percentual_faltante_ao_minimo_comprovado": 75.2479,
+      "percentual_concluido_comprovado": 51.601,
+      "percentual_faltante_ao_minimo_comprovado": 48.399,
       "componentes_em_pontos": {
         "mapeamento": 15.0,
         "teoria_completa": 0,
-        "exercicios": 4.333333,
-        "auditoria_revisao_apendice": 5.418719
+        "exercicios": 30.0,
+        "auditoria_revisao_apendice": 6.600985
       },
       "capitulos_base_da_meta": 6,
       "capitulos_publicados_no_leitor": 6,
       "meta_minima_oficiais": 60,
-      "oficiais_completas": 12,
-      "oficiais_faltam_para_meta": 48,
-      "oficiais_faltam_para_todas": 597,
-      "oficiais_faltam_para_todas_minimo": 597,
+      "oficiais_completas": 60,
+      "oficiais_faltam_para_meta": 0,
+      "oficiais_faltam_para_todas": 549,
+      "oficiais_faltam_para_todas_minimo": 549,
       "meta_minima_autorais": 30,
-      "autorais_completas": 1
+      "autorais_completas": 30
     },
     {
       "sigla": "MA",
@@ -1763,53 +1763,130 @@
     "etec-2024-2-q049"
   ],
   "geral": {
-    "percentual_concluido_comprovado": 11.7744,
-    "percentual_faltante_ao_minimo_comprovado": 88.2256,
+    "percentual_concluido_comprovado": 15.2629,
+    "percentual_faltante_ao_minimo_comprovado": 84.7371,
     "componentes_em_pontos": {
       "mapeamento": 10.255981,
       "teoria_completa": 0,
-      "exercicios": 0.530612,
-      "auditoria_revisao_apendice": 0.987804
+      "exercicios": 3.673469,
+      "auditoria_revisao_apendice": 1.33346
     }
   },
   "portugues": {
-    "pendentes_sem_sinal_textual": 188,
-    "temas_com_redacao_preliminar": 9,
-    "capitulos_preliminares": 6,
+    "pendentes_sem_sinal_textual": 169,
+    "temas_com_teoria_ampliada": 9,
+    "capitulos_ampliados": 6,
     "validas": 609,
-    "qualitativas_documentadas": 17,
+    "qualitativas_documentadas": 65,
     "ids_qualitativas_documentadas": [
+      "etec-2007-1-q004",
       "etec-2007-2-q001",
+      "etec-2007-2-q013",
       "etec-2008-2-q032",
       "etec-2009-1-extra1-q009",
+      "etec-2014-1-q013",
       "etec-2014-2-q029",
+      "etec-2015-1-q017",
+      "etec-2016-1-q035",
+      "etec-2016-1-q043",
+      "etec-2017-2-q041",
+      "etec-2018-1-q017",
       "etec-2018-1-q045",
+      "etec-2018-2-q002",
+      "etec-2018-2-q010",
+      "etec-2019-1-q004",
+      "etec-2019-1-q017",
       "etec-2019-1-q038",
       "etec-2019-2-q002",
+      "etec-2019-2-q016",
       "etec-2020-1-q032",
       "etec-2022-2-q007",
+      "etec-2022-2-q039",
+      "etec-2023-1-q002",
+      "etec-2023-1-q003",
+      "etec-2023-1-q005",
+      "etec-2023-1-q010",
+      "etec-2023-1-q011",
       "etec-2023-1-q021",
+      "etec-2023-1-q025",
+      "etec-2023-1-q034",
+      "etec-2023-2-q007",
+      "etec-2023-2-q028",
+      "etec-2024-1-q006",
+      "etec-2024-1-q007",
+      "etec-2024-1-q014",
+      "etec-2024-1-q020",
+      "etec-2024-1-q021",
+      "etec-2024-1-q025",
+      "etec-2024-2-q006",
+      "etec-2024-2-q007",
+      "etec-2024-2-q008",
+      "etec-2024-2-q009",
+      "etec-2024-2-q026",
+      "etec-2024-2-q027",
+      "etec-2025-1-q003",
+      "etec-2025-1-q004",
+      "etec-2025-1-q048",
+      "etec-2025-1-q049",
       "etec-2026-1-q001",
+      "etec-2026-1-q005",
+      "etec-2026-1-q006",
+      "etec-2026-1-q008",
       "etec-2026-1-q012",
       "etec-2026-1-q021",
+      "etec-2026-1-q022",
       "etec-2026-1-q024",
+      "etec-2026-2-q016",
       "etec-2026-2-q029",
       "etec-2026-2-q030",
-      "etec-2026-2-q031"
+      "etec-2026-2-q031",
+      "etec-2026-2-q032",
+      "etec-2026-2-q033",
+      "etec-2026-2-q035",
+      "etec-2026-2-q043"
     ],
-    "pendencia_qualitativa": 592,
+    "pendencia_qualitativa": 544,
     "vinculos_por_etiqueta": 609,
-    "exemplos_autorais_existentes": 12,
+    "exemplos_autorais_existentes": 30,
     "exemplos_autorais_com_distratores_individuais": [
-      "compreensao-e-inferencia#exemplo-1"
+      "compreensao-e-inferencia#exemplo-1",
+      "compreensao-e-inferencia#exemplo-2",
+      "compreensao-e-inferencia#exemplo-3",
+      "compreensao-e-inferencia#exemplo-4",
+      "compreensao-e-inferencia#exemplo-5",
+      "generos-e-leitura-multimodal#exemplo-1",
+      "generos-e-leitura-multimodal#exemplo-2",
+      "generos-e-leitura-multimodal#exemplo-3",
+      "generos-e-leitura-multimodal#exemplo-4",
+      "generos-e-leitura-multimodal#exemplo-5",
+      "sentido-e-leitura-literaria#exemplo-1",
+      "sentido-e-leitura-literaria#exemplo-2",
+      "sentido-e-leitura-literaria#exemplo-3",
+      "sentido-e-leitura-literaria#exemplo-4",
+      "sentido-e-leitura-literaria#exemplo-5",
+      "coesao-e-intertextualidade#exemplo-1",
+      "coesao-e-intertextualidade#exemplo-2",
+      "coesao-e-intertextualidade#exemplo-3",
+      "coesao-e-intertextualidade#exemplo-4",
+      "coesao-e-intertextualidade#exemplo-5",
+      "argumentacao-e-revisao#exemplo-1",
+      "argumentacao-e-revisao#exemplo-2",
+      "argumentacao-e-revisao#exemplo-3",
+      "argumentacao-e-revisao#exemplo-4",
+      "argumentacao-e-revisao#exemplo-5",
+      "gramatica-e-variacao#exemplo-1",
+      "gramatica-e-variacao#exemplo-2",
+      "gramatica-e-variacao#exemplo-3",
+      "gramatica-e-variacao#exemplo-4",
+      "gramatica-e-variacao#exemplo-5"
     ],
     "por_topico": {
       "LP01": {
-        "pendentes": 206,
+        "pendentes": 197,
         "sinais_nao_exclusivos": {
-          "Textos técnicos, dados e séries de afirmações": 18,
-          "Exige leitura direta do caderno": 85,
-          "Inferência, conclusão e formulação explícita": 94,
+          "Textos técnicos, dados e séries de afirmações": 17,
+          "Exige leitura direta do caderno": 82,
+          "Inferência, conclusão e formulação explícita": 88,
           "Campanha, anúncio, notícia e artigo": 14,
           "Prosa narrativa, vozes e personagens": 4,
           "Poema, letra, verso e ritmo": 5,
@@ -1819,85 +1896,85 @@
         "aprofundamento": "Separar paráfrase, síntese, pressuposto e inferência. Treinar quantificadores, modalização, inversão de causa e efeito e comandos com I–IV em textos longos e técnico-científicos."
       },
       "LP02": {
-        "pendentes": 91,
+        "pendentes": 83,
         "sinais_nao_exclusivos": {
-          "Charge, cartum, quadrinhos e tirinha": 35,
-          "Imagem, mapa, gráfico e tabela": 23,
-          "Prosa narrativa, vozes e personagens": 11,
-          "Exige leitura direta do caderno": 24,
+          "Charge, cartum, quadrinhos e tirinha": 33,
+          "Imagem, mapa, gráfico e tabela": 22,
+          "Prosa narrativa, vozes e personagens": 10,
+          "Exige leitura direta do caderno": 21,
           "Poema, letra, verso e ritmo": 2,
-          "Campanha, anúncio, notícia e artigo": 8,
-          "Comparação de textos, reescrita e intertextualidade": 7
+          "Campanha, anúncio, notícia e artigo": 7,
+          "Comparação de textos, reescrita e intertextualidade": 6
         },
         "aprofundamento": "Treinar leitura integral de charge e tirinha, anúncio e campanha, notícia, artigo, cartum, mapa, tabela e gráfico. Distinguir intenção, suporte, público, legenda e o papel da imagem."
       },
       "LP03": {
-        "pendentes": 29,
+        "pendentes": 22,
         "sinais_nao_exclusivos": {
-          "Textos técnicos, dados e séries de afirmações": 8,
-          "Tese, evidência, fonte, fato e opinião": 17,
+          "Textos técnicos, dados e séries de afirmações": 7,
+          "Tese, evidência, fonte, fato e opinião": 16,
           "Campanha, anúncio, notícia e artigo": 4,
           "Comparação de textos, reescrita e intertextualidade": 2,
-          "Exige leitura direta do caderno": 7
+          "Exige leitura direta do caderno": 2
         },
         "aprofundamento": "Reconstruir tese, evidência e justificativa. Distinguir afirmação factual, juízo, analogia, autoridade, contraexemplo, generalização e proposta compatível com o critério."
       },
       "LP04": {
-        "pendentes": 71,
+        "pendentes": 66,
         "sinais_nao_exclusivos": {
-          "Figuras, humor, ironia e som": 21,
-          "Polissemia, sinonímia e sentido em contexto": 25,
-          "Exige leitura direta do caderno": 18,
-          "Charge, cartum, quadrinhos e tirinha": 15,
-          "Poema, letra, verso e ritmo": 16,
+          "Figuras, humor, ironia e som": 18,
+          "Polissemia, sinonímia e sentido em contexto": 24,
+          "Exige leitura direta do caderno": 17,
+          "Charge, cartum, quadrinhos e tirinha": 13,
+          "Poema, letra, verso e ritmo": 15,
           "Prosa narrativa, vozes e personagens": 5
         },
         "aprofundamento": "Contrastar denotação e conotação, polissemia, ambiguidade, sinonímia aproximada, ironia, metáfora e outras figuras. Explicar como testar substituição sem mudar tom, tempo ou intensidade."
       },
       "LP05": {
-        "pendentes": 65,
+        "pendentes": 57,
         "sinais_nao_exclusivos": {
-          "Comparação de textos, reescrita e intertextualidade": 16,
+          "Comparação de textos, reescrita e intertextualidade": 15,
           "Charge, cartum, quadrinhos e tirinha": 8,
           "Poema, letra, verso e ritmo": 4,
-          "Exige leitura direta do caderno": 30,
+          "Exige leitura direta do caderno": 23,
           "Retomadas, conectores e valores semânticos": 10
         },
         "aprofundamento": "Treinar retomada pronominal e lexical, elipse, sequência, valores de conjunções e preposições, troca de conectores e relação entre textos, imagem e letra de canção."
       },
       "LP06": {
-        "pendentes": 82,
+        "pendentes": 76,
         "sinais_nao_exclusivos": {
-          "Grafia, pontuação, acentuação e discurso": 8,
-          "Variedade, tratamento, norma e registro": 22,
-          "Classes, formação, sintaxe e flexão": 52,
-          "Concordância, regência, crase e colocação": 7,
+          "Grafia, pontuação, acentuação e discurso": 5,
+          "Variedade, tratamento, norma e registro": 21,
+          "Classes, formação, sintaxe e flexão": 49,
+          "Concordância, regência, crase e colocação": 5,
           "Exige leitura direta do caderno": 10
         },
         "aprofundamento": "Aprofundar classes e funções, formação de palavras, sujeito e predicação, concordância e impessoalidade, regência e crase, pronomes e colocação, flexão, discurso direto e indireto, pontuação, acentuação e ortografia. Contrastar mudanças de norma e de sentido."
       },
       "LP07": {
-        "pendentes": 7,
+        "pendentes": 5,
         "sinais_nao_exclusivos": {
-          "Variedade, tratamento, norma e registro": 5,
-          "Prosa narrativa, vozes e personagens": 2,
+          "Variedade, tratamento, norma e registro": 4,
+          "Prosa narrativa, vozes e personagens": 1,
           "Exige leitura direta do caderno": 1
         },
         "aprofundamento": "Analisar variantes de registro, regionais e sociais e o valor de coloquialismos e formas de tratamento. Explicar adequação e efeitos de voz sem confundir variedade e erro."
       },
       "LP08": {
-        "pendentes": 41,
+        "pendentes": 38,
         "sinais_nao_exclusivos": {
-          "Poema, letra, verso e ritmo": 22,
+          "Poema, letra, verso e ritmo": 20,
           "Exige leitura direta do caderno": 13,
-          "Prosa narrativa, vozes e personagens": 7
+          "Prosa narrativa, vozes e personagens": 6
         },
         "aprofundamento": "Trabalhar crônica, conto, poema, letra de canção e diálogo, autor e narrador, foco narrativo, eu lírico, personagem, contexto, título, ritmo, repetição e desfecho."
       },
       "LP09": {
         "pendentes": 0,
         "sinais_nao_exclusivos": {},
-        "aprofundamento": "O único item histórico do código já está nos 17 casos. Ainda faltam revisão editorial de reescrita, edição e oralidade e uma bateria que avalie as habilidades de referência sem presumir redação discursiva na prova."
+        "aprofundamento": "O único item histórico do código já foi analisado. A teoria e os exemplos agora cobrem reescrita e passagem da fala para a escrita. Ainda falta o aceite editorial desse tópico para o conjunto da disciplina."
       }
     },
     "itens_pendentes": [
@@ -2727,22 +2804,6 @@
         "metodo_sinais": "trecho_extraido"
       },
       {
-        "id": "etec-2007-1-q004",
-        "edicao": "2007-1",
-        "pagina_pdf": 5,
-        "topico": "LP03",
-        "sinais_textuais": [
-          "Tese, evidência, fonte, fato e opinião"
-        ],
-        "termos_detectados_normalizados": {
-          "Tese, evidência, fonte, fato e opinião": [
-            "ponto de vista"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
         "id": "etec-2007-1-q010",
         "edicao": "2007-1",
         "pagina_pdf": 7,
@@ -2923,16 +2984,6 @@
         },
         "estado": "pendente_auditoria_qualitativa",
         "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2007-2-q013",
-        "edicao": "2007-2",
-        "pagina_pdf": 7,
-        "topico": "LP01",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
       },
       {
         "id": "etec-2007-2-q018",
@@ -6196,16 +6247,6 @@
         "metodo_sinais": "sem_sinal_suficiente"
       },
       {
-        "id": "etec-2014-1-q013",
-        "edicao": "2014-1",
-        "pagina_pdf": 8,
-        "topico": "LP03",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
         "id": "etec-2014-1-q014",
         "edicao": "2014-1",
         "pagina_pdf": 8,
@@ -6525,16 +6566,6 @@
         },
         "estado": "pendente_auditoria_qualitativa",
         "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2015-1-q017",
-        "edicao": "2015-1",
-        "pagina_pdf": 7,
-        "topico": "LP03",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
       },
       {
         "id": "etec-2015-1-q023",
@@ -6941,23 +6972,6 @@
         "metodo_sinais": "trecho_extraido"
       },
       {
-        "id": "etec-2016-1-q035",
-        "edicao": "2016-1",
-        "pagina_pdf": 14,
-        "topico": "LP07",
-        "sinais_textuais": [
-          "Prosa narrativa, vozes e personagens"
-        ],
-        "termos_detectados_normalizados": {
-          "Prosa narrativa, vozes e personagens": [
-            "conto",
-            "narrador"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
         "id": "etec-2016-1-q038",
         "edicao": "2016-1",
         "pagina_pdf": 16,
@@ -6985,30 +6999,6 @@
           "Classes, formação, sintaxe e flexão": [
             "predicacao",
             "verbal"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2016-1-q043",
-        "edicao": "2016-1",
-        "pagina_pdf": 19,
-        "topico": "LP06",
-        "sinais_textuais": [
-          "Concordância, regência, crase e colocação",
-          "Classes, formação, sintaxe e flexão",
-          "Variedade, tratamento, norma e registro"
-        ],
-        "termos_detectados_normalizados": {
-          "Concordância, regência, crase e colocação": [
-            "concordancia"
-          ],
-          "Classes, formação, sintaxe e flexão": [
-            "verbal"
-          ],
-          "Variedade, tratamento, norma e registro": [
-            "norma"
           ]
         },
         "estado": "pendente_auditoria_qualitativa",
@@ -7742,27 +7732,6 @@
         "metodo_sinais": "trecho_extraido"
       },
       {
-        "id": "etec-2017-2-q041",
-        "edicao": "2017-2",
-        "pagina_pdf": 18,
-        "topico": "LP06",
-        "sinais_textuais": [
-          "Classes, formação, sintaxe e flexão",
-          "Grafia, pontuação, acentuação e discurso"
-        ],
-        "termos_detectados_normalizados": {
-          "Classes, formação, sintaxe e flexão": [
-            "substantivo"
-          ],
-          "Grafia, pontuação, acentuação e discurso": [
-            "porque",
-            "grafia"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
         "id": "etec-2017-2-q049",
         "edicao": "2017-2",
         "pagina_pdf": 22,
@@ -7816,22 +7785,6 @@
         "termos_detectados_normalizados": {
           "Variedade, tratamento, norma e registro": [
             "norma"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2018-1-q017",
-        "edicao": "2018-1",
-        "pagina_pdf": 7,
-        "topico": "LP06",
-        "sinais_textuais": [
-          "Concordância, regência, crase e colocação"
-        ],
-        "termos_detectados_normalizados": {
-          "Concordância, regência, crase e colocação": [
-            "crase"
           ]
         },
         "estado": "pendente_auditoria_qualitativa",
@@ -7961,22 +7914,6 @@
         "metodo_sinais": "trecho_extraido"
       },
       {
-        "id": "etec-2018-2-q002",
-        "edicao": "2018-2",
-        "pagina_pdf": 2,
-        "topico": "LP06",
-        "sinais_textuais": [
-          "Classes, formação, sintaxe e flexão"
-        ],
-        "termos_detectados_normalizados": {
-          "Classes, formação, sintaxe e flexão": [
-            "pronome"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
         "id": "etec-2018-2-q003",
         "edicao": "2018-2",
         "pagina_pdf": 3,
@@ -8005,22 +7942,6 @@
         "termos_detectados_normalizados": {},
         "estado": "pendente_auditoria_qualitativa",
         "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2018-2-q010",
-        "edicao": "2018-2",
-        "pagina_pdf": 6,
-        "topico": "LP07",
-        "sinais_textuais": [
-          "Variedade, tratamento, norma e registro"
-        ],
-        "termos_detectados_normalizados": {
-          "Variedade, tratamento, norma e registro": [
-            "culta"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
       },
       {
         "id": "etec-2018-2-q011",
@@ -8175,23 +8096,6 @@
         "metodo_sinais": "trecho_extraido"
       },
       {
-        "id": "etec-2019-1-q004",
-        "edicao": "2019-1",
-        "pagina_pdf": 3,
-        "topico": "LP08",
-        "sinais_textuais": [
-          "Prosa narrativa, vozes e personagens"
-        ],
-        "termos_detectados_normalizados": {
-          "Prosa narrativa, vozes e personagens": [
-            "narrativo",
-            "narrador"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
         "id": "etec-2019-1-q006",
         "edicao": "2019-1",
         "pagina_pdf": 4,
@@ -8256,22 +8160,6 @@
         "termos_detectados_normalizados": {},
         "estado": "pendente_auditoria_qualitativa",
         "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2019-1-q017",
-        "edicao": "2019-1",
-        "pagina_pdf": 9,
-        "topico": "LP06",
-        "sinais_textuais": [
-          "Grafia, pontuação, acentuação e discurso"
-        ],
-        "termos_detectados_normalizados": {
-          "Grafia, pontuação, acentuação e discurso": [
-            "discurso indireto"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
       },
       {
         "id": "etec-2019-1-q020",
@@ -8387,16 +8275,6 @@
         },
         "estado": "pendente_auditoria_qualitativa",
         "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2019-2-q016",
-        "edicao": "2019-2",
-        "pagina_pdf": 9,
-        "topico": "LP03",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
       },
       {
         "id": "etec-2019-2-q017",
@@ -8975,16 +8853,6 @@
         "metodo_sinais": "trecho_extraido"
       },
       {
-        "id": "etec-2022-2-q039",
-        "edicao": "2022-2",
-        "pagina_pdf": 18,
-        "topico": "LP03",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
         "id": "etec-2022-2-q041",
         "edicao": "2022-2",
         "pagina_pdf": 19,
@@ -9111,32 +8979,6 @@
         "metodo_sinais": "trecho_extraido"
       },
       {
-        "id": "etec-2023-1-q002",
-        "edicao": "2023-1",
-        "pagina_pdf": 2,
-        "topico": "LP02",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2023-1-q003",
-        "edicao": "2023-1",
-        "pagina_pdf": 3,
-        "topico": "LP02",
-        "sinais_textuais": [
-          "Comparação de textos, reescrita e intertextualidade"
-        ],
-        "termos_detectados_normalizados": {
-          "Comparação de textos, reescrita e intertextualidade": [
-            "textos"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
         "id": "etec-2023-1-q004",
         "edicao": "2023-1",
         "pagina_pdf": 3,
@@ -9157,53 +8999,6 @@
         "metodo_sinais": "trecho_extraido"
       },
       {
-        "id": "etec-2023-1-q005",
-        "edicao": "2023-1",
-        "pagina_pdf": 4,
-        "topico": "LP05",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2023-1-q010",
-        "edicao": "2023-1",
-        "pagina_pdf": 6,
-        "topico": "LP02",
-        "sinais_textuais": [
-          "Charge, cartum, quadrinhos e tirinha",
-          "Prosa narrativa, vozes e personagens"
-        ],
-        "termos_detectados_normalizados": {
-          "Charge, cartum, quadrinhos e tirinha": [
-            "tirinha"
-          ],
-          "Prosa narrativa, vozes e personagens": [
-            "narrativa",
-            "personagem"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2023-1-q011",
-        "edicao": "2023-1",
-        "pagina_pdf": 7,
-        "topico": "LP02",
-        "sinais_textuais": [
-          "Charge, cartum, quadrinhos e tirinha"
-        ],
-        "termos_detectados_normalizados": {
-          "Charge, cartum, quadrinhos e tirinha": [
-            "charge"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
         "id": "etec-2023-1-q015",
         "edicao": "2023-1",
         "pagina_pdf": 9,
@@ -9212,32 +9007,6 @@
         "termos_detectados_normalizados": {},
         "estado": "pendente_auditoria_qualitativa",
         "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2023-1-q025",
-        "edicao": "2023-1",
-        "pagina_pdf": 15,
-        "topico": "LP04",
-        "sinais_textuais": [
-          "Charge, cartum, quadrinhos e tirinha",
-          "Polissemia, sinonímia e sentido em contexto",
-          "Figuras, humor, ironia e som"
-        ],
-        "termos_detectados_normalizados": {
-          "Charge, cartum, quadrinhos e tirinha": [
-            "quadrinhos"
-          ],
-          "Polissemia, sinonímia e sentido em contexto": [
-            "sentido",
-            "denotativo",
-            "conotativo"
-          ],
-          "Figuras, humor, ironia e som": [
-            "humor"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
       },
       {
         "id": "etec-2023-1-q026",
@@ -9274,16 +9043,6 @@
         },
         "estado": "pendente_auditoria_qualitativa",
         "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2023-1-q034",
-        "edicao": "2023-1",
-        "pagina_pdf": 20,
-        "topico": "LP05",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
       },
       {
         "id": "etec-2023-1-q035",
@@ -9372,16 +9131,6 @@
         },
         "estado": "pendente_auditoria_qualitativa",
         "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2023-2-q007",
-        "edicao": "2023-2",
-        "pagina_pdf": 4,
-        "topico": "LP02",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
       },
       {
         "id": "etec-2023-2-q009",
@@ -9496,22 +9245,6 @@
         "termos_detectados_normalizados": {},
         "estado": "pendente_auditoria_qualitativa",
         "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2023-2-q028",
-        "edicao": "2023-2",
-        "pagina_pdf": 12,
-        "topico": "LP02",
-        "sinais_textuais": [
-          "Imagem, mapa, gráfico e tabela"
-        ],
-        "termos_detectados_normalizados": {
-          "Imagem, mapa, gráfico e tabela": [
-            "infografico"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
       },
       {
         "id": "etec-2023-2-q029",
@@ -9635,32 +9368,6 @@
         "metodo_sinais": "trecho_extraido"
       },
       {
-        "id": "etec-2024-1-q006",
-        "edicao": "2024-1",
-        "pagina_pdf": 5,
-        "topico": "LP05",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2024-1-q007",
-        "edicao": "2024-1",
-        "pagina_pdf": 5,
-        "topico": "LP04",
-        "sinais_textuais": [
-          "Poema, letra, verso e ritmo"
-        ],
-        "termos_detectados_normalizados": {
-          "Poema, letra, verso e ritmo": [
-            "cancao"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
         "id": "etec-2024-1-q009",
         "edicao": "2024-1",
         "pagina_pdf": 6,
@@ -9675,16 +9382,6 @@
         },
         "estado": "pendente_auditoria_qualitativa",
         "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2024-1-q014",
-        "edicao": "2024-1",
-        "pagina_pdf": 8,
-        "topico": "LP02",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
       },
       {
         "id": "etec-2024-1-q015",
@@ -9713,38 +9410,6 @@
         "metodo_sinais": "sem_sinal_suficiente"
       },
       {
-        "id": "etec-2024-1-q020",
-        "edicao": "2024-1",
-        "pagina_pdf": 10,
-        "topico": "LP05",
-        "sinais_textuais": [
-          "Comparação de textos, reescrita e intertextualidade"
-        ],
-        "termos_detectados_normalizados": {
-          "Comparação de textos, reescrita e intertextualidade": [
-            "reescrita"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2024-1-q021",
-        "edicao": "2024-1",
-        "pagina_pdf": 11,
-        "topico": "LP04",
-        "sinais_textuais": [
-          "Figuras, humor, ironia e som"
-        ],
-        "termos_detectados_normalizados": {
-          "Figuras, humor, ironia e som": [
-            "metafora"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
         "id": "etec-2024-1-q022",
         "edicao": "2024-1",
         "pagina_pdf": 11,
@@ -9755,22 +9420,6 @@
         "termos_detectados_normalizados": {
           "Inferência, conclusão e formulação explícita": [
             "segundo o texto"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2024-1-q025",
-        "edicao": "2024-1",
-        "pagina_pdf": 13,
-        "topico": "LP03",
-        "sinais_textuais": [
-          "Textos técnicos, dados e séries de afirmações"
-        ],
-        "termos_detectados_normalizados": {
-          "Textos técnicos, dados e séries de afirmações": [
-            "dados"
           ]
         },
         "estado": "pendente_auditoria_qualitativa",
@@ -9877,52 +9526,6 @@
         "metodo_sinais": "trecho_extraido"
       },
       {
-        "id": "etec-2024-2-q006",
-        "edicao": "2024-2",
-        "pagina_pdf": 5,
-        "topico": "LP05",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2024-2-q007",
-        "edicao": "2024-2",
-        "pagina_pdf": 5,
-        "topico": "LP01",
-        "sinais_textuais": [
-          "Inferência, conclusão e formulação explícita"
-        ],
-        "termos_detectados_normalizados": {
-          "Inferência, conclusão e formulação explícita": [
-            "segundo o texto"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2024-2-q008",
-        "edicao": "2024-2",
-        "pagina_pdf": 5,
-        "topico": "LP01",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2024-2-q009",
-        "edicao": "2024-2",
-        "pagina_pdf": 5,
-        "topico": "LP05",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
         "id": "etec-2024-2-q013",
         "edicao": "2024-2",
         "pagina_pdf": 7,
@@ -9989,32 +9592,6 @@
         "edicao": "2024-2",
         "pagina_pdf": 12,
         "topico": "LP08",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2024-2-q026",
-        "edicao": "2024-2",
-        "pagina_pdf": 13,
-        "topico": "LP02",
-        "sinais_textuais": [
-          "Campanha, anúncio, notícia e artigo"
-        ],
-        "termos_detectados_normalizados": {
-          "Campanha, anúncio, notícia e artigo": [
-            "campanha"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2024-2-q027",
-        "edicao": "2024-2",
-        "pagina_pdf": 13,
-        "topico": "LP04",
         "sinais_textuais": [],
         "termos_detectados_normalizados": {},
         "estado": "pendente_auditoria_qualitativa",
@@ -10155,32 +9732,6 @@
         "metodo_sinais": "trecho_extraido"
       },
       {
-        "id": "etec-2025-1-q003",
-        "edicao": "2025-1",
-        "pagina_pdf": 3,
-        "topico": "LP01",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2025-1-q004",
-        "edicao": "2025-1",
-        "pagina_pdf": 3,
-        "topico": "LP01",
-        "sinais_textuais": [
-          "Inferência, conclusão e formulação explícita"
-        ],
-        "termos_detectados_normalizados": {
-          "Inferência, conclusão e formulação explícita": [
-            "acordo com o texto"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
         "id": "etec-2025-1-q007",
         "edicao": "2025-1",
         "pagina_pdf": 5,
@@ -10299,32 +9850,6 @@
         "termos_detectados_normalizados": {},
         "estado": "pendente_auditoria_qualitativa",
         "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2025-1-q048",
-        "edicao": "2025-1",
-        "pagina_pdf": 23,
-        "topico": "LP05",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2025-1-q049",
-        "edicao": "2025-1",
-        "pagina_pdf": 23,
-        "topico": "LP06",
-        "sinais_textuais": [
-          "Grafia, pontuação, acentuação e discurso"
-        ],
-        "termos_detectados_normalizados": {
-          "Grafia, pontuação, acentuação e discurso": [
-            "travessoes"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
       },
       {
         "id": "etec-2025-1-q050",
@@ -10451,58 +9976,6 @@
         "metodo_sinais": "sem_sinal_suficiente"
       },
       {
-        "id": "etec-2026-1-q005",
-        "edicao": "2026-1",
-        "pagina_pdf": 4,
-        "topico": "LP01",
-        "sinais_textuais": [
-          "Inferência, conclusão e formulação explícita"
-        ],
-        "termos_detectados_normalizados": {
-          "Inferência, conclusão e formulação explícita": [
-            "concluir"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2026-1-q006",
-        "edicao": "2026-1",
-        "pagina_pdf": 5,
-        "topico": "LP01",
-        "sinais_textuais": [
-          "Inferência, conclusão e formulação explícita",
-          "Textos técnicos, dados e séries de afirmações"
-        ],
-        "termos_detectados_normalizados": {
-          "Inferência, conclusão e formulação explícita": [
-            "acordo com o texto"
-          ],
-          "Textos técnicos, dados e séries de afirmações": [
-            "pesquisas"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2026-1-q008",
-        "edicao": "2026-1",
-        "pagina_pdf": 6,
-        "topico": "LP01",
-        "sinais_textuais": [
-          "Inferência, conclusão e formulação explícita"
-        ],
-        "termos_detectados_normalizados": {
-          "Inferência, conclusão e formulação explícita": [
-            "segundo o texto"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
         "id": "etec-2026-1-q010",
         "edicao": "2026-1",
         "pagina_pdf": 7,
@@ -10527,22 +10000,6 @@
         "termos_detectados_normalizados": {},
         "estado": "pendente_auditoria_qualitativa",
         "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2026-1-q022",
-        "edicao": "2026-1",
-        "pagina_pdf": 12,
-        "topico": "LP08",
-        "sinais_textuais": [
-          "Poema, letra, verso e ritmo"
-        ],
-        "termos_detectados_normalizados": {
-          "Poema, letra, verso e ritmo": [
-            "cancao"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
       },
       {
         "id": "etec-2026-1-q023",
@@ -10637,62 +10094,10 @@
         "metodo_sinais": "trecho_extraido"
       },
       {
-        "id": "etec-2026-2-q016",
-        "edicao": "2026-2",
-        "pagina_pdf": 8,
-        "topico": "LP01",
-        "sinais_textuais": [
-          "Inferência, conclusão e formulação explícita"
-        ],
-        "termos_detectados_normalizados": {
-          "Inferência, conclusão e formulação explícita": [
-            "acordo com o texto"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2026-2-q032",
-        "edicao": "2026-2",
-        "pagina_pdf": 15,
-        "topico": "LP03",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
-        "id": "etec-2026-2-q033",
-        "edicao": "2026-2",
-        "pagina_pdf": 15,
-        "topico": "LP05",
-        "sinais_textuais": [],
-        "termos_detectados_normalizados": {},
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "sem_sinal_suficiente"
-      },
-      {
         "id": "etec-2026-2-q034",
         "edicao": "2026-2",
         "pagina_pdf": 16,
         "topico": "LP04",
-        "sinais_textuais": [
-          "Poema, letra, verso e ritmo"
-        ],
-        "termos_detectados_normalizados": {
-          "Poema, letra, verso e ritmo": [
-            "cancao"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2026-2-q035",
-        "edicao": "2026-2",
-        "pagina_pdf": 16,
-        "topico": "LP08",
         "sinais_textuais": [
           "Poema, letra, verso e ritmo"
         ],
@@ -10715,27 +10120,6 @@
         "termos_detectados_normalizados": {
           "Charge, cartum, quadrinhos e tirinha": [
             "quadrinho"
-          ]
-        },
-        "estado": "pendente_auditoria_qualitativa",
-        "metodo_sinais": "trecho_extraido"
-      },
-      {
-        "id": "etec-2026-2-q043",
-        "edicao": "2026-2",
-        "pagina_pdf": 20,
-        "topico": "LP04",
-        "sinais_textuais": [
-          "Charge, cartum, quadrinhos e tirinha",
-          "Figuras, humor, ironia e som"
-        ],
-        "termos_detectados_normalizados": {
-          "Charge, cartum, quadrinhos e tirinha": [
-            "tirinha",
-            "quadrinho"
-          ],
-          "Figuras, humor, ironia e som": [
-            "ironia"
           ]
         },
         "estado": "pendente_auditoria_qualitativa",
@@ -10845,53 +10229,54 @@
     ]
   },
   "lote_1": {
-    "ocupacao_df": "70%",
-    "bytes_usados": 5565362176,
-    "bytes_disponiveis": 2405773312,
-    "margem_ate_79_pct_bytes": 731834859,
-    "maximo_lote_mb_decimais": 128,
-    "reserva_maxima_para_copia_e_temporarios_mb_decimais": 512,
-    "maximo_por_arquivo_mb_decimais": 32,
+    "estado": "recebido",
+    "ocupacao_df": "71%",
+    "bytes_usados": 5654302720,
+    "bytes_disponiveis": 2316832768,
+    "margem_ate_79_pct_bytes": 642894315,
+    "bytes_dos_pdfs": 40609372,
     "arquivos": [
       {
-        "materia": "Português",
+        "arquivo": "PARA_ENTENDER_O_TEXTO_LEITURA_E_REDAÇÃO_PLATÃO_E_FIORIN_16_edição.pdf",
         "destino": "bibliografia-pdfs/portugues/",
-        "arquivo_ou_recorte": "Interpretação e gêneros",
-        "conteudo": "Texto longo e técnico, inferência e pressuposto, argumento e distratores, charge, tirinha, anúncio, notícia, artigo e infográfico.",
-        "maximo_mb": 24,
-        "nome_confirmado": false
+        "paginas_pdf": 433,
+        "bytes": 10210134,
+        "estado": "consulta_privada"
       },
       {
-        "materia": "Português",
+        "arquivo": "Português - A Gramática para Concursos Públicos - Edição do Professor.pdf",
         "destino": "bibliografia-pdfs/portugues/",
-        "arquivo_ou_recorte": "Semântica, coesão e leitura literária",
-        "conteudo": "Figuras, ambiguidade, referenciação, conectores, reescrita, intertextualidade, narrador, poema e letra de canção.",
-        "maximo_mb": 24,
-        "nome_confirmado": false
+        "paginas_pdf": 1505,
+        "bytes": 16517508,
+        "estado": "consulta_privada"
       },
       {
-        "materia": "Português",
-        "destino": "bibliografia-pdfs/portugues/",
-        "arquivo_ou_recorte": "Gramática em contexto e revisão",
-        "conteudo": "Classes e sintaxe, regência, concordância, crase, colocação, discurso, pontuação, ortografia, variação, adequação e reescrita.",
-        "maximo_mb": 24,
-        "nome_confirmado": false
-      },
-      {
-        "materia": "Matemática",
+        "arquivo": "Apostila Matematica Financeira.pdf",
         "destino": "bibliografia-pdfs/matematica/",
-        "arquivo_ou_recorte": "CAP.1-CONJUNTOS NUMÉRICOS.pdf",
-        "conteudo": "Recorte de naturais, inteiros, racionais, frações e decimais.",
-        "maximo_mb": 28,
-        "nome_confirmado": true
+        "paginas_pdf": 34,
+        "bytes": 5434752,
+        "estado": "reservado_ciclo_matematica"
       },
       {
-        "materia": "Matemática",
+        "arquivo": "Aula 00 - Teoria Elementar dos Conjuntos - EFOMM 2024.pdf",
         "destino": "bibliografia-pdfs/matematica/",
-        "arquivo_ou_recorte": "CAP.9-MATEMATICA FINANCEIRA.pdf",
-        "conteudo": "Recorte de razão, proporção, porcentagem e juros simples.",
-        "maximo_mb": 28,
-        "nome_confirmado": true
+        "paginas_pdf": 179,
+        "bytes": 2867069,
+        "estado": "reservado_ciclo_matematica"
+      },
+      {
+        "arquivo": "Aula 08 - Matemática Financeira - EFOMM 2024.pdf",
+        "destino": "bibliografia-pdfs/matematica/",
+        "paginas_pdf": 47,
+        "bytes": 779520,
+        "estado": "reservado_ciclo_matematica"
+      },
+      {
+        "arquivo": "Teoria Conjuntos att.pdf",
+        "destino": "bibliografia-pdfs/matematica/",
+        "paginas_pdf": 33,
+        "bytes": 4800389,
+        "estado": "reservado_ciclo_matematica"
       }
     ]
   }

@@ -31,6 +31,9 @@ function ExemploResolvido({ exemplo, numero }: { exemplo: ExemploPortugues; nume
         <summary>Ver resolução</summary>
         <ol className="list-decimal pl-6">{exemplo.passos.map(passo => <li key={passo}>{passo}</li>)}</ol>
         <p><strong>Resposta {exemplo.correta}.</strong></p>
+        <ul className="list-disc pl-6" aria-label="Por que as demais alternativas estão incorretas">
+          {exemplo.distratores.map(distrator => <li key={distrator}>{distrator}</li>)}
+        </ul>
       </details>
     </section>
   );
@@ -85,10 +88,10 @@ export function LeitorPortuguesEtec({ livro, slug, titulo, capitulo, marca, minu
       <section aria-labelledby="bateria">
         <h2 id="bateria">Bateria oficial · Questões reais da ETEC</h2>
         {capitulo.oficiais.map(questao => {
-          const [, ano, semestre, numero] = questao.id.split('-');
+          const [, edicao, numero] = /^etec-(.+)-q(\d+)$/.exec(questao.id) ?? [];
           return (
             <section key={questao.id} aria-labelledby={questao.id}>
-              <h3 id={questao.id}>ETEC {ano}/{semestre} · Questão {Number(numero.slice(1))}</h3>
+              <h3 id={questao.id}>ETEC {edicao?.replace('-', '/')} · Questão {Number(numero)}</h3>
               <p><Link className="gb-text-link" href={`/questoes/${questao.id}`}>Resolver no banco de questões</Link></p>
               <details>
                 <summary>Ver gabarito comentado</summary>

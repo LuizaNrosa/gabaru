@@ -12,7 +12,7 @@ export function leituraCapitulo(livro:string,capitulo:string){const c=obterCapit
  if(c.portugues){
   const p=c.portugues;
   const texto=[p.introducao,p.raioX,...p.intuicao,...p.teoria.map(t=>t.texto),p.armadilha,
-   ...p.exemplos.flatMap(e=>[...e.suporte,e.comando,...e.alternativas,...e.passos]),
+   ...p.exemplos.flatMap(e=>[...e.suporte,e.comando,...e.alternativas,...e.passos,...e.distratores]),
    ...p.oficiais.flatMap(q=>[q.justificativa,...q.distratores]),...p.resumo].join(' ');
   return Math.max(1,Math.ceil(texto.trim().split(/\s+/).length/180));
  }

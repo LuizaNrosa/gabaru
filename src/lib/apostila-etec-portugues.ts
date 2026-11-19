@@ -7,12 +7,14 @@ export type ExemploPortugues = {
   alternativas: string[];
   passos: string[];
   correta: string;
+  distratores: string[];
 };
 
 type QuestaoComentada = {
   id: string;
   correta: string;
   justificativa: string;
+  topicoComplementar?: string;
   distratores: string[];
 };
 

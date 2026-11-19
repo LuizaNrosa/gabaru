@@ -3,8 +3,9 @@ import {projectEditorialText} from './editorial-segments';
 import fs from 'node:fs';import path from 'node:path';import type {MathSegment} from './catalogo/types';import {z} from 'zod';
 // © 2026 Luiza Nascimento Rosa. Todos os direitos reservados.
 import 'server-only';
+import { apostilaEtecSlug, capitulosPortugues, type CapituloPortugues } from './apostila-etec-portugues';
 export type ReferenciaBibliografica={arquivo:string;sha256:string;titulo:string;autores:string[];url:string;licenca:string;evidenciaLicenca:string;usoComercialAutorizado:boolean;paginas:number[]};
-export type Capitulo={exemplos?:{enunciado:string;passos:string[];resposta:string}[];bibliografia?:ReferenciaBibliografica[];licencaConteudo?:string;referenciasCurriculares?:{fonte:string;pagina:number;codigosExtraidos:string[];observacao:string}[];introducao:string;secoes:{titulo:string;texto:string;segmentos?:MathSegment[]}[];disciplina:string;amostra?:boolean;questoes?:string[];fonte?:{arquivo:string;sha256:string;paginas:number};grafico?:{funcao:string;pontos:[number,number][]};molecula?:{smiles:string;descricao:string}};
+export type Capitulo={portugues?:CapituloPortugues;apendicePortugues?:boolean;exemplos?:{enunciado:string;passos:string[];resposta:string}[];bibliografia?:ReferenciaBibliografica[];licencaConteudo?:string;referenciasCurriculares?:{fonte:string;pagina:number;codigosExtraidos:string[];observacao:string}[];introducao:string;secoes:{titulo:string;texto:string;segmentos?:MathSegment[]}[];disciplina:string;amostra?:boolean;questoes?:string[];fonte?:{arquivo:string;sha256:string;paginas:number};grafico?:{funcao:string;pontos:[number,number][]};molecula?:{smiles:string;descricao:string}};
 const capitulos:Record<string,Capitulo>={
  'vestibulinho-etec/razao-e-proporcao':{introducao:'Comparar grandezas exige escolher a ordem da divisão e manter as unidades consistentes. Uma razão expressa quanto uma quantidade representa em relação à outra.',disciplina:'matematica',secoes:[{titulo:'Organize antes de calcular',texto:'Se uma receita usa 2 xícaras de arroz para 3 de água, a razão arroz/água é $2/3$. Para dobrar a receita, multiplique ambas as quantidades pelo mesmo fator: 4 e 6. O quociente permanece igual.'},{titulo:'Proporcionalidade direta',texto:'Quando o preço por quilograma é constante, o custo total satisfaz $C(x)=p x$. Se 3 kg custam R$ 24, o preço unitário é $24/3=8$ reais por quilograma. Assim, 5 kg custam R$ 40. Confira as unidades antes de multiplicar.'},{titulo:'Evite a regra de três automática',texto:'Nem toda relação é diretamente proporcional. Uma tarifa fixa mais um valor por quilômetro é $C(x)=b+p x$. Dobrar a distância não dobra o custo total quando $b$ é diferente de zero. Identifique a parcela fixa no enunciado.'}]},
  'vestibulinho-etec/unidades-e-escalas':{introducao:'Uma medida combina um número e uma unidade. A conversão deve preservar a quantidade representada, alterando apenas a forma de escrevê-la.',disciplina:'matematica',secoes:[{titulo:'Conversões lineares e áreas',texto:'Como $1\\,\\mathrm{m}=100\\,\\mathrm{cm}$, um quadrado de lado 1 m tem área $100\\times100=10\\,000\\,\\mathrm{cm}^2$. O fator de conversão das áreas é o quadrado do fator linear.'},{titulo:'Escala cartográfica',texto:'Uma escala 1:50 000 significa que 1 cm no mapa corresponde a 50 000 cm no terreno, isto é, 500 m. Um segmento de 4 cm representa 2 km. Use a mesma unidade em numerador e denominador.'},{titulo:'Verificação dimensional',texto:'A velocidade média é $v=\\Delta s/\\Delta t$. Dividir quilômetros por horas produz km/h. Para converter 72 km/h em m/s, divida por 3,6: o resultado é 20 m/s.'}]},
@@ -17,6 +18,22 @@ const exemploSchema=z.object({enunciado:z.string().min(1),passos:z.array(z.strin
 const referenciaSchema=z.object({arquivo:z.string(),sha256:z.string().regex(/^[a-f0-9]{64}$/),titulo:z.string().min(1),autores:z.array(z.string()).min(1),url:z.url().refine(v=>['https:','http:'].includes(new URL(v).protocol)),licenca:z.enum(['CC-BY-4.0','CC-BY-SA-4.0','CC0-1.0','Public-Domain','Ato-Normativo','Autorizacao-Expressa']),evidenciaLicenca:z.string().min(3),usoComercialAutorizado:z.literal(true),paginas:z.array(z.number().int().positive()).min(1)});
 export function obterCapitulo(livro:string,capitulo:string):Capitulo|undefined{
  if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(livro)||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(capitulo))return undefined;
+ if (livro === apostilaEtecSlug && capitulo === 'apendice') {
+  return { introducao: 'Edital verticalizado e incidência histórica de Português e Interpretação de Texto.',
+   disciplina: 'portugues', secoes: [], questoes: [], apendicePortugues: true };
+ }
+ const portugues = livro === apostilaEtecSlug && Object.hasOwn(capitulosPortugues, capitulo)
+  ? capitulosPortugues[capitulo]
+  : undefined;
+ if (portugues) {
+  return {
+   introducao: portugues.introducao,
+   disciplina: 'portugues',
+   secoes: portugues.teoria,
+   questoes: portugues.oficiais.map(questao => questao.id),
+   portugues,
+  };
+ }
  const sample=capitulos[`${livro}/${capitulo}`];
  const fallback=()=>sample?{...sample,amostra:true}:undefined;
  const file=path.join(process.cwd(),'content/livros',livro,capitulo+'.json');

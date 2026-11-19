@@ -1,0 +1,1784 @@
+{
+  "versao": 3,
+  "data_referencia": "2026-11-18",
+  "inventario_local": {
+    "diretorio": "bibliografia-pdfs/",
+    "pdfs_disponiveis_no_checkout": 6,
+    "configuracao": "bibliografia-pdfs/MAPA-FONTES.json",
+    "registro_historico": "docs/engenharia/v3/colecao-vestibulinho/bibliografia-recebida.md",
+    "nota": "Seis PDFs do Lote 1 recebidos separadamente. Os 37 PDFs do registro histórico da coleção permanecem uma referência de outra sessão."
+  },
+  "inventario_drive": {
+    "colecao": "BIBLIOGRAFIA → Bibliografia em Português → iezzi",
+    "arquivos_por_grupo": {
+      "volume_unico": 40,
+      "fundamentos": 20,
+      "outras_obras_em_portugues": 3
+    },
+    "arquivos_com_metadados": 63,
+    "triagem_por_titulo": [
+      {
+        "grupo": "volume_unico",
+        "titulo": "RESPOSTAS.pdf",
+        "estado": "metadados",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.40-ESTATISTICAS.pdf",
+        "estado": "abertura_conferida",
+        "topicos_candidatos": [
+          "MA11"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.39-EQUAÇÕES ALGÉBRICAS OU POLINOMIAIS.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.38-POLINOMIOS.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA06"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.37-NUMEROS COMPLEXOS.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.36-AS CONICAS.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.35-A CIRCUNFERENCIA.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.34-A RETA.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.33-O PONTO.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.32-ESFERA.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.31-CONE.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.30-CILINDRO.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA10"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.29-PIRAMIDE.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.28-PRISMA.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA10"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.27-POLIEDROS.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA10"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.26-BINOMIO DE NEWTON.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.25-PROBABILIDADE.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA12"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.24-ANÁLISE COMBINATÓRIA.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA12"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.23-GEOMETRIA ESPACIAL DE POSIÇÃO.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA10"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.22-ÁREAS DE SUPERFÍCIES PLANAS.pdf",
+        "estado": "abertura_conferida",
+        "topicos_candidatos": [
+          "MA08"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.21-SISTEMAS LINEARES.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA07"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.20-DETERMINANTES.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.19-MATRIZES.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.18-EQUAÇOES E INEQUAÇOES TRIGONOMETRICAS.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.17-TRANSFORMAÇÕES.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.16-FUNÇÕES CIRCULARES.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.15-RELAÇOES ENTRE AS RAZOES TRIGONOMETRICAS.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.14-RAZOES TRIGONOMETRICAS NA CIRCUNFERENCIA.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.13-O CICLO TRIGONOMETRICO.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.12-TRIGONOMETRIA EM UM TRIANGULO QUALQUER.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.11-TRIGONOMETRIA NO TRIANGULO RETANGULO.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.10-SEMELHANÇA DE TRIANGULOS.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA09"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.9-MATEMATICA FINANCEIRA.pdf",
+        "estado": "abertura_conferida",
+        "topicos_candidatos": [
+          "MA03",
+          "MA04"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.8-PROGRESSOES.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.7-FUNÇÃO LOGARÍTMICA.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.5-FUNÇÃO MODULAR.pdf",
+        "estado": "fora_do_recorte_ou_sem_aplicacao_confirmada",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.4-FUNÇÃO QUADRÁTICA.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA07"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.3-FUNÇÕES AFIM.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA07"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "CAP.1-CONJUNTOS NUMÉRICOS.pdf",
+        "estado": "abertura_conferida",
+        "topicos_candidatos": [
+          "MA01",
+          "MA02",
+          "MA05"
+        ]
+      },
+      {
+        "grupo": "volume_unico",
+        "titulo": "1 SUMÁRIO.pdf",
+        "estado": "metadados",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 8 - FME-8-Limites-derivadas-e-nocoes-de-integral.pdf",
+        "estado": "fora_do_recorte",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 11 - Financeira e Estatística Descritiva.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA04",
+          "MA11"
+        ]
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 10 - Geometria Espacial - Resolução.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA10"
+        ]
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 10 - Geometria Espacial.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA10"
+        ]
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 9 - Geometria Plana - Resoluções.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA08",
+          "MA09"
+        ]
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 9 - Geometria Plana.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA08",
+          "MA09"
+        ]
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 7 - Geometria Analítica - Resoluções.pdf",
+        "estado": "fora_do_recorte",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 7 -  Geometria Analitica.pdf",
+        "estado": "fora_do_recorte",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 6 -  Complexos, Polinômios, Equacoes.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA06"
+        ]
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 6 - Complexos e Polinômios - Resoluções.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA06"
+        ]
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 5 - Combinatória, Probabilidade.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA12"
+        ]
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 5 - Combinatória e Probabilidade - Resoluções.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA12"
+        ]
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 4 - Sequências - Resoluções.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA07"
+        ]
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 4 - Sequências, Matrizes, Determinantes, Sistemas.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA07"
+        ]
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 3 - Trigonometria - Resoluções.pdf",
+        "estado": "fora_do_recorte",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 3 - Trigonometria.pdf",
+        "estado": "fora_do_recorte",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 2 - Logaritmos - Resoluções.pdf",
+        "estado": "fora_do_recorte",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 2 - Logaritmos.pdf",
+        "estado": "fora_do_recorte",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 1 - Conjuntos, Funções.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA07"
+        ]
+      },
+      {
+        "grupo": "fundamentos",
+        "titulo": "Volume 1 - Conjuntos e Funções - Resuluções.pdf",
+        "estado": "consulta_seletiva_titulo",
+        "topicos_candidatos": [
+          "MA07"
+        ]
+      },
+      {
+        "grupo": "outras_obras_em_portugues",
+        "titulo": "Aritmetica_Elementar_Ilustrada.pdf",
+        "estado": "metadados",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "outras_obras_em_portugues",
+        "titulo": "pdfcoffee.com_trajano-aritmetica-progressiva-75ed-1944-pdf-pdf-free.pdf",
+        "estado": "metadados",
+        "topicos_candidatos": []
+      },
+      {
+        "grupo": "outras_obras_em_portugues",
+        "titulo": "pdfcoffee.com_conceitos-fundamentais-da-matematica-bento-de-jesus-caraa-pdf-free.pdf",
+        "estado": "metadados",
+        "topicos_candidatos": []
+      }
+    ],
+    "amostras_de_capitulos_conferidas": [
+      "iezzi-1",
+      "iezzi-9",
+      "iezzi-22",
+      "iezzi-40"
+    ],
+    "localizadores_privados": "Usar título e caminho da pasta com a conta do projeto. IDs do Drive, PDFs, texto extraído e links privados não são versionados.",
+    "limite": "As amostras confirmam o começo dos quatro capítulos. O fechamento de intervalos de páginas e a licença de adaptação continuam pendentes."
+  },
+  "regra_de_uso": "Normas e cadernos servem para escopo e evidência. Materiais privados sem licença documentada são consulta. Referências públicas podem ser consultadas e precisam de verificação individual de direitos antes de adaptação ou republicação.",
+  "fontes": {
+    "bncc": {
+      "titulo": "Base Nacional Comum Curricular — anos finais do Ensino Fundamental",
+      "url": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "papel": "matriz curricular oficial",
+      "uso": "Consultar os códigos e páginas do edital verticalizado. Usar como referência normativa."
+    },
+    "cadernos-etec": {
+      "titulo": "Cadernos de Vestibulinho ETEC",
+      "url": "https://vestibulinho.etec.sp.gov.br/provas-gabaritos/",
+      "papel": "calibração",
+      "uso": "Vincular por slug. Conferir créditos e direitos de textos-base, fotografias, charges e figuras antes de qualquer reprodução."
+    },
+    "obmep-portal": {
+      "titulo": "Portal da OBMEP (IMPA) — módulos do Ensino Fundamental",
+      "url": "https://portaldaobmep.impa.br/index.php/modulo/index?a=1",
+      "papel": "consulta pública",
+      "uso": "Selecionar só o módulo dos anos finais e conferir a licença da peça antes de copiar/adaptar."
+    },
+    "obmep-fracoes": {
+      "titulo": "IMPA — Frações, o Primeiro Contato",
+      "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=28&tipo=1",
+      "papel": "consulta pública",
+      "uso": "Consultar o material teórico listado por aula, após validar créditos da peça.",
+      "documento_conferido": {
+        "titulo": "Frações e Suas Operações — Parte 1",
+        "url": "https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material_teorico/pe1af30ybf4c8.pdf",
+        "paginas_do_pdf": 9,
+        "abertura_do_conteudo_pdf": 2
+      }
+    },
+    "obmep-razoes": {
+      "titulo": "IMPA — Razões e Proporções",
+      "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=57&tipo=1",
+      "papel": "consulta pública",
+      "uso": "Consultar os materiais de razões e proporções. Selecionar exemplos de nível fundamental.",
+      "documento_conferido": {
+        "titulo": "A Noção de Razão e Exercícios",
+        "url": "https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material_teorico/a2lelc7rz94w0.pdf",
+        "paginas_do_pdf": 6,
+        "abertura_do_conteudo_pdf": 2
+      }
+    },
+    "obmep-estatistica": {
+      "titulo": "IMPA — Noções Básicas de Estatística",
+      "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=64&tipo=1",
+      "papel": "consulta pública",
+      "uso": "Consultar materiais sobre organização de dados e sínteses estatísticas.",
+      "documento_conferido": {
+        "titulo": "Introdução à Estatística",
+        "url": "https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material_teorico/a1ydsm2c13404.pdf",
+        "paginas_do_pdf": 15,
+        "abertura_do_conteudo_pdf": 2
+      }
+    },
+    "openstax-prealgebra": {
+      "titulo": "OpenStax — Prealgebra 2e",
+      "url": "https://openstax.org/books/prealgebra-2e/pages/preface",
+      "papel": "referência com licença não comercial",
+      "licenca_verificada": "CC BY-NC-SA 4.0",
+      "uso": "Consulta técnica. A licença identificada tem cláusulas não comercial e compartilha igual."
+    },
+    "khan": {
+      "titulo": "Khan Academy em português — Matemática",
+      "url": "https://pt.khanacademy.org/math",
+      "papel": "consulta pública",
+      "uso": "Usar como leitura complementar. Conferir condições do recurso e os créditos antes de reutilização."
+    },
+    "ibge": {
+      "titulo": "IBGE Educa",
+      "url": "https://educa.ibge.gov.br/",
+      "papel": "dados e representações",
+      "uso": "Consultar informações e dados públicos para criar atividades autorais. Conferir créditos de cada visual e atribuir fonte, data e unidade."
+    },
+    "iezzi-1": {
+      "titulo": "Matemática, volume único (4ª ed.) — cap. 1, Conjuntos numéricos",
+      "origem": "Drive da bibliografia, coleção Iezzi",
+      "papel": "consulta privada",
+      "inicio_pdf": 1,
+      "localizador": "Conjuntos naturais, inteiros, racionais e reais. A abertura do capítulo foi conferida."
+    },
+    "iezzi-9": {
+      "titulo": "Matemática, volume único (4ª ed.) — cap. 9, Matemática financeira",
+      "origem": "Drive da bibliografia, coleção Iezzi",
+      "papel": "consulta privada",
+      "inicio_pdf": 1,
+      "localizador": "Abertura sobre razão. Localizar os subtítulos de porcentagem e juros antes da consulta dirigida."
+    },
+    "iezzi-22": {
+      "titulo": "Matemática, volume único (4ª ed.) — cap. 22, Áreas de superfícies planas",
+      "origem": "Drive da bibliografia, coleção Iezzi",
+      "papel": "consulta privada",
+      "inicio_pdf": 1,
+      "localizador": "Abertura sobre unidade de área, retângulo e quadrado."
+    },
+    "iezzi-40": {
+      "titulo": "Matemática, volume único (4ª ed.) — cap. 40, Estatísticas",
+      "origem": "Drive da bibliografia, coleção Iezzi",
+      "papel": "consulta privada",
+      "inicio_pdf": 1,
+      "localizador": "Abertura sobre amostras, tabelas e resumos estatísticos. Selecionar apenas a estatística descritiva elementar."
+    },
+    "iezzi-volumes": {
+      "titulo": "Fundamentos de Matemática Elementar, coleção Iezzi",
+      "origem": "Drive da bibliografia",
+      "papel": "metadados, consulta privada",
+      "localizador": "Volumes 5, 9, 10 e 11 têm assuntos pertinentes por título. Páginas temáticas específicas ainda requerem conferência. Evitar capítulos avançados."
+    },
+    "wikilivros-concordancia": {
+      "titulo": "Wikilivros — Português / Concordância verbal",
+      "url": "https://pt.wikibooks.org/wiki/Portugu%C3%AAs/Concord%C3%A2ncia/Concord%C3%A2ncia_verbal",
+      "papel": "referência educacional aberta consultada",
+      "uso": "Consulta de concordância e impessoalidade verbal.",
+      "licenca_texto_indicada": "CC BY-SA 4.0",
+      "evidencia_licenca": "Rodapé da página, conferido em 2026-11-18. A teoria e os exercícios da apostila têm redação autoral."
+    },
+    "wikilivros-crase": {
+      "titulo": "Wikilivros — Português / Acento grave",
+      "url": "https://pt.wikibooks.org/wiki/Portugu%C3%AAs/Acentua%C3%A7%C3%A3o_e_sinais_auxiliares_da_escrita/Acento_grave",
+      "papel": "referência educacional aberta consultada",
+      "uso": "Consulta sobre a fusão da preposição a com determinantes.",
+      "licenca_texto_indicada": "CC BY-SA 4.0",
+      "evidencia_licenca": "Rodapé da página, conferido em 2026-11-18. A teoria e os exercícios da apostila têm redação autoral."
+    }
+  },
+  "topicos": {
+    "LP01": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF69LP03",
+        "EF67LP28",
+        "EF89LP33"
+      ],
+      "consultas_privadas": [],
+      "nota": "Buscar textos de autoria própria, domínio público verificado ou licença compatível para a teoria e os exemplos."
+    },
+    "LP02": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF69LP02",
+        "EF69LP05",
+        "EF69LP17"
+      ],
+      "consultas_privadas": [],
+      "nota": "Buscar textos de autoria própria, domínio público verificado ou licença compatível para a teoria e os exemplos."
+    },
+    "LP03": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF67LP04",
+        "EF67LP05",
+        "EF89LP03",
+        "EF89LP04"
+      ],
+      "consultas_privadas": [],
+      "nota": "Buscar textos de autoria própria, domínio público verificado ou licença compatível para a teoria e os exemplos."
+    },
+    "LP04": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF69LP05",
+        "EF67LP38",
+        "EF89LP37"
+      ],
+      "consultas_privadas": [],
+      "nota": "Buscar textos de autoria própria, domínio público verificado ou licença compatível para a teoria e os exemplos."
+    },
+    "LP05": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF67LP36",
+        "EF08LP14",
+        "EF89LP32"
+      ],
+      "consultas_privadas": [],
+      "nota": "Buscar textos de autoria própria, domínio público verificado ou licença compatível para a teoria e os exemplos."
+    },
+    "LP06": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "wikilivros-concordancia",
+        "wikilivros-crase"
+      ],
+      "secoes_bncc": [
+        "EF67LP32",
+        "EF67LP33",
+        "EF08LP04",
+        "EF09LP04"
+      ],
+      "consultas_privadas": [],
+      "nota": "Buscar textos de autoria própria, domínio público verificado ou licença compatível para a teoria e os exemplos."
+    },
+    "LP07": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF69LP55",
+        "EF69LP56"
+      ],
+      "consultas_privadas": [],
+      "nota": "Buscar textos de autoria própria, domínio público verificado ou licença compatível para a teoria e os exemplos."
+    },
+    "LP08": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF69LP44",
+        "EF69LP47",
+        "EF69LP48"
+      ],
+      "consultas_privadas": [],
+      "nota": "Buscar textos de autoria própria, domínio público verificado ou licença compatível para a teoria e os exemplos."
+    },
+    "LP09": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF69LP07",
+        "EF69LP08",
+        "EF69LP38"
+      ],
+      "consultas_privadas": [],
+      "nota": "Buscar textos de autoria própria, domínio público verificado ou licença compatível para a teoria e os exemplos."
+    },
+    "MA01": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "obmep-portal",
+        "openstax-prealgebra",
+        "khan"
+      ],
+      "secoes_bncc": [
+        "EF06MA03",
+        "EF06MA05",
+        "EF06MA06"
+      ],
+      "consultas_privadas": [
+        "iezzi-1"
+      ],
+      "nota": null
+    },
+    "MA02": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "obmep-fracoes",
+        "openstax-prealgebra",
+        "khan"
+      ],
+      "secoes_bncc": [
+        "EF06MA07",
+        "EF06MA10",
+        "EF07MA12"
+      ],
+      "consultas_privadas": [
+        "iezzi-1"
+      ],
+      "nota": null
+    },
+    "MA03": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "obmep-razoes",
+        "openstax-prealgebra",
+        "khan"
+      ],
+      "secoes_bncc": [
+        "EF07MA17",
+        "EF08MA13",
+        "EF09MA07",
+        "EF09MA08"
+      ],
+      "consultas_privadas": [
+        "iezzi-9"
+      ],
+      "nota": null
+    },
+    "MA04": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "obmep-razoes",
+        "openstax-prealgebra",
+        "khan"
+      ],
+      "secoes_bncc": [
+        "EF06MA13",
+        "EF07MA02",
+        "EF09MA05"
+      ],
+      "consultas_privadas": [
+        "iezzi-9"
+      ],
+      "nota": null
+    },
+    "MA05": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "obmep-portal",
+        "openstax-prealgebra",
+        "khan"
+      ],
+      "secoes_bncc": [
+        "EF08MA01",
+        "EF08MA02",
+        "EF09MA02",
+        "EF09MA03",
+        "EF09MA04"
+      ],
+      "consultas_privadas": [
+        "iezzi-1"
+      ],
+      "nota": null
+    },
+    "MA06": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "obmep-portal",
+        "openstax-prealgebra",
+        "khan"
+      ],
+      "secoes_bncc": [
+        "EF08MA06",
+        "EF09MA09"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "MA07": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "obmep-portal",
+        "openstax-prealgebra",
+        "khan"
+      ],
+      "secoes_bncc": [
+        "EF07MA18",
+        "EF08MA08",
+        "EF08MA09",
+        "EF09MA06",
+        "EF09MA09"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "MA08": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "obmep-portal",
+        "openstax-prealgebra",
+        "khan"
+      ],
+      "secoes_bncc": [
+        "EF06MA19",
+        "EF07MA31",
+        "EF08MA19"
+      ],
+      "consultas_privadas": [
+        "iezzi-22",
+        "iezzi-volumes"
+      ],
+      "nota": null
+    },
+    "MA09": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "obmep-portal",
+        "khan"
+      ],
+      "secoes_bncc": [
+        "EF09MA12",
+        "EF09MA13",
+        "EF09MA14"
+      ],
+      "consultas_privadas": [
+        "iezzi-volumes"
+      ],
+      "nota": null
+    },
+    "MA10": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "obmep-portal",
+        "openstax-prealgebra",
+        "khan"
+      ],
+      "secoes_bncc": [
+        "EF06MA24",
+        "EF07MA30",
+        "EF08MA20",
+        "EF08MA21",
+        "EF09MA19"
+      ],
+      "consultas_privadas": [
+        "iezzi-volumes"
+      ],
+      "nota": null
+    },
+    "MA11": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "obmep-estatistica",
+        "ibge",
+        "khan"
+      ],
+      "secoes_bncc": [
+        "EF06MA31",
+        "EF07MA35",
+        "EF08MA25",
+        "EF09MA21"
+      ],
+      "consultas_privadas": [
+        "iezzi-40",
+        "iezzi-volumes"
+      ],
+      "nota": null
+    },
+    "MA12": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "obmep-portal",
+        "khan"
+      ],
+      "secoes_bncc": [
+        "EF06MA30",
+        "EF08MA03",
+        "EF08MA22",
+        "EF09MA20"
+      ],
+      "consultas_privadas": [
+        "iezzi-volumes"
+      ],
+      "nota": null
+    },
+    "FI01": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF07CI01"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "FI02": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF07CI02",
+        "EF07CI03",
+        "EF07CI04"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "FI03": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF08CI01",
+        "EF08CI02",
+        "EF08CI03",
+        "EF08CI04",
+        "EF08CI05"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "FI04": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF06CI08",
+        "EF09CI04",
+        "EF09CI05",
+        "EF09CI06"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "FI05": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF08CI12",
+        "EF08CI13",
+        "EF09CI14",
+        "EF09CI17"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "FI06": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF07CI12",
+        "EF07CI13",
+        "EF07CI15",
+        "EF07CI16",
+        "EF08CI14",
+        "EF08CI15",
+        "EF08CI16"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "QU01": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF06CI01",
+        "EF06CI03",
+        "EF06CI04"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "QU02": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF09CI01"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "QU03": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF06CI02",
+        "EF09CI02"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "QU04": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF09CI03"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "QU05": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF06CI04",
+        "EF09CI03"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "BI01": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF06CI05",
+        "EF06CI06"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "BI02": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF06CI06",
+        "EF06CI07",
+        "EF06CI09"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "BI03": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF07CI09",
+        "EF07CI10",
+        "EF08CI08",
+        "EF08CI09",
+        "EF08CI10",
+        "EF08CI11"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "BI04": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF08CI07",
+        "EF09CI08",
+        "EF09CI09",
+        "EF09CI10",
+        "EF09CI11"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "BI05": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF07CI07",
+        "EF07CI08"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "BI06": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF07CI08",
+        "EF09CI12",
+        "EF09CI13"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "HI01": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF06HI01",
+        "EF06HI02",
+        "EF06HI07",
+        "EF06HI09"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "HI02": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF06HI14",
+        "EF06HI16",
+        "EF07HI04",
+        "EF07HI05"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "HI03": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF07HI02",
+        "EF07HI08",
+        "EF07HI09",
+        "EF07HI15",
+        "EF07HI16"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "HI04": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF08HI01",
+        "EF08HI03",
+        "EF08HI04"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "HI05": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF08HI12",
+        "EF08HI15",
+        "EF08HI16",
+        "EF08HI17"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "HI06": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF09HI01",
+        "EF09HI06",
+        "EF09HI19",
+        "EF09HI20",
+        "EF09HI22",
+        "EF09HI23"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "HI07": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec"
+      ],
+      "secoes_bncc": [
+        "EF09HI10",
+        "EF09HI13",
+        "EF09HI28",
+        "EF09HI31"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "GE01": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "ibge"
+      ],
+      "secoes_bncc": [
+        "EF06GE08",
+        "EF06GE09",
+        "EF07GE09",
+        "EF09GE14"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "GE02": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "ibge"
+      ],
+      "secoes_bncc": [
+        "EF06GE04",
+        "EF06GE05",
+        "EF07GE11",
+        "EF09GE16"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "GE03": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "ibge"
+      ],
+      "secoes_bncc": [
+        "EF07GE02",
+        "EF07GE04",
+        "EF08GE03",
+        "EF08GE16"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "GE04": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "ibge"
+      ],
+      "secoes_bncc": [
+        "EF07GE03",
+        "EF07GE06",
+        "EF07GE07",
+        "EF07GE08"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "GE05": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "ibge"
+      ],
+      "secoes_bncc": [
+        "EF08GE05",
+        "EF08GE08",
+        "EF09GE01",
+        "EF09GE05",
+        "EF09GE09"
+      ],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "IN01": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "ibge"
+      ],
+      "secoes_bncc": [],
+      "consultas_privadas": [],
+      "nota": null
+    },
+    "IN02": {
+      "fontes_publicas": [
+        "bncc",
+        "cadernos-etec",
+        "ibge"
+      ],
+      "secoes_bncc": [],
+      "consultas_privadas": [],
+      "nota": null
+    }
+  },
+  "sincronizacao_portugues": {
+    "estado": "lote_1_recebido_por_anexo_com_recortes_indexados",
+    "pasta_local": "bibliografia-pdfs/portugues/",
+    "referencias_sincronizadas": 0,
+    "diagnostico": [
+      "O endereço da pasta retornou HTTP 302 para o login do Google. A rede chegou ao serviço.",
+      "A listagem pelo conector Google Drive retornou uma lista vazia para a pasta indicada.",
+      "O rclone do ambiente não tem remoto autenticado. Erro: didn’t find section in config file."
+    ],
+    "script": "scripts/sincronizar-bibliografia-drive.sh",
+    "comando": "scripts/sincronizar-bibliografia-drive.sh --materia portugues --remote gabaru-drive:",
+    "pre_requisito": "Remoto Google Drive autenticado no rclone local, com acesso à pasta oficial.",
+    "inventario_privado": "bibliografia-pdfs/portugues/inventario-sincronizacao.json",
+    "regra_de_transferencia": "Selecionar arquivos de Português pelo caminho ou título, excluir outras matérias e particionar PDFs com mais de 32 MB durante a transferência.",
+    "indice_real_capitulos_e_paginas": "Ver lote_1_entregue.arquivos para a numeração conferida.",
+    "referencias_recebidas_por_anexo": 2
+  },
+  "lote_1_entregue": {
+    "estado": "arquivos_recebidos_por_anexo",
+    "uso": "Consulta local. Redação, exemplos e comentários da apostila são autorais. As páginas e anexos permanecem na bibliografia privada.",
+    "arquivos": [
+      {
+        "arquivo": "PARA_ENTENDER_O_TEXTO_LEITURA_E_REDAÇÃO_PLATÃO_E_FIORIN_16_edição.pdf",
+        "pasta": "portugues",
+        "bytes": 10210134,
+        "sha256": "9b3ba8df9d1e6d76f9e1327a6488541152c9fe51130ebf54162cbc0b0c0d32d7",
+        "paginas_pdf": 433,
+        "estado": "consulta_privada",
+        "recortes_impressos": [
+          [
+            11,
+            18
+          ],
+          [
+            27,
+            43
+          ],
+          [
+            173,
+            178
+          ],
+          [
+            201,
+            217
+          ],
+          [
+            241,
+            259
+          ],
+          [
+            309,
+            317
+          ],
+          [
+            371,
+            382
+          ],
+          [
+            405,
+            419
+          ],
+          [
+            19,
+            25
+          ],
+          [
+            111,
+            127
+          ],
+          [
+            137,
+            153
+          ],
+          [
+            181,
+            199
+          ],
+          [
+            261,
+            287
+          ],
+          [
+            319,
+            327
+          ],
+          [
+            329,
+            357
+          ],
+          [
+            385,
+            403
+          ]
+        ],
+        "recortes_pdf": [
+          [
+            12,
+            19
+          ],
+          [
+            28,
+            44
+          ],
+          [
+            174,
+            179
+          ],
+          [
+            202,
+            218
+          ],
+          [
+            242,
+            260
+          ],
+          [
+            310,
+            318
+          ],
+          [
+            372,
+            383
+          ],
+          [
+            406,
+            420
+          ],
+          [
+            20,
+            26
+          ],
+          [
+            112,
+            128
+          ],
+          [
+            138,
+            154
+          ],
+          [
+            182,
+            200
+          ],
+          [
+            262,
+            288
+          ],
+          [
+            320,
+            328
+          ],
+          [
+            330,
+            358
+          ],
+          [
+            386,
+            404
+          ]
+        ],
+        "paginas_com_texto_no_recorte": 247,
+        "nota": "Offset de +1 confirmado pelos cabeçalhos e pelo sumário. Os intervalos usam páginas impressas.",
+        "obra": "Para Entender o Texto: Leitura e Redação",
+        "autores": [
+          "Francisco Platão Savioli",
+          "José Luiz Fiorin"
+        ],
+        "edicao": 16,
+        "editora": "Ática",
+        "ano": 2003
+      },
+      {
+        "arquivo": "Português - A Gramática para Concursos Públicos - Edição do Professor.pdf",
+        "pasta": "portugues",
+        "bytes": 16517508,
+        "sha256": "e94e1d9873697d707f37ac6bf297e1a4ca12fabf4995e7db6a61243eaf09c681",
+        "paginas_pdf": 1505,
+        "estado": "consulta_privada",
+        "paginas_edicao_catalogada": 1112,
+        "capitulos_recortados": {
+          "2": [
+            78,
+            104
+          ],
+          "3": [
+            105,
+            142
+          ],
+          "4": [
+            143,
+            191
+          ],
+          "6": [
+            195,
+            261
+          ],
+          "7": [
+            262,
+            302
+          ],
+          "8": [
+            303,
+            331
+          ],
+          "9": [
+            332,
+            358
+          ],
+          "10": [
+            359,
+            376
+          ],
+          "11": [
+            377,
+            438
+          ],
+          "12": [
+            439,
+            560
+          ],
+          "13": [
+            561,
+            602
+          ],
+          "14": [
+            603,
+            630
+          ],
+          "15": [
+            631,
+            671
+          ],
+          "17": [
+            683,
+            686
+          ],
+          "18": [
+            687,
+            690
+          ],
+          "19": [
+            691,
+            725
+          ],
+          "20": [
+            726,
+            748
+          ],
+          "21": [
+            749,
+            787
+          ],
+          "22": [
+            788,
+            807
+          ],
+          "23": [
+            808,
+            855
+          ],
+          "24": [
+            856,
+            871
+          ],
+          "25": [
+            872,
+            875
+          ],
+          "26": [
+            876,
+            889
+          ],
+          "27": [
+            890,
+            929
+          ],
+          "28": [
+            930,
+            977
+          ],
+          "29": [
+            978,
+            1017
+          ],
+          "30": [
+            1018,
+            1045
+          ],
+          "31": [
+            1046,
+            1068
+          ],
+          "32": [
+            1069,
+            1125
+          ],
+          "33": [
+            1126,
+            1145
+          ],
+          "34": [
+            1146,
+            1199
+          ],
+          "35": [
+            1200,
+            1231
+          ],
+          "36": [
+            1232,
+            1256
+          ],
+          "37": [
+            1257,
+            1284
+          ]
+        },
+        "paginas_com_texto_no_recorte": 1191,
+        "nota": "A ficha da 1ª edição informa 1.112 páginas. O arquivo enviado tem 1.505 páginas digitais. Os intervalos estão na numeração do leitor PDF. O capítulo 36 inclui variação no índice interno.",
+        "obra": "A Gramática para Concursos Públicos",
+        "autores": [
+          "Fernando Pestana"
+        ],
+        "edicao": 1,
+        "editora": "Elsevier",
+        "ano": 2013,
+        "focos_com_pagina_conferida": {
+          "mesóclise": {
+            "capitulo": 11,
+            "pagina_pdf": 392
+          },
+          "zeugma": {
+            "capitulo": 32,
+            "pagina_pdf": 1084
+          }
+        },
+        "paginas_sem_texto_no_recorte": [
+          233,
+          248
+        ]
+      },
+      {
+        "arquivo": "Apostila Matematica Financeira.pdf",
+        "pasta": "matematica",
+        "bytes": 5434752,
+        "sha256": "3969dc285f336f4f34e8c03fd2106422c9320a9f793e9773718b13d1dc2b9187",
+        "paginas_pdf": 34,
+        "estado": "reservado_ciclo_matematica",
+        "autores": [
+          "Adilson Longen"
+        ],
+        "recorte_para_o_proximo_ciclo": "Razão, proporção, porcentagem e juros simples"
+      },
+      {
+        "arquivo": "Aula 00 - Teoria Elementar dos Conjuntos - EFOMM 2024.pdf",
+        "pasta": "matematica",
+        "bytes": 2867069,
+        "sha256": "06514e2e6291f325012a7211cb9702726e085f4df4d6c4d59be246669f450614",
+        "paginas_pdf": 179,
+        "estado": "reservado_ciclo_matematica",
+        "autores": [
+          "Victor So"
+        ],
+        "recorte_para_o_proximo_ciclo": "2.7 · Conjuntos Numéricos"
+      },
+      {
+        "arquivo": "Aula 08 - Matemática Financeira - EFOMM 2024.pdf",
+        "pasta": "matematica",
+        "bytes": 779520,
+        "sha256": "4e9f0fb752d309b8ce7f9e46b329f9b1aca8d2f522785e0f5ecfa2a068d4afb8",
+        "paginas_pdf": 47,
+        "estado": "reservado_ciclo_matematica",
+        "autores": [
+          "Victor So"
+        ],
+        "recorte_para_o_proximo_ciclo": "1.1–1.3.1 · Porcentagem, aumentos e descontos, juros simples"
+      },
+      {
+        "arquivo": "Teoria Conjuntos att.pdf",
+        "pasta": "matematica",
+        "bytes": 4800389,
+        "sha256": "f6209f36cce9882ea078a786ad9c90bc1f9f39af9e39354cbf1e81f7d6650a6a",
+        "paginas_pdf": 33,
+        "estado": "reservado_ciclo_matematica",
+        "autores": [
+          "Adilson Longen"
+        ],
+        "recorte_para_o_proximo_ciclo": "Conjuntos numéricos"
+      }
+    ],
+    "articulacao": {
+      "LP01": [
+        "Platão e Fiorin, recorte 1",
+        "Pestana, cap. 34"
+      ],
+      "LP02": [
+        "Platão e Fiorin, recorte 1",
+        "Pestana, caps. 33–34"
+      ],
+      "LP03": [
+        "Platão e Fiorin, pp. 173–178, 201–217 e 241–259",
+        "Pestana, cap. 34"
+      ],
+      "LP04": [
+        "Platão e Fiorin, pp. 111–127 e 181–199",
+        "Pestana, caps. 4 e 32"
+      ],
+      "LP05": [
+        "Platão e Fiorin, pp. 19–25, 261–287 e 319–327",
+        "Pestana, caps. 35 e 37"
+      ],
+      "LP06": [
+        "Pestana, caps. 2–3, 6–15 e 17–31"
+      ],
+      "LP07": [
+        "Pestana, cap. 36"
+      ],
+      "LP08": [
+        "Platão e Fiorin, pp. 137–153, 329–357 e 385–403"
+      ],
+      "LP09": [
+        "Platão e Fiorin, pp. 241–259 e 405–419",
+        "Pestana, caps. 36–37"
+      ]
+    }
+  }
+}

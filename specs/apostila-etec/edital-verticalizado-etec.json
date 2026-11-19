@@ -1,0 +1,2609 @@
+{
+  "versao": 1,
+  "data_referencia": "2026-11-18",
+  "processo": "ETEC 2027/1",
+  "escopo": "1ª série do Ensino Médio e 1º módulo técnico",
+  "fundamento": {
+    "portaria": "CEETEPS-Presidência nº 5320/2026",
+    "artigo": "28, §§ 1º a 4º",
+    "paginas_pdf": [
+      14,
+      15
+    ],
+    "url": "https://assets.fatvestibulares.com.br/vestibulinhoetec/documentos/1SEM-27/Portaria-CEETEPS-Presidencia-5320-2026.pdf",
+    "retificacoes": "https://vestibulinho.etec.sp.gov.br/documentos/portaria.asp",
+    "bncc": "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf"
+  },
+  "prova": {
+    "questoes_objetivas": 50,
+    "alternativas_por_item": 5,
+    "pontos_por_item": 1,
+    "duracao_minutos": 240,
+    "areas_oficiais": [
+      "Linguagens (Português)",
+      "Matemática",
+      "Ciências Humanas (Geografia e História)",
+      "Ciências da Natureza"
+    ]
+  },
+  "competencias": {
+    "C1": "Interpretar textos e outras representações, inclusive gráficos, tabelas, mapas e imagens.",
+    "C2": "Aplicar conhecimentos do Ensino Fundamental para compreender a realidade e resolver problemas.",
+    "C3": "Analisar criticamente argumentos.",
+    "C4": "Reconhecer e relacionar linguagens, abordagens e técnicas de comunicação.",
+    "C5": "Avaliar ações e soluções conforme critérios."
+  },
+  "eixo_transversal": "Valores e ações para cidadania, trabalho, justiça social, intervenção solidária e preservação ambiental, conforme art. 28, § 2º.",
+  "nota": "A portaria remete à BNCC do Ensino Fundamental II. Tópicos e disciplinas de Ciências da Natureza abaixo são organização editorial. Os vínculos de habilidades em cada tópico são exemplos, e o índice de códigos por componente registra a matriz curricular de referência por página do PDF. A remissão não implica que cada habilidade será cobrada diretamente em prova objetiva.",
+  "indice_bncc_paginas_pdf": {
+    "CI": {
+      "EF06CI01": [
+        347
+      ],
+      "EF06CI02": [
+        347
+      ],
+      "EF06CI03": [
+        347
+      ],
+      "EF06CI04": [
+        347
+      ],
+      "EF06CI05": [
+        347
+      ],
+      "EF06CI06": [
+        347
+      ],
+      "EF06CI07": [
+        347
+      ],
+      "EF06CI08": [
+        347
+      ],
+      "EF06CI09": [
+        347
+      ],
+      "EF06CI10": [
+        347
+      ],
+      "EF06CI11": [
+        347
+      ],
+      "EF06CI12": [
+        347
+      ],
+      "EF06CI13": [
+        347
+      ],
+      "EF06CI14": [
+        347
+      ],
+      "EF07CI01": [
+        349
+      ],
+      "EF07CI02": [
+        349
+      ],
+      "EF07CI03": [
+        349
+      ],
+      "EF07CI04": [
+        349
+      ],
+      "EF07CI05": [
+        349
+      ],
+      "EF07CI06": [
+        349
+      ],
+      "EF07CI07": [
+        349
+      ],
+      "EF07CI08": [
+        349
+      ],
+      "EF07CI09": [
+        349
+      ],
+      "EF07CI10": [
+        349
+      ],
+      "EF07CI11": [
+        349
+      ],
+      "EF07CI12": [
+        349
+      ],
+      "EF07CI13": [
+        349
+      ],
+      "EF07CI14": [
+        349
+      ],
+      "EF07CI15": [
+        349
+      ],
+      "EF07CI16": [
+        349
+      ],
+      "EF08CI01": [
+        351
+      ],
+      "EF08CI02": [
+        351
+      ],
+      "EF08CI03": [
+        351
+      ],
+      "EF08CI04": [
+        351
+      ],
+      "EF08CI05": [
+        351
+      ],
+      "EF08CI06": [
+        351
+      ],
+      "EF08CI07": [
+        351
+      ],
+      "EF08CI08": [
+        351
+      ],
+      "EF08CI09": [
+        351
+      ],
+      "EF08CI10": [
+        351
+      ],
+      "EF08CI11": [
+        351
+      ],
+      "EF08CI12": [
+        351
+      ],
+      "EF08CI13": [
+        351
+      ],
+      "EF08CI14": [
+        351
+      ],
+      "EF08CI15": [
+        351
+      ],
+      "EF08CI16": [
+        351
+      ],
+      "EF09CI01": [
+        353
+      ],
+      "EF09CI02": [
+        353
+      ],
+      "EF09CI03": [
+        353
+      ],
+      "EF09CI04": [
+        353
+      ],
+      "EF09CI05": [
+        353
+      ],
+      "EF09CI06": [
+        353
+      ],
+      "EF09CI07": [
+        353
+      ],
+      "EF09CI08": [
+        353
+      ],
+      "EF09CI09": [
+        353
+      ],
+      "EF09CI10": [
+        353
+      ],
+      "EF09CI11": [
+        353
+      ],
+      "EF09CI12": [
+        353
+      ],
+      "EF09CI13": [
+        353
+      ],
+      "EF09CI14": [
+        353
+      ],
+      "EF09CI15": [
+        353
+      ],
+      "EF09CI16": [
+        353
+      ],
+      "EF09CI17": [
+        353
+      ]
+    },
+    "GE": {
+      "EF06GE01": [
+        387
+      ],
+      "EF06GE02": [
+        387
+      ],
+      "EF06GE03": [
+        387
+      ],
+      "EF06GE04": [
+        387
+      ],
+      "EF06GE05": [
+        387
+      ],
+      "EF06GE06": [
+        387
+      ],
+      "EF06GE07": [
+        387
+      ],
+      "EF06GE08": [
+        387
+      ],
+      "EF06GE09": [
+        387
+      ],
+      "EF06GE10": [
+        387
+      ],
+      "EF06GE11": [
+        387
+      ],
+      "EF06GE12": [
+        387
+      ],
+      "EF06GE13": [
+        387
+      ],
+      "EF07GE01": [
+        389
+      ],
+      "EF07GE02": [
+        389
+      ],
+      "EF07GE03": [
+        389
+      ],
+      "EF07GE04": [
+        389
+      ],
+      "EF07GE05": [
+        389
+      ],
+      "EF07GE06": [
+        389
+      ],
+      "EF07GE07": [
+        389
+      ],
+      "EF07GE08": [
+        389
+      ],
+      "EF07GE09": [
+        389
+      ],
+      "EF07GE10": [
+        389
+      ],
+      "EF07GE11": [
+        389
+      ],
+      "EF07GE12": [
+        389
+      ],
+      "EF08GE01": [
+        391
+      ],
+      "EF08GE02": [
+        391
+      ],
+      "EF08GE03": [
+        391
+      ],
+      "EF08GE04": [
+        391
+      ],
+      "EF08GE05": [
+        391
+      ],
+      "EF08GE06": [
+        391
+      ],
+      "EF08GE07": [
+        391
+      ],
+      "EF08GE08": [
+        391
+      ],
+      "EF08GE09": [
+        391
+      ],
+      "EF08GE10": [
+        391
+      ],
+      "EF08GE11": [
+        391
+      ],
+      "EF08GE12": [
+        391
+      ],
+      "EF08GE13": [
+        393
+      ],
+      "EF08GE14": [
+        393
+      ],
+      "EF08GE15": [
+        393
+      ],
+      "EF08GE16": [
+        393
+      ],
+      "EF08GE17": [
+        393
+      ],
+      "EF08GE18": [
+        393
+      ],
+      "EF08GE19": [
+        393
+      ],
+      "EF08GE20": [
+        393
+      ],
+      "EF08GE21": [
+        393
+      ],
+      "EF08GE22": [
+        393
+      ],
+      "EF08GE23": [
+        393
+      ],
+      "EF08GE24": [
+        393
+      ],
+      "EF09GE01": [
+        395
+      ],
+      "EF09GE02": [
+        395
+      ],
+      "EF09GE03": [
+        395
+      ],
+      "EF09GE04": [
+        395
+      ],
+      "EF09GE05": [
+        395
+      ],
+      "EF09GE06": [
+        395
+      ],
+      "EF09GE07": [
+        395
+      ],
+      "EF09GE08": [
+        395
+      ],
+      "EF09GE09": [
+        395
+      ],
+      "EF09GE10": [
+        395
+      ],
+      "EF09GE11": [
+        395
+      ],
+      "EF09GE12": [
+        395
+      ],
+      "EF09GE13": [
+        395
+      ],
+      "EF09GE14": [
+        397
+      ],
+      "EF09GE15": [
+        397
+      ],
+      "EF09GE16": [
+        397
+      ],
+      "EF09GE17": [
+        397
+      ],
+      "EF09GE18": [
+        397
+      ]
+    },
+    "HI": {
+      "EF06HI01": [
+        423
+      ],
+      "EF06HI02": [
+        423
+      ],
+      "EF06HI03": [
+        423
+      ],
+      "EF06HI04": [
+        423
+      ],
+      "EF06HI05": [
+        423
+      ],
+      "EF06HI06": [
+        423
+      ],
+      "EF06HI07": [
+        423
+      ],
+      "EF06HI08": [
+        423
+      ],
+      "EF06HI09": [
+        423
+      ],
+      "EF06HI10": [
+        423
+      ],
+      "EF06HI11": [
+        423
+      ],
+      "EF06HI12": [
+        423
+      ],
+      "EF06HI13": [
+        423
+      ],
+      "EF06HI14": [
+        423
+      ],
+      "EF06HI15": [
+        423
+      ],
+      "EF06HI16": [
+        423
+      ],
+      "EF06HI17": [
+        423
+      ],
+      "EF06HI18": [
+        423
+      ],
+      "EF06HI19": [
+        423
+      ],
+      "EF07HI01": [
+        425
+      ],
+      "EF07HI02": [
+        425
+      ],
+      "EF07HI03": [
+        425
+      ],
+      "EF07HI04": [
+        425
+      ],
+      "EF07HI05": [
+        425
+      ],
+      "EF07HI06": [
+        425
+      ],
+      "EF07HI07": [
+        425
+      ],
+      "EF07HI08": [
+        425
+      ],
+      "EF07HI09": [
+        425
+      ],
+      "EF07HI10": [
+        425
+      ],
+      "EF07HI11": [
+        425
+      ],
+      "EF07HI12": [
+        425
+      ],
+      "EF07HI13": [
+        425
+      ],
+      "EF07HI14": [
+        425
+      ],
+      "EF07HI15": [
+        425
+      ],
+      "EF07HI16": [
+        425
+      ],
+      "EF07HI17": [
+        425
+      ],
+      "EF08HI01": [
+        427
+      ],
+      "EF08HI02": [
+        427
+      ],
+      "EF08HI03": [
+        427
+      ],
+      "EF08HI04": [
+        427
+      ],
+      "EF08HI05": [
+        427
+      ],
+      "EF08HI06": [
+        427
+      ],
+      "EF08HI07": [
+        427
+      ],
+      "EF08HI08": [
+        427
+      ],
+      "EF08HI09": [
+        427
+      ],
+      "EF08HI10": [
+        427
+      ],
+      "EF08HI11": [
+        427
+      ],
+      "EF08HI12": [
+        427
+      ],
+      "EF08HI13": [
+        427
+      ],
+      "EF08HI14": [
+        427
+      ],
+      "EF08HI15": [
+        429
+      ],
+      "EF08HI16": [
+        429
+      ],
+      "EF08HI17": [
+        429
+      ],
+      "EF08HI18": [
+        429
+      ],
+      "EF08HI19": [
+        429
+      ],
+      "EF08HI20": [
+        429
+      ],
+      "EF08HI21": [
+        429
+      ],
+      "EF08HI22": [
+        429
+      ],
+      "EF08HI23": [
+        429
+      ],
+      "EF08HI24": [
+        429
+      ],
+      "EF08HI25": [
+        429
+      ],
+      "EF08HI26": [
+        429
+      ],
+      "EF08HI27": [
+        429
+      ],
+      "EF09HI01": [
+        431
+      ],
+      "EF09HI02": [
+        431
+      ],
+      "EF09HI03": [
+        431
+      ],
+      "EF09HI04": [
+        431
+      ],
+      "EF09HI05": [
+        431
+      ],
+      "EF09HI06": [
+        431
+      ],
+      "EF09HI07": [
+        431
+      ],
+      "EF09HI08": [
+        431
+      ],
+      "EF09HI09": [
+        431
+      ],
+      "EF09HI10": [
+        431
+      ],
+      "EF09HI11": [
+        431
+      ],
+      "EF09HI12": [
+        431
+      ],
+      "EF09HI13": [
+        431
+      ],
+      "EF09HI14": [
+        431
+      ],
+      "EF09HI15": [
+        431
+      ],
+      "EF09HI16": [
+        431
+      ],
+      "EF09HI17": [
+        433
+      ],
+      "EF09HI18": [
+        433
+      ],
+      "EF09HI19": [
+        433
+      ],
+      "EF09HI20": [
+        433
+      ],
+      "EF09HI21": [
+        433
+      ],
+      "EF09HI22": [
+        433
+      ],
+      "EF09HI23": [
+        433
+      ],
+      "EF09HI24": [
+        433
+      ],
+      "EF09HI25": [
+        433
+      ],
+      "EF09HI26": [
+        433
+      ],
+      "EF09HI27": [
+        433
+      ],
+      "EF09HI28": [
+        435
+      ],
+      "EF09HI29": [
+        435
+      ],
+      "EF09HI30": [
+        435
+      ],
+      "EF09HI31": [
+        435
+      ],
+      "EF09HI32": [
+        435
+      ],
+      "EF09HI33": [
+        435
+      ],
+      "EF09HI34": [
+        435
+      ],
+      "EF09HI35": [
+        435
+      ],
+      "EF09HI36": [
+        435
+      ]
+    },
+    "LP": {
+      "EF06LP01": [
+        165
+      ],
+      "EF06LP02": [
+        165
+      ],
+      "EF06LP03": [
+        173
+      ],
+      "EF06LP04": [
+        173
+      ],
+      "EF06LP05": [
+        173
+      ],
+      "EF06LP06": [
+        173
+      ],
+      "EF06LP07": [
+        175
+      ],
+      "EF06LP08": [
+        175
+      ],
+      "EF06LP09": [
+        175
+      ],
+      "EF06LP10": [
+        175
+      ],
+      "EF06LP11": [
+        175
+      ],
+      "EF06LP12": [
+        175
+      ],
+      "EF07LP01": [
+        165
+      ],
+      "EF07LP02": [
+        165
+      ],
+      "EF07LP03": [
+        173
+      ],
+      "EF07LP04": [
+        173
+      ],
+      "EF07LP05": [
+        173
+      ],
+      "EF07LP06": [
+        173
+      ],
+      "EF07LP07": [
+        173
+      ],
+      "EF07LP08": [
+        175
+      ],
+      "EF07LP09": [
+        175
+      ],
+      "EF07LP10": [
+        175
+      ],
+      "EF07LP11": [
+        175
+      ],
+      "EF07LP12": [
+        175
+      ],
+      "EF07LP13": [
+        177
+      ],
+      "EF07LP14": [
+        177
+      ],
+      "EF08LP01": [
+        179
+      ],
+      "EF08LP02": [
+        179
+      ],
+      "EF08LP03": [
+        181
+      ],
+      "EF08LP04": [
+        189
+      ],
+      "EF08LP05": [
+        189
+      ],
+      "EF08LP06": [
+        191
+      ],
+      "EF08LP07": [
+        191
+      ],
+      "EF08LP08": [
+        191
+      ],
+      "EF08LP09": [
+        191
+      ],
+      "EF08LP10": [
+        191
+      ],
+      "EF08LP11": [
+        191
+      ],
+      "EF08LP12": [
+        191
+      ],
+      "EF08LP13": [
+        191
+      ],
+      "EF08LP14": [
+        193
+      ],
+      "EF08LP15": [
+        193
+      ],
+      "EF08LP16": [
+        193
+      ],
+      "EF09LP01": [
+        179
+      ],
+      "EF09LP02": [
+        179
+      ],
+      "EF09LP03": [
+        181
+      ],
+      "EF09LP04": [
+        189
+      ],
+      "EF09LP05": [
+        191
+      ],
+      "EF09LP06": [
+        191
+      ],
+      "EF09LP07": [
+        191
+      ],
+      "EF09LP08": [
+        191
+      ],
+      "EF09LP09": [
+        193
+      ],
+      "EF09LP10": [
+        193
+      ],
+      "EF09LP11": [
+        193
+      ],
+      "EF09LP12": [
+        193
+      ],
+      "EF67LP01": [
+        165
+      ],
+      "EF67LP02": [
+        165
+      ],
+      "EF67LP03": [
+        165
+      ],
+      "EF67LP04": [
+        165
+      ],
+      "EF67LP05": [
+        165
+      ],
+      "EF67LP06": [
+        165
+      ],
+      "EF67LP07": [
+        165
+      ],
+      "EF67LP08": [
+        167
+      ],
+      "EF67LP09": [
+        167
+      ],
+      "EF67LP10": [
+        167
+      ],
+      "EF67LP11": [
+        167
+      ],
+      "EF67LP12": [
+        167
+      ],
+      "EF67LP13": [
+        167
+      ],
+      "EF67LP14": [
+        169
+      ],
+      "EF67LP15": [
+        169
+      ],
+      "EF67LP16": [
+        169
+      ],
+      "EF67LP17": [
+        169
+      ],
+      "EF67LP18": [
+        169
+      ],
+      "EF67LP19": [
+        169
+      ],
+      "EF67LP20": [
+        171
+      ],
+      "EF67LP21": [
+        171
+      ],
+      "EF67LP22": [
+        171
+      ],
+      "EF67LP23": [
+        171
+      ],
+      "EF67LP24": [
+        171
+      ],
+      "EF67LP25": [
+        171
+      ],
+      "EF67LP26": [
+        171
+      ],
+      "EF67LP27": [
+        171
+      ],
+      "EF67LP28": [
+        171
+      ],
+      "EF67LP29": [
+        171
+      ],
+      "EF67LP30": [
+        173
+      ],
+      "EF67LP31": [
+        173
+      ],
+      "EF67LP32": [
+        173
+      ],
+      "EF67LP33": [
+        173
+      ],
+      "EF67LP34": [
+        173
+      ],
+      "EF67LP35": [
+        173
+      ],
+      "EF67LP36": [
+        177
+      ],
+      "EF67LP37": [
+        177
+      ],
+      "EF67LP38": [
+        177
+      ],
+      "EF69LP01": [
+        143
+      ],
+      "EF69LP02": [
+        143
+      ],
+      "EF69LP03": [
+        143
+      ],
+      "EF69LP04": [
+        143
+      ],
+      "EF69LP05": [
+        143
+      ],
+      "EF69LP06": [
+        145
+      ],
+      "EF69LP07": [
+        145
+      ],
+      "EF69LP08": [
+        145
+      ],
+      "EF69LP09": [
+        145
+      ],
+      "EF69LP10": [
+        145
+      ],
+      "EF69LP11": [
+        145
+      ],
+      "EF69LP12": [
+        147
+      ],
+      "EF69LP13": [
+        147
+      ],
+      "EF69LP14": [
+        147
+      ],
+      "EF69LP15": [
+        147
+      ],
+      "EF69LP16": [
+        147
+      ],
+      "EF69LP17": [
+        147
+      ],
+      "EF69LP18": [
+        147
+      ],
+      "EF69LP19": [
+        147
+      ],
+      "EF69LP20": [
+        149
+      ],
+      "EF69LP21": [
+        149
+      ],
+      "EF69LP22": [
+        149
+      ],
+      "EF69LP23": [
+        149
+      ],
+      "EF69LP24": [
+        151
+      ],
+      "EF69LP25": [
+        151
+      ],
+      "EF69LP26": [
+        151
+      ],
+      "EF69LP27": [
+        151
+      ],
+      "EF69LP28": [
+        151
+      ],
+      "EF69LP29": [
+        153
+      ],
+      "EF69LP30": [
+        153
+      ],
+      "EF69LP31": [
+        153
+      ],
+      "EF69LP32": [
+        153
+      ],
+      "EF69LP33": [
+        153
+      ],
+      "EF69LP34": [
+        153
+      ],
+      "EF69LP35": [
+        155
+      ],
+      "EF69LP36": [
+        155
+      ],
+      "EF69LP37": [
+        155
+      ],
+      "EF69LP38": [
+        155
+      ],
+      "EF69LP39": [
+        155
+      ],
+      "EF69LP40": [
+        157
+      ],
+      "EF69LP41": [
+        157
+      ],
+      "EF69LP42": [
+        157
+      ],
+      "EF69LP43": [
+        157
+      ],
+      "EF69LP44": [
+        159
+      ],
+      "EF69LP45": [
+        159
+      ],
+      "EF69LP46": [
+        159
+      ],
+      "EF69LP47": [
+        161
+      ],
+      "EF69LP48": [
+        161
+      ],
+      "EF69LP49": [
+        161
+      ],
+      "EF69LP50": [
+        161
+      ],
+      "EF69LP51": [
+        161
+      ],
+      "EF69LP52": [
+        161
+      ],
+      "EF69LP53": [
+        163
+      ],
+      "EF69LP54": [
+        163
+      ],
+      "EF69LP55": [
+        163
+      ],
+      "EF69LP56": [
+        163
+      ],
+      "EF89LP01": [
+        179
+      ],
+      "EF89LP02": [
+        179
+      ],
+      "EF89LP03": [
+        179
+      ],
+      "EF89LP04": [
+        179
+      ],
+      "EF89LP05": [
+        179
+      ],
+      "EF89LP06": [
+        179
+      ],
+      "EF89LP07": [
+        179
+      ],
+      "EF89LP08": [
+        181
+      ],
+      "EF89LP09": [
+        181
+      ],
+      "EF89LP10": [
+        181
+      ],
+      "EF89LP11": [
+        181
+      ],
+      "EF89LP12": [
+        183
+      ],
+      "EF89LP13": [
+        183
+      ],
+      "EF89LP14": [
+        183
+      ],
+      "EF89LP15": [
+        183
+      ],
+      "EF89LP16": [
+        183
+      ],
+      "EF89LP17": [
+        185
+      ],
+      "EF89LP18": [
+        185
+      ],
+      "EF89LP19": [
+        185
+      ],
+      "EF89LP20": [
+        185
+      ],
+      "EF89LP21": [
+        185
+      ],
+      "EF89LP22": [
+        187
+      ],
+      "EF89LP23": [
+        187
+      ],
+      "EF89LP24": [
+        187
+      ],
+      "EF89LP25": [
+        187
+      ],
+      "EF89LP26": [
+        187
+      ],
+      "EF89LP27": [
+        187
+      ],
+      "EF89LP28": [
+        187
+      ],
+      "EF89LP29": [
+        187
+      ],
+      "EF89LP30": [
+        187
+      ],
+      "EF89LP31": [
+        187
+      ],
+      "EF89LP32": [
+        189
+      ],
+      "EF89LP33": [
+        189
+      ],
+      "EF89LP34": [
+        189
+      ],
+      "EF89LP35": [
+        189
+      ],
+      "EF89LP36": [
+        189
+      ],
+      "EF89LP37": [
+        193
+      ]
+    },
+    "MA": {
+      "EF06MA01": [
+        303
+      ],
+      "EF06MA02": [
+        303
+      ],
+      "EF06MA03": [
+        303
+      ],
+      "EF06MA04": [
+        303
+      ],
+      "EF06MA05": [
+        303
+      ],
+      "EF06MA06": [
+        303
+      ],
+      "EF06MA07": [
+        303
+      ],
+      "EF06MA08": [
+        303
+      ],
+      "EF06MA09": [
+        303
+      ],
+      "EF06MA10": [
+        303
+      ],
+      "EF06MA11": [
+        303
+      ],
+      "EF06MA12": [
+        303
+      ],
+      "EF06MA13": [
+        303
+      ],
+      "EF06MA14": [
+        305
+      ],
+      "EF06MA15": [
+        305
+      ],
+      "EF06MA16": [
+        305
+      ],
+      "EF06MA17": [
+        305
+      ],
+      "EF06MA18": [
+        305
+      ],
+      "EF06MA19": [
+        305
+      ],
+      "EF06MA20": [
+        305
+      ],
+      "EF06MA21": [
+        305
+      ],
+      "EF06MA22": [
+        305
+      ],
+      "EF06MA23": [
+        305
+      ],
+      "EF06MA24": [
+        305
+      ],
+      "EF06MA25": [
+        305
+      ],
+      "EF06MA26": [
+        305
+      ],
+      "EF06MA27": [
+        305
+      ],
+      "EF06MA28": [
+        305
+      ],
+      "EF06MA29": [
+        305
+      ],
+      "EF06MA30": [
+        307
+      ],
+      "EF06MA31": [
+        307
+      ],
+      "EF06MA32": [
+        307
+      ],
+      "EF06MA33": [
+        307
+      ],
+      "EF06MA34": [
+        307
+      ],
+      "EF07MA01": [
+        309
+      ],
+      "EF07MA02": [
+        309
+      ],
+      "EF07MA03": [
+        309
+      ],
+      "EF07MA04": [
+        309
+      ],
+      "EF07MA05": [
+        309
+      ],
+      "EF07MA06": [
+        309
+      ],
+      "EF07MA07": [
+        309
+      ],
+      "EF07MA08": [
+        309
+      ],
+      "EF07MA09": [
+        309
+      ],
+      "EF07MA10": [
+        309
+      ],
+      "EF07MA11": [
+        309
+      ],
+      "EF07MA12": [
+        309
+      ],
+      "EF07MA13": [
+        309
+      ],
+      "EF07MA14": [
+        309
+      ],
+      "EF07MA15": [
+        309
+      ],
+      "EF07MA16": [
+        309
+      ],
+      "EF07MA17": [
+        309
+      ],
+      "EF07MA18": [
+        309
+      ],
+      "EF07MA19": [
+        311
+      ],
+      "EF07MA20": [
+        311
+      ],
+      "EF07MA21": [
+        311
+      ],
+      "EF07MA22": [
+        311
+      ],
+      "EF07MA23": [
+        311
+      ],
+      "EF07MA24": [
+        311
+      ],
+      "EF07MA25": [
+        311
+      ],
+      "EF07MA26": [
+        311
+      ],
+      "EF07MA27": [
+        311
+      ],
+      "EF07MA28": [
+        311
+      ],
+      "EF07MA29": [
+        311
+      ],
+      "EF07MA30": [
+        311
+      ],
+      "EF07MA31": [
+        311
+      ],
+      "EF07MA32": [
+        311
+      ],
+      "EF07MA33": [
+        311
+      ],
+      "EF07MA34": [
+        313
+      ],
+      "EF07MA35": [
+        313
+      ],
+      "EF07MA36": [
+        313
+      ],
+      "EF07MA37": [
+        313
+      ],
+      "EF08MA01": [
+        315
+      ],
+      "EF08MA02": [
+        315
+      ],
+      "EF08MA03": [
+        315
+      ],
+      "EF08MA04": [
+        315
+      ],
+      "EF08MA05": [
+        315
+      ],
+      "EF08MA06": [
+        315
+      ],
+      "EF08MA07": [
+        315
+      ],
+      "EF08MA08": [
+        315
+      ],
+      "EF08MA09": [
+        315
+      ],
+      "EF08MA10": [
+        315
+      ],
+      "EF08MA11": [
+        315
+      ],
+      "EF08MA12": [
+        315
+      ],
+      "EF08MA13": [
+        315
+      ],
+      "EF08MA14": [
+        317
+      ],
+      "EF08MA15": [
+        317
+      ],
+      "EF08MA16": [
+        317
+      ],
+      "EF08MA17": [
+        317
+      ],
+      "EF08MA18": [
+        317
+      ],
+      "EF08MA19": [
+        317
+      ],
+      "EF08MA20": [
+        317
+      ],
+      "EF08MA21": [
+        317
+      ],
+      "EF08MA22": [
+        317
+      ],
+      "EF08MA23": [
+        317
+      ],
+      "EF08MA24": [
+        317
+      ],
+      "EF08MA25": [
+        317
+      ],
+      "EF08MA26": [
+        317
+      ],
+      "EF08MA27": [
+        317
+      ],
+      "EF09MA01": [
+        319
+      ],
+      "EF09MA02": [
+        319
+      ],
+      "EF09MA03": [
+        319
+      ],
+      "EF09MA04": [
+        319
+      ],
+      "EF09MA05": [
+        319
+      ],
+      "EF09MA06": [
+        319
+      ],
+      "EF09MA07": [
+        319
+      ],
+      "EF09MA08": [
+        319
+      ],
+      "EF09MA09": [
+        319
+      ],
+      "EF09MA10": [
+        319
+      ],
+      "EF09MA11": [
+        319
+      ],
+      "EF09MA12": [
+        319
+      ],
+      "EF09MA13": [
+        321
+      ],
+      "EF09MA14": [
+        321
+      ],
+      "EF09MA15": [
+        321
+      ],
+      "EF09MA16": [
+        321
+      ],
+      "EF09MA17": [
+        321
+      ],
+      "EF09MA18": [
+        321
+      ],
+      "EF09MA19": [
+        321
+      ],
+      "EF09MA20": [
+        321
+      ],
+      "EF09MA21": [
+        321
+      ],
+      "EF09MA22": [
+        321
+      ],
+      "EF09MA23": [
+        321
+      ]
+    }
+  },
+  "topicos": [
+    {
+      "codigo": "LP01",
+      "disciplina": "Língua Portuguesa e Interpretação",
+      "topico": "Compreensão literal, ideia central e inferência",
+      "escopo_editorial": "Localizar informação, inferir relações e distinguir conclusão sustentada de extrapolação.",
+      "componente_bncc": "LP",
+      "capitulo": "compreensao-e-inferencia",
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C4"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF69LP03",
+        "EF67LP28",
+        "EF89LP33"
+      ]
+    },
+    {
+      "codigo": "LP02",
+      "disciplina": "Língua Portuguesa e Interpretação",
+      "topico": "Gêneros, finalidade, público e multimodalidade",
+      "escopo_editorial": "Identificar função social e integrar elementos verbais e visuais em infográficos, publicidade, charges, tirinhas e notícias.",
+      "componente_bncc": "LP",
+      "capitulo": "generos-e-leitura-multimodal",
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C4"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF69LP02",
+        "EF69LP05",
+        "EF69LP17"
+      ]
+    },
+    {
+      "codigo": "LP03",
+      "disciplina": "Língua Portuguesa e Interpretação",
+      "topico": "Argumentação, fato, opinião e fontes",
+      "escopo_editorial": "Reconhecer tese, evidência, posição do autor e confiabilidade de fontes.",
+      "componente_bncc": "LP",
+      "capitulo": "argumentacao-e-revisao",
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C4"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF67LP04",
+        "EF67LP05",
+        "EF89LP03",
+        "EF89LP04"
+      ]
+    },
+    {
+      "codigo": "LP04",
+      "disciplina": "Língua Portuguesa e Interpretação",
+      "topico": "Sentido contextual e figuras de linguagem",
+      "escopo_editorial": "Interpretar polissemia, sinonímia, metáfora, ironia, humor e efeitos expressivos.",
+      "componente_bncc": "LP",
+      "capitulo": "sentido-e-leitura-literaria",
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C4"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF69LP05",
+        "EF67LP38",
+        "EF89LP37"
+      ]
+    },
+    {
+      "codigo": "LP05",
+      "disciplina": "Língua Portuguesa e Interpretação",
+      "topico": "Coesão, coerência e intertextualidade",
+      "escopo_editorial": "Rastrear referências, operadores, progressão, paráfrases e diálogo entre textos.",
+      "componente_bncc": "LP",
+      "capitulo": "coesao-e-intertextualidade",
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C4"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF67LP36",
+        "EF08LP14",
+        "EF89LP32"
+      ]
+    },
+    {
+      "codigo": "LP06",
+      "disciplina": "Língua Portuguesa e Interpretação",
+      "topico": "Morfossintaxe, pontuação, ortografia e acentuação",
+      "escopo_editorial": "Relacionar classes, flexões, sintaxe e convenções gráficas aos efeitos de sentido.",
+      "componente_bncc": "LP",
+      "capitulo": "gramatica-e-variacao",
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C4"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF67LP32",
+        "EF67LP33",
+        "EF08LP04",
+        "EF09LP04"
+      ]
+    },
+    {
+      "codigo": "LP07",
+      "disciplina": "Língua Portuguesa e Interpretação",
+      "topico": "Variação linguística, registros e adequação",
+      "escopo_editorial": "Reconhecer variedades, adequação a contexto e preconceito linguístico.",
+      "componente_bncc": "LP",
+      "capitulo": "gramatica-e-variacao",
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C4"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF69LP55",
+        "EF69LP56"
+      ]
+    },
+    {
+      "codigo": "LP08",
+      "disciplina": "Língua Portuguesa e Interpretação",
+      "topico": "Leitura literária e recursos narrativos e poéticos",
+      "escopo_editorial": "Relacionar narrador, personagem, voz poética, ritmo e construção literária à interpretação.",
+      "componente_bncc": "LP",
+      "capitulo": "sentido-e-leitura-literaria",
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C4"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF69LP44",
+        "EF69LP47",
+        "EF69LP48"
+      ]
+    },
+    {
+      "codigo": "LP09",
+      "disciplina": "Língua Portuguesa e Interpretação",
+      "topico": "Produção, edição, oralidade e práticas de linguagem",
+      "escopo_editorial": "Cobrir habilidades curriculares de autoria, revisão, apresentação e debate por reconhecimento em prova objetiva.",
+      "componente_bncc": "LP",
+      "capitulo": "argumentacao-e-revisao",
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C4"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF69LP07",
+        "EF69LP08",
+        "EF69LP38"
+      ]
+    },
+    {
+      "codigo": "MA01",
+      "disciplina": "Matemática",
+      "topico": "Naturais, inteiros, divisibilidade e expressões",
+      "escopo_editorial": "Resolver operações, ordem de cálculo, divisibilidade, múltiplos, divisores, MMC e MDC.",
+      "componente_bncc": "MA",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06MA03",
+        "EF06MA05",
+        "EF06MA06"
+      ]
+    },
+    {
+      "codigo": "MA02",
+      "disciplina": "Matemática",
+      "topico": "Frações, decimais e números racionais",
+      "escopo_editorial": "Comparar representações e resolver operações com frações e decimais.",
+      "componente_bncc": "MA",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06MA07",
+        "EF06MA10",
+        "EF07MA12"
+      ]
+    },
+    {
+      "codigo": "MA03",
+      "disciplina": "Matemática",
+      "topico": "Razão, proporção, escalas e taxas",
+      "escopo_editorial": "Comparar grandezas, aplicar proporcionalidade direta ou inversa, taxas e escalas.",
+      "componente_bncc": "MA",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF07MA17",
+        "EF08MA13",
+        "EF09MA07",
+        "EF09MA08"
+      ]
+    },
+    {
+      "codigo": "MA04",
+      "disciplina": "Matemática",
+      "topico": "Porcentagem e educação financeira",
+      "escopo_editorial": "Calcular percentuais, variações, parcelamentos, descontos e juros em decisão de consumo.",
+      "componente_bncc": "MA",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06MA13",
+        "EF07MA02",
+        "EF09MA05"
+      ]
+    },
+    {
+      "codigo": "MA05",
+      "disciplina": "Matemática",
+      "topico": "Potências, raízes, reais e notação científica",
+      "escopo_editorial": "Usar ordens de grandeza, potências de dez, raízes e aproximações.",
+      "componente_bncc": "MA",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF08MA01",
+        "EF08MA02",
+        "EF09MA02",
+        "EF09MA03",
+        "EF09MA04"
+      ]
+    },
+    {
+      "codigo": "MA06",
+      "disciplina": "Matemática",
+      "topico": "Expressões algébricas, fatoração e produtos notáveis",
+      "escopo_editorial": "Traduzir relações para expressões, substituir valores e obter expressões equivalentes no nível fundamental.",
+      "componente_bncc": "MA",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF08MA06",
+        "EF09MA09"
+      ]
+    },
+    {
+      "codigo": "MA07",
+      "disciplina": "Matemática",
+      "topico": "Equações, sistemas e relações funcionais",
+      "escopo_editorial": "Modelar incógnitas, igualdade e variação entre grandezas, inclusive relação quadrática elementar.",
+      "componente_bncc": "MA",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF07MA18",
+        "EF08MA08",
+        "EF08MA09",
+        "EF09MA06",
+        "EF09MA09"
+      ]
+    },
+    {
+      "codigo": "MA08",
+      "disciplina": "Matemática",
+      "topico": "Geometria plana e medidas",
+      "escopo_editorial": "Interpretar perímetros, áreas, círculos, polígonos e ângulos em plantas e figuras.",
+      "componente_bncc": "MA",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06MA19",
+        "EF07MA31",
+        "EF08MA19"
+      ]
+    },
+    {
+      "codigo": "MA09",
+      "disciplina": "Matemática",
+      "topico": "Semelhança, congruência e relações métricas",
+      "escopo_editorial": "Resolver problemas com semelhança, Teoremas de Tales e de Pitágoras e relações métricas.",
+      "componente_bncc": "MA",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF09MA12",
+        "EF09MA13",
+        "EF09MA14"
+      ]
+    },
+    {
+      "codigo": "MA10",
+      "disciplina": "Matemática",
+      "topico": "Sólidos, volume e conversões",
+      "escopo_editorial": "Calcular e comparar volume e capacidade, reconhecer sólidos e converter unidades.",
+      "componente_bncc": "MA",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06MA24",
+        "EF07MA30",
+        "EF08MA20",
+        "EF08MA21",
+        "EF09MA19"
+      ]
+    },
+    {
+      "codigo": "MA11",
+      "disciplina": "Matemática",
+      "topico": "Estatística, gráficos e tabelas",
+      "escopo_editorial": "Ler dados, comparar representações e calcular medidas de tendência central e amplitude.",
+      "componente_bncc": "MA",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06MA31",
+        "EF07MA35",
+        "EF08MA25",
+        "EF09MA21"
+      ]
+    },
+    {
+      "codigo": "MA12",
+      "disciplina": "Matemática",
+      "topico": "Contagem e probabilidade",
+      "escopo_editorial": "Usar o princípio multiplicativo e estimar chance a partir de casos ou frequências.",
+      "componente_bncc": "MA",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06MA30",
+        "EF08MA03",
+        "EF08MA22",
+        "EF09MA20"
+      ]
+    },
+    {
+      "codigo": "FI01",
+      "disciplina": "Física",
+      "topico": "Movimento, forças, pressão e máquinas simples",
+      "escopo_editorial": "Relacionar distância, tempo e velocidade, pressão, alavancas, trabalho de mecanismos e formas de movimento.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF07CI01"
+      ]
+    },
+    {
+      "codigo": "FI02",
+      "disciplina": "Física",
+      "topico": "Calor, temperatura, materiais e propagação térmica",
+      "escopo_editorial": "Distinguir calor de temperatura, comparar condução, convecção, radiação e isolamento.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF07CI02",
+        "EF07CI03",
+        "EF07CI04"
+      ]
+    },
+    {
+      "codigo": "FI03",
+      "disciplina": "Física",
+      "topico": "Energia, eletricidade, circuitos e consumo",
+      "escopo_editorial": "Analisar fontes, transformações, circuitos, consumo e consequências do uso energético.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF08CI01",
+        "EF08CI02",
+        "EF08CI03",
+        "EF08CI04",
+        "EF08CI05"
+      ]
+    },
+    {
+      "codigo": "FI04",
+      "disciplina": "Física",
+      "topico": "Ondas, som, luz, cor e radiações",
+      "escopo_editorial": "Relacionar propagação e características sonoras e luminosas, visão, cores e aplicações de radiações.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06CI08",
+        "EF09CI04",
+        "EF09CI05",
+        "EF09CI06"
+      ]
+    },
+    {
+      "codigo": "FI05",
+      "disciplina": "Física",
+      "topico": "Terra, Lua, Sol e astronomia",
+      "escopo_editorial": "Explicar movimentos, fases, eclipses, estações, Sistema Solar e escalas em astronomia.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF08CI12",
+        "EF08CI13",
+        "EF09CI14",
+        "EF09CI17"
+      ]
+    },
+    {
+      "codigo": "FI06",
+      "disciplina": "Física",
+      "topico": "Atmosfera, clima, geologia e fenômenos terrestres",
+      "escopo_editorial": "Interpretar ciclo e circulação atmosférica, tempo, clima, efeito estufa, estrutura e dinâmica da Terra.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF07CI12",
+        "EF07CI13",
+        "EF07CI15",
+        "EF07CI16",
+        "EF08CI14",
+        "EF08CI15",
+        "EF08CI16"
+      ]
+    },
+    {
+      "codigo": "QU01",
+      "disciplina": "Química",
+      "topico": "Materiais, misturas e separação",
+      "escopo_editorial": "Distinguir material, substância e mistura e interpretar métodos de separação.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06CI01",
+        "EF06CI03",
+        "EF06CI04"
+      ]
+    },
+    {
+      "codigo": "QU02",
+      "disciplina": "Química",
+      "topico": "Estados da matéria e mudanças físicas",
+      "escopo_editorial": "Identificar estados e mudanças, relacionando temperatura, pressão e modelos de partículas.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF09CI01"
+      ]
+    },
+    {
+      "codigo": "QU03",
+      "disciplina": "Química",
+      "topico": "Transformações químicas e conservação",
+      "escopo_editorial": "Reconhecer evidências de reação, reagentes, produtos e relações de massas.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06CI02",
+        "EF09CI02"
+      ]
+    },
+    {
+      "codigo": "QU04",
+      "disciplina": "Química",
+      "topico": "Átomos, elementos, moléculas e fórmulas",
+      "escopo_editorial": "Interpretar modelos da matéria, espécies químicas, representação de átomos e composição de substâncias.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF09CI03"
+      ]
+    },
+    {
+      "codigo": "QU05",
+      "disciplina": "Química",
+      "topico": "Propriedades químicas e aplicações cotidianas",
+      "escopo_editorial": "Interpretar propriedades em contexto, como acidez e produtos, com definições necessárias fornecidas.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06CI04",
+        "EF09CI03"
+      ]
+    },
+    {
+      "codigo": "BI01",
+      "disciplina": "Biologia",
+      "topico": "Células, tecidos e organização dos seres vivos",
+      "escopo_editorial": "Relacionar estruturas celulares e níveis de organização a funções, observações e fenômenos.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06CI05",
+        "EF06CI06"
+      ]
+    },
+    {
+      "codigo": "BI02",
+      "disciplina": "Biologia",
+      "topico": "Corpo humano, integração e sentidos",
+      "escopo_editorial": "Interpretar sistemas humanos, coordenação, trocas gasosas, transporte e percepção.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06CI06",
+        "EF06CI07",
+        "EF06CI09"
+      ]
+    },
+    {
+      "codigo": "BI03",
+      "disciplina": "Biologia",
+      "topico": "Saúde, alimentação, doenças e prevenção",
+      "escopo_editorial": "Relacionar saúde a nutrição, saneamento, imunização, vetores, sexualidade e prevenção.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF07CI09",
+        "EF07CI10",
+        "EF08CI08",
+        "EF08CI09",
+        "EF08CI10",
+        "EF08CI11"
+      ]
+    },
+    {
+      "codigo": "BI04",
+      "disciplina": "Biologia",
+      "topico": "Reprodução, hereditariedade, evolução e diversidade",
+      "escopo_editorial": "Relacionar reprodução, herança, seleção natural, evolução, diversidade e classificação de organismos.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF08CI07",
+        "EF09CI08",
+        "EF09CI09",
+        "EF09CI10",
+        "EF09CI11"
+      ]
+    },
+    {
+      "codigo": "BI05",
+      "disciplina": "Biologia",
+      "topico": "Ecossistemas, fluxo de energia e relações ecológicas",
+      "escopo_editorial": "Interpretar cadeias alimentares, fotossíntese, decomposição e relações entre seres vivos e ambiente.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF07CI07",
+        "EF07CI08"
+      ]
+    },
+    {
+      "codigo": "BI06",
+      "disciplina": "Biologia",
+      "topico": "Biodiversidade, impactos, manejo e conservação",
+      "escopo_editorial": "Avaliar efeitos da atividade humana, conservação e sustentabilidade de ambientes e espécies.",
+      "componente_bncc": "CI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF07CI08",
+        "EF09CI12",
+        "EF09CI13"
+      ]
+    },
+    {
+      "codigo": "HI01",
+      "disciplina": "História",
+      "topico": "Tempo, fontes, memória e sociedades antigas",
+      "escopo_editorial": "Interpretar fontes, calendários e organização social, política e econômica da Antiguidade.",
+      "componente_bncc": "HI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06HI01",
+        "EF06HI02",
+        "EF06HI07",
+        "EF06HI09"
+      ]
+    },
+    {
+      "codigo": "HI02",
+      "disciplina": "História",
+      "topico": "Medievo, religiosidade e transição à modernidade",
+      "escopo_editorial": "Identificar relações sociais medievais, expansão islâmica, crises, Renascimento e reformas.",
+      "componente_bncc": "HI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06HI14",
+        "EF06HI16",
+        "EF07HI04",
+        "EF07HI05"
+      ]
+    },
+    {
+      "codigo": "HI03",
+      "disciplina": "História",
+      "topico": "Expansão marítima, colonização e escravidão",
+      "escopo_editorial": "Relacionar colonização, economia atlântica, povos originários, escravidão e resistência.",
+      "componente_bncc": "HI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF07HI02",
+        "EF07HI08",
+        "EF07HI09",
+        "EF07HI15",
+        "EF07HI16"
+      ]
+    },
+    {
+      "codigo": "HI04",
+      "disciplina": "História",
+      "topico": "Revoluções, industrialização e trabalho",
+      "escopo_editorial": "Relacionar revoluções, industrialização, capitalismo e mudanças no trabalho.",
+      "componente_bncc": "HI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF08HI01",
+        "EF08HI03",
+        "EF08HI04"
+      ]
+    },
+    {
+      "codigo": "HI05",
+      "disciplina": "História",
+      "topico": "Independências, Império e formação do Estado brasileiro",
+      "escopo_editorial": "Interpretar independências, cidadania, Primeiro e Segundo Reinados e disputas territoriais.",
+      "componente_bncc": "HI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF08HI12",
+        "EF08HI15",
+        "EF08HI16",
+        "EF08HI17"
+      ]
+    },
+    {
+      "codigo": "HI06",
+      "disciplina": "História",
+      "topico": "Repúblicas brasileiras, direitos e cidadania",
+      "escopo_editorial": "Analisar mudanças políticas e sociais da Primeira República à redemocratização.",
+      "componente_bncc": "HI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF09HI01",
+        "EF09HI06",
+        "EF09HI19",
+        "EF09HI20",
+        "EF09HI22",
+        "EF09HI23"
+      ]
+    },
+    {
+      "codigo": "HI07",
+      "disciplina": "História",
+      "topico": "Séculos XX e XXI: conflitos e ordem mundial",
+      "escopo_editorial": "Interpretar guerras mundiais, totalitarismos, Guerra Fria, descolonização e direitos.",
+      "componente_bncc": "HI",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C3",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF09HI10",
+        "EF09HI13",
+        "EF09HI28",
+        "EF09HI31"
+      ]
+    },
+    {
+      "codigo": "GE01",
+      "disciplina": "Geografia",
+      "topico": "Cartografia, orientação e escalas",
+      "escopo_editorial": "Ler mapas, projeções, legendas, coordenadas e trajetos.",
+      "componente_bncc": "GE",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06GE08",
+        "EF06GE09",
+        "EF07GE09",
+        "EF09GE14"
+      ]
+    },
+    {
+      "codigo": "GE02",
+      "disciplina": "Geografia",
+      "topico": "Dinâmica natural, paisagens, biomas e recursos",
+      "escopo_editorial": "Relacionar clima, relevo, solo, biomas, águas e formas de manejo.",
+      "componente_bncc": "GE",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF06GE04",
+        "EF06GE05",
+        "EF07GE11",
+        "EF09GE16"
+      ]
+    },
+    {
+      "codigo": "GE03",
+      "disciplina": "Geografia",
+      "topico": "População, migração, urbanização e desigualdade",
+      "escopo_editorial": "Interpretar mudanças populacionais, fluxos migratórios e desafios de infraestrutura urbana.",
+      "componente_bncc": "GE",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF07GE02",
+        "EF07GE04",
+        "EF08GE03",
+        "EF08GE16"
+      ]
+    },
+    {
+      "codigo": "GE04",
+      "disciplina": "Geografia",
+      "topico": "Brasil: território, campo, indústria e redes",
+      "escopo_editorial": "Relacionar organização regional, agricultura, indústria, redes de circulação e usos do território.",
+      "componente_bncc": "GE",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF07GE03",
+        "EF07GE06",
+        "EF07GE07",
+        "EF07GE08"
+      ]
+    },
+    {
+      "codigo": "GE05",
+      "disciplina": "Geografia",
+      "topico": "Mundo, globalização, regionalização e geopolítica",
+      "escopo_editorial": "Interpretar redes globais, fluxos, comércio, poder e desigualdade entre países.",
+      "componente_bncc": "GE",
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": [
+        "EF08GE05",
+        "EF08GE08",
+        "EF09GE01",
+        "EF09GE05",
+        "EF09GE09"
+      ]
+    },
+    {
+      "codigo": "IN01",
+      "disciplina": "Atualidades e Interdisciplinaridade",
+      "topico": "Contexto, interpretação de representações e dados",
+      "escopo_editorial": "Cruzar textos, gráficos, mapas, tabelas e imagens dentro de uma situação interdisciplinar.",
+      "componente_bncc": null,
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": []
+    },
+    {
+      "codigo": "IN02",
+      "disciplina": "Atualidades e Interdisciplinaridade",
+      "topico": "Cidadania, ambiente, trabalho e intervenção",
+      "escopo_editorial": "Avaliar propostas e ações com critérios éticos, sociais e ambientais em contexto, inclusive atualidades apresentadas no item.",
+      "componente_bncc": null,
+      "capitulo": null,
+      "competencias_etec_relacionadas": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5"
+      ],
+      "habilidades_bncc_de_referencia": []
+    }
+  ],
+  "fora_do_livro_1": [
+    "programa da Especialização Técnica do art. 29",
+    "provas discursivas autônomas e inglês como bloco de prova",
+    "matrizes, determinantes, números complexos, logaritmos, cálculo e demais ampliações fora da BNCC do Ensino Fundamental II"
+  ]
+}

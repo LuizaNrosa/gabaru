@@ -1,0 +1,1782 @@
+{
+  "compreensao-e-inferencia": {
+    "introducao": "Aprenda a localizar uma informação, reconstruir a ideia central e sustentar inferências com pistas verificáveis.",
+    "codigos": [
+      "LP01"
+    ],
+    "raioX": "Em textos informativos, reportagens e relatos, a ETEC costuma trocar a consequência, o personagem ou o grau de certeza. Um texto sobre saúde ou ambiente pode fornecer toda a informação de que você precisa. Quando vários itens usam o mesmo texto, volte ao trecho pedido por cada comando.",
+    "intuicao": [
+      "Circule mentalmente a operação do comando: localizar, sintetizar ou inferir. Para cada alternativa, procure a frase que a sustenta.",
+      "Em um texto longo, resuma cada parágrafo em poucas palavras e identifique onde o texto muda de assunto, tempo ou ponto de vista."
+    ],
+    "teoria": [
+      {
+        "titulo": "Informação literal e paráfrase",
+        "texto": "Uma paráfrase preserva quem age, o que acontece, quando e em que condições. “Em parte das turmas” pode virar “em algumas turmas”. Pela mesma razão, “em todas as turmas” muda o alcance da afirmação."
+      },
+      {
+        "titulo": "Tema, núcleo e detalhes",
+        "texto": "O tema nomeia o assunto. A ideia central afirma algo sobre esse assunto. Exemplos, datas e porcentagens sustentam o núcleo. Confira se sua síntese explica o início, o desenvolvimento e a conclusão, inclusive uma ressalva final."
+      },
+      {
+        "titulo": "Inferência e limites",
+        "texto": "A inferência junta pistas em uma conclusão que o texto permite. Teste se as mesmas pistas aceitam o contrário. Distinguir sequência, associação e causa é essencial: “depois de” organiza o tempo e, sozinho, deixa a causa em aberto."
+      },
+      {
+        "titulo": "Textos técnicos e enunciados compostos",
+        "texto": "Siga a definição dada e monte uma sequência de condições e resultados. Em itens com afirmações I, II e III, julgue cada uma antes de olhar a combinação. Se uma alternativa junta duas afirmações por “e”, confira as duas."
+      },
+      {
+        "titulo": "Texto, situação e ponto de vista",
+        "texto": "Antes de decidir o que uma frase significa, identifique quem fala, a quem, onde e para quê. “A fila enfim andou” pode celebrar uma melhora em um aviso ou censurar a demora em uma crônica. Procure no restante do texto a atitude de quem enuncia. Em suporte misto, título e legenda podem limitar o referente de uma expressão."
+      },
+      {
+        "titulo": "Pressuposto, subentendido e prova",
+        "texto": "“O laboratório voltou a abrir cedo” afirma a abertura atual e pressupõe uma abertura anterior. “O laboratório não voltou a abrir cedo” mantém a ideia de que já abriu cedo. Já “Ainda tem gente do lado de fora”, falado a quem controla a porta, pode funcionar como pedido de abertura. Esse subentendido depende da situação. Para responder, indique o que já é tomado como dado e a pista que autoriza qualquer conclusão adicional."
+      },
+      {
+        "titulo": "Leitura local e leitura global",
+        "texto": "Faça três passagens quando o suporte é longo. Leia título e comando para estabelecer a tarefa. Na segunda, acompanhe as mudanças de assunto e marque a tese, quando houver, ou a afirmação que dá unidade ao texto. Na última, volte às palavras decisivas de cada alternativa. “Pode contribuir” indica possibilidade. “Resolve” transforma essa relação em garantia. “Uma causa” não equivale a “a única causa”."
+      },
+      {
+        "titulo": "Prática com dados e alternativas compostas",
+        "texto": "Na frase “A biblioteca emprestou 200 livros no mês. Quarenta por cento foram emprestados aos sábados”, o percentual tem como base os empréstimos do mês. Ele não representa a proporção de usuários que leem aos sábados. Registre unidade, período e grupo antes de interpretar o dado. Em séries I, II e III, escreva a pista de cada afirmação e só então confronte a combinação de letras."
+      }
+    ],
+    "armadilha": "Extrapolação amplia de “alguns” para “todos”. Redução transforma um exemplo no assunto inteiro. Contradição inverte o sentido, como trocar “reduziu a chance” por “aumentou a chance”.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Durante a reforma, a biblioteca municipal abriu um balcão de empréstimos na estação. Inicialmente, o balcão funcionava só à tarde e era usado principalmente por pessoas que voltavam do trabalho.",
+          "A equipe ampliou o atendimento para a manhã. O total de empréstimos subiu, e parte dos novos usuários vinha de bairros distantes. O relatório registra que ainda não se sabe se essas pessoas continuarão a usar o serviço após a reabertura."
+        ],
+        "comando": "Qual conclusão o relatório autoriza?",
+        "alternativas": [
+          "O balcão ficará aberto depois da reforma.",
+          "A ampliação de horário coincidiu com maior uso do serviço.",
+          "Todos os novos usuários moravam longe.",
+          "O balcão funcionava de manhã antes da ampliação.",
+          "O aumento decorreu exclusivamente do novo horário."
+        ],
+        "passos": [
+          "Na primeira passagem, anote a situação inicial: atendimento à tarde.",
+          "Na segunda, compare a mudança de horário com o aumento observado. O enunciado não exige demonstrar causa.",
+          "A coincidência é sustentada pela sequência de eventos. O texto não isola uma causa."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A transforma uma incerteza sobre o período após a obra em decisão.",
+          "C amplia “parte” para a totalidade.",
+          "D inverte a cronologia do atendimento.",
+          "E atribui exclusividade causal onde há coincidência."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma associação substituiu parte dos avisos impressos por mensagens. Manteve os cartazes da entrada porque nem todos os frequentadores consultavam o celular."
+        ],
+        "comando": "Qual frase sintetiza a decisão?",
+        "alternativas": [
+          "A associação adotou exclusivamente mensagens.",
+          "Os frequentadores se opuseram a qualquer mudança.",
+          "Todos os avisos foram mantidos em papel.",
+          "A associação combinou canais para alcançar públicos diferentes.",
+          "Os cartazes tornaram o uso do celular obrigatório."
+        ],
+        "passos": [
+          "“Parte” limita quantos avisos mudaram.",
+          "“Manteve” indica coexistência de dois canais.",
+          "A razão declarada explica a escolha e torna D mais completa que uma alternativa centrada só no celular."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A apaga os avisos impressos que continuaram em circulação.",
+          "B atribui oposição aos frequentadores sem pista.",
+          "C ignora a substituição de parte dos avisos.",
+          "E transforma uma alternativa ao celular em obrigação de uso."
+        ]
+      },
+      {
+        "suporte": [
+          "A direção informou que o laboratório voltou a abrir antes das oito após o término da reforma."
+        ],
+        "comando": "Qual informação se mantém pressuposta se negarmos que o laboratório voltou a abrir cedo?",
+        "alternativas": [
+          "A reforma nunca começou.",
+          "O laboratório já abriu antes das oito em outro período.",
+          "A abertura precoce será permanente.",
+          "A reforma terminou às oito.",
+          "O laboratório só atende pesquisadores."
+        ],
+        "passos": [
+          "Observe o valor de repetição do verbo “voltar”.",
+          "Negue a ação atual e veja qual informação anterior permanece.",
+          "A leitura mantém uma abertura cedo anterior."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A nega uma obra que o texto menciona.",
+          "C prolonga indefinidamente um horário anunciado.",
+          "D transfere o horário de abertura para o fim da reforma.",
+          "E restringe o público sem evidência."
+        ]
+      },
+      {
+        "suporte": [
+          "No mês passado, uma estação de leitura recebeu 600 visitas. Aos sábados ocorreram 40% delas. O relatório contou entradas, e um visitante podia voltar quantas vezes quisesse."
+        ],
+        "comando": "Qual leitura preserva a base do percentual?",
+        "alternativas": [
+          "40% dos habitantes da região foram à estação.",
+          "As 600 visitas foram feitas por 600 pessoas diferentes.",
+          "Quarenta de cada cem entradas registradas no mês ocorreram aos sábados.",
+          "40% de todas as visitas do ano aconteceram no sábado.",
+          "A maioria das visitas do mês ocorreu aos sábados."
+        ],
+        "passos": [
+          "Identifique o que foi contado: entradas.",
+          "Leia “delas” como retomada das visitas mensais.",
+          "Compare a frase escolhida com a base e com o período."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A troca a base por habitantes.",
+          "B confunde entradas com visitantes únicos.",
+          "D muda o período de mês para ano.",
+          "E converte uma proporção abaixo da metade em maioria."
+        ]
+      },
+      {
+        "suporte": [
+          "O boletim informou que uma nova cobertura reduziu interrupções em duas linhas de ônibus durante chuvas leves. O teste não incluiu tempestades nem avaliou linhas em outros bairros."
+        ],
+        "comando": "Qual conclusão respeita os limites da informação?",
+        "alternativas": [
+          "A cobertura elimina qualquer interrupção em dia chuvoso.",
+          "As duas linhas foram suspensas definitivamente.",
+          "A cobertura reduziu interrupções no recorte de linhas e intensidade de chuva testado.",
+          "O teste mostrou que os demais bairros dispensam cobertura.",
+          "As tempestades aumentaram as interrupções nas linhas testadas."
+        ],
+        "passos": [
+          "Separe resultado e recorte do teste.",
+          "Circule mentalmente “duas linhas” e “chuvas leves”.",
+          "A resposta conserva o efeito e as condições em que foi registrado."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A generaliza para toda chuva e troca redução por eliminação.",
+          "B inventa encerramento das linhas.",
+          "D conclui sobre bairros não avaliados.",
+          "E atribui resultado a tempestades excluídas."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q001",
+        "correta": "D",
+        "justificativa": "O último parágrafo associa a domesticação a saltos evolutivos, entre eles ferramentas e linguagem. O primeiro parágrafo dá o consumo de leite como exemplo de mudança.",
+        "distratores": [
+          "A introduz uma data medieval ausente e inverte a relação com linguagem e ferramentas.",
+          "B inventa prejuízo e queda de longevidade onde o texto descreve adaptação.",
+          "C transforma a adaptação em aumento da intolerância e acrescenta uma causa ausente.",
+          "E troca a associação ao desenvolvimento por atraso."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q021",
+        "correta": "E",
+        "justificativa": "O texto vincula a falta de iodo ao comprometimento do desenvolvimento físico e neurológico. Baixo crescimento ósseo e deficiência intelectual preservam essa relação.",
+        "distratores": [
+          "A contradiz a necessidade de iodo para a síntese hormonal.",
+          "B trata como prejuízos funções que os hormônios ajudam a manter.",
+          "C propõe suspender a intervenção a que o texto atribui prevenção.",
+          "D inverte o papel da ingestão de fontes de iodo."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q007",
+        "correta": "C",
+        "justificativa": "O texto informa que o cérebro utiliza cerca de um quinto da energia calórica diária. A alternativa conserva a proporção e identifica o órgão de que se fala.",
+        "distratores": [
+          "A inverte a relação entre alimentos crus e o esforço para se alimentar.",
+          "B troca a economia de esforço digestivo por um gasto cerebral causado pelo ato de cozinhar.",
+          "D atribui à dieta crua a facilidade digestiva associada ao cozimento.",
+          "E converte tempo de preparo em causa direta do aumento de neurônios, relação que o texto não afirma."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q008",
+        "correta": "D",
+        "justificativa": "O texto relaciona a incorporação de carne à evolução corporal e cerebral e ao desenvolvimento de capacidades.",
+        "distratores": [
+          "A separa evolução biológica de hábitos, embora o texto estabeleça vínculo entre eles.",
+          "B reduz a importância das proteínas animais na explicação apresentada.",
+          "C atribui à carne um dano que o texto não usa para explicar a evolução.",
+          "E troca a afirmação apresentada por uma controvérsia não apontada no trecho."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q003",
+        "correta": "D",
+        "justificativa": "O texto contrasta a antiga distribuição restrita do trigo com sua ampla presença atual nas Grandes Planícies da América do Norte, região que abrange Estados Unidos e Canadá.",
+        "distratores": [
+          "A aponta uma liderança agrícola no Centro-Oeste que não aparece.",
+          "B toma o tamanho da Grã-Bretanha, usado para comparação, como área de cultivo.",
+          "C confunde a região de origem com um polo exportador.",
+          "E adiciona desertos e ignora que o texto descreve rochas como obstáculo."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q004",
+        "correta": "B",
+        "justificativa": "A passagem diz que produzir mais dessas plantas poderia contribuir para combater a fome. A alternativa preserva a possibilidade, sem prometer que ela basta.",
+        "distratores": [
+          "A contraria o valor nutricional apontado.",
+          "C inverte a resistência a pragas e doenças.",
+          "D contradiz a boa adaptação climática.",
+          "E troca o cultivo localizado, muitas vezes para autoconsumo, por exportação em escala."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q005",
+        "correta": "A",
+        "justificativa": "O último trecho conecta características admiradas nos felinos à representação das divindades. A alternativa reúne duas informações separadas no texto.",
+        "distratores": [
+          "B restringe a importância à proteção material e apaga os símbolos religiosos.",
+          "C ignora os felinos maiores e associa aos menores o simbolismo da realeza.",
+          "D transforma a dualidade admirada em comportamento a evitar.",
+          "E introduz uma hierarquia entre humanos e animais que a passagem não afirma."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q006",
+        "correta": "E",
+        "justificativa": "A parte sobre intervenções destinadas a crianças menciona convivência, concentração e comunicação como efeitos positivos. Isso sustenta a relação com o desenvolvimento.",
+        "distratores": [
+          "A passa de benefícios possíveis à dispensa de acompanhamento.",
+          "B transforma a melhora no convívio em isolamento absoluto.",
+          "C acrescenta substituição de medicamentos e hábitos de saúde.",
+          "D interpreta a criação de rotina como prejuízo de organização, consequência não sustentada."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q008",
+        "correta": "D",
+        "justificativa": "O cuidado mútuo com os animais e com a floresta estrutura o modo de vida narrado. O encontro das irmãs serve de exemplo dessa relação.",
+        "distratores": [
+          "A aplica o nome dado aos animais queridos às crianças.",
+          "B troca o encontro marcado por encanto por uma agressão traumática.",
+          "C inventa um desequilíbrio que o texto contraria ao mencionar cuidado e respeito.",
+          "E afirma que surgiu entre os indígenas o modelo urbano de animais domésticos, explicitamente contrastado no texto."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q016",
+        "correta": "A",
+        "justificativa": "A linha liga Xining a Lhasa, ambas situadas na China conforme o texto. Ar rarefeito, frio extremo e a altitude de Passo Tanggula sustentam a descrição das condições do trajeto.",
+        "distratores": [
+          "B trata o Tibete descrito como região chinesa como um país recém-independente.",
+          "C transforma Amdo, ponto do percurso, no destino e atribui razões políticas ausentes.",
+          "D desloca a ferrovia para a Europa e altera a cronologia.",
+          "E situa o percurso nos Andes e toma um ponto de altitude por uma cidade atendida."
+        ]
+      }
+    ],
+    "resumo": [
+      "Nomeie a operação do comando.",
+      "Ache a passagem e faça uma paráfrase fiel.",
+      "Confira alcance, tempo, agentes e grau de certeza.",
+      "Exija uma pista para cada conclusão."
+    ]
+  },
+  "generos-e-leitura-multimodal": {
+    "introducao": "Leia palavra, imagem e número como partes da mesma mensagem.",
+    "codigos": [
+      "LP02"
+    ],
+    "raioX": "Santinhos, cartazes, charges, tirinhas, fotografias e tabelas podem aparecer isolados ou depois de um texto longo. A banca pede o propósito, a crítica, o público, o título que sintetiza a cena ou a relação entre dado, legenda e texto.",
+    "intuicao": [
+      "Leia título, fonte e legenda. Passe pelos quadros na ordem indicada e procure o detalhe visual que confirma ou complica as palavras.",
+      "Complete “quem fala quer que quem lê faça, pense ou saiba o quê?”. Confirme a resposta na linguagem do material."
+    ],
+    "teoria": [
+      {
+        "titulo": "Gênero, suporte e finalidade",
+        "texto": "Notícias relatam fatos de interesse público. Editorial formula a posição institucional. Artigo de opinião sustenta uma posição assinada. Instruções ordenam ações. Campanhas convocam um público. A função referencial privilegia a informação e aparece em definições, descrições e dados verificáveis. A função conativa se orienta ao destinatário, com chamamentos e imperativos. Descrição retrata, narração encadeia fatos e exposição explica. Diferentes tipos podem coexistir em um gênero. No post, no cartaz ou no jornal, observe o que o texto efetivamente faz."
+      },
+      {
+        "titulo": "Recepção, circulação e apelos",
+        "texto": "Imperativos e endereçamento aproximam a mensagem do público. Selo, fonte e assinatura identificam quem fala. Uma campanha temática pode usar dados para mobilizar, enquanto uma reportagem investiga ou explica o mesmo problema."
+      },
+      {
+        "titulo": "Charge, tirinha, foto e anúncio",
+        "texto": "A charge comenta uma situação social ou política. A tira articula quadros e pode mudar o sentido no desfecho. Observe gesto, expressão, enquadramento, onomatopeia, ordem dos balões e contraste visual. Na foto histórica, distinga o que a imagem mostra e o que a legenda contextualiza."
+      },
+      {
+        "titulo": "Infográfico, mapa, gráfico e tabela",
+        "texto": "Confira as unidades, a legenda, a escala, a base de comparação e o período. No mapa, converta cor e símbolo em categoria pela legenda. No gráfico, localize os eixos antes de comparar e confira se os valores são absolutos ou percentuais. Quando o eixo é cortado, a diferença visual pode exagerar a distância numérica."
+      },
+      {
+        "titulo": "Como distinguir gênero e tipo textual",
+        "texto": "Gênero é a forma social reconhecível, como notícia, reportagem, artigo de opinião, campanha ou receita. Tipo descreve o que uma passagem faz. Uma reportagem pode narrar um episódio, exibir dados e explicar um conceito. Uma receita em um texto sobre história dos alimentos muda de exposição para instrução quando apresenta ações que o leitor pode executar. Para identificar o gênero, procure circulação, interlocutor, finalidade e organização do texto inteiro."
+      },
+      {
+        "titulo": "Notícia, reportagem, divulgação e opinião",
+        "texto": "Identifique o acontecimento central da notícia e quem informa os fatos. A reportagem pode aprofundar contexto, comparar fontes e trazer testemunhos. A divulgação científica explica um conhecimento a um público mais amplo e pode definir termos ou usar analogias. Artigos de opinião defendem uma posição assinada. Um editorial expressa a posição do veículo. Um trecho informativo pode sustentar uma campanha ou um argumento sem mudar sua finalidade global."
+      },
+      {
+        "titulo": "Funções e recursos de persuasão",
+        "texto": "Uma campanha pode usar dados para informar e imperativos para mobilizar. A repetição de “você”, o vocativo e a pergunta direta orientam a mensagem ao destinatário. Uma mensagem sobre o próprio código, como a explicação de uma palavra, tem efeito metalinguístico. A construção sonora de um slogan pode aumentar sua memorização. Para apontar a função dominante, explique o que o recurso faz naquele suporte."
+      },
+      {
+        "titulo": "Leitura visual com evidência",
+        "texto": "Observe a ordem dos quadros e o instante em que uma fala ou gesto muda o sentido da cena. Charge tende a comentar tema público em contexto reconhecível e cartum pode explorar uma situação mais ampla. Em infográfico, acompanhe setas, alinhamentos e legendas. Em gráficos e tabelas, compare valores na mesma base. Na foto com legenda, diferencie o que se vê e o que a legenda informa sobre tempo, lugar e autoria."
+      }
+    ],
+    "armadilha": "O detalhe chamativo pode ser o recurso usado para persuadir. A finalidade está na ação comunicativa. Uma manchete sozinha indica o destaque, enquanto a legenda pode alterar como a imagem deve ser lida.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Cartaz na entrada da escola. No centro, o desenho de uma garrafa virada forma a letra inicial de “Reabasteça”. Abaixo, lê-se “Traga sua garrafa. Há um bebedouro no pátio e outro na quadra”. Uma seta indica o pátio.",
+          "Um quadro no canto mostra: copos descartáveis por dia, abril 120, maio 75. A assinatura é do grêmio estudantil."
+        ],
+        "comando": "Qual é a finalidade principal do cartaz?",
+        "alternativas": [
+          "Divulgar a eleição do grêmio.",
+          "Explicar a fabricação de garrafas.",
+          "Mobilizar o público da escola a reutilizar recipientes.",
+          "Proibir o uso da quadra.",
+          "Comparar a capacidade dos bebedouros."
+        ],
+        "passos": [
+          "O desenho reforça a ideia de encher novamente.",
+          "O imperativo dá a ação esperada e os endereços facilitam o cumprimento.",
+          "Os números dão contexto à campanha. O comando pede a ação que a peça pretende estimular."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A toma a assinatura do grêmio como aviso eleitoral.",
+          "B interpreta a garrafa desenhada como explicação de fabricação.",
+          "D confunde localização de bebedouro com restrição de acesso à quadra.",
+          "E lê comparação de capacidades onde apenas se indicam os locais."
+        ]
+      },
+      {
+        "suporte": [
+          "Em dois quadros, uma sala de espera tem bancos vazios. No primeiro, uma placa diz “Atendimento exclusivamente digital”. No segundo, do lado de fora, uma fila tenta captar sinal na calçada."
+        ],
+        "comando": "Qual contraste estrutura a crítica da tira?",
+        "alternativas": [
+          "A espera desapareceu quando a sala ficou vazia.",
+          "O serviço digital deslocou a espera para quem tem dificuldade de acesso.",
+          "A fila mostra que o serviço presencial ficou mais lento.",
+          "A placa anuncia que a espera ao ar livre é obrigatória.",
+          "O segundo quadro confirma que todos conseguiram atendimento."
+        ],
+        "passos": [
+          "Leia a placa junto da sala vazia.",
+          "No segundo quadro, a fila contradiz a aparência de ausência de espera.",
+          "B conserva a relação entre a regra de atendimento e a barreira de acesso."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A toma os bancos vazios como fim da fila, que aparece na calçada.",
+          "C pressupõe que ainda haja atendimento presencial.",
+          "D atribui à placa uma regra sobre aguardar fora.",
+          "E confunde tentativa de conexão com atendimento concluído."
+        ]
+      },
+      {
+        "suporte": [
+          "Um folheto narra como moradores recuperaram uma horta e explica o papel da compostagem. No quadro final lê-se “Separe cascas e folhas. Leve-as ao recipiente identificado e cubra com material seco”."
+        ],
+        "comando": "Qual tipo textual domina o quadro final?",
+        "alternativas": [
+          "Narrativo, porque relata a visita de um morador.",
+          "Injuntivo, porque orienta o leitor a agir.",
+          "Descritivo, porque enumera os atributos físicos da horta.",
+          "Argumentativo, porque demonstra que a compostagem é a única solução.",
+          "Expositivo, porque define cientificamente o solo."
+        ],
+        "passos": [
+          "Localize os três verbos que se dirigem ao leitor.",
+          "Leia as frases como sequência de ações executáveis.",
+          "Separe a função do quadro do formato do folheto inteiro."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A transforma instruções em acontecimentos já ocorridos.",
+          "C supõe caracterização física ausente.",
+          "D atribui exclusividade a uma medida que o quadro ensina a executar.",
+          "E procura uma definição onde há comandos."
+        ]
+      },
+      {
+        "suporte": [
+          "Num guia de voluntariado, duas colunas ligam metas a ações. “Conhecer profissões” aponta para entrevistar uma trabalhadora. “Apoiar quem vive isolado” aponta para visitar moradores. “Aprender a cuidar do bairro” aponta para participar de um mutirão."
+        ],
+        "comando": "Qual ação responde à segunda meta?",
+        "alternativas": [
+          "Pesquisar vagas de emprego.",
+          "Entrevistar a trabalhadora.",
+          "Visitar moradores com pouco convívio social.",
+          "Organizar o mutirão de limpeza.",
+          "Escrever um currículo para a trabalhadora."
+        ],
+        "passos": [
+          "Localize a segunda meta em vez de ler só o título.",
+          "Siga a seta até a ação correspondente.",
+          "Confirme que a alternativa preserva o vínculo visual e temático."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A introduz ação ausente do guia.",
+          "B atende à primeira meta.",
+          "D usa ação ligada à terceira meta.",
+          "E inventa uma tarefa e troca o beneficiário."
+        ]
+      },
+      {
+        "suporte": [
+          "Um texto descreve a falta de sombra perto de escolas, ouve estudantes e urbanistas e compara investimentos em três bairros. Ao lado, uma peça da prefeitura diz “Adote uma muda. Inscreva-se até sexta no posto do bairro”."
+        ],
+        "comando": "Qual par descreve melhor as duas peças na ordem apresentada?",
+        "alternativas": [
+          "Editorial e artigo científico.",
+          "Reportagem e campanha de mobilização.",
+          "Receita e notícia policial.",
+          "Anúncio comercial e ata.",
+          "Carta pessoal e relato de viagem."
+        ],
+        "passos": [
+          "Na primeira peça, procure diversidade de fontes e investigação do contexto.",
+          "Na segunda, localize a ação pedida e o prazo.",
+          "Compare as finalidades em vez de se prender ao tema comum."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A presume posição institucional na reportagem e investigação científica no cartaz.",
+          "C confunde apuração com instrução de receita e campanha com relato policial.",
+          "D supõe venda e registro de reunião, ambos ausentes.",
+          "E atribui interlocução íntima e viagem a suportes públicos."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2014-2-q029",
+        "correta": "C",
+        "justificativa": "A vassoura do material de campanha representa a limpeza da política. O símbolo concretiza a promessa de moralização e combate à corrupção.",
+        "distratores": [
+          "A atribui ao símbolo expulsão de multinacionais, pauta ausente da peça.",
+          "B inventa uma revolução socialista.",
+          "D faz inferências sobre alianças sociais que a imagem não sustenta.",
+          "E interpreta a vassoura como indicação de público feminino e acrescenta inflação sem apoio."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q031",
+        "correta": "E",
+        "justificativa": "A campanha recomenda ir a pé, de bicicleta ou de ônibus. Imperativos, ilustração e comparação de emissões convidam o público a mudar um hábito.",
+        "distratores": [
+          "A reduz a finalidade aos dados e perde o apelo à ação.",
+          "B toma uma campanha por relato emotivo sobre um fato recente.",
+          "C supõe regras com punição, ausentes do cartaz.",
+          "D confunde as instituições da campanha com um editorial jornalístico."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q002",
+        "correta": "C",
+        "justificativa": "As perguntas e o registro próximo do cotidiano aproximam a campanha do público e o convidam a refletir sobre os oceanos.",
+        "distratores": [
+          "A trata o presente como garantia de validade universal.",
+          "B pressupõe um público acadêmico incompatível com a maneira de interpelar o leitor.",
+          "D toma a exposição mobilizadora por sequência narrativa.",
+          "E julga a hashtag pela convenção de um periódico científico, sem considerar o meio de circulação."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q003",
+        "correta": "E",
+        "justificativa": "O texto informa sobre o ambiente marinho para mobilizar o público em sua defesa, finalidade de uma campanha social.",
+        "distratores": [
+          "A identifica uma cobertura de acontecimentos que não organiza o texto.",
+          "B considera os dados, mas deixa de lado a convocação do leitor.",
+          "C toma a informalidade isolada como critério de crônica e perde a finalidade coletiva.",
+          "D supõe uma oferta comercial ausente."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q010",
+        "correta": "C",
+        "justificativa": "O último quadro esclarece a vergonha de Armandinho. Ele percebe o contraste entre ter calçado e ver outras crianças descalças.",
+        "distratores": [
+          "A atribui indiferença a quem presta atenção à desigualdade.",
+          "B invoca colegas e exposição pública, embora a razão apareça no último quadro.",
+          "D inventa que o tênis está velho.",
+          "E supõe uma doação que a cena não mostra."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q011",
+        "correta": "D",
+        "justificativa": "Um tubo despeja resíduos, peixes estão afetados e um mergulhador ligado ao Greenpeace intervém. Essas pistas compõem uma crítica à poluição das águas.",
+        "distratores": [
+          "A considera os peixes protegidos, embora eles também sofram.",
+          "B inventa acidente nuclear e ignora a presença de um agente ambiental na imagem.",
+          "C confunde o esforço de proteção com sinal de que o ambiente já é sustentável.",
+          "E acrescenta uma proposta de desviar cursos de rios."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q007",
+        "correta": "B",
+        "justificativa": "A exposição apresenta informações sobre a coxinha. O trecho da receita acrescenta injunção porque orienta o leitor a executar ações.",
+        "distratores": [
+          "A trata a origem aristocrática como conclusão histórica comprovada.",
+          "C supõe uma trajetória narrativa completa até a chegada ao Brasil.",
+          "D atribui o hibridismo a sensações que não organizam a receita.",
+          "E troca a orientação prática pela ênfase na criatividade de cozinheiros."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q028",
+        "correta": "D",
+        "justificativa": "A pergunta sobre participação cidadã está alinhada com a atividade de trabalho voluntário. A visita solidária a pacientes exemplifica essa atividade.",
+        "distratores": [
+          "A descreve vínculo de emprego formal.",
+          "B apresenta venda de lanches, sem indicar ação voluntária.",
+          "C especifica estágio remunerado.",
+          "E descreve atividade profissional, sem o vínculo com o voluntariado pedido."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q014",
+        "correta": "D",
+        "justificativa": "O relato de experiências e ensinamentos preserva a memória de pessoas e ajuda a compreender identidades construídas ao longo do tempo.",
+        "distratores": [
+          "A desloca o foco para padronização do ensino digital.",
+          "B atribui ao relato uma tese contrária à migração que ele não desenvolve.",
+          "C introduz uma explicação profissional para mudanças familiares.",
+          "E toma tema laboral e atividades em áreas protegidas como propósito do gênero."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q026",
+        "correta": "E",
+        "justificativa": "O possessivo de segunda interlocução e os imperativos no cartaz dirigem a mensagem ao público e o convocam a doar.",
+        "distratores": [
+          "A percebe a imagem, mas erra ao tratá-la como rara em anúncios.",
+          "B troca o chamamento no presente da campanha por uma narração no passado.",
+          "C presume linguagem especializada e público acadêmico.",
+          "D atribui ironia à escolha lexical, embora a peça faça um apelo sério com imagens figuradas."
+        ]
+      }
+    ],
+    "resumo": [
+      "Nomeie emissor, público e ação esperada.",
+      "Aponte uma pista verbal e uma visual.",
+      "Cheque legenda, unidade, período e base.",
+      "Leia o último quadro antes de fechar a interpretação."
+    ]
+  },
+  "sentido-e-leitura-literaria": {
+    "introducao": "Descubra como uma palavra, uma voz ou a forma de um verso muda o que se entende.",
+    "codigos": [
+      "LP04",
+      "LP08"
+    ],
+    "raioX": "A prova pede sentido de expressões e efeitos de figuras em reportagens, poemas, letras, diálogos e narrativas. Em textos literários, título, repetição, imagens e desfecho podem ser a pista decisiva.",
+    "intuicao": [
+      "Troque a palavra por uma expressão simples. Leia a frase inteira e veja o que mudou em tempo, tom, intensidade e julgamento.",
+      "Em texto literário, identifique quem fala e para quem. Em seguida, procure o elemento formal que permite interpretar sua fala."
+    ],
+    "teoria": [
+      {
+        "titulo": "Sentido em contexto e relações de palavras",
+        "texto": "Polissemia é a disponibilidade de sentidos diferentes para uma mesma palavra. “Rede” pode nomear um objeto, uma infraestrutura ou um conjunto de relações. Prefixos, sufixos, palavras vizinhas e marcas de tempo ajudam a decidir. Um sinônimo de dicionário pode falhar na frase se mudar a avaliação ou o registro."
+      },
+      {
+        "titulo": "Figuras e efeito local",
+        "texto": "Metáfora transfere sentido por semelhança. Comparação explicita um paralelo. Metonímia troca termos por contiguidade, como autor pela obra. Personificação atribui ação humana a ente não humano. Antítese contrasta ideias e paradoxo aproxima ideias aparentemente incompatíveis. Hipérbole intensifica, eufemismo atenua e ironia explora a distância entre a formulação e a avaliação sugerida."
+      },
+      {
+        "titulo": "Som, repetição e sequência",
+        "texto": "Anáfora é a repetição no início de unidades sucessivas. Aliteração e assonância repetem sons consonantais e vocálicos. Onomatopeia imita um ruído. Elipse omite um termo recuperável. Zeugma omite um termo já citado, como o verbo em “Ana levou água, Rui, suco”. Pleonasmo repete uma ideia e pode reforçá-la. Catacrese emprega uma transferência de sentido convencional, como em “braço da cadeira”. Apresente o efeito no trecho: ênfase, ritmo, acúmulo, urgência ou contraste."
+      },
+      {
+        "titulo": "Narrador, personagem e eu lírico",
+        "texto": "Autor é quem escreve. Narrador é a voz que conta. Eu lírico é a voz construída pelo poema. O narrador pode participar da história ou observá-la de fora e pode saber mais ou menos do que uma personagem. Travessões, aspas e verbos de fala ajudam a atribuir cada ponto de vista."
+      },
+      {
+        "titulo": "Construção literária",
+        "texto": "Nos contos e crônicas, acompanhe situação inicial, conflito e desfecho. Nos poemas, observe o título, o ritmo, as imagens, as estrofes, as quebras de verso e o destinatário. O desfecho ou último verso pode mudar o valor dos sinais anteriores. Reconheça a época ou o repertório quando o texto fornece pistas de diálogo."
+      },
+      {
+        "titulo": "Polissemia, ambiguidade e substituição",
+        "texto": "“Rede lotada” pode aludir ao transporte, ao acesso digital ou a um objeto, conforme o suporte. Uma manchete como “Monitora viu o aluno com binóculo” pode deixar indefinido quem usa o instrumento. Para testar um sinônimo, troque a expressão no contexto e verifique intensidade, registro e efeito. “Desconfiou” mantém incerteza. “Descobriu” já apresenta o fato como conhecido."
+      },
+      {
+        "titulo": "Figuras de construção e de som",
+        "texto": "Em “O café abriu cedo. A feira, às nove”, o verbo da segunda frase é recuperado da primeira. A omissão de um termo já mencionado é zeugma. A elipse também permite recuperação, inclusive pela situação ou pela flexão. Em “Foi uma decisão discreta e descrita em poucas linhas”, palavras de som próximo e sentidos diferentes criam paronomásia. Observe como aliteração, rima e repetição contribuem para o ritmo em vez de identificar a figura só pela aparência das letras."
+      },
+      {
+        "titulo": "Ironia e imagem em conjunto",
+        "texto": "Se a legenda diz “atendimento instantâneo” sobre um balcão com uma longa fila, a imagem contradiz a avaliação expressa. A ironia nasce dessa tensão. Metáfora aproxima domínios por semelhança e metonímia por uma relação de proximidade, como em “li Conceição Evaristo”. Diferencie o recurso do julgamento que ele ajuda a construir. Uma alternativa pode nomear a figura certa e explicar seu efeito de modo errado."
+      },
+      {
+        "titulo": "Foco narrativo, tempo e vozes",
+        "texto": "Pergunte se a voz participa dos fatos e a quais pensamentos tem acesso. Narrador externo pode ficar limitado ao que se observa ou acompanhar a interioridade. O primeiro acontecimento narrado pode vir depois de fatos recuperados em lembrança. No discurso direto, a fala é apresentada como enunciado próprio da personagem. No indireto, chega pelo relato. No indireto livre, podem aparecer avaliações da personagem na voz narrativa, sem marca de citação."
+      },
+      {
+        "titulo": "Como ler poema, letra e narração",
+        "texto": "Leia a estrofe em voz baixa, observe onde quebra o verso e que palavras voltam com variação. Depois compare título, primeira imagem e fecho. O eu lírico é a voz que organiza o poema. Em narrativa curta, localize a situação inicial e o que se altera no desfecho. Se a pergunta pede interpretação, use os recursos formais como evidência de sentido."
+      }
+    ],
+    "armadilha": "Ler literalmente uma metáfora ou atribuir ao autor uma opinião de personagem apaga a pista cobrada. Se o comando pede efeito, o nome da figura só ajuda quando explica o funcionamento no trecho.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Todo dia a cidade acordava debaixo da mesma tampa de fumaça. No domingo em que a avenida ficou livre de carros, Luísa abriu a janela. “Hoje a rua respirou”, disse. O vizinho olhou para o asfalto e perguntou desde quando as ruas tinham pulmões."
+        ],
+        "comando": "Como a fala de Luísa e a reação do vizinho criam o efeito final?",
+        "alternativas": [
+          "A menina descreve uma respiração literal.",
+          "O vizinho confirma que o asfalto mudou de estado.",
+          "A cena rejeita a existência de fumaça.",
+          "O humor surge da leitura literal de uma imagem que sugere alívio.",
+          "Os dois usam a expressão no mesmo sentido técnico."
+        ],
+        "passos": [
+          "O início apresenta a fumaça como condição recorrente.",
+          "A avenida sem carros dá o sentido de alívio à atribuição de respiração à rua.",
+          "O vizinho interpreta a imagem literalmente. A mudança de leitura sustenta D."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A toma a imagem de alívio por ato fisiológico.",
+          "B confunde a pergunta sobre pulmões com relato de mudança física.",
+          "C ignora a fumaça da situação inicial.",
+          "E apaga o contraste entre sentido figurado e leitura literal."
+        ]
+      },
+      {
+        "suporte": [
+          "Volta, canoa, antes da chuva. / Volta, canoa, antes do escuro. / No cais, três luzes ainda esperam."
+        ],
+        "comando": "Qual efeito a repetição dos dois primeiros versos reforça?",
+        "alternativas": [
+          "A urgência de um pedido dirigido à canoa.",
+          "A neutralidade de uma previsão técnica.",
+          "A descrição de uma viagem já concluída.",
+          "A troca do destinatário em cada verso.",
+          "A explicação literal do funcionamento das luzes."
+        ],
+        "passos": [
+          "A repetição inicial de “Volta, canoa” é anáfora.",
+          "“Antes” marca dois limites para o retorno.",
+          "O cais à espera sustenta a urgência, que explica o efeito figurado sem reduzir o verso à figura."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B toma um chamamento insistente por descrição neutra do tempo.",
+          "C trata o retorno pedido como acontecimento concluído.",
+          "D supõe troca de destinatário onde se repete “canoa”.",
+          "E lê as luzes como objeto de manual em um verso que encena a espera."
+        ]
+      },
+      {
+        "suporte": [
+          "O bilhete da feira dizia “Ana levou lanternas. Júlia, pilhas”."
+        ],
+        "comando": "Qual procedimento explica o trecho depois do ponto?",
+        "alternativas": [
+          "Hipérbole, com exagero das quantidades.",
+          "Zeugma, com recuperação do verbo já empregado.",
+          "Metonímia, com troca de pessoa por objeto.",
+          "Anáfora, com repetição explícita no começo das frases.",
+          "Paradoxo, com duas ideias incompatíveis."
+        ],
+        "passos": [
+          "Reconstrua a ação de Júlia recuperando “levou”.",
+          "Observe que o termo omitido apareceu na frase anterior.",
+          "Nomeie a omissão e explique como o leitor completa o sentido."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A inventa exagero numérico.",
+          "C supõe uma substituição lexical que não ocorreu.",
+          "D aponta repetição expressa, embora o verbo tenha sido omitido.",
+          "E atribui conflito a duas ações compatíveis."
+        ]
+      },
+      {
+        "suporte": [
+          "Numa crônica, “A rua estava livre de carros. Nina atravessou contente. O pai, que esperava na esquina, desejou em silêncio que a paz durasse pelo menos até o fim da tarde”."
+        ],
+        "comando": "Que pista mostra acesso à interioridade?",
+        "alternativas": [
+          "A indicação de onde o pai esperava.",
+          "O nome da rua.",
+          "O desejo silencioso atribuído ao pai.",
+          "A travessia de Nina.",
+          "A ausência de carros."
+        ],
+        "passos": [
+          "Separe ações observáveis e informação interna.",
+          "Localize a manifestação que o pai não verbalizou.",
+          "Ela mostra que a voz narrativa sabe mais do que uma câmera registraria."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A apresenta posição visível.",
+          "B cita um detalhe ausente e que, por si, seria externo.",
+          "D relata ação observável.",
+          "E descreve o espaço, sem revelar pensamento."
+        ]
+      },
+      {
+        "suporte": [
+          "Na entrada de um centro de atendimento, a placa diz “Atendemos você sem espera”. Ao lado, a fotografia mostra pessoas dormindo em cadeiras com senhas na mão e o painel ainda no número um."
+        ],
+        "comando": "Qual leitura explica a ironia?",
+        "alternativas": [
+          "A imagem confirma que foram atendidas ao chegar.",
+          "A frase e a foto indicam que as cadeiras servem apenas a acompanhantes.",
+          "O contraste entre promessa e espera prolongada sustenta a crítica.",
+          "A placa descreve literalmente o conforto do sono.",
+          "O painel prova que o centro não distribui senhas."
+        ],
+        "passos": [
+          "Leia a promessa verbal isoladamente.",
+          "Compare-a com os sinais de duração e as senhas na fotografia.",
+          "Identifique a avaliação crítica produzida pelo contraste."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A contradiz a fila sugerida pela imagem.",
+          "B inventa a função das cadeiras e dos presentes.",
+          "D troca a promessa de rapidez por descrição de conforto.",
+          "E desconsidera as senhas visíveis."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q011",
+        "correta": "C",
+        "justificativa": "“Acabou indo” apresenta a ida como desfecho. A capivara cresceu, foi solta e, ao final da sequência, juntou-se ao bando.",
+        "distratores": [
+          "A adiciona repetição e trata a ida como inconclusa.",
+          "B introduz duração infinita sem pista.",
+          "D confunde o desfecho com início e acrescenta rapidez.",
+          "E nega a concretização da ação narrada."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q021",
+        "correta": "D",
+        "justificativa": "A sucessão de ordens para as aves se esconderem e a repetição da chegada do homem instauram uma ameaça humana à natureza.",
+        "distratores": [
+          "A inverte a direção da ameaça.",
+          "B descreve harmonia onde há alerta e fuga.",
+          "C introduz transmissão de doenças, ausente da letra.",
+          "E propõe viveiros, solução que o trecho não discute."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q025",
+        "correta": "D",
+        "justificativa": "A tirinha aproxima a pressão física das profundezas e a cobrança para corresponder a expectativas de beleza. O último quadro explicita a passagem para o sentido social.",
+        "distratores": [
+          "A mantém a leitura na aparência física.",
+          "B inverte o contraste visual entre superfície e profundidade.",
+          "C inventa uma defesa contra predadores.",
+          "E continua na explicação física e ainda descreve o efeito no lugar errado."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q007",
+        "correta": "C",
+        "justificativa": "A aproximação sonora entre “insânia” e “insônia”, palavras de sentidos distintos, é paronomásia. Ela reforça o trecho pelo som.",
+        "distratores": [
+          "A toma instrumentos concretos de ameaça por símbolo de superação.",
+          "B trata beleza e valor como opostos.",
+          "D afirma que tragédia e recência se excluem.",
+          "E ignora que o pronome se refere a pessoas, capazes de pensar."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q021",
+        "correta": "D",
+        "justificativa": "A expressão descreve o contato visual com o papel e permite recuperar a atividade de leitura no contexto do relato.",
+        "distratores": [
+          "A expressa afastamento entre grupos.",
+          "B diz respeito à mudança de identidade cultural.",
+          "C fala de conteúdos ou perspectivas ligados à floresta.",
+          "E remete à produção escrita na língua de outro grupo."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q027",
+        "correta": "E",
+        "justificativa": "A imagem de algo que pode ganhar voo traduz a possibilidade de prolongar ou melhorar a vida de quem espera uma doação.",
+        "distratores": [
+          "A acrescenta desconfiança a um apelo de solidariedade.",
+          "B inventa exigências sobre instituições privadas.",
+          "C restringe a ajuda a parentes sem apoio no cartaz.",
+          "D desloca o apelo para pessoas que já receberam órgãos."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q043",
+        "correta": "D",
+        "justificativa": "O elogio à própria consciência ambiental contrasta com a imagem do veículo sendo abastecido. A ironia expõe a atenção seletiva aos impactos dos hábitos individuais.",
+        "distratores": [
+          "A apaga o papel das ações humanas mostradas.",
+          "B transforma o canudo em problema dominante sem comparação sustentada.",
+          "C transfere toda a responsabilidade à indústria.",
+          "E lê como suficiente a ação cujo alcance limitado o quadrinho põe em questão."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q004",
+        "correta": "D",
+        "justificativa": "A voz narrativa tem acesso ao que a personagem quer, teme e pensa. Essa informação interna sustenta a onisciência.",
+        "distratores": [
+          "A atribui a jornada ao narrador como personagem.",
+          "B trata quem narra como testemunha que estava na cena.",
+          "C limita a voz a dados visíveis ou audíveis, embora ela revele pensamentos.",
+          "E confunde a experiência vivida por personagens com a posição da voz que narra."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q022",
+        "correta": "E",
+        "justificativa": "A lista de nomes de aves no trecho sustenta o sentido coletivo do título. A enumeração dá forma à imagem de um conjunto diverso.",
+        "distratores": [
+          "A inverte a relação entre a chegada do homem e a fuga das aves.",
+          "B atribui à extensão dos versos um efeito de velocidade que não explica o título.",
+          "C propõe um efeito sonoro que não justifica a referência do título.",
+          "D inventa uma localização nas árvores para explicar as repetições."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q035",
+        "correta": "D",
+        "justificativa": "As imagens de roda, ciranda e giro ligam o percurso do trem à vida em movimento. A recorrência lexical sustenta essa leitura.",
+        "distratores": [
+          "A introduz saudade de casa como explicação sem pista suficiente.",
+          "B lê o movimento da vida literalmente, embora esteja em linguagem figurada.",
+          "C chama de exagero um verso que sugere encontro com o dia e não louva os transportes.",
+          "E troca estrofes por parágrafos e ignora os ecos sonoros, como girar e rodar."
+        ]
+      }
+    ],
+    "resumo": [
+      "Teste o sentido pela frase inteira.",
+      "Distinga autor, narrador, eu lírico e interlocutor.",
+      "Localize a figura e diga seu efeito.",
+      "Confira título, repetição e desfecho."
+    ]
+  },
+  "coesao-e-intertextualidade": {
+    "introducao": "Siga as retomadas, as relações entre orações e os diálogos entre textos.",
+    "codigos": [
+      "LP05"
+    ],
+    "raioX": "A ETEC pergunta a que se refere um pronome, que relação um conector expressa ou como uma charge, canção e reportagem tratam a mesma ideia. Pode pedir uma substituição que preserve o sentido em um trecho de texto longo.",
+    "intuicao": [
+      "Substitua o pronome por um candidato e releia duas frases. Confira concordância, tema e ação.",
+      "Determine a relação com palavras suas. Em dois textos, faça uma síntese de cada um antes de compará-los."
+    ],
+    "teoria": [
+      {
+        "titulo": "Coesão referencial",
+        "texto": "Pronomes, sinônimos, hiperônimos, repetição e elipse retomam informações. Anafórico aponta para trás e catafórico antecipa uma informação. Concordância ajuda a restringir candidatos, e o sentido do verbo resolve muitas ambiguidades. “Isso” pode recuperar uma proposição inteira."
+      },
+      {
+        "titulo": "Coesão sequencial e relações lógicas",
+        "texto": "Distinga adição, oposição, concessão, condição, consequência, causa, finalidade, comparação, tempo e conclusão. “Embora” admite uma objeção sem desfazer a conclusão. “Só” restringe. “E” pode expressar soma, sequência, consequência ou contraste, conforme as orações e as expectativas que o contexto constrói."
+      },
+      {
+        "titulo": "Coerência e progressão",
+        "texto": "A coerência depende da compatibilidade entre as ideias, da ordem das informações e da situação comunicativa. A progressão informa algo novo sobre um referente recuperável. Reordenar parágrafos exige verificar pronomes, cronologia e conectores."
+      },
+      {
+        "titulo": "Intertextualidade e reescrita",
+        "texto": "Citação incorpora um trecho marcado. Alusão remete sem transcrever. Paráfrase conserva o núcleo e paródia o recria com outro efeito. Ao comparar texto e imagem, pergunte se convergem, se complementam ou se entram em tensão."
+      },
+      {
+        "titulo": "Referente, antecedente e ambiguidade",
+        "texto": "Em “A diretora conversou com a professora. Ela apresentou a proposta”, a concordância aceita ambas as candidatas. Falta contexto para decidir. “A professora apresentou a proposta” resolve a ambiguidade. Em “O portão fechou cedo. Isso atrasou a turma”, o pronome recupera o acontecimento inteiro. Em “Só quero isto: que expliquem o prazo”, o pronome anuncia o conteúdo que vem depois."
+      },
+      {
+        "titulo": "Relações lógicas na frase e no parágrafo",
+        "texto": "Compare “Como faltou água, a aula mudou de sala” e “A aula ocorreu como estava previsto”. O primeiro “como” introduz causa. O segundo indica conformidade. “Embora” concede uma dificuldade, “portanto” apresenta uma conclusão e “desde que” pode estabelecer condição. Para testar a troca, preserve as duas orações, a ordem lógica e o grau de compromisso de quem fala."
+      },
+      {
+        "titulo": "Progressão e reconstrução de períodos",
+        "texto": "Um parágrafo pode começar pela situação conhecida e avançar para uma ressalva ou consequência. Marque retomadas e informações novas. Na reescrita, mantenha o sujeito, a modalidade e a referência temporal. “Caso a chuva pare, iremos” deixa a ida em aberto. “Quando a chuva parar, iremos” organiza o tempo e pode sugerir que a ocorrência é esperada. Uma frase gramatical pode mudar essa relação."
+      },
+      {
+        "titulo": "Citação, alusão, paráfrase e paródia",
+        "texto": "Além de detectar um eco, diga o que mudou. Uma citação menciona as palavras de outra fonte. Alusão remete sem reproduzir. Paráfrase reformula o núcleo. Paródia transforma um modelo reconhecível com novo efeito, muitas vezes crítico ou cômico. Em prova, compare as posições dos dois suportes. Compartilhar um tema ou uma palavra é insuficiente para concluir que defendem a mesma ideia."
+      }
+    ],
+    "armadilha": "A palavra mais próxima pode concordar com o pronome e ainda ser incompatível com a ação descrita. Um conector frequente pode assumir valor diferente no trecho.",
+    "exemplos": [
+      {
+        "suporte": [
+          "A escola instalou caixas para os livros da campanha. Apesar de pequenas, elas comportaram as doações da manhã. Por isso, as turmas do segundo turno mantiveram a entrega no mesmo local."
+        ],
+        "comando": "Que relação a última frase estabelece com a informação anterior?",
+        "alternativas": [
+          "A manutenção é uma consequência da capacidade observada.",
+          "A entrega causou a instalação antes do início da campanha.",
+          "O segundo turno abriu uma exceção ao uso das caixas.",
+          "O tamanho das caixas impediu todas as doações.",
+          "O volume de livros é uma condição anunciada para instalar as caixas."
+        ],
+        "passos": [
+          "“Elas” retoma “caixas”, pois caixas comportam a entrega.",
+          "“Apesar de” contrasta o tamanho e o resultado observado.",
+          "“Por isso” introduz o que se decidiu em consequência do resultado."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B inverte o tempo e atribui à entrega a instalação.",
+          "C inventa um abandono das caixas pelo segundo turno.",
+          "D contradiz a capacidade observada na manhã.",
+          "E transforma a constatação em condição anterior à instalação."
+        ]
+      },
+      {
+        "suporte": [
+          "O comunicado do bairro termina com “uma praça se faz com muitas mãos”. Em uma charge, o mesmo enunciado acompanha uma praça cercada por grades. Do lado de fora, moradores estendem as mãos sem alcançar o portão."
+        ],
+        "comando": "Qual é o efeito da retomada do comunicado na charge?",
+        "alternativas": [
+          "Repetir a mensagem com a mesma função institucional.",
+          "Mostrar que as grades foram instaladas pelos moradores da cena.",
+          "Criticar a distância entre o discurso de participação e a exclusão representada.",
+          "Explicar que as mãos desenhadas são o símbolo oficial da prefeitura.",
+          "Demonstrar que a charge cita literalmente uma lei."
+        ],
+        "passos": [
+          "A frase do comunicado oferece a ideia de construção coletiva.",
+          "A imagem introduz um obstáculo à participação.",
+          "A citação em novo contexto gera uma leitura crítica, expressa em C."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A ignora a nova função crítica introduzida pela imagem.",
+          "B atribui aos moradores uma ação que a cena não mostra.",
+          "D confunde a representação de mãos com um emblema institucional.",
+          "E afirma origem legal para uma frase retomada de um comunicado."
+        ]
+      },
+      {
+        "suporte": [
+          "A escola instalou um bicicletário. A medida reduziu o número de bicicletas presas ao portão. Isso liberou a passagem na saída."
+        ],
+        "comando": "O que “isso” recupera?",
+        "alternativas": [
+          "A instalação tomada isoladamente, sem resultado.",
+          "O portão da escola.",
+          "A redução das bicicletas presas ao portão.",
+          "O horário da próxima aula.",
+          "A cor das bicicletas."
+        ],
+        "passos": [
+          "Leia o período imediatamente anterior.",
+          "Substitua “isso” pelo acontecimento candidato e teste a causalidade.",
+          "O efeito direto de retirar obstáculos é liberar a passagem."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A pula o resultado que explica diretamente a passagem livre.",
+          "B toma um objeto por situação retomada.",
+          "D introduz informação ausente.",
+          "E troca o acontecimento pelo atributo de um objeto."
+        ]
+      },
+      {
+        "suporte": [
+          "Embora o reservatório estivesse cheio, o posto limitou a retirada para preservar a reserva da comunidade."
+        ],
+        "comando": "Qual reescrita mantém a relação original?",
+        "alternativas": [
+          "Como estava cheio, o posto limitou a retirada.",
+          "Estava cheio, portanto o posto limitou a retirada.",
+          "Mesmo com o reservatório cheio, o posto limitou a retirada.",
+          "Se o reservatório estivesse vazio, o posto limitaria a retirada.",
+          "A retirada foi limitada porque o reservatório estava vazio."
+        ],
+        "passos": [
+          "Localize o fato que poderia levar a esperar retirada livre.",
+          "Observe que o limite ocorre apesar desse fato.",
+          "Procure uma expressão de concessão que conserve os dois acontecimentos."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A apresenta o volume cheio como causa.",
+          "B passa de concessão para conclusão.",
+          "D troca um fato por uma situação hipotética oposta.",
+          "E inverte o estado do reservatório e a relação lógica."
+        ]
+      },
+      {
+        "suporte": [
+          "O aviso da biblioteca termina com “Ler abre portas”. Uma tira mantém o slogan, mas desenha uma porta com quatro cadeados e uma pilha de livros atrás dela."
+        ],
+        "comando": "Como a tira reorganiza a ideia do aviso?",
+        "alternativas": [
+          "Confirma que ler sempre resolve o acesso físico aos livros.",
+          "Interpreta a frase só como indicação de uma entrada destrancada.",
+          "Mantém a frase e usa a imagem para questionar barreiras de acesso.",
+          "Ensina o leitor a abrir cadeados com livros.",
+          "Muda o slogan para atribuir a barreira ao peso dos livros."
+        ],
+        "passos": [
+          "Reconheça a retomada literal da frase.",
+          "Compare a porta simbólica do aviso com a porta concreta da tira.",
+          "Explique o sentido crítico provocado pela divergência."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A não explica os cadeados.",
+          "B lê como destrancada uma porta que aparece fechada.",
+          "D atribui finalidade instrucional à cena.",
+          "E supõe mudança verbal e causa que a imagem não mostra."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q012",
+        "correta": "D",
+        "justificativa": "Nesse parágrafo, os pets urbanos são o termo de comparação e os animais da floresta são os seres com os quais se mantém uma relação de cuidado. “Eles” recai no conjunto referido por “pets” e “animais”.",
+        "distratores": [
+          "A inclui os territórios, que situam a ação.",
+          "B inclui adultos, que oferecem cuidados.",
+          "C inclui indígenas, sujeitos do cuidado no contexto.",
+          "E reúne dois termos que não designam os seres cuidados."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q030",
+        "correta": "B",
+        "justificativa": "“Somente” conserva a restrição de “apenas”. No cartaz, a pequena proporção de pessoas contrasta com a grande proporção de emissões. “Porém” explicita o contraste.",
+        "distratores": [
+          "A perde a restrição e explicita adição simples.",
+          "C cria uma relação temporal e uma conclusão.",
+          "D troca quantidade relativa por dificuldade.",
+          "E altera restrição para predominância e introduz causa."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q005",
+        "correta": "E",
+        "justificativa": "A missão de proteger um ambiente e quem dele depende aproxima o herói da atuação descrita para Bruno Pereira. O elo é ético e ambiental.",
+        "distratores": [
+          "A aproxima-se por proteção de direitos trabalhistas, mas perde o vínculo ambiental da comparação.",
+          "B troca a defesa coletiva pela superação pessoal no esporte.",
+          "C associa o nadador à água pela atividade esportiva, sem preservar a mensagem de proteção.",
+          "D apresenta um ato de emancipação, sem a relação ambiental do texto de referência."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q034",
+        "correta": "B",
+        "justificativa": "Nos dois excertos, imagens de sujeira, lama ou urubus compõem uma leitura da precariedade. A referência à miséria explicita essa relação.",
+        "distratores": [
+          "A transforma diversidade em prosperidade que os trechos não mostram.",
+          "C toma a lama como insumo industrial, sem pista de fabricação.",
+          "D supõe progresso urbano e ambiental como cenário dominante.",
+          "E atribui abundância de oportunidades onde se retrata carência."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q006",
+        "correta": "B",
+        "justificativa": "O possessivo e o pronome pessoal retomam o grupo responsabilizado pelas invasões. Essa continuidade liga a ação mencionada ao verso seguinte.",
+        "distratores": [
+          "A equipara “pois”, explicativo, a dois adversativos.",
+          "C atribui a ambos os dois-pontos uma função justificativa que o contexto não sustenta.",
+          "D escolhe antecedentes diferentes dos termos ligados às orações relativas.",
+          "E descreve antecipação onde os possessivos e pronomes recuperam referências já acessíveis."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q020",
+        "correta": "C",
+        "justificativa": "A estrutura preserva a hipótese, seu resultado e a explicação. A combinação de subjuntivo e futuro do pretérito mantém o cenário imaginado.",
+        "distratores": [
+          "A mistura hipótese com formas temporais que a tratam como confirmação futura.",
+          "B transforma a hipótese em mudança já ocorrida.",
+          "D cria concessão e apresenta a destruição como fato consumado.",
+          "E troca a condição por uma ida tomada como certa e desloca os tempos do período."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q006",
+        "correta": "D",
+        "justificativa": "A frase genérica anuncia a explicação seguinte, que liga a mudança no modo de alimentação aos alimentos consumidos e ao seu preparo.",
+        "distratores": [
+          "A supõe continuidade e exclui a proteína animal.",
+          "B recupera um contexto anterior de alimentação demorada, sem identificar a mudança.",
+          "C aponta uma mudança molecular não descrita.",
+          "E reduz a explicação a atividades ligadas a uma dieta de flores e frutas."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q009",
+        "correta": "A",
+        "justificativa": "A oração inicial explica por que os animais precisam ingerir tanta comida. “Como” tem valor causal nesse período.",
+        "distratores": [
+          "B não reconhece o sujeito recuperável no contexto nem o uso de “se” em “alimentar-se”.",
+          "C confunde predomínio de um tipo de alimento com inadequação.",
+          "D lê exclusão numa expressão que especifica o que a quantidade mede.",
+          "E lê eventualidade onde o verbo marca necessidade diária."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q048",
+        "correta": "D",
+        "justificativa": "O “se” apresenta a ausência da planta em certos locais como condição para a suposição sobre a origem do cupuaçu.",
+        "distratores": [
+          "A indica intervalo temporal passado.",
+          "B usa dois-pontos para explicitar o que o texto afirma.",
+          "C emprega “que” em oração que delimita os indígenas de que se fala.",
+          "E situa o fato em relação à colonização."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q033",
+        "correta": "A",
+        "justificativa": "A paráfrase conserva os países como sujeito, o encontro no futuro e a concessão. A barreira persiste, mas não impede o encontro.",
+        "distratores": [
+          "B substitui concessão por conclusão e muda o tempo verbal.",
+          "C nega as barreiras e introduz causa.",
+          "D condiciona a formação de barreiras ao encontro e inverte a relação.",
+          "E muda o sujeito do encontro para a primeira pessoa do plural."
+        ]
+      }
+    ],
+    "resumo": [
+      "Troque o pronome e releia.",
+      "Diga a relação entre as duas proposições.",
+      "Cheque quem, quando e em que ordem.",
+      "Compare sínteses e explique o diálogo entre os textos."
+    ]
+  },
+  "argumentacao-e-revisao": {
+    "introducao": "Identifique a posição defendida, teste seu apoio e revise formulações para preservar o sentido.",
+    "codigos": [
+      "LP03",
+      "LP09"
+    ],
+    "raioX": "Em campanhas e textos de opinião, a banca pede a razão que sustenta a tese, o dado que confirma uma afirmação ou o critério de uma proposta. Também pede reconhecer a formulação escrita que melhor traduz uma imagem ou uma sequência de quadros.",
+    "intuicao": [
+      "Escreva mentalmente “defende que ___ porque ___”. A primeira lacuna é a tese. A segunda exige a justificativa usada pelo texto.",
+      "Ao revisar uma frase, confira se ela carrega as mesmas relações e se atende ao gênero e ao destinatário."
+    ],
+    "teoria": [
+      {
+        "titulo": "Tese, argumento, exemplo e evidência",
+        "texto": "A tese é uma posição discutível. O argumento dá uma razão para aceitá-la. Dados, exemplos, testemunhos e comparações sustentam argumentos com forças diferentes. Um slogan pode formular a tese ou o apelo. Procure a ponte entre o material de apoio e a conclusão."
+      },
+      {
+        "titulo": "Fato, opinião e confiabilidade",
+        "texto": "Uma afirmação factual pode ser verificada. Uma opinião expressa avaliação ou preferência. Confirme fonte, autoria, data, método e população observada. Um dado de uma amostra não autoriza uma regra universal. Autoridade é relevante quando a experiência ou a pesquisa se aplica à afirmação."
+      },
+      {
+        "titulo": "Objeção, concessão e propostas",
+        "texto": "Uma objeção aponta uma limitação e pode ser reconhecida antes de uma resposta. Julgue uma proposta em relação ao problema, ao público e ao critério fornecido. Separe ação, mecanismo e objetivo. Se duas medidas parecem boas, procure a que ataca a causa descrita."
+      },
+      {
+        "titulo": "Planejamento, edição e oralidade",
+        "texto": "Defina finalidade, público e gênero. Organize as ideias em ordem compatível com a tarefa. Revise conteúdo, clareza, referências, coesão e convenções. Na oralidade, marcas de turno, entonação e hesitação dependem da situação. Ao converter fala ou imagem em escrita, preserve posição e relações centrais, explicitando apenas o que o suporte permite concluir."
+      },
+      {
+        "titulo": "Do tema à tese e à evidência",
+        "texto": "“Mobilidade” nomeia um assunto. “O bairro precisa de travessias iluminadas” afirma uma posição. “Os registros mostram concentração de ocorrências após o escurecer” dá uma razão. A força do argumento depende de o dado medir o problema e de a conclusão respeitar seu alcance. Um relato particular pode ilustrar um risco. Para estimar frequência, procure registros de vários casos e conheça o grupo observado."
+      },
+      {
+        "titulo": "Falhas de argumento e recortes de fonte",
+        "texto": "Após um projeto-piloto, “duas turmas melhoraram” sustenta uma observação local. “O método sempre melhora todas as turmas” generaliza além dos dados. Se a melhora ocorreu depois de outra mudança, a sequência não prova causa. A credencial de uma fonte ajuda quando é pertinente à afirmação. Compare dados absolutos e taxas antes de avaliar um título. Duas notícias podem selecionar aspectos distintos do mesmo fato e produzir avaliações diferentes."
+      },
+      {
+        "titulo": "Operadores e efeito de viés",
+        "texto": "Em “Somente oito reclamaram”, o advérbio orienta o leitor a considerar oito um número pequeno. “Já são oito reclamações” pode apresentar a mesma contagem como sinal de alerta. Observe verbos, adjetivos, ordem dos fatos e quem teve espaço para falar. Separe a informação mensurável do enquadramento desse dado."
+      },
+      {
+        "titulo": "Objeção, refutação e propostas",
+        "texto": "Localize o ponto em comum antes de procurar a divergência. “Medo pode evitar riscos” e “é possível agir apesar do medo” avaliam de forma diferente a decisão de recuar. Se o comando pede contraponto, busque uma posição que altere o raciocínio. Para avaliar soluções, identifique a causa visada, o grupo afetado, os recursos e o indicador de resultado."
+      },
+      {
+        "titulo": "Revisão em etapas e passagem da fala para a escrita",
+        "texto": "Primeiro confira fidelidade ao conteúdo e ao gênero. Depois revise referência, ordem, conectores e pontuação. Uma ata pode reduzir hesitações da fala, preservando o grau de compromisso. “Talvez a gente teste na segunda” pode virar “Sugeriu-se um teste na segunda-feira”. Transformá-la em “O teste foi aprovado” inventa uma decisão. Ao condensar quadros em uma frase, mantenha a relação central representada pela sequência."
+      }
+    ],
+    "armadilha": "Uma frase pode repetir o tema e ainda deixar a tese sem apoio. Uma reescrita fluente pode introduzir intenção, causa ou garantia ausentes do original.",
+    "exemplos": [
+      {
+        "suporte": [
+          "O conselho do bairro propõe iluminação no caminho entre o ponto final e a escola. Durante quatro semanas, moradores registraram que a maior parte das quedas relatadas ocorreu nesse trecho após o anoitecer. O boletim informa que os registros vieram de adesão voluntária."
+        ],
+        "comando": "Qual alternativa identifica a evidência usada para sustentar a proposta sem ultrapassar seu alcance?",
+        "alternativas": [
+          "A iluminação eliminará todas as quedas do bairro.",
+          "A escola concentra todos os acidentes da cidade.",
+          "Os moradores preferem ir de carro à escola.",
+          "As quedas relatadas se concentraram no trecho e no horário que a proposta atende.",
+          "A prefeitura já instalou iluminação nas ruas próximas."
+        ],
+        "passos": [
+          "A tese prática é iluminar um trecho específico.",
+          "O registro de quedas liga local e horário à medida sugerida.",
+          "“Relatadas” preserva o alcance da coleta voluntária. D mantém a evidência e seu limite."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A promete eliminar todas as quedas, efeito ausente dos registros.",
+          "B amplia uma observação local para todos os acidentes da cidade.",
+          "C atribui preferência de transporte que a pesquisa não mediu.",
+          "E trata a proposta como obra já realizada."
+        ]
+      },
+      {
+        "suporte": [
+          "Em uma conversa gravada, uma organizadora diz: “A gente pode começar pela rua da feira. Foi onde o piloto deu certo. Depois a gente vê as outras”. A ata deve registrar a proposta com linguagem formal."
+        ],
+        "comando": "Qual redação atende à ata e conserva a posição da falante?",
+        "alternativas": [
+          "A organização decidiu implantar o projeto em todas as ruas.",
+          "Propôs-se iniciar pela rua da feira, onde o piloto funcionou, e avaliar depois as demais.",
+          "O projeto só funcionará na rua da feira.",
+          "Sugeriu-se cancelar o piloto porque faltavam resultados.",
+          "A ampliação foi aprovada para a próxima feira."
+        ],
+        "passos": [
+          "“Pode começar” é proposta, sem indicar decisão.",
+          "“Foi onde” conecta decisão sugerida ao resultado prévio.",
+          "B preserva a ordem e a avaliação futura ao adaptar o registro à ata."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A converte proposta inicial em decisão geral.",
+          "C torna exclusivo o lugar onde houve o primeiro resultado.",
+          "D transforma a avaliação futura em cancelamento e nega o resultado.",
+          "E inventa aprovação e data."
+        ]
+      },
+      {
+        "suporte": [
+          "O jornal do bairro quer ampliar as travessias sinalizadas. Cita 12 colisões registradas em seis meses na avenida principal, contra duas no mesmo período do ano anterior, e sugere investigar os horários e as causas."
+        ],
+        "comando": "Qual formulação respeita o argumento e o alcance dos dados?",
+        "alternativas": [
+          "As colisões aumentaram no recorte observado, e vale estudar medidas para a avenida.",
+          "A falta de sinalização foi comprovadamente a única causa.",
+          "As colisões cresceram em todas as vias da cidade.",
+          "As travessias já impediram novas colisões.",
+          "O estudo comparou números de períodos de duração diferente."
+        ],
+        "passos": [
+          "Localize via, período e grandeza comparada.",
+          "Separe o registro do que ainda precisa ser investigado.",
+          "Aceite uma conclusão do mesmo tamanho que o dado."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B afirma exclusividade causal sem investigação.",
+          "C amplia a avenida para a cidade inteira.",
+          "D atribui um resultado a intervenção ainda sugerida.",
+          "E contradiz a igualdade dos intervalos em comparação."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma associação conta oito queixas sobre o calor da sala. O mural da direção anuncia “Somente oito reclamações”, e a comissão de alunos publica “Já são oito reclamações”."
+        ],
+        "comando": "Em que consiste a diferença entre os títulos?",
+        "alternativas": [
+          "A direção e a comissão contam ocorrências de dias diferentes.",
+          "A comissão adota um denominador que a direção recusa.",
+          "Os dois títulos preservam o número e enquadram sua relevância de modo diferente.",
+          "A direção afirma que nenhuma reclamação foi feita.",
+          "A palavra “já” transforma reclamações em elogios."
+        ],
+        "passos": [
+          "Compare primeiro o dado compartilhado.",
+          "Leia “somente” como restrição e “já” como indicação de marco atingido.",
+          "Reconheça como a forma orienta a avaliação do leitor."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A inventa diferença de datas.",
+          "B introduz bases de cálculo que não aparecem.",
+          "D equivale a zero uma contagem positiva.",
+          "E troca a natureza dos registros, que os dois títulos preservam."
+        ]
+      },
+      {
+        "suporte": [
+          "Durante uma reunião, Elisa afirmou “Talvez a gente faça um piloto em agosto. Precisamos ouvir a turma da tarde antes”."
+        ],
+        "comando": "Qual redação cabe numa ata sem alterar a fala?",
+        "alternativas": [
+          "A realização do piloto foi aprovada e se inicia em agosto.",
+          "Elisa descartou o piloto porque a turma da tarde foi contra.",
+          "Elisa sugeriu um piloto em agosto e indicou a necessidade de consultar antes a turma da tarde.",
+          "Elisa comunicou que a turma da tarde aplicará o piloto.",
+          "Os participantes decidiram adiar a consulta até depois do piloto."
+        ],
+        "passos": [
+          "Identifique possibilidade em “talvez”.",
+          "Localize a ordem entre escuta e eventual execução.",
+          "Use verbos formais que preservem esse grau de compromisso."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A transforma sugestão em aprovação.",
+          "B inventa oposição e abandono da proposta.",
+          "D atribui execução à turma que seria ouvida.",
+          "E inverte a sequência e transforma a fala em decisão coletiva."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q029",
+        "correta": "D",
+        "justificativa": "O cartaz contrapõe os 30% de pessoas transportadas aos 71% de emissões atribuídas aos carros. A desproporção sustenta o apelo pelo transporte coletivo.",
+        "distratores": [
+          "A acrescenta aplicativos e uma comparação ausente.",
+          "B inverte a orientação do cartaz.",
+          "C repete o slogan em vez de indicar a razão.",
+          "E inventa uma comparação de emissões entre bicicleta e ônibus."
+        ]
+      },
+      {
+        "id": "etec-2007-2-q001",
+        "correta": "C",
+        "justificativa": "A sequência troca instrumentos e épocas. O último quadro volta a mostrar uma batida, agora contra o computador, sugerindo que o domínio técnico resolve problemas e também cria outros.",
+        "distratores": [
+          "A reduz a sequência à permanência do trabalho braçal.",
+          "B ignora a frustração do último quadro.",
+          "D introduz lucro e custos sem pistas nos quadros.",
+          "E transforma uma comparação histórica em previsão sobre o futuro."
+        ]
+      },
+      {
+        "id": "etec-2007-1-q004",
+        "correta": "A",
+        "justificativa": "A canção expõe a degradação do Tietê ao aproximar diversão e poluição. Essa crítica é compatível com a perda atribuída pelo escritor à exploração do rio pela cidade.",
+        "distratores": [
+          "B personifica o rio e lhe atribui papel criador, sem a crítica a seu empobrecimento.",
+          "C apresenta um novo Tietê em tom celebratório.",
+          "D usa os rios como imagem da intensidade do sofrimento amoroso.",
+          "E enumera rios sem avaliar a relação entre São Paulo e o Tietê."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q013",
+        "correta": "A",
+        "justificativa": "A autora mobiliza a escolha de um nome poético por cientistas para mostrar que sua admiração pela banana encontra eco fora de sua experiência pessoal.",
+        "distratores": [
+          "B toma uma referência à infância por evidência do apreço de outras pessoas.",
+          "C transforma a menção literária em projeto da própria autora.",
+          "D introduz uma comparação comercial com joias que não sustenta o ponto.",
+          "E faz do preço dos alimentos o assunto da justificativa."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q017",
+        "correta": "C",
+        "justificativa": "A oposição entre os privilégios dos ditadores e a escravização do povo identifica o alvo da crítica. A defesa da união democrática confirma a leitura.",
+        "distratores": [
+          "A converte um apelo à união pela democracia em recrutamento alemão.",
+          "B supõe uma decisão governamental dos EUA que não aparece na fala.",
+          "D troca a denúncia do totalitarismo por apoio a um bloco de outra guerra.",
+          "E atribui antissemitismo ao discurso de defesa da democracia, sem apoio no trecho."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q016",
+        "correta": "E",
+        "justificativa": "A fome decorrente da vulnerabilidade do cultivo de batata mostra, pelo resultado de uma dependência excessiva, por que a diversidade agrícola favorece a segurança alimentar.",
+        "distratores": [
+          "A apresenta como diversidade aquilo que o exemplo usa para mostrar concentração e risco.",
+          "B introduz um julgamento de inferioridade do cultivo indígena.",
+          "C trata o fungo ligado ao problema como técnica de cultivo indígena.",
+          "D desloca o exemplo da diversidade agrícola para a fauna."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q039",
+        "correta": "A",
+        "justificativa": "Na tira, o medo personificado justifica suas restrições como prudência. A frase de Mandela formula a posição contrária, pois é possível agir com coragem apesar do medo.",
+        "distratores": [
+          "B aponta um efeito do medo sobre a percepção, sem contrapor coragem às restrições.",
+          "C descreve como o medo impede ações, efeito dramatizado na tira.",
+          "D atribui o medo à ignorância, sem propor agir apesar dele.",
+          "E repete o tema do medo de avião sem formular a oposição pedida."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q025",
+        "correta": "D",
+        "justificativa": "A comparação mostra que Balbina inunda mais área e oferece potencial energético menor. As duas variáveis, consideradas juntas, sustentam a crítica ao custo relatado.",
+        "distratores": [
+          "A desqualifica a área alagada sem critério fornecido.",
+          "B ignora que também há dados energéticos.",
+          "C inverte a comparação entre as usinas.",
+          "E afirma equivalência energética contrariada pelos valores."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q032",
+        "correta": "C",
+        "justificativa": "O autor prevê que a aviação reduzirá o efeito do tempo e da distância, aproximando sociedades e favorecendo o comércio e as relações de amizade.",
+        "distratores": [
+          "A inverte o efeito esperado sobre as amizades.",
+          "B atribui à tecnologia um isolamento que o autor prevê superar.",
+          "D faz tempo e distância anularem o comércio, em vez de reconhecer que sua redução facilita as trocas.",
+          "E desloca a causa central do argumento do aeroplano para a comunicação."
+        ]
+      },
+      {
+        "id": "etec-2007-2-q013",
+        "correta": "D",
+        "justificativa": "O capítulo usa este item para localizar a posição defendida. Paulo Freire relaciona a transformação do mundo à maneira como a humanidade constrói sua própria existência e cuida da vida.",
+        "distratores": [
+          "A transfere para seres humanos o adestramento que o texto atribui aos animais.",
+          "B introduz uma “revolução verde” destruidora não defendida no excerto.",
+          "C transforma um risco a evitar em consequência inevitável.",
+          "E reduz a existência humana às experiências de vegetais e animais, apagando a distinção que sustenta a tese."
+        ],
+        "topicoComplementar": "LP03"
+      }
+    ],
+    "resumo": [
+      "Separe tese, razão e evidência.",
+      "Confira fonte, recorte e relação causal.",
+      "Julgue propostas pelos critérios apresentados.",
+      "Na reescrita, preserve sentido, finalidade e registro."
+    ]
+  },
+  "gramatica-e-variacao": {
+    "introducao": "Use a estrutura da frase para interpretar e revisar usos da língua em situações reais.",
+    "codigos": [
+      "LP06",
+      "LP07"
+    ],
+    "raioX": "A ETEC pede o efeito de pontuação e de formas verbais, correção conforme a norma-padrão ou reconhecimento de registro. Em tiras, canções e diálogos, a forma pode indicar interlocutor, finalidade ou identidade social.",
+    "intuicao": [
+      "Comece pelo verbo e pelos seus participantes. Identifique quais termos você pode retirar e quais completam o sentido.",
+      "Quando o enunciado pede adequação, descubra quem fala, em que gênero e para qual público."
+    ],
+    "teoria": [
+      {
+        "titulo": "Classes, funções e concordância",
+        "texto": "Substantivos nomeiam, adjetivos qualificam e pronomes determinam ou retomam. Verbo marca ação, estado ou processo. Advérbio modifica verbo, adjetivo, outro advérbio ou enunciado. Identifique o núcleo do sujeito antes de concordar. Com haver no sentido de existir, use o singular. Artigo e adjetivo acompanham o substantivo em gênero e número. O sujeito oculto é recuperável pela desinência ou pelo contexto. Objeto direto se liga ao verbo sem preposição obrigatória e o indireto depende da preposição exigida. Adjunto adverbial expressa uma circunstância. Predicativo atribui estado ou qualidade ao sujeito ou ao objeto."
+      },
+      {
+        "titulo": "Regência, crase e pronomes",
+        "texto": "A regência define complementos e suas preposições. “Assistir ao filme” emprega a preposição a. Em “referência à peça”, preposição e artigo se fundem. Compare “referência ao texto”. Antes de infinitivo, em “começou a estudar”, não há artigo. Em norma-padrão, negação costuma atrair pronome átono: “não se afastou”. Compare a próclise em “não me diga”, a ênclise em “diga-me” e a mesóclise no futuro formal em “dir-me-ia”. Na substituição de objetos, “ao colega” pode virar “lhe”, e “o bilhete”, “o”. “Eu” pode ser sujeito de infinitivo em “para eu ler”, enquanto “mim” é complemento em “trouxe para mim”. “Onde” indica lugar e “aonde” pede movimento com a preposição a. O “se” pode retomar o próprio sujeito em “ela se penteou” ou formar passiva em “vendem-se livros”."
+      },
+      {
+        "titulo": "Tempos, modos, vozes e pronomes de tratamento",
+        "texto": "O indicativo apresenta o fato conforme a perspectiva do enunciador. O subjuntivo pode indicar hipótese ou desejo. O imperativo orienta, convida ou ordena. Compare o valor habitual do imperfeito com o recorte concluído do perfeito. Na voz ativa, o sujeito pratica a ação. Na passiva, recebe a ação. “Você” pede verbo na terceira pessoa na norma-padrão. “Vós” pede a segunda pessoa do plural e “Vossa Excelência”, terceira pessoa. O discurso direto reproduz a fala. No indireto, reajuste pessoa, tempo e referências como “aqui” e “hoje”. Compare “Vou voltar amanhã” e “Ela disse que voltaria no dia seguinte”. Em uma oração subordinada substantiva, a oração inteira pode exercer uma função, como objeto em “disse que viria”."
+      },
+      {
+        "titulo": "Sintaxe, pontuação e sentido",
+        "texto": "Vocativo chama o interlocutor e se separa por vírgula. Aposto pode explicar um termo. Evite vírgula entre sujeito e verbo ou verbo e complemento em ordem direta. “Os alunos que estudaram passaram” restringe o grupo. Com vírgulas em “Os alunos, que estudaram, passaram”, a oração explica o grupo inteiro. Dois-pontos introduzem explicação, enumeração ou fala. Aspas também podem marcar menção ou distanciamento."
+      },
+      {
+        "titulo": "Grafia, acentuação e reescrita",
+        "texto": "Identifique a sílaba tônica para aplicar a regra. Todas as proparoxítonas são acentuadas. Oxítonas terminadas em a, e, o, em e ens recebem acento, inclusive os plurais previstos. Entre as paroxítonas, confira terminações como l, r, x, n, i, us e ditongo. Diferencie “por que” interrogativo, “porque” explicativo ou causal, “por quê” em fim de pergunta e “porquê” substantivo. O verbo “fazer” indicando tempo decorrido é impessoal. Na grafia, “mal” contrasta com “bem”, e “mau”, com “bom”. Uma “sessão” é um encontro ou período, uma “seção” é uma divisão e uma “cessão” é o ato de ceder. Derivação acrescenta elementos como o sufixo de “desenvolvimento”. Composição junta bases ou radicais. Neologismo é uma criação lexical ou semântica e pode usar esses processos. Revise o sentido após mudar uma forma."
+      },
+      {
+        "titulo": "Variedades, registro e preconceito",
+        "texto": "Usos variam por região, época, grupo e situação. “Cê”, “tô” e “pra” são formas coloquiais frequentes. Na fala de uma personagem ou em letra de música, podem caracterizar voz, ritmo e proximidade. A norma-padrão orienta determinadas situações formais. Julgue adequação ao gênero sem atribuir menor competência aos falantes de uma variedade."
+      },
+      {
+        "titulo": "Sujeito, transitividade e concordância",
+        "texto": "Localize o verbo e pergunte quem ou o que ele põe em relação. Em “Faltaram duas folhas”, “duas folhas” é sujeito e leva o verbo ao plural. Em “Havia duas folhas”, “haver” indica existência e permanece singular. Compare “Vendem-se bicicletas”, com passiva sintética e sujeito plural, e “Precisa-se de monitores”, com indeterminação do sujeito e verbo singular. Em “A visita será de um engenheiro ou arquiteto”, o contexto estabelece alternativa entre profissionais."
+      },
+      {
+        "titulo": "Pronomes, colocação e mesóclise",
+        "texto": "Próclise vem antes do verbo em “Não lhe direi”. Ênclise vem depois em “Entregue-me a ficha”. Na mesóclise, o pronome se insere em forma de futuro do presente ou do pretérito, como “entregar-lhe-ei” e “entregar-lhe-ia”, em registro muito formal. Se houver atração, como a negação, prefira a próclise. Para classificar, primeiro localize a posição. Depois confira tempo, atratores e o registro pedido. A mesma posição pode aparecer em mais de uma alternativa gramaticalmente defensável."
+      },
+      {
+        "titulo": "Regência, crase e as funções de que, se e como",
+        "texto": "A crase escrita sinaliza a fusão de dois elementos, como em “chegar à escola”, com preposição e artigo. Compare “chegar ao pátio”. Com pronome possessivo feminino singular, o artigo pode ser facultativo em contextos que o admitem. “Que” pode retomar antecedente em “o vizinho que chegou” ou introduzir complemento em “disse que viria”. “Se” pode marcar hipótese ou integrar o verbo, como em “alimentar-se”. Determine a função pela construção inteira."
+      },
+      {
+        "titulo": "Classes, formação e convenções gráficas",
+        "texto": "Distinga diminutivo, derivação de uma palavra por afixo e composição de bases. A forma escolhida pode acrescentar avaliação, como o diminutivo em um contexto irônico. Use “porquê” quando o termo admite artigo e equivale a motivo. Compare “Por que faltou?”, “Faltou por quê?” e “Faltou porque adoeceu”. Diferencie a posição da sílaba tônica da presença de acento. Homófonos como “sessão”, “seção” e “cessão” pedem atenção à função no contexto."
+      },
+      {
+        "titulo": "Pontuação, coordenação e subordinação",
+        "texto": "Compare uma oração relativa que seleciona um grupo com a mesma oração entre vírgulas, que explica o grupo já identificado. Uma subordinada adverbial pode apresentar tempo, causa, condição ou concessão. Uma coordenada adversativa acrescenta uma oposição. Travessões podem isolar um aposto ou introduzir fala. Na transposição para discurso indireto, ajuste pronome, tempo e expressões de lugar conforme a situação de quem relata."
+      },
+      {
+        "titulo": "Norma escrita, fala e adequação",
+        "texto": "“Me avisa quando chegar” é natural em muitas interações brasileiras. A norma escrita monitorada pode preferir “Avise-me quando chegar”, conforme o destinatário e o gênero. Uma tira pode registrar a fala, e uma personagem pode alternar registros. Quando a banca pede norma-padrão, avalie a convenção solicitada. Quando pede efeito, explique o que a escolha sinaliza sobre situação, proximidade e voz."
+      }
+    ],
+    "armadilha": "O substantivo mais próximo pode fazer parte de um complemento. A concordância segue o núcleo do sujeito. Quando o comando pede efeito de uso, classificar uma forma como coloquial explica pouco sem situar a voz e o público.",
+    "exemplos": [
+      {
+        "suporte": [
+          "No aviso oficial, a coordenação escreveu “Estudantes, compareçam à sala de leitura após o intervalo”. Na conversa do grupo, uma aluna respondeu “Cês vão junto comigo?”."
+        ],
+        "comando": "Qual análise preserva a relação entre a forma e a situação?",
+        "alternativas": [
+          "“Estudantes” é o sujeito expresso de “compareçam”.",
+          "O acento em “à sala” marca o plural do destinatário.",
+          "“Compareçam” instrui, o vocativo chama o público e “cês” sugere proximidade.",
+          "O aviso narra uma ação concluída, e a resposta indica autoridade formal.",
+          "A construção coloquial impede a compreensão da pergunta."
+        ],
+        "passos": [
+          "A vírgula separa o chamamento do enunciado principal.",
+          "O verbo orienta uma ação futura, e a crase marca a fusão de preposição com artigo.",
+          "A pergunta do grupo tem destinatário próximo. C reúne três efeitos sustentados."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A toma o chamamento isolado por sujeito expresso.",
+          "B confunde fusão de preposição e artigo com indicação de plural.",
+          "D trata a instrução como ação concluída e inverte o registro da conversa.",
+          "E supõe prejuízo à compreensão onde a pergunta é clara."
+        ]
+      },
+      {
+        "suporte": [
+          "Em um relatório, leia: “Os formulários, que estavam incompletos, voltaram aos responsáveis”. O revisor tira as duas vírgulas."
+        ],
+        "comando": "Como a mudança de pontuação afeta a leitura?",
+        "alternativas": [
+          "Passa a indicar que só o subconjunto de formulários incompletos voltou.",
+          "Passa a indicar que todos estavam incompletos.",
+          "O verbo passa a concordar com “responsáveis”.",
+          "A oração vira vocativo.",
+          "A frase passa a expressar uma hipótese futura."
+        ],
+        "passos": [
+          "Com as vírgulas, a oração explica a situação dos formulários mencionados.",
+          "Sem elas, “que estavam incompletos” seleciona parte do conjunto.",
+          "A descreve a leitura restritiva. Tempo verbal e sujeito ficam preservados."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B descreve a leitura explicativa que as vírgulas favoreciam.",
+          "C troca o sujeito do verbo por um termo preposicionado.",
+          "D confunde oração adjetiva com um chamamento.",
+          "E atribui sentido de hipótese e futuro a um enunciado no passado."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma personagem diz “Eu lhe entregarei a chave amanhã”. O exercício solicita a versão com o pronome no interior da forma verbal de futuro e sem elemento atrativo."
+        ],
+        "comando": "Qual alternativa cumpre o comando?",
+        "alternativas": [
+          "Eu entregarei-lhe a chave amanhã.",
+          "Eu lhe entregarei a chave amanhã.",
+          "Entregar-lhe-ei a chave amanhã.",
+          "Entregue-me a chave amanhã.",
+          "Não lhe entregarei a chave amanhã."
+        ],
+        "passos": [
+          "Localize o futuro do presente.",
+          "Verifique onde está o pronome em cada frase.",
+          "Selecione a inserção entre o infinitivo de base e a terminação do futuro."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A coloca o pronome depois da forma conjugada.",
+          "B precede o verbo e mantém próclise.",
+          "D muda para imperativo e põe o pronome depois do verbo.",
+          "E introduz negação, que atrai o pronome para antes do verbo."
+        ]
+      },
+      {
+        "suporte": [
+          "Em dois comunicados lê-se “Alugam-se salas para estudo” e “Precisa-se de monitores”."
+        ],
+        "comando": "Por que os verbos apresentam números diferentes?",
+        "alternativas": [
+          "Os dois termos depois do verbo são sujeitos, mas o plural é sempre opcional.",
+          "“Salas” funciona como sujeito da passiva sintética, enquanto “de monitores” é termo preposicionado e o sujeito fica indeterminado.",
+          "O plural de “salas” indica que o verbo é impessoal.",
+          "“De monitores” é sujeito e impede o plural.",
+          "“Se” é conjunção condicional nos dois casos."
+        ],
+        "passos": [
+          "Transforme a primeira construção em “Salas são alugadas”.",
+          "Observe que “precisar de” exige preposição.",
+          "Na segunda forma, “se” indetermina o sujeito e o verbo fica no singular."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A equipara estruturas com papéis sintáticos diferentes.",
+          "C trata como impessoal uma forma que concorda com o sujeito.",
+          "D toma complemento preposicionado por sujeito.",
+          "E procura condição onde não há oração condicional."
+        ]
+      },
+      {
+        "suporte": [
+          "Em um aviso, “A diretora chegou à sala de leitura e pediu uma cópia à monitora”."
+        ],
+        "comando": "Qual explicação vale para os dois casos de acento grave?",
+        "alternativas": [
+          "A vogal é acentuada por ser tônica nos dois sintagmas.",
+          "As duas expressões são locuções adverbiais femininas.",
+          "Os verbos exigem preposição “a” nessas construções, e cada termo admite artigo feminino.",
+          "O acento indica que “sala” e “monitora” são objetos diretos.",
+          "A grafia decorre da presença de substantivo feminino em qualquer posição."
+        ],
+        "passos": [
+          "Substitua “sala” por “pátio” e “monitora” por “monitor”.",
+          "Observe que as construções correspondentes admitem “ao”.",
+          "Associe esse resultado à fusão de preposição e artigo no feminino."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A confunde acento grave com tonicidade.",
+          "B inclui como locução adverbial o destinatário da solicitação.",
+          "D trata expressões preposicionadas como objetos diretos.",
+          "E torna a crase automática mesmo quando falta preposição ou artigo."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q024",
+        "correta": "C",
+        "justificativa": "Os nomes das aves em função de vocativo identificam as destinatárias. Imperativos como “some” e “te esconde” procuram levá-las a agir diante da aproximação da ameaça.",
+        "distratores": [
+          "A reduz os comandos à expressão de emoções diante do canto.",
+          "B amplia a finalidade para a preservação da humanidade.",
+          "D troca a função comunicativa pelo efeito sonoro.",
+          "E toma os nomes de aves como uma lição sobre flora."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q007",
+        "correta": "B",
+        "justificativa": "“Cê”, “tô”, “pra” e “busão” são formas reconhecidas como coloquiais no trecho. O comando exige que todas as palavras tenham esse traço.",
+        "distratores": [
+          "A reúne palavras de uso geral, como “ser”, “ontem” e “menina”.",
+          "C inclui “horizonte” e “esperança”, de uso geral.",
+          "D inclui “chance” e “paz”, sem a marca pedida.",
+          "E inclui “sol” e “amordaçado”, que circulam em outros registros."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q043",
+        "correta": "C",
+        "justificativa": "A alternativa apresenta engenheiro ou arquiteto como opções para uma só visita. O verbo pode ficar no singular nessa leitura de alternância excludente.",
+        "distratores": [
+          "A usa singular com sujeito composto unido por “e”.",
+          "B deixa o verbo “faltar” no singular, embora o sujeito “setenta dias” seja plural.",
+          "D indica uma hora com o verbo no plural. A concordância esperada é “É uma hora e quarenta e nove minutos”.",
+          "E usa singular numa construção de passiva sintética com sujeito plural, “terras extensas”."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q041",
+        "correta": "E",
+        "justificativa": "O artigo em “o porquê” indica que a palavra funciona como substantivo equivalente a “motivo”.",
+        "distratores": [
+          "A usa acento numa pergunta em que a expressão vem antes de outras palavras.",
+          "B emprega grafia de substantivo no lugar da forma interrogativa isolada “Por quê?”.",
+          "C usa nome em lugar da conjunção causal “porque”.",
+          "D separa e acentua a sequência onde a frase pede a conjunção “porque”."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q017",
+        "correta": "A",
+        "justificativa": "Na leitura explorada pela tira, “chegar” pede a preposição “a”. Com o artigo feminino de “primavera”, a fusão explica o acento grave.",
+        "distratores": [
+          "B atribui a preposição à regência nominal de “primavera”.",
+          "C transforma uma condição de regência e artigo em regra automática de pessoa verbal.",
+          "D supõe locução prepositiva anterior, ausente no caso.",
+          "E dá como obrigatória uma crase que pode ser facultativa diante de possessivo feminino singular e não é o caso da tira."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q002",
+        "correta": "D",
+        "justificativa": "“Ao outro” indica o destinatário do que se diz e admite “lhe”. No contexto subordinado iniciado por “quando”, a forma aparece antes do verbo.",
+        "distratores": [
+          "A usa pronome de objeto direto no lugar do destinatário.",
+          "B usa “lo” fora do contexto que produz a forma enclítica e mantém a função errada.",
+          "C forma um objeto direto enclítico, além de deslocar a colocação.",
+          "E junta dois complementos numa forma contraída, embora só se peça substituir um."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q017",
+        "correta": "B",
+        "justificativa": "O relato dos conselhos muda os imperativos para o subjuntivo e conserva a ordem das recomendações. “Lhe” ajusta a referência à pessoa aconselhada.",
+        "distratores": [
+          "A mistura futuro e futuro do pretérito na transposição e altera a relação entre os conselhos.",
+          "C usa formas condicionais para relatar ordens como previsões.",
+          "D alterna tempos incompatíveis com a sequência e altera a construção de “responder”.",
+          "E mantém o tratamento de segunda pessoa e formas próprias das falas diretas."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q049",
+        "correta": "B",
+        "justificativa": "Entre os travessões aparece um aposto que explica quem são os mateiros no contexto.",
+        "distratores": [
+          "A supõe uma oposição entre os termos, que se referem às mesmas pessoas.",
+          "C trata a explicação como correção de um erro anterior.",
+          "D espera uma lista de elementos que o trecho não contém.",
+          "E lê o esclarecimento como uma advertência ao público."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q035",
+        "correta": "B",
+        "justificativa": "Marcas de fala como “pra” e “assinzinho” caracterizam o registro informal. Expressões como “ali no gancho” localizam o que o capataz mostra.",
+        "distratores": [
+          "A acerta o registro, mas troca indicação espacial por afirmação.",
+          "C toma expressões de lugar como justificativas causais.",
+          "D reconhece o lugar, mas confunde assunto botânico com registro científico predominante.",
+          "E atribui registro científico e privilegia o tempo, embora a fala aponte posições no espaço."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q010",
+        "correta": "B",
+        "justificativa": "Em registro informal, começar com pronome átono é frequente. Na norma-padrão escrita cobrada, o período isolado poderia começar por “Banhei-me”.",
+        "distratores": [
+          "A começa pelo verbo, sem o desvio de colocação solicitado.",
+          "C tem construção verbal e nominal compatível com a variedade pedida.",
+          "D apresenta verbo e objeto direto em ordem regular.",
+          "E emprega a construção admissível “trocar uma coisa por outra”."
+        ]
+      }
+    ],
+    "resumo": [
+      "Ache o verbo e o núcleo do sujeito.",
+      "Teste o efeito de pontuação e de conectores.",
+      "Confira regência e grafia na reescrita.",
+      "Relacione registro, gênero e interlocutor."
+    ]
+  }
+}

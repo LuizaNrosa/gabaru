@@ -2,7 +2,7 @@
 
 Gerador determinístico: `node scripts/gerar-capas.mjs`. Fontes e textos permanecem editáveis em SVG. Não há imagens de IA, raster interno, degradês ou mascotes.
 
-Paleta exclusiva das capas: papel `#f8f8f2`, tinta `#123d35`, carimbo `#c8501e`. O significado também é expresso por texto, molduras e formas, sem depender de cor. Em P&B a composição mantém os títulos e os limites das áreas.
+A paleta das capas usa papel `#f6f2e9`, tinta `#1c1e1b`, verde `#2e3f38`, ocre `#be965e` e carimbo `#b1251b`. O significado também é expresso por texto, molduras e formas, sem depender de cor. Em P&B a composição mantém os títulos e os limites das áreas.
 
 O site usa Archivo variável local (100–900); os SVGs incorporam instâncias reais 400/900 e Atkinson Hyperlegible Mono local, com fontes WOFF2 incorporadas no SVG para leitura independente de instalações externas. Licenças OFL preservadas em `public/fonts/`.
 
@@ -17,7 +17,7 @@ Manifesto completo com nomes, dimensões e SHA-256: `src/data/capas-manifesto.js
 
 ## Anatomia
 
-Moldura de 3px a 56px da borda (48px nas sociais); G geométrico vazado e wordmark gabaru. com peso 900; régua dupla; kicker; disciplina/banca dominante; contexto de edital; painel com quatro eixos ou folha ilustrativa A–E; carimbo rotacionado −9° com traços externo de 8px e interno de 2,5px; rodapé GABARU · A GENTE ESTUDA JUNTO.
+Moldura de 3px a 56px da borda (48px nas sociais); carimbo circular em SVG incorporado e assinatura “gabaru” com peso 900; régua dupla; kicker; disciplina/banca dominante; contexto de edital; painel com quatro eixos ou folha ilustrativa A–E; carimbo rotacionado −9° com traços externo de 8px e interno de 2,5px; rodapé GABARU · A GENTE ESTUDA JUNTO.
 
 As bolhas ilustrativas não representam o gabarito de uma prova. Capas de acervo não atribuem uma edição a todas as provas de uma banca.
 

@@ -40,11 +40,12 @@ a {
   }
 }
 
-/* Gabaru — direção visual 01: caminhos. */
+/* Assinatura Gabaru. */
 .gb-wordmark {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
+  color: var(--color-ink);
   font-family: var(--font-display);
   font-weight: 900;
   font-size: 32px;
@@ -53,14 +54,11 @@ a {
   width: auto;
 }
 .gb-symbol {
-  width: 58px;
-  height: 58px;
-  border-radius: 50%;
-  object-fit: cover;
+  display: block;
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
   flex: none;
-}
-.gb-logo-dot {
-  color: var(--color-stamp);
 }
 .gb-header {
   position: relative;
@@ -933,18 +931,36 @@ summary {
 .gb-hero-choice-heading .gb-symbol {
   width: 46px;
   height: 46px;
-  color: var(--color-stamp);
 }
 .gb-hero-copy .gb-live-dot { background: var(--color-stamp); }
 .gb-hero-choice h2 { font-size: clamp(24px, 2.2vw, 30px); line-height: 1.2; font-weight: 700; letter-spacing: -0.03em; margin: 12px 0 8px; }
 .gb-hero-choice > p { color: #4c463d; font-size: 14px; line-height: 1.6; }
 .gb-choice-list { margin-top: 20px; border-top: 1px solid var(--color-line); }
-.gb-choice { display: grid; grid-template-columns: 30px 1fr 20px; gap: 12px; align-items: center; padding: 16px 0; border-bottom: 1px solid var(--color-line); }
-.gb-choice:hover strong, .gb-choice:hover .gb-choice-arrow { color: var(--color-gold-text); }
-.gb-choice-number { color: var(--color-gold-text); font-family: monospace; font-weight: 700; font-size: 12px; }
+.gb-choice {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 32px;
+  gap: 12px;
+  align-items: center;
+  min-block-size: 64px;
+  padding-block: 14px;
+  border-bottom: 1px solid var(--color-line);
+}
+.gb-choice:is(:hover, :focus-visible) strong { text-decoration: underline; }
+.gb-choice:is(:hover, :focus-visible) .gb-choice-arrow {
+  background: var(--color-stamp-ink);
+  color: var(--color-paper);
+}
 .gb-choice strong { display: block; font-size: 17px; }
-.gb-choice small { display: block; margin-top: 3px; color: #4c463d; line-height: 1.45; font-size: 13px; }
-.gb-choice-arrow { font-size: 19px; }
+.gb-choice small { display: block; margin-top: 3px; color: var(--color-ink-muted); line-height: 1.45; font-size: 14px; }
+.gb-choice-arrow {
+  display: grid;
+  place-items: center;
+  inline-size: 32px;
+  block-size: 32px;
+  border-radius: 50%;
+  background: var(--color-stamp-soft);
+  color: var(--color-stamp-ink);
+}
 .gb-home-proof { border-block: 1px solid var(--color-line); background: #fffdf780; }
 .gb-proof-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; padding-block: 24px; }
 .gb-proof-grid strong, .gb-proof-grid span { display: block; }
@@ -1121,8 +1137,6 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 @media(max-width:767px){.gb-container{padding-inline:20px}.gb-reader-layout{grid-template-columns:minmax(0,1fr);gap:24px}.gb-reader-layout > aside{padding:16px}.gb-chapter{font-size:1rem}.gb-chapter table,.gb-dashboard table{font-size:.875rem}.v2-filters{grid-template-columns:minmax(0,1fr)}}
 
 /* Unified signature and editorial components. */
-.gb-logo-dot { color:var(--color-stamp); }
-.gb-symbol { border-radius:0; object-fit:contain; color:var(--color-forest); }
 .gb-stamp,.gb-stamp-ink { position:relative; display:inline-flex; flex-direction:column; justify-content:center; box-shadow:none; border:2px solid var(--color-stamp); border-radius:var(--radius-stamp); background:var(--color-paper); color:var(--color-stamp-ink); padding:12px 18px; transform:rotate(-7deg); font-family:var(--font-mono); font-weight:700; letter-spacing:.04em; line-height:1.25; }
 .gb-stamp::before { content:""; position:absolute; inset:3px; border:1px solid var(--color-stamp); border-radius:2px; pointer-events:none; }
 .gb-stamp-sm { font-size:.75rem; padding:8px 12px; }
@@ -1147,6 +1161,19 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 .gb-reading-progress::-webkit-progress-value { background:var(--color-stamp); }
 .gb-reading-progress::-moz-progress-bar { background:var(--color-stamp); }
 .gb-chapter section { scroll-margin-block-start:32px; }
+.gb-chapter ul.list-disc > li::marker {
+  color: var(--color-stamp-ink);
+  font-size: 1.25em;
+}
+.gb-chapter details > summary {
+  cursor: pointer;
+  font-weight: 650;
+  padding-block: .5rem;
+}
+.gb-chapter details > summary::marker {
+  color: var(--color-stamp-ink);
+  font-size: 1.2em;
+}
 .gb-definition { font-size:1.125rem; line-height:1.7; }
 .gb-worked-example { background:var(--color-paper-elevated); padding:24px; margin-block:24px; border-radius:8px; }
 .gb-exam-trap { background:var(--color-stamp-soft); border-inline-start:4px solid var(--color-stamp); padding:20px; margin-block:24px; }
@@ -1199,5 +1226,4 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 .gb-quality-stamp .gb-symbol {
   width: 26px;
   height: 26px;
-  color: var(--color-stamp);
 }

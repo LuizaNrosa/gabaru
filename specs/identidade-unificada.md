@@ -2,8 +2,8 @@
 
 Base: `a09c4ee0`, PR #111. Branch de implementação: `feat/identidade-unificada-capas-sumarios`.
 
-- Papel `#f8f8f2`, tinta `#123d35`, acento de marca `#c8501e`; texto de acento `#9c2b12`. Cores semânticas auxiliares não se tornam cores de marca/capa.
-- Logo geométrico G, wordmark minúsculo em Archivo 900 real, ponto laranja. Fontes locais, sem requisições a Google Fonts no navegador.
+- Papel `#f6f2e9`, tinta `#1c1e1b`, verde `#2e3f38`, ocre `#be965e` e carimbo `#b1251b`. O contraste de texto em terracota usa `#8a211a`.
+- Carimbo circular do arquivo LOGO GABARU-01, otimizado em SVG e aplicado no terracota da paleta. A assinatura traz “gabaru” em Archivo 900 para leitura em tamanhos reduzidos. O favicon usa o G central do mesmo selo. As fontes são locais.
 - Capas editáveis, sem raster, IA ou degradês: 14 disciplinas, 10 bancas e 6 livros cadastrados, em A4, quadrado e miniatura. Os 14 volumes de disciplina são projetos editoriais; não se tornam livros publicados pela existência da capa.
 - Nenhum carimbo afirma edital conferido, questões resolvidas ou edição revisada sem comprovação. Material planejado usa “Em preparação editorial”.
 - Sumário público lista todos os capítulos, estado editorial, contagem calculada de questões elegíveis e tempo aproximado apenas quando existe conteúdo. Prévia nova: `noindex, follow`, sem inclusão no sitemap nesta entrega.

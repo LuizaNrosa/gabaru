@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ArrowRight } from "lucide-react";
 import { Simbolo } from "@/components/logo";
 import type { Metadata } from "next";
 import { metaHome } from "@/lib/seo";
@@ -35,7 +36,8 @@ export default function Home() {
             <h2>Qual é a sua próxima prova?</h2>
             <div className="gb-choice-list">
               {caminhos.map((item) => <Link key={item.href} href={item.href} className="gb-choice">
-                <span className="gb-choice-number" aria-hidden="true">·</span><span><strong>{item.titulo}</strong><small>{item.texto}</small></span><span className="gb-choice-arrow" aria-hidden="true">→</span>
+                <span><strong>{item.titulo}</strong><small>{item.texto}</small></span>
+                <span className="gb-choice-arrow" aria-hidden="true"><ArrowRight size={20} strokeWidth={2.25} /></span>
               </Link>)}
             </div>
           </div>

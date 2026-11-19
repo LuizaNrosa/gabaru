@@ -318,50 +318,68 @@
     ]
   },
   "generos-e-leitura-multimodal": {
-    "introducao": "Leia palavra, imagem e número como partes da mesma mensagem.",
+    "introducao": "Na ETEC, quase toda prova traz uma tirinha, uma charge, um cartaz de campanha, um gráfico ou uma tabela. Este capítulo ensina a ler palavra, imagem e número como partes da mesma mensagem: quem fala, para quem, com que objetivo e com que recursos. Você vai aprender a reconhecer os gêneros que mais caem e a tirar de cada imagem a pista que a questão exige.",
     "codigos": [
       "LP02"
     ],
     "raioX": "Santinhos, cartazes, charges, tirinhas, fotografias e tabelas podem aparecer isolados ou depois de um texto longo. A banca pede o propósito, a crítica, o público, o título que sintetiza a cena ou a relação entre dado, legenda e texto.",
     "intuicao": [
-      "Leia título, fonte e legenda. Passe pelos quadros na ordem indicada e procure o detalhe visual que confirma ou complica as palavras.",
-      "Complete “quem fala quer que quem lê faça, pense ou saiba o quê?”. Confirme a resposta na linguagem do material."
+      "Antes de interpretar, responda: quem produziu este texto, para quem e para quê? Um cartaz do Ministério da Saúde quer mudar um comportamento; uma notícia quer informar; uma charge quer criticar.",
+      "Em tirinhas, leia os quadros na ordem e pare no último. Quase sempre é ali que o sentido vira: a surpresa, a ironia ou a crítica.",
+      "Em gráficos e tabelas, leia primeiro o título, a legenda e as unidades. Só depois olhe os números.",
+      "Para cada alternativa, aponte uma pista concreta no material: uma palavra, um gesto, uma cor, um número. Sem pista, sem resposta."
     ],
     "teoria": [
       {
-        "titulo": "Gênero, suporte e finalidade",
-        "texto": "Notícias relatam fatos de interesse público. Editorial formula a posição institucional. Artigo de opinião sustenta uma posição assinada. Instruções ordenam ações. Campanhas convocam um público. A função referencial privilegia a informação e aparece em definições, descrições e dados verificáveis. A função conativa se orienta ao destinatário, com chamamentos e imperativos. Descrição retrata, narração encadeia fatos e exposição explica. Diferentes tipos podem coexistir em um gênero. No post, no cartaz ou no jornal, observe o que o texto efetivamente faz."
+        "titulo": "Gênero textual: a forma que o texto tem na vida real",
+        "texto": "Gênero textual é o “formato” que um texto assume na sociedade, reconhecido por quem lê: notícia, receita, anúncio, carta, tirinha, verbete, campanha, post. Cada gênero existe para cumprir uma tarefa. Ninguém escreve uma receita para emocionar nem uma notícia para dar ordens.\n\nPara identificar o gênero, observe quatro coisas:\n\n• Onde circula: jornal, rede social, embalagem, muro da escola, livro didático.\n• Quem fala e para quem: um órgão público para a população, um jornalista para leitores, uma empresa para consumidores.\n• Para que serve: informar, convencer, ensinar, divertir, criticar, orientar.\n• Como se organiza: título e lide na notícia; ingredientes e modo de preparo na receita; quadros e balões na tirinha.\n\nA ETEC raramente pergunta só o nome do gênero. Ela pergunta a finalidade, o público ou o efeito de um recurso. Saber o gênero é o primeiro passo para responder isso."
       },
       {
-        "titulo": "Recepção, circulação e apelos",
-        "texto": "Imperativos e endereçamento aproximam a mensagem do público. Selo, fonte e assinatura identificam quem fala. Uma campanha temática pode usar dados para mobilizar, enquanto uma reportagem investiga ou explica o mesmo problema."
+        "titulo": "Gênero e tipo textual não são a mesma coisa",
+        "texto": "Tipo textual é o modo de organizar um trecho: narrar, descrever, expor, argumentar ou instruir. Gênero é o texto inteiro no seu contexto. Um mesmo gênero mistura vários tipos.\n\n• Narração: conta fatos em sequência, com personagens, tempo e lugar.\n• Descrição: mostra como algo ou alguém é, com características.\n• Exposição: explica um assunto, define termos, apresenta dados.\n• Argumentação: defende uma ideia com razões.\n• Injunção (instrução): diz ao leitor o que fazer, geralmente com verbos no imperativo.\n\nExemplo: uma reportagem sobre a dengue pode narrar o caso de uma família, expor como o mosquito se reproduz e instruir o leitor a eliminar água parada. O gênero continua sendo reportagem. Se a questão pergunta o tipo predominante de um trecho, olhe o que aquele trecho faz; se pergunta o gênero, olhe o texto inteiro."
       },
       {
-        "titulo": "Charge, tirinha, foto e anúncio",
-        "texto": "A charge comenta uma situação social ou política. A tira articula quadros e pode mudar o sentido no desfecho. Observe gesto, expressão, enquadramento, onomatopeia, ordem dos balões e contraste visual. Na foto histórica, distinga o que a imagem mostra e o que a legenda contextualiza."
+        "titulo": "Notícia, reportagem, artigo de opinião e editorial",
+        "texto": "Esses quatro gêneros do jornalismo caem com frequência e são fáceis de confundir. A diferença está na finalidade e na presença ou não de opinião.\n\n• Notícia: relata um fato recente de interesse público. O primeiro parágrafo (lide) responde o quê, quem, quando, onde, como e por quê. Linguagem objetiva, em terceira pessoa.\n• Reportagem: aprofunda um tema. Traz entrevistas, dados, contexto e às vezes vários pontos de vista. É mais longa que a notícia.\n• Artigo de opinião: um autor identificado defende sua posição sobre um tema, com argumentos. Aparecem marcas como “acredito”, “é preciso”, “infelizmente”.\n• Editorial: expressa a opinião do próprio jornal ou revista, sem assinatura individual.\n\nCuidado com a voz dos outros. Numa reportagem, a frase entre aspas de um entrevistado é a opinião dele, não a do jornal. Quando a questão pergunta “segundo o texto”, separe o que o autor afirma do que ele apenas cita."
       },
       {
-        "titulo": "Infográfico, mapa, gráfico e tabela",
-        "texto": "Confira as unidades, a legenda, a escala, a base de comparação e o período. No mapa, converta cor e símbolo em categoria pela legenda. No gráfico, localize os eixos antes de comparar e confira se os valores são absolutos ou percentuais. Quando o eixo é cortado, a diferença visual pode exagerar a distância numérica."
+        "titulo": "Campanhas, anúncios e cartazes: textos que querem uma ação",
+        "texto": "Campanhas de utilidade pública (vacinação, trânsito, doação de sangue, combate ao mosquito) e anúncios publicitários querem que o leitor faça alguma coisa. A diferença é o objetivo: a campanha busca um benefício coletivo; o anúncio quer vender um produto, uma marca ou um serviço.\n\nRecursos que esses textos usam para convencer:\n\n• Verbos no imperativo: “Vacine-se”, “Doe”, “Use o cinto”.\n• Fala direta com o leitor: “você”, vocativos, perguntas (“Você já verificou sua caixa d’água hoje?”).\n• Frases curtas e de efeito, com rima, repetição ou trocadilho, fáceis de lembrar.\n• Imagem que provoca emoção: uma criança, um animal, uma cena de perigo.\n• Dados ou autoridade: números, selo de um órgão oficial, depoimento de um especialista.\n\nEm questões sobre campanhas, a pergunta típica é: “qual é o objetivo do cartaz?” ou “qual recurso foi usado para convencer o público?”. A resposta certa nomeia a ação que se espera do leitor e o recurso que a provoca. Desconfie de alternativas que dizem que o cartaz quer “informar a história” de algo quando ele claramente quer mudar um comportamento."
       },
       {
-        "titulo": "Como distinguir gênero e tipo textual",
-        "texto": "Gênero é a forma social reconhecível, como notícia, reportagem, artigo de opinião, campanha ou receita. Tipo descreve o que uma passagem faz. Uma reportagem pode narrar um episódio, exibir dados e explicar um conceito. Uma receita em um texto sobre história dos alimentos muda de exposição para instrução quando apresenta ações que o leitor pode executar. Para identificar o gênero, procure circulação, interlocutor, finalidade e organização do texto inteiro."
+        "titulo": "Funções da linguagem: para que serve cada mensagem",
+        "texto": "Todo texto tem uma intenção que predomina. A teoria das funções da linguagem dá nome a essas intenções. Na ETEC, as que mais aparecem são:\n\n• Referencial (informativa): o foco é o assunto. Notícias, verbetes, textos didáticos. “A água ferve a 100 °C ao nível do mar.”\n• Apelativa (conativa): o foco é convencer o leitor. Anúncios e campanhas, com imperativo e “você”.\n• Emotiva (expressiva): o foco é quem fala, com seus sentimentos. Diários, desabafos, cartas pessoais, primeira pessoa.\n• Poética: o foco é a forma da mensagem: rima, ritmo, jogo de palavras. Poemas, letras de canção, slogans.\n• Metalinguística: a linguagem fala de si mesma. Um verbete de dicionário, um poema sobre o ato de escrever, uma explicação sobre o significado de uma palavra.\n• Fática: o foco é manter o contato. “Alô?”, “Tá me ouvindo?”, “Né?”.\n\nUm texto pode ter várias funções; a questão pergunta a que predomina. Um slogan com rima é poético na forma, mas apelativo na intenção. Se o comando fala em “objetivo principal”, a intenção vale mais que a forma."
       },
       {
-        "titulo": "Notícia, reportagem, divulgação e opinião",
-        "texto": "Identifique o acontecimento central da notícia e quem informa os fatos. A reportagem pode aprofundar contexto, comparar fontes e trazer testemunhos. A divulgação científica explica um conhecimento a um público mais amplo e pode definir termos ou usar analogias. Artigos de opinião defendem uma posição assinada. Um editorial expressa a posição do veículo. Um trecho informativo pode sustentar uma campanha ou um argumento sem mudar sua finalidade global."
+        "titulo": "Tirinhas e histórias em quadrinhos",
+        "texto": "A tirinha é uma narrativa curta em poucos quadros. Quase sempre ela prepara uma expectativa nos primeiros quadros e a quebra no último. É dessa quebra que nascem o humor e a crítica.\n\nElementos que você precisa ler:\n\n• Balão de fala (contorno liso), de pensamento (em forma de nuvem), de grito (contorno com pontas) e de cochicho (tracejado).\n• Expressões faciais e gestos: sobrancelhas, olhos arregalados, braços cruzados mudam o sentido da fala.\n• Onomatopeias: “BUM”, “TOC TOC”, “SNIF” indicam sons e emoções.\n• Cenário e objetos: um celular na mão, um prato vazio, uma placa ao fundo podem ser a chave da piada.\n• Sequência: a ordem dos quadros indica o tempo; um quadro sem fala pode mostrar uma pausa ou uma reação.\n\nMétodo: leia todos os quadros, depois pergunte “o que mudou do primeiro para o último?” e “o que a personagem não esperava?”. A alternativa correta explica essa virada. As erradas costumam descrever só um quadro ou atribuir à personagem uma intenção que nenhum detalhe mostra."
       },
       {
-        "titulo": "Funções e recursos de persuasão",
-        "texto": "Uma campanha pode usar dados para informar e imperativos para mobilizar. A repetição de “você”, o vocativo e a pergunta direta orientam a mensagem ao destinatário. Uma mensagem sobre o próprio código, como a explicação de uma palavra, tem efeito metalinguístico. A construção sonora de um slogan pode aumentar sua memorização. Para apontar a função dominante, explique o que o recurso faz naquele suporte."
+        "titulo": "Charge e cartum: humor que critica",
+        "texto": "A charge é um desenho de humor que comenta um fato da atualidade: uma eleição, uma crise, uma notícia da semana. Para entendê-la, você precisa reconhecer o assunto a que ela se refere. O cartum também usa humor, mas critica comportamentos mais gerais, sem depender de um fato específico (o uso exagerado do celular, o consumismo, o trânsito).\n\nOs recursos mais comuns são:\n\n• Exagero (caricatura): ampliar um traço para chamar atenção para ele.\n• Ironia: mostrar ou dizer o contrário do que se quer criticar.\n• Contraste: colocar lado a lado duas coisas que não combinam, como uma placa de “Preserve a natureza” num terreno cheio de lixo.\n• Duplo sentido: uma palavra que vale ao mesmo tempo no sentido literal e no figurado.\n\nPergunta-chave: o que está sendo criticado e por meio de qual recurso? A banca costuma colocar alternativas que repetem o que aparece no desenho, mas não dizem qual é a crítica. A correta vai além da descrição e nomeia a crítica."
       },
       {
-        "titulo": "Leitura visual com evidência",
-        "texto": "Observe a ordem dos quadros e o instante em que uma fala ou gesto muda o sentido da cena. Charge tende a comentar tema público em contexto reconhecível e cartum pode explorar uma situação mais ampla. Em infográfico, acompanhe setas, alinhamentos e legendas. Em gráficos e tabelas, compare valores na mesma base. Na foto com legenda, diferencie o que se vê e o que a legenda informa sobre tempo, lugar e autoria."
+        "titulo": "Imagem e legenda: o que se vê e o que se informa",
+        "texto": "Fotografias, pinturas e ilustrações vêm acompanhadas de legenda, título ou crédito. Cada parte cumpre uma função diferente.\n\n• A imagem mostra: pessoas, lugares, objetos, ações, cores, expressões.\n• A legenda informa o que a imagem sozinha não diz: quando, onde, quem, por quê.\n• O crédito indica autoria e origem: fotógrafo, pintor, ano, acervo.\n\nErro comum: concluir pela imagem algo que só a legenda poderia dizer (a data, o nome do lugar) ou ignorar a legenda e interpretar a cena de outra forma. Exemplo: a foto de uma rua alagada com a legenda “Avenida em São Paulo após chuva de 40 minutos, em janeiro de 2024” permite falar de enchente urbana; sem a legenda, você não poderia afirmar a cidade, o mês nem a duração da chuva.\n\nEm obras de arte, observe período, técnica e tema. Questões da ETEC já pediram para relacionar uma pintura ao seu contexto histórico usando apenas o título, o ano e a cena."
+      },
+      {
+        "titulo": "Gráficos: leia antes de comparar",
+        "texto": "Gráficos aparecem em questões de Português, Matemática, Geografia e Ciências. A leitura é sempre a mesma: primeiro o que o gráfico mede, depois os números.\n\n• Título: diz o assunto e, muitas vezes, o local e o período.\n• Eixos: o horizontal costuma ser o tempo ou as categorias; o vertical, a quantidade. Leia a unidade de cada um (mil pessoas, %, R$, °C).\n• Legenda: diz o que cada cor ou linha representa.\n• Fonte: quem produziu os dados.\n\nOs tipos mais comuns: gráfico de barras compara quantidades entre categorias; gráfico de linhas mostra a variação ao longo do tempo; gráfico de setores (pizza) mostra partes de um todo, que somam 100%.\n\nCuidados que a banca explora:\n\n• Valor absoluto e percentual: 30% de uma cidade pequena pode ser menos gente que 10% de uma cidade grande.\n• Tendência: “cresceu em todo o período” é falso se houve um ano de queda, mesmo que o último valor seja maior que o primeiro.\n• Eixo que não começa no zero: a barra parece muito maior, mas a diferença real é pequena. Compare os números, não o tamanho visual."
+      },
+      {
+        "titulo": "Tabelas, mapas e infográficos",
+        "texto": "Tabela organiza dados em linhas e colunas. Leia o cabeçalho de cada coluna e a unidade antes de procurar um valor. Para comparar, use sempre a mesma linha ou a mesma coluna; muitas alternativas erradas cruzam o valor de uma linha com o rótulo de outra.\n\nMapa temático representa um fenômeno no espaço (chuva, população, desmatamento) por meio de cores ou símbolos. A legenda é obrigatória: sem ela, a cor não significa nada. Observe também a orientação (norte), a escala e o título.\n\nInfográfico mistura texto curto, imagem, números e setas para explicar um processo ou um assunto. Siga a ordem sugerida pelas setas ou pela numeração e leia cada caixa de texto.\n\nEm todos esses suportes, a pergunta da ETEC costuma exigir uma relação: “a partir da tabela, é correto concluir que…”. Aplique o mesmo cuidado da inferência: a conclusão precisa estar apoiada nos dados mostrados, sem extrapolar para lugares, períodos ou grupos que o material não inclui."
+      },
+      {
+        "titulo": "Texto verbal e não verbal juntos",
+        "texto": "Muitos textos combinam palavra e imagem: anúncios, capas de revista, cartazes, memes, infográficos. Chamamos isso de texto multimodal. Nesses casos, o sentido nasce da relação entre as partes, e a questão quase sempre pergunta por essa relação.\n\nAs relações mais comuns entre palavra e imagem são:\n\n• Reforço: a imagem repete o que a frase diz (a frase fala de reciclagem e a imagem mostra lixeiras coloridas).\n• Complemento: cada parte traz uma informação que a outra não tem.\n• Contraste ou ironia: a imagem contradiz a frase, e é desse choque que vem a crítica.\n\nExemplo: um cartaz diz “Economize água” e mostra uma torneira pingando sobre um deserto. A imagem reforça a mensagem por meio de um exagero: cada gota desperdiçada é tratada como algo precioso. Uma alternativa que diga apenas “o cartaz mostra uma torneira” descreve, mas não interpreta."
+      },
+      {
+        "titulo": "Como a ETEC pergunta sobre gêneros e imagens",
+        "texto": "Os comandos se repetem. Reconhecer o formato ajuda a saber o que procurar.\n\n• “O objetivo do texto é…”: procure a ação esperada do leitor ou a intenção do autor.\n• “O humor da tirinha decorre…”: procure a quebra de expectativa no último quadro.\n• “A charge critica…”: nomeie o comportamento ou o fato criticado.\n• “O recurso utilizado para…”: aponte o elemento concreto (imperativo, cor, exagero, dado numérico).\n• “De acordo com o gráfico/tabela…”: localize o dado exato e confira unidade e período.\n• “O público-alvo é…”: veja a quem o texto se dirige pelo vocabulário, pelo suporte e pelas imagens.\n\nEm todas, aplique o teste da pista: para cada alternativa, aponte o elemento do material que a confirma. A correta tem pista clara; as erradas costumam depender de informação que não está ali ou de uma leitura de um único quadro."
       }
     ],
-    "armadilha": "O detalhe chamativo pode ser o recurso usado para persuadir. A finalidade está na ação comunicativa. Uma manchete sozinha indica o destaque, enquanto a legenda pode alterar como a imagem deve ser lida.",
+    "armadilha": "A alternativa errada mais comum descreve o que aparece na imagem (“o personagem está sentado no sofá com o celular”) em vez de dizer o que a imagem significa (“critica o excesso de tempo nas telas”). Quando o comando pede objetivo, crítica ou efeito, a resposta precisa interpretar, não só descrever.",
     "exemplos": [
       {
         "suporte": [
@@ -603,66 +621,81 @@
       }
     ],
     "resumo": [
-      "Nomeie emissor, público e ação esperada.",
-      "Aponte uma pista verbal e uma visual.",
-      "Cheque legenda, unidade, período e base.",
-      "Leia o último quadro antes de fechar a interpretação."
+      "Gênero = texto inteiro na vida real; tipo = o que um trecho faz.",
+      "Pergunte sempre: quem fala, para quem, onde e para quê.",
+      "Notícia informa; reportagem aprofunda; artigo opina com assinatura; editorial é a opinião do jornal.",
+      "Campanha e anúncio querem ação: imperativo, “você”, frase de efeito, imagem que emociona.",
+      "Função que predomina = intenção principal, não só a forma.",
+      "Tirinha: o sentido vira no último quadro.",
+      "Charge comenta fato atual; cartum critica comportamento geral.",
+      "Gráfico e tabela: título, eixos, unidade, legenda e período antes dos números.",
+      "Imagem mostra; legenda informa tempo, lugar e autoria."
     ]
   },
   "sentido-e-leitura-literaria": {
-    "introducao": "Descubra como uma palavra, uma voz ou a forma de um verso muda o que se entende.",
+    "introducao": "Uma palavra muda de sentido conforme o lugar onde aparece. Este capítulo ensina a descobrir o sentido de uma expressão pelo contexto, a reconhecer as figuras de linguagem que a ETEC mais cobra e a ler poemas, letras de canção, contos e crônicas: quem fala, como fala e que efeito produz.",
     "codigos": [
       "LP04",
       "LP08"
     ],
     "raioX": "A prova pede sentido de expressões e efeitos de figuras em reportagens, poemas, letras, diálogos e narrativas. Em textos literários, título, repetição, imagens e desfecho podem ser a pista decisiva.",
     "intuicao": [
-      "Troque a palavra por uma expressão simples. Leia a frase inteira e veja o que mudou em tempo, tom, intensidade e julgamento.",
-      "Em texto literário, identifique quem fala e para quem. Em seguida, procure o elemento formal que permite interpretar sua fala."
+      "Quando a questão pergunta o sentido de uma palavra, não use o dicionário da cabeça. Releia a frase inteira e teste cada alternativa no lugar da palavra.",
+      "Se a substituição muda o tom, a intensidade ou o tempo da frase, ela não serve, mesmo que seja um sinônimo no dicionário.",
+      "Em poemas e canções, procure o que se repete: palavras, sons, versos. A repetição costuma apontar o tema e o sentimento.",
+      "Em narrativas, descubra primeiro quem conta a história (um personagem ou alguém de fora) e o que acontece no final."
     ],
     "teoria": [
       {
-        "titulo": "Sentido em contexto e relações de palavras",
-        "texto": "Polissemia é a disponibilidade de sentidos diferentes para uma mesma palavra. “Rede” pode nomear um objeto, uma infraestrutura ou um conjunto de relações. Prefixos, sufixos, palavras vizinhas e marcas de tempo ajudam a decidir. Um sinônimo de dicionário pode falhar na frase se mudar a avaliação ou o registro."
+        "titulo": "Sentido próprio e sentido figurado",
+        "texto": "Sentido próprio (denotativo) é o sentido básico, de dicionário: “A pedra caiu no rio”. Sentido figurado (conotativo) é um sentido novo, criado pelo contexto: “Ele tem um coração de pedra” quer dizer que a pessoa é insensível.\n\nO sentido figurado não é exclusivo da poesia. Ele está em notícias (“a inflação disparou”), em propagandas (“um mar de ofertas”) e na fala de todo dia (“estou morto de cansaço”).\n\nPara decidir qual sentido está em jogo, pergunte: a frase faz sentido se eu a ler ao pé da letra? Se a resposta for não, há sentido figurado, e você precisa descobrir qual característica está sendo transferida (a dureza da pedra vira falta de sentimento)."
       },
       {
-        "titulo": "Figuras e efeito local",
-        "texto": "Metáfora transfere sentido por semelhança. Comparação explicita um paralelo. Metonímia troca termos por contiguidade, como autor pela obra. Personificação atribui ação humana a ente não humano. Antítese contrasta ideias e paradoxo aproxima ideias aparentemente incompatíveis. Hipérbole intensifica, eufemismo atenua e ironia explora a distância entre a formulação e a avaliação sugerida."
+        "titulo": "Sentido em contexto e o teste da substituição",
+        "texto": "Muitas palavras têm vários significados (polissemia). “Banco” pode ser assento, instituição financeira ou estoque (banco de sangue). Só o contexto decide.\n\nA ETEC pergunta muito: “a palavra X, no texto, tem o sentido de…” ou “a expressão X pode ser substituída, sem alteração de sentido, por…”. Use o teste da substituição:\n\n• Copie mentalmente a frase do texto.\n• Troque a palavra por cada alternativa.\n• Verifique se a frase continua dizendo a mesma coisa, com o mesmo tom e a mesma força.\n\nExemplo: “O técnico admitiu que o time jogou mal”. Trocar “admitiu” por “disse” perde a ideia de reconhecer algo desagradável; trocar por “reconheceu” mantém. Sinônimos perfeitos são raros. A resposta certa é a que preserva o sentido daquela frase, não a que tem o significado mais parecido no dicionário.\n\nAtenção à intensidade: “gostar” e “adorar”, “preocupado” e “desesperado”, “pequeno” e “minúsculo” não são intercambiáveis. A banca usa essa diferença em distratores."
       },
       {
-        "titulo": "Som, repetição e sequência",
-        "texto": "Anáfora é a repetição no início de unidades sucessivas. Aliteração e assonância repetem sons consonantais e vocálicos. Onomatopeia imita um ruído. Elipse omite um termo recuperável. Zeugma omite um termo já citado, como o verbo em “Ana levou água, Rui, suco”. Pleonasmo repete uma ideia e pode reforçá-la. Catacrese emprega uma transferência de sentido convencional, como em “braço da cadeira”. Apresente o efeito no trecho: ênfase, ritmo, acúmulo, urgência ou contraste."
+        "titulo": "Sinônimos, antônimos, homônimos e parônimos",
+        "texto": "Algumas relações entre palavras aparecem diretamente nas questões ou ajudam a eliminar alternativas.\n\n• Sinônimos: sentidos próximos (rápido, veloz).\n• Antônimos: sentidos opostos (claro, escuro).\n• Homônimos: mesma pronúncia ou grafia, sentidos diferentes (cela de prisão e sela de cavalo; manga fruta e manga da camisa).\n• Parônimos: palavras parecidas, mas diferentes, que costumam ser confundidas: comprimento (medida) e cumprimento (saudação); descrição (ato de descrever) e discrição (qualidade de quem é discreto); emigrar (sair do país) e imigrar (entrar no país); tráfego (trânsito) e tráfico (comércio ilegal).\n\nEm textos de humor, o jogo com homônimos e parônimos é uma das fontes mais comuns da graça. Se a piada depende de uma palavra com dois sentidos, a questão quer que você identifique os dois."
       },
       {
-        "titulo": "Narrador, personagem e eu lírico",
-        "texto": "Autor é quem escreve. Narrador é a voz que conta. Eu lírico é a voz construída pelo poema. O narrador pode participar da história ou observá-la de fora e pode saber mais ou menos do que uma personagem. Travessões, aspas e verbos de fala ajudam a atribuir cada ponto de vista."
+        "titulo": "Ambiguidade: quando a frase permite duas leituras",
+        "texto": "Ambiguidade é a possibilidade de entender uma frase de duas maneiras. Às vezes é um defeito; às vezes é um recurso intencional, principalmente no humor e na publicidade.\n\nCausas mais comuns:\n\n• Palavra com dois sentidos: “O professor pediu para o aluno sair com a prova” (sair levando a prova ou sair depois da prova?).\n• Pronome com dois possíveis referentes: “Ana disse a Júlia que ela passou no exame” (quem passou?).\n• Posição de um termo: “Vendo casaco para senhora de couro”.\n\nQuando a ambiguidade é proposital, o texto quer que o leitor perceba os dois sentidos ao mesmo tempo. Um anúncio de academia que diz “Aqui você perde peso e ganha leveza” brinca com “leveza” física e emocional. A pergunta típica é: “o efeito de humor decorre da duplicidade de sentido da palavra…”."
       },
       {
-        "titulo": "Construção literária",
-        "texto": "Nos contos e crônicas, acompanhe situação inicial, conflito e desfecho. Nos poemas, observe o título, o ritmo, as imagens, as estrofes, as quebras de verso e o destinatário. O desfecho ou último verso pode mudar o valor dos sinais anteriores. Reconheça a época ou o repertório quando o texto fornece pistas de diálogo."
+        "titulo": "Figuras de linguagem de palavra",
+        "texto": "Figuras de linguagem são usos expressivos da língua. A ETEC não pede definições decoradas: pede que você reconheça a figura e diga o efeito que ela produz. As mais cobradas:\n\n• Metáfora: comparação sem conectivo. “Aquela sala era um forno.” Transfere uma característica (o calor) de uma coisa para outra.\n• Comparação: comparação com conectivo (como, feito, tal qual, parece). “A sala estava quente como um forno.”\n• Metonímia: troca de uma palavra por outra que tem relação próxima com ela. “Li Machado de Assis” (a obra pelo autor); “Bebeu dois copos” (o conteúdo pelo recipiente).\n• Personificação (prosopopeia): dar características humanas a seres não humanos. “O vento sussurrava na janela.”\n• Hipérbole: exagero intencional. “Já te falei um milhão de vezes.”\n• Eufemismo: suavizar algo desagradável. “Ele nos deixou” para dizer que alguém morreu.\n• Ironia: dizer o contrário do que se pensa, com intenção crítica ou de humor. “Que belo exemplo!”, diante de uma atitude ruim.\n• Antítese: aproximação de ideias opostas. “Riso e choro”, “luz e sombra”.\n• Paradoxo: ideias opostas que parecem impossíveis juntas, mas fazem sentido no texto. “É dor que desatina sem doer.”\n\nDica: metáfora e comparação são as mais confundidas. Se há “como”, “feito” ou “parece”, é comparação."
       },
       {
-        "titulo": "Polissemia, ambiguidade e substituição",
-        "texto": "“Rede lotada” pode aludir ao transporte, ao acesso digital ou a um objeto, conforme o suporte. Uma manchete como “Monitora viu o aluno com binóculo” pode deixar indefinido quem usa o instrumento. Para testar um sinônimo, troque a expressão no contexto e verifique intensidade, registro e efeito. “Desconfiou” mantém incerteza. “Descobriu” já apresenta o fato como conhecido."
+        "titulo": "Figuras de som e de construção",
+        "texto": "Algumas figuras trabalham com o som das palavras ou com a organização da frase. Aparecem muito em poemas, letras de canção e slogans.\n\n• Aliteração: repetição de sons consonantais. “O rato roeu a roupa do rei de Roma.”\n• Assonância: repetição de sons vogais.\n• Onomatopeia: palavra que imita um som. “Tique-taque”, “zum-zum”, “cocoricó”.\n• Anáfora: repetição da mesma palavra ou expressão no início de versos ou frases. Dá ritmo e destaca uma ideia.\n• Pleonasmo: repetição de ideia para dar ênfase. “Vi com meus próprios olhos.” Na fala sem intenção expressiva (“subir para cima”), é considerado vício.\n• Elipse e zeugma: omissão de um termo fácil de recuperar. “Eu prefiro praia; ela, montanha” (o verbo “prefere” fica subentendido).\n• Gradação: sequência de ideias em ordem crescente ou decrescente. “Andou, correu, voou.”\n\nA pergunta da ETEC costuma ser sobre o efeito: a aliteração imita o barulho da chuva, a anáfora insiste em um pedido, a gradação aumenta a tensão."
       },
       {
-        "titulo": "Figuras de construção e de som",
-        "texto": "Em “O café abriu cedo. A feira, às nove”, o verbo da segunda frase é recuperado da primeira. A omissão de um termo já mencionado é zeugma. A elipse também permite recuperação, inclusive pela situação ou pela flexão. Em “Foi uma decisão discreta e descrita em poucas linhas”, palavras de som próximo e sentidos diferentes criam paronomásia. Observe como aliteração, rima e repetição contribuem para o ritmo em vez de identificar a figura só pela aparência das letras."
+        "titulo": "Ironia, humor e crítica",
+        "texto": "A ironia é a figura mais presente nas tirinhas e charges da prova, e também a mais traiçoeira, porque exige perceber que o texto diz o contrário do que quer dizer.\n\nSinais de ironia:\n\n• Elogio em uma situação claramente negativa (“Que ótimo, o ônibus atrasou de novo!”).\n• Contraste entre o que se diz e o que a imagem mostra.\n• Exagero de uma qualidade que o contexto desmente.\n• Aspas em palavras que o autor não leva a sério.\n\nO humor quase sempre nasce de uma quebra de expectativa: o texto encaminha o leitor para uma conclusão e, no fim, entrega outra. Para responder, identifique a expectativa criada e o que a quebrou. A crítica está na relação entre as duas coisas."
       },
       {
-        "titulo": "Ironia e imagem em conjunto",
-        "texto": "Se a legenda diz “atendimento instantâneo” sobre um balcão com uma longa fila, a imagem contradiz a avaliação expressa. A ironia nasce dessa tensão. Metáfora aproxima domínios por semelhança e metonímia por uma relação de proximidade, como em “li Conceição Evaristo”. Diferencie o recurso do julgamento que ele ajuda a construir. Uma alternativa pode nomear a figura certa e explicar seu efeito de modo errado."
+        "titulo": "Poema: verso, estrofe, ritmo e eu lírico",
+        "texto": "O poema se organiza em versos (cada linha) e estrofes (cada bloco de versos). Pode ter rima, ritmo regular e repetições, ou ser em verso livre, sem rima nem métrica fixa.\n\nQuem fala no poema é o eu lírico (ou eu poético). Ele não é necessariamente o autor: um poeta adulto pode criar um eu lírico criança, um idoso, um objeto. Na prova, prefira sempre “o eu lírico” a “o autor” quando a questão fala de sentimentos expressos no poema.\n\nPara interpretar um poema:\n\n• Leia o título: muitas vezes ele resume o tema ou cria a imagem central.\n• Identifique a situação: o que o eu lírico vive, vê, lembra ou deseja?\n• Observe as repetições e as palavras mais fortes.\n• Veja como o poema termina: a última estrofe costuma concluir ou virar o sentido.\n\nLetras de canção funcionam da mesma forma. A ETEC usa muito canções da música popular brasileira; a pergunta é sobre o tema, o sentimento ou a figura de linguagem, raramente sobre música."
       },
       {
-        "titulo": "Foco narrativo, tempo e vozes",
-        "texto": "Pergunte se a voz participa dos fatos e a quais pensamentos tem acesso. Narrador externo pode ficar limitado ao que se observa ou acompanhar a interioridade. O primeiro acontecimento narrado pode vir depois de fatos recuperados em lembrança. No discurso direto, a fala é apresentada como enunciado próprio da personagem. No indireto, chega pelo relato. No indireto livre, podem aparecer avaliações da personagem na voz narrativa, sem marca de citação."
+        "titulo": "Narrativa: narrador, foco narrativo e personagens",
+        "texto": "Em contos, crônicas e trechos de romances, a primeira pergunta é: quem conta a história?\n\n• Narrador em primeira pessoa (narrador-personagem): participa da história e usa “eu”. Só sabe o que viu e sentiu; sua visão é parcial.\n• Narrador em terceira pessoa (narrador-observador): conta de fora, usando “ele”, “ela”.\n• Narrador onisciente: em terceira pessoa, mas conhece os pensamentos e sentimentos das personagens.\n\nElementos da narrativa: enredo (o que acontece), personagens (protagonista, antagonista, secundárias), tempo (cronológico ou psicológico), espaço e conflito.\n\nO discurso das personagens pode aparecer de três formas:\n\n• Direto: a fala da personagem é reproduzida, geralmente com travessão ou aspas. — Eu não vou, disse Maria.\n• Indireto: o narrador conta o que a personagem disse. Maria disse que não iria.\n• Indireto livre: a voz do narrador e a da personagem se misturam, sem aviso. Maria olhou a chuva. Não iria de jeito nenhum.\n\nAo passar do direto para o indireto, mudam os tempos verbais (vou → iria), os pronomes (eu → ela) e os advérbios (aqui → ali, hoje → naquele dia). A ETEC já cobrou essa transformação."
       },
       {
-        "titulo": "Como ler poema, letra e narração",
-        "texto": "Leia a estrofe em voz baixa, observe onde quebra o verso e que palavras voltam com variação. Depois compare título, primeira imagem e fecho. O eu lírico é a voz que organiza o poema. Em narrativa curta, localize a situação inicial e o que se altera no desfecho. Se a pergunta pede interpretação, use os recursos formais como evidência de sentido."
+        "titulo": "Crônica e conto: o cotidiano e o desfecho",
+        "texto": "A crônica é o gênero literário que mais aparece na ETEC. Ela parte de um fato do dia a dia (uma fila, uma conversa no ônibus, uma lembrança de infância) e faz dele uma reflexão, muitas vezes com humor ou lirismo. Tem linguagem próxima da fala e costuma ser curta.\n\nO conto é uma narrativa curta com um único conflito central, poucos personagens e um desfecho que resolve ou surpreende.\n\nPara as duas, procure:\n\n• O fato que dá origem ao texto.\n• A reflexão ou a mudança que o narrador vive.\n• O tom: humorístico, nostálgico, crítico, melancólico.\n• O desfecho e o que ele revela.\n\nPergunta típica: “o narrador revela, ao final, que…” ou “o título relaciona-se ao texto porque…”. A resposta exige ler o texto inteiro, não só o começo."
+      },
+      {
+        "titulo": "Título, repetição e desfecho como pistas",
+        "texto": "Em textos literários, três lugares concentram as pistas de sentido.\n\n• O título: anuncia o tema, cria uma expectativa ou faz uma ironia que só se entende no fim.\n• As repetições: o que o autor repete é o que ele quer que o leitor não esqueça.\n• O desfecho: confirma, contradiz ou ressignifica o que veio antes.\n\nQuando a questão pergunta o tema ou o sentimento predominante, junte essas três pistas. Uma alternativa que se apoia só em um verso ou em um parágrafo isolado costuma ser uma redução."
+      },
+      {
+        "titulo": "Como a ETEC pergunta sobre sentido e literatura",
+        "texto": "• “A expressão X tem, no texto, o sentido de…”: faça o teste da substituição.\n• “No verso X, há uma figura de linguagem denominada…”: reconheça a figura e confirme pelo efeito.\n• “O efeito de humor decorre…”: procure duplo sentido, ironia ou quebra de expectativa.\n• “O eu lírico expressa…” / “O narrador revela…”: identifique o sentimento ou a descoberta pelo conjunto do texto.\n• “Transpondo a fala para o discurso indireto…”: ajuste pessoa, tempo verbal e advérbios.\n\nEm todos os casos, a alternativa certa é a que você consegue sustentar com uma palavra ou um verso do texto. Se precisar imaginar algo que o texto não diz, desconfie."
       }
     ],
-    "armadilha": "Ler literalmente uma metáfora ou atribuir ao autor uma opinião de personagem apaga a pista cobrada. Se o comando pede efeito, o nome da figura só ajuda quando explica o funcionamento no trecho.",
+    "armadilha": "O sinônimo de dicionário que não serve no contexto. A banca coloca nas alternativas uma palavra que, isolada, significa quase o mesmo, mas que muda o tom ou a intensidade da frase. Sempre recoloque a alternativa na frase original e leia em voz baixa antes de marcar.",
     "exemplos": [
       {
         "suporte": [
@@ -903,57 +936,71 @@
       }
     ],
     "resumo": [
-      "Teste o sentido pela frase inteira.",
-      "Distinga autor, narrador, eu lírico e interlocutor.",
-      "Localize a figura e diga seu efeito.",
-      "Confira título, repetição e desfecho."
+      "Denotação = sentido literal; conotação = sentido figurado criado pelo contexto.",
+      "Teste da substituição: a troca precisa manter sentido, tom e intensidade.",
+      "Metáfora sem “como”; comparação com “como”.",
+      "Ironia diz o contrário; hipérbole exagera; eufemismo suaviza; personificação humaniza.",
+      "Ambiguidade proposital é recurso de humor e publicidade.",
+      "Eu lírico não é o autor; narrador em 1ª pessoa tem visão parcial.",
+      "Direto → indireto: mude pessoa, tempo verbal e advérbios.",
+      "Título, repetição e desfecho são as pistas do sentido global."
     ]
   },
   "coesao-e-intertextualidade": {
-    "introducao": "Siga as retomadas, as relações entre orações e os diálogos entre textos.",
+    "introducao": "Um texto não é uma lista de frases soltas: as partes se ligam por pronomes, por palavras que retomam outras e por conectivos que dizem se uma ideia é causa, oposição ou conclusão da outra. Este capítulo ensina a seguir esses fios, a escolher o conectivo certo e a perceber quando um texto conversa com outro.",
     "codigos": [
       "LP05"
     ],
     "raioX": "A ETEC pergunta a que se refere um pronome, que relação um conector expressa ou como uma charge, canção e reportagem tratam a mesma ideia. Pode pedir uma substituição que preserve o sentido em um trecho de texto longo.",
     "intuicao": [
-      "Substitua o pronome por um candidato e releia duas frases. Confira concordância, tema e ação.",
-      "Determine a relação com palavras suas. Em dois textos, faça uma síntese de cada um antes de compará-los."
+      "Quando a questão pergunta “a que se refere o pronome”, volte ao texto e procure, antes dele, o termo que concorda com ele e que faz sentido no lugar dele.",
+      "Para saber o valor de um conectivo, troque-o por outro de sentido conhecido (porque, mas, portanto, embora, se) e veja qual mantém o sentido.",
+      "Se duas frases vêm separadas, pergunte qual é a relação entre elas: uma explica a outra? se opõe? conclui? acrescenta?",
+      "Quando dois textos aparecem juntos, compare: o segundo concorda, discorda, imita ou zomba do primeiro?"
     ],
     "teoria": [
       {
-        "titulo": "Coesão referencial",
-        "texto": "Pronomes, sinônimos, hiperônimos, repetição e elipse retomam informações. Anafórico aponta para trás e catafórico antecipa uma informação. Concordância ajuda a restringir candidatos, e o sentido do verbo resolve muitas ambiguidades. “Isso” pode recuperar uma proposição inteira."
+        "titulo": "Coesão e coerência",
+        "texto": "Coesão é a ligação entre as partes do texto, feita por palavras: pronomes, sinônimos, conectivos, repetições. É visível na superfície do texto.\n\nCoerência é o sentido lógico do conjunto: as ideias não se contradizem, seguem uma ordem compreensível e combinam com o que sabemos do mundo.\n\nUm texto pode ser coeso e incoerente: “Choveu muito, portanto a rua ficou seca” tem conectivo, mas a relação é absurda. E um texto pode ser coerente quase sem conectivos, como uma lista de compras ou um poema curto.\n\nNa ETEC, coesão aparece em perguntas sobre pronomes e conectivos; coerência, em perguntas sobre a ordem das frases, a reescrita de um trecho ou a escolha da palavra que completa o sentido."
       },
       {
-        "titulo": "Coesão sequencial e relações lógicas",
-        "texto": "Distinga adição, oposição, concessão, condição, consequência, causa, finalidade, comparação, tempo e conclusão. “Embora” admite uma objeção sem desfazer a conclusão. “Só” restringe. “E” pode expressar soma, sequência, consequência ou contraste, conforme as orações e as expectativas que o contexto constrói."
+        "titulo": "Retomada por pronomes",
+        "texto": "Para não repetir palavras, o texto usa pronomes que retomam algo já dito (anáfora) ou anunciam algo que vem depois (catáfora).\n\n• Pronomes pessoais: ele, ela, eles, o, a, lhe. “A diretora chegou cedo. Ela abriu a sala.”\n• Pronomes demonstrativos: este, esse, aquele, isso, aquilo. “Faltou luz. Isso atrasou a prova.” Aqui “isso” retoma uma ideia inteira, não uma palavra.\n• Pronomes relativos: que, quem, o qual, onde, cujo. “O livro que comprei.”\n• Pronomes possessivos: seu, sua, dele. “Os alunos levaram seus cadernos.”\n\nPara descobrir o referente:\n\n• Procure antes do pronome um termo com o mesmo gênero e número.\n• Troque o pronome pelo candidato e veja se a frase faz sentido.\n• Lembre que demonstrativos como “isso” e “essa situação” podem retomar uma frase ou um parágrafo inteiro.\n\nEsse e este: em textos formais, “este” anuncia o que vem a seguir (“O problema é este: falta água”); “esse” retoma o que já foi dito (“Falta água. Esse problema…”)."
       },
       {
-        "titulo": "Coerência e progressão",
-        "texto": "A coerência depende da compatibilidade entre as ideias, da ordem das informações e da situação comunicativa. A progressão informa algo novo sobre um referente recuperável. Reordenar parágrafos exige verificar pronomes, cronologia e conectores."
+        "titulo": "Retomada por palavras: sinônimos, termos gerais e elipse",
+        "texto": "Além dos pronomes, o texto retoma termos de outras formas.\n\n• Sinônimo ou expressão equivalente: “Machado de Assis… o escritor carioca…”.\n• Termo mais geral (hiperônimo): “Comprei rosas e margaridas. As flores…”.\n• Termo que resume e avalia: “Os vereadores aumentaram o próprio salário. A medida revoltou a população.” Aqui “a medida” resume o fato e “revoltou” mostra a avaliação.\n• Elipse: o termo fica subentendido. “Os alunos chegaram às 7h. Entraram às 7h10.” (o sujeito “os alunos” está oculto em “entraram”).\n\nAs expressões que resumem são importantes na prova: ao retomar um fato com “o descaso”, “a conquista” ou “o problema”, o autor mostra a opinião dele. Uma questão pode perguntar que avaliação a retomada revela."
       },
       {
-        "titulo": "Intertextualidade e reescrita",
-        "texto": "Citação incorpora um trecho marcado. Alusão remete sem transcrever. Paráfrase conserva o núcleo e paródia o recria com outro efeito. Ao comparar texto e imagem, pergunte se convergem, se complementam ou se entram em tensão."
+        "titulo": "Conectivos e o sentido que eles criam",
+        "texto": "Conectivos (conjunções, preposições e algumas expressões) ligam orações e indicam a relação entre as ideias. É o assunto de coesão mais cobrado pela ETEC. Memorize as relações com exemplos:\n\n• Adição: e, também, além disso, não só… mas também. “Ele estuda e trabalha.”\n• Oposição (adversativa): mas, porém, contudo, todavia, no entanto, entretanto. “Estudou, mas não passou.”\n• Concessão: embora, ainda que, mesmo que, apesar de. “Embora tenha estudado, não passou.” Admite um fato e mostra que ele não impediu o outro.\n• Causa: porque, pois (antes do verbo), já que, visto que, como (no início). “Faltou porque estava doente.”\n• Consequência: tão… que, tanto… que, de modo que. “Choveu tanto que a rua alagou.”\n• Conclusão: portanto, logo, por isso, assim, pois (depois do verbo). “Estudou muito; portanto, passou.”\n• Explicação: pois, porque (justificando uma ordem ou opinião). “Leve o guarda-chuva, pois vai chover.”\n• Condição: se, caso, desde que, contanto que. “Se chover, a aula será cancelada.”\n• Finalidade: para, para que, a fim de que. “Estudou para passar.”\n• Tempo: quando, enquanto, assim que, logo que, depois que. “Saiu quando o sinal tocou.”\n• Comparação: como, assim como, tal qual, mais… do que.\n• Conformidade: conforme, segundo, de acordo com. “Conforme o edital, a prova dura 4 horas.”\n• Proporção: à medida que, à proporção que, quanto mais… mais.\n\nOposição e concessão são as mais confundidas. Na oposição, o fato que pesa vem depois do “mas”. Na concessão, o “embora” acompanha o fato que é admitido, mas vencido."
       },
       {
-        "titulo": "Referente, antecedente e ambiguidade",
-        "texto": "Em “A diretora conversou com a professora. Ela apresentou a proposta”, a concordância aceita ambas as candidatas. Falta contexto para decidir. “A professora apresentou a proposta” resolve a ambiguidade. Em “O portão fechou cedo. Isso atrasou a turma”, o pronome recupera o acontecimento inteiro. Em “Só quero isto: que expliquem o prazo”, o pronome anuncia o conteúdo que vem depois."
+        "titulo": "Trocar conectivos sem mudar o sentido",
+        "texto": "Um formato frequente de questão é: “o conectivo X pode ser substituído, sem alteração de sentido, por…”. Para resolver:\n\n• Descubra a relação que o conectivo original expressa (use a lista do tópico anterior).\n• Procure, entre as alternativas, um conectivo da mesma relação.\n• Recoloque-o na frase e confira se a construção continua correta. Às vezes é preciso mudar o tempo do verbo.\n\nExemplo: “Embora estivesse cansado, terminou a tarefa”. Trocando por “mas”, a frase precisa mudar: “Estava cansado, mas terminou a tarefa”. A relação de contraste se mantém, mas a estrutura muda. Se a alternativa só troca a palavra sem ajustar a frase, ela pode estar errada.\n\nPalavras com mais de um valor exigem atenção ao contexto:\n\n• “Como”: comparação (“forte como um touro”), causa (“Como choveu, ficamos em casa”), conformidade (“Fiz como você pediu”).\n• “Pois”: explicação ou causa antes do verbo (“Saí, pois estava tarde”); conclusão depois do verbo e entre vírgulas (“Estudou; passou, pois, na prova”).\n• “Para”: finalidade (“Saiu para comprar pão”) e direção (“Foi para casa”).\n• “Desde que”: tempo (“desde que cheguei”) ou condição (“desde que você ajude”)."
       },
       {
-        "titulo": "Relações lógicas na frase e no parágrafo",
-        "texto": "Compare “Como faltou água, a aula mudou de sala” e “A aula ocorreu como estava previsto”. O primeiro “como” introduz causa. O segundo indica conformidade. “Embora” concede uma dificuldade, “portanto” apresenta uma conclusão e “desde que” pode estabelecer condição. Para testar a troca, preserve as duas orações, a ordem lógica e o grau de compromisso de quem fala."
+        "titulo": "Progressão: o texto precisa avançar",
+        "texto": "Um bom texto retoma o que já foi dito e acrescenta algo novo a cada frase. Se só repete, não avança; se só acrescenta sem ligar, perde o fio.\n\nEm questões que pedem para ordenar frases ou parágrafos embaralhados, use estas pistas:\n\n• A primeira frase não começa com pronome que retoma algo (“Ele”, “Isso”, “Essa decisão”), porque não há nada antes para retomar.\n• Conectivos de conclusão (“portanto”, “assim”) indicam o fim de um raciocínio.\n• Expressões de sequência (“em seguida”, “depois”, “por fim”) indicam a ordem.\n• Uma ideia geral costuma vir antes do exemplo que a ilustra.\n\nEm questões de reescrita, a pergunta é se a nova versão mantém o sentido e a correção. Compare frase por frase: quem faz o quê, quando, com que relação lógica."
       },
       {
-        "titulo": "Progressão e reconstrução de períodos",
-        "texto": "Um parágrafo pode começar pela situação conhecida e avançar para uma ressalva ou consequência. Marque retomadas e informações novas. Na reescrita, mantenha o sujeito, a modalidade e a referência temporal. “Caso a chuva pare, iremos” deixa a ida em aberto. “Quando a chuva parar, iremos” organiza o tempo e pode sugerir que a ocorrência é esperada. Uma frase gramatical pode mudar essa relação."
+        "titulo": "Pontuação a serviço da coesão",
+        "texto": "A pontuação também organiza as relações entre as ideias.\n\n• Dois-pontos anunciam uma explicação, uma enumeração ou uma fala: “Só faltava uma coisa: coragem.”\n• Ponto e vírgula separa partes longas ou já com vírgulas, e pode substituir um conectivo: “Choveu muito; o jogo foi adiado.”\n• Travessão ou parênteses isolam um comentário ou uma explicação.\n• Vírgula antes de “mas”, “porém”, “portanto” marca a relação de oposição ou conclusão.\n\nÀs vezes, a relação entre duas frases não tem conectivo nenhum, só pontuação. Para identificar a relação, teste conectivos possíveis: “O ônibus quebrou. Cheguei atrasado.” cabe “por isso” (consequência). Questões da ETEC pedem exatamente isso: “a relação entre as orações, sem conectivo, é de…”."
       },
       {
-        "titulo": "Citação, alusão, paráfrase e paródia",
-        "texto": "Além de detectar um eco, diga o que mudou. Uma citação menciona as palavras de outra fonte. Alusão remete sem reproduzir. Paráfrase reformula o núcleo. Paródia transforma um modelo reconhecível com novo efeito, muitas vezes crítico ou cômico. Em prova, compare as posições dos dois suportes. Compartilhar um tema ou uma palavra é insuficiente para concluir que defendem a mesma ideia."
+        "titulo": "Intertextualidade: textos que conversam",
+        "texto": "Intertextualidade é a presença de um texto dentro de outro. Ela pode ser clara, com citação e fonte, ou sutil, quando o leitor precisa reconhecer a referência.\n\n• Citação: reprodução fiel de um trecho, entre aspas e com autor.\n• Alusão: menção indireta a outra obra, sem citar. “Ser ou não ter, eis a questão” lembra Shakespeare.\n• Paráfrase: reescrever as ideias de outro texto com outras palavras, mantendo o sentido.\n• Paródia: imitar um texto conhecido mudando seu sentido, geralmente para criticar ou fazer humor.\n• Epígrafe: trecho de outro texto colocado no início de uma obra.\n\nA diferença mais cobrada é entre paráfrase e paródia: a paráfrase concorda com o original; a paródia se apropria dele para dizer outra coisa.\n\nA ETEC gosta de textos que dialogam com obras muito conhecidas: a “Canção do exílio”, de Gonçalves Dias (“Minha terra tem palmeiras…”), contos de fadas, provérbios, propagandas famosas e versículos bíblicos. Ao reconhecer o texto de origem, pergunte: o novo texto mantém ou inverte a ideia original? Com que intenção?"
+      },
+      {
+        "titulo": "Comparar dois textos",
+        "texto": "Muitas questões apresentam dois textos (uma reportagem e uma charge, um poema e uma letra de canção, dois artigos) e pedem a relação entre eles.\n\nMétodo em três passos:\n\n• Resuma cada texto em uma frase: qual é o tema e o que ele diz sobre o tema.\n• Compare: os dois tratam do mesmo tema? Têm a mesma posição? Um explica, critica ou ilustra o outro?\n• Escolha a alternativa que descreve a relação certa, sem exagerar (“os dois textos discordam totalmente”) nem misturar (atribuir a um o que está no outro).\n\nRelações comuns: o segundo texto exemplifica o primeiro; os dois abordam o mesmo tema com gêneros diferentes; um critica com humor o que o outro informa; os dois defendem pontos de vista opostos."
+      },
+      {
+        "titulo": "Como a ETEC pergunta sobre coesão e intertextualidade",
+        "texto": "• “O pronome X refere-se a…”: procure o antecedente e faça a troca.\n• “O termo destacado retoma…”: pode ser uma palavra ou uma ideia inteira.\n• “O conectivo X estabelece relação de…”: classifique pela lista de relações.\n• “O conectivo pode ser substituído, sem prejuízo do sentido, por…”: mesma relação e frase ainda correta.\n• “A ordem correta dos parágrafos é…”: comece pela frase que não retoma nada.\n• “O texto II dialoga com o texto I porque…”: resuma os dois e compare.\n\nO erro mais frequente é escolher um conectivo da relação errada porque ele “soa bem” na frase. Antes de marcar, nomeie a relação."
       }
     ],
-    "armadilha": "A palavra mais próxima pode concordar com o pronome e ainda ser incompatível com a ação descrita. Um conector frequente pode assumir valor diferente no trecho.",
+    "armadilha": "Confundir oposição com concessão e causa com consequência. “Mas” e “embora” expressam contraste, mas não são intercambiáveis sem reescrever a frase; “porque” introduz a causa, e “por isso”, a consequência. Inverter os dois troca o sentido da frase inteira.",
     "exemplos": [
       {
         "suporte": [
@@ -1194,62 +1241,72 @@
       }
     ],
     "resumo": [
-      "Troque o pronome e releia.",
-      "Diga a relação entre as duas proposições.",
-      "Cheque quem, quando e em que ordem.",
-      "Compare sínteses e explique o diálogo entre os textos."
+      "Coesão = ligação por palavras; coerência = sentido lógico do conjunto.",
+      "Referente: mesmo gênero e número, e a troca precisa fazer sentido.",
+      "“Isso”, “essa situação” podem retomar uma ideia inteira.",
+      "Mas = oposição (pesa o que vem depois); embora = concessão (admite e vence).",
+      "Porque = causa; por isso/portanto = conclusão; tão… que = consequência.",
+      "Troca de conectivo: mesma relação e frase correta.",
+      "Sem conectivo? Teste “por isso”, “mas”, “porque” entre as frases.",
+      "Paráfrase mantém o sentido; paródia muda o sentido do original."
     ]
   },
   "argumentacao-e-revisao": {
-    "introducao": "Identifique a posição defendida, teste seu apoio e revise formulações para preservar o sentido.",
+    "introducao": "Textos de opinião, campanhas e debates tentam convencer. Este capítulo ensina a separar a ideia defendida das razões que a sustentam, distinguir fato de opinião, reconhecer argumentos fracos e avaliar propostas. No final, você vê como a prova cobra revisão de textos e passagem da fala para a escrita.",
     "codigos": [
       "LP03",
       "LP09"
     ],
     "raioX": "Em campanhas e textos de opinião, a banca pede a razão que sustenta a tese, o dado que confirma uma afirmação ou o critério de uma proposta. Também pede reconhecer a formulação escrita que melhor traduz uma imagem ou uma sequência de quadros.",
     "intuicao": [
-      "Escreva mentalmente “defende que ___ porque ___”. A primeira lacuna é a tese. A segunda exige a justificativa usada pelo texto.",
-      "Ao revisar uma frase, confira se ela carrega as mesmas relações e se atende ao gênero e ao destinatário."
+      "Em um texto de opinião, pergunte primeiro: o que o autor quer que eu pense? Essa é a tese.",
+      "Depois pergunte: por quê? As respostas são os argumentos.",
+      "Para separar fato de opinião, veja se a frase pode ser conferida (fato) ou se expressa um julgamento (opinião).",
+      "Ao avaliar uma proposta, verifique se ela resolve o problema descrito no texto, e não outro."
     ],
     "teoria": [
       {
-        "titulo": "Tese, argumento, exemplo e evidência",
-        "texto": "A tese é uma posição discutível. O argumento dá uma razão para aceitá-la. Dados, exemplos, testemunhos e comparações sustentam argumentos com forças diferentes. Um slogan pode formular a tese ou o apelo. Procure a ponte entre o material de apoio e a conclusão."
+        "titulo": "Tese, argumento e conclusão",
+        "texto": "Todo texto argumentativo tem três partes, mesmo quando não estão em ordem.\n\n• Tese: a ideia principal que o autor defende. Ex.: “As escolas deveriam ter horta.”\n• Argumentos: as razões que sustentam a tese. Ex.: “A horta ensina ciências na prática e melhora a alimentação dos alunos.”\n• Conclusão: retoma a tese, faz uma proposta ou um alerta.\n\nA tese costuma aparecer no primeiro ou no último parágrafo, mas pode estar em qualquer lugar. Para encontrá-la, procure a frase que todas as outras ajudam a defender.\n\nNa prova, cuidado com alternativas que apresentam um argumento como se fosse a tese, ou que trazem uma ideia verdadeira, mas que o autor não defende."
       },
       {
-        "titulo": "Fato, opinião e confiabilidade",
-        "texto": "Uma afirmação factual pode ser verificada. Uma opinião expressa avaliação ou preferência. Confirme fonte, autoria, data, método e população observada. Um dado de uma amostra não autoriza uma regra universal. Autoridade é relevante quando a experiência ou a pesquisa se aplica à afirmação."
+        "titulo": "Tipos de argumento",
+        "texto": "Os argumentos não são todos iguais. Reconhecer o tipo ajuda a avaliar a força de cada um.\n\n• Dados e estatísticas: números de pesquisas. “Segundo o IBGE, 33 milhões de brasileiros…”.\n• Exemplo: um caso concreto que ilustra a ideia. “Em Curitiba, a coleta seletiva reduziu o lixo em 30%.”\n• Autoridade: a opinião de um especialista ou instituição reconhecida. “A OMS recomenda…”.\n• Causa e consequência: mostra o que provoca o problema ou o que ele provoca.\n• Comparação: aproxima duas situações para mostrar uma semelhança ou diferença.\n• Senso comum: apoia-se no que “todo mundo sabe”. É o mais fraco, porque nem sempre é verdadeiro.\n\nUma questão típica pergunta qual dado ou exemplo confirma uma afirmação do texto. A resposta é o argumento que tem relação direta com a afirmação, e não apenas o mesmo assunto."
       },
       {
-        "titulo": "Objeção, concessão e propostas",
-        "texto": "Uma objeção aponta uma limitação e pode ser reconhecida antes de uma resposta. Julgue uma proposta em relação ao problema, ao público e ao critério fornecido. Separe ação, mecanismo e objetivo. Se duas medidas parecem boas, procure a que ataca a causa descrita."
+        "titulo": "Fato e opinião",
+        "texto": "Fato é algo que aconteceu ou que pode ser verificado: “A prova tem 50 questões.” “A cidade registrou 120 mm de chuva em março.”\n\nOpinião é um julgamento, uma avaliação pessoal: “A prova foi difícil demais.” “A chuva de março foi um desastre.”\n\nMarcas que denunciam opinião:\n\n• Adjetivos avaliativos: ótimo, injusto, absurdo, importante, lamentável.\n• Advérbios: felizmente, infelizmente, certamente, obviamente.\n• Verbos de opinião: acho, acredito, penso, considero, defendo.\n• Expressões de dever: é preciso, deve-se, é necessário.\n\nUm texto informativo também pode trazer opiniões, geralmente na voz de entrevistados. E uma opinião pode ser bem fundamentada em fatos. A questão pode pedir: “o trecho que expressa uma opinião do autor é…”. Procure a frase com julgamento, não a que traz um dado."
       },
       {
-        "titulo": "Planejamento, edição e oralidade",
-        "texto": "Defina finalidade, público e gênero. Organize as ideias em ordem compatível com a tarefa. Revise conteúdo, clareza, referências, coesão e convenções. Na oralidade, marcas de turno, entonação e hesitação dependem da situação. Ao converter fala ou imagem em escrita, preserve posição e relações centrais, explicitando apenas o que o suporte permite concluir."
+        "titulo": "Fontes confiáveis e informação falsa",
+        "texto": "Para avaliar uma informação, pergunte de onde ela vem e se pode ser conferida.\n\n• Fonte identificada: instituição, pesquisador, órgão público, veículo de imprensa conhecido.\n• Data: uma informação antiga pode estar desatualizada.\n• Outras fontes: a mesma informação aparece em outros lugares sérios?\n• Tom: títulos alarmistas, muitos pontos de exclamação e pedidos para “compartilhar antes que apaguem” são sinais de alerta.\n\nNotícias falsas costumam misturar um fato verdadeiro com uma conclusão inventada. Na prova, a pergunta pode ser qual atitude ajuda a verificar uma informação. A resposta certa envolve consultar fontes confiáveis e comparar, e não confiar no número de compartilhamentos ou na opinião de conhecidos."
       },
       {
-        "titulo": "Do tema à tese e à evidência",
-        "texto": "“Mobilidade” nomeia um assunto. “O bairro precisa de travessias iluminadas” afirma uma posição. “Os registros mostram concentração de ocorrências após o escurecer” dá uma razão. A força do argumento depende de o dado medir o problema e de a conclusão respeitar seu alcance. Um relato particular pode ilustrar um risco. Para estimar frequência, procure registros de vários casos e conheça o grupo observado."
+        "titulo": "Argumentos fracos e generalizações",
+        "texto": "Alguns raciocínios parecem convincentes, mas não se sustentam. Saber nomeá-los ajuda a eliminar alternativas.\n\n• Generalização apressada: concluir algo sobre todos a partir de poucos casos. “Dois alunos colaram, então a turma toda cola.”\n• Ataque à pessoa: criticar quem fala, e não o que é dito. “Ele não pode falar de economia porque nunca foi rico.”\n• Falsa causa: tomar algo que veio antes como causa. “Usei a camisa azul e o time ganhou; a camisa dá sorte.”\n• Falsa alternativa: apresentar só duas opções quando existem outras. “Ou proibimos o celular, ou ninguém aprende.”\n• Apelo à maioria: “se todo mundo faz, está certo”.\n\nA ETEC trabalha isso de forma indireta: pede a conclusão que o texto autoriza ou a crítica que uma charge faz a um raciocínio."
       },
       {
-        "titulo": "Falhas de argumento e recortes de fonte",
-        "texto": "Após um projeto-piloto, “duas turmas melhoraram” sustenta uma observação local. “O método sempre melhora todas as turmas” generaliza além dos dados. Se a melhora ocorreu depois de outra mudança, a sequência não prova causa. A credencial de uma fonte ajuda quando é pertinente à afirmação. Compare dados absolutos e taxas antes de avaliar um título. Duas notícias podem selecionar aspectos distintos do mesmo fato e produzir avaliações diferentes."
+        "titulo": "Concessão e refutação",
+        "texto": "Um argumento forte reconhece o outro lado antes de rebatê-lo. Isso se chama concessão seguida de refutação.\n\n“É verdade que a proibição do celular reduz distrações (concessão), mas ela impede o uso pedagógico da tecnologia (refutação).”\n\nMarcas de concessão: embora, ainda que, apesar de, é certo que, de fato. Marcas de refutação: mas, porém, no entanto, contudo.\n\nNa prova, o argumento que o autor admite não é a tese dele. A tese está do lado da refutação, depois do “mas”."
       },
       {
-        "titulo": "Operadores e efeito de viés",
-        "texto": "Em “Somente oito reclamaram”, o advérbio orienta o leitor a considerar oito um número pequeno. “Já são oito reclamações” pode apresentar a mesma contagem como sinal de alerta. Observe verbos, adjetivos, ordem dos fatos e quem teve espaço para falar. Separe a informação mensurável do enquadramento desse dado."
+        "titulo": "Propostas e critérios",
+        "texto": "A competência C5 do edital pede para “avaliar ações e resoluções de acordo com critérios estabelecidos”. Na prática, a questão descreve um problema e pede a melhor ação, ou dá um critério (custo baixo, benefício coletivo, menor impacto ambiental) e pede a proposta que o atende.\n\nPara escolher:\n\n• Releia o problema exato. Uma proposta boa para outro problema não serve.\n• Verifique se a ação é possível e está ao alcance de quem deve executá-la.\n• Confira se atende a todos os critérios do enunciado, não só a um.\n• Descarte propostas radicais (“proibir totalmente”, “extinguir”) quando o texto pede equilíbrio, e propostas que transferem o problema para outro lugar.\n\nEssas questões aparecem em Português, Ciências e Geografia, sempre com temas de cidadania, meio ambiente e trabalho. A resposta certa costuma ser a mais sensata e coletiva."
       },
       {
-        "titulo": "Objeção, refutação e propostas",
-        "texto": "Localize o ponto em comum antes de procurar a divergência. “Medo pode evitar riscos” e “é possível agir apesar do medo” avaliam de forma diferente a decisão de recuar. Se o comando pede contraponto, busque uma posição que altere o raciocínio. Para avaliar soluções, identifique a causa visada, o grupo afetado, os recursos e o indicador de resultado."
+        "titulo": "Revisão de texto",
+        "texto": "Algumas questões mostram um texto com um problema e pedem a versão corrigida. Os problemas mais comuns são:\n\n• Repetição excessiva de uma palavra: resolva com pronome ou sinônimo.\n• Ambiguidade: reorganize a frase para que só haja uma leitura.\n• Conectivo errado: troque pelo que expressa a relação certa.\n• Falta de concordância ou pontuação inadequada: aplique a norma-padrão (ver capítulo de gramática).\n\nAo comparar a versão original e a reescrita, verifique se o sentido se manteve. Uma reescrita “mais bonita” que muda o significado está errada."
       },
       {
-        "titulo": "Revisão em etapas e passagem da fala para a escrita",
-        "texto": "Primeiro confira fidelidade ao conteúdo e ao gênero. Depois revise referência, ordem, conectores e pontuação. Uma ata pode reduzir hesitações da fala, preservando o grau de compromisso. “Talvez a gente teste na segunda” pode virar “Sugeriu-se um teste na segunda-feira”. Transformá-la em “O teste foi aprovado” inventa uma decisão. Ao condensar quadros em uma frase, mantenha a relação central representada pela sequência."
+        "titulo": "Da fala para a escrita",
+        "texto": "A fala espontânea tem marcas que a escrita formal evita: repetições, hesitações (“é…”, “tipo”), frases interrompidas, gírias, expressões como “né” e “aí”.\n\nAo passar uma fala para um texto escrito formal:\n\n• Retire hesitações e repetições.\n• Complete as frases interrompidas.\n• Troque gírias por palavras de uso geral.\n• Ajuste concordância e pontuação.\n• Mantenha o conteúdo: não acrescente ideias que o falante não disse.\n\nO mesmo vale para transformar uma sequência de quadros em texto: descreva em ordem o que acontece, com os conectivos de tempo e causa adequados."
+      },
+      {
+        "titulo": "Como a ETEC pergunta sobre argumentação",
+        "texto": "• “O autor defende a ideia de que…”: procure a tese.\n• “Um argumento que sustenta a posição do autor é…”: escolha a razão diretamente ligada à tese.\n• “O trecho que expressa opinião é…”: procure julgamento, adjetivos e advérbios avaliativos.\n• “A proposta adequada ao problema é…”: resolva o problema exato, com os critérios dados.\n• “A reescrita que mantém o sentido é…”: compare frase por frase.\n\nEm todas, o erro clássico é escolher uma frase verdadeira, mas que não responde ao que foi perguntado."
       }
     ],
-    "armadilha": "Uma frase pode repetir o tema e ainda deixar a tese sem apoio. Uma reescrita fluente pode introduzir intenção, causa ou garantia ausentes do original.",
+    "armadilha": "A alternativa que traz uma ideia correta e simpática, mas que o autor não defende. A pergunta é sobre o que o texto sustenta, não sobre o que você acha certo. Confira se há no texto uma frase que apoie a alternativa.",
     "exemplos": [
       {
         "suporte": [
@@ -1491,74 +1548,80 @@
       }
     ],
     "resumo": [
-      "Separe tese, razão e evidência.",
-      "Confira fonte, recorte e relação causal.",
-      "Julgue propostas pelos critérios apresentados.",
-      "Na reescrita, preserve sentido, finalidade e registro."
+      "Tese = o que o autor quer que você pense; argumento = por quê.",
+      "Dados, exemplos e autoridade são argumentos fortes; senso comum é fraco.",
+      "Fato pode ser conferido; opinião é julgamento (adjetivos, advérbios, “é preciso”).",
+      "Fonte confiável: identificada, datada e confirmada por outras.",
+      "Generalização, ataque à pessoa e falsa causa são argumentos fracos.",
+      "Depois do “mas” vem a posição do autor.",
+      "Proposta certa resolve o problema exato e atende a todos os critérios.",
+      "Reescrita boa mantém o sentido."
     ]
   },
   "gramatica-e-variacao": {
-    "introducao": "Use a estrutura da frase para interpretar e revisar usos da língua em situações reais.",
+    "introducao": "A ETEC não pede regras decoradas: pede que você perceba como uma escolha gramatical muda o sentido, o tom ou a correção de uma frase. Este capítulo revisa o que mais cai, das classes de palavras à pontuação, sempre com o efeito na frase. No final, você vê variação linguística: quando uma forma é adequada e por que diferente não quer dizer errado.",
     "codigos": [
       "LP06",
       "LP07"
     ],
     "raioX": "A ETEC pede o efeito de pontuação e de formas verbais, correção conforme a norma-padrão ou reconhecimento de registro. Em tiras, canções e diálogos, a forma pode indicar interlocutor, finalidade ou identidade social.",
     "intuicao": [
-      "Comece pelo verbo e pelos seus participantes. Identifique quais termos você pode retirar e quais completam o sentido.",
-      "Quando o enunciado pede adequação, descubra quem fala, em que gênero e para qual público."
+      "Diante de uma palavra destacada, pergunte o que ela faz na frase: nomeia, qualifica, indica ação, liga ideias?",
+      "Para concordância, ache o sujeito de verdade: pergunte ao verbo “quem?” ou “o quê?”.",
+      "Para pontuação, leia a frase com e sem a vírgula. Se o sentido muda, a vírgula importa.",
+      "Para variação, pergunte quem fala, com quem e em que situação. Adequação depende do contexto."
     ],
     "teoria": [
       {
-        "titulo": "Classes, funções e concordância",
-        "texto": "Substantivos nomeiam, adjetivos qualificam e pronomes determinam ou retomam. Verbo marca ação, estado ou processo. Advérbio modifica verbo, adjetivo, outro advérbio ou enunciado. Identifique o núcleo do sujeito antes de concordar. Com haver no sentido de existir, use o singular. Artigo e adjetivo acompanham o substantivo em gênero e número. O sujeito oculto é recuperável pela desinência ou pelo contexto. Objeto direto se liga ao verbo sem preposição obrigatória e o indireto depende da preposição exigida. Adjunto adverbial expressa uma circunstância. Predicativo atribui estado ou qualidade ao sujeito ou ao objeto."
+        "titulo": "Classes de palavras: o que cada uma faz",
+        "texto": "As classes de palavras agrupam as palavras pela função que exercem. Na prova, o importante é reconhecer o papel da palavra naquela frase.\n\n• Substantivo: nomeia seres, coisas, ideias. “A escola”, “a liberdade”.\n• Adjetivo: caracteriza o substantivo. “Escola pública”, “aluno dedicado”.\n• Artigo: acompanha o substantivo, definindo (o, a) ou indefinindo (um, uma).\n• Numeral: indica quantidade ou ordem. “Três”, “terceiro”.\n• Pronome: substitui ou acompanha o substantivo. “Ele”, “meu”, “este”, “que”.\n• Verbo: indica ação, estado ou fenômeno, com tempo e pessoa. “Estudar”, “ser”, “chover”.\n• Advérbio: modifica verbo, adjetivo ou outro advérbio, indicando tempo, lugar, modo, intensidade, negação. “Ontem”, “aqui”, “muito”, “não”.\n• Preposição: liga palavras. “De”, “para”, “com”, “em”, “sem”.\n• Conjunção: liga orações. “E”, “mas”, “porque”, “embora”.\n• Interjeição: expressa emoção. “Ufa!”, “Ai!”, “Nossa!”.\n\nA mesma palavra pode mudar de classe: “O jantar estava ótimo” (substantivo) e “Vamos jantar” (verbo); “Ele fala alto” (advérbio) e “um prédio alto” (adjetivo)."
       },
       {
-        "titulo": "Regência, crase e pronomes",
-        "texto": "A regência define complementos e suas preposições. “Assistir ao filme” emprega a preposição a. Em “referência à peça”, preposição e artigo se fundem. Compare “referência ao texto”. Antes de infinitivo, em “começou a estudar”, não há artigo. Em norma-padrão, negação costuma atrair pronome átono: “não se afastou”. Compare a próclise em “não me diga”, a ênclise em “diga-me” e a mesóclise no futuro formal em “dir-me-ia”. Na substituição de objetos, “ao colega” pode virar “lhe”, e “o bilhete”, “o”. “Eu” pode ser sujeito de infinitivo em “para eu ler”, enquanto “mim” é complemento em “trouxe para mim”. “Onde” indica lugar e “aonde” pede movimento com a preposição a. O “se” pode retomar o próprio sujeito em “ela se penteou” ou formar passiva em “vendem-se livros”."
+        "titulo": "Verbo: tempos, modos e o efeito de cada escolha",
+        "texto": "O verbo carrega muita informação. A ETEC pergunta o efeito do tempo e do modo verbal escolhido.\n\nModos:\n\n• Indicativo: apresenta o fato como certo. “Ele estuda.”\n• Subjuntivo: apresenta como possibilidade, desejo ou condição. “Talvez ele estude.” “Se ele estudasse…”\n• Imperativo: ordem, pedido ou conselho. “Estude!” Muito usado em campanhas e instruções.\n\nTempos do indicativo mais cobrados:\n\n• Presente: fato atual, hábito ou verdade geral. “A água ferve a 100 °C.”\n• Pretérito perfeito: ação concluída. “Ele estudou ontem.”\n• Pretérito imperfeito: ação habitual ou em andamento no passado; muito usado em descrições e lembranças. “Quando eu era criança, brincava na rua.”\n• Futuro do presente: ação que vai acontecer. “Ele estudará.”\n• Futuro do pretérito: hipótese, ou para suavizar um pedido. “Você poderia me ajudar?” Em notícias, indica informação não confirmada: “O suspeito teria fugido.”\n\nExemplo de efeito: “O governo vai reduzir impostos” afirma; “O governo reduziria impostos” deixa a informação em dúvida. Essa diferença é cobrada em textos jornalísticos."
       },
       {
-        "titulo": "Tempos, modos, vozes e pronomes de tratamento",
-        "texto": "O indicativo apresenta o fato conforme a perspectiva do enunciador. O subjuntivo pode indicar hipótese ou desejo. O imperativo orienta, convida ou ordena. Compare o valor habitual do imperfeito com o recorte concluído do perfeito. Na voz ativa, o sujeito pratica a ação. Na passiva, recebe a ação. “Você” pede verbo na terceira pessoa na norma-padrão. “Vós” pede a segunda pessoa do plural e “Vossa Excelência”, terceira pessoa. O discurso direto reproduz a fala. No indireto, reajuste pessoa, tempo e referências como “aqui” e “hoje”. Compare “Vou voltar amanhã” e “Ela disse que voltaria no dia seguinte”. Em uma oração subordinada substantiva, a oração inteira pode exercer uma função, como objeto em “disse que viria”."
+        "titulo": "Formação de palavras",
+        "texto": "Muitas palavras são formadas a partir de outras. Conhecer os processos ajuda a entender o sentido.\n\n• Derivação prefixal: acrescenta prefixo. “Infeliz”, “refazer”, “desleal”.\n• Derivação sufixal: acrescenta sufixo. “Felicidade”, “rapidamente”, “jornalista”.\n• Derivação parassintética: prefixo e sufixo ao mesmo tempo. “Entardecer”, “anoitecer”, “esfriar”.\n• Composição: junta palavras. “Guarda-chuva”, “passatempo”, “planalto”.\n• Abreviação: “moto” (motocicleta), “foto” (fotografia).\n• Sigla: “ONU”, “ETEC”.\n• Neologismo: palavra nova, muito comum em poesia e na internet. “Deletar”, “curtir” (no sentido das redes).\n\nPrefixos e sufixos têm sentido: “des-” e “in-” indicam negação; “re-” indica repetição; “-inho” pode indicar tamanho pequeno ou carinho; “-ão” pode indicar tamanho grande ou desprezo. A questão pode perguntar o valor de um sufixo no contexto: “um livrinho” pode ser pequeno ou desvalorizado, conforme a frase."
       },
       {
-        "titulo": "Sintaxe, pontuação e sentido",
-        "texto": "Vocativo chama o interlocutor e se separa por vírgula. Aposto pode explicar um termo. Evite vírgula entre sujeito e verbo ou verbo e complemento em ordem direta. “Os alunos que estudaram passaram” restringe o grupo. Com vírgulas em “Os alunos, que estudaram, passaram”, a oração explica o grupo inteiro. Dois-pontos introduzem explicação, enumeração ou fala. Aspas também podem marcar menção ou distanciamento."
+        "titulo": "Sujeito e predicado",
+        "texto": "Sujeito é o termo sobre o qual se declara algo; predicado é o que se declara. Para achar o sujeito, pergunte ao verbo “quem?” ou “o quê?”.\n\n“Os alunos da ETEC venceram a olimpíada.” Quem venceu? “Os alunos da ETEC” (sujeito).\n\nTipos de sujeito:\n\n• Simples: um núcleo. “A professora explicou.”\n• Composto: dois ou mais núcleos. “Ana e Pedro chegaram.”\n• Oculto (desinencial): não aparece, mas o verbo indica. “Chegamos cedo” (nós).\n• Indeterminado: não se sabe ou não se quer dizer quem. “Roubaram meu celular.” “Precisa-se de vendedores.”\n• Oração sem sujeito: verbos de fenômenos da natureza (“Choveu”), “haver” no sentido de existir (“Há alunos na sala”) e “fazer” indicando tempo (“Faz dois anos”).\n\nCuidado com o sujeito depois do verbo: “Chegaram as notas da prova.” O sujeito é “as notas”, por isso o verbo está no plural."
       },
       {
-        "titulo": "Grafia, acentuação e reescrita",
-        "texto": "Identifique a sílaba tônica para aplicar a regra. Todas as proparoxítonas são acentuadas. Oxítonas terminadas em a, e, o, em e ens recebem acento, inclusive os plurais previstos. Entre as paroxítonas, confira terminações como l, r, x, n, i, us e ditongo. Diferencie “por que” interrogativo, “porque” explicativo ou causal, “por quê” em fim de pergunta e “porquê” substantivo. O verbo “fazer” indicando tempo decorrido é impessoal. Na grafia, “mal” contrasta com “bem”, e “mau”, com “bom”. Uma “sessão” é um encontro ou período, uma “seção” é uma divisão e uma “cessão” é o ato de ceder. Derivação acrescenta elementos como o sufixo de “desenvolvimento”. Composição junta bases ou radicais. Neologismo é uma criação lexical ou semântica e pode usar esses processos. Revise o sentido após mudar uma forma."
+        "titulo": "Concordância verbal e nominal",
+        "texto": "Concordância é o ajuste entre palavras: o verbo concorda com o sujeito, e o adjetivo concorda com o substantivo.\n\nConcordância verbal: casos que mais caem.\n\n• Sujeito depois do verbo: “Faltaram dois alunos.” (não “faltou”).\n• “Haver” no sentido de existir fica no singular: “Havia muitas pessoas.” Já “existir” concorda: “Existiam muitas pessoas.”\n• “Fazer” indicando tempo fica no singular: “Faz dez anos.”\n• Expressões como “a maioria de”, “grande parte de”: o verbo pode ficar no singular ou no plural. “A maioria dos alunos aprovou/aprovaram.”\n• Sujeito composto antes do verbo: plural. “Ana e Pedro viajaram.”\n• Com “se” apassivador, o verbo concorda: “Vendem-se casas.” Com “se” indeterminador, singular: “Precisa-se de casas.”\n\nConcordância nominal:\n\n• O adjetivo concorda com o substantivo: “alunas dedicadas”.\n• “Meio” como advérbio (um pouco) não varia: “Ela está meio cansada.” Como numeral (metade), varia: “meia hora”.\n• “Bastante” como advérbio não varia (“eles estudam bastante”); como adjetivo, varia (“bastantes livros”).\n• “É proibido entrada” mas “É proibida a entrada”: com artigo, o adjetivo concorda.\n\nEm tirinhas e falas, a falta de concordância pode ser proposital, para caracterizar a fala de uma personagem. Isso é variação, não erro do autor."
       },
       {
-        "titulo": "Variedades, registro e preconceito",
-        "texto": "Usos variam por região, época, grupo e situação. “Cê”, “tô” e “pra” são formas coloquiais frequentes. Na fala de uma personagem ou em letra de música, podem caracterizar voz, ritmo e proximidade. A norma-padrão orienta determinadas situações formais. Julgue adequação ao gênero sem atribuir menor competência aos falantes de uma variedade."
+        "titulo": "Regência e crase",
+        "texto": "Regência é a relação entre um verbo (ou nome) e seu complemento, com ou sem preposição.\n\nVerbos que caem com frequência:\n\n• Assistir (ver): exige “a”. “Assisti ao filme.” Assistir (ajudar) não exige: “O médico assistiu o paciente.”\n• Obedecer e desobedecer: exigem “a”. “Obedeça às regras.”\n• Preferir: “Prefiro estudar a dormir” (não “prefiro mais… do que”).\n• Chegar e ir: com “a”. “Cheguei à escola.” “Fui ao cinema.” Na fala, “cheguei na escola” é comum, mas a norma-padrão pede “a”.\n• Gostar: exige “de”. “Gosto de música.”\n• Precisar: “Preciso de ajuda.”\n\nCrase é a fusão da preposição “a” com o artigo “a” (ou com “aquele”, “aquela”). Marca-se com acento grave: à.\n\n• Use crase quando o termo pede a preposição “a” e a palavra seguinte é feminina e admite artigo: “Vou à escola” (vou a + a escola).\n• Truque: troque a palavra feminina por uma masculina. Se aparecer “ao”, há crase. “Vou à escola” → “Vou ao colégio”.\n• Não há crase antes de palavra masculina, de verbo, de pronomes como “ela”, “você”, “esta”, e entre palavras repetidas (“cara a cara”).\n• Há crase em expressões femininas como “às vezes”, “à noite”, “à medida que”, “às pressas”.\n\nO acento de crase pode mudar o sentido: “Lavou a mão” (a própria mão) e “Lavou à mão” (sem máquina, manualmente)."
       },
       {
-        "titulo": "Sujeito, transitividade e concordância",
-        "texto": "Localize o verbo e pergunte quem ou o que ele põe em relação. Em “Faltaram duas folhas”, “duas folhas” é sujeito e leva o verbo ao plural. Em “Havia duas folhas”, “haver” indica existência e permanece singular. Compare “Vendem-se bicicletas”, com passiva sintética e sujeito plural, e “Precisa-se de monitores”, com indeterminação do sujeito e verbo singular. Em “A visita será de um engenheiro ou arquiteto”, o contexto estabelece alternativa entre profissionais."
+        "titulo": "Pronomes: colocação e tratamento",
+        "texto": "Colocação pronominal é a posição dos pronomes oblíquos átonos (me, te, se, o, a, lhe, nos, vos) em relação ao verbo.\n\n• Próclise (antes do verbo): obrigatória depois de palavras que “atraem” o pronome, como “não”, “nunca”, “que”, “quem”, “já”, “sempre”. “Não me ligue.” “Quem te contou?”\n• Ênclise (depois do verbo, com hífen): no início de frase, na norma-padrão. “Disseram-me a verdade.”\n• Mesóclise (no meio do verbo): só com futuro do presente e futuro do pretérito, em linguagem muito formal. “Dir-te-ei.” “Far-se-ia.”\n\nNo português falado no Brasil, a próclise no início da frase (“Me empresta a caneta?”) é muito comum e aceita em textos informais. Na prova, a mesóclise costuma aparecer para mostrar formalidade exagerada ou para caracterizar uma personagem.\n\nPronomes de tratamento indicam respeito e formalidade: você (informal), o senhor/a senhora, Vossa Excelência (autoridades), Vossa Senhoria (cargos e documentos). Embora se dirijam à 2ª pessoa, levam o verbo na 3ª pessoa: “Vossa Excelência sabe…”."
       },
       {
-        "titulo": "Pronomes, colocação e mesóclise",
-        "texto": "Próclise vem antes do verbo em “Não lhe direi”. Ênclise vem depois em “Entregue-me a ficha”. Na mesóclise, o pronome se insere em forma de futuro do presente ou do pretérito, como “entregar-lhe-ei” e “entregar-lhe-ia”, em registro muito formal. Se houver atração, como a negação, prefira a próclise. Para classificar, primeiro localize a posição. Depois confira tempo, atratores e o registro pedido. A mesma posição pode aparecer em mais de uma alternativa gramaticalmente defensável."
+        "titulo": "Os vários papéis de “que”, “se” e “como”",
+        "texto": "Essas três palavras mudam de função conforme a frase, e a ETEC gosta de perguntar o valor delas.\n\n“Que”:\n\n• Pronome relativo (pode ser trocado por “o qual”): “O livro que li era bom.”\n• Conjunção integrante (introduz um complemento): “Espero que você venha.”\n• Conjunção de causa ou explicação: “Saia, que vai chover.”\n• Intensificador: “Que dia lindo!”\n\n“Se”:\n\n• Condição: “Se chover, não vamos.”\n• Pronome apassivador: “Vendem-se carros” (= carros são vendidos).\n• Índice de indeterminação: “Precisa-se de ajudante.”\n• Pronome reflexivo: “Ele se feriu.”\n• Conjunção integrante: “Não sei se ele vem.”\n\n“Como”: comparação (“forte como um touro”), causa (“Como estava cansado, dormiu”), conformidade (“Fiz como pediram”) ou modo em pergunta (“Como você fez?”)."
       },
       {
-        "titulo": "Regência, crase e as funções de que, se e como",
-        "texto": "A crase escrita sinaliza a fusão de dois elementos, como em “chegar à escola”, com preposição e artigo. Compare “chegar ao pátio”. Com pronome possessivo feminino singular, o artigo pode ser facultativo em contextos que o admitem. “Que” pode retomar antecedente em “o vizinho que chegou” ou introduzir complemento em “disse que viria”. “Se” pode marcar hipótese ou integrar o verbo, como em “alimentar-se”. Determine a função pela construção inteira."
+        "titulo": "Pontuação e sentido",
+        "texto": "A vírgula organiza a frase e pode mudar o sentido. Regras que mais caem:\n\n• Não se separa sujeito do verbo com vírgula: “Os alunos da ETEC, venceram” está errado.\n• Separam-se itens de uma enumeração: “Comprei arroz, feijão e óleo.”\n• Isola-se o vocativo: “Maria, venha cá.”\n• Isola-se o aposto (explicação de um termo): “São Paulo, a maior cidade do país, …”.\n• Isolam-se expressões explicativas: “isto é”, “ou seja”, “por exemplo”.\n• Separa-se o advérbio deslocado longo: “No início da manhã, os portões abriram.”\n• Separam-se orações coordenadas com “mas”, “porém”, “portanto”.\n\nExemplos de mudança de sentido:\n\n• “Maria, venha comer!” (chamado a Maria) e “Maria venha comer!” (sem vírgula, sentido estranho).\n• “Os alunos, que estudaram, passaram” (todos estudaram e passaram) e “Os alunos que estudaram passaram” (só passaram os que estudaram). A oração entre vírgulas explica; a sem vírgulas restringe.\n\nOutros sinais:\n\n• Ponto de exclamação: emoção, ordem, espanto.\n• Reticências: interrupção, hesitação, suspense, algo que fica no ar.\n• Aspas: citação, ironia, palavra estrangeira ou fora do padrão.\n• Travessão: fala de personagem ou destaque de um comentário."
       },
       {
-        "titulo": "Classes, formação e convenções gráficas",
-        "texto": "Distinga diminutivo, derivação de uma palavra por afixo e composição de bases. A forma escolhida pode acrescentar avaliação, como o diminutivo em um contexto irônico. Use “porquê” quando o termo admite artigo e equivale a motivo. Compare “Por que faltou?”, “Faltou por quê?” e “Faltou porque adoeceu”. Diferencie a posição da sílaba tônica da presença de acento. Homófonos como “sessão”, “seção” e “cessão” pedem atenção à função no contexto."
+        "titulo": "Ortografia e acentuação",
+        "texto": "A ETEC cobra pouco ortografia isolada, mas pede para identificar a frase correta ou corrigir um texto. O essencial:\n\nAcentuação:\n\n• Proparoxítonas (sílaba forte na antepenúltima): todas são acentuadas. “Lâmpada”, “matemática”, “público”.\n• Paroxítonas (penúltima): acentuadas quando terminam em l, n, r, x, ps, ã(s), ão(s), i(s), us, um, uns e ditongo. “Fácil”, “hífen”, “caráter”, “órfão”, “história”.\n• Oxítonas (última): acentuadas quando terminam em a(s), e(s), o(s), em, ens. “Sofá”, “café”, “avô”, “também”.\n• Monossílabos tônicos terminados em a, e, o: “pá”, “pé”, “só”.\n\nDúvidas frequentes:\n\n• Por que (pergunta), porque (explicação), por quê (fim de frase), porquê (substantivo: “o porquê”).\n• Mas (oposição) e mais (quantidade).\n• Mal (oposto de bem; advérbio) e mau (oposto de bom; adjetivo).\n• Há (verbo haver: tempo passado ou existir) e a (preposição: tempo futuro ou distância). “Há dois anos”, “daqui a dois dias”.\n• Onde (lugar fixo) e aonde (movimento, com verbos como ir). “Onde você mora?” “Aonde você vai?”"
       },
       {
-        "titulo": "Pontuação, coordenação e subordinação",
-        "texto": "Compare uma oração relativa que seleciona um grupo com a mesma oração entre vírgulas, que explica o grupo já identificado. Uma subordinada adverbial pode apresentar tempo, causa, condição ou concessão. Uma coordenada adversativa acrescenta uma oposição. Travessões podem isolar um aposto ou introduzir fala. Na transposição para discurso indireto, ajuste pronome, tempo e expressões de lugar conforme a situação de quem relata."
+        "titulo": "Variação linguística",
+        "texto": "A língua varia, e todas as variedades têm regras próprias. A ETEC cobra esse tema com frequência, usando tirinhas, canções e falas de personagens.\n\nTipos de variação:\n\n• Regional (geográfica): sotaques e palavras de cada região. “Mandioca”, “aipim” e “macaxeira” são a mesma raiz.\n• Social: ligada à escolaridade, à profissão, à faixa etária e ao grupo social. Gírias de jovens, jargões de profissões.\n• Histórica: a língua muda com o tempo. “Vossa mercê” virou “vosmecê”, que virou “você”.\n• Situacional (registro): a mesma pessoa fala de um jeito com amigos e de outro numa entrevista de emprego.\n\nNorma-padrão é o modelo de língua usado em documentos, livros e situações formais. Não é a única forma correta de falar; é a mais adequada em certos contextos.\n\nConceitos-chave para a prova:\n\n• Adequação: a forma certa é a que combina com a situação. Gíria numa conversa entre amigos é adequada; num requerimento oficial, não.\n• Preconceito linguístico: julgar alguém como inferior pelo modo como fala. A ETEC costuma apresentar textos que criticam esse preconceito.\n• Variedade como recurso: autores reproduzem a fala de personagens (como Adoniran Barbosa e Chico Bento) para caracterizá-los, criar humor ou valorizar uma identidade.\n\nAlternativas que dizem que uma variedade popular é “errada” ou “empobrece a língua” costumam estar erradas na ETEC."
       },
       {
-        "titulo": "Norma escrita, fala e adequação",
-        "texto": "“Me avisa quando chegar” é natural em muitas interações brasileiras. A norma escrita monitorada pode preferir “Avise-me quando chegar”, conforme o destinatário e o gênero. Uma tira pode registrar a fala, e uma personagem pode alternar registros. Quando a banca pede norma-padrão, avalie a convenção solicitada. Quando pede efeito, explique o que a escolha sinaliza sobre situação, proximidade e voz."
+        "titulo": "Como a ETEC pergunta sobre gramática",
+        "texto": "• “A palavra destacada exerce a função de…” ou “pertence à classe…”: veja o que ela faz naquela frase.\n• “O uso do tempo verbal X indica…”: pense em certeza, hipótese, hábito, ordem.\n• “A vírgula foi empregada para…”: aposto, vocativo, enumeração, expressão explicativa ou deslocamento.\n• “Está de acordo com a norma-padrão…”: confira concordância, regência e crase.\n• “A fala da personagem revela…”: variação regional, social ou de registro; adequação à situação.\n• “O pronome/conectivo pode ser substituído por…”: mesma função e sentido.\n\nGramática na ETEC é sempre gramática no texto. Antes de aplicar uma regra, leia a frase inteira e entenda o que ela diz."
       }
     ],
-    "armadilha": "O substantivo mais próximo pode fazer parte de um complemento. A concordância segue o núcleo do sujeito. Quando o comando pede efeito de uso, classificar uma forma como coloquial explica pouco sem situar a voz e o público.",
+    "armadilha": "Considerar “errada” a fala de uma personagem que usa variedade popular ou regional. Em tirinhas, canções e crônicas, essa fala é um recurso do autor para caracterizar a personagem. A ETEC valoriza a adequação à situação e condena o preconceito linguístico.",
     "exemplos": [
       {
         "suporte": [
@@ -1799,10 +1862,14 @@
       }
     ],
     "resumo": [
-      "Ache o verbo e o núcleo do sujeito.",
-      "Teste o efeito de pontuação e de conectores.",
-      "Confira regência e grafia na reescrita.",
-      "Relacione registro, gênero e interlocutor."
+      "Classe de palavra = o papel que ela exerce naquela frase.",
+      "Indicativo afirma; subjuntivo supõe; imperativo ordena; futuro do pretérito indica dúvida ou cortesia.",
+      "Sujeito: pergunte “quem?” ao verbo; sujeito depois do verbo também concorda.",
+      "“Haver” = existir fica no singular; “fazer” indicando tempo também.",
+      "Crase: troque por palavra masculina; se virar “ao”, tem crase.",
+      "Vírgula nunca separa sujeito e verbo; isola aposto, vocativo e explicações.",
+      "Oração entre vírgulas explica; sem vírgulas restringe.",
+      "Variedade não é erro; adequação depende da situação."
     ]
   }
 }

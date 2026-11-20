@@ -45,6 +45,11 @@
         "status": "publicado"
       },
       {
+        "slug": "saude-alimentacao-e-doencas",
+        "titulo": "Saúde, alimentação e doenças",
+        "status": "publicado"
+      },
+      {
         "slug": "razao-e-proporcao",
         "titulo": "Razão e proporção",
         "status": "amostra"

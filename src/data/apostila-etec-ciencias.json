@@ -339,5 +339,345 @@
       "Flutua quem tem densidade média menor que a do líquido.",
       "Alavanca: força × distância ao apoio igual dos dois lados."
     ]
+  },
+  "saude-alimentacao-e-doencas": {
+    "materia": "Matéria 2 · Ciências da Natureza · Biologia",
+    "introducao": "Saúde é o assunto de Biologia que mais cai na ETEC: aparece em 22 das 23 provas recentes. As questões partem de notícias, campanhas e situações reais (uma epidemia, um surto de dengue, um rótulo de alimento) e pedem que você reconheça a causa de uma doença, sua forma de transmissão, a prevenção correta ou o papel de um nutriente. Este capítulo organiza tudo isso em quadros fáceis de revisar.",
+    "codigos": [
+      "BI03"
+    ],
+    "raioX": "A banca cobra três coisas: o agente e a transmissão de doenças infecciosas e parasitárias (dengue, malária, teníase, verminoses, doenças respiratórias), a alimentação equilibrada (nutrientes, vitaminas, minerais, fibras) e atitudes de prevenção e promoção da saúde. As alternativas erradas costumam trocar o agente (vírus por bactéria), o vetor (mosquito por barbeiro) ou propor uma atitude claramente prejudicial disfarçada de cuidado.",
+    "intuicao": [
+      "Para cada doença, monte mentalmente a ficha: agente causador, como se pega, principais sintomas e como se previne.",
+      "Se a doença é transmitida por um inseto, a prevenção passa por combater o inseto. Se é transmitida por água ou alimento contaminado, passa por saneamento e higiene.",
+      "Em questões de alimentação, desconfie de extremos: “retirar totalmente”, “grande quantidade”, “dispensa”. A resposta saudável é quase sempre a equilibrada.",
+      "Vacina previne; antibiótico trata infecção por bactéria e não funciona contra vírus."
+    ],
+    "teoria": [
+      {
+        "titulo": "Saúde é mais que ausência de doença",
+        "texto": "A Organização Mundial da Saúde (OMS) define saúde como um estado de bem-estar físico, mental e social, e não apenas a ausência de doença. Por isso, a ETEC trata saúde junto com alimentação, atividade física, sono, saneamento, moradia e acesso a informação.\n\nFatores que promovem a saúde:\n\n• Alimentação equilibrada e hidratação adequada.\n• Atividade física regular, que melhora o transporte de oxigênio, a eficiência do coração e a disposição.\n• Sono suficiente, sem telas antes de dormir.\n• Vacinação em dia e acompanhamento médico.\n• Saneamento básico: água tratada, coleta e tratamento de esgoto, coleta de lixo.\n• Informação confiável: em uma epidemia, comunicar a população com transparência salva vidas, porque as pessoas procuram atendimento mais cedo."
+      },
+      {
+        "titulo": "Os nutrientes e suas funções",
+        "texto": "Os alimentos fornecem nutrientes com funções diferentes. Uma dieta equilibrada combina todos.\n\n• Carboidratos (energéticos): principal fonte de energia. Arroz, pão, macarrão, batata, mandioca, açúcares. Excesso de açúcar refinado (sacarose) sobrecarrega o organismo e favorece obesidade, diabetes e acúmulo de gordura no fígado (esteatose hepática).\n• Lipídios (gorduras): reserva de energia, isolamento térmico, formação de membranas e de alguns hormônios. Gorduras saturadas e trans em excesso aumentam o risco de doenças do coração.\n• Proteínas (construtoras): formam e reparam tecidos, músculos, enzimas e anticorpos. Carnes, ovos, leite, feijão, lentilha, grão-de-bico.\n• Vitaminas e sais minerais (reguladores): necessários em pequena quantidade, mas indispensáveis.\n• Fibras: presentes em grãos, verduras, legumes e frutas. A celulose das fibras não é digerida pelo ser humano e não fornece calorias, mas estimula o funcionamento do intestino.\n• Água: transporta substâncias, regula a temperatura, elimina resíduos pela urina e pelo suor.\n\nRótulos: “zero lactose” significa sem o açúcar do leite, para quem tem intolerância; não quer dizer sem calorias nem indicado para diabéticos. “Light” e “diet” também têm significados específicos; leia a tabela nutricional."
+      },
+      {
+        "titulo": "Vitaminas e minerais que mais caem",
+        "texto": "A carência de uma vitamina ou mineral provoca doenças típicas. Esta tabela resume as mais cobradas:\n\n• Vitamina A (cenoura, abóbora, fígado, leite): visão, especialmente no escuro, e pele. Carência: cegueira noturna.\n• Vitamina C (laranja, acerola, limão, goiaba): defesa do organismo e cicatrização. Carência: escorbuto, com sangramento nas gengivas. Era comum entre navegantes e pessoas isoladas sem frutas frescas.\n• Vitamina D (produzida na pele com o sol; peixes, ovos): absorção de cálcio, ossos. Carência: raquitismo em crianças, ossos frágeis.\n• Vitaminas do complexo B: metabolismo e sistema nervoso. Carência de B1: beribéri.\n• Ferro (carnes, feijão, folhas verde-escuras, peixes): formação da hemoglobina dos glóbulos vermelhos. Carência: anemia.\n• Cálcio (leite e derivados): ossos e dentes, contração muscular.\n• Iodo (sal iodado, frutos do mar): produção dos hormônios da tireoide. Carência: hipotireoidismo e bócio (papo). Por isso o Brasil adiciona iodo ao sal de cozinha.\n• Flúor (água tratada, creme dental): fortalece o esmalte dos dentes.\n\nAtenção: o excesso também faz mal. Vitaminas e suplementos não devem ser tomados sem orientação."
+      },
+      {
+        "titulo": "Agentes causadores: vírus, bactérias, protozoários, fungos e vermes",
+        "texto": "Saber quem causa a doença ajuda a escolher o tratamento e a prevenção corretos.\n\n• Vírus: não são células; só se reproduzem dentro de células vivas. Causam gripe, covid-19, sarampo, catapora, caxumba, dengue, zika, chikungunya, febre amarela, hepatites, raiva, HPV, aids. Prevenção principal: vacinas, quando existem. Antibióticos não funcionam contra vírus.\n• Bactérias: células simples, sem núcleo organizado. Causam tuberculose, cólera, tétano, leptospirose, meningite bacteriana, coqueluche, hanseníase, sífilis. Tratamento com antibióticos, sob prescrição médica.\n• Protozoários: seres de uma só célula, com núcleo. Causam malária (Plasmodium), doença de Chagas (Trypanosoma cruzi), amebíase (ameba), giardíase, toxoplasmose, leishmaniose.\n• Fungos: causam micoses (frieira, sapinho).\n• Vermes (helmintos): causam verminoses como ascaridíase (lombriga), ancilostomíase (amarelão), teníase (solitária) e esquistossomose (barriga-d’água)."
+      },
+      {
+        "titulo": "Doenças transmitidas por insetos",
+        "texto": "Quando um inseto transmite uma doença, ele é chamado de vetor. A prevenção mais eficaz é combater o vetor e evitar suas picadas.\n\n• Dengue, zika, chikungunya e febre amarela urbana: vírus transmitidos pela picada do mosquito Aedes aegypti, que se reproduz em água parada e limpa (pneus, vasos, caixas-d’água destampadas). Sintomas da dengue: febre alta, dores no corpo e atrás dos olhos, manchas vermelhas. Não passa de pessoa para pessoa nem pela água. Prevenção: eliminar água parada, usar repelente; para a febre amarela e a dengue, há vacina.\n• Malária: causada por protozoários do gênero Plasmodium, transmitidos pela picada da fêmea do mosquito Anopheles (mosquito-prego). Comum na Amazônia. O desmatamento, a abertura de garimpos e a migração de pessoas para áreas de mata aumentam o contato com o mosquito e os casos. Sintoma típico: febre em ciclos.\n• Doença de Chagas: causada pelo protozoário Trypanosoma cruzi, transmitido pelas fezes do inseto barbeiro, que vive em frestas de casas de pau a pique. Também pode ser transmitida pela ingestão de alimentos contaminados (caldo de cana, açaí). Afeta o coração.\n• Leishmaniose: protozoário transmitido pelo mosquito-palha.\n\nPegadinha clássica: trocar o vetor. Malária é mosquito, Chagas é barbeiro, dengue é Aedes."
+      },
+      {
+        "titulo": "Doenças ligadas à água, ao solo e aos alimentos",
+        "texto": "Muitas doenças se pegam pela ingestão de água ou de alimentos contaminados com fezes, ou pelo contato da pele com solo ou água contaminados. O saneamento básico é a principal forma de prevenção. Segundo a OMS, cada real investido em saneamento poupa cerca de quatro reais em tratamentos.\n\n• Ascaridíase (lombriga): ingestão de ovos em água e alimentos contaminados. Prevenção: água tratada ou fervida e filtrada, lavar bem verduras e frutas, lavar as mãos.\n• Ancilostomíase (amarelão): as larvas penetram pela pele dos pés em solo contaminado. Causa anemia. Prevenção: andar calçado e saneamento.\n• Teníase (solitária): comer carne de porco ou de boi crua ou mal cozida com cisticercos (larvas). Prevenção: cozinhar bem a carne e inspeção sanitária.\n• Cisticercose: ingerir ovos da tênia em água ou alimentos contaminados; as larvas podem se alojar no cérebro.\n• Esquistossomose (barriga-d’água): larvas que penetram pela pele em água doce com o caramujo hospedeiro. Prevenção: saneamento e evitar banho em lagoas contaminadas.\n• Amebíase e giardíase: protozoários ingeridos na forma de cistos em água e alimentos contaminados. Causam diarreia.\n• Cólera, hepatite A e diarreias: água e alimentos contaminados.\n• Leptospirose: bactéria eliminada na urina do rato; entra pela pele em água de enchente. Prevenção: evitar contato com água de enchente e controlar ratos."
+      },
+      {
+        "titulo": "Doenças respiratórias e de contato",
+        "texto": "Algumas doenças passam diretamente de uma pessoa para outra, pelo ar ou pelo contato.\n\n• Transmissão pelo ar: gotículas e aerossóis (partículas microscópicas que ficam suspensas no ar por horas) liberados ao tossir, espirrar e falar. Gripe, covid-19, sarampo, tuberculose, meningite, catapora. Ambientes lotados e pouco ventilados, como transportes públicos, favorecem a transmissão.\n• Prevenção: vacinação, ventilar os ambientes, usar máscara quando indicado, cobrir a boca ao tossir e lavar as mãos.\n• Infecções sexualmente transmissíveis (IST): aids (vírus HIV), sífilis, HPV, gonorreia. Prevenção: preservativo; para o HPV e a hepatite B, há vacina.\n\nEm épocas de ar muito seco, as vias respiratórias ressecam e ficam mais vulneráveis. Recomenda-se beber bastante água, umidificar o ambiente, manter os lugares ventilados e cuidar especialmente de crianças e idosos."
+      },
+      {
+        "titulo": "Vacinas, soros e antibióticos",
+        "texto": "Três recursos da medicina são frequentemente confundidos na prova.\n\n• Vacina: contém o agente enfraquecido, morto ou partes dele. Estimula o próprio organismo a produzir anticorpos e células de memória. É preventiva e a proteção é duradoura. Quando muitas pessoas se vacinam, a doença circula menos e até quem não pode se vacinar fica mais protegido.\n• Soro: contém anticorpos prontos, produzidos em outro animal (geralmente cavalos). É usado como tratamento de emergência, por exemplo após picada de cobra (soro antiofídico) ou contra o tétano. Ação rápida, mas temporária.\n• Antibiótico: medicamento que mata bactérias ou impede sua multiplicação. Não age contra vírus. O uso sem orientação favorece o surgimento de bactérias resistentes.\n\nComparação útil: vacina ensina o corpo a se defender; soro entrega a defesa pronta; antibiótico ataca a bactéria."
+      },
+      {
+        "titulo": "Hábitos que protegem e hábitos que prejudicam",
+        "texto": "As questões de saúde da ETEC costumam pedir a atitude correta diante de uma situação. Reconheça os padrões:\n\nAtitudes adequadas:\n\n• Vacinação em dia e procura rápida de atendimento quando surgem sintomas.\n• Informar-se em fontes confiáveis.\n• Atividade física regular, que ajuda a controlar a pressão arterial e o diabetes e fortalece ossos e músculos.\n• Hidratação, alimentação variada, sono regular.\n• Higiene das mãos e dos alimentos; cozinhar bem as carnes.\n\nAtitudes que a banca apresenta como distratores:\n\n• Recusar vacinas, beber pouca água, eliminar grupos inteiros de alimentos sem orientação.\n• Confiar só em vitaminas ou em “pensamento positivo” para tratar doenças graves.\n• Usar telas antes de dormir “para relaxar”.\n• Afirmar que exames médicos “impedem” doenças: exames ajudam a detectar cedo, mas não impedem que a doença surja."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Ficha da doença: “a doença citada é causada por… e transmitida por…”. Monte a ficha agente, transmissão, prevenção.\n• Prevenção específica: “a medida mais eficiente para prevenir…”. Ligue a forma de transmissão à medida (calçado, água fervida, cozinhar a carne, eliminar água parada).\n• Nutriente e carência: “a falta de… pode provocar…”. Iodo e tireoide, ferro e anemia, vitamina C e escorbuto.\n• Leitura de texto científico ou notícia: a resposta está no texto, e o conhecimento de Biologia serve para eliminar as alternativas absurdas.\n• Saúde e ambiente: desmatamento e malária, saneamento e verminoses, enchentes e leptospirose.\n\nOs distratores mais comuns trocam o tipo de agente (vírus por bactéria ou protozoário), o vetor (barbeiro por mosquito) ou apresentam um hábito prejudicial com uma justificativa que parece científica."
+      }
+    ],
+    "armadilha": "Trocar o agente ou o vetor. A ETEC coloca lado a lado alternativas que dizem “malária transmitida pelo barbeiro”, “dengue causada por protozoário” ou “amebíase causada por bactéria”. Antes de marcar, confira cada parte da ficha: agente, transmissão e prevenção.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Após uma semana de chuvas fortes, um bairro ficou alagado por dois dias. Dez dias depois, o posto de saúde registrou vários casos de febre, dor muscular intensa, principalmente nas panturrilhas, e olhos avermelhados entre moradores que limparam as casas sem proteção."
+        ],
+        "comando": "A doença mais provável e a forma de prevenção adequada são, respectivamente,",
+        "alternativas": [
+          "dengue; usar repelente durante a limpeza.",
+          "leptospirose; evitar o contato com a água e a lama da enchente, usando botas e luvas.",
+          "cólera; tomar antibiótico preventivo antes de limpar a casa.",
+          "malária; dormir com mosquiteiro nas semanas seguintes.",
+          "gripe; tomar vitamina C diariamente."
+        ],
+        "passos": [
+          "O texto liga os casos à enchente e ao contato com a água, sem proteção.",
+          "A leptospirose é causada por uma bactéria eliminada na urina de ratos, que contamina a água de enchentes e entra pela pele.",
+          "A prevenção é evitar o contato com essa água e usar botas e luvas."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A aponta a dengue, transmitida por mosquito, sem relação direta com o contato com a água da enchente.",
+          "C cita cólera, transmitida por ingestão, e propõe antibiótico sem orientação médica.",
+          "D cita malária, doença de áreas de mata transmitida pelo Anopheles, sem relação com a enchente urbana.",
+          "E cita gripe, transmitida pelo ar, e uma prevenção sem eficácia comprovada."
+        ]
+      },
+      {
+        "suporte": [
+          "Um estudante passou três meses em uma expedição, alimentando-se apenas de alimentos enlatados e biscoitos, sem frutas ou verduras frescas. Começou a apresentar sangramento nas gengivas e demora na cicatrização de pequenos cortes."
+        ],
+        "comando": "Os sintomas indicam carência de",
+        "alternativas": [
+          "vitamina A.",
+          "vitamina C.",
+          "vitamina D.",
+          "iodo.",
+          "proteínas."
+        ],
+        "passos": [
+          "Sangramento nas gengivas e cicatrização lenta são sinais típicos de escorbuto.",
+          "O escorbuto é causado pela falta de vitamina C, presente em frutas e verduras frescas.",
+          "A dieta descrita não tinha frutas e verduras frescas."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A, vitamina A, está ligada à visão, e sua falta causa cegueira noturna.",
+          "C, vitamina D, está ligada à absorção de cálcio e aos ossos.",
+          "D, iodo, está ligado à tireoide e ao bócio.",
+          "E: a falta de proteínas causa perda de massa muscular, não os sintomas típicos descritos."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma família do interior costuma comer linguiça caseira feita com carne de porco crua, sem inspeção sanitária."
+        ],
+        "comando": "Essa prática aumenta o risco de",
+        "alternativas": [
+          "teníase, porque a carne pode conter cisticercos, larvas da tênia.",
+          "ascaridíase, porque a carne de porco contém ovos de lombriga.",
+          "doença de Chagas, porque o porco é o vetor do Trypanosoma.",
+          "dengue, porque a carne atrai o mosquito transmissor.",
+          "escorbuto, porque a carne crua destrói a vitamina C."
+        ],
+        "passos": [
+          "A carne de porco ou de boi pode conter cisticercos, formas larvais da tênia.",
+          "Ao ingerir a carne crua ou mal cozida, a pessoa desenvolve a tênia adulta no intestino: é a teníase (solitária).",
+          "A prevenção é cozinhar bem a carne e consumir carne inspecionada."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B confunde: a ascaridíase vem de ovos em água e alimentos contaminados, não da carne.",
+          "C troca o vetor: a doença de Chagas é transmitida pelo barbeiro.",
+          "D liga a dengue à carne, sem nenhuma relação.",
+          "E relaciona a carne crua a uma carência de vitamina C sem fundamento."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma campanha municipal afirma: “Vacinar não é só proteger você. Quando quase todos se vacinam, protegemos também os bebês e as pessoas que não podem receber a vacina.”"
+        ],
+        "comando": "A afirmação da campanha se justifica porque",
+        "alternativas": [
+          "a vacina contém anticorpos prontos que passam de uma pessoa para outra.",
+          "com muitas pessoas imunes, o agente causador circula menos e encontra menos pessoas para infectar.",
+          "a vacina elimina os vírus do ambiente, como um desinfetante.",
+          "pessoas vacinadas produzem antibióticos que protegem quem está por perto.",
+          "a vacina funciona como soro e cura quem já está doente."
+        ],
+        "passos": [
+          "A vacina estimula o organismo vacinado a produzir defesas próprias.",
+          "Quando grande parte da população está imune, o agente tem dificuldade de passar de pessoa para pessoa.",
+          "Assim, ele circula menos, e quem não pôde se vacinar fica indiretamente protegido."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A descreve o soro, não a vacina, e anticorpos não passam entre pessoas desse modo.",
+          "C atribui à vacina uma ação de desinfetante ambiental, que ela não tem.",
+          "D confunde anticorpos com antibióticos, que são medicamentos.",
+          "E confunde vacina, que previne, com soro e tratamento."
+        ]
+      },
+      {
+        "suporte": [
+          "O rótulo de um biscoito informa: “zero lactose”. Um cliente concluiu que o produto não tem calorias e pode ser consumido à vontade por quem tem diabetes."
+        ],
+        "comando": "A conclusão do cliente está",
+        "alternativas": [
+          "correta, pois a lactose é a única fonte de calorias dos alimentos.",
+          "correta, pois produtos sem lactose não contêm açúcares.",
+          "incorreta, pois “zero lactose” indica apenas ausência do açúcar do leite e o biscoito pode ter outros açúcares, gorduras e calorias.",
+          "incorreta, pois “zero lactose” significa que o produto tem o dobro de lactose.",
+          "incorreta, pois a lactose é uma proteína e não interfere nas calorias."
+        ],
+        "passos": [
+          "Lactose é o açúcar do leite, problemático para quem tem intolerância.",
+          "“Zero lactose” informa só a ausência desse açúcar; o produto pode ter farinha, sacarose e gordura, que fornecem calorias.",
+          "Para diabéticos, é preciso olhar a quantidade total de carboidratos na tabela nutricional."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A ignora que carboidratos, gorduras e proteínas fornecem calorias.",
+          "B generaliza: sem lactose não significa sem açúcares.",
+          "D inverte o sentido da expressão do rótulo.",
+          "E classifica a lactose como proteína, quando ela é um carboidrato."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q050",
+        "correta": "B",
+        "justificativa": "O texto diz que o exercício melhora a oxigenação e a eficiência cardíaca. Com mais oxigênio chegando aos músculos e ao cérebro, a pessoa ganha vitalidade e energia para as atividades diárias.",
+        "distratores": [
+          "A: exercícios não alteram a estrutura genética.",
+          "C inverte o efeito: a atividade física tende a reduzir o estresse.",
+          "D é perigosa: exercício aumenta a necessidade de hidratação.",
+          "E é falsa: o exercício acelera o metabolismo e o descanso continua necessário."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q044",
+        "correta": "A",
+        "justificativa": "Lotação e pouca renovação do ar acumulam aerossóis, partículas microscópicas eliminadas ao falar, tossir e espirrar, que ficam suspensas e carregam vírus e bactérias.",
+        "distratores": [
+          "B: corrimãos podem acumular microrganismos, não anticorpos.",
+          "C: glândulas sudoríparas produzem suor, não enzimas que multiplicam bactérias.",
+          "D: a luz solar direta tende a inativar microrganismos, e vírus não se reproduzem em superfícies.",
+          "E inventa uma relação entre temperatura e sudorese sem ligação com a transmissão."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q014",
+        "correta": "E",
+        "justificativa": "O texto relaciona o excesso de sacarose ao acúmulo de gordura no fígado (esteatose hepática). A meta saudável é ingerir pouca sacarose.",
+        "distratores": [
+          "A recomenda grande quantidade justamente pelo motivo que a desaconselha: sobrecarregar o fígado.",
+          "B afirma que a sacarose vira insulina; a insulina é um hormônio produzido pelo pâncreas.",
+          "C contradiz o texto ao dizer que o excesso é benéfico ao fígado.",
+          "D acerta a quantidade, mas a justificativa não explica o risco apontado no texto."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q045",
+        "correta": "B",
+        "justificativa": "Carne de porco ou de boi com cisticercos, consumida sem cozimento adequado, causa teníase, cujo parasita adulto é a tênia, conhecida como solitária.",
+        "distratores": [
+          "A: a ascaridíase vem da ingestão de ovos de lombriga em água e alimentos contaminados.",
+          "C: a doença de Chagas tem o barbeiro como vetor, não a carne.",
+          "D: a amebíase vem da ingestão de cistos de ameba em água e alimentos.",
+          "E: toxoplasmose é causada por protozoário, e salmonela é uma bactéria; o par não corresponde aos cisticercos."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q037",
+        "correta": "E",
+        "justificativa": "A malária é causada por protozoários do gênero Plasmodium, transmitidos pela picada da fêmea do mosquito Anopheles.",
+        "distratores": [
+          "A: a malária não passa por contato direto entre pessoas.",
+          "B troca o vetor: o barbeiro transmite a doença de Chagas.",
+          "C: Escherichia é uma bactéria intestinal, sem relação com a malária.",
+          "D: Trypanosoma causa a doença de Chagas."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q028",
+        "correta": "E",
+        "justificativa": "Com o ar seco, crianças e idosos são os mais afetados. Beber bastante água e sucos naturais ajuda a manter o organismo e as mucosas hidratados.",
+        "distratores": [
+          "A diz que umidificador e bacia de água deixam o ar mais seco, o oposto do que fazem.",
+          "B recomenda beber pouca água em tempo seco, o que agrava a desidratação.",
+          "C defende ambientes fechados e chama ácaros de “amigos da saúde”, ambos errados.",
+          "D trata fungos e mofo como benéficos, quando eles agravam alergias respiratórias."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q049",
+        "correta": "C",
+        "justificativa": "O texto destaca a vacina, a informação transparente e o tratamento rápido, porque a meningite evolui depressa. A alternativa C reúne exatamente essas três medidas.",
+        "distratores": [
+          "A aposta em vitamina C e em evitar informação, o contrário do que o texto defende.",
+          "B recusa vacinas e mantém a rotina, ignorando as medidas do texto.",
+          "D dispensa ajuda médica, que o texto mostra ser urgente.",
+          "E propõe dieta, pouca água e autocura, sem base para tratar meningite."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q043",
+        "correta": "C",
+        "justificativa": "O iodo é necessário para a produção dos hormônios da tireoide. Sua falta reduz esses hormônios (hipotireoidismo) e diminui o ritmo das funções do corpo.",
+        "distratores": [
+          "A: a insulina é produzida pelo pâncreas, não pela tireoide.",
+          "B: falta de iodo não é falta de vitamina, e vitaminas não são produzidas por glândulas desse modo.",
+          "D inventa uma alteração genética e excesso de vitaminas.",
+          "E inverte: a falta de iodo leva ao hipotireoidismo, e o papo é aumento da tireoide, não da hipófise."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q001",
+        "correta": "B",
+        "justificativa": "A atividade física regular ajuda a controlar a pressão arterial, reduz o risco de diabetes, melhora a flexibilidade e protege a massa óssea, em linha com o ideal de saúde do texto.",
+        "distratores": [
+          "A diz que refeições balanceadas baixam a imunidade, o contrário do correto.",
+          "C exagera: exames ajudam a detectar doenças cedo, mas não impedem que elas apareçam.",
+          "D recomenda pouca água, o que favorece cálculos renais em vez de evitá-los.",
+          "E: a luz das telas antes de dormir atrapalha o sono."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q023",
+        "correta": "B",
+        "justificativa": "Com o desmatamento, mais pessoas passam a viver e trabalhar em áreas de mata (fazendas, assentamentos, garimpos), onde o mosquito transmissor se adapta, o que aumenta a transmissão do parasita da malária.",
+        "distratores": [
+          "A diz que a malária é causada por bactérias e mistura efeito estufa e camada de ozônio sem relação.",
+          "C troca a malária pela esquistossomose, cujo hospedeiro é o caramujo.",
+          "D troca o vetor: barbeiros transmitem a doença de Chagas.",
+          "E fala de frio, seca e ausência de mosquitos, condições que reduziriam a malária, não aumentariam."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q027",
+        "correta": "E",
+        "justificativa": "A dengue é causada por um vírus transmitido pela picada do mosquito Aedes aegypti. Os principais sintomas são febre, dores no corpo e manchas vermelhas.",
+        "distratores": [
+          "A: a dengue não passa de pessoa para pessoa nem pela água.",
+          "B: o causador é um vírus, não um protozoário.",
+          "C descreve a prevenção de doenças de veiculação hídrica; para a dengue, o essencial é eliminar a água parada onde o mosquito se reproduz.",
+          "D descreve o barbeiro, vetor da doença de Chagas."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q025",
+        "correta": "B",
+        "justificativa": "A celulose das fibras não é digerida pelo organismo humano e não fornece calorias, mas aumenta o volume das fezes e estimula o trânsito intestinal.",
+        "distratores": [
+          "A recomenda industrializados e gordurosos para combater a obesidade, o oposto do correto.",
+          "C mistura frutas e verduras com alto consumo de gordura saturada e sal, que não é adequado.",
+          "D confunde “zero lactose” com zero calorias e indicação para diabéticos.",
+          "E elimina carboidratos, que são a principal fonte de energia."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q018",
+        "correta": "B",
+        "justificativa": "A ascaridíase se pega ingerindo ovos de lombriga em água contaminada, por isso ferver e filtrar a água (II). A ancilostomíase se pega por larvas que penetram na pele dos pés, por isso andar calçado (I).",
+        "distratores": [
+          "A: inseticida (IV) não previne verminoses transmitidas por água e solo.",
+          "C: não há vacina contra essas verminoses, e lavar alimentos (V) não protege os pés.",
+          "D inverte a associação: andar calçado é a medida para a ancilostomíase, e não há vacina para ela.",
+          "E: lavar alimentos ajuda contra a ascaridíase, mas inseticida não previne o amarelão."
+        ]
+      }
+    ],
+    "resumo": [
+      "Ficha de cada doença: agente, transmissão, sintomas, prevenção.",
+      "Vírus: dengue, febre amarela, gripe, covid, sarampo, aids. Bactéria: tuberculose, cólera, tétano, leptospirose.",
+      "Protozoário: malária (Plasmodium, mosquito Anopheles), Chagas (Trypanosoma, barbeiro), amebíase.",
+      "Verminoses: lombriga (água e alimentos), amarelão (pés descalços), solitária (carne crua).",
+      "Saneamento básico previne a maioria das doenças de água e solo.",
+      "Vacina previne; soro trata com anticorpos prontos; antibiótico só contra bactérias.",
+      "Iodo → tireoide; ferro → anemia; vitamina C → escorbuto; vitamina A → visão.",
+      "Fibras não dão calorias, mas regulam o intestino.",
+      "Na prova, a atitude saudável é a equilibrada; desconfie de extremos."
+    ]
   }
 }

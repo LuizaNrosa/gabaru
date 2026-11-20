@@ -607,6 +607,21 @@
       "rotulo": "exemplo-5",
       "conta": "30 - 18",
       "esperado": 12
+    },
+    {
+      "rotulo": "fixacao-1",
+      "conta": "25+273",
+      "esperado": 298
+    },
+    {
+      "rotulo": "fixacao-2",
+      "conta": "1.8*40+32",
+      "esperado": 104
+    },
+    {
+      "rotulo": "fixacao-11",
+      "conta": "10*0.000012*100*100",
+      "esperado": 1.2
     }
   ],
   "biodiversidade-e-conservacao": [],
@@ -626,6 +641,21 @@
       "rotulo": "exemplo-2",
       "conta": "12+32",
       "esperado": 44
+    },
+    {
+      "rotulo": "fixacao-3",
+      "conta": "4+32",
+      "esperado": 36
+    },
+    {
+      "rotulo": "fixacao-4",
+      "conta": "44*36/12",
+      "esperado": 132
+    },
+    {
+      "rotulo": "fixacao-6",
+      "conta": "270/100",
+      "esperado": 2.7
     }
   ],
   "ondas-som-luz-e-astronomia": [
@@ -658,6 +688,26 @@
       "rotulo": "exemplo-2",
       "conta": "1500*2/2",
       "esperado": 1500
+    },
+    {
+      "rotulo": "fixacao-1",
+      "conta": "2*170",
+      "esperado": 340
+    },
+    {
+      "rotulo": "fixacao-3",
+      "conta": "340*2/2",
+      "esperado": 340
+    },
+    {
+      "rotulo": "fixacao-6",
+      "conta": "2*1.5",
+      "esperado": 3
+    },
+    {
+      "rotulo": "fixacao-11",
+      "conta": "300000000/100000000",
+      "esperado": 3
     }
   ],
   "celulas-e-corpo-humano": [],

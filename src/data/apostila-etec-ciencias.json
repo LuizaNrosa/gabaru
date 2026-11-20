@@ -4093,6 +4093,291 @@
       "$\\dfrac{t_C}{5} = \\dfrac{t_F - 32}{9}$; $T_K = t_C + 273$; $\\Delta T_K = \\Delta t_C$.",
       "Aquecer dilata e diminui a densidade; folgas em cabos e trilhos.",
       "Durante a mudança de estado, a temperatura fica constante."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Um termômetro marca 25 °C."
+        ],
+        "comando": "Em kelvin, a temperatura é",
+        "alternativas": [
+          "25 K.",
+          "248 K.",
+          "298 K.",
+          "77 K.",
+          "273 K."
+        ],
+        "passos": [
+          "$T_K = T_C + 273 = 25 + 273 = 298$ K."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A não converte.",
+          "B subtrai 273.",
+          "D é o valor em °F.",
+          "E é a temperatura de 0 °C."
+        ]
+      },
+      {
+        "suporte": [
+          "A temperatura de 40 °C convertida para Fahrenheit é"
+        ],
+        "comando": "quanto?",
+        "alternativas": [
+          "72 °F.",
+          "104 °F.",
+          "40 °F.",
+          "313 °F.",
+          "68 °F."
+        ],
+        "passos": [
+          "$F = 1{,}8 \\cdot C + 32 = 72 + 32 = 104$ °F."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A esquece de somar 32.",
+          "C não converte.",
+          "D soma 273.",
+          "E corresponde a 20 °C."
+        ]
+      },
+      {
+        "suporte": [
+          "Ao segurar uma colher de metal mergulhada em sopa quente, a mão esquenta."
+        ],
+        "comando": "O calor chega à mão principalmente por",
+        "alternativas": [
+          "condução.",
+          "convecção.",
+          "irradiação.",
+          "evaporação.",
+          "sublimação."
+        ],
+        "passos": [
+          "O calor passa de partícula a partícula pelo metal: condução."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B ocorre em fluidos.",
+          "C ocorre por ondas, sem meio.",
+          "D é mudança de estado.",
+          "E é mudança de estado."
+        ]
+      },
+      {
+        "suporte": [
+          "O ar-condicionado costuma ser instalado no alto das paredes."
+        ],
+        "comando": "Isso aproveita a",
+        "alternativas": [
+          "condução no ar.",
+          "irradiação solar.",
+          "dilatação dos sólidos.",
+          "convecção: o ar frio, mais denso, desce.",
+          "condensação do vapor."
+        ],
+        "passos": [
+          "Ar frio é mais denso e desce; o quente sobe.",
+          "Formam-se correntes de convecção."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: o ar é mau condutor.",
+          "B não é o caso.",
+          "C não explica.",
+          "E não é o objetivo."
+        ]
+      },
+      {
+        "suporte": [
+          "O calor do Sol chega à Terra atravessando o espaço vazio."
+        ],
+        "comando": "Esse processo é a",
+        "alternativas": [
+          "condução.",
+          "convecção.",
+          "irradiação.",
+          "dilatação.",
+          "fusão."
+        ],
+        "passos": [
+          "No vácuo não há partículas para conduzir ou formar correntes.",
+          "Só a irradiação (ondas) chega."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A precisa de matéria.",
+          "B precisa de fluido.",
+          "D é aumento de tamanho.",
+          "E é mudança de estado."
+        ]
+      },
+      {
+        "suporte": [
+          "Nos trilhos de trem, deixam-se pequenos espaços entre as barras."
+        ],
+        "comando": "O motivo é",
+        "alternativas": [
+          "economizar ferro.",
+          "permitir a dilatação térmica no calor.",
+          "facilitar a drenagem.",
+          "diminuir o barulho.",
+          "reduzir o peso."
+        ],
+        "passos": [
+          "O metal aumenta de tamanho quando esquenta.",
+          "Sem folga, os trilhos entortariam."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A não é o objetivo.",
+          "C não depende da folga.",
+          "D: a folga até produz ruído.",
+          "E não muda o peso."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma garrafa térmica tem paredes duplas espelhadas com vácuo entre elas."
+        ],
+        "comando": "O vácuo serve para",
+        "alternativas": [
+          "aumentar a irradiação.",
+          "favorecer a convecção.",
+          "aquecer a bebida.",
+          "refletir a luz visível.",
+          "reduzir a condução e a convecção."
+        ],
+        "passos": [
+          "Sem matéria, não há condução nem convecção entre as paredes.",
+          "O espelhamento reduz a irradiação."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A: o espelhamento reduz a irradiação.",
+          "B: no vácuo não há convecção.",
+          "C: a garrafa só conserva.",
+          "D: o espelho age sobre a irradiação térmica."
+        ]
+      },
+      {
+        "suporte": [
+          "Calor e temperatura são conceitos diferentes."
+        ],
+        "comando": "É correto afirmar que",
+        "alternativas": [
+          "temperatura é energia em trânsito.",
+          "calor é energia transferida do corpo mais quente para o mais frio.",
+          "um corpo \"tem\" calor guardado.",
+          "calor e temperatura são a mesma coisa.",
+          "o calor vai do frio para o quente."
+        ],
+        "passos": [
+          "Temperatura mede a agitação das partículas.",
+          "Calor é a energia que passa por diferença de temperatura."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A troca os conceitos.",
+          "C: o corpo tem energia interna, não \"calor\".",
+          "D: são diferentes.",
+          "E inverte o sentido espontâneo."
+        ]
+      },
+      {
+        "suporte": [
+          "Num dia frio, o piso de cerâmica parece mais gelado que o tapete, embora os dois estejam à mesma temperatura."
+        ],
+        "comando": "Isso acontece porque",
+        "alternativas": [
+          "a cerâmica está mais fria.",
+          "o tapete produz calor.",
+          "a cerâmica é melhor condutora e retira calor do pé mais depressa.",
+          "o tapete é melhor condutor.",
+          "a cerâmica irradia frio."
+        ],
+        "passos": [
+          "Mesma temperatura; diferença na condução."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: estão à mesma temperatura.",
+          "B: o tapete não produz calor.",
+          "D: o tapete é isolante.",
+          "E: \"frio\" não é energia irradiada."
+        ]
+      },
+      {
+        "suporte": [
+          "Para soltar a tampa metálica de um pote de vidro, coloca-se a tampa sob água quente."
+        ],
+        "comando": "A tampa solta porque",
+        "alternativas": [
+          "o metal contrai.",
+          "o vidro dilata mais que o metal.",
+          "a água lubrifica a rosca.",
+          "o metal dilata mais que o vidro.",
+          "o vidro derrete."
+        ],
+        "passos": [
+          "O metal tem coeficiente de dilatação maior que o vidro."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: o metal dilata no calor.",
+          "B inverte.",
+          "C não é o principal efeito.",
+          "E: o vidro não derrete a essa temperatura."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma barra de ferro de 10 m é aquecida em 100 °C. O coeficiente de dilatação linear do ferro é $12 \\cdot 10^{-6}$ por °C."
+        ],
+        "comando": "A dilatação é",
+        "alternativas": [
+          "1,2 cm.",
+          "12 cm.",
+          "0,12 cm.",
+          "1,2 m.",
+          "0,012 cm."
+        ],
+        "passos": [
+          "$\\Delta L = L_0 \\cdot \\alpha \\cdot \\Delta T = 10 \\cdot 12 \\cdot 10^{-6} \\cdot 100 = 0{,}012$ m.",
+          "0,012 m = 1,2 cm."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B erra uma casa.",
+          "C erra uma casa para menos.",
+          "D erra duas casas para mais.",
+          "E erra duas casas para menos."
+        ]
+      },
+      {
+        "suporte": [
+          "As brisas marítimas sopram do mar para a terra durante o dia."
+        ],
+        "comando": "Isso acontece porque, de dia,",
+        "alternativas": [
+          "o mar esquenta mais rápido que a terra.",
+          "a terra esquenta mais rápido, o ar sobre ela sobe, e o ar do mar ocupa o lugar.",
+          "o vento vem do espaço.",
+          "a Lua puxa o ar.",
+          "a água evapora e empurra o ar."
+        ],
+        "passos": [
+          "A terra aquece mais rápido que a água.",
+          "O ar quente sobe sobre a terra e o ar mais frio do mar vem ocupar o lugar: convecção."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A inverte.",
+          "C não tem sentido físico.",
+          "D: a Lua age nas marés, não nas brisas.",
+          "E não explica o sentido."
+        ]
+      }
     ]
   },
   "biodiversidade-e-conservacao": {
@@ -4427,6 +4712,288 @@
       "Abelhas: agrotóxicos, desmatamento e clima reduzem polinizadores.",
       "Sustentável: SAFs, controle biológico, feromônios, reutilizáveis, árvores nativas.",
       "Alternativa só vale se todas as ações citadas forem positivas."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "O mico-leão-dourado quase desapareceu porque a Mata Atlântica foi muito desmatada."
+        ],
+        "comando": "A principal ameaça à espécie foi",
+        "alternativas": [
+          "a destruição do habitat.",
+          "o excesso de alimento.",
+          "o clima frio.",
+          "a poluição sonora.",
+          "a falta de predadores."
+        ],
+        "passos": [
+          "Sem a floresta, o mico perde abrigo e comida."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B não ameaça a espécie.",
+          "C não é o caso na mata tropical.",
+          "D não foi a causa principal.",
+          "E não leva à extinção."
+        ]
+      },
+      {
+        "suporte": [
+          "A Mata Atlântica é um bioma muito rico em espécies e muito ameaçado, com grande parte da área original já devastada."
+        ],
+        "comando": "Por essas duas características, ela é considerada",
+        "alternativas": [
+          "um deserto.",
+          "uma área sem importância ecológica.",
+          "um hotspot de biodiversidade.",
+          "um bioma artificial.",
+          "uma área de expansão agrícola."
+        ],
+        "passos": [
+          "Hotspot: alta biodiversidade + forte ameaça."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: é floresta úmida.",
+          "B: é prioritária para conservação.",
+          "D: é natural.",
+          "E contradiz a conservação."
+        ]
+      },
+      {
+        "suporte": [
+          "O caramujo-africano, trazido para criação, se espalhou e passou a competir com espécies nativas."
+        ],
+        "comando": "Esse é um exemplo de",
+        "alternativas": [
+          "espécie endêmica protegida.",
+          "polinização.",
+          "mutualismo.",
+          "reflorestamento.",
+          "espécie exótica invasora."
+        ],
+        "passos": [
+          "Espécie de fora que se espalha e prejudica as nativas."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A: não é nativa nem protegida.",
+          "B não tem relação.",
+          "C: há prejuízo às nativas.",
+          "D não tem relação."
+        ]
+      },
+      {
+        "suporte": [
+          "Um corredor ecológico liga dois fragmentos de floresta separados por uma estrada."
+        ],
+        "comando": "Sua função é",
+        "alternativas": [
+          "permitir o trânsito de animais e a troca genética entre populações.",
+          "aumentar a velocidade dos carros.",
+          "impedir a chuva.",
+          "criar áreas de pastagem.",
+          "isolar as espécies."
+        ],
+        "passos": [
+          "Fragmentos isolados empobrecem geneticamente.",
+          "O corredor reconecta as populações."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B não é objetivo ecológico.",
+          "C não tem sentido.",
+          "D destrói habitat.",
+          "E é o oposto."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma unidade de conservação permite a presença de comunidades tradicionais que usam os recursos de forma sustentável."
+        ],
+        "comando": "É uma unidade de",
+        "alternativas": [
+          "proteção integral, sem qualquer uso.",
+          "uso sustentável, como uma reserva extrativista.",
+          "mineração industrial.",
+          "expansão urbana.",
+          "exclusão da fauna."
+        ],
+        "passos": [
+          "Uso sustentável combina conservação e aproveitamento controlado."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A não admite moradores nem uso direto.",
+          "C contraria a conservação.",
+          "D contraria a conservação.",
+          "E não é objetivo."
+        ]
+      },
+      {
+        "suporte": [
+          "O plástico descartado no mar se fragmenta em microplásticos."
+        ],
+        "comando": "Um impacto disso é",
+        "alternativas": [
+          "o aumento da biodiversidade marinha.",
+          "o desaparecimento imediato do plástico.",
+          "a ingestão por animais marinhos e a entrada na cadeia alimentar.",
+          "a produção de oxigênio.",
+          "o resfriamento dos oceanos."
+        ],
+        "passos": [
+          "Animais confundem partículas com alimento.",
+          "O plástico passa de presa para predador."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: o efeito é negativo.",
+          "B: fragmentar não é desaparecer.",
+          "D não é efeito do plástico.",
+          "E não ocorre."
+        ]
+      },
+      {
+        "suporte": [
+          "Um município troca o lixão por aterro sanitário e coleta seletiva."
+        ],
+        "comando": "Uma vantagem ambiental é",
+        "alternativas": [
+          "aumentar o chorume no solo.",
+          "atrair mais urubus e ratos.",
+          "queimar o lixo a céu aberto.",
+          "reduzir a contaminação do lençol freático e reaproveitar materiais.",
+          "aumentar a quantidade de lixo."
+        ],
+        "passos": [
+          "O aterro impermeabiliza e trata o chorume.",
+          "A coleta seletiva permite reciclagem."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: o aterro reduz o chorume no solo.",
+          "B é problema do lixão.",
+          "C é prática prejudicial.",
+          "E: a coleta seletiva ajuda a reduzir."
+        ]
+      },
+      {
+        "suporte": [
+          "Os \"3 Rs\" orientam o consumo consciente."
+        ],
+        "comando": "A ordem de prioridade é",
+        "alternativas": [
+          "reciclar, reutilizar, reduzir.",
+          "reutilizar, reciclar, reduzir.",
+          "reciclar, reduzir, reutilizar.",
+          "reduzir, reciclar, reutilizar.",
+          "reduzir, reutilizar, reciclar."
+        ],
+        "passos": [
+          "Primeiro evitar o resíduo, depois reaproveitar e, por fim, reciclar."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A inverte a prioridade.",
+          "B põe reduzir por último.",
+          "C põe reciclar primeiro.",
+          "D põe reciclar antes de reutilizar."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma espécie que só existe em determinada região, como muitas aves da Caatinga, é chamada"
+        ],
+        "comando": "de",
+        "alternativas": [
+          "exótica.",
+          "invasora.",
+          "endêmica.",
+          "domesticada.",
+          "cosmopolita."
+        ],
+        "passos": [
+          "Endêmica = exclusiva de uma área."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A vem de fora.",
+          "B se espalha prejudicando nativas.",
+          "D foi criada pelo ser humano.",
+          "E vive em muitas regiões."
+        ]
+      },
+      {
+        "suporte": [
+          "Desmatamento e queimadas na Amazônia liberam gás carbônico."
+        ],
+        "comando": "Além da perda de espécies, isso contribui para",
+        "alternativas": [
+          "o aquecimento global.",
+          "o aumento da camada de ozônio.",
+          "o esfriamento do planeta.",
+          "a formação de geleiras.",
+          "o aumento das chuvas no Nordeste."
+        ],
+        "passos": [
+          "CO₂ é gás de efeito estufa."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: o CO₂ não reconstrói o ozônio.",
+          "C é o oposto.",
+          "D é o oposto.",
+          "E: a floresta perdida reduz a umidade levada a outras regiões."
+        ]
+      },
+      {
+        "suporte": [
+          "Na pesca, o defeso proíbe capturar certas espécies em parte do ano."
+        ],
+        "comando": "O objetivo é",
+        "alternativas": [
+          "aumentar o preço do peixe.",
+          "proteger o período de reprodução.",
+          "prejudicar os pescadores.",
+          "trocar as espécies do rio.",
+          "favorecer espécies invasoras."
+        ],
+        "passos": [
+          "Sem pesca na reprodução, a população se renova."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A não é objetivo.",
+          "C: a medida garante a pesca no futuro.",
+          "D não ocorre.",
+          "E não é objetivo."
+        ]
+      },
+      {
+        "suporte": [
+          "Abelhas estão diminuindo em várias regiões por causa de agrotóxicos."
+        ],
+        "comando": "Uma consequência para a agricultura é",
+        "alternativas": [
+          "o aumento da polinização.",
+          "a melhora do solo.",
+          "mais mel no mercado.",
+          "a queda na produção de frutos que dependem de polinização.",
+          "o fim das pragas."
+        ],
+        "passos": [
+          "Abelhas polinizam muitas culturas.",
+          "Menos abelhas, menos frutos."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é o oposto.",
+          "B não decorre disso.",
+          "C é o oposto.",
+          "E: o agrotóxico não acaba com todas as pragas."
+        ]
+      }
     ]
   },
   "misturas-separacao-e-estados-fisicos": {
@@ -4774,6 +5341,287 @@
       "Sublimação: sólido → gás (gelo-seco).",
       "Evaporar absorve calor e resfria.",
       "Separar e mudar de estado são processos físicos."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Água, areia e sal estão misturados num copo."
+        ],
+        "comando": "Quantas fases há no sistema (considerando todo o sal dissolvido)?",
+        "alternativas": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "passos": [
+          "Sal dissolvido + água: uma fase.",
+          "Areia: outra fase."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A ignora a areia.",
+          "C conta o sal como fase separada.",
+          "D conta o copo.",
+          "E não corresponde."
+        ]
+      },
+      {
+        "suporte": [
+          "Para separar o feijão das pedrinhas, a avó escolhe os grãos com a mão."
+        ],
+        "comando": "O método é",
+        "alternativas": [
+          "filtração.",
+          "destilação.",
+          "catação.",
+          "decantação.",
+          "centrifugação."
+        ],
+        "passos": [
+          "Separar sólidos com a mão é catação."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A separa sólido de líquido.",
+          "B separa líquidos por ebulição.",
+          "D usa repouso e densidade.",
+          "E acelera a decantação."
+        ]
+      },
+      {
+        "suporte": [
+          "Limalha de ferro está misturada com areia."
+        ],
+        "comando": "O método mais simples para separá-las é",
+        "alternativas": [
+          "separação magnética, com um ímã.",
+          "evaporação.",
+          "destilação.",
+          "filtração.",
+          "peneiração fina."
+        ],
+        "passos": [
+          "O ferro é atraído pelo ímã; a areia não."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B não separa sólidos.",
+          "C não se aplica.",
+          "D: os dois são sólidos.",
+          "E: os grãos podem ter tamanho parecido."
+        ]
+      },
+      {
+        "suporte": [
+          "No laboratório, o sangue é girado em alta velocidade para separar as células do plasma."
+        ],
+        "comando": "O processo é",
+        "alternativas": [
+          "filtração.",
+          "destilação fracionada.",
+          "sublimação.",
+          "evaporação.",
+          "centrifugação."
+        ],
+        "passos": [
+          "Girar acelera a separação por densidade: centrifugação."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A usa filtro.",
+          "B separa líquidos por ebulição.",
+          "C é mudança de estado.",
+          "D removeria a água."
+        ]
+      },
+      {
+        "suporte": [
+          "Num dia frio, a parte externa de um copo com água gelada fica molhada."
+        ],
+        "comando": "O fenômeno é",
+        "alternativas": [
+          "fusão do vidro.",
+          "evaporação da água do copo.",
+          "sublimação.",
+          "condensação do vapor de água do ar.",
+          "solidificação."
+        ],
+        "passos": [
+          "O vapor do ar encosta no vidro frio e vira líquido."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: o vidro não derrete.",
+          "B: a água não atravessa o vidro.",
+          "C: não há passagem sólido–gás.",
+          "E: não forma gelo."
+        ]
+      },
+      {
+        "suporte": [
+          "As bolinhas de naftalina diminuem no armário até desaparecer, sem deixar líquido."
+        ],
+        "comando": "A naftalina sofre",
+        "alternativas": [
+          "fusão.",
+          "sublimação.",
+          "condensação.",
+          "solidificação.",
+          "ebulição."
+        ],
+        "passos": [
+          "Passa de sólido a gás diretamente."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A deixaria líquido.",
+          "C é gás → líquido.",
+          "D é líquido → sólido.",
+          "E é líquido → gás."
+        ]
+      },
+      {
+        "suporte": [
+          "Durante a fervura da água pura ao nível do mar, um termômetro marca 100 °C por vários minutos."
+        ],
+        "comando": "A temperatura fica constante porque",
+        "alternativas": [
+          "o fogo diminui sozinho.",
+          "o termômetro está quebrado.",
+          "a água é uma mistura.",
+          "a energia é usada na mudança de estado.",
+          "o vapor esfria a panela."
+        ],
+        "passos": [
+          "Substância pura muda de estado à temperatura constante.",
+          "A energia vai para separar as moléculas."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: o fogo continua igual.",
+          "B: é o comportamento esperado.",
+          "C: misturas variam de temperatura.",
+          "E não explica."
+        ]
+      },
+      {
+        "suporte": [
+          "Álcool e água formam uma mistura homogênea."
+        ],
+        "comando": "Para separá-los, usa-se",
+        "alternativas": [
+          "filtração.",
+          "decantação.",
+          "catação.",
+          "destilação fracionada.",
+          "peneiração."
+        ],
+        "passos": [
+          "Têm pontos de ebulição diferentes.",
+          "A destilação fracionada separa líquidos miscíveis."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A não separa líquidos dissolvidos.",
+          "B exige fases diferentes.",
+          "C é para sólidos.",
+          "E é para sólidos."
+        ]
+      },
+      {
+        "suporte": [
+          "Sal dissolvido em água não aparece a olho nu."
+        ],
+        "comando": "O sistema é",
+        "alternativas": [
+          "mistura homogênea.",
+          "mistura heterogênea.",
+          "substância simples.",
+          "substância composta pura.",
+          "elemento químico."
+        ],
+        "passos": [
+          "Uma só fase, com dois componentes."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B teria fases visíveis.",
+          "C: há dois componentes.",
+          "D: não é pura.",
+          "E: não é um elemento."
+        ]
+      },
+      {
+        "suporte": [
+          "No tratamento de água, a etapa que elimina microrganismos é"
+        ],
+        "comando": "a",
+        "alternativas": [
+          "decantação.",
+          "filtração.",
+          "floculação.",
+          "fluoretação.",
+          "cloração (desinfecção)."
+        ],
+        "passos": [
+          "O cloro mata microrganismos."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A separa partículas pesadas.",
+          "B retém partículas.",
+          "C agrupa a sujeira.",
+          "D adiciona flúor para os dentes."
+        ]
+      },
+      {
+        "suporte": [
+          "Ao abrir um vidro de perfume, o cheiro se espalha pela sala."
+        ],
+        "comando": "Isso indica que o perfume",
+        "alternativas": [
+          "solidificou.",
+          "condensou.",
+          "vaporizou, e as partículas se espalharam no ar.",
+          "derreteu.",
+          "se transformou em outra substância."
+        ],
+        "passos": [
+          "Líquido → gás; as partículas se difundem."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é o oposto.",
+          "B é gás → líquido.",
+          "D: o perfume já é líquido.",
+          "E: é processo físico."
+        ]
+      },
+      {
+        "suporte": [
+          "Água e óleo de cozinha estão num funil de separação."
+        ],
+        "comando": "Ao abrir a torneira, sai primeiro",
+        "alternativas": [
+          "o óleo, por ser mais denso.",
+          "a água, que fica embaixo por ser mais densa.",
+          "os dois juntos.",
+          "o óleo, que fica embaixo.",
+          "nenhum dos dois."
+        ],
+        "passos": [
+          "A água é mais densa e fica no fundo, perto da torneira."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o óleo é menos denso.",
+          "C: estão em fases separadas.",
+          "D: o óleo fica em cima.",
+          "E: a torneira libera o líquido de baixo."
+        ]
+      }
     ]
   },
   "transformacoes-e-propriedades-da-materia": {
@@ -5100,6 +5948,287 @@
       "Grupos O–H: solúvel em água. Sabão: cabeça na água, cauda na gordura.",
       "pH < 7 ácido; 7 neutro; > 7 básico.",
       "Sal: -ídrico → -eto; -ico → -ato; -oso → -ito."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Considere: (I) palha de aço enferrujando; (II) gelo derretendo; (III) papel queimando."
+        ],
+        "comando": "São transformações químicas",
+        "alternativas": [
+          "I e II.",
+          "II e III.",
+          "apenas II.",
+          "I e III.",
+          "I, II e III."
+        ],
+        "passos": [
+          "Ferrugem e queima formam substâncias novas.",
+          "Derreter é mudança de estado: físico."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A inclui o derretimento.",
+          "B inclui o derretimento e exclui a ferrugem.",
+          "C é a única física.",
+          "E inclui a física."
+        ]
+      },
+      {
+        "suporte": [
+          "Ao misturar vinagre e bicarbonato de sódio, surgem muitas bolhas."
+        ],
+        "comando": "As bolhas indicam",
+        "alternativas": [
+          "fervura da mistura.",
+          "evaporação do vinagre.",
+          "formação de um gás, sinal de reação química.",
+          "dissolução física apenas.",
+          "congelamento."
+        ],
+        "passos": [
+          "Não há aquecimento: as bolhas são gás novo (CO₂)."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: não houve aquecimento.",
+          "B seria lenta e sem bolhas.",
+          "D: forma-se substância nova.",
+          "E: não há queda de temperatura a ponto de congelar."
+        ]
+      },
+      {
+        "suporte": [
+          "Em recipiente fechado, 4 g de hidrogênio reagem com 32 g de oxigênio."
+        ],
+        "comando": "A massa de água formada é",
+        "alternativas": [
+          "28 g.",
+          "36 g.",
+          "128 g.",
+          "8 g.",
+          "32 g."
+        ],
+        "passos": [
+          "Conservação da massa: $4 + 32 = 36$ g."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A subtrai.",
+          "C multiplica.",
+          "D divide.",
+          "E é só o oxigênio."
+        ]
+      },
+      {
+        "suporte": [
+          "Se 12 g de carbono formam 44 g de gás carbônico,"
+        ],
+        "comando": "36 g de carbono formam",
+        "alternativas": [
+          "132 g.",
+          "88 g.",
+          "48 g.",
+          "44 g.",
+          "14,7 g."
+        ],
+        "passos": [
+          "36 g é o triplo de 12 g.",
+          "$44 \\cdot 3 = 132$ g."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B dobra.",
+          "C soma 12 a 36.",
+          "D não ajusta a proporção.",
+          "E divide por 3."
+        ]
+      },
+      {
+        "suporte": [
+          "A queima do gás de cozinha aquece a panela."
+        ],
+        "comando": "A reação é",
+        "alternativas": [
+          "endotérmica, absorve calor.",
+          "física, sem energia.",
+          "exotérmica, libera calor.",
+          "endotérmica, libera calor.",
+          "exotérmica, absorve calor."
+        ],
+        "passos": [
+          "A combustão libera energia: exotérmica."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: a queima libera calor.",
+          "B: é química e envolve energia.",
+          "D junta termos incompatíveis.",
+          "E junta termos incompatíveis."
+        ]
+      },
+      {
+        "suporte": [
+          "Um objeto tem massa de 270 g e volume de 100 cm³."
+        ],
+        "comando": "Sua densidade é",
+        "alternativas": [
+          "27 000 g/cm³.",
+          "0,37 g/cm³.",
+          "170 g/cm³.",
+          "370 g/cm³.",
+          "2,7 g/cm³."
+        ],
+        "passos": [
+          "$d = \\dfrac{m}{V} = \\dfrac{270}{100} = 2{,}7$ g/cm³."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A multiplica.",
+          "B inverte a divisão.",
+          "C subtrai.",
+          "D soma."
+        ]
+      },
+      {
+        "suporte": [
+          "Um bloco de madeira (0,6 g/cm³), uma pedra (2,5 g/cm³) e um pedaço de isopor (0,05 g/cm³) são colocados na água."
+        ],
+        "comando": "Afundam",
+        "alternativas": [
+          "a madeira e o isopor.",
+          "apenas a pedra.",
+          "todos.",
+          "nenhum.",
+          "apenas o isopor."
+        ],
+        "passos": [
+          "Afunda o que tem densidade maior que 1 g/cm³: só a pedra."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: os dois flutuam.",
+          "C: madeira e isopor flutuam.",
+          "D: a pedra afunda.",
+          "E: o isopor flutua."
+        ]
+      },
+      {
+        "suporte": [
+          "Suco de limão tem pH 2; água pura, 7; água sanitária, 12."
+        ],
+        "comando": "A ordem do mais ácido para o mais básico é",
+        "alternativas": [
+          "água sanitária, água, limão.",
+          "água, limão, água sanitária.",
+          "limão, água sanitária, água.",
+          "limão, água, água sanitária.",
+          "água sanitária, limão, água."
+        ],
+        "passos": [
+          "Menor pH = mais ácido."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A está em ordem do mais básico.",
+          "B põe a água neutra primeiro.",
+          "C põe o básico no meio.",
+          "E está desordenado."
+        ]
+      },
+      {
+        "suporte": [
+          "HCl + NaOH → NaCl + H₂O."
+        ],
+        "comando": "Essa reação é uma",
+        "alternativas": [
+          "combustão.",
+          "neutralização, formando sal e água.",
+          "fotossíntese.",
+          "decomposição de água.",
+          "fermentação."
+        ],
+        "passos": [
+          "Ácido + base → sal + água."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A envolve oxigênio e queima.",
+          "C ocorre nas plantas.",
+          "D é o inverso de formar água.",
+          "E é feita por microrganismos."
+        ]
+      },
+      {
+        "suporte": [
+          "O sal formado pelo ácido nítrico ($HNO_3$) e pelo hidróxido de potássio ($KOH$) é o"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "nitrito de potássio.",
+          "nitreto de potássio.",
+          "nitrato de potássio.",
+          "nitrato de sódio.",
+          "cloreto de potássio."
+        ],
+        "passos": [
+          "Ácido -ico forma sal -ato: nitrato.",
+          "Metal da base: potássio."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A viria de ácido -oso.",
+          "B não segue a regra.",
+          "D troca o metal.",
+          "E troca o ácido."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma vitamina tem muitos grupos O–H espalhados pela molécula."
+        ],
+        "comando": "Ela tende a ser",
+        "alternativas": [
+          "solúvel em água.",
+          "solúvel apenas em óleo.",
+          "insolúvel em tudo.",
+          "um gás.",
+          "um metal."
+        ],
+        "passos": [
+          "Grupos O–H interagem com a água: hidrossolúvel."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B descreve moléculas com poucas O–H.",
+          "C não é o caso.",
+          "D não decorre da estrutura.",
+          "E: vitaminas são moleculares."
+        ]
+      },
+      {
+        "suporte": [
+          "A fotossíntese absorve energia luminosa para formar glicose."
+        ],
+        "comando": "Do ponto de vista energético, ela é",
+        "alternativas": [
+          "exotérmica.",
+          "nuclear.",
+          "física.",
+          "neutra.",
+          "endotérmica."
+        ],
+        "passos": [
+          "Absorve energia: endotérmica."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A liberaria energia.",
+          "B não envolve o núcleo.",
+          "C: é reação química.",
+          "D: há absorção de energia."
+        ]
+      }
     ]
   },
   "ondas-som-luz-e-astronomia": {
@@ -5454,6 +6583,286 @@
       "Miopia: divergente. Hipermetropia: convergente.",
       "Estações: inclinação do eixo. Equinócio: dia = noite.",
       "Eclipse solar: Lua entre Terra e Sol."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Uma onda tem comprimento de 2 m e frequência de 170 Hz."
+        ],
+        "comando": "Sua velocidade é",
+        "alternativas": [
+          "85 m/s.",
+          "172 m/s.",
+          "340 m/s.",
+          "168 m/s.",
+          "0,01 m/s."
+        ],
+        "passos": [
+          "$v = \\lambda \\cdot f = 2 \\cdot 170 = 340$ m/s."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A divide.",
+          "B soma.",
+          "D subtrai.",
+          "E inverte a divisão."
+        ]
+      },
+      {
+        "suporte": [
+          "No espaço, os astronautas não conseguem conversar sem rádio, mesmo bem próximos e fora da nave."
+        ],
+        "comando": "Isso acontece porque",
+        "alternativas": [
+          "a luz não se propaga no vácuo.",
+          "o som precisa de um meio material para se propagar.",
+          "o rádio emite som.",
+          "o frio congela as ondas.",
+          "o som é mais rápido no vácuo."
+        ],
+        "passos": [
+          "No vácuo não há partículas para vibrar."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: a luz atravessa o vácuo.",
+          "C: o rádio usa ondas eletromagnéticas.",
+          "D: ondas não congelam.",
+          "E: o som não existe no vácuo."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma pessoa grita diante de um paredão e ouve o eco 2 s depois. O som viaja a 340 m/s."
+        ],
+        "comando": "A distância até o paredão é",
+        "alternativas": [
+          "680 m.",
+          "170 m.",
+          "1 360 m.",
+          "340 m.",
+          "85 m."
+        ],
+        "passos": [
+          "Ida e volta: $340 \\cdot 2 = 680$ m.",
+          "Distância: 340 m."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A esquece que o som foi e voltou.",
+          "B divide demais.",
+          "C dobra em vez de dividir.",
+          "E divide por 8."
+        ]
+      },
+      {
+        "suporte": [
+          "Um violão e um piano tocam a mesma nota, com a mesma intensidade."
+        ],
+        "comando": "Conseguimos distinguir os instrumentos pelo",
+        "alternativas": [
+          "timbre.",
+          "volume.",
+          "tom (altura).",
+          "eco.",
+          "comprimento da sala."
+        ],
+        "passos": [
+          "Mesma nota e intensidade; o que muda é o timbre."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é igual nos dois.",
+          "C é igual (mesma nota).",
+          "D não distingue instrumentos.",
+          "E não é qualidade do som."
+        ]
+      },
+      {
+        "suporte": [
+          "Um lápis dentro de um copo d’água parece quebrado."
+        ],
+        "comando": "O fenômeno é a",
+        "alternativas": [
+          "reflexão.",
+          "difração.",
+          "interferência.",
+          "polarização.",
+          "refração."
+        ],
+        "passos": [
+          "A luz muda de meio (água → ar) e de direção."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A é a luz voltando ao mesmo meio.",
+          "B é contornar obstáculos.",
+          "C é soma de ondas.",
+          "D é filtrar a direção de vibração."
+        ]
+      },
+      {
+        "suporte": [
+          "Você está a 1,5 m de um espelho plano."
+        ],
+        "comando": "Sua imagem está a que distância de você?",
+        "alternativas": [
+          "1,5 m.",
+          "0,75 m.",
+          "3 m.",
+          "4,5 m.",
+          "2 m."
+        ],
+        "passos": [
+          "A imagem fica 1,5 m atrás do espelho.",
+          "Distância total: 3 m."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é a distância até o espelho.",
+          "B divide por 2.",
+          "D triplica.",
+          "E não vem da regra."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma pessoa enxerga mal de perto."
+        ],
+        "comando": "O defeito e a lente corretiva são",
+        "alternativas": [
+          "miopia, lente divergente.",
+          "hipermetropia, lente convergente.",
+          "miopia, lente convergente.",
+          "hipermetropia, lente divergente.",
+          "astigmatismo, lente plana."
+        ],
+        "passos": [
+          "Dificuldade de perto: hipermetropia, corrigida com convergente."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A dificulta enxergar de longe.",
+          "C combina errado.",
+          "D combina errado.",
+          "E não corresponde."
+        ]
+      },
+      {
+        "suporte": [
+          "Um eclipse lunar ocorre quando"
+        ],
+        "comando": "o alinhamento é",
+        "alternativas": [
+          "a Lua fica entre o Sol e a Terra.",
+          "o Sol fica entre a Terra e a Lua.",
+          "a Terra fica entre o Sol e a Lua.",
+          "a Lua está na fase nova.",
+          "Marte bloqueia o Sol."
+        ],
+        "passos": [
+          "A sombra da Terra cobre a Lua."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A descreve o eclipse solar.",
+          "B não forma eclipse.",
+          "D é a fase do eclipse solar.",
+          "E não ocorre."
+        ]
+      },
+      {
+        "suporte": [
+          "No Brasil, os dias de dezembro são mais longos que os de junho."
+        ],
+        "comando": "A causa é",
+        "alternativas": [
+          "a distância da Terra ao Sol.",
+          "a inclinação do eixo da Terra, que faz o Hemisfério Sul receber mais luz em dezembro.",
+          "a rotação mais lenta em dezembro.",
+          "a fase da Lua.",
+          "o tamanho do Sol em dezembro."
+        ],
+        "passos": [
+          "A inclinação do eixo define as estações e a duração dos dias."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A não explica as estações.",
+          "C: a rotação não muda.",
+          "D não interfere.",
+          "E não muda."
+        ]
+      },
+      {
+        "suporte": [
+          "Morcegos emitem sons de frequência muito alta, que não ouvimos."
+        ],
+        "comando": "Esses sons são chamados",
+        "alternativas": [
+          "infrassons.",
+          "sons graves.",
+          "ondas de rádio.",
+          "raios X.",
+          "ultrassons."
+        ],
+        "passos": [
+          "Acima de 20 000 Hz: ultrassom."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A estão abaixo de 20 Hz.",
+          "B têm frequência baixa.",
+          "C são eletromagnéticas.",
+          "D são eletromagnéticas."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma emissora de FM transmite em 100 MHz, a $3 \\cdot 10^8$ m/s."
+        ],
+        "comando": "O comprimento de onda é",
+        "alternativas": [
+          "3 m.",
+          "30 m.",
+          "0,3 m.",
+          "300 m.",
+          "1 m."
+        ],
+        "passos": [
+          "$\\lambda = \\dfrac{3 \\cdot 10^8}{10^8} = 3$ m."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B erra uma casa.",
+          "C erra uma casa para menos.",
+          "D erra duas casas.",
+          "E ignora o 3."
+        ]
+      },
+      {
+        "suporte": [
+          "A Lua sempre mostra a mesma face para a Terra."
+        ],
+        "comando": "Isso ocorre porque",
+        "alternativas": [
+          "a Lua não gira.",
+          "o tempo de rotação da Lua é igual ao de translação ao redor da Terra.",
+          "a Terra não gira.",
+          "a outra face é escura para sempre.",
+          "o Sol ilumina só um lado."
+        ],
+        "passos": [
+          "Rotação e translação lunares duram o mesmo (cerca de 27 dias)."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: a Lua gira.",
+          "C: a Terra gira.",
+          "D: a face oculta também recebe luz do Sol.",
+          "E: o Sol ilumina os dois lados em momentos diferentes."
+        ]
+      }
     ]
   },
   "celulas-e-corpo-humano": {
@@ -5792,6 +7201,284 @@
       "Bile emulsifica gorduras. Hematose nos alvéolos.",
       "Hemácia: gás. Leucócito: defesa. Plaqueta: coagulação.",
       "Frio: vasos contraem, menos suor. Calor: vasos dilatam, mais suor."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "A organela responsável pela respiração celular, que libera energia da glicose, é"
+        ],
+        "comando": "a",
+        "alternativas": [
+          "mitocôndria.",
+          "ribossomo.",
+          "lisossomo.",
+          "cloroplasto.",
+          "parede celular."
+        ],
+        "passos": [
+          "A mitocôndria realiza a respiração celular."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B fabrica proteínas.",
+          "C faz digestão celular.",
+          "D faz fotossíntese.",
+          "E dá sustentação à célula vegetal."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma célula tem parede celular, cloroplastos e um grande vacúolo."
+        ],
+        "comando": "Ela é, provavelmente,",
+        "alternativas": [
+          "uma bactéria.",
+          "uma célula animal.",
+          "uma célula vegetal.",
+          "um vírus.",
+          "um neurônio."
+        ],
+        "passos": [
+          "Cloroplastos e parede celular: célula vegetal."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A não tem cloroplastos nem núcleo organizado.",
+          "B não tem parede nem cloroplastos.",
+          "D não é célula.",
+          "E é célula animal."
+        ]
+      },
+      {
+        "suporte": [
+          "Folhas de alface colocadas em água com muito sal murcham."
+        ],
+        "comando": "A explicação é que",
+        "alternativas": [
+          "o sal entra e incha as células.",
+          "as células se dividem.",
+          "a alface faz mais fotossíntese.",
+          "a água sai das células por osmose.",
+          "a parede celular é destruída."
+        ],
+        "passos": [
+          "O meio externo é mais concentrado; a água sai das células."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: as células perdem água.",
+          "B não explica.",
+          "C não explica.",
+          "E: a parede continua."
+        ]
+      },
+      {
+        "suporte": [
+          "Na digestão, as proteínas começam a ser quebradas em moléculas menores."
+        ],
+        "comando": "Essa etapa começa",
+        "alternativas": [
+          "na boca.",
+          "no esôfago.",
+          "no intestino grosso.",
+          "no fígado.",
+          "no estômago, pela ação do suco gástrico."
+        ],
+        "passos": [
+          "O suco gástrico, ácido, inicia a digestão das proteínas."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A começa a digerir o amido.",
+          "B só conduz o alimento.",
+          "C absorve água.",
+          "D produz bile, sem digerir proteína."
+        ]
+      },
+      {
+        "suporte": [
+          "A bile é produzida pelo fígado e liberada no duodeno."
+        ],
+        "comando": "Sua função é",
+        "alternativas": [
+          "digerir amido.",
+          "emulsificar as gorduras.",
+          "absorver vitaminas.",
+          "matar bactérias.",
+          "produzir insulina."
+        ],
+        "passos": [
+          "A bile quebra a gordura em gotículas."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é papel da amilase.",
+          "C ocorre no intestino.",
+          "D não é sua função principal.",
+          "E é papel do pâncreas."
+        ]
+      },
+      {
+        "suporte": [
+          "Nos alvéolos pulmonares, o oxigênio passa para o sangue."
+        ],
+        "comando": "Esse processo é",
+        "alternativas": [
+          "a hematose.",
+          "a digestão.",
+          "a filtração renal.",
+          "a fotossíntese.",
+          "a fermentação."
+        ],
+        "passos": [
+          "Troca de gases nos alvéolos: hematose."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B ocorre no tubo digestório.",
+          "C ocorre nos rins.",
+          "D ocorre nas plantas.",
+          "E ocorre sem oxigênio."
+        ]
+      },
+      {
+        "suporte": [
+          "O sangue rico em oxigênio sai do coração para o corpo pela"
+        ],
+        "comando": "estrutura:",
+        "alternativas": [
+          "veia cava.",
+          "artéria pulmonar.",
+          "artéria aorta.",
+          "veia pulmonar.",
+          "traqueia."
+        ],
+        "passos": [
+          "A aorta leva o sangue arterial do ventrículo esquerdo ao corpo."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A traz sangue do corpo ao coração.",
+          "B leva sangue venoso aos pulmões.",
+          "D traz sangue dos pulmões ao coração.",
+          "E conduz ar."
+        ]
+      },
+      {
+        "suporte": [
+          "Um exame mostra poucas hemácias no sangue."
+        ],
+        "comando": "O sintoma mais provável é",
+        "alternativas": [
+          "sangramento difícil de parar.",
+          "mais infecções.",
+          "febre alta.",
+          "cansaço e palidez, por pouco transporte de oxigênio.",
+          "excesso de coágulos."
+        ],
+        "passos": [
+          "Hemácias levam oxigênio; poucas causam anemia."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A liga-se às plaquetas.",
+          "B liga-se aos leucócitos.",
+          "C não é efeito direto.",
+          "E liga-se a excesso de plaquetas."
+        ]
+      },
+      {
+        "suporte": [
+          "Os rins filtram o sangue e produzem a urina."
+        ],
+        "comando": "Eles fazem parte do sistema",
+        "alternativas": [
+          "digestório.",
+          "excretor (urinário).",
+          "respiratório.",
+          "nervoso.",
+          "endócrino."
+        ],
+        "passos": [
+          "Filtrar resíduos e eliminar urina: sistema urinário."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A digere alimentos.",
+          "C troca gases.",
+          "D controla o corpo.",
+          "E produz hormônios."
+        ]
+      },
+      {
+        "suporte": [
+          "Ao tocar uma panela quente, a pessoa tira a mão antes de pensar."
+        ],
+        "comando": "Essa resposta é",
+        "alternativas": [
+          "um ato voluntário.",
+          "um hormônio.",
+          "uma digestão.",
+          "uma hematose.",
+          "um ato reflexo, coordenado pela medula espinal."
+        ],
+        "passos": [
+          "Reflexo: resposta rápida, sem passar pela decisão consciente."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A passaria pelo cérebro.",
+          "B é substância química.",
+          "C não se relaciona.",
+          "D é troca de gases."
+        ]
+      },
+      {
+        "suporte": [
+          "A insulina, produzida pelo pâncreas, controla a glicose no sangue."
+        ],
+        "comando": "A falta ou mau funcionamento dela causa",
+        "alternativas": [
+          "diabetes.",
+          "anemia.",
+          "miopia.",
+          "gripe.",
+          "escorbuto."
+        ],
+        "passos": [
+          "Sem insulina eficaz, a glicose fica alta no sangue: diabetes."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B liga-se a hemácias ou ferro.",
+          "C é defeito de visão.",
+          "D é viral.",
+          "E é falta de vitamina C."
+        ]
+      },
+      {
+        "suporte": [
+          "A mitose é importante para"
+        ],
+        "comando": "o organismo porque",
+        "alternativas": [
+          "forma os gametas.",
+          "reduz os cromossomos à metade.",
+          "faz crescer e renovar os tecidos, gerando células iguais.",
+          "causa a fecundação.",
+          "produz energia."
+        ],
+        "passos": [
+          "Mitose: uma célula → duas iguais."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é papel da meiose.",
+          "B é papel da meiose.",
+          "D é a união dos gametas.",
+          "E é papel da mitocôndria."
+        ]
+      }
     ]
   },
   "atmosfera-clima-e-geologia": {
@@ -6094,6 +7781,284 @@
       "Sem mata ciliar: assoreamento. Sem infiltração: enchente.",
       "Efeito estufa (CO₂, CH₄) aquece; ozônio filtra UV e é destruído por CFCs.",
       "Oceano frio e salgado, mais denso, leva CO₂ ao fundo."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "A camada da Terra formada por rocha quente e pastosa, sobre a qual as placas se movem, é"
+        ],
+        "comando": "o(a)",
+        "alternativas": [
+          "crosta.",
+          "manto.",
+          "núcleo interno.",
+          "atmosfera.",
+          "hidrosfera."
+        ],
+        "passos": [
+          "Abaixo da crosta está o manto, de rocha pastosa."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é a camada externa.",
+          "C é sólido e metálico.",
+          "D é a camada de gases.",
+          "E é a água."
+        ]
+      },
+      {
+        "suporte": [
+          "Fósseis do mesmo réptil aparecem no Brasil e na África."
+        ],
+        "comando": "Esse é um argumento a favor",
+        "alternativas": [
+          "da geração espontânea.",
+          "do aquecimento global.",
+          "da deriva continental.",
+          "da formação de tsunâmis.",
+          "do efeito estufa."
+        ],
+        "passos": [
+          "Os continentes já estiveram unidos."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A foi refutada e não se relaciona.",
+          "B não se relaciona.",
+          "D não se relaciona.",
+          "E não se relaciona."
+        ]
+      },
+      {
+        "suporte": [
+          "O gás que mais contribui para a intensificação do efeito estufa por atividades humanas é"
+        ],
+        "comando": "o",
+        "alternativas": [
+          "oxigênio.",
+          "nitrogênio.",
+          "gás carbônico.",
+          "hélio.",
+          "argônio."
+        ],
+        "passos": [
+          "Queima de combustíveis e desmatamento liberam CO₂."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A não é gás de efeito estufa relevante.",
+          "B não é gás de efeito estufa relevante.",
+          "D não tem esse papel.",
+          "E não tem esse papel."
+        ]
+      },
+      {
+        "suporte": [
+          "A camada de ozônio fica na estratosfera."
+        ],
+        "comando": "Sua função é",
+        "alternativas": [
+          "reter calor e aquecer a Terra.",
+          "produzir chuva.",
+          "gerar oxigênio para a respiração.",
+          "absorver grande parte da radiação ultravioleta.",
+          "formar os ventos."
+        ],
+        "passos": [
+          "O ozônio filtra o ultravioleta."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A descreve o efeito estufa.",
+          "B ocorre na troposfera.",
+          "C vem da fotossíntese.",
+          "E vem das diferenças de pressão."
+        ]
+      },
+      {
+        "suporte": [
+          "Um terremoto no fundo do oceano pode gerar ondas gigantes."
+        ],
+        "comando": "Essas ondas são chamadas",
+        "alternativas": [
+          "tsunâmis.",
+          "marés.",
+          "correntes marítimas.",
+          "brisas.",
+          "ressacas comuns."
+        ],
+        "passos": [
+          "Abalo no assoalho oceânico desloca grande volume de água: tsunâmi."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B são causadas pela Lua.",
+          "C vêm de ventos e temperatura.",
+          "D são ventos.",
+          "E vêm de tempestades."
+        ]
+      },
+      {
+        "suporte": [
+          "O granito se forma pelo resfriamento do magma."
+        ],
+        "comando": "Ele é uma rocha",
+        "alternativas": [
+          "sedimentar.",
+          "metamórfica.",
+          "orgânica.",
+          "magmática (ígnea).",
+          "fóssil."
+        ],
+        "passos": [
+          "Rocha de magma resfriado: magmática."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A vem de sedimentos.",
+          "B vem de transformação por calor e pressão.",
+          "C não é classe de rocha.",
+          "E não é classe de rocha."
+        ]
+      },
+      {
+        "suporte": [
+          "A desagregação das rochas pela água, pelo vento e pela temperatura chama-se"
+        ],
+        "comando": "processo:",
+        "alternativas": [
+          "intemperismo.",
+          "vulcanismo.",
+          "tectonismo.",
+          "fotossíntese.",
+          "sublimação."
+        ],
+        "passos": [
+          "Intemperismo desagrega; erosão transporta."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é saída de magma.",
+          "C é movimento das placas.",
+          "D é processo das plantas.",
+          "E é mudança de estado."
+        ]
+      },
+      {
+        "suporte": [
+          "Numa cidade, o solo foi quase todo coberto por asfalto e concreto."
+        ],
+        "comando": "Um efeito esperado é",
+        "alternativas": [
+          "mais infiltração da água.",
+          "menos enchentes.",
+          "aumento do lençol freático.",
+          "resfriamento da cidade.",
+          "mais escoamento superficial e enchentes."
+        ],
+        "passos": [
+          "Sem infiltração, a água escorre de uma vez."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A é o oposto.",
+          "B é o oposto.",
+          "C é o oposto.",
+          "D: superfícies escuras aquecem."
+        ]
+      },
+      {
+        "suporte": [
+          "O ar atmosférico seco é formado principalmente por"
+        ],
+        "comando": "quais gases?",
+        "alternativas": [
+          "oxigênio (78%) e nitrogênio (21%).",
+          "nitrogênio (78%) e oxigênio (21%).",
+          "gás carbônico (78%) e oxigênio (21%).",
+          "hidrogênio e hélio.",
+          "vapor de água e ozônio."
+        ],
+        "passos": [
+          "Nitrogênio é o mais abundante, depois o oxigênio."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A inverte os valores.",
+          "C: o CO₂ é menos de 1%.",
+          "D são gases raros no ar.",
+          "E aparecem em pequena quantidade."
+        ]
+      },
+      {
+        "suporte": [
+          "As geleiras e o gelo polar estão derretendo."
+        ],
+        "comando": "Uma consequência é",
+        "alternativas": [
+          "a elevação do nível do mar.",
+          "a queda do nível do mar.",
+          "o aumento da camada de ozônio.",
+          "o fim das chuvas.",
+          "o resfriamento do planeta."
+        ],
+        "passos": [
+          "Gelo sobre os continentes que derrete aumenta o volume dos oceanos."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é o oposto.",
+          "C não se relaciona.",
+          "D não ocorre.",
+          "E é o oposto."
+        ]
+      },
+      {
+        "suporte": [
+          "O Brasil tem poucos terremotos fortes."
+        ],
+        "comando": "O motivo é que",
+        "alternativas": [
+          "o Brasil não tem rochas.",
+          "o país fica no interior de uma placa tectônica.",
+          "o clima é tropical.",
+          "o Brasil é muito grande.",
+          "não há manto sob o Brasil."
+        ],
+        "passos": [
+          "Terremotos fortes ocorrem nas bordas das placas."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A não tem sentido.",
+          "C não causa nem evita sismos.",
+          "D não explica.",
+          "E: o manto existe sob toda a crosta."
+        ]
+      },
+      {
+        "suporte": [
+          "Nos oceanos, a água fria e salgada afunda e leva gás carbônico dissolvido para o fundo."
+        ],
+        "comando": "Isso acontece porque essa água",
+        "alternativas": [
+          "é menos densa.",
+          "está em ebulição.",
+          "é mais densa.",
+          "perde todo o sal.",
+          "é aquecida pelo Sol."
+        ],
+        "passos": [
+          "Frio e sal aumentam a densidade."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A inverte.",
+          "B não ocorre.",
+          "D: o texto diz que é salgada.",
+          "E: aquecida, ficaria menos densa."
+        ]
+      }
     ]
   }
 }

@@ -55,6 +55,11 @@
         "status": "publicado"
       },
       {
+        "slug": "energia-e-eletricidade",
+        "titulo": "Energia e eletricidade",
+        "status": "publicado"
+      },
+      {
         "slug": "razao-e-proporcao",
         "titulo": "Razão e proporção",
         "status": "amostra"

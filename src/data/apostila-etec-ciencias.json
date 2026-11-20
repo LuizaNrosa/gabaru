@@ -1019,5 +1019,356 @@
       "Composto iônico: cruze as cargas (CaCl₂, Al₂O₃, MgCl₂).",
       "Na, K, Fe, Au, Ag, Pb, Cu vêm do latim. Pt é platina."
     ]
+  },
+  "energia-e-eletricidade": {
+    "materia": "Matéria 2 · Ciências da Natureza · Física",
+    "introducao": "Energia e eletricidade aparecem em 18 das 23 provas recentes. A ETEC cobra transformações de energia, fontes renováveis e não renováveis, consumo de aparelhos em kWh, circuitos em série e em paralelo, a Lei de Ohm e o magnetismo dos ímãs. As contas são curtas, e as fórmulas, quando precisas, vêm no enunciado.",
+    "codigos": [
+      "FI03"
+    ],
+    "raioX": "Os formatos mais comuns são: identificar a sequência de transformações de energia num aparelho; classificar fontes como renováveis ou não; calcular energia consumida (potência × tempo); prever o que acontece quando uma lâmpada queima num circuito; reconhecer tensão, corrente, resistência e potência pelas unidades; e aplicar U = R · i com notação científica.",
+    "intuicao": [
+      "Energia não some nem aparece do nada: ela se transforma. Pergunte de que forma ela entra e de que forma sai.",
+      "Para consumo, pense em “potência vezes tempo”. Um chuveiro potente ligado pouco tempo pode gastar menos que uma geladeira ligada o mês inteiro.",
+      "Pelo nome da unidade você descobre a grandeza: volt (tensão), ampère (corrente), ohm (resistência), watt (potência), kWh ou joule (energia).",
+      "Circuito em série é uma fila única: interrompeu em um ponto, tudo apaga. Em paralelo, cada aparelho tem seu próprio caminho."
+    ],
+    "teoria": [
+      {
+        "titulo": "Energia e suas formas",
+        "texto": "Energia é a capacidade de produzir transformações: movimentar, aquecer, iluminar. No Sistema Internacional, mede-se em joules (J). Em alimentos, usa-se a caloria (1 cal ≈ 4,2 J; 1 kcal ≈ 4,2 kJ). Em contas de luz, usa-se o quilowatt-hora (kWh).\n\nFormas mais cobradas:\n\n• Cinética: energia do movimento. Depende da massa e do quadrado da velocidade: Ec = m · v² ÷ 2. Dobrando a velocidade, a energia cinética fica quatro vezes maior. Por isso a velocidade é tão perigosa no trânsito.\n• Potencial gravitacional: energia guardada pela altura. Ep = m · g · h. Água no alto de uma represa tem energia potencial.\n• Potencial elástica: energia de uma mola ou elástico deformado.\n• Química: guardada nas ligações das substâncias (alimentos, combustíveis, pilhas).\n• Térmica: ligada à agitação das partículas e à temperatura.\n• Elétrica, luminosa e sonora.\n• Nuclear: liberada na fissão ou na fusão de núcleos atômicos."
+      },
+      {
+        "titulo": "Transformações e conservação da energia",
+        "texto": "O princípio da conservação diz que a energia total se mantém: ela só muda de forma. Na prática, parte dela sempre vira calor “perdido” (por atrito, por exemplo).\n\nSequências que a ETEC já cobrou:\n\n• Dínamo da bicicleta: energia mecânica (movimento da roda) → elétrica → luminosa (lâmpada).\n• Usina hidrelétrica: potencial gravitacional da água → cinética → elétrica.\n• Carro a combustão: química (combustível) → térmica → cinética.\n• Trator a diesel: química → cinética.\n• Fotossíntese: luminosa (Sol) → química (glicose).\n• Corpo humano: química (alimentos) → cinética, térmica.\n• Chuveiro e ferro de passar: elétrica → térmica.\n• Pilha e bateria: química → elétrica.\n\nConservação na queda: sem atrito, a energia potencial vira cinética. Água que desce 20 m com massa de 100 kg chega com Ec = Ep = 100 · 10 · 20 = 20 000 J."
+      },
+      {
+        "titulo": "Fontes renováveis e não renováveis",
+        "texto": "Uma fonte é renovável quando se recompõe na escala de tempo humana. Não renovável quando se esgota, porque leva milhões de anos para se formar.\n\n• Renováveis: solar, eólica (vento), hidráulica (rios), biomassa (lenha de reflorestamento, bagaço de cana), etanol e outros biocombustíveis, geotérmica (calor interno da Terra), ondas e marés.\n• Não renováveis: petróleo e derivados (gasolina, diesel), carvão mineral, gás natural (combustíveis fósseis) e urânio (energia nuclear).\n\nRenovável não quer dizer sem impacto. Hidrelétricas alagam grandes áreas e afetam rios e populações; parques eólicos interferem na paisagem e nas aves. Já os combustíveis fósseis liberam gás carbônico (CO₂), que intensifica o efeito estufa.\n\nPegadinha: o carvão vegetal vem de madeira e pode ser renovável; o carvão mineral é fóssil e não renovável. O etanol é renovável; o gás natural, não."
+      },
+      {
+        "titulo": "Potência e consumo de energia elétrica",
+        "texto": "Potência é a energia transformada por unidade de tempo. Mede-se em watts (W); 1 kW = 1 000 W.\n\n• Energia = potência × tempo (E = P · t).\n• Com potência em kW e tempo em horas, a energia sai em kWh, a unidade da conta de luz.\n• Com potência em W e tempo em horas, a energia sai em Wh.\n\nExemplos resolvidos:\n\n• Oito lâmpadas de 150 W acesas por meia hora: 8 × 150 × 0,5 = 600 Wh.\n• Um chuveiro de 4 500 W (4,5 kW) ligado 20 horas no mês: 4,5 × 20 = 90 kWh.\n• Uma lâmpada de LED de 10 W gasta, em 8 horas, 80 Wh. Uma incandescente de 75 W gasta esses mesmos 80 Wh em pouco mais de 1 hora.\n\nComparar aparelhos: a lâmpada incandescente de 100 W consome cinco vezes mais que a fluorescente de 20 W ligada pelo mesmo tempo. Trocar lâmpadas e reduzir o tempo de banho são as economias mais citadas na prova."
+      },
+      {
+        "titulo": "Carga, corrente, tensão e resistência",
+        "texto": "A eletricidade é o movimento de cargas elétricas, em geral elétrons, através de um material condutor.\n\n• Corrente elétrica (i): fluxo de cargas pelo fio. Unidade: ampère (A).\n• Tensão elétrica ou diferença de potencial (U): o “empurrão” que faz a corrente circular, fornecido por pilhas, baterias e tomadas. Unidade: volt (V).\n• Resistência elétrica (R): a dificuldade que o material oferece à passagem da corrente. Unidade: ohm (Ω). Bons condutores (metais, solo úmido) têm baixa resistência; isolantes (borracha, plástico, ar seco), alta.\n• Potência (P = U · i): unidade watt (W).\n\nLei de Ohm: U = R · i. Para achar a resistência, R = U ÷ i.\n\nExemplo com notação científica: U = 1 × 10⁻¹ V e i = 2 × 10⁻⁸ A. R = (1 ÷ 2) × 10⁻¹⁻⁽⁻⁸⁾ = 0,5 × 10⁷ = 5 × 10⁶ Ω.\n\nUma fonte de computador marcada “3,3 V, 250 W, 15 A” informa, nessa ordem, tensão, potência e corrente: a unidade identifica a grandeza."
+      },
+      {
+        "titulo": "Circuitos em série e em paralelo",
+        "texto": "Um circuito é um caminho fechado por onde a corrente circula: fonte (pilha), fios, aparelhos e, às vezes, interruptores (chaves).\n\n• Em série: os aparelhos ficam um depois do outro, num único caminho. A mesma corrente passa por todos. Se uma lâmpada queima, o caminho se abre e todas apagam. Pisca-piscas antigos funcionavam assim.\n• Em paralelo: cada aparelho tem seu próprio caminho ligado à fonte. Todos recebem a mesma tensão. Se uma lâmpada queima, as outras continuam acesas. É assim que se liga a instalação de uma casa.\n\nCircuitos mistos combinam os dois. Para saber o que acontece quando uma lâmpada queima, siga com o dedo o caminho da corrente: as lâmpadas que ainda têm um caminho fechado até a pilha continuam acesas; as que dependiam do trecho interrompido apagam.\n\nInterruptor ligado em série com uma lâmpada controla só aquela lâmpada; ligado antes da divisão do circuito, controla todas."
+      },
+      {
+        "titulo": "Pilhas, baterias e geradores",
+        "texto": "Pilhas e baterias transformam energia química em elétrica e mantêm uma diferença de potencial entre dois polos, o positivo e o negativo. Uma bateria é um conjunto de pilhas ligadas em série, o que soma as tensões.\n\nO poraquê, peixe-elétrico da Amazônia, funciona de modo parecido: tem milhares de células ligadas em série, e por isso uma extremidade fica positiva e a outra negativa, como uma bateria.\n\nGeradores (dínamos, turbinas) transformam energia mecânica em elétrica usando ímãs e bobinas. Motores fazem o contrário: transformam energia elétrica em movimento."
+      },
+      {
+        "titulo": "Ímãs e magnetismo",
+        "texto": "Todo ímã tem dois polos, norte e sul, que não se separam: quebrando um ímã ao meio, cada pedaço continua com norte e sul.\n\n• Polos iguais se repelem; polos diferentes se atraem.\n• Os dois polos atraem o ferro e outros materiais magnéticos (níquel, cobalto). Não existem polos “leste” e “oeste”.\n• A magnetita é um óxido de ferro que é um ímã natural.\n\nA Terra se comporta como um grande ímã. A agulha da bússola é um ímã cujo polo norte aponta para o norte geográfico. Como polos diferentes se atraem, o polo sul magnético da Terra fica perto do polo norte geográfico.\n\nEletroímãs são bobinas de fio enroladas, que viram ímãs quando a corrente passa. São usados em motores, campainhas, guindastes de ferro-velho e no trem Maglev, que levita sobre os trilhos porque polos iguais se repelem."
+      },
+      {
+        "titulo": "Eletrização e segurança elétrica",
+        "texto": "Um corpo fica eletrizado quando ganha ou perde elétrons: com elétrons a mais, fica negativo; com elétrons a menos, positivo.\n\n• Atrito: pentear o cabelo seco ou atritar uma régua faz elétrons passarem de um material para o outro; os dois ficam com cargas opostas.\n• Contato e indução: outros modos de eletrizar.\n\nCargas de mesmo sinal se repelem; de sinais opostos se atraem.\n\nRaios são grandes descargas elétricas entre nuvens e o solo. Para se proteger: ficar dentro de carros fechados ou de construções, evitar árvores isoladas, campos abertos e água. O para-raios oferece um caminho seguro para a descarga até o solo.\n\nEm casa: não usar aparelhos com mãos molhadas, não sobrecarregar tomadas com “benjamins”, respeitar a tensão (127 V ou 220 V) do aparelho."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Sequência de transformações: “desde o movimento da roda até a lâmpada” (mecânica → elétrica → luminosa).\n• Renovável ou não: etanol, eólica e solar de um lado; petróleo, carvão mineral e gás natural de outro.\n• Consumo: energia = potência × tempo, com atenção a W e kW, a minutos e horas.\n• Leitura de tabela de consumo: comparar aparelhos, calcular frações do total.\n• Circuito: o que acontece quando uma lâmpada queima, em série ou em paralelo.\n• Grandezas pelas unidades: V, A, Ω, W.\n• Lei de Ohm com notação científica, com a fórmula dada.\n• Ímãs: dois polos, atração e repulsão, bússola e campo magnético da Terra.\n\nEdital oculto: energia cinética (Ec = m · v² ÷ 2), potencial (Ep = m · g · h) e trabalho (força × deslocamento) aparecem com a fórmula no enunciado."
+      }
+    ],
+    "armadilha": "Misturar watt e quilowatt, minuto e hora. Uma lâmpada de 60 W ligada 30 minutos gasta 30 Wh, ou 0,03 kWh, e não 1 800. Antes de multiplicar, coloque potência e tempo nas unidades que a resposta pede.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Um secador de cabelo de 1 200 W é usado 15 minutos por dia durante 30 dias."
+        ],
+        "comando": "A energia consumida pelo secador nesse período, em kWh, é",
+        "alternativas": [
+          "0,3.",
+          "9.",
+          "18.",
+          "540.",
+          "9 000."
+        ],
+        "passos": [
+          "Potência: 1 200 W = 1,2 kW.",
+          "Tempo: 15 min por dia × 30 dias = 450 min = 7,5 h.",
+          "Energia: 1,2 × 7,5 = 9 kWh."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A calcula só um dia (1,2 × 0,25 = 0,3 kWh).",
+          "C usa 15 horas no total em vez de 7,5.",
+          "D multiplica 1,2 por 450, usando minutos como se fossem horas.",
+          "E dá a resposta em Wh e erra a conversão para kWh."
+        ]
+      },
+      {
+        "suporte": [
+          "Em uma árvore de Natal, 40 lâmpadas pequenas estão ligadas em série a uma tomada. Numa noite, uma delas queima."
+        ],
+        "comando": "Logo após a lâmpada queimar,",
+        "alternativas": [
+          "as outras 39 continuam acesas com o mesmo brilho.",
+          "as outras 39 ficam mais brilhantes.",
+          "todas as lâmpadas apagam, porque o circuito fica aberto.",
+          "só as lâmpadas vizinhas à queimada apagam.",
+          "a tomada passa a fornecer mais corrente às lâmpadas restantes."
+        ],
+        "passos": [
+          "Em série, existe um único caminho para a corrente.",
+          "A lâmpada queimada interrompe esse caminho.",
+          "Sem caminho fechado, não há corrente, e todas apagam."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A descreve um circuito em paralelo.",
+          "B supõe que a corrente se redistribui, o que não ocorre com o circuito aberto.",
+          "D imagina um efeito localizado que não existe em série.",
+          "E: com o circuito aberto, a corrente cai a zero."
+        ]
+      },
+      {
+        "suporte": [
+          "Um estudante listou cinco fontes de energia usadas no Brasil: hidráulica, gás natural, eólica, carvão mineral e bagaço de cana."
+        ],
+        "comando": "São renováveis apenas",
+        "alternativas": [
+          "hidráulica, eólica e bagaço de cana.",
+          "gás natural e carvão mineral.",
+          "hidráulica, gás natural e eólica.",
+          "eólica e carvão mineral.",
+          "todas as cinco."
+        ],
+        "passos": [
+          "Renováveis se recompõem em pouco tempo: água dos rios, vento e biomassa como o bagaço de cana.",
+          "Gás natural e carvão mineral são combustíveis fósseis, formados ao longo de milhões de anos.",
+          "Renováveis: hidráulica, eólica e bagaço de cana."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B lista justamente as duas fósseis.",
+          "C inclui o gás natural, que é fóssil.",
+          "D inclui o carvão mineral, que é fóssil.",
+          "E ignora a diferença entre fósseis e renováveis."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma lâmpada ligada a uma tensão de 12 V é percorrida por uma corrente de 0,5 A. Use U = R · i e P = U · i."
+        ],
+        "comando": "A resistência da lâmpada e sua potência são, respectivamente,",
+        "alternativas": [
+          "6 Ω e 24 W.",
+          "24 Ω e 6 W.",
+          "6 Ω e 6 W.",
+          "24 Ω e 24 W.",
+          "0,04 Ω e 6 W."
+        ],
+        "passos": [
+          "R = U ÷ i = 12 ÷ 0,5 = 24 Ω.",
+          "P = U · i = 12 × 0,5 = 6 W.",
+          "Resposta: 24 Ω e 6 W."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A multiplica onde deveria dividir e vice-versa.",
+          "C multiplica U por i para achar R.",
+          "D divide U por i também para a potência.",
+          "E divide i por U, invertendo a fórmula."
+        ]
+      },
+      {
+        "suporte": [
+          "Dois ímãs em barra estão sobre uma mesa, alinhados. O polo norte do primeiro está de frente para o polo norte do segundo."
+        ],
+        "comando": "Ao aproximar os ímãs, eles",
+        "alternativas": [
+          "se atraem, porque polos iguais se atraem.",
+          "se repelem, porque polos iguais se repelem.",
+          "não interagem, porque ímãs só atraem ferro.",
+          "se atraem, porque o polo norte atrai tudo.",
+          "giram, porque têm polos leste e oeste."
+        ],
+        "passos": [
+          "Polos iguais se repelem; polos diferentes se atraem.",
+          "Norte de frente para norte são polos iguais.",
+          "Os ímãs se repelem."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A inverte a regra.",
+          "C ignora que ímãs interagem entre si.",
+          "D atribui ao polo norte uma atração universal que não existe.",
+          "E inventa polos leste e oeste."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q039",
+        "correta": "C",
+        "justificativa": "As lâmpadas estão em série: há um único caminho para a corrente. Se uma queima, o circuito se abre e a corrente deixa de circular por todas.",
+        "distratores": [
+          "A descreve o comportamento de um circuito em paralelo.",
+          "B supõe que a corrente continua passando, só que menor.",
+          "D supõe uma concentração de corrente, impossível com o circuito aberto.",
+          "E: em série não há lâmpada privilegiada pela proximidade da fonte."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q038",
+        "correta": "E",
+        "justificativa": "O movimento da roda (energia mecânica) gira o gerador, que produz energia elétrica, e a lâmpada transforma a energia elétrica em luminosa.",
+        "distratores": [
+          "A põe a luz antes da eletricidade, invertendo a ordem.",
+          "B começa pela eletricidade, mas a origem é o movimento da roda.",
+          "C começa por energia térmica, que não participa do processo.",
+          "D inverte toda a sequência."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q006",
+        "correta": "D",
+        "justificativa": "Pela Lei de Ohm, R = U ÷ i = (1 × 10⁻¹) ÷ (2 × 10⁻⁸) = 0,5 × 10⁷ = 5 × 10⁶ ohms.",
+        "distratores": [
+          "A multiplica U por i em vez de dividir.",
+          "B não corresponde a nenhuma operação correta com os dados.",
+          "C erra a subtração dos expoentes.",
+          "E erra a subtração dos expoentes por duas ordens de grandeza."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q027",
+        "correta": "C",
+        "justificativa": "As células do poraquê ligadas em série criam um polo positivo e outro negativo, como uma bateria, que é um conjunto de pilhas em série.",
+        "distratores": [
+          "A: o alto-falante transforma eletricidade em som, sem armazenar carga.",
+          "B: o motor transforma eletricidade em movimento.",
+          "D: o ferro de passar transforma eletricidade em calor.",
+          "E: a lâmpada transforma eletricidade em luz e calor."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q030",
+        "correta": "B",
+        "justificativa": "O etanol, vindo da cana, e o vento são recursos que se renovam na escala de tempo humana.",
+        "distratores": [
+          "A inclui o petróleo, que é fóssil.",
+          "C: o carvão mineral é fóssil e o urânio da energia nuclear é esgotável.",
+          "D inclui o gás natural, que é fóssil.",
+          "E inclui os combustíveis fósseis."
+        ]
+      },
+      {
+        "id": "etec-2017-1-q046",
+        "correta": "A",
+        "justificativa": "A magnetita é um ímã natural e, como todo ímã, tem dois polos, norte e sul, ambos capazes de atrair o ferro.",
+        "distratores": [
+          "B: o polo norte também atrai o ferro.",
+          "C: o polo sul também atrai o ferro.",
+          "D: ímãs não têm polos leste e oeste.",
+          "E repete a ideia errada de quatro polos."
+        ]
+      },
+      {
+        "id": "etec-2016-2-q049",
+        "correta": "E",
+        "justificativa": "A energia cinética é proporcional ao quadrado da velocidade. Dobrando a velocidade (de 10 para 20 m/s), a energia fica 2² = 4 vezes maior.",
+        "distratores": [
+          "A inverte a relação e ainda divide.",
+          "B considera a energia inversamente proporcional à velocidade.",
+          "C ignora a influência da velocidade.",
+          "D esquece que a velocidade está ao quadrado."
+        ]
+      },
+      {
+        "id": "etec-2016-2-q038",
+        "correta": "A",
+        "justificativa": "377 kcal equivalem a 1 583 kJ, então 1 cal ≈ 4,2 J. Portanto, 1 J ≈ 1 ÷ 4,2 ≈ 0,24 cal, ou seja, cerca de 0,2 cal.",
+        "distratores": [
+          "B não corresponde à razão entre os valores.",
+          "C é o valor de 1 cal em joules, a relação inversa.",
+          "D erra a ordem de grandeza ao misturar o prefixo k.",
+          "E é a relação inversa com o prefixo k aplicado de forma errada."
+        ]
+      },
+      {
+        "id": "etec-2016-2-q014",
+        "correta": "A",
+        "justificativa": "Ligadas pelo mesmo tempo, uma lâmpada incandescente de 100 W consome cinco vezes mais que uma fluorescente compacta de 20 W (100 ÷ 20 = 5).",
+        "distratores": [
+          "B: com o chuveiro ligado 10 horas, ele gastaria 45 kWh em vez de 90, e o total cairia para 209 kWh, não para 200.",
+          "C: a geladeira consome 80 kWh, menos de um terço do total de 254 kWh (cerca de 85 kWh).",
+          "D: o chuveiro consome 90 kWh e a geladeira 80 kWh; não é o dobro.",
+          "E: o computador consome 45 kWh no mês, não 300 Wh."
+        ]
+      },
+      {
+        "id": "etec-2016-2-q001",
+        "correta": "C",
+        "justificativa": "Petróleo e carvão mineral são combustíveis fósseis, formados ao longo de milhões de anos: não são renováveis.",
+        "distratores": [
+          "A: hidráulica e biocombustíveis são renováveis.",
+          "B: geotérmica é renovável, e o hidrogênio pode ser produzido de fontes renováveis.",
+          "D: biomassa e marés são renováveis.",
+          "E: solar e eólica são renováveis."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q017",
+        "correta": "A",
+        "justificativa": "A capacidade de conduzir eletricidade está ligada à resistência elétrica: quanto menor a resistência do solo, melhor ele conduz.",
+        "distratores": [
+          "B: potência é a energia transformada por tempo, não uma característica do solo.",
+          "C: energia não mede a facilidade de conduzir.",
+          "D: tensão é o que provoca a corrente, não a propriedade do material.",
+          "E: magnetismo não está relacionado à condução de eletricidade no solo."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q028",
+        "correta": "E",
+        "justificativa": "Com conservação de energia, a energia potencial vira cinética: Ep = m · g · h = 100 · 10 · 20 = 20 000 J.",
+        "distratores": [
+          "A usa apenas a massa.",
+          "B multiplica só massa e altura, esquecendo g.",
+          "C multiplica só massa e g, esquecendo a altura.",
+          "D erra uma ordem de grandeza na multiplicação."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q009",
+        "correta": "A",
+        "justificativa": "Potência total: 8 × 150 = 1 200 W. Em meia hora: 1 200 × 0,5 = 600 Wh.",
+        "distratores": [
+          "B não corresponde ao produto dos dados.",
+          "C usaria 6 lâmpadas por uma hora, sem relação com o enunciado.",
+          "D esquece que o tempo é meia hora.",
+          "E não corresponde ao produto dos dados."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q049",
+        "correta": "A",
+        "justificativa": "As unidades identificam as grandezas: volt (V) é tensão, watt (W) é potência e ampère (A) é corrente.",
+        "distratores": [
+          "B: watt não é unidade de resistência, que se mede em ohms.",
+          "C troca a ordem das grandezas.",
+          "D troca a ordem das grandezas.",
+          "E troca a ordem das grandezas."
+        ]
+      }
+    ],
+    "resumo": [
+      "Energia se transforma; não some. Joule, caloria (≈ 4,2 J) e kWh.",
+      "Ec = m·v²/2: dobrou a velocidade, energia ×4. Ep = m·g·h.",
+      "Renováveis: solar, eólica, hidráulica, biomassa, etanol. Não renováveis: petróleo, carvão mineral, gás natural, urânio.",
+      "Energia = potência × tempo; kW × h = kWh.",
+      "V = tensão; A = corrente; Ω = resistência; W = potência.",
+      "U = R · i; P = U · i.",
+      "Série: queimou uma, apagam todas. Paralelo: as outras continuam.",
+      "Ímã: dois polos inseparáveis; iguais repelem, diferentes atraem; os dois atraem o ferro.",
+      "Pilha e bateria: química → elétrica; gerador: mecânica → elétrica; motor: elétrica → mecânica."
+    ]
   }
 }

@@ -56,9 +56,9 @@ function bookFace(item, width, height, margin, social) {
     ${logo(92, 93, social ? 152 : 174, social ? 96 : 107)}
     <path d="${emblem}" fill="none" stroke="${palette.line}" stroke-width="2"/>
     ${title.map((part, i) => text(part, center, titleStart + i * (social ? 88 : 112), Math.min(social ? 90 : 112, displaySize(part)), 'font-weight="900" text-anchor="middle"')).join('')}
-    ${text('LIVRO-TEXTO · TEORIA E QUESTÕES', center, social ? 720 : 920, 25, centered)}
+    ${text(item.kicker ?? 'LIVRO-TEXTO · TEORIA E QUESTÕES', center, social ? 720 : 920, 25, centered)}
     <rect x="${margin}" y="${obiStart}" width="${width - 2 * margin}" height="${social ? 130 : 180}" fill="${palette.ochre}"/>
-    ${text('VOLUME I · NÚCLEO IFs, ETEC & ENEM', center, obiStart + (social ? 75 : 105), 28, centered)}
+    ${text(item.band ?? 'VOLUME I · NÚCLEO IFs, ETEC & ENEM', center, obiStart + (social ? 75 : 105), 28, centered)}
     <g transform="translate(${sealX} ${sealY}) rotate(-4 80 110)">
       <rect width="160" height="230" rx="5" fill="${palette.paper}" stroke="${palette.stamp}" stroke-width="8"/>
       <rect x="10" y="10" width="140" height="210" rx="2" fill="none" stroke="${palette.stamp}" stroke-width="2.5"/>
@@ -103,7 +103,11 @@ const titlesByBook = {
   'ciencias-natureza-ifs-etec': 'Ciências da Natureza',
   'ciencias-humanas-atualidades-etec': 'Ciências Humanas',
 };
+const bookFaces = {
+  'vestibulinho-etec': {kicker: 'APOSTILA COMPLETA · TEORIA E QUESTÕES COMENTADAS', band: 'VOLUME ÚNICO · EDITAL ETEC 2027/1'},
+};
 const actual = planned.concat(base).map(book => ({
+  ...bookFaces[book.slug],
   key: 'livro-' + book.slug,
   kind: 'book',
   title: titlesByBook[book.slug] ?? subjects.find(subject => book.slug.startsWith(subject.slug + '-'))?.titulo ?? book.titulo,

@@ -2,8 +2,13 @@
   {
     "slug": "vestibulinho-etec",
     "titulo": "Apostila Preparatória Vestibulinho ETEC",
-    "descricao": "Português e Interpretação de Texto para o Vestibulinho ETEC, com teoria, questões autorais e gabaritos comentados de provas oficiais.",
+    "descricao": "Apostila completa para o Vestibulinho ETEC, com teoria calibrada ao edital, questões autorais e gabaritos comentados de provas oficiais.",
     "capitulos": [
+      {
+        "slug": "como-a-etec-pergunta",
+        "titulo": "Como a ETEC pergunta",
+        "status": "publicado"
+      },
       {
         "slug": "compreensao-e-inferencia",
         "titulo": "Compreensão e inferência",

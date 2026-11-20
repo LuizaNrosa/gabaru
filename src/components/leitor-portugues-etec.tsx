@@ -18,6 +18,17 @@ const sumario = [
 
 const percentual = new Intl.NumberFormat('pt-BR', { maximumFractionDigits: 2 });
 
+/** Blocos separados por linha em branco viram parágrafos; um bloco cujas linhas começam com "• " vira lista. */
+export function TextoTeoria({ texto }: { texto: string }) {
+  return texto.split(/\n{2,}/).map((bloco, i) => {
+    const linhas = bloco.split('\n');
+    if (linhas.every(linha => linha.startsWith('• '))) {
+      return <ul key={i} className="list-disc pl-6">{linhas.map(linha => <li key={linha}>{linha.slice(2)}</li>)}</ul>;
+    }
+    return <p key={i}>{bloco}</p>;
+  });
+}
+
 function ExemploResolvido({ exemplo, numero }: { exemplo: ExemploPortugues; numero: number }) {
   return (
     <section className="gb-worked-example" aria-labelledby={`exemplo-${numero}`}>
@@ -48,44 +59,49 @@ export function LeitorPortuguesEtec({ livro, slug, titulo, capitulo, marca, minu
   minutos: number | null;
 }) {
   const incidencia = matriz.topicos.filter(topico => capitulo.codigos.includes(topico.codigo_topico));
+  const temRaioX = incidencia.length > 0 || capitulo.raioX.length > 0;
+  const itens = sumario.filter(item =>
+    (item.id !== 'raio-x' || temRaioX)
+    && (item.id !== 'exemplos' || capitulo.exemplos.length > 0)
+    && (item.id !== 'bateria' || capitulo.oficiais.length > 0));
 
   return (
-    <EstruturaLeitor livro={livro} slug={slug} marca={marca} minutos={minutos} itens={sumario}>
+    <EstruturaLeitor livro={livro} slug={slug} marca={marca} minutos={minutos} itens={itens}>
       <header>
         <Image src="/marca/gabaru-carimbo.webp" width={52} height={52} alt="Carimbo Gabaru" />
-        <p className="gb-eyebrow">Matéria 1 · Português e Interpretação de Texto</p>
+        <p className="gb-eyebrow">{capitulo.materia ?? 'Matéria 1 · Português e Interpretação de Texto'}</p>
         <h1>{titulo}</h1>
         <p>{capitulo.introducao}</p>
       </header>
-      <section aria-labelledby="raio-x">
+      {temRaioX && <section aria-labelledby="raio-x">
         <h2 id="raio-x">Raio-X da banca</h2>
-        <ul className="list-disc pl-6">
+        {incidencia.length > 0 && <ul className="gb-incidencia">
           {incidencia.map(topico => (
             <li key={topico.codigo_topico}>
-              <strong>{topico.nivel_incidencia} · {topico.topico}</strong>{' '}
-              ({topico.provas_com_aparicao_confirmada} de {matriz.provas_inventariadas} cadernos, {percentual.format(topico.percentual_de_provas ?? 0)}%).
+              <span className="gb-incidencia-selo">Incidência {topico.nivel_incidencia?.toLocaleLowerCase('pt-BR')}</span>{' '}
+              {topico.topico} · presente em {topico.provas_com_aparicao_confirmada} de {matriz.provas_inventariadas} cadernos ({percentual.format(topico.percentual_de_provas ?? 0)}%)
             </li>
           ))}
-        </ul>
-        <p>{capitulo.raioX}</p>
-      </section>
+        </ul>}
+        {capitulo.raioX && <p>{capitulo.raioX}</p>}
+      </section>}
       <section aria-labelledby="desbloqueio">
         <h2 id="desbloqueio">Desbloqueio e intuição</h2>
         <ol className="list-decimal pl-6">{capitulo.intuicao.map(passo => <li key={passo}>{passo}</li>)}</ol>
       </section>
       <section aria-labelledby="teoria">
         <h2 id="teoria">Teoria calibrada ao edital</h2>
-        {capitulo.teoria.map(item => <div key={item.titulo}><h3>{item.titulo}</h3><p>{item.texto}</p></div>)}
+        {capitulo.teoria.map(item => <div key={item.titulo}><h3>{item.titulo}</h3><TextoTeoria texto={item.texto} /></div>)}
         <aside className="gb-exam-trap" aria-labelledby="armadilha">
           <h3 id="armadilha">Armadilha clássica da ETEC</h3>
           <p>{capitulo.armadilha}</p>
         </aside>
       </section>
-      <section aria-labelledby="exemplos">
+      {capitulo.exemplos.length > 0 && <section aria-labelledby="exemplos">
         <h2 id="exemplos">Exemplos resolvidos · Autoria Gabaru</h2>
         {capitulo.exemplos.map((exemplo, i) => <ExemploResolvido key={exemplo.comando} exemplo={exemplo} numero={i + 1} />)}
-      </section>
-      <section aria-labelledby="bateria">
+      </section>}
+      {capitulo.oficiais.length > 0 && <section aria-labelledby="bateria">
         <h2 id="bateria">Bateria oficial · Questões reais da ETEC</h2>
         {capitulo.oficiais.map(questao => {
           const [, edicao, numero] = /^etec-(.+)-q(\d+)$/.exec(questao.id) ?? [];
@@ -101,7 +117,7 @@ export function LeitorPortuguesEtec({ livro, slug, titulo, capitulo, marca, minu
             </section>
           );
         })}
-      </section>
+      </section>}
       <section aria-labelledby="resumo">
         <h2 id="resumo">Resumo tático de bolso · 1 minuto</h2>
         <ol className="list-decimal pl-6">{capitulo.resumo.map(item => <li key={item}>{item}</li>)}</ol>
@@ -132,7 +148,7 @@ function EstruturaLeitor({ livro, slug, marca, minutos, itens, children }: {
           </ol>
         </nav>
       </aside>
-      <article className="gb-chapter">
+      <article className="gb-chapter gb-apostila">
         {children}
         <p className="gb-watermark">Leitura pessoal · sessão {marca}</p>
       </article>

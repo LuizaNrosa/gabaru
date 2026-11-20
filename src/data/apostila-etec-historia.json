@@ -365,5 +365,388 @@
       "Idade Média: feudalismo, Igreja, inovações agrícolas, peste negra.",
       "Renascimento: humanismo e observação."
     ]
+  },
+  "expansao-colonizacao-e-escravidao": {
+    "materia": "Matéria 4 · Ciências Humanas · História",
+    "introducao": "É o tópico de História que mais cai: 36 itens em 18 das 23 provas recentes. A ETEC liga o passado colonial ao presente: o açúcar e o etanol, as drogas do sertão e a Amazônia, os quilombos e as comunidades quilombolas de hoje, o culto a Iemanjá, a mandioca e o cravo-da-índia na cozinha. Quem entende a lógica da colônia (produzir para enriquecer a metrópole) acerta quase tudo.",
+    "codigos": [
+      "HI03"
+    ],
+    "raioX": "Os itens pedem: causas e consequências das Grandes Navegações; mercantilismo e pacto colonial; o sistema de plantation; drogas do sertão; bandeiras, tropeiros e a expansão do território; ciclo do ouro e o Barroco mineiro; Brasil holandês; resistência escravizada (quilombos, Palmares); herança africana e indígena. Distratores anacrônicos são a regra: greve de 1917 como resistência escravizada, café na Amazônia, Haiti \"português\".",
+    "intuicao": [
+      "A colônia existia para dar lucro à metrópole: esse é o pacto colonial.",
+      "Plantation = monocultura + latifúndio + trabalho escravizado + exportação.",
+      "As fronteiras do Brasil cresceram para oeste, passando de Tordesilhas, com bandeiras, missões e tropeiros.",
+      "Escravizados resistiram o tempo todo: fugas, quilombos, revoltas, preservação da cultura."
+    ],
+    "teoria": [
+      {
+        "titulo": "Grandes Navegações",
+        "texto": "Nos séculos XV e XVI, Portugal e Espanha foram pioneiros na exploração do Atlântico. Motivos:\n\n• Coroas centralizadas e fortalecidas, aliadas a comerciantes que acumulavam capital.\n• Busca de uma rota marítima para as especiarias, sedas e porcelanas do Oriente, cujo comércio terrestre era controlado por italianos e otomanos.\n• Posição geográfica voltada para o Atlântico e técnicas náuticas: caravela, bússola, astrolábio, cartografia.\n\nMarcos: Colombo chega à América (1492); Tratado de Tordesilhas (1494) divide as terras entre Portugal e Espanha; Vasco da Gama chega à Índia (1498); Cabral chega ao Brasil (1500).\n\nAs navegações ligaram Europa, Ásia, África e América. Especiarias como o cravo-da-índia chegaram ao Brasil por essas rotas portuguesas."
+      },
+      {
+        "titulo": "Mercantilismo e pacto colonial",
+        "texto": "Mercantilismo foi a política econômica das monarquias europeias entre os séculos XV e XVIII:\n\n• acúmulo de metais preciosos (metalismo);\n• balança comercial favorável: exportar mais do que importar;\n• protecionismo e forte intervenção do Estado;\n• colônias como fonte de riqueza.\n\nPelo pacto colonial, a colônia só podia comerciar com a metrópole. Vendia produtos tropicais e metais e comprava manufaturados. O lucro ficava na metrópole."
+      },
+      {
+        "titulo": "Indígenas, pau-brasil e o início da colonização",
+        "texto": "Milhões de indígenas viviam no território antes de 1500. Eles cultivavam a mandioca há milhares de anos, alimento sagrado para muitos povos e base da dieta de colonos, navegadores e escravizados.\n\n• Primeiras décadas: extração do pau-brasil com trabalho indígena trocado por objetos (escambo).\n• A partir de 1530: capitanias hereditárias e, em 1549, Governo-Geral, com Salvador como capital.\n• Jesuítas catequizavam os indígenas em missões (aldeamentos).\n\nO contato trouxe doenças, guerras e escravização, reduzindo drasticamente a população indígena."
+      },
+      {
+        "titulo": "O açúcar e o sistema de plantation",
+        "texto": "A produção de açúcar, sobretudo nos engenhos do Nordeste (Pernambuco e Bahia), foi a base da economia colonial nos séculos XVI e XVII. Seguia o modelo de plantation:\n\n• monocultura;\n• latifúndio;\n• mão de obra escravizada africana;\n• produção voltada para o mercado externo.\n\nO engenho era um mundo: casa-grande, senzala, capela e moenda. O açúcar era vendido à metrópole, que o revendia na Europa com grande lucro. Essas estruturas, terra concentrada e trabalho desvalorizado, marcam a sociedade brasileira até hoje."
+      },
+      {
+        "titulo": "Brasil holandês",
+        "texto": "Entre 1630 e 1654, a Companhia das Índias Ocidentais dominou Pernambuco, interessada no açúcar. O governo de Maurício de Nassau (1637–1644) se destacou por:\n\n• tolerância religiosa (católicos, protestantes e judeus);\n• urbanização do Recife, com pontes, palácios e jardins;\n• vinda de artistas e cientistas, como o pintor Frans Post, que registrou paisagens e o cotidiano.\n\nOs holandeses foram expulsos em 1654 e levaram o açúcar para as Antilhas, que passaram a concorrer com o Brasil."
+      },
+      {
+        "titulo": "Expansão para o interior",
+        "texto": "• Bandeiras (séculos XVII e XVIII): expedições armadas, sobretudo de São Paulo, para escravizar indígenas e buscar metais preciosos. O rio Tietê foi uma via de penetração até Cuiabá (as monções).\n• Missões jesuíticas e expedições de apresamento ajudaram a integrar a Amazônia à colônia portuguesa.\n• Drogas do sertão: especiarias, castanhas, cacau, ervas e frutas da Amazônia, exportadas para a Europa.\n• Pecuária e tropeiros: tropas de mulas e bois levavam mercadorias entre Viamão (RS) e Sorocaba (SP), e os pousos viraram cidades.\n\nEssas ações empurraram o território para além de Tordesilhas. O Tratado de Madri (1750) reconheceu boa parte da ocupação portuguesa pelo princípio do uso da terra."
+      },
+      {
+        "titulo": "O ciclo do ouro",
+        "texto": "No fim do século XVII, bandeirantes encontraram ouro em Minas Gerais. No século XVIII:\n\n• o centro econômico migrou para o Sudeste, e a capital passou de Salvador para o Rio de Janeiro (1763);\n• cresceram cidades como Vila Rica (Ouro Preto), Mariana e Congonhas;\n• a Coroa cobrou pesados impostos, como o quinto;\n• floresceu o Barroco mineiro, com Aleijadinho (profetas de Congonhas) e Mestre Ataíde.\n\nComo a prata de Potosí, o ouro respondia à lógica mercantilista e aumentou a escravização de africanos."
+      },
+      {
+        "titulo": "Tráfico, escravidão e resistência",
+        "texto": "Entre os séculos XVI e XIX, cerca de 5 milhões de africanos foram trazidos à força para o Brasil, o maior destino do tráfico atlântico. Muitos eram povos de língua banto, da África centro-ocidental; outros, iorubás e jejes, da África ocidental.\n\nFormas de resistência:\n\n• fugas e formação de quilombos. Palmares, em Alagoas, durou quase um século (c. 1597–1695) e teve Zumbi como líder;\n• revoltas, como a dos Malês (Salvador, 1835);\n• preservação de religiões, línguas, músicas e saberes.\n\nComunidades quilombolas atuais descendem de quilombos formados por fugitivos e libertos, como as do Vale do Ribeira (SP), que manejam a Mata Atlântica de forma sustentável. O culto a Iemanjá, a capoeira e boa parte da culinária são heranças africanas trazidas pela escravização."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Um elemento do presente (doce com cravo, etanol, quilombola, Iemanjá) e a pergunta sobre sua origem colonial.\n• Mapas de bandeiras e missões, sempre ligados à expansão além de Tordesilhas.\n• Tabelas do tráfico: leia período e destino com calma.\n• Características em trio ou quarteto (monocultura, latifúndio, escravidão, exportação).\n\nElimine primeiro as alternativas fora de época."
+      }
+    ],
+    "armadilha": "Trocar os ciclos e os períodos: café não é colonial, ouro não é do Nordeste, Aleijadinho não é do Império. E confundir quilombo com lugar onde os senhores reuniam escravizados; quilombo era refúgio de quem resistia.",
+    "exemplos": [
+      {
+        "suporte": [
+          "No século XVII, a colônia só podia vender seu açúcar a Portugal e comprar dele os produtos manufaturados."
+        ],
+        "comando": "Essa regra é chamada de",
+        "alternativas": [
+          "liberalismo.",
+          "pacto colonial.",
+          "feudalismo.",
+          "Tratado de Madri.",
+          "abertura dos portos."
+        ],
+        "passos": [
+          "Exclusividade de comércio com a metrópole.",
+          "É o pacto colonial, parte do mercantilismo."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A defende o comércio livre.",
+          "C é a organização medieval europeia.",
+          "D tratou de fronteiras, em 1750.",
+          "E acabou com o pacto, em 1808."
+        ]
+      },
+      {
+        "suporte": [
+          "Um mapa mostra o território brasileiro atual e, sobre ele, a linha de Tordesilhas, que deixa a maior parte do Centro-Oeste e da Amazônia do lado espanhol."
+        ],
+        "comando": "A expansão para oeste deve-se principalmente",
+        "alternativas": [
+          "à compra das terras da Espanha.",
+          "às bandeiras, missões, drogas do sertão e pecuária.",
+          "à vinda da família real em 1808.",
+          "à imigração italiana.",
+          "à construção de ferrovias no período colonial."
+        ],
+        "passos": [
+          "A ocupação efetiva veio do interior: bandeirantes, jesuítas, coletores e tropeiros.",
+          "O Tratado de Madri reconheceu essa ocupação."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: não houve compra.",
+          "C: a expansão é anterior a 1808.",
+          "D: a imigração italiana é do fim do século XIX.",
+          "E: não havia ferrovias na colônia."
+        ]
+      },
+      {
+        "suporte": [
+          "Vila Rica, Mariana e Congonhas cresceram rapidamente no século XVIII e ganharam igrejas barrocas."
+        ],
+        "comando": "Esse crescimento está ligado",
+        "alternativas": [
+          "ao ciclo do açúcar.",
+          "à mineração do ouro.",
+          "à borracha.",
+          "ao café.",
+          "à industrialização."
+        ],
+        "passos": [
+          "Minas Gerais, século XVIII: descoberta do ouro.",
+          "A riqueza financiou igrejas e artistas como Aleijadinho."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o açúcar se concentrou no Nordeste, nos séculos XVI e XVII.",
+          "C: a borracha é amazônica e do fim do século XIX.",
+          "D: o café é do século XIX.",
+          "E: a indústria é do século XX."
+        ]
+      },
+      {
+        "suporte": [
+          "Palmares reuniu milhares de pessoas na Serra da Barriga, em Alagoas, durante quase todo o século XVII."
+        ],
+        "comando": "Palmares foi",
+        "alternativas": [
+          "uma missão jesuítica.",
+          "o maior e mais duradouro quilombo do Brasil.",
+          "um engenho holandês.",
+          "uma vila de bandeirantes.",
+          "uma aldeia indígena isolada."
+        ],
+        "passos": [
+          "Refúgio de africanos e afrodescendentes fugidos da escravidão.",
+          "Resistiu por décadas, liderado por Ganga Zumba e depois Zumbi."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: não era missão religiosa.",
+          "C: os holandeses chegaram a atacar Palmares.",
+          "D: bandeirantes como Domingos Jorge Velho destruíram Palmares.",
+          "E: era quilombo, embora tivesse indígenas entre seus moradores."
+        ]
+      },
+      {
+        "suporte": [
+          "O governo de Maurício de Nassau, em Pernambuco, recebeu católicos, protestantes e judeus."
+        ],
+        "comando": "Essa característica indica",
+        "alternativas": [
+          "intolerância religiosa.",
+          "tolerância religiosa.",
+          "proibição do catolicismo.",
+          "imposição do islã.",
+          "fim da escravidão."
+        ],
+        "passos": [
+          "Diferentes religiões convivendo: tolerância religiosa."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é o oposto.",
+          "C: católicos continuaram praticando sua fé.",
+          "D: não houve imposição do islã.",
+          "E: a escravidão continuou no Brasil holandês."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2025-1-q043",
+        "correta": "C",
+        "justificativa": "A produção açucareira se baseou na monocultura, no latifúndio e na mão de obra escravizada.",
+        "distratores": [
+          "A: não houve diversificação, reforma agrária nem salário.",
+          "B: rotação trienal e feudalismo são medievais e europeus.",
+          "D: agricultura familiar e mão de obra livre não definem o engenho.",
+          "E: produção orgânica e propriedade coletiva não correspondem à colônia."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q034",
+        "correta": "E",
+        "justificativa": "Drogas do sertão eram especiarias e produtos da floresta exportados para o mercado europeu.",
+        "distratores": [
+          "A: não eram entorpecentes sintéticos, e os EUA ainda não existiam.",
+          "B: eram produtos extrativistas, não pecuários.",
+          "C: não eram industrializados.",
+          "D: os maias viviam na América Central e não comerciavam com a Amazônia portuguesa."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q014",
+        "correta": "A",
+        "justificativa": "O cravo-da-índia, especiaria asiática, foi trazido pelos portugueses nas rotas das Grandes Navegações.",
+        "distratores": [
+          "B: o cravo é asiático, não veio por trilhas incas.",
+          "C: a cultura de Clóvis é pré-histórica e americana.",
+          "D: o cravo-da-índia é asiático, não africano.",
+          "E: não é especiaria italiana e já estava aqui desde a colônia."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q012",
+        "correta": "C",
+        "justificativa": "O mapa mostra que missões jesuíticas e expedições de apresamento de indígenas integraram a Amazônia à colônia portuguesa.",
+        "distratores": [
+          "A: as missões não garantiram a Amazônia à Espanha.",
+          "B: a Amazônia não estava despovoada; tinha indígenas e missões.",
+          "D: as expedições partiram da colônia portuguesa, não da Amazônia espanhola.",
+          "E: pelo Tratado de Tordesilhas, a maior parte da Amazônia cabia à Espanha."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q033",
+        "correta": "E",
+        "justificativa": "O culto a Iemanjá chegou ao Brasil com os africanos escravizados trazidos pelo tráfico atlântico.",
+        "distratores": [
+          "A: não houve migração de milhares de brasileiros à África no século XVI.",
+          "B: o oceano não impediu os contatos; o tráfico os intensificou.",
+          "C: a intolerância não explica a presença do culto.",
+          "D: Iemanjá é divindade, não governante."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q019",
+        "correta": "E",
+        "justificativa": "Entre as consequências das Grandes Navegações estão o Tratado de Tordesilhas (1494) e a chegada dos portugueses ao Brasil (1500).",
+        "distratores": [
+          "A: a Espanha não dominou sozinha os dois oceanos.",
+          "B: a Antártida não foi colonizada, e a Oceania era habitada.",
+          "C: o Tratado de Madri é de 1750 e tratou da América do Sul.",
+          "D: a Guerra dos Cem Anos é anterior (1337–1453)."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q045",
+        "correta": "E",
+        "justificativa": "Os quilombos, comunidades de escravizados fugidos, foram uma forma central de resistência.",
+        "distratores": [
+          "A: a Greve Geral de 1917 foi de operários, depois da abolição.",
+          "B: Mandela não tem relação com a escravidão brasileira, e foi preso nos anos 1960.",
+          "C: não havia fazendas de café na Amazônia.",
+          "D: o Haiti era colônia francesa e virou república."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q035",
+        "correta": "C",
+        "justificativa": "As bandeiras levaram a ocupação portuguesa além da linha de Tordesilhas.",
+        "distratores": [
+          "A: os bandeirantes ultrapassaram Tordesilhas.",
+          "B: as bandeiras partiam de São Paulo.",
+          "D: as principais rotas partiam de São Paulo, não de Olinda e Recife.",
+          "E: as fronteiras atuais só se fixaram no início do século XX."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q013",
+        "correta": "C",
+        "justificativa": "Plantation: monocultura, mercado externo, latifúndio e mão de obra escravizada.",
+        "distratores": [
+          "A descreve a agricultura familiar de subsistência.",
+          "B: o açúcar não era extrativismo nem para o mercado interno.",
+          "D: a mão de obra era escravizada e a produção, monocultora.",
+          "E: não era mecanizada nem voltada ao mercado interno."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q028",
+        "correta": "D",
+        "justificativa": "Palmares, em Alagoas, foi o quilombo mais duradouro da história do Brasil.",
+        "distratores": [
+          "A: Tiradentes e a Inconfidência são de Minas, no fim do século XVIII.",
+          "B: a Constituição de 1988 não tem relação com Palmares.",
+          "C: o Carandiru é do século XX.",
+          "E: as reformas de Pereira Passos são do início do século XX, no Rio de Janeiro."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q044",
+        "correta": "E",
+        "justificativa": "O acúmulo de ouro e prata fazia parte do mercantilismo, política econômica das monarquias europeias.",
+        "distratores": [
+          "A: o materialismo descrito não é política econômica e contradiz a busca de metais.",
+          "B: autoritarismo é forma de governo, não política econômica.",
+          "C: maniqueísmo é uma visão religiosa dualista.",
+          "D: o liberalismo é posterior e defende o livre mercado."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q033",
+        "correta": "A",
+        "justificativa": "O Tietê foi via de penetração no interior, permitindo chegar até Cuiabá nas monções dos séculos XVIII e XIX.",
+        "distratores": [
+          "B: Tordesilhas era uma linha imaginária, não o rio.",
+          "C: os indígenas não ficaram isolados do colonizador.",
+          "D: a colonização começa no século XVI, não no XIV.",
+          "E: São Paulo foi fundada em 1554, não no século XIX."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q018",
+        "correta": "D",
+        "justificativa": "As comunidades quilombolas se formaram na escravidão, fundadas por africanos e afro-brasileiros fugidos ou libertos.",
+        "distratores": [
+          "A: há comunidades quilombolas em todo o Brasil, e quilombolas não são indígenas.",
+          "B: escravizados não compravam terras livremente.",
+          "C: quilombos eram refúgios, não depósitos de trabalhadores.",
+          "E: o texto diz que elas manejam bem o solo e não têm latifúndios."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q033",
+        "correta": "C",
+        "justificativa": "A rota Viamão–Sorocaba era percorrida por tropeiros com mulas, cavalos e bois, que transportavam mercadorias.",
+        "distratores": [
+          "A: a rota não vinha do Pantanal.",
+          "B: bandeirantes buscavam indígenas e metais, não comércio de tropas.",
+          "D: o transporte não era de ouro e pedras.",
+          "E: a rota era terrestre."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q026",
+        "correta": "C",
+        "justificativa": "As caravelas marcaram as expedições portuguesas e espanholas da Idade Moderna.",
+        "distratores": [
+          "A: as migrações bárbaras são da Antiguidade tardia.",
+          "B: Alexandre é da Antiguidade.",
+          "D: a Segunda Revolução Industrial usou navios a vapor.",
+          "E: a expansão romana é antiga."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q044",
+        "correta": "A",
+        "justificativa": "Aleijadinho viveu no período colonial, durante o ciclo do ouro em Minas Gerais.",
+        "distratores": [
+          "B: o pau-brasil é do início do século XVI.",
+          "C: o Primeiro Reinado começa em 1822, e o açúcar é nordestino.",
+          "D: o Segundo Reinado e o café são do século XIX.",
+          "E: a borracha é do fim do século XIX."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q013",
+        "correta": "A",
+        "justificativa": "Pelo pacto colonial, o açúcar dava lucro à metrópole.",
+        "distratores": [
+          "B: o trabalho era escravizado.",
+          "C: o principal produto era o açúcar.",
+          "D: o açúcar ia para Portugal, que o revendia.",
+          "E: a produção era para exportação."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q025",
+        "correta": "D",
+        "justificativa": "As viagens fortaleceram as Coroas ibéricas pelo acúmulo de capital comercial.",
+        "distratores": [
+          "A: as navegações enfraquecem a ordem feudal.",
+          "B: a Reforma é de 1517 e não explica as viagens.",
+          "C: os otomanos dificultavam o comércio com o Oriente.",
+          "E: não houve disputa entre Itália e Portugal pelo trono espanhol."
+        ]
+      }
+    ],
+    "resumo": [
+      "Navegações: Coroas fortes, comércio, técnica. Tordesilhas 1494; Cabral 1500.",
+      "Mercantilismo: metais, balança favorável, colônias. Pacto colonial.",
+      "Plantation: monocultura, latifúndio, escravidão, exportação.",
+      "Nassau: tolerância religiosa e Recife urbanizado.",
+      "Bandeiras, missões, drogas do sertão e tropeiros: além de Tordesilhas.",
+      "Ouro: Minas, século XVIII, Barroco e Aleijadinho.",
+      "Resistência: quilombos (Palmares), revoltas, cultura."
+    ]
   }
 }

@@ -1250,3 +1250,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 .gb-apostila details > summary { margin-block:12px; }
 .gb-apostila #bateria ~ section h3, .gb-apostila section > section > h3 { margin-block-start:36px; }
 @media(max-width:767px){.gb-apostila{font-size:1.0625rem;line-height:1.7}.gb-apostila > section{margin-block:56px}.gb-apostila .gb-exam-trap{padding-inline-start:16px}}
+.gb-apostila .gb-figura { margin-block:36px; }
+.gb-apostila .gb-figura img { display:block; inline-size:100%; max-inline-size:560px; block-size:auto; margin-inline:auto; }
+.gb-apostila .gb-figura figcaption { margin-block-start:10px; font-size:.9rem; color:var(--color-ink-muted); text-align:center; }
+.gb-apostila .v2-math .katex-display { margin-block:16px; overflow-x:auto; overflow-y:hidden; }

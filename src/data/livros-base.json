@@ -40,14 +40,104 @@
         "status": "publicado"
       },
       {
+        "slug": "movimento-forcas-e-pressao",
+        "titulo": "Movimento, forças e pressão",
+        "status": "publicado"
+      },
+      {
+        "slug": "saude-alimentacao-e-doencas",
+        "titulo": "Saúde, alimentação e doenças",
+        "status": "publicado"
+      },
+      {
+        "slug": "atomos-elementos-e-formulas",
+        "titulo": "Átomos, elementos e fórmulas",
+        "status": "publicado"
+      },
+      {
+        "slug": "energia-e-eletricidade",
+        "titulo": "Energia e eletricidade",
+        "status": "publicado"
+      },
+      {
+        "slug": "ecossistemas-e-relacoes-ecologicas",
+        "titulo": "Ecossistemas e relações ecológicas",
+        "status": "publicado"
+      },
+      {
+        "slug": "reproducao-heranca-e-diversidade",
+        "titulo": "Reprodução, herança e diversidade",
+        "status": "publicado"
+      },
+      {
+        "slug": "calor-e-temperatura",
+        "titulo": "Calor, temperatura e dilatação",
+        "status": "publicado"
+      },
+      {
+        "slug": "biodiversidade-e-conservacao",
+        "titulo": "Biodiversidade, impactos ambientais e conservação",
+        "status": "publicado"
+      },
+      {
+        "slug": "misturas-separacao-e-estados-fisicos",
+        "titulo": "Misturas, separação e estados físicos",
+        "status": "publicado"
+      },
+      {
+        "slug": "transformacoes-e-propriedades-da-materia",
+        "titulo": "Transformações químicas e propriedades da matéria",
+        "status": "publicado"
+      },
+      {
+        "slug": "ondas-som-luz-e-astronomia",
+        "titulo": "Ondas, som, luz e astronomia",
+        "status": "publicado"
+      },
+      {
+        "slug": "celulas-e-corpo-humano",
+        "titulo": "Células e corpo humano",
+        "status": "publicado"
+      },
+      {
+        "slug": "atmosfera-clima-e-geologia",
+        "titulo": "Atmosfera, clima e geologia",
+        "status": "publicado"
+      },
+      {
         "slug": "razao-e-proporcao",
-        "titulo": "Razão e proporção",
-        "status": "amostra"
+        "titulo": "Razão, proporção e escala",
+        "status": "publicado"
       },
       {
         "slug": "unidades-e-escalas",
         "titulo": "Unidades e escalas",
         "status": "amostra"
+      },
+      {
+        "slug": "porcentagem-e-matematica-financeira",
+        "titulo": "Porcentagem e matemática financeira",
+        "status": "publicado"
+      },
+      {
+        "slug": "geometria-plana-e-medidas",
+        "titulo": "Geometria plana e medidas",
+        "status": "publicado"
+      },
+      {
+        "slug": "triangulos-pitagoras-e-solidos",
+        "titulo": "Semelhança, Pitágoras, trigonometria e volumes",
+        "status": "publicado"
+      },
+      {
+        "slug": "numeros-operacoes-potencias-e-unidades",
+        "titulo": "Números, operações, potências e unidades",
+        "status": "publicado"
+      },
+      {
+        "slug": "algebra-estatistica-e-probabilidade",
+        "titulo": "Álgebra, estatística e probabilidade",
+        "status": "publicado"
       },
       {
         "slug": "apendice",

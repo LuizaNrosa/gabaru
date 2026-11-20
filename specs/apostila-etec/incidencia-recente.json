@@ -1,0 +1,353 @@
+{
+ "edicoes": [
+  "2013-2",
+  "2014-1",
+  "2014-2",
+  "2015-1",
+  "2015-2",
+  "2016-1",
+  "2016-2",
+  "2017-1",
+  "2017-2",
+  "2018-1",
+  "2018-2",
+  "2019-1",
+  "2019-2",
+  "2020-1",
+  "2022-2",
+  "2023-1",
+  "2023-2",
+  "2024-1",
+  "2024-2",
+  "2025-1",
+  "2025-2",
+  "2026-1",
+  "2026-2"
+ ],
+ "validas": 1136,
+ "sem_topico": 0,
+ "topicos": [
+  {
+   "codigo": "BI01",
+   "topico": "Células, tecidos e organização dos seres vivos",
+   "itens": 14,
+   "provas": 8
+  },
+  {
+   "codigo": "BI02",
+   "topico": "Corpo humano, integração e sentidos",
+   "itens": 19,
+   "provas": 11
+  },
+  {
+   "codigo": "BI03",
+   "topico": "Saúde, alimentação, doenças e prevenção",
+   "itens": 48,
+   "provas": 22
+  },
+  {
+   "codigo": "BI04",
+   "topico": "Reprodução, hereditariedade, evolução e diversidade",
+   "itens": 27,
+   "provas": 17
+  },
+  {
+   "codigo": "BI05",
+   "topico": "Ecossistemas, fluxo de energia e relações ecológicas",
+   "itens": 32,
+   "provas": 14
+  },
+  {
+   "codigo": "BI06",
+   "topico": "Biodiversidade, impactos, manejo e conservação",
+   "itens": 23,
+   "provas": 11
+  },
+  {
+   "codigo": "FI01",
+   "topico": "Movimento, forças, pressão e máquinas simples",
+   "itens": 53,
+   "provas": 23
+  },
+  {
+   "codigo": "FI02",
+   "topico": "Calor, temperatura, materiais e propagação térmica",
+   "itens": 22,
+   "provas": 16
+  },
+  {
+   "codigo": "FI03",
+   "topico": "Energia, eletricidade, circuitos e consumo",
+   "itens": 35,
+   "provas": 18
+  },
+  {
+   "codigo": "FI04",
+   "topico": "Ondas, som, luz, cor e radiações",
+   "itens": 19,
+   "provas": 14
+  },
+  {
+   "codigo": "FI05",
+   "topico": "Terra, Lua, Sol e astronomia",
+   "itens": 5,
+   "provas": 5
+  },
+  {
+   "codigo": "FI06",
+   "topico": "Atmosfera, clima, geologia e fenômenos terrestres",
+   "itens": 12,
+   "provas": 9
+  },
+  {
+   "codigo": "GE01",
+   "topico": "Cartografia, orientação e escalas",
+   "itens": 10,
+   "provas": 9
+  },
+  {
+   "codigo": "GE02",
+   "topico": "Dinâmica natural, paisagens, biomas e recursos",
+   "itens": 27,
+   "provas": 15
+  },
+  {
+   "codigo": "GE03",
+   "topico": "População, migração, urbanização e desigualdade",
+   "itens": 15,
+   "provas": 9
+  },
+  {
+   "codigo": "GE04",
+   "topico": "Brasil: território, campo, indústria e redes",
+   "itens": 26,
+   "provas": 15
+  },
+  {
+   "codigo": "GE05",
+   "topico": "Mundo, globalização, regionalização e geopolítica",
+   "itens": 13,
+   "provas": 9
+  },
+  {
+   "codigo": "HI01",
+   "topico": "Tempo, fontes, memória e sociedades antigas",
+   "itens": 16,
+   "provas": 12
+  },
+  {
+   "codigo": "HI02",
+   "topico": "Medievo, religiosidade e transição à modernidade",
+   "itens": 9,
+   "provas": 9
+  },
+  {
+   "codigo": "HI03",
+   "topico": "Expansão marítima, colonização e escravidão",
+   "itens": 36,
+   "provas": 18
+  },
+  {
+   "codigo": "HI04",
+   "topico": "Revoluções, industrialização e trabalho",
+   "itens": 14,
+   "provas": 11
+  },
+  {
+   "codigo": "HI05",
+   "topico": "Independências, Império e formação do Estado brasileiro",
+   "itens": 8,
+   "provas": 8
+  },
+  {
+   "codigo": "HI06",
+   "topico": "Repúblicas brasileiras, direitos e cidadania",
+   "itens": 20,
+   "provas": 10
+  },
+  {
+   "codigo": "HI07",
+   "topico": "Séculos XX e XXI: conflitos e ordem mundial",
+   "itens": 17,
+   "provas": 12
+  },
+  {
+   "codigo": "IN01",
+   "topico": "Contexto, interpretação de representações e dados",
+   "itens": 5,
+   "provas": 5
+  },
+  {
+   "codigo": "IN02",
+   "topico": "Cidadania, ambiente, trabalho e intervenção",
+   "itens": 21,
+   "provas": 12
+  },
+  {
+   "codigo": "LP01",
+   "topico": "Compreensão literal, ideia central e inferência",
+   "itens": 141,
+   "provas": 23
+  },
+  {
+   "codigo": "LP02",
+   "topico": "Gêneros, finalidade, público e multimodalidade",
+   "itens": 42,
+   "provas": 16
+  },
+  {
+   "codigo": "LP03",
+   "topico": "Argumentação, fato, opinião e fontes",
+   "itens": 8,
+   "provas": 7
+  },
+  {
+   "codigo": "LP04",
+   "topico": "Sentido contextual e figuras de linguagem",
+   "itens": 38,
+   "provas": 20
+  },
+  {
+   "codigo": "LP05",
+   "topico": "Coesão, coerência e intertextualidade",
+   "itens": 33,
+   "provas": 17
+  },
+  {
+   "codigo": "LP06",
+   "topico": "Morfossintaxe, pontuação, ortografia e acentuação",
+   "itens": 40,
+   "provas": 17
+  },
+  {
+   "codigo": "LP07",
+   "topico": "Variação linguística, registros e adequação",
+   "itens": 5,
+   "provas": 5
+  },
+  {
+   "codigo": "LP08",
+   "topico": "Leitura literária e recursos narrativos e poéticos",
+   "itens": 26,
+   "provas": 14
+  },
+  {
+   "codigo": "LP09",
+   "topico": "Produção, edição, oralidade e práticas de linguagem",
+   "itens": 0,
+   "provas": 0
+  },
+  {
+   "codigo": "MA01",
+   "topico": "Naturais, inteiros, divisibilidade e expressões",
+   "itens": 6,
+   "provas": 6
+  },
+  {
+   "codigo": "MA02",
+   "topico": "Frações, decimais e números racionais",
+   "itens": 1,
+   "provas": 1
+  },
+  {
+   "codigo": "MA03",
+   "topico": "Razão, proporção, escalas e taxas",
+   "itens": 35,
+   "provas": 18
+  },
+  {
+   "codigo": "MA04",
+   "topico": "Porcentagem e educação financeira",
+   "itens": 26,
+   "provas": 17
+  },
+  {
+   "codigo": "MA05",
+   "topico": "Potências, raízes, reais e notação científica",
+   "itens": 10,
+   "provas": 9
+  },
+  {
+   "codigo": "MA06",
+   "topico": "Expressões algébricas, fatoração e produtos notáveis",
+   "itens": 3,
+   "provas": 3
+  },
+  {
+   "codigo": "MA07",
+   "topico": "Equações, sistemas e relações funcionais",
+   "itens": 11,
+   "provas": 8
+  },
+  {
+   "codigo": "MA08",
+   "topico": "Geometria plana e medidas",
+   "itens": 22,
+   "provas": 15
+  },
+  {
+   "codigo": "MA09",
+   "topico": "Semelhança, congruência e relações métricas",
+   "itens": 16,
+   "provas": 13
+  },
+  {
+   "codigo": "MA10",
+   "topico": "Sólidos, volume e conversões",
+   "itens": 13,
+   "provas": 12
+  },
+  {
+   "codigo": "MA11",
+   "topico": "Estatística, gráficos e tabelas",
+   "itens": 9,
+   "provas": 9
+  },
+  {
+   "codigo": "MA12",
+   "topico": "Contagem e probabilidade",
+   "itens": 6,
+   "provas": 6
+  },
+  {
+   "codigo": "QU01",
+   "topico": "Materiais, misturas e separação",
+   "itens": 17,
+   "provas": 14
+  },
+  {
+   "codigo": "QU02",
+   "topico": "Estados da matéria e mudanças físicas",
+   "itens": 7,
+   "provas": 7
+  },
+  {
+   "codigo": "QU03",
+   "topico": "Transformações químicas e conservação",
+   "itens": 14,
+   "provas": 9
+  },
+  {
+   "codigo": "QU04",
+   "topico": "Átomos, elementos, moléculas e fórmulas",
+   "itens": 43,
+   "provas": 20
+  },
+  {
+   "codigo": "QU05",
+   "topico": "Propriedades químicas e aplicações cotidianas",
+   "itens": 18,
+   "provas": 13
+  }
+ ],
+ "por_materia": {
+  "HI": 120,
+  "GE": 91,
+  "IN": 26,
+  "QU": 99,
+  "BI": 163,
+  "LP": 333,
+  "MA": 158,
+  "FI": 146
+ }
+}

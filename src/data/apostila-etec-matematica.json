@@ -1,0 +1,1923 @@
+{
+  "razao-e-proporcao": {
+    "materia": "Matéria 3 · Matemática",
+    "introducao": "Razão e proporção são o assunto de Matemática que mais cai na ETEC: 35 questões em 18 das 23 provas recentes. Elas aparecem em receitas, mapas, velocidades, concentrações, densidade de animais por hectare e até na escala de cães-guia por pessoa. Quem domina a regra de três e as conversões de unidade resolve boa parte da prova de Matemática.",
+    "codigos": [
+      "MA03"
+    ],
+    "raioX": "A banca dá uma relação (por quilograma, por hora, por hectare, por pessoa) e pede para aplicá-la a outra quantidade. Quase sempre há uma conversão no caminho (g e kg, cm e m, minutos e horas, hectares e alqueires). Os distratores são os resultados de quem multiplica em vez de dividir, esquece a conversão ou confunde grandezas diretamente e inversamente proporcionais.",
+    "intuicao": [
+      "Antes de calcular, escreva a relação em palavras: “5 garrafas viram 40 copos”, “15 mg de iodo por 1 kg de sal”.",
+      "Pergunte: se uma grandeza dobra, a outra dobra (direta) ou cai pela metade (inversa)?",
+      "Deixe as unidades iguais dos dois lados antes de montar a proporção.",
+      "Confira se o resultado faz sentido: menos ingredientes, menos pão ralado; mais velocidade, menos tempo."
+    ],
+    "teoria": [
+      {
+        "titulo": "Razão: comparar por divisão",
+        "texto": "Razão entre dois números $a$ e $b$ (com $b \\neq 0$) é o quociente $\\dfrac{a}{b}$, que também se lê “$a$ para $b$”.\n\n• Numa turma com 12 meninas e 18 meninos, a razão de meninas para meninos é $\\dfrac{12}{18} = \\dfrac{2}{3}$: para cada 2 meninas há 3 meninos.\n• A razão de meninas para o total é $\\dfrac{12}{30} = \\dfrac{2}{5}$, ou seja, 40% da turma.\n\nA ordem importa: “meninas para meninos” é $\\dfrac{12}{18}$, e “meninos para meninas” é $\\dfrac{18}{12}$.\n\nRazões aparecem com nomes próprios:\n\n• Velocidade média: distância ÷ tempo (km/h, m/s).\n• Densidade: massa ÷ volume (g/cm³).\n• Densidade demográfica: habitantes ÷ área (hab/km²).\n• Concentração: quantidade de soluto ÷ volume ou massa (g/L, mg/kg).\n• Escala: medida no desenho ÷ medida real.\n• Taxa de lotação: unidades animais ÷ hectares.\n\nComparar razões “1 para cada …”: se há 9 milhões de eleitores e 12 milhões de habitantes, a razão habitantes : eleitores é $\\dfrac{12}{9} = \\dfrac{4}{3}$. Para cada 3 eleitores há 4 habitantes."
+      },
+      {
+        "titulo": "Proporção e a propriedade fundamental",
+        "texto": "Proporção é a igualdade entre duas razões: $\\dfrac{a}{b} = \\dfrac{c}{d}$.\n\nPropriedade fundamental: numa proporção, o produto dos extremos é igual ao produto dos meios.\n\n$$\\frac{a}{b} = \\frac{c}{d} \\quad\\Longleftrightarrow\\quad a \\cdot d = b \\cdot c$$\n\nÉ ela que permite descobrir um termo desconhecido. Exemplo: $\\dfrac{3}{5} = \\dfrac{x}{40}$.\n\n$$5 \\cdot x = 3 \\cdot 40 \\;\\Rightarrow\\; 5x = 120 \\;\\Rightarrow\\; x = \\frac{120}{5} = 24$$\n\nPara conferir, simplifique: $\\dfrac{24}{40} = \\dfrac{3}{5}$. A proporção está correta."
+      },
+      {
+        "titulo": "Grandezas diretamente proporcionais",
+        "texto": "Duas grandezas são diretamente proporcionais quando, ao multiplicar uma por um número, a outra fica multiplicada pelo mesmo número. A razão entre elas é constante.\n\n• Quantidade de ingredientes e número de porções de uma receita.\n• Distância percorrida e tempo, com velocidade constante.\n• Preço e quantidade comprada de um mesmo produto.\n• Massa de sal e quantidade de iodo adicionada.\n\nExemplo: uma receita usa 840 g de pão ralado para 20 coxas de frango. Para 15 coxas:\n\n$$\\frac{840}{20} = \\frac{x}{15} \\;\\Rightarrow\\; 20x = 840 \\cdot 15 = 12\\,600 \\;\\Rightarrow\\; x = 630 \\text{ g}$$\n\nOutro caminho é a redução à unidade: $840 \\div 20 = 42$ g por coxa, e $42 \\times 15 = 630$ g. Os dois caminhos sempre dão o mesmo resultado."
+      },
+      {
+        "titulo": "Grandezas inversamente proporcionais",
+        "texto": "Duas grandezas são inversamente proporcionais quando, ao multiplicar uma por um número, a outra fica dividida pelo mesmo número. O produto entre elas é constante.\n\n• Velocidade e tempo, para a mesma distância: dobrando a velocidade, o tempo cai pela metade.\n• Número de trabalhadores e tempo para fazer o mesmo serviço.\n• Pressão e área, com a mesma força: área menor, pressão maior.\n\nExemplo: 6 pedreiros constroem um muro em 10 dias. Quantos dias levariam 4 pedreiros, no mesmo ritmo?\n\n$$6 \\cdot 10 = 4 \\cdot x \\;\\Rightarrow\\; 60 = 4x \\;\\Rightarrow\\; x = 15 \\text{ dias}$$\n\nTeste do bom senso: menos pedreiros, mais dias. Se a conta der menos de 10 dias, você tratou as grandezas como diretas."
+      },
+      {
+        "titulo": "Regra de três simples, passo a passo",
+        "texto": "Regra de três é o método para achar um valor desconhecido quando conhecemos três valores de duas grandezas proporcionais.\n\n• Passo 1: monte uma tabela com as duas grandezas em colunas e as situações em linhas.\n• Passo 2: decida se as grandezas são diretas ou inversas.\n• Passo 3: se diretas, multiplique em cruz; se inversas, multiplique em linha (ou inverta uma das razões antes de cruzar).\n• Passo 4: resolva a equação e confira com o bom senso.\n\nExemplo direto: 5 garrafas de vidro reciclado viram 40 copos. Quantos copos saem de 125 garrafas?\n\n$$\\frac{5}{40} = \\frac{125}{x} \\;\\Rightarrow\\; 5x = 40 \\cdot 125 = 5\\,000 \\;\\Rightarrow\\; x = 1\\,000 \\text{ copos}$$\n\nExemplo com conversão: uma fragmentadora corta 3 m de papel por minuto. Um documento tem 25 folhas de 30 cm. Comprimento total: $25 \\times 0{,}30 = 7{,}5$ m. Tempo: $7{,}5 \\div 3 = 2{,}5$ min $= 2$ min $30$ s."
+      },
+      {
+        "titulo": "Regra de três composta",
+        "texto": "Quando três ou mais grandezas estão envolvidas, analise cada uma em relação à grandeza procurada, sempre mantendo as outras fixas.\n\nExemplo: 12 cavalos atendem sessões de 30 minutos. Cada cavalo trabalha no máximo 3 horas por dia, de terça a sexta. Cada pessoa faz 2 sessões por semana. Quantas pessoas podem ser atendidas por semana?\n\n• Sessões por cavalo por dia: $3 \\text{ h} = 180 \\text{ min}$, e $180 \\div 30 = 6$ sessões.\n• Por semana (4 dias): $6 \\times 4 = 24$ sessões por cavalo.\n• Com 12 cavalos: $24 \\times 12 = 288$ sessões.\n• Como cada pessoa ocupa 2 sessões: $288 \\div 2 = 144$ pessoas.\n\nEsse “passo a passo por unidade” é mais seguro do que montar uma regra de três composta gigante. A ETEC costuma premiar quem organiza o raciocínio em etapas."
+      },
+      {
+        "titulo": "Escala de mapas e plantas",
+        "texto": "Escala é a razão entre uma medida no desenho e a medida real correspondente, na mesma unidade:\n\n$$\\text{escala} = \\frac{\\text{medida no desenho}}{\\text{medida real}}$$\n\nA escala $1 : 500\\,000$ significa que 1 cm no mapa corresponde a $500\\,000$ cm no terreno, ou seja, $5\\,000$ m $= 5$ km.\n\n• Para achar a distância real, multiplique a medida do mapa pelo denominador da escala e converta: 3,4 cm num mapa $1 : 500\\,000$ valem $3{,}4 \\times 500\\,000 = 1\\,700\\,000$ cm $= 17$ km.\n• Para achar a medida no mapa, divida a medida real (em cm) pelo denominador.\n\nEscala grande × escala pequena: $1 : 1\\,000$ é maior que $1 : 1\\,000\\,000$ (a fração é maior) e mostra mais detalhes de uma área menor. Plantas de casas usam escalas grandes; mapas do Brasil, escalas pequenas.\n\nA escala gráfica (uma barra dividida) continua valendo mesmo se o mapa for ampliado ou reduzido na impressão.",
+        "figura": {
+          "src": "/apostila-etec/figuras/escala-mapa.svg",
+          "alt": "Barra de escala com quatro segmentos de 1 cm, cada um valendo 5 km, e a escala numérica 1 para 500 000.",
+          "largura": 560,
+          "altura": 200,
+          "legenda": "Escala gráfica e escala numérica dizem a mesma coisa: 1 cm no mapa vale 5 km no terreno."
+        }
+      },
+      {
+        "titulo": "Conversões de unidades",
+        "texto": "Quase toda questão de proporção da ETEC exige uma conversão. Faça-a antes de montar a conta.\n\n• Comprimento: 1 km = 1 000 m; 1 m = 100 cm; 1 cm = 10 mm.\n• Massa: 1 kg = 1 000 g; 1 g = 1 000 mg; 1 t = 1 000 kg.\n• Capacidade: 1 L = 1 000 mL; 1 m³ = 1 000 L; 1 dm³ = 1 L.\n• Tempo: 1 h = 60 min; 1 min = 60 s; 1 dia = 24 h.\n• Área: 1 m² = 10 000 cm²; 1 hectare (ha) = 10 000 m²; 1 km² = 100 ha.\n• Unidades regionais aparecem com o valor no enunciado: um alqueire paulista tem 2,42 ha.\n\nExemplo: a Anvisa exige pelo menos 15 mg de iodo por quilograma de sal. Quanto iodo há, no mínimo, em 1,5 g de sal?\n\n$$1{,}5 \\text{ g} = 0{,}0015 \\text{ kg} \\qquad 15 \\times 0{,}0015 = 0{,}0225 \\text{ mg} \\approx 0{,}02 \\text{ mg}$$"
+      },
+      {
+        "titulo": "Taxas, médias e “por unidade”",
+        "texto": "Muitas questões trazem uma taxa (“por hectare”, “por metro”, “por pessoa”) e uma fórmula curta no enunciado. O trabalho é substituir com cuidado.\n\nExemplo da adubação: a quantidade por metro de sulco é $\\dfrac{Q \\cdot E}{10}$ g/m, com $Q$ em kg/ha e $E$ em metros. Para $Q = 500$ e espaçamento de 60 cm:\n\n$$E = 60 \\text{ cm} = 0{,}6 \\text{ m} \\qquad \\frac{500 \\cdot 0{,}6}{10} = \\frac{300}{10} = 30 \\text{ g/m}$$\n\nNum sulco de 150 m: $30 \\times 150 = 4\\,500$ g $= 4{,}5$ kg.\n\nExemplo da taxa de lotação: 900 animais de 250 kg somam $900 \\times 250 = 225\\,000$ kg. Como 1 UA = 450 kg, são $225\\,000 \\div 450 = 500$ UA. Em 100 ha, a taxa é $500 \\div 100 = 5$ UA/ha."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Receita ou mistura reduzida ou ampliada proporcionalmente.\n• “Para cada x, existem y”: simplificar uma razão (habitantes por eleitor, cães-guia por pessoa).\n• Taxa por unidade com fórmula dada (adubação, lotação, concentração de sal ou de iodo).\n• Escala de mapas, plantas e maquetes.\n• Velocidade, tempo e distância, com conversão de minutos.\n• Grandezas inversas: pressão e área, velocidade e tempo.\n• Comparação de áreas ocupadas (ônibus, carros, bicicletas).\n\nEdital oculto: unidades de fora do Sistema Internacional (alqueire, unidade animal, quilate) sempre vêm definidas no texto."
+      }
+    ],
+    "armadilha": "Tratar como diretamente proporcionais grandezas que são inversas, ou esquecer a conversão. A ETEC coloca entre as alternativas o resultado de quem multiplica cruzado em uma relação inversa e o de quem mistura cm com m ou g com kg. Antes de calcular, pergunte “se uma dobra, a outra dobra ou cai pela metade?” e iguale as unidades.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Um bolo leva 3 ovos para cada 2 xícaras de farinha. Uma confeiteira tem 15 ovos e quer usar todos, mantendo a mesma proporção."
+        ],
+        "comando": "Quantas xícaras de farinha ela vai usar?",
+        "alternativas": [
+          "$7{,}5$",
+          "$10$",
+          "$22{,}5$",
+          "$30$",
+          "$45$"
+        ],
+        "passos": [
+          "Ovos e farinha são diretamente proporcionais: $\\dfrac{3}{2} = \\dfrac{15}{x}$.",
+          "Produto dos extremos igual ao dos meios: $3x = 2 \\cdot 15 = 30$.",
+          "$x = 30 \\div 3 = 10$ xícaras."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A divide 15 por 2, como se 2 xícaras correspondessem a 1 ovo.",
+          "C multiplica $15 \\times 3 \\div 2$, invertendo a razão.",
+          "D multiplica $15 \\times 2$ sem dividir por 3.",
+          "E multiplica $15 \\times 3$."
+        ]
+      },
+      {
+        "suporte": [
+          "Num mapa de escala $1 : 250\\,000$, duas cidades estão a 6 cm de distância."
+        ],
+        "comando": "A distância real entre as cidades, em quilômetros, é",
+        "alternativas": [
+          "$1{,}5$",
+          "$15$",
+          "$150$",
+          "$1\\,500$",
+          "$41{,}6$"
+        ],
+        "passos": [
+          "Distância real $= 6 \\times 250\\,000 = 1\\,500\\,000$ cm.",
+          "$1\\,500\\,000$ cm $= 15\\,000$ m.",
+          "$15\\,000$ m $= 15$ km."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A converte centímetros em quilômetros dividindo por $1\\,000\\,000$ em vez de $100\\,000$.",
+          "C divide por $10\\,000$, como se 1 km tivesse $10\\,000$ cm.",
+          "D para em metros e troca a unidade.",
+          "E divide $250\\,000$ por 6 em vez de multiplicar."
+        ]
+      },
+      {
+        "suporte": [
+          "Com 8 máquinas iguais, uma fábrica produz um lote de peças em 15 horas."
+        ],
+        "comando": "Com 12 máquinas iguais, no mesmo ritmo, o mesmo lote ficará pronto em",
+        "alternativas": [
+          "$10$ horas.",
+          "$12$ horas.",
+          "$18$ horas.",
+          "$22{,}5$ horas.",
+          "$7{,}5$ horas."
+        ],
+        "passos": [
+          "Mais máquinas, menos tempo: as grandezas são inversamente proporcionais.",
+          "O produto se mantém: $8 \\times 15 = 12 \\times x$.",
+          "$120 = 12x \\Rightarrow x = 10$ horas."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B não corresponde a nenhuma relação entre os dados.",
+          "C subtrai em vez de usar a proporção.",
+          "D trata as grandezas como diretas: $\\dfrac{8}{15} = \\dfrac{12}{x}$.",
+          "E divide o tempo por 2, como se as máquinas tivessem dobrado."
+        ]
+      },
+      {
+        "suporte": [
+          "Um soro contém 9 g de sal para cada 1 litro de solução."
+        ],
+        "comando": "Em uma bolsa de 250 mL desse soro, a massa de sal é",
+        "alternativas": [
+          "$0{,}225$ g.",
+          "$2{,}25$ g.",
+          "$22{,}5$ g.",
+          "$36$ g.",
+          "$2\\,250$ g."
+        ],
+        "passos": [
+          "Converta: $250$ mL $= 0{,}25$ L.",
+          "Proporção direta: $9 \\times 0{,}25 = 2{,}25$ g.",
+          "A bolsa tem $2{,}25$ g de sal."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A erra a vírgula e divide por 10 a mais.",
+          "C erra a vírgula e multiplica por 10 a mais.",
+          "D divide 9 por $0{,}25$.",
+          "E multiplica 9 por 250 sem converter mL em L."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma família de 4 pessoas consome 12 kg de arroz por mês. Ela vai receber 2 parentes, que ficarão o mês inteiro."
+        ],
+        "comando": "Mantido o consumo por pessoa, o consumo mensal de arroz passará a ser",
+        "alternativas": [
+          "$14$ kg.",
+          "$16$ kg.",
+          "$18$ kg.",
+          "$24$ kg.",
+          "$8$ kg."
+        ],
+        "passos": [
+          "Consumo por pessoa: $12 \\div 4 = 3$ kg por mês.",
+          "Total de pessoas: $4 + 2 = 6$.",
+          "Novo consumo: $3 \\times 6 = 18$ kg."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A soma 2 kg, como se cada parente consumisse 1 kg.",
+          "B soma 4 kg, um valor sem relação com o consumo por pessoa.",
+          "D dobra o consumo, como se a família tivesse dobrado.",
+          "E trata as grandezas como inversas."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q043",
+        "correta": "B",
+        "justificativa": "Massa total: $900 \\times 250 = 225\\,000$ kg. Unidades animais: $225\\,000 \\div 450 = 500$ UA. Taxa de lotação: $500 \\div 100 = 5{,}0$ UA/ha.",
+        "distratores": [
+          "A, $2{,}5$, é a metade do valor correto, como se a massa total fosse a metade.",
+          "C, $7{,}5$, não resulta de nenhuma etapa correta do cálculo.",
+          "D, $12{,}5$, não resulta de nenhuma etapa correta do cálculo.",
+          "E, $18{,}0$, ignora a conversão da massa em unidades animais."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q013",
+        "correta": "A",
+        "justificativa": "Cada cavalo faz $180 \\div 30 = 6$ sessões por dia e $6 \\times 4 = 24$ por semana. Os 12 cavalos fazem $24 \\times 12 = 288$ sessões. Como cada pessoa usa 2 sessões, são $288 \\div 2 = 144$ pessoas.",
+        "distratores": [
+          "B, 180, considera 5 dias de atendimento (de segunda a sexta) em vez de 4.",
+          "C, 288, é o número de sessões, e esquece que cada pessoa faz duas.",
+          "D, 360, usa 5 dias e esquece as duas sessões por pessoa.",
+          "E, 576, multiplica por 2 em vez de dividir."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q014",
+        "correta": "C",
+        "justificativa": "Com força constante, $P = \\dfrac{F}{A}$: pressão e área são inversamente proporcionais. Uma faca afiada tem área de contato menor, então a pressão é maior.",
+        "distratores": [
+          "A trata as grandezas como diretas e erra a conclusão.",
+          "B trata as grandezas como diretas e diz que a área aumenta.",
+          "D acerta a relação inversa, mas diz que a área aumenta.",
+          "E acerta a relação, mas conclui que a pressão diminui."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q023",
+        "correta": "B",
+        "justificativa": "O mínimo é 15 mg por kg. Como $1{,}5$ g $= 0{,}0015$ kg, o iodo mínimo é $15 \\times 0{,}0015 = 0{,}0225$ mg, cerca de $0{,}02$ mg.",
+        "distratores": [
+          "A, $0{,}01$, arredonda para baixo um valor que é $0{,}0225$.",
+          "C, $1{,}50$, repete a massa de sal em gramas.",
+          "D, $3{,}00$, não resulta da conversão correta de gramas para quilogramas.",
+          "E, $4{,}50$, não resulta da conversão correta e se aproxima do limite máximo (45 mg/kg)."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q004",
+        "correta": "B",
+        "justificativa": "Com $E = 0{,}6$ m: $\\dfrac{500 \\cdot 0{,}6}{10} = 30$ g/m. No sulco de 150 m: $30 \\times 150 = 4\\,500$ g $= 4{,}5$ kg.",
+        "distratores": [
+          "A, $3{,}0$, usa 100 m de sulco em vez de 150.",
+          "C, $30{,}0$, é a quantidade por metro, em gramas, sem multiplicar pelo comprimento.",
+          "D, $450{,}0$, erra a conversão de gramas para quilogramas.",
+          "E, $4\\,500{,}0$, dá o valor em gramas como se fosse em quilogramas."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q036",
+        "correta": "D",
+        "justificativa": "A razão habitantes : eleitores é $\\dfrac{12}{9} = \\dfrac{4}{3}$. Para cada 3 eleitores existem 4 habitantes.",
+        "distratores": [
+          "A, 75, confunde a razão com a porcentagem de eleitores ($9 \\div 12 = 75\\%$).",
+          "B, 40, não corresponde à razão.",
+          "C, 30, multiplica 3 por 10 sem relação com os dados.",
+          "E, 3, iguala habitantes e eleitores."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q019",
+        "correta": "C",
+        "justificativa": "Comprimento total: $25 \\times 0{,}30 = 7{,}5$ m. Tempo: $7{,}5 \\div 3 = 2{,}5$ min, ou seja, 2 min 30 s.",
+        "distratores": [
+          "A, 1 min 40 s, corresponde a 5 m de papel.",
+          "B, 2 min 20 s, converte $0{,}5$ min como se fossem 20 s.",
+          "D, 3 min 50 s, corresponde a mais papel que os 7,5 m do documento.",
+          "E, 3 min 40 s, corresponde a mais papel que os 7,5 m do documento."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q042",
+        "correta": "C",
+        "justificativa": "50 kg viram 125 garrafas, e cada 5 garrafas viram 40 copos. Logo, $125 \\div 5 = 25$ grupos e $25 \\times 40 = 1\\,000$ copos.",
+        "distratores": [
+          "A, $15\\,625$, multiplica $125 \\times 125$.",
+          "B, $1\\,600$, multiplica $40 \\times 40$.",
+          "D, 160, multiplica $40 \\times 4$.",
+          "E, 100, divide em vez de multiplicar."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q019",
+        "correta": "B",
+        "justificativa": "5 alqueires paulistas $= 5 \\times 2{,}42 = 12{,}1$ ha. A colheita esperada é $12{,}1 \\times 48 = 580{,}8$ sacas, mais próxima de 580.",
+        "distratores": [
+          "A, 250, multiplica 5 por 48 sem converter para hectares.",
+          "C, 840, não corresponde a nenhum alqueire do texto.",
+          "D, $1\\,160$, usa o alqueire mineiro (4,84 ha).",
+          "E, $4\\,640$, usa o alqueirão (19,36 ha)."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q037",
+        "correta": "D",
+        "justificativa": "Cada bicicleta ocupa $90 \\div 72 = 1{,}25$ m². O ônibus ocupa 30 m², o equivalente a $30 \\div 1{,}25 = 24$ bicicletas.",
+        "distratores": [
+          "A compara passageiros, não área ocupada, e o ônibus equivale a 60 carros em passageiros.",
+          "B confunde área (90 m²) com número de bicicletas.",
+          "C: cada carro ocupa cerca de $16{,}7$ m², então 30 m² equivalem a menos de 2 carros.",
+          "E multiplica em vez de dividir."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q016",
+        "correta": "B",
+        "justificativa": "A areia custa $2 \\times 75 = 150$ reais. O frete é $450 - 150 = 300$ reais. Como o frete é $5 \\times 2 = 10$ reais por km, a distância é $300 \\div 10 = 30$ km.",
+        "distratores": [
+          "A, 15, divide o frete por 20, dobrando o custo por km.",
+          "C, 45, divide o valor total por 10, sem descontar a areia.",
+          "D, 60, divide o frete por 5, esquecendo os 2 m³.",
+          "E, 75, repete o preço do metro cúbico."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q016",
+        "correta": "C",
+        "justificativa": "3 min $= 180$ s. Fotogramas: $180 \\times 24 = 4\\,320$. Comprimento: $4\\,320 \\times 30 = 129\\,600$ mm $= 129{,}6$ m, cerca de 130 m.",
+        "distratores": [
+          "A, 70, corresponde a pouco mais da metade do comprimento correto.",
+          "B, 90, corresponde a cerca de 2 minutos de filme, não 3.",
+          "D, 150, supera o valor correto, de 129,6 m.",
+          "E, 220, supera muito o valor correto."
+        ]
+      }
+    ],
+    "resumo": [
+      "Razão $\\dfrac{a}{b}$: a ordem importa.",
+      "Proporção: $\\dfrac{a}{b} = \\dfrac{c}{d} \\Leftrightarrow ad = bc$.",
+      "Diretas: dobra uma, dobra a outra (razão constante).",
+      "Inversas: dobra uma, a outra cai pela metade (produto constante).",
+      "Regra de três: tabela, direta ou inversa, multiplique e confira.",
+      "Escala $1 : n$: medida real $=$ medida no mapa $\\times n$.",
+      "1 ha $= 10\\,000$ m²; 1 L $= 1\\,000$ mL; 1 kg $= 1\\,000$ g; 1 h $= 60$ min.",
+      "Converta antes de calcular."
+    ]
+  },
+  "porcentagem-e-matematica-financeira": {
+    "materia": "Matéria 3 · Matemática",
+    "introducao": "Porcentagem aparece em 17 das 23 provas recentes da ETEC, quase sempre dentro de um texto sobre censo, saúde, ambiente ou consumo. Este capítulo ensina a calcular uma porcentagem, achar o total a partir de uma parte, trabalhar com aumentos e descontos, comparar variações e entender juros simples. Com o método dos fatores, a maior parte das contas cabe numa linha.",
+    "codigos": [
+      "MA04"
+    ],
+    "raioX": "As perguntas mais comuns: achar o total quando se conhece uma parte e sua porcentagem; calcular uma variação percentual entre dois valores; interpretar porcentagens de um gráfico ou tabela; e aplicar aumento, desconto ou imposto. Os distratores trazem a diferença de pontos percentuais no lugar da variação percentual, a porcentagem calculada sobre a base errada ou a soma de porcentagens que não se somam.",
+    "intuicao": [
+      "Porcentagem é uma fração de denominador 100: $25\\% = \\dfrac{25}{100} = 0{,}25$.",
+      "Pergunte sempre: “por cento de quê?”. A base da porcentagem decide a conta.",
+      "Aumento de $p\\%$: multiplique por $1 + \\dfrac{p}{100}$. Desconto de $p\\%$: multiplique por $1 - \\dfrac{p}{100}$.",
+      "Variação percentual $=$ diferença $\\div$ valor inicial. Nunca divida pelo valor final."
+    ],
+    "teoria": [
+      {
+        "titulo": "O que é porcentagem",
+        "texto": "Porcentagem é uma razão com denominador 100. O símbolo % se lê “por cento”, ou seja, “a cada cem”.\n\n$$p\\% = \\frac{p}{100}$$\n\nFormas equivalentes que você deve reconhecer:\n\n• $50\\% = \\dfrac{1}{2} = 0{,}5$\n• $25\\% = \\dfrac{1}{4} = 0{,}25$\n• $20\\% = \\dfrac{1}{5} = 0{,}2$\n• $10\\% = \\dfrac{1}{10} = 0{,}1$\n• $75\\% = \\dfrac{3}{4} = 0{,}75$\n• $1\\% = \\dfrac{1}{100} = 0{,}01$\n\nPara transformar uma fração em porcentagem, divida e multiplique por 100: $\\dfrac{7}{20} = 0{,}35 = 35\\%$."
+      },
+      {
+        "titulo": "Calcular uma porcentagem de um valor",
+        "texto": "Para calcular $p\\%$ de um valor, multiplique o valor pela forma decimal da porcentagem.\n\n$$p\\% \\text{ de } V = \\frac{p}{100} \\cdot V$$\n\nExemplos:\n\n• $55\\%$ de 70 kg: $0{,}55 \\times 70 = 38{,}5$ kg.\n• $12\\%$ de 350: $0{,}12 \\times 350 = 42$.\n\nTruques de cálculo mental:\n\n• $10\\%$: desloque a vírgula uma casa para a esquerda ($10\\%$ de 340 $= 34$).\n• $5\\%$: metade de $10\\%$ ($5\\%$ de 340 $= 17$).\n• $1\\%$: desloque duas casas ($1\\%$ de 340 $= 3{,}4$).\n• Combine: $15\\% = 10\\% + 5\\%$; $30\\% = 3 \\times 10\\%$."
+      },
+      {
+        "titulo": "Achar o total a partir de uma parte",
+        "texto": "Muitas questões dão a parte e a porcentagem e pedem o total. Monte a equação $\\dfrac{p}{100} \\cdot T = \\text{parte}$ e isole $T$.\n\nExemplo: 181 000 km² correspondem a $20\\%$ de uma região. Qual é a área total?\n\n$$0{,}2 \\cdot T = 181\\,000 \\;\\Rightarrow\\; T = \\frac{181\\,000}{0{,}2} = 905\\,000 \\text{ km}^2$$\n\nExemplo com evasão: uma escola tem hoje 600 alunos, depois de perder $30\\%$ dos matriculados no início do ano. Os 600 são os $70\\%$ que ficaram:\n\n$$0{,}7 \\cdot T = 600 \\;\\Rightarrow\\; T = \\frac{600}{0{,}7} \\approx 857$$\n\nCuidado: calcular $30\\%$ de 600 e somar (dando 780) é o erro mais comum, porque a base dos $30\\%$ é o total do início do ano, e não os 600."
+      },
+      {
+        "titulo": "Diferença entre porcentagens e o total",
+        "texto": "Quando o enunciado dá a diferença entre dois grupos em quantidade de pessoas e as porcentagens de cada grupo, use a diferença das porcentagens.\n\nExemplo: $32\\%$ de um grupo usam carro e $21\\%$ usam ônibus. Há 22 pessoas a mais no carro do que no ônibus. Quantas pessoas há no grupo?\n\n$$32\\% - 21\\% = 11\\% \\qquad 0{,}11 \\cdot T = 22 \\;\\Rightarrow\\; T = \\frac{22}{0{,}11} = 200$$\n\nConfira: $32\\%$ de 200 $= 64$ e $21\\%$ de 200 $= 42$; a diferença é $64 - 42 = 22$."
+      },
+      {
+        "titulo": "Aumentos e descontos com fatores",
+        "texto": "O jeito mais seguro de lidar com aumentos e descontos é usar o fator multiplicativo.\n\n• Aumento de $p\\%$: fator $1 + \\dfrac{p}{100}$. Aumento de $12\\%$: $\\times 1{,}12$.\n• Desconto de $p\\%$: fator $1 - \\dfrac{p}{100}$. Desconto de $30\\%$: $\\times 0{,}70$.\n\nSe um prêmio de valor $x$ aumentou $12\\%$, o novo valor é $y = 1{,}12\\,x$. Um imposto de $0{,}38\\%$ sobre uma compra multiplica o total por $1{,}0038$.\n\nAumentos e descontos sucessivos se multiplicam, não se somam. Um aumento de $20\\%$ seguido de um desconto de $20\\%$ não volta ao valor inicial:\n\n$$1{,}20 \\times 0{,}80 = 0{,}96$$\n\nO valor final é $96\\%$ do inicial, ou seja, houve uma queda de $4\\%$.",
+        "figura": {
+          "src": "/apostila-etec/figuras/porcentagem-fatores.svg",
+          "alt": "Barra de 100% comparada com 120% após aumento de 20% e com 80% após desconto de 20%.",
+          "largura": 560,
+          "altura": 230,
+          "legenda": "Aumentar é multiplicar por mais de 1; descontar é multiplicar por menos de 1."
+        }
+      },
+      {
+        "titulo": "Variação percentual",
+        "texto": "Variação percentual mede quanto um valor mudou em relação ao valor inicial:\n\n$$\\text{variação} = \\frac{\\text{valor final} - \\text{valor inicial}}{\\text{valor inicial}} \\times 100\\%$$\n\nExemplos:\n\n• Uma área de campos abertos passou de $13\\%$ para $20\\%$ do território: $\\dfrac{20 - 13}{13} = \\dfrac{7}{13} \\approx 0{,}538$, um aumento de cerca de $54\\%$.\n• Um seguro de 2 400 reais para um homem e 1 680 reais para uma mulher: $\\dfrac{2\\,400 - 1\\,680}{2\\,400} = \\dfrac{720}{2\\,400} = 0{,}30$. A mulher paga $30\\%$ a menos.\n• Uma saca de 60 kg de café verde rende 48 kg torrado: perda de $\\dfrac{12}{60} = 20\\%$.\n\nPontos percentuais × porcentagem: passar de $13\\%$ para $20\\%$ é um aumento de 7 pontos percentuais, mas de cerca de $54\\%$ em relação ao valor inicial. A ETEC explora essa diferença."
+      },
+      {
+        "titulo": "Porcentagens em gráficos e tabelas",
+        "texto": "Em gráficos de setores e tabelas com porcentagens, as partes de um mesmo total somam $100\\%$. Use isso para achar a parte que falta.\n\nExemplo: dormentes de uma ferrovia são $25\\%$ roliços, $30\\%$ semi-roliços, $35\\%$ de duas faces e o restante prismáticos. Prismáticos: $100\\% - 90\\% = 10\\%$.\n\nRazões entre grupos podem ser feitas direto com as porcentagens, porque a base é a mesma: duas faces : semi-roliços $= \\dfrac{35}{30} = \\dfrac{7}{6}$.\n\nAtenção às bases diferentes: se $75\\%$ dos usuários de um aplicativo são homens e $45\\%$ têm entre 25 e 34 anos, não dá para somar $75\\% + 45\\%$. São recortes do mesmo total, e podem se sobrepor.\n\nEm tabelas, leia o cabeçalho de cada coluna: “participação (%)” é a fatia do total; “crescimento (%)” é a variação no tempo."
+      },
+      {
+        "titulo": "Juros simples e compostos",
+        "texto": "Juro é o valor pago pelo uso do dinheiro emprestado (ou recebido numa aplicação). Os termos básicos:\n\n• Capital ($C$): valor inicial.\n• Taxa ($i$): porcentagem por período (ao mês, ao ano).\n• Tempo ($t$): número de períodos.\n• Montante ($M$): capital mais juros.\n\nJuros simples: o juro de cada período é sempre calculado sobre o capital inicial.\n\n$$J = C \\cdot i \\cdot t \\qquad M = C + J$$\n\nExemplo: 2 000 reais a $3\\%$ ao mês por 5 meses: $J = 2\\,000 \\times 0{,}03 \\times 5 = 300$ reais; $M = 2\\,300$ reais.\n\nJuros compostos: o juro de cada período entra no cálculo do seguinte (“juros sobre juros”). É o mesmo que aplicar aumentos sucessivos: $M = C \\cdot (1 + i)^t$. Com 2 000 reais a $3\\%$ ao mês por 2 meses: $2\\,000 \\times 1{,}03 \\times 1{,}03 = 2\\,121{,}80$ reais.\n\nNa ETEC, juros compostos aparecem pouco; quando aparecem, o período é curto e a conta pode ser feita multiplicando o fator mês a mês."
+      },
+      {
+        "titulo": "Educação financeira no cotidiano",
+        "texto": "O edital valoriza a aplicação da Matemática em decisões do dia a dia. Situações típicas:\n\n• Comparar preço à vista e parcelado: some as parcelas e calcule quanto a mais se paga.\n• Comparar ofertas: preço por unidade (por quilograma, por litro) ou “leve 3, pague 2”, que equivale a um desconto de $\\dfrac{1}{3} \\approx 33\\%$ por unidade.\n• Imposto e taxa: multiplicar pelo fator.\n• Câmbio: valor em reais $=$ valor em moeda estrangeira $\\times$ cotação.\n\nExemplo: 2 000 dólares a 2,10 reais custam $2\\,000 \\times 2{,}10 = 4\\,200$ reais. Com um imposto de $0{,}38\\%$: $4\\,200 \\times 1{,}0038 = 4\\,215{,}96$ reais."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Total a partir de uma parte (área, alunos, pessoas).\n• Diferença entre porcentagens de dois grupos e o total.\n• Variação percentual, inclusive “quanto a menos” e “perda de massa”.\n• Porcentagem de um valor (água no corpo, sal no soro, faixa de mata ciliar).\n• Leitura de gráficos e tabelas percentuais.\n• Aumento, desconto, imposto e câmbio por fatores.\n\nOs textos de apoio costumam ser longos e trazer números que não serão usados. Sublinhe só os dados que o comando pede."
+      }
+    ],
+    "armadilha": "Calcular a porcentagem sobre a base errada. “30% de evasão” é sobre os alunos do início do ano, não sobre os que ficaram; “a mulher paga X% a menos que o homem” divide a diferença pelo valor do homem. Antes de dividir, pergunte: “por cento de quê?”.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Uma camiseta custava 80 reais e entrou em promoção com $15\\%$ de desconto."
+        ],
+        "comando": "O preço na promoção é",
+        "alternativas": [
+          "$12$ reais.",
+          "$65$ reais.",
+          "$68$ reais.",
+          "$92$ reais.",
+          "$78{,}80$ reais."
+        ],
+        "passos": [
+          "Fator do desconto: $1 - 0{,}15 = 0{,}85$.",
+          "Preço novo: $80 \\times 0{,}85 = 68$.",
+          "A camiseta sai por 68 reais."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é o valor do desconto, não o preço final.",
+          "B subtrai 15 reais em vez de $15\\%$.",
+          "D aplica um aumento de $15\\%$.",
+          "E subtrai $1{,}5\\%$ em vez de $15\\%$."
+        ]
+      },
+      {
+        "suporte": [
+          "Em uma turma, $40\\%$ dos alunos fazem curso técnico à tarde. Esses alunos são 14."
+        ],
+        "comando": "O número total de alunos da turma é",
+        "alternativas": [
+          "$5{,}6$",
+          "$21$",
+          "$35$",
+          "$54$",
+          "$56$"
+        ],
+        "passos": [
+          "$0{,}4 \\cdot T = 14$.",
+          "$T = \\dfrac{14}{0{,}4} = 35$.",
+          "A turma tem 35 alunos."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A calcula $40\\%$ de 14, invertendo parte e total.",
+          "B soma 14 com $50\\%$ de 14.",
+          "D soma 14 com 40.",
+          "E multiplica 14 por 4."
+        ]
+      },
+      {
+        "suporte": [
+          "A conta de água de uma família passou de 120 reais para 150 reais."
+        ],
+        "comando": "O aumento percentual da conta foi de",
+        "alternativas": [
+          "$20\\%$",
+          "$25\\%$",
+          "$30\\%$",
+          "$80\\%$",
+          "$125\\%$"
+        ],
+        "passos": [
+          "Diferença: $150 - 120 = 30$.",
+          "Variação: $\\dfrac{30}{120} = 0{,}25$.",
+          "Aumento de $25\\%$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A divide a diferença pelo valor final: $\\dfrac{30}{150}$.",
+          "C usa a diferença em reais como porcentagem.",
+          "D calcula $\\dfrac{120}{150}$.",
+          "E calcula $\\dfrac{150}{120}$ e esquece de subtrair $100\\%$."
+        ]
+      },
+      {
+        "suporte": [
+          "Um produto de 200 reais teve aumento de $10\\%$ em janeiro e, em fevereiro, desconto de $10\\%$ sobre o novo preço."
+        ],
+        "comando": "Depois das duas mudanças, o preço é",
+        "alternativas": [
+          "$200$ reais.",
+          "$198$ reais.",
+          "$202$ reais.",
+          "$180$ reais.",
+          "$220$ reais."
+        ],
+        "passos": [
+          "Fatores sucessivos se multiplicam: $1{,}10 \\times 0{,}90 = 0{,}99$.",
+          "Preço final: $200 \\times 0{,}99 = 198$.",
+          "O preço caiu $1\\%$ no total."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A supõe que $+10\\%$ e $-10\\%$ se anulam.",
+          "C inverte o efeito, como se o resultado fosse maior.",
+          "D aplica só o desconto ao preço original.",
+          "E aplica só o aumento."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma pessoa aplica 1 500 reais a juros simples de $2\\%$ ao mês, durante 6 meses."
+        ],
+        "comando": "O montante ao final do período é",
+        "alternativas": [
+          "$1\\,530$ reais.",
+          "$1\\,680$ reais.",
+          "$1\\,800$ reais.",
+          "$180$ reais.",
+          "$1\\,590$ reais."
+        ],
+        "passos": [
+          "Juros: $J = 1\\,500 \\times 0{,}02 \\times 6 = 180$.",
+          "Montante: $M = 1\\,500 + 180 = 1\\,680$.",
+          "A pessoa terá 1 680 reais."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A considera só um mês de juros.",
+          "C usa $20\\%$ em vez de $12\\%$ no total.",
+          "D é só o juro, sem o capital.",
+          "E considera 3 meses."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q024",
+        "correta": "E",
+        "justificativa": "A diferença entre carro ($32\\%$) e ônibus ($21\\%$) é $11\\%$ do grupo, que equivale a 22 pessoas: $0{,}11 \\cdot T = 22 \\Rightarrow T = 200$.",
+        "distratores": [
+          "A, 22, é a diferença em pessoas, não o total.",
+          "B, 53, soma as porcentagens $32 + 21$ como se fossem pessoas.",
+          "C, 87, soma as quatro porcentagens.",
+          "D, 110, divide 22 por $0{,}2$, usando a porcentagem errada."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q026",
+        "correta": "E",
+        "justificativa": "Prismáticos são $100\\% - 25\\% - 30\\% - 35\\% = 10\\%$. A razão duas faces : semi-roliços é $\\dfrac{35}{30} = \\dfrac{7}{6}$.",
+        "distratores": [
+          "A: roliço : prismático é $\\dfrac{25}{10} = \\dfrac{5}{2}$, não $\\dfrac{2}{1}$.",
+          "B: semi-roliços e prismáticos somam $30\\% + 10\\% = 40\\%$.",
+          "C: $10\\%$ de 1 km correspondem a 100 m, não a 300 m.",
+          "D: a diferença entre duas faces e prismáticos é $35\\% - 10\\% = 25\\%$."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q005",
+        "correta": "D",
+        "justificativa": "A perda é $\\dfrac{60 - 48}{60} = \\dfrac{12}{60} = 20\\%$. Para 1 000 kg de café torrado: $\\dfrac{1\\,000}{48} \\approx 20{,}8$, ou seja, no mínimo 21 sacas.",
+        "distratores": [
+          "A acerta as sacas, mas calcula a perda como 12%, usando a diferença em kg como porcentagem.",
+          "B erra as duas lacunas.",
+          "C acerta a perda, mas o número de sacas não corresponde a $1\\,000 \\div 48$.",
+          "E erra a porcentagem e o número de sacas."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q018",
+        "correta": "B",
+        "justificativa": "Nas mulheres a água vai até $55\\%$ da massa. Para 70 kg: $0{,}55 \\times 70 = 38{,}5$ kg, que correspondem a $38{,}5$ L.",
+        "distratores": [
+          "A usa o mínimo de $52\\%$: $0{,}52 \\times 70 = 36{,}4$.",
+          "C usa a porcentagem dos homens ($60\\%$).",
+          "D repete a porcentagem como se fosse o volume.",
+          "E é a massa corporal, não o volume de água."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q001",
+        "correta": "D",
+        "justificativa": "Os 600 alunos são os $70\\%$ que restaram: $0{,}7 \\cdot T = 600 \\Rightarrow T \\approx 857$, cerca de 860.",
+        "distratores": [
+          "A dobra os 600 alunos.",
+          "B não corresponde a $600 \\div 0{,}7$.",
+          "C não corresponde a $600 \\div 0{,}7$.",
+          "E soma $5\\%$ aos 600, sem relação com a evasão de $30\\%$."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q037",
+        "correta": "B",
+        "justificativa": "Pelo exemplo do texto, a ordem dos números é N, P₂O₅ e K₂O. Logo, NPK 4–30–16 tem $4\\%$ de nitrogênio, $30\\%$ de P₂O₅ e $16\\%$ de K₂O.",
+        "distratores": [
+          "A repete os valores do adubo 4–14–8.",
+          "C troca a ordem dos nutrientes e usa os valores do outro adubo.",
+          "D troca a ordem dos nutrientes.",
+          "E troca a ordem dos nutrientes."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q027",
+        "correta": "B",
+        "justificativa": "$4\\%$ de 13 km $= 0{,}04 \\times 13\\,000 = 520$ m. Pelo Código Florestal, rios de 200 m a 600 m de largura exigem faixa de mata ciliar de 200 m.",
+        "distratores": [
+          "A, 500 m, é a faixa para rios com mais de 600 m.",
+          "C, 100 m, é a faixa para rios de 50 m a 200 m.",
+          "D, 50 m, é a faixa para rios de 10 m a 50 m.",
+          "E, 30 m, é a faixa para rios com menos de 10 m."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q036",
+        "correta": "D",
+        "justificativa": "Campos abertos passaram de $13\\%$ para $20\\%$: variação de $\\dfrac{20 - 13}{13} \\approx 54\\%$, mais de $50\\%$.",
+        "distratores": [
+          "A: a floresta diminuiu (de $61\\%$ para $46\\%$).",
+          "B: a água se manteve em $1\\%$.",
+          "C: as plantações aumentaram (de $20\\%$ para $25\\%$).",
+          "E: as áreas urbanas passaram de $5\\%$ para $8\\%$, aumento de $60\\%$, menos de $80\\%$."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q029",
+        "correta": "E",
+        "justificativa": "181 000 km² correspondem a $20\\%$ da área: $T = \\dfrac{181\\,000}{0{,}2} = 905\\,000$ km².",
+        "distratores": [
+          "A repete a área em desertificação.",
+          "B soma $20\\%$ a 181 000.",
+          "C dobra 181 000.",
+          "D não corresponde a $181\\,000 \\div 0{,}2$."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q041",
+        "correta": "C",
+        "justificativa": "A diferença é $2\\,400 - 1\\,680 = 720$ reais. Em relação ao homem: $\\dfrac{720}{2\\,400} = 0{,}30 = 30\\%$.",
+        "distratores": [
+          "A não corresponde à razão entre a diferença e o valor do homem.",
+          "B não corresponde à razão entre a diferença e o valor do homem.",
+          "D não corresponde a nenhuma razão entre os valores.",
+          "E é a razão $\\dfrac{1\\,680}{2\\,400} = 70\\%$, o quanto a mulher paga, não quanto paga a menos."
+        ]
+      }
+    ],
+    "resumo": [
+      "$p\\% = \\dfrac{p}{100}$; $p\\%$ de $V = \\dfrac{p}{100} \\cdot V$.",
+      "Total a partir da parte: $T = \\text{parte} \\div \\dfrac{p}{100}$.",
+      "Aumento de $p\\%$: $\\times\\left(1 + \\dfrac{p}{100}\\right)$; desconto: $\\times\\left(1 - \\dfrac{p}{100}\\right)$.",
+      "Sucessivos: multiplique os fatores ($1{,}2 \\times 0{,}8 = 0{,}96$).",
+      "Variação $= \\dfrac{\\text{final} - \\text{inicial}}{\\text{inicial}}$.",
+      "Pontos percentuais não são porcentagem de variação.",
+      "Juros simples: $J = C \\cdot i \\cdot t$; $M = C + J$.",
+      "Pergunte sempre: por cento de quê?"
+    ]
+  },
+  "geometria-plana-e-medidas": {
+    "materia": "Matéria 3 · Matemática",
+    "introducao": "Polígonos, triângulos, ângulos, perímetros e áreas aparecem em 15 das 23 provas recentes. A ETEC usa painéis de azulejo, mapas, terrenos, peças de tangram e cartões de visita para cobrar o reconhecimento das figuras e o cálculo de áreas e perímetros. Este capítulo reúne as definições e fórmulas do 9º ano que bastam para essas questões.",
+    "codigos": [
+      "MA08"
+    ],
+    "raioX": "As questões pedem para classificar um triângulo pelos lados e pelos ângulos, reconhecer um polígono pela descrição, calcular área ou perímetro (às vezes com expressões algébricas) e comparar áreas de figuras semelhantes. As fórmulas menos comuns, como a área do círculo, costumam vir no enunciado, com $\\pi = 3$.",
+    "intuicao": [
+      "Perímetro é contorno (soma dos lados, em metros); área é superfície (em metros quadrados).",
+      "Antes de calcular uma área, ponha todas as medidas na mesma unidade.",
+      "Se as medidas de uma figura dobram, o perímetro dobra e a área fica quatro vezes maior.",
+      "Figura complicada? Divida em retângulos e triângulos, ou calcule o todo e subtraia o que sobra."
+    ],
+    "teoria": [
+      {
+        "titulo": "Polígonos e seus nomes",
+        "texto": "Polígono é uma figura plana fechada formada por segmentos de reta (os lados). O nome depende do número de lados:\n\n• 3 lados: triângulo; 4: quadrilátero; 5: pentágono; 6: hexágono; 7: heptágono; 8: octógono; 10: decágono; 11: undecágono; 12: dodecágono.\n\nPolígono regular tem todos os lados iguais e todos os ângulos iguais (triângulo equilátero, quadrado, hexágono regular).\n\nPolígono convexo não tem “reentrâncias”: qualquer segmento ligando dois pontos de dentro fica dentro dele. Côncavo tem pelo menos uma reentrância.\n\nSoma dos ângulos internos de um polígono de $n$ lados:\n\n$$S = (n - 2) \\cdot 180^\\circ$$\n\nNo polígono regular, cada ângulo interno mede $\\dfrac{(n - 2) \\cdot 180^\\circ}{n}$. Pentágono regular: $\\dfrac{3 \\cdot 180^\\circ}{5} = 108^\\circ$. Hexágono regular: $120^\\circ$."
+      },
+      {
+        "titulo": "Quadriláteros notáveis",
+        "texto": "Os quadriláteros mais cobrados e o que os define:\n\n• Paralelogramo: lados opostos paralelos e iguais.\n• Retângulo: paralelogramo com quatro ângulos retos.\n• Losango: paralelogramo com quatro lados iguais; tem dois ângulos agudos e dois obtusos (quando não é quadrado).\n• Quadrado: quatro lados iguais e quatro ângulos retos. É ao mesmo tempo retângulo e losango.\n• Trapézio: apenas um par de lados paralelos (as bases). Trapézio retângulo tem dois ângulos retos; isósceles tem os lados não paralelos iguais.\n\nPara identificar a figura “obrigatoriamente” descrita, procure a que tem todas as propriedades citadas e nenhuma contradição: quatro lados iguais com dois ângulos agudos e dois obtusos é um losango; um quadrado não serve, porque tem todos os ângulos retos."
+      },
+      {
+        "titulo": "Triângulos: classificação por lados e por ângulos",
+        "texto": "Pelos lados:\n\n• Equilátero: três lados iguais (e três ângulos de $60^\\circ$).\n• Isósceles: pelo menos dois lados iguais; os ângulos da base são iguais.\n• Escaleno: três lados diferentes.\n\nPelos ângulos:\n\n• Acutângulo: três ângulos agudos (menores que $90^\\circ$).\n• Retângulo: um ângulo reto ($90^\\circ$).\n• Obtusângulo: um ângulo obtuso (maior que $90^\\circ$).\n\nA soma dos ângulos internos de qualquer triângulo é $180^\\circ$.\n\nComo saber pelos lados se o triângulo é acutângulo, retângulo ou obtusângulo? Sendo $a$ o maior lado:\n\n• $a^2 = b^2 + c^2$: retângulo.\n• $a^2 > b^2 + c^2$: obtusângulo.\n• $a^2 < b^2 + c^2$: acutângulo.\n\nExemplo: lados de 500 m, 500 m e 800 m. É isósceles (dois lados iguais). Como $800^2 = 640\\,000$ e $500^2 + 500^2 = 500\\,000$, temos $640\\,000 > 500\\,000$: é obtusângulo.\n\nDesigualdade triangular: cada lado é menor que a soma dos outros dois. Com 2, 3 e 7 não se forma triângulo."
+      },
+      {
+        "titulo": "Perímetro",
+        "texto": "Perímetro é a medida do contorno: a soma de todos os lados.\n\n• Retângulo de lados $a$ e $b$: $P = 2a + 2b$.\n• Quadrado de lado $\\ell$: $P = 4\\ell$.\n• Circunferência de raio $r$: $C = 2 \\pi r$.\n\nCom expressões algébricas: um painel retangular de lados $3x$ e $y$ tem perímetro $3x + y + 3x + y = 6x + 2y$.\n\nPara cercar um terreno, o comprimento da cerca é o perímetro. Se algum lado não aparece, ele pode ser obtido pelo teorema de Pitágoras (veja o capítulo de triângulos e sólidos)."
+      },
+      {
+        "titulo": "Área das figuras planas",
+        "texto": "Área mede a superfície ocupada pela figura e se expressa em unidades quadradas (cm², m², km², hectares).\n\n• Retângulo: $A = b \\cdot h$.\n• Quadrado: $A = \\ell^2$.\n• Paralelogramo: $A = b \\cdot h$ (altura perpendicular à base).\n• Triângulo: $A = \\dfrac{b \\cdot h}{2}$.\n• Losango: $A = \\dfrac{D \\cdot d}{2}$ (diagonais).\n• Trapézio: $A = \\dfrac{(B + b) \\cdot h}{2}$.\n• Círculo: $A = \\pi r^2$.\n\nExemplo com expressões: o painel de lados $3x$ e $y$ tem área $3x \\cdot y = 3xy$.\n\nCoroa circular (região entre dois círculos de mesmo centro) $=$ área do maior $-$ área do menor. Com raios 15 m e 10 m e $\\pi = 3$:\n\n$$A = 3 \\cdot 15^2 - 3 \\cdot 10^2 = 675 - 300 = 375 \\text{ m}^2$$",
+        "figura": {
+          "src": "/apostila-etec/figuras/areas-planas.svg",
+          "alt": "Retângulo, triângulo, trapézio e círculo com as fórmulas de área de cada um.",
+          "largura": 560,
+          "altura": 300,
+          "legenda": "As quatro fórmulas de área que resolvem quase todas as questões de geometria plana da ETEC."
+        }
+      },
+      {
+        "titulo": "Revestir uma superfície",
+        "texto": "Para saber quantas peças (azulejos, pisos, placas) cobrem uma superfície, divida a área total pela área de uma peça, na mesma unidade.\n\nExemplo: um painel de $1{,}5 \\text{ m} \\times 2{,}4 \\text{ m}$ será coberto com azulejos de $15 \\text{ cm} \\times 15 \\text{ cm}$.\n\n$$\\text{painel} = 150 \\cdot 240 = 36\\,000 \\text{ cm}^2 \\qquad \\text{azulejo} = 15 \\cdot 15 = 225 \\text{ cm}^2 \\qquad \\frac{36\\,000}{225} = 160$$\n\nTambém dá para contar por lado: $150 \\div 15 = 10$ azulejos numa direção e $240 \\div 15 = 16$ na outra; $10 \\times 16 = 160$.\n\nConversões de área: 1 m² $= 10\\,000$ cm² (porque $100 \\times 100$); 1 ha $= 10\\,000$ m²; 1 km² $= 1\\,000\\,000$ m². Um quadrado de $500 \\text{ m} \\times 500 \\text{ m}$ tem $250\\,000$ m² $= 25$ ha."
+      },
+      {
+        "titulo": "Ampliação, redução e área",
+        "texto": "Quando todas as medidas de uma figura são multiplicadas por um número $k$, as figuras são semelhantes e:\n\n• os perímetros ficam multiplicados por $k$;\n• as áreas ficam multiplicadas por $k^2$.\n\nExemplo: dois triângulos retângulos isósceles, um com catetos de 70 km e outro com catetos de 140 km. A razão é $k = 2$; a área do maior é $2^2 = 4$ vezes a do menor.\n\n$$\\frac{140 \\cdot 140}{2} = 9\\,800 \\qquad \\frac{70 \\cdot 70}{2} = 2\\,450 \\qquad \\frac{9\\,800}{2\\,450} = 4$$\n\nEsse é um dos distratores favoritos da ETEC: dizer que a área “dobra” quando os lados dobram."
+      },
+      {
+        "titulo": "Tangram e decomposição de figuras",
+        "texto": "O tangram é um quadrado dividido em sete peças: cinco triângulos retângulos isósceles (dois grandes, um médio e dois pequenos), um quadrado e um paralelogramo. Por isso, tem cinco triângulos e dois quadriláteros.\n\nAs áreas das peças são frações simples do quadrado inteiro:\n\n• Cada triângulo grande: $\\dfrac{1}{4}$ do total.\n• Triângulo médio, quadrado e paralelogramo: $\\dfrac{1}{8}$ cada.\n• Cada triângulo pequeno: $\\dfrac{1}{16}$.\n\nSe um triângulo grande tem 16 cm², o quadrado inteiro tem $4 \\times 16 = 64$ cm², e o quadradinho do tangram tem $64 \\div 8 = 8$ cm².\n\nA mesma estratégia vale para qualquer figura composta: divida em partes conhecidas, calcule cada área e some (ou calcule o todo e subtraia o que falta)."
+      },
+      {
+        "titulo": "Plano cartesiano e distância entre pontos",
+        "texto": "No plano cartesiano, cada ponto tem coordenadas $(x, y)$: $x$ no eixo horizontal e $y$ no vertical.\n\nA distância entre dois pontos sai do teorema de Pitágoras:\n\n$$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$\n\nPara saber se um ponto está dentro de um círculo de centro na origem e raio $r$, compare a distância até a origem com $r$. Muitas vezes basta comparar os quadrados: $(1, 6)$ está fora de um círculo de raio 6, porque $1^2 + 6^2 = 37 > 36$."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Classificar triângulos por lados e ângulos a partir de medidas.\n• Reconhecer o polígono descrito (losango, undecágono, pentágono regular).\n• Área e perímetro com expressões algébricas ($3xy$, $6x + 2y$).\n• Área de coroa circular ou de figura composta, com $\\pi = 3$.\n• Revestimento com azulejos.\n• Comparação de áreas de figuras semelhantes.\n• Tangram e decomposição.\n• Altura de triângulo com seno dado no enunciado.\n\nOs valores de $\\pi$, de seno e cosseno e as fórmulas menos comuns aparecem no próprio enunciado. Use exatamente os valores dados."
+      }
+    ],
+    "armadilha": "Achar que a área cresce na mesma proporção que os lados. Dobrando os lados, a área fica quatro vezes maior; triplicando, nove vezes. Outra armadilha é misturar unidades: 1 m² são $10\\,000$ cm², não 100.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Um terreno retangular mede 18 m por 25 m."
+        ],
+        "comando": "A área e o perímetro do terreno são, respectivamente,",
+        "alternativas": [
+          "$450$ m² e $86$ m.",
+          "$450$ m² e $43$ m.",
+          "$86$ m² e $450$ m.",
+          "$225$ m² e $86$ m.",
+          "$900$ m² e $86$ m."
+        ],
+        "passos": [
+          "Área: $18 \\times 25 = 450$ m².",
+          "Perímetro: $2 \\times 18 + 2 \\times 25 = 36 + 50 = 86$ m.",
+          "Resposta: 450 m² e 86 m."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B soma só dois lados para o perímetro.",
+          "C troca área e perímetro, e também as unidades.",
+          "D divide a área por 2, como se fosse um triângulo.",
+          "E dobra a área."
+        ]
+      },
+      {
+        "suporte": [
+          "Um triângulo tem lados de 6 cm, 8 cm e 11 cm."
+        ],
+        "comando": "Esse triângulo é",
+        "alternativas": [
+          "escaleno e retângulo.",
+          "escaleno e obtusângulo.",
+          "escaleno e acutângulo.",
+          "isósceles e obtusângulo.",
+          "equilátero e acutângulo."
+        ],
+        "passos": [
+          "Os três lados são diferentes: escaleno.",
+          "Maior lado ao quadrado: $11^2 = 121$. Soma dos outros: $6^2 + 8^2 = 36 + 64 = 100$.",
+          "Como $121 > 100$, o triângulo é obtusângulo."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A exigiria $121 = 100$.",
+          "C exigiria $121 < 100$.",
+          "D: não há lados iguais.",
+          "E: os lados não são iguais."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma praça circular tem raio de 20 m. No centro há um chafariz circular de raio 4 m. O restante será gramado. Use $\\pi = 3$."
+        ],
+        "comando": "A área a ser gramada é",
+        "alternativas": [
+          "$1\\,152$ m²",
+          "$1\\,200$ m²",
+          "$48$ m²",
+          "$96$ m²",
+          "$1\\,248$ m²"
+        ],
+        "passos": [
+          "Área da praça: $3 \\cdot 20^2 = 3 \\cdot 400 = 1\\,200$ m².",
+          "Área do chafariz: $3 \\cdot 4^2 = 48$ m².",
+          "Gramado: $1\\,200 - 48 = 1\\,152$ m²."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B esquece de descontar o chafariz.",
+          "C é só a área do chafariz.",
+          "D usa $2\\pi r$ do chafariz, que é comprimento.",
+          "E soma as áreas em vez de subtrair."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma cozinha retangular de $3 \\text{ m} \\times 4 \\text{ m}$ será revestida com pisos quadrados de 50 cm de lado."
+        ],
+        "comando": "O número mínimo de pisos necessários é",
+        "alternativas": [
+          "$12$",
+          "$24$",
+          "$48$",
+          "$96$",
+          "$4\\,800$"
+        ],
+        "passos": [
+          "Pisos por lado: $300 \\div 50 = 6$ e $400 \\div 50 = 8$.",
+          "Total: $6 \\times 8 = 48$.",
+          "Conferindo pela área: $12 \\div 0{,}25 = 48$."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é a área da cozinha em m².",
+          "B divide a área por $0{,}5$, usando o lado em vez da área do piso.",
+          "D dobra o número correto.",
+          "E divide $120\\,000$ por 25, esquecendo de elevar o lado ao quadrado."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma foto retangular de $10 \\text{ cm} \\times 15 \\text{ cm}$ foi ampliada, e cada lado ficou 3 vezes maior."
+        ],
+        "comando": "A área da foto ampliada é",
+        "alternativas": [
+          "$3$ vezes a original.",
+          "$6$ vezes a original.",
+          "$9$ vezes a original.",
+          "$12$ vezes a original.",
+          "igual à original."
+        ],
+        "passos": [
+          "Original: $10 \\times 15 = 150$ cm².",
+          "Ampliada: $30 \\times 45 = 1\\,350$ cm².",
+          "$1\\,350 \\div 150 = 9 = 3^2$."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A aplica o fator aos lados, não à área.",
+          "B soma os fatores ($3 + 3$).",
+          "D não corresponde a nenhuma relação.",
+          "E ignora a ampliação."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2023-2-q039",
+        "correta": "C",
+        "justificativa": "Dois lados medem 500 m: o triângulo é isósceles. Como $800^2 = 640\\,000 > 500^2 + 500^2 = 500\\,000$, o ângulo oposto ao maior lado é obtuso: obtusângulo.",
+        "distratores": [
+          "A acerta isósceles, mas o triângulo não é acutângulo.",
+          "B: com dois lados iguais, não é escaleno.",
+          "D: não é escaleno.",
+          "E: seria retângulo só se $800^2$ fosse igual a $500\\,000$."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q008",
+        "correta": "A",
+        "justificativa": "Quatro lados iguais, com dois ângulos agudos e dois obtusos: é o losango.",
+        "distratores": [
+          "B: o pentágono tem cinco lados.",
+          "C: o quadrado tem quatro ângulos retos.",
+          "D: o retângulo tem ângulos retos e, em geral, lados diferentes.",
+          "E: o triângulo tem três lados."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q040",
+        "correta": "D",
+        "justificativa": "Os dois triângulos são retângulos e isósceles ($45^\\circ$). Os catetos de DEF (140 km) são o dobro dos de ABC (70 km); logo, a área é $2^2 = 4$ vezes maior: $9\\,800 \\div 2\\,450 = 4$.",
+        "distratores": [
+          "A inverte a relação.",
+          "B inverte e eleva ao quadrado.",
+          "C aplica o fator 2 à área, sem elevar ao quadrado.",
+          "E não corresponde ao quadrado do fator de ampliação."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q035",
+        "correta": "D",
+        "justificativa": "O triângulo ABO é um dos triângulos grandes, $\\dfrac{1}{4}$ do quadrado: o quadrado inteiro tem $4 \\times 16 = 64$ cm². O quadrado OPQR é $\\dfrac{1}{8}$ do total: $64 \\div 8 = 8$ cm².",
+        "distratores": [
+          "A corresponde a $\\dfrac{1}{32}$ do total.",
+          "B é a área de um triângulo pequeno ($\\dfrac{1}{16}$ do total).",
+          "C não corresponde a nenhuma peça.",
+          "E não corresponde a nenhuma peça."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q034",
+        "correta": "E",
+        "justificativa": "O tangram tem cinco triângulos, um quadrado e um paralelogramo: dois quadriláteros e cinco triângulos.",
+        "distratores": [
+          "A: as peças são convexas.",
+          "B: há também um quadrado e um paralelogramo.",
+          "C: há triângulos, e o paralelogramo não é regular.",
+          "D: não há trapézios, mas um quadrado e um paralelogramo."
+        ]
+      },
+      {
+        "id": "etec-2016-2-q026",
+        "correta": "D",
+        "justificativa": "Coroa $=$ círculo maior $-$ círculo menor $= 3 \\cdot 15^2 - 3 \\cdot 10^2 = 675 - 300 = 375$ m².",
+        "distratores": [
+          "A usa $3 \\cdot (15 - 10)^2$.",
+          "B subtrai os quadrados sem multiplicar por $\\pi$.",
+          "C é $15^2$, sem $\\pi$ e sem subtrair.",
+          "E é só a área do círculo maior."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q036",
+        "correta": "A",
+        "justificativa": "Com azulejos de 15 cm: $150 \\div 15 = 10$ e $240 \\div 15 = 16$, total $10 \\times 16 = 160$. Pela área: $36\\,000 \\div 225 = 160$.",
+        "distratores": [
+          "B não cobre o painel inteiro.",
+          "C não cobre o painel inteiro.",
+          "D é a metade do necessário.",
+          "E não cobre o painel inteiro."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q030",
+        "correta": "D",
+        "justificativa": "Pela figura, o painel é um retângulo de lados $3x$ e $y$. Área: $3x \\cdot y = 3xy$. Perímetro: $2 \\cdot 3x + 2 \\cdot y = 6x + 2y$.",
+        "distratores": [
+          "A acerta a área, mas soma só dois lados no perímetro.",
+          "B soma em vez de multiplicar na área.",
+          "C eleva as medidas ao quadrado na área e erra o perímetro.",
+          "E erra a área e o perímetro."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q022",
+        "correta": "D",
+        "justificativa": "A altura relativa a AI é o cateto oposto ao ângulo de $60^\\circ$, com hipotenusa EI: $h = 2 \\cdot \\text{sen } 60^\\circ = 2 \\times 0{,}87 = 1{,}74$ m.",
+        "distratores": [
+          "A divide por 2 o valor do seno.",
+          "B usa só o seno, sem multiplicar por EI.",
+          "C usa $2 \\cdot \\cos 60^\\circ$.",
+          "E dobra o valor correto."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q033",
+        "correta": "A",
+        "justificativa": "As faces são pentágonos regulares. Cada ângulo interno mede $\\dfrac{(5 - 2) \\cdot 180^\\circ}{5} = 108^\\circ$.",
+        "distratores": [
+          "B é a soma dos ângulos de um triângulo.",
+          "C é a soma dos ângulos de um quadrilátero.",
+          "D não corresponde a nenhuma soma de ângulos.",
+          "E é a soma dos ângulos internos do pentágono, não um ângulo só."
+        ]
+      }
+    ],
+    "resumo": [
+      "Soma dos ângulos internos: $(n - 2) \\cdot 180^\\circ$; triângulo: $180^\\circ$.",
+      "Losango: 4 lados iguais; quadrado: 4 lados iguais e 4 ângulos retos.",
+      "Maior lado $a$: $a^2 = b^2 + c^2$ retângulo; $>$ obtusângulo; $<$ acutângulo.",
+      "Áreas: $bh$; $\\dfrac{bh}{2}$; $\\dfrac{(B + b)h}{2}$; $\\pi r^2$.",
+      "Perímetro: soma dos lados; circunferência $2\\pi r$.",
+      "Lados $\\times k$: perímetro $\\times k$, área $\\times k^2$.",
+      "1 m² $= 10\\,000$ cm²; 1 ha $= 10\\,000$ m².",
+      "Tangram: 5 triângulos e 2 quadriláteros."
+    ]
+  },
+  "triangulos-pitagoras-e-solidos": {
+    "materia": "Matéria 3 · Matemática",
+    "introducao": "Este capítulo junta dois assuntos que a ETEC costuma cobrar com figuras: os triângulos (semelhança, teorema de Pitágoras e as razões seno, cosseno e tangente) e os sólidos geométricos (volume de prismas e cilindros). Juntos, aparecem em 18 das 23 provas recentes. As fórmulas de trigonometria e de volume quase sempre vêm no enunciado; o que a prova testa é saber montar a figura e escolher a relação certa.",
+    "codigos": [
+      "MA09",
+      "MA10"
+    ],
+    "raioX": "Os formatos mais comuns são: distância em linha reta depois de deslocamentos para leste, norte e sul (Pitágoras); medidas de barragens, rampas e painéis solares com seno, cosseno ou tangente dados; pontos dentro ou fora de um círculo no plano cartesiano; e volume de cilindros (passagens de fauna, melanossomos) e de paralelepípedos (dormentes de ferrovia). Os distratores usam o diâmetro no lugar do raio, esquecem de elevar ao quadrado ou trocam seno por cosseno.",
+    "intuicao": [
+      "Desenhe sempre. Um esboço rápido do triângulo, com o ângulo reto marcado, já mostra qual lado é a hipotenusa.",
+      "Em Pitágoras, a hipotenusa é o maior lado e fica oposta ao ângulo reto: $a^2 = b^2 + c^2$.",
+      "Seno usa o cateto oposto, cosseno o adjacente e tangente os dois catetos.",
+      "Volume de prisma e de cilindro: área da base vezes altura. No cilindro, use o raio (metade do diâmetro)."
+    ],
+    "teoria": [
+      {
+        "titulo": "Semelhança de triângulos",
+        "texto": "Dois triângulos são semelhantes quando têm os mesmos ângulos. Nesse caso, os lados correspondentes são proporcionais.\n\n$$\\frac{a}{a'} = \\frac{b}{b'} = \\frac{c}{c'} = k$$\n\nO número $k$ é a razão de semelhança. Basta ter dois ângulos iguais para garantir a semelhança (o terceiro é igual automaticamente, porque a soma é $180^\\circ$).\n\nAplicação clássica: sombras. No mesmo instante, o Sol forma o mesmo ângulo com objetos verticais. Se um poste de 6 m faz sombra de 4 m e uma vara de 1,5 m faz sombra de 1 m, os triângulos são semelhantes: $\\dfrac{6}{4} = \\dfrac{1{,}5}{1} = 1{,}5$.\n\nTeorema de Tales: retas paralelas cortadas por duas transversais determinam segmentos proporcionais. É a mesma ideia de semelhança, usada para medir distâncias inacessíveis (a largura de um rio, a distância até um ponto no mar).",
+        "figura": {
+          "src": "/apostila-etec/figuras/semelhanca-tales.svg",
+          "alt": "Poste de 6 metros com sombra de 4 metros e vara de 1,5 metro com sombra de 1 metro, formando triângulos semelhantes.",
+          "largura": 560,
+          "altura": 250,
+          "legenda": "Sob o mesmo Sol, altura e sombra são proporcionais."
+        }
+      },
+      {
+        "titulo": "Teorema de Pitágoras",
+        "texto": "Em todo triângulo retângulo, o quadrado da hipotenusa é igual à soma dos quadrados dos catetos:\n\n$$a^2 = b^2 + c^2$$\n\nA hipotenusa ($a$) é o lado oposto ao ângulo reto e sempre o maior lado. Os catetos ($b$ e $c$) formam o ângulo reto.\n\nTernos que aparecem muito (e seus múltiplos):\n\n• $3, 4, 5$ (e $6, 8, 10$; $12, 16, 20$; $9, 12, 15$).\n• $5, 12, 13$.\n• $8, 15, 17$.\n\nExemplo: numa barragem com altura de 12 m e talude de 15 m, a parte da base sob o talude é $y$: $y^2 + 12^2 = 15^2 \\Rightarrow y^2 = 225 - 144 = 81 \\Rightarrow y = 9$ m.\n\nCuidado: Pitágoras só vale em triângulos retângulos.",
+        "figura": {
+          "src": "/apostila-etec/figuras/pitagoras.svg",
+          "alt": "Triângulo retângulo de catetos 3 e 4 e hipotenusa 5, com a relação a² = b² + c².",
+          "largura": 560,
+          "altura": 260,
+          "legenda": "O terno 3, 4, 5 é o mais cobrado, sozinho ou multiplicado."
+        }
+      },
+      {
+        "titulo": "Deslocamentos e distância em linha reta",
+        "texto": "Quando alguém anda para leste e depois para norte (ou sul), os dois deslocamentos formam um ângulo reto. A distância entre o ponto de partida e o de chegada é a hipotenusa.\n\nSe houver vários trechos, some primeiro tudo o que foi na direção leste-oeste e tudo o que foi na direção norte-sul (com sinais opostos para sentidos opostos).\n\nExemplo: 6 km a leste, 16 km ao sul, 10 km a leste e 4 km ao norte.\n\n• Leste: $6 + 10 = 16$ km.\n• Sul: $16 - 4 = 12$ km.\n• Distância: $\\sqrt{16^2 + 12^2} = \\sqrt{256 + 144} = \\sqrt{400} = 20$ km.\n\nNo plano cartesiano, a distância de $(x, y)$ até a origem é $\\sqrt{x^2 + y^2}$. Um ponto está fora de um círculo de raio $r$ centrado na origem quando $x^2 + y^2 > r^2$."
+      },
+      {
+        "titulo": "Seno, cosseno e tangente",
+        "texto": "Num triângulo retângulo, para um ângulo agudo $\\alpha$:\n\n$$\\text{sen } \\alpha = \\frac{\\text{cateto oposto}}{\\text{hipotenusa}} \\qquad \\cos \\alpha = \\frac{\\text{cateto adjacente}}{\\text{hipotenusa}} \\qquad \\text{tg } \\alpha = \\frac{\\text{cateto oposto}}{\\text{cateto adjacente}}$$\n\nNa ETEC, os valores de seno, cosseno e tangente vêm numa tabela no enunciado. O trabalho é decidir qual razão usar:\n\n• Conhece a hipotenusa e quer o lado oposto ao ângulo: seno.\n• Conhece a hipotenusa e quer o lado junto ao ângulo: cosseno.\n• Conhece um cateto e quer o outro: tangente.\n\nExemplo: um painel quadrado de 1 m de lado está inclinado $20^\\circ$. A altura do topo é o cateto oposto: $h = 1 \\cdot \\text{sen } 20^\\circ = 0{,}34$ m. Se a distância entre painéis deve ser 3,5 vezes essa altura: $3{,}5 \\times 0{,}34 = 1{,}19$ m."
+      },
+      {
+        "titulo": "Inclinação, rampas e declividade",
+        "texto": "A inclinação de uma rampa ou de um terreno costuma ser dada pela tangente do ângulo com a horizontal:\n\n$$\\text{inclinação} = \\text{tg } \\alpha = \\frac{\\text{altura vencida}}{\\text{distância horizontal}}$$\n\nUma taxa de $1 : 2{,}86$ significa subir 1 m a cada 2,86 m na horizontal: $\\text{tg } \\alpha = \\dfrac{1}{2{,}86} \\approx 0{,}35$. Na tabela do enunciado, procure o ângulo com tangente mais próxima.\n\nA declividade em porcentagem é a tangente vezes 100: $\\text{tg } \\alpha = 0{,}5$ é uma declividade de $50\\%$."
+      },
+      {
+        "titulo": "Sólidos geométricos",
+        "texto": "Sólidos são figuras com três dimensões. Os mais cobrados:\n\n• Prismas: duas bases iguais e paralelas, ligadas por faces retangulares. O paralelepípedo (forma de caixa) e o cubo são prismas.\n• Cilindro: duas bases circulares iguais e paralelas.\n• Pirâmide e cone: uma base e um vértice.\n• Esfera.\n\nPoliedros são sólidos com faces planas (prismas, pirâmides). Um poliedro é regular quando todas as faces são polígonos regulares iguais: tetraedro, cubo, octaedro, dodecaedro (faces pentagonais) e icosaedro.\n\nPlanificação é o “molde” do sólido aberto no plano: a de um cubo tem 6 quadrados; a de um cilindro, 2 círculos e 1 retângulo."
+      },
+      {
+        "titulo": "Volume de prismas e cilindros",
+        "texto": "Volume mede o espaço ocupado. Para prismas e cilindros, a regra é a mesma: área da base vezes altura.\n\n$$V_{\\text{paralelepípedo}} = a \\cdot b \\cdot c \\qquad V_{\\text{cubo}} = \\ell^3 \\qquad V_{\\text{cilindro}} = \\pi r^2 h$$\n\nExemplo: uma passagem de fauna cilíndrica tem 2 m de diâmetro e 82 m de comprimento. Com $\\pi = 3$: raio $= 1$ m, e $V = 3 \\cdot 1^2 \\cdot 82 = 246$ m³.\n\nExemplo: um dormente prismático mede $2 \\text{ m} \\times 0{,}24 \\text{ m} \\times 0{,}16 \\text{ m}$, com volume $2 \\times 0{,}24 \\times 0{,}16 = 0{,}0768$ m³. Com 1 600 dormentes por quilômetro, em 2 km são $3\\,200$ dormentes e $3\\,200 \\times 0{,}0768 = 245{,}76$ m³ de madeira.\n\nCone e pirâmide têm um terço do volume do cilindro e do prisma de mesma base e altura: $V = \\dfrac{\\pi r^2 h}{3}$.",
+        "figura": {
+          "src": "/apostila-etec/figuras/cilindro-volume.svg",
+          "alt": "Paralelepípedo de arestas a, b e c e cilindro de raio r e altura h, com as fórmulas de volume.",
+          "largura": 560,
+          "altura": 240,
+          "legenda": "Prisma e cilindro: volume é área da base vezes altura."
+        }
+      },
+      {
+        "titulo": "Unidades de volume e capacidade",
+        "texto": "Volume se mede em unidades cúbicas; capacidade, em litros. As ligações principais:\n\n• 1 m³ $= 1\\,000$ L.\n• 1 dm³ $= 1$ L.\n• 1 cm³ $= 1$ mL.\n• 1 m³ $= 1\\,000\\,000$ cm³ (porque $100 \\times 100 \\times 100$).\n\nPara medidas muito pequenas, como as de estruturas microscópicas, usa-se o nanômetro (nm), a bilionésima parte do metro. A conta é a mesma: um cilindro de diâmetro 300 nm e altura 500 nm tem raio 150 nm e volume $\\pi \\cdot 150^2 \\cdot 500$ nm³."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Distância em linha reta após deslocamentos em direções perpendiculares.\n• Ponto dentro ou fora de uma região circular no plano cartesiano.\n• Pitágoras em barragens, trapézios, terrenos e cercas.\n• Seno, cosseno e tangente com valores dados (painéis solares, rampas, telas de cinema).\n• Semelhança com sombras, paralelas e distâncias inacessíveis.\n• Volume de cilindro com $\\pi = 3$ e de paralelepípedo, com conversão de unidades.\n\nEdital oculto: trigonometria é conteúdo de Ensino Médio, mas a ETEC sempre fornece a tabela de valores e, muitas vezes, a definição de tangente ou de declividade."
+      }
+    ],
+    "armadilha": "Usar o diâmetro no lugar do raio, ou esquecer de elevar o raio ao quadrado. Num cilindro de 2 m de diâmetro, o raio é 1 m; com o diâmetro, o volume sairia 4 vezes maior. Em Pitágoras, a armadilha equivalente é somar os lados em vez de somar os quadrados.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Uma escada de 5 m está apoiada numa parede vertical. O pé da escada fica a 3 m da parede."
+        ],
+        "comando": "A altura, na parede, em que a escada se apoia é",
+        "alternativas": [
+          "$2$ m",
+          "$4$ m",
+          "$8$ m",
+          "$\\sqrt{34}$ m",
+          "$16$ m"
+        ],
+        "passos": [
+          "A escada é a hipotenusa (5 m) e a distância até a parede é um cateto (3 m).",
+          "$5^2 = 3^2 + h^2 \\Rightarrow 25 = 9 + h^2 \\Rightarrow h^2 = 16$.",
+          "$h = 4$ m."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A subtrai os lados sem elevar ao quadrado.",
+          "C soma os lados.",
+          "D soma os quadrados, tratando a escada como cateto.",
+          "E é $h^2$, esquecendo a raiz."
+        ]
+      },
+      {
+        "suporte": [
+          "Às 15 h, uma árvore projeta sombra de 9 m. No mesmo instante, uma pessoa de 1,6 m projeta sombra de 1,2 m."
+        ],
+        "comando": "A altura da árvore é",
+        "alternativas": [
+          "$6{,}75$ m",
+          "$10{,}8$ m",
+          "$12$ m",
+          "$14{,}4$ m",
+          "$9{,}4$ m"
+        ],
+        "passos": [
+          "Os triângulos são semelhantes: $\\dfrac{H}{9} = \\dfrac{1{,}6}{1{,}2}$.",
+          "$1{,}2 \\cdot H = 9 \\cdot 1{,}6 = 14{,}4$.",
+          "$H = 14{,}4 \\div 1{,}2 = 12$ m."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A inverte a razão: $9 \\times 1{,}2 \\div 1{,}6$.",
+          "B multiplica 9 por 1,2.",
+          "D esquece de dividir por 1,2.",
+          "E soma $9 + 1{,}6 - 1{,}2$."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma rampa sobe 1,5 m de altura e tem inclinação de $30^\\circ$ com o chão. Adote $\\text{sen } 30^\\circ = 0{,}5$, $\\cos 30^\\circ = 0{,}87$ e $\\text{tg } 30^\\circ = 0{,}58$."
+        ],
+        "comando": "O comprimento da rampa é",
+        "alternativas": [
+          "$0{,}75$ m",
+          "$1{,}5$ m",
+          "$1{,}72$ m",
+          "$2{,}59$ m",
+          "$3$ m"
+        ],
+        "passos": [
+          "A altura é o cateto oposto ao ângulo, e o comprimento da rampa é a hipotenusa.",
+          "$\\text{sen } 30^\\circ = \\dfrac{1{,}5}{L} \\Rightarrow 0{,}5 = \\dfrac{1{,}5}{L}$.",
+          "$L = 1{,}5 \\div 0{,}5 = 3$ m."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A multiplica pelo seno em vez de dividir.",
+          "B repete a altura.",
+          "C divide pelo cosseno.",
+          "D divide pela tangente, que dá a distância horizontal, não a rampa."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma caixa-d’água cilíndrica tem 2 m de diâmetro e 1,5 m de altura. Use $\\pi = 3$."
+        ],
+        "comando": "A capacidade da caixa, em litros, é",
+        "alternativas": [
+          "$1\\,500$",
+          "$4\\,500$",
+          "$9\\,000$",
+          "$18\\,000$",
+          "$4{,}5$"
+        ],
+        "passos": [
+          "Raio $= 2 \\div 2 = 1$ m.",
+          "$V = 3 \\cdot 1^2 \\cdot 1{,}5 = 4{,}5$ m³.",
+          "$4{,}5 \\text{ m}^3 = 4\\,500$ L."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A esquece o $\\pi$.",
+          "C usa o raio como 1 e multiplica por 2 a altura.",
+          "D usa o diâmetro como raio ($3 \\cdot 2^2 \\cdot 1{,}5 = 18$ m³).",
+          "E não converte m³ em litros."
+        ]
+      },
+      {
+        "suporte": [
+          "No plano cartesiano, uma antena em $(0, 0)$ tem alcance de 5 km. Uma casa está no ponto $(3, 4)$ e outra no ponto $(4, 4)$, com coordenadas em quilômetros."
+        ],
+        "comando": "Sobre o sinal da antena, é correto afirmar que",
+        "alternativas": [
+          "as duas casas recebem.",
+          "nenhuma das casas recebe.",
+          "só a casa em $(3, 4)$ recebe.",
+          "só a casa em $(4, 4)$ recebe.",
+          "não é possível saber sem medir."
+        ],
+        "passos": [
+          "Distância de $(3, 4)$: $\\sqrt{9 + 16} = 5$ km, no limite do alcance.",
+          "Distância de $(4, 4)$: $\\sqrt{16 + 16} = \\sqrt{32} \\approx 5{,}66$ km, fora do alcance.",
+          "Só a casa em $(3, 4)$ recebe o sinal."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A ignora que $\\sqrt{32} > 5$.",
+          "B esquece que 5 km está dentro do alcance.",
+          "D inverte as casas.",
+          "E: a distância pode ser calculada por Pitágoras."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2024-1-q013",
+        "correta": "B",
+        "justificativa": "Leste: $6 + 10 = 16$ km. Sul: $16 - 4 = 12$ km. Distância: $\\sqrt{16^2 + 12^2} = \\sqrt{400} = 20$ km.",
+        "distratores": [
+          "A não corresponde à hipotenusa dos deslocamentos.",
+          "C não corresponde à distância em linha reta; o resultado correto é a hipotenusa de catetos 16 e 12.",
+          "D soma $16 + 12$, os catetos, em vez de usar Pitágoras.",
+          "E não corresponde à distância em linha reta; somar os trechos percorridos daria 36 km."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q011",
+        "correta": "A",
+        "justificativa": "Fora da zona estão os pontos com $x^2 + y^2 > 36$. A: $0 + 49 = 49$ (fora). B: $1 + 36 = 37$ (fora). C: $4 + 25 = 29$ (dentro). D: $9 + 16 = 25$ (dentro).",
+        "distratores": [
+          "B inclui C, que está dentro ($29 < 36$).",
+          "C inclui D, que está a 5 km.",
+          "D inclui C e exclui A.",
+          "E inclui D e exclui A."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q043",
+        "correta": "B",
+        "justificativa": "3 passos para leste e 4 para o norte formam um triângulo 3-4-5: a distância é de 5 passos. Cada passo vale 7 léguas de 6,6 km: $5 \\times 7 \\times 6{,}6 = 231$ km.",
+        "distratores": [
+          "A soma os 7 passos dados: $7 \\times 7 \\times 6{,}6 = 323{,}4$.",
+          "C não corresponde à hipotenusa.",
+          "D é a distância de 1 passo: $7 \\times 6{,}6$.",
+          "E usa a légua portuguesa de 5 km: $5 \\times 7 = 35$ para um passo."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q031",
+        "correta": "D",
+        "justificativa": "A placa quadrada de 1 m² tem 1 m de lado. Inclinada $20^\\circ$, sua altura é $1 \\cdot \\text{sen } 20^\\circ = 0{,}34$ m. A distância é $3{,}5 \\times 0{,}34 = 1{,}19$ m.",
+        "distratores": [
+          "A é a altura, sem multiplicar por 3,5.",
+          "B usa a tangente sem multiplicar por 3,5.",
+          "C é o cosseno, a projeção horizontal da placa.",
+          "E usa a tangente: $3{,}5 \\times 0{,}36 = 1{,}26$."
+        ]
+      },
+      {
+        "id": "etec-2016-2-q029",
+        "correta": "D",
+        "justificativa": "No segundo triângulo: $y^2 + 12^2 = 15^2 \\Rightarrow y^2 = 81 \\Rightarrow y = 9$. A base é $x + \\text{crista} + y = 5 + 10 + 9 = 24$ m.",
+        "distratores": [
+          "A é só o valor de $x$.",
+          "B é só o valor de $y$.",
+          "C soma $x$ e $y$ e esquece a crista.",
+          "E soma talude, altura e crista sem relação geométrica."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q046",
+        "correta": "C",
+        "justificativa": "$\\text{tg } \\alpha = \\dfrac{1}{2{,}86} \\approx 0{,}35$. Na tabela, a tangente mais próxima é $0{,}344$, de $19^\\circ$.",
+        "distratores": [
+          "A: $\\text{tg } 12^\\circ = 0{,}213$, longe de $0{,}35$.",
+          "B: $\\text{tg } 15^\\circ = 0{,}268$.",
+          "D: $\\text{tg } 21^\\circ = 0{,}384$, mais distante que $0{,}344$.",
+          "E: $\\text{tg } 24^\\circ = 0{,}445$."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q037",
+        "correta": "A",
+        "justificativa": "No trapézio retângulo, o lado BC é a hipotenusa de um triângulo de catetos 12 m (altura) e $20 - 15 = 5$ m: $BC = \\sqrt{144 + 25} = 13$ m. O perímetro é $20 + 15 + 12 + 13 = 60$ m.",
+        "distratores": [
+          "B não corresponde ao perímetro com $BC = 13$.",
+          "C não corresponde ao perímetro com $BC = 13$.",
+          "D não corresponde ao perímetro com $BC = 13$.",
+          "E não corresponde ao perímetro com $BC = 13$."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q025",
+        "correta": "B",
+        "justificativa": "O diâmetro é 2 m, então o raio é 1 m. Com $\\pi = 3$: $V = 3 \\cdot 1^2 \\cdot 82 = 246$ m³.",
+        "distratores": [
+          "A divide o resultado por 2.",
+          "C dobra o volume, como se a área da base fosse $2\\pi$.",
+          "D multiplica por 3 a mais.",
+          "E usa o diâmetro como raio: $3 \\cdot 2^2 \\cdot 82 = 984$."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q027",
+        "correta": "A",
+        "justificativa": "O raio é metade do diâmetro: 150 nm. Volume $= \\pi \\cdot r^2 \\cdot h = \\pi \\cdot 150^2 \\cdot 500$. A expressão que multiplica $\\pi$ é $150^2 \\times 500$.",
+        "distratores": [
+          "B usa um raio de 250 nm e a altura de 300 nm, trocando as medidas.",
+          "C usa o diâmetro como raio.",
+          "D usa a altura como raio e o diâmetro como altura.",
+          "E dobra o diâmetro."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q025",
+        "correta": "D",
+        "justificativa": "Cada dormente tem $2 \\times 0{,}24 \\times 0{,}16 = 0{,}0768$ m³. Em 2 km há $2 \\times 1\\,600 = 3\\,200$ dormentes: $3\\,200 \\times 0{,}0768 = 245{,}76$ m³.",
+        "distratores": [
+          "A considera cerca de 1 000 dormentes.",
+          "B considera 1 600 dormentes, como se fosse só 1 km.",
+          "C não corresponde ao produto dos dados.",
+          "E considera 4 800 dormentes, como se fossem 3 km."
+        ]
+      }
+    ],
+    "resumo": [
+      "Semelhança: ângulos iguais, lados proporcionais ($k$); áreas na razão $k^2$.",
+      "Pitágoras: $a^2 = b^2 + c^2$, com $a$ a hipotenusa.",
+      "Ternos: 3-4-5, 5-12-13, 8-15-17 e múltiplos.",
+      "sen $=$ oposto $\\div$ hipotenusa; cos $=$ adjacente $\\div$ hipotenusa; tg $=$ oposto $\\div$ adjacente.",
+      "Inclinação $=$ tangente $=$ altura $\\div$ horizontal.",
+      "Distância no plano: $\\sqrt{\\Delta x^2 + \\Delta y^2}$.",
+      "Prisma: $V = a \\cdot b \\cdot c$; cilindro: $V = \\pi r^2 h$ (raio, não diâmetro).",
+      "1 m³ $= 1\\,000$ L; 1 cm³ $= 1$ mL."
+    ]
+  },
+  "numeros-operacoes-potencias-e-unidades": {
+    "materia": "Matéria 3 · Matemática",
+    "introducao": "Este capítulo junta a base de toda conta da prova: números primos, frações, potências, notação científica e conversão de unidades de tempo e de medida. Raramente a ETEC pergunta \"calcule a potência\"; ela pergunta quantos litros a Sabesp trata por dia ou quanto tempo dura uma eleição. A conta é simples. Saber organizá-la é o que separa o acerto do erro.",
+    "codigos": [
+      "MA01",
+      "MA02",
+      "MA05"
+    ],
+    "raioX": "Os itens pedem: reconhecer números primos; comparar frações e entender metades sucessivas; escrever números em notação científica; converter horas, minutos e segundos, quilômetros e centímetros, litros por segundo em litros por dia. Os distratores costumam errar uma potência de 10 ou esquecer uma etapa da conversão.",
+    "intuicao": [
+      "Número primo tem exatamente dois divisores: 1 e ele mesmo. O 2 é o único primo par.",
+      "Fração é divisão: $\\tfrac{3}{4}$ de algo é \"divide por 4 e pega 3\".",
+      "Notação científica é um número entre 1 e 10 vezes uma potência de 10.",
+      "Para converter, escreva a unidade junto do número e cancele como numa fração."
+    ],
+    "teoria": [
+      {
+        "titulo": "Conjuntos numéricos",
+        "texto": "• Naturais ($\\mathbb{N}$): 0, 1, 2, 3, …\n• Inteiros ($\\mathbb{Z}$): naturais e negativos: …, −2, −1, 0, 1, 2, …\n• Racionais ($\\mathbb{Q}$): podem ser escritos como fração $\\tfrac{a}{b}$, com $b \\neq 0$. Incluem decimais finitos (0,25) e dízimas periódicas (0,333…).\n• Irracionais: não viram fração; dízimas infinitas sem período: $\\sqrt{2}$, $\\pi$.\n• Reais ($\\mathbb{R}$): racionais e irracionais juntos; todos os pontos da reta numérica."
+      },
+      {
+        "titulo": "Ordem das operações",
+        "texto": "Numa expressão, resolva nesta ordem:\n\n• parênteses, colchetes e chaves, de dentro para fora;\n• potências e raízes;\n• multiplicações e divisões, da esquerda para a direita;\n• somas e subtrações, da esquerda para a direita.\n\n$2 + 3 \\cdot 4^2 = 2 + 3 \\cdot 16 = 2 + 48 = 50$\n\nRegra de sinais na multiplicação e na divisão: sinais iguais dão positivo; sinais diferentes dão negativo."
+      },
+      {
+        "titulo": "Divisibilidade e números primos",
+        "texto": "Critérios rápidos:\n\n• por 2: termina em número par;\n• por 3: a soma dos algarismos é múltipla de 3 (237: 2 + 3 + 7 = 12, então 237 é divisível por 3);\n• por 5: termina em 0 ou 5;\n• por 10: termina em 0.\n\nPrimos menores que 30: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29. Há apenas quatro primos menores que 10.\n\nO 1 não é primo nem composto. Todo número composto pode ser decomposto em fatores primos:\n\n$360 = 2^3 \\cdot 3^2 \\cdot 5$"
+      },
+      {
+        "titulo": "MMC e MDC",
+        "texto": "• MMC (mínimo múltiplo comum): o menor número que é múltiplo de todos. Resolve problemas de \"quando vão coincidir de novo\".\n• MDC (máximo divisor comum): o maior número que divide todos. Resolve problemas de \"dividir em partes iguais, o maior possível\".\n\nExemplo: um ônibus passa a cada 12 min e outro a cada 18 min. $12 = 2^2 \\cdot 3$ e $18 = 2 \\cdot 3^2$. O MMC pega cada fator com o maior expoente: $2^2 \\cdot 3^2 = 36$. Eles coincidem a cada 36 minutos."
+      },
+      {
+        "titulo": "Frações e decimais",
+        "texto": "• Fração de um número: $\\tfrac{3}{4}$ de 80 é $80 \\div 4 \\cdot 3 = 60$.\n• Somar ou subtrair: iguale os denominadores. $\\tfrac{1}{2} + \\tfrac{1}{3} = \\tfrac{3}{6} + \\tfrac{2}{6} = \\tfrac{5}{6}$.\n• Multiplicar: numerador por numerador, denominador por denominador.\n• Dividir: multiplique pelo inverso da segunda.\n• Comparar: transforme em decimal ou iguale os denominadores.\n\nMetades sucessivas formam a sequência $1, \\tfrac{1}{2}, \\tfrac{1}{4}, \\tfrac{1}{8}, \\tfrac{1}{16}, \\tfrac{1}{32}, \\tfrac{1}{64}$. É assim que funcionam as figuras rítmicas da música: semibreve, mínima, semínima, colcheia, semicolcheia, fusa e semifusa.\n\nPorcentagem também é fração: $0{,}9\\% = \\tfrac{0{,}9}{100}$."
+      },
+      {
+        "titulo": "Potências e raízes",
+        "texto": "$a^n$ é $a$ multiplicado por ele mesmo $n$ vezes. Propriedades:\n\n• $a^m \\cdot a^n = a^{m+n}$\n• $a^m \\div a^n = a^{m-n}$\n• $(a^m)^n = a^{m \\cdot n}$\n• $a^0 = 1$ (com $a \\neq 0$)\n• $a^{-n} = \\dfrac{1}{a^n}$: $10^{-6} = 0{,}000001$\n\nRaiz quadrada é a operação inversa do quadrado: $\\sqrt{81} = 9$ porque $9^2 = 81$."
+      },
+      {
+        "titulo": "Notação científica",
+        "texto": "Escreve-se $N = a \\cdot 10^n$, com $1 \\le a < 10$.\n\n• 72 000 000 = $7{,}2 \\cdot 10^7$ (a vírgula andou 7 casas para a esquerda).\n• 0,005 = $5 \\cdot 10^{-3}$ (andou 3 casas para a direita).\n\nMultiplicar: multiplique as mantissas e some os expoentes.\n\n$(1{,}2 \\cdot 10^5) \\cdot 60 = 72 \\cdot 10^5 = 7{,}2 \\cdot 10^6$\n\nPrefixos que aparecem: quilo ($10^3$), mega ($10^6$), giga ($10^9$), mili ($10^{-3}$), micro ($\\mu$, $10^{-6}$), nano ($10^{-9}$)."
+      },
+      {
+        "titulo": "Unidades de medida e de tempo",
+        "texto": "• 1 km = 1 000 m = 100 000 cm.\n• 1 h = 60 min = 3 600 s; 1 dia = 24 h = 1 440 min.\n• 1 L = 1 000 mL; 1 m³ = 1 000 L.\n• Velocidade: $72$ km/h $= \\dfrac{72}{3{,}6} = 20$ m/s.\n\nPara converter tempo em horas e minutos, divida os minutos por 60: 225 min = 3 h e 45 min, porque $3 \\cdot 60 = 180$ e sobram 45.\n\nDistância = velocidade × tempo. A 4 km/h, em 15 min (um quarto de hora), percorre-se 1 km."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Situação real com várias conversões em sequência (L/s → L/min → L/dia).\n• Resposta em notação científica ou com prefixos ($\\mu$T, milhões, bilhões).\n• Primos e divisibilidade com afirmações para julgar.\n• Tempo total de um processo dividido igualmente entre várias filas.\n\nAnote a unidade em cada passo. Quase todo distrator é o resultado de uma etapa esquecida."
+      }
+    ],
+    "armadilha": "Esquecer uma conversão no meio do caminho: calcular por minuto e responder como se fosse por dia, ou trocar 60 por 100 ao passar de minutos para horas. Em notação científica, a armadilha é andar a vírgula para o lado errado.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Um servidor processa $3{,}2 \\cdot 10^5$ mensagens por segundo durante $2 \\cdot 10^3$ segundos."
+        ],
+        "comando": "O total de mensagens processadas é",
+        "alternativas": [
+          "$6{,}4 \\cdot 10^8$",
+          "$6{,}4 \\cdot 10^{15}$",
+          "$5{,}2 \\cdot 10^8$",
+          "$1{,}6 \\cdot 10^2$",
+          "$6{,}4 \\cdot 10^7$"
+        ],
+        "passos": [
+          "Multiplique as mantissas: $3{,}2 \\cdot 2 = 6{,}4$.",
+          "Some os expoentes: $10^{5+3} = 10^8$.",
+          "Total: $6{,}4 \\cdot 10^8$."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B multiplica os expoentes em vez de somar.",
+          "C soma as mantissas.",
+          "D divide em vez de multiplicar.",
+          "E erra o expoente por uma casa."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma escola tem 600 alunos. Dois quintos estudam de manhã e, desses, três quartos vão de ônibus."
+        ],
+        "comando": "Quantos alunos da manhã vão de ônibus?",
+        "alternativas": [
+          "240",
+          "180",
+          "450",
+          "360",
+          "90"
+        ],
+        "passos": [
+          "Manhã: $\\tfrac{2}{5} \\cdot 600 = 240$.",
+          "De ônibus: $\\tfrac{3}{4} \\cdot 240 = 180$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A para no primeiro passo.",
+          "C aplica $\\tfrac{3}{4}$ aos 600.",
+          "D é $\\tfrac{3}{5}$ de 600.",
+          "E é $\\tfrac{3}{8}$ de 240, não três quartos."
+        ]
+      },
+      {
+        "suporte": [
+          "Dois ônibus saem juntos do terminal às 8h. Um volta a cada 12 minutos e o outro a cada 18 minutos."
+        ],
+        "comando": "Eles voltam a sair juntos às",
+        "alternativas": [
+          "8h30.",
+          "8h36.",
+          "8h54.",
+          "11h36.",
+          "8h06."
+        ],
+        "passos": [
+          "Procura-se o MMC de 12 e 18.",
+          "$12 = 2^2 \\cdot 3$ e $18 = 2 \\cdot 3^2$, então MMC $= 2^2 \\cdot 3^2 = 36$.",
+          "8h + 36 min = 8h36."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A soma 12 + 18 = 30.",
+          "C usa 54, que é múltiplo de 18, mas não de 12.",
+          "D multiplica 12 × 18 = 216 min.",
+          "E usa o MDC (6)."
+        ]
+      },
+      {
+        "suporte": [
+          "Um trem viaja a 72 km/h."
+        ],
+        "comando": "Em metros por segundo, a velocidade é",
+        "alternativas": [
+          "7,2 m/s.",
+          "20 m/s.",
+          "259,2 m/s.",
+          "72 m/s.",
+          "1,2 m/s."
+        ],
+        "passos": [
+          "72 km = 72 000 m; 1 h = 3 600 s.",
+          "$\\dfrac{72\\,000}{3\\,600} = 20$ m/s."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A divide por 10.",
+          "C multiplica por 3,6.",
+          "D não converte.",
+          "E divide por 60, como se fosse minuto."
+        ]
+      },
+      {
+        "suporte": [
+          "Considere as afirmações: (I) 51 é primo; (II) 2 é o único primo par; (III) 360 = $2^3 \\cdot 3^2 \\cdot 5$."
+        ],
+        "comando": "É correto o que se afirma em",
+        "alternativas": [
+          "I apenas.",
+          "II e III apenas.",
+          "I e II apenas.",
+          "I e III apenas.",
+          "I, II e III."
+        ],
+        "passos": [
+          "51: 5 + 1 = 6, divisível por 3; $51 = 3 \\cdot 17$. I é falsa.",
+          "Todo par maior que 2 é divisível por 2. II é verdadeira.",
+          "$8 \\cdot 9 \\cdot 5 = 360$. III é verdadeira."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A aceita a única falsa.",
+          "C aceita I, que é falsa.",
+          "D aceita I, que é falsa.",
+          "E aceita I, que é falsa."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q019",
+        "correta": "E",
+        "justificativa": "O campo da Terra, 50 µT $= 5 \\cdot 10^{-5}$ T, é um centésimo do ímã. O ímã tem $5 \\cdot 10^{-5} \\cdot 100 = 5 \\cdot 10^{-3}$ T.",
+        "distratores": [
+          "A divide por 100 em vez de multiplicar.",
+          "B não corresponde a 100 vezes 50 µT.",
+          "C é o próprio campo da Terra, sem multiplicar por 100.",
+          "D tem mantissa 0,5, dez vezes menor que o valor certo."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q023",
+        "correta": "D",
+        "justificativa": "Por minuto: $7{,}2 \\cdot 10^6$ L. Por dia: $7{,}2 \\cdot 10^6 \\cdot 1\\,440 \\approx 1{,}04 \\cdot 10^{10}$ L, ou seja, cerca de $1{,}0 \\cdot 10^{10}$ L.",
+        "distratores": [
+          "A está próximo do volume de 1 minuto.",
+          "B está perto do volume de cerca de 14 minutos.",
+          "C está perto do volume de cerca de 2 horas e 20 minutos.",
+          "E é dez vezes o volume de um dia."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q001",
+        "correta": "E",
+        "justificativa": "Os primos menores que 10 são 2, 3, 5 e 7: exatamente quatro.",
+        "distratores": [
+          "A: a posição do número no quadrinho não diz se ele é primo.",
+          "B: 16 é par, divisível por 2.",
+          "C: 237 = 3 × 79.",
+          "D: 2 é primo e par, e 5 termina em 5."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q040",
+        "correta": "B",
+        "justificativa": "Cada seção atende $450 \\div 6 = 75$ eleitores. $75 \\cdot 3 = 225$ min $= 3$ h $45$ min.",
+        "distratores": [
+          "A acrescenta 10 minutos indevidos.",
+          "C não vem da divisão por 6 seções.",
+          "D não vem da divisão por 6 seções.",
+          "E equivale a 75 minutos: conta só um minuto por eleitor."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q009",
+        "correta": "D",
+        "justificativa": "A partir da mínima, cada figura dura metade da anterior: 1, 1/2, 1/4, 1/8, 1/16, 1/32, 1/64.",
+        "distratores": [
+          "A: a fusa (1/32) dura metade da semicolcheia (1/16), não o dobro.",
+          "B: a mínima (1/2) dura o dobro da semínima (1/4).",
+          "C: duas semínimas somam 1/2, a duração da mínima, não da colcheia.",
+          "E inverte a relação: cada figura dura a metade, não o dobro."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q016",
+        "correta": "B",
+        "justificativa": "A oitava entrega tem 30 min, mas 10 já foram perdidos. O trajeto de 15 km a 60 km/h leva 15 min. Sobra $30 - 10 - 15 = 5$ min.",
+        "distratores": [
+          "A não resulta das contas de tempo.",
+          "C esquece o tempo do trajeto ou conta o atraso duas vezes.",
+          "D é o tempo do trajeto.",
+          "E esquece o atraso de 10 minutos."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q012",
+        "correta": "D",
+        "topicoComplementar": "MA03",
+        "justificativa": "Em 15 min (1/4 h) a 4 km/h, a máquina anda 1 km = 100 000 cm. Um grão a cada 20 cm: $100\\,000 \\div 20 = 5\\,000$ grãos.",
+        "distratores": [
+          "A não resulta da distância percorrida.",
+          "B é cerca da metade do valor certo.",
+          "C não resulta da distância percorrida.",
+          "E usa 22,5 min ou um espaçamento menor que 20 cm."
+        ]
+      },
+      {
+        "id": "etec-2016-2-q027",
+        "correta": "E",
+        "topicoComplementar": "MA03",
+        "justificativa": "Vazão das Cataratas: $62\\,200 \\div 40 = 1\\,555$ m³/s. Em um minuto: $1\\,555 \\cdot 60 = 93\\,300$ m³/min.",
+        "distratores": [
+          "A: 10 337 é menos de um nono do valor certo.",
+          "B: 29 033 é menos de um terço do valor certo.",
+          "C: 50 373 não chega a 1 555 × 60.",
+          "D: 74 330 não chega a 1 555 × 60."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q008",
+        "correta": "D",
+        "topicoComplementar": "MA03",
+        "justificativa": "Há 50 mulheres para 48 homens: $93{,}4 \\cdot \\dfrac{50}{48} \\approx 97{,}3$ milhões.",
+        "distratores": [
+          "A subtrai em vez de aumentar.",
+          "B usa a razão invertida (48/50).",
+          "C não resulta de 93,4 × 50/48.",
+          "E não resulta de 93,4 × 50/48."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q040",
+        "correta": "B",
+        "topicoComplementar": "MA03",
+        "justificativa": "O soro a 0,9% tem 0,9 g de sal em 100 mL. Em 500 mL, cinco vezes mais: $0{,}9 \\cdot 5 = 4{,}5$ g.",
+        "distratores": [
+          "A divide por 10 a mais.",
+          "C multiplica por 10 a mais.",
+          "D é a massa em 1 litro.",
+          "E é a massa em 100 mL."
+        ]
+      }
+    ],
+    "resumo": [
+      "Primo: só dois divisores. 2 é o único par. 1 não é primo.",
+      "Divisível por 3: soma dos algarismos múltipla de 3.",
+      "MMC: quando coincidem. MDC: maior parte igual.",
+      "Fração de um número: divide pelo denominador, multiplica pelo numerador.",
+      "$a^m \\cdot a^n = a^{m+n}$; $10^{-n}$ é decimal.",
+      "Notação científica: $a \\cdot 10^n$, com $1 \\le a < 10$.",
+      "1 h = 60 min; 1 dia = 1 440 min; km/h ÷ 3,6 = m/s.",
+      "Anote a unidade em cada passo."
+    ]
+  },
+  "algebra-estatistica-e-probabilidade": {
+    "materia": "Matéria 3 · Matemática",
+    "introducao": "Este capítulo reúne o que a ETEC pede quando a conta tem letra ou quando os números chegam em tabela: equações, funções e parábolas, média, leitura de gráficos, contagem e probabilidade. São tópicos que aparecem menos que razão e porcentagem, mas quase sempre com um passo a passo curto. Montar a equação certa é metade da questão.",
+    "codigos": [
+      "MA06",
+      "MA07",
+      "MA11",
+      "MA12"
+    ],
+    "raioX": "Os itens pedem: valor numérico de uma expressão ($E(6)$); resolver equação do 1º grau; montar a equação de 2º grau de um problema de área; reconhecer a parábola e seu vértice; calcular média; ler um gráfico de linha; contar roteiros ou siglas em que a ordem importa. Os distratores trocam sinais, esquecem a ordem na contagem ou confundem a função de 1º grau com a de 2º.",
+    "intuicao": [
+      "Equação é uma balança: o que se faz de um lado se faz do outro.",
+      "Função de 1º grau é reta; de 2º grau é parábola.",
+      "Média é dividir igualmente o total. Ela fica sempre entre o menor e o maior valor.",
+      "Contar com ordem: multiplique as possibilidades de cada etapa.",
+      "Probabilidade = casos favoráveis ÷ casos possíveis."
+    ],
+    "teoria": [
+      {
+        "titulo": "Expressões e valor numérico",
+        "texto": "Valor numérico é o resultado ao trocar a letra por um número. Use parênteses ao substituir:\n\n$E(t) = -2t^2 + 15t + 9$\n\n$E(6) = -2 \\cdot 6^2 + 15 \\cdot 6 + 9 = -2 \\cdot 36 + 90 + 9 = -72 + 99 = 27$\n\nA potência vem antes da multiplicação: $-2 \\cdot 6^2$ é $-2 \\cdot 36$, não $(-12)^2$."
+      },
+      {
+        "titulo": "Equação do 1º grau",
+        "texto": "Isole a incógnita: desfaça os parênteses, junte termos com letra de um lado e números do outro.\n\n$4(n + 6) = 5n - (28 - 3n)$\n\n$4n + 24 = 5n - 28 + 3n$\n\n$4n + 24 = 8n - 28$\n\n$24 + 28 = 8n - 4n \\Rightarrow 52 = 4n \\Rightarrow n = 13$\n\nO sinal de menos antes dos parênteses troca o sinal de tudo que está dentro. Confira sempre substituindo: $4 \\cdot 19 = 76$ e $65 - (28 - 39) = 65 + 11 = 76$."
+      },
+      {
+        "titulo": "Problemas com equação",
+        "texto": "Roteiro:\n\n• dê nome à incógnita (x = distância, preço, largura);\n• escreva cada frase do enunciado como uma parte da equação;\n• resolva e responda o que foi pedido, na unidade certa.\n\nExemplo: aluguel a R$ 40,00 por dia mais R$ 0,45 por km. Num dia com $d$ km rodados, o custo é $40 + 0{,}45d$.\n\nSistemas aparecem quando há duas incógnitas e duas informações. Isole uma letra numa equação e substitua na outra."
+      },
+      {
+        "titulo": "Equação do 2º grau",
+        "texto": "Forma geral: $ax^2 + bx + c = 0$, com $a \\neq 0$.\n\n• Fórmula: $\\Delta = b^2 - 4ac$ e $x = \\dfrac{-b \\pm \\sqrt{\\Delta}}{2a}$.\n• $\\Delta > 0$: duas raízes reais; $\\Delta = 0$: uma; $\\Delta < 0$: nenhuma real.\n• Fatoração: um produto é zero quando algum fator é zero. $(x - 1)(x + 3)(x + 4) = 0$ dá $x = 1$, $x = -3$ ou $x = -4$: três raízes inteiras distintas, mas não todas naturais.\n\nMontando a partir de uma área: terreno de largura $x$ e comprimento $x + 100$, com área 4 225:\n\n$x(x + 100) = 4\\,225 \\Rightarrow x^2 + 100x - 4\\,225 = 0$"
+      },
+      {
+        "titulo": "Funções e gráficos",
+        "texto": "• Função de 1º grau: $f(x) = ax + b$, com $a \\neq 0$. O gráfico é uma reta. $a > 0$: crescente; $a < 0$: decrescente.\n• Função de 2º grau: $f(x) = ax^2 + bx + c$, com $a \\neq 0$. O gráfico é uma parábola. $a < 0$: boca para baixo (tem ponto máximo); $a > 0$: boca para cima (ponto mínimo).\n\nO vértice fica em $x_v = -\\dfrac{b}{2a}$. Para $h(x) = -x^2 + 4x$: $x_v = -\\dfrac{4}{2 \\cdot (-1)} = 2$ e $h(2) = -4 + 8 = 4$. A trajetória sobe até $(2, 4)$ e depois cai.\n\nFunção constante, $f(x) = a$, é uma reta horizontal."
+      },
+      {
+        "titulo": "Sequências e padrões",
+        "texto": "Quando a questão mostra figuras que se repetem, descubra o tamanho do ciclo. Se o padrão se repete a cada 4 posições, a posição 15 é igual à posição 3, porque $15 = 4 \\cdot 3 + 3$. Use o resto da divisão.\n\nEm progressões, veja se a diferença entre termos é constante (soma sempre o mesmo) ou se a razão é constante (multiplica sempre pelo mesmo)."
+      },
+      {
+        "titulo": "Estatística: média, mediana, moda e gráficos",
+        "texto": "• Média aritmética: soma dos valores ÷ quantidade. $\\dfrac{19 + 21 + 24 + 27 + 30 + 35}{6} = \\dfrac{156}{6} = 26$.\n• Mediana: valor do meio com os dados em ordem (com quantidade par, média dos dois centrais).\n• Moda: valor que mais se repete.\n\nA média sempre fica entre o menor e o maior valor. Uma alternativa menor que o menor dado já pode ser descartada.\n\nLeitura de gráficos:\n\n• Em gráfico de linha, crescente é quando a linha sobe da esquerda para a direita.\n• Compare variações pela diferença entre o fim e o começo do intervalo pedido.\n• Gráfico de setores: cada fatia é a fração do total; 25% é um quarto do círculo."
+      },
+      {
+        "titulo": "Contagem",
+        "texto": "Princípio multiplicativo: se uma escolha tem $m$ opções e a seguinte tem $n$, há $m \\cdot n$ combinações.\n\n• Com ordem e sem repetição (arranjo): siglas de 3 letras diferentes tiradas de 5 letras: $5 \\cdot 4 \\cdot 3 = 60$.\n• Primeira parada fixa e mais dois destinos entre 6, em ordem: $6 \\cdot 5 = 30$.\n• Sem ordem (combinação): divida pelo número de ordenações. Escolher 2 entre 6 sem ordem: $\\dfrac{6 \\cdot 5}{2} = 15$.\n\nPergunte sempre: trocar a ordem gera um resultado diferente? Roteiro e senha, sim. Comissão e grupo, não."
+      },
+      {
+        "titulo": "Probabilidade",
+        "texto": "$P = \\dfrac{\\text{casos favoráveis}}{\\text{casos possíveis}}$\n\n• Num dado comum, sair número maior que 4: favoráveis {5, 6}, possíveis 6. $P = \\dfrac{2}{6} = \\dfrac{1}{3}$.\n• A probabilidade vai de 0 (impossível) a 1 (certo); em porcentagem, de 0% a 100%.\n• Probabilidade de não acontecer: $1 - P$.\n• Dois eventos independentes seguidos: multiplique as probabilidades. Duas caras em duas moedas: $\\tfrac{1}{2} \\cdot \\tfrac{1}{2} = \\tfrac{1}{4}$."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Fórmula pronta no enunciado e pedido de valor numérico.\n• Equação com parênteses e sinal de menos.\n• Alternativas com equações parecidas, que só mudam sinais: monte a sua antes de olhar.\n• Parábola: tipo de função e vértice.\n• Tabelas e gráficos de textos reais com cálculo de média.\n• Contagem de roteiros e siglas, sempre perguntando se a ordem importa."
+      }
+    ],
+    "armadilha": "Errar o sinal ao abrir $-(28 - 3n)$, que vira $-28 + 3n$. Na contagem, esquecer que a ordem importa (ou contar ordem quando não importa). Na média, confundir com a mediana ou com o valor do meio da tabela.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Uma corrida de aplicativo custa R$ 7,00 fixos mais R$ 3,00 por quilômetro. Uma passageira pagou R$ 31,00."
+        ],
+        "comando": "A distância percorrida foi",
+        "alternativas": [
+          "10 km.",
+          "8 km.",
+          "12 km.",
+          "24 km.",
+          "6 km."
+        ],
+        "passos": [
+          "$7 + 3x = 31$",
+          "$3x = 24$",
+          "$x = 8$ km."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: 10 km custaria R$ 37,00.",
+          "C: 12 km custaria R$ 43,00.",
+          "D para antes de dividir por 3.",
+          "E: 6 km custaria R$ 25,00."
+        ]
+      },
+      {
+        "suporte": [
+          "Num show, foram vendidos 40 ingressos e arrecadados R$ 600,00. A inteira custava R$ 20,00 e a meia, R$ 10,00."
+        ],
+        "comando": "O número de inteiras vendidas foi",
+        "alternativas": [
+          "10",
+          "20",
+          "25",
+          "30",
+          "15"
+        ],
+        "passos": [
+          "$x + y = 40$ e $20x + 10y = 600$.",
+          "Com $y = 40 - x$: $20x + 400 - 10x = 600$.",
+          "$10x = 200 \\Rightarrow x = 20$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A daria $200 + 300 = 500$ reais.",
+          "C daria $500 + 150 = 650$ reais.",
+          "D daria $600 + 100 = 700$ reais.",
+          "E daria $300 + 250 = 550$ reais."
+        ]
+      },
+      {
+        "suporte": [
+          "Considere a equação $x^2 - 5x + 6 = 0$."
+        ],
+        "comando": "As raízes são",
+        "alternativas": [
+          "2 e 3.",
+          "−2 e −3.",
+          "1 e 6.",
+          "−1 e 6.",
+          "não há raízes reais."
+        ],
+        "passos": [
+          "$\\Delta = 25 - 24 = 1$.",
+          "$x = \\dfrac{5 \\pm 1}{2}$, então $x = 3$ ou $x = 2$.",
+          "Conferindo: $4 - 10 + 6 = 0$."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B troca o sinal de $b$ na fórmula.",
+          "C: $1 - 5 + 6 = 2 \\neq 0$.",
+          "D: $1 + 5 + 6 = 12 \\neq 0$.",
+          "E: $\\Delta = 1 > 0$."
+        ]
+      },
+      {
+        "suporte": [
+          "As notas de um aluno foram 5, 7, 7, 8 e 10."
+        ],
+        "comando": "Média, mediana e moda são, respectivamente,",
+        "alternativas": [
+          "7,4; 7; 7.",
+          "7; 7,4; 7.",
+          "7,4; 8; 7.",
+          "7,4; 7; 10.",
+          "7; 7; 7."
+        ],
+        "passos": [
+          "Média: $37 \\div 5 = 7{,}4$.",
+          "Mediana: valor do meio da lista ordenada, 7.",
+          "Moda: o 7 aparece duas vezes."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B troca média e mediana.",
+          "C erra a mediana.",
+          "D erra a moda.",
+          "E arredonda a média."
+        ]
+      },
+      {
+        "suporte": [
+          "Um dado comum é lançado uma vez."
+        ],
+        "comando": "A probabilidade de sair um número maior que 4 é",
+        "alternativas": [
+          "$\\tfrac{1}{6}$",
+          "$\\tfrac{1}{3}$",
+          "$\\tfrac{1}{2}$",
+          "$\\tfrac{2}{3}$",
+          "$\\tfrac{4}{6}$"
+        ],
+        "passos": [
+          "Maiores que 4: 5 e 6, dois casos.",
+          "$P = \\tfrac{2}{6} = \\tfrac{1}{3}$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A conta só um caso.",
+          "C conta também o 4: {4, 5, 6}.",
+          "D é a probabilidade de não sair maior que 4.",
+          "E também é a probabilidade do complemento."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q027",
+        "correta": "D",
+        "justificativa": "Média: $\\dfrac{19 + 21 + 24 + 27 + 30 + 35}{6} = \\dfrac{156}{6} = 26$ bilhões.",
+        "distratores": [
+          "A é menor que o menor valor (19); a média não pode ficar abaixo dele.",
+          "B também é menor que 19.",
+          "C é o valor de 2027, não a média.",
+          "E é o valor de 2028."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q031",
+        "correta": "B",
+        "justificativa": "$E(6) = -2 \\cdot 36 + 15 \\cdot 6 + 9 = -72 + 90 + 9 = 27\\%$.",
+        "distratores": [
+          "A fica 16 pontos abaixo de E(6).",
+          "C fica 16 pontos acima de E(6).",
+          "D fica 32 pontos acima de E(6).",
+          "E usa $6 \\cdot 2$ no lugar de $6^2$: $-24 + 90 + 9 = 75$."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q016",
+        "correta": "C",
+        "justificativa": "Com as 5 letras distintas do nome da fruta, em ordem e sem repetir: $5 \\cdot 4 \\cdot 3 = 60$ siglas.",
+        "distratores": [
+          "A é $4 \\cdot 3 \\cdot 2$, como se houvesse 4 letras.",
+          "B é a combinação de 7 elementos 3 a 3, que não corresponde às letras da fruta.",
+          "D não é um arranjo de 5 letras 3 a 3.",
+          "E é $7 \\cdot 6 \\cdot 5$, como se houvesse 7 letras."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q042",
+        "correta": "D",
+        "justificativa": "No gráfico, depois do pico da madrugada a concentração cai e, às nove da manhã, já está abaixo de 20 pg/mL.",
+        "distratores": [
+          "A: o gráfico não mostra concentração constante por doze horas.",
+          "B: à tarde a concentração está baixa, longe de 50 pg/mL.",
+          "C: 40 pg/mL é atingido mais de uma vez, na subida e na descida.",
+          "E: na madrugada a curva sobe até o pico e depois começa a cair."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q045",
+        "correta": "A",
+        "justificativa": "Médias: Aparecida 4,63; Ilhabela 4,55; Campos do Jordão 4,45; Eldorado 4,44; Olímpia 4,195. A maior é Aparecida.",
+        "distratores": [
+          "B: média 4,45.",
+          "C: média 4,44.",
+          "D: média 4,55, abaixo de Aparecida.",
+          "E: média 4,195, a menor."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q043",
+        "correta": "B",
+        "justificativa": "O Museu do Café é fixo como primeira parada. Restam 6 destinos para as duas outras, em ordem: $6 \\cdot 5 = 30$.",
+        "distratores": [
+          "A ignora a ordem: $\\tfrac{6 \\cdot 5}{2}$.",
+          "C permite repetir o destino: $6 \\cdot 6$.",
+          "D inclui o Museu de novo: $7 \\cdot 6$.",
+          "E não fixa o Museu: $7 \\cdot 6 \\cdot 5$."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q036",
+        "correta": "B",
+        "justificativa": "$4n + 24 = 5n - 28 + 3n \\Rightarrow 52 = 4n \\Rightarrow n = 13$.",
+        "distratores": [
+          "A divide 52 por 2.",
+          "C: com 11, o lado esquerdo dá 68 e o direito, 60.",
+          "D: com 8, os lados dão 56 e 36.",
+          "E: com 4, os lados dão 40 e 4."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q011",
+        "correta": "C",
+        "justificativa": "Área = largura × comprimento: $x(x + 100) = 4\\,225 \\Rightarrow x^2 + 100x - 4\\,225 = 0$.",
+        "distratores": [
+          "A erra o sinal de 4 225 ao passar para o primeiro membro.",
+          "B erra os dois sinais.",
+          "D troca os coeficientes 100 e 4 225.",
+          "E troca os coeficientes e os sinais."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q005",
+        "correta": "E",
+        "justificativa": "A parábola é o gráfico da função de 2º grau, $f(x) = ax^2 + bx + c$, com $a \\neq 0$.",
+        "distratores": [
+          "A: a função constante tem gráfico reto horizontal.",
+          "B: a função de 1º grau tem gráfico reto.",
+          "C: a expressão é de 2º grau, não de 1º.",
+          "D: $ax + b$ é de 1º grau."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q032",
+        "correta": "A",
+        "justificativa": "Vértice: $x_v = -\\dfrac{4}{2 \\cdot (-1)} = 2$ e $h(2) = 4$. Como $a < 0$, o pássaro sobe até $(2, 4)$ e depois cai.",
+        "distratores": [
+          "B inverte as coordenadas do vértice.",
+          "C: a partir de (2, 4) ele cai, não sobe.",
+          "D: (4, 2) não é ponto da trajetória, pois h(4) = 0.",
+          "E: em (3, 3) ele já está caindo."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q024",
+        "correta": "B",
+        "justificativa": "Os fatores dão $x = 1$, $x = -3$ e $x = -4$: três raízes inteiras distintas.",
+        "distratores": [
+          "A: −3 e −4 não são naturais.",
+          "C: não há raiz irracional.",
+          "D: as três raízes são inteiras.",
+          "E: as três raízes são reais."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q043",
+        "correta": "E",
+        "justificativa": "Dia 1: $40 + 0{,}45 \\cdot 136 = 101{,}20$. Dia 2: $171{,}80 - 101{,}20 = 70{,}60 = 40 + 0{,}45 \\cdot 2d$, então $0{,}9d = 30{,}60$ e $d = 34$ km.",
+        "distratores": [
+          "A é a distância do primeiro dia.",
+          "B levaria o total a R$ 196,10.",
+          "C levaria o total a R$ 186,20.",
+          "D levaria o total a R$ 182,60."
+        ]
+      }
+    ],
+    "resumo": [
+      "Substitua com parênteses; potência antes da multiplicação.",
+      "Menos antes de parênteses troca todos os sinais.",
+      "$\\Delta = b^2 - 4ac$; $x = \\dfrac{-b \\pm \\sqrt{\\Delta}}{2a}$.",
+      "1º grau: reta. 2º grau: parábola, vértice em $x = -b/2a$.",
+      "Média fica entre o menor e o maior valor.",
+      "Contagem: ordem importa? Multiplique.",
+      "$P$ = favoráveis ÷ possíveis."
+    ]
+  }
+}

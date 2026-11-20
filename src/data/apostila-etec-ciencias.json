@@ -4105,5 +4105,307 @@
       "Hemácia: gás. Leucócito: defesa. Plaqueta: coagulação.",
       "Frio: vasos contraem, menos suor. Calor: vasos dilatam, mais suor."
     ]
+  },
+  "atmosfera-clima-e-geologia": {
+    "materia": "Matéria 2 · Ciências da Natureza · Terra e Universo",
+    "introducao": "Este capítulo fecha Ciências com a Terra por dentro e por fora: placas tectônicas, tsunâmis, rochas e solo, efeito estufa, camada de ozônio, oceanos e clima. A ETEC pergunta pouco sobre cada um, mas pergunta sempre, e muitas vezes no meio de um texto de Geografia ou Biologia. Os distratores trocam efeito estufa por camada de ozônio com uma frequência impressionante.",
+    "codigos": [
+      "FI06"
+    ],
+    "raioX": "Os itens pedem: provas da deriva continental; causas de tsunâmis; papel do gás carbônico e do metano no aquecimento global; sequestro de carbono pelos oceanos; assoreamento e matas ciliares; enchentes urbanas; onde se forma o minério de ferro. Distrator típico: \"gases do efeito estufa destroem a camada de ozônio\" ou \"a Terra gira e por isso há tsunâmi\".",
+    "intuicao": [
+      "A crosta é dividida em placas que se movem devagar sobre o manto. Quase todo terremoto, vulcão e tsunâmi nasce na borda delas.",
+      "Efeito estufa segura calor; camada de ozônio filtra ultravioleta. São fenômenos diferentes.",
+      "Água que não infiltra escorre: menos verde e mais asfalto significam mais enchente.",
+      "Sedimento que a mata ciliar não segura vai para o fundo do rio: assoreamento."
+    ],
+    "teoria": [
+      {
+        "titulo": "Estrutura da Terra",
+        "texto": "• Crosta: camada externa e fina, onde vivemos; continental e oceânica.\n• Manto: rocha quente e pastosa (magma), em lento movimento.\n• Núcleo: externo líquido e interno sólido, de ferro e níquel. Não há oceanos no núcleo.\n\nO calor interno movimenta o manto, e esse movimento arrasta as placas da crosta."
+      },
+      {
+        "titulo": "Deriva continental e placas tectônicas",
+        "texto": "Wegener propôs, em 1912, que os continentes formavam um só, a Pangeia, cercada pelo oceano Pantalassa, e que se separaram aos poucos. Suas evidências:\n\n• Paleontológicas: fósseis iguais (como o réptil Mesossauro) em continentes hoje separados por oceanos.\n• Geológicas: rochas e formações parecidas dos dois lados do Atlântico.\n• Geográficas: o encaixe das costas da América do Sul e da África.\n• Climáticas: marcas de antigas geleiras em regiões hoje tropicais.\n\nHoje sabemos que as placas tectônicas se afastam, se chocam ou deslizam lado a lado. Nos choques surgem cordilheiras (dobramentos modernos, como os Andes), vulcões e terremotos."
+      },
+      {
+        "titulo": "Terremotos, vulcões e tsunâmis",
+        "texto": "• Terremoto (sismo): liberação brusca de energia no contato entre placas.\n• Vulcanismo: o magma sobe e extravasa como lava, gases e cinzas.\n• Tsunâmi: sequência de ondas gigantes causada por tremores no assoalho oceânico, erupções vulcânicas ou deslizamentos submarinos. Pode passar de 700 km/h em alto-mar.\n\nRotação, translação, aquecimento da água e correntes marítimas não causam tsunâmis.\n\nO Brasil fica no meio da placa Sul-Americana, longe das bordas; por isso tem poucos terremotos fortes e nenhum vulcão ativo."
+      },
+      {
+        "titulo": "Rochas, solo e relevo",
+        "texto": "• Magmáticas (ígneas): resfriamento do magma. Granito, basalto.\n• Sedimentares: acúmulo e compactação de sedimentos. Arenito, calcário. É onde se formam o petróleo e os fósseis.\n• Metamórficas: transformadas por calor e pressão. Mármore, ardósia.\n\nEscudos cristalinos são terrenos muito antigos de rochas magmáticas e metamórficas; ali se concentram minérios metálicos como o ferro (Quadrilátero Ferrífero, Carajás).\n\nIntemperismo é a desagregação das rochas por água, vento, temperatura e seres vivos. Erosão é o transporte desse material. O solo nasce do intemperismo junto com a matéria orgânica."
+      },
+      {
+        "titulo": "Assoreamento, matas ciliares e enchentes",
+        "texto": "• Matas ciliares, nas margens dos rios, seguram o solo e filtram os sedimentos.\n• Sem elas, os sedimentos se acumulam no leito: assoreamento. O rio fica raso, perde capacidade de armazenar água e transborda com mais facilidade.\n\nNas cidades, asfalto e concreto impedem a infiltração. A água escorre toda de uma vez e as enchentes aumentam. Ajudam a reduzi-las:\n\n• áreas verdes e calçadas permeáveis, que facilitam a infiltração;\n• piscinões e drenagem eficiente;\n• lixo no lugar certo, sem entupir bueiros."
+      },
+      {
+        "titulo": "A atmosfera",
+        "texto": "A atmosfera é uma mistura de gases: cerca de 78% de nitrogênio, 21% de oxigênio e 1% de outros gases, entre eles argônio, vapor de água e gás carbônico.\n\n• Troposfera: camada mais baixa, onde ocorrem chuva, vento e nuvens.\n• Estratosfera: logo acima, contém a camada de ozônio ($O_3$), que absorve boa parte da radiação ultravioleta do Sol.\n\nA camada de ozônio é destruída principalmente pelos CFCs, gases usados no passado em aerossóis e geladeiras."
+      },
+      {
+        "titulo": "Efeito estufa e aquecimento global",
+        "texto": "O efeito estufa é natural: gases como gás carbônico ($CO_2$), metano ($CH_4$) e vapor de água retêm parte do calor (radiação infravermelha) que a Terra emite. Sem ele, o planeta seria gelado.\n\nO problema é a intensificação. Queimadas, desmatamento, combustíveis fósseis e criação de gado aumentam a concentração desses gases, e o efeito estufa potencializa o aquecimento global.\n\nConsequências: derretimento das geleiras e do gelo polar, elevação do nível do mar, eventos climáticos extremos, ameaça à biodiversidade.\n\nReduzir emissões, usar energias renováveis e recuperar ecossistemas são as principais respostas."
+      },
+      {
+        "titulo": "Oceanos, sequestro de carbono e microclima",
+        "texto": "Os oceanos absorvem grande parte do $CO_2$ da atmosfera.\n\n• Absorção biológica: algas e fitoplâncton usam o $CO_2$ na fotossíntese.\n• Absorção física: a água fria e salgada, mais densa, afunda e leva o $CO_2$ dissolvido para águas profundas. A diferença de densidade vem da temperatura e da salinidade.\n\nMicroclima é o clima de uma área pequena. Árvores na cidade absorvem parte da radiação solar e fazem sombra, diminuindo o aquecimento do solo e das construções. Por isso corredores verdes refrescam bairros."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Argumento de uma teoria (paleontológico = fósseis).\n• Causa de um fenômeno natural (tsunâmi, assoreamento).\n• Gases do efeito estufa, sempre ligados ao aquecimento, nunca à camada de ozônio.\n• Atitudes que reduzem enchentes ou mudanças climáticas.\n\nDesconfie de alternativas com palavras absolutas como \"exclusivamente\", \"todo o gás carbônico\" ou \"não são afetadas\"."
+      }
+    ],
+    "armadilha": "Misturar efeito estufa com buraco na camada de ozônio. $CO_2$ e metano aquecem o planeta; CFCs destroem o ozônio. Outra troca frequente: chamar o argumento dos fósseis de geológico, ou o encaixe das costas de paleontológico.",
+    "exemplos": [
+      {
+        "suporte": [
+          "O Japão e o Chile registram muitos terremotos; o Brasil, poucos e fracos."
+        ],
+        "comando": "A diferença se explica porque",
+        "alternativas": [
+          "o Brasil é maior que o Japão e o Chile.",
+          "Japão e Chile ficam em bordas de placas tectônicas, e o Brasil, no interior de uma placa.",
+          "o Brasil tem clima tropical.",
+          "o núcleo da Terra é mais quente sob o Japão.",
+          "a rotação da Terra é mais lenta no Brasil."
+        ],
+        "passos": [
+          "Terremotos fortes acontecem no contato entre placas.",
+          "Japão e Chile estão em bordas de placas; o Brasil fica no meio da placa Sul-Americana."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: tamanho do país não causa terremotos.",
+          "C: clima não causa sismos.",
+          "D: não há essa diferença no núcleo que explique o caso.",
+          "E: a rotação é a mesma para todo o planeta."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma reportagem afirma: \"O aumento do gás carbônico está abrindo o buraco na camada de ozônio.\""
+        ],
+        "comando": "A afirmação está",
+        "alternativas": [
+          "correta, pois o CO₂ reage com o ozônio.",
+          "incorreta, pois o CO₂ intensifica o efeito estufa; a camada de ozônio é destruída principalmente pelos CFCs.",
+          "correta, pois os dois fenômenos são o mesmo.",
+          "incorreta, pois o CO₂ resfria o planeta.",
+          "incorreta, pois não existe camada de ozônio."
+        ],
+        "passos": [
+          "CO₂ é gás do efeito estufa: retém calor.",
+          "O buraco na camada de ozônio vem principalmente dos CFCs.",
+          "São fenômenos diferentes."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o CO₂ não é o destruidor do ozônio.",
+          "C: efeito estufa e camada de ozônio são fenômenos distintos.",
+          "D: o CO₂ aquece, não resfria.",
+          "E: a camada de ozônio existe, na estratosfera."
+        ]
+      },
+      {
+        "suporte": [
+          "Depois que as margens de um rio foram desmatadas, ele ficou mais raso e passou a transbordar com mais frequência."
+        ],
+        "comando": "O processo responsável é",
+        "alternativas": [
+          "vulcanismo.",
+          "assoreamento.",
+          "orogênese.",
+          "sublimação.",
+          "efeito estufa."
+        ],
+        "passos": [
+          "Sem mata ciliar, a terra das margens chega ao rio.",
+          "Os sedimentos se acumulam no leito: assoreamento."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: vulcanismo é saída de magma.",
+          "C: orogênese é a formação de montanhas.",
+          "D: sublimação é mudança de estado.",
+          "E: efeito estufa não deixa o rio raso."
+        ]
+      },
+      {
+        "suporte": [
+          "Num afloramento, um geólogo encontra uma rocha formada por camadas de grãos de areia compactados, com conchas fossilizadas."
+        ],
+        "comando": "A rocha é",
+        "alternativas": [
+          "magmática, formada pelo resfriamento do magma.",
+          "sedimentar, formada pela compactação de sedimentos.",
+          "metamórfica, formada por calor e pressão.",
+          "vulcânica, formada por lava.",
+          "do núcleo da Terra."
+        ],
+        "passos": [
+          "Camadas de grãos compactados indicam sedimentos.",
+          "Fósseis se preservam em rochas sedimentares."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: magma fundido não preserva conchas.",
+          "C: a metamorfose costuma destruir fósseis.",
+          "D: lava também é magmática.",
+          "E: o núcleo não aflora na superfície."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma prefeitura quer reduzir as enchentes no centro da cidade."
+        ],
+        "comando": "A medida mais adequada é",
+        "alternativas": [
+          "asfaltar mais ruas.",
+          "criar parques e calçadas permeáveis que facilitem a infiltração da água.",
+          "canalizar o lixo para os rios.",
+          "retirar árvores das praças.",
+          "desligar os piscinões."
+        ],
+        "passos": [
+          "Enchente urbana vem da água que não infiltra.",
+          "Áreas verdes e pisos permeáveis aumentam a infiltração."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A impermeabiliza ainda mais o solo.",
+          "C entope e assoreia os rios.",
+          "D reduz a infiltração e o sombreamento.",
+          "E elimina reservatórios de contenção."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q017",
+        "correta": "C",
+        "justificativa": "O argumento paleontológico é o de fósseis idênticos encontrados em continentes hoje afastados.",
+        "distratores": [
+          "A: água doce não é evidência da deriva.",
+          "B: formações similares são argumento geológico, não paleontológico.",
+          "D: destroços de navios não têm relação com a deriva.",
+          "E: o encaixe das costas é argumento geográfico, e ele vale para América do Sul e África, não para a Ásia."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q030",
+        "correta": "E",
+        "justificativa": "CO₂ e metano são gases do efeito estufa; em excesso, potencializam o aquecimento global.",
+        "distratores": [
+          "A: esses gases retêm a radiação infravermelha, não protegem a Terra dela.",
+          "B: quem protege do ultravioleta é a camada de ozônio.",
+          "C: em excesso eles aumentam a temperatura, não a amenizam.",
+          "D: o ozônio é destruído principalmente pelos CFCs."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q013",
+        "correta": "D",
+        "justificativa": "Na absorção física, a água fria e salgada, mais densa, afunda e leva o CO₂ para águas profundas. A densidade muda com a temperatura e a salinidade.",
+        "distratores": [
+          "A: o processo físico ocorre em águas profundas, não por aquecimento de águas rasas.",
+          "B: transporte de nutrientes se liga à absorção biológica.",
+          "C: o processo não depende da costa nem das chuvas.",
+          "E: a temperatura não é constante; sua variação é que muda a densidade."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q012",
+        "correta": "D",
+        "justificativa": "Tsunâmis são provocados por tremores sísmicos no assoalho oceânico e por vulcanismo.",
+        "distratores": [
+          "A: aquecimento das águas não gera tsunâmi.",
+          "B: rotação e translação não geram tsunâmi.",
+          "C: correntes marítimas não geram essas ondas.",
+          "E: não há oceanos no núcleo da Terra."
+        ]
+      },
+      {
+        "id": "etec-2017-1-q017",
+        "correta": "B",
+        "justificativa": "A charge trata do aquecimento global, que derrete o gelo polar; o gás carbônico é um dos principais responsáveis.",
+        "distratores": [
+          "A: o gelo polar derrete pelo aquecimento; não sublima por resfriamento.",
+          "C: o gelo diminui com o aumento da temperatura.",
+          "D: a camada de ozônio não é destruída por solidificação.",
+          "E: os polos estão entre as regiões mais afetadas."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q038",
+        "correta": "A",
+        "justificativa": "O acúmulo de sedimentos no leito de rios e lagos é o assoreamento.",
+        "distratores": [
+          "B: epirogênese é o lento levantamento ou rebaixamento de grandes áreas da crosta.",
+          "C: vulcanismo é a saída de magma.",
+          "D: tectonismo é o movimento das placas.",
+          "E: orogênese é a formação de montanhas."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q024",
+        "correta": "B",
+        "topicoComplementar": "BI05",
+        "justificativa": "As árvores absorvem parte da radiação solar e fazem sombra, diminuindo o aquecimento do solo e das construções.",
+        "distratores": [
+          "A: o oxigênio liberado não muda o clima regional.",
+          "C: as árvores não absorvem todo o gás carbônico nem eliminam a poluição.",
+          "D: a fotossíntese não cria barreira contra a energia do Sol.",
+          "E: a mudança no microclima não vem de bloquear brisas."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q032",
+        "correta": "E",
+        "topicoComplementar": "GE03",
+        "justificativa": "Áreas verdes facilitam a infiltração da água da chuva no solo e reduzem as enchentes.",
+        "distratores": [
+          "A: lixo nas valas entope a drenagem e piora as enchentes.",
+          "B: impermeabilizar aumenta o escoamento e as enchentes.",
+          "C: assoreamento deixa os rios rasos e facilita o transbordamento.",
+          "D: drenagem menos eficiente agrava as enchentes."
+        ]
+      },
+      {
+        "id": "etec-2017-1-q014",
+        "correta": "A",
+        "topicoComplementar": "GE03",
+        "justificativa": "O texto propõe reduzir as emissões dos gases do efeito estufa e conservar e recuperar ecossistemas para diminuir os impactos das mudanças climáticas.",
+        "distratores": [
+          "B: a globalização altera ecossistemas e não é só política.",
+          "C: regiões em desertificação também sofrem mudanças climáticas.",
+          "D: o texto diz que a meta deve contar com a população, não só com o governo.",
+          "E: a biodiversidade é afetada pelas mudanças climáticas."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q047",
+        "correta": "D",
+        "topicoComplementar": "GE04",
+        "justificativa": "O minério de ferro brasileiro está nos escudos cristalinos, terrenos antigos de rochas magmáticas e metamórficas, como o Quadrilátero Ferrífero e Carajás.",
+        "distratores": [
+          "A: bacias sedimentares guardam petróleo, gás e carvão, não o ferro.",
+          "B: o Brasil não tem dobramentos modernos.",
+          "C: depressão absoluta é área abaixo do nível do mar, inexistente no Brasil.",
+          "E: planícies costeiras são formadas por sedimentos recentes."
+        ]
+      }
+    ],
+    "resumo": [
+      "Crosta, manto e núcleo; as placas se movem sobre o manto.",
+      "Deriva: fósseis (paleontológico), rochas (geológico), encaixe das costas.",
+      "Tsunâmi: sismo ou vulcanismo no fundo do oceano.",
+      "Rochas: magmáticas, sedimentares (fósseis), metamórficas.",
+      "Ferro: escudos cristalinos.",
+      "Sem mata ciliar: assoreamento. Sem infiltração: enchente.",
+      "Efeito estufa (CO₂, CH₄) aquece; ozônio filtra UV e é destruído por CFCs.",
+      "Oceano frio e salgado, mais denso, leva CO₂ ao fundo."
+    ]
   }
 }

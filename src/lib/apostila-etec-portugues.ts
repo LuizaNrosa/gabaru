@@ -33,6 +33,8 @@ export type CapituloPortugues = {
   teoria: { titulo: string; texto: string; figura?: FiguraApostila }[];
   armadilha: string;
   exemplos: ExemploPortugues[];
+  /** Exercícios de fixação de autoria Gabaru, com gabarito comentado. */
+  fixacao?: ExemploPortugues[];
   oficiais: QuestaoComentada[];
   resumo: string[];
 };

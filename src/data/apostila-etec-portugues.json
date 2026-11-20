@@ -376,6 +376,299 @@
       "Sequência não é causa; cuidado com a inversão de causa e consequência.",
       "Pressuposto resiste à negação; subentendido depende da situação.",
       "Nomeie o desvio de cada alternativa errada: extrapolação, redução, contradição, informação externa ou troca de relações."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "A horta da escola começou com seis canteiros. Em dois anos, chegou a vinte e passou a abastecer a merenda três vezes por semana. Os alunos do 9º ano cuidam da irrigação, e os do 6º, da colheita."
+        ],
+        "comando": "Segundo o texto, a horta",
+        "alternativas": [
+          "abastece a merenda todos os dias.",
+          "é cuidada apenas pelos alunos do 9º ano.",
+          "começou com vinte canteiros.",
+          "cresceu e passou a fornecer alimentos para a merenda.",
+          "foi criada há seis anos."
+        ],
+        "passos": [
+          "Procure a informação literal: de 6 para 20 canteiros e merenda três vezes por semana.",
+          "D parafraseia exatamente isso."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: são três vezes por semana, não todos os dias.",
+          "B: o 6º ano também participa, na colheita.",
+          "C: vinte é o número atual; começou com seis.",
+          "E: o texto fala em dois anos de crescimento, não em seis anos."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Quase todos os moradores da rua aprovaram a nova ciclofaixa.\""
+        ],
+        "comando": "A palavra \"quase\" indica que",
+        "alternativas": [
+          "todos os moradores aprovaram a ciclofaixa.",
+          "nenhum morador aprovou.",
+          "houve moradores que não aprovaram.",
+          "a ciclofaixa ainda não foi construída.",
+          "a maioria rejeitou a ideia."
+        ],
+        "passos": [
+          "\"Quase todos\" é muito, mas não é todos.",
+          "Logo, existe pelo menos um morador que não aprovou."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A ignora o \"quase\".",
+          "B inverte o sentido.",
+          "D: a frase não trata da construção.",
+          "E: \"quase todos\" é a maioria a favor."
+        ]
+      },
+      {
+        "suporte": [
+          "Choveu forte durante a madrugada. Pela manhã, o córrego tinha transbordado e a ponte de madeira estava interditada."
+        ],
+        "comando": "É possível inferir que",
+        "alternativas": [
+          "a ponte foi interditada por causa da cheia do córrego.",
+          "a ponte é de concreto.",
+          "não choveu no dia anterior.",
+          "a ponte foi demolida.",
+          "o córrego secou pela manhã."
+        ],
+        "passos": [
+          "Inferir é concluir a partir das pistas, sem inventar.",
+          "Chuva forte → córrego transbordou → ponte interditada: a relação de causa é a leitura mais segura."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B contradiz o texto: a ponte é de madeira.",
+          "C: a chuva foi na madrugada.",
+          "D: interditada não é demolida.",
+          "E contradiz o transbordamento."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Até o professor de Matemática errou a conta do troco.\""
+        ],
+        "comando": "O termo \"até\" pressupõe que",
+        "alternativas": [
+          "o professor sempre erra contas.",
+          "outras pessoas também erraram, e não se esperava que o professor errasse.",
+          "ninguém mais errou.",
+          "o troco estava certo.",
+          "o professor não sabe Matemática."
+        ],
+        "passos": [
+          "\"Até\" inclui alguém inesperado numa lista.",
+          "Pressupõe que outros erraram e que o erro do professor surpreende."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: a palavra indica surpresa, não hábito.",
+          "C: \"até\" indica que outros também erraram.",
+          "D: se ele errou, a conta não estava certa.",
+          "E exagera: um erro não prova que ele não sabe Matemática."
+        ]
+      },
+      {
+        "suporte": [
+          "Texto: \"O aquecimento global não é só um problema dos ursos-polares. Secas mais longas já encarecem o arroz e o feijão no Brasil, e ondas de calor lotam os hospitais.\""
+        ],
+        "comando": "A ideia central do texto é que o aquecimento global",
+        "alternativas": [
+          "afeta apenas os ursos-polares.",
+          "diminui o preço dos alimentos.",
+          "tem efeitos diretos no dia a dia das pessoas.",
+          "não chega ao Brasil.",
+          "só traz problemas para os hospitais."
+        ],
+        "passos": [
+          "A primeira frase nega a visão restrita (\"não é só\").",
+          "Os exemplos (comida e saúde) mostram efeitos próximos de nós."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é justamente a ideia negada.",
+          "B: o texto diz que os alimentos encarecem.",
+          "D: o texto cita o Brasil.",
+          "E toma um exemplo pelo todo."
+        ]
+      },
+      {
+        "suporte": [
+          "Em um manual de celular: \"Para economizar bateria, diminua o brilho da tela e desative o GPS quando não estiver em uso.\""
+        ],
+        "comando": "A finalidade principal do trecho é",
+        "alternativas": [
+          "narrar a história do celular.",
+          "convencer o leitor a comprar outro aparelho.",
+          "descrever as cores da tela.",
+          "opinar sobre o GPS.",
+          "orientar o usuário com instruções práticas."
+        ],
+        "passos": [
+          "Verbos no imperativo (\"diminua\", \"desative\") indicam instrução.",
+          "O manual quer orientar."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A: não há narrativa.",
+          "B: não há propaganda de compra.",
+          "C: o texto não descreve cores.",
+          "D: não há opinião, há orientação."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Embora tenha treinado pouco, Júlia venceu a corrida.\""
+        ],
+        "comando": "A relação entre as duas partes da frase é de",
+        "alternativas": [
+          "causa: venceu porque treinou pouco.",
+          "concessão: o pouco treino não impediu a vitória.",
+          "finalidade: treinou para vencer.",
+          "tempo: venceu enquanto treinava.",
+          "conclusão: portanto, treinou pouco."
+        ],
+        "passos": [
+          "\"Embora\" introduz um fato que poderia impedir o outro, mas não impede.",
+          "É concessão."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A inverte a lógica: o pouco treino não causou a vitória.",
+          "C: não há \"para\" nem objetivo.",
+          "D: não há ideia de tempo simultâneo.",
+          "E: a vitória não é conclusão do treino curto."
+        ]
+      },
+      {
+        "suporte": [
+          "Um cartaz na biblioteca diz: \"Celulares no silencioso. Obrigado por respeitar quem estuda.\""
+        ],
+        "comando": "O cartaz subentende que",
+        "alternativas": [
+          "é proibido entrar com livros.",
+          "o barulho do celular atrapalha quem estuda.",
+          "a biblioteca vende celulares.",
+          "ninguém estuda na biblioteca.",
+          "os celulares devem ficar desligados para sempre."
+        ],
+        "passos": [
+          "Subentendido é o que se conclui sem estar escrito.",
+          "Se pedir silêncio é \"respeitar quem estuda\", o barulho atrapalha."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o cartaz não fala de livros.",
+          "C não tem relação com o texto.",
+          "D contradiz o próprio cartaz.",
+          "E exagera: pede o modo silencioso, só ali."
+        ]
+      },
+      {
+        "suporte": [
+          "Gráfico descrito: em 2022, 40% dos alunos de uma escola iam a pé; em 2024, 25%. Os que usam ônibus passaram de 30% para 45%."
+        ],
+        "comando": "De acordo com os dados,",
+        "alternativas": [
+          "a maioria dos alunos vai a pé em 2024.",
+          "o uso do ônibus caiu.",
+          "a parcela dos que vão a pé diminuiu, e a do ônibus aumentou.",
+          "nenhum aluno usa ônibus em 2022.",
+          "o número total de alunos dobrou."
+        ],
+        "passos": [
+          "Compare cada categoria nos dois anos: a pé 40 → 25, ônibus 30 → 45."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: 25% não é maioria.",
+          "B: o ônibus subiu de 30% para 45%.",
+          "D: em 2022 eram 30%.",
+          "E: o gráfico mostra porcentagens, não o total de alunos."
+        ]
+      },
+      {
+        "suporte": [
+          "I. O texto informa que a feira acontece aos sábados.",
+          "II. O texto afirma que os preços são os mais baixos da cidade.",
+          "III. O texto diz que a feira tem barracas de artesanato.",
+          "Texto: \"Aos sábados, a feira da praça reúne produtores rurais e barracas de artesanato. Muitos moradores dizem que vale a pena.\""
+        ],
+        "comando": "Está correto o que se afirma em",
+        "alternativas": [
+          "I apenas.",
+          "II apenas.",
+          "I e II apenas.",
+          "II e III apenas.",
+          "I e III apenas."
+        ],
+        "passos": [
+          "I: \"aos sábados\", certo.",
+          "II: o texto não compara preços.",
+          "III: \"barracas de artesanato\", certo."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A esquece III, que também está no texto.",
+          "B aceita II, que não está no texto.",
+          "C aceita II.",
+          "D aceita II e descarta I."
+        ]
+      },
+      {
+        "suporte": [
+          "\"A biblioteca municipal, que reabriu em março, recebeu 2 mil visitantes no primeiro mês.\""
+        ],
+        "comando": "Uma paráfrase fiel da frase é:",
+        "alternativas": [
+          "Em março, 2 mil livros foram doados à biblioteca.",
+          "No primeiro mês após reabrir, em março, a biblioteca municipal teve 2 mil visitantes.",
+          "A biblioteca fechou em março por falta de visitantes.",
+          "Dois mil moradores pediram a reabertura da biblioteca.",
+          "A biblioteca vai reabrir em março e espera 2 mil visitantes."
+        ],
+        "passos": [
+          "Paráfrase diz o mesmo com outras palavras.",
+          "B mantém todos os dados: reabertura em março e 2 mil visitantes no primeiro mês."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A troca visitantes por livros.",
+          "C inverte: ela reabriu.",
+          "D inventa um pedido.",
+          "E muda o tempo para o futuro."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma reportagem afirma: \"Segundo o Instituto de Pesquisas, 7 em cada 10 adolescentes dormem menos de oito horas por noite.\""
+        ],
+        "comando": "O trecho entre aspas tem a função de",
+        "alternativas": [
+          "dar credibilidade ao dado, citando a fonte.",
+          "expressar a opinião pessoal do repórter.",
+          "contar uma história de ficção.",
+          "ensinar como dormir melhor.",
+          "criticar o instituto."
+        ],
+        "passos": [
+          "\"Segundo\" introduz a fonte da informação.",
+          "Citar a fonte torna o dado confiável."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: o dado vem de um instituto, não do repórter.",
+          "C: é informação, não ficção.",
+          "D: não há instruções.",
+          "E: não há crítica ao instituto."
+        ]
+      }
     ]
   },
   "generos-e-leitura-multimodal": {

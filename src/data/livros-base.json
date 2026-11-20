@@ -160,6 +160,26 @@
         "status": "publicado"
       },
       {
+        "slug": "cartografia-paisagens-e-biomas",
+        "titulo": "Cartografia, paisagens e biomas",
+        "status": "publicado"
+      },
+      {
+        "slug": "brasil-territorio-campo-e-industria",
+        "titulo": "Brasil: território, campo, indústria e redes",
+        "status": "publicado"
+      },
+      {
+        "slug": "populacao-cidades-e-mundo-globalizado",
+        "titulo": "População, cidades e mundo globalizado",
+        "status": "publicado"
+      },
+      {
+        "slug": "atualidades-cidadania-ambiente-e-trabalho",
+        "titulo": "Atualidades: cidadania, ambiente e trabalho",
+        "status": "publicado"
+      },
+      {
         "slug": "apendice",
         "titulo": "Apêndice · Edital e incidência histórica",
         "status": "publicado"

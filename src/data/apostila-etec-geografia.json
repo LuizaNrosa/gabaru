@@ -1,0 +1,2518 @@
+{
+  "cartografia-paisagens-e-biomas": {
+    "materia": "Matéria 5 · Ciências Humanas · Geografia",
+    "introducao": "Geografia na ETEC começa pelo mapa e pela paisagem: para onde voa o avião, que horas são em Londres, por que o litoral do Chile é seco, como é a vegetação da Caatinga e da Amazônia. Os biomas brasileiros são o tópico de Geografia que mais cai. Saber reconhecê-los pela descrição da vegetação e do clima vale vários pontos.",
+    "codigos": [
+      "GE01",
+      "GE02"
+    ],
+    "raioX": "Os itens pedem: direção num mapa pela rosa dos ventos; fusos horários; escala; coordenadas; características de biomas e formações vegetais; correntes marítimas e clima; agentes que modelam o relevo; solos e sua conservação; rios brasileiros e mundiais. Os distratores trocam um bioma por outro, invertem pontos cardeais ou somam o fuso no sentido errado.",
+    "intuicao": [
+      "Norte em cima, sul embaixo, leste à direita, oeste à esquerda. Os colaterais combinam: nordeste, sudeste, sudoeste, noroeste.",
+      "Leste de Greenwich adianta o relógio; oeste atrasa. O Brasil (Brasília) fica 3 horas atrás de Londres.",
+      "Bioma se reconhece pelo clima: semiárido = Caatinga; equatorial úmido = Amazônia; tropical com estação seca = Cerrado.",
+      "Água e vento esculpem o relevo; vegetação protege o solo."
+    ],
+    "teoria": [
+      {
+        "titulo": "Orientação e rosa dos ventos",
+        "texto": "• Pontos cardeais: norte (N), sul (S), leste (L ou E) e oeste (O ou W).\n• Colaterais: nordeste (NE), sudeste (SE), sudoeste (SO), noroeste (NO).\n\nPara achar a direção de um trajeto num mapa, imagine a rosa dos ventos sobre o ponto de partida e veja para onde aponta o destino. De Araraquara a Jundiaí, por exemplo, o avião segue para baixo e para a direita no mapa paulista: sudeste.\n\nA bússola aponta para o polo norte magnético, que fica perto (mas não exatamente sobre) o polo norte geográfico."
+      },
+      {
+        "titulo": "Coordenadas geográficas",
+        "texto": "• Paralelos: linhas horizontais; medem a latitude (0° no Equador até 90° nos polos, norte ou sul).\n• Meridianos: linhas verticais; medem a longitude (0° em Greenwich até 180°, leste ou oeste).\n• Trópicos de Câncer e de Capricórnio e círculos polares são paralelos especiais.\n\nBaixas latitudes ficam perto do Equador (quentes); altas latitudes, perto dos polos (frias). Rotas aéreas entre Ásia e América do Norte passam perto do Polo Norte porque, na esfera, esse é o caminho mais curto: economiza tempo e combustível."
+      },
+      {
+        "titulo": "Fusos horários",
+        "texto": "A Terra gira 360° em 24 h: cada fuso tem 15° e corresponde a 1 hora.\n\n• Indo para leste, as horas aumentam; para oeste, diminuem.\n• Brasília está em GMT −3: 3 horas a menos que Londres.\n\nExemplo: sai de Guarulhos às 6 h, voo de 11 h. Chega às 17 h de Brasília, que são $17 + 3 = 20$ h em Londres."
+      },
+      {
+        "titulo": "Escala",
+        "texto": "Escala 1 : 100 000 significa que 1 cm no mapa vale 100 000 cm (1 km) no real.\n\n• Escala grande (denominador pequeno): mostra áreas pequenas com muitos detalhes, como a planta de um bairro.\n• Escala pequena (denominador grande): mostra áreas grandes com poucos detalhes, como um mapa-múndi.\n\nAs contas de escala estão no capítulo de razão e proporção."
+      },
+      {
+        "titulo": "Clima e correntes marítimas",
+        "texto": "O clima depende de latitude, altitude, maritimidade, massas de ar e correntes marítimas.\n\n• Correntes frias resfriam o ar e reduzem a evaporação: o litoral fica seco. A Corrente de Humboldt (ou do Peru), no Pacífico, ajuda a formar o Deserto do Atacama, no Chile.\n• A mesma corrente traz águas profundas ricas em nutrientes à superfície (ressurgência), atraindo peixes e aves cujas fezes formam o guano.\n• Monções: no sul da Ásia, ventos trazem chuvas fortíssimas no verão. A Índia cultiva arroz em terraços nas encostas."
+      },
+      {
+        "titulo": "Biomas brasileiros",
+        "texto": "• Amazônia: clima equatorial quente e úmido; floresta densa e heterogênea, árvores grandes de folhas largas e perenes, cipós e epífitas. Divide-se em mata de igapó (sempre alagada), de várzea (alagada nas cheias) e de terra firme.\n• Mata Atlântica: floresta tropical densa, latifoliada e heterogênea, na costa; hoje restam poucos fragmentos.\n• Cerrado: clima tropical com estação seca; árvores baixas de troncos retorcidos e casca grossa, resistentes ao fogo; raízes profundas; \"berço das águas\".\n• Caatinga: exclusivamente brasileira, clima semiárido, solo raso e pedregoso; plantas xerófitas, com folhas pequenas ou em espinhos, que perdem as folhas na seca.\n• Pantanal: maior planície alagável do planeta, com grande diversidade de aves.\n• Pampa: clima subtropical; campos de gramíneas no sul do país.\n\nManguezais, na costa, têm raízes aéreas, são áreas de preservação permanente e berçário de peixes e crustáceos."
+      },
+      {
+        "titulo": "Amazônia Legal e bacia amazônica",
+        "texto": "• Amazônia Legal: área definida por lei para planejamento. Inclui todos os estados da Região Norte, Mato Grosso e parte do Maranhão (que é do Nordeste).\n• O Bioma Amazônia se estende por vários países da América do Sul.\n• A bacia do Amazonas é a maior do mundo em volume de água, mas não engloba todos os rios do continente."
+      },
+      {
+        "titulo": "Relevo e agentes modeladores",
+        "texto": "• Agentes internos (endógenos): tectonismo e vulcanismo criam formas.\n• Agentes externos (exógenos): água, vento, gelo e seres vivos desgastam e transportam.\n\n• Erosão pluvial: chuva. Fluvial: rios, que escavam vales. Marinha: ondas. Eólica: vento, por corrosão e deflação. Glacial: geleiras.\n• Várzea: área plana às margens dos rios que alaga periodicamente.\n• Voçorocas: grandes buracos de erosão em solo desprotegido."
+      },
+      {
+        "titulo": "Solos e conservação",
+        "texto": "• Terra roxa: solo fértil de origem basáltica, vermelho-escuro, que sustentou o café no oeste paulista e no norte do Paraná.\n• Massapê: solo escuro e fértil da Zona da Mata nordestina, usado na cana.\n\nDegradação: erosão, lixiviação, compactação, salinização e desertificação (no semiárido, causada principalmente pelo manejo inadequado).\n\nConservação: plantio em curvas de nível, terraceamento, rotação de culturas, cobertura vegetal e reflorestamento."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Mapa com dois pontos e pergunta sobre a direção.\n• Fuso horário com voo: some o tempo de viagem e depois a diferença de fuso.\n• Descrição de vegetação e pergunta sobre o bioma.\n• Prática agrícola e conservação do solo.\n\nPara biomas, procure no texto as palavras-chave: semiárido, espinhos, troncos retorcidos, folhas largas, alagamento."
+      }
+    ],
+    "armadilha": "Trocar Cerrado e Caatinga: troncos retorcidos e casca grossa resistente ao fogo são do Cerrado; espinhos, folhas pequenas e semiárido, da Caatinga. No fuso, lembrar que Londres está 3 horas à frente de Brasília, não atrás.",
+    "exemplos": [
+      {
+        "suporte": [
+          "São 14 h em Brasília (GMT −3)."
+        ],
+        "comando": "Em Tóquio (GMT +9) são",
+        "alternativas": [
+          "2 h.",
+          "17 h.",
+          "23 h.",
+          "2 h do dia seguinte.",
+          "11 h."
+        ],
+        "passos": [
+          "Diferença: $9 - (-3) = 12$ h.",
+          "$14 + 12 = 26$ h, ou seja, 2 h do dia seguinte."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A ignora a mudança de dia.",
+          "B soma só 3 horas.",
+          "C soma 9 horas.",
+          "E subtrai 3 horas."
+        ]
+      },
+      {
+        "suporte": [
+          "Num mapa, a cidade B está acima e à esquerda da cidade A."
+        ],
+        "comando": "De A para B, a direção é",
+        "alternativas": [
+          "nordeste.",
+          "sudeste.",
+          "noroeste.",
+          "sudoeste.",
+          "leste."
+        ],
+        "passos": [
+          "Acima = norte; esquerda = oeste.",
+          "Noroeste."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A seria acima e à direita.",
+          "B seria abaixo e à direita.",
+          "D seria abaixo e à esquerda.",
+          "E seria só à direita."
+        ]
+      },
+      {
+        "suporte": [
+          "Vegetação com cactos, folhas reduzidas, solo pedregoso e longos períodos de seca."
+        ],
+        "comando": "O bioma é",
+        "alternativas": [
+          "Amazônia.",
+          "Mata Atlântica.",
+          "Pampa.",
+          "Caatinga.",
+          "Pantanal."
+        ],
+        "passos": [
+          "Semiárido e plantas xerófitas: Caatinga."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é úmida e densa.",
+          "B é úmida e densa.",
+          "C tem campos de gramíneas.",
+          "E é planície alagável."
+        ]
+      },
+      {
+        "suporte": [
+          "Um agricultor planta seguindo as linhas de mesma altitude do terreno."
+        ],
+        "comando": "A técnica serve para",
+        "alternativas": [
+          "acelerar a erosão.",
+          "reduzir a erosão, segurando a água da chuva.",
+          "salinizar o solo.",
+          "aumentar as voçorocas.",
+          "secar o solo."
+        ],
+        "passos": [
+          "Curvas de nível freiam a enxurrada."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é o oposto.",
+          "C não é efeito.",
+          "D é o oposto.",
+          "E não é o objetivo."
+        ]
+      },
+      {
+        "suporte": [
+          "Um mapa tem escala 1 : 1 000 000."
+        ],
+        "comando": "É uma escala",
+        "alternativas": [
+          "grande, com muitos detalhes.",
+          "pequena, adequada para grandes áreas.",
+          "grande, adequada para plantas de casas.",
+          "sem relação com a realidade.",
+          "que vale 1 cm = 1 m."
+        ],
+        "passos": [
+          "Denominador grande: escala pequena.",
+          "1 cm = 10 km."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A inverte.",
+          "C serve a escalas como 1 : 50.",
+          "D: toda escala representa a realidade.",
+          "E erra a conversão."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q017",
+        "correta": "B",
+        "justificativa": "Rotas perto do Polo Norte são o caminho mais curto na esfera: economizam tempo e combustível, com segurança.",
+        "distratores": [
+          "A: não há tempestades tropicais nos polos.",
+          "C: satélites não geram tráfego aéreo no Equador.",
+          "D: há gravidade nos polos.",
+          "E: aviões não navegam por contato visual com o solo."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q026",
+        "correta": "E",
+        "justificativa": "A corrente fria do Peru (Humboldt), no Pacífico, causa ressurgência e a aridez do litoral norte do Chile.",
+        "distratores": [
+          "A banha a América do Norte.",
+          "B circunda a Antártida.",
+          "C banha a África, no Atlântico.",
+          "D é quente e banha o Brasil."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q022",
+        "correta": "C",
+        "justificativa": "A Caatinga tem vegetação heterogênea do semiárido, com folhas atrofiadas, caules grossos e raízes profundas.",
+        "distratores": [
+          "A mistura palmáceas e características de outros biomas.",
+          "B descreve a floresta equatorial.",
+          "D descreve formações densas com campos, não a Caatinga.",
+          "E descreve floresta de coníferas."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q004",
+        "correta": "D",
+        "justificativa": "A Amazônia tem árvores de médio e grande porte, folhas largas e perenes, cipós, trepadeiras e epífitas.",
+        "distratores": [
+          "A descreve a Caatinga.",
+          "B descreve o manguezal.",
+          "C descreve o Cerrado.",
+          "E descreve campos."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q003",
+        "correta": "B",
+        "justificativa": "A Floresta Amazônica divide-se em mata de igapó, de várzea e de terra firme.",
+        "distratores": [
+          "A: floresta aciculifoliada é de coníferas.",
+          "C: restinga e mata dos cocais não são estratos amazônicos.",
+          "D são outros biomas.",
+          "E são outros biomas e ecossistemas."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q038",
+        "correta": "D",
+        "justificativa": "Os manguezais são áreas de preservação permanente e berçário de peixes e crustáceos.",
+        "distratores": [
+          "A: o texto não sustenta esse uso como característica principal.",
+          "B: os manguezais reduzem a erosão.",
+          "C: ocorrem em grande parte do litoral brasileiro.",
+          "E: Tocantins e Goiás não têm litoral."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q038",
+        "correta": "A",
+        "justificativa": "As monções favorecem o arroz, cultivado em terraços nas encostas.",
+        "distratores": [
+          "B: a azeitona é mediterrânea, de clima seco.",
+          "C: feijão não é cultivo de pecuária.",
+          "D: uva e pecuária não se ligam às monções.",
+          "E: a mandioca não é o cultivo típico das monções."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q019",
+        "correta": "D",
+        "justificativa": "O plantio em curvas de nível previne a erosão e a degradação.",
+        "distratores": [
+          "A: a monocultura empobrece o solo.",
+          "B: voçorocas são degradação.",
+          "C: a lixiviação retira nutrientes.",
+          "E: a salinização degrada o solo."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q034",
+        "correta": "E",
+        "justificativa": "O mapa mostra a Floresta Equatorial em baixas latitudes, ameaçada pelo desmatamento para a agropecuária.",
+        "distratores": [
+          "A: coníferas ficam em altas latitudes.",
+          "B: savanas não correspondem à distribuição mostrada.",
+          "C: florestas temperadas ficam em latitudes médias.",
+          "D: pradarias ficam em latitudes médias."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q025",
+        "correta": "D",
+        "justificativa": "A Caatinga tem clima semiárido, solo raso e pedregoso e plantas com espinhos.",
+        "distratores": [
+          "A descreve o Cerrado.",
+          "B descreve o Pantanal.",
+          "C descreve a Mata Atlântica.",
+          "E descreve o Pampa."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q015",
+        "correta": "A",
+        "justificativa": "A Mata Atlântica tem vegetação densa, latifoliada e heterogênea.",
+        "distratores": [
+          "B descreve floresta de coníferas.",
+          "C: tundra não tem selva nem cactos.",
+          "D lembra o Cerrado.",
+          "E lembra a Caatinga."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q001",
+        "correta": "B",
+        "justificativa": "O Tietê nasce na Serra do Mar, em Salesópolis, corre para o interior e deságua no rio Paraná.",
+        "distratores": [
+          "A: não nasce na capital nem deságua em Santos.",
+          "C: não chega ao Pacífico.",
+          "D: o Pinheiros é que deságua no Tietê.",
+          "E: não deságua no Atlântico diretamente."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q034",
+        "correta": "B",
+        "justificativa": "Várzea é a área plana às margens dos rios, alagada periodicamente.",
+        "distratores": [
+          "A descreve terreno acidentado.",
+          "C confunde com ruas de periferia.",
+          "D descreve topo de colina.",
+          "E descreve áreas altas."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q028",
+        "correta": "A",
+        "justificativa": "A desertificação no semiárido é causada principalmente pelo manejo inadequado dos recursos naturais.",
+        "distratores": [
+          "B: ciclones não causam desertificação no semiárido.",
+          "C: placas tectônicas não explicam o processo.",
+          "D: não é processo microbiano.",
+          "E: monções são asiáticas."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q013",
+        "correta": "A",
+        "justificativa": "A terra roxa, vermelha e fértil, sustentou a expansão do café no norte do Paraná.",
+        "distratores": [
+          "B não é o solo do café paranaense.",
+          "C: o massapê é nordestino.",
+          "D: tchernozion é das estepes russas.",
+          "E: calcário não descreve a terra roxa."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q042",
+        "correta": "E",
+        "justificativa": "Chega às 17 h de Brasília; Londres está 3 horas à frente: 20 h.",
+        "distratores": [
+          "A ignora o voo e o fuso.",
+          "B soma só o fuso.",
+          "C usa só o tempo de voo.",
+          "D esquece o fuso."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q042",
+        "correta": "D",
+        "justificativa": "O vento é o agente da erosão eólica, que age por corrosão e deflação.",
+        "distratores": [
+          "A: abrasão é marinha, e geleiras não soerguem chapadões.",
+          "B: erosão de rio é fluvial.",
+          "C: erosão da chuva é pluvial.",
+          "E: erosão marinha não forma dobramentos."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q018",
+        "correta": "E",
+        "justificativa": "O Nilo nasce no interior da África e corre para o norte, desaguando no Mediterrâneo.",
+        "distratores": [
+          "A: não corre de leste a oeste nem nasce no Kilimanjaro.",
+          "B: não deságua no Índico.",
+          "C: não corre para o sul nem chega ao Pacífico.",
+          "D: não deságua no Atlântico."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q013",
+        "correta": "C",
+        "justificativa": "O sertão, semiárido, é a sub-região mais castigada pela seca, retratada nesses romances.",
+        "distratores": [
+          "A é área de transição.",
+          "B é úmido.",
+          "D é transição para a Amazônia.",
+          "E é úmida, área da cana."
+        ]
+      }
+    ],
+    "resumo": [
+      "Leste adianta, oeste atrasa; Brasília = Londres − 3 h.",
+      "Escala grande: mais detalhe; escala pequena: área maior.",
+      "Correntes frias secam o litoral (Atacama).",
+      "Amazônia: igapó, várzea, terra firme. Caatinga: semiárido e espinhos. Cerrado: troncos retorcidos.",
+      "Manguezal: APP e berçário.",
+      "Erosão: pluvial, fluvial, eólica, marinha, glacial.",
+      "Conservar o solo: curvas de nível, cobertura vegetal."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "O Sol nasce, aproximadamente, no"
+        ],
+        "comando": "ponto cardeal",
+        "alternativas": [
+          "oeste.",
+          "norte.",
+          "sul.",
+          "leste.",
+          "noroeste."
+        ],
+        "passos": [
+          "O Sol nasce a leste e se põe a oeste."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é onde se põe.",
+          "B não é o caso.",
+          "C não é o caso.",
+          "E não é o caso."
+        ]
+      },
+      {
+        "suporte": [
+          "A linha imaginária de latitude 0° é o"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "Equador.",
+          "Meridiano de Greenwich.",
+          "Trópico de Capricórnio.",
+          "Círculo Polar Ártico.",
+          "Trópico de Câncer."
+        ],
+        "passos": [
+          "Latitude 0° = Equador."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é longitude 0°.",
+          "C fica a cerca de 23° S.",
+          "D fica a cerca de 66° N.",
+          "E fica a cerca de 23° N."
+        ]
+      },
+      {
+        "suporte": [
+          "São 10 h em Londres."
+        ],
+        "comando": "Em Brasília (GMT −3) são",
+        "alternativas": [
+          "13 h.",
+          "10 h.",
+          "7 h.",
+          "3 h.",
+          "6 h."
+        ],
+        "passos": [
+          "Brasília está 3 horas atrás."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A soma em vez de subtrair.",
+          "B ignora o fuso.",
+          "D subtrai 7.",
+          "E subtrai 4."
+        ]
+      },
+      {
+        "suporte": [
+          "Um mapa do bairro, com ruas e casas detalhadas, usa"
+        ],
+        "comando": "escala",
+        "alternativas": [
+          "pequena.",
+          "grande.",
+          "de 1 : 50 000 000.",
+          "sem números.",
+          "mundial."
+        ],
+        "passos": [
+          "Muitos detalhes: escala grande."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A mostra áreas grandes.",
+          "C é escala de continente.",
+          "D: toda escala tem números ou barra.",
+          "E é de mapa-múndi."
+        ]
+      },
+      {
+        "suporte": [
+          "O Cerrado tem árvores de troncos retorcidos, casca grossa e raízes profundas."
+        ],
+        "comando": "Essas adaptações ajudam a",
+        "alternativas": [
+          "viver submersas.",
+          "resistir ao fogo e à estação seca.",
+          "suportar neve.",
+          "crescer em água salgada.",
+          "evitar a fotossíntese."
+        ],
+        "passos": [
+          "Casca grossa protege do fogo; raízes buscam água profunda."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é do igapó.",
+          "C não ocorre no Cerrado.",
+          "D é do mangue.",
+          "E não faz sentido."
+        ]
+      },
+      {
+        "suporte": [
+          "A maior planície alagável do planeta, com enorme diversidade de aves, é o"
+        ],
+        "comando": "bioma",
+        "alternativas": [
+          "Pampa.",
+          "Cerrado.",
+          "Caatinga.",
+          "Mata Atlântica.",
+          "Pantanal."
+        ],
+        "passos": [
+          "Pantanal: cheias periódicas e aves."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A é campo do Sul.",
+          "B é savana.",
+          "C é semiárida.",
+          "D é floresta costeira."
+        ]
+      },
+      {
+        "suporte": [
+          "Um rio escava um vale profundo ao longo de milhões de anos."
+        ],
+        "comando": "A erosão é",
+        "alternativas": [
+          "fluvial.",
+          "eólica.",
+          "glacial.",
+          "marinha.",
+          "antrópica."
+        ],
+        "passos": [
+          "Erosão por rios: fluvial."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é do vento.",
+          "C é do gelo.",
+          "D é do mar.",
+          "E é humana."
+        ]
+      },
+      {
+        "suporte": [
+          "No sertão nordestino, o uso intensivo do solo e o desmatamento transformam áreas em terrenos improdutivos."
+        ],
+        "comando": "O processo é a",
+        "alternativas": [
+          "ressurgência.",
+          "monção.",
+          "desertificação.",
+          "várzea.",
+          "lixiviação marinha."
+        ],
+        "passos": [
+          "Degradação em área semiárida: desertificação."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é fenômeno oceânico.",
+          "B é regime de chuvas asiático.",
+          "D é forma de relevo.",
+          "E não é o processo."
+        ]
+      },
+      {
+        "suporte": [
+          "Raízes aéreas, solo lamacento e salgado e berçário de caranguejos."
+        ],
+        "comando": "O ecossistema é o",
+        "alternativas": [
+          "manguezal.",
+          "Pampa.",
+          "Cerrado.",
+          "igapó.",
+          "Caatinga."
+        ],
+        "passos": [
+          "Ambiente costeiro salobro: manguezal."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é campo.",
+          "C é savana.",
+          "D é mata alagada de água doce.",
+          "E é semiárida."
+        ]
+      },
+      {
+        "suporte": [
+          "Um avião sai de São Paulo às 22 h e voa 12 h até Lisboa (GMT 0, sem horário de verão)."
+        ],
+        "comando": "Ao chegar, os relógios de Lisboa marcam",
+        "alternativas": [
+          "10 h.",
+          "13 h.",
+          "7 h.",
+          "1 h.",
+          "22 h."
+        ],
+        "passos": [
+          "Chegada no horário de Brasília: 22 + 12 = 34 → 10 h.",
+          "Lisboa está 3 h à frente: 13 h."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A esquece o fuso.",
+          "C subtrai o fuso.",
+          "D não vem da conta.",
+          "E ignora o voo."
+        ]
+      },
+      {
+        "suporte": [
+          "A Amazônia Legal inclui"
+        ],
+        "comando": "quais estados?",
+        "alternativas": [
+          "apenas o Amazonas.",
+          "todos os estados do Nordeste.",
+          "São Paulo e Minas Gerais.",
+          "todos os estados do Norte, Mato Grosso e parte do Maranhão.",
+          "apenas os estados do Sul."
+        ],
+        "passos": [
+          "Definição legal para planejamento da região."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é só um estado.",
+          "B: só o Maranhão, em parte.",
+          "C não fazem parte.",
+          "E não fazem parte."
+        ]
+      },
+      {
+        "suporte": [
+          "A terra roxa, de origem basáltica, foi importante para"
+        ],
+        "comando": "a expansão",
+        "alternativas": [
+          "da cana no Nordeste.",
+          "da borracha na Amazônia.",
+          "do café no oeste paulista e no Paraná.",
+          "do trigo no Pampa.",
+          "do cacau na Bahia."
+        ],
+        "passos": [
+          "Solo fértil do café."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A usou o massapê.",
+          "B é extrativista.",
+          "D não é o caso.",
+          "E não é o caso."
+        ]
+      }
+    ]
+  },
+  "brasil-territorio-campo-e-industria": {
+    "materia": "Matéria 5 · Ciências Humanas · Geografia",
+    "introducao": "Este capítulo olha para o Brasil como espaço produzido pelo trabalho: a divisão em regiões, o minério de ferro de Minas e do Pará, a soja que sai por Santos, a Via Dutra no Vale do Paraíba, o seringueiro do Acre, as fábricas que trocaram a capital pelo interior paulista. A ETEC cobra isso ligando a paisagem que o aluno conhece ao processo econômico que a formou.",
+    "codigos": [
+      "GE04"
+    ],
+    "raioX": "Os itens pedem: divisão regional do IBGE e suas mudanças; minérios e onde estão; exportações e portos; pecuária extensiva e intensiva; cinturão verde; industrialização e desconcentração industrial; setores da economia; reservas extrativistas e o trabalho do seringueiro; efeitos da tecnologia sobre o emprego. Os distratores costumam inverter extensiva e intensiva ou pôr um estado na região errada.",
+    "intuicao": [
+      "Primário extrai e cultiva; secundário transforma; terciário presta serviços e comercia.",
+      "Extensivo = muita terra, pouca técnica. Intensivo = pouca terra, muita técnica e capital.",
+      "A indústria procura mão de obra barata, incentivos fiscais e boas estradas: por isso saiu da capital rumo ao interior.",
+      "O Brasil exporta sobretudo produtos primários (commodities): soja, minério de ferro, petróleo, carne, café."
+    ],
+    "teoria": [
+      {
+        "titulo": "Regiões do Brasil",
+        "texto": "A divisão do IBGE (de 1970, com ajustes) tem cinco regiões: Norte, Nordeste, Centro-Oeste, Sudeste e Sul.\n\nMudanças depois de 1970:\n\n• 1977: Mato Grosso é dividido, e surge Mato Grosso do Sul (ambos no Centro-Oeste).\n• 1988: Tocantins é desmembrado de Goiás e passa a integrar a Região Norte; Rondônia (que já era estado desde 1981), Roraima e Amapá viram estados da Região Norte; Fernando de Noronha é incorporado a Pernambuco.\n\nOutra regionalização usada é a dos complexos regionais: Amazônia, Nordeste e Centro-Sul."
+      },
+      {
+        "titulo": "Setores da economia",
+        "texto": "• Primário: agricultura, pecuária, pesca, extrativismo e mineração.\n• Secundário: indústria e construção civil.\n• Terciário: comércio e serviços (saúde, educação, bancos, transporte, turismo, alimentação).\n\nHoje o terciário emprega a maior parte dos brasileiros. Educação, saúde e serviços financeiros, setores em que as mulheres são maioria entre os assalariados, são terciários."
+      },
+      {
+        "titulo": "Agropecuária",
+        "texto": "• Pecuária extensiva: gado solto em grandes áreas, pouca técnica, baixa produtividade.\n• Pecuária intensiva: confinamento, ração, melhoramento genético, inseminação artificial, alta produtividade.\n• Agronegócio: grandes propriedades mecanizadas que produzem commodities para exportação, como a soja do Centro-Oeste.\n• Agricultura familiar: pequenas propriedades, responsáveis por grande parte dos alimentos do mercado interno.\n• Cinturão verde: pequenas e médias propriedades ao redor das cidades, especializadas em hortaliças e frutas para abastecê-las."
+      },
+      {
+        "titulo": "Mineração e energia",
+        "texto": "• O minério de ferro (hematita, $Fe_2O_3$) é o mineral mais exportado. Vem do Quadrilátero Ferrífero (MG) e de Carajás (PA), em escudos cristalinos antigos.\n• Petróleo e gás ficam em bacias sedimentares, como o pré-sal no litoral do Sudeste.\n• A matriz elétrica brasileira é majoritariamente renovável, com destaque para as hidrelétricas e o avanço de eólica e solar."
+      },
+      {
+        "titulo": "Industrialização brasileira",
+        "texto": "• A riqueza do café financiou as primeiras indústrias em São Paulo, no fim do século XIX.\n• Era Vargas: indústria de base estatal (siderurgia, petróleo).\n• Governo JK: entrada de multinacionais e da indústria automobilística, no ABC paulista.\n• Desde os anos 1970: desconcentração industrial. Fábricas deixam a Região Metropolitana de São Paulo em busca de mão de obra mais barata, incentivos fiscais e boas rodovias no interior (Campinas, São José dos Campos, Ribeirão Preto) e em outros estados.\n\nA indústria têxtil e de confecção é uma das maiores empregadoras da indústria de transformação, com muita mão de obra feminina."
+      },
+      {
+        "titulo": "Transportes e redes",
+        "texto": "• O Brasil depende muito do transporte rodoviário, mais caro para longas distâncias que o ferroviário e o hidroviário.\n• Ferrovias paulistas do século XIX levavam o café ao porto de Santos. Hoje Santos é o maior porto da América Latina e exporta muita soja, açúcar e carne.\n• A Via Dutra (1951), ligando São Paulo e Rio pelo Vale do Paraíba, consolidou o vale como eixo industrial e tecnológico (São José dos Campos, polo aeroespacial).\n• Redes de comunicação e internet integram o território e mudam o trabalho: a automação reduz postos em bancos e fábricas."
+      },
+      {
+        "titulo": "Amazônia, extrativismo e conflitos",
+        "texto": "• Seringueiros extraem o látex cortando (\"sangrando\") a casca da seringueira, árvore nativa da Amazônia.\n• Chico Mendes, seringueiro e líder sindical de Xapuri (AC), defendeu a floresta em pé e as reservas extrativistas; foi assassinado em 1988.\n• Reserva extrativista: terra de domínio público (da União), com uso concedido às populações tradicionais, que vivem do extrativismo sustentável.\n• O avanço da soja e do gado sobre a floresta gera desmatamento e conflitos por terra."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Dados de um setor e pergunta sobre qual setor é.\n• Comparação extensivo × intensivo.\n• Causa da desconcentração industrial.\n• Atividades e direitos de populações tradicionais.\n\nDesconfie de alternativas que põem estados em regiões erradas (Tocantins no Centro-Oeste, Mato Grosso do Sul no Sudeste) ou que confundem técnicas modernas com tradicionais."
+      }
+    ],
+    "armadilha": "Confundir pecuária intensiva com gado solto em grandes áreas: isso é extensiva. E esquecer que Tocantins, criado em 1988, pertence à Região Norte.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Um banco fecha agências e passa a atender quase tudo por aplicativo."
+        ],
+        "comando": "A mudança afeta principalmente o setor",
+        "alternativas": [
+          "primário.",
+          "secundário.",
+          "terciário, com redução de postos de trabalho.",
+          "extrativista.",
+          "agrícola."
+        ],
+        "passos": [
+          "Bancos são serviços: terciário.",
+          "A automação reduz empregos."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é extração e cultivo.",
+          "B é indústria.",
+          "D é parte do primário.",
+          "E é primário."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma fazenda cria bois em confinamento, com ração balanceada e inseminação artificial."
+        ],
+        "comando": "É um exemplo de pecuária",
+        "alternativas": [
+          "extensiva.",
+          "intensiva.",
+          "de subsistência.",
+          "nômade.",
+          "itinerante."
+        ],
+        "passos": [
+          "Alta técnica e capital, pouca área: intensiva."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A usa grandes áreas e pouca técnica.",
+          "C é para consumo próprio.",
+          "D não se aplica.",
+          "E não se aplica."
+        ]
+      },
+      {
+        "suporte": [
+          "O estado do Tocantins foi criado em 1988."
+        ],
+        "comando": "Ele faz parte da região",
+        "alternativas": [
+          "Centro-Oeste.",
+          "Nordeste.",
+          "Norte.",
+          "Sudeste.",
+          "Sul."
+        ],
+        "passos": [
+          "Desmembrado de Goiás, foi incluído no Norte."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é a região de Goiás.",
+          "B não é.",
+          "D não é.",
+          "E não é."
+        ]
+      },
+      {
+        "suporte": [
+          "Pequenas propriedades em volta da Grande São Paulo produzem alface, tomate e morango para a cidade."
+        ],
+        "comando": "Essas áreas formam",
+        "alternativas": [
+          "o agronegócio de exportação.",
+          "o cinturão verde.",
+          "reservas extrativistas.",
+          "latifúndios monocultores.",
+          "áreas de mineração."
+        ],
+        "passos": [
+          "Abastecimento urbano com hortifrúti: cinturão verde."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é voltado ao mercado externo.",
+          "C ficam em áreas de floresta.",
+          "D são grandes propriedades.",
+          "E não produzem alimentos."
+        ]
+      },
+      {
+        "suporte": [
+          "Muitas fábricas deixaram a capital paulista e foram para cidades do interior."
+        ],
+        "comando": "Uma razão importante foi",
+        "alternativas": [
+          "a falta de estradas no interior.",
+          "a busca por incentivos fiscais e mão de obra mais barata.",
+          "a proibição de indústrias no Brasil.",
+          "o fim do porto de Santos.",
+          "a ausência de consumidores na capital."
+        ],
+        "passos": [
+          "Custos menores e boas rodovias atraíram as indústrias."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o interior tem boas rodovias.",
+          "C não ocorreu.",
+          "D: Santos segue ativo.",
+          "E: a capital é grande mercado."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q020",
+        "correta": "E",
+        "justificativa": "A Dutra consolidou o Vale do Paraíba como eixo industrial e tecnológico entre São Paulo e Rio.",
+        "distratores": [
+          "A: a industrialização não se baseou em madeira nativa.",
+          "B: portos secos do Mercosul não foram o efeito principal.",
+          "C: caminhões não criam clima árido.",
+          "D: o vale não virou a principal área agropastoril do país."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q033",
+        "correta": "C",
+        "justificativa": "O seringueiro talha a seringueira para extrair o látex, matéria-prima da borracha natural.",
+        "distratores": [
+          "A contraria a luta de Chico Mendes.",
+          "B: a seringueira é nativa e não é derrubada pelo seringueiro.",
+          "D: terra indígena não vai para reforma agrária.",
+          "E contraria a defesa da floresta."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q033",
+        "correta": "E",
+        "justificativa": "A soja é um dos principais produtos exportados pelo porto de Santos.",
+        "distratores": [
+          "A: semicondutores são importados.",
+          "B: óleo de palma não é exportação relevante por Santos.",
+          "C: o Brasil importa fertilizantes.",
+          "D: o Brasil importa trigo."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q017",
+        "correta": "D",
+        "justificativa": "A pecuária intensiva é moderna e usa técnicas como melhoramento genético e inseminação artificial.",
+        "distratores": [
+          "A descreve a pecuária extensiva.",
+          "B descreve a criação tradicional a pasto.",
+          "C descreve práticas tradicionais do semiárido.",
+          "E: gado solto com sal descreve a extensiva."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q013",
+        "correta": "B",
+        "justificativa": "O minério mais exportado é a hematita, de ferro, extraída em Minas Gerais e no Pará.",
+        "distratores": [
+          "A: cromita não é o principal minério exportado.",
+          "C: galena é de chumbo.",
+          "D: cassiterita é de estanho.",
+          "E: calcopirita é de cobre."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q009",
+        "correta": "D",
+        "justificativa": "Nas reservas extrativistas, as terras são de domínio público (da União), e o uso é das comunidades tradicionais.",
+        "distratores": [
+          "A: o usufruto não é de todos os brasileiros.",
+          "B: as terras não são particulares.",
+          "C: não são para latifundiários.",
+          "E: não são terras privadas."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q042",
+        "correta": "B",
+        "justificativa": "Os antigos territórios de Rondônia, Roraima e Amapá viraram estados da Região Norte.",
+        "distratores": [
+          "A: Tocantins foi para a Região Norte.",
+          "C: Fernando de Noronha foi incorporado a Pernambuco.",
+          "D: Mato Grosso do Sul é do Centro-Oeste.",
+          "E: a Guanabara foi incorporada ao Rio de Janeiro, no Sudeste."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q047",
+        "correta": "D",
+        "justificativa": "O minério de ferro brasileiro é extraído em escudos cristalinos, terrenos geológicos antigos.",
+        "distratores": [
+          "A: bacias sedimentares guardam petróleo e carvão.",
+          "B: o Brasil não tem dobramentos modernos.",
+          "C: não há depressões absolutas no Brasil.",
+          "E: planícies costeiras são de sedimentos recentes."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q045",
+        "correta": "E",
+        "justificativa": "Peças produzidas, muita mão de obra feminina e grande número de empregos descrevem a indústria têxtil e de confecção.",
+        "distratores": [
+          "A não produz peças nem emprega tanto.",
+          "B não corresponde aos dados.",
+          "C não corresponde aos dados.",
+          "D não produz peças em bilhões."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q012",
+        "correta": "E",
+        "justificativa": "O cinturão verde reúne pequenas e médias propriedades ao redor das cidades, para abastecê-las.",
+        "distratores": [
+          "A descreve o agronegócio exportador.",
+          "B descreve a plantation.",
+          "C: cinturão verde não é floresta nativa.",
+          "D: não é formado por cooperativas do MST disputando a soja."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q004",
+        "correta": "D",
+        "justificativa": "A tecnologia reduz postos de trabalho, como nos bancos.",
+        "distratores": [
+          "A: a tecnologia aumentou a produção agropecuária.",
+          "B: o just in time é do toyotismo, não do fordismo.",
+          "C: o acesso à tecnologia é desigual.",
+          "E: o toyotismo é produção flexível, não em massa."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q040",
+        "correta": "B",
+        "justificativa": "Indústrias saíram da Grande São Paulo pelo custo da mão de obra e pelos incentivos fiscais do interior.",
+        "distratores": [
+          "A: a mão de obra mais qualificada estava na capital.",
+          "C: Santos não foi substituído por ferrovias para países vizinhos.",
+          "D: a poluição não foi o motivo principal.",
+          "E: o interior paulista não tem carvão abundante."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q044",
+        "correta": "C",
+        "justificativa": "Saúde, educação, alimentação e finanças são serviços: setor terciário.",
+        "distratores": [
+          "A é extração e cultivo.",
+          "B é indústria.",
+          "D: são empregos formais.",
+          "E: não são vitalícios."
+        ]
+      }
+    ],
+    "resumo": [
+      "Cinco regiões do IBGE; Tocantins (1988) no Norte; MS no Centro-Oeste.",
+      "Primário, secundário, terciário.",
+      "Extensiva: muita terra; intensiva: muita técnica.",
+      "Cinturão verde abastece as cidades.",
+      "Ferro: hematita, MG e PA, escudos cristalinos.",
+      "Desconcentração industrial: custos e incentivos no interior.",
+      "Santos exporta soja; Dutra fez do Vale do Paraíba eixo industrial.",
+      "Reserva extrativista: terra da União, uso das comunidades."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Uma usina de cana transforma a matéria-prima em açúcar e etanol."
+        ],
+        "comando": "A usina pertence ao setor",
+        "alternativas": [
+          "primário.",
+          "secundário.",
+          "terciário.",
+          "quaternário.",
+          "informal."
+        ],
+        "passos": [
+          "Transformar matéria-prima é indústria."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é o cultivo da cana.",
+          "C são serviços.",
+          "D não é usado nessa divisão.",
+          "E não descreve o setor."
+        ]
+      },
+      {
+        "suporte": [
+          "Gado solto em pastagens naturais enormes, com poucos cuidados técnicos."
+        ],
+        "comando": "É pecuária",
+        "alternativas": [
+          "intensiva.",
+          "leiteira de confinamento.",
+          "extensiva.",
+          "industrial.",
+          "orgânica de estufa."
+        ],
+        "passos": [
+          "Muita área, pouca técnica: extensiva."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A usa alta técnica.",
+          "B é intensiva.",
+          "D não é termo da pecuária.",
+          "E não existe."
+        ]
+      },
+      {
+        "suporte": [
+          "O Quadrilátero Ferrífero, de onde sai muito minério de ferro, fica em"
+        ],
+        "comando": "qual estado?",
+        "alternativas": [
+          "Minas Gerais.",
+          "Pará.",
+          "São Paulo.",
+          "Bahia.",
+          "Paraná."
+        ],
+        "passos": [
+          "Quadrilátero Ferrífero: Minas Gerais. Carajás é no Pará."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B tem Carajás.",
+          "C não é o caso.",
+          "D não é o caso.",
+          "E não é o caso."
+        ]
+      },
+      {
+        "suporte": [
+          "O Mato Grosso do Sul surgiu da divisão de Mato Grosso, em 1977."
+        ],
+        "comando": "Ele pertence à região",
+        "alternativas": [
+          "Sudeste.",
+          "Sul.",
+          "Norte.",
+          "Centro-Oeste.",
+          "Nordeste."
+        ],
+        "passos": [
+          "Os dois estados ficaram no Centro-Oeste."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A não é.",
+          "B não é.",
+          "C não é.",
+          "E não é."
+        ]
+      },
+      {
+        "suporte": [
+          "Chico Mendes defendia a floresta em pé e o uso sustentável pelos seringueiros."
+        ],
+        "comando": "Uma proposta dele foi a criação de",
+        "alternativas": [
+          "reservas extrativistas.",
+          "pastos para gado.",
+          "hidrelétricas na floresta.",
+          "monoculturas de soja.",
+          "loteamentos urbanos."
+        ],
+        "passos": [
+          "Reservas extrativistas protegem a floresta e o modo de vida tradicional."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B desmata.",
+          "C alaga a floresta.",
+          "D desmata.",
+          "E não se aplica."
+        ]
+      },
+      {
+        "suporte": [
+          "O principal destino da soja brasileira é"
+        ],
+        "comando": "o",
+        "alternativas": [
+          "mercado interno de doces.",
+          "abastecimento de hortas urbanas.",
+          "consumo exclusivo do Nordeste.",
+          "exportação, sobretudo para a China.",
+          "uso em siderúrgicas."
+        ],
+        "passos": [
+          "A soja é a principal commodity agrícola exportada."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A não é o destino.",
+          "B não se aplica.",
+          "C não é o caso.",
+          "E não se aplica."
+        ]
+      },
+      {
+        "suporte": [
+          "Para longas distâncias e cargas pesadas, o transporte mais barato costuma ser o"
+        ],
+        "comando": "tipo",
+        "alternativas": [
+          "rodoviário.",
+          "aéreo.",
+          "ferroviário ou hidroviário.",
+          "a pé.",
+          "por motocicleta."
+        ],
+        "passos": [
+          "Trens e barcos levam muita carga com menos combustível por tonelada."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é mais caro em longas distâncias.",
+          "B é o mais caro.",
+          "D não se aplica.",
+          "E não se aplica."
+        ]
+      },
+      {
+        "suporte": [
+          "Robôs passam a fazer a montagem de carros numa fábrica."
+        ],
+        "comando": "Um efeito provável é",
+        "alternativas": [
+          "aumento de empregos na linha de montagem.",
+          "redução de postos de trabalho na produção.",
+          "fim da indústria automobilística.",
+          "volta ao trabalho artesanal.",
+          "queda da produtividade."
+        ],
+        "passos": [
+          "A automação substitui parte do trabalho humano."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é o oposto.",
+          "C não ocorre.",
+          "D é o oposto.",
+          "E: a produtividade aumenta."
+        ]
+      },
+      {
+        "suporte": [
+          "Hospitais, escolas e lojas fazem parte do setor"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "primário.",
+          "secundário.",
+          "extrativo.",
+          "mineral.",
+          "terciário."
+        ],
+        "passos": [
+          "Serviços e comércio: terciário."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A é extração e cultivo.",
+          "B é indústria.",
+          "C é parte do primário.",
+          "D é parte do primário."
+        ]
+      },
+      {
+        "suporte": [
+          "A indústria automobilística chegou ao Brasil em grande escala no governo"
+        ],
+        "comando": "de",
+        "alternativas": [
+          "Juscelino Kubitschek, no ABC paulista.",
+          "Dom Pedro II.",
+          "Getúlio Vargas, no Acre.",
+          "Deodoro, no Rio Grande do Sul.",
+          "Floriano, no Pará."
+        ],
+        "passos": [
+          "JK abriu o país às montadoras estrangeiras."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é anterior aos automóveis.",
+          "C: Vargas focou a indústria de base.",
+          "D não corresponde.",
+          "E não corresponde."
+        ]
+      },
+      {
+        "suporte": [
+          "O petróleo do pré-sal fica"
+        ],
+        "comando": "em",
+        "alternativas": [
+          "escudos cristalinos do interior.",
+          "camadas sob o fundo do mar, em bacias sedimentares do litoral.",
+          "geleiras da Antártida.",
+          "dobramentos modernos dos Andes.",
+          "florestas da Amazônia."
+        ],
+        "passos": [
+          "Pré-sal: abaixo de uma camada de sal, no litoral do Sudeste."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A guarda minérios metálicos.",
+          "C não se aplica.",
+          "D não se aplica.",
+          "E não é o caso."
+        ]
+      },
+      {
+        "suporte": [
+          "A matriz elétrica brasileira é diferente da de muitos países porque"
+        ],
+        "comando": "é",
+        "alternativas": [
+          "quase toda a carvão.",
+          "quase toda nuclear.",
+          "baseada em petróleo.",
+          "inexistente.",
+          "majoritariamente renovável, com destaque para hidrelétricas."
+        ],
+        "passos": [
+          "Hidrelétricas, eólica e solar predominam."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A não é o caso.",
+          "B: o nuclear é pequeno.",
+          "C: o petróleo pesa nos transportes, não na eletricidade.",
+          "D não faz sentido."
+        ]
+      }
+    ]
+  },
+  "populacao-cidades-e-mundo-globalizado": {
+    "materia": "Matéria 5 · Ciências Humanas · Geografia",
+    "introducao": "Quem mora nas cidades, quantos filhos as famílias têm, por que tanta gente atravessa a metrópole todo dia, como um estreito no Oriente Médio mexe no preço da gasolina. Este capítulo junta população, urbanização e globalização, temas que a ETEC traz por meio de pirâmides etárias, notícias de obras e mapas do comércio mundial.",
+    "codigos": [
+      "GE03",
+      "GE05"
+    ],
+    "raioX": "Os itens pedem: leitura de pirâmide etária e queda da fecundidade; envelhecimento da população; tipos de migração; problemas urbanos como enchentes e trânsito; teoria de Malthus; blocos econômicos e União Europeia; canais e estreitos estratégicos; globalização e \"encolhimento\" do mundo. Distratores clássicos: dizer que o Brasil está ficando mais jovem ou confundir migração pendular com sazonal.",
+    "intuicao": [
+      "Pirâmide com base larga = muitos jovens; com topo largo = muitos idosos. O Brasil está passando da primeira para a segunda.",
+      "Pendular = vai e volta no mesmo dia. Sazonal = muda conforme a estação.",
+      "Asfalto em excesso + rios canalizados + lixo = enchente.",
+      "Globalização encurta o tempo das viagens e da comunicação, não o tamanho do planeta."
+    ],
+    "teoria": [
+      {
+        "titulo": "Conceitos de população",
+        "texto": "• População absoluta: total de habitantes. O Brasil é populoso (mais de 200 milhões).\n• Densidade demográfica: habitantes por km². O Brasil é pouco povoado em média, mas tem áreas muito densas.\n• Crescimento vegetativo: nascimentos menos mortes.\n• Taxa de fecundidade: média de filhos por mulher. No Brasil, caiu para menos de 2, abaixo do nível de reposição, por urbanização, escolarização feminina, trabalho fora de casa e métodos contraceptivos."
+      },
+      {
+        "titulo": "Pirâmide etária e envelhecimento",
+        "texto": "Comparando as pirâmides do Brasil de 1991 e 2010, a base (crianças) estreitou e o topo (idosos) alargou.\n\nConsequências:\n\n• mais demanda por saúde para idosos, cuidadores e previdência social;\n• menos pressão por creches e escolas no futuro;\n• o país vive o chamado bônus demográfico: muitos adultos em idade de trabalhar.\n\nO Brasil não tende a ficar mais jovem, e a população não vai dobrar em poucos anos."
+      },
+      {
+        "titulo": "Malthus e as teorias demográficas",
+        "texto": "Malthus (1798) previu fome porque a população cresceria mais rápido que a produção de alimentos.\n\nA previsão não se cumpriu porque a tecnologia (máquinas, fertilizantes, sementes melhoradas) multiplicou a produção, e a natalidade caiu com a urbanização.\n\nA fome que existe hoje se explica mais pela desigualdade e pelo acesso à renda que pela falta de produção."
+      },
+      {
+        "titulo": "Migrações",
+        "texto": "• Pendular: ida e volta diária, de cidades vizinhas para a metrópole, para trabalhar ou estudar.\n• Sazonal (transumância): temporária, ligada às estações ou às safras.\n• Êxodo rural: saída do campo para a cidade, intensa no Brasil entre 1950 e 1980.\n• Inter-regional: entre regiões, como a de nordestinos para o Sudeste no século XX.\n• Internacional: imigração e emigração; inclui refugiados que fogem de guerras e perseguições."
+      },
+      {
+        "titulo": "Urbanização e problemas urbanos",
+        "texto": "Mais de 85% dos brasileiros vivem em cidades. A urbanização rápida e sem planejamento gerou:\n\n• favelas e periferias distantes, segregação socioespacial;\n• trânsito e longos deslocamentos; o Rodoanel de São Paulo desvia caminhões do centro para reduzir congestionamentos;\n• enchentes, pela impermeabilização do solo, canalização dos rios e lixo nas ruas;\n• ilhas de calor e poluição do ar.\n\nSoluções: áreas verdes, solo permeável, recuperação de nascentes, transporte coletivo e coleta de lixo.\n\nMetrópole é a cidade principal de uma região; conurbação é a junção de cidades vizinhas; megalópole, a união de metrópoles (como o eixo Rio–São Paulo)."
+      },
+      {
+        "titulo": "Globalização",
+        "texto": "Integração mundial da economia, da comunicação e da cultura, acelerada desde os anos 1990.\n\n• Transportes e comunicações mais rápidos \"encolhem\" o mundo: o planeta tem o mesmo tamanho, mas as viagens e as mensagens levam muito menos tempo (compressão espaço-tempo).\n• Empresas multinacionais produzem em vários países.\n• As desigualdades entre países e dentro deles continuam.\n• Turismo é atividade global; há turismo religioso (Meca, na Arábia Saudita, onde está a Caaba), de negócios, ecológico e outros."
+      },
+      {
+        "titulo": "Blocos econômicos",
+        "texto": "• União Europeia: mercado comum, moeda única (euro) em parte dos membros, livre circulação de pessoas. Para entrar, o país precisa ser europeu e ter instituições estáveis, democracia, Estado de direito e respeito aos direitos humanos.\n• A Turquia é candidata, mas enfrenta obstáculos, como a ocupação militar do norte do Chipre, país membro.\n• Mercosul: Brasil, Argentina, Uruguai, Paraguai (e Bolívia em adesão).\n• Acordos de infraestrutura, como uma ferrovia ligando o Atlântico ao Pacífico, buscam baratear a exportação de commodities para a Ásia."
+      },
+      {
+        "titulo": "Rotas e pontos estratégicos",
+        "texto": "• Canal do Panamá (1914): liga o Atlântico ao Pacífico.\n• Canal de Suez: liga o Mar Mediterrâneo ao Mar Vermelho.\n• Estreito de Ormuz: liga o Golfo Pérsico ao Golfo de Omã; passa por ele cerca de um quinto do petróleo mundial.\n• Estreito de Gibraltar: liga o Mediterrâneo ao Atlântico.\n\nBloqueios nesses pontos afetam o preço do petróleo e o comércio no mundo todo."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Pirâmide etária e decisão de política pública.\n• Tipo de migração a partir de uma descrição.\n• Causas e soluções das enchentes urbanas.\n• Função de uma obra (Rodoanel, canal, ferrovia).\n• Leitura de letra de música sobre a cidade e a desigualdade.\n\nElimine alternativas que dizem que o planeta \"diminuiu de tamanho\" ou que a população brasileira está rejuvenescendo."
+      }
+    ],
+    "armadilha": "Ler o \"encolhimento do mundo\" ao pé da letra: o planeta não muda de tamanho, o tempo de deslocamento é que diminui. E achar que a população brasileira cresce cada vez mais rápido: a fecundidade está em queda.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Moradores de Guarulhos viajam todos os dias para trabalhar em São Paulo e voltam à noite."
+        ],
+        "comando": "Esse movimento é a migração",
+        "alternativas": [
+          "sazonal.",
+          "pendular.",
+          "internacional.",
+          "permanente.",
+          "de transumância."
+        ],
+        "passos": [
+          "Ida e volta no mesmo dia: pendular."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A acompanha as estações.",
+          "C cruza fronteiras.",
+          "D é mudança definitiva.",
+          "E é deslocamento de rebanhos ou sazonal."
+        ]
+      },
+      {
+        "suporte": [
+          "A pirâmide etária de um país tem a base cada vez mais estreita e o topo mais largo."
+        ],
+        "comando": "Isso indica",
+        "alternativas": [
+          "aumento da natalidade.",
+          "envelhecimento da população.",
+          "aumento da mortalidade infantil.",
+          "população muito jovem.",
+          "guerra recente."
+        ],
+        "passos": [
+          "Menos crianças e mais idosos."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A alargaria a base.",
+          "C estreitaria a base, mas não alargaria o topo.",
+          "D teria base larga.",
+          "E não se deduz."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma cidade quer reduzir enchentes."
+        ],
+        "comando": "A medida mais adequada é",
+        "alternativas": [
+          "canalizar e cimentar todos os córregos.",
+          "ampliar áreas verdes e o solo permeável.",
+          "jogar entulho nas margens.",
+          "asfaltar as praças.",
+          "construir casas nas várzeas."
+        ],
+        "passos": [
+          "Mais infiltração, menos escoamento."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A acelera a água e aumenta o pico das cheias.",
+          "C assoreia.",
+          "D impermeabiliza.",
+          "E ocupa áreas de cheia."
+        ]
+      },
+      {
+        "suporte": [
+          "Navios que vão do Atlântico ao Pacífico sem contornar a América do Sul usam o"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "Canal de Suez.",
+          "Estreito de Ormuz.",
+          "Canal do Panamá.",
+          "Estreito de Gibraltar.",
+          "Canal da Mancha."
+        ],
+        "passos": [
+          "O Canal do Panamá corta a América Central."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A liga o Mediterrâneo ao Mar Vermelho.",
+          "B fica no Golfo Pérsico.",
+          "D liga o Mediterrâneo ao Atlântico.",
+          "E separa Inglaterra e França."
+        ]
+      },
+      {
+        "suporte": [
+          "A taxa de fecundidade no Brasil caiu de cerca de 6 filhos por mulher (1960) para menos de 2."
+        ],
+        "comando": "Uma causa é",
+        "alternativas": [
+          "o êxodo urbano para o campo.",
+          "a urbanização, o estudo e o trabalho feminino e os contraceptivos.",
+          "o aumento das famílias rurais.",
+          "a proibição de casamentos.",
+          "a diminuição da expectativa de vida."
+        ],
+        "passos": [
+          "Na cidade, filhos custam mais e as mulheres estudam e trabalham mais."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o êxodo foi do campo para a cidade.",
+          "C é o oposto.",
+          "D não ocorreu.",
+          "E: a expectativa de vida aumentou."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q019",
+        "correta": "D",
+        "justificativa": "O Rodoanel desvia os veículos pesados que atravessariam São Paulo, reduzindo congestionamentos.",
+        "distratores": [
+          "A: o Rodoanel é rodovia, não ferrovia.",
+          "B: não busca incentivar ocupação nas margens.",
+          "C: não elimina o transporte público.",
+          "E: tira os caminhões das avenidas, não os coloca nelas."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q018",
+        "correta": "B",
+        "justificativa": "A ferrovia Atlântico–Pacífico reduziria custo e tempo de exportação de commodities para a Ásia.",
+        "distratores": [
+          "A: não é ferrovia para migração pendular.",
+          "C: não tem relação com mecanização.",
+          "D: obras não unificam fusos.",
+          "E: não existe rota ferroviária entre Ásia e América do Sul."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q015",
+        "correta": "B",
+        "justificativa": "O Estreito de Ormuz liga o Golfo Pérsico ao Golfo de Omã, na Ásia.",
+        "distratores": [
+          "A: Mar Morto e Cáspio não têm ligação por esse estreito.",
+          "C: o Canal de Suez liga o Mar Vermelho ao Mediterrâneo.",
+          "D: Cáspio e Golfo da Califórnia não se ligam.",
+          "E: fica na Ásia, não na América."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q013",
+        "correta": "C",
+        "justificativa": "Novas tecnologias aumentaram a produção de alimentos, contrariando a previsão de Malthus.",
+        "distratores": [
+          "A: a população mundial aumentou.",
+          "B: hortas de operários não acabaram com a fome.",
+          "D: houve êxodo rural, não urbano.",
+          "E: cestas básicas de patrões não explicam o fato."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q011",
+        "correta": "A",
+        "justificativa": "A Turquia ocupa militarmente o norte do Chipre, país membro da União Europeia.",
+        "distratores": [
+          "B: a Turquia não adota o euro.",
+          "C: a questão curda não é expulsar o povo.",
+          "D: parte do território turco está na Europa.",
+          "E: a Turquia é república laica."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q010",
+        "correta": "E",
+        "justificativa": "Para aderir à UE, o país precisa ter instituições estáveis, democracia, Estado de direito e respeito aos direitos humanos.",
+        "distratores": [
+          "A: não se exige controle do FMI.",
+          "B: não se exige delegar a defesa à OTAN.",
+          "C: há membros republicanos, e o euro não é imediato.",
+          "D: não precisa estar na Europa Ocidental nem extinguir seu parlamento."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q026",
+        "correta": "D",
+        "justificativa": "Recuperar cabeceiras, ampliar áreas verdes, tornar o solo permeável e dar destino adequado ao lixo reduz as enchentes.",
+        "distratores": [
+          "A: elevar alicerces não ataca a causa.",
+          "B: retificar rios acelera as cheias.",
+          "C: depositar sedimentos nas margens assoreia.",
+          "E: canalizar e impermeabilizar agrava o problema."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q016",
+        "correta": "E",
+        "justificativa": "As pirâmides mostram envelhecimento: as verbas devem priorizar idosos e previdência.",
+        "distratores": [
+          "A: a natalidade já está caindo.",
+          "B: o número de gestantes não cresce.",
+          "C: a base da pirâmide estreitou.",
+          "D: crianças e jovens diminuem em proporção."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q018",
+        "correta": "D",
+        "justificativa": "Meca recebe turismo religioso: abriga a Caaba, local mais sagrado do islã.",
+        "distratores": [
+          "A: Meca não é centro de comércio de petróleo.",
+          "B: Meca fica em área desértica.",
+          "C: não há cassinos em Meca.",
+          "E: não é destino de turismo automobilístico."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q029",
+        "correta": "B",
+        "justificativa": "O deslocamento diário de ida e volta é a migração pendular.",
+        "distratores": [
+          "A acompanha as estações do ano.",
+          "C é definitiva.",
+          "D ocorre entre regiões.",
+          "E é deslocamento sazonal de rebanhos."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q027",
+        "correta": "B",
+        "justificativa": "O Canal do Panamá liga o Atlântico ao Pacífico.",
+        "distratores": [
+          "A não corresponde.",
+          "C: o Índico não chega ao Panamá.",
+          "D: o Índico não chega ao Panamá.",
+          "E: o Ártico não chega ao Panamá."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q029",
+        "correta": "B",
+        "justificativa": "A letra fala de uns com mais e outros com menos e da \"esperteza internacional\": luta de classes e globalização.",
+        "distratores": [
+          "A: não trata de economia planificada.",
+          "C: não fala de migração.",
+          "D: não trata desses temas.",
+          "E: não trata desses temas."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q034",
+        "correta": "B",
+        "justificativa": "A proporção de idosos na população vem aumentando, e cresce a procura por cuidadores.",
+        "distratores": [
+          "A: população relativa é densidade, e não explica a procura.",
+          "C: não há emigração de idosos em massa.",
+          "D: a natalidade está caindo.",
+          "E: o crescimento vegetativo diminui."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q003",
+        "correta": "E",
+        "justificativa": "O planeta mantém o tamanho; o mapa \"encolhe\" porque o tempo das viagens diminuiu.",
+        "distratores": [
+          "A: o GPS não aumenta o planeta.",
+          "B: a poluição não reduz o tamanho da Terra.",
+          "C: o planeta não diminui.",
+          "D: as velocidades aumentaram."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q007",
+        "correta": "E",
+        "justificativa": "A taxa de fecundidade vem caindo, entre outros fatores, pelo uso de métodos contraceptivos.",
+        "distratores": [
+          "A: a população está envelhecendo.",
+          "B: a queda da fecundidade reduz o ritmo de crescimento.",
+          "C: as mulheres têm menos filhos.",
+          "D: a população não vai dobrar."
+        ]
+      }
+    ],
+    "resumo": [
+      "Fecundidade em queda; população envelhecendo.",
+      "Pirâmide: base estreita, topo largo.",
+      "Malthus errou: tecnologia ampliou a produção.",
+      "Pendular: ida e volta diária.",
+      "Enchentes: impermeabilização, rios canalizados, lixo.",
+      "Globalização: menos tempo, mesmo planeta.",
+      "UE: democracia e direitos humanos para entrar.",
+      "Panamá: Atlântico–Pacífico. Ormuz: Golfo Pérsico–Golfo de Omã."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "O número total de habitantes de um país é sua"
+        ],
+        "comando": "população",
+        "alternativas": [
+          "relativa.",
+          "absoluta.",
+          "economicamente ativa.",
+          "urbana.",
+          "vegetativa."
+        ],
+        "passos": [
+          "Total de habitantes: população absoluta."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é densidade.",
+          "C é quem trabalha ou procura trabalho.",
+          "D é só a das cidades.",
+          "E não é termo usado."
+        ]
+      },
+      {
+        "suporte": [
+          "Um país tem 10 milhões de habitantes e área de 500 mil km²."
+        ],
+        "comando": "Sua densidade demográfica é",
+        "alternativas": [
+          "50 hab/km².",
+          "5 hab/km².",
+          "20 hab/km².",
+          "200 hab/km².",
+          "2 hab/km²."
+        ],
+        "passos": [
+          "$10\\,000\\,000 \\div 500\\,000 = 20$ hab/km²."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A erra a divisão.",
+          "B erra a divisão.",
+          "D erra uma casa.",
+          "E erra uma casa."
+        ]
+      },
+      {
+        "suporte": [
+          "Trabalhadores que viajam a outra região só no período da colheita da cana fazem migração"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "pendular.",
+          "internacional.",
+          "sazonal.",
+          "permanente.",
+          "urbana."
+        ],
+        "passos": [
+          "Ligada à safra: sazonal."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é diária.",
+          "B cruza fronteiras.",
+          "D é definitiva.",
+          "E não é tipo de migração."
+        ]
+      },
+      {
+        "suporte": [
+          "Entre 1950 e 1980, milhões de brasileiros deixaram o campo rumo às cidades."
+        ],
+        "comando": "O fenômeno é o",
+        "alternativas": [
+          "êxodo rural.",
+          "êxodo urbano.",
+          "bônus demográfico.",
+          "nomadismo.",
+          "turismo."
+        ],
+        "passos": [
+          "Saída do campo para a cidade."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é o contrário.",
+          "C é outra coisa.",
+          "D não se aplica.",
+          "E não é migração."
+        ]
+      },
+      {
+        "suporte": [
+          "Duas cidades vizinhas cresceram até seus limites se encontrarem."
+        ],
+        "comando": "Esse processo é a",
+        "alternativas": [
+          "desertificação.",
+          "conurbação.",
+          "globalização.",
+          "emigração.",
+          "ressurgência."
+        ],
+        "passos": [
+          "Junção física de cidades: conurbação."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é degradação do solo.",
+          "C é integração mundial.",
+          "D é saída de pessoas.",
+          "E é fenômeno oceânico."
+        ]
+      },
+      {
+        "suporte": [
+          "Áreas centrais de grandes cidades ficam mais quentes que a periferia arborizada."
+        ],
+        "comando": "O fenômeno é a",
+        "alternativas": [
+          "inversão térmica.",
+          "chuva ácida.",
+          "ilha de calor.",
+          "brisa marítima.",
+          "monção."
+        ],
+        "passos": [
+          "Asfalto e concreto retêm calor: ilha de calor."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A prende poluentes perto do solo.",
+          "B vem de poluentes.",
+          "D é vento costeiro.",
+          "E é asiática."
+        ]
+      },
+      {
+        "suporte": [
+          "A moeda única adotada por boa parte dos países da União Europeia é o"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "dólar.",
+          "peso.",
+          "libra.",
+          "euro.",
+          "real."
+        ],
+        "passos": [
+          "Euro."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é dos EUA.",
+          "B é de países latinos.",
+          "C é do Reino Unido, que saiu da UE.",
+          "E é do Brasil."
+        ]
+      },
+      {
+        "suporte": [
+          "O bloco econômico que reúne Brasil, Argentina, Uruguai e Paraguai é o"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "Nafta.",
+          "União Europeia.",
+          "Apec.",
+          "Mercosul.",
+          "Otan."
+        ],
+        "passos": [
+          "Mercosul."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é da América do Norte.",
+          "B é europeu.",
+          "C é da Ásia-Pacífico.",
+          "E é aliança militar."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma pessoa foge de seu país por causa de guerra e pede proteção no Brasil."
+        ],
+        "comando": "Ela é considerada",
+        "alternativas": [
+          "turista.",
+          "migrante pendular.",
+          "emigrante rural.",
+          "retirante sazonal.",
+          "refugiada."
+        ],
+        "passos": [
+          "Fuga de guerra ou perseguição: refugiado."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A viaja a lazer.",
+          "B se desloca diariamente.",
+          "C sai do campo.",
+          "D se desloca por safra."
+        ]
+      },
+      {
+        "suporte": [
+          "Hoje uma mensagem chega do outro lado do mundo em segundos."
+        ],
+        "comando": "Isso exemplifica",
+        "alternativas": [
+          "o crescimento físico do planeta.",
+          "a compressão espaço-tempo da globalização.",
+          "o fim das fronteiras nacionais.",
+          "o isolamento dos países.",
+          "o fim das desigualdades."
+        ],
+        "passos": [
+          "Distâncias iguais, tempo menor."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é impossível.",
+          "C: as fronteiras continuam.",
+          "D é o oposto.",
+          "E: as desigualdades continuam."
+        ]
+      },
+      {
+        "suporte": [
+          "Um país de população envelhecida precisa planejar"
+        ],
+        "comando": "sobretudo",
+        "alternativas": [
+          "mais creches.",
+          "mais maternidades.",
+          "controle de natalidade.",
+          "menos hospitais.",
+          "previdência e saúde para idosos."
+        ],
+        "passos": [
+          "Mais idosos, mais demanda de aposentadoria e saúde."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A serve a crianças.",
+          "B serve a gestantes.",
+          "C: a natalidade já é baixa.",
+          "D é o oposto."
+        ]
+      },
+      {
+        "suporte": [
+          "O Canal de Suez liga"
+        ],
+        "comando": "quais mares?",
+        "alternativas": [
+          "Mar Mediterrâneo e Mar Vermelho.",
+          "Atlântico e Pacífico.",
+          "Golfo Pérsico e Golfo de Omã.",
+          "Mar do Norte e Báltico.",
+          "Caribe e Golfo do México."
+        ],
+        "passos": [
+          "Suez, no Egito, liga o Mediterrâneo ao Mar Vermelho."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é o Panamá.",
+          "C é Ormuz.",
+          "D não é.",
+          "E não é."
+        ]
+      }
+    ]
+  },
+  "atualidades-cidadania-ambiente-e-trabalho": {
+    "materia": "Matéria 6 · Atualidades e Projeto de Vida",
+    "introducao": "As questões de Atualidades da ETEC não pedem que o aluno decore notícias. Elas apresentam uma situação (queimadas, rompimento de barragem, consumo excessivo, um projeto social, um plano de vida) e perguntam qual atitude é responsável, sustentável e ética. Também cobram leitura de gráficos e tabelas de dados reais. Com bom senso cidadão e leitura atenta, quase todas se resolvem pela eliminação de alternativas absurdas.",
+    "codigos": [
+      "IN01",
+      "IN02"
+    ],
+    "raioX": "Os itens pedem: a atitude sustentável numa situação do dia a dia; a intervenção pública adequada para um problema ambiental; exemplos de empreendedorismo social; competências socioemocionais e projeto de vida; leitura de gráfico e tabela (maior, menor, amplitude, comparação). Os distratores costumam ser absurdos de propósito: incentivar queimadas, jogar óleo na pia, deixar aparelhos ligados.",
+    "intuicao": [
+      "Sustentável = bom para o ambiente, justo para as pessoas e viável economicamente (tripé da sustentabilidade).",
+      "A alternativa certa quase sempre propõe prevenir, fiscalizar, educar ou planejar.",
+      "Desconfie de \"impedir tudo\", \"sem avaliar\", \"indiscriminadamente\".",
+      "Em gráficos, leia título, eixos e unidade antes de comparar."
+    ],
+    "teoria": [
+      {
+        "titulo": "Desenvolvimento sustentável",
+        "texto": "Desenvolvimento sustentável é atender às necessidades de hoje sem comprometer as gerações futuras. Apoia-se no tripé:\n\n• ambiental: conservar recursos e ecossistemas;\n• social: reduzir desigualdades e garantir direitos;\n• econômico: gerar renda de forma viável.\n\nA Agenda 2030 da ONU traduz isso em 17 Objetivos de Desenvolvimento Sustentável (ODS), como erradicar a pobreza, ação contra a mudança do clima e igualdade de gênero."
+      },
+      {
+        "titulo": "Consumo consciente",
+        "texto": "O consumismo induzido pela propaganda e pela obsolescência dos produtos aumenta a extração de recursos e o lixo.\n\nAtitudes responsáveis:\n\n• reduzir, reutilizar e reciclar, nessa ordem;\n• desligar aparelhos e usar lâmpadas econômicas (LED);\n• economizar água com torneiras e descargas reguladas;\n• descartar pilhas, baterias e óleo de cozinha em pontos de coleta, nunca no lixo comum ou na pia;\n• usar cartuchos recarregáveis e embalagens retornáveis;\n• preferir transporte coletivo, bicicleta ou caminhada."
+      },
+      {
+        "titulo": "Problemas ambientais e intervenção pública",
+        "texto": "• Queimadas e desmatamento: exigem fiscalização, punição de crimes, educação ambiental e incentivo a práticas agrícolas sustentáveis.\n• Barragens de rejeitos de mineração: os rompimentos de Mariana (2015) e Brumadinho (2019) mostram a necessidade de fiscalização eficiente e cumprimento de normas técnicas.\n• Tráfico de animais: denunciar maus-tratos, cativeiro ilegal, desmatamento e queimadas às autoridades (Ibama, polícia ambiental).\n• Espécies invasoras e consumo de produtos de animais ameaçados agravam a perda de biodiversidade.\n\nMedidas extremas, como proibir toda mineração ou mudar barragens para o deserto, não são soluções realistas: o caminho é regular, fiscalizar e reduzir riscos."
+      },
+      {
+        "titulo": "Cidadania, direitos e ações humanitárias",
+        "texto": "• Cidadania é exercer direitos e deveres: votar, cumprir leis, cuidar do bem comum, participar de decisões.\n• Organizações humanitárias atuam além das fronteiras: a Cruz Vermelha, criada por Henry Dunant, primeiro Nobel da Paz (1901), presta assistência a feridos de guerra e vítimas de desastres.\n• As mulheres, metade da população, têm papel central na educação para o uso racional dos recursos, e a igualdade de gênero é um dos ODS."
+      },
+      {
+        "titulo": "Empreendedorismo social",
+        "texto": "Empreendedorismo social é criar negócios ou projetos que resolvem problemas sociais ou ambientais e se mantêm financeiramente.\n\n• Exemplos: capacitar agricultores familiares para vender produtos orgânicos; luminárias com garrafa PET e energia solar a preço acessível; remunerar produtores que preservam floresta.\n• Uma campanha de doação de alimentos é ação solidária importante, mas assistencial: não cria uma atividade que se sustente."
+      },
+      {
+        "titulo": "Projeto de vida e competências socioemocionais",
+        "texto": "O edital inclui temas de projeto de vida e mundo do trabalho.\n\n• Planejar: definir objetivos, prever obstáculos, montar planos de ação e revisar.\n• Adaptabilidade: lidar com novos lugares, ritmos e situações, como numa mudança de cidade.\n• Resiliência, empatia, responsabilidade e colaboração também aparecem.\n\nAlternativas que mandam ignorar experiências, evitar o novo ou aceitar qualquer opinião sem pensar estão erradas."
+      },
+      {
+        "titulo": "Leitura de dados: gráficos e tabelas",
+        "texto": "• Amplitude: maior valor menos o menor valor. No desmatamento da Amazônia de 2008 a 2022 (de 1 008 a 9 069 km²), a amplitude é $9\\,069 - 1\\,008 = 8\\,061$ km².\n• Compare na mesma unidade e no mesmo período.\n• \"Mais que o quádruplo\" exige multiplicar por 4 e comparar.\n• Gráficos por categoria (sexo, idade) pedem que se olhe cada grupo separadamente."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Situação-problema com uma atitude correta e quatro absurdas.\n• Classificação de exemplos (I, II, III) segundo uma definição dada no texto.\n• Gráfico ou tabela com cálculo simples.\n\nReleia a definição que o enunciado oferece: a resposta segue exatamente esse critério, não a sua opinião pessoal."
+      }
+    ],
+    "armadilha": "Escolher uma alternativa radical que parece ecológica, como proibir toda atividade econômica. A ETEC valoriza o equilíbrio do tripé da sustentabilidade. E confundir ação solidária pontual com empreendedorismo social.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Uma família quer reduzir a conta de luz e o impacto ambiental."
+        ],
+        "comando": "A medida adequada é",
+        "alternativas": [
+          "deixar a TV em modo de espera a noite toda.",
+          "trocar lâmpadas comuns por LED e desligar aparelhos sem uso.",
+          "abrir a geladeira várias vezes.",
+          "usar o chuveiro na potência máxima.",
+          "deixar o carregador na tomada."
+        ],
+        "passos": [
+          "LED consome menos; aparelhos desligados não gastam."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A gasta energia em espera.",
+          "C desperdiça energia.",
+          "D aumenta o consumo.",
+          "E consome energia à toa."
+        ]
+      },
+      {
+        "suporte": [
+          "Após uma fritura, sobra óleo de cozinha."
+        ],
+        "comando": "O destino correto é",
+        "alternativas": [
+          "a pia da cozinha.",
+          "o vaso sanitário.",
+          "um ponto de coleta, para reciclagem em sabão ou biodiesel.",
+          "o jardim.",
+          "o bueiro da rua."
+        ],
+        "passos": [
+          "Óleo contamina a água e entope canos.",
+          "Pontos de coleta o reaproveitam."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A polui a água.",
+          "B polui a água.",
+          "D contamina o solo.",
+          "E polui rios."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma associação ensina mulheres de uma comunidade a produzir e vender artesanato, e o lucro mantém o projeto."
+        ],
+        "comando": "É um exemplo de",
+        "alternativas": [
+          "assistencialismo pontual.",
+          "empreendedorismo social.",
+          "consumismo.",
+          "desmatamento.",
+          "mercantilismo."
+        ],
+        "passos": [
+          "Resolve problema social e se sustenta financeiramente."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: não é doação pontual.",
+          "C não se aplica.",
+          "D não se aplica.",
+          "E é política econômica antiga."
+        ]
+      },
+      {
+        "suporte": [
+          "Um aluno quer entrar numa Etec técnica em outra cidade."
+        ],
+        "comando": "A atitude de quem tem um bom projeto de vida é",
+        "alternativas": [
+          "desistir diante do primeiro obstáculo.",
+          "esperar que os outros façam por ele.",
+          "montar um plano de estudos e prever transporte e custos.",
+          "ignorar as datas do edital.",
+          "aceitar qualquer conselho sem avaliar."
+        ],
+        "passos": [
+          "Planejar e prever obstáculos."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A não persiste.",
+          "B transfere a responsabilidade.",
+          "D compromete o plano.",
+          "E não usa senso crítico."
+        ]
+      },
+      {
+        "suporte": [
+          "Em cinco anos, um município teve, por ano, 120, 340, 210, 95 e 180 focos de queimada."
+        ],
+        "comando": "A amplitude dos dados é",
+        "alternativas": [
+          "245",
+          "340",
+          "95",
+          "189",
+          "435"
+        ],
+        "passos": [
+          "Maior: 340. Menor: 95.",
+          "$340 - 95 = 245$."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é só o maior valor.",
+          "C é só o menor.",
+          "D é a média.",
+          "E soma maior e menor."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q028",
+        "correta": "A",
+        "justificativa": "Henry Dunant, fundador da Cruz Vermelha, dedicou-se à assistência humanitária além das fronteiras nacionais.",
+        "distratores": [
+          "B: a obra de Shakespeare é literária, não assistencial.",
+          "C: a atuação de Drauzio Varella é sobretudo no Brasil.",
+          "D: o 14-Bis é invenção técnica, não assistência.",
+          "E: carreira esportiva não é ação humanitária."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q021",
+        "correta": "C",
+        "justificativa": "A adaptabilidade ajuda a lidar com os novos ritmos e dinâmicas do lugar de destino.",
+        "distratores": [
+          "A: não se trata de impedir a saudade.",
+          "B: a adaptabilidade facilita o aprendizado.",
+          "D: ela amplia trajetórias diante de obstáculos.",
+          "E: ela favorece o amadurecimento."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q050",
+        "correta": "E",
+        "justificativa": "Denunciar maus-tratos, cativeiro, desmatamento e queimadas ilegais protege os animais e o ambiente.",
+        "distratores": [
+          "A: espécies invasoras e doenças prejudicam os nativos.",
+          "B: comprar esses produtos alimenta o tráfico.",
+          "C: reflorestar ajuda os animais.",
+          "D: comercializar animais traficados é crime."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q030",
+        "correta": "A",
+        "justificativa": "A escolha sustentável equilibra a preservação ambiental e o bem-estar humano, avaliando os impactos.",
+        "distratores": [
+          "B: introduzir espécies sem avaliação prejudica os ecossistemas.",
+          "C: prejudicar comunidades não é sustentável.",
+          "D: produtos vegetais também podem causar desmatamento.",
+          "E: ultraprocessados dependem de recursos e geram impactos."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q029",
+        "correta": "D",
+        "justificativa": "Educação ambiental e incentivo a práticas agrícolas sustentáveis ajudam a reduzir as queimadas.",
+        "distratores": [
+          "A: liberar queimadas agrava o problema.",
+          "B: reduzir a fiscalização agrava o problema.",
+          "C: estimular desmatamento agrava o problema.",
+          "E: incentivar queimadas e agrotóxicos agrava o problema."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q045",
+        "correta": "D",
+        "justificativa": "Planos de ação que consideram obstáculos aumentam a chance de sucesso dos projetos.",
+        "distratores": [
+          "A: experiências bem-sucedidas ensinam.",
+          "B: evitar a inovação limita o projeto.",
+          "C: sonhar sem agir não realiza o projeto.",
+          "E: aceitar qualquer opinião sem critério é arriscado."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q034",
+        "correta": "B",
+        "justificativa": "Como o PADS, o Conserv remunera quem preserva floresta e cerrado: desenvolvimento sustentável ligado à conservação.",
+        "distratores": [
+          "A trata de alimentação e inclusão, não de floresta.",
+          "C trata de proteção animal.",
+          "D trata de apoio a mães.",
+          "E trata de moradia."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q029",
+        "correta": "B",
+        "justificativa": "Amplitude = maior − menor: $9\\,069 - 1\\,008 = 8\\,061$.",
+        "distratores": [
+          "A é só o maior valor.",
+          "C não resulta da diferença entre o maior e o menor valor.",
+          "D não resulta da diferença entre o maior e o menor valor.",
+          "E não resulta da diferença entre o maior e o menor valor."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q016",
+        "correta": "D",
+        "justificativa": "Capacitar produtores para vender orgânicos (I) e vender iluminação solar acessível (II) são negócios de impacto social; a campanha de doação (III) é ação assistencial.",
+        "distratores": [
+          "A esquece o exemplo II.",
+          "B esquece o exemplo I.",
+          "C escolhe a ação assistencial.",
+          "E inclui a campanha de doação e exclui I."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q012",
+        "correta": "D",
+        "justificativa": "Fiscalizar com eficiência e exigir normas técnicas reduz o risco de novas catástrofes.",
+        "distratores": [
+          "A: proibir toda mineração não é realista.",
+          "B: deslocar pessoas e biodiversidade não resolve.",
+          "C: rios não são bens de menor importância.",
+          "E: mudar barragens para desertos não é solução viável."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q007",
+        "correta": "E",
+        "justificativa": "Cartuchos recarregáveis reduzem o lixo e o consumo de recursos.",
+        "distratores": [
+          "A: incandescentes gastam mais energia.",
+          "B desperdiça água.",
+          "C desperdiça energia.",
+          "D contamina o solo."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q008",
+        "correta": "E",
+        "justificativa": "O consumismo ignora o impacto coletivo do consumo exagerado sobre o ambiente e o futuro.",
+        "distratores": [
+          "A: a inovação induz ao consumo.",
+          "B: as matérias-primas não aumentam com a produção.",
+          "C: a obsolescência aumenta a extração.",
+          "D: a natureza não absorve todo o descarte."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q038",
+        "correta": "C",
+        "justificativa": "As mulheres podem orientar as gerações atuais e futuras sobre o uso racional dos recursos.",
+        "distratores": [
+          "A: pilhas no lixo comum contaminam.",
+          "B: fraldas e papel sujo não são recicláveis.",
+          "D: o carro particular polui mais que o transporte coletivo.",
+          "E: óleo na pia polui a água."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q017",
+        "correta": "B",
+        "justificativa": "O gráfico mostra que, em todas as idades, as mulheres são as condutoras menos envolvidas em acidentes.",
+        "distratores": [
+          "A inverte a relação entre os sexos.",
+          "C: os números são bem diferentes.",
+          "D não é o que o gráfico mostra.",
+          "E não é o que o gráfico mostra."
+        ]
+      }
+    ],
+    "resumo": [
+      "Tripé: ambiental, social, econômico.",
+      "Reduzir, reutilizar, reciclar.",
+      "Pilhas e óleo: pontos de coleta.",
+      "Problema ambiental: fiscalizar, educar, prevenir.",
+      "Empreendedorismo social: impacto + sustentabilidade financeira.",
+      "Projeto de vida: planejar e prever obstáculos.",
+      "Amplitude = maior − menor."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "O tripé da sustentabilidade é formado pelas dimensões"
+        ],
+        "comando": "quais?",
+        "alternativas": [
+          "ambiental, social e econômica.",
+          "militar, religiosa e política.",
+          "urbana, rural e industrial.",
+          "local, nacional e global apenas.",
+          "física, química e biológica."
+        ],
+        "passos": [
+          "Ambiente, sociedade e economia."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B não corresponde.",
+          "C não corresponde.",
+          "D são escalas, não dimensões.",
+          "E são ciências."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma pessoa troca o carro pela bicicleta em trajetos curtos."
+        ],
+        "comando": "A atitude contribui para",
+        "alternativas": [
+          "aumentar o trânsito.",
+          "reduzir emissões de gases e melhorar a saúde.",
+          "gastar mais combustível.",
+          "piorar a qualidade do ar.",
+          "aumentar o barulho."
+        ],
+        "passos": [
+          "Menos carros, menos poluição; mais atividade física."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é o oposto.",
+          "C é o oposto.",
+          "D é o oposto.",
+          "E é o oposto."
+        ]
+      },
+      {
+        "suporte": [
+          "Pilhas e baterias usadas devem ser"
+        ],
+        "comando": "destinadas",
+        "alternativas": [
+          "ao lixo orgânico.",
+          "à rede de esgoto.",
+          "a pontos de coleta específicos.",
+          "à queima no quintal.",
+          "ao terreno baldio."
+        ],
+        "passos": [
+          "Contêm metais tóxicos."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A contamina.",
+          "B contamina.",
+          "D libera gases tóxicos.",
+          "E contamina o solo."
+        ]
+      },
+      {
+        "suporte": [
+          "A ONU definiu 17 metas globais para 2030, como acabar com a pobreza e combater a mudança do clima."
+        ],
+        "comando": "Elas são os",
+        "alternativas": [
+          "Direitos Humanos.",
+          "Protocolos de Kyoto.",
+          "tratados de Versalhes.",
+          "Objetivos de Desenvolvimento Sustentável.",
+          "princípios do mercantilismo."
+        ],
+        "passos": [
+          "Agenda 2030: ODS."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é declaração de 1948.",
+          "B tratou de emissões.",
+          "C é de 1919.",
+          "E é política antiga."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma barragem de rejeitos se rompeu e atingiu um rio."
+        ],
+        "comando": "Uma medida preventiva para o futuro é",
+        "alternativas": [
+          "reduzir a fiscalização.",
+          "esconder os laudos técnicos.",
+          "construir barragens em áreas habitadas.",
+          "ignorar o risco.",
+          "fiscalizar e exigir normas técnicas de segurança."
+        ],
+        "passos": [
+          "Prevenção exige fiscalização e normas."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A aumenta o risco.",
+          "B impede o controle.",
+          "C aumenta o risco.",
+          "D aumenta o risco."
+        ]
+      },
+      {
+        "suporte": [
+          "I. Venda de cestas de produtos de agricultores familiares com lucro reinvestido na comunidade.",
+          "II. Doação única de agasalhos numa campanha de inverno."
+        ],
+        "comando": "Segundo a definição de empreendedorismo social,",
+        "alternativas": [
+          "só I é exemplo.",
+          "só II é exemplo.",
+          "os dois são exemplos.",
+          "nenhum é exemplo.",
+          "II é empreendedorismo e I é assistência."
+        ],
+        "passos": [
+          "I gera impacto e se sustenta; II é ação solidária pontual."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B inverte.",
+          "C inclui a doação pontual.",
+          "D exclui I.",
+          "E inverte."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma estudante muda de estado para estudar e sente dificuldade com a nova rotina."
+        ],
+        "comando": "A competência que mais a ajuda é a",
+        "alternativas": [
+          "adaptabilidade.",
+          "intolerância.",
+          "passividade.",
+          "isolamento.",
+          "pressa em desistir."
+        ],
+        "passos": [
+          "Adaptar-se a novos ritmos e lugares."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B atrapalha.",
+          "C atrapalha.",
+          "D atrapalha.",
+          "E atrapalha."
+        ]
+      },
+      {
+        "suporte": [
+          "Notas de um simulado: 4, 9, 6, 10, 7."
+        ],
+        "comando": "A amplitude é",
+        "alternativas": [
+          "10",
+          "4",
+          "6",
+          "14",
+          "7,2"
+        ],
+        "passos": [
+          "$10 - 4 = 6$."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é o maior valor.",
+          "B é o menor.",
+          "D soma.",
+          "E é a média."
+        ]
+      },
+      {
+        "suporte": [
+          "Um anúncio diz: \"Troque seu celular todo ano, o novo é sempre melhor!\"."
+        ],
+        "comando": "Do ponto de vista do consumo consciente, a mensagem",
+        "alternativas": [
+          "incentiva a reutilização.",
+          "reduz o lixo eletrônico.",
+          "estimula o consumismo e aumenta o lixo eletrônico.",
+          "economiza recursos naturais.",
+          "não tem efeito."
+        ],
+        "passos": [
+          "Trocar sem necessidade gera descarte e extração."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é o oposto.",
+          "B é o oposto.",
+          "D é o oposto.",
+          "E: propaganda influencia o consumo."
+        ]
+      },
+      {
+        "suporte": [
+          "Um morador vê um papagaio preso numa gaiola numa feira clandestina."
+        ],
+        "comando": "A atitude cidadã é",
+        "alternativas": [
+          "comprar o animal para salvá-lo.",
+          "ignorar.",
+          "soltar em qualquer lugar.",
+          "filmar e divulgar sem avisar ninguém.",
+          "denunciar aos órgãos ambientais."
+        ],
+        "passos": [
+          "Denúncia leva à apreensão e ao tratamento do animal."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A financia o tráfico.",
+          "B permite o crime.",
+          "C pode matar o animal.",
+          "D não aciona as autoridades."
+        ]
+      },
+      {
+        "suporte": [
+          "Votar, cumprir leis e cuidar do bem comum"
+        ],
+        "comando": "são exemplos de",
+        "alternativas": [
+          "consumismo.",
+          "cidadania.",
+          "colonialismo.",
+          "nomadismo.",
+          "mercantilismo."
+        ],
+        "passos": [
+          "Direitos e deveres do cidadão."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A não se aplica.",
+          "C não se aplica.",
+          "D não se aplica.",
+          "E não se aplica."
+        ]
+      },
+      {
+        "suporte": [
+          "Para reduzir queimadas na Amazônia, um governo pode"
+        ],
+        "comando": "adotar",
+        "alternativas": [
+          "liberar o fogo em áreas protegidas.",
+          "reduzir as multas.",
+          "incentivar pastagens na floresta.",
+          "monitorar por satélite, fiscalizar e apoiar agricultura sem fogo.",
+          "diminuir o número de fiscais."
+        ],
+        "passos": [
+          "Monitoramento, fiscalização e alternativas ao fogo."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A agrava.",
+          "B agrava.",
+          "C agrava.",
+          "E agrava."
+        ]
+      }
+    ]
+  }
+}

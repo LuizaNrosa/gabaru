@@ -3767,5 +3767,343 @@
       "Estações: inclinação do eixo. Equinócio: dia = noite.",
       "Eclipse solar: Lua entre Terra e Sol."
     ]
+  },
+  "celulas-e-corpo-humano": {
+    "materia": "Matéria 2 · Ciências da Natureza · Biologia",
+    "introducao": "Célula e fisiologia humana somam 28 questões nas provas recentes. A ETEC cobra o caminho de uma proteína dentro da célula, a osmose nas frutas cristalizadas, a troca de gases nos alvéolos, o coração no exercício físico, a pele no frio e no calor e a digestão das gorduras. O texto da questão costuma trazer metade da resposta; a outra metade é o vocabulário deste capítulo.",
+    "codigos": [
+      "BI01",
+      "BI02"
+    ],
+    "raioX": "Os itens pedem: função de organelas; diferença entre célula animal, vegetal, de fungo e bactéria; transporte pela membrana (difusão e osmose); mitose e câncer; nome de processos (hematose, emulsificação, peristaltismo); e a resposta do corpo a frio, calor e exercício. Os distratores trocam o nome de uma organela, invertem dilatação e contração dos vasos ou dizem que o suor aquece o corpo.",
+    "intuicao": [
+      "A célula é uma fábrica: o núcleo guarda as instruções, o ribossomo monta a proteína, o retículo transporta, o complexo golgiense embala, a mitocôndria fornece energia.",
+      "Substâncias passivamente vão do lugar com mais para o lugar com menos (difusão). Na osmose, é a água que se move para onde há mais soluto.",
+      "Sangue: hemácias levam gás, leucócitos defendem, plaquetas coagulam.",
+      "No frio, o corpo economiza calor (vasos se contraem, menos suor). No calor, perde calor (vasos dilatam, mais suor)."
+    ],
+    "teoria": [
+      {
+        "titulo": "A célula e seus tipos",
+        "texto": "Todo ser vivo é formado por células. As partes básicas são membrana plasmática, citoplasma e material genético (DNA).\n\n• Procarionte: sem núcleo organizado e sem organelas membranosas. Bactérias. Têm parede celular e ribossomos, mas não têm mitocôndrias, cloroplastos nem membrana nuclear.\n• Eucarionte: DNA dentro de um núcleo com membrana (carioteca) e várias organelas. Animais, plantas, fungos, protozoários.\n\nDiferenças entre eucariontes:\n\n• Célula vegetal: parede celular de celulose, cloroplastos, vacúolo grande, mitocôndrias e núcleo. Tem todas essas estruturas.\n• Célula animal: sem parede e sem cloroplastos; tem mitocôndrias e núcleo.\n• Fungo: parede celular (de quitina), mitocôndrias e núcleo; sem cloroplastos."
+      },
+      {
+        "titulo": "As organelas e suas funções",
+        "texto": "• Ribossomos: fabricam proteínas.\n• Retículo endoplasmático rugoso: tem ribossomos aderidos; produz e transporta proteínas.\n• Retículo endoplasmático liso: produz lipídios e ajuda a desintoxicar.\n• Complexo golgiense: modifica, empacota e envia as substâncias para fora da célula (secreção).\n• Lisossomos: digestão dentro da célula.\n• Mitocôndrias: respiração celular; liberam energia da glicose.\n• Cloroplastos: fotossíntese (só em plantas e algas).\n• Núcleo: guarda o DNA e controla a célula.\n\nNuma célula secretora, a produção da proteína acontece no retículo rugoso e o empacotamento, no complexo golgiense."
+      },
+      {
+        "titulo": "Membrana, difusão e osmose",
+        "texto": "A membrana plasmática controla o que entra e sai da célula.\n\n• Difusão: a substância passa do meio mais concentrado para o menos concentrado, sem gasto de energia (transporte passivo). É assim que o oxigênio entra no sangue nos pulmões e sai das hemácias para os tecidos.\n• Osmose: a água atravessa a membrana do meio menos concentrado em soluto para o mais concentrado.\n• Transporte ativo: contra a concentração, com gasto de energia.\n\nNa conservação com açúcar ou sal (frutas cristalizadas, carne-seca), o meio externo fica muito concentrado. A água sai das células da fruta e dos microrganismos por osmose; sem água, os microrganismos não se multiplicam."
+      },
+      {
+        "titulo": "Divisão celular e câncer",
+        "texto": "• Mitose: uma célula gera duas iguais. Serve para crescimento e renovação dos tecidos (pele, cabelo, sangue, mucosa do intestino).\n• Meiose: forma os gametas, com metade dos cromossomos.\n\nO câncer é a multiplicação descontrolada de células. Muitos quimioterápicos bloqueiam a mitose; por isso também atingem tecidos sadios que se renovam rápido, causando queda de cabelo."
+      },
+      {
+        "titulo": "Digestão",
+        "texto": "A digestão quebra os alimentos em moléculas pequenas que podem ser absorvidas.\n\n• Boca: mastigação e amilase salivar, que começa a digerir o amido.\n• Esôfago: leva o alimento ao estômago pelos movimentos de peristaltismo.\n• Estômago: suco gástrico, ácido, digere proteínas.\n• Duodeno: a bile, produzida no fígado, emulsifica as gorduras, quebrando-as em gotículas como um detergente. Isso aumenta a superfície de contato para as lipases do pâncreas agirem.\n• Intestino delgado: termina a digestão e absorve os nutrientes.\n• Intestino grosso: absorve água e forma as fezes.\n\nProteínas viram aminoácidos; lipídios viram ácidos graxos e glicerol; carboidratos viram açúcares simples."
+      },
+      {
+        "titulo": "Respiração e hematose",
+        "texto": "O ar entra pelo nariz, passa pela faringe, laringe, traqueia, brônquios e chega aos alvéolos pulmonares.\n\nNos alvéolos ocorre a hematose: o oxigênio passa do ar para o sangue e o gás carbônico passa do sangue para o ar, por difusão.\n\nO oxigênio viaja preso à hemoglobina das hemácias. Nos tecidos, a concentração de oxigênio é menor que no sangue, então ele se solta e se difunde para as células, onde a mitocôndria o usa na respiração celular:\n\nglicose + oxigênio → gás carbônico + água + energia."
+      },
+      {
+        "titulo": "Circulação e sangue",
+        "texto": "O coração humano tem quatro cavidades e não mistura sangue arterial (rico em oxigênio) com venoso.\n\n• Artérias saem do coração; veias chegam ao coração.\n• Pequena circulação: coração → artéria pulmonar → pulmões → veias pulmonares → coração.\n• Grande circulação: coração → artéria aorta → corpo → veias cavas → coração.\n\nNo exercício, o coração bate mais rápido e a respiração se acelera: aumenta o fluxo de sangue oxigenado para os músculos e a liberação de energia.\n\nComponentes do sangue:\n\n• Hemácias: transporte de oxigênio (hemoglobina, que contém ferro).\n• Leucócitos: defesa; alguns produzem anticorpos.\n• Plaquetas: coagulação. Poucas plaquetas significam dificuldade para coagular.\n\nOutros animais também têm estruturas contráteis, como corações simples, que empurram o fluido corporal, mesmo com sistemas abertos ou fechados."
+      },
+      {
+        "titulo": "Pele e temperatura do corpo",
+        "texto": "A pele protege contra germes, atrito e raios ultravioleta, evita perda de água e regula a temperatura (cerca de 36,5 °C).\n\n• No calor: os vasos da pele se dilatam e as glândulas sudoríparas produzem mais suor. A evaporação do suor retira calor do corpo e baixa a temperatura.\n• No frio: os vasos da pele se contraem e a produção de suor diminui, reduzindo a perda de calor.\n\nAs glândulas sebáceas produzem oleosidade, não suor. A exposição excessiva ao ultravioleta aumenta o risco de câncer de pele."
+      },
+      {
+        "titulo": "Nutrientes, sistema nervoso e sentidos",
+        "texto": "• Ferro: faz parte da hemoglobina. Falta de ferro causa anemia.\n• Vitamina C: falta causa escorbuto. Vitamina A: importante para a visão.\n• Encéfalo: cérebro, cerebelo e tronco encefálico; formado por neurônios e gliócitos (células de apoio).\n• Olho: a luz é refratada por córnea e cristalino e forma imagem na retina. Na miopia, a imagem se forma antes da retina e a pessoa enxerga mal de longe; na hipermetropia, enxerga mal de perto."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Caminho de uma proteína: ribossomo e retículo rugoso produzem, complexo golgiense empacota.\n• Tabela de estruturas por tipo de célula.\n• Osmose em conservas e difusão de gases sempre a favor da concentração.\n• Nome de processos: hematose (alvéolos), emulsificação (bile), peristaltismo (tubo digestório), mitose (proliferação).\n• Pele no frio e no calor, sempre com o par vaso e suor.\n\nDesconfie de alternativas com causa absurda (\"o oxigênio é atraído pelo nitrogênio\", \"as hemácias são destruídas para liberar oxigênio\")."
+      }
+    ],
+    "armadilha": "Inverter a resposta ao frio e ao calor. No frio os vasos contraem e o suor diminui; no calor os vasos dilatam e o suor aumenta. Outra troca comum: atribuir o suor às glândulas sebáceas, que produzem óleo.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Pedaços de pepino deixados em salmoura muito concentrada ficam murchos depois de algumas horas."
+        ],
+        "comando": "O pepino murcha porque",
+        "alternativas": [
+          "o sal entra nas células por osmose.",
+          "a água sai das células por osmose, para o meio mais concentrado.",
+          "as células se dividem por mitose.",
+          "a parede celular é digerida pelos lisossomos.",
+          "a água entra nas células, que estouram."
+        ],
+        "passos": [
+          "A salmoura é mais concentrada em soluto do que o interior das células.",
+          "Na osmose, a água vai para o meio mais concentrado.",
+          "A água sai, e as células murcham."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: osmose é movimento de água, não de sal.",
+          "C: mitose não explica perda de água.",
+          "D: lisossomos não digerem a parede nessa situação.",
+          "E: a água sai, não entra."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma célula observada ao microscópio tem parede celular, mitocôndrias, núcleo com membrana e nenhum cloroplasto."
+        ],
+        "comando": "A célula pode ser de",
+        "alternativas": [
+          "uma bactéria.",
+          "um fungo.",
+          "um músculo humano.",
+          "uma folha.",
+          "um vírus."
+        ],
+        "passos": [
+          "Núcleo com membrana: eucarionte, então não é bactéria.",
+          "Tem parede: não é célula animal.",
+          "Sem cloroplasto: não é folha. Sobra o fungo."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: bactéria não tem núcleo com membrana nem mitocôndrias.",
+          "C: célula animal não tem parede.",
+          "D: célula de folha tem cloroplastos.",
+          "E: vírus não é célula."
+        ]
+      },
+      {
+        "suporte": [
+          "Um exame mostra que uma pessoa tem número de plaquetas bem abaixo do valor de referência."
+        ],
+        "comando": "O sintoma mais provável é",
+        "alternativas": [
+          "dificuldade de coagular e sangramentos.",
+          "falta de ar por pouco oxigênio.",
+          "mais infecções por falta de defesa.",
+          "formação de muitos coágulos.",
+          "febre constante."
+        ],
+        "passos": [
+          "Plaquetas atuam na coagulação.",
+          "Poucas plaquetas: o sangue demora a coagular."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B se liga às hemácias.",
+          "C se liga aos leucócitos.",
+          "D seria o efeito de plaquetas em excesso.",
+          "E não é efeito direto de poucas plaquetas."
+        ]
+      },
+      {
+        "suporte": [
+          "Num dia muito frio, uma pessoa fica pálida e com a pele das mãos fria."
+        ],
+        "comando": "Isso acontece porque",
+        "alternativas": [
+          "os vasos da pele se dilatam para aquecer as mãos.",
+          "os vasos da pele se contraem, levando menos sangue à superfície e reduzindo a perda de calor.",
+          "as glândulas sebáceas produzem mais suor.",
+          "a evaporação do suor aquece o corpo.",
+          "o coração para de bombear sangue para as mãos."
+        ],
+        "passos": [
+          "No frio, o corpo precisa conservar calor.",
+          "Os vasos periféricos se contraem: menos sangue na pele, que fica pálida e fria, e menos calor perdido."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: dilatar aumentaria a perda de calor.",
+          "C: glândula sebácea produz óleo, e o suor diminui no frio.",
+          "D: a evaporação resfria.",
+          "E: o sangue continua circulando, só em menor quantidade na pele."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma refeição com muita gordura chega ao duodeno."
+        ],
+        "comando": "A bile atua",
+        "alternativas": [
+          "digerindo as proteínas em aminoácidos.",
+          "emulsificando a gordura em gotículas, o que facilita a ação das lipases.",
+          "digerindo o amido.",
+          "absorvendo a água.",
+          "neutralizando o oxigênio."
+        ],
+        "passos": [
+          "A bile não é enzima.",
+          "Ela quebra a gordura em gotículas (emulsificação), como um detergente.",
+          "Com mais superfície, as lipases agem melhor."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: proteínas são digeridas no estômago e no intestino por outras enzimas.",
+          "C: o amido é digerido pela amilase.",
+          "D: a água é absorvida no intestino grosso.",
+          "E não tem relação com a digestão."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q049",
+        "correta": "E",
+        "justificativa": "O retículo endoplasmático rugoso, com seus ribossomos, produz as proteínas; o complexo golgiense as empacota para secreção.",
+        "distratores": [
+          "A: cloroplastos não existem em célula animal.",
+          "B: cloroplastos não existem em célula animal.",
+          "C: lisossomos fazem digestão, não empacotamento; a ordem também está errada.",
+          "D: lisossomos não produzem proteínas para secreção, e a ordem está invertida."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q048",
+        "correta": "D",
+        "justificativa": "O xarope de açúcar cria alta pressão osmótica: a água sai das células da fruta e dos microrganismos por osmose, impedindo sua proliferação.",
+        "distratores": [
+          "A: as células perdem água, não ganham.",
+          "B: o açúcar não aumenta a acidez nem acelera a deterioração.",
+          "C: o açúcar não facilita a proliferação de microrganismos.",
+          "E: o açúcar não é antibiótico; age pela osmose."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q047",
+        "correta": "A",
+        "justificativa": "O oxigênio se difunde das hemácias, onde está mais concentrado, para os tecidos, onde a concentração é menor.",
+        "distratores": [
+          "B: a temperatura do corpo não cai para liberar oxigênio.",
+          "C: o nitrogênio não atrai o oxigênio.",
+          "D: as hemácias não são destruídas para liberar oxigênio.",
+          "E: o gás carbônico é mais concentrado nos tecidos, não nas hemácias."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q046",
+        "correta": "E",
+        "justificativa": "A troca de gases nos alvéolos pulmonares chama-se hematose.",
+        "distratores": [
+          "A: peristaltismo é o movimento do tubo digestório.",
+          "B: anabolismo é a síntese de moléculas no metabolismo.",
+          "C: fagocitose é a célula englobar partículas.",
+          "D: endocitose é a entrada de material envolvido pela membrana."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q045",
+        "correta": "C",
+        "justificativa": "Os três organismos têm estruturas contráteis, como corações, que empurram o fluido corporal até os tecidos.",
+        "distratores": [
+          "A: nem todos têm sistema aberto.",
+          "B: nem todos têm hemoglobina e sistema fechado.",
+          "D: os rins não fazem trocas gasosas.",
+          "E: num sistema fechado o fluido não sai para lacunas; isso descreve o sistema aberto."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q040",
+        "correta": "A",
+        "justificativa": "O ferro faz parte da hemoglobina, que transporta oxigênio dos pulmões aos tecidos.",
+        "distratores": [
+          "B: o escorbuto vem da falta de vitamina C, não de potássio.",
+          "C: vitamina não é anticorpo.",
+          "D: a função da tireoide depende do iodo, não do magnésio.",
+          "E: o corpo humano não produz vitamina C; ela precisa vir da alimentação."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q038",
+        "correta": "D",
+        "justificativa": "No exercício, coração e pulmões se aceleram: aumenta o fluxo de sangue, melhora a oxigenação dos músculos e a liberação de energia.",
+        "distratores": [
+          "A: o exercício não causa problemas pulmonares nem infecções renais.",
+          "B: o oxigênio que chega aos músculos aumenta.",
+          "C: a frequência cardíaca aumenta.",
+          "E: a absorção maior de oxigênio aumenta, não diminui, a oxigenação dos músculos."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q034",
+        "correta": "A",
+        "justificativa": "O defeito do texto, em que a pessoa enxerga mal de longe porque a imagem se forma antes da retina, é a miopia.",
+        "distratores": [
+          "B: catarata é a opacidade do cristalino.",
+          "C: glaucoma é o aumento da pressão dentro do olho.",
+          "D: astigmatismo é a imagem distorcida pela curvatura irregular da córnea.",
+          "E: na hipermetropia a pessoa enxerga mal de perto."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q005",
+        "correta": "E",
+        "justificativa": "A emulsificação pela bile age como detergente: divide a gordura em gotículas e aumenta a superfície de contato para as lipases.",
+        "distratores": [
+          "A: lipídios não produzem aminoácidos.",
+          "B: a emulsificação facilita a absorção, não a impede.",
+          "C: ela não distribui lipídios pelo corpo.",
+          "D: ocorre no duodeno, e a amilase digere amido."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q049",
+        "correta": "E",
+        "justificativa": "Se a droga bloqueia a produção de novas células, ela inibe as mitoses, que respondem pela proliferação celular.",
+        "distratores": [
+          "A: o texto fala em produção de células, não em digestão celular.",
+          "B: a respiração celular não é o alvo descrito.",
+          "C: o texto não trata da eliminação de toxinas.",
+          "D: a quimioterapia prejudica, não acelera, a renovação dos tecidos."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q002",
+        "correta": "D",
+        "justificativa": "No frio, os vasos periféricos se contraem e as glândulas sudoríparas eliminam menos suor, reduzindo a perda de calor.",
+        "distratores": [
+          "A: dilatar os vasos aumenta a perda de calor.",
+          "B: dilatação e mais suor resfriam o corpo.",
+          "C: glândulas sebáceas não produzem suor.",
+          "E: glândulas sebáceas não produzem suor, e mais suor resfriaria."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q021",
+        "correta": "E",
+        "justificativa": "O ultravioleta pode causar vermelhidão e queimaduras e estimula a produção de melanina, pigmento que protege a pele da radiação.",
+        "distratores": [
+          "A: a queratina protege; não é reserva nutritiva.",
+          "B: o suor ajuda a baixar a temperatura, não a elevar.",
+          "C: no frio os vasos se contraem, não se dilatam.",
+          "D: no calor os vasos se dilatam, não se contraem."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q023",
+        "correta": "E",
+        "justificativa": "A célula vegetal tem mitocôndrias, cloroplastos, parede celular e membrana nuclear.",
+        "distratores": [
+          "A: a célula vegetal também tem mitocôndrias e parede.",
+          "B: a célula animal não tem cloroplastos.",
+          "C: a bactéria não tem mitocôndrias, cloroplastos nem membrana nuclear.",
+          "D: fungo e célula animal têm mitocôndrias e membrana nuclear."
+        ]
+      }
+    ],
+    "resumo": [
+      "Procarionte: sem núcleo. Eucarionte: núcleo com membrana.",
+      "Vegetal: parede, cloroplastos, mitocôndrias. Animal: sem parede e sem cloroplastos.",
+      "Retículo rugoso produz proteína; complexo golgiense empacota.",
+      "Difusão: do mais para o menos concentrado. Osmose: água para o mais concentrado.",
+      "Mitose renova tecidos; câncer é mitose descontrolada.",
+      "Bile emulsifica gorduras. Hematose nos alvéolos.",
+      "Hemácia: gás. Leucócito: defesa. Plaqueta: coagulação.",
+      "Frio: vasos contraem, menos suor. Calor: vasos dilatam, mais suor."
+    ]
   }
 }

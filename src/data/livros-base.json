@@ -140,6 +140,26 @@
         "status": "publicado"
       },
       {
+        "slug": "tempo-antiguidade-e-idade-media",
+        "titulo": "Tempo, fontes, Antiguidade e Idade Média",
+        "status": "publicado"
+      },
+      {
+        "slug": "expansao-colonizacao-e-escravidao",
+        "titulo": "Expansão marítima, colonização e escravidão",
+        "status": "publicado"
+      },
+      {
+        "slug": "revolucoes-independencias-e-imperio",
+        "titulo": "Revoluções, industrialização, independências e Império",
+        "status": "publicado"
+      },
+      {
+        "slug": "republicas-e-mundo-contemporaneo",
+        "titulo": "Repúblicas brasileiras e o mundo nos séculos XX e XXI",
+        "status": "publicado"
+      },
+      {
         "slug": "apendice",
         "titulo": "Apêndice · Edital e incidência histórica",
         "status": "publicado"

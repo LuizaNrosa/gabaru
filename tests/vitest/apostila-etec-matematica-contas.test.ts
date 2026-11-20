@@ -42,6 +42,7 @@ describe('auditoria numérica da apostila de Matemática', () => {
       expect(capitulo.exemplos.length, slug).toBeGreaterThanOrEqual(5);
       const rotulos = new Set((contas as Record<string, { rotulo: string }[]>)[slug]?.map(c => c.rotulo));
       capitulo.exemplos.forEach((_, n) => expect(rotulos.has(`exemplo-${n + 1}`), `${slug} exemplo ${n + 1}`).toBe(true));
+      ((capitulo as { fixacao?: unknown[] }).fixacao ?? []).forEach((_: unknown, n: number) => expect(rotulos.has(`fixacao-${n + 1}`), `${slug} fixação ${n + 1}`).toBe(true));
     }
   });
 

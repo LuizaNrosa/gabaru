@@ -1,0 +1,1480 @@
+{
+  "tempo-antiguidade-e-idade-media": {
+    "materia": "Matéria 4 · Ciências Humanas · História",
+    "introducao": "A História da ETEC quase nunca pede uma data decorada. Ela traz um texto, um mapa ou uma imagem e pergunta o que aquilo revela sobre uma sociedade: por que o Crescente Fértil tem esse nome, para que servia o papiro, como a peste chegou à Europa. Este capítulo cobre o começo da linha do tempo, da Pré-História ao Renascimento, e as ferramentas do historiador: tempo e fontes.",
+    "codigos": [
+      "HI01",
+      "HI02"
+    ],
+    "raioX": "Os itens pedem: tipo de fonte histórica; papel dos rios nas primeiras civilizações; origem da escrita; o lugar das mulheres e o ideal de corpo na Grécia; as estradas romanas; técnicas agrícolas e epidemias medievais; a expansão árabe; Renascimento e Inquisição. Os distratores costumam ser anacrônicos: põem trator na Idade Média, Iluminismo no século XIV ou islã na Mesopotâmia antiga.",
+    "intuicao": [
+      "Pergunte sempre \"isso já existia naquela época?\". Anacronismo é o distrator favorito da banca.",
+      "Rio é sinônimo de água, solo fértil, comida e cidade. As primeiras civilizações nasceram nas margens deles.",
+      "Escrita surgiu para contar e registrar: comércio, impostos, contratos.",
+      "Democracia grega era para poucos: mulheres, escravizados e estrangeiros ficavam de fora."
+    ],
+    "teoria": [
+      {
+        "titulo": "Tempo histórico e séculos",
+        "texto": "O calendário ocidental conta os anos a partir do nascimento de Cristo: antes dele, a.C.; depois, d.C. Não há ano zero.\n\nPara achar o século de um ano d.C.: tire os dois últimos algarismos e some 1, a menos que eles sejam 00.\n\n• 1347 → século XIV.\n• 1500 → século XV (último ano do século).\n• 1501 → século XVI.\n\nGrandes divisões tradicionais, criadas por historiadores europeus: Pré-História (até a escrita, cerca de 3500 a.C.), Idade Antiga (até 476, queda de Roma no Ocidente), Idade Média (até 1453, tomada de Constantinopla), Idade Moderna (até 1789, Revolução Francesa) e Idade Contemporânea."
+      },
+      {
+        "titulo": "Fontes históricas",
+        "texto": "Fonte é tudo que o ser humano produziu e que ajuda a conhecer o passado.\n\n• Escritas: cartas, leis, jornais, diários, contratos.\n• Orais: depoimentos, entrevistas, histórias contadas de geração em geração.\n• Materiais: ferramentas, cerâmica, construções, ossos, moedas.\n• Visuais: pinturas, fotografias, mapas, pinturas rupestres.\n\nDepoimentos orais, como os gravados por museus, são fontes históricas: guardam saberes transmitidos entre gerações ou a versão de quem viveu os fatos. Toda fonte precisa ser analisada: quem a produziu, quando e para quê."
+      },
+      {
+        "titulo": "Pré-História",
+        "texto": "• Paleolítico (pedra lascada): grupos nômades de caçadores e coletores. O domínio do fogo trouxe calor, proteção, arma de caça e o cozimento dos alimentos; mais tarde, permitiu fundir metais.\n• Neolítico (pedra polida): agricultura e domesticação de animais, que permitiram a sedentarização e as primeiras aldeias.\n• Idade dos Metais: cobre, bronze e ferro.\n\nNa Amazônia, populações indígenas antigas criaram as \"terras pretas\", solos enriquecidos por suas práticas tradicionais, prova de que a floresta também foi manejada pelo ser humano."
+      },
+      {
+        "titulo": "Sociedades fluviais: Mesopotâmia e Egito",
+        "texto": "As primeiras civilizações surgiram às margens de grandes rios: Tigre e Eufrates (Mesopotâmia), Nilo (Egito), Indo (Índia), Amarelo (China). Por isso são chamadas sociedades fluviais. O trabalho coletivo de irrigação controlava as cheias e garantia a agricultura.\n\nO Crescente Fértil, faixa em forma de lua crescente entre Egito e Mesopotâmia, recebeu esse nome pelo solo fértil dos grandes rios. O nome foi dado por estudiosos muito depois.\n\n• Mesopotâmia: cidades-Estado como Uruk; escrita cuneiforme em placas de argila, criada para registros contábeis e contratos, ligada ao comércio e à administração.\n• Egito: o Nilo era a base da vida, desaguando no Mediterrâneo; faraó com poder político e religioso; escrita hieroglífica; o papiro servia de suporte para a escrita, além de cordas e barcos."
+      },
+      {
+        "titulo": "Grécia Antiga",
+        "texto": "• Organização em pólis, cidades-Estado independentes, como Atenas e Esparta.\n• Atenas criou a democracia, mas só os cidadãos (homens adultos, filhos de atenienses) votavam. Mulheres, escravizados e estrangeiros (metecos) estavam excluídos.\n• Frases de filósofos como Pitágoras e Aristóteles mostram a discriminação das mulheres.\n• O ideal de beleza era o corpo masculino jovem e atlético, visto como reflexo da inteligência e da virtude. O corpo era treinado nos ginásios e exibido nos Jogos Olímpicos, em honra a Zeus.\n• Legado: filosofia, teatro, matemática, arquitetura, a própria ideia de democracia."
+      },
+      {
+        "titulo": "Roma Antiga",
+        "texto": "Roma passou por monarquia, república e império (a partir de 27 a.C.). No auge, dominava todo o Mediterrâneo.\n\n• Milhares de quilômetros de estradas pavimentadas ligavam as províncias à capital e entre si. Por elas circulavam exércitos, mensageiros e mercadorias. Daí \"todos os caminhos levam a Roma\".\n• Latim, direito romano e cristianismo (religião oficial a partir de 380) são heranças marcantes.\n• Em 476, o Império Romano do Ocidente caiu diante dos povos germânicos. O do Oriente, o Império Bizantino, durou até 1453."
+      },
+      {
+        "titulo": "Idade Média",
+        "texto": "• Feudalismo: terra como base da riqueza; senhores, servos e o clero. A Igreja Católica tinha enorme poder político e cultural.\n• Entre os séculos X e XII, inovações agrícolas aumentaram a produção: rotação trienal de culturas, arado de ferro, ferradura e novas formas de atrelar os animais.\n• Expansão árabe (séculos VII e VIII): a partir da Península Arábica e com o islã, os árabes chegaram ao norte da África e à Península Ibérica, levando à Europa avanços em álgebra, astronomia e medicina.\n• Cruzadas e renascimento comercial reabriram rotas entre Ocidente e Oriente.\n• Peste negra (1347–1351): a bactéria chegou em ratos e pulgas nos navios das rotas comerciais com o Oriente. Matou cerca de metade da população europeia."
+      },
+      {
+        "titulo": "Transição para a Idade Moderna",
+        "texto": "• Inquisição: entre o fim do século XIV e o século XV, a Igreja intensificou a repressão a práticas consideradas contrárias ao catolicismo, incluindo a perseguição de mulheres acusadas de bruxaria, muitas delas curandeiras e parteiras.\n• Renascimento (séculos XIV a XVI): valorização do ser humano (humanismo), da razão e da Antiguidade clássica. Leonardo da Vinci dissecou cadáveres e desenhou o corpo para entender a anatomia: arte e ciência experimental juntas.\n• Reforma Protestante (1517) e grandes navegações abrem a Idade Moderna."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Texto ou imagem do período e pergunta sobre a característica que ele revela.\n• Fontes históricas e seu tipo.\n• Mapas: rios, mares e regiões (Nilo e Mediterrâneo, Crescente Fértil, expansão árabe).\n• Alternativas anacrônicas ou com generalizações (\"todas as crianças\", \"nos cinco continentes\"): elimine.\n\nVolte ao texto do enunciado. Na maioria das questões, ele contém a pista decisiva."
+      }
+    ],
+    "armadilha": "Aceitar uma alternativa que parece culta mas está fora de época: Iluminismo no século XIV, máquinas a vapor na Idade Média, Roma \"nos cinco continentes\". Antes de julgar o conteúdo, confira se a época bate.",
+    "exemplos": [
+      {
+        "suporte": [
+          "A tomada de Constantinopla pelos turcos otomanos ocorreu em 1453."
+        ],
+        "comando": "Esse fato aconteceu no século",
+        "alternativas": [
+          "XIV.",
+          "XV.",
+          "XVI.",
+          "XIII.",
+          "XV a.C."
+        ],
+        "passos": [
+          "Dois últimos algarismos: 53, diferentes de 00.",
+          "Tire-os e some 1: 14 + 1 = 15.",
+          "Século XV."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A esquece de somar 1.",
+          "C soma 2.",
+          "D subtrai 1.",
+          "E: 1453 é depois de Cristo, não antes."
+        ]
+      },
+      {
+        "suporte": [
+          "Um pesquisador analisa uma panela de cerâmica indígena, a gravação de uma entrevista com uma artesã e uma carta de um missionário do século XVII."
+        ],
+        "comando": "As três fontes são, respectivamente,",
+        "alternativas": [
+          "escrita, oral e material.",
+          "material, oral e escrita.",
+          "oral, material e escrita.",
+          "material, escrita e oral.",
+          "todas escritas."
+        ],
+        "passos": [
+          "A panela é um objeto: fonte material.",
+          "A entrevista gravada: fonte oral.",
+          "A carta: fonte escrita."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A troca a panela pela carta.",
+          "C troca a panela pela entrevista.",
+          "D troca a entrevista pela carta.",
+          "E ignora fontes não escritas."
+        ]
+      },
+      {
+        "suporte": [
+          "Em Atenas, no século V a.C., a assembleia reunia milhares de cidadãos para votar leis."
+        ],
+        "comando": "Participavam dessa assembleia",
+        "alternativas": [
+          "todos os moradores da cidade.",
+          "homens adultos nascidos de pais atenienses.",
+          "mulheres proprietárias.",
+          "escravizados libertos e estrangeiros.",
+          "apenas os sacerdotes."
+        ],
+        "passos": [
+          "A cidadania ateniense era restrita.",
+          "Só homens adultos, filhos de atenienses, votavam."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A ignora as exclusões.",
+          "C: mulheres não votavam.",
+          "D: estrangeiros e escravizados eram excluídos.",
+          "E: a assembleia não era religiosa."
+        ]
+      },
+      {
+        "suporte": [
+          "No século XII, o renascimento comercial fez crescer feiras e cidades na Europa."
+        ],
+        "comando": "Um fator ligado a esse crescimento foi",
+        "alternativas": [
+          "a invenção da máquina a vapor.",
+          "o aumento da produção agrícola com a rotação trienal e o arado de ferro.",
+          "a descoberta da América.",
+          "a Revolução Francesa.",
+          "a internet."
+        ],
+        "passos": [
+          "Mais comida sustentou mais gente.",
+          "As inovações agrícolas dos séculos X a XII geraram excedentes para o comércio."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: a máquina a vapor é do século XVIII.",
+          "C: a chegada à América é de 1492.",
+          "D: a Revolução Francesa é de 1789.",
+          "E é anacrônica."
+        ]
+      },
+      {
+        "suporte": [
+          "Leonardo da Vinci estudou cadáveres para desenhar músculos e órgãos com precisão."
+        ],
+        "comando": "Essa prática revela, no Renascimento,",
+        "alternativas": [
+          "a rejeição de todo conhecimento antigo.",
+          "a valorização do ser humano e da observação experimental.",
+          "a proibição da arte religiosa.",
+          "o domínio do pensamento iluminista do século XVIII.",
+          "o abandono da pintura."
+        ],
+        "passos": [
+          "O humanismo colocou o ser humano no centro.",
+          "A dissecação é observação direta: base da ciência experimental."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o Renascimento retomou a Antiguidade clássica.",
+          "C: a arte religiosa continuou forte.",
+          "D: o Iluminismo é posterior.",
+          "E: a pintura floresceu no Renascimento."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2025-1-q044",
+        "correta": "C",
+        "justificativa": "Do papiro, os egípcios produziam um material fino e resistente usado como suporte da escrita.",
+        "distratores": [
+          "A: o papiro não era matéria de armas.",
+          "B: canais de irrigação eram escavados na terra, não feitos de papiro.",
+          "D: os pigmentos de maquiagem vinham de minerais, não do papiro.",
+          "E não é o uso destacado; o papiro ficou conhecido como suporte da escrita."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q027",
+        "correta": "C",
+        "justificativa": "Nesse período, a Inquisição investigou e reprimiu práticas contrárias ao catolicismo e perseguiu mulheres acusadas de bruxaria.",
+        "distratores": [
+          "A: o Iluminismo é do século XVIII e não era um movimento cristão.",
+          "B descreve a globalização atual.",
+          "D: não houve proclamação de repúblicas europeias nesse período.",
+          "E: máquinas a vapor só surgem no século XVIII."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q029",
+        "correta": "B",
+        "justificativa": "Na Grécia, o ideal de beleza era o corpo masculino, visto como reflexo da inteligência.",
+        "distratores": [
+          "A: atividades intelectuais e políticas eram muito valorizadas.",
+          "C: as mulheres eram excluídas dos espaços públicos.",
+          "D: os jogos não libertavam escravizados.",
+          "E: os jogos eram honrosos e praticados pelos próprios gregos."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q002",
+        "correta": "C",
+        "justificativa": "Os desenhos anatômicos de Leonardo resultam da dissecação de cadáveres: investigação experimental do corpo humano.",
+        "distratores": [
+          "A: o Renascimento se inspirou na Antiguidade clássica e desvalorizava a Idade Média.",
+          "B: o Renascimento valorizava o ser humano.",
+          "D: não houve substituição de telas por corpos.",
+          "E: o fisiculturismo é uma prática moderna."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q039",
+        "correta": "B",
+        "justificativa": "Sociedades organizadas em torno de rios e da irrigação são as sociedades fluviais.",
+        "distratores": [
+          "A: o feudalismo é medieval e europeu.",
+          "C: nômades não fixavam aldeias à beira dos rios.",
+          "D: patriarcal descreve relação de gênero, não o vínculo com os rios.",
+          "E: essas sociedades já tinham escrita e cidades."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q005",
+        "correta": "A",
+        "justificativa": "Depoimentos orais são fontes históricas: guardam saberes transmitidos entre gerações ou a versão de testemunhas.",
+        "distratores": [
+          "B: fontes orais não servem para fortalecer preconceitos.",
+          "C: não precisam ser feitas por repórteres de grandes portais.",
+          "D: não dependem de certificação de organismos diplomáticos.",
+          "E: depoimentos não são mitológicos nem precisam de ratificação de cientistas."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q028",
+        "correta": "D",
+        "justificativa": "O delta do Nilo deságua no Mediterrâneo, mar em cujas margens se formou o Império Romano.",
+        "distratores": [
+          "A: o mar Vermelho fica a leste, sem ligação com o delta.",
+          "B: o mar Morto é um lago salgado interior.",
+          "C: não existe mar Mesopotâmico.",
+          "E: o mar Arábico fica longe do delta do Nilo."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q015",
+        "correta": "D",
+        "justificativa": "As \"terras pretas\" da Amazônia são solos férteis criados por práticas tradicionais indígenas.",
+        "distratores": [
+          "A: o IPCC e o IPBES são organismos internacionais criados em 1988 e 2012.",
+          "B: a arqueologia não atribui aos indígenas a extinção da flora.",
+          "C: o texto não fala em apoio governamental.",
+          "E: o povoamento indígena não extinguiu fauna e flora."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q014",
+        "correta": "D",
+        "justificativa": "A peste chegou em ratos dos navios que faziam o comércio entre Ocidente e Oriente.",
+        "distratores": [
+          "A: não chegou em cães de caça da realeza britânica.",
+          "B: a peste é do século XIV, não do XVI.",
+          "C: não veio da caça de baleias.",
+          "E: a peregrinação a Santiago não fugia do Império Romano, extinto séculos antes."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q009",
+        "correta": "C",
+        "justificativa": "Estradas pavimentadas ligavam os diferentes pontos do Império à capital e entre si.",
+        "distratores": [
+          "A: havia estradas em todo o Império, não só em Roma.",
+          "B: Roma não chegou aos cinco continentes.",
+          "D: as estradas não foram feitas para fugir dos germânicos.",
+          "E: as estradas não serviam à peregrinação católica à Terra Santa."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q002",
+        "correta": "E",
+        "justificativa": "A escrita mesopotâmica surgiu ligada ao comércio, para registros contábeis e contratos, como diz o texto.",
+        "distratores": [
+          "A: o texto diz que as tábuas serviam para contas e contratos.",
+          "B: não havia educação para todas as crianças.",
+          "C: o texto nega o uso para mensagens a lugares remotos.",
+          "D: o texto nega o uso para poesia, e a Antiguidade clássica é posterior."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q021",
+        "correta": "B",
+        "justificativa": "O fogo servia como arma de caça, fonte de calor e meio de cozinhar e, depois, de fundir metais.",
+        "distratores": [
+          "A: a pólvora é muito posterior.",
+          "C: não havia motores na Pré-História.",
+          "D: a sedentarização veio com a agricultura, não com o fogo.",
+          "E: o teatro surgiu na Grécia Antiga."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q005",
+        "correta": "C",
+        "justificativa": "Entre os séculos X e XII surgiram o arado de ferro, a ferradura e novas formas de atrelar os animais.",
+        "distratores": [
+          "A: manufaturas e cercamentos são da Idade Moderna.",
+          "B: trator e colheitadeira são do século XX.",
+          "D: sementes transgênicas são recentes.",
+          "E: a monocultura em larga escala é moderna."
+        ]
+      },
+      {
+        "id": "etec-2017-1-q041",
+        "correta": "E",
+        "justificativa": "A expansão árabe levou à Europa, sobretudo pela Península Ibérica, avanços em álgebra, astronomia e medicina.",
+        "distratores": [
+          "A: os árabes difundiram o árabe, e o Império Romano do Ocidente já tinha acabado.",
+          "B: os árabes não atravessaram o Atlântico.",
+          "C: a expansão é medieval, e bizantinos e francos resistiram a ela.",
+          "D: Roma e Poitiers não foram dominadas pelos árabes."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q040",
+        "correta": "E",
+        "justificativa": "O nome vem do solo fértil dos grandes rios, que favoreceu a agricultura.",
+        "distratores": [
+          "A: o nome não fala de amizade entre povos.",
+          "B: o islã surgiu no século VII, muito depois dessas civilizações.",
+          "C: o nome não se refere à natalidade, e a região não fica na Europa.",
+          "D: não havia culto monoteísta à Lua na região."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q010",
+        "correta": "C",
+        "justificativa": "As frases mostram a discriminação das mulheres, que não participavam da política.",
+        "distratores": [
+          "A: a democracia ateniense excluía as mulheres.",
+          "B: as mulheres não eram consideradas superiores.",
+          "D: os escravizados também não participavam.",
+          "E: as frases desvalorizam a mulher."
+        ]
+      }
+    ],
+    "resumo": [
+      "Século: tire os dois últimos algarismos e some 1 (exceto 00).",
+      "Fontes: escritas, orais, materiais e visuais.",
+      "Fogo: calor, caça, cozimento. Agricultura: sedentarização.",
+      "Sociedades fluviais: Nilo, Tigre e Eufrates. Crescente Fértil = solo fértil.",
+      "Escrita mesopotâmica: comércio e contratos. Papiro: suporte da escrita.",
+      "Grécia: democracia excluía mulheres, escravizados e estrangeiros.",
+      "Roma: estradas, latim, direito; queda em 476.",
+      "Idade Média: feudalismo, Igreja, inovações agrícolas, peste negra.",
+      "Renascimento: humanismo e observação."
+    ]
+  },
+  "expansao-colonizacao-e-escravidao": {
+    "materia": "Matéria 4 · Ciências Humanas · História",
+    "introducao": "É o tópico de História que mais cai: 36 itens em 18 das 23 provas recentes. A ETEC liga o passado colonial ao presente: o açúcar e o etanol, as drogas do sertão e a Amazônia, os quilombos e as comunidades quilombolas de hoje, o culto a Iemanjá, a mandioca e o cravo-da-índia na cozinha. Quem entende a lógica da colônia (produzir para enriquecer a metrópole) acerta quase tudo.",
+    "codigos": [
+      "HI03"
+    ],
+    "raioX": "Os itens pedem: causas e consequências das Grandes Navegações; mercantilismo e pacto colonial; o sistema de plantation; drogas do sertão; bandeiras, tropeiros e a expansão do território; ciclo do ouro e o Barroco mineiro; Brasil holandês; resistência escravizada (quilombos, Palmares); herança africana e indígena. Distratores anacrônicos são a regra: greve de 1917 como resistência escravizada, café na Amazônia, Haiti \"português\".",
+    "intuicao": [
+      "A colônia existia para dar lucro à metrópole: esse é o pacto colonial.",
+      "Plantation = monocultura + latifúndio + trabalho escravizado + exportação.",
+      "As fronteiras do Brasil cresceram para oeste, passando de Tordesilhas, com bandeiras, missões e tropeiros.",
+      "Escravizados resistiram o tempo todo: fugas, quilombos, revoltas, preservação da cultura."
+    ],
+    "teoria": [
+      {
+        "titulo": "Grandes Navegações",
+        "texto": "Nos séculos XV e XVI, Portugal e Espanha foram pioneiros na exploração do Atlântico. Motivos:\n\n• Coroas centralizadas e fortalecidas, aliadas a comerciantes que acumulavam capital.\n• Busca de uma rota marítima para as especiarias, sedas e porcelanas do Oriente, cujo comércio terrestre era controlado por italianos e otomanos.\n• Posição geográfica voltada para o Atlântico e técnicas náuticas: caravela, bússola, astrolábio, cartografia.\n\nMarcos: Colombo chega à América (1492); Tratado de Tordesilhas (1494) divide as terras entre Portugal e Espanha; Vasco da Gama chega à Índia (1498); Cabral chega ao Brasil (1500).\n\nAs navegações ligaram Europa, Ásia, África e América. Especiarias como o cravo-da-índia chegaram ao Brasil por essas rotas portuguesas."
+      },
+      {
+        "titulo": "Mercantilismo e pacto colonial",
+        "texto": "Mercantilismo foi a política econômica das monarquias europeias entre os séculos XV e XVIII:\n\n• acúmulo de metais preciosos (metalismo);\n• balança comercial favorável: exportar mais do que importar;\n• protecionismo e forte intervenção do Estado;\n• colônias como fonte de riqueza.\n\nPelo pacto colonial, a colônia só podia comerciar com a metrópole. Vendia produtos tropicais e metais e comprava manufaturados. O lucro ficava na metrópole."
+      },
+      {
+        "titulo": "Indígenas, pau-brasil e o início da colonização",
+        "texto": "Milhões de indígenas viviam no território antes de 1500. Eles cultivavam a mandioca há milhares de anos, alimento sagrado para muitos povos e base da dieta de colonos, navegadores e escravizados.\n\n• Primeiras décadas: extração do pau-brasil com trabalho indígena trocado por objetos (escambo).\n• A partir de 1530: capitanias hereditárias e, em 1549, Governo-Geral, com Salvador como capital.\n• Jesuítas catequizavam os indígenas em missões (aldeamentos).\n\nO contato trouxe doenças, guerras e escravização, reduzindo drasticamente a população indígena."
+      },
+      {
+        "titulo": "O açúcar e o sistema de plantation",
+        "texto": "A produção de açúcar, sobretudo nos engenhos do Nordeste (Pernambuco e Bahia), foi a base da economia colonial nos séculos XVI e XVII. Seguia o modelo de plantation:\n\n• monocultura;\n• latifúndio;\n• mão de obra escravizada africana;\n• produção voltada para o mercado externo.\n\nO engenho era um mundo: casa-grande, senzala, capela e moenda. O açúcar era vendido à metrópole, que o revendia na Europa com grande lucro. Essas estruturas, terra concentrada e trabalho desvalorizado, marcam a sociedade brasileira até hoje."
+      },
+      {
+        "titulo": "Brasil holandês",
+        "texto": "Entre 1630 e 1654, a Companhia das Índias Ocidentais dominou Pernambuco, interessada no açúcar. O governo de Maurício de Nassau (1637–1644) se destacou por:\n\n• tolerância religiosa (católicos, protestantes e judeus);\n• urbanização do Recife, com pontes, palácios e jardins;\n• vinda de artistas e cientistas, como o pintor Frans Post, que registrou paisagens e o cotidiano.\n\nOs holandeses foram expulsos em 1654 e levaram o açúcar para as Antilhas, que passaram a concorrer com o Brasil."
+      },
+      {
+        "titulo": "Expansão para o interior",
+        "texto": "• Bandeiras (séculos XVII e XVIII): expedições armadas, sobretudo de São Paulo, para escravizar indígenas e buscar metais preciosos. O rio Tietê foi uma via de penetração até Cuiabá (as monções).\n• Missões jesuíticas e expedições de apresamento ajudaram a integrar a Amazônia à colônia portuguesa.\n• Drogas do sertão: especiarias, castanhas, cacau, ervas e frutas da Amazônia, exportadas para a Europa.\n• Pecuária e tropeiros: tropas de mulas e bois levavam mercadorias entre Viamão (RS) e Sorocaba (SP), e os pousos viraram cidades.\n\nEssas ações empurraram o território para além de Tordesilhas. O Tratado de Madri (1750) reconheceu boa parte da ocupação portuguesa pelo princípio do uso da terra."
+      },
+      {
+        "titulo": "O ciclo do ouro",
+        "texto": "No fim do século XVII, bandeirantes encontraram ouro em Minas Gerais. No século XVIII:\n\n• o centro econômico migrou para o Sudeste, e a capital passou de Salvador para o Rio de Janeiro (1763);\n• cresceram cidades como Vila Rica (Ouro Preto), Mariana e Congonhas;\n• a Coroa cobrou pesados impostos, como o quinto;\n• floresceu o Barroco mineiro, com Aleijadinho (profetas de Congonhas) e Mestre Ataíde.\n\nComo a prata de Potosí, o ouro respondia à lógica mercantilista e aumentou a escravização de africanos."
+      },
+      {
+        "titulo": "Tráfico, escravidão e resistência",
+        "texto": "Entre os séculos XVI e XIX, cerca de 5 milhões de africanos foram trazidos à força para o Brasil, o maior destino do tráfico atlântico. Muitos eram povos de língua banto, da África centro-ocidental; outros, iorubás e jejes, da África ocidental.\n\nFormas de resistência:\n\n• fugas e formação de quilombos. Palmares, em Alagoas, durou quase um século (c. 1597–1695) e teve Zumbi como líder;\n• revoltas, como a dos Malês (Salvador, 1835);\n• preservação de religiões, línguas, músicas e saberes.\n\nComunidades quilombolas atuais descendem de quilombos formados por fugitivos e libertos, como as do Vale do Ribeira (SP), que manejam a Mata Atlântica de forma sustentável. O culto a Iemanjá, a capoeira e boa parte da culinária são heranças africanas trazidas pela escravização."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Um elemento do presente (doce com cravo, etanol, quilombola, Iemanjá) e a pergunta sobre sua origem colonial.\n• Mapas de bandeiras e missões, sempre ligados à expansão além de Tordesilhas.\n• Tabelas do tráfico: leia período e destino com calma.\n• Características em trio ou quarteto (monocultura, latifúndio, escravidão, exportação).\n\nElimine primeiro as alternativas fora de época."
+      }
+    ],
+    "armadilha": "Trocar os ciclos e os períodos: café não é colonial, ouro não é do Nordeste, Aleijadinho não é do Império. E confundir quilombo com lugar onde os senhores reuniam escravizados; quilombo era refúgio de quem resistia.",
+    "exemplos": [
+      {
+        "suporte": [
+          "No século XVII, a colônia só podia vender seu açúcar a Portugal e comprar dele os produtos manufaturados."
+        ],
+        "comando": "Essa regra é chamada de",
+        "alternativas": [
+          "liberalismo.",
+          "pacto colonial.",
+          "feudalismo.",
+          "Tratado de Madri.",
+          "abertura dos portos."
+        ],
+        "passos": [
+          "Exclusividade de comércio com a metrópole.",
+          "É o pacto colonial, parte do mercantilismo."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A defende o comércio livre.",
+          "C é a organização medieval europeia.",
+          "D tratou de fronteiras, em 1750.",
+          "E acabou com o pacto, em 1808."
+        ]
+      },
+      {
+        "suporte": [
+          "Um mapa mostra o território brasileiro atual e, sobre ele, a linha de Tordesilhas, que deixa a maior parte do Centro-Oeste e da Amazônia do lado espanhol."
+        ],
+        "comando": "A expansão para oeste deve-se principalmente",
+        "alternativas": [
+          "à compra das terras da Espanha.",
+          "às bandeiras, missões, drogas do sertão e pecuária.",
+          "à vinda da família real em 1808.",
+          "à imigração italiana.",
+          "à construção de ferrovias no período colonial."
+        ],
+        "passos": [
+          "A ocupação efetiva veio do interior: bandeirantes, jesuítas, coletores e tropeiros.",
+          "O Tratado de Madri reconheceu essa ocupação."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: não houve compra.",
+          "C: a expansão é anterior a 1808.",
+          "D: a imigração italiana é do fim do século XIX.",
+          "E: não havia ferrovias na colônia."
+        ]
+      },
+      {
+        "suporte": [
+          "Vila Rica, Mariana e Congonhas cresceram rapidamente no século XVIII e ganharam igrejas barrocas."
+        ],
+        "comando": "Esse crescimento está ligado",
+        "alternativas": [
+          "ao ciclo do açúcar.",
+          "à mineração do ouro.",
+          "à borracha.",
+          "ao café.",
+          "à industrialização."
+        ],
+        "passos": [
+          "Minas Gerais, século XVIII: descoberta do ouro.",
+          "A riqueza financiou igrejas e artistas como Aleijadinho."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o açúcar se concentrou no Nordeste, nos séculos XVI e XVII.",
+          "C: a borracha é amazônica e do fim do século XIX.",
+          "D: o café é do século XIX.",
+          "E: a indústria é do século XX."
+        ]
+      },
+      {
+        "suporte": [
+          "Palmares reuniu milhares de pessoas na Serra da Barriga, em Alagoas, durante quase todo o século XVII."
+        ],
+        "comando": "Palmares foi",
+        "alternativas": [
+          "uma missão jesuítica.",
+          "o maior e mais duradouro quilombo do Brasil.",
+          "um engenho holandês.",
+          "uma vila de bandeirantes.",
+          "uma aldeia indígena isolada."
+        ],
+        "passos": [
+          "Refúgio de africanos e afrodescendentes fugidos da escravidão.",
+          "Resistiu por décadas, liderado por Ganga Zumba e depois Zumbi."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: não era missão religiosa.",
+          "C: os holandeses chegaram a atacar Palmares.",
+          "D: bandeirantes como Domingos Jorge Velho destruíram Palmares.",
+          "E: era quilombo, embora tivesse indígenas entre seus moradores."
+        ]
+      },
+      {
+        "suporte": [
+          "O governo de Maurício de Nassau, em Pernambuco, recebeu católicos, protestantes e judeus."
+        ],
+        "comando": "Essa característica indica",
+        "alternativas": [
+          "intolerância religiosa.",
+          "tolerância religiosa.",
+          "proibição do catolicismo.",
+          "imposição do islã.",
+          "fim da escravidão."
+        ],
+        "passos": [
+          "Diferentes religiões convivendo: tolerância religiosa."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é o oposto.",
+          "C: católicos continuaram praticando sua fé.",
+          "D: não houve imposição do islã.",
+          "E: a escravidão continuou no Brasil holandês."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2025-1-q043",
+        "correta": "C",
+        "justificativa": "A produção açucareira se baseou na monocultura, no latifúndio e na mão de obra escravizada.",
+        "distratores": [
+          "A: não houve diversificação, reforma agrária nem salário.",
+          "B: rotação trienal e feudalismo são medievais e europeus.",
+          "D: agricultura familiar e mão de obra livre não definem o engenho.",
+          "E: produção orgânica e propriedade coletiva não correspondem à colônia."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q034",
+        "correta": "E",
+        "justificativa": "Drogas do sertão eram especiarias e produtos da floresta exportados para o mercado europeu.",
+        "distratores": [
+          "A: não eram entorpecentes sintéticos, e os EUA ainda não existiam.",
+          "B: eram produtos extrativistas, não pecuários.",
+          "C: não eram industrializados.",
+          "D: os maias viviam na América Central e não comerciavam com a Amazônia portuguesa."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q014",
+        "correta": "A",
+        "justificativa": "O cravo-da-índia, especiaria asiática, foi trazido pelos portugueses nas rotas das Grandes Navegações.",
+        "distratores": [
+          "B: o cravo é asiático, não veio por trilhas incas.",
+          "C: a cultura de Clóvis é pré-histórica e americana.",
+          "D: o cravo-da-índia é asiático, não africano.",
+          "E: não é especiaria italiana e já estava aqui desde a colônia."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q012",
+        "correta": "C",
+        "justificativa": "O mapa mostra que missões jesuíticas e expedições de apresamento de indígenas integraram a Amazônia à colônia portuguesa.",
+        "distratores": [
+          "A: as missões não garantiram a Amazônia à Espanha.",
+          "B: a Amazônia não estava despovoada; tinha indígenas e missões.",
+          "D: as expedições partiram da colônia portuguesa, não da Amazônia espanhola.",
+          "E: pelo Tratado de Tordesilhas, a maior parte da Amazônia cabia à Espanha."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q033",
+        "correta": "E",
+        "justificativa": "O culto a Iemanjá chegou ao Brasil com os africanos escravizados trazidos pelo tráfico atlântico.",
+        "distratores": [
+          "A: não houve migração de milhares de brasileiros à África no século XVI.",
+          "B: o oceano não impediu os contatos; o tráfico os intensificou.",
+          "C: a intolerância não explica a presença do culto.",
+          "D: Iemanjá é divindade, não governante."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q019",
+        "correta": "E",
+        "justificativa": "Entre as consequências das Grandes Navegações estão o Tratado de Tordesilhas (1494) e a chegada dos portugueses ao Brasil (1500).",
+        "distratores": [
+          "A: a Espanha não dominou sozinha os dois oceanos.",
+          "B: a Antártida não foi colonizada, e a Oceania era habitada.",
+          "C: o Tratado de Madri é de 1750 e tratou da América do Sul.",
+          "D: a Guerra dos Cem Anos é anterior (1337–1453)."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q045",
+        "correta": "E",
+        "justificativa": "Os quilombos, comunidades de escravizados fugidos, foram uma forma central de resistência.",
+        "distratores": [
+          "A: a Greve Geral de 1917 foi de operários, depois da abolição.",
+          "B: Mandela não tem relação com a escravidão brasileira, e foi preso nos anos 1960.",
+          "C: não havia fazendas de café na Amazônia.",
+          "D: o Haiti era colônia francesa e virou república."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q035",
+        "correta": "C",
+        "justificativa": "As bandeiras levaram a ocupação portuguesa além da linha de Tordesilhas.",
+        "distratores": [
+          "A: os bandeirantes ultrapassaram Tordesilhas.",
+          "B: as bandeiras partiam de São Paulo.",
+          "D: as principais rotas partiam de São Paulo, não de Olinda e Recife.",
+          "E: as fronteiras atuais só se fixaram no início do século XX."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q013",
+        "correta": "C",
+        "justificativa": "Plantation: monocultura, mercado externo, latifúndio e mão de obra escravizada.",
+        "distratores": [
+          "A descreve a agricultura familiar de subsistência.",
+          "B: o açúcar não era extrativismo nem para o mercado interno.",
+          "D: a mão de obra era escravizada e a produção, monocultora.",
+          "E: não era mecanizada nem voltada ao mercado interno."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q028",
+        "correta": "D",
+        "justificativa": "Palmares, em Alagoas, foi o quilombo mais duradouro da história do Brasil.",
+        "distratores": [
+          "A: Tiradentes e a Inconfidência são de Minas, no fim do século XVIII.",
+          "B: a Constituição de 1988 não tem relação com Palmares.",
+          "C: o Carandiru é do século XX.",
+          "E: as reformas de Pereira Passos são do início do século XX, no Rio de Janeiro."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q044",
+        "correta": "E",
+        "justificativa": "O acúmulo de ouro e prata fazia parte do mercantilismo, política econômica das monarquias europeias.",
+        "distratores": [
+          "A: o materialismo descrito não é política econômica e contradiz a busca de metais.",
+          "B: autoritarismo é forma de governo, não política econômica.",
+          "C: maniqueísmo é uma visão religiosa dualista.",
+          "D: o liberalismo é posterior e defende o livre mercado."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q033",
+        "correta": "A",
+        "justificativa": "O Tietê foi via de penetração no interior, permitindo chegar até Cuiabá nas monções dos séculos XVIII e XIX.",
+        "distratores": [
+          "B: Tordesilhas era uma linha imaginária, não o rio.",
+          "C: os indígenas não ficaram isolados do colonizador.",
+          "D: a colonização começa no século XVI, não no XIV.",
+          "E: São Paulo foi fundada em 1554, não no século XIX."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q018",
+        "correta": "D",
+        "justificativa": "As comunidades quilombolas se formaram na escravidão, fundadas por africanos e afro-brasileiros fugidos ou libertos.",
+        "distratores": [
+          "A: há comunidades quilombolas em todo o Brasil, e quilombolas não são indígenas.",
+          "B: escravizados não compravam terras livremente.",
+          "C: quilombos eram refúgios, não depósitos de trabalhadores.",
+          "E: o texto diz que elas manejam bem o solo e não têm latifúndios."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q033",
+        "correta": "C",
+        "justificativa": "A rota Viamão–Sorocaba era percorrida por tropeiros com mulas, cavalos e bois, que transportavam mercadorias.",
+        "distratores": [
+          "A: a rota não vinha do Pantanal.",
+          "B: bandeirantes buscavam indígenas e metais, não comércio de tropas.",
+          "D: o transporte não era de ouro e pedras.",
+          "E: a rota era terrestre."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q026",
+        "correta": "C",
+        "justificativa": "As caravelas marcaram as expedições portuguesas e espanholas da Idade Moderna.",
+        "distratores": [
+          "A: as migrações bárbaras são da Antiguidade tardia.",
+          "B: Alexandre é da Antiguidade.",
+          "D: a Segunda Revolução Industrial usou navios a vapor.",
+          "E: a expansão romana é antiga."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q044",
+        "correta": "A",
+        "justificativa": "Aleijadinho viveu no período colonial, durante o ciclo do ouro em Minas Gerais.",
+        "distratores": [
+          "B: o pau-brasil é do início do século XVI.",
+          "C: o Primeiro Reinado começa em 1822, e o açúcar é nordestino.",
+          "D: o Segundo Reinado e o café são do século XIX.",
+          "E: a borracha é do fim do século XIX."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q013",
+        "correta": "A",
+        "justificativa": "Pelo pacto colonial, o açúcar dava lucro à metrópole.",
+        "distratores": [
+          "B: o trabalho era escravizado.",
+          "C: o principal produto era o açúcar.",
+          "D: o açúcar ia para Portugal, que o revendia.",
+          "E: a produção era para exportação."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q025",
+        "correta": "D",
+        "justificativa": "As viagens fortaleceram as Coroas ibéricas pelo acúmulo de capital comercial.",
+        "distratores": [
+          "A: as navegações enfraquecem a ordem feudal.",
+          "B: a Reforma é de 1517 e não explica as viagens.",
+          "C: os otomanos dificultavam o comércio com o Oriente.",
+          "E: não houve disputa entre Itália e Portugal pelo trono espanhol."
+        ]
+      }
+    ],
+    "resumo": [
+      "Navegações: Coroas fortes, comércio, técnica. Tordesilhas 1494; Cabral 1500.",
+      "Mercantilismo: metais, balança favorável, colônias. Pacto colonial.",
+      "Plantation: monocultura, latifúndio, escravidão, exportação.",
+      "Nassau: tolerância religiosa e Recife urbanizado.",
+      "Bandeiras, missões, drogas do sertão e tropeiros: além de Tordesilhas.",
+      "Ouro: Minas, século XVIII, Barroco e Aleijadinho.",
+      "Resistência: quilombos (Palmares), revoltas, cultura."
+    ]
+  },
+  "revolucoes-independencias-e-imperio": {
+    "materia": "Matéria 4 · Ciências Humanas · História",
+    "introducao": "Entre os séculos XVIII e XIX, o mundo mudou de base: das monarquias absolutas para os governos constitucionais, da manufatura para a fábrica, da colônia para os Estados independentes. A ETEC cobra esse período pelos seus efeitos: Montesquieu e a separação dos poderes, o navio a vapor e o comércio mundial, o fordismo, o imperialismo na África, a família real no Rio, a Cabanagem, o café e os imigrantes.",
+    "codigos": [
+      "HI04",
+      "HI05"
+    ],
+    "raioX": "Os itens pedem: ideias do Iluminismo e suas consequências; características das revoluções industriais, do fordismo e do imperialismo; impactos ambientais da industrialização; vinda da família real; revoltas regenciais; café, ferrovias e imigração; escravidão urbana no Império. Os distratores trocam a Primeira pela Segunda Revolução Industrial ou põem conceitos do século XX (Guerra Fria, nazismo, ditadura) no século XIX.",
+    "intuicao": [
+      "Iluminismo = razão contra absolutismo. Dele saem a separação dos poderes, a independência dos EUA e a Revolução Francesa.",
+      "Primeira Revolução Industrial: carvão, vapor, tecidos, Inglaterra. Segunda: eletricidade, petróleo, aço, linha de montagem.",
+      "Imperialismo do século XIX: indústria precisa de matéria-prima e mercado; teorias raciais serviram de desculpa.",
+      "No Império, o Brasil mudou o regime, mas manteve a escravidão até 1888."
+    ],
+    "teoria": [
+      {
+        "titulo": "Iluminismo",
+        "texto": "O século XVIII foi chamado de Século das Luzes: a razão iluminaria as \"trevas\" da ignorância, associadas ao absolutismo e ao poder da Igreja.\n\n• Montesquieu: separação dos poderes em Executivo, Legislativo e Judiciário, para evitar a concentração de poder e os abusos e proteger as liberdades.\n• Locke: direitos naturais à vida, à liberdade e à propriedade.\n• Rousseau: soberania popular, contrato social.\n• Voltaire: tolerância religiosa e liberdade de expressão.\n\nConsequências diretas: independência dos Estados Unidos (1776), Revolução Francesa (1789) e as independências da América Latina, além de movimentos como a Inconfidência Mineira (1789)."
+      },
+      {
+        "titulo": "Revolução Francesa e Napoleão",
+        "texto": "• 1789: o Terceiro Estado (burguesia, trabalhadores urbanos e camponeses) enfrenta o absolutismo de Luís XVI. Tomada da Bastilha e Declaração dos Direitos do Homem e do Cidadão. Lema: liberdade, igualdade e fraternidade.\n• Fases: monarquia constitucional, república radical (jacobinos de Robespierre), Diretório.\n• Napoleão (1799–1815) espalhou o Código Civil e decretou o Bloqueio Continental (1806) contra a Inglaterra. Portugal não aderiu e foi invadido, o que trouxe a família real ao Brasil."
+      },
+      {
+        "titulo": "Primeira Revolução Industrial",
+        "texto": "Começou na Inglaterra, por volta de 1760. Motivos: capital acumulado no comércio colonial, carvão e ferro, mão de obra expulsa do campo pelos cercamentos.\n\n• Máquina a vapor, carvão, indústria têxtil.\n• Fábricas, divisão do trabalho, jornadas de até 16 horas, trabalho infantil.\n• Operários reagem: ludismo (quebra de máquinas), cartismo, sindicatos.\n• Impactos ambientais: derrubada de florestas, mineração de carvão, fuligem no ar e esgoto e resíduos nos rios. Em Manchester, a fuligem escureceu os troncos e as mariposas negras passaram a predominar."
+      },
+      {
+        "titulo": "Segunda Revolução Industrial e fordismo",
+        "texto": "A partir do fim do século XIX, em vários países (EUA, Alemanha, França, Japão):\n\n• eletricidade, petróleo, motor a combustão, aço, química;\n• ferrovias e navios a vapor diminuíram o tempo e o custo do transporte e integraram mercados de todo o planeta;\n• fordismo: linha de montagem com esteiras rolantes, produção em massa, trabalhador especializado em uma etapa só, inspirado na administração científica de Taylor.\n\nA informatização e os robôs são da Terceira Revolução Industrial, a partir de meados do século XX."
+      },
+      {
+        "titulo": "Imperialismo ou neocolonialismo",
+        "texto": "No século XIX, as potências industrializadas da Europa dominaram a África e a Ásia em busca de matérias-primas, mercados consumidores e áreas para investir.\n\n• Conferência de Berlim (1884–1885): as potências europeias resolveram seus conflitos e dividiram a África entre si, sem consultar os africanos.\n• Justificativas ideológicas: teorias raciais como o racismo científico e o darwinismo social, e a ideia de uma \"missão civilizadora\".\n• A exploração das colônias financiou a prosperidade da Belle Époque europeia e alimentou as rivalidades que levaram à Primeira Guerra Mundial."
+      },
+      {
+        "titulo": "A família real e a independência",
+        "texto": "• 1808: fugindo de Napoleão, a corte portuguesa chega ao Brasil. Dom João abre os portos às nações amigas, fim do pacto colonial.\n• O Rio de Janeiro se moderniza: Banco do Brasil, Imprensa Régia, Biblioteca, Jardim Botânico, ruas e chafarizes. A população dobra e chegam profissionais europeus. A escravidão, porém, continua: escravizados carregam cargas e pessoas pelas ruas.\n• 1815: Reino Unido a Portugal e Algarves.\n• 1822: Dom Pedro proclama a independência. O Brasil vira monarquia e mantém a escravidão e o latifúndio."
+      },
+      {
+        "titulo": "Primeiro Reinado e Regência",
+        "texto": "• Primeiro Reinado (1822–1831): Constituição de 1824, com o Poder Moderador do imperador e voto censitário (por renda). Dom Pedro I abdica em 1831.\n• Período Regencial (1831–1840): o herdeiro era criança, e regentes governaram. Explodiram revoltas provinciais:\n\n• Cabanagem (Grão-Pará, 1835–1840): pobres, indígenas e escravizados por melhores condições de vida, unidos a grupos locais que queriam poder político;\n• Farroupilha (Rio Grande do Sul, 1835–1845): estancieiros contra impostos sobre o charque;\n• Sabinada (Bahia) e Balaiada (Maranhão);\n• Revolta dos Malês (Salvador, 1835): africanos muçulmanos escravizados.\n\nEm 1840, o Golpe da Maioridade antecipou a coroação de Dom Pedro II."
+      },
+      {
+        "titulo": "Segundo Reinado: café, imigração e abolição",
+        "texto": "• O café, cultivado no Vale do Paraíba e depois no Oeste Paulista, tornou-se o principal produto de exportação.\n• As primeiras ferrovias de São Paulo (como a São Paulo Railway, 1867) levavam o café ao porto de Santos.\n• Guerra do Paraguai (1864–1870).\n• Leis abolicionistas graduais: Eusébio de Queirós (fim do tráfico, 1850), Ventre Livre (1871), Sexagenários (1885) e Lei Áurea (13 de maio de 1888).\n• Imigrantes, sobretudo italianos, vieram trabalhar como assalariados no café e depois foram para as cidades, como operários e artesãos.\n\nPinturas de Debret mostram o cotidiano: escravizados carregando senhores em liteiras e cadeirinhas, sinal de uma sociedade que usava a força física de pessoas negras para o conforto da elite."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Trecho de filósofo (Montesquieu) e pergunta sobre o objetivo da ideia.\n• Inovação técnica e seu efeito econômico ou ambiental.\n• Imagem do século XIX (Debret) e a estrutura social que ela revela.\n• Revolta e suas reivindicações.\n\nDesconfie de alternativas que misturam séculos: eleições diretas e ditadura militar são do século XX; oito horas de jornada e férias, também."
+      }
+    ],
+    "armadilha": "Atribuir à Primeira Revolução Industrial o que é da Segunda (linha de montagem, eletricidade) ou da Terceira (robôs, informática). No Brasil, achar que a independência ou a chegada da corte acabaram com a escravidão.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Num país, o presidente governa, o parlamento faz as leis e os tribunais julgam, cada um fiscalizando os outros."
+        ],
+        "comando": "Esse modelo se inspira em",
+        "alternativas": [
+          "Maquiavel.",
+          "Montesquieu.",
+          "Luís XIV.",
+          "Karl Marx.",
+          "Napoleão."
+        ],
+        "passos": [
+          "Três poderes separados e equilibrados.",
+          "É a teoria de Montesquieu, de O espírito das leis."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A escreveu sobre como o príncipe conserva o poder.",
+          "C foi símbolo do absolutismo.",
+          "D criticou o capitalismo, no século XIX.",
+          "E concentrou poder como imperador."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma fábrica de 1910 instala esteiras rolantes: cada operário aperta sempre os mesmos parafusos."
+        ],
+        "comando": "Esse modelo de produção é",
+        "alternativas": [
+          "o artesanato.",
+          "o fordismo.",
+          "o toyotismo.",
+          "a manufatura doméstica.",
+          "a automação robótica."
+        ],
+        "passos": [
+          "Linha de montagem e tarefa repetitiva.",
+          "É o fordismo, da Segunda Revolução Industrial."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o artesão faz o produto inteiro.",
+          "C é posterior e flexível, japonês.",
+          "D é anterior às fábricas.",
+          "E é da Terceira Revolução Industrial."
+        ]
+      },
+      {
+        "suporte": [
+          "Em 1808, Dom João decretou a abertura dos portos do Brasil às nações amigas."
+        ],
+        "comando": "A medida significou",
+        "alternativas": [
+          "a independência do Brasil.",
+          "o fim do pacto colonial.",
+          "a abolição da escravidão.",
+          "o início do ciclo do ouro.",
+          "a proclamação da República."
+        ],
+        "passos": [
+          "A colônia passou a comerciar com outros países, não só com Portugal.",
+          "Acabou o monopólio da metrópole."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A ocorreu em 1822.",
+          "C ocorreu em 1888.",
+          "D é do século XVIII.",
+          "E ocorreu em 1889."
+        ]
+      },
+      {
+        "suporte": [
+          "Entre 1831 e 1840, várias províncias se rebelaram contra o governo central."
+        ],
+        "comando": "Esse período é o",
+        "alternativas": [
+          "Primeiro Reinado.",
+          "Período Regencial.",
+          "Segundo Reinado.",
+          "Período Colonial.",
+          "Estado Novo."
+        ],
+        "passos": [
+          "Dom Pedro I abdicou em 1831; Dom Pedro II era criança.",
+          "Regentes governaram até o Golpe da Maioridade, em 1840."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A termina em 1831.",
+          "C começa em 1840.",
+          "D terminou em 1822.",
+          "E é de 1937 a 1945."
+        ]
+      },
+      {
+        "suporte": [
+          "Em 1885, a Conferência de Berlim dividiu a África entre países europeus."
+        ],
+        "comando": "Esse fato faz parte",
+        "alternativas": [
+          "das Grandes Navegações.",
+          "do imperialismo do século XIX.",
+          "da Guerra Fria.",
+          "da Reforma Protestante.",
+          "da descolonização africana."
+        ],
+        "passos": [
+          "Potências industriais disputavam matérias-primas e mercados.",
+          "Partilha da África: imperialismo."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é dos séculos XV e XVI.",
+          "C é do século XX.",
+          "D é do século XVI.",
+          "E é o processo inverso, no século XX."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q006",
+        "correta": "B",
+        "justificativa": "Debret retrata escravizados carregando pessoas: a força física de negros escravizados servia ao conforto e à distinção da elite.",
+        "distratores": [
+          "A: os carregadores eram escravizados, sem privilégios legais.",
+          "C: a cena mostra hierarquia, não convivência igualitária.",
+          "D: o transporte era braçal, não mecanizado.",
+          "E: os grupos dominantes dependiam do trabalho escravizado."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q032",
+        "correta": "C",
+        "justificativa": "O imperialismo usou teorias raciais do século XIX, como o racismo científico e o darwinismo social, para justificar a dominação.",
+        "distratores": [
+          "A: a crise de 2008 é do século XXI.",
+          "B: a Guerra Fria é do século XX.",
+          "D: as monarquias nacionais e a Guerra dos Cem Anos são medievais.",
+          "E: a crise climática atual não tem relação com o imperialismo do século XIX."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q047",
+        "correta": "B",
+        "justificativa": "A Cabanagem juntou reivindicações populares por sobrevivência com o desejo de poder de grupos locais.",
+        "distratores": [
+          "A descreve as revoltas contra o fisco no ciclo do ouro.",
+          "C mistura independência com ideias renascentistas, e a Cabanagem é posterior a 1822.",
+          "D refere-se às Diretas Já, de 1984.",
+          "E traz demandas operárias do século XX."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q039",
+        "correta": "D",
+        "justificativa": "O mapa retrata o desembarque aliado na Normandia, em 1944, durante a Segunda Guerra Mundial.",
+        "distratores": [
+          "A: o Bloqueio Continental foi uma medida comercial napoleônica.",
+          "B: a Guerra da Argélia ocorreu no norte da África.",
+          "C: a Revolução Francesa não envolveu desembarque no litoral.",
+          "E: a Guerra Franco-Prussiana foi terrestre, no leste da França."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q030",
+        "correta": "B",
+        "justificativa": "O navio a vapor encurtou o transporte, barateou o frete e ampliou os mercados ao ligar partes distantes do globo.",
+        "distratores": [
+          "A: houve urbanização, não ruralização.",
+          "C: a indústria se concentrou nos países centrais.",
+          "D: operários não eram escravizados, e férias não eram comuns.",
+          "E: a Inglaterra não abandonou a produção têxtil."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q046",
+        "correta": "E",
+        "justificativa": "A chegada da corte modernizou o Rio e atraiu profissionais europeus, mas a escravidão continuou.",
+        "distratores": [
+          "A: a abolição só veio em 1888.",
+          "B: houve muitas obras públicas.",
+          "C: a população da capital dobrou.",
+          "D: a industrialização de São Paulo é do fim do século XIX e do século XX."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q012",
+        "correta": "D",
+        "justificativa": "O fordismo tinha linha de montagem com esteiras rolantes e trabalhador especializado em uma etapa.",
+        "distratores": [
+          "A: robôs e informática são da Terceira Revolução Industrial.",
+          "B: o fordismo não reduziu a jornada para incentivar o ócio.",
+          "C: produção artesanal e escravidão não são fordismo.",
+          "E: o fordista não conhecia todas as etapas, e as fábricas não buscavam países pobres."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q035",
+        "correta": "B",
+        "justificativa": "A Conferência de Berlim resolveu os conflitos entre potências europeias pela partilha da África.",
+        "distratores": [
+          "A: Portugal não recebeu toda a faixa entre Angola e Moçambique.",
+          "C: Lutero viveu no século XVI.",
+          "D: o nazismo é do século XX.",
+          "E: países sul-americanos não eram o alvo da conferência."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q035",
+        "correta": "C",
+        "justificativa": "A separação dos poderes evita a concentração e os abusos dos governantes e protege as liberdades individuais.",
+        "distratores": [
+          "A: Montesquieu criticava o absolutismo.",
+          "B: a teoria não busca enfraquecer o Judiciário.",
+          "D: não visa fortalecer o Executivo nem isentar impostos.",
+          "E: a teoria organiza o governo, não o elimina."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q017",
+        "correta": "E",
+        "justificativa": "A industrialização derrubou florestas, minerou carvão e lançou esgoto e resíduos industriais nos rios.",
+        "distratores": [
+          "A: as emissões aumentaram.",
+          "B: as máquinas usavam carvão, não animais.",
+          "C: milho e cana não definem a Revolução Industrial inglesa.",
+          "D: os \"desertos verdes\" de eucalipto são do século XX."
+        ]
+      },
+      {
+        "id": "etec-2016-2-q032",
+        "correta": "A",
+        "justificativa": "Os ideais iluministas inspiraram as independências das colônias europeias na América.",
+        "distratores": [
+          "B: as navegações são dos séculos XV e XVI.",
+          "C: a escravização contradiz os ideais de liberdade e é anterior.",
+          "D: o Iluminismo criticava o absolutismo.",
+          "E: o Iluminismo combatia o poder religioso no Estado."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q044",
+        "correta": "E",
+        "justificativa": "A prosperidade europeia da Belle Époque se apoiava na exploração das colônias pelo imperialismo.",
+        "distratores": [
+          "A: não houve guerras com países americanos como base da prosperidade.",
+          "B: a rivalidade com os EUA não explica a prosperidade.",
+          "C: as condições nas fábricas eram duras.",
+          "D: a Europa não dependia de empréstimos japoneses."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q017",
+        "correta": "C",
+        "justificativa": "As primeiras ferrovias paulistas surgiram no Império, para levar o café ao porto de Santos.",
+        "distratores": [
+          "A: não havia ferrovias na colônia.",
+          "B: a Regência terminou em 1840, antes da Guerra do Paraguai.",
+          "D: as ferrovias são anteriores a Vargas.",
+          "E: as primeiras ferrovias são anteriores ao regime militar."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q010",
+        "correta": "C",
+        "justificativa": "O imigrante italiano foi importante nas lavouras de café e nas indústrias e oficinas das cidades.",
+        "distratores": [
+          "A: a queima de café foi na crise de 1929, não por causa dos imigrantes.",
+          "B: a imigração é anterior à Segunda Guerra.",
+          "D: os italianos trabalharam no café e substituíram os escravizados.",
+          "E: o governo Vargas é posterior ao grande fluxo de imigrantes."
+        ]
+      }
+    ],
+    "resumo": [
+      "Iluminismo: razão; Montesquieu e os três poderes.",
+      "Revolução Francesa (1789): fim do absolutismo; Napoleão e o Bloqueio Continental.",
+      "1ª Revolução Industrial: vapor, carvão, tecidos, Inglaterra.",
+      "2ª: eletricidade, petróleo, aço, fordismo.",
+      "Imperialismo: partilha da África (Berlim) e teorias raciais.",
+      "1808 corte no Rio; 1822 independência; escravidão mantida.",
+      "Regência: Cabanagem, Farroupilha, Malês.",
+      "Segundo Reinado: café, ferrovias, imigrantes, Lei Áurea (1888)."
+    ]
+  },
+  "republicas-e-mundo-contemporaneo": {
+    "materia": "Matéria 4 · Ciências Humanas · História",
+    "introducao": "O último capítulo de História vai da Proclamação da República aos dias de hoje, no Brasil e no mundo. A ETEC usa fatos marcantes como porta de entrada: a cadela Laika, Hiroshima, Anne Frank, Gandhi, a Transamazônica, a Petrobras, a Revolução dos Cravos. O segredo é localizar o fato no tempo e reconhecer o período: Primeira Guerra, entreguerras, Segunda Guerra, Guerra Fria, Era Vargas, ditadura, redemocratização.",
+    "codigos": [
+      "HI06",
+      "HI07"
+    ],
+    "raioX": "Os itens pedem: características da Primeira República, da Era Vargas e da ditadura civil-militar; ciclo da borracha e imigração japonesa; Tratado de Versalhes, crise de 1929, Segunda Guerra e Holocausto, bomba atômica, ONU e direitos humanos, Guerra Fria, descolonização. Os distratores trocam guerras de lugar no tempo (Guerra Fria antes da ONU, Versalhes depois de 1945) ou misturam ditadores e países.",
+    "intuicao": [
+      "Primeira Guerra termina com Versalhes (1919); Segunda Guerra termina com a ONU (1945).",
+      "Guerra Fria (1947–1991) é disputa EUA × URSS sem guerra direta entre eles: corrida espacial, armamentista e guerras indiretas.",
+      "Era Vargas = Estado forte que industrializa e cria leis trabalhistas.",
+      "Ditadura civil-militar (1964–1985): obras gigantes, censura, repressão, fim com as Diretas Já e a Constituição de 1988."
+    ],
+    "teoria": [
+      {
+        "titulo": "Primeira República (1889–1930)",
+        "texto": "• 1889: Proclamação da República; Constituição de 1891 com voto aberto, só para homens alfabetizados.\n• República Oligárquica ou do Café com Leite: São Paulo e Minas Gerais se alternavam na presidência; coronelismo e voto de cabresto.\n• Ciclo da borracha (c. 1879–1912): a demanda mundial por pneus atraiu à Amazônia nordestinos fugidos da grande seca de 1877–1879. Manaus e Belém enriqueceram.\n• Acre: comprado da Bolívia pelo Tratado de Petrópolis (1903).\n• Imigração: em 1908, o Kasato Maru trouxe os primeiros japoneses para as fazendas de café de São Paulo.\n• Revoltas: Canudos, Contestado, Revolta da Vacina, Greve Geral de 1917.\n• Tenentismo: jovens oficiais contra as oligarquias; a Coluna Prestes (1925–1927) percorreu o interior do país."
+      },
+      {
+        "titulo": "Era Vargas (1930–1945)",
+        "texto": "A Revolução de 1930 levou Getúlio Vargas ao poder.\n\n• Constituição de 1934: voto secreto, voto feminino, salário mínimo previsto, riquezas do subsolo como patrimônio nacional.\n• Estado Novo (1937–1945): ditadura, censura, centralização.\n• O Estado conduziu a industrialização: CLT (1943), Companhia Siderúrgica Nacional e, no segundo governo, a Petrobras (1953), com o monopólio do petróleo.\n\nVargas voltou eleito em 1951 e governou até 1954."
+      },
+      {
+        "titulo": "Da democracia à ditadura e de volta",
+        "texto": "• 1945–1964: período democrático. Juscelino Kubitschek abriu o país ao capital estrangeiro, trouxe a indústria automobilística e construiu Brasília (1960).\n• 1964–1985: ditadura civil-militar. Atos Institucionais (o AI-5, de 1968, o mais duro), censura, tortura e exílio. \"Milagre econômico\" e grandes obras, como a Transamazônica, inaugurada no governo Médici, com a ideia de integrar o Norte e \"vencer\" a floresta.\n• Redemocratização: Anistia (1979), Diretas Já (1984), Constituição Cidadã de 1988, eleição direta para presidente em 1989."
+      },
+      {
+        "titulo": "Primeira Guerra Mundial e entreguerras",
+        "texto": "• Primeira Guerra (1914–1918): disputas imperialistas e nacionalismos. Tríplice Entente contra Tríplice Aliança.\n• Tratado de Versalhes (1919): a Alemanha foi responsabilizada pela guerra, perdeu colônias e territórios, foi desmilitarizada e obrigada a pagar indenização altíssima. Isso agravou sua crise e alimentou ressentimentos.\n• Revolução Russa (1917): nasce o primeiro Estado socialista, a futura URSS.\n• Crise de 1929: superprodução nos EUA, queda das exportações para a Europa e quebra da Bolsa de Nova York. Falências e desemprego se espalharam pelo mundo; no Brasil, o café despencou.\n• Totalitarismos: fascismo na Itália (Mussolini), nazismo na Alemanha (Hitler), salazarismo em Portugal e franquismo na Espanha."
+      },
+      {
+        "titulo": "Segunda Guerra Mundial (1939–1945)",
+        "texto": "• Começou com a invasão da Polônia pela Alemanha. Eixo (Alemanha, Itália, Japão) contra Aliados (Reino Unido, França, URSS, EUA).\n• Holocausto: o regime nazista exterminou cerca de 6 milhões de judeus, além de ciganos, homossexuais, deficientes e opositores. O diário de Anne Frank é um dos testemunhos mais lidos.\n• Dia D: desembarque aliado na Normandia (6 de junho de 1944).\n• A Alemanha se rendeu em maio de 1945. Em agosto, os EUA lançaram bombas atômicas sobre Hiroshima e Nagasaki, e o Japão se rendeu. Os sobreviventes sofreram com a radiação por décadas.\n• O Brasil participou com a Força Expedicionária Brasileira, na Itália."
+      },
+      {
+        "titulo": "ONU e direitos humanos",
+        "texto": "Em 1945, foi criada a Organização das Nações Unidas, para preservar as gerações futuras dos males da guerra, que por duas vezes trouxera sofrimentos à humanidade.\n\n• A Declaração Universal dos Direitos Humanos (1948) reúne muitos desses propósitos: dignidade humana, igualdade entre homens e mulheres, liberdade.\n• A ONU não impediu as guerras mundiais, porque é posterior a elas; foi criada justamente depois."
+      },
+      {
+        "titulo": "Guerra Fria (1947–1991)",
+        "texto": "Disputa entre EUA (capitalismo) e URSS (socialismo) por áreas de influência, sem confronto militar direto entre as duas superpotências.\n\n• Corrida armamentista e nuclear.\n• Corrida espacial: Sputnik (1957), a cadela Laika no Sputnik 2, Yuri Gagarin (1961), chegada à Lua (1969).\n• Guerras indiretas: Coreia (1950–1953) e Vietnã (1955–1975), que gerou campanhas pacifistas como a de John Lennon e Yoko Ono.\n• Muro de Berlim (1961–1989) e ditaduras na América Latina.\n• Fim: queda do muro (1989) e dissolução da URSS (1991).\n\nNo capitalismo, os preços se formam pela lei da oferta e da procura; no socialismo soviético, a economia era planificada pelo Estado."
+      },
+      {
+        "titulo": "Descolonização e o mundo atual",
+        "texto": "• Índia: Gandhi liderou a resistência não violenta contra o domínio britânico. Na Marcha do Sal (1930), os indianos produziram o próprio sal para não pagar o imposto inglês. A independência veio em 1947.\n• África: a maioria das colônias se tornou independente entre 1950 e 1975. A Revolução dos Cravos (1974), que derrubou a ditadura salazarista em Portugal, acelerou a independência de Angola, Moçambique, Cabo Verde e Guiné-Bissau em 1975.\n• Zoológicos com animais exóticos expostos na Europa do século XIX eram um símbolo do neocolonialismo: o poder sobre as terras distantes.\n• Pós-Guerra Fria: globalização, internet e novas tecnologias, que mudaram até o cinema, com a migração do público para streaming e televisão."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Um fato curioso (Laika, Hiroshima, Kasato Maru) e a pergunta sobre o período.\n• Trecho de documento (Versalhes, Carta da ONU) e o contexto.\n• Características de governos brasileiros.\n\nMonte uma linha do tempo mental: 1889, 1914–1918, 1929, 1930, 1937, 1939–1945, 1964, 1985, 1988, 1991. A maioria dos distratores cai fora dela."
+      }
+    ],
+    "armadilha": "Pôr a Guerra Fria antes de 1945, o Tratado de Versalhes depois da Segunda Guerra ou a ONU antes das guerras mundiais. E confundir Salazar (Portugal) com Franco (Espanha).",
+    "exemplos": [
+      {
+        "suporte": [
+          "Em 1943, foi aprovada a Consolidação das Leis do Trabalho (CLT), que reuniu direitos como férias e jornada de oito horas."
+        ],
+        "comando": "O Brasil era governado por",
+        "alternativas": [
+          "Dom Pedro II.",
+          "Getúlio Vargas, no Estado Novo.",
+          "Juscelino Kubitschek.",
+          "um general da ditadura.",
+          "Fernando Henrique Cardoso."
+        ],
+        "passos": [
+          "1943 está entre 1937 e 1945.",
+          "Esse período é o Estado Novo de Vargas."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A governou até 1889.",
+          "C governou de 1956 a 1961.",
+          "D: a ditadura militar começou em 1964.",
+          "E governou nos anos 1990."
+        ]
+      },
+      {
+        "suporte": [
+          "Em 1962, os EUA descobriram mísseis soviéticos em Cuba, e o mundo temeu uma guerra nuclear."
+        ],
+        "comando": "O episódio faz parte",
+        "alternativas": [
+          "da Primeira Guerra Mundial.",
+          "da Guerra Fria.",
+          "da Segunda Guerra Mundial.",
+          "da crise de 1929.",
+          "das Grandes Navegações."
+        ],
+        "passos": [
+          "EUA × URSS, ameaça nuclear, década de 1960.",
+          "É a Crise dos Mísseis, na Guerra Fria."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A terminou em 1918.",
+          "C terminou em 1945.",
+          "D é crise econômica.",
+          "E é dos séculos XV e XVI."
+        ]
+      },
+      {
+        "suporte": [
+          "Em 1919, a Alemanha perdeu colônias, teve o exército reduzido e foi obrigada a pagar grandes indenizações."
+        ],
+        "comando": "Essas imposições vieram",
+        "alternativas": [
+          "do Tratado de Tordesilhas.",
+          "do Tratado de Versalhes, após a Primeira Guerra.",
+          "da Carta da ONU.",
+          "da Conferência de Berlim.",
+          "do Plano Marshall."
+        ],
+        "passos": [
+          "1919: fim da Primeira Guerra.",
+          "O acordo de paz com a Alemanha foi o Tratado de Versalhes."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é de 1494.",
+          "C é de 1945.",
+          "D é de 1884–1885.",
+          "E é ajuda americana após 1947."
+        ]
+      },
+      {
+        "suporte": [
+          "A Constituição de 1988 ficou conhecida como Constituição Cidadã."
+        ],
+        "comando": "Ela marcou",
+        "alternativas": [
+          "o início da ditadura militar.",
+          "a redemocratização após a ditadura civil-militar.",
+          "a Proclamação da República.",
+          "o Estado Novo.",
+          "a independência."
+        ],
+        "passos": [
+          "A ditadura terminou em 1985.",
+          "A nova Constituição ampliou direitos e consolidou a democracia."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é de 1964.",
+          "C é de 1889.",
+          "D é de 1937.",
+          "E é de 1822."
+        ]
+      },
+      {
+        "suporte": [
+          "Gandhi defendia resistir ao domínio britânico sem violência, boicotando produtos ingleses."
+        ],
+        "comando": "Essa luta levou",
+        "alternativas": [
+          "à unificação da Alemanha.",
+          "à independência da Índia, em 1947.",
+          "à Revolução Russa.",
+          "ao fim do Império Romano.",
+          "à Guerra do Vietnã."
+        ],
+        "passos": [
+          "Gandhi liderou a resistência na Índia.",
+          "A independência veio em 1947."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é de 1871.",
+          "C é de 1917.",
+          "D é de 476.",
+          "E foi no Sudeste Asiático, sem relação com Gandhi."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q046",
+        "correta": "C",
+        "justificativa": "Os zoológicos de animais exóticos surgem no neocolonialismo: expansão territorial, econômica, política e cultural europeia sobre outros continentes.",
+        "distratores": [
+          "A: não houve revolução cultural educacional europeia com esse sentido.",
+          "B: \"pão e circo\" é uma expressão da Roma Antiga.",
+          "D: o absolutismo é anterior.",
+          "E: o processo não era democrático para os povos dominados."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q007",
+        "correta": "E",
+        "justificativa": "A corrida espacial entre EUA e URSS, com Laika e Gagarin, é característica da Guerra Fria.",
+        "distratores": [
+          "A: a Primeira Revolução Industrial é do século XVIII.",
+          "B: a Segunda Guerra acabou em 1945.",
+          "C: a reconstrução europeia não envolvia corrida espacial.",
+          "D: as navegações são dos séculos XV e XVI."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q010",
+        "correta": "E",
+        "justificativa": "O evento é a Revolução dos Cravos, de 1974, em Portugal.",
+        "distratores": [
+          "A: a China teve as Guerras do Ópio, não \"da Papoula\".",
+          "B: a Guerra das Duas Rosas foi na Inglaterra medieval.",
+          "C: não existiu Revolução do Mandacaru.",
+          "D: não existiu Revolução do Lótus na Índia."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q045",
+        "correta": "D",
+        "justificativa": "Os bombardeios atômicos de 1945, em Hiroshima e Nagasaki, ocorreram na Segunda Guerra Mundial.",
+        "distratores": [
+          "A: a guerra russo-japonesa foi em 1904–1905.",
+          "B: a Guerra da Coreia começou em 1950.",
+          "C: o Vietnã é posterior.",
+          "E: a Primeira Guerra terminou em 1918, sem bombas atômicas."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q049",
+        "correta": "C",
+        "justificativa": "A rodovia inaugurada por Médici perto de Altamira é a Transamazônica, obra da ditadura civil-militar para integrar o Norte.",
+        "distratores": [
+          "A: a Rodovia dos Tamoios fica entre o Vale do Paraíba e o litoral paulista.",
+          "B: a Estrada Real é colonial.",
+          "D: a Estrada Velha de Santos é paulista.",
+          "E: a BR-116 não passa por Altamira."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q038",
+        "correta": "A",
+        "justificativa": "A falta de mão de obra na Amazônia coincidiu com a seca de 1877–1879, e muitos sertanejos migraram para os seringais.",
+        "distratores": [
+          "B: a demanda fez crescer, não cair, a extração do látex.",
+          "C: Vargas governou depois do auge da borracha.",
+          "D: Juscelino governou nos anos 1950.",
+          "E: a borracha era exportada como matéria-prima, não como pneus nacionais."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q022",
+        "correta": "B",
+        "justificativa": "A crise de 1929 abalou mercados de todo o mundo, causou falências e desemprego.",
+        "distratores": [
+          "A: a crise se espalhou pelo mundo.",
+          "C: os países africanos também foram afetados.",
+          "D: o café brasileiro desabou.",
+          "E: muitos governos intervieram na economia, como no New Deal."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q041",
+        "correta": "E",
+        "justificativa": "Versalhes foi assinado após a Primeira Guerra: a Alemanha perdeu colônias e territórios, foi desmilitarizada e pagou altas indenizações.",
+        "distratores": [
+          "A: a divisão da Alemanha e o Muro são posteriores à Segunda Guerra.",
+          "B: a Guerra Franco-Prussiana terminou em 1871, com vitória alemã.",
+          "C: a Guerra Austro-Prussiana é de 1866.",
+          "D: a Guerra da Crimeia é de 1853–1856."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q020",
+        "correta": "E",
+        "justificativa": "Vargas usou o Estado para conduzir a industrialização, com a CLT e estatais em setores estratégicos, como a Petrobras.",
+        "distratores": [
+          "A: o incentivo ao etanol é do Proálcool, de 1975.",
+          "B: Vargas não fez intervenções militares na América Latina.",
+          "C: a política de Vargas era intervencionista, não liberal.",
+          "D: empreiteiras brasileiras na África são de décadas posteriores."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q015",
+        "correta": "D",
+        "justificativa": "Hiroshima foi um dos últimos eventos da Segunda Guerra, quando a guerra na Europa já havia acabado.",
+        "distratores": [
+          "A: o Japão foi derrotado e ocupado.",
+          "B: a Guerra Fria começou depois, e os Sudetos ficam na Europa.",
+          "C: a Coreia do Norte ainda não existia.",
+          "E: a intervenção europeia na Ásia e na África é do século XIX."
+        ]
+      },
+      {
+        "id": "etec-2017-1-q008",
+        "correta": "C",
+        "justificativa": "A Declaração Universal dos Direitos Humanos, de 1948, reúne propósitos da ONU, como o respeito à dignidade humana.",
+        "distratores": [
+          "A: a ONU é de 1945, antes da Guerra Fria.",
+          "B: o Eixo não lutava pelo respeito entre nações.",
+          "D: a ONU foi criada depois das duas guerras.",
+          "E: a iniciativa partiu das grandes potências aliadas."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q046",
+        "correta": "E",
+        "justificativa": "A Constituição de 1934 e o Estado Novo, em 1937, são da Era Vargas.",
+        "distratores": [
+          "A: o Café com Leite terminou em 1930.",
+          "B: a Regência é de 1831 a 1840.",
+          "C: o Segundo Reinado acabou em 1889.",
+          "D: a ditadura militar é de 1964 a 1985."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q045",
+        "correta": "A",
+        "justificativa": "A Coluna Prestes foi um movimento tenentista contra as oligarquias da República do Café com Leite.",
+        "distratores": [
+          "B: o movimento criticava, não defendia, a fragmentação em \"feudos\".",
+          "C: nesse momento, o movimento não era comunista.",
+          "D: o integralismo é dos anos 1930.",
+          "E: o movimento era contra as oligarquias."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q022",
+        "correta": "B",
+        "justificativa": "A Marcha do Sal expressou a recusa de Gandhi à exploração neocolonial da Índia pela Inglaterra.",
+        "distratores": [
+          "A: Gandhi não governava a Índia nem cooperava com o império.",
+          "C: a marcha protestava contra impostos.",
+          "D: Gandhi rejeitava o domínio britânico.",
+          "E: o objetivo era produzir o próprio sal, não deixar de usá-lo."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q018",
+        "correta": "C",
+        "justificativa": "Os primeiros japoneses do Kasato Maru foram para as fazendas de café de São Paulo.",
+        "distratores": [
+          "A: o Pará não foi o destino nem o trigo, a lavoura.",
+          "B: o cacau era baiano.",
+          "D: a soja não era a lavoura da época.",
+          "E: Minas Gerais e a cana não foram o destino."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q016",
+        "correta": "A",
+        "justificativa": "A diferença no comércio de bananas reflete o sistema capitalista, regido pela lei da oferta e da procura.",
+        "distratores": [
+          "B: planificação estatal é do socialismo.",
+          "C: o mercantilismo é dos séculos XV a XVIII.",
+          "D: preços tabelados pelo rei não existem hoje.",
+          "E: o comércio descrito não é socialista."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q049",
+        "correta": "D",
+        "justificativa": "Anne Frank viveu a Segunda Guerra, quando o nazismo exterminou judeus e opositores.",
+        "distratores": [
+          "A: Anne nasceu em 1929, depois da Primeira Guerra.",
+          "B: Anne não viveu a Primeira Guerra.",
+          "C: a primeira invasão de Hitler foi a Polônia, não a França.",
+          "E: Salazar era português, e o ditador espanhol era Franco."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q023",
+        "correta": "D",
+        "justificativa": "A campanha de John e Yoko, em 1969, era pacifista, contra conflitos da Guerra Fria como a Guerra do Vietnã.",
+        "distratores": [
+          "A: a Segunda Guerra acabara havia mais de vinte anos, e o Japão perdeu.",
+          "B: a campanha era contra a guerra.",
+          "C: a Guerra da Coreia terminara em 1953; a campanha não criticava a imprensa.",
+          "E: a campanha não defendia ditaduras."
+        ]
+      }
+    ],
+    "resumo": [
+      "1889 República; Café com Leite até 1930; borracha e imigrantes.",
+      "Era Vargas (1930–1945): CLT, voto feminino, Estado Novo; Petrobras em 1953.",
+      "Ditadura (1964–1985): AI-5, grandes obras; Constituição de 1988.",
+      "1ª Guerra (1914–1918) → Versalhes. Crise de 1929.",
+      "2ª Guerra (1939–1945): Holocausto, Dia D, Hiroshima.",
+      "ONU (1945) e Declaração dos Direitos Humanos (1948).",
+      "Guerra Fria (1947–1991): corrida espacial, Coreia, Vietnã, Muro.",
+      "Descolonização: Gandhi (1947); Revolução dos Cravos (1974)."
+    ]
+  }
+}

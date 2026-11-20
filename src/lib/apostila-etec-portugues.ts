@@ -2,6 +2,7 @@ import 'server-only';
 import conteudo from '@/data/apostila-etec-portugues.json';
 import ciencias from '@/data/apostila-etec-ciencias.json';
 import matematica from '@/data/apostila-etec-matematica.json';
+import historia from '@/data/apostila-etec-historia.json';
 
 export type FiguraApostila = { src: string; alt: string; largura: number; altura: number; legenda?: string };
 
@@ -32,9 +33,11 @@ export type CapituloPortugues = {
   teoria: { titulo: string; texto: string; figura?: FiguraApostila }[];
   armadilha: string;
   exemplos: ExemploPortugues[];
+  /** Exercícios de fixação de autoria Gabaru, com gabarito comentado. */
+  fixacao?: ExemploPortugues[];
   oficiais: QuestaoComentada[];
   resumo: string[];
 };
 
-export const capitulosPortugues: Record<string, CapituloPortugues> = { ...conteudo, ...ciencias, ...matematica };
+export const capitulosPortugues: Record<string, CapituloPortugues> = { ...conteudo, ...ciencias, ...matematica, ...historia };
 export const apostilaEtecSlug = 'vestibulinho-etec';

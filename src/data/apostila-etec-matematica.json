@@ -332,6 +332,295 @@
       "Escala $1 : n$: medida real $=$ medida no mapa $\\times n$.",
       "1 ha $= 10\\,000$ m²; 1 L $= 1\\,000$ mL; 1 kg $= 1\\,000$ g; 1 h $= 60$ min.",
       "Converta antes de calcular."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Numa turma há 18 meninas e 12 meninos."
+        ],
+        "comando": "A razão entre meninas e meninos é",
+        "alternativas": [
+          "$\\tfrac{2}{3}$",
+          "$\\tfrac{3}{5}$",
+          "$\\tfrac{3}{2}$",
+          "$\\tfrac{2}{5}$",
+          "$\\tfrac{5}{3}$"
+        ],
+        "passos": [
+          "$\\tfrac{18}{12}$; divida por 6: $\\tfrac{3}{2}$."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A inverte a razão.",
+          "B compara meninas com o total.",
+          "D compara meninos com o total.",
+          "E compara o total com as meninas."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma receita usa 3 ovos para 200 g de farinha. Quero usar 600 g de farinha."
+        ],
+        "comando": "Serão necessários",
+        "alternativas": [
+          "6 ovos.",
+          "5 ovos.",
+          "12 ovos.",
+          "9 ovos.",
+          "3 ovos."
+        ],
+        "passos": [
+          "600 g é o triplo de 200 g.",
+          "Ovos: $3 \\cdot 3 = 9$."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A dobra em vez de triplicar.",
+          "B soma 2 ovos.",
+          "C quadruplica.",
+          "E não ajusta a receita."
+        ]
+      },
+      {
+        "suporte": [
+          "Num mapa de escala 1 : 50 000, duas cidades estão a 8 cm."
+        ],
+        "comando": "A distância real é",
+        "alternativas": [
+          "4 km.",
+          "40 km.",
+          "400 m.",
+          "0,4 km.",
+          "8 km."
+        ],
+        "passos": [
+          "$8 \\cdot 50\\,000 = 400\\,000$ cm.",
+          "$400\\,000$ cm $= 4\\,000$ m $= 4$ km."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B erra uma casa decimal para mais.",
+          "C erra uma casa para menos.",
+          "D erra duas casas.",
+          "E não aplica a escala corretamente."
+        ]
+      },
+      {
+        "suporte": [
+          "Um carro percorre 240 km com 20 L de gasolina."
+        ],
+        "comando": "Com 35 L, nas mesmas condições, ele percorre",
+        "alternativas": [
+          "360 km.",
+          "400 km.",
+          "280 km.",
+          "420 km.",
+          "480 km."
+        ],
+        "passos": [
+          "Consumo: $240 \\div 20 = 12$ km/L.",
+          "$12 \\cdot 35 = 420$ km."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A usa 30 L.",
+          "B não corresponde a 12 km/L.",
+          "C soma 40 km.",
+          "E usa 40 L."
+        ]
+      },
+      {
+        "suporte": [
+          "4 pedreiros constroem um muro em 6 dias."
+        ],
+        "comando": "Mantido o ritmo, 8 pedreiros constroem o mesmo muro em",
+        "alternativas": [
+          "12 dias.",
+          "3 dias.",
+          "2 dias.",
+          "4 dias.",
+          "6 dias."
+        ],
+        "passos": [
+          "Mais pedreiros, menos dias: proporção inversa.",
+          "$4 \\cdot 6 = 8 \\cdot x \\Rightarrow x = 3$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A trata como direta.",
+          "C divide demais.",
+          "D subtrai 2 dias.",
+          "E ignora a mudança."
+        ]
+      },
+      {
+        "suporte": [
+          "R$ 600,00 serão divididos entre Ana e Beto na razão 2 : 3."
+        ],
+        "comando": "Beto recebe",
+        "alternativas": [
+          "R$ 240,00.",
+          "R$ 300,00.",
+          "R$ 400,00.",
+          "R$ 200,00.",
+          "R$ 360,00."
+        ],
+        "passos": [
+          "Total de partes: 5. Cada parte: $600 \\div 5 = 120$.",
+          "Beto: $3 \\cdot 120 = 360$."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A é a parte de Ana.",
+          "B divide ao meio.",
+          "C usa 2/3 de 600.",
+          "D usa 1/3."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma impressora imprime 45 páginas em 3 minutos."
+        ],
+        "comando": "Em 10 minutos, imprime",
+        "alternativas": [
+          "135 páginas.",
+          "150 páginas.",
+          "100 páginas.",
+          "450 páginas.",
+          "30 páginas."
+        ],
+        "passos": [
+          "$45 \\div 3 = 15$ páginas por minuto.",
+          "$15 \\cdot 10 = 150$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A usa 9 minutos.",
+          "C não corresponde a 15 por minuto.",
+          "D multiplica 45 por 10.",
+          "E divide 45 por 3 e multiplica por 2."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma maquete de prédio usa escala 1 : 200. O prédio tem 60 m de altura."
+        ],
+        "comando": "A altura da maquete é",
+        "alternativas": [
+          "3 cm.",
+          "12 cm.",
+          "30 cm.",
+          "1,2 m.",
+          "300 cm."
+        ],
+        "passos": [
+          "60 m = 6 000 cm.",
+          "$6\\,000 \\div 200 = 30$ cm."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A erra uma casa decimal.",
+          "B não corresponde à escala.",
+          "D multiplica 6 por 0,2.",
+          "E erra uma casa para mais."
+        ]
+      },
+      {
+        "suporte": [
+          "A velocidade média de um ciclista é 18 km/h."
+        ],
+        "comando": "Para percorrer 45 km, ele leva",
+        "alternativas": [
+          "2 h.",
+          "2 h 30 min.",
+          "3 h.",
+          "2 h 15 min.",
+          "1 h 30 min."
+        ],
+        "passos": [
+          "$t = 45 \\div 18 = 2{,}5$ h.",
+          "0,5 h = 30 min."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A arredonda para baixo.",
+          "C arredonda para cima.",
+          "D lê 2,5 h como 2 h 15 min.",
+          "E não corresponde à divisão."
+        ]
+      },
+      {
+        "suporte": [
+          "Num suco, a razão entre concentrado e água é 1 : 4. Uma jarra tem 2 L de suco pronto."
+        ],
+        "comando": "A quantidade de concentrado é",
+        "alternativas": [
+          "0,5 L.",
+          "0,25 L.",
+          "1,6 L.",
+          "0,8 L.",
+          "0,4 L."
+        ],
+        "passos": [
+          "Partes: 1 + 4 = 5.",
+          "Concentrado: $\\tfrac{1}{5} \\cdot 2 = 0{,}4$ L."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A divide 2 por 4, esquecendo a parte do concentrado.",
+          "B divide por 8.",
+          "C é a quantidade de água.",
+          "D é o dobro do certo."
+        ]
+      },
+      {
+        "suporte": [
+          "Num pacote de 500 g de café, o preço é R$ 15,00. Num de 1,2 kg, R$ 33,00."
+        ],
+        "comando": "Sobre o preço por quilo,",
+        "alternativas": [
+          "o pacote de 500 g é mais barato.",
+          "os dois custam o mesmo por quilo.",
+          "o pacote de 1,2 kg custa R$ 27,50 o quilo, e é mais barato.",
+          "o pacote de 1,2 kg custa R$ 30,00 o quilo.",
+          "não é possível comparar."
+        ],
+        "passos": [
+          "500 g: R$ 30,00/kg.",
+          "1,2 kg: $33 \\div 1{,}2 = 27{,}50$ por kg."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: o de 500 g sai a R$ 30,00/kg, mais caro.",
+          "B: 30 e 27,50 são diferentes.",
+          "D é o preço do pacote menor por quilo.",
+          "E: basta dividir pelo peso."
+        ]
+      },
+      {
+        "suporte": [
+          "Numa cidade, a densidade demográfica é de 250 hab/km². A área é de 80 km²."
+        ],
+        "comando": "A população aproximada é de",
+        "alternativas": [
+          "20 000 habitantes.",
+          "3 200 habitantes.",
+          "2 000 habitantes.",
+          "200 000 habitantes.",
+          "330 habitantes."
+        ],
+        "passos": [
+          "População = densidade × área.",
+          "$250 \\cdot 80 = 20\\,000$."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: 3 200 é 40 × 80, não 250 × 80.",
+          "C erra uma casa.",
+          "D erra uma casa para mais.",
+          "E soma os números."
+        ]
+      }
     ]
   },
   "porcentagem-e-matematica-financeira": {
@@ -645,6 +934,292 @@
       "Pontos percentuais não são porcentagem de variação.",
       "Juros simples: $J = C \\cdot i \\cdot t$; $M = C + J$.",
       "Pergunte sempre: por cento de quê?"
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Uma escola tem 800 alunos, e 35% deles usam transporte escolar."
+        ],
+        "comando": "Usam transporte escolar",
+        "alternativas": [
+          "280 alunos.",
+          "350 alunos.",
+          "35 alunos.",
+          "520 alunos.",
+          "245 alunos."
+        ],
+        "passos": [
+          "$0{,}35 \\cdot 800 = 280$."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B usa 350 como se fosse 35% de 1 000.",
+          "C confunde porcentagem com quantidade.",
+          "D são os que não usam.",
+          "E não vem de 35% de 800."
+        ]
+      },
+      {
+        "suporte": [
+          "Um tênis de R$ 250,00 tem desconto de 20%."
+        ],
+        "comando": "O preço com desconto é",
+        "alternativas": [
+          "R$ 230,00.",
+          "R$ 200,00.",
+          "R$ 50,00.",
+          "R$ 270,00.",
+          "R$ 225,00."
+        ],
+        "passos": [
+          "Paga-se 80%: $0{,}8 \\cdot 250 = 200$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A subtrai 20 reais, não 20%.",
+          "C é só o desconto.",
+          "D soma 20 reais.",
+          "E aplica 10%."
+        ]
+      },
+      {
+        "suporte": [
+          "O aluguel de R$ 1 200,00 teve reajuste de 5%."
+        ],
+        "comando": "O novo aluguel é",
+        "alternativas": [
+          "R$ 1 205,00.",
+          "R$ 1 250,00.",
+          "R$ 1 140,00.",
+          "R$ 1 800,00.",
+          "R$ 1 260,00."
+        ],
+        "passos": [
+          "Aumento de 5%: fator 1,05.",
+          "$1\\,200 \\cdot 1{,}05 = 1\\,260$."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A soma 5 reais.",
+          "B soma 50 reais.",
+          "C aplica desconto.",
+          "D soma 50%."
+        ]
+      },
+      {
+        "suporte": [
+          "Numa pesquisa com 40 pessoas, 12 preferem futebol."
+        ],
+        "comando": "A porcentagem que prefere futebol é",
+        "alternativas": [
+          "12%.",
+          "40%.",
+          "30%.",
+          "28%.",
+          "48%."
+        ],
+        "passos": [
+          "$\\tfrac{12}{40} = 0{,}3 = 30\\%$."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A confunde quantidade com porcentagem.",
+          "B é o total de pessoas.",
+          "D subtrai 12 de 40.",
+          "E multiplica 12 por 4."
+        ]
+      },
+      {
+        "suporte": [
+          "Um produto subiu de R$ 80,00 para R$ 100,00."
+        ],
+        "comando": "O aumento percentual foi de",
+        "alternativas": [
+          "20%.",
+          "25%.",
+          "80%.",
+          "125%.",
+          "18%."
+        ],
+        "passos": [
+          "Aumento: R$ 20,00.",
+          "$\\tfrac{20}{80} = 0{,}25 = 25\\%$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A divide 20 pelo preço novo.",
+          "C é o preço antigo.",
+          "D é a razão entre novo e antigo, não o aumento.",
+          "E não corresponde à conta."
+        ]
+      },
+      {
+        "suporte": [
+          "R$ 2 000,00 aplicados a juros simples de 2% ao mês, por 6 meses."
+        ],
+        "comando": "Os juros obtidos são",
+        "alternativas": [
+          "R$ 120,00.",
+          "R$ 2 240,00.",
+          "R$ 40,00.",
+          "R$ 240,00.",
+          "R$ 2 120,00."
+        ],
+        "passos": [
+          "Juros por mês: $0{,}02 \\cdot 2\\,000 = 40$.",
+          "Em 6 meses: $40 \\cdot 6 = 240$."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A usa 3 meses.",
+          "B é o montante, não os juros.",
+          "C é só um mês.",
+          "E soma juros de 3 meses ao capital."
+        ]
+      },
+      {
+        "suporte": [
+          "R$ 1 000,00 aplicados a juros compostos de 10% ao mês, por 2 meses."
+        ],
+        "comando": "O montante final é",
+        "alternativas": [
+          "R$ 1 200,00.",
+          "R$ 1 100,00.",
+          "R$ 1 210,00.",
+          "R$ 1 020,00.",
+          "R$ 1 331,00."
+        ],
+        "passos": [
+          "1º mês: 1 100. 2º mês: $1\\,100 \\cdot 1{,}1 = 1\\,210$."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A calcula como juros simples.",
+          "B considera só um mês.",
+          "D usa 1% ao mês.",
+          "E usa três meses."
+        ]
+      },
+      {
+        "suporte": [
+          "Um preço sobe 10% e, depois, cai 10%."
+        ],
+        "comando": "Em relação ao preço inicial, o preço final",
+        "alternativas": [
+          "é igual.",
+          "é 1% menor.",
+          "é 1% maior.",
+          "é 20% menor.",
+          "é 10% maior."
+        ],
+        "passos": [
+          "$1{,}1 \\cdot 0{,}9 = 0{,}99$.",
+          "0,99 do inicial: 1% menor."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: os 10% de queda incidem sobre um valor maior.",
+          "C inverte o resultado.",
+          "D soma as variações.",
+          "E ignora a queda."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma TV custa R$ 1 500,00 à vista ou 10 parcelas de R$ 165,00."
+        ],
+        "comando": "A prazo, paga-se a mais",
+        "alternativas": [
+          "R$ 150,00.",
+          "R$ 1 650,00.",
+          "R$ 165,00.",
+          "R$ 15,00.",
+          "R$ 10,00."
+        ],
+        "passos": [
+          "A prazo: $10 \\cdot 165 = 1\\,650$.",
+          "Diferença: $1\\,650 - 1\\,500 = 150$."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é o total a prazo.",
+          "C é uma parcela.",
+          "D é um décimo da diferença.",
+          "E é o número de parcelas."
+        ]
+      },
+      {
+        "suporte": [
+          "Um celular custa R$ 900,00. Na Black Friday, sai por R$ 720,00."
+        ],
+        "comando": "O desconto foi de",
+        "alternativas": [
+          "18%.",
+          "20%.",
+          "80%.",
+          "25%.",
+          "180%."
+        ],
+        "passos": [
+          "Desconto: R$ 180,00.",
+          "$\\tfrac{180}{900} = 0{,}2 = 20\\%$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A confunde 180 reais com 18%.",
+          "C é o percentual pago.",
+          "D divide 180 por 720.",
+          "E confunde reais com porcentagem."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma conta de luz de R$ 150,00 foi paga com atraso, com multa de 2% e juros de R$ 1,50."
+        ],
+        "comando": "O valor pago foi",
+        "alternativas": [
+          "R$ 152,00.",
+          "R$ 153,00.",
+          "R$ 151,50.",
+          "R$ 154,50.",
+          "R$ 156,00."
+        ],
+        "passos": [
+          "Multa: $0{,}02 \\cdot 150 = 3$.",
+          "Total: $150 + 3 + 1{,}50 = 154{,}50$."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A soma 2 reais de multa e esquece os juros.",
+          "B esquece os juros.",
+          "C esquece a multa.",
+          "E aplica 4% de multa."
+        ]
+      },
+      {
+        "suporte": [
+          "Num país, 64% da população vive em cidades. A população total é de 50 milhões."
+        ],
+        "comando": "Vivem no campo",
+        "alternativas": [
+          "32 milhões.",
+          "36 milhões.",
+          "14 milhões.",
+          "64 milhões.",
+          "18 milhões."
+        ],
+        "passos": [
+          "Campo: 100% − 64% = 36%.",
+          "$0{,}36 \\cdot 50 = 18$ milhões."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A é a população urbana.",
+          "B confunde 36% com 36 milhões.",
+          "C não sai de 36% de 50.",
+          "D é a porcentagem urbana."
+        ]
+      }
     ]
   },
   "geometria-plana-e-medidas": {
@@ -958,6 +1533,290 @@
       "Lados $\\times k$: perímetro $\\times k$, área $\\times k^2$.",
       "1 m² $= 10\\,000$ cm²; 1 ha $= 10\\,000$ m².",
       "Tangram: 5 triângulos e 2 quadriláteros."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Um terreno retangular mede 12 m por 25 m."
+        ],
+        "comando": "A área do terreno é",
+        "alternativas": [
+          "37 m².",
+          "74 m².",
+          "300 m².",
+          "150 m².",
+          "600 m²."
+        ],
+        "passos": [
+          "$A = 12 \\cdot 25 = 300$ m²."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A soma os lados.",
+          "B é o perímetro.",
+          "D divide a área por 2, como num triângulo.",
+          "E dobra a área."
+        ]
+      },
+      {
+        "suporte": [
+          "Para cercar o mesmo terreno de 12 m por 25 m com três voltas de arame,"
+        ],
+        "comando": "são necessários",
+        "alternativas": [
+          "74 m de arame.",
+          "222 m de arame.",
+          "300 m de arame.",
+          "900 m de arame.",
+          "111 m de arame."
+        ],
+        "passos": [
+          "Perímetro: $2 \\cdot (12 + 25) = 74$ m.",
+          "Três voltas: $3 \\cdot 74 = 222$ m."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A dá uma volta só.",
+          "C usa a área.",
+          "D usa três vezes a área.",
+          "E soma os lados três vezes, sem dobrar."
+        ]
+      },
+      {
+        "suporte": [
+          "Um triângulo tem base 10 cm e altura 6 cm."
+        ],
+        "comando": "Sua área é",
+        "alternativas": [
+          "60 cm².",
+          "16 cm².",
+          "32 cm².",
+          "15 cm².",
+          "30 cm²."
+        ],
+        "passos": [
+          "$A = \\dfrac{b \\cdot h}{2} = \\dfrac{10 \\cdot 6}{2} = 30$ cm²."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A esquece de dividir por 2.",
+          "B soma base e altura.",
+          "C dobra a soma.",
+          "D divide por 4."
+        ]
+      },
+      {
+        "suporte": [
+          "Um círculo tem raio 5 cm. Use $\\pi = 3{,}14$."
+        ],
+        "comando": "A área do círculo é",
+        "alternativas": [
+          "31,4 cm².",
+          "78,5 cm².",
+          "15,7 cm².",
+          "157 cm².",
+          "25 cm²."
+        ],
+        "passos": [
+          "$A = \\pi r^2 = 3{,}14 \\cdot 25 = 78{,}5$ cm²."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é o comprimento da circunferência.",
+          "C é meio comprimento.",
+          "D é o dobro da área.",
+          "E esquece o π."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma praça circular tem diâmetro de 20 m. Use $\\pi = 3$."
+        ],
+        "comando": "Uma volta completa ao redor da praça mede",
+        "alternativas": [
+          "60 m.",
+          "120 m.",
+          "300 m.",
+          "30 m.",
+          "40 m."
+        ],
+        "passos": [
+          "$C = \\pi \\cdot d = 3 \\cdot 20 = 60$ m."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B usa o diâmetro como raio.",
+          "C calcula a área.",
+          "D usa só o raio.",
+          "E soma o diâmetro duas vezes."
+        ]
+      },
+      {
+        "suporte": [
+          "Um piso quadrado tem 40 cm de lado. A sala mede 4 m por 3 m."
+        ],
+        "comando": "São necessários, sem perdas,",
+        "alternativas": [
+          "12 pisos.",
+          "30 pisos.",
+          "75 pisos.",
+          "120 pisos.",
+          "48 pisos."
+        ],
+        "passos": [
+          "Área do piso: $0{,}4 \\cdot 0{,}4 = 0{,}16$ m².",
+          "Sala: 12 m². $12 \\div 0{,}16 = 75$."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A confunde área da sala com número de pisos.",
+          "B divide 12 por 0,4, sem elevar ao quadrado.",
+          "D: 120 seria 12 ÷ 0,1, como se cada piso tivesse 0,1 m².",
+          "E multiplica 12 por 4."
+        ]
+      },
+      {
+        "suporte": [
+          "Um trapézio tem bases 8 m e 4 m e altura 5 m."
+        ],
+        "comando": "A área é",
+        "alternativas": [
+          "60 m².",
+          "17 m².",
+          "40 m².",
+          "30 m².",
+          "20 m²."
+        ],
+        "passos": [
+          "$A = \\dfrac{(B + b) \\cdot h}{2} = \\dfrac{12 \\cdot 5}{2} = 30$ m²."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A esquece de dividir por 2.",
+          "B soma tudo.",
+          "C usa só a base maior.",
+          "E usa só a base menor."
+        ]
+      },
+      {
+        "suporte": [
+          "Converta 2,5 km para metros."
+        ],
+        "comando": "O valor é",
+        "alternativas": [
+          "25 m.",
+          "250 m.",
+          "25 000 m.",
+          "0,25 m.",
+          "2 500 m."
+        ],
+        "passos": [
+          "1 km = 1 000 m.",
+          "$2{,}5 \\cdot 1\\,000 = 2\\,500$ m."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A erra duas casas.",
+          "B erra uma casa.",
+          "C erra uma casa para mais.",
+          "D divide em vez de multiplicar."
+        ]
+      },
+      {
+        "suporte": [
+          "Um quadrado tem perímetro de 36 cm."
+        ],
+        "comando": "Sua área é",
+        "alternativas": [
+          "81 cm².",
+          "36 cm².",
+          "9 cm².",
+          "144 cm².",
+          "18 cm²."
+        ],
+        "passos": [
+          "Lado: $36 \\div 4 = 9$ cm.",
+          "Área: $9^2 = 81$ cm²."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B confunde perímetro com área.",
+          "C é o lado.",
+          "D usa lado 12, como se o quadrado tivesse três lados.",
+          "E dobra o lado."
+        ]
+      },
+      {
+        "suporte": [
+          "Um retângulo tem área de 48 m² e um dos lados mede 6 m."
+        ],
+        "comando": "O outro lado mede",
+        "alternativas": [
+          "42 m.",
+          "8 m.",
+          "54 m.",
+          "12 m.",
+          "288 m."
+        ],
+        "passos": [
+          "$48 \\div 6 = 8$ m."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A subtrai.",
+          "C soma.",
+          "D divide por 4.",
+          "E multiplica."
+        ]
+      },
+      {
+        "suporte": [
+          "Um campo de futebol tem 100 m por 70 m."
+        ],
+        "comando": "Em hectares (1 ha = 10 000 m²), a área é",
+        "alternativas": [
+          "7 ha.",
+          "70 ha.",
+          "0,07 ha.",
+          "0,7 ha.",
+          "700 ha."
+        ],
+        "passos": [
+          "Área: 7 000 m².",
+          "$7\\,000 \\div 10\\,000 = 0{,}7$ ha."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A erra uma casa para mais.",
+          "B erra duas casas.",
+          "C erra uma casa para menos.",
+          "E multiplica em vez de dividir."
+        ]
+      },
+      {
+        "suporte": [
+          "Os ângulos internos de um triângulo medem 50°, 70° e $x$."
+        ],
+        "comando": "O valor de $x$ é",
+        "alternativas": [
+          "50°.",
+          "70°.",
+          "60°.",
+          "120°.",
+          "180°."
+        ],
+        "passos": [
+          "A soma dos ângulos internos é 180°.",
+          "$x = 180 - 50 - 70 = 60°$."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A repete um ângulo dado.",
+          "B repete um ângulo dado.",
+          "D é a soma dos dois dados.",
+          "E é a soma total."
+        ]
+      }
     ]
   },
   "triangulos-pitagoras-e-solidos": {
@@ -1282,6 +2141,292 @@
       "Distância no plano: $\\sqrt{\\Delta x^2 + \\Delta y^2}$.",
       "Prisma: $V = a \\cdot b \\cdot c$; cilindro: $V = \\pi r^2 h$ (raio, não diâmetro).",
       "1 m³ $= 1\\,000$ L; 1 cm³ $= 1$ mL."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Um triângulo retângulo tem catetos de 6 cm e 8 cm."
+        ],
+        "comando": "A hipotenusa mede",
+        "alternativas": [
+          "14 cm.",
+          "10 cm.",
+          "48 cm.",
+          "100 cm.",
+          "7 cm."
+        ],
+        "passos": [
+          "$a^2 = 6^2 + 8^2 = 36 + 64 = 100$.",
+          "$a = 10$ cm."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A soma os catetos.",
+          "C multiplica os catetos.",
+          "D esquece a raiz.",
+          "E faz a média dos catetos."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma escada de 5 m está apoiada num muro, com o pé a 3 m da parede."
+        ],
+        "comando": "A altura que a escada alcança no muro é",
+        "alternativas": [
+          "2 m.",
+          "8 m.",
+          "4 m.",
+          "16 m.",
+          "34 m."
+        ],
+        "passos": [
+          "$5^2 = 3^2 + h^2 \\Rightarrow h^2 = 25 - 9 = 16$.",
+          "$h = 4$ m."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A subtrai os lados.",
+          "B soma os lados.",
+          "D esquece a raiz.",
+          "E soma os quadrados."
+        ]
+      },
+      {
+        "suporte": [
+          "A tela retangular de uma TV tem 24 polegadas de altura e 32 de largura."
+        ],
+        "comando": "A diagonal da tela mede",
+        "alternativas": [
+          "56 polegadas.",
+          "40 polegadas.",
+          "28 polegadas.",
+          "1 600 polegadas.",
+          "48 polegadas."
+        ],
+        "passos": [
+          "$d^2 = 24^2 + 32^2 = 576 + 1\\,024 = 1\\,600$.",
+          "$d = 40$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A soma os lados.",
+          "C faz a média.",
+          "D esquece a raiz.",
+          "E não vem do teorema."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma caixa-d’água tem forma de cubo com 2 m de aresta."
+        ],
+        "comando": "Sua capacidade é",
+        "alternativas": [
+          "8 000 L.",
+          "6 000 L.",
+          "800 L.",
+          "4 000 L.",
+          "24 000 L."
+        ],
+        "passos": [
+          "$V = 2^3 = 8$ m³.",
+          "1 m³ = 1 000 L, então 8 000 L."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B usa $2 \\cdot 3$.",
+          "C erra a conversão.",
+          "D usa $2^2$.",
+          "E usa a área total das faces, 24 m²."
+        ]
+      },
+      {
+        "suporte": [
+          "Um aquário tem 60 cm de comprimento, 30 cm de largura e 40 cm de altura."
+        ],
+        "comando": "Seu volume em litros é",
+        "alternativas": [
+          "130 L.",
+          "7,2 L.",
+          "720 L.",
+          "72 L.",
+          "7 200 L."
+        ],
+        "passos": [
+          "$V = 60 \\cdot 30 \\cdot 40 = 72\\,000$ cm³.",
+          "1 L = 1 000 cm³: 72 L."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A soma as medidas.",
+          "B erra uma casa para menos.",
+          "C erra uma casa para mais.",
+          "E erra duas casas."
+        ]
+      },
+      {
+        "suporte": [
+          "Um cilindro tem raio 2 m e altura 5 m. Use $\\pi = 3$."
+        ],
+        "comando": "O volume é",
+        "alternativas": [
+          "30 m³.",
+          "60 m³.",
+          "20 m³.",
+          "120 m³.",
+          "15 m³."
+        ],
+        "passos": [
+          "$V = \\pi r^2 h = 3 \\cdot 4 \\cdot 5 = 60$ m³."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A usa $r$ em vez de $r^2$.",
+          "C esquece o π.",
+          "D é o dobro do volume certo.",
+          "E divide por 4."
+        ]
+      },
+      {
+        "suporte": [
+          "Dois triângulos semelhantes: o menor tem lados 3, 4 e 5 cm; o maior tem o menor lado medindo 9 cm."
+        ],
+        "comando": "O maior lado do triângulo maior mede",
+        "alternativas": [
+          "11 cm.",
+          "12 cm.",
+          "10 cm.",
+          "20 cm.",
+          "15 cm."
+        ],
+        "passos": [
+          "Razão de semelhança: $9 \\div 3 = 3$.",
+          "Maior lado: $5 \\cdot 3 = 15$ cm."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A soma 6 ao lado 5.",
+          "B é o lado médio.",
+          "C dobra o 5.",
+          "D multiplica o 5 por 4."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma árvore projeta sombra de 12 m. No mesmo instante, um poste de 2 m projeta sombra de 3 m."
+        ],
+        "comando": "A altura da árvore é",
+        "alternativas": [
+          "18 m.",
+          "6 m.",
+          "8 m.",
+          "24 m.",
+          "4,5 m."
+        ],
+        "passos": [
+          "Triângulos semelhantes: $\\tfrac{h}{12} = \\tfrac{2}{3}$.",
+          "$h = 8$ m."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A inverte a razão.",
+          "B divide 12 por 2.",
+          "D multiplica 12 por 2.",
+          "E não vem da proporção."
+        ]
+      },
+      {
+        "suporte": [
+          "Um prisma tem base triangular de área 10 cm² e altura 7 cm."
+        ],
+        "comando": "O volume é",
+        "alternativas": [
+          "17 cm³.",
+          "35 cm³.",
+          "70 cm³.",
+          "700 cm³.",
+          "140 cm³."
+        ],
+        "passos": [
+          "$V = A_{base} \\cdot h = 10 \\cdot 7 = 70$ cm³."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A soma.",
+          "B divide por 2 sem motivo; o prisma não tem divisão.",
+          "D erra uma casa.",
+          "E dobra o volume."
+        ]
+      },
+      {
+        "suporte": [
+          "Um cubo tem 3 cm de aresta."
+        ],
+        "comando": "A área total da superfície é",
+        "alternativas": [
+          "9 cm².",
+          "27 cm².",
+          "36 cm².",
+          "54 cm².",
+          "18 cm²."
+        ],
+        "passos": [
+          "Cada face: 9 cm². Seis faces: $6 \\cdot 9 = 54$ cm²."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é uma face.",
+          "B é o volume.",
+          "C conta quatro faces.",
+          "E conta duas faces."
+        ]
+      },
+      {
+        "suporte": [
+          "Num triângulo isósceles, os dois lados iguais medem 13 cm e a base, 10 cm."
+        ],
+        "comando": "A altura relativa à base mede",
+        "alternativas": [
+          "12 cm.",
+          "13 cm.",
+          "8 cm.",
+          "3 cm.",
+          "23 cm."
+        ],
+        "passos": [
+          "A altura divide a base em 5 e 5.",
+          "$13^2 = 5^2 + h^2 \\Rightarrow h^2 = 144 \\Rightarrow h = 12$."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é o lado.",
+          "C subtrai 13 − 5.",
+          "D subtrai 13 − 10.",
+          "E soma 13 + 10."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma piscina tem 8 m por 5 m e 1,5 m de profundidade."
+        ],
+        "comando": "Ela comporta",
+        "alternativas": [
+          "60 000 L.",
+          "14 500 L.",
+          "6 000 L.",
+          "600 L.",
+          "40 000 L."
+        ],
+        "passos": [
+          "$V = 8 \\cdot 5 \\cdot 1{,}5 = 60$ m³ = 60 000 L."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B soma as medidas e multiplica por 1 000.",
+          "C erra uma casa.",
+          "D erra duas casas.",
+          "E esquece a profundidade."
+        ]
+      }
     ]
   },
   "numeros-operacoes-potencias-e-unidades": {
@@ -1588,6 +2733,294 @@
       "Notação científica: $a \\cdot 10^n$, com $1 \\le a < 10$.",
       "1 h = 60 min; 1 dia = 1 440 min; km/h ÷ 3,6 = m/s.",
       "Anote a unidade em cada passo."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Calcule $3 + 4 \\cdot 5 - 6 \\div 2$."
+        ],
+        "comando": "O resultado é",
+        "alternativas": [
+          "32",
+          "20",
+          "17",
+          "29",
+          "23"
+        ],
+        "passos": [
+          "Multiplicação e divisão primeiro: $4 \\cdot 5 = 20$ e $6 \\div 2 = 3$.",
+          "$3 + 20 - 3 = 20$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A faz $(3 + 4) \\cdot 5 - 3$.",
+          "C esquece de dividir 6 por 2: $3 + 20 - 6$.",
+          "D soma o 6 em vez de subtrair $6 \\div 2$.",
+          "E esquece de subtrair o 3."
+        ]
+      },
+      {
+        "suporte": [
+          "Qual destes números é primo?"
+        ],
+        "comando": "Assinale a alternativa.",
+        "alternativas": [
+          "21",
+          "27",
+          "39",
+          "41",
+          "51"
+        ],
+        "passos": [
+          "21 = 3 · 7; 27 = 3 · 9; 39 = 3 · 13; 51 = 3 · 17.",
+          "41 só é divisível por 1 e por ele mesmo."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: 21 = 3 · 7.",
+          "B: 27 = 3 · 9.",
+          "C: 39 = 3 · 13.",
+          "E: 51 = 3 · 17."
+        ]
+      },
+      {
+        "suporte": [
+          "Duas lâmpadas piscam juntas. Uma pisca a cada 8 s e a outra a cada 12 s."
+        ],
+        "comando": "Elas voltam a piscar juntas depois de",
+        "alternativas": [
+          "20 s.",
+          "4 s.",
+          "96 s.",
+          "24 s.",
+          "48 s."
+        ],
+        "passos": [
+          "MMC(8, 12): $8 = 2^3$, $12 = 2^2 \\cdot 3$.",
+          "MMC $= 2^3 \\cdot 3 = 24$ s."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A soma os tempos.",
+          "B é o MDC.",
+          "C multiplica os tempos.",
+          "E é múltiplo comum, mas não o menor."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma professora tem 24 lápis e 36 borrachas e quer montar kits iguais, sem sobras, com o maior número possível de kits."
+        ],
+        "comando": "Serão montados",
+        "alternativas": [
+          "12 kits.",
+          "6 kits.",
+          "60 kits.",
+          "72 kits.",
+          "4 kits."
+        ],
+        "passos": [
+          "MDC(24, 36) = 12.",
+          "Cada kit: 2 lápis e 3 borrachas."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é divisor comum, mas não o maior.",
+          "C soma os itens.",
+          "D é o MMC.",
+          "E é divisor comum, mas não o maior."
+        ]
+      },
+      {
+        "suporte": [
+          "Calcule $\\tfrac{2}{3} + \\tfrac{1}{4}$."
+        ],
+        "comando": "O resultado é",
+        "alternativas": [
+          "$\\tfrac{3}{7}$",
+          "$\\tfrac{3}{12}$",
+          "$\\tfrac{11}{12}$",
+          "$\\tfrac{2}{12}$",
+          "$\\tfrac{5}{12}$"
+        ],
+        "passos": [
+          "Denominador comum 12: $\\tfrac{8}{12} + \\tfrac{3}{12} = \\tfrac{11}{12}$."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A soma numeradores e denominadores.",
+          "B soma só os numeradores sobre 12.",
+          "D multiplica as frações.",
+          "E subtrai as frações."
+        ]
+      },
+      {
+        "suporte": [
+          "João comeu $\\tfrac{3}{8}$ de uma pizza de 8 fatias, e Maria comeu 2 fatias."
+        ],
+        "comando": "Sobraram",
+        "alternativas": [
+          "3 fatias.",
+          "5 fatias.",
+          "1 fatia.",
+          "6 fatias.",
+          "2 fatias."
+        ],
+        "passos": [
+          "João: 3 fatias. Maria: 2.",
+          "Sobram $8 - 3 - 2 = 3$."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B desconta só João.",
+          "C desconta uma fatia a mais.",
+          "D desconta só Maria.",
+          "E não corresponde à conta."
+        ]
+      },
+      {
+        "suporte": [
+          "Simplifique $2^5 \\cdot 2^3$."
+        ],
+        "comando": "O resultado é",
+        "alternativas": [
+          "$2^{15}$",
+          "$4^8$",
+          "$2^2$",
+          "$2^8$",
+          "$4^{15}$"
+        ],
+        "passos": [
+          "Mesma base: some os expoentes. $2^{5+3} = 2^8$."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A multiplica os expoentes.",
+          "B multiplica as bases.",
+          "C subtrai os expoentes.",
+          "E multiplica bases e expoentes."
+        ]
+      },
+      {
+        "suporte": [
+          "A distância da Terra ao Sol é de cerca de 150 000 000 km."
+        ],
+        "comando": "Em notação científica:",
+        "alternativas": [
+          "$15 \\cdot 10^7$ km",
+          "$1{,}5 \\cdot 10^8$ km",
+          "$1{,}5 \\cdot 10^7$ km",
+          "$150 \\cdot 10^6$ km",
+          "$1{,}5 \\cdot 10^9$ km"
+        ],
+        "passos": [
+          "A mantissa deve ficar entre 1 e 10: 1,5.",
+          "A vírgula andou 8 casas: $1{,}5 \\cdot 10^8$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A tem o valor certo, mas a mantissa 15 não está entre 1 e 10.",
+          "C erra o expoente para menos.",
+          "D tem o valor certo, mas não está em notação científica.",
+          "E erra o expoente para mais."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma bactéria mede 0,000002 m."
+        ],
+        "comando": "Em notação científica:",
+        "alternativas": [
+          "$2 \\cdot 10^6$ m",
+          "$2 \\cdot 10^{-5}$ m",
+          "$0{,}2 \\cdot 10^{-5}$ m",
+          "$2 \\cdot 10^{-7}$ m",
+          "$2 \\cdot 10^{-6}$ m"
+        ],
+        "passos": [
+          "A vírgula anda 6 casas para a direita.",
+          "$2 \\cdot 10^{-6}$ m."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A usa expoente positivo.",
+          "B erra uma casa.",
+          "C não está na forma científica.",
+          "D erra uma casa para mais."
+        ]
+      },
+      {
+        "suporte": [
+          "Um filme dura 135 minutos."
+        ],
+        "comando": "Em horas e minutos, são",
+        "alternativas": [
+          "1 h 35 min.",
+          "1 h 55 min.",
+          "2 h 15 min.",
+          "2 h 35 min.",
+          "13 h 5 min."
+        ],
+        "passos": [
+          "$135 = 2 \\cdot 60 + 15$.",
+          "2 h 15 min."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A lê o 1 como hora.",
+          "B divide errado.",
+          "D soma 20 minutos.",
+          "E separa os algarismos."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma torneira pinga 2 mL por minuto."
+        ],
+        "comando": "Em um dia, ela desperdiça",
+        "alternativas": [
+          "2,88 L.",
+          "48 mL.",
+          "120 mL.",
+          "28,8 L.",
+          "0,288 L."
+        ],
+        "passos": [
+          "Um dia: 1 440 min.",
+          "$2 \\cdot 1\\,440 = 2\\,880$ mL = 2,88 L."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B usa 24 em vez de 1 440 minutos.",
+          "C calcula só uma hora.",
+          "D erra a conversão para mais.",
+          "E erra a conversão para menos."
+        ]
+      },
+      {
+        "suporte": [
+          "Calcule $\\sqrt{144} + \\sqrt{25}$."
+        ],
+        "comando": "O resultado é",
+        "alternativas": [
+          "13",
+          "169",
+          "17",
+          "119",
+          "7"
+        ],
+        "passos": [
+          "$\\sqrt{144} = 12$ e $\\sqrt{25} = 5$.",
+          "$12 + 5 = 17$."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A tira a raiz da soma: $\\sqrt{169} = 13$.",
+          "B soma os números sem tirar a raiz.",
+          "D subtrai os números.",
+          "E subtrai as raízes."
+        ]
+      }
     ]
   },
   "algebra-estatistica-e-probabilidade": {
@@ -1918,6 +3351,291 @@
       "Média fica entre o menor e o maior valor.",
       "Contagem: ordem importa? Multiplique.",
       "$P$ = favoráveis ÷ possíveis."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Resolva $5x - 8 = 2x + 13$."
+        ],
+        "comando": "O valor de $x$ é",
+        "alternativas": [
+          "7",
+          "3",
+          "5",
+          "21",
+          "−7"
+        ],
+        "passos": [
+          "$5x - 2x = 13 + 8$.",
+          "$3x = 21 \\Rightarrow x = 7$."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B divide 21 por 7.",
+          "C subtrai 8 de 13.",
+          "D para em $3x = 21$.",
+          "E erra o sinal."
+        ]
+      },
+      {
+        "suporte": [
+          "Para $f(x) = 3x - 4$, calcule $f(5)$."
+        ],
+        "comando": "O resultado é",
+        "alternativas": [
+          "19",
+          "15",
+          "7",
+          "−11",
+          "11"
+        ],
+        "passos": [
+          "$f(5) = 3 \\cdot 5 - 4 = 11$."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A soma 4 em vez de subtrair.",
+          "B esquece o −4.",
+          "C soma 3 e 4.",
+          "D erra o sinal."
+        ]
+      },
+      {
+        "suporte": [
+          "A soma de dois números é 30 e a diferença entre eles é 6."
+        ],
+        "comando": "O maior número é",
+        "alternativas": [
+          "12",
+          "15",
+          "24",
+          "18",
+          "36"
+        ],
+        "passos": [
+          "$x + y = 30$ e $x - y = 6$.",
+          "Somando: $2x = 36 \\Rightarrow x = 18$."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é o menor número.",
+          "B é a metade da soma.",
+          "C soma 6 a 18.",
+          "E para em $2x = 36$."
+        ]
+      },
+      {
+        "suporte": [
+          "Resolva $x^2 - 9 = 0$."
+        ],
+        "comando": "As soluções são",
+        "alternativas": [
+          "3 e −3.",
+          "só 3.",
+          "9 e −9.",
+          "0 e 9.",
+          "não há solução real."
+        ],
+        "passos": [
+          "$x^2 = 9 \\Rightarrow x = \\pm 3$."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B esquece a raiz negativa.",
+          "C esquece de tirar a raiz.",
+          "D: 0 não satisfaz a equação.",
+          "E: 9 é positivo, há raízes reais."
+        ]
+      },
+      {
+        "suporte": [
+          "Resolva $x^2 - 7x + 10 = 0$."
+        ],
+        "comando": "As raízes são",
+        "alternativas": [
+          "−2 e −5.",
+          "1 e 10.",
+          "2 e 5.",
+          "−1 e −10.",
+          "7 e 10."
+        ],
+        "passos": [
+          "$\\Delta = 49 - 40 = 9$.",
+          "$x = \\dfrac{7 \\pm 3}{2}$: 5 ou 2."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A troca os sinais.",
+          "B: $1 - 7 + 10 = 4 \\neq 0$.",
+          "D troca os sinais e erra os valores.",
+          "E repete os coeficientes."
+        ]
+      },
+      {
+        "suporte": [
+          "Para $h(x) = -x^2 + 6x$, o vértice da parábola é"
+        ],
+        "comando": "o ponto",
+        "alternativas": [
+          "(6, 0).",
+          "(3, 18).",
+          "(−3, 9).",
+          "(0, 6).",
+          "(3, 9)."
+        ],
+        "passos": [
+          "$x_v = -\\dfrac{6}{2 \\cdot (-1)} = 3$.",
+          "$h(3) = -9 + 18 = 9$."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A é uma das raízes.",
+          "B esquece o sinal de $-x^2$.",
+          "C erra o sinal de $x_v$.",
+          "D troca os papéis de $x$ e $y$."
+        ]
+      },
+      {
+        "suporte": [
+          "Notas de uma turma: 6, 8, 8, 9, 4."
+        ],
+        "comando": "A média é",
+        "alternativas": [
+          "8",
+          "7",
+          "6",
+          "35",
+          "9"
+        ],
+        "passos": [
+          "Soma: 35. $35 \\div 5 = 7$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é a moda.",
+          "C é a primeira nota.",
+          "D é a soma.",
+          "E é a maior nota."
+        ]
+      },
+      {
+        "suporte": [
+          "Dados: 3, 7, 2, 9, 5, 8."
+        ],
+        "comando": "A mediana é",
+        "alternativas": [
+          "5",
+          "7",
+          "6",
+          "5,5",
+          "9"
+        ],
+        "passos": [
+          "Em ordem: 2, 3, 5, 7, 8, 9.",
+          "Centrais: 5 e 7. Mediana: 6."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A pega só um dos centrais.",
+          "B pega só o outro central.",
+          "D: 5,5 não é a média dos centrais, que é 6.",
+          "E é o maior valor."
+        ]
+      },
+      {
+        "suporte": [
+          "Um restaurante oferece 3 entradas, 4 pratos principais e 2 sobremesas."
+        ],
+        "comando": "Um cliente pode montar quantas refeições diferentes com uma opção de cada?",
+        "alternativas": [
+          "9",
+          "24",
+          "12",
+          "6",
+          "48"
+        ],
+        "passos": [
+          "Princípio multiplicativo: $3 \\cdot 4 \\cdot 2 = 24$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A soma as opções.",
+          "C esquece as sobremesas.",
+          "D esquece os pratos.",
+          "E dobra o resultado."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma urna tem 5 bolas vermelhas e 3 azuis."
+        ],
+        "comando": "A probabilidade de sortear uma azul é",
+        "alternativas": [
+          "$\\tfrac{3}{5}$",
+          "$\\tfrac{5}{8}$",
+          "$\\tfrac{1}{3}$",
+          "$\\tfrac{3}{8}$",
+          "$\\tfrac{1}{8}$"
+        ],
+        "passos": [
+          "Total: 8 bolas. Azuis: 3.",
+          "$P = \\tfrac{3}{8}$."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A compara azuis com vermelhas.",
+          "B é a probabilidade de vermelha.",
+          "C considera só três casos.",
+          "E conta uma bola só."
+        ]
+      },
+      {
+        "suporte": [
+          "Duas moedas são lançadas."
+        ],
+        "comando": "A probabilidade de saírem duas caras é",
+        "alternativas": [
+          "$\\tfrac{1}{2}$",
+          "$\\tfrac{1}{3}$",
+          "$\\tfrac{1}{4}$",
+          "$\\tfrac{3}{4}$",
+          "1"
+        ],
+        "passos": [
+          "Casos: CC, CK, KC, KK.",
+          "Uma favorável em quatro: $\\tfrac{1}{4}$."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A considera uma moeda só.",
+          "B conta três resultados, juntando CK e KC.",
+          "D é a probabilidade de sair pelo menos uma coroa.",
+          "E: não é certo que saiam duas caras."
+        ]
+      },
+      {
+        "suporte": [
+          "Num grupo, com 4 pessoas, é preciso escolher presidente e vice."
+        ],
+        "comando": "O número de escolhas possíveis é",
+        "alternativas": [
+          "6",
+          "8",
+          "16",
+          "12",
+          "4"
+        ],
+        "passos": [
+          "A ordem importa (cargos diferentes): $4 \\cdot 3 = 12$."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A ignora a ordem.",
+          "B soma 4 + 4.",
+          "C permite a mesma pessoa nos dois cargos.",
+          "E conta só o presidente."
+        ]
+      }
     ]
   }
 }

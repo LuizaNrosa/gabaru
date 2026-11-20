@@ -17,6 +17,7 @@ const sumario = [
   { id: 'teoria', titulo: 'Teoria calibrada ao edital' },
   { id: 'exemplos', titulo: 'Exemplos resolvidos' },
   { id: 'bateria', titulo: 'Bateria oficial' },
+  { id: 'fixacao', titulo: 'Exercícios de fixação' },
   { id: 'resumo', titulo: 'Resumo tático de bolso' },
 ];
 
@@ -48,10 +49,10 @@ export function TextoTeoria({ texto }: { texto: string }) {
   });
 }
 
-function ExemploResolvido({ exemplo, numero }: { exemplo: ExemploPortugues; numero: number }) {
+function ExemploResolvido({ exemplo, numero, rotulo = 'Exemplo', prefixo = 'exemplo', resumo = 'Ver resolução' }: { exemplo: ExemploPortugues; numero: number; rotulo?: string; prefixo?: string; resumo?: string }) {
   return (
-    <section className="gb-worked-example" aria-labelledby={`exemplo-${numero}`}>
-      <h3 id={`exemplo-${numero}`}>Exemplo {numero}</h3>
+    <section className="gb-worked-example" aria-labelledby={`${prefixo}-${numero}`}>
+      <h3 id={`${prefixo}-${numero}`}>{rotulo} {numero}</h3>
       {exemplo.suporte.map(trecho => <p key={trecho}><Rico texto={trecho} /></p>)}
       {exemplo.figura && <Figura figura={exemplo.figura} />}
       <p><strong><Rico texto={exemplo.comando} /></strong></p>
@@ -59,7 +60,7 @@ function ExemploResolvido({ exemplo, numero }: { exemplo: ExemploPortugues; nume
         {exemplo.alternativas.map(alternativa => <li key={alternativa}><Rico texto={alternativa} /></li>)}
       </ol>
       <details>
-        <summary>Ver resolução</summary>
+        <summary>{resumo}</summary>
         <ol className="list-decimal pl-6">{exemplo.passos.map(passo => <li key={passo}><Rico texto={passo} /></li>)}</ol>
         <p><strong>Resposta {exemplo.correta}.</strong></p>
         <ul className="list-disc pl-6" aria-label="Por que as demais alternativas estão incorretas">
@@ -83,7 +84,8 @@ export function LeitorPortuguesEtec({ livro, slug, titulo, capitulo, marca, minu
   const itens = sumario.filter(item =>
     (item.id !== 'raio-x' || temRaioX)
     && (item.id !== 'exemplos' || capitulo.exemplos.length > 0)
-    && (item.id !== 'bateria' || capitulo.oficiais.length > 0));
+    && (item.id !== 'bateria' || capitulo.oficiais.length > 0)
+    && (item.id !== 'fixacao' || (capitulo.fixacao?.length ?? 0) > 0));
 
   return (
     <EstruturaLeitor livro={livro} slug={slug} marca={marca} minutos={minutos} itens={itens}>
@@ -137,6 +139,10 @@ export function LeitorPortuguesEtec({ livro, slug, titulo, capitulo, marca, minu
             </section>
           );
         })}
+      </section>}
+      {capitulo.fixacao && capitulo.fixacao.length > 0 && <section aria-labelledby="fixacao">
+        <h2 id="fixacao">Exercícios de fixação · Autoria Gabaru</h2>
+        {capitulo.fixacao.map((exercicio, i) => <ExemploResolvido key={exercicio.comando + i} exemplo={exercicio} numero={i + 1} rotulo="Exercício" prefixo="fixacao" resumo="Ver gabarito comentado" />)}
       </section>}
       <section aria-labelledby="resumo">
         <h2 id="resumo">Resumo tático de bolso · 1 minuto</h2>

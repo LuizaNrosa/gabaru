@@ -71,13 +71,28 @@
       },
       {
         "slug": "razao-e-proporcao",
-        "titulo": "Razão e proporção",
-        "status": "amostra"
+        "titulo": "Razão, proporção e escala",
+        "status": "publicado"
       },
       {
         "slug": "unidades-e-escalas",
         "titulo": "Unidades e escalas",
         "status": "amostra"
+      },
+      {
+        "slug": "porcentagem-e-matematica-financeira",
+        "titulo": "Porcentagem e matemática financeira",
+        "status": "publicado"
+      },
+      {
+        "slug": "geometria-plana-e-medidas",
+        "titulo": "Geometria plana e medidas",
+        "status": "publicado"
+      },
+      {
+        "slug": "triangulos-pitagoras-e-solidos",
+        "titulo": "Semelhança, Pitágoras, trigonometria e volumes",
+        "status": "publicado"
       },
       {
         "slug": "apendice",

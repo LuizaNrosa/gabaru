@@ -1,8 +1,12 @@
 import 'server-only';
 import conteudo from '@/data/apostila-etec-portugues.json';
 import ciencias from '@/data/apostila-etec-ciencias.json';
+import matematica from '@/data/apostila-etec-matematica.json';
+
+export type FiguraApostila = { src: string; alt: string; largura: number; altura: number; legenda?: string };
 
 export type ExemploPortugues = {
+  figura?: FiguraApostila;
   suporte: string[];
   comando: string;
   alternativas: string[];
@@ -25,12 +29,12 @@ export type CapituloPortugues = {
   codigos: string[];
   raioX: string;
   intuicao: string[];
-  teoria: { titulo: string; texto: string }[];
+  teoria: { titulo: string; texto: string; figura?: FiguraApostila }[];
   armadilha: string;
   exemplos: ExemploPortugues[];
   oficiais: QuestaoComentada[];
   resumo: string[];
 };
 
-export const capitulosPortugues: Record<string, CapituloPortugues> = { ...conteudo, ...ciencias };
+export const capitulosPortugues: Record<string, CapituloPortugues> = { ...conteudo, ...ciencias, ...matematica };
 export const apostilaEtecSlug = 'vestibulinho-etec';

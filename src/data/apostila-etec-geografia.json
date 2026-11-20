@@ -675,5 +675,605 @@
         ]
       }
     ]
+  },
+  "brasil-territorio-campo-e-industria": {
+    "materia": "Matéria 5 · Ciências Humanas · Geografia",
+    "introducao": "Este capítulo olha para o Brasil como espaço produzido pelo trabalho: a divisão em regiões, o minério de ferro de Minas e do Pará, a soja que sai por Santos, a Via Dutra no Vale do Paraíba, o seringueiro do Acre, as fábricas que trocaram a capital pelo interior paulista. A ETEC cobra isso ligando a paisagem que o aluno conhece ao processo econômico que a formou.",
+    "codigos": [
+      "GE04"
+    ],
+    "raioX": "Os itens pedem: divisão regional do IBGE e suas mudanças; minérios e onde estão; exportações e portos; pecuária extensiva e intensiva; cinturão verde; industrialização e desconcentração industrial; setores da economia; reservas extrativistas e o trabalho do seringueiro; efeitos da tecnologia sobre o emprego. Os distratores costumam inverter extensiva e intensiva ou pôr um estado na região errada.",
+    "intuicao": [
+      "Primário extrai e cultiva; secundário transforma; terciário presta serviços e comercia.",
+      "Extensivo = muita terra, pouca técnica. Intensivo = pouca terra, muita técnica e capital.",
+      "A indústria procura mão de obra barata, incentivos fiscais e boas estradas: por isso saiu da capital rumo ao interior.",
+      "O Brasil exporta sobretudo produtos primários (commodities): soja, minério de ferro, petróleo, carne, café."
+    ],
+    "teoria": [
+      {
+        "titulo": "Regiões do Brasil",
+        "texto": "A divisão do IBGE (de 1970, com ajustes) tem cinco regiões: Norte, Nordeste, Centro-Oeste, Sudeste e Sul.\n\nMudanças depois de 1970:\n\n• 1977: Mato Grosso é dividido, e surge Mato Grosso do Sul (ambos no Centro-Oeste).\n• 1988: Tocantins é desmembrado de Goiás e passa a integrar a Região Norte; Rondônia (que já era estado desde 1981), Roraima e Amapá viram estados da Região Norte; Fernando de Noronha é incorporado a Pernambuco.\n\nOutra regionalização usada é a dos complexos regionais: Amazônia, Nordeste e Centro-Sul."
+      },
+      {
+        "titulo": "Setores da economia",
+        "texto": "• Primário: agricultura, pecuária, pesca, extrativismo e mineração.\n• Secundário: indústria e construção civil.\n• Terciário: comércio e serviços (saúde, educação, bancos, transporte, turismo, alimentação).\n\nHoje o terciário emprega a maior parte dos brasileiros. Educação, saúde e serviços financeiros, setores em que as mulheres são maioria entre os assalariados, são terciários."
+      },
+      {
+        "titulo": "Agropecuária",
+        "texto": "• Pecuária extensiva: gado solto em grandes áreas, pouca técnica, baixa produtividade.\n• Pecuária intensiva: confinamento, ração, melhoramento genético, inseminação artificial, alta produtividade.\n• Agronegócio: grandes propriedades mecanizadas que produzem commodities para exportação, como a soja do Centro-Oeste.\n• Agricultura familiar: pequenas propriedades, responsáveis por grande parte dos alimentos do mercado interno.\n• Cinturão verde: pequenas e médias propriedades ao redor das cidades, especializadas em hortaliças e frutas para abastecê-las."
+      },
+      {
+        "titulo": "Mineração e energia",
+        "texto": "• O minério de ferro (hematita, $Fe_2O_3$) é o mineral mais exportado. Vem do Quadrilátero Ferrífero (MG) e de Carajás (PA), em escudos cristalinos antigos.\n• Petróleo e gás ficam em bacias sedimentares, como o pré-sal no litoral do Sudeste.\n• A matriz elétrica brasileira é majoritariamente renovável, com destaque para as hidrelétricas e o avanço de eólica e solar."
+      },
+      {
+        "titulo": "Industrialização brasileira",
+        "texto": "• A riqueza do café financiou as primeiras indústrias em São Paulo, no fim do século XIX.\n• Era Vargas: indústria de base estatal (siderurgia, petróleo).\n• Governo JK: entrada de multinacionais e da indústria automobilística, no ABC paulista.\n• Desde os anos 1970: desconcentração industrial. Fábricas deixam a Região Metropolitana de São Paulo em busca de mão de obra mais barata, incentivos fiscais e boas rodovias no interior (Campinas, São José dos Campos, Ribeirão Preto) e em outros estados.\n\nA indústria têxtil e de confecção é uma das maiores empregadoras da indústria de transformação, com muita mão de obra feminina."
+      },
+      {
+        "titulo": "Transportes e redes",
+        "texto": "• O Brasil depende muito do transporte rodoviário, mais caro para longas distâncias que o ferroviário e o hidroviário.\n• Ferrovias paulistas do século XIX levavam o café ao porto de Santos. Hoje Santos é o maior porto da América Latina e exporta muita soja, açúcar e carne.\n• A Via Dutra (1951), ligando São Paulo e Rio pelo Vale do Paraíba, consolidou o vale como eixo industrial e tecnológico (São José dos Campos, polo aeroespacial).\n• Redes de comunicação e internet integram o território e mudam o trabalho: a automação reduz postos em bancos e fábricas."
+      },
+      {
+        "titulo": "Amazônia, extrativismo e conflitos",
+        "texto": "• Seringueiros extraem o látex cortando (\"sangrando\") a casca da seringueira, árvore nativa da Amazônia.\n• Chico Mendes, seringueiro e líder sindical de Xapuri (AC), defendeu a floresta em pé e as reservas extrativistas; foi assassinado em 1988.\n• Reserva extrativista: terra de domínio público (da União), com uso concedido às populações tradicionais, que vivem do extrativismo sustentável.\n• O avanço da soja e do gado sobre a floresta gera desmatamento e conflitos por terra."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Dados de um setor e pergunta sobre qual setor é.\n• Comparação extensivo × intensivo.\n• Causa da desconcentração industrial.\n• Atividades e direitos de populações tradicionais.\n\nDesconfie de alternativas que põem estados em regiões erradas (Tocantins no Centro-Oeste, Mato Grosso do Sul no Sudeste) ou que confundem técnicas modernas com tradicionais."
+      }
+    ],
+    "armadilha": "Confundir pecuária intensiva com gado solto em grandes áreas: isso é extensiva. E esquecer que Tocantins, criado em 1988, pertence à Região Norte.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Um banco fecha agências e passa a atender quase tudo por aplicativo."
+        ],
+        "comando": "A mudança afeta principalmente o setor",
+        "alternativas": [
+          "primário.",
+          "secundário.",
+          "terciário, com redução de postos de trabalho.",
+          "extrativista.",
+          "agrícola."
+        ],
+        "passos": [
+          "Bancos são serviços: terciário.",
+          "A automação reduz empregos."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é extração e cultivo.",
+          "B é indústria.",
+          "D é parte do primário.",
+          "E é primário."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma fazenda cria bois em confinamento, com ração balanceada e inseminação artificial."
+        ],
+        "comando": "É um exemplo de pecuária",
+        "alternativas": [
+          "extensiva.",
+          "intensiva.",
+          "de subsistência.",
+          "nômade.",
+          "itinerante."
+        ],
+        "passos": [
+          "Alta técnica e capital, pouca área: intensiva."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A usa grandes áreas e pouca técnica.",
+          "C é para consumo próprio.",
+          "D não se aplica.",
+          "E não se aplica."
+        ]
+      },
+      {
+        "suporte": [
+          "O estado do Tocantins foi criado em 1988."
+        ],
+        "comando": "Ele faz parte da região",
+        "alternativas": [
+          "Centro-Oeste.",
+          "Nordeste.",
+          "Norte.",
+          "Sudeste.",
+          "Sul."
+        ],
+        "passos": [
+          "Desmembrado de Goiás, foi incluído no Norte."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é a região de Goiás.",
+          "B não é.",
+          "D não é.",
+          "E não é."
+        ]
+      },
+      {
+        "suporte": [
+          "Pequenas propriedades em volta da Grande São Paulo produzem alface, tomate e morango para a cidade."
+        ],
+        "comando": "Essas áreas formam",
+        "alternativas": [
+          "o agronegócio de exportação.",
+          "o cinturão verde.",
+          "reservas extrativistas.",
+          "latifúndios monocultores.",
+          "áreas de mineração."
+        ],
+        "passos": [
+          "Abastecimento urbano com hortifrúti: cinturão verde."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é voltado ao mercado externo.",
+          "C ficam em áreas de floresta.",
+          "D são grandes propriedades.",
+          "E não produzem alimentos."
+        ]
+      },
+      {
+        "suporte": [
+          "Muitas fábricas deixaram a capital paulista e foram para cidades do interior."
+        ],
+        "comando": "Uma razão importante foi",
+        "alternativas": [
+          "a falta de estradas no interior.",
+          "a busca por incentivos fiscais e mão de obra mais barata.",
+          "a proibição de indústrias no Brasil.",
+          "o fim do porto de Santos.",
+          "a ausência de consumidores na capital."
+        ],
+        "passos": [
+          "Custos menores e boas rodovias atraíram as indústrias."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o interior tem boas rodovias.",
+          "C não ocorreu.",
+          "D: Santos segue ativo.",
+          "E: a capital é grande mercado."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q020",
+        "correta": "E",
+        "justificativa": "A Dutra consolidou o Vale do Paraíba como eixo industrial e tecnológico entre São Paulo e Rio.",
+        "distratores": [
+          "A: a industrialização não se baseou em madeira nativa.",
+          "B: portos secos do Mercosul não foram o efeito principal.",
+          "C: caminhões não criam clima árido.",
+          "D: o vale não virou a principal área agropastoril do país."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q033",
+        "correta": "C",
+        "justificativa": "O seringueiro talha a seringueira para extrair o látex, matéria-prima da borracha natural.",
+        "distratores": [
+          "A contraria a luta de Chico Mendes.",
+          "B: a seringueira é nativa e não é derrubada pelo seringueiro.",
+          "D: terra indígena não vai para reforma agrária.",
+          "E contraria a defesa da floresta."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q033",
+        "correta": "E",
+        "justificativa": "A soja é um dos principais produtos exportados pelo porto de Santos.",
+        "distratores": [
+          "A: semicondutores são importados.",
+          "B: óleo de palma não é exportação relevante por Santos.",
+          "C: o Brasil importa fertilizantes.",
+          "D: o Brasil importa trigo."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q017",
+        "correta": "D",
+        "justificativa": "A pecuária intensiva é moderna e usa técnicas como melhoramento genético e inseminação artificial.",
+        "distratores": [
+          "A descreve a pecuária extensiva.",
+          "B descreve a criação tradicional a pasto.",
+          "C descreve práticas tradicionais do semiárido.",
+          "E: gado solto com sal descreve a extensiva."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q013",
+        "correta": "B",
+        "justificativa": "O minério mais exportado é a hematita, de ferro, extraída em Minas Gerais e no Pará.",
+        "distratores": [
+          "A: cromita não é o principal minério exportado.",
+          "C: galena é de chumbo.",
+          "D: cassiterita é de estanho.",
+          "E: calcopirita é de cobre."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q009",
+        "correta": "D",
+        "justificativa": "Nas reservas extrativistas, as terras são de domínio público (da União), e o uso é das comunidades tradicionais.",
+        "distratores": [
+          "A: o usufruto não é de todos os brasileiros.",
+          "B: as terras não são particulares.",
+          "C: não são para latifundiários.",
+          "E: não são terras privadas."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q042",
+        "correta": "B",
+        "justificativa": "Os antigos territórios de Rondônia, Roraima e Amapá viraram estados da Região Norte.",
+        "distratores": [
+          "A: Tocantins foi para a Região Norte.",
+          "C: Fernando de Noronha foi incorporado a Pernambuco.",
+          "D: Mato Grosso do Sul é do Centro-Oeste.",
+          "E: a Guanabara foi incorporada ao Rio de Janeiro, no Sudeste."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q047",
+        "correta": "D",
+        "justificativa": "O minério de ferro brasileiro é extraído em escudos cristalinos, terrenos geológicos antigos.",
+        "distratores": [
+          "A: bacias sedimentares guardam petróleo e carvão.",
+          "B: o Brasil não tem dobramentos modernos.",
+          "C: não há depressões absolutas no Brasil.",
+          "E: planícies costeiras são de sedimentos recentes."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q045",
+        "correta": "E",
+        "justificativa": "Peças produzidas, muita mão de obra feminina e grande número de empregos descrevem a indústria têxtil e de confecção.",
+        "distratores": [
+          "A não produz peças nem emprega tanto.",
+          "B não corresponde aos dados.",
+          "C não corresponde aos dados.",
+          "D não produz peças em bilhões."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q012",
+        "correta": "E",
+        "justificativa": "O cinturão verde reúne pequenas e médias propriedades ao redor das cidades, para abastecê-las.",
+        "distratores": [
+          "A descreve o agronegócio exportador.",
+          "B descreve a plantation.",
+          "C: cinturão verde não é floresta nativa.",
+          "D: não é formado por cooperativas do MST disputando a soja."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q004",
+        "correta": "D",
+        "justificativa": "A tecnologia reduz postos de trabalho, como nos bancos.",
+        "distratores": [
+          "A: a tecnologia aumentou a produção agropecuária.",
+          "B: o just in time é do toyotismo, não do fordismo.",
+          "C: o acesso à tecnologia é desigual.",
+          "E: o toyotismo é produção flexível, não em massa."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q040",
+        "correta": "B",
+        "justificativa": "Indústrias saíram da Grande São Paulo pelo custo da mão de obra e pelos incentivos fiscais do interior.",
+        "distratores": [
+          "A: a mão de obra mais qualificada estava na capital.",
+          "C: Santos não foi substituído por ferrovias para países vizinhos.",
+          "D: a poluição não foi o motivo principal.",
+          "E: o interior paulista não tem carvão abundante."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q044",
+        "correta": "C",
+        "justificativa": "Saúde, educação, alimentação e finanças são serviços: setor terciário.",
+        "distratores": [
+          "A é extração e cultivo.",
+          "B é indústria.",
+          "D: são empregos formais.",
+          "E: não são vitalícios."
+        ]
+      }
+    ],
+    "resumo": [
+      "Cinco regiões do IBGE; Tocantins (1988) no Norte; MS no Centro-Oeste.",
+      "Primário, secundário, terciário.",
+      "Extensiva: muita terra; intensiva: muita técnica.",
+      "Cinturão verde abastece as cidades.",
+      "Ferro: hematita, MG e PA, escudos cristalinos.",
+      "Desconcentração industrial: custos e incentivos no interior.",
+      "Santos exporta soja; Dutra fez do Vale do Paraíba eixo industrial.",
+      "Reserva extrativista: terra da União, uso das comunidades."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Uma usina de cana transforma a matéria-prima em açúcar e etanol."
+        ],
+        "comando": "A usina pertence ao setor",
+        "alternativas": [
+          "primário.",
+          "secundário.",
+          "terciário.",
+          "quaternário.",
+          "informal."
+        ],
+        "passos": [
+          "Transformar matéria-prima é indústria."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é o cultivo da cana.",
+          "C são serviços.",
+          "D não é usado nessa divisão.",
+          "E não descreve o setor."
+        ]
+      },
+      {
+        "suporte": [
+          "Gado solto em pastagens naturais enormes, com poucos cuidados técnicos."
+        ],
+        "comando": "É pecuária",
+        "alternativas": [
+          "intensiva.",
+          "leiteira de confinamento.",
+          "extensiva.",
+          "industrial.",
+          "orgânica de estufa."
+        ],
+        "passos": [
+          "Muita área, pouca técnica: extensiva."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A usa alta técnica.",
+          "B é intensiva.",
+          "D não é termo da pecuária.",
+          "E não existe."
+        ]
+      },
+      {
+        "suporte": [
+          "O Quadrilátero Ferrífero, de onde sai muito minério de ferro, fica em"
+        ],
+        "comando": "qual estado?",
+        "alternativas": [
+          "Minas Gerais.",
+          "Pará.",
+          "São Paulo.",
+          "Bahia.",
+          "Paraná."
+        ],
+        "passos": [
+          "Quadrilátero Ferrífero: Minas Gerais. Carajás é no Pará."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B tem Carajás.",
+          "C não é o caso.",
+          "D não é o caso.",
+          "E não é o caso."
+        ]
+      },
+      {
+        "suporte": [
+          "O Mato Grosso do Sul surgiu da divisão de Mato Grosso, em 1977."
+        ],
+        "comando": "Ele pertence à região",
+        "alternativas": [
+          "Sudeste.",
+          "Sul.",
+          "Norte.",
+          "Centro-Oeste.",
+          "Nordeste."
+        ],
+        "passos": [
+          "Os dois estados ficaram no Centro-Oeste."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A não é.",
+          "B não é.",
+          "C não é.",
+          "E não é."
+        ]
+      },
+      {
+        "suporte": [
+          "Chico Mendes defendia a floresta em pé e o uso sustentável pelos seringueiros."
+        ],
+        "comando": "Uma proposta dele foi a criação de",
+        "alternativas": [
+          "reservas extrativistas.",
+          "pastos para gado.",
+          "hidrelétricas na floresta.",
+          "monoculturas de soja.",
+          "loteamentos urbanos."
+        ],
+        "passos": [
+          "Reservas extrativistas protegem a floresta e o modo de vida tradicional."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B desmata.",
+          "C alaga a floresta.",
+          "D desmata.",
+          "E não se aplica."
+        ]
+      },
+      {
+        "suporte": [
+          "O principal destino da soja brasileira é"
+        ],
+        "comando": "o",
+        "alternativas": [
+          "mercado interno de doces.",
+          "abastecimento de hortas urbanas.",
+          "consumo exclusivo do Nordeste.",
+          "exportação, sobretudo para a China.",
+          "uso em siderúrgicas."
+        ],
+        "passos": [
+          "A soja é a principal commodity agrícola exportada."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A não é o destino.",
+          "B não se aplica.",
+          "C não é o caso.",
+          "E não se aplica."
+        ]
+      },
+      {
+        "suporte": [
+          "Para longas distâncias e cargas pesadas, o transporte mais barato costuma ser o"
+        ],
+        "comando": "tipo",
+        "alternativas": [
+          "rodoviário.",
+          "aéreo.",
+          "ferroviário ou hidroviário.",
+          "a pé.",
+          "por motocicleta."
+        ],
+        "passos": [
+          "Trens e barcos levam muita carga com menos combustível por tonelada."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é mais caro em longas distâncias.",
+          "B é o mais caro.",
+          "D não se aplica.",
+          "E não se aplica."
+        ]
+      },
+      {
+        "suporte": [
+          "Robôs passam a fazer a montagem de carros numa fábrica."
+        ],
+        "comando": "Um efeito provável é",
+        "alternativas": [
+          "aumento de empregos na linha de montagem.",
+          "redução de postos de trabalho na produção.",
+          "fim da indústria automobilística.",
+          "volta ao trabalho artesanal.",
+          "queda da produtividade."
+        ],
+        "passos": [
+          "A automação substitui parte do trabalho humano."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é o oposto.",
+          "C não ocorre.",
+          "D é o oposto.",
+          "E: a produtividade aumenta."
+        ]
+      },
+      {
+        "suporte": [
+          "Hospitais, escolas e lojas fazem parte do setor"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "primário.",
+          "secundário.",
+          "extrativo.",
+          "mineral.",
+          "terciário."
+        ],
+        "passos": [
+          "Serviços e comércio: terciário."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A é extração e cultivo.",
+          "B é indústria.",
+          "C é parte do primário.",
+          "D é parte do primário."
+        ]
+      },
+      {
+        "suporte": [
+          "A indústria automobilística chegou ao Brasil em grande escala no governo"
+        ],
+        "comando": "de",
+        "alternativas": [
+          "Juscelino Kubitschek, no ABC paulista.",
+          "Dom Pedro II.",
+          "Getúlio Vargas, no Acre.",
+          "Deodoro, no Rio Grande do Sul.",
+          "Floriano, no Pará."
+        ],
+        "passos": [
+          "JK abriu o país às montadoras estrangeiras."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é anterior aos automóveis.",
+          "C: Vargas focou a indústria de base.",
+          "D não corresponde.",
+          "E não corresponde."
+        ]
+      },
+      {
+        "suporte": [
+          "O petróleo do pré-sal fica"
+        ],
+        "comando": "em",
+        "alternativas": [
+          "escudos cristalinos do interior.",
+          "camadas sob o fundo do mar, em bacias sedimentares do litoral.",
+          "geleiras da Antártida.",
+          "dobramentos modernos dos Andes.",
+          "florestas da Amazônia."
+        ],
+        "passos": [
+          "Pré-sal: abaixo de uma camada de sal, no litoral do Sudeste."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A guarda minérios metálicos.",
+          "C não se aplica.",
+          "D não se aplica.",
+          "E não é o caso."
+        ]
+      },
+      {
+        "suporte": [
+          "A matriz elétrica brasileira é diferente da de muitos países porque"
+        ],
+        "comando": "é",
+        "alternativas": [
+          "quase toda a carvão.",
+          "quase toda nuclear.",
+          "baseada em petróleo.",
+          "inexistente.",
+          "majoritariamente renovável, com destaque para hidrelétricas."
+        ],
+        "passos": [
+          "Hidrelétricas, eólica e solar predominam."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A não é o caso.",
+          "B: o nuclear é pequeno.",
+          "C: o petróleo pesa nos transportes, não na eletricidade.",
+          "D não faz sentido."
+        ]
+      }
+    ]
   }
 }

@@ -984,6 +984,294 @@
       "Charge comenta fato atual; cartum critica comportamento geral.",
       "Gráfico e tabela: título, eixos, unidade, legenda e período antes dos números.",
       "Imagem mostra; legenda informa tempo, lugar e autoria."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "\"Prefeitura inaugura nova unidade de saúde no bairro Jardim das Flores. O posto vai atender 8 mil moradores e funciona das 7h às 19h.\""
+        ],
+        "comando": "O trecho pertence ao gênero",
+        "alternativas": [
+          "crônica.",
+          "notícia.",
+          "poema.",
+          "receita.",
+          "artigo de opinião."
+        ],
+        "passos": [
+          "Informa um fato recente com dados objetivos (o quê, onde, quantos, horário).",
+          "Essas marcas são da notícia."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: a crônica comenta o cotidiano com tom pessoal.",
+          "C: não há versos.",
+          "D: não há ingredientes nem modo de preparo.",
+          "E: não há opinião defendida."
+        ]
+      },
+      {
+        "suporte": [
+          "Cartaz: \"Dengue mata. Não deixe água parada. Cada um faz a sua parte.\""
+        ],
+        "comando": "A função de linguagem predominante é a",
+        "alternativas": [
+          "referencial, porque só informa números.",
+          "poética, porque explora rimas.",
+          "apelativa (conativa), porque tenta levar o leitor a agir.",
+          "metalinguística, porque explica palavras.",
+          "fática, porque testa o canal de comunicação."
+        ],
+        "passos": [
+          "Verbos no imperativo (\"não deixe\") e o apelo ao leitor (\"cada um\") buscam uma ação.",
+          "É a função apelativa."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: o cartaz não traz dados numéricos.",
+          "B: não há rima nem jogo poético central.",
+          "D: não explica o código.",
+          "E: não há \"alô\", \"entendeu?\" ou teste de canal."
+        ]
+      },
+      {
+        "suporte": [
+          "Tirinha: no primeiro quadro, o filho diz que arrumou o quarto. No segundo, a mãe abre a porta do armário e cai uma montanha de roupas."
+        ],
+        "comando": "O humor nasce",
+        "alternativas": [
+          "da quebra de expectativa entre a fala do filho e o que a imagem mostra.",
+          "do uso de rimas no diálogo.",
+          "da descrição científica do quarto.",
+          "de uma notícia sobre limpeza.",
+          "da ausência de imagens."
+        ],
+        "passos": [
+          "A fala promete um quarto arrumado.",
+          "A imagem revela que a bagunça foi só escondida: quebra de expectativa."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: não há rimas.",
+          "C: não há linguagem científica.",
+          "D: tirinha não é notícia.",
+          "E: o humor depende justamente da imagem."
+        ]
+      },
+      {
+        "suporte": [
+          "Charge: um homem de terno corta a última árvore de uma praça e coloca no lugar uma placa: \"Área verde preservada\"."
+        ],
+        "comando": "A charge critica",
+        "alternativas": [
+          "o excesso de árvores nas cidades.",
+          "a contradição entre o discurso de preservação e a atitude de destruir.",
+          "a falta de placas nas praças.",
+          "o uso de terno no trabalho.",
+          "a beleza das praças modernas."
+        ],
+        "passos": [
+          "A placa diz o contrário do que a imagem mostra.",
+          "A ironia denuncia o discurso falso."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A inverte a crítica.",
+          "C: a placa é o elemento irônico, não o problema.",
+          "D: a roupa só identifica a autoridade.",
+          "E: não há elogio."
+        ]
+      },
+      {
+        "suporte": [
+          "Tabela: Biblioteca da escola — empréstimos por mês. Março: 120; Abril: 180; Maio: 90."
+        ],
+        "comando": "É correto concluir que",
+        "alternativas": [
+          "maio teve o maior número de empréstimos.",
+          "abril teve o dobro de empréstimos de maio.",
+          "março teve o dobro de abril.",
+          "os empréstimos cresceram todos os meses.",
+          "março e maio tiveram o mesmo número."
+        ],
+        "passos": [
+          "Abril: 180; maio: 90. 180 = 2 × 90."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: maio teve o menor número.",
+          "C: março (120) é menor que abril.",
+          "D: caiu de abril para maio.",
+          "E: 120 e 90 são diferentes."
+        ]
+      },
+      {
+        "suporte": [
+          "Gráfico de barras: venda de sorvetes em uma cantina. Janeiro: 300; Julho: 60."
+        ],
+        "comando": "Uma explicação compatível com o gráfico é que",
+        "alternativas": [
+          "as vendas são iguais o ano todo.",
+          "em julho se vendeu cinco vezes mais que em janeiro.",
+          "a cantina fechou em janeiro.",
+          "em janeiro, mês mais quente, as vendas foram maiores.",
+          "em julho não houve venda."
+        ],
+        "passos": [
+          "300 em janeiro contra 60 em julho.",
+          "Relacionar com o calor do verão é inferência coerente."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: os valores são muito diferentes.",
+          "B inverte: janeiro vendeu cinco vezes mais.",
+          "C: houve 300 vendas em janeiro.",
+          "E: houve 60 vendas em julho."
+        ]
+      },
+      {
+        "suporte": [
+          "Anúncio: foto de uma família sorrindo dentro de um carro, com o texto \"Espaço para quem você ama\"."
+        ],
+        "comando": "A relação entre imagem e texto busca",
+        "alternativas": [
+          "associar o carro a afeto e segurança familiar.",
+          "informar o consumo de combustível.",
+          "criticar o uso de automóveis.",
+          "narrar a história da empresa.",
+          "explicar regras de trânsito."
+        ],
+        "passos": [
+          "A imagem mostra família feliz; o texto fala em \"quem você ama\".",
+          "O produto é ligado a sentimentos positivos."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: não há dados técnicos.",
+          "C: o anúncio valoriza o carro.",
+          "D: não há narrativa da empresa.",
+          "E: não há regras."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Querida vó, aqui na cidade nova está tudo bem. A escola é grande e já fiz dois amigos. Sinto falta do seu bolo de fubá. Beijos, Lia.\""
+        ],
+        "comando": "O texto é",
+        "alternativas": [
+          "um editorial.",
+          "uma bula.",
+          "um verbete.",
+          "uma carta pessoal.",
+          "um anúncio."
+        ],
+        "passos": [
+          "Vocativo (\"Querida vó\"), relato pessoal, despedida e assinatura.",
+          "Estrutura de carta pessoal."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: editorial é a opinião de um jornal.",
+          "B: bula orienta o uso de remédio.",
+          "C: verbete define uma palavra.",
+          "E: não vende nada."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Ingredientes: 2 ovos, 1 xícara de leite, 1 xícara de farinha. Modo de preparo: bata tudo e asse por 30 minutos.\""
+        ],
+        "comando": "Predomina o tipo textual",
+        "alternativas": [
+          "narrativo.",
+          "descritivo.",
+          "argumentativo.",
+          "expositivo.",
+          "injuntivo (instrucional)."
+        ],
+        "passos": [
+          "Verbos no imperativo ensinam a fazer algo.",
+          "É o tipo injuntivo, típico da receita."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A: não conta uma história.",
+          "B: não se limita a descrever.",
+          "C: não defende tese.",
+          "D: não explica um conceito."
+        ]
+      },
+      {
+        "suporte": [
+          "Em um mapa do bairro, a legenda indica: ● escola; ■ posto de saúde; ▲ ponto de ônibus. A escola aparece ao lado de dois triângulos."
+        ],
+        "comando": "Pela leitura do mapa,",
+        "alternativas": [
+          "há um posto de saúde ao lado da escola.",
+          "há dois pontos de ônibus perto da escola.",
+          "não há transporte perto da escola.",
+          "existem duas escolas no bairro.",
+          "o mapa não tem legenda."
+        ],
+        "passos": [
+          "Triângulo = ponto de ônibus.",
+          "Dois triângulos ao lado da escola = dois pontos de ônibus."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: posto de saúde é o quadrado.",
+          "C contradiz o mapa.",
+          "D: o círculo aparece uma vez na descrição.",
+          "E: a legenda existe."
+        ]
+      },
+      {
+        "suporte": [
+          "Infográfico sobre água: um copo cheio representa toda a água do planeta; dele, só uma gota pequena aparece em destaque, com a legenda \"água doce acessível\"."
+        ],
+        "comando": "O recurso visual mostra que",
+        "alternativas": [
+          "a água doce acessível é uma parcela muito pequena do total.",
+          "toda a água do planeta é potável.",
+          "a água doce é a maior parte da água.",
+          "não existe água salgada.",
+          "o copo representa um rio."
+        ],
+        "passos": [
+          "A gota no copo cheio expressa proporção: pouca água doce disponível."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: só a gota é acessível.",
+          "C inverte a proporção.",
+          "D: o restante do copo é água salgada ou inacessível.",
+          "E: o copo representa toda a água."
+        ]
+      },
+      {
+        "suporte": [
+          "Artigo de jornal: \"A escola em tempo integral é o melhor caminho para reduzir a evasão. Em cidades que a adotaram, o abandono caiu pela metade.\""
+        ],
+        "comando": "O gênero e sua marca principal são",
+        "alternativas": [
+          "notícia, por relatar um fato sem opinião.",
+          "conto, por ter personagens.",
+          "artigo de opinião, por defender uma tese com argumentos.",
+          "bula, por trazer instruções.",
+          "diário, por registrar a rotina do autor."
+        ],
+        "passos": [
+          "\"É o melhor caminho\" é uma tese.",
+          "O dado sobre o abandono é argumento: artigo de opinião."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: há opinião explícita.",
+          "B: não há narrativa.",
+          "D: não há instruções de uso.",
+          "E: não há registro pessoal datado."
+        ]
+      }
     ]
   },
   "sentido-e-leitura-literaria": {
@@ -1298,6 +1586,291 @@
       "Eu lírico não é o autor; narrador em 1ª pessoa tem visão parcial.",
       "Direto → indireto: mude pessoa, tempo verbal e advérbios.",
       "Título, repetição e desfecho são as pistas do sentido global."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "\"Depois da prova, Caio estava com a cabeça nas nuvens.\""
+        ],
+        "comando": "A expressão destacada significa que Caio estava",
+        "alternativas": [
+          "em um avião.",
+          "distraído, pensando em outra coisa.",
+          "com dor de cabeça.",
+          "muito atento.",
+          "com frio."
+        ],
+        "passos": [
+          "Sentido figurado: \"cabeça nas nuvens\" é estar distraído, sonhando."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A lê a expressão ao pé da letra.",
+          "C não corresponde à expressão.",
+          "D é o oposto.",
+          "E não tem relação."
+        ]
+      },
+      {
+        "suporte": [
+          "\"O vento assobiava entre as janelas da casa velha.\""
+        ],
+        "comando": "A figura de linguagem presente é",
+        "alternativas": [
+          "metonímia.",
+          "hipérbole.",
+          "antítese.",
+          "personificação.",
+          "eufemismo."
+        ],
+        "passos": [
+          "Assobiar é ação humana atribuída ao vento.",
+          "É personificação (prosopopeia)."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: metonímia troca um termo por outro relacionado.",
+          "B: não há exagero.",
+          "C: não há ideias opostas.",
+          "E: não há suavização."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Já te falei um milhão de vezes para fechar a porta!\""
+        ],
+        "comando": "O \"milhão de vezes\" é exemplo de",
+        "alternativas": [
+          "hipérbole, um exagero para dar ênfase.",
+          "comparação.",
+          "ironia.",
+          "onomatopeia.",
+          "pleonasmo."
+        ],
+        "passos": [
+          "Ninguém repete algo um milhão de vezes: é exagero intencional."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: não há \"como\" ligando dois termos.",
+          "C: não se diz o contrário do que se pensa.",
+          "D: não imita som.",
+          "E: não há repetição de ideia."
+        ]
+      },
+      {
+        "suporte": [
+          "Após uma prova cheia de erros, o colega comenta: \"Que beleza de resultado, hein!\""
+        ],
+        "comando": "O comentário é",
+        "alternativas": [
+          "um elogio sincero.",
+          "uma metáfora.",
+          "uma ironia, pois diz o contrário do que pensa.",
+          "uma definição.",
+          "uma onomatopeia."
+        ],
+        "passos": [
+          "O contexto (muitos erros) contradiz o elogio.",
+          "Dizer o oposto do que se pensa é ironia."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A ignora o contexto.",
+          "B: não há comparação implícita.",
+          "D: não define nada.",
+          "E: não imita som."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Ele é tão forte quanto um touro.\""
+        ],
+        "comando": "A figura de linguagem é",
+        "alternativas": [
+          "metáfora.",
+          "comparação.",
+          "personificação.",
+          "antítese.",
+          "catacrese."
+        ],
+        "passos": [
+          "Há um conectivo comparativo (\"tão... quanto\").",
+          "Com conectivo, é comparação (símile)."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: na metáfora não há conectivo (\"Ele é um touro\").",
+          "C: o touro não ganha traços humanos.",
+          "D: não há oposição.",
+          "E: catacrese é metáfora já desgastada, como \"pé da mesa\"."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Lucas viu o vizinho com o binóculo.\""
+        ],
+        "comando": "A frase é ambígua porque",
+        "alternativas": [
+          "o verbo \"viu\" está no futuro.",
+          "não se sabe quem é Lucas.",
+          "não fica claro se o binóculo estava com Lucas ou com o vizinho.",
+          "falta o sujeito.",
+          "não há ambiguidade."
+        ],
+        "passos": [
+          "\"Com o binóculo\" pode indicar o instrumento usado por Lucas ou algo que o vizinho segurava.",
+          "Duas leituras possíveis: ambiguidade."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: \"viu\" está no passado.",
+          "B: Lucas é o sujeito, identificado.",
+          "D: o sujeito é Lucas.",
+          "E: há duas leituras."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Tic-tac, tic-tac: o relógio não deixava ninguém dormir.\""
+        ],
+        "comando": "\"Tic-tac\" é",
+        "alternativas": [
+          "uma metáfora.",
+          "uma hipérbole.",
+          "uma ironia.",
+          "um eufemismo.",
+          "uma onomatopeia."
+        ],
+        "passos": [
+          "Palavra que imita um som é onomatopeia."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A: não há comparação.",
+          "B: não há exagero.",
+          "C: não há sentido oposto.",
+          "D: não há suavização."
+        ]
+      },
+      {
+        "suporte": [
+          "Poema: \"Na rua deserta / a lua acordada / vigia a cidade / que dorme cansada.\""
+        ],
+        "comando": "No poema,",
+        "alternativas": [
+          "há rimas entre \"acordada\" e \"cansada\".",
+          "não há versos.",
+          "o eu lírico narra uma partida de futebol.",
+          "a lua é descrita como um objeto sem vida.",
+          "há quatro estrofes."
+        ],
+        "passos": [
+          "\"Acordada\" e \"cansada\" terminam com o mesmo som: rima."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: há quatro versos.",
+          "C: o tema é a noite na cidade.",
+          "D: a lua \"vigia\": é personificada.",
+          "E: é uma estrofe de quatro versos."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Eu entrei na sala tremendo. Ninguém percebeu, mas meu coração batia na garganta.\""
+        ],
+        "comando": "O foco narrativo é",
+        "alternativas": [
+          "narrador observador, em 3ª pessoa.",
+          "narrador personagem, em 1ª pessoa.",
+          "narrador onisciente, em 3ª pessoa.",
+          "não há narrador.",
+          "diálogo teatral."
+        ],
+        "passos": [
+          "\"Eu entrei\", \"meu coração\": quem narra participa da história."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o narrador não está fora da história.",
+          "C: não é 3ª pessoa.",
+          "D: há narrador.",
+          "E: não há falas de personagens em cena."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Os idosos que vivem sozinhos passaram desta para melhor mais cedo, segundo a pesquisa.\""
+        ],
+        "comando": "\"Passaram desta para melhor\" é",
+        "alternativas": [
+          "hipérbole.",
+          "eufemismo, para suavizar a ideia de morrer.",
+          "antítese.",
+          "onomatopeia.",
+          "personificação."
+        ],
+        "passos": [
+          "A expressão evita dizer \"morreram\".",
+          "Suavizar é eufemismo."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: não há exagero.",
+          "C: não há oposição.",
+          "D: não imita som.",
+          "E: nada inanimado ganha vida."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Há tanto silêncio nesta casa barulhenta de memórias.\""
+        ],
+        "comando": "O verso trabalha principalmente com",
+        "alternativas": [
+          "onomatopeia.",
+          "comparação explícita.",
+          "eufemismo.",
+          "oposição de ideias (paradoxo).",
+          "linguagem técnica."
+        ],
+        "passos": [
+          "Silêncio e \"barulhenta\" se opõem na mesma imagem.",
+          "Juntar ideias contrárias cria o paradoxo."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: não há som imitado.",
+          "B: não há \"como\".",
+          "C: nada é suavizado.",
+          "E: a linguagem é poética."
+        ]
+      },
+      {
+        "suporte": [
+          "Crônica: o autor conta que, na fila do banco, uma criança começou a cantar e, aos poucos, todos sorriram. Termina: \"Às vezes, a cidade só precisa de uma música desafinada.\""
+        ],
+        "comando": "O desfecho",
+        "alternativas": [
+          "explica uma regra bancária.",
+          "contradiz todo o texto.",
+          "apresenta uma notícia policial.",
+          "resume o tema da crônica: pequenos gestos mudam o cotidiano.",
+          "descreve a agência do banco."
+        ],
+        "passos": [
+          "A crônica parte de um fato simples do dia a dia.",
+          "A última frase revela a reflexão: um gesto pequeno alegrou todos."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: não há regra bancária.",
+          "B: o desfecho confirma o que foi narrado.",
+          "C: não é notícia policial.",
+          "E: o desfecho reflete, não descreve."
+        ]
+      }
     ]
   },
   "coesao-e-intertextualidade": {
@@ -1603,6 +2176,297 @@
       "Troca de conectivo: mesma relação e frase correta.",
       "Sem conectivo? Teste “por isso”, “mas”, “porque” entre as frases.",
       "Paráfrase mantém o sentido; paródia muda o sentido do original."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "\"A professora chamou os alunos e entregou-lhes as provas corrigidas.\""
+        ],
+        "comando": "O pronome \"lhes\" retoma",
+        "alternativas": [
+          "a professora.",
+          "as provas.",
+          "os alunos.",
+          "as correções.",
+          "a escola."
+        ],
+        "passos": [
+          "\"Entregou a quem?\" Aos alunos.",
+          "\"Lhes\" retoma \"os alunos\"."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: a professora é quem entrega.",
+          "B: as provas são o que se entrega.",
+          "D: \"correções\" não aparece como termo.",
+          "E: escola não é citada."
+        ]
+      },
+      {
+        "suporte": [
+          "\"O cão latiu a noite toda. O animal estava assustado com os fogos.\""
+        ],
+        "comando": "\"O animal\" é um recurso de coesão que",
+        "alternativas": [
+          "introduz um novo personagem.",
+          "retoma \"o cão\" com um termo mais geral.",
+          "contradiz a primeira frase.",
+          "indica tempo.",
+          "retoma \"os fogos\"."
+        ],
+        "passos": [
+          "\"Animal\" é um hiperônimo de \"cão\".",
+          "Retoma o mesmo ser, evitando repetição."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: é o mesmo cão.",
+          "C: confirma a primeira frase.",
+          "D: não é marcador temporal.",
+          "E: quem estava assustado era o cão."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Estudou muito; ____, foi aprovado no vestibulinho.\""
+        ],
+        "comando": "O conectivo que completa a frase com sentido de conclusão é",
+        "alternativas": [
+          "porém",
+          "embora",
+          "portanto",
+          "contudo",
+          "caso"
+        ],
+        "passos": [
+          "A segunda parte é consequência da primeira.",
+          "\"Portanto\" indica conclusão."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: \"porém\" indica oposição.",
+          "B: \"embora\" indica concessão e pede outra construção.",
+          "D: \"contudo\" indica oposição.",
+          "E: \"caso\" indica condição."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Choveu muito, mas o jogo aconteceu.\""
+        ],
+        "comando": "Sem mudar o sentido, \"mas\" pode ser trocado por",
+        "alternativas": [
+          "porque.",
+          "portanto.",
+          "logo.",
+          "no entanto.",
+          "assim."
+        ],
+        "passos": [
+          "\"Mas\" indica oposição.",
+          "\"No entanto\" mantém a oposição."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A indica causa.",
+          "B indica conclusão.",
+          "C indica conclusão.",
+          "E indica conclusão ou modo."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Se você economizar água, a conta vai diminuir.\""
+        ],
+        "comando": "A conjunção \"se\" estabelece relação de",
+        "alternativas": [
+          "condição.",
+          "causa.",
+          "oposição.",
+          "tempo.",
+          "comparação."
+        ],
+        "passos": [
+          "A conta diminui caso a pessoa economize.",
+          "\"Se\" introduz condição."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: a frase não afirma que a pessoa já economizou.",
+          "C: não há oposição.",
+          "D: não marca tempo.",
+          "E: não compara."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Maria comprou maçãs e bananas. As primeiras estavam caras; as segundas, baratas.\""
+        ],
+        "comando": "\"As segundas\" refere-se a",
+        "alternativas": [
+          "Maria.",
+          "maçãs.",
+          "bananas.",
+          "feiras.",
+          "compras."
+        ],
+        "passos": [
+          "\"As primeiras\" = o primeiro item citado (maçãs).",
+          "\"As segundas\" = o segundo (bananas)."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: Maria é a compradora.",
+          "B corresponde a \"as primeiras\".",
+          "D: feira não foi citada.",
+          "E: não há esse termo."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Fui à padaria. ___ comprei pão. ___ voltei para casa.\""
+        ],
+        "comando": "Os conectivos que dão progressão temporal são",
+        "alternativas": [
+          "Lá / Depois",
+          "Porém / Contudo",
+          "Embora / Caso",
+          "Porque / Pois",
+          "Se / Quando"
+        ],
+        "passos": [
+          "\"Lá\" retoma a padaria; \"depois\" marca a sequência."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B indica oposição, que não existe.",
+          "C indica concessão e condição.",
+          "D indica causa.",
+          "E: \"se\" é condição e não encaixa no início."
+        ]
+      },
+      {
+        "suporte": [
+          "Texto 1: \"Minha terra tem palmeiras / onde canta o sabiá.\" (Gonçalves Dias)",
+          "Texto 2 (anúncio): \"Minha terra tem palmeiras e agora tem internet rápida.\""
+        ],
+        "comando": "A relação entre os textos é de",
+        "alternativas": [
+          "plágio, porque copia sem mudar nada.",
+          "intertextualidade, pois o anúncio retoma um poema conhecido e o adapta.",
+          "tradução.",
+          "resumo do poema.",
+          "nenhuma relação."
+        ],
+        "passos": [
+          "O anúncio aproveita um verso famoso e muda o final.",
+          "É intertextualidade (paródia ou paráfrase com outro propósito)."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o anúncio modifica o verso e não esconde a origem.",
+          "C: os dois estão em português.",
+          "D: não resume o poema.",
+          "E: a retomada é evidente."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Os jogadores entraram em campo. Eles estavam confiantes. Ø Venceram por 3 a 0.\""
+        ],
+        "comando": "O símbolo Ø marca",
+        "alternativas": [
+          "erro de concordância.",
+          "elipse do sujeito \"eles\", já conhecido.",
+          "troca de personagem.",
+          "falta de pontuação.",
+          "mudança de tempo verbal."
+        ],
+        "passos": [
+          "O sujeito não aparece, mas o verbo \"venceram\" mostra que são eles.",
+          "É elipse."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: \"venceram\" concorda com \"eles\".",
+          "C: os jogadores continuam.",
+          "D: a pontuação está correta.",
+          "E: o tempo segue no passado."
+        ]
+      },
+      {
+        "suporte": [
+          "\"O celular caiu na piscina. Apesar disso, continuou funcionando.\""
+        ],
+        "comando": "\"Apesar disso\" indica",
+        "alternativas": [
+          "causa.",
+          "finalidade.",
+          "concessão: o fato não impediu o funcionamento.",
+          "conclusão.",
+          "adição."
+        ],
+        "passos": [
+          "\"Disso\" retoma a queda.",
+          "A queda poderia impedir, mas não impediu: concessão."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: a queda não causou o funcionamento.",
+          "B: não há objetivo.",
+          "D: não é conclusão.",
+          "E: não soma informação."
+        ]
+      },
+      {
+        "suporte": [
+          "Texto incoerente: \"Hoje fez um sol forte e, por isso, todos levaram guarda-chuva porque estava chovendo.\""
+        ],
+        "comando": "O problema do texto é",
+        "alternativas": [
+          "falta de pontuação.",
+          "erro de ortografia.",
+          "excesso de pronomes.",
+          "falta de título.",
+          "contradição de sentido entre \"sol forte\" e \"estava chovendo\"."
+        ],
+        "passos": [
+          "O texto afirma sol forte e chuva ao mesmo tempo, como causa e consequência.",
+          "Há quebra de coerência."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A: a pontuação não é o problema.",
+          "B: não há erros de grafia.",
+          "C: não há excesso de pronomes.",
+          "D: título não é exigência."
+        ]
+      },
+      {
+        "suporte": [
+          "Texto A (reportagem): \"O uso de bicicleta cresceu 30% na cidade.\"",
+          "Texto B (charge): um ciclista espremido entre dois caminhões, dizendo: \"Cresci, mas cadê a ciclovia?\""
+        ],
+        "comando": "Comparando os textos,",
+        "alternativas": [
+          "os dois negam o crescimento do uso da bicicleta.",
+          "o texto B elogia o trânsito.",
+          "os dois são notícias.",
+          "o texto A é humorístico.",
+          "o texto B critica a falta de estrutura para um crescimento que o texto A informa."
+        ],
+        "passos": [
+          "A informa o dado.",
+          "B aceita o dado e denuncia a falta de ciclovias."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A: os dois confirmam o crescimento.",
+          "B: a charge critica o trânsito.",
+          "C: B é charge.",
+          "D: A é informativo."
+        ]
+      }
     ]
   },
   "argumentacao-e-revisao": {
@@ -1910,6 +2774,294 @@
       "Depois do “mas” vem a posição do autor.",
       "Proposta certa resolve o problema exato e atende a todos os critérios.",
       "Reescrita boa mantém o sentido."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "\"Os celulares devem ser guardados durante as aulas. Estudos mostram que notificações reduzem a concentração dos alunos.\""
+        ],
+        "comando": "A tese do texto é",
+        "alternativas": [
+          "estudos mostram que notificações existem.",
+          "os celulares devem ser guardados durante as aulas.",
+          "os alunos não gostam de celulares.",
+          "as aulas são longas.",
+          "as notificações são úteis."
+        ],
+        "passos": [
+          "Tese é a ideia defendida.",
+          "A segunda frase é o argumento que a sustenta."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A confunde o argumento com a tese.",
+          "C não está no texto.",
+          "D não está no texto.",
+          "E contradiz o argumento."
+        ]
+      },
+      {
+        "suporte": [
+          "I. \"O Brasil tem 26 estados e um Distrito Federal.\"",
+          "II. \"O Brasil é o país mais bonito do mundo.\""
+        ],
+        "comando": "Sobre as frases,",
+        "alternativas": [
+          "as duas são fatos.",
+          "as duas são opiniões.",
+          "I é fato e II é opinião.",
+          "I é opinião e II é fato.",
+          "nenhuma pode ser analisada."
+        ],
+        "passos": [
+          "I pode ser verificado.",
+          "\"Mais bonito\" é juízo de valor: opinião."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: beleza não se comprova.",
+          "B: o número de estados é verificável.",
+          "D inverte.",
+          "E: ambas podem ser classificadas."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Conheci dois paulistanos mal-educados; portanto, todos os paulistanos são mal-educados.\""
+        ],
+        "comando": "O argumento é fraco porque",
+        "alternativas": [
+          "usa dados oficiais.",
+          "faz uma generalização a partir de poucos casos.",
+          "cita uma autoridade.",
+          "apresenta uma comparação correta.",
+          "usa linguagem formal."
+        ],
+        "passos": [
+          "Dois casos não representam milhões de pessoas.",
+          "É generalização apressada."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: não há dados oficiais.",
+          "C: não há autoridade citada.",
+          "D: não há comparação válida.",
+          "E: a linguagem não é o problema."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Segundo a Organização Mundial da Saúde, adolescentes devem fazer 60 minutos de atividade física por dia.\""
+        ],
+        "comando": "O argumento usado é de",
+        "alternativas": [
+          "autoridade, ao citar uma instituição reconhecida.",
+          "exemplo pessoal.",
+          "comparação histórica.",
+          "senso comum.",
+          "ironia."
+        ],
+        "passos": [
+          "A credibilidade vem da OMS, instituição especializada."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: não há relato pessoal.",
+          "C: não há comparação histórica.",
+          "D: a fonte é técnica, não o \"todo mundo sabe\".",
+          "E: não há ironia."
+        ]
+      },
+      {
+        "suporte": [
+          "Mensagem recebida: \"URGENTE!!! Beber água gelada causa câncer. Compartilhe com todos!\" Não há autor nem fonte."
+        ],
+        "comando": "A atitude mais adequada é",
+        "alternativas": [
+          "compartilhar imediatamente.",
+          "acreditar porque está em letras maiúsculas.",
+          "verificar em fontes confiáveis antes de repassar.",
+          "apagar o celular.",
+          "enviar para pessoas idosas primeiro."
+        ],
+        "passos": [
+          "Sem fonte, apelo emocional e pedido de compartilhamento: sinais de notícia falsa.",
+          "Checar antes de repassar."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A espalha informação possivelmente falsa.",
+          "B: maiúsculas não dão credibilidade.",
+          "D é exagero sem sentido.",
+          "E espalha e atinge um público vulnerável."
+        ]
+      },
+      {
+        "suporte": [
+          "\"É verdade que a reforma da praça vai demorar. No entanto, o resultado trará lazer seguro para as crianças.\""
+        ],
+        "comando": "A estratégia argumentativa é",
+        "alternativas": [
+          "concessão seguida de refutação: admite um ponto contrário e o supera.",
+          "contradição sem argumento.",
+          "apenas narração.",
+          "enumeração de dados numéricos.",
+          "ataque pessoal."
+        ],
+        "passos": [
+          "\"É verdade que...\" admite uma objeção.",
+          "\"No entanto\" apresenta o argumento mais forte."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: há argumento.",
+          "C: não há narrativa.",
+          "D: não há números.",
+          "E: não se ataca ninguém."
+        ]
+      },
+      {
+        "suporte": [
+          "Proposta de um aluno para reduzir o lixo na escola: \"Colocar lixeiras de coleta seletiva em cada pátio e fazer uma campanha com cartazes feitos pelas turmas.\""
+        ],
+        "comando": "A proposta é adequada porque",
+        "alternativas": [
+          "culpa os funcionários pelo lixo.",
+          "apresenta ações concretas e quem as executa.",
+          "é vaga e geral.",
+          "proíbe o lanche.",
+          "depende só do governo federal."
+        ],
+        "passos": [
+          "Diz o que fazer (lixeiras, campanha) e quem faz (turmas)."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: não culpa ninguém.",
+          "C: a proposta é específica.",
+          "D: não proíbe o lanche.",
+          "E: depende da própria escola."
+        ]
+      },
+      {
+        "suporte": [
+          "Frase para revisar: \"Os aluno chegou cedo na escola.\""
+        ],
+        "comando": "A versão revisada segundo a norma-padrão é",
+        "alternativas": [
+          "\"Os aluno chegaram cedo na escola.\"",
+          "\"O alunos chegou cedo na escola.\"",
+          "\"Os alunos chegou cedo à escola.\"",
+          "\"Os alunos chegaram cedo à escola.\"",
+          "\"Os aluno chegou cedo à escola.\""
+        ],
+        "passos": [
+          "Concordância: \"os alunos chegaram\".",
+          "Regência formal: \"chegar a\", com crase antes de \"escola\"."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A mantém \"aluno\" no singular.",
+          "B erra o artigo e o verbo.",
+          "C erra a concordância do verbo.",
+          "E mantém os dois erros de concordância."
+        ]
+      },
+      {
+        "suporte": [
+          "Fala transcrita: \"Aí, tipo, a gente foi lá e, tipo, resolveu o problema, né?\""
+        ],
+        "comando": "Na passagem para um relatório escrito, o mais adequado é",
+        "alternativas": [
+          "manter \"tipo\" e \"né\" para ser fiel.",
+          "escrever tudo em letras maiúsculas.",
+          "retirar marcas da oralidade: \"Fomos ao local e resolvemos o problema.\"",
+          "trocar por gírias novas.",
+          "acrescentar emojis."
+        ],
+        "passos": [
+          "Relatório pede linguagem formal.",
+          "\"Tipo\", \"aí\" e \"né\" são marcas da fala."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: as marcas orais não cabem no relatório.",
+          "B não resolve a adequação.",
+          "D mantém a informalidade.",
+          "E: emojis não são adequados ao gênero."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Todo mundo sabe que estudar de madrugada é melhor.\""
+        ],
+        "comando": "O ponto fraco do argumento é",
+        "alternativas": [
+          "citar uma pesquisa confiável.",
+          "apoiar-se no senso comum, sem comprovação.",
+          "apresentar dados estatísticos.",
+          "usar exemplos concretos.",
+          "ouvir especialistas."
+        ],
+        "passos": [
+          "\"Todo mundo sabe\" não prova nada.",
+          "Falta evidência."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: não há pesquisa.",
+          "C: não há dados.",
+          "D: não há exemplos.",
+          "E: não há especialistas."
+        ]
+      },
+      {
+        "suporte": [
+          "\"A escola deve ter horta porque melhora a alimentação, ensina ciências na prática e aproxima as famílias.\""
+        ],
+        "comando": "A estrutura do argumento é",
+        "alternativas": [
+          "uma tese sem justificativa.",
+          "uma pergunta sem resposta.",
+          "apenas uma descrição da horta.",
+          "uma narrativa com personagens.",
+          "uma tese sustentada por três razões."
+        ],
+        "passos": [
+          "Tese: a escola deve ter horta.",
+          "Razões: alimentação, ciências, famílias."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A: há justificativas.",
+          "B: não é pergunta.",
+          "C: não descreve a horta.",
+          "D: não há narrativa."
+        ]
+      },
+      {
+        "suporte": [
+          "E-mail a uma empresa: \"E aí, mano! Meu pedido não chegou, dá um jeito aí.\""
+        ],
+        "comando": "Uma revisão adequada ao gênero é:",
+        "alternativas": [
+          "\"Fala, galera! Cadê meu pedido?\"",
+          "\"PEDIDO NÃO CHEGOU!!!\"",
+          "\"Mano, resolve isso logo.\"",
+          "\"Pedido. Não. Chegou.\"",
+          "\"Prezados, o pedido nº 4521 não foi entregue. Solicito informações sobre o prazo.\""
+        ],
+        "passos": [
+          "E-mail formal pede saudação, dados precisos e pedido claro."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A mantém a informalidade.",
+          "B grita e não informa dados.",
+          "C é informal e impositivo.",
+          "D é seco e sem dados."
+        ]
+      }
     ]
   },
   "gramatica-e-variacao": {
@@ -2224,6 +3376,297 @@
       "Vírgula nunca separa sujeito e verbo; isola aposto, vocativo e explicações.",
       "Oração entre vírgulas explica; sem vírgulas restringe.",
       "Variedade não é erro; adequação depende da situação."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "\"Faltaram três alunos na excursão.\""
+        ],
+        "comando": "O sujeito da frase é",
+        "alternativas": [
+          "\"excursão\".",
+          "oculto.",
+          "inexistente.",
+          "\"três alunos\".",
+          "indeterminado."
+        ],
+        "passos": [
+          "Quem faltou? Três alunos.",
+          "Por isso o verbo vai ao plural: \"faltaram\"."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: \"na excursão\" indica lugar.",
+          "B: o sujeito está escrito.",
+          "C: há sujeito.",
+          "E: o sujeito é identificado."
+        ]
+      },
+      {
+        "suporte": [
+          "Qual frase está de acordo com a norma-padrão?"
+        ],
+        "comando": "Assinale a alternativa correta.",
+        "alternativas": [
+          "Haviam muitas pessoas na fila.",
+          "Fazem dois anos que me mudei.",
+          "Houve muitas reclamações.",
+          "Existe muitos problemas.",
+          "Sobrou poucas vagas."
+        ],
+        "passos": [
+          "\"Haver\" no sentido de existir é impessoal: fica no singular.",
+          "\"Houve muitas reclamações\" está correta."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: deveria ser \"havia\".",
+          "B: \"fazer\" indicando tempo é impessoal: \"faz dois anos\".",
+          "D: \"existem muitos problemas\".",
+          "E: \"sobraram poucas vagas\"."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Vou à escola\" e \"Vou a pé\"."
+        ],
+        "comando": "O acento grave (crase) aparece só na primeira porque",
+        "alternativas": [
+          "\"pé\" é palavra masculina, que não admite o artigo \"a\".",
+          "toda palavra antes de \"escola\" leva crase.",
+          "verbos de movimento nunca levam crase.",
+          "a crase é opcional nos dois casos.",
+          "\"escola\" é verbo."
+        ],
+        "passos": [
+          "Crase = preposição \"a\" + artigo \"a\".",
+          "\"Escola\" aceita \"a\" (a escola); \"pé\" é masculino."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: a crase depende do artigo, não de qualquer palavra.",
+          "C: \"vou à escola\" tem crase com verbo de movimento.",
+          "D: diante de masculino, não há crase.",
+          "E: \"escola\" é substantivo."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Ontem eu fui ao cinema\" e \"Amanhã eu irei ao cinema\"."
+        ],
+        "comando": "Os verbos estão, respectivamente, no",
+        "alternativas": [
+          "presente e passado.",
+          "pretérito perfeito e futuro do presente.",
+          "futuro e presente.",
+          "imperativo e subjuntivo.",
+          "presente e futuro do pretérito."
+        ],
+        "passos": [
+          "\"Fui\": ação concluída no passado (pretérito perfeito).",
+          "\"Irei\": futuro do presente."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: \"fui\" não é presente.",
+          "C inverte os tempos.",
+          "D: os verbos estão no indicativo.",
+          "E: \"iria\" seria futuro do pretérito."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Infelizmente\", \"desleal\" e \"guarda-chuva\"."
+        ],
+        "comando": "Os processos de formação são, respectivamente,",
+        "alternativas": [
+          "derivação sufixal, derivação prefixal e composição.",
+          "composição, composição e derivação.",
+          "derivação prefixal, sufixal e sufixal.",
+          "onomatopeia, sigla e derivação.",
+          "empréstimo, composição e sigla."
+        ],
+        "passos": [
+          "\"Infelizmente\": in + feliz + mente. O sufixo \"-mente\" forma o advérbio a partir de \"infeliz\".",
+          "\"Desleal\": prefixo des-. \"Guarda-chuva\": junção de duas palavras."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: \"infelizmente\" e \"desleal\" não juntam duas palavras.",
+          "C: \"desleal\" tem prefixo, e \"guarda-chuva\" é composição.",
+          "D: nenhuma é onomatopeia ou sigla.",
+          "E: são palavras do português formadas aqui."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Ele disse que viria, mas não veio.\""
+        ],
+        "comando": "A palavra \"que\" é",
+        "alternativas": [
+          "pronome relativo.",
+          "advérbio.",
+          "conjunção integrante, introduzindo o que ele disse.",
+          "interjeição.",
+          "preposição."
+        ],
+        "passos": [
+          "\"Disse o quê?\" \"Que viria.\"",
+          "Introduz uma oração que completa o verbo: conjunção integrante."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: o relativo retoma um termo anterior (\"o livro que li\").",
+          "B: não indica circunstância.",
+          "D: não exprime emoção.",
+          "E: não liga termos como preposição."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Vende-se casas\" aparece numa placa."
+        ],
+        "comando": "Na norma-padrão, a forma correta é",
+        "alternativas": [
+          "\"Vende-se casas\", porque o sujeito é indeterminado.",
+          "\"Vendem-se casas\", porque \"casas\" é o sujeito paciente.",
+          "\"Se vende casas\".",
+          "\"Vendeu-se casas\".",
+          "\"Casas vende-se\"."
+        ],
+        "passos": [
+          "Na voz passiva sintética, o verbo concorda com o sujeito.",
+          "\"Casas são vendidas\" → \"vendem-se casas\"."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: com verbo transitivo direto, o \"se\" é passivo.",
+          "C mantém o erro de concordância e inicia com pronome oblíquo.",
+          "D muda o tempo e mantém o erro.",
+          "E tem ordem estranha e erro de concordância."
+        ]
+      },
+      {
+        "suporte": [
+          "Fala de um personagem do interior: \"Nóis vai na roça cedim.\""
+        ],
+        "comando": "A frase deve ser entendida como",
+        "alternativas": [
+          "erro que deve ser corrigido em qualquer situação.",
+          "variante linguística regional e social, adequada ao contexto do personagem.",
+          "língua estrangeira.",
+          "linguagem técnica.",
+          "texto sem sentido."
+        ],
+        "passos": [
+          "A variação faz parte da língua.",
+          "Na fala do personagem, ela caracteriza origem e grupo social."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A ignora a adequação ao contexto.",
+          "C: é português.",
+          "D: não é vocabulário técnico.",
+          "E: a mensagem é compreensível."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Me empresta o caderno?\" disse a aluna à colega. Num requerimento à diretora, ela escreveu: \"Solicito o empréstimo do livro.\""
+        ],
+        "comando": "A diferença mostra que",
+        "alternativas": [
+          "a aluna não sabe Português.",
+          "a segunda frase é informal.",
+          "só a primeira frase está correta.",
+          "há níveis de linguagem adequados a cada situação.",
+          "as duas situações exigem a mesma linguagem."
+        ],
+        "passos": [
+          "Com a colega, registro informal; no requerimento, formal.",
+          "Adequação é escolher o registro certo."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: ela adapta a linguagem com competência.",
+          "B: a segunda é formal.",
+          "C: as duas são adequadas a seus contextos.",
+          "E: as situações são diferentes."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Sem dúvida, você vai vencer.\"",
+          "\"Sem dúvida você vai vencer.\""
+        ],
+        "comando": "Sobre a vírgula,",
+        "alternativas": [
+          "ela é obrigatória entre sujeito e verbo.",
+          "a vírgula transforma a frase em pergunta.",
+          "a vírgula muda o sentido para negativo.",
+          "a segunda frase está errada por falta de ponto final.",
+          "separar o adjunto adverbial no início é recomendável, e as duas frases são aceitas."
+        ],
+        "passos": [
+          "Adjunto adverbial curto deslocado pode ou não levar vírgula.",
+          "O sentido é o mesmo."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A: nunca se separa sujeito de verbo por vírgula.",
+          "B: só o ponto de interrogação faz pergunta.",
+          "C: o sentido continua afirmativo.",
+          "D: as duas terminam em ponto."
+        ]
+      },
+      {
+        "suporte": [
+          "Palavras: \"você\", \"café\", \"útil\", \"saída\"."
+        ],
+        "comando": "São acentuadas, respectivamente, por serem",
+        "alternativas": [
+          "oxítona terminada em -e, oxítona terminada em -e, paroxítona terminada em -l, hiato tônico com i.",
+          "todas proparoxítonas.",
+          "todas oxítonas.",
+          "monossílabos tônicos.",
+          "paroxítonas terminadas em vogal."
+        ],
+        "passos": [
+          "Você, café: oxítonas em -e.",
+          "Útil: paroxítona em -l. Saída: \"i\" tônico em hiato."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: nenhuma é proparoxítona.",
+          "C: \"útil\" e \"saída\" não são oxítonas.",
+          "D: nenhuma é monossílaba.",
+          "E: \"café\" é oxítona, e paroxítonas em vogal não se acentuam."
+        ]
+      },
+      {
+        "suporte": [
+          "\"Os meninos e a menina estão cansados.\""
+        ],
+        "comando": "O adjetivo \"cansados\" está no masculino plural porque",
+        "alternativas": [
+          "concorda só com \"a menina\".",
+          "concorda com o verbo.",
+          "todo adjetivo fica no masculino.",
+          "está errado; deveria ser \"cansada\".",
+          "concorda com núcleos de gêneros diferentes, e prevalece o masculino plural."
+        ],
+        "passos": [
+          "Dois núcleos, um masculino e um feminino.",
+          "O adjetivo posposto vai para o masculino plural."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A: concorda com os dois núcleos.",
+          "B: adjetivo concorda com o substantivo, não com o verbo.",
+          "C: adjetivos concordam com o substantivo.",
+          "D: \"cansada\" deixaria \"os meninos\" de fora."
+        ]
+      }
     ]
   }
 }

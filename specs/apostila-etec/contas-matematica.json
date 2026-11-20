@@ -607,6 +607,21 @@
       "rotulo": "exemplo-5",
       "conta": "30 - 18",
       "esperado": 12
+    },
+    {
+      "rotulo": "fixacao-1",
+      "conta": "25+273",
+      "esperado": 298
+    },
+    {
+      "rotulo": "fixacao-2",
+      "conta": "1.8*40+32",
+      "esperado": 104
+    },
+    {
+      "rotulo": "fixacao-11",
+      "conta": "10*0.000012*100*100",
+      "esperado": 1.2
     }
   ],
   "biodiversidade-e-conservacao": [],
@@ -626,6 +641,21 @@
       "rotulo": "exemplo-2",
       "conta": "12+32",
       "esperado": 44
+    },
+    {
+      "rotulo": "fixacao-3",
+      "conta": "4+32",
+      "esperado": 36
+    },
+    {
+      "rotulo": "fixacao-4",
+      "conta": "44*36/12",
+      "esperado": 132
+    },
+    {
+      "rotulo": "fixacao-6",
+      "conta": "270/100",
+      "esperado": 2.7
     }
   ],
   "ondas-som-luz-e-astronomia": [
@@ -658,6 +688,26 @@
       "rotulo": "exemplo-2",
       "conta": "1500*2/2",
       "esperado": 1500
+    },
+    {
+      "rotulo": "fixacao-1",
+      "conta": "2*170",
+      "esperado": 340
+    },
+    {
+      "rotulo": "fixacao-3",
+      "conta": "340*2/2",
+      "esperado": 340
+    },
+    {
+      "rotulo": "fixacao-6",
+      "conta": "2*1.5",
+      "esperado": 3
+    },
+    {
+      "rotulo": "fixacao-11",
+      "conta": "300000000/100000000",
+      "esperado": 3
     }
   ],
   "celulas-e-corpo-humano": [],
@@ -929,5 +979,101 @@
   "tempo-antiguidade-e-idade-media": [],
   "expansao-colonizacao-e-escravidao": [],
   "revolucoes-independencias-e-imperio": [],
-  "republicas-e-mundo-contemporaneo": []
+  "republicas-e-mundo-contemporaneo": [],
+  "movimento-forcas-e-pressao": [
+    {
+      "rotulo": "fixacao-1",
+      "conta": "180/3",
+      "esperado": 60
+    },
+    {
+      "rotulo": "fixacao-2",
+      "conta": "72/3.6",
+      "esperado": 20
+    },
+    {
+      "rotulo": "fixacao-3",
+      "conta": "30/6",
+      "esperado": 5
+    },
+    {
+      "rotulo": "fixacao-4",
+      "conta": "40/8",
+      "esperado": 5
+    },
+    {
+      "rotulo": "fixacao-7",
+      "conta": "60*10",
+      "esperado": 600
+    },
+    {
+      "rotulo": "fixacao-8",
+      "conta": "200/0.5",
+      "esperado": 400
+    },
+    {
+      "rotulo": "fixacao-10",
+      "conta": "20/10+1",
+      "esperado": 3
+    },
+    {
+      "rotulo": "fixacao-11",
+      "conta": "30*2/40",
+      "esperado": 1.5
+    }
+  ],
+  "atomos-elementos-e-formulas": [
+    {
+      "rotulo": "fixacao-1",
+      "conta": "23-11",
+      "esperado": 12
+    },
+    {
+      "rotulo": "fixacao-2",
+      "conta": "20-2",
+      "esperado": 18
+    },
+    {
+      "rotulo": "fixacao-3",
+      "conta": "17+1",
+      "esperado": 18
+    },
+    {
+      "rotulo": "fixacao-5",
+      "conta": "2+1+4",
+      "esperado": 7
+    },
+    {
+      "rotulo": "fixacao-9",
+      "conta": "2*3-3*2",
+      "esperado": 0
+    }
+  ],
+  "energia-e-eletricidade": [
+    {
+      "rotulo": "fixacao-2",
+      "conta": "5*0.5*30",
+      "esperado": 75
+    },
+    {
+      "rotulo": "fixacao-3",
+      "conta": "75*0.8",
+      "esperado": 60
+    },
+    {
+      "rotulo": "fixacao-4",
+      "conta": "120*0.5",
+      "esperado": 60
+    },
+    {
+      "rotulo": "fixacao-5",
+      "conta": "20/10",
+      "esperado": 2
+    },
+    {
+      "rotulo": "fixacao-9",
+      "conta": "2*10*5",
+      "esperado": 100
+    }
+  ]
 }

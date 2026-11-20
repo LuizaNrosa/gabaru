@@ -6,6 +6,9 @@ import type { ReactNode } from 'react';
 import edital from '../../specs/apostila-etec/edital-verticalizado-etec.json';
 import type { Livro } from '@/lib/livros';
 import matriz from '../../specs/apostila-etec/matriz-incidencia-etec.json';
+import recente from '../../specs/apostila-etec/incidencia-recente.json';
+
+const nivelRecente = (provas: number) => provas >= 18 ? 'alta' : provas >= 10 ? 'média' : 'baixa';
 
 const sumario = [
   { id: 'raio-x', titulo: 'Raio-X da banca' },
@@ -58,7 +61,7 @@ export function LeitorPortuguesEtec({ livro, slug, titulo, capitulo, marca, minu
   marca: string;
   minutos: number | null;
 }) {
-  const incidencia = matriz.topicos.filter(topico => capitulo.codigos.includes(topico.codigo_topico));
+  const incidencia = recente.topicos.filter(topico => capitulo.codigos.includes(topico.codigo));
   const temRaioX = incidencia.length > 0 || capitulo.raioX.length > 0;
   const itens = sumario.filter(item =>
     (item.id !== 'raio-x' || temRaioX)
@@ -77,9 +80,9 @@ export function LeitorPortuguesEtec({ livro, slug, titulo, capitulo, marca, minu
         <h2 id="raio-x">Raio-X da banca</h2>
         {incidencia.length > 0 && <ul className="gb-incidencia">
           {incidencia.map(topico => (
-            <li key={topico.codigo_topico}>
-              <span className="gb-incidencia-selo">Incidência {topico.nivel_incidencia?.toLocaleLowerCase('pt-BR')}</span>{' '}
-              {topico.topico} · presente em {topico.provas_com_aparicao_confirmada} de {matriz.provas_inventariadas} cadernos ({percentual.format(topico.percentual_de_provas ?? 0)}%)
+            <li key={topico.codigo}>
+              <span className="gb-incidencia-selo">Incidência {nivelRecente(topico.provas)}</span>{' '}
+              {topico.topico} · presente em {topico.provas} de {recente.edicoes.length} provas recentes ({topico.itens} questões, {percentual.format(topico.itens / recente.edicoes.length)} por prova)
             </li>
           ))}
         </ul>}

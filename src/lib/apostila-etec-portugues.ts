@@ -1,5 +1,6 @@
 import 'server-only';
 import conteudo from '@/data/apostila-etec-portugues.json';
+import ciencias from '@/data/apostila-etec-ciencias.json';
 
 export type ExemploPortugues = {
   suporte: string[];
@@ -31,5 +32,5 @@ export type CapituloPortugues = {
   resumo: string[];
 };
 
-export const capitulosPortugues: Record<string, CapituloPortugues> = conteudo;
+export const capitulosPortugues: Record<string, CapituloPortugues> = { ...conteudo, ...ciencias };
 export const apostilaEtecSlug = 'vestibulinho-etec';

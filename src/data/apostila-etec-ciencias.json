@@ -1,0 +1,343 @@
+{
+  "movimento-forcas-e-pressao": {
+    "materia": "Matéria 2 · Ciências da Natureza · Física",
+    "introducao": "Movimento, força e pressão aparecem em todas as 23 provas recentes da ETEC. As questões quase nunca pedem fórmulas complicadas: pedem uma conta de velocidade com conversão de unidades, a leitura de uma situação do cotidiano (um barco no rio, um camelo na areia, uma criança na gangorra) e a identificação do princípio físico por trás dela. Este capítulo ensina exatamente isso.",
+    "codigos": [
+      "FI01"
+    ],
+    "raioX": "A banca alterna dois tipos de questão. No primeiro, uma conta de velocidade média, quase sempre com uma armadilha de unidade (metros e quilômetros, minutos e horas). No segundo, uma situação do cotidiano em que você precisa reconhecer o conceito: pressão (força dividida pela área), equilíbrio de forças, inércia, empuxo ou máquina simples. Quando a fórmula é necessária, o enunciado costuma fornecê-la.",
+    "intuicao": [
+      "Antes de qualquer conta, escreva as unidades de cada dado. Metade dos erros em Física na ETEC vem de misturar metros com quilômetros ou minutos com horas.",
+      "Pergunte o que a questão quer: tempo, distância ou velocidade? Escreva a relação v = d ÷ t e isole o que falta.",
+      "Em situações de pressão, pense: a mesma força está espalhada por uma área maior ou concentrada em uma área menor?",
+      "Quando a questão fala em “equilíbrio”, “parado” ou “velocidade constante”, as forças se anulam: a soma delas é zero."
+    ],
+    "teoria": [
+      {
+        "titulo": "Referencial: movimento depende de quem observa",
+        "texto": "Dizer que algo está em movimento só faz sentido em relação a alguma coisa, que chamamos de referencial. Um passageiro sentado num ônibus está parado em relação ao banco, mas em movimento em relação à calçada.\n\n• Um corpo está em movimento quando sua posição muda em relação ao referencial com o passar do tempo.\n• Um corpo está em repouso quando sua posição não muda em relação ao referencial.\n\nNa ETEC, o referencial costuma ser o chão, as margens de um rio ou a estrada. Quando a questão fala em “velocidade em relação às margens”, é a velocidade que alguém parado na margem mediria."
+      },
+      {
+        "titulo": "Velocidade média e a conta mais cobrada da prova",
+        "texto": "Velocidade média é a distância percorrida dividida pelo tempo gasto:\n\n• v = d ÷ t (velocidade = distância ÷ tempo)\n• d = v × t (distância = velocidade × tempo)\n• t = d ÷ v (tempo = distância ÷ velocidade)\n\nExemplo: um ônibus percorre 120 km em 2 horas. Sua velocidade média é 120 ÷ 2 = 60 km/h. Isso não quer dizer que o ônibus andou sempre a 60 km/h: ele pode ter parado em semáforos e corrido mais em outros trechos. A média só olha o total.\n\nUnidades mais comuns:\n\n• km/h (quilômetros por hora): estradas, veículos, animais.\n• m/s (metros por segundo): unidade do Sistema Internacional, muito usada em problemas de Física.\n\nRegra de ouro: a unidade da distância e a do tempo precisam “combinar” com a da velocidade. Se a velocidade está em km/h, use distância em km e tempo em horas."
+      },
+      {
+        "titulo": "Conversões que a banca sempre cobra",
+        "texto": "Quase toda questão de velocidade da ETEC exige ao menos uma conversão. Memorize estas:\n\n• 1 km = 1 000 m.\n• 1 h = 60 min = 3 600 s.\n• 1 min = 60 s.\n• Para passar de m/s para km/h, multiplique por 3,6. Para passar de km/h para m/s, divida por 3,6.\n\nPor que 3,6? Porque 1 m/s = 3 600 m em 1 hora = 3,6 km/h.\n\nTempo em fração de hora:\n\n• 30 min = 0,5 h; 15 min = 0,25 h; 45 min = 0,75 h; 12 min = 0,2 h; 6 min = 0,1 h.\n• Para transformar horas decimais em minutos, multiplique por 60: 0,2 h × 60 = 12 min.\n\nExemplo resolvido: um barco percorre 12 km a 5 m/s. Quanto tempo leva? Primeiro, converta a distância: 12 km = 12 000 m. Depois, t = 12 000 ÷ 5 = 2 400 s. Por fim, 2 400 ÷ 60 = 40 minutos. Quem dividisse 12 por 5 encontraria 2,4 e erraria a questão."
+      },
+      {
+        "titulo": "Velocidade relativa: barcos, correntezas e ultrapassagens",
+        "texto": "Quando dois movimentos se somam, as velocidades se combinam.\n\n• Mesmo sentido: as velocidades se somam. Um barco que anda a 20 km/h em relação à água, num rio com correnteza de 5 km/h, desce o rio a 20 + 5 = 25 km/h em relação às margens.\n• Sentidos opostos: as velocidades se subtraem. O mesmo barco, subindo o rio contra a correnteza, anda a 20 − 5 = 15 km/h em relação às margens.\n\nO mesmo raciocínio vale para uma pessoa andando dentro de um trem, para uma esteira rolante ou para dois carros na estrada. Para comparar quem foi mais rápido, basta subtrair as velocidades: se um grupo anda 50 km por dia e outro 30 km por dia, o primeiro é 20 km/dia mais rápido."
+      },
+      {
+        "titulo": "Aceleração e queda livre",
+        "texto": "Aceleração é a variação da velocidade com o tempo. Um carro que passa de 0 a 20 m/s em 4 s tem aceleração média de 20 ÷ 4 = 5 m/s² (a velocidade aumenta 5 m/s a cada segundo).\n\nPerto da superfície da Terra, todo corpo em queda livre (sem resistência do ar) ganha cerca de 10 m/s de velocidade a cada segundo. Esse valor é a aceleração da gravidade, g ≈ 10 m/s².\n\nA ETEC já pediu a velocidade de um fruto que cai de uma árvore usando a fórmula fornecida no enunciado, v = √(2 · g · H). Com H = 45 m e g = 10 m/s²: v = √(2 · 10 · 45) = √900 = 30 m/s. A questão testa se você sabe substituir os valores e calcular a raiz, não se decorou a fórmula.\n\nSem resistência do ar, objetos de massas diferentes caem juntos. Na prática, o ar freia mais os objetos leves e com grande área, como uma folha de papel aberta."
+      },
+      {
+        "titulo": "Força, massa e peso",
+        "texto": "Força é uma interação capaz de mudar o movimento de um corpo (fazê-lo começar a andar, parar, acelerar, frear ou mudar de direção) ou de deformá-lo. Mede-se em newtons (N).\n\nMassa e peso são coisas diferentes:\n\n• Massa é a quantidade de matéria do corpo. Mede-se em quilogramas (kg) e é a mesma em qualquer lugar.\n• Peso é a força com que um planeta atrai o corpo. Peso = massa × gravidade (P = m · g). Mede-se em newtons.\n\nExemplo: uma pessoa de 60 kg pesa 60 × 10 = 600 N na Terra. Na Lua, onde a gravidade é cerca de 1,6 m/s² (aproximadamente a sexta parte da terrestre), ela pesa cerca de 100 N, mas continua com 60 kg de massa.\n\nNa linguagem do dia a dia, dizemos “peso 60 quilos”. Na Física, isso é a massa. A ETEC às vezes usa essa diferença como pegadinha."
+      },
+      {
+        "titulo": "As leis de Newton no cotidiano",
+        "texto": "Três leis explicam quase todas as situações de força da prova.\n\n• 1ª lei (inércia): um corpo tende a manter seu estado. Se está parado, continua parado; se está em movimento, continua em linha reta com a mesma velocidade, a menos que uma força o obrigue a mudar. É por isso que, quando o ônibus freia, os passageiros são “jogados” para a frente: o corpo deles tende a continuar em movimento. O cinto de segurança existe por causa da inércia.\n• 2ª lei (princípio fundamental): a força resultante é igual à massa vezes a aceleração (F = m · a). Quanto maior a massa, mais força é preciso para acelerar o corpo.\n• 3ª lei (ação e reação): toda força tem uma reação de mesma intensidade e sentido oposto, aplicada em outro corpo. O foguete empurra os gases para baixo e os gases empurram o foguete para cima; ao andar, o pé empurra o chão para trás e o chão empurra o pé para a frente.\n\nUma consequência importante: se um corpo está parado ou com velocidade constante, a força resultante sobre ele é zero. Um foguete que paira parado no ar tem força para cima exatamente igual ao seu peso. Para frear a queda, a força para cima precisa ser maior que o peso."
+      },
+      {
+        "titulo": "Força resultante e equilíbrio",
+        "texto": "Quando várias forças atuam sobre um corpo, o efeito final é o da força resultante.\n\n• Forças no mesmo sentido: somam-se. Duas crianças empurrando uma caixa para a direita com 30 N e 40 N produzem 70 N para a direita.\n• Forças em sentidos opostos: subtraem-se, e a resultante aponta para o lado da maior. Se uma criança empurra com 100 N para a direita e outra com 75 N para a esquerda, a resultante é 25 N para a direita.\n• Equilíbrio: a resultante é zero. No exemplo anterior, para a caixa ficar parada, alguém precisa empurrar com mais 25 N do lado da força menor.\n\nAtrito é uma força que se opõe ao deslizamento entre superfícies. Ele dificulta empurrar um móvel, mas também é o que permite andar sem escorregar e frear um carro. Resistência do ar e da água (arrasto) também se opõem ao movimento e aumentam com a velocidade e com a densidade do fluido."
+      },
+      {
+        "titulo": "Pressão: a força espalhada pela área",
+        "texto": "Pressão é a força dividida pela área em que ela atua: p = F ÷ A. A unidade no Sistema Internacional é o pascal (Pa = N/m²).\n\nA mesma força produz pressões diferentes conforme a área:\n\n• Área menor, pressão maior. A faca afiada corta porque a força se concentra num fio muito fino; o salto agulha afunda na grama; a criança que se equilibra num pé só exerce o dobro da pressão de quando está com os dois pés no chão.\n• Área maior, pressão menor. O camelo não afunda na areia porque seus pés largos espalham o peso; esquis e raquetes de neve fazem o mesmo; tratores usam pneus largos em terra fofa.\n\nEssa relação é inversamente proporcional: dobrando a área, a pressão cai pela metade; reduzindo a área pela metade, a pressão dobra.\n\nPergunta-chave para a prova: a força ficou igual e a área mudou? Então a pressão mudou na proporção inversa."
+      },
+      {
+        "titulo": "Pressão nos líquidos e no ar",
+        "texto": "Líquidos e gases também exercem pressão, por causa do peso das camadas acima.\n\n• Pressão na água: aumenta com a profundidade. Na água, a cada 10 m de profundidade, a pressão aumenta cerca de 1 atmosfera (1 atm). Um mergulhador a 30 m suporta cerca de 1 atm do ar + 3 atm da água = 4 atm.\n• Pressão atmosférica: é o peso do ar sobre nós. Ao nível do mar vale cerca de 1 atm. Quanto maior a altitude, menor a pressão, porque há menos ar acima.\n\nConsequências cobradas na prova:\n\n• O ouvido “entope” ao subir ou descer uma serra, porque a pressão externa muda mais rápido que a pressão dentro da orelha média.\n• Mergulhadores precisam subir devagar: uma queda rápida de pressão faz os gases dissolvidos no sangue formarem bolhas (doença da descompressão).\n• Vasos comunicantes: num sistema de tubos ligados, aberto em cima, o líquido fica no mesmo nível em todos os ramos, qualquer que seja a forma de cada um. Pedreiros usam uma mangueira com água para marcar dois pontos na mesma altura."
+      },
+      {
+        "titulo": "Empuxo e flutuação",
+        "texto": "Todo corpo mergulhado num líquido recebe uma força para cima chamada empuxo, igual ao peso do líquido que ele desloca (princípio de Arquimedes).\n\n• Se o empuxo é maior que o peso, o corpo sobe e flutua.\n• Se é menor, o corpo afunda.\n• Se é igual, o corpo fica em equilíbrio, nem sobe nem desce.\n\nNa prática, o que decide é a densidade (massa ÷ volume). Corpos menos densos que a água flutuam; mais densos, afundam. Um navio de aço flutua porque seu casco é oco e cheio de ar: a densidade média do navio é menor que a da água. Coletes salva-vidas, boias e as folhas da vitória-régia funcionam assim: compartimentos com ar reduzem a densidade média.\n\nA água do mar é mais densa que a água doce, por isso flutuamos com mais facilidade no mar."
+      },
+      {
+        "titulo": "Máquinas simples: menos força, mais distância",
+        "texto": "Máquinas simples são dispositivos que facilitam um trabalho mudando a intensidade ou a direção da força. Elas não criam energia: quando diminuem a força necessária, aumentam a distância percorrida.\n\n• Alavanca: uma barra rígida que gira em torno de um ponto de apoio (fulcro). Exemplos: gangorra, pé de cabra, tesoura, carrinho de mão, alicate. Nosso antebraço também funciona como alavanca: o cotovelo é o apoio e o bíceps aplica a força.\n• Plano inclinado: uma rampa. Subir pela rampa exige menos força que subir na vertical, mas o caminho é mais longo.\n• Polia (roldana): uma roda com corda. A polia fixa muda a direção da força; a polia móvel reduz a força pela metade.\n• Engrenagens e polias ligadas por correia: a roda maior gira mais devagar (leva mais tempo para dar uma volta) que a menor. Ligadas por correia, giram no mesmo sentido; encaixadas diretamente, em sentidos opostos.\n• Cunha e parafuso: formas de plano inclinado. O machado é uma cunha; o parafuso é um plano inclinado enrolado.\n\nEquilíbrio na alavanca: força × distância ao apoio de um lado = força × distância ao apoio do outro lado. Na gangorra, um adulto três vezes mais pesado que a criança deve sentar três vezes mais perto do apoio."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Conta de velocidade com conversão: “o tempo necessário é de…”, com distância em km e velocidade em m/s, ou tempo pedido em minutos.\n• Comparação de velocidades: quem foi mais rápido e por quantos km/dia ou km/h.\n• Situação do cotidiano + princípio: “essa capacidade está relacionada ao princípio físico da…” (pressão, inércia, empuxo).\n• Forças em equilíbrio: quanto de força e em que sentido para manter algo parado.\n• Pressão em profundidade ou altitude: mergulho, serra, avião.\n• Máquinas simples: reconhecer a alavanca, a polia ou o plano inclinado em uma imagem ou situação.\n\nEdital oculto: fórmulas de queda livre, de pressão e de trabalho aparecem, mas sempre fornecidas no enunciado (“Lembre-se de que…”, “Considere…”). O que você precisa dominar é a substituição dos valores e as conversões de unidades."
+      }
+    ],
+    "armadilha": "A conta certa com a unidade errada. A ETEC monta as alternativas com os resultados de quem esquece de converter km em m ou horas em minutos (no caso do barco que faz 12 km a 5 m/s, a alternativa com “2,4” espera quem dividiu 12 por 5). Antes de marcar, confira se a unidade da resposta é a que o comando pede.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Uma ciclista percorre os 9 km de uma ciclovia à beira-mar em 30 minutos, sem paradas."
+        ],
+        "comando": "A velocidade média da ciclista nesse percurso foi de",
+        "alternativas": [
+          "0,3 km/h.",
+          "3 km/h.",
+          "4,5 km/h.",
+          "18 km/h.",
+          "270 km/h."
+        ],
+        "passos": [
+          "A velocidade média é a distância dividida pelo tempo, v = d ÷ t.",
+          "A distância está em km; para obter km/h, o tempo precisa estar em horas: 30 min = 0,5 h.",
+          "v = 9 ÷ 0,5 = 18 km/h."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A divide 9 por 30 sem converter os minutos e ainda erra a casa decimal.",
+          "B também divide 9 por 30 e erra a ordem de grandeza: 0,3 km por minuto equivale a 18 km/h, não a 3 km/h.",
+          "C divide 9 por 2, confundindo meia hora com dividir a distância pela metade.",
+          "E multiplica 9 por 30, trocando divisão por multiplicação."
+        ]
+      },
+      {
+        "suporte": [
+          "Um barco de pesca desenvolve 12 km/h em relação à água. Ele navega num rio cuja correnteza tem velocidade de 3 km/h."
+        ],
+        "comando": "As velocidades do barco em relação às margens, descendo e subindo o rio, são, respectivamente,",
+        "alternativas": [
+          "12 km/h e 12 km/h.",
+          "15 km/h e 9 km/h.",
+          "9 km/h e 15 km/h.",
+          "15 km/h e 15 km/h.",
+          "36 km/h e 4 km/h."
+        ],
+        "passos": [
+          "Descendo o rio, o barco e a correnteza têm o mesmo sentido: as velocidades se somam, 12 + 3 = 15 km/h.",
+          "Subindo, os sentidos são opostos: as velocidades se subtraem, 12 − 3 = 9 km/h.",
+          "A resposta é 15 km/h e 9 km/h."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A ignora a correnteza, como se as margens fossem o referencial da água.",
+          "C inverte os sentidos: a correnteza ajuda quem desce, não quem sobe.",
+          "D soma a correnteza nos dois sentidos.",
+          "E multiplica e divide as velocidades, operações sem sentido físico aqui."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma caixa de 40 kg está apoiada no chão. Primeiro, ela fica deitada sobre a face maior, de 0,5 m². Depois, é colocada em pé, sobre a face menor, de 0,1 m²."
+        ],
+        "comando": "Em relação à primeira posição, a pressão que a caixa exerce sobre o chão na segunda posição fica",
+        "alternativas": [
+          "5 vezes menor.",
+          "2 vezes menor.",
+          "igual.",
+          "2 vezes maior.",
+          "5 vezes maior."
+        ],
+        "passos": [
+          "O peso da caixa é o mesmo nas duas posições; só a área de apoio muda.",
+          "Pressão = força ÷ área: com a mesma força, pressão e área são inversamente proporcionais.",
+          "A área passou de 0,5 m² para 0,1 m², ficou 5 vezes menor; logo, a pressão fica 5 vezes maior."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A trata pressão e área como diretamente proporcionais.",
+          "B não corresponde à razão entre as áreas e erra o sentido da variação.",
+          "C confunde pressão com peso, que de fato não muda.",
+          "D acerta o sentido, mas erra a razão entre as áreas (0,5 ÷ 0,1 = 5)."
+        ]
+      },
+      {
+        "suporte": [
+          "Num ônibus em movimento retilíneo, o motorista freia de repente. Os passageiros em pé, que não estavam se segurando, se deslocam para a frente."
+        ],
+        "comando": "O fenômeno descrito é explicado",
+        "alternativas": [
+          "pela inércia, pois o corpo dos passageiros tende a manter o movimento que tinha.",
+          "pela ação e reação, pois o freio empurra os passageiros para a frente.",
+          "pela gravidade, que aumenta durante a frenagem.",
+          "pelo empuxo do ar dentro do ônibus.",
+          "pelo atrito dos sapatos com o piso, que empurra os passageiros para a frente."
+        ],
+        "passos": [
+          "Antes da frenagem, ônibus e passageiros se moviam juntos para a frente.",
+          "O freio age sobre o ônibus, não diretamente sobre os passageiros.",
+          "Pela 1ª lei de Newton, o corpo dos passageiros tende a continuar em movimento: é a inércia."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B aplica mal a 3ª lei: a reação à força do freio está no ônibus e na estrada, não nos passageiros.",
+          "C inventa uma variação da gravidade, que não muda com a frenagem.",
+          "D cita o empuxo, irrelevante para o movimento horizontal dos passageiros.",
+          "E inverte o papel do atrito, que ajuda os passageiros a acompanhar o ônibus, e não os empurra para a frente."
+        ]
+      },
+      {
+        "suporte": [
+          "Para levantar uma pedra pesada, um trabalhador apoia uma barra de ferro em um tijolo, coloca uma ponta sob a pedra e empurra a outra ponta para baixo."
+        ],
+        "comando": "Para levantar a pedra fazendo menos força, o trabalhador deve",
+        "alternativas": [
+          "aproximar o tijolo da ponta em que ele empurra.",
+          "aproximar o tijolo da pedra.",
+          "trocar a barra de ferro por uma mais curta.",
+          "empurrar a barra mais perto do tijolo.",
+          "colocar o tijolo exatamente no meio da barra."
+        ],
+        "passos": [
+          "A barra apoiada no tijolo é uma alavanca, e o tijolo é o ponto de apoio.",
+          "No equilíbrio, força × distância ao apoio é igual dos dois lados.",
+          "Para diminuir a força do trabalhador, o braço do lado dele deve ser o maior possível: o apoio deve ficar perto da pedra."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A encurta o braço do trabalhador e aumenta a força necessária.",
+          "C reduz o comprimento disponível e piora a vantagem mecânica.",
+          "D também encurta o braço de quem empurra.",
+          "E iguala os braços: a força necessária fica igual ao peso da pedra."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q042",
+        "correta": "C",
+        "justificativa": "A distância precisa estar em metros para combinar com 5 m/s: 12 km = 12 000 m. O tempo é 12 000 ÷ 5 = 2 400 s, e 2 400 ÷ 60 = 40 minutos.",
+        "distratores": [
+          "A, 20 minutos, corresponde a uma velocidade de 10 m/s, o dobro da informada.",
+          "B, 30 minutos, exigiria cerca de 6,7 m/s, um valor que não sai dos dados.",
+          "D, 50 minutos, corresponde a 4 m/s, velocidade menor que a do enunciado.",
+          "E, 60 minutos, seria o resultado de uma velocidade de cerca de 3,3 m/s."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q037",
+        "correta": "E",
+        "justificativa": "Em relação às margens, as velocidades se combinam: a favor da correnteza, a velocidade do rio se soma à da embarcação; contra a correnteza, subtrai-se.",
+        "distratores": [
+          "A ignora a correnteza, como se a água estivesse parada em relação às margens.",
+          "B afirma que a velocidade diminui nos dois sentidos, o que não ocorre a favor da correnteza.",
+          "C afirma que aumenta nos dois sentidos, o que não ocorre contra a correnteza.",
+          "D inverte os sentidos: é a favor da correnteza que a velocidade aumenta."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q040",
+        "correta": "E",
+        "justificativa": "Os cascos largos aumentam a área de apoio. Com a mesma força peso espalhada por uma área maior, a pressão sobre a areia diminui e o camelo não afunda.",
+        "distratores": [
+          "A cita radiação solar e areia úmida, que não explicam a sustentação no deserto seco.",
+          "B afirma que a gravidade diminui nos desertos, o que é falso.",
+          "C troca o fenômeno por isolamento térmico, sem relação com afundar ou não.",
+          "D fala de condução elétrica, sem relação com o apoio sobre a areia."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q036",
+        "correta": "B",
+        "justificativa": "O perímetro do quadrado é 4 × 500 = 2 000 m = 2 km. O tempo é 2 ÷ 10 = 0,2 h, e 0,2 × 60 = 12 minutos.",
+        "distratores": [
+          "A, 3 minutos, corresponde a percorrer só um lado (500 m) de forma errada ou a converter mal as unidades.",
+          "C, 20 minutos, seria o tempo para cerca de 3,3 km, distância que não aparece no problema.",
+          "D, 200 minutos, vem de dividir 2 000 m por 10 sem converter as unidades.",
+          "E, 250 minutos, vem de usar a área em vez do perímetro ou de outra mistura de unidades."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q030",
+        "correta": "A",
+        "justificativa": "Uma barra rígida que gira em torno de um ponto fixo é a definição de alavanca. No braço, o cotovelo é o apoio, e o bíceps aplica a força.",
+        "distratores": [
+          "B, polia, é uma roda com corda, não uma barra apoiada em um ponto.",
+          "C, rosca, é um plano inclinado enrolado, sem ponto de apoio.",
+          "D, engrenagem, transmite rotação entre rodas dentadas.",
+          "E, mola, armazena energia ao ser deformada e não é uma barra apoiada."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q042",
+        "correta": "A",
+        "justificativa": "Substituindo na fórmula dada: v = √(2 · 10 · 45) = √900 = 30 m/s.",
+        "distratores": [
+          "B, 25 m/s, não é raiz de nenhum produto possível com os dados.",
+          "C, 10 m/s, repete o valor de g em vez de calcular a velocidade.",
+          "D, 9 m/s, corresponderia a uma queda de pouco mais de 4 m.",
+          "E, 3 m/s, esquece um fator 10 na raiz de 900."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q017",
+        "correta": "D",
+        "justificativa": "As folhas da vitória-régia flutuam porque têm compartimentos cheios de ar, que reduzem a densidade média. O colete salva-vidas inflável usa o mesmo princípio para manter a pessoa na superfície.",
+        "distratores": [
+          "A, pés de pato, aumentam a área para impulsionar o nado, não para flutuar.",
+          "B, sinalizadores, servem para avisar, sem relação com a flutuação.",
+          "C, toucas, reduzem o atrito com a água e não ajudam a flutuar.",
+          "E, roupas de neoprene, protegem do frio. Embora o material ajude um pouco a boiar, não é ar retido de propósito para flutuar."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q029",
+        "correta": "E",
+        "justificativa": "O texto explica que a doença ocorre quando a pressão diminui rápido demais. A atitude cautelosa é subir lentamente, para que a pressão varie pouco a cada momento.",
+        "distratores": [
+          "A aumenta a pressão máxima e piora o acúmulo de gases.",
+          "B confunde pressão sanguínea com a pressão da água, que é a causa do problema.",
+          "C acelera a subida justamente no final, quando a variação relativa de pressão é maior.",
+          "D faz exatamente o que o texto aponta como causa da doença."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q006",
+        "correta": "B",
+        "justificativa": "Para frear um corpo que cai, a força para cima precisa ser maior que o peso. Para mantê-lo pairando parado, a resultante deve ser zero: a força para cima precisa ser igual ao peso.",
+        "distratores": [
+          "A diz que, pairando, a força seria menor que o peso, o que faria o propulsor voltar a cair.",
+          "C diz que seria maior que o peso, o que faria o propulsor subir.",
+          "D erra a primeira lacuna: uma força menor que o peso não freia a queda.",
+          "E erra as duas lacunas."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q025",
+        "correta": "A",
+        "justificativa": "Com a mesma força numa área maior, a pressão fica menor que p. Como o filtro do segundo protótipo tem mais orifícios, a água passa por mais caminhos ao mesmo tempo, e a filtragem demora menos.",
+        "distratores": [
+          "B acerta a pressão, mas ignora que há mais orifícios filtrando ao mesmo tempo.",
+          "C acerta a pressão, mas conclui que a filtragem fica mais lenta, ignorando os orifícios extras.",
+          "D erra a relação entre área e pressão: área maior significa pressão menor.",
+          "E também afirma pressão maior, o que contraria p = F ÷ A."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q046",
+        "correta": "E",
+        "justificativa": "A resultante é 100 − 75 = 25 N, no sentido da força maior. Para o equilíbrio, é preciso acrescentar 25 N do lado da força menor, junto com João.",
+        "distratores": [
+          "A acrescenta 100 N, o que inverteria o sentido do movimento.",
+          "B põe 100 N do lado da força maior, aumentando ainda mais a resultante.",
+          "C acrescenta 75 N, o que deixaria uma resultante de 50 N no outro sentido.",
+          "D acerta a intensidade, mas do lado errado, dobrando a resultante."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q036",
+        "correta": "B",
+        "justificativa": "O peso da criança não muda; com um pé só, a área de apoio cai pela metade. Como pressão é força dividida por área, a pressão fica duas vezes maior.",
+        "distratores": [
+          "A, quatro vezes maior, exigiria a área ser reduzida a um quarto.",
+          "C, igual, confunde pressão com peso.",
+          "D, duas vezes menor, trata pressão e área como diretamente proporcionais.",
+          "E, quatro vezes menor, combina dois erros: sentido e intensidade."
+        ]
+      }
+    ],
+    "resumo": [
+      "v = d ÷ t; d = v × t; t = d ÷ v. Unidades combinando sempre.",
+      "1 km = 1 000 m; 1 h = 60 min = 3 600 s; m/s × 3,6 = km/h.",
+      "Mesmo sentido, velocidades somam; sentidos opostos, subtraem.",
+      "Massa (kg) não muda; peso = m × g (N) depende do planeta.",
+      "Inércia: o corpo tende a manter seu movimento. Parado ou velocidade constante = resultante zero.",
+      "Pressão = força ÷ área: área menor, pressão maior.",
+      "Na água, +1 atm a cada 10 m; no alto, a pressão do ar é menor.",
+      "Flutua quem tem densidade média menor que a do líquido.",
+      "Alavanca: força × distância ao apoio igual dos dois lados."
+    ]
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "tempo-antiguidade-e-idade-media": {
+    "materia": "Matéria 4 · Ciências Humanas · História",
+    "introducao": "A História da ETEC quase nunca pede uma data decorada. Ela traz um texto, um mapa ou uma imagem e pergunta o que aquilo revela sobre uma sociedade: por que o Crescente Fértil tem esse nome, para que servia o papiro, como a peste chegou à Europa. Este capítulo cobre o começo da linha do tempo, da Pré-História ao Renascimento, e as ferramentas do historiador: tempo e fontes.",
+    "codigos": [
+      "HI01",
+      "HI02"
+    ],
+    "raioX": "Os itens pedem: tipo de fonte histórica; papel dos rios nas primeiras civilizações; origem da escrita; o lugar das mulheres e o ideal de corpo na Grécia; as estradas romanas; técnicas agrícolas e epidemias medievais; a expansão árabe; Renascimento e Inquisição. Os distratores costumam ser anacrônicos: põem trator na Idade Média, Iluminismo no século XIV ou islã na Mesopotâmia antiga.",
+    "intuicao": [
+      "Pergunte sempre \"isso já existia naquela época?\". Anacronismo é o distrator favorito da banca.",
+      "Rio é sinônimo de água, solo fértil, comida e cidade. As primeiras civilizações nasceram nas margens deles.",
+      "Escrita surgiu para contar e registrar: comércio, impostos, contratos.",
+      "Democracia grega era para poucos: mulheres, escravizados e estrangeiros ficavam de fora."
+    ],
+    "teoria": [
+      {
+        "titulo": "Tempo histórico e séculos",
+        "texto": "O calendário ocidental conta os anos a partir do nascimento de Cristo: antes dele, a.C.; depois, d.C. Não há ano zero.\n\nPara achar o século de um ano d.C.: tire os dois últimos algarismos e some 1, a menos que eles sejam 00.\n\n• 1347 → século XIV.\n• 1500 → século XV (último ano do século).\n• 1501 → século XVI.\n\nGrandes divisões tradicionais, criadas por historiadores europeus: Pré-História (até a escrita, cerca de 3500 a.C.), Idade Antiga (até 476, queda de Roma no Ocidente), Idade Média (até 1453, tomada de Constantinopla), Idade Moderna (até 1789, Revolução Francesa) e Idade Contemporânea."
+      },
+      {
+        "titulo": "Fontes históricas",
+        "texto": "Fonte é tudo que o ser humano produziu e que ajuda a conhecer o passado.\n\n• Escritas: cartas, leis, jornais, diários, contratos.\n• Orais: depoimentos, entrevistas, histórias contadas de geração em geração.\n• Materiais: ferramentas, cerâmica, construções, ossos, moedas.\n• Visuais: pinturas, fotografias, mapas, pinturas rupestres.\n\nDepoimentos orais, como os gravados por museus, são fontes históricas: guardam saberes transmitidos entre gerações ou a versão de quem viveu os fatos. Toda fonte precisa ser analisada: quem a produziu, quando e para quê."
+      },
+      {
+        "titulo": "Pré-História",
+        "texto": "• Paleolítico (pedra lascada): grupos nômades de caçadores e coletores. O domínio do fogo trouxe calor, proteção, arma de caça e o cozimento dos alimentos; mais tarde, permitiu fundir metais.\n• Neolítico (pedra polida): agricultura e domesticação de animais, que permitiram a sedentarização e as primeiras aldeias.\n• Idade dos Metais: cobre, bronze e ferro.\n\nNa Amazônia, populações indígenas antigas criaram as \"terras pretas\", solos enriquecidos por suas práticas tradicionais, prova de que a floresta também foi manejada pelo ser humano."
+      },
+      {
+        "titulo": "Sociedades fluviais: Mesopotâmia e Egito",
+        "texto": "As primeiras civilizações surgiram às margens de grandes rios: Tigre e Eufrates (Mesopotâmia), Nilo (Egito), Indo (Índia), Amarelo (China). Por isso são chamadas sociedades fluviais. O trabalho coletivo de irrigação controlava as cheias e garantia a agricultura.\n\nO Crescente Fértil, faixa em forma de lua crescente entre Egito e Mesopotâmia, recebeu esse nome pelo solo fértil dos grandes rios. O nome foi dado por estudiosos muito depois.\n\n• Mesopotâmia: cidades-Estado como Uruk; escrita cuneiforme em placas de argila, criada para registros contábeis e contratos, ligada ao comércio e à administração.\n• Egito: o Nilo era a base da vida, desaguando no Mediterrâneo; faraó com poder político e religioso; escrita hieroglífica; o papiro servia de suporte para a escrita, além de cordas e barcos."
+      },
+      {
+        "titulo": "Grécia Antiga",
+        "texto": "• Organização em pólis, cidades-Estado independentes, como Atenas e Esparta.\n• Atenas criou a democracia, mas só os cidadãos (homens adultos, filhos de atenienses) votavam. Mulheres, escravizados e estrangeiros (metecos) estavam excluídos.\n• Frases de filósofos como Pitágoras e Aristóteles mostram a discriminação das mulheres.\n• O ideal de beleza era o corpo masculino jovem e atlético, visto como reflexo da inteligência e da virtude. O corpo era treinado nos ginásios e exibido nos Jogos Olímpicos, em honra a Zeus.\n• Legado: filosofia, teatro, matemática, arquitetura, a própria ideia de democracia."
+      },
+      {
+        "titulo": "Roma Antiga",
+        "texto": "Roma passou por monarquia, república e império (a partir de 27 a.C.). No auge, dominava todo o Mediterrâneo.\n\n• Milhares de quilômetros de estradas pavimentadas ligavam as províncias à capital e entre si. Por elas circulavam exércitos, mensageiros e mercadorias. Daí \"todos os caminhos levam a Roma\".\n• Latim, direito romano e cristianismo (religião oficial a partir de 380) são heranças marcantes.\n• Em 476, o Império Romano do Ocidente caiu diante dos povos germânicos. O do Oriente, o Império Bizantino, durou até 1453."
+      },
+      {
+        "titulo": "Idade Média",
+        "texto": "• Feudalismo: terra como base da riqueza; senhores, servos e o clero. A Igreja Católica tinha enorme poder político e cultural.\n• Entre os séculos X e XII, inovações agrícolas aumentaram a produção: rotação trienal de culturas, arado de ferro, ferradura e novas formas de atrelar os animais.\n• Expansão árabe (séculos VII e VIII): a partir da Península Arábica e com o islã, os árabes chegaram ao norte da África e à Península Ibérica, levando à Europa avanços em álgebra, astronomia e medicina.\n• Cruzadas e renascimento comercial reabriram rotas entre Ocidente e Oriente.\n• Peste negra (1347–1351): a bactéria chegou em ratos e pulgas nos navios das rotas comerciais com o Oriente. Matou cerca de metade da população europeia."
+      },
+      {
+        "titulo": "Transição para a Idade Moderna",
+        "texto": "• Inquisição: entre o fim do século XIV e o século XV, a Igreja intensificou a repressão a práticas consideradas contrárias ao catolicismo, incluindo a perseguição de mulheres acusadas de bruxaria, muitas delas curandeiras e parteiras.\n• Renascimento (séculos XIV a XVI): valorização do ser humano (humanismo), da razão e da Antiguidade clássica. Leonardo da Vinci dissecou cadáveres e desenhou o corpo para entender a anatomia: arte e ciência experimental juntas.\n• Reforma Protestante (1517) e grandes navegações abrem a Idade Moderna."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Texto ou imagem do período e pergunta sobre a característica que ele revela.\n• Fontes históricas e seu tipo.\n• Mapas: rios, mares e regiões (Nilo e Mediterrâneo, Crescente Fértil, expansão árabe).\n• Alternativas anacrônicas ou com generalizações (\"todas as crianças\", \"nos cinco continentes\"): elimine.\n\nVolte ao texto do enunciado. Na maioria das questões, ele contém a pista decisiva."
+      }
+    ],
+    "armadilha": "Aceitar uma alternativa que parece culta mas está fora de época: Iluminismo no século XIV, máquinas a vapor na Idade Média, Roma \"nos cinco continentes\". Antes de julgar o conteúdo, confira se a época bate.",
+    "exemplos": [
+      {
+        "suporte": [
+          "A tomada de Constantinopla pelos turcos otomanos ocorreu em 1453."
+        ],
+        "comando": "Esse fato aconteceu no século",
+        "alternativas": [
+          "XIV.",
+          "XV.",
+          "XVI.",
+          "XIII.",
+          "XV a.C."
+        ],
+        "passos": [
+          "Dois últimos algarismos: 53, diferentes de 00.",
+          "Tire-os e some 1: 14 + 1 = 15.",
+          "Século XV."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A esquece de somar 1.",
+          "C soma 2.",
+          "D subtrai 1.",
+          "E: 1453 é depois de Cristo, não antes."
+        ]
+      },
+      {
+        "suporte": [
+          "Um pesquisador analisa uma panela de cerâmica indígena, a gravação de uma entrevista com uma artesã e uma carta de um missionário do século XVII."
+        ],
+        "comando": "As três fontes são, respectivamente,",
+        "alternativas": [
+          "escrita, oral e material.",
+          "material, oral e escrita.",
+          "oral, material e escrita.",
+          "material, escrita e oral.",
+          "todas escritas."
+        ],
+        "passos": [
+          "A panela é um objeto: fonte material.",
+          "A entrevista gravada: fonte oral.",
+          "A carta: fonte escrita."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A troca a panela pela carta.",
+          "C troca a panela pela entrevista.",
+          "D troca a entrevista pela carta.",
+          "E ignora fontes não escritas."
+        ]
+      },
+      {
+        "suporte": [
+          "Em Atenas, no século V a.C., a assembleia reunia milhares de cidadãos para votar leis."
+        ],
+        "comando": "Participavam dessa assembleia",
+        "alternativas": [
+          "todos os moradores da cidade.",
+          "homens adultos nascidos de pais atenienses.",
+          "mulheres proprietárias.",
+          "escravizados libertos e estrangeiros.",
+          "apenas os sacerdotes."
+        ],
+        "passos": [
+          "A cidadania ateniense era restrita.",
+          "Só homens adultos, filhos de atenienses, votavam."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A ignora as exclusões.",
+          "C: mulheres não votavam.",
+          "D: estrangeiros e escravizados eram excluídos.",
+          "E: a assembleia não era religiosa."
+        ]
+      },
+      {
+        "suporte": [
+          "No século XII, o renascimento comercial fez crescer feiras e cidades na Europa."
+        ],
+        "comando": "Um fator ligado a esse crescimento foi",
+        "alternativas": [
+          "a invenção da máquina a vapor.",
+          "o aumento da produção agrícola com a rotação trienal e o arado de ferro.",
+          "a descoberta da América.",
+          "a Revolução Francesa.",
+          "a internet."
+        ],
+        "passos": [
+          "Mais comida sustentou mais gente.",
+          "As inovações agrícolas dos séculos X a XII geraram excedentes para o comércio."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: a máquina a vapor é do século XVIII.",
+          "C: a chegada à América é de 1492.",
+          "D: a Revolução Francesa é de 1789.",
+          "E é anacrônica."
+        ]
+      },
+      {
+        "suporte": [
+          "Leonardo da Vinci estudou cadáveres para desenhar músculos e órgãos com precisão."
+        ],
+        "comando": "Essa prática revela, no Renascimento,",
+        "alternativas": [
+          "a rejeição de todo conhecimento antigo.",
+          "a valorização do ser humano e da observação experimental.",
+          "a proibição da arte religiosa.",
+          "o domínio do pensamento iluminista do século XVIII.",
+          "o abandono da pintura."
+        ],
+        "passos": [
+          "O humanismo colocou o ser humano no centro.",
+          "A dissecação é observação direta: base da ciência experimental."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o Renascimento retomou a Antiguidade clássica.",
+          "C: a arte religiosa continuou forte.",
+          "D: o Iluminismo é posterior.",
+          "E: a pintura floresceu no Renascimento."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2025-1-q044",
+        "correta": "C",
+        "justificativa": "Do papiro, os egípcios produziam um material fino e resistente usado como suporte da escrita.",
+        "distratores": [
+          "A: o papiro não era matéria de armas.",
+          "B: canais de irrigação eram escavados na terra, não feitos de papiro.",
+          "D: os pigmentos de maquiagem vinham de minerais, não do papiro.",
+          "E não é o uso destacado; o papiro ficou conhecido como suporte da escrita."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q027",
+        "correta": "C",
+        "justificativa": "Nesse período, a Inquisição investigou e reprimiu práticas contrárias ao catolicismo e perseguiu mulheres acusadas de bruxaria.",
+        "distratores": [
+          "A: o Iluminismo é do século XVIII e não era um movimento cristão.",
+          "B descreve a globalização atual.",
+          "D: não houve proclamação de repúblicas europeias nesse período.",
+          "E: máquinas a vapor só surgem no século XVIII."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q029",
+        "correta": "B",
+        "justificativa": "Na Grécia, o ideal de beleza era o corpo masculino, visto como reflexo da inteligência.",
+        "distratores": [
+          "A: atividades intelectuais e políticas eram muito valorizadas.",
+          "C: as mulheres eram excluídas dos espaços públicos.",
+          "D: os jogos não libertavam escravizados.",
+          "E: os jogos eram honrosos e praticados pelos próprios gregos."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q002",
+        "correta": "C",
+        "justificativa": "Os desenhos anatômicos de Leonardo resultam da dissecação de cadáveres: investigação experimental do corpo humano.",
+        "distratores": [
+          "A: o Renascimento se inspirou na Antiguidade clássica e desvalorizava a Idade Média.",
+          "B: o Renascimento valorizava o ser humano.",
+          "D: não houve substituição de telas por corpos.",
+          "E: o fisiculturismo é uma prática moderna."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q039",
+        "correta": "B",
+        "justificativa": "Sociedades organizadas em torno de rios e da irrigação são as sociedades fluviais.",
+        "distratores": [
+          "A: o feudalismo é medieval e europeu.",
+          "C: nômades não fixavam aldeias à beira dos rios.",
+          "D: patriarcal descreve relação de gênero, não o vínculo com os rios.",
+          "E: essas sociedades já tinham escrita e cidades."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q005",
+        "correta": "A",
+        "justificativa": "Depoimentos orais são fontes históricas: guardam saberes transmitidos entre gerações ou a versão de testemunhas.",
+        "distratores": [
+          "B: fontes orais não servem para fortalecer preconceitos.",
+          "C: não precisam ser feitas por repórteres de grandes portais.",
+          "D: não dependem de certificação de organismos diplomáticos.",
+          "E: depoimentos não são mitológicos nem precisam de ratificação de cientistas."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q028",
+        "correta": "D",
+        "justificativa": "O delta do Nilo deságua no Mediterrâneo, mar em cujas margens se formou o Império Romano.",
+        "distratores": [
+          "A: o mar Vermelho fica a leste, sem ligação com o delta.",
+          "B: o mar Morto é um lago salgado interior.",
+          "C: não existe mar Mesopotâmico.",
+          "E: o mar Arábico fica longe do delta do Nilo."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q015",
+        "correta": "D",
+        "justificativa": "As \"terras pretas\" da Amazônia são solos férteis criados por práticas tradicionais indígenas.",
+        "distratores": [
+          "A: o IPCC e o IPBES são organismos internacionais criados em 1988 e 2012.",
+          "B: a arqueologia não atribui aos indígenas a extinção da flora.",
+          "C: o texto não fala em apoio governamental.",
+          "E: o povoamento indígena não extinguiu fauna e flora."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q014",
+        "correta": "D",
+        "justificativa": "A peste chegou em ratos dos navios que faziam o comércio entre Ocidente e Oriente.",
+        "distratores": [
+          "A: não chegou em cães de caça da realeza britânica.",
+          "B: a peste é do século XIV, não do XVI.",
+          "C: não veio da caça de baleias.",
+          "E: a peregrinação a Santiago não fugia do Império Romano, extinto séculos antes."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q009",
+        "correta": "C",
+        "justificativa": "Estradas pavimentadas ligavam os diferentes pontos do Império à capital e entre si.",
+        "distratores": [
+          "A: havia estradas em todo o Império, não só em Roma.",
+          "B: Roma não chegou aos cinco continentes.",
+          "D: as estradas não foram feitas para fugir dos germânicos.",
+          "E: as estradas não serviam à peregrinação católica à Terra Santa."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q002",
+        "correta": "E",
+        "justificativa": "A escrita mesopotâmica surgiu ligada ao comércio, para registros contábeis e contratos, como diz o texto.",
+        "distratores": [
+          "A: o texto diz que as tábuas serviam para contas e contratos.",
+          "B: não havia educação para todas as crianças.",
+          "C: o texto nega o uso para mensagens a lugares remotos.",
+          "D: o texto nega o uso para poesia, e a Antiguidade clássica é posterior."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q021",
+        "correta": "B",
+        "justificativa": "O fogo servia como arma de caça, fonte de calor e meio de cozinhar e, depois, de fundir metais.",
+        "distratores": [
+          "A: a pólvora é muito posterior.",
+          "C: não havia motores na Pré-História.",
+          "D: a sedentarização veio com a agricultura, não com o fogo.",
+          "E: o teatro surgiu na Grécia Antiga."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q005",
+        "correta": "C",
+        "justificativa": "Entre os séculos X e XII surgiram o arado de ferro, a ferradura e novas formas de atrelar os animais.",
+        "distratores": [
+          "A: manufaturas e cercamentos são da Idade Moderna.",
+          "B: trator e colheitadeira são do século XX.",
+          "D: sementes transgênicas são recentes.",
+          "E: a monocultura em larga escala é moderna."
+        ]
+      },
+      {
+        "id": "etec-2017-1-q041",
+        "correta": "E",
+        "justificativa": "A expansão árabe levou à Europa, sobretudo pela Península Ibérica, avanços em álgebra, astronomia e medicina.",
+        "distratores": [
+          "A: os árabes difundiram o árabe, e o Império Romano do Ocidente já tinha acabado.",
+          "B: os árabes não atravessaram o Atlântico.",
+          "C: a expansão é medieval, e bizantinos e francos resistiram a ela.",
+          "D: Roma e Poitiers não foram dominadas pelos árabes."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q040",
+        "correta": "E",
+        "justificativa": "O nome vem do solo fértil dos grandes rios, que favoreceu a agricultura.",
+        "distratores": [
+          "A: o nome não fala de amizade entre povos.",
+          "B: o islã surgiu no século VII, muito depois dessas civilizações.",
+          "C: o nome não se refere à natalidade, e a região não fica na Europa.",
+          "D: não havia culto monoteísta à Lua na região."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q010",
+        "correta": "C",
+        "justificativa": "As frases mostram a discriminação das mulheres, que não participavam da política.",
+        "distratores": [
+          "A: a democracia ateniense excluía as mulheres.",
+          "B: as mulheres não eram consideradas superiores.",
+          "D: os escravizados também não participavam.",
+          "E: as frases desvalorizam a mulher."
+        ]
+      }
+    ],
+    "resumo": [
+      "Século: tire os dois últimos algarismos e some 1 (exceto 00).",
+      "Fontes: escritas, orais, materiais e visuais.",
+      "Fogo: calor, caça, cozimento. Agricultura: sedentarização.",
+      "Sociedades fluviais: Nilo, Tigre e Eufrates. Crescente Fértil = solo fértil.",
+      "Escrita mesopotâmica: comércio e contratos. Papiro: suporte da escrita.",
+      "Grécia: democracia excluía mulheres, escravizados e estrangeiros.",
+      "Roma: estradas, latim, direito; queda em 476.",
+      "Idade Média: feudalismo, Igreja, inovações agrícolas, peste negra.",
+      "Renascimento: humanismo e observação."
+    ]
+  }
+}

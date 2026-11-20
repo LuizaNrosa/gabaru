@@ -79,6 +79,66 @@
       "rotulo": "exemplo-5",
       "conta": "12 / 4 * 6",
       "esperado": 18
+    },
+    {
+      "rotulo": "fixacao-1",
+      "conta": "18/12",
+      "esperado": 1.5
+    },
+    {
+      "rotulo": "fixacao-2",
+      "conta": "3*600/200",
+      "esperado": 9
+    },
+    {
+      "rotulo": "fixacao-3",
+      "conta": "8*50000/100000",
+      "esperado": 4
+    },
+    {
+      "rotulo": "fixacao-4",
+      "conta": "240/20*35",
+      "esperado": 420
+    },
+    {
+      "rotulo": "fixacao-5",
+      "conta": "4*6/8",
+      "esperado": 3
+    },
+    {
+      "rotulo": "fixacao-6",
+      "conta": "600/5*3",
+      "esperado": 360
+    },
+    {
+      "rotulo": "fixacao-7",
+      "conta": "45/3*10",
+      "esperado": 150
+    },
+    {
+      "rotulo": "fixacao-8",
+      "conta": "6000/200",
+      "esperado": 30
+    },
+    {
+      "rotulo": "fixacao-9",
+      "conta": "45/18",
+      "esperado": 2.5
+    },
+    {
+      "rotulo": "fixacao-10",
+      "conta": "2/5",
+      "esperado": 0.4
+    },
+    {
+      "rotulo": "fixacao-11",
+      "conta": "33/1.2",
+      "esperado": 27.5
+    },
+    {
+      "rotulo": "fixacao-12",
+      "conta": "250*80",
+      "esperado": 20000
     }
   ],
   "porcentagem-e-matematica-financeira": [
@@ -171,6 +231,66 @@
       "rotulo": "teoria-sucessivos",
       "conta": "1.20 * 0.80",
       "esperado": 0.96
+    },
+    {
+      "rotulo": "fixacao-1",
+      "conta": "0.35*800",
+      "esperado": 280
+    },
+    {
+      "rotulo": "fixacao-2",
+      "conta": "0.8*250",
+      "esperado": 200
+    },
+    {
+      "rotulo": "fixacao-3",
+      "conta": "1200*1.05",
+      "esperado": 1260
+    },
+    {
+      "rotulo": "fixacao-4",
+      "conta": "12/40*100",
+      "esperado": 30
+    },
+    {
+      "rotulo": "fixacao-5",
+      "conta": "(100-80)/80*100",
+      "esperado": 25
+    },
+    {
+      "rotulo": "fixacao-6",
+      "conta": "0.02*2000*6",
+      "esperado": 240
+    },
+    {
+      "rotulo": "fixacao-7",
+      "conta": "1000*1.1*1.1",
+      "esperado": 1210
+    },
+    {
+      "rotulo": "fixacao-8",
+      "conta": "1.1*0.9",
+      "esperado": 0.99
+    },
+    {
+      "rotulo": "fixacao-9",
+      "conta": "10*165-1500",
+      "esperado": 150
+    },
+    {
+      "rotulo": "fixacao-10",
+      "conta": "(900-720)/900*100",
+      "esperado": 20
+    },
+    {
+      "rotulo": "fixacao-11",
+      "conta": "150+0.02*150+1.5",
+      "esperado": 154.5
+    },
+    {
+      "rotulo": "fixacao-12",
+      "conta": "0.36*50",
+      "esperado": 18
     }
   ],
   "geometria-plana-e-medidas": [
@@ -248,6 +368,66 @@
       "rotulo": "teoria-pentagono",
       "conta": "3 * 180 / 5",
       "esperado": 108
+    },
+    {
+      "rotulo": "fixacao-1",
+      "conta": "12*25",
+      "esperado": 300
+    },
+    {
+      "rotulo": "fixacao-2",
+      "conta": "3*2*(12+25)",
+      "esperado": 222
+    },
+    {
+      "rotulo": "fixacao-3",
+      "conta": "10*6/2",
+      "esperado": 30
+    },
+    {
+      "rotulo": "fixacao-4",
+      "conta": "3.14*5*5",
+      "esperado": 78.5
+    },
+    {
+      "rotulo": "fixacao-5",
+      "conta": "3*20",
+      "esperado": 60
+    },
+    {
+      "rotulo": "fixacao-6",
+      "conta": "4*3/(0.4*0.4)",
+      "esperado": 75
+    },
+    {
+      "rotulo": "fixacao-7",
+      "conta": "(8+4)*5/2",
+      "esperado": 30
+    },
+    {
+      "rotulo": "fixacao-8",
+      "conta": "2.5*1000",
+      "esperado": 2500
+    },
+    {
+      "rotulo": "fixacao-9",
+      "conta": "(36/4)*(36/4)",
+      "esperado": 81
+    },
+    {
+      "rotulo": "fixacao-10",
+      "conta": "48/6",
+      "esperado": 8
+    },
+    {
+      "rotulo": "fixacao-11",
+      "conta": "100*70/10000",
+      "esperado": 0.7
+    },
+    {
+      "rotulo": "fixacao-12",
+      "conta": "180-50-70",
+      "esperado": 60
     }
   ],
   "triangulos-pitagoras-e-solidos": [
@@ -345,6 +525,66 @@
       "rotulo": "teoria-dormente",
       "conta": "2 * 0.24 * 0.16",
       "esperado": 0.0768
+    },
+    {
+      "rotulo": "fixacao-1",
+      "conta": "6*6+8*8",
+      "esperado": 100
+    },
+    {
+      "rotulo": "fixacao-2",
+      "conta": "5*5-3*3",
+      "esperado": 16
+    },
+    {
+      "rotulo": "fixacao-3",
+      "conta": "24*24+32*32",
+      "esperado": 1600
+    },
+    {
+      "rotulo": "fixacao-4",
+      "conta": "2*2*2*1000",
+      "esperado": 8000
+    },
+    {
+      "rotulo": "fixacao-5",
+      "conta": "60*30*40/1000",
+      "esperado": 72
+    },
+    {
+      "rotulo": "fixacao-6",
+      "conta": "3*2*2*5",
+      "esperado": 60
+    },
+    {
+      "rotulo": "fixacao-7",
+      "conta": "5*9/3",
+      "esperado": 15
+    },
+    {
+      "rotulo": "fixacao-8",
+      "conta": "12*2/3",
+      "esperado": 8
+    },
+    {
+      "rotulo": "fixacao-9",
+      "conta": "10*7",
+      "esperado": 70
+    },
+    {
+      "rotulo": "fixacao-10",
+      "conta": "6*3*3",
+      "esperado": 54
+    },
+    {
+      "rotulo": "fixacao-11",
+      "conta": "13*13-5*5",
+      "esperado": 144
+    },
+    {
+      "rotulo": "fixacao-12",
+      "conta": "8*5*1.5*1000",
+      "esperado": 60000
     }
   ],
   "calor-e-temperatura": [
@@ -496,6 +736,66 @@
       "rotulo": "exemplo-5",
       "conta": "2*2*2*3*3*5",
       "esperado": 360
+    },
+    {
+      "rotulo": "fixacao-1",
+      "conta": "3+4*5-6/2",
+      "esperado": 20
+    },
+    {
+      "rotulo": "fixacao-2",
+      "conta": "41",
+      "esperado": 41
+    },
+    {
+      "rotulo": "fixacao-3",
+      "conta": "2*2*2*3",
+      "esperado": 24
+    },
+    {
+      "rotulo": "fixacao-4",
+      "conta": "24/2",
+      "esperado": 12
+    },
+    {
+      "rotulo": "fixacao-5",
+      "conta": "8/12+3/12",
+      "esperado": 0.9166666666666666
+    },
+    {
+      "rotulo": "fixacao-6",
+      "conta": "8-3-2",
+      "esperado": 3
+    },
+    {
+      "rotulo": "fixacao-7",
+      "conta": "2*2*2*2*2*2*2*2",
+      "esperado": 256
+    },
+    {
+      "rotulo": "fixacao-8",
+      "conta": "1.5*100000000",
+      "esperado": 150000000
+    },
+    {
+      "rotulo": "fixacao-9",
+      "conta": "2*0.000001",
+      "esperado": 2e-06
+    },
+    {
+      "rotulo": "fixacao-10",
+      "conta": "135-2*60",
+      "esperado": 15
+    },
+    {
+      "rotulo": "fixacao-11",
+      "conta": "2*1440/1000",
+      "esperado": 2.88
+    },
+    {
+      "rotulo": "fixacao-12",
+      "conta": "12+5",
+      "esperado": 17
     }
   ],
   "algebra-estatistica-e-probabilidade": [
@@ -563,6 +863,66 @@
       "rotulo": "exemplo-5",
       "conta": "2/6",
       "esperado": 0.3333
+    },
+    {
+      "rotulo": "fixacao-1",
+      "conta": "(13+8)/(5-2)",
+      "esperado": 7
+    },
+    {
+      "rotulo": "fixacao-2",
+      "conta": "3*5-4",
+      "esperado": 11
+    },
+    {
+      "rotulo": "fixacao-3",
+      "conta": "(30+6)/2",
+      "esperado": 18
+    },
+    {
+      "rotulo": "fixacao-4",
+      "conta": "3*3",
+      "esperado": 9
+    },
+    {
+      "rotulo": "fixacao-5",
+      "conta": "(7+3)/2",
+      "esperado": 5
+    },
+    {
+      "rotulo": "fixacao-6",
+      "conta": "-(3*3)+6*3",
+      "esperado": 9
+    },
+    {
+      "rotulo": "fixacao-7",
+      "conta": "(6+8+8+9+4)/5",
+      "esperado": 7
+    },
+    {
+      "rotulo": "fixacao-8",
+      "conta": "(5+7)/2",
+      "esperado": 6
+    },
+    {
+      "rotulo": "fixacao-9",
+      "conta": "3*4*2",
+      "esperado": 24
+    },
+    {
+      "rotulo": "fixacao-10",
+      "conta": "3/8",
+      "esperado": 0.375
+    },
+    {
+      "rotulo": "fixacao-11",
+      "conta": "1/2*1/2",
+      "esperado": 0.25
+    },
+    {
+      "rotulo": "fixacao-12",
+      "conta": "4*3",
+      "esperado": 12
     }
   ],
   "atmosfera-clima-e-geologia": [],

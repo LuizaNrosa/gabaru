@@ -748,5 +748,347 @@
       "Ouro: Minas, século XVIII, Barroco e Aleijadinho.",
       "Resistência: quilombos (Palmares), revoltas, cultura."
     ]
+  },
+  "revolucoes-independencias-e-imperio": {
+    "materia": "Matéria 4 · Ciências Humanas · História",
+    "introducao": "Entre os séculos XVIII e XIX, o mundo mudou de base: das monarquias absolutas para os governos constitucionais, da manufatura para a fábrica, da colônia para os Estados independentes. A ETEC cobra esse período pelos seus efeitos: Montesquieu e a separação dos poderes, o navio a vapor e o comércio mundial, o fordismo, o imperialismo na África, a família real no Rio, a Cabanagem, o café e os imigrantes.",
+    "codigos": [
+      "HI04",
+      "HI05"
+    ],
+    "raioX": "Os itens pedem: ideias do Iluminismo e suas consequências; características das revoluções industriais, do fordismo e do imperialismo; impactos ambientais da industrialização; vinda da família real; revoltas regenciais; café, ferrovias e imigração; escravidão urbana no Império. Os distratores trocam a Primeira pela Segunda Revolução Industrial ou põem conceitos do século XX (Guerra Fria, nazismo, ditadura) no século XIX.",
+    "intuicao": [
+      "Iluminismo = razão contra absolutismo. Dele saem a separação dos poderes, a independência dos EUA e a Revolução Francesa.",
+      "Primeira Revolução Industrial: carvão, vapor, tecidos, Inglaterra. Segunda: eletricidade, petróleo, aço, linha de montagem.",
+      "Imperialismo do século XIX: indústria precisa de matéria-prima e mercado; teorias raciais serviram de desculpa.",
+      "No Império, o Brasil mudou o regime, mas manteve a escravidão até 1888."
+    ],
+    "teoria": [
+      {
+        "titulo": "Iluminismo",
+        "texto": "O século XVIII foi chamado de Século das Luzes: a razão iluminaria as \"trevas\" da ignorância, associadas ao absolutismo e ao poder da Igreja.\n\n• Montesquieu: separação dos poderes em Executivo, Legislativo e Judiciário, para evitar a concentração de poder e os abusos e proteger as liberdades.\n• Locke: direitos naturais à vida, à liberdade e à propriedade.\n• Rousseau: soberania popular, contrato social.\n• Voltaire: tolerância religiosa e liberdade de expressão.\n\nConsequências diretas: independência dos Estados Unidos (1776), Revolução Francesa (1789) e as independências da América Latina, além de movimentos como a Inconfidência Mineira (1789)."
+      },
+      {
+        "titulo": "Revolução Francesa e Napoleão",
+        "texto": "• 1789: o Terceiro Estado (burguesia, trabalhadores urbanos e camponeses) enfrenta o absolutismo de Luís XVI. Tomada da Bastilha e Declaração dos Direitos do Homem e do Cidadão. Lema: liberdade, igualdade e fraternidade.\n• Fases: monarquia constitucional, república radical (jacobinos de Robespierre), Diretório.\n• Napoleão (1799–1815) espalhou o Código Civil e decretou o Bloqueio Continental (1806) contra a Inglaterra. Portugal não aderiu e foi invadido, o que trouxe a família real ao Brasil."
+      },
+      {
+        "titulo": "Primeira Revolução Industrial",
+        "texto": "Começou na Inglaterra, por volta de 1760. Motivos: capital acumulado no comércio colonial, carvão e ferro, mão de obra expulsa do campo pelos cercamentos.\n\n• Máquina a vapor, carvão, indústria têxtil.\n• Fábricas, divisão do trabalho, jornadas de até 16 horas, trabalho infantil.\n• Operários reagem: ludismo (quebra de máquinas), cartismo, sindicatos.\n• Impactos ambientais: derrubada de florestas, mineração de carvão, fuligem no ar e esgoto e resíduos nos rios. Em Manchester, a fuligem escureceu os troncos e as mariposas negras passaram a predominar."
+      },
+      {
+        "titulo": "Segunda Revolução Industrial e fordismo",
+        "texto": "A partir do fim do século XIX, em vários países (EUA, Alemanha, França, Japão):\n\n• eletricidade, petróleo, motor a combustão, aço, química;\n• ferrovias e navios a vapor diminuíram o tempo e o custo do transporte e integraram mercados de todo o planeta;\n• fordismo: linha de montagem com esteiras rolantes, produção em massa, trabalhador especializado em uma etapa só, inspirado na administração científica de Taylor.\n\nA informatização e os robôs são da Terceira Revolução Industrial, a partir de meados do século XX."
+      },
+      {
+        "titulo": "Imperialismo ou neocolonialismo",
+        "texto": "No século XIX, as potências industrializadas da Europa dominaram a África e a Ásia em busca de matérias-primas, mercados consumidores e áreas para investir.\n\n• Conferência de Berlim (1884–1885): as potências europeias resolveram seus conflitos e dividiram a África entre si, sem consultar os africanos.\n• Justificativas ideológicas: teorias raciais como o racismo científico e o darwinismo social, e a ideia de uma \"missão civilizadora\".\n• A exploração das colônias financiou a prosperidade da Belle Époque europeia e alimentou as rivalidades que levaram à Primeira Guerra Mundial."
+      },
+      {
+        "titulo": "A família real e a independência",
+        "texto": "• 1808: fugindo de Napoleão, a corte portuguesa chega ao Brasil. Dom João abre os portos às nações amigas, fim do pacto colonial.\n• O Rio de Janeiro se moderniza: Banco do Brasil, Imprensa Régia, Biblioteca, Jardim Botânico, ruas e chafarizes. A população dobra e chegam profissionais europeus. A escravidão, porém, continua: escravizados carregam cargas e pessoas pelas ruas.\n• 1815: Reino Unido a Portugal e Algarves.\n• 1822: Dom Pedro proclama a independência. O Brasil vira monarquia e mantém a escravidão e o latifúndio."
+      },
+      {
+        "titulo": "Primeiro Reinado e Regência",
+        "texto": "• Primeiro Reinado (1822–1831): Constituição de 1824, com o Poder Moderador do imperador e voto censitário (por renda). Dom Pedro I abdica em 1831.\n• Período Regencial (1831–1840): o herdeiro era criança, e regentes governaram. Explodiram revoltas provinciais:\n\n• Cabanagem (Grão-Pará, 1835–1840): pobres, indígenas e escravizados por melhores condições de vida, unidos a grupos locais que queriam poder político;\n• Farroupilha (Rio Grande do Sul, 1835–1845): estancieiros contra impostos sobre o charque;\n• Sabinada (Bahia) e Balaiada (Maranhão);\n• Revolta dos Malês (Salvador, 1835): africanos muçulmanos escravizados.\n\nEm 1840, o Golpe da Maioridade antecipou a coroação de Dom Pedro II."
+      },
+      {
+        "titulo": "Segundo Reinado: café, imigração e abolição",
+        "texto": "• O café, cultivado no Vale do Paraíba e depois no Oeste Paulista, tornou-se o principal produto de exportação.\n• As primeiras ferrovias de São Paulo (como a São Paulo Railway, 1867) levavam o café ao porto de Santos.\n• Guerra do Paraguai (1864–1870).\n• Leis abolicionistas graduais: Eusébio de Queirós (fim do tráfico, 1850), Ventre Livre (1871), Sexagenários (1885) e Lei Áurea (13 de maio de 1888).\n• Imigrantes, sobretudo italianos, vieram trabalhar como assalariados no café e depois foram para as cidades, como operários e artesãos.\n\nPinturas de Debret mostram o cotidiano: escravizados carregando senhores em liteiras e cadeirinhas, sinal de uma sociedade que usava a força física de pessoas negras para o conforto da elite."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Trecho de filósofo (Montesquieu) e pergunta sobre o objetivo da ideia.\n• Inovação técnica e seu efeito econômico ou ambiental.\n• Imagem do século XIX (Debret) e a estrutura social que ela revela.\n• Revolta e suas reivindicações.\n\nDesconfie de alternativas que misturam séculos: eleições diretas e ditadura militar são do século XX; oito horas de jornada e férias, também."
+      }
+    ],
+    "armadilha": "Atribuir à Primeira Revolução Industrial o que é da Segunda (linha de montagem, eletricidade) ou da Terceira (robôs, informática). No Brasil, achar que a independência ou a chegada da corte acabaram com a escravidão.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Num país, o presidente governa, o parlamento faz as leis e os tribunais julgam, cada um fiscalizando os outros."
+        ],
+        "comando": "Esse modelo se inspira em",
+        "alternativas": [
+          "Maquiavel.",
+          "Montesquieu.",
+          "Luís XIV.",
+          "Karl Marx.",
+          "Napoleão."
+        ],
+        "passos": [
+          "Três poderes separados e equilibrados.",
+          "É a teoria de Montesquieu, de O espírito das leis."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A escreveu sobre como o príncipe conserva o poder.",
+          "C foi símbolo do absolutismo.",
+          "D criticou o capitalismo, no século XIX.",
+          "E concentrou poder como imperador."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma fábrica de 1910 instala esteiras rolantes: cada operário aperta sempre os mesmos parafusos."
+        ],
+        "comando": "Esse modelo de produção é",
+        "alternativas": [
+          "o artesanato.",
+          "o fordismo.",
+          "o toyotismo.",
+          "a manufatura doméstica.",
+          "a automação robótica."
+        ],
+        "passos": [
+          "Linha de montagem e tarefa repetitiva.",
+          "É o fordismo, da Segunda Revolução Industrial."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o artesão faz o produto inteiro.",
+          "C é posterior e flexível, japonês.",
+          "D é anterior às fábricas.",
+          "E é da Terceira Revolução Industrial."
+        ]
+      },
+      {
+        "suporte": [
+          "Em 1808, Dom João decretou a abertura dos portos do Brasil às nações amigas."
+        ],
+        "comando": "A medida significou",
+        "alternativas": [
+          "a independência do Brasil.",
+          "o fim do pacto colonial.",
+          "a abolição da escravidão.",
+          "o início do ciclo do ouro.",
+          "a proclamação da República."
+        ],
+        "passos": [
+          "A colônia passou a comerciar com outros países, não só com Portugal.",
+          "Acabou o monopólio da metrópole."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A ocorreu em 1822.",
+          "C ocorreu em 1888.",
+          "D é do século XVIII.",
+          "E ocorreu em 1889."
+        ]
+      },
+      {
+        "suporte": [
+          "Entre 1831 e 1840, várias províncias se rebelaram contra o governo central."
+        ],
+        "comando": "Esse período é o",
+        "alternativas": [
+          "Primeiro Reinado.",
+          "Período Regencial.",
+          "Segundo Reinado.",
+          "Período Colonial.",
+          "Estado Novo."
+        ],
+        "passos": [
+          "Dom Pedro I abdicou em 1831; Dom Pedro II era criança.",
+          "Regentes governaram até o Golpe da Maioridade, em 1840."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A termina em 1831.",
+          "C começa em 1840.",
+          "D terminou em 1822.",
+          "E é de 1937 a 1945."
+        ]
+      },
+      {
+        "suporte": [
+          "Em 1885, a Conferência de Berlim dividiu a África entre países europeus."
+        ],
+        "comando": "Esse fato faz parte",
+        "alternativas": [
+          "das Grandes Navegações.",
+          "do imperialismo do século XIX.",
+          "da Guerra Fria.",
+          "da Reforma Protestante.",
+          "da descolonização africana."
+        ],
+        "passos": [
+          "Potências industriais disputavam matérias-primas e mercados.",
+          "Partilha da África: imperialismo."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é dos séculos XV e XVI.",
+          "C é do século XX.",
+          "D é do século XVI.",
+          "E é o processo inverso, no século XX."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q006",
+        "correta": "B",
+        "justificativa": "Debret retrata escravizados carregando pessoas: a força física de negros escravizados servia ao conforto e à distinção da elite.",
+        "distratores": [
+          "A: os carregadores eram escravizados, sem privilégios legais.",
+          "C: a cena mostra hierarquia, não convivência igualitária.",
+          "D: o transporte era braçal, não mecanizado.",
+          "E: os grupos dominantes dependiam do trabalho escravizado."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q032",
+        "correta": "C",
+        "justificativa": "O imperialismo usou teorias raciais do século XIX, como o racismo científico e o darwinismo social, para justificar a dominação.",
+        "distratores": [
+          "A: a crise de 2008 é do século XXI.",
+          "B: a Guerra Fria é do século XX.",
+          "D: as monarquias nacionais e a Guerra dos Cem Anos são medievais.",
+          "E: a crise climática atual não tem relação com o imperialismo do século XIX."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q047",
+        "correta": "B",
+        "justificativa": "A Cabanagem juntou reivindicações populares por sobrevivência com o desejo de poder de grupos locais.",
+        "distratores": [
+          "A descreve as revoltas contra o fisco no ciclo do ouro.",
+          "C mistura independência com ideias renascentistas, e a Cabanagem é posterior a 1822.",
+          "D refere-se às Diretas Já, de 1984.",
+          "E traz demandas operárias do século XX."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q039",
+        "correta": "D",
+        "justificativa": "O mapa retrata o desembarque aliado na Normandia, em 1944, durante a Segunda Guerra Mundial.",
+        "distratores": [
+          "A: o Bloqueio Continental foi uma medida comercial napoleônica.",
+          "B: a Guerra da Argélia ocorreu no norte da África.",
+          "C: a Revolução Francesa não envolveu desembarque no litoral.",
+          "E: a Guerra Franco-Prussiana foi terrestre, no leste da França."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q030",
+        "correta": "B",
+        "justificativa": "O navio a vapor encurtou o transporte, barateou o frete e ampliou os mercados ao ligar partes distantes do globo.",
+        "distratores": [
+          "A: houve urbanização, não ruralização.",
+          "C: a indústria se concentrou nos países centrais.",
+          "D: operários não eram escravizados, e férias não eram comuns.",
+          "E: a Inglaterra não abandonou a produção têxtil."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q046",
+        "correta": "E",
+        "justificativa": "A chegada da corte modernizou o Rio e atraiu profissionais europeus, mas a escravidão continuou.",
+        "distratores": [
+          "A: a abolição só veio em 1888.",
+          "B: houve muitas obras públicas.",
+          "C: a população da capital dobrou.",
+          "D: a industrialização de São Paulo é do fim do século XIX e do século XX."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q012",
+        "correta": "D",
+        "justificativa": "O fordismo tinha linha de montagem com esteiras rolantes e trabalhador especializado em uma etapa.",
+        "distratores": [
+          "A: robôs e informática são da Terceira Revolução Industrial.",
+          "B: o fordismo não reduziu a jornada para incentivar o ócio.",
+          "C: produção artesanal e escravidão não são fordismo.",
+          "E: o fordista não conhecia todas as etapas, e as fábricas não buscavam países pobres."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q035",
+        "correta": "B",
+        "justificativa": "A Conferência de Berlim resolveu os conflitos entre potências europeias pela partilha da África.",
+        "distratores": [
+          "A: Portugal não recebeu toda a faixa entre Angola e Moçambique.",
+          "C: Lutero viveu no século XVI.",
+          "D: o nazismo é do século XX.",
+          "E: países sul-americanos não eram o alvo da conferência."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q035",
+        "correta": "C",
+        "justificativa": "A separação dos poderes evita a concentração e os abusos dos governantes e protege as liberdades individuais.",
+        "distratores": [
+          "A: Montesquieu criticava o absolutismo.",
+          "B: a teoria não busca enfraquecer o Judiciário.",
+          "D: não visa fortalecer o Executivo nem isentar impostos.",
+          "E: a teoria organiza o governo, não o elimina."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q017",
+        "correta": "E",
+        "justificativa": "A industrialização derrubou florestas, minerou carvão e lançou esgoto e resíduos industriais nos rios.",
+        "distratores": [
+          "A: as emissões aumentaram.",
+          "B: as máquinas usavam carvão, não animais.",
+          "C: milho e cana não definem a Revolução Industrial inglesa.",
+          "D: os \"desertos verdes\" de eucalipto são do século XX."
+        ]
+      },
+      {
+        "id": "etec-2016-2-q032",
+        "correta": "A",
+        "justificativa": "Os ideais iluministas inspiraram as independências das colônias europeias na América.",
+        "distratores": [
+          "B: as navegações são dos séculos XV e XVI.",
+          "C: a escravização contradiz os ideais de liberdade e é anterior.",
+          "D: o Iluminismo criticava o absolutismo.",
+          "E: o Iluminismo combatia o poder religioso no Estado."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q044",
+        "correta": "E",
+        "justificativa": "A prosperidade europeia da Belle Époque se apoiava na exploração das colônias pelo imperialismo.",
+        "distratores": [
+          "A: não houve guerras com países americanos como base da prosperidade.",
+          "B: a rivalidade com os EUA não explica a prosperidade.",
+          "C: as condições nas fábricas eram duras.",
+          "D: a Europa não dependia de empréstimos japoneses."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q017",
+        "correta": "C",
+        "justificativa": "As primeiras ferrovias paulistas surgiram no Império, para levar o café ao porto de Santos.",
+        "distratores": [
+          "A: não havia ferrovias na colônia.",
+          "B: a Regência terminou em 1840, antes da Guerra do Paraguai.",
+          "D: as ferrovias são anteriores a Vargas.",
+          "E: as primeiras ferrovias são anteriores ao regime militar."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q010",
+        "correta": "C",
+        "justificativa": "O imigrante italiano foi importante nas lavouras de café e nas indústrias e oficinas das cidades.",
+        "distratores": [
+          "A: a queima de café foi na crise de 1929, não por causa dos imigrantes.",
+          "B: a imigração é anterior à Segunda Guerra.",
+          "D: os italianos trabalharam no café e substituíram os escravizados.",
+          "E: o governo Vargas é posterior ao grande fluxo de imigrantes."
+        ]
+      }
+    ],
+    "resumo": [
+      "Iluminismo: razão; Montesquieu e os três poderes.",
+      "Revolução Francesa (1789): fim do absolutismo; Napoleão e o Bloqueio Continental.",
+      "1ª Revolução Industrial: vapor, carvão, tecidos, Inglaterra.",
+      "2ª: eletricidade, petróleo, aço, fordismo.",
+      "Imperialismo: partilha da África (Berlim) e teorias raciais.",
+      "1808 corte no Rio; 1822 independência; escravidão mantida.",
+      "Regência: Cabanagem, Farroupilha, Malês.",
+      "Segundo Reinado: café, ferrovias, imigrantes, Lei Áurea (1888)."
+    ]
   }
 }

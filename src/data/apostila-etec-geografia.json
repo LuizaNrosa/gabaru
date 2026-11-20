@@ -1901,5 +1901,618 @@
         ]
       }
     ]
+  },
+  "atualidades-cidadania-ambiente-e-trabalho": {
+    "materia": "Matéria 6 · Atualidades e Projeto de Vida",
+    "introducao": "As questões de Atualidades da ETEC não pedem que o aluno decore notícias. Elas apresentam uma situação (queimadas, rompimento de barragem, consumo excessivo, um projeto social, um plano de vida) e perguntam qual atitude é responsável, sustentável e ética. Também cobram leitura de gráficos e tabelas de dados reais. Com bom senso cidadão e leitura atenta, quase todas se resolvem pela eliminação de alternativas absurdas.",
+    "codigos": [
+      "IN01",
+      "IN02"
+    ],
+    "raioX": "Os itens pedem: a atitude sustentável numa situação do dia a dia; a intervenção pública adequada para um problema ambiental; exemplos de empreendedorismo social; competências socioemocionais e projeto de vida; leitura de gráfico e tabela (maior, menor, amplitude, comparação). Os distratores costumam ser absurdos de propósito: incentivar queimadas, jogar óleo na pia, deixar aparelhos ligados.",
+    "intuicao": [
+      "Sustentável = bom para o ambiente, justo para as pessoas e viável economicamente (tripé da sustentabilidade).",
+      "A alternativa certa quase sempre propõe prevenir, fiscalizar, educar ou planejar.",
+      "Desconfie de \"impedir tudo\", \"sem avaliar\", \"indiscriminadamente\".",
+      "Em gráficos, leia título, eixos e unidade antes de comparar."
+    ],
+    "teoria": [
+      {
+        "titulo": "Desenvolvimento sustentável",
+        "texto": "Desenvolvimento sustentável é atender às necessidades de hoje sem comprometer as gerações futuras. Apoia-se no tripé:\n\n• ambiental: conservar recursos e ecossistemas;\n• social: reduzir desigualdades e garantir direitos;\n• econômico: gerar renda de forma viável.\n\nA Agenda 2030 da ONU traduz isso em 17 Objetivos de Desenvolvimento Sustentável (ODS), como erradicar a pobreza, ação contra a mudança do clima e igualdade de gênero."
+      },
+      {
+        "titulo": "Consumo consciente",
+        "texto": "O consumismo induzido pela propaganda e pela obsolescência dos produtos aumenta a extração de recursos e o lixo.\n\nAtitudes responsáveis:\n\n• reduzir, reutilizar e reciclar, nessa ordem;\n• desligar aparelhos e usar lâmpadas econômicas (LED);\n• economizar água com torneiras e descargas reguladas;\n• descartar pilhas, baterias e óleo de cozinha em pontos de coleta, nunca no lixo comum ou na pia;\n• usar cartuchos recarregáveis e embalagens retornáveis;\n• preferir transporte coletivo, bicicleta ou caminhada."
+      },
+      {
+        "titulo": "Problemas ambientais e intervenção pública",
+        "texto": "• Queimadas e desmatamento: exigem fiscalização, punição de crimes, educação ambiental e incentivo a práticas agrícolas sustentáveis.\n• Barragens de rejeitos de mineração: os rompimentos de Mariana (2015) e Brumadinho (2019) mostram a necessidade de fiscalização eficiente e cumprimento de normas técnicas.\n• Tráfico de animais: denunciar maus-tratos, cativeiro ilegal, desmatamento e queimadas às autoridades (Ibama, polícia ambiental).\n• Espécies invasoras e consumo de produtos de animais ameaçados agravam a perda de biodiversidade.\n\nMedidas extremas, como proibir toda mineração ou mudar barragens para o deserto, não são soluções realistas: o caminho é regular, fiscalizar e reduzir riscos."
+      },
+      {
+        "titulo": "Cidadania, direitos e ações humanitárias",
+        "texto": "• Cidadania é exercer direitos e deveres: votar, cumprir leis, cuidar do bem comum, participar de decisões.\n• Organizações humanitárias atuam além das fronteiras: a Cruz Vermelha, criada por Henry Dunant, primeiro Nobel da Paz (1901), presta assistência a feridos de guerra e vítimas de desastres.\n• As mulheres, metade da população, têm papel central na educação para o uso racional dos recursos, e a igualdade de gênero é um dos ODS."
+      },
+      {
+        "titulo": "Empreendedorismo social",
+        "texto": "Empreendedorismo social é criar negócios ou projetos que resolvem problemas sociais ou ambientais e se mantêm financeiramente.\n\n• Exemplos: capacitar agricultores familiares para vender produtos orgânicos; luminárias com garrafa PET e energia solar a preço acessível; remunerar produtores que preservam floresta.\n• Uma campanha de doação de alimentos é ação solidária importante, mas assistencial: não cria uma atividade que se sustente."
+      },
+      {
+        "titulo": "Projeto de vida e competências socioemocionais",
+        "texto": "O edital inclui temas de projeto de vida e mundo do trabalho.\n\n• Planejar: definir objetivos, prever obstáculos, montar planos de ação e revisar.\n• Adaptabilidade: lidar com novos lugares, ritmos e situações, como numa mudança de cidade.\n• Resiliência, empatia, responsabilidade e colaboração também aparecem.\n\nAlternativas que mandam ignorar experiências, evitar o novo ou aceitar qualquer opinião sem pensar estão erradas."
+      },
+      {
+        "titulo": "Leitura de dados: gráficos e tabelas",
+        "texto": "• Amplitude: maior valor menos o menor valor. No desmatamento da Amazônia de 2008 a 2022 (de 1 008 a 9 069 km²), a amplitude é $9\\,069 - 1\\,008 = 8\\,061$ km².\n• Compare na mesma unidade e no mesmo período.\n• \"Mais que o quádruplo\" exige multiplicar por 4 e comparar.\n• Gráficos por categoria (sexo, idade) pedem que se olhe cada grupo separadamente."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Situação-problema com uma atitude correta e quatro absurdas.\n• Classificação de exemplos (I, II, III) segundo uma definição dada no texto.\n• Gráfico ou tabela com cálculo simples.\n\nReleia a definição que o enunciado oferece: a resposta segue exatamente esse critério, não a sua opinião pessoal."
+      }
+    ],
+    "armadilha": "Escolher uma alternativa radical que parece ecológica, como proibir toda atividade econômica. A ETEC valoriza o equilíbrio do tripé da sustentabilidade. E confundir ação solidária pontual com empreendedorismo social.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Uma família quer reduzir a conta de luz e o impacto ambiental."
+        ],
+        "comando": "A medida adequada é",
+        "alternativas": [
+          "deixar a TV em modo de espera a noite toda.",
+          "trocar lâmpadas comuns por LED e desligar aparelhos sem uso.",
+          "abrir a geladeira várias vezes.",
+          "usar o chuveiro na potência máxima.",
+          "deixar o carregador na tomada."
+        ],
+        "passos": [
+          "LED consome menos; aparelhos desligados não gastam."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A gasta energia em espera.",
+          "C desperdiça energia.",
+          "D aumenta o consumo.",
+          "E consome energia à toa."
+        ]
+      },
+      {
+        "suporte": [
+          "Após uma fritura, sobra óleo de cozinha."
+        ],
+        "comando": "O destino correto é",
+        "alternativas": [
+          "a pia da cozinha.",
+          "o vaso sanitário.",
+          "um ponto de coleta, para reciclagem em sabão ou biodiesel.",
+          "o jardim.",
+          "o bueiro da rua."
+        ],
+        "passos": [
+          "Óleo contamina a água e entope canos.",
+          "Pontos de coleta o reaproveitam."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A polui a água.",
+          "B polui a água.",
+          "D contamina o solo.",
+          "E polui rios."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma associação ensina mulheres de uma comunidade a produzir e vender artesanato, e o lucro mantém o projeto."
+        ],
+        "comando": "É um exemplo de",
+        "alternativas": [
+          "assistencialismo pontual.",
+          "empreendedorismo social.",
+          "consumismo.",
+          "desmatamento.",
+          "mercantilismo."
+        ],
+        "passos": [
+          "Resolve problema social e se sustenta financeiramente."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: não é doação pontual.",
+          "C não se aplica.",
+          "D não se aplica.",
+          "E é política econômica antiga."
+        ]
+      },
+      {
+        "suporte": [
+          "Um aluno quer entrar numa Etec técnica em outra cidade."
+        ],
+        "comando": "A atitude de quem tem um bom projeto de vida é",
+        "alternativas": [
+          "desistir diante do primeiro obstáculo.",
+          "esperar que os outros façam por ele.",
+          "montar um plano de estudos e prever transporte e custos.",
+          "ignorar as datas do edital.",
+          "aceitar qualquer conselho sem avaliar."
+        ],
+        "passos": [
+          "Planejar e prever obstáculos."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A não persiste.",
+          "B transfere a responsabilidade.",
+          "D compromete o plano.",
+          "E não usa senso crítico."
+        ]
+      },
+      {
+        "suporte": [
+          "Em cinco anos, um município teve, por ano, 120, 340, 210, 95 e 180 focos de queimada."
+        ],
+        "comando": "A amplitude dos dados é",
+        "alternativas": [
+          "245",
+          "340",
+          "95",
+          "189",
+          "435"
+        ],
+        "passos": [
+          "Maior: 340. Menor: 95.",
+          "$340 - 95 = 245$."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é só o maior valor.",
+          "C é só o menor.",
+          "D é a média.",
+          "E soma maior e menor."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q028",
+        "correta": "A",
+        "justificativa": "Henry Dunant, fundador da Cruz Vermelha, dedicou-se à assistência humanitária além das fronteiras nacionais.",
+        "distratores": [
+          "B: a obra de Shakespeare é literária, não assistencial.",
+          "C: a atuação de Drauzio Varella é sobretudo no Brasil.",
+          "D: o 14-Bis é invenção técnica, não assistência.",
+          "E: carreira esportiva não é ação humanitária."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q021",
+        "correta": "C",
+        "justificativa": "A adaptabilidade ajuda a lidar com os novos ritmos e dinâmicas do lugar de destino.",
+        "distratores": [
+          "A: não se trata de impedir a saudade.",
+          "B: a adaptabilidade facilita o aprendizado.",
+          "D: ela amplia trajetórias diante de obstáculos.",
+          "E: ela favorece o amadurecimento."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q050",
+        "correta": "E",
+        "justificativa": "Denunciar maus-tratos, cativeiro, desmatamento e queimadas ilegais protege os animais e o ambiente.",
+        "distratores": [
+          "A: espécies invasoras e doenças prejudicam os nativos.",
+          "B: comprar esses produtos alimenta o tráfico.",
+          "C: reflorestar ajuda os animais.",
+          "D: comercializar animais traficados é crime."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q030",
+        "correta": "A",
+        "justificativa": "A escolha sustentável equilibra a preservação ambiental e o bem-estar humano, avaliando os impactos.",
+        "distratores": [
+          "B: introduzir espécies sem avaliação prejudica os ecossistemas.",
+          "C: prejudicar comunidades não é sustentável.",
+          "D: produtos vegetais também podem causar desmatamento.",
+          "E: ultraprocessados dependem de recursos e geram impactos."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q029",
+        "correta": "D",
+        "justificativa": "Educação ambiental e incentivo a práticas agrícolas sustentáveis ajudam a reduzir as queimadas.",
+        "distratores": [
+          "A: liberar queimadas agrava o problema.",
+          "B: reduzir a fiscalização agrava o problema.",
+          "C: estimular desmatamento agrava o problema.",
+          "E: incentivar queimadas e agrotóxicos agrava o problema."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q045",
+        "correta": "D",
+        "justificativa": "Planos de ação que consideram obstáculos aumentam a chance de sucesso dos projetos.",
+        "distratores": [
+          "A: experiências bem-sucedidas ensinam.",
+          "B: evitar a inovação limita o projeto.",
+          "C: sonhar sem agir não realiza o projeto.",
+          "E: aceitar qualquer opinião sem critério é arriscado."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q034",
+        "correta": "B",
+        "justificativa": "Como o PADS, o Conserv remunera quem preserva floresta e cerrado: desenvolvimento sustentável ligado à conservação.",
+        "distratores": [
+          "A trata de alimentação e inclusão, não de floresta.",
+          "C trata de proteção animal.",
+          "D trata de apoio a mães.",
+          "E trata de moradia."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q029",
+        "correta": "B",
+        "justificativa": "Amplitude = maior − menor: $9\\,069 - 1\\,008 = 8\\,061$.",
+        "distratores": [
+          "A é só o maior valor.",
+          "C não resulta da diferença entre o maior e o menor valor.",
+          "D não resulta da diferença entre o maior e o menor valor.",
+          "E não resulta da diferença entre o maior e o menor valor."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q016",
+        "correta": "D",
+        "justificativa": "Capacitar produtores para vender orgânicos (I) e vender iluminação solar acessível (II) são negócios de impacto social; a campanha de doação (III) é ação assistencial.",
+        "distratores": [
+          "A esquece o exemplo II.",
+          "B esquece o exemplo I.",
+          "C escolhe a ação assistencial.",
+          "E inclui a campanha de doação e exclui I."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q012",
+        "correta": "D",
+        "justificativa": "Fiscalizar com eficiência e exigir normas técnicas reduz o risco de novas catástrofes.",
+        "distratores": [
+          "A: proibir toda mineração não é realista.",
+          "B: deslocar pessoas e biodiversidade não resolve.",
+          "C: rios não são bens de menor importância.",
+          "E: mudar barragens para desertos não é solução viável."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q007",
+        "correta": "E",
+        "justificativa": "Cartuchos recarregáveis reduzem o lixo e o consumo de recursos.",
+        "distratores": [
+          "A: incandescentes gastam mais energia.",
+          "B desperdiça água.",
+          "C desperdiça energia.",
+          "D contamina o solo."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q008",
+        "correta": "E",
+        "justificativa": "O consumismo ignora o impacto coletivo do consumo exagerado sobre o ambiente e o futuro.",
+        "distratores": [
+          "A: a inovação induz ao consumo.",
+          "B: as matérias-primas não aumentam com a produção.",
+          "C: a obsolescência aumenta a extração.",
+          "D: a natureza não absorve todo o descarte."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q038",
+        "correta": "C",
+        "justificativa": "As mulheres podem orientar as gerações atuais e futuras sobre o uso racional dos recursos.",
+        "distratores": [
+          "A: pilhas no lixo comum contaminam.",
+          "B: fraldas e papel sujo não são recicláveis.",
+          "D: o carro particular polui mais que o transporte coletivo.",
+          "E: óleo na pia polui a água."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q017",
+        "correta": "B",
+        "justificativa": "O gráfico mostra que, em todas as idades, as mulheres são as condutoras menos envolvidas em acidentes.",
+        "distratores": [
+          "A inverte a relação entre os sexos.",
+          "C: os números são bem diferentes.",
+          "D não é o que o gráfico mostra.",
+          "E não é o que o gráfico mostra."
+        ]
+      }
+    ],
+    "resumo": [
+      "Tripé: ambiental, social, econômico.",
+      "Reduzir, reutilizar, reciclar.",
+      "Pilhas e óleo: pontos de coleta.",
+      "Problema ambiental: fiscalizar, educar, prevenir.",
+      "Empreendedorismo social: impacto + sustentabilidade financeira.",
+      "Projeto de vida: planejar e prever obstáculos.",
+      "Amplitude = maior − menor."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "O tripé da sustentabilidade é formado pelas dimensões"
+        ],
+        "comando": "quais?",
+        "alternativas": [
+          "ambiental, social e econômica.",
+          "militar, religiosa e política.",
+          "urbana, rural e industrial.",
+          "local, nacional e global apenas.",
+          "física, química e biológica."
+        ],
+        "passos": [
+          "Ambiente, sociedade e economia."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B não corresponde.",
+          "C não corresponde.",
+          "D são escalas, não dimensões.",
+          "E são ciências."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma pessoa troca o carro pela bicicleta em trajetos curtos."
+        ],
+        "comando": "A atitude contribui para",
+        "alternativas": [
+          "aumentar o trânsito.",
+          "reduzir emissões de gases e melhorar a saúde.",
+          "gastar mais combustível.",
+          "piorar a qualidade do ar.",
+          "aumentar o barulho."
+        ],
+        "passos": [
+          "Menos carros, menos poluição; mais atividade física."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é o oposto.",
+          "C é o oposto.",
+          "D é o oposto.",
+          "E é o oposto."
+        ]
+      },
+      {
+        "suporte": [
+          "Pilhas e baterias usadas devem ser"
+        ],
+        "comando": "destinadas",
+        "alternativas": [
+          "ao lixo orgânico.",
+          "à rede de esgoto.",
+          "a pontos de coleta específicos.",
+          "à queima no quintal.",
+          "ao terreno baldio."
+        ],
+        "passos": [
+          "Contêm metais tóxicos."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A contamina.",
+          "B contamina.",
+          "D libera gases tóxicos.",
+          "E contamina o solo."
+        ]
+      },
+      {
+        "suporte": [
+          "A ONU definiu 17 metas globais para 2030, como acabar com a pobreza e combater a mudança do clima."
+        ],
+        "comando": "Elas são os",
+        "alternativas": [
+          "Direitos Humanos.",
+          "Protocolos de Kyoto.",
+          "tratados de Versalhes.",
+          "Objetivos de Desenvolvimento Sustentável.",
+          "princípios do mercantilismo."
+        ],
+        "passos": [
+          "Agenda 2030: ODS."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é declaração de 1948.",
+          "B tratou de emissões.",
+          "C é de 1919.",
+          "E é política antiga."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma barragem de rejeitos se rompeu e atingiu um rio."
+        ],
+        "comando": "Uma medida preventiva para o futuro é",
+        "alternativas": [
+          "reduzir a fiscalização.",
+          "esconder os laudos técnicos.",
+          "construir barragens em áreas habitadas.",
+          "ignorar o risco.",
+          "fiscalizar e exigir normas técnicas de segurança."
+        ],
+        "passos": [
+          "Prevenção exige fiscalização e normas."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A aumenta o risco.",
+          "B impede o controle.",
+          "C aumenta o risco.",
+          "D aumenta o risco."
+        ]
+      },
+      {
+        "suporte": [
+          "I. Venda de cestas de produtos de agricultores familiares com lucro reinvestido na comunidade.",
+          "II. Doação única de agasalhos numa campanha de inverno."
+        ],
+        "comando": "Segundo a definição de empreendedorismo social,",
+        "alternativas": [
+          "só I é exemplo.",
+          "só II é exemplo.",
+          "os dois são exemplos.",
+          "nenhum é exemplo.",
+          "II é empreendedorismo e I é assistência."
+        ],
+        "passos": [
+          "I gera impacto e se sustenta; II é ação solidária pontual."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B inverte.",
+          "C inclui a doação pontual.",
+          "D exclui I.",
+          "E inverte."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma estudante muda de estado para estudar e sente dificuldade com a nova rotina."
+        ],
+        "comando": "A competência que mais a ajuda é a",
+        "alternativas": [
+          "adaptabilidade.",
+          "intolerância.",
+          "passividade.",
+          "isolamento.",
+          "pressa em desistir."
+        ],
+        "passos": [
+          "Adaptar-se a novos ritmos e lugares."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B atrapalha.",
+          "C atrapalha.",
+          "D atrapalha.",
+          "E atrapalha."
+        ]
+      },
+      {
+        "suporte": [
+          "Notas de um simulado: 4, 9, 6, 10, 7."
+        ],
+        "comando": "A amplitude é",
+        "alternativas": [
+          "10",
+          "4",
+          "6",
+          "14",
+          "7,2"
+        ],
+        "passos": [
+          "$10 - 4 = 6$."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é o maior valor.",
+          "B é o menor.",
+          "D soma.",
+          "E é a média."
+        ]
+      },
+      {
+        "suporte": [
+          "Um anúncio diz: \"Troque seu celular todo ano, o novo é sempre melhor!\"."
+        ],
+        "comando": "Do ponto de vista do consumo consciente, a mensagem",
+        "alternativas": [
+          "incentiva a reutilização.",
+          "reduz o lixo eletrônico.",
+          "estimula o consumismo e aumenta o lixo eletrônico.",
+          "economiza recursos naturais.",
+          "não tem efeito."
+        ],
+        "passos": [
+          "Trocar sem necessidade gera descarte e extração."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é o oposto.",
+          "B é o oposto.",
+          "D é o oposto.",
+          "E: propaganda influencia o consumo."
+        ]
+      },
+      {
+        "suporte": [
+          "Um morador vê um papagaio preso numa gaiola numa feira clandestina."
+        ],
+        "comando": "A atitude cidadã é",
+        "alternativas": [
+          "comprar o animal para salvá-lo.",
+          "ignorar.",
+          "soltar em qualquer lugar.",
+          "filmar e divulgar sem avisar ninguém.",
+          "denunciar aos órgãos ambientais."
+        ],
+        "passos": [
+          "Denúncia leva à apreensão e ao tratamento do animal."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A financia o tráfico.",
+          "B permite o crime.",
+          "C pode matar o animal.",
+          "D não aciona as autoridades."
+        ]
+      },
+      {
+        "suporte": [
+          "Votar, cumprir leis e cuidar do bem comum"
+        ],
+        "comando": "são exemplos de",
+        "alternativas": [
+          "consumismo.",
+          "cidadania.",
+          "colonialismo.",
+          "nomadismo.",
+          "mercantilismo."
+        ],
+        "passos": [
+          "Direitos e deveres do cidadão."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A não se aplica.",
+          "C não se aplica.",
+          "D não se aplica.",
+          "E não se aplica."
+        ]
+      },
+      {
+        "suporte": [
+          "Para reduzir queimadas na Amazônia, um governo pode"
+        ],
+        "comando": "adotar",
+        "alternativas": [
+          "liberar o fogo em áreas protegidas.",
+          "reduzir as multas.",
+          "incentivar pastagens na floresta.",
+          "monitorar por satélite, fiscalizar e apoiar agricultura sem fogo.",
+          "diminuir o número de fiscais."
+        ],
+        "passos": [
+          "Monitoramento, fiscalização e alternativas ao fogo."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A agrava.",
+          "B agrava.",
+          "C agrava.",
+          "E agrava."
+        ]
+      }
+    ]
   }
 }

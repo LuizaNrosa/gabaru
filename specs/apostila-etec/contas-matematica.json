@@ -1105,5 +1105,22 @@
       "conta": "10000000/500000",
       "esperado": 20
     }
+  ],
+  "atualidades-cidadania-ambiente-e-trabalho": [
+    {
+      "rotulo": "etec-2024-1-q029",
+      "conta": "9069-1008",
+      "esperado": 8061
+    },
+    {
+      "rotulo": "exemplo-5",
+      "conta": "340-95",
+      "esperado": 245
+    },
+    {
+      "rotulo": "fixacao-8",
+      "conta": "10-4",
+      "esperado": 6
+    }
   ]
 }

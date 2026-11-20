@@ -1,11 +1,15 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { ChapterToc } from '@/components/chapter-toc';
-import type { CapituloPortugues, ExemploPortugues } from '@/lib/apostila-etec-portugues';
+import { MathText } from '@/components/math-text';
+import type { CapituloPortugues, ExemploPortugues, FiguraApostila } from '@/lib/apostila-etec-portugues';
 import type { ReactNode } from 'react';
 import edital from '../../specs/apostila-etec/edital-verticalizado-etec.json';
 import type { Livro } from '@/lib/livros';
 import matriz from '../../specs/apostila-etec/matriz-incidencia-etec.json';
+import recente from '../../specs/apostila-etec/incidencia-recente.json';
+
+const nivelRecente = (provas: number) => provas >= 18 ? 'alta' : provas >= 10 ? 'média' : 'baixa';
 
 const sumario = [
   { id: 'raio-x', titulo: 'Raio-X da banca' },
@@ -18,14 +22,29 @@ const sumario = [
 
 const percentual = new Intl.NumberFormat('pt-BR', { maximumFractionDigits: 2 });
 
+/** Texto com fórmulas: só usa o KaTeX quando há delimitadores de matemática. */
+function Rico({ texto }: { texto: string }) {
+  return texto.includes('$') || texto.includes('\\(') ? <MathText text={texto} /> : <>{texto}</>;
+}
+
+function Figura({ figura }: { figura: FiguraApostila }) {
+  return (
+    <figure className="gb-figura">
+      {/* eslint-disable-next-line @next/next/no-img-element -- SVG estático e leve, sem otimização de imagem */}
+      <img src={figura.src} alt={figura.alt} width={figura.largura} height={figura.altura} loading="lazy" />
+      {figura.legenda && <figcaption>{figura.legenda}</figcaption>}
+    </figure>
+  );
+}
+
 /** Blocos separados por linha em branco viram parágrafos; um bloco cujas linhas começam com "• " vira lista. */
 export function TextoTeoria({ texto }: { texto: string }) {
   return texto.split(/\n{2,}/).map((bloco, i) => {
     const linhas = bloco.split('\n');
     if (linhas.every(linha => linha.startsWith('• '))) {
-      return <ul key={i} className="list-disc pl-6">{linhas.map(linha => <li key={linha}>{linha.slice(2)}</li>)}</ul>;
+      return <ul key={i} className="list-disc pl-6">{linhas.map(linha => <li key={linha}><Rico texto={linha.slice(2)} /></li>)}</ul>;
     }
-    return <p key={i}>{bloco}</p>;
+    return <p key={i}><Rico texto={bloco} /></p>;
   });
 }
 
@@ -33,17 +52,18 @@ function ExemploResolvido({ exemplo, numero }: { exemplo: ExemploPortugues; nume
   return (
     <section className="gb-worked-example" aria-labelledby={`exemplo-${numero}`}>
       <h3 id={`exemplo-${numero}`}>Exemplo {numero}</h3>
-      {exemplo.suporte.map(trecho => <p key={trecho}>{trecho}</p>)}
-      <p><strong>{exemplo.comando}</strong></p>
+      {exemplo.suporte.map(trecho => <p key={trecho}><Rico texto={trecho} /></p>)}
+      {exemplo.figura && <Figura figura={exemplo.figura} />}
+      <p><strong><Rico texto={exemplo.comando} /></strong></p>
       <ol type="A" className="list-[upper-alpha] pl-6">
-        {exemplo.alternativas.map(alternativa => <li key={alternativa}>{alternativa}</li>)}
+        {exemplo.alternativas.map(alternativa => <li key={alternativa}><Rico texto={alternativa} /></li>)}
       </ol>
       <details>
         <summary>Ver resolução</summary>
-        <ol className="list-decimal pl-6">{exemplo.passos.map(passo => <li key={passo}>{passo}</li>)}</ol>
+        <ol className="list-decimal pl-6">{exemplo.passos.map(passo => <li key={passo}><Rico texto={passo} /></li>)}</ol>
         <p><strong>Resposta {exemplo.correta}.</strong></p>
         <ul className="list-disc pl-6" aria-label="Por que as demais alternativas estão incorretas">
-          {exemplo.distratores.map(distrator => <li key={distrator}>{distrator}</li>)}
+          {exemplo.distratores.map(distrator => <li key={distrator}><Rico texto={distrator} /></li>)}
         </ul>
       </details>
     </section>
@@ -58,7 +78,7 @@ export function LeitorPortuguesEtec({ livro, slug, titulo, capitulo, marca, minu
   marca: string;
   minutos: number | null;
 }) {
-  const incidencia = matriz.topicos.filter(topico => capitulo.codigos.includes(topico.codigo_topico));
+  const incidencia = recente.topicos.filter(topico => capitulo.codigos.includes(topico.codigo));
   const temRaioX = incidencia.length > 0 || capitulo.raioX.length > 0;
   const itens = sumario.filter(item =>
     (item.id !== 'raio-x' || temRaioX)
@@ -71,30 +91,30 @@ export function LeitorPortuguesEtec({ livro, slug, titulo, capitulo, marca, minu
         <Image src="/marca/gabaru-carimbo.webp" width={52} height={52} alt="Carimbo Gabaru" />
         <p className="gb-eyebrow">{capitulo.materia ?? 'Matéria 1 · Português e Interpretação de Texto'}</p>
         <h1>{titulo}</h1>
-        <p>{capitulo.introducao}</p>
+        <p><Rico texto={capitulo.introducao} /></p>
       </header>
       {temRaioX && <section aria-labelledby="raio-x">
         <h2 id="raio-x">Raio-X da banca</h2>
         {incidencia.length > 0 && <ul className="gb-incidencia">
           {incidencia.map(topico => (
-            <li key={topico.codigo_topico}>
-              <span className="gb-incidencia-selo">Incidência {topico.nivel_incidencia?.toLocaleLowerCase('pt-BR')}</span>{' '}
-              {topico.topico} · presente em {topico.provas_com_aparicao_confirmada} de {matriz.provas_inventariadas} cadernos ({percentual.format(topico.percentual_de_provas ?? 0)}%)
+            <li key={topico.codigo}>
+              <span className="gb-incidencia-selo">Incidência {nivelRecente(topico.provas)}</span>{' '}
+              {topico.topico} · presente em {topico.provas} de {recente.edicoes.length} provas recentes ({topico.itens} questões, {percentual.format(topico.itens / recente.edicoes.length)} por prova)
             </li>
           ))}
         </ul>}
-        {capitulo.raioX && <p>{capitulo.raioX}</p>}
+        {capitulo.raioX && <p><Rico texto={capitulo.raioX} /></p>}
       </section>}
       <section aria-labelledby="desbloqueio">
         <h2 id="desbloqueio">Desbloqueio e intuição</h2>
-        <ol className="list-decimal pl-6">{capitulo.intuicao.map(passo => <li key={passo}>{passo}</li>)}</ol>
+        <ol className="list-decimal pl-6">{capitulo.intuicao.map(passo => <li key={passo}><Rico texto={passo} /></li>)}</ol>
       </section>
       <section aria-labelledby="teoria">
         <h2 id="teoria">Teoria calibrada ao edital</h2>
-        {capitulo.teoria.map(item => <div key={item.titulo}><h3>{item.titulo}</h3><TextoTeoria texto={item.texto} /></div>)}
+        {capitulo.teoria.map(item => <div key={item.titulo}><h3>{item.titulo}</h3><TextoTeoria texto={item.texto} />{item.figura && <Figura figura={item.figura} />}</div>)}
         <aside className="gb-exam-trap" aria-labelledby="armadilha">
           <h3 id="armadilha">Armadilha clássica da ETEC</h3>
-          <p>{capitulo.armadilha}</p>
+          <p><Rico texto={capitulo.armadilha} /></p>
         </aside>
       </section>
       {capitulo.exemplos.length > 0 && <section aria-labelledby="exemplos">
@@ -111,8 +131,8 @@ export function LeitorPortuguesEtec({ livro, slug, titulo, capitulo, marca, minu
               <p><Link className="gb-text-link" href={`/questoes/${questao.id}`}>Resolver no banco de questões</Link></p>
               <details>
                 <summary>Ver gabarito comentado</summary>
-                <p><strong>Alternativa {questao.correta}.</strong> {questao.justificativa}</p>
-                <ul className="list-disc pl-6">{questao.distratores.map(distrator => <li key={distrator}>{distrator}</li>)}</ul>
+                <p><strong>Alternativa {questao.correta}.</strong> <Rico texto={questao.justificativa} /></p>
+                <ul className="list-disc pl-6">{questao.distratores.map(distrator => <li key={distrator}><Rico texto={distrator} /></li>)}</ul>
               </details>
             </section>
           );
@@ -120,7 +140,7 @@ export function LeitorPortuguesEtec({ livro, slug, titulo, capitulo, marca, minu
       </section>}
       <section aria-labelledby="resumo">
         <h2 id="resumo">Resumo tático de bolso · 1 minuto</h2>
-        <ol className="list-decimal pl-6">{capitulo.resumo.map(item => <li key={item}>{item}</li>)}</ol>
+        <ol className="list-decimal pl-6">{capitulo.resumo.map(item => <li key={item}><Rico texto={item} /></li>)}</ol>
       </section>
     </EstruturaLeitor>
   );

@@ -40,14 +40,59 @@
         "status": "publicado"
       },
       {
+        "slug": "movimento-forcas-e-pressao",
+        "titulo": "Movimento, forças e pressão",
+        "status": "publicado"
+      },
+      {
+        "slug": "saude-alimentacao-e-doencas",
+        "titulo": "Saúde, alimentação e doenças",
+        "status": "publicado"
+      },
+      {
+        "slug": "atomos-elementos-e-formulas",
+        "titulo": "Átomos, elementos e fórmulas",
+        "status": "publicado"
+      },
+      {
+        "slug": "energia-e-eletricidade",
+        "titulo": "Energia e eletricidade",
+        "status": "publicado"
+      },
+      {
+        "slug": "ecossistemas-e-relacoes-ecologicas",
+        "titulo": "Ecossistemas e relações ecológicas",
+        "status": "publicado"
+      },
+      {
+        "slug": "reproducao-heranca-e-diversidade",
+        "titulo": "Reprodução, herança e diversidade",
+        "status": "publicado"
+      },
+      {
         "slug": "razao-e-proporcao",
-        "titulo": "Razão e proporção",
-        "status": "amostra"
+        "titulo": "Razão, proporção e escala",
+        "status": "publicado"
       },
       {
         "slug": "unidades-e-escalas",
         "titulo": "Unidades e escalas",
         "status": "amostra"
+      },
+      {
+        "slug": "porcentagem-e-matematica-financeira",
+        "titulo": "Porcentagem e matemática financeira",
+        "status": "publicado"
+      },
+      {
+        "slug": "geometria-plana-e-medidas",
+        "titulo": "Geometria plana e medidas",
+        "status": "publicado"
+      },
+      {
+        "slug": "triangulos-pitagoras-e-solidos",
+        "titulo": "Semelhança, Pitágoras, trigonometria e volumes",
+        "status": "publicado"
       },
       {
         "slug": "apendice",

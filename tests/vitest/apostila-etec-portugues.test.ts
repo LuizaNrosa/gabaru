@@ -1,7 +1,10 @@
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import { describe, expect, it } from 'vitest';
-import conteudo from '@/data/apostila-etec-portugues.json';
+import portugues from '@/data/apostila-etec-portugues.json';
+import ciencias from '@/data/apostila-etec-ciencias.json';
+
+const conteudo = { ...portugues, ...ciencias };
 import { TextoTeoria } from '@/components/leitor-portugues-etec';
 
 describe('apostila ETEC de Português', () => {
@@ -17,9 +20,17 @@ describe('apostila ETEC de Português', () => {
   });
 
   it('o capítulo de compreensão e inferência tem teoria completa', () => {
-    const teoria = conteudo['compreensao-e-inferencia'].teoria;
+    const teoria = portugues['compreensao-e-inferencia'].teoria;
     expect(teoria.reduce((total, item) => total + item.texto.length, 0)).toBeGreaterThan(12000);
     expect(new Set(teoria.map(item => item.titulo)).size).toBe(teoria.length);
+  });
+
+  it('capítulos de Ciências têm ao menos 10 oficiais e 5 autorais', () => {
+    for (const [slug, capitulo] of Object.entries(ciencias)) {
+      expect(capitulo.oficiais.length, slug).toBeGreaterThanOrEqual(10);
+      expect(capitulo.exemplos.length, slug).toBeGreaterThanOrEqual(5);
+      expect(new Set(capitulo.oficiais.map(q => q.id)).size, slug).toBe(capitulo.oficiais.length);
+    }
   });
 
   it('renderiza parágrafos e listas da teoria', () => {

@@ -1385,7 +1385,7 @@
           "A para no primeiro passo.",
           "C aplica $\\tfrac{3}{4}$ aos 600.",
           "D é $\\tfrac{3}{5}$ de 600.",
-          "E é um quarto da manhã, não três quartos... na verdade $\\tfrac{3}{8}$ de 240."
+          "E é $\\tfrac{3}{8}$ de 240, não três quartos."
         ]
       },
       {
@@ -1482,7 +1482,7 @@
         "distratores": [
           "A está próximo do volume de 1 minuto.",
           "B está perto do volume de cerca de 14 minutos.",
-          "C está perto do volume de cerca de 2 horas e meia.",
+          "C está perto do volume de cerca de 2 horas e 20 minutos.",
           "E é dez vezes o volume de um dia."
         ]
       },
@@ -1548,10 +1548,10 @@
         "topicoComplementar": "MA03",
         "justificativa": "Vazão das Cataratas: $62\\,200 \\div 40 = 1\\,555$ m³/s. Em um minuto: $1\\,555 \\cdot 60 = 93\\,300$ m³/min.",
         "distratores": [
-          "A não resulta de 62 200 ÷ 40 × 60.",
-          "B não resulta de 62 200 ÷ 40 × 60.",
-          "C não resulta de 62 200 ÷ 40 × 60.",
-          "D não resulta de 62 200 ÷ 40 × 60."
+          "A: 10 337 é menos de um nono do valor certo.",
+          "B: 29 033 é menos de um terço do valor certo.",
+          "C: 50 373 não chega a 1 555 × 60.",
+          "D: 74 330 não chega a 1 555 × 60."
         ]
       },
       {

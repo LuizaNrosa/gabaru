@@ -6,8 +6,8 @@ export function Simbolo({ className = "" }: { className?: string }) {
     <Image
       src="/marca/gabaru-carimbo.svg"
       alt=""
-      width={432}
-      height={425}
+      width={1097}
+      height={1080}
       className={`gb-symbol ${className}`}
       unoptimized
     />

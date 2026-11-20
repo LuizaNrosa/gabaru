@@ -101,7 +101,7 @@ export const jsonLd = {
       "@type": "Organization",
       name: "Gabaru",
       url: SITE_URL,
-      logo: `${SITE_URL}/icon.svg`,
+      logo: `${SITE_URL}/marca/gabaru-logo-512.png`,
       description: DESCRICAO_PADRAO,
       founder: {
         "@type": "Person",

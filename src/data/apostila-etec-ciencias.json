@@ -1370,5 +1370,345 @@
       "Ímã: dois polos inseparáveis; iguais repelem, diferentes atraem; os dois atraem o ferro.",
       "Pilha e bateria: química → elétrica; gerador: mecânica → elétrica; motor: elétrica → mecânica."
     ]
+  },
+  "ecossistemas-e-relacoes-ecologicas": {
+    "materia": "Matéria 2 · Ciências da Natureza · Biologia",
+    "introducao": "Cadeias e teias alimentares, fotossíntese, ciclos da matéria e relações entre os seres vivos aparecem em 14 das 23 provas recentes, muitas vezes com uma figura de teia alimentar. Este capítulo mostra como ler essas figuras, como a energia e a matéria circulam e como reconhecer cada relação ecológica pelo que um ser vivo ganha ou perde.",
+    "codigos": [
+      "BI05"
+    ],
+    "raioX": "A banca apresenta uma teia alimentar e pergunta níveis tróficos e consequências da retirada de uma espécie; descreve uma interação entre seres vivos e pede o nome da relação; compara fotossíntese e respiração; ou explora o ciclo do carbono, o controle biológico de pragas e espécies invasoras. Os distratores invertem o sentido das setas, trocam produtor por consumidor ou confundem fotossíntese com respiração.",
+    "intuicao": [
+      "Numa cadeia alimentar, a seta aponta para quem come: capim → gafanhoto significa que o gafanhoto come o capim.",
+      "Para saber o nível trófico, conte os passos a partir do produtor. Um mesmo animal pode ocupar níveis diferentes em cadeias diferentes da mesma teia.",
+      "Nas relações ecológicas, pergunte o que cada lado ganha (+), perde (−) ou se não é afetado (0).",
+      "Fotossíntese só acontece com luz; respiração acontece o tempo todo, inclusive nas plantas."
+    ],
+    "teoria": [
+      {
+        "titulo": "Ecossistema, população e comunidade",
+        "texto": "Ecologia estuda as relações dos seres vivos entre si e com o ambiente. Alguns termos se repetem na prova:\n\n• População: indivíduos da mesma espécie que vivem na mesma área ao mesmo tempo (as capivaras de um parque).\n• Comunidade: o conjunto de populações de espécies diferentes de uma área.\n• Ecossistema: a comunidade mais os fatores não vivos do ambiente (luz, água, solo, temperatura, ar), interagindo.\n• Hábitat: o lugar onde a espécie vive. Nicho ecológico: o “modo de vida” da espécie, o que ela come, quando age, que papel cumpre.\n• Biosfera: o conjunto de todos os ecossistemas da Terra."
+      },
+      {
+        "titulo": "Produtores, consumidores e decompositores",
+        "texto": "Cada ser vivo cumpre um papel no fluxo de energia.\n\n• Produtores (autótrofos): fabricam o próprio alimento pela fotossíntese. Plantas, algas e o fitoplâncton (algas microscópicas que flutuam na água). Formam a base de todas as cadeias.\n• Consumidores (heterótrofos): obtêm energia comendo outros seres. Primários comem produtores (herbívoros); secundários comem consumidores primários; terciários comem secundários, e assim por diante.\n• Decompositores: fungos e bactérias que se alimentam de restos de seres mortos e excrementos, devolvendo ao solo e à água os nutrientes minerais que os produtores reutilizam. Sem eles, a matéria não voltaria a circular.\n\nO zooplâncton é formado por pequenos animais e protozoários que comem o fitoplâncton; por isso é consumidor primário, e não produtor. Essa troca é um distrator frequente."
+      },
+      {
+        "titulo": "Cadeias e teias alimentares",
+        "texto": "Cadeia alimentar é uma sequência de quem come quem. Exemplo: capim → gafanhoto → sapo → cobra → gavião.\n\n• O capim é produtor (1º nível trófico).\n• O gafanhoto é consumidor primário (2º nível).\n• O sapo é consumidor secundário (3º nível), e assim por diante.\n\nNa natureza, as cadeias se cruzam e formam teias alimentares. Numa teia, o mesmo animal pode comer seres de níveis diferentes e, por isso, ocupar mais de um nível trófico. Uma foca que come peixes pequenos (que comem fitoplâncton) é consumidora secundária; quando come lulas que comem peixes, é terciária.\n\nComo resolver questões de teia:\n\n• Comece pelo produtor e siga as setas.\n• Para cada animal perguntado, liste todos os caminhos até ele e conte os passos.\n• Para prever o efeito de retirar uma espécie, olhe quem a come (perde alimento) e quem ela come (perde um predador e pode aumentar)."
+      },
+      {
+        "titulo": "O fluxo de energia diminui a cada nível",
+        "texto": "A energia entra nos ecossistemas pela luz do Sol, captada pelos produtores. A cada passagem para o nível seguinte, grande parte se perde, porque cada ser vivo gasta energia em suas atividades (movimento, manutenção do corpo) e libera calor. Em média, só cerca de 10% passa adiante.\n\nConsequências:\n\n• O nível dos produtores é o que tem mais energia disponível.\n• Quanto mais longa a cadeia, menos energia chega ao último nível. Por isso as cadeias raramente têm mais de cinco níveis.\n• A energia flui em um único sentido e não volta: não é reciclada.\n\nPirâmides de energia são sempre mais largas na base. Pirâmides de números podem se inverter (uma árvore sustenta milhares de insetos), mas a de energia não."
+      },
+      {
+        "titulo": "Fotossíntese e respiração",
+        "texto": "São os dois processos mais cobrados de Biologia em toda a prova, e as alternativas erradas costumam misturá-los.\n\nFotossíntese:\n\n• Gás carbônico + água + energia luminosa → glicose + gás oxigênio (6 CO₂ + 6 H₂O → C₆H₁₂O₆ + 6 O₂).\n• Ocorre nos cloroplastos, que têm clorofila, só na presença de luz.\n• Transforma energia luminosa em energia química, guardada na glicose. Produz a matéria orgânica de que dependem todos os seres vivos.\n• A clorofila absorve principalmente luz azul e vermelha e reflete o verde. Por isso as folhas parecem verdes, e a luz verde sozinha é pouco eficiente para a fotossíntese. A luz branca, que tem todas as cores, é a mais completa.\n\nRespiração celular:\n\n• Glicose + gás oxigênio → gás carbônico + água + energia.\n• Ocorre nas mitocôndrias de todos os seres que respiram, inclusive as plantas, de dia e de noite.\n• Libera a energia da glicose para as atividades da célula.\n\nResumo do contraste: fotossíntese guarda energia e consome CO₂; respiração libera energia e produz CO₂. Só a fotossíntese depende de luz e de clorofila."
+      },
+      {
+        "titulo": "Ciclos da matéria: carbono, água e nitrogênio",
+        "texto": "Diferentemente da energia, a matéria circula: os mesmos átomos passam pelo ar, pela água, pelo solo e pelos seres vivos.\n\nCiclo do carbono:\n\n• A fotossíntese retira CO₂ do ar (e da água, no caso do fitoplâncton) e o transforma em matéria orgânica.\n• A respiração, a decomposição e a queima de combustíveis devolvem CO₂ à atmosfera.\n• Oceanos e florestas funcionam como “sumidouros” que sequestram carbono. Queimadas e combustíveis fósseis aumentam o CO₂ do ar e intensificam o efeito estufa.\n\nCiclo do nitrogênio:\n\n• O nitrogênio do ar (N₂) não é aproveitado diretamente pelas plantas.\n• Bactérias fixadoras, muitas vivendo nas raízes de leguminosas (feijão, soja, alfafa), transformam o N₂ em compostos nitrogenados que fertilizam o solo. Em troca, recebem compostos orgânicos da planta.\n• É a base da adubação verde e da rotação de culturas.\n\nCiclo da água: evaporação, transpiração das plantas, condensação nas nuvens, precipitação, infiltração e escoamento."
+      },
+      {
+        "titulo": "Relações ecológicas entre espécies diferentes",
+        "texto": "Classifique cada relação pelo efeito em cada lado: ganha (+), perde (−), não é afetado (0).\n\nRelações harmônicas (ninguém é prejudicado):\n\n• Mutualismo (+ +): as duas espécies se beneficiam, muitas vezes de forma obrigatória. Líquen (alga e fungo), bactérias fixadoras e leguminosas, cupins e os microrganismos que digerem a madeira em seu intestino, a cutia que come castanhas e enterra outras, que germinam e espalham a castanheira.\n• Protocooperação (+ +): ambas ganham, mas podem viver separadas. Anu e gado (o pássaro come os carrapatos).\n• Comensalismo (+ 0): um aproveita restos de alimento do outro, sem prejudicá-lo. Rêmora e tubarão.\n• Inquilinismo (+ 0): um usa o outro como abrigo ou suporte, sem prejudicá-lo. Orquídeas e bromélias sobre árvores (epífitas).\n\nRelações desarmônicas:\n\n• Predatismo (+ −): o predador mata e come a presa.\n• Parasitismo (+ −): o parasita vive no hospedeiro e o prejudica, geralmente sem matá-lo logo. Carrapatos, lombrigas, cipó-chumbo.\n• Competição (− −): disputa pelo mesmo recurso (alimento, espaço, luz).\n• Herbivoria (+ −): animal que come plantas, como o pulgão que suga a seiva.\n\nDentro da mesma espécie também há relações: sociedades (formigas, abelhas), colônias (corais) e competição."
+      },
+      {
+        "titulo": "Controle biológico e espécies invasoras",
+        "texto": "Controle biológico é o uso de inimigos naturais (predadores, parasitas ou microrganismos) para controlar pragas, reduzindo o uso de agrotóxicos. Exemplo clássico: joaninhas que comem pulgões e cochonilhas em hortas e pomares.\n\nEspécie invasora (exótica) é aquela levada pelo ser humano para fora de sua região de origem e que se espalha, prejudicando as espécies nativas. Sem os predadores e competidores que a controlavam no lugar de origem, ela se reproduz muito e causa desequilíbrio.\n\nExemplos cobrados: o peixe-leão no Caribe, que come os peixes-papagaio que controlavam as algas dos corais; o ratão-do-banhado fora da América do Sul; o caramujo-africano; o javali no Brasil.\n\nRaciocínio típico: a invasora reduz uma população nativa, e isso afeta toda a teia (o que aquela espécie comia aumenta; quem dependia dela diminui)."
+      },
+      {
+        "titulo": "Sucessão ecológica e o papel do solo",
+        "texto": "Sucessão ecológica é a mudança gradual das comunidades num local ao longo do tempo. Começa com espécies pioneiras (liquens, musgos, gramíneas), capazes de viver em ambientes difíceis. Elas modificam o ambiente: acumulam matéria orgânica, retêm água e enriquecem o solo, permitindo a chegada de novas espécies, que as substituem.\n\nAo longo da sucessão aumentam a biodiversidade, a quantidade de matéria orgânica e a complexidade das teias alimentares, até se formar uma comunidade estável, chamada clímax.\n\nO solo é um ecossistema vivo: bactérias e fungos decompõem a matéria orgânica (folhas, restos de animais, amido) e formam húmus; minhocas cavam túneis que arejam a terra e facilitam a entrada de água; pulgões, lesmas e caracóis podem ser pragas das plantas."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Teia alimentar em figura: níveis tróficos, quem é produtor, efeito da retirada de uma espécie.\n• Nome da relação ecológica a partir de uma descrição.\n• Fotossíntese × respiração: reagentes, produtos, luz, clorofila, quem realiza.\n• Ciclo do carbono e sequestro de carbono por florestas e fitoplâncton.\n• Leguminosas e bactérias fixadoras de nitrogênio.\n• Controle biológico e espécies invasoras.\n• Sucessão ecológica.\n\nDistratores típicos: dizer que a energia aumenta ao longo da cadeia, que o zooplâncton é produtor, que a fotossíntese ocorre no escuro, que as plantas não respiram, ou que árvores “absorvem todo o CO₂” de uma cidade."
+      }
+    ],
+    "armadilha": "Inverter o sentido das setas ou confundir fotossíntese com respiração. Na teia, a seta vai do alimento para quem come; e são as plantas que respiram o tempo todo, mas só fazem fotossíntese quando há luz.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Em uma lagoa, a cadeia alimentar é: algas → pequenos crustáceos → lambaris → garças."
+        ],
+        "comando": "Se uma doença eliminar quase todos os lambaris, espera-se, num primeiro momento,",
+        "alternativas": [
+          "aumento das garças e diminuição dos crustáceos.",
+          "aumento dos crustáceos e diminuição das garças.",
+          "diminuição das algas e aumento das garças.",
+          "aumento das algas e aumento das garças.",
+          "nenhuma alteração, porque as algas continuam produzindo alimento."
+        ],
+        "passos": [
+          "Os lambaris comem os crustáceos: sem eles, os crustáceos têm menos predadores e aumentam.",
+          "As garças comem os lambaris: sem alimento, a população de garças diminui.",
+          "Resposta: aumento dos crustáceos e diminuição das garças."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A inverte os dois efeitos.",
+          "C: com mais crustáceos as algas tenderiam a diminuir, mas as garças não aumentam sem alimento.",
+          "D: as garças perdem alimento e não aumentam.",
+          "E ignora que a retirada de um nível afeta os vizinhos na cadeia."
+        ]
+      },
+      {
+        "suporte": [
+          "Um estudante afirmou: “As plantas fazem fotossíntese de dia e respiram à noite; por isso, durante o dia elas não consomem oxigênio.”"
+        ],
+        "comando": "A afirmação do estudante está",
+        "alternativas": [
+          "correta, pois a respiração depende da luz.",
+          "correta, pois a fotossíntese substitui a respiração durante o dia.",
+          "incorreta, pois a planta respira de dia e de noite; de dia, a fotossíntese costuma produzir mais oxigênio do que a respiração consome.",
+          "incorreta, pois as plantas não respiram, só fazem fotossíntese.",
+          "incorreta, pois a fotossíntese acontece à noite e a respiração de dia."
+        ],
+        "passos": [
+          "A respiração celular ocorre o tempo todo em todas as células vivas, inclusive nas plantas.",
+          "A fotossíntese só ocorre com luz.",
+          "De dia, ocorrem os dois processos; à noite, só a respiração."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: quem depende de luz é a fotossíntese.",
+          "B: um processo não substitui o outro; os dois ocorrem juntos de dia.",
+          "D: as plantas respiram como os outros seres vivos.",
+          "E inverte os períodos."
+        ]
+      },
+      {
+        "suporte": [
+          "Bromélias crescem sobre os galhos de árvores da Mata Atlântica, onde recebem mais luz. Elas não retiram seiva da árvore e não a prejudicam."
+        ],
+        "comando": "A relação entre a bromélia e a árvore é de",
+        "alternativas": [
+          "parasitismo.",
+          "predatismo.",
+          "inquilinismo.",
+          "competição.",
+          "mutualismo obrigatório."
+        ],
+        "passos": [
+          "A bromélia ganha (+): suporte e acesso à luz.",
+          "A árvore não ganha nem perde (0).",
+          "Uma relação + 0 em que um usa o outro como suporte é o inquilinismo (epifitismo)."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: no parasitismo o hospedeiro é prejudicado, e o texto diz que a árvore não é.",
+          "B: não há morte nem consumo da árvore.",
+          "D: na competição as duas perdem.",
+          "E: a árvore não obtém benefício."
+        ]
+      },
+      {
+        "suporte": [
+          "Para combater lagartas que atacavam uma plantação de milho, um agricultor soltou pequenas vespas que põem seus ovos dentro dos ovos das lagartas, impedindo que elas nasçam."
+        ],
+        "comando": "A técnica utilizada é um exemplo de",
+        "alternativas": [
+          "controle biológico, com o uso de um inimigo natural da praga.",
+          "introdução de espécie invasora para aumentar a produção.",
+          "uso de agrotóxico natural produzido pelas vespas.",
+          "mutualismo entre vespas e lagartas.",
+          "adubação verde."
+        ],
+        "passos": [
+          "As vespas parasitam os ovos das lagartas, impedindo seu nascimento.",
+          "Usar um inimigo natural para reduzir uma praga é controle biológico.",
+          "A técnica diminui a necessidade de agrotóxicos."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: o objetivo não é a produção, e a vespa é usada como controle, não como invasora.",
+          "C: não há aplicação de substância química.",
+          "D: as lagartas são prejudicadas; não é mutualismo.",
+          "E: adubação verde usa leguminosas para enriquecer o solo."
+        ]
+      },
+      {
+        "suporte": [
+          "Em uma cadeia alimentar com quatro níveis tróficos, os produtores captam 10 000 unidades de energia. Considere que cerca de 10% passam de um nível para o seguinte."
+        ],
+        "comando": "A energia disponível para o quarto nível é de, aproximadamente,",
+        "alternativas": [
+          "10 000 unidades.",
+          "1 000 unidades.",
+          "100 unidades.",
+          "10 unidades.",
+          "40 000 unidades."
+        ],
+        "passos": [
+          "1º nível (produtores): 10 000.",
+          "2º nível: 10% de 10 000 = 1 000; 3º nível: 100.",
+          "4º nível: 10% de 100 = 10 unidades."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A supõe que a energia não se perde.",
+          "B corresponde ao 2º nível.",
+          "C corresponde ao 3º nível.",
+          "E supõe que a energia aumenta ao longo da cadeia."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q029",
+        "correta": "B",
+        "justificativa": "O texto diz que os ratões-do-banhado são usados na produção de carne (fonte de proteína) e têm patas palmeadas e cauda adaptadas à água, apesar de serem mamíferos terrestres.",
+        "distratores": [
+          "A: não são primatas, e o texto diz que causam desequilíbrio, não equilíbrio.",
+          "C: são roedores herbívoros; os dentes alaranjados têm ferro, mas não são caninos de carnívoro.",
+          "D: não são ruminantes.",
+          "E contradiz o texto, que fala em desequilíbrio onde são introduzidos."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q021",
+        "correta": "C",
+        "justificativa": "A luz branca contém todas as cores, inclusive o azul e o vermelho, que a clorofila mais absorve. Por isso estimula mais a fotossíntese e o crescimento.",
+        "distratores": [
+          "A: sem luz não há fotossíntese, e a planta não cresce de forma saudável.",
+          "B: a clorofila reflete a maior parte da luz verde, que é pouco aproveitada.",
+          "D: a luz branca visível não está na faixa do ultravioleta.",
+          "E: a luz verde não é a mais eficiente, e o crescimento depende da fotossíntese."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q020",
+        "correta": "A",
+        "justificativa": "Na equação da fotossíntese, só o O₂ é formado por um único elemento: é a única substância simples. CO₂, H₂O e glicose são compostas.",
+        "distratores": [
+          "B: há três substâncias compostas (CO₂, H₂O e C₆H₁₂O₆).",
+          "C: a água é reagente, não produto.",
+          "D: o gás carbônico é consumido, e o oxigênio é liberado.",
+          "E: a fotossíntese armazena energia, não libera."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q039",
+        "correta": "C",
+        "justificativa": "A cutia se alimenta das castanhas e enterra parte delas, que germinam e dão origem a novas castanheiras. As duas espécies se beneficiam: é mutualismo.",
+        "distratores": [
+          "A: no comensalismo, uma das espécies não é afetada, mas a castanheira se beneficia com a dispersão.",
+          "B: no predatismo, a planta seria só prejudicada.",
+          "D: no parasitismo, haveria prejuízo ao hospedeiro.",
+          "E: na competição, as duas disputariam um recurso e ambas perderiam."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q014",
+        "correta": "A",
+        "justificativa": "No sequestro biológico de carbono, o fitoplâncton retira CO₂ da água pela fotossíntese e o transforma em glicose.",
+        "distratores": [
+          "B inverte o processo de formação das conchas.",
+          "C atribui os recifes de coral ao sal de cozinha, sem relação biológica.",
+          "D: o zooplâncton não faz fotossíntese.",
+          "E lista processos físicos, sem ligação com a absorção biológica de carbono."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q003",
+        "correta": "D",
+        "justificativa": "O controle biológico usa inimigos naturais, como as joaninhas predadoras de pulgões, para combater as pragas sem agrotóxicos.",
+        "distratores": [
+          "A introduz insetos que comem plantas, o que agravaria o problema.",
+          "B descreve o controle químico, que o texto quer reduzir.",
+          "C descreve seleção de sementes e adubação, não controle de pragas.",
+          "E descreve outra forma de controle (parasitoides), mas o texto trata de predadores, as joaninhas."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q009",
+        "correta": "E",
+        "justificativa": "O processo 1 consome gás carbônico e água e produz compostos orgânicos e oxigênio: é a fotossíntese, realizada pelos vegetais na produção de matéria orgânica.",
+        "distratores": [
+          "A: decomposição não produz compostos orgânicos a partir de CO₂.",
+          "B: animais não produzem compostos orgânicos a partir de CO₂ e água.",
+          "C: animais não fazem o processo 1.",
+          "D: o processo 1 é a fotossíntese, não uma combustão feita por animais."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q034",
+        "correta": "C",
+        "justificativa": "No ciclo do carbono, o processo que retira CO₂ da atmosfera e forma matéria orgânica é a fotossíntese (1), e o que devolve CO₂ é a respiração (2).",
+        "distratores": [
+          "A coloca a decomposição como processo que retira CO₂, o que é falso.",
+          "B: a fermentação não retira CO₂ da atmosfera.",
+          "D inverte o primeiro processo.",
+          "E: nem a respiração nem a decomposição retiram CO₂ do ar."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q045",
+        "correta": "D",
+        "justificativa": "Na sucessão ecológica, novas espécies se instalam e a biodiversidade aumenta, tornando as cadeias e teias alimentares mais complexas.",
+        "distratores": [
+          "A: o texto diz que os organismos modificam o ambiente, tornando-o mais adequado à vida.",
+          "B: a comunidade clímax tem produtores, consumidores e decompositores.",
+          "C: as pioneiras são substituídas, não impedem a chegada de outras espécies.",
+          "E: o processo termina na comunidade clímax, não nas pioneiras."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q022",
+        "correta": "D",
+        "justificativa": "Pulgões são pequenos insetos que sugam a seiva das plantas, por isso são considerados pragas.",
+        "distratores": [
+          "A: o texto inclui animais carnívoros, como cobras e lagartos.",
+          "B: lesmas e caracóis são moluscos, não artrópodes.",
+          "C: nem todos os animais pequenos citados vivem em sociedade ou são parasitas.",
+          "E: bactérias e protozoários são unicelulares e decompõem a matéria orgânica, não a produzem."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q001",
+        "correta": "C",
+        "justificativa": "Matéria orgânica é a produzida por seres vivos ou formada por compostos de carbono típicos deles. Amido e folhas são exemplos.",
+        "distratores": [
+          "A: sal de cozinha e vidro são materiais inorgânicos.",
+          "B: sal e água são inorgânicos.",
+          "D: a água é inorgânica.",
+          "E: o vidro é inorgânico."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q030",
+        "correta": "D",
+        "justificativa": "O peixe-leão come o peixe-papagaio, que é herbívoro (consumidor primário). Logo, o peixe-leão é consumidor secundário nessa cadeia.",
+        "distratores": [
+          "A: produtores fazem fotossíntese, e o peixe-leão é um predador.",
+          "B: decompositores se alimentam de matéria morta.",
+          "C: consumidor primário é o peixe-papagaio, que come algas.",
+          "E: no texto, o peixe-leão não come algas, então não é consumidor primário."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q021",
+        "correta": "E",
+        "justificativa": "O texto define polinização cruzada como o transporte de pólen entre plantas diferentes da mesma espécie, o que aumenta a variabilidade genética dos descendentes.",
+        "distratores": [
+          "A: o texto diz que os morcegos estão em terceiro lugar, e não que são os únicos polinizadores.",
+          "B: morcegos são mamíferos, e os citados se alimentam de pólen e néctar.",
+          "C: o texto diz que o forte odor das flores atrai os morcegos.",
+          "D: entre plantas de espécies diferentes não há fecundação, e autopolinização ocorre na mesma flor ou planta."
+        ]
+      }
+    ],
+    "resumo": [
+      "Seta da cadeia: do alimento para quem come.",
+      "Produtores (fotossíntese) → consumidores primários, secundários… → decompositores reciclam nutrientes.",
+      "Zooplâncton é consumidor; fitoplâncton é produtor.",
+      "Energia diminui a cada nível (≈10% passa adiante) e não é reciclada; matéria circula.",
+      "Fotossíntese: CO₂ + H₂O + luz → glicose + O₂, só com luz e clorofila.",
+      "Respiração: glicose + O₂ → CO₂ + H₂O + energia, dia e noite, em todos os seres.",
+      "Leguminosas + bactérias fixadoras de nitrogênio = mutualismo e adubação verde.",
+      "Relações: mutualismo (+ +), comensalismo e inquilinismo (+ 0), predatismo e parasitismo (+ −), competição (− −).",
+      "Controle biológico usa inimigos naturais; espécie invasora sem predadores desequilibra o ecossistema."
+    ]
   }
 }

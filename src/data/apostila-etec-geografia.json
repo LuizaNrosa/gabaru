@@ -1,0 +1,679 @@
+{
+  "cartografia-paisagens-e-biomas": {
+    "materia": "Matéria 5 · Ciências Humanas · Geografia",
+    "introducao": "Geografia na ETEC começa pelo mapa e pela paisagem: para onde voa o avião, que horas são em Londres, por que o litoral do Chile é seco, como é a vegetação da Caatinga e da Amazônia. Os biomas brasileiros são o tópico de Geografia que mais cai. Saber reconhecê-los pela descrição da vegetação e do clima vale vários pontos.",
+    "codigos": [
+      "GE01",
+      "GE02"
+    ],
+    "raioX": "Os itens pedem: direção num mapa pela rosa dos ventos; fusos horários; escala; coordenadas; características de biomas e formações vegetais; correntes marítimas e clima; agentes que modelam o relevo; solos e sua conservação; rios brasileiros e mundiais. Os distratores trocam um bioma por outro, invertem pontos cardeais ou somam o fuso no sentido errado.",
+    "intuicao": [
+      "Norte em cima, sul embaixo, leste à direita, oeste à esquerda. Os colaterais combinam: nordeste, sudeste, sudoeste, noroeste.",
+      "Leste de Greenwich adianta o relógio; oeste atrasa. O Brasil (Brasília) fica 3 horas atrás de Londres.",
+      "Bioma se reconhece pelo clima: semiárido = Caatinga; equatorial úmido = Amazônia; tropical com estação seca = Cerrado.",
+      "Água e vento esculpem o relevo; vegetação protege o solo."
+    ],
+    "teoria": [
+      {
+        "titulo": "Orientação e rosa dos ventos",
+        "texto": "• Pontos cardeais: norte (N), sul (S), leste (L ou E) e oeste (O ou W).\n• Colaterais: nordeste (NE), sudeste (SE), sudoeste (SO), noroeste (NO).\n\nPara achar a direção de um trajeto num mapa, imagine a rosa dos ventos sobre o ponto de partida e veja para onde aponta o destino. De Araraquara a Jundiaí, por exemplo, o avião segue para baixo e para a direita no mapa paulista: sudeste.\n\nA bússola aponta para o polo norte magnético, que fica perto (mas não exatamente sobre) o polo norte geográfico."
+      },
+      {
+        "titulo": "Coordenadas geográficas",
+        "texto": "• Paralelos: linhas horizontais; medem a latitude (0° no Equador até 90° nos polos, norte ou sul).\n• Meridianos: linhas verticais; medem a longitude (0° em Greenwich até 180°, leste ou oeste).\n• Trópicos de Câncer e de Capricórnio e círculos polares são paralelos especiais.\n\nBaixas latitudes ficam perto do Equador (quentes); altas latitudes, perto dos polos (frias). Rotas aéreas entre Ásia e América do Norte passam perto do Polo Norte porque, na esfera, esse é o caminho mais curto: economiza tempo e combustível."
+      },
+      {
+        "titulo": "Fusos horários",
+        "texto": "A Terra gira 360° em 24 h: cada fuso tem 15° e corresponde a 1 hora.\n\n• Indo para leste, as horas aumentam; para oeste, diminuem.\n• Brasília está em GMT −3: 3 horas a menos que Londres.\n\nExemplo: sai de Guarulhos às 6 h, voo de 11 h. Chega às 17 h de Brasília, que são $17 + 3 = 20$ h em Londres."
+      },
+      {
+        "titulo": "Escala",
+        "texto": "Escala 1 : 100 000 significa que 1 cm no mapa vale 100 000 cm (1 km) no real.\n\n• Escala grande (denominador pequeno): mostra áreas pequenas com muitos detalhes, como a planta de um bairro.\n• Escala pequena (denominador grande): mostra áreas grandes com poucos detalhes, como um mapa-múndi.\n\nAs contas de escala estão no capítulo de razão e proporção."
+      },
+      {
+        "titulo": "Clima e correntes marítimas",
+        "texto": "O clima depende de latitude, altitude, maritimidade, massas de ar e correntes marítimas.\n\n• Correntes frias resfriam o ar e reduzem a evaporação: o litoral fica seco. A Corrente de Humboldt (ou do Peru), no Pacífico, ajuda a formar o Deserto do Atacama, no Chile.\n• A mesma corrente traz águas profundas ricas em nutrientes à superfície (ressurgência), atraindo peixes e aves cujas fezes formam o guano.\n• Monções: no sul da Ásia, ventos trazem chuvas fortíssimas no verão. A Índia cultiva arroz em terraços nas encostas."
+      },
+      {
+        "titulo": "Biomas brasileiros",
+        "texto": "• Amazônia: clima equatorial quente e úmido; floresta densa e heterogênea, árvores grandes de folhas largas e perenes, cipós e epífitas. Divide-se em mata de igapó (sempre alagada), de várzea (alagada nas cheias) e de terra firme.\n• Mata Atlântica: floresta tropical densa, latifoliada e heterogênea, na costa; hoje restam poucos fragmentos.\n• Cerrado: clima tropical com estação seca; árvores baixas de troncos retorcidos e casca grossa, resistentes ao fogo; raízes profundas; \"berço das águas\".\n• Caatinga: exclusivamente brasileira, clima semiárido, solo raso e pedregoso; plantas xerófitas, com folhas pequenas ou em espinhos, que perdem as folhas na seca.\n• Pantanal: maior planície alagável do planeta, com grande diversidade de aves.\n• Pampa: clima subtropical; campos de gramíneas no sul do país.\n\nManguezais, na costa, têm raízes aéreas, são áreas de preservação permanente e berçário de peixes e crustáceos."
+      },
+      {
+        "titulo": "Amazônia Legal e bacia amazônica",
+        "texto": "• Amazônia Legal: área definida por lei para planejamento. Inclui todos os estados da Região Norte, Mato Grosso e parte do Maranhão (que é do Nordeste).\n• O Bioma Amazônia se estende por vários países da América do Sul.\n• A bacia do Amazonas é a maior do mundo em volume de água, mas não engloba todos os rios do continente."
+      },
+      {
+        "titulo": "Relevo e agentes modeladores",
+        "texto": "• Agentes internos (endógenos): tectonismo e vulcanismo criam formas.\n• Agentes externos (exógenos): água, vento, gelo e seres vivos desgastam e transportam.\n\n• Erosão pluvial: chuva. Fluvial: rios, que escavam vales. Marinha: ondas. Eólica: vento, por corrosão e deflação. Glacial: geleiras.\n• Várzea: área plana às margens dos rios que alaga periodicamente.\n• Voçorocas: grandes buracos de erosão em solo desprotegido."
+      },
+      {
+        "titulo": "Solos e conservação",
+        "texto": "• Terra roxa: solo fértil de origem basáltica, vermelho-escuro, que sustentou o café no oeste paulista e no norte do Paraná.\n• Massapê: solo escuro e fértil da Zona da Mata nordestina, usado na cana.\n\nDegradação: erosão, lixiviação, compactação, salinização e desertificação (no semiárido, causada principalmente pelo manejo inadequado).\n\nConservação: plantio em curvas de nível, terraceamento, rotação de culturas, cobertura vegetal e reflorestamento."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Mapa com dois pontos e pergunta sobre a direção.\n• Fuso horário com voo: some o tempo de viagem e depois a diferença de fuso.\n• Descrição de vegetação e pergunta sobre o bioma.\n• Prática agrícola e conservação do solo.\n\nPara biomas, procure no texto as palavras-chave: semiárido, espinhos, troncos retorcidos, folhas largas, alagamento."
+      }
+    ],
+    "armadilha": "Trocar Cerrado e Caatinga: troncos retorcidos e casca grossa resistente ao fogo são do Cerrado; espinhos, folhas pequenas e semiárido, da Caatinga. No fuso, lembrar que Londres está 3 horas à frente de Brasília, não atrás.",
+    "exemplos": [
+      {
+        "suporte": [
+          "São 14 h em Brasília (GMT −3)."
+        ],
+        "comando": "Em Tóquio (GMT +9) são",
+        "alternativas": [
+          "2 h.",
+          "17 h.",
+          "23 h.",
+          "2 h do dia seguinte.",
+          "11 h."
+        ],
+        "passos": [
+          "Diferença: $9 - (-3) = 12$ h.",
+          "$14 + 12 = 26$ h, ou seja, 2 h do dia seguinte."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A ignora a mudança de dia.",
+          "B soma só 3 horas.",
+          "C soma 9 horas.",
+          "E subtrai 3 horas."
+        ]
+      },
+      {
+        "suporte": [
+          "Num mapa, a cidade B está acima e à esquerda da cidade A."
+        ],
+        "comando": "De A para B, a direção é",
+        "alternativas": [
+          "nordeste.",
+          "sudeste.",
+          "noroeste.",
+          "sudoeste.",
+          "leste."
+        ],
+        "passos": [
+          "Acima = norte; esquerda = oeste.",
+          "Noroeste."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A seria acima e à direita.",
+          "B seria abaixo e à direita.",
+          "D seria abaixo e à esquerda.",
+          "E seria só à direita."
+        ]
+      },
+      {
+        "suporte": [
+          "Vegetação com cactos, folhas reduzidas, solo pedregoso e longos períodos de seca."
+        ],
+        "comando": "O bioma é",
+        "alternativas": [
+          "Amazônia.",
+          "Mata Atlântica.",
+          "Pampa.",
+          "Caatinga.",
+          "Pantanal."
+        ],
+        "passos": [
+          "Semiárido e plantas xerófitas: Caatinga."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é úmida e densa.",
+          "B é úmida e densa.",
+          "C tem campos de gramíneas.",
+          "E é planície alagável."
+        ]
+      },
+      {
+        "suporte": [
+          "Um agricultor planta seguindo as linhas de mesma altitude do terreno."
+        ],
+        "comando": "A técnica serve para",
+        "alternativas": [
+          "acelerar a erosão.",
+          "reduzir a erosão, segurando a água da chuva.",
+          "salinizar o solo.",
+          "aumentar as voçorocas.",
+          "secar o solo."
+        ],
+        "passos": [
+          "Curvas de nível freiam a enxurrada."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é o oposto.",
+          "C não é efeito.",
+          "D é o oposto.",
+          "E não é o objetivo."
+        ]
+      },
+      {
+        "suporte": [
+          "Um mapa tem escala 1 : 1 000 000."
+        ],
+        "comando": "É uma escala",
+        "alternativas": [
+          "grande, com muitos detalhes.",
+          "pequena, adequada para grandes áreas.",
+          "grande, adequada para plantas de casas.",
+          "sem relação com a realidade.",
+          "que vale 1 cm = 1 m."
+        ],
+        "passos": [
+          "Denominador grande: escala pequena.",
+          "1 cm = 10 km."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A inverte.",
+          "C serve a escalas como 1 : 50.",
+          "D: toda escala representa a realidade.",
+          "E erra a conversão."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q017",
+        "correta": "B",
+        "justificativa": "Rotas perto do Polo Norte são o caminho mais curto na esfera: economizam tempo e combustível, com segurança.",
+        "distratores": [
+          "A: não há tempestades tropicais nos polos.",
+          "C: satélites não geram tráfego aéreo no Equador.",
+          "D: há gravidade nos polos.",
+          "E: aviões não navegam por contato visual com o solo."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q026",
+        "correta": "E",
+        "justificativa": "A corrente fria do Peru (Humboldt), no Pacífico, causa ressurgência e a aridez do litoral norte do Chile.",
+        "distratores": [
+          "A banha a América do Norte.",
+          "B circunda a Antártida.",
+          "C banha a África, no Atlântico.",
+          "D é quente e banha o Brasil."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q022",
+        "correta": "C",
+        "justificativa": "A Caatinga tem vegetação heterogênea do semiárido, com folhas atrofiadas, caules grossos e raízes profundas.",
+        "distratores": [
+          "A mistura palmáceas e características de outros biomas.",
+          "B descreve a floresta equatorial.",
+          "D descreve formações densas com campos, não a Caatinga.",
+          "E descreve floresta de coníferas."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q004",
+        "correta": "D",
+        "justificativa": "A Amazônia tem árvores de médio e grande porte, folhas largas e perenes, cipós, trepadeiras e epífitas.",
+        "distratores": [
+          "A descreve a Caatinga.",
+          "B descreve o manguezal.",
+          "C descreve o Cerrado.",
+          "E descreve campos."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q003",
+        "correta": "B",
+        "justificativa": "A Floresta Amazônica divide-se em mata de igapó, de várzea e de terra firme.",
+        "distratores": [
+          "A: floresta aciculifoliada é de coníferas.",
+          "C: restinga e mata dos cocais não são estratos amazônicos.",
+          "D são outros biomas.",
+          "E são outros biomas e ecossistemas."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q038",
+        "correta": "D",
+        "justificativa": "Os manguezais são áreas de preservação permanente e berçário de peixes e crustáceos.",
+        "distratores": [
+          "A: o texto não sustenta esse uso como característica principal.",
+          "B: os manguezais reduzem a erosão.",
+          "C: ocorrem em grande parte do litoral brasileiro.",
+          "E: Tocantins e Goiás não têm litoral."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q038",
+        "correta": "A",
+        "justificativa": "As monções favorecem o arroz, cultivado em terraços nas encostas.",
+        "distratores": [
+          "B: a azeitona é mediterrânea, de clima seco.",
+          "C: feijão não é cultivo de pecuária.",
+          "D: uva e pecuária não se ligam às monções.",
+          "E: a mandioca não é o cultivo típico das monções."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q019",
+        "correta": "D",
+        "justificativa": "O plantio em curvas de nível previne a erosão e a degradação.",
+        "distratores": [
+          "A: a monocultura empobrece o solo.",
+          "B: voçorocas são degradação.",
+          "C: a lixiviação retira nutrientes.",
+          "E: a salinização degrada o solo."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q034",
+        "correta": "E",
+        "justificativa": "O mapa mostra a Floresta Equatorial em baixas latitudes, ameaçada pelo desmatamento para a agropecuária.",
+        "distratores": [
+          "A: coníferas ficam em altas latitudes.",
+          "B: savanas não correspondem à distribuição mostrada.",
+          "C: florestas temperadas ficam em latitudes médias.",
+          "D: pradarias ficam em latitudes médias."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q025",
+        "correta": "D",
+        "justificativa": "A Caatinga tem clima semiárido, solo raso e pedregoso e plantas com espinhos.",
+        "distratores": [
+          "A descreve o Cerrado.",
+          "B descreve o Pantanal.",
+          "C descreve a Mata Atlântica.",
+          "E descreve o Pampa."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q015",
+        "correta": "A",
+        "justificativa": "A Mata Atlântica tem vegetação densa, latifoliada e heterogênea.",
+        "distratores": [
+          "B descreve floresta de coníferas.",
+          "C: tundra não tem selva nem cactos.",
+          "D lembra o Cerrado.",
+          "E lembra a Caatinga."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q001",
+        "correta": "B",
+        "justificativa": "O Tietê nasce na Serra do Mar, em Salesópolis, corre para o interior e deságua no rio Paraná.",
+        "distratores": [
+          "A: não nasce na capital nem deságua em Santos.",
+          "C: não chega ao Pacífico.",
+          "D: o Pinheiros é que deságua no Tietê.",
+          "E: não deságua no Atlântico diretamente."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q034",
+        "correta": "B",
+        "justificativa": "Várzea é a área plana às margens dos rios, alagada periodicamente.",
+        "distratores": [
+          "A descreve terreno acidentado.",
+          "C confunde com ruas de periferia.",
+          "D descreve topo de colina.",
+          "E descreve áreas altas."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q028",
+        "correta": "A",
+        "justificativa": "A desertificação no semiárido é causada principalmente pelo manejo inadequado dos recursos naturais.",
+        "distratores": [
+          "B: ciclones não causam desertificação no semiárido.",
+          "C: placas tectônicas não explicam o processo.",
+          "D: não é processo microbiano.",
+          "E: monções são asiáticas."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q013",
+        "correta": "A",
+        "justificativa": "A terra roxa, vermelha e fértil, sustentou a expansão do café no norte do Paraná.",
+        "distratores": [
+          "B não é o solo do café paranaense.",
+          "C: o massapê é nordestino.",
+          "D: tchernozion é das estepes russas.",
+          "E: calcário não descreve a terra roxa."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q042",
+        "correta": "E",
+        "justificativa": "Chega às 17 h de Brasília; Londres está 3 horas à frente: 20 h.",
+        "distratores": [
+          "A ignora o voo e o fuso.",
+          "B soma só o fuso.",
+          "C usa só o tempo de voo.",
+          "D esquece o fuso."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q042",
+        "correta": "D",
+        "justificativa": "O vento é o agente da erosão eólica, que age por corrosão e deflação.",
+        "distratores": [
+          "A: abrasão é marinha, e geleiras não soerguem chapadões.",
+          "B: erosão de rio é fluvial.",
+          "C: erosão da chuva é pluvial.",
+          "E: erosão marinha não forma dobramentos."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q018",
+        "correta": "E",
+        "justificativa": "O Nilo nasce no interior da África e corre para o norte, desaguando no Mediterrâneo.",
+        "distratores": [
+          "A: não corre de leste a oeste nem nasce no Kilimanjaro.",
+          "B: não deságua no Índico.",
+          "C: não corre para o sul nem chega ao Pacífico.",
+          "D: não deságua no Atlântico."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q013",
+        "correta": "C",
+        "justificativa": "O sertão, semiárido, é a sub-região mais castigada pela seca, retratada nesses romances.",
+        "distratores": [
+          "A é área de transição.",
+          "B é úmido.",
+          "D é transição para a Amazônia.",
+          "E é úmida, área da cana."
+        ]
+      }
+    ],
+    "resumo": [
+      "Leste adianta, oeste atrasa; Brasília = Londres − 3 h.",
+      "Escala grande: mais detalhe; escala pequena: área maior.",
+      "Correntes frias secam o litoral (Atacama).",
+      "Amazônia: igapó, várzea, terra firme. Caatinga: semiárido e espinhos. Cerrado: troncos retorcidos.",
+      "Manguezal: APP e berçário.",
+      "Erosão: pluvial, fluvial, eólica, marinha, glacial.",
+      "Conservar o solo: curvas de nível, cobertura vegetal."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "O Sol nasce, aproximadamente, no"
+        ],
+        "comando": "ponto cardeal",
+        "alternativas": [
+          "oeste.",
+          "norte.",
+          "sul.",
+          "leste.",
+          "noroeste."
+        ],
+        "passos": [
+          "O Sol nasce a leste e se põe a oeste."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é onde se põe.",
+          "B não é o caso.",
+          "C não é o caso.",
+          "E não é o caso."
+        ]
+      },
+      {
+        "suporte": [
+          "A linha imaginária de latitude 0° é o"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "Equador.",
+          "Meridiano de Greenwich.",
+          "Trópico de Capricórnio.",
+          "Círculo Polar Ártico.",
+          "Trópico de Câncer."
+        ],
+        "passos": [
+          "Latitude 0° = Equador."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é longitude 0°.",
+          "C fica a cerca de 23° S.",
+          "D fica a cerca de 66° N.",
+          "E fica a cerca de 23° N."
+        ]
+      },
+      {
+        "suporte": [
+          "São 10 h em Londres."
+        ],
+        "comando": "Em Brasília (GMT −3) são",
+        "alternativas": [
+          "13 h.",
+          "10 h.",
+          "7 h.",
+          "3 h.",
+          "6 h."
+        ],
+        "passos": [
+          "Brasília está 3 horas atrás."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A soma em vez de subtrair.",
+          "B ignora o fuso.",
+          "D subtrai 7.",
+          "E subtrai 4."
+        ]
+      },
+      {
+        "suporte": [
+          "Um mapa do bairro, com ruas e casas detalhadas, usa"
+        ],
+        "comando": "escala",
+        "alternativas": [
+          "pequena.",
+          "grande.",
+          "de 1 : 50 000 000.",
+          "sem números.",
+          "mundial."
+        ],
+        "passos": [
+          "Muitos detalhes: escala grande."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A mostra áreas grandes.",
+          "C é escala de continente.",
+          "D: toda escala tem números ou barra.",
+          "E é de mapa-múndi."
+        ]
+      },
+      {
+        "suporte": [
+          "O Cerrado tem árvores de troncos retorcidos, casca grossa e raízes profundas."
+        ],
+        "comando": "Essas adaptações ajudam a",
+        "alternativas": [
+          "viver submersas.",
+          "resistir ao fogo e à estação seca.",
+          "suportar neve.",
+          "crescer em água salgada.",
+          "evitar a fotossíntese."
+        ],
+        "passos": [
+          "Casca grossa protege do fogo; raízes buscam água profunda."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é do igapó.",
+          "C não ocorre no Cerrado.",
+          "D é do mangue.",
+          "E não faz sentido."
+        ]
+      },
+      {
+        "suporte": [
+          "A maior planície alagável do planeta, com enorme diversidade de aves, é o"
+        ],
+        "comando": "bioma",
+        "alternativas": [
+          "Pampa.",
+          "Cerrado.",
+          "Caatinga.",
+          "Mata Atlântica.",
+          "Pantanal."
+        ],
+        "passos": [
+          "Pantanal: cheias periódicas e aves."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A é campo do Sul.",
+          "B é savana.",
+          "C é semiárida.",
+          "D é floresta costeira."
+        ]
+      },
+      {
+        "suporte": [
+          "Um rio escava um vale profundo ao longo de milhões de anos."
+        ],
+        "comando": "A erosão é",
+        "alternativas": [
+          "fluvial.",
+          "eólica.",
+          "glacial.",
+          "marinha.",
+          "antrópica."
+        ],
+        "passos": [
+          "Erosão por rios: fluvial."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é do vento.",
+          "C é do gelo.",
+          "D é do mar.",
+          "E é humana."
+        ]
+      },
+      {
+        "suporte": [
+          "No sertão nordestino, o uso intensivo do solo e o desmatamento transformam áreas em terrenos improdutivos."
+        ],
+        "comando": "O processo é a",
+        "alternativas": [
+          "ressurgência.",
+          "monção.",
+          "desertificação.",
+          "várzea.",
+          "lixiviação marinha."
+        ],
+        "passos": [
+          "Degradação em área semiárida: desertificação."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é fenômeno oceânico.",
+          "B é regime de chuvas asiático.",
+          "D é forma de relevo.",
+          "E não é o processo."
+        ]
+      },
+      {
+        "suporte": [
+          "Raízes aéreas, solo lamacento e salgado e berçário de caranguejos."
+        ],
+        "comando": "O ecossistema é o",
+        "alternativas": [
+          "manguezal.",
+          "Pampa.",
+          "Cerrado.",
+          "igapó.",
+          "Caatinga."
+        ],
+        "passos": [
+          "Ambiente costeiro salobro: manguezal."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é campo.",
+          "C é savana.",
+          "D é mata alagada de água doce.",
+          "E é semiárida."
+        ]
+      },
+      {
+        "suporte": [
+          "Um avião sai de São Paulo às 22 h e voa 12 h até Lisboa (GMT 0, sem horário de verão)."
+        ],
+        "comando": "Ao chegar, os relógios de Lisboa marcam",
+        "alternativas": [
+          "10 h.",
+          "13 h.",
+          "7 h.",
+          "1 h.",
+          "22 h."
+        ],
+        "passos": [
+          "Chegada no horário de Brasília: 22 + 12 = 34 → 10 h.",
+          "Lisboa está 3 h à frente: 13 h."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A esquece o fuso.",
+          "C subtrai o fuso.",
+          "D não vem da conta.",
+          "E ignora o voo."
+        ]
+      },
+      {
+        "suporte": [
+          "A Amazônia Legal inclui"
+        ],
+        "comando": "quais estados?",
+        "alternativas": [
+          "apenas o Amazonas.",
+          "todos os estados do Nordeste.",
+          "São Paulo e Minas Gerais.",
+          "todos os estados do Norte, Mato Grosso e parte do Maranhão.",
+          "apenas os estados do Sul."
+        ],
+        "passos": [
+          "Definição legal para planejamento da região."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é só um estado.",
+          "B: só o Maranhão, em parte.",
+          "C não fazem parte.",
+          "E não fazem parte."
+        ]
+      },
+      {
+        "suporte": [
+          "A terra roxa, de origem basáltica, foi importante para"
+        ],
+        "comando": "a expansão",
+        "alternativas": [
+          "da cana no Nordeste.",
+          "da borracha na Amazônia.",
+          "do café no oeste paulista e no Paraná.",
+          "do trigo no Pampa.",
+          "do cacau na Bahia."
+        ],
+        "passos": [
+          "Solo fértil do café."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A usou o massapê.",
+          "B é extrativista.",
+          "D não é o caso.",
+          "E não é o caso."
+        ]
+      }
+    ]
+  }
+}

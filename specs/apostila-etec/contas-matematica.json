@@ -1075,5 +1075,27 @@
       "conta": "2*10*5",
       "esperado": 100
     }
+  ],
+  "cartografia-paisagens-e-biomas": [
+    {
+      "rotulo": "etec-2015-2-q042",
+      "conta": "6+11+3",
+      "esperado": 20
+    },
+    {
+      "rotulo": "exemplo-1",
+      "conta": "14+12-24",
+      "esperado": 2
+    },
+    {
+      "rotulo": "fixacao-3",
+      "conta": "10-3",
+      "esperado": 7
+    },
+    {
+      "rotulo": "fixacao-10",
+      "conta": "22+12-24+3",
+      "esperado": 13
+    }
   ]
 }

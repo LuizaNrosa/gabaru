@@ -338,6 +338,287 @@
       "Na água, +1 atm a cada 10 m; no alto, a pressão do ar é menor.",
       "Flutua quem tem densidade média menor que a do líquido.",
       "Alavanca: força × distância ao apoio igual dos dois lados."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Um ônibus percorre 180 km em 3 horas."
+        ],
+        "comando": "Sua velocidade média é",
+        "alternativas": [
+          "60 km/h.",
+          "540 km/h.",
+          "183 km/h.",
+          "50 km/h.",
+          "30 km/h."
+        ],
+        "passos": [
+          "$v = \\dfrac{\\Delta s}{\\Delta t} = \\dfrac{180}{3} = 60$ km/h."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B multiplica em vez de dividir.",
+          "C soma os valores.",
+          "D não vem da divisão.",
+          "E divide por 6."
+        ]
+      },
+      {
+        "suporte": [
+          "Um carro anda a 72 km/h."
+        ],
+        "comando": "Em m/s, a velocidade é",
+        "alternativas": [
+          "72 m/s.",
+          "7,2 m/s.",
+          "20 m/s.",
+          "259,2 m/s.",
+          "2 m/s."
+        ],
+        "passos": [
+          "Divida por 3,6: $72 \\div 3{,}6 = 20$ m/s."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A não converte.",
+          "B divide por 10.",
+          "D multiplica por 3,6.",
+          "E divide por 36."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma moto sai do repouso e atinge 30 m/s em 6 s."
+        ],
+        "comando": "Sua aceleração média é",
+        "alternativas": [
+          "180 m/s².",
+          "36 m/s².",
+          "24 m/s².",
+          "0,2 m/s².",
+          "5 m/s²."
+        ],
+        "passos": [
+          "$a = \\dfrac{\\Delta v}{\\Delta t} = \\dfrac{30}{6} = 5$ m/s²."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A multiplica.",
+          "B soma.",
+          "C subtrai.",
+          "D inverte a divisão."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma força resultante de 40 N age sobre um carrinho de 8 kg."
+        ],
+        "comando": "A aceleração do carrinho é",
+        "alternativas": [
+          "320 m/s².",
+          "5 m/s².",
+          "48 m/s².",
+          "32 m/s².",
+          "0,2 m/s²."
+        ],
+        "passos": [
+          "Segunda lei de Newton: $a = \\dfrac{F}{m} = \\dfrac{40}{8} = 5$ m/s²."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A multiplica força e massa.",
+          "C soma.",
+          "D subtrai.",
+          "E inverte a divisão."
+        ]
+      },
+      {
+        "suporte": [
+          "Num ônibus que freia de repente, os passageiros em pé são \"jogados\" para a frente."
+        ],
+        "comando": "O fenômeno é explicado pela",
+        "alternativas": [
+          "lei da ação e reação.",
+          "lei da gravitação.",
+          "pressão atmosférica.",
+          "inércia (primeira lei de Newton).",
+          "força magnética."
+        ],
+        "passos": [
+          "O corpo tende a manter o movimento que tinha.",
+          "É a inércia."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A explica pares de forças entre corpos, como o remo empurrando a água.",
+          "B trata da atração entre massas.",
+          "C não age nessa situação.",
+          "E não está presente."
+        ]
+      },
+      {
+        "suporte": [
+          "Ao nadar, a pessoa empurra a água para trás e se desloca para a frente."
+        ],
+        "comando": "Isso ilustra a",
+        "alternativas": [
+          "terceira lei de Newton, ação e reação.",
+          "primeira lei de Newton.",
+          "lei de Hooke.",
+          "pressão hidrostática.",
+          "conservação da massa."
+        ],
+        "passos": [
+          "A pessoa aplica força na água; a água aplica força igual e contrária na pessoa."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B fala da tendência de manter o movimento.",
+          "C trata de molas.",
+          "D trata da pressão em profundidade.",
+          "E é uma lei da Química."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma caixa de 60 kg está apoiada no chão. Use $g = 10$ m/s²."
+        ],
+        "comando": "O peso da caixa é",
+        "alternativas": [
+          "60 N.",
+          "6 N.",
+          "600 N.",
+          "70 N.",
+          "6 000 N."
+        ],
+        "passos": [
+          "$P = m \\cdot g = 60 \\cdot 10 = 600$ N."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A confunde peso com massa.",
+          "B divide por 10.",
+          "D soma.",
+          "E erra uma casa."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma força de 200 N age sobre uma área de 0,5 m²."
+        ],
+        "comando": "A pressão é",
+        "alternativas": [
+          "100 Pa.",
+          "200,5 Pa.",
+          "0,0025 Pa.",
+          "40 Pa.",
+          "400 Pa."
+        ],
+        "passos": [
+          "$p = \\dfrac{F}{A} = \\dfrac{200}{0{,}5} = 400$ Pa."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A multiplica por 0,5.",
+          "B soma.",
+          "C inverte a divisão.",
+          "D erra uma casa."
+        ]
+      },
+      {
+        "suporte": [
+          "Facas bem afiadas cortam com mais facilidade."
+        ],
+        "comando": "Isso acontece porque",
+        "alternativas": [
+          "a lâmina fica mais pesada.",
+          "a área de contato menor aumenta a pressão.",
+          "a força aplicada diminui a pressão.",
+          "o atrito aumenta com a área.",
+          "a lâmina fica mais quente."
+        ],
+        "passos": [
+          "$p = F/A$: menos área, mais pressão com a mesma força."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: afiar não aumenta o peso.",
+          "C: a pressão aumenta.",
+          "D: o corte depende da pressão.",
+          "E: a temperatura não explica o corte."
+        ]
+      },
+      {
+        "suporte": [
+          "Um mergulhador desce 20 m no mar. A pressão aumenta cerca de 1 atm a cada 10 m, além de 1 atm da atmosfera."
+        ],
+        "comando": "A pressão total sobre ele é de cerca de",
+        "alternativas": [
+          "20 atm.",
+          "2 atm.",
+          "21 atm.",
+          "3 atm.",
+          "10 atm."
+        ],
+        "passos": [
+          "Água: 20 m → 2 atm.",
+          "Total: 2 + 1 = 3 atm."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A usa 1 atm por metro.",
+          "B esquece a atmosfera.",
+          "C soma 1 a 20.",
+          "E não vem da regra."
+        ]
+      },
+      {
+        "suporte": [
+          "Numa gangorra, uma criança de 30 kg senta a 2 m do apoio."
+        ],
+        "comando": "Para equilibrar, outra criança de 40 kg deve sentar a",
+        "alternativas": [
+          "2,67 m.",
+          "1 m.",
+          "1,5 m.",
+          "3 m.",
+          "0,5 m."
+        ],
+        "passos": [
+          "Alavanca: $30 \\cdot 2 = 40 \\cdot d$.",
+          "$d = 1{,}5$ m."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A inverte a proporção.",
+          "B não equilibra: $40 \\cdot 1 = 40 \\neq 60$.",
+          "D afastaria o mais pesado.",
+          "E não equilibra."
+        ]
+      },
+      {
+        "suporte": [
+          "Ao subir uma rampa em vez de uma escada, uma pessoa empurra um carrinho com menos força."
+        ],
+        "comando": "A rampa é uma",
+        "alternativas": [
+          "máquina simples, o plano inclinado, que reduz a força e aumenta a distância.",
+          "máquina térmica.",
+          "polia móvel.",
+          "roda d’água.",
+          "alavanca interpotente."
+        ],
+        "passos": [
+          "Plano inclinado troca força menor por caminho maior."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B transforma calor em trabalho.",
+          "C é outra máquina simples, com corda e roldana.",
+          "D gira com a água.",
+          "E tem a força entre o apoio e a carga."
+        ]
+      }
     ]
   },
   "saude-alimentacao-e-doencas": {
@@ -678,6 +959,288 @@
       "Iodo → tireoide; ferro → anemia; vitamina C → escorbuto; vitamina A → visão.",
       "Fibras não dão calorias, mas regulam o intestino.",
       "Na prova, a atitude saudável é a equilibrada; desconfie de extremos."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Arroz, pão e macarrão são ricos em amido."
+        ],
+        "comando": "A principal função desse nutriente é",
+        "alternativas": [
+          "fornecer energia.",
+          "construir músculos.",
+          "regular a coagulação.",
+          "formar os ossos.",
+          "combater infecções."
+        ],
+        "passos": [
+          "Amido é carboidrato, a principal fonte de energia."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é função das proteínas.",
+          "C envolve vitamina K e plaquetas.",
+          "D envolve cálcio e vitamina D.",
+          "E é papel do sistema imunológico."
+        ]
+      },
+      {
+        "suporte": [
+          "Carne, ovos, leite e feijão são ricos em um nutriente com função construtora."
+        ],
+        "comando": "Esse nutriente é",
+        "alternativas": [
+          "o carboidrato.",
+          "o lipídio.",
+          "a proteína.",
+          "a fibra.",
+          "a água."
+        ],
+        "passos": [
+          "Proteínas formam e renovam tecidos: função construtora."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A tem função energética.",
+          "B é reserva de energia.",
+          "D ajuda o intestino.",
+          "E não é construtora."
+        ]
+      },
+      {
+        "suporte": [
+          "Marinheiros que passavam meses sem frutas frescas tinham sangramento nas gengivas."
+        ],
+        "comando": "A doença e a vitamina em falta são",
+        "alternativas": [
+          "raquitismo e vitamina D.",
+          "cegueira noturna e vitamina A.",
+          "anemia e ferro.",
+          "beribéri e vitamina B1.",
+          "escorbuto e vitamina C."
+        ],
+        "passos": [
+          "Frutas frescas, sobretudo cítricas, têm vitamina C.",
+          "Sua falta causa escorbuto."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A afeta os ossos.",
+          "B afeta a visão.",
+          "C: ferro é mineral, e o quadro clássico é de cansaço e palidez.",
+          "D afeta nervos e músculos."
+        ]
+      },
+      {
+        "suporte": [
+          "A dengue, a zika e a chikungunya são transmitidas pelo mesmo inseto."
+        ],
+        "comando": "A medida de prevenção mais eficaz é",
+        "alternativas": [
+          "tomar antibiótico.",
+          "eliminar água parada, onde o mosquito se reproduz.",
+          "ferver a água de beber.",
+          "lavar bem as verduras.",
+          "evitar contato com animais domésticos."
+        ],
+        "passos": [
+          "O Aedes aegypti põe ovos em água parada.",
+          "Eliminar os criadouros corta a transmissão."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: as três doenças são causadas por vírus.",
+          "C previne doenças da água.",
+          "D previne verminoses.",
+          "E não tem relação com o mosquito."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma pessoa foi mordida por um animal desconhecido e precisa de proteção imediata contra a raiva."
+        ],
+        "comando": "Ela deve receber",
+        "alternativas": [
+          "apenas antibiótico.",
+          "soro, que traz anticorpos prontos.",
+          "só vitamina C.",
+          "apenas repouso.",
+          "vacina daqui a um ano."
+        ],
+        "passos": [
+          "O soro age na hora, com anticorpos prontos.",
+          "Na prática, soro e vacina podem ser combinados."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: a raiva é causada por vírus.",
+          "C não protege contra o vírus.",
+          "D não trata a infecção.",
+          "E seria tarde demais."
+        ]
+      },
+      {
+        "suporte": [
+          "A vacina estimula o organismo a produzir anticorpos e células de memória."
+        ],
+        "comando": "Por isso, ela é",
+        "alternativas": [
+          "um tratamento imediato.",
+          "um antibiótico.",
+          "uma forma de prevenção.",
+          "um soro.",
+          "um remédio contra fungos."
+        ],
+        "passos": [
+          "A vacina prepara o corpo antes do contato com o agente."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A descreve o soro.",
+          "B combate bactérias.",
+          "D traz anticorpos prontos.",
+          "E é antifúngico."
+        ]
+      },
+      {
+        "suporte": [
+          "A doença de Chagas é transmitida pelo barbeiro, inseto que vive em frestas de casas de pau a pique."
+        ],
+        "comando": "O agente causador é",
+        "alternativas": [
+          "um protozoário.",
+          "um vírus.",
+          "uma bactéria.",
+          "um fungo.",
+          "um verme."
+        ],
+        "passos": [
+          "O Trypanosoma cruzi é um protozoário."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B causa gripe e dengue, por exemplo.",
+          "C causa tuberculose, por exemplo.",
+          "D causa micoses.",
+          "E causa verminoses."
+        ]
+      },
+      {
+        "suporte": [
+          "Andar descalço em solo contaminado por fezes pode causar uma verminose em que larvas penetram pela pele."
+        ],
+        "comando": "Essa doença é",
+        "alternativas": [
+          "a gripe.",
+          "a malária.",
+          "a tuberculose.",
+          "o amarelão (ancilostomose).",
+          "o sarampo."
+        ],
+        "passos": [
+          "As larvas do ancilóstomo entram pela pele dos pés."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é viral e respiratória.",
+          "B é transmitida por mosquito.",
+          "C é bacteriana e respiratória.",
+          "E é viral, transmitida pelo ar."
+        ]
+      },
+      {
+        "suporte": [
+          "A cólera e a hepatite A podem ser transmitidas por água e alimentos contaminados."
+        ],
+        "comando": "Uma ação coletiva de prevenção é",
+        "alternativas": [
+          "usar repelente.",
+          "tomar sol pela manhã.",
+          "instalar mosquiteiros.",
+          "evitar abraços.",
+          "ampliar o saneamento básico e o tratamento de água."
+        ],
+        "passos": [
+          "Doenças de transmissão hídrica caem com esgoto tratado e água potável."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A previne picadas.",
+          "B não previne essas doenças.",
+          "C previne picadas.",
+          "D não tem relação com água."
+        ]
+      },
+      {
+        "suporte": [
+          "Antibióticos são indicados para algumas doenças."
+        ],
+        "comando": "Eles são eficazes contra",
+        "alternativas": [
+          "vírus, como o da gripe.",
+          "fungos, como o da micose.",
+          "bactérias, como a da tuberculose.",
+          "vermes, como a lombriga.",
+          "qualquer doença."
+        ],
+        "passos": [
+          "Antibióticos agem contra bactérias."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: antibióticos não agem em vírus.",
+          "B pede antifúngico.",
+          "D pede vermífugo.",
+          "E: o uso indevido cria bactérias resistentes."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma dieta com excesso de sal está ligada a uma doença crônica muito comum no Brasil."
+        ],
+        "comando": "Essa doença é",
+        "alternativas": [
+          "a hipertensão arterial.",
+          "a dengue.",
+          "a escabiose.",
+          "a malária.",
+          "o tétano."
+        ],
+        "passos": [
+          "Excesso de sódio aumenta a pressão arterial."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é viral, transmitida por mosquito.",
+          "C é causada por ácaro.",
+          "D é causada por protozoário.",
+          "E é causado por bactéria."
+        ]
+      },
+      {
+        "suporte": [
+          "A tuberculose é transmitida pelo ar, por gotículas de tosse e espirro."
+        ],
+        "comando": "Uma medida que reduz a transmissão é",
+        "alternativas": [
+          "comer mais carboidratos.",
+          "usar sandálias.",
+          "beber água fervida.",
+          "manter ambientes ventilados e cobrir a boca ao tossir.",
+          "eliminar água parada."
+        ],
+        "passos": [
+          "Doenças respiratórias se espalham em locais fechados.",
+          "Ventilação e etiqueta da tosse reduzem o contágio."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A não previne a infecção.",
+          "B previne verminoses.",
+          "C previne doenças da água.",
+          "E previne doenças do Aedes."
+        ]
+      }
     ]
   },
   "atomos-elementos-e-formulas": {
@@ -1018,6 +1581,290 @@
       "Substância simples: 1 elemento; composta: 2 ou mais; mistura: substâncias juntas sem reagir.",
       "Composto iônico: cruze as cargas (CaCl₂, Al₂O₃, MgCl₂).",
       "Na, K, Fe, Au, Ag, Pb, Cu vêm do latim. Pt é platina."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Um átomo de sódio tem número atômico 11 e número de massa 23."
+        ],
+        "comando": "O número de nêutrons é",
+        "alternativas": [
+          "11",
+          "23",
+          "34",
+          "12",
+          "1"
+        ],
+        "passos": [
+          "$n = A - Z = 23 - 11 = 12$."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é o número de prótons.",
+          "B é o número de massa.",
+          "C soma A e Z.",
+          "E não vem da conta."
+        ]
+      },
+      {
+        "suporte": [
+          "O cálcio (Z = 20) perde 2 elétrons e forma o íon $Ca^{2+}$."
+        ],
+        "comando": "O íon tem",
+        "alternativas": [
+          "20 prótons e 18 elétrons.",
+          "18 prótons e 20 elétrons.",
+          "20 prótons e 22 elétrons.",
+          "22 prótons e 20 elétrons.",
+          "20 prótons e 20 elétrons."
+        ],
+        "passos": [
+          "Os prótons não mudam: 20.",
+          "Perdeu 2 elétrons: $20 - 2 = 18$."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B troca prótons e elétrons.",
+          "C soma em vez de subtrair.",
+          "D muda os prótons.",
+          "E ignora a perda."
+        ]
+      },
+      {
+        "suporte": [
+          "O cloro (Z = 17) ganha 1 elétron."
+        ],
+        "comando": "O íon formado é",
+        "alternativas": [
+          "$Cl^{+}$, com 16 elétrons.",
+          "$Cl^{-}$, com 18 elétrons.",
+          "$Cl^{2-}$, com 19 elétrons.",
+          "$Cl$, neutro.",
+          "$Cl^{+}$, com 18 elétrons."
+        ],
+        "passos": [
+          "Ganhar elétron dá carga negativa.",
+          "17 + 1 = 18 elétrons."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A corresponde a perder elétron.",
+          "C ganharia 2 elétrons.",
+          "D: com elétron a mais, não é neutro.",
+          "E erra o sinal da carga."
+        ]
+      },
+      {
+        "suporte": [
+          "Os átomos $^{12}C$, $^{13}C$ e $^{14}C$ têm 6 prótons cada."
+        ],
+        "comando": "Eles são",
+        "alternativas": [
+          "isóbaros.",
+          "isótonos.",
+          "íons.",
+          "isótopos.",
+          "moléculas diferentes."
+        ],
+        "passos": [
+          "Mesmo número de prótons e massas diferentes: isótopos."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A teriam a mesma massa.",
+          "B teriam o mesmo número de nêutrons.",
+          "C teriam carga.",
+          "E: são átomos do mesmo elemento."
+        ]
+      },
+      {
+        "suporte": [
+          "Na fórmula $H_2SO_4$ (ácido sulfúrico),"
+        ],
+        "comando": "o número total de átomos é",
+        "alternativas": [
+          "3",
+          "4",
+          "6",
+          "5",
+          "7"
+        ],
+        "passos": [
+          "H: 2. S: 1. O: 4.",
+          "Total: 7."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A conta os elementos, não os átomos.",
+          "B conta só os oxigênios.",
+          "C esquece um hidrogênio.",
+          "D esquece dois átomos."
+        ]
+      },
+      {
+        "suporte": [
+          "Na tabela periódica, sódio, potássio e lítio ficam na mesma coluna."
+        ],
+        "comando": "Elementos da mesma coluna (família)",
+        "alternativas": [
+          "têm propriedades químicas parecidas.",
+          "têm a mesma massa.",
+          "são todos gases.",
+          "têm o mesmo número de prótons.",
+          "não reagem com nada."
+        ],
+        "passos": [
+          "Mesma família, mesmo número de elétrons na última camada: comportamento parecido."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: as massas são diferentes.",
+          "C: são metais sólidos.",
+          "D: cada elemento tem seu número de prótons.",
+          "E: os metais alcalinos são muito reativos."
+        ]
+      },
+      {
+        "suporte": [
+          "O gás oxigênio ($O_2$) e o ozônio ($O_3$)."
+        ],
+        "comando": "São substâncias",
+        "alternativas": [
+          "compostas.",
+          "misturas.",
+          "simples, formadas pelo mesmo elemento.",
+          "iônicas.",
+          "radioativas."
+        ],
+        "passos": [
+          "Cada uma tem só o elemento oxigênio: substâncias simples.",
+          "São formas alotrópicas do oxigênio."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: têm um só elemento.",
+          "B: cada uma é substância pura.",
+          "D: são moleculares.",
+          "E: não são radioativas."
+        ]
+      },
+      {
+        "suporte": [
+          "O sódio (metal) e o cloro (ametal) formam o sal de cozinha."
+        ],
+        "comando": "A ligação entre eles é",
+        "alternativas": [
+          "covalente.",
+          "iônica.",
+          "metálica.",
+          "de hidrogênio.",
+          "nuclear."
+        ],
+        "passos": [
+          "Metal doa elétron, ametal recebe: ligação iônica."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A ocorre entre ametais.",
+          "C ocorre entre metais.",
+          "D é interação entre moléculas.",
+          "E não existe como ligação química."
+        ]
+      },
+      {
+        "suporte": [
+          "O alumínio forma o íon $Al^{3+}$ e o oxigênio, o íon $O^{2-}$."
+        ],
+        "comando": "A fórmula do óxido de alumínio é",
+        "alternativas": [
+          "$AlO$",
+          "$Al_3O_2$",
+          "$AlO_3$",
+          "$Al_2O_3$",
+          "$Al_2O$"
+        ],
+        "passos": [
+          "As cargas precisam se anular: $2 \\cdot (+3) + 3 \\cdot (-2) = 0$.",
+          "Fórmula: $Al_2O_3$."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A soma +1 de carga.",
+          "B inverte os índices.",
+          "C soma −3 de carga.",
+          "E soma +4 de carga."
+        ]
+      },
+      {
+        "suporte": [
+          "A água ($H_2O$) é formada por 2 átomos de hidrogênio e 1 de oxigênio."
+        ],
+        "comando": "A água é",
+        "alternativas": [
+          "substância simples.",
+          "mistura.",
+          "elemento químico.",
+          "substância composta.",
+          "um íon."
+        ],
+        "passos": [
+          "Dois elementos diferentes: substância composta."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: tem dois elementos.",
+          "B: é uma substância pura.",
+          "C: H e O é que são elementos.",
+          "E: a molécula é neutra."
+        ]
+      },
+      {
+        "suporte": [
+          "O carbono-14 decai com o tempo e permite datar fósseis."
+        ],
+        "comando": "Esse uso está ligado à",
+        "alternativas": [
+          "radioatividade.",
+          "eletricidade estática.",
+          "ligação iônica.",
+          "combustão.",
+          "condensação."
+        ],
+        "passos": [
+          "O C-14 é instável e emite radiação a um ritmo conhecido."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B não envolve o núcleo.",
+          "C é ligação entre átomos.",
+          "D é reação de queima.",
+          "E é mudança de estado."
+        ]
+      },
+      {
+        "suporte": [
+          "Um átomo neutro tem 15 elétrons."
+        ],
+        "comando": "Seu número atômico é",
+        "alternativas": [
+          "30",
+          "16",
+          "15",
+          "14",
+          "7"
+        ],
+        "passos": [
+          "Átomo neutro: prótons = elétrons.",
+          "Z = 15."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A dobra o valor.",
+          "B soma 1.",
+          "D subtrai 1.",
+          "E divide por 2."
+        ]
+      }
     ]
   },
   "energia-e-eletricidade": {
@@ -1369,6 +2216,286 @@
       "Série: queimou uma, apagam todas. Paralelo: as outras continuam.",
       "Ímã: dois polos inseparáveis; iguais repelem, diferentes atraem; os dois atraem o ferro.",
       "Pilha e bateria: química → elétrica; gerador: mecânica → elétrica; motor: elétrica → mecânica."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Numa usina hidrelétrica, a água cai e gira as turbinas."
+        ],
+        "comando": "A sequência de transformações de energia é",
+        "alternativas": [
+          "química → elétrica.",
+          "térmica → luminosa.",
+          "potencial gravitacional → cinética → elétrica.",
+          "nuclear → térmica.",
+          "elétrica → potencial."
+        ],
+        "passos": [
+          "A água no alto tem energia potencial.",
+          "Ao cair, vira cinética; o gerador a transforma em elétrica."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A descreve uma pilha.",
+          "B descreve uma lâmpada incandescente, em parte.",
+          "D descreve uma usina nuclear.",
+          "E inverte o processo."
+        ]
+      },
+      {
+        "suporte": [
+          "Um chuveiro de 5 000 W fica ligado 30 minutos por dia."
+        ],
+        "comando": "O consumo mensal (30 dias) é",
+        "alternativas": [
+          "150 kWh.",
+          "75 kWh.",
+          "2,5 kWh.",
+          "7 500 kWh.",
+          "15 kWh."
+        ],
+        "passos": [
+          "Por dia: $5 \\text{ kW} \\cdot 0{,}5 \\text{ h} = 2{,}5$ kWh.",
+          "Mês: $2{,}5 \\cdot 30 = 75$ kWh."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A considera 1 hora por dia.",
+          "C é o consumo de um dia.",
+          "D esquece de converter W em kW.",
+          "E não vem da conta."
+        ]
+      },
+      {
+        "suporte": [
+          "Se o kWh custa R$ 0,80, o consumo de 75 kWh custa"
+        ],
+        "comando": "quanto?",
+        "alternativas": [
+          "R$ 75,80.",
+          "R$ 93,75.",
+          "R$ 600,00.",
+          "R$ 60,00.",
+          "R$ 6,00."
+        ],
+        "passos": [
+          "$75 \\cdot 0{,}80 = 60$ reais."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A soma os valores.",
+          "B divide em vez de multiplicar.",
+          "C erra uma casa.",
+          "E erra uma casa para menos."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma lâmpada é ligada a uma tensão de 120 V e é percorrida por corrente de 0,5 A."
+        ],
+        "comando": "Sua potência é",
+        "alternativas": [
+          "240 W.",
+          "120,5 W.",
+          "60 W.",
+          "0,004 W.",
+          "24 W."
+        ],
+        "passos": [
+          "$P = U \\cdot i = 120 \\cdot 0{,}5 = 60$ W."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A divide em vez de multiplicar.",
+          "B soma.",
+          "D inverte a divisão.",
+          "E erra uma casa."
+        ]
+      },
+      {
+        "suporte": [
+          "Um resistor de 10 Ω é ligado a uma tensão de 20 V."
+        ],
+        "comando": "A corrente que o atravessa é",
+        "alternativas": [
+          "2 A.",
+          "200 A.",
+          "0,5 A.",
+          "30 A.",
+          "10 A."
+        ],
+        "passos": [
+          "Lei de Ohm: $i = \\dfrac{U}{R} = \\dfrac{20}{10} = 2$ A."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B multiplica.",
+          "C inverte a divisão.",
+          "D soma.",
+          "E subtrai."
+        ]
+      },
+      {
+        "suporte": [
+          "Numa árvore de Natal, quando uma lâmpada queima, todas se apagam."
+        ],
+        "comando": "As lâmpadas estão ligadas em",
+        "alternativas": [
+          "paralelo.",
+          "série.",
+          "curto-circuito.",
+          "circuito aberto proposital.",
+          "aterramento."
+        ],
+        "passos": [
+          "Em série, o caminho da corrente é único: um ponto aberto interrompe tudo."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: em paralelo, as outras continuariam acesas.",
+          "C é uma ligação sem resistência, perigosa.",
+          "D não descreve a ligação normal.",
+          "E é ligação de segurança à terra."
+        ]
+      },
+      {
+        "suporte": [
+          "Nas casas, os aparelhos funcionam de forma independente: desligar a TV não apaga a geladeira."
+        ],
+        "comando": "Isso acontece porque a instalação é em",
+        "alternativas": [
+          "série.",
+          "curto-circuito.",
+          "paralelo.",
+          "corrente contínua de pilha.",
+          "circuito único."
+        ],
+        "passos": [
+          "Em paralelo, cada aparelho tem seu próprio caminho e recebe a mesma tensão."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: em série, desligar um apagaria todos.",
+          "B causaria dano e risco.",
+          "D: a rede é de corrente alternada.",
+          "E: há vários ramos."
+        ]
+      },
+      {
+        "suporte": [
+          "Entre as fontes abaixo, a renovável é"
+        ],
+        "comando": "a energia",
+        "alternativas": [
+          "do carvão mineral.",
+          "do petróleo.",
+          "do gás natural.",
+          "nuclear (urânio).",
+          "eólica."
+        ],
+        "passos": [
+          "O vento se renova continuamente."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A é fóssil.",
+          "B é fóssil.",
+          "C é fóssil.",
+          "D depende de minério que se esgota."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma bola de 2 kg cai de uma altura de 5 m. Use $g = 10$ m/s²."
+        ],
+        "comando": "A energia potencial gravitacional inicial é",
+        "alternativas": [
+          "10 J.",
+          "100 J.",
+          "17 J.",
+          "50 J.",
+          "1 000 J."
+        ],
+        "passos": [
+          "$E_p = m \\cdot g \\cdot h = 2 \\cdot 10 \\cdot 5 = 100$ J."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A multiplica só massa e altura.",
+          "C soma.",
+          "D esquece a massa.",
+          "E erra uma casa."
+        ]
+      },
+      {
+        "suporte": [
+          "Ao aproximar o polo norte de um ímã do polo norte de outro,"
+        ],
+        "comando": "eles",
+        "alternativas": [
+          "se atraem.",
+          "perdem o magnetismo.",
+          "se repelem.",
+          "viram polo sul.",
+          "não interagem."
+        ],
+        "passos": [
+          "Polos iguais se repelem; diferentes se atraem."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A ocorre com polos diferentes.",
+          "B: o magnetismo continua.",
+          "D: os polos não trocam.",
+          "E: há força entre eles."
+        ]
+      },
+      {
+        "suporte": [
+          "Ao pentear o cabelo seco, o pente passa a atrair pedacinhos de papel."
+        ],
+        "comando": "O fenômeno é",
+        "alternativas": [
+          "eletrização por atrito.",
+          "magnetismo.",
+          "corrente elétrica contínua.",
+          "indução de ímã.",
+          "combustão."
+        ],
+        "passos": [
+          "O atrito transfere elétrons, e o pente fica carregado."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: papel não é magnético.",
+          "C: não há circuito.",
+          "D: não há ímã.",
+          "E: não há queima."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma pilha alimenta uma lanterna."
+        ],
+        "comando": "Na pilha, ocorre a transformação de energia",
+        "alternativas": [
+          "elétrica em química.",
+          "luminosa em química.",
+          "térmica em elétrica.",
+          "química em elétrica.",
+          "nuclear em luminosa."
+        ],
+        "passos": [
+          "Reações químicas na pilha produzem corrente elétrica."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A ocorre ao recarregar uma bateria.",
+          "B não ocorre na pilha.",
+          "C ocorre em termopares, não na pilha.",
+          "E não ocorre."
+        ]
+      }
     ]
   },
   "ecossistemas-e-relacoes-ecologicas": {
@@ -1709,6 +2836,286 @@
       "Leguminosas + bactérias fixadoras de nitrogênio = mutualismo e adubação verde.",
       "Relações: mutualismo (+ +), comensalismo e inquilinismo (+ 0), predatismo e parasitismo (+ −), competição (− −).",
       "Controle biológico usa inimigos naturais; espécie invasora sem predadores desequilibra o ecossistema."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Cadeia alimentar: capim → gafanhoto → sapo → cobra → gavião."
+        ],
+        "comando": "O consumidor secundário é",
+        "alternativas": [
+          "o gafanhoto.",
+          "o sapo.",
+          "a cobra.",
+          "o gavião.",
+          "o capim."
+        ],
+        "passos": [
+          "Capim: produtor. Gafanhoto: primário. Sapo: secundário."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é consumidor primário.",
+          "C é terciário.",
+          "D é quaternário.",
+          "E é produtor."
+        ]
+      },
+      {
+        "suporte": [
+          "Na mesma cadeia, a energia disponível diminui de um nível para o outro."
+        ],
+        "comando": "Isso ocorre porque",
+        "alternativas": [
+          "os produtores não fazem fotossíntese.",
+          "a energia aumenta com o tamanho do animal.",
+          "parte da energia é gasta em respiração, movimento e calor em cada nível.",
+          "os decompositores devolvem energia aos produtores.",
+          "o gavião produz energia."
+        ],
+        "passos": [
+          "Cada ser usa parte da energia para viver e a perde como calor.",
+          "Só uma fração passa ao nível seguinte."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: os produtores fazem fotossíntese.",
+          "B: a energia diminui ao longo da cadeia.",
+          "D: decompositores reciclam matéria, não energia.",
+          "E: só os produtores captam energia do Sol."
+        ]
+      },
+      {
+        "suporte": [
+          "Fungos e bactérias decompõem folhas e animais mortos."
+        ],
+        "comando": "O papel deles no ecossistema é",
+        "alternativas": [
+          "produzir alimento por fotossíntese.",
+          "controlar predadores.",
+          "polinizar as flores.",
+          "reciclar a matéria orgânica, devolvendo nutrientes ao solo.",
+          "consumir o oxigênio do ar."
+        ],
+        "passos": [
+          "Decompositores transformam matéria orgânica em sais minerais."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é papel dos produtores.",
+          "B não é a função dos decompositores.",
+          "C é papel de insetos e aves.",
+          "E não é sua função ecológica."
+        ]
+      },
+      {
+        "suporte": [
+          "O pássaro-palito come restos de alimento entre os dentes do crocodilo, que não o ataca. Os dois se beneficiam."
+        ],
+        "comando": "A relação é",
+        "alternativas": [
+          "predação.",
+          "parasitismo.",
+          "competição.",
+          "amensalismo.",
+          "mutualismo (protocooperação)."
+        ],
+        "passos": [
+          "Os dois ganham e não há dano: relação harmônica entre espécies diferentes."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A: um mataria o outro.",
+          "B: um seria prejudicado.",
+          "C: disputariam recurso.",
+          "D: um prejudicaria o outro sem ganho."
+        ]
+      },
+      {
+        "suporte": [
+          "O carrapato suga o sangue do cachorro."
+        ],
+        "comando": "A relação é",
+        "alternativas": [
+          "parasitismo.",
+          "comensalismo.",
+          "mutualismo.",
+          "sociedade.",
+          "colônia."
+        ],
+        "passos": [
+          "O carrapato ganha e o cão é prejudicado, sem morrer de imediato."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: no comensalismo o outro não é prejudicado.",
+          "C: os dois ganhariam.",
+          "D é relação entre indivíduos da mesma espécie.",
+          "E: indivíduos unidos fisicamente, da mesma espécie."
+        ]
+      },
+      {
+        "suporte": [
+          "Onças e jaguatiricas caçam as mesmas presas na mata."
+        ],
+        "comando": "Entre elas há",
+        "alternativas": [
+          "mutualismo.",
+          "competição interespecífica.",
+          "comensalismo.",
+          "predação da onça pela presa.",
+          "parasitismo."
+        ],
+        "passos": [
+          "Espécies diferentes disputando o mesmo recurso."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: ninguém se beneficia.",
+          "C: uma não aproveita restos da outra sem prejuízo.",
+          "D inverte os papéis.",
+          "E: uma não vive à custa da outra."
+        ]
+      },
+      {
+        "suporte": [
+          "A fotossíntese pode ser resumida assim:"
+        ],
+        "comando": "Reagentes e produtos são",
+        "alternativas": [
+          "oxigênio + glicose → gás carbônico + água.",
+          "gás carbônico + água + luz → glicose + oxigênio.",
+          "nitrogênio + água → proteína.",
+          "glicose → álcool + gás carbônico.",
+          "água → hidrogênio + oxigênio."
+        ],
+        "passos": [
+          "A planta usa CO₂, água e luz e produz glicose e O₂."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é a respiração celular.",
+          "C não é a fotossíntese.",
+          "D é a fermentação.",
+          "E é a eletrólise."
+        ]
+      },
+      {
+        "suporte": [
+          "Um lago recebe muito esgoto. As algas se multiplicam, depois morrem, e as bactérias que as decompõem consomem o oxigênio da água."
+        ],
+        "comando": "O fenômeno é chamado de",
+        "alternativas": [
+          "eutrofização.",
+          "chuva ácida.",
+          "efeito estufa.",
+          "inversão térmica.",
+          "assoreamento."
+        ],
+        "passos": [
+          "Excesso de nutrientes → algas → decomposição → falta de oxigênio: eutrofização."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B vem de gases no ar.",
+          "C é o aquecimento por gases.",
+          "D é fenômeno atmosférico urbano.",
+          "E é acúmulo de sedimentos."
+        ]
+      },
+      {
+        "suporte": [
+          "Na sucessão ecológica, uma rocha nua é colonizada primeiro por liquens."
+        ],
+        "comando": "Esses primeiros organismos são chamados",
+        "alternativas": [
+          "espécies clímax.",
+          "decompositores finais.",
+          "predadores de topo.",
+          "espécies pioneiras.",
+          "parasitas."
+        ],
+        "passos": [
+          "Liquens resistem a condições duras e iniciam a formação do solo."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A são do estágio final.",
+          "B não iniciam a sucessão.",
+          "C estão no topo da cadeia.",
+          "E vivem à custa de outros."
+        ]
+      },
+      {
+        "suporte": [
+          "Numa teia alimentar, um inseticida não degradável se acumula nos tecidos dos animais."
+        ],
+        "comando": "A maior concentração tende a aparecer",
+        "alternativas": [
+          "nos produtores.",
+          "nos consumidores primários.",
+          "na água.",
+          "no solo.",
+          "nos predadores do topo da cadeia."
+        ],
+        "passos": [
+          "Cada predador come muitas presas contaminadas.",
+          "O acúmulo cresce ao longo da cadeia (magnificação trófica)."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A tem a menor concentração entre os seres vivos.",
+          "B acumula menos que os níveis acima.",
+          "C: o inseticida passa a se concentrar nos seres vivos.",
+          "D: o acúmulo maior é nos tecidos dos animais."
+        ]
+      },
+      {
+        "suporte": [
+          "Bactérias nas raízes de feijão capturam o nitrogênio do ar e o tornam disponível para a planta."
+        ],
+        "comando": "Esse processo faz parte do ciclo",
+        "alternativas": [
+          "da água.",
+          "do carbono.",
+          "do nitrogênio.",
+          "das rochas.",
+          "do fósforo pelo ar."
+        ],
+        "passos": [
+          "A fixação biológica de nitrogênio é etapa do ciclo do nitrogênio."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A envolve evaporação e chuva.",
+          "B envolve fotossíntese e respiração.",
+          "D é geológico.",
+          "E: o fósforo não circula pelo ar."
+        ]
+      },
+      {
+        "suporte": [
+          "Num ecossistema, todos os seres vivos e o ambiente físico se relacionam."
+        ],
+        "comando": "Os fatores abióticos incluem",
+        "alternativas": [
+          "plantas e animais.",
+          "fungos e bactérias.",
+          "apenas os predadores.",
+          "luz, água, temperatura e solo.",
+          "os decompositores."
+        ],
+        "passos": [
+          "Abiótico = sem vida."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A são bióticos.",
+          "B são bióticos.",
+          "C são bióticos.",
+          "E são bióticos."
+        ]
+      }
     ]
   },
   "reproducao-heranca-e-diversidade": {
@@ -2060,6 +3467,287 @@
       "Característica adquirida não passa pelos genes.",
       "Fóssil: vestígio do passado, geralmente partes duras. Dinossauros e humanos não conviveram.",
       "Seleção natural: sobrevive e se reproduz mais quem tem variações vantajosas."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Uma bactéria se divide em duas iguais a ela."
+        ],
+        "comando": "Esse tipo de reprodução é",
+        "alternativas": [
+          "sexuada, com variabilidade.",
+          "assexuada, gerando descendentes geneticamente iguais.",
+          "por fecundação.",
+          "por meiose.",
+          "por polinização."
+        ],
+        "passos": [
+          "Divisão de um só indivíduo, sem gametas: assexuada."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: não há união de gametas.",
+          "C exige gametas.",
+          "D forma gametas.",
+          "E é própria das plantas com flores."
+        ]
+      },
+      {
+        "suporte": [
+          "A reprodução sexuada mistura o material genético de dois indivíduos."
+        ],
+        "comando": "Sua principal vantagem é",
+        "alternativas": [
+          "gerar filhos idênticos.",
+          "dispensar gametas.",
+          "aumentar a variabilidade genética.",
+          "ser mais rápida.",
+          "impedir a evolução."
+        ],
+        "passos": [
+          "Combinações novas de genes ajudam a espécie a se adaptar."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A descreve a assexuada.",
+          "B: a sexuada usa gametas.",
+          "D: costuma ser mais lenta.",
+          "E: a variabilidade favorece a evolução."
+        ]
+      },
+      {
+        "suporte": [
+          "Na ervilha, a cor amarela (A) domina a verde (a). Cruzam-se duas plantas Aa."
+        ],
+        "comando": "A proporção esperada de sementes verdes é",
+        "alternativas": [
+          "$\\tfrac{1}{4}$",
+          "$\\tfrac{1}{2}$",
+          "$\\tfrac{3}{4}$",
+          "0",
+          "1"
+        ],
+        "passos": [
+          "Aa × Aa → AA, Aa, Aa, aa.",
+          "Verde só em aa: 1 de 4."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B conta Aa como verde.",
+          "C é a proporção de amarelas.",
+          "D esquece o aa.",
+          "E: nem todas são verdes."
+        ]
+      },
+      {
+        "suporte": [
+          "Cruzamento AA × aa."
+        ],
+        "comando": "Os filhos serão",
+        "alternativas": [
+          "todos aa.",
+          "metade AA e metade aa.",
+          "todos AA.",
+          "3 AA para 1 aa.",
+          "todos Aa."
+        ],
+        "passos": [
+          "Um pai só dá A; o outro só dá a.",
+          "Todos Aa."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A ignora o pai AA.",
+          "B: não há como formar AA ou aa.",
+          "C ignora o pai aa.",
+          "D não se aplica."
+        ]
+      },
+      {
+        "suporte": [
+          "As girafas de pescoço mais longo alcançavam mais folhas e deixavam mais filhotes."
+        ],
+        "comando": "Essa explicação segue a ideia de",
+        "alternativas": [
+          "Lamarck, de uso e desuso.",
+          "Darwin, de seleção natural.",
+          "geração espontânea.",
+          "criação imutável das espécies.",
+          "herança de caracteres adquiridos."
+        ],
+        "passos": [
+          "Variação já existente + vantagem na sobrevivência e reprodução = seleção natural."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A diria que o pescoço cresceu pelo esforço.",
+          "C é ideia refutada.",
+          "D nega a evolução.",
+          "E é a ideia de Lamarck."
+        ]
+      },
+      {
+        "suporte": [
+          "No ser humano, as células do corpo têm 46 cromossomos."
+        ],
+        "comando": "Os gametas (espermatozoide e óvulo) têm",
+        "alternativas": [
+          "46 cromossomos.",
+          "92 cromossomos.",
+          "23 cromossomos.",
+          "44 cromossomos.",
+          "12 cromossomos."
+        ],
+        "passos": [
+          "A meiose reduz o número à metade.",
+          "Na fecundação, 23 + 23 = 46."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A não reduz.",
+          "B dobra.",
+          "D é o número de autossomos, sem os dois cromossomos sexuais.",
+          "E não corresponde."
+        ]
+      },
+      {
+        "suporte": [
+          "O DNA guarda as informações hereditárias."
+        ],
+        "comando": "Nos eucariontes, ele fica principalmente",
+        "alternativas": [
+          "no núcleo da célula.",
+          "na parede celular.",
+          "no complexo golgiense.",
+          "no vacúolo.",
+          "na membrana plasmática."
+        ],
+        "passos": [
+          "O DNA está nos cromossomos, dentro do núcleo."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B dá suporte à célula vegetal.",
+          "C empacota substâncias.",
+          "D armazena água e substâncias.",
+          "E controla trocas."
+        ]
+      },
+      {
+        "suporte": [
+          "Na flor, o grão de pólen precisa chegar ao estigma para a fecundação."
+        ],
+        "comando": "Esse transporte se chama",
+        "alternativas": [
+          "germinação.",
+          "fotossíntese.",
+          "polinização.",
+          "transpiração.",
+          "dispersão de sementes."
+        ],
+        "passos": [
+          "Levar pólen até o estigma é polinização, feita por vento, insetos, aves."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é o início do desenvolvimento da semente.",
+          "B produz alimento.",
+          "D é perda de água.",
+          "E ocorre depois, com o fruto."
+        ]
+      },
+      {
+        "suporte": [
+          "Os seres vivos são agrupados em reinos."
+        ],
+        "comando": "Cogumelos pertencem ao reino",
+        "alternativas": [
+          "Plantae.",
+          "Animalia.",
+          "Monera.",
+          "Fungi.",
+          "Protista."
+        ],
+        "passos": [
+          "Cogumelos não fazem fotossíntese e absorvem nutrientes: fungos."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: não fazem fotossíntese.",
+          "B: não ingerem alimento.",
+          "C reúne bactérias.",
+          "E reúne protozoários e algas."
+        ]
+      },
+      {
+        "suporte": [
+          "Métodos contraceptivos ajudam no planejamento familiar."
+        ],
+        "comando": "O único que também protege contra infecções sexualmente transmissíveis é",
+        "alternativas": [
+          "a pílula anticoncepcional.",
+          "o DIU.",
+          "a tabelinha.",
+          "a laqueadura.",
+          "o preservativo (camisinha)."
+        ],
+        "passos": [
+          "A camisinha forma barreira física contra secreções."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A é hormonal.",
+          "B fica no útero.",
+          "C só usa o calendário.",
+          "D é cirúrgica."
+        ]
+      },
+      {
+        "suporte": [
+          "Fósseis de peixes com nadadeiras parecidas com patas ajudam a entender a passagem da água para a terra."
+        ],
+        "comando": "Os fósseis são",
+        "alternativas": [
+          "provas da evolução dos seres vivos.",
+          "restos que não informam nada.",
+          "rochas sem relação com a vida.",
+          "animais vivos congelados.",
+          "provas da geração espontânea."
+        ],
+        "passos": [
+          "Fósseis mostram formas de vida do passado e mudanças ao longo do tempo."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: eles registram a história da vida.",
+          "C: são vestígios de seres vivos.",
+          "D: são restos ou marcas, não seres vivos.",
+          "E: a geração espontânea foi refutada."
+        ]
+      },
+      {
+        "suporte": [
+          "Gêmeos idênticos se formam a partir de um só zigoto que se divide."
+        ],
+        "comando": "Por isso, eles",
+        "alternativas": [
+          "têm sexos sempre diferentes.",
+          "vêm de dois óvulos.",
+          "têm o mesmo material genético.",
+          "não têm DNA.",
+          "são de espécies diferentes."
+        ],
+        "passos": [
+          "Um zigoto → dois embriões com o mesmo DNA."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: são do mesmo sexo.",
+          "B descreve gêmeos fraternos.",
+          "D: todo ser vivo tem DNA.",
+          "E: são da mesma espécie."
+        ]
+      }
     ]
   },
   "calor-e-temperatura": {

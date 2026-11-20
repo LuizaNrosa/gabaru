@@ -2061,5 +2061,350 @@
       "Fóssil: vestígio do passado, geralmente partes duras. Dinossauros e humanos não conviveram.",
       "Seleção natural: sobrevive e se reproduz mais quem tem variações vantajosas."
     ]
+  },
+  "calor-e-temperatura": {
+    "materia": "Matéria 2 · Ciências da Natureza · Física",
+    "introducao": "Calor e temperatura aparecem em 16 das 23 provas recentes, quase sempre numa situação do cotidiano: cozinha, fogão a lenha, balão de ar quente, roupas de frio, satélites, ilhas de calor. O assunto mais cobrado é reconhecer as três formas de propagação do calor. Depois vêm escalas termométricas, dilatação e mudanças de estado.",
+    "codigos": [
+      "FI02"
+    ],
+    "raioX": "Em mais da metade das questões, a ETEC dá três situações e pede a forma de propagação de cada uma (condução, convecção, irradiação). As outras pedem conversão entre Celsius, Fahrenheit e kelvin com a fórmula dada, o motivo dos cabos “fazendo barriga” (dilatação) ou o funcionamento do balão de ar quente (densidade). Os distratores trocam as formas de propagação de lugar e confundem calor com temperatura.",
+    "intuicao": [
+      "Temperatura mede o quanto as partículas estão agitadas; calor é energia que passa de um corpo para outro por causa da diferença de temperatura.",
+      "O calor flui sempre do corpo mais quente para o mais frio, até as temperaturas se igualarem (equilíbrio térmico).",
+      "Contato direto em sólido: condução. Fluido que sobe e desce: convecção. Sem contato, por ondas (inclusive no vácuo): irradiação.",
+      "Aquecer quase sempre dilata e deixa o material menos denso; por isso o ar quente sobe."
+    ],
+    "teoria": [
+      {
+        "titulo": "Calor e temperatura não são a mesma coisa",
+        "texto": "Temperatura é uma grandeza que indica o grau de agitação das partículas de um corpo. Mede-se com o termômetro.\n\nCalor é energia térmica em trânsito: só existe enquanto passa de um corpo mais quente para um mais frio. Ninguém “tem calor”; os corpos têm energia térmica e trocam calor.\n\n• O calor flui naturalmente do corpo de maior temperatura para o de menor temperatura.\n• A troca para quando as temperaturas se igualam: é o equilíbrio térmico.\n• Volume, densidade e massa não decidem o sentido do fluxo de calor; só a temperatura decide.\n\nQuando dizemos que um casaco “esquenta”, na verdade ele dificulta a saída de calor do corpo para o ambiente. Ele é um isolante térmico."
+      },
+      {
+        "titulo": "Condução",
+        "texto": "Na condução, o calor passa de partícula para partícula, por contato, sem que a matéria se desloque. É típica dos sólidos.\n\n• Bons condutores: metais (alumínio, cobre, ferro). Uma concha de alumínio esquenta no cabo; por isso envolvemos o cabo num pano.\n• Isolantes: madeira, plástico, borracha, isopor, lã e o ar parado.\n\nExemplos: a chapa de metal do fogão aquece o bule apoiado sobre ela; o ferro de passar aquece a roupa; o chão de cerâmica parece mais frio que o tapete, porque conduz melhor o calor do pé.\n\nPeles, penas, pelos e roupas de lã prendem uma camada de ar parado, que é péssimo condutor. É assim que animais polares e povos do Ártico mantêm o corpo aquecido."
+      },
+      {
+        "titulo": "Convecção",
+        "texto": "Na convecção, o calor é levado pelo movimento do próprio fluido (líquido ou gás). A parte aquecida fica menos densa e sobe; a parte fria, mais densa, desce. Formam-se as correntes de convecção.\n\n• Água fervendo numa panela: a água do fundo esquenta, sobe, e a de cima desce.\n• O vapor que sai da panela destampada e queima a mão.\n• O ar quente do fogão a lenha que circula até a chapa.\n• Geladeira: o congelador fica em cima porque o ar frio desce.\n• Ar-condicionado no alto da parede; aquecedor perto do chão.\n• Brisas marítimas e terrestres.\n\nConvecção não acontece no vácuo nem dentro de sólidos, porque precisa de matéria que se mova."
+      },
+      {
+        "titulo": "Irradiação",
+        "texto": "Na irradiação (ou radiação térmica), o calor é transmitido por ondas eletromagnéticas, principalmente o infravermelho. Não precisa de matéria: é assim que o calor do Sol chega à Terra pelo espaço vazio.\n\n• Sentir o calor de uma fogueira ou da boca do fogão sem tocar em nada.\n• Lâmpadas infravermelhas que mantêm a comida aquecida.\n• Um satélite no espaço só recebe calor do Sol por irradiação; por isso o revestimento térmico serve para bloquear a radiação.\n\nSuperfícies escuras absorvem mais radiação; superfícies claras e espelhadas refletem mais. Uma mangueira preta ao sol esquenta a água; telhados brancos ajudam a reduzir o calor das casas.\n\nIlhas de calor: asfalto e concreto absorvem a radiação solar durante o dia e irradiam calor para o ambiente, deixando o centro das cidades mais quente que a periferia."
+      },
+      {
+        "titulo": "Como identificar a forma de propagação",
+        "texto": "Use estas três perguntas, nesta ordem:\n\n• Há ondas sem precisar de contato, ou o calor atravessa o vácuo? Irradiação.\n• O calor é levado por um líquido ou gás que se movimenta? Convecção.\n• O calor passa por contato, dentro de um sólido ou entre corpos encostados? Condução.\n\nExemplo em três tempos (fogão a lenha): o calor da lenha chega à chapa pelo ar quente que circula (convecção); a chapa aquece o bule apoiado (condução); a lenha deixada em frente à boca do fogão esquenta sem contato (irradiação)."
+      },
+      {
+        "titulo": "Escalas termométricas",
+        "texto": "Três escalas aparecem na prova:\n\n• Celsius (°C): a água congela a 0 °C e ferve a 100 °C, ao nível do mar.\n• Fahrenheit (°F): a água congela a 32 °F e ferve a 212 °F.\n• Kelvin (K): escala absoluta, sem valores negativos; $0$ K é o zero absoluto. A água congela a 273 K e ferve a 373 K.\n\nConversões (a ETEC fornece a fórmula):\n\n$$\\frac{t_C}{5} = \\frac{t_F - 32}{9} \\qquad T_K = t_C + 273$$\n\nExemplo: $-100$ °C em Fahrenheit: $\\dfrac{-100}{5} = \\dfrac{t_F - 32}{9} \\Rightarrow -20 \\cdot 9 = t_F - 32 \\Rightarrow t_F = -148$ °F.\n\nVariações: uma variação de 1 °C é igual a uma variação de 1 K, e equivale a uma variação de 1,8 °F. Só os valores absolutos mudam entre Celsius e kelvin; as variações são iguais."
+      },
+      {
+        "titulo": "Dilatação térmica",
+        "texto": "Quase todos os materiais aumentam de tamanho quando aquecidos e diminuem quando esfriam. É a dilatação (e a contração) térmica.\n\nConsequências práticas:\n\n• Cabos de energia ficam “fazendo barriga”: no frio eles encolhem, e a folga evita que puxem e derrubem as torres.\n• Trilhos e pontes têm juntas de dilatação, pequenos espaços para que possam se expandir no calor.\n• Calçadas têm frisos entre as placas.\n• Um pote de vidro com tampa de metal presa abre mais fácil sob água quente, porque o metal dilata mais que o vidro.\n\nAo dilatar, o volume aumenta e a densidade diminui. Por isso o ar aquecido de um balão fica menos denso que o ar de fora, e o balão sobe.\n\nA água é uma exceção entre 0 °C e 4 °C: ao esfriar nessa faixa ela dilata, e o gelo é menos denso que a água líquida. Por isso o gelo flutua e os lagos congelam só na superfície."
+      },
+      {
+        "titulo": "Mudanças de estado e banho-maria",
+        "texto": "Durante uma mudança de estado de uma substância pura, a temperatura fica constante, mesmo recebendo calor. Toda a energia vai para mudar o estado.\n\n• Fusão (sólido → líquido) e solidificação (líquido → sólido).\n• Vaporização (líquido → gás), que pode ser evaporação (lenta, em qualquer temperatura) ou ebulição (fervura, numa temperatura fixa).\n• Condensação ou liquefação (gás → líquido).\n• Sublimação (sólido → gás direto), como o gelo-seco.\n\nNo banho-maria com água, a água não passa de 100 °C enquanto ferve ao nível do mar; por isso o que está sendo aquecido também não passa de 100 °C. É um aquecimento suave e controlado.\n\nMateriais diferentes fundem em temperaturas diferentes: ao aquecer juntos vários plásticos, o primeiro a fundir é o de menor ponto de fusão."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Três situações e as três formas de propagação, em ordem (cozinha, fogão a lenha, satélite, aquecedor solar).\n• Isolamento térmico (roupas, peles, revestimentos).\n• Ilhas de calor e irradiação.\n• Conversão Celsius, Fahrenheit e kelvin com a fórmula dada.\n• Dilatação: cabos, trilhos, balão de ar quente.\n• Pontos de fusão e ebulição, banho-maria.\n\nA fórmula de conversão sempre vem no enunciado. O que decide a questão é saber qual temperatura do texto usar e não confundir valor com variação."
+      }
+    ],
+    "armadilha": "Trocar convecção por condução. Se o calor viaja junto com um líquido ou gás em movimento (vapor, ar quente, água que circula), é convecção, mesmo que no final ele toque um objeto. Condução é só por contato, sem a matéria se deslocar.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Num dia frio, uma pessoa: (I) segura uma xícara de chá quente com as mãos; (II) senta-se perto de uma lareira, sem tocar nela; (III) liga um aquecedor perto do chão, que aquece o ar do quarto inteiro."
+        ],
+        "comando": "As formas de propagação do calor em I, II e III são, respectivamente,",
+        "alternativas": [
+          "condução, irradiação e convecção.",
+          "condução, convecção e irradiação.",
+          "irradiação, condução e convecção.",
+          "convecção, irradiação e condução.",
+          "condução, condução e convecção."
+        ],
+        "passos": [
+          "I: contato da mão com a xícara, condução.",
+          "II: calor sem contato, por ondas, irradiação.",
+          "III: o ar aquecido sobe e circula pelo quarto, convecção."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B troca irradiação e convecção.",
+          "C troca condução e irradiação.",
+          "D erra as três.",
+          "E: a lareira aquece sem contato, não por condução."
+        ]
+      },
+      {
+        "suporte": [
+          "Use $\\dfrac{t_C}{5} = \\dfrac{t_F - 32}{9}$. Uma receita norte-americana pede forno a 392 °F."
+        ],
+        "comando": "Essa temperatura corresponde a",
+        "alternativas": [
+          "$160$ °C",
+          "$180$ °C",
+          "$200$ °C",
+          "$218$ °C",
+          "$360$ °C"
+        ],
+        "passos": [
+          "$t_F - 32 = 392 - 32 = 360$.",
+          "$\\dfrac{t_C}{5} = \\dfrac{360}{9} = 40$.",
+          "$t_C = 5 \\times 40 = 200$ °C."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A subtrai 32 duas vezes ou erra a razão.",
+          "B usa uma relação aproximada errada.",
+          "D divide 392 por 1,8 sem subtrair 32.",
+          "E só subtrai 32."
+        ]
+      },
+      {
+        "suporte": [
+          "Numa ferrovia, os trilhos de aço são instalados com pequenos espaços entre eles."
+        ],
+        "comando": "Esses espaços servem para",
+        "alternativas": [
+          "economizar aço.",
+          "permitir a dilatação dos trilhos nos dias quentes sem que eles se deformem.",
+          "facilitar o escoamento da chuva.",
+          "diminuir a condução de eletricidade.",
+          "reduzir o atrito das rodas."
+        ],
+        "passos": [
+          "O aço dilata quando aquecido.",
+          "Sem folga, os trilhos se empurrariam e entortariam.",
+          "Os espaços são juntas de dilatação."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: a economia é desprezível e não é o objetivo.",
+          "C: não é função das juntas.",
+          "D: não tem relação com eletricidade.",
+          "E: o atrito não depende dos espaços."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma geladeira tem o congelador na parte de cima."
+        ],
+        "comando": "Essa posição favorece o resfriamento de toda a geladeira porque",
+        "alternativas": [
+          "o frio sobe por irradiação.",
+          "o ar resfriado fica mais denso, desce e cria correntes de convecção.",
+          "o metal do congelador conduz o frio para baixo.",
+          "o ar quente é mais denso e fica embaixo.",
+          "o congelador emite radiação infravermelha."
+        ],
+        "passos": [
+          "O ar em contato com o congelador esfria.",
+          "O ar frio é mais denso e desce; o ar mais quente sobe até o congelador.",
+          "Formam-se correntes de convecção."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: frio não “sobe”, e o processo não é irradiação.",
+          "C: a condução pelas paredes é pequena; o principal é a convecção do ar.",
+          "D inverte: o ar quente é menos denso.",
+          "E: o congelador absorve calor, não emite radiação para resfriar."
+        ]
+      },
+      {
+        "suporte": [
+          "Use $T_K = t_C + 273$. A temperatura de um dia passou de 18 °C para 30 °C."
+        ],
+        "comando": "A variação de temperatura, em kelvin, foi de",
+        "alternativas": [
+          "$12$ K",
+          "$285$ K",
+          "$303$ K",
+          "$21{,}6$ K",
+          "$273$ K"
+        ],
+        "passos": [
+          "Em Celsius: $30 - 18 = 12$ °C.",
+          "Uma variação de 1 °C é igual a uma variação de 1 K.",
+          "Variação de 12 K."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B soma 273 à variação.",
+          "C é a temperatura final em kelvin, não a variação.",
+          "D converte a variação para Fahrenheit.",
+          "E é só a constante de conversão."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q039",
+        "correta": "C",
+        "justificativa": "A pele de caribu, com seus pelos, retém ar junto ao corpo e dificulta as trocas de calor com o ambiente por convecção, ajudando a manter o corpo aquecido.",
+        "distratores": [
+          "A troca o isolamento térmico por absorção de água.",
+          "B inverte: perder calor esfria o corpo.",
+          "D: a pele não reflete toda a radiação, e o texto trata de isolamento.",
+          "E: a pele usada na roupa não é viva e serve para dificultar, não facilitar, a transferência de calor."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q023",
+        "correta": "A",
+        "justificativa": "Nas ilhas de calor, asfalto e concreto absorvem a radiação solar e irradiam calor para o ambiente.",
+        "distratores": [
+          "B acerta a forma, mas inventa um efeito dos prédios sobre as chuvas.",
+          "C: veículos não transportam calor por condução.",
+          "D: o problema não é conduzir calor das casas para fora.",
+          "E: metrôs subterrâneos não explicam o fenômeno."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q049",
+        "correta": "A",
+        "justificativa": "Para subir, o balonista aquece o ar; o ar se expande, e a densidade média do balão diminui, ficando menor que a do ar de fora.",
+        "distratores": [
+          "B resfria o ar, o que faria o balão descer.",
+          "C aquece, mas diz que o ar se contrai.",
+          "D resfria e contrai, fazendo o balão descer.",
+          "E aquece e expande, mas diz que a densidade aumenta."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q018",
+        "correta": "E",
+        "justificativa": "Partindo da mesma temperatura, o primeiro plástico a fundir é o de menor ponto de fusão: o PVC, a 115 °C.",
+        "distratores": [
+          "A: o PS funde a 145 °C.",
+          "B: o PP funde a 160 °C.",
+          "C: o PE funde a 220 °C.",
+          "D: o PET tem o maior ponto de fusão, 260 °C."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q015",
+        "correta": "C",
+        "justificativa": "A menor temperatura do texto é $-100$ °C. Pela fórmula: $\\dfrac{-100}{5} = \\dfrac{t_F - 32}{9} \\Rightarrow t_F = -180 + 32 = -148$ °F.",
+        "distratores": [
+          "A não resulta da fórmula de conversão.",
+          "B troca o sinal de 212 °F, o ponto de ebulição da água.",
+          "D esquece o sinal negativo.",
+          "E é a ebulição da água em Fahrenheit, não a menor temperatura."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q014",
+        "correta": "D",
+        "justificativa": "No espaço quase não há matéria, então o calor do Sol chega só por irradiação (I). Faltam meios para a condução, de partícula a partícula (II), e para a convecção, por porções de matéria que se deslocam (III).",
+        "distratores": [
+          "A troca as três formas de lugar.",
+          "B troca as três formas de lugar.",
+          "C troca as três formas de lugar.",
+          "E acerta a primeira lacuna, mas troca condução e convecção."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q038",
+        "correta": "B",
+        "justificativa": "O ar quente da lenha circula até a chapa (convecção); a chapa aquece o bule por contato (condução); a lenha à frente da boca do fogão esquenta sem contato (irradiação).",
+        "distratores": [
+          "A troca convecção e condução nas duas primeiras lacunas.",
+          "C troca condução e irradiação nas duas últimas.",
+          "D começa por irradiação e erra a terceira.",
+          "E inverte a ordem correta."
+        ]
+      },
+      {
+        "id": "etec-2017-1-q012",
+        "correta": "B",
+        "justificativa": "Pela relação dada, $\\Delta t_K = \\Delta t_C$: uma variação de 1 °C equivale a uma variação de 1 K.",
+        "distratores": [
+          "A: 1 °C equivale a uma variação de 1,8 °F.",
+          "C inverte a razão 9/5.",
+          "D confunde variação com o valor 32 da fórmula.",
+          "E confunde variação com a constante 273."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q031",
+        "correta": "C",
+        "justificativa": "O calor flui espontaneamente do corpo de maior temperatura para o de menor temperatura.",
+        "distratores": [
+          "A: volume não define o sentido do calor.",
+          "B: densidade também não.",
+          "D: o calor específico influencia a variação de temperatura, não o sentido do fluxo.",
+          "E: a capacidade térmica também não define o sentido."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q033",
+        "correta": "E",
+        "justificativa": "O cabo de alumínio esquenta por contato (condução); o vapor da panela leva o calor com o próprio fluido (convecção); a lâmpada infravermelha aquece por ondas (irradiação).",
+        "distratores": [
+          "A troca condução por convecção na primeira e erra as outras.",
+          "B erra as três.",
+          "C troca a primeira e a segunda.",
+          "D: o vapor quente é convecção, não condução."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q042",
+        "correta": "D",
+        "justificativa": "Os cabos se contraem no frio. A folga (“barriga”) permite essa contração sem puxar e derrubar as torres.",
+        "distratores": [
+          "A: a densidade dos cabos não diminui com o tempo.",
+          "B: a curvatura não facilita a condução elétrica.",
+          "C: metais podem ser esticados.",
+          "E: os cabos continuam balançando com o vento."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q009",
+        "correta": "A",
+        "justificativa": "O ar aquecido se expande e fica menos denso que o ar atmosférico, e o empuxo faz o balão subir.",
+        "distratores": [
+          "B: a queima consome oxigênio, não o produz.",
+          "C: a diferença de pressão não explica a subida.",
+          "D: a inércia não faz o balão subir.",
+          "E: o balão não sobe por reação a um calor dirigido para baixo."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q013",
+        "correta": "E",
+        "justificativa": "Pela fórmula: $\\dfrac{T_K - 273}{5} = \\dfrac{212 - 32}{9} = 20 \\Rightarrow T_K = 100 + 273 = 373$ K. É a ebulição da água.",
+        "distratores": [
+          "A: não existe temperatura negativa em kelvin.",
+          "B: valores negativos não existem na escala kelvin.",
+          "C esquece de somar 273.",
+          "D subtrai 100 em vez de somar."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q011",
+        "correta": "D",
+        "justificativa": "A água do banho-maria não passa de 100 °C (sua temperatura de ebulição); por isso, a substância aquecida chega no máximo a essa temperatura.",
+        "distratores": [
+          "A: a fonte constante não leva a água acima de 100 °C.",
+          "B: a substância pode estar abaixo de 100 °C.",
+          "C: a substância pode chegar a 100 °C.",
+          "E: a temperatura não ultrapassa a da água fervente."
+        ]
+      }
+    ],
+    "resumo": [
+      "Temperatura: agitação das partículas. Calor: energia que passa do mais quente para o mais frio.",
+      "Condução: contato, sólidos. Metais conduzem; ar parado, lã e madeira isolam.",
+      "Convecção: fluido que se move (ar quente sobe, frio desce).",
+      "Irradiação: ondas, atravessa o vácuo; escuro absorve, claro reflete.",
+      "$\\dfrac{t_C}{5} = \\dfrac{t_F - 32}{9}$; $T_K = t_C + 273$; $\\Delta T_K = \\Delta t_C$.",
+      "Aquecer dilata e diminui a densidade; folgas em cabos e trilhos.",
+      "Durante a mudança de estado, a temperatura fica constante."
+    ]
   }
 }

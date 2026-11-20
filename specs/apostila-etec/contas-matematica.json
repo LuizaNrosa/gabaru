@@ -346,5 +346,27 @@
       "conta": "2 * 0.24 * 0.16",
       "esperado": 0.0768
     }
+  ],
+  "calor-e-temperatura": [
+    {
+      "rotulo": "etec-2020-1-q015",
+      "conta": "(-100 / 5) * 9 + 32",
+      "esperado": -148
+    },
+    {
+      "rotulo": "etec-2013-2-q013",
+      "conta": "(212 - 32) / 9 * 5 + 273",
+      "esperado": 373
+    },
+    {
+      "rotulo": "exemplo-2",
+      "conta": "(392 - 32) / 9 * 5",
+      "esperado": 200
+    },
+    {
+      "rotulo": "exemplo-5",
+      "conta": "30 - 18",
+      "esperado": 12
+    }
   ]
 }

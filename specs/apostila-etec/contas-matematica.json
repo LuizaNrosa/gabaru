@@ -1098,5 +1098,12 @@
       "esperado": 13
     }
   ],
-  "brasil-territorio-campo-e-industria": []
+  "brasil-territorio-campo-e-industria": [],
+  "populacao-cidades-e-mundo-globalizado": [
+    {
+      "rotulo": "fixacao-2",
+      "conta": "10000000/500000",
+      "esperado": 20
+    }
+  ]
 }

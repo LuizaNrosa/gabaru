@@ -1275,5 +1275,631 @@
         ]
       }
     ]
+  },
+  "populacao-cidades-e-mundo-globalizado": {
+    "materia": "Matéria 5 · Ciências Humanas · Geografia",
+    "introducao": "Quem mora nas cidades, quantos filhos as famílias têm, por que tanta gente atravessa a metrópole todo dia, como um estreito no Oriente Médio mexe no preço da gasolina. Este capítulo junta população, urbanização e globalização, temas que a ETEC traz por meio de pirâmides etárias, notícias de obras e mapas do comércio mundial.",
+    "codigos": [
+      "GE03",
+      "GE05"
+    ],
+    "raioX": "Os itens pedem: leitura de pirâmide etária e queda da fecundidade; envelhecimento da população; tipos de migração; problemas urbanos como enchentes e trânsito; teoria de Malthus; blocos econômicos e União Europeia; canais e estreitos estratégicos; globalização e \"encolhimento\" do mundo. Distratores clássicos: dizer que o Brasil está ficando mais jovem ou confundir migração pendular com sazonal.",
+    "intuicao": [
+      "Pirâmide com base larga = muitos jovens; com topo largo = muitos idosos. O Brasil está passando da primeira para a segunda.",
+      "Pendular = vai e volta no mesmo dia. Sazonal = muda conforme a estação.",
+      "Asfalto em excesso + rios canalizados + lixo = enchente.",
+      "Globalização encurta o tempo das viagens e da comunicação, não o tamanho do planeta."
+    ],
+    "teoria": [
+      {
+        "titulo": "Conceitos de população",
+        "texto": "• População absoluta: total de habitantes. O Brasil é populoso (mais de 200 milhões).\n• Densidade demográfica: habitantes por km². O Brasil é pouco povoado em média, mas tem áreas muito densas.\n• Crescimento vegetativo: nascimentos menos mortes.\n• Taxa de fecundidade: média de filhos por mulher. No Brasil, caiu para menos de 2, abaixo do nível de reposição, por urbanização, escolarização feminina, trabalho fora de casa e métodos contraceptivos."
+      },
+      {
+        "titulo": "Pirâmide etária e envelhecimento",
+        "texto": "Comparando as pirâmides do Brasil de 1991 e 2010, a base (crianças) estreitou e o topo (idosos) alargou.\n\nConsequências:\n\n• mais demanda por saúde para idosos, cuidadores e previdência social;\n• menos pressão por creches e escolas no futuro;\n• o país vive o chamado bônus demográfico: muitos adultos em idade de trabalhar.\n\nO Brasil não tende a ficar mais jovem, e a população não vai dobrar em poucos anos."
+      },
+      {
+        "titulo": "Malthus e as teorias demográficas",
+        "texto": "Malthus (1798) previu fome porque a população cresceria mais rápido que a produção de alimentos.\n\nA previsão não se cumpriu porque a tecnologia (máquinas, fertilizantes, sementes melhoradas) multiplicou a produção, e a natalidade caiu com a urbanização.\n\nA fome que existe hoje se explica mais pela desigualdade e pelo acesso à renda que pela falta de produção."
+      },
+      {
+        "titulo": "Migrações",
+        "texto": "• Pendular: ida e volta diária, de cidades vizinhas para a metrópole, para trabalhar ou estudar.\n• Sazonal (transumância): temporária, ligada às estações ou às safras.\n• Êxodo rural: saída do campo para a cidade, intensa no Brasil entre 1950 e 1980.\n• Inter-regional: entre regiões, como a de nordestinos para o Sudeste no século XX.\n• Internacional: imigração e emigração; inclui refugiados que fogem de guerras e perseguições."
+      },
+      {
+        "titulo": "Urbanização e problemas urbanos",
+        "texto": "Mais de 85% dos brasileiros vivem em cidades. A urbanização rápida e sem planejamento gerou:\n\n• favelas e periferias distantes, segregação socioespacial;\n• trânsito e longos deslocamentos; o Rodoanel de São Paulo desvia caminhões do centro para reduzir congestionamentos;\n• enchentes, pela impermeabilização do solo, canalização dos rios e lixo nas ruas;\n• ilhas de calor e poluição do ar.\n\nSoluções: áreas verdes, solo permeável, recuperação de nascentes, transporte coletivo e coleta de lixo.\n\nMetrópole é a cidade principal de uma região; conurbação é a junção de cidades vizinhas; megalópole, a união de metrópoles (como o eixo Rio–São Paulo)."
+      },
+      {
+        "titulo": "Globalização",
+        "texto": "Integração mundial da economia, da comunicação e da cultura, acelerada desde os anos 1990.\n\n• Transportes e comunicações mais rápidos \"encolhem\" o mundo: o planeta tem o mesmo tamanho, mas as viagens e as mensagens levam muito menos tempo (compressão espaço-tempo).\n• Empresas multinacionais produzem em vários países.\n• As desigualdades entre países e dentro deles continuam.\n• Turismo é atividade global; há turismo religioso (Meca, na Arábia Saudita, onde está a Caaba), de negócios, ecológico e outros."
+      },
+      {
+        "titulo": "Blocos econômicos",
+        "texto": "• União Europeia: mercado comum, moeda única (euro) em parte dos membros, livre circulação de pessoas. Para entrar, o país precisa ser europeu e ter instituições estáveis, democracia, Estado de direito e respeito aos direitos humanos.\n• A Turquia é candidata, mas enfrenta obstáculos, como a ocupação militar do norte do Chipre, país membro.\n• Mercosul: Brasil, Argentina, Uruguai, Paraguai (e Bolívia em adesão).\n• Acordos de infraestrutura, como uma ferrovia ligando o Atlântico ao Pacífico, buscam baratear a exportação de commodities para a Ásia."
+      },
+      {
+        "titulo": "Rotas e pontos estratégicos",
+        "texto": "• Canal do Panamá (1914): liga o Atlântico ao Pacífico.\n• Canal de Suez: liga o Mar Mediterrâneo ao Mar Vermelho.\n• Estreito de Ormuz: liga o Golfo Pérsico ao Golfo de Omã; passa por ele cerca de um quinto do petróleo mundial.\n• Estreito de Gibraltar: liga o Mediterrâneo ao Atlântico.\n\nBloqueios nesses pontos afetam o preço do petróleo e o comércio no mundo todo."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Pirâmide etária e decisão de política pública.\n• Tipo de migração a partir de uma descrição.\n• Causas e soluções das enchentes urbanas.\n• Função de uma obra (Rodoanel, canal, ferrovia).\n• Leitura de letra de música sobre a cidade e a desigualdade.\n\nElimine alternativas que dizem que o planeta \"diminuiu de tamanho\" ou que a população brasileira está rejuvenescendo."
+      }
+    ],
+    "armadilha": "Ler o \"encolhimento do mundo\" ao pé da letra: o planeta não muda de tamanho, o tempo de deslocamento é que diminui. E achar que a população brasileira cresce cada vez mais rápido: a fecundidade está em queda.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Moradores de Guarulhos viajam todos os dias para trabalhar em São Paulo e voltam à noite."
+        ],
+        "comando": "Esse movimento é a migração",
+        "alternativas": [
+          "sazonal.",
+          "pendular.",
+          "internacional.",
+          "permanente.",
+          "de transumância."
+        ],
+        "passos": [
+          "Ida e volta no mesmo dia: pendular."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A acompanha as estações.",
+          "C cruza fronteiras.",
+          "D é mudança definitiva.",
+          "E é deslocamento de rebanhos ou sazonal."
+        ]
+      },
+      {
+        "suporte": [
+          "A pirâmide etária de um país tem a base cada vez mais estreita e o topo mais largo."
+        ],
+        "comando": "Isso indica",
+        "alternativas": [
+          "aumento da natalidade.",
+          "envelhecimento da população.",
+          "aumento da mortalidade infantil.",
+          "população muito jovem.",
+          "guerra recente."
+        ],
+        "passos": [
+          "Menos crianças e mais idosos."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A alargaria a base.",
+          "C estreitaria a base, mas não alargaria o topo.",
+          "D teria base larga.",
+          "E não se deduz."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma cidade quer reduzir enchentes."
+        ],
+        "comando": "A medida mais adequada é",
+        "alternativas": [
+          "canalizar e cimentar todos os córregos.",
+          "ampliar áreas verdes e o solo permeável.",
+          "jogar entulho nas margens.",
+          "asfaltar as praças.",
+          "construir casas nas várzeas."
+        ],
+        "passos": [
+          "Mais infiltração, menos escoamento."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A acelera a água e aumenta o pico das cheias.",
+          "C assoreia.",
+          "D impermeabiliza.",
+          "E ocupa áreas de cheia."
+        ]
+      },
+      {
+        "suporte": [
+          "Navios que vão do Atlântico ao Pacífico sem contornar a América do Sul usam o"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "Canal de Suez.",
+          "Estreito de Ormuz.",
+          "Canal do Panamá.",
+          "Estreito de Gibraltar.",
+          "Canal da Mancha."
+        ],
+        "passos": [
+          "O Canal do Panamá corta a América Central."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A liga o Mediterrâneo ao Mar Vermelho.",
+          "B fica no Golfo Pérsico.",
+          "D liga o Mediterrâneo ao Atlântico.",
+          "E separa Inglaterra e França."
+        ]
+      },
+      {
+        "suporte": [
+          "A taxa de fecundidade no Brasil caiu de cerca de 6 filhos por mulher (1960) para menos de 2."
+        ],
+        "comando": "Uma causa é",
+        "alternativas": [
+          "o êxodo urbano para o campo.",
+          "a urbanização, o estudo e o trabalho feminino e os contraceptivos.",
+          "o aumento das famílias rurais.",
+          "a proibição de casamentos.",
+          "a diminuição da expectativa de vida."
+        ],
+        "passos": [
+          "Na cidade, filhos custam mais e as mulheres estudam e trabalham mais."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o êxodo foi do campo para a cidade.",
+          "C é o oposto.",
+          "D não ocorreu.",
+          "E: a expectativa de vida aumentou."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q019",
+        "correta": "D",
+        "justificativa": "O Rodoanel desvia os veículos pesados que atravessariam São Paulo, reduzindo congestionamentos.",
+        "distratores": [
+          "A: o Rodoanel é rodovia, não ferrovia.",
+          "B: não busca incentivar ocupação nas margens.",
+          "C: não elimina o transporte público.",
+          "E: tira os caminhões das avenidas, não os coloca nelas."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q018",
+        "correta": "B",
+        "justificativa": "A ferrovia Atlântico–Pacífico reduziria custo e tempo de exportação de commodities para a Ásia.",
+        "distratores": [
+          "A: não é ferrovia para migração pendular.",
+          "C: não tem relação com mecanização.",
+          "D: obras não unificam fusos.",
+          "E: não existe rota ferroviária entre Ásia e América do Sul."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q015",
+        "correta": "B",
+        "justificativa": "O Estreito de Ormuz liga o Golfo Pérsico ao Golfo de Omã, na Ásia.",
+        "distratores": [
+          "A: Mar Morto e Cáspio não têm ligação por esse estreito.",
+          "C: o Canal de Suez liga o Mar Vermelho ao Mediterrâneo.",
+          "D: Cáspio e Golfo da Califórnia não se ligam.",
+          "E: fica na Ásia, não na América."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q013",
+        "correta": "C",
+        "justificativa": "Novas tecnologias aumentaram a produção de alimentos, contrariando a previsão de Malthus.",
+        "distratores": [
+          "A: a população mundial aumentou.",
+          "B: hortas de operários não acabaram com a fome.",
+          "D: houve êxodo rural, não urbano.",
+          "E: cestas básicas de patrões não explicam o fato."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q011",
+        "correta": "A",
+        "justificativa": "A Turquia ocupa militarmente o norte do Chipre, país membro da União Europeia.",
+        "distratores": [
+          "B: a Turquia não adota o euro.",
+          "C: a questão curda não é expulsar o povo.",
+          "D: parte do território turco está na Europa.",
+          "E: a Turquia é república laica."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q010",
+        "correta": "E",
+        "justificativa": "Para aderir à UE, o país precisa ter instituições estáveis, democracia, Estado de direito e respeito aos direitos humanos.",
+        "distratores": [
+          "A: não se exige controle do FMI.",
+          "B: não se exige delegar a defesa à OTAN.",
+          "C: há membros republicanos, e o euro não é imediato.",
+          "D: não precisa estar na Europa Ocidental nem extinguir seu parlamento."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q026",
+        "correta": "D",
+        "justificativa": "Recuperar cabeceiras, ampliar áreas verdes, tornar o solo permeável e dar destino adequado ao lixo reduz as enchentes.",
+        "distratores": [
+          "A: elevar alicerces não ataca a causa.",
+          "B: retificar rios acelera as cheias.",
+          "C: depositar sedimentos nas margens assoreia.",
+          "E: canalizar e impermeabilizar agrava o problema."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q016",
+        "correta": "E",
+        "justificativa": "As pirâmides mostram envelhecimento: as verbas devem priorizar idosos e previdência.",
+        "distratores": [
+          "A: a natalidade já está caindo.",
+          "B: o número de gestantes não cresce.",
+          "C: a base da pirâmide estreitou.",
+          "D: crianças e jovens diminuem em proporção."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q018",
+        "correta": "D",
+        "justificativa": "Meca recebe turismo religioso: abriga a Caaba, local mais sagrado do islã.",
+        "distratores": [
+          "A: Meca não é centro de comércio de petróleo.",
+          "B: Meca fica em área desértica.",
+          "C: não há cassinos em Meca.",
+          "E: não é destino de turismo automobilístico."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q029",
+        "correta": "B",
+        "justificativa": "O deslocamento diário de ida e volta é a migração pendular.",
+        "distratores": [
+          "A acompanha as estações do ano.",
+          "C é definitiva.",
+          "D ocorre entre regiões.",
+          "E é deslocamento sazonal de rebanhos."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q027",
+        "correta": "B",
+        "justificativa": "O Canal do Panamá liga o Atlântico ao Pacífico.",
+        "distratores": [
+          "A não corresponde.",
+          "C: o Índico não chega ao Panamá.",
+          "D: o Índico não chega ao Panamá.",
+          "E: o Ártico não chega ao Panamá."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q029",
+        "correta": "B",
+        "justificativa": "A letra fala de uns com mais e outros com menos e da \"esperteza internacional\": luta de classes e globalização.",
+        "distratores": [
+          "A: não trata de economia planificada.",
+          "C: não fala de migração.",
+          "D: não trata desses temas.",
+          "E: não trata desses temas."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q034",
+        "correta": "B",
+        "justificativa": "A proporção de idosos na população vem aumentando, e cresce a procura por cuidadores.",
+        "distratores": [
+          "A: população relativa é densidade, e não explica a procura.",
+          "C: não há emigração de idosos em massa.",
+          "D: a natalidade está caindo.",
+          "E: o crescimento vegetativo diminui."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q003",
+        "correta": "E",
+        "justificativa": "O planeta mantém o tamanho; o mapa \"encolhe\" porque o tempo das viagens diminuiu.",
+        "distratores": [
+          "A: o GPS não aumenta o planeta.",
+          "B: a poluição não reduz o tamanho da Terra.",
+          "C: o planeta não diminui.",
+          "D: as velocidades aumentaram."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q007",
+        "correta": "E",
+        "justificativa": "A taxa de fecundidade vem caindo, entre outros fatores, pelo uso de métodos contraceptivos.",
+        "distratores": [
+          "A: a população está envelhecendo.",
+          "B: a queda da fecundidade reduz o ritmo de crescimento.",
+          "C: as mulheres têm menos filhos.",
+          "D: a população não vai dobrar."
+        ]
+      }
+    ],
+    "resumo": [
+      "Fecundidade em queda; população envelhecendo.",
+      "Pirâmide: base estreita, topo largo.",
+      "Malthus errou: tecnologia ampliou a produção.",
+      "Pendular: ida e volta diária.",
+      "Enchentes: impermeabilização, rios canalizados, lixo.",
+      "Globalização: menos tempo, mesmo planeta.",
+      "UE: democracia e direitos humanos para entrar.",
+      "Panamá: Atlântico–Pacífico. Ormuz: Golfo Pérsico–Golfo de Omã."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "O número total de habitantes de um país é sua"
+        ],
+        "comando": "população",
+        "alternativas": [
+          "relativa.",
+          "absoluta.",
+          "economicamente ativa.",
+          "urbana.",
+          "vegetativa."
+        ],
+        "passos": [
+          "Total de habitantes: população absoluta."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é densidade.",
+          "C é quem trabalha ou procura trabalho.",
+          "D é só a das cidades.",
+          "E não é termo usado."
+        ]
+      },
+      {
+        "suporte": [
+          "Um país tem 10 milhões de habitantes e área de 500 mil km²."
+        ],
+        "comando": "Sua densidade demográfica é",
+        "alternativas": [
+          "50 hab/km².",
+          "5 hab/km².",
+          "20 hab/km².",
+          "200 hab/km².",
+          "2 hab/km²."
+        ],
+        "passos": [
+          "$10\\,000\\,000 \\div 500\\,000 = 20$ hab/km²."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A erra a divisão.",
+          "B erra a divisão.",
+          "D erra uma casa.",
+          "E erra uma casa."
+        ]
+      },
+      {
+        "suporte": [
+          "Trabalhadores que viajam a outra região só no período da colheita da cana fazem migração"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "pendular.",
+          "internacional.",
+          "sazonal.",
+          "permanente.",
+          "urbana."
+        ],
+        "passos": [
+          "Ligada à safra: sazonal."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é diária.",
+          "B cruza fronteiras.",
+          "D é definitiva.",
+          "E não é tipo de migração."
+        ]
+      },
+      {
+        "suporte": [
+          "Entre 1950 e 1980, milhões de brasileiros deixaram o campo rumo às cidades."
+        ],
+        "comando": "O fenômeno é o",
+        "alternativas": [
+          "êxodo rural.",
+          "êxodo urbano.",
+          "bônus demográfico.",
+          "nomadismo.",
+          "turismo."
+        ],
+        "passos": [
+          "Saída do campo para a cidade."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é o contrário.",
+          "C é outra coisa.",
+          "D não se aplica.",
+          "E não é migração."
+        ]
+      },
+      {
+        "suporte": [
+          "Duas cidades vizinhas cresceram até seus limites se encontrarem."
+        ],
+        "comando": "Esse processo é a",
+        "alternativas": [
+          "desertificação.",
+          "conurbação.",
+          "globalização.",
+          "emigração.",
+          "ressurgência."
+        ],
+        "passos": [
+          "Junção física de cidades: conurbação."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é degradação do solo.",
+          "C é integração mundial.",
+          "D é saída de pessoas.",
+          "E é fenômeno oceânico."
+        ]
+      },
+      {
+        "suporte": [
+          "Áreas centrais de grandes cidades ficam mais quentes que a periferia arborizada."
+        ],
+        "comando": "O fenômeno é a",
+        "alternativas": [
+          "inversão térmica.",
+          "chuva ácida.",
+          "ilha de calor.",
+          "brisa marítima.",
+          "monção."
+        ],
+        "passos": [
+          "Asfalto e concreto retêm calor: ilha de calor."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A prende poluentes perto do solo.",
+          "B vem de poluentes.",
+          "D é vento costeiro.",
+          "E é asiática."
+        ]
+      },
+      {
+        "suporte": [
+          "A moeda única adotada por boa parte dos países da União Europeia é o"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "dólar.",
+          "peso.",
+          "libra.",
+          "euro.",
+          "real."
+        ],
+        "passos": [
+          "Euro."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é dos EUA.",
+          "B é de países latinos.",
+          "C é do Reino Unido, que saiu da UE.",
+          "E é do Brasil."
+        ]
+      },
+      {
+        "suporte": [
+          "O bloco econômico que reúne Brasil, Argentina, Uruguai e Paraguai é o"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "Nafta.",
+          "União Europeia.",
+          "Apec.",
+          "Mercosul.",
+          "Otan."
+        ],
+        "passos": [
+          "Mercosul."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é da América do Norte.",
+          "B é europeu.",
+          "C é da Ásia-Pacífico.",
+          "E é aliança militar."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma pessoa foge de seu país por causa de guerra e pede proteção no Brasil."
+        ],
+        "comando": "Ela é considerada",
+        "alternativas": [
+          "turista.",
+          "migrante pendular.",
+          "emigrante rural.",
+          "retirante sazonal.",
+          "refugiada."
+        ],
+        "passos": [
+          "Fuga de guerra ou perseguição: refugiado."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A viaja a lazer.",
+          "B se desloca diariamente.",
+          "C sai do campo.",
+          "D se desloca por safra."
+        ]
+      },
+      {
+        "suporte": [
+          "Hoje uma mensagem chega do outro lado do mundo em segundos."
+        ],
+        "comando": "Isso exemplifica",
+        "alternativas": [
+          "o crescimento físico do planeta.",
+          "a compressão espaço-tempo da globalização.",
+          "o fim das fronteiras nacionais.",
+          "o isolamento dos países.",
+          "o fim das desigualdades."
+        ],
+        "passos": [
+          "Distâncias iguais, tempo menor."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é impossível.",
+          "C: as fronteiras continuam.",
+          "D é o oposto.",
+          "E: as desigualdades continuam."
+        ]
+      },
+      {
+        "suporte": [
+          "Um país de população envelhecida precisa planejar"
+        ],
+        "comando": "sobretudo",
+        "alternativas": [
+          "mais creches.",
+          "mais maternidades.",
+          "controle de natalidade.",
+          "menos hospitais.",
+          "previdência e saúde para idosos."
+        ],
+        "passos": [
+          "Mais idosos, mais demanda de aposentadoria e saúde."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A serve a crianças.",
+          "B serve a gestantes.",
+          "C: a natalidade já é baixa.",
+          "D é o oposto."
+        ]
+      },
+      {
+        "suporte": [
+          "O Canal de Suez liga"
+        ],
+        "comando": "quais mares?",
+        "alternativas": [
+          "Mar Mediterrâneo e Mar Vermelho.",
+          "Atlântico e Pacífico.",
+          "Golfo Pérsico e Golfo de Omã.",
+          "Mar do Norte e Báltico.",
+          "Caribe e Golfo do México."
+        ],
+        "passos": [
+          "Suez, no Egito, liga o Mediterrâneo ao Mar Vermelho."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é o Panamá.",
+          "C é Ormuz.",
+          "D não é.",
+          "E não é."
+        ]
+      }
+    ]
   }
 }

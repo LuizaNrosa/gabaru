@@ -497,5 +497,72 @@
       "conta": "2*2*2*3*3*5",
       "esperado": 360
     }
+  ],
+  "algebra-estatistica-e-probabilidade": [
+    {
+      "rotulo": "etec-2026-2-q027",
+      "conta": "(19+21+24+27+30+35)/6",
+      "esperado": 26
+    },
+    {
+      "rotulo": "etec-2025-1-q031",
+      "conta": "-2*36+15*6+9",
+      "esperado": 27
+    },
+    {
+      "rotulo": "etec-2025-1-q016",
+      "conta": "5*4*3",
+      "esperado": 60
+    },
+    {
+      "rotulo": "etec-2023-2-q045",
+      "conta": "(4.76+4.50)/2",
+      "esperado": 4.63
+    },
+    {
+      "rotulo": "etec-2023-2-q043",
+      "conta": "6*5",
+      "esperado": 30
+    },
+    {
+      "rotulo": "etec-2023-1-q036",
+      "conta": "(24+28)/(8-4)",
+      "esperado": 13
+    },
+    {
+      "rotulo": "etec-2017-2-q032",
+      "conta": "-(2*2)+4*2",
+      "esperado": 4
+    },
+    {
+      "rotulo": "etec-2014-1-q043",
+      "conta": "(171.80-40-0.45*136-40)/0.9",
+      "esperado": 34
+    },
+    {
+      "rotulo": "exemplo-1",
+      "conta": "(31-7)/3",
+      "esperado": 8
+    },
+    {
+      "rotulo": "exemplo-2",
+      "conta": "(600-10*40)/(20-10)",
+      "esperado": 20
+    },
+    {
+      "rotulo": "exemplo-3",
+      "conta": "(5+1)/2",
+      "esperado": 3
+    },
+    {
+      "rotulo": "exemplo-4",
+      "conta": "(5+7+7+8+10)/5",
+      "esperado": 7.4
+    },
+    {
+      "rotulo": "exemplo-5",
+      "conta": "2/6",
+      "esperado": 0.3333
+    }
   ]
 }

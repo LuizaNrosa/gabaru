@@ -1589,5 +1589,335 @@
       "1 h = 60 min; 1 dia = 1 440 min; km/h ÷ 3,6 = m/s.",
       "Anote a unidade em cada passo."
     ]
+  },
+  "algebra-estatistica-e-probabilidade": {
+    "materia": "Matéria 3 · Matemática",
+    "introducao": "Este capítulo reúne o que a ETEC pede quando a conta tem letra ou quando os números chegam em tabela: equações, funções e parábolas, média, leitura de gráficos, contagem e probabilidade. São tópicos que aparecem menos que razão e porcentagem, mas quase sempre com um passo a passo curto. Montar a equação certa é metade da questão.",
+    "codigos": [
+      "MA06",
+      "MA07",
+      "MA11",
+      "MA12"
+    ],
+    "raioX": "Os itens pedem: valor numérico de uma expressão ($E(6)$); resolver equação do 1º grau; montar a equação de 2º grau de um problema de área; reconhecer a parábola e seu vértice; calcular média; ler um gráfico de linha; contar roteiros ou siglas em que a ordem importa. Os distratores trocam sinais, esquecem a ordem na contagem ou confundem a função de 1º grau com a de 2º.",
+    "intuicao": [
+      "Equação é uma balança: o que se faz de um lado se faz do outro.",
+      "Função de 1º grau é reta; de 2º grau é parábola.",
+      "Média é dividir igualmente o total. Ela fica sempre entre o menor e o maior valor.",
+      "Contar com ordem: multiplique as possibilidades de cada etapa.",
+      "Probabilidade = casos favoráveis ÷ casos possíveis."
+    ],
+    "teoria": [
+      {
+        "titulo": "Expressões e valor numérico",
+        "texto": "Valor numérico é o resultado ao trocar a letra por um número. Use parênteses ao substituir:\n\n$E(t) = -2t^2 + 15t + 9$\n\n$E(6) = -2 \\cdot 6^2 + 15 \\cdot 6 + 9 = -2 \\cdot 36 + 90 + 9 = -72 + 99 = 27$\n\nA potência vem antes da multiplicação: $-2 \\cdot 6^2$ é $-2 \\cdot 36$, não $(-12)^2$."
+      },
+      {
+        "titulo": "Equação do 1º grau",
+        "texto": "Isole a incógnita: desfaça os parênteses, junte termos com letra de um lado e números do outro.\n\n$4(n + 6) = 5n - (28 - 3n)$\n\n$4n + 24 = 5n - 28 + 3n$\n\n$4n + 24 = 8n - 28$\n\n$24 + 28 = 8n - 4n \\Rightarrow 52 = 4n \\Rightarrow n = 13$\n\nO sinal de menos antes dos parênteses troca o sinal de tudo que está dentro. Confira sempre substituindo: $4 \\cdot 19 = 76$ e $65 - (28 - 39) = 65 + 11 = 76$."
+      },
+      {
+        "titulo": "Problemas com equação",
+        "texto": "Roteiro:\n\n• dê nome à incógnita (x = distância, preço, largura);\n• escreva cada frase do enunciado como uma parte da equação;\n• resolva e responda o que foi pedido, na unidade certa.\n\nExemplo: aluguel a R$ 40,00 por dia mais R$ 0,45 por km. Num dia com $d$ km rodados, o custo é $40 + 0{,}45d$.\n\nSistemas aparecem quando há duas incógnitas e duas informações. Isole uma letra numa equação e substitua na outra."
+      },
+      {
+        "titulo": "Equação do 2º grau",
+        "texto": "Forma geral: $ax^2 + bx + c = 0$, com $a \\neq 0$.\n\n• Fórmula: $\\Delta = b^2 - 4ac$ e $x = \\dfrac{-b \\pm \\sqrt{\\Delta}}{2a}$.\n• $\\Delta > 0$: duas raízes reais; $\\Delta = 0$: uma; $\\Delta < 0$: nenhuma real.\n• Fatoração: um produto é zero quando algum fator é zero. $(x - 1)(x + 3)(x + 4) = 0$ dá $x = 1$, $x = -3$ ou $x = -4$: três raízes inteiras distintas, mas não todas naturais.\n\nMontando a partir de uma área: terreno de largura $x$ e comprimento $x + 100$, com área 4 225:\n\n$x(x + 100) = 4\\,225 \\Rightarrow x^2 + 100x - 4\\,225 = 0$"
+      },
+      {
+        "titulo": "Funções e gráficos",
+        "texto": "• Função de 1º grau: $f(x) = ax + b$, com $a \\neq 0$. O gráfico é uma reta. $a > 0$: crescente; $a < 0$: decrescente.\n• Função de 2º grau: $f(x) = ax^2 + bx + c$, com $a \\neq 0$. O gráfico é uma parábola. $a < 0$: boca para baixo (tem ponto máximo); $a > 0$: boca para cima (ponto mínimo).\n\nO vértice fica em $x_v = -\\dfrac{b}{2a}$. Para $h(x) = -x^2 + 4x$: $x_v = -\\dfrac{4}{2 \\cdot (-1)} = 2$ e $h(2) = -4 + 8 = 4$. A trajetória sobe até $(2, 4)$ e depois cai.\n\nFunção constante, $f(x) = a$, é uma reta horizontal."
+      },
+      {
+        "titulo": "Sequências e padrões",
+        "texto": "Quando a questão mostra figuras que se repetem, descubra o tamanho do ciclo. Se o padrão se repete a cada 4 posições, a posição 15 é igual à posição 3, porque $15 = 4 \\cdot 3 + 3$. Use o resto da divisão.\n\nEm progressões, veja se a diferença entre termos é constante (soma sempre o mesmo) ou se a razão é constante (multiplica sempre pelo mesmo)."
+      },
+      {
+        "titulo": "Estatística: média, mediana, moda e gráficos",
+        "texto": "• Média aritmética: soma dos valores ÷ quantidade. $\\dfrac{19 + 21 + 24 + 27 + 30 + 35}{6} = \\dfrac{156}{6} = 26$.\n• Mediana: valor do meio com os dados em ordem (com quantidade par, média dos dois centrais).\n• Moda: valor que mais se repete.\n\nA média sempre fica entre o menor e o maior valor. Uma alternativa menor que o menor dado já pode ser descartada.\n\nLeitura de gráficos:\n\n• Em gráfico de linha, crescente é quando a linha sobe da esquerda para a direita.\n• Compare variações pela diferença entre o fim e o começo do intervalo pedido.\n• Gráfico de setores: cada fatia é a fração do total; 25% é um quarto do círculo."
+      },
+      {
+        "titulo": "Contagem",
+        "texto": "Princípio multiplicativo: se uma escolha tem $m$ opções e a seguinte tem $n$, há $m \\cdot n$ combinações.\n\n• Com ordem e sem repetição (arranjo): siglas de 3 letras diferentes tiradas de 5 letras: $5 \\cdot 4 \\cdot 3 = 60$.\n• Primeira parada fixa e mais dois destinos entre 6, em ordem: $6 \\cdot 5 = 30$.\n• Sem ordem (combinação): divida pelo número de ordenações. Escolher 2 entre 6 sem ordem: $\\dfrac{6 \\cdot 5}{2} = 15$.\n\nPergunte sempre: trocar a ordem gera um resultado diferente? Roteiro e senha, sim. Comissão e grupo, não."
+      },
+      {
+        "titulo": "Probabilidade",
+        "texto": "$P = \\dfrac{\\text{casos favoráveis}}{\\text{casos possíveis}}$\n\n• Num dado comum, sair número maior que 4: favoráveis {5, 6}, possíveis 6. $P = \\dfrac{2}{6} = \\dfrac{1}{3}$.\n• A probabilidade vai de 0 (impossível) a 1 (certo); em porcentagem, de 0% a 100%.\n• Probabilidade de não acontecer: $1 - P$.\n• Dois eventos independentes seguidos: multiplique as probabilidades. Duas caras em duas moedas: $\\tfrac{1}{2} \\cdot \\tfrac{1}{2} = \\tfrac{1}{4}$."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Fórmula pronta no enunciado e pedido de valor numérico.\n• Equação com parênteses e sinal de menos.\n• Alternativas com equações parecidas, que só mudam sinais: monte a sua antes de olhar.\n• Parábola: tipo de função e vértice.\n• Tabelas e gráficos de textos reais com cálculo de média.\n• Contagem de roteiros e siglas, sempre perguntando se a ordem importa."
+      }
+    ],
+    "armadilha": "Errar o sinal ao abrir $-(28 - 3n)$, que vira $-28 + 3n$. Na contagem, esquecer que a ordem importa (ou contar ordem quando não importa). Na média, confundir com a mediana ou com o valor do meio da tabela.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Uma corrida de aplicativo custa R$ 7,00 fixos mais R$ 3,00 por quilômetro. Uma passageira pagou R$ 31,00."
+        ],
+        "comando": "A distância percorrida foi",
+        "alternativas": [
+          "10 km.",
+          "8 km.",
+          "12 km.",
+          "24 km.",
+          "6 km."
+        ],
+        "passos": [
+          "$7 + 3x = 31$",
+          "$3x = 24$",
+          "$x = 8$ km."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: 10 km custaria R$ 37,00.",
+          "C: 12 km custaria R$ 43,00.",
+          "D para antes de dividir por 3.",
+          "E: 6 km custaria R$ 25,00."
+        ]
+      },
+      {
+        "suporte": [
+          "Num show, foram vendidos 40 ingressos e arrecadados R$ 600,00. A inteira custava R$ 20,00 e a meia, R$ 10,00."
+        ],
+        "comando": "O número de inteiras vendidas foi",
+        "alternativas": [
+          "10",
+          "20",
+          "25",
+          "30",
+          "15"
+        ],
+        "passos": [
+          "$x + y = 40$ e $20x + 10y = 600$.",
+          "Com $y = 40 - x$: $20x + 400 - 10x = 600$.",
+          "$10x = 200 \\Rightarrow x = 20$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A daria $200 + 300 = 500$ reais.",
+          "C daria $500 + 150 = 650$ reais.",
+          "D daria $600 + 100 = 700$ reais.",
+          "E daria $300 + 250 = 550$ reais."
+        ]
+      },
+      {
+        "suporte": [
+          "Considere a equação $x^2 - 5x + 6 = 0$."
+        ],
+        "comando": "As raízes são",
+        "alternativas": [
+          "2 e 3.",
+          "−2 e −3.",
+          "1 e 6.",
+          "−1 e 6.",
+          "não há raízes reais."
+        ],
+        "passos": [
+          "$\\Delta = 25 - 24 = 1$.",
+          "$x = \\dfrac{5 \\pm 1}{2}$, então $x = 3$ ou $x = 2$.",
+          "Conferindo: $4 - 10 + 6 = 0$."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B troca o sinal de $b$ na fórmula.",
+          "C: $1 - 5 + 6 = 2 \\neq 0$.",
+          "D: $1 + 5 + 6 = 12 \\neq 0$.",
+          "E: $\\Delta = 1 > 0$."
+        ]
+      },
+      {
+        "suporte": [
+          "As notas de um aluno foram 5, 7, 7, 8 e 10."
+        ],
+        "comando": "Média, mediana e moda são, respectivamente,",
+        "alternativas": [
+          "7,4; 7; 7.",
+          "7; 7,4; 7.",
+          "7,4; 8; 7.",
+          "7,4; 7; 10.",
+          "7; 7; 7."
+        ],
+        "passos": [
+          "Média: $37 \\div 5 = 7{,}4$.",
+          "Mediana: valor do meio da lista ordenada, 7.",
+          "Moda: o 7 aparece duas vezes."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B troca média e mediana.",
+          "C erra a mediana.",
+          "D erra a moda.",
+          "E arredonda a média."
+        ]
+      },
+      {
+        "suporte": [
+          "Um dado comum é lançado uma vez."
+        ],
+        "comando": "A probabilidade de sair um número maior que 4 é",
+        "alternativas": [
+          "$\\tfrac{1}{6}$",
+          "$\\tfrac{1}{3}$",
+          "$\\tfrac{1}{2}$",
+          "$\\tfrac{2}{3}$",
+          "$\\tfrac{4}{6}$"
+        ],
+        "passos": [
+          "Maiores que 4: 5 e 6, dois casos.",
+          "$P = \\tfrac{2}{6} = \\tfrac{1}{3}$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A conta só um caso.",
+          "C conta também o 4: {4, 5, 6}.",
+          "D é a probabilidade de não sair maior que 4.",
+          "E também é a probabilidade do complemento."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q027",
+        "correta": "D",
+        "justificativa": "Média: $\\dfrac{19 + 21 + 24 + 27 + 30 + 35}{6} = \\dfrac{156}{6} = 26$ bilhões.",
+        "distratores": [
+          "A é menor que o menor valor (19); a média não pode ficar abaixo dele.",
+          "B também é menor que 19.",
+          "C é o valor de 2027, não a média.",
+          "E é o valor de 2028."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q031",
+        "correta": "B",
+        "justificativa": "$E(6) = -2 \\cdot 36 + 15 \\cdot 6 + 9 = -72 + 90 + 9 = 27\\%$.",
+        "distratores": [
+          "A fica 16 pontos abaixo de E(6).",
+          "C fica 16 pontos acima de E(6).",
+          "D fica 32 pontos acima de E(6).",
+          "E usa $6 \\cdot 2$ no lugar de $6^2$: $-24 + 90 + 9 = 75$."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q016",
+        "correta": "C",
+        "justificativa": "Com as 5 letras distintas do nome da fruta, em ordem e sem repetir: $5 \\cdot 4 \\cdot 3 = 60$ siglas.",
+        "distratores": [
+          "A é $4 \\cdot 3 \\cdot 2$, como se houvesse 4 letras.",
+          "B é a combinação de 7 elementos 3 a 3, que não corresponde às letras da fruta.",
+          "D não é um arranjo de 5 letras 3 a 3.",
+          "E é $7 \\cdot 6 \\cdot 5$, como se houvesse 7 letras."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q042",
+        "correta": "D",
+        "justificativa": "No gráfico, depois do pico da madrugada a concentração cai e, às nove da manhã, já está abaixo de 20 pg/mL.",
+        "distratores": [
+          "A: o gráfico não mostra concentração constante por doze horas.",
+          "B: à tarde a concentração está baixa, longe de 50 pg/mL.",
+          "C: 40 pg/mL é atingido mais de uma vez, na subida e na descida.",
+          "E: na madrugada a curva sobe até o pico e depois começa a cair."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q045",
+        "correta": "A",
+        "justificativa": "Médias: Aparecida 4,63; Ilhabela 4,55; Campos do Jordão 4,45; Eldorado 4,44; Olímpia 4,195. A maior é Aparecida.",
+        "distratores": [
+          "B: média 4,45.",
+          "C: média 4,44.",
+          "D: média 4,55, abaixo de Aparecida.",
+          "E: média 4,195, a menor."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q043",
+        "correta": "B",
+        "justificativa": "O Museu do Café é fixo como primeira parada. Restam 6 destinos para as duas outras, em ordem: $6 \\cdot 5 = 30$.",
+        "distratores": [
+          "A ignora a ordem: $\\tfrac{6 \\cdot 5}{2}$.",
+          "C permite repetir o destino: $6 \\cdot 6$.",
+          "D inclui o Museu de novo: $7 \\cdot 6$.",
+          "E não fixa o Museu: $7 \\cdot 6 \\cdot 5$."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q036",
+        "correta": "B",
+        "justificativa": "$4n + 24 = 5n - 28 + 3n \\Rightarrow 52 = 4n \\Rightarrow n = 13$.",
+        "distratores": [
+          "A divide 52 por 2.",
+          "C: com 11, o lado esquerdo dá 68 e o direito, 60.",
+          "D: com 8, os lados dão 56 e 36.",
+          "E: com 4, os lados dão 40 e 4."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q011",
+        "correta": "C",
+        "justificativa": "Área = largura × comprimento: $x(x + 100) = 4\\,225 \\Rightarrow x^2 + 100x - 4\\,225 = 0$.",
+        "distratores": [
+          "A erra o sinal de 4 225 ao passar para o primeiro membro.",
+          "B erra os dois sinais.",
+          "D troca os coeficientes 100 e 4 225.",
+          "E troca os coeficientes e os sinais."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q005",
+        "correta": "E",
+        "justificativa": "A parábola é o gráfico da função de 2º grau, $f(x) = ax^2 + bx + c$, com $a \\neq 0$.",
+        "distratores": [
+          "A: a função constante tem gráfico reto horizontal.",
+          "B: a função de 1º grau tem gráfico reto.",
+          "C: a expressão é de 2º grau, não de 1º.",
+          "D: $ax + b$ é de 1º grau."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q032",
+        "correta": "A",
+        "justificativa": "Vértice: $x_v = -\\dfrac{4}{2 \\cdot (-1)} = 2$ e $h(2) = 4$. Como $a < 0$, o pássaro sobe até $(2, 4)$ e depois cai.",
+        "distratores": [
+          "B inverte as coordenadas do vértice.",
+          "C: a partir de (2, 4) ele cai, não sobe.",
+          "D: (4, 2) não é ponto da trajetória, pois h(4) = 0.",
+          "E: em (3, 3) ele já está caindo."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q024",
+        "correta": "B",
+        "justificativa": "Os fatores dão $x = 1$, $x = -3$ e $x = -4$: três raízes inteiras distintas.",
+        "distratores": [
+          "A: −3 e −4 não são naturais.",
+          "C: não há raiz irracional.",
+          "D: as três raízes são inteiras.",
+          "E: as três raízes são reais."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q043",
+        "correta": "E",
+        "justificativa": "Dia 1: $40 + 0{,}45 \\cdot 136 = 101{,}20$. Dia 2: $171{,}80 - 101{,}20 = 70{,}60 = 40 + 0{,}45 \\cdot 2d$, então $0{,}9d = 30{,}60$ e $d = 34$ km.",
+        "distratores": [
+          "A é a distância do primeiro dia.",
+          "B levaria o total a R$ 196,10.",
+          "C levaria o total a R$ 186,20.",
+          "D levaria o total a R$ 182,60."
+        ]
+      }
+    ],
+    "resumo": [
+      "Substitua com parênteses; potência antes da multiplicação.",
+      "Menos antes de parênteses troca todos os sinais.",
+      "$\\Delta = b^2 - 4ac$; $x = \\dfrac{-b \\pm \\sqrt{\\Delta}}{2a}$.",
+      "1º grau: reta. 2º grau: parábola, vértice em $x = -b/2a$.",
+      "Média fica entre o menor e o maior valor.",
+      "Contagem: ordem importa? Multiplique.",
+      "$P$ = favoráveis ÷ possíveis."
+    ]
   }
 }

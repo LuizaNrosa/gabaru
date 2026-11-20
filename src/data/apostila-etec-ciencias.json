@@ -3087,5 +3087,331 @@
       "Evaporar absorve calor e resfria.",
       "Separar e mudar de estado são processos físicos."
     ]
+  },
+  "transformacoes-e-propriedades-da-materia": {
+    "materia": "Matéria 2 · Ciências da Natureza · Química",
+    "introducao": "Reações químicas, energia das reações, densidade, solubilidade, ácidos, bases e sais formam o segundo bloco de Química da prova. A ETEC quase sempre parte de um texto do cotidiano: suco gástrico, sabão, reciclagem de plásticos, soro fisiológico, etilômetro, fotossíntese. Quem domina meia dúzia de ideias resolve a maioria.",
+    "codigos": [
+      "QU03",
+      "QU05"
+    ],
+    "raioX": "Os itens pedem: classificar uma transformação como química ou física e como exotérmica ou endotérmica; ler a cor de um indicador na escala de pH; usar a densidade para dizer o que flutua ou calcular uma massa ($m = d \\cdot V$); explicar a ação do sabão; dar o nome de um sal; e aplicar a proporção fixa de uma reação. Os distratores costumam juntar um termo certo com uma justificativa trocada, como \"endotérmica, pois libera energia\".",
+    "intuicao": [
+      "Reação química forma substâncias novas; os átomos são os mesmos, só trocam de parceiros.",
+      "Exo = para fora (libera calor, esquenta o ambiente). Endo = para dentro (absorve calor, esfria o ambiente).",
+      "pH abaixo de 7 é ácido, 7 é neutro, acima de 7 é básico.",
+      "Densidade é massa dividida por volume. Quem tem densidade menor que a da água (1 g/cm³) flutua.",
+      "Semelhante dissolve semelhante: água dissolve o que tem grupos como O–H; óleo dissolve gordura."
+    ],
+    "teoria": [
+      {
+        "titulo": "Transformação química e suas evidências",
+        "texto": "Numa transformação química (reação), as substâncias iniciais, os reagentes, se convertem em outras, os produtos. Os sinais mais comuns:\n\n• mudança de cor (o etilômetro passa de alaranjado a verde);\n• liberação de gás (bolhas que não vêm de fervura);\n• liberação ou absorção de calor e luz (queima, explosão);\n• formação de um sólido que não estava lá (precipitado);\n• cheiro novo (alimento estragando).\n\nUma faísca que vira explosão é transformação química: há combustão, com formação de gases novos e liberação de energia."
+      },
+      {
+        "titulo": "Equação química: reagentes, produtos e substâncias",
+        "texto": "Na equação, os reagentes ficam à esquerda da seta e os produtos, à direita. Os números na frente das fórmulas são os coeficientes e indicam a proporção.\n\n$6\\,CO_2 + 6\\,H_2O \\rightarrow C_6H_{12}O_6 + 6\\,O_2$\n\n• Substância simples: formada por um só elemento ($O_2$, $H_2$, $Fe$).\n• Substância composta: dois ou mais elementos ($CO_2$, $H_2O$, $H_2SO_4$, $K_2Cr_2O_7$).\n\nPara contar substâncias simples ou compostas numa equação, olhe cada fórmula: se aparece só um símbolo de elemento, é simples."
+      },
+      {
+        "titulo": "Conservação da massa e proporção fixa",
+        "texto": "Lavoisier: em sistema fechado, a massa total dos reagentes é igual à massa total dos produtos. Nada se perde; os átomos se rearranjam.\n\nProust: numa reação, as massas reagem sempre na mesma proporção. Se dobrar a quantidade de um reagente, dobra a de produto.\n\nExemplo: 264 g de $CO_2$ (6 × 44 g) produzem 180 g de glicose. Com 66 g de $CO_2$, que é um quarto de 264 g, forma-se um quarto de 180 g:\n\n$\\dfrac{66 \\cdot 180}{264} = 45\\ \\text{g}$\n\nÉ uma regra de três, igual à da Matemática."
+      },
+      {
+        "titulo": "Energia nas reações: exotérmica e endotérmica",
+        "texto": "• Exotérmica: libera energia. Combustão da gasolina, do gás de cozinha, explosões, respiração celular, a queima do alimento no calorímetro. O ambiente esquenta.\n• Endotérmica: absorve energia. Fotossíntese (usa a luz), cozinhar um ovo, compressa instantânea fria. O ambiente esfria.\n\nDentro da reação: quebrar ligações entre átomos absorve energia (endotérmico); formar ligações libera energia (exotérmico). O saldo entre as duas decide se a reação, no total, libera ou absorve.\n\nNum calorímetro, o alimento queima dentro de um recipiente cercado de água. Se a temperatura da água aumenta, a reação liberou energia: é exotérmica."
+      },
+      {
+        "titulo": "Densidade",
+        "texto": "Densidade é a massa por unidade de volume:\n\n$d = \\dfrac{m}{V}$\n\n• A água tem densidade 1,00 g/cm³.\n• Um objeto maciço com densidade menor que a do líquido flutua; com densidade maior, afunda.\n• Para achar a massa: $m = d \\cdot V$. Uma peça de alumínio ($d = 2{,}7$ g/cm³) com 50 cm³ tem $2{,}7 \\cdot 50 = 135$ g.\n\nUsinas de reciclagem separam plásticos assim: em água, polipropileno (0,90 g/cm³) e polietileno (0,92 g/cm³) flutuam; PS, PET e PVC, acima de 1, afundam."
+      },
+      {
+        "titulo": "Solubilidade e a ação do sabão",
+        "texto": "Uma substância se dissolve melhor num solvente parecido com ela.\n\n• Hidrossolúvel: dissolve em água. Costuma ter vários grupos O–H espalhados pela molécula. A vitamina C é assim.\n• Lipossolúvel: dissolve em óleo e gordura. Tem longas cadeias de carbono e hidrogênio e poucos grupos O–H. A vitamina A é assim.\n\nO sabão tem duas partes: uma cabeça que interage com a água e uma cauda longa que interage com a gordura. A cauda envolve a gordura, a cabeça fica voltada para a água, e o enxágue leva tudo embora. O sabão não transforma a gordura em outra substância; ele interage com as duas ao mesmo tempo."
+      },
+      {
+        "titulo": "Ácidos, bases e a escala de pH",
+        "texto": "• Ácidos: azedos, liberam $H^+$ em água. Suco de limão, vinagre, suco gástrico ($HCl$), ácido sulfúrico.\n• Bases (hidróxidos): adstringentes, liberam $OH^-$. Soda cáustica ($NaOH$), leite de magnésia, sabão.\n\nA escala de pH vai de 0 a 14:\n\n• pH < 7: ácido (quanto menor, mais ácido). Suco gástrico tem pH ≈ 2.\n• pH = 7: neutro (água pura).\n• pH > 7: básico.\n\nIndicador ácido-base é uma substância que muda de cor conforme o pH. A questão sempre dá a tabela de cores: localize o pH pedido na faixa e leia a cor."
+      },
+      {
+        "titulo": "Neutralização e nomes dos sais",
+        "texto": "Ácido + base → sal + água. Exemplo: $HCl + NaOH \\rightarrow NaCl + H_2O$.\n\nO nome do sal vem do ácido, trocando a terminação:\n\n• ácido ...ídrico → ...eto: clorídrico → cloreto; sulfídrico → sulfeto.\n• ácido ...ico → ...ato: sulfúrico → sulfato; nítrico → nitrato.\n• ácido ...oso → ...ito: sulfuroso → sulfito.\n\nDepois vem \"de\" e o metal da base: cloreto de sódio, sulfeto de cálcio ($CaS$). O sódio (Na) do sal de cozinha ajuda no equilíbrio dos fluidos do corpo."
+      },
+      {
+        "titulo": "Química verde e matéria-prima renovável",
+        "texto": "A química verde busca processos que gerem menos resíduos, usem menos energia e solventes, troquem reagentes tóxicos por outros mais seguros e usem matérias-primas renováveis.\n\n• Renovável: vem de fonte que se repõe em pouco tempo, como a cana, que dá o etanol, e o bambu.\n• Não renovável: petróleo (gasolina, diesel), minérios (alumínio, ferro do aço)."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• \"Libera\" combina com exotérmica, \"absorve\" com endotérmica. Alternativas que cruzam os dois estão erradas.\n• Leitura de escala de pH e indicador a partir de uma figura.\n• Densidade: tabela de materiais e pergunta sobre o que flutua, ou conta direta $m = d \\cdot V$.\n• Solubilidade explicada pelo próprio texto (grupos O–H, cabeça e cauda do sabão).\n• Nomenclatura de sal seguindo uma regra dada no enunciado.\n• Proporção numa equação já balanceada: regra de três."
+      }
+    ],
+    "armadilha": "Confundir a classificação com a justificativa. \"Endotérmica, pois libera energia\" junta duas coisas incompatíveis. Outra armadilha frequente: achar que o sabão \"transforma\" a gordura. Ele só interage com ela e com a água ao mesmo tempo.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Uma rolha de cortiça tem densidade 0,24 g/cm³, um parafuso de ferro 7,9 g/cm³ e um cubo de gelo 0,92 g/cm³. Os três são postos em água (1,00 g/cm³)."
+        ],
+        "comando": "Flutuam na água",
+        "alternativas": [
+          "só a rolha.",
+          "a rolha e o gelo.",
+          "o gelo e o parafuso.",
+          "só o parafuso.",
+          "os três."
+        ],
+        "passos": [
+          "Compare cada densidade com 1,00 g/cm³.",
+          "Rolha (0,24) e gelo (0,92) são menos densos: flutuam.",
+          "O ferro (7,9) é mais denso: afunda."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A esquece o gelo, que também é menos denso que a água.",
+          "C: o parafuso afunda.",
+          "D inverte a regra.",
+          "E: o ferro não flutua."
+        ]
+      },
+      {
+        "suporte": [
+          "Em recipiente fechado, 12 g de carbono reagem completamente com 32 g de oxigênio, formando gás carbônico."
+        ],
+        "comando": "A massa de gás carbônico formada é",
+        "alternativas": [
+          "20 g.",
+          "32 g.",
+          "44 g.",
+          "12 g.",
+          "384 g."
+        ],
+        "passos": [
+          "Pela conservação da massa, produtos = reagentes.",
+          "$12 + 32 = 44$ g."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A subtrai em vez de somar.",
+          "B é só a massa do oxigênio.",
+          "D é só a massa do carbono.",
+          "E multiplica as massas, o que não tem sentido químico."
+        ]
+      },
+      {
+        "suporte": [
+          "Um indicador fica vermelho em pH de 0 a 6, verde em pH 7 e azul de 8 a 14. Ele é pingado em vinagre (pH 3) e em leite de magnésia (pH 10)."
+        ],
+        "comando": "As cores observadas são, respectivamente,",
+        "alternativas": [
+          "azul e vermelho.",
+          "verde e azul.",
+          "vermelho e azul.",
+          "vermelho e verde.",
+          "azul e verde."
+        ],
+        "passos": [
+          "pH 3 está na faixa ácida: vermelho.",
+          "pH 10 está na faixa básica: azul."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A inverte as faixas.",
+          "B: o vinagre não é neutro.",
+          "D: o leite de magnésia não é neutro.",
+          "E erra as duas cores."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma compressa instantânea fria esfria quando se rompe um saquinho interno e duas substâncias se misturam."
+        ],
+        "comando": "O processo é",
+        "alternativas": [
+          "exotérmico, pois libera calor.",
+          "endotérmico, pois absorve calor do ambiente.",
+          "endotérmico, pois libera calor.",
+          "exotérmico, pois absorve calor.",
+          "sem troca de energia."
+        ],
+        "passos": [
+          "A compressa fica fria: retira calor da pele e do ar.",
+          "Absorver calor é endotérmico."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: se liberasse calor, esquentaria.",
+          "C junta endotérmico com liberar, incompatíveis.",
+          "D junta exotérmico com absorver.",
+          "E: a queda de temperatura mostra troca de energia."
+        ]
+      },
+      {
+        "suporte": [
+          "O ácido sulfúrico ($H_2SO_4$) reage com hidróxido de sódio ($NaOH$) numa neutralização total."
+        ],
+        "comando": "O sal formado se chama",
+        "alternativas": [
+          "sulfeto de sódio.",
+          "sulfito de sódio.",
+          "sulfato de sódio.",
+          "cloreto de sódio.",
+          "sulfato de cálcio."
+        ],
+        "passos": [
+          "Ácido terminado em -ico forma sal terminado em -ato.",
+          "Sulfúrico → sulfato; o metal da base é o sódio."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: -eto vem de ácido -ídrico (sulfídrico).",
+          "B: -ito vem de ácido -oso.",
+          "D: não há cloro na reação.",
+          "E: a base é de sódio, não de cálcio."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q030",
+        "correta": "D",
+        "justificativa": "pH 2 é menor que 7: solução ácida. Na figura, a faixa ácida do indicador é vermelha.",
+        "distratores": [
+          "A: pH 2 não é básico, e azul é a cor da faixa básica.",
+          "B: a solução é ácida, mas azul não é a cor dessa faixa.",
+          "C: pH 2 não é neutro.",
+          "E: a cor está certa, mas a solução não é básica."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q042",
+        "correta": "C",
+        "justificativa": "A vitamina C tem vários grupos O–H espalhados pela estrutura, por isso é mais solúvel em água que a vitamina A, que tem longa cadeia de carbono e hidrogênio.",
+        "distratores": [
+          "A: a vitamina A tem poucos grupos O–H e é lipossolúvel.",
+          "B: a vitamina C é hidrossolúvel.",
+          "D: a vitamina A não tem várias hidroxilas espalhadas.",
+          "E: os grupos da vitamina C interagem com a água, não com gordura."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q025",
+        "correta": "B",
+        "justificativa": "O texto afirma que a quebra de ligações absorve energia; processo que absorve energia é endotérmico.",
+        "distratores": [
+          "A: endotérmico não libera energia.",
+          "C: há variação de energia.",
+          "D: a quebra não libera energia.",
+          "E: exotérmico não absorve energia."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q004",
+        "correta": "E",
+        "justificativa": "O sódio, que ajuda no equilíbrio dos fluidos do corpo, é um dos constituintes do cloreto de sódio, o sal de cozinha.",
+        "distratores": [
+          "A: o leite é lembrado pelo cálcio.",
+          "B: a carne é lembrada pelo ferro e pelas proteínas.",
+          "C: o açúcar é sacarose, sem sódio na fórmula.",
+          "D: a pimenta não tem o sódio como constituinte principal."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q040",
+        "correta": "E",
+        "justificativa": "O sabão tem uma parte que interage com a água e outra que interage com a gordura; por isso remove a gordura no enxágue.",
+        "distratores": [
+          "A: o sabão não transforma a gordura em outras substâncias.",
+          "B: a cabeça interage com a água; é a cauda que interage com a gordura.",
+          "C: a cauda interage com a gordura, não com a água.",
+          "D: o sabão remove a gordura, não a água."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q036",
+        "correta": "D",
+        "justificativa": "$m = d \\cdot V = 2{,}7 \\cdot 50 = 135$ g.",
+        "distratores": [
+          "A repete a densidade, sem multiplicar pelo volume.",
+          "B divide o resultado por 10.",
+          "C é 2,7 × 10, sem usar o volume de 50 cm³.",
+          "E multiplica 2,7 por 100, o dobro do volume dado."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q019",
+        "correta": "B",
+        "justificativa": "Só PP (0,90 g/cm³) e PE (0,92 g/cm³) têm densidade menor que a da água (1,00 g/cm³); por isso flutuam.",
+        "distratores": [
+          "A: PET e PVC têm densidade acima de 1 e afundam.",
+          "C: PS e PVC afundam.",
+          "D: PET, PS e PVC afundam.",
+          "E: PE flutua, mas PS e PET afundam."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q041",
+        "correta": "A",
+        "justificativa": "Ácido sulfídrico (-ídrico) forma sal terminado em -eto: sulfeto. Com hidróxido de cálcio, o sal é CaS, sulfeto de cálcio.",
+        "distratores": [
+          "B: sulfato vem do ácido sulfúrico.",
+          "C: sulfito vem do ácido sulfuroso.",
+          "D: a base é de cálcio, e sulfato não vem do sulfídrico.",
+          "E: a terminação está certa, mas a base é de cálcio, não de sódio."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q003",
+        "correta": "E",
+        "justificativa": "Na equação, 6 × 44 = 264 g de CO₂ formam 180 g de glicose. Com 66 g: $66 \\cdot 180 / 264 = 45$ g.",
+        "distratores": [
+          "A: 50 g passaria de um quarto de 180 g; 66 g é exatamente um quarto de 264 g.",
+          "B: 48 g não é um quarto de 180 g.",
+          "C: 40 g ficaria abaixo da proporção; faltariam 5 g.",
+          "D: 43 g não sai de nenhuma conta com as massas da equação."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q024",
+        "correta": "A",
+        "justificativa": "A faísca inicia uma explosão: combustão, que forma substâncias novas (química) e libera energia (exotérmica).",
+        "distratores": [
+          "B: a explosão libera energia, não absorve.",
+          "C: é química, e exotérmica não absorve energia.",
+          "D: é química, e endotérmica não libera energia.",
+          "E: a explosão é química e libera muita energia."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q026",
+        "correta": "D",
+        "justificativa": "O etanol é obtido da cana-de-açúcar, matéria-prima renovável.",
+        "distratores": [
+          "A: o diesel vem do petróleo, não renovável.",
+          "B: o alumínio vem da bauxita, minério não renovável.",
+          "C: a gasolina vem do petróleo.",
+          "E: o aço vem do minério de ferro."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q018",
+        "correta": "B",
+        "justificativa": "Os reagentes são K₂Cr₂O₇, H₂SO₄ e CH₃CH₂OH: três substâncias compostas, cada uma com mais de um elemento.",
+        "distratores": [
+          "A: não há substância simples nos reagentes nem nos produtos.",
+          "C: todos os produtos são compostos.",
+          "D: a substância verde, Cr₂(SO₄)₃, tem crômio, não sódio.",
+          "E: o ácido dos reagentes é o sulfúrico (H₂SO₄), não o clorídrico."
+        ]
+      }
+    ],
+    "resumo": [
+      "Reação química forma substâncias novas; a massa total se conserva.",
+      "Proporção fixa: use regra de três.",
+      "Exotérmica libera calor; endotérmica absorve.",
+      "Quebrar ligação absorve; formar ligação libera.",
+      "d = m/V; menor que 1 g/cm³ flutua na água.",
+      "Grupos O–H: solúvel em água. Sabão: cabeça na água, cauda na gordura.",
+      "pH < 7 ácido; 7 neutro; > 7 básico.",
+      "Sal: -ídrico → -eto; -ico → -ato; -oso → -ito."
+    ]
   }
 }

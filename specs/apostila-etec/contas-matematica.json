@@ -370,5 +370,22 @@
     }
   ],
   "biodiversidade-e-conservacao": [],
-  "misturas-separacao-e-estados-fisicos": []
+  "misturas-separacao-e-estados-fisicos": [],
+  "transformacoes-e-propriedades-da-materia": [
+    {
+      "rotulo": "etec-2022-2-q036",
+      "conta": "2.7*50",
+      "esperado": 135
+    },
+    {
+      "rotulo": "etec-2019-2-q003",
+      "conta": "66*180/264",
+      "esperado": 45
+    },
+    {
+      "rotulo": "exemplo-2",
+      "conta": "12+32",
+      "esperado": 44
+    }
+  ]
 }

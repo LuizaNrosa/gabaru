@@ -1,0 +1,337 @@
+{
+  "razao-e-proporcao": {
+    "materia": "Matéria 3 · Matemática",
+    "introducao": "Razão e proporção são o assunto de Matemática que mais cai na ETEC: 35 questões em 18 das 23 provas recentes. Elas aparecem em receitas, mapas, velocidades, concentrações, densidade de animais por hectare e até na escala de cães-guia por pessoa. Quem domina a regra de três e as conversões de unidade resolve boa parte da prova de Matemática.",
+    "codigos": [
+      "MA03"
+    ],
+    "raioX": "A banca dá uma relação (por quilograma, por hora, por hectare, por pessoa) e pede para aplicá-la a outra quantidade. Quase sempre há uma conversão no caminho (g e kg, cm e m, minutos e horas, hectares e alqueires). Os distratores são os resultados de quem multiplica em vez de dividir, esquece a conversão ou confunde grandezas diretamente e inversamente proporcionais.",
+    "intuicao": [
+      "Antes de calcular, escreva a relação em palavras: “5 garrafas viram 40 copos”, “15 mg de iodo por 1 kg de sal”.",
+      "Pergunte: se uma grandeza dobra, a outra dobra (direta) ou cai pela metade (inversa)?",
+      "Deixe as unidades iguais dos dois lados antes de montar a proporção.",
+      "Confira se o resultado faz sentido: menos ingredientes, menos pão ralado; mais velocidade, menos tempo."
+    ],
+    "teoria": [
+      {
+        "titulo": "Razão: comparar por divisão",
+        "texto": "Razão entre dois números $a$ e $b$ (com $b \\neq 0$) é o quociente $\\dfrac{a}{b}$, que também se lê “$a$ para $b$”.\n\n• Numa turma com 12 meninas e 18 meninos, a razão de meninas para meninos é $\\dfrac{12}{18} = \\dfrac{2}{3}$: para cada 2 meninas há 3 meninos.\n• A razão de meninas para o total é $\\dfrac{12}{30} = \\dfrac{2}{5}$, ou seja, 40% da turma.\n\nA ordem importa: “meninas para meninos” é $\\dfrac{12}{18}$, e “meninos para meninas” é $\\dfrac{18}{12}$.\n\nRazões aparecem com nomes próprios:\n\n• Velocidade média: distância ÷ tempo (km/h, m/s).\n• Densidade: massa ÷ volume (g/cm³).\n• Densidade demográfica: habitantes ÷ área (hab/km²).\n• Concentração: quantidade de soluto ÷ volume ou massa (g/L, mg/kg).\n• Escala: medida no desenho ÷ medida real.\n• Taxa de lotação: unidades animais ÷ hectares.\n\nComparar razões “1 para cada …”: se há 9 milhões de eleitores e 12 milhões de habitantes, a razão habitantes : eleitores é $\\dfrac{12}{9} = \\dfrac{4}{3}$. Para cada 3 eleitores há 4 habitantes."
+      },
+      {
+        "titulo": "Proporção e a propriedade fundamental",
+        "texto": "Proporção é a igualdade entre duas razões: $\\dfrac{a}{b} = \\dfrac{c}{d}$.\n\nPropriedade fundamental: numa proporção, o produto dos extremos é igual ao produto dos meios.\n\n$$\\frac{a}{b} = \\frac{c}{d} \\quad\\Longleftrightarrow\\quad a \\cdot d = b \\cdot c$$\n\nÉ ela que permite descobrir um termo desconhecido. Exemplo: $\\dfrac{3}{5} = \\dfrac{x}{40}$.\n\n$$5 \\cdot x = 3 \\cdot 40 \\;\\Rightarrow\\; 5x = 120 \\;\\Rightarrow\\; x = \\frac{120}{5} = 24$$\n\nPara conferir, simplifique: $\\dfrac{24}{40} = \\dfrac{3}{5}$. A proporção está correta."
+      },
+      {
+        "titulo": "Grandezas diretamente proporcionais",
+        "texto": "Duas grandezas são diretamente proporcionais quando, ao multiplicar uma por um número, a outra fica multiplicada pelo mesmo número. A razão entre elas é constante.\n\n• Quantidade de ingredientes e número de porções de uma receita.\n• Distância percorrida e tempo, com velocidade constante.\n• Preço e quantidade comprada de um mesmo produto.\n• Massa de sal e quantidade de iodo adicionada.\n\nExemplo: uma receita usa 840 g de pão ralado para 20 coxas de frango. Para 15 coxas:\n\n$$\\frac{840}{20} = \\frac{x}{15} \\;\\Rightarrow\\; 20x = 840 \\cdot 15 = 12\\,600 \\;\\Rightarrow\\; x = 630 \\text{ g}$$\n\nOutro caminho é a redução à unidade: $840 \\div 20 = 42$ g por coxa, e $42 \\times 15 = 630$ g. Os dois caminhos sempre dão o mesmo resultado."
+      },
+      {
+        "titulo": "Grandezas inversamente proporcionais",
+        "texto": "Duas grandezas são inversamente proporcionais quando, ao multiplicar uma por um número, a outra fica dividida pelo mesmo número. O produto entre elas é constante.\n\n• Velocidade e tempo, para a mesma distância: dobrando a velocidade, o tempo cai pela metade.\n• Número de trabalhadores e tempo para fazer o mesmo serviço.\n• Pressão e área, com a mesma força: área menor, pressão maior.\n\nExemplo: 6 pedreiros constroem um muro em 10 dias. Quantos dias levariam 4 pedreiros, no mesmo ritmo?\n\n$$6 \\cdot 10 = 4 \\cdot x \\;\\Rightarrow\\; 60 = 4x \\;\\Rightarrow\\; x = 15 \\text{ dias}$$\n\nTeste do bom senso: menos pedreiros, mais dias. Se a conta der menos de 10 dias, você tratou as grandezas como diretas."
+      },
+      {
+        "titulo": "Regra de três simples, passo a passo",
+        "texto": "Regra de três é o método para achar um valor desconhecido quando conhecemos três valores de duas grandezas proporcionais.\n\n• Passo 1: monte uma tabela com as duas grandezas em colunas e as situações em linhas.\n• Passo 2: decida se as grandezas são diretas ou inversas.\n• Passo 3: se diretas, multiplique em cruz; se inversas, multiplique em linha (ou inverta uma das razões antes de cruzar).\n• Passo 4: resolva a equação e confira com o bom senso.\n\nExemplo direto: 5 garrafas de vidro reciclado viram 40 copos. Quantos copos saem de 125 garrafas?\n\n$$\\frac{5}{40} = \\frac{125}{x} \\;\\Rightarrow\\; 5x = 40 \\cdot 125 = 5\\,000 \\;\\Rightarrow\\; x = 1\\,000 \\text{ copos}$$\n\nExemplo com conversão: uma fragmentadora corta 3 m de papel por minuto. Um documento tem 25 folhas de 30 cm. Comprimento total: $25 \\times 0{,}30 = 7{,}5$ m. Tempo: $7{,}5 \\div 3 = 2{,}5$ min $= 2$ min $30$ s."
+      },
+      {
+        "titulo": "Regra de três composta",
+        "texto": "Quando três ou mais grandezas estão envolvidas, analise cada uma em relação à grandeza procurada, sempre mantendo as outras fixas.\n\nExemplo: 12 cavalos atendem sessões de 30 minutos. Cada cavalo trabalha no máximo 3 horas por dia, de terça a sexta. Cada pessoa faz 2 sessões por semana. Quantas pessoas podem ser atendidas por semana?\n\n• Sessões por cavalo por dia: $3 \\text{ h} = 180 \\text{ min}$, e $180 \\div 30 = 6$ sessões.\n• Por semana (4 dias): $6 \\times 4 = 24$ sessões por cavalo.\n• Com 12 cavalos: $24 \\times 12 = 288$ sessões.\n• Como cada pessoa ocupa 2 sessões: $288 \\div 2 = 144$ pessoas.\n\nEsse “passo a passo por unidade” é mais seguro do que montar uma regra de três composta gigante. A ETEC costuma premiar quem organiza o raciocínio em etapas."
+      },
+      {
+        "titulo": "Escala de mapas e plantas",
+        "texto": "Escala é a razão entre uma medida no desenho e a medida real correspondente, na mesma unidade:\n\n$$\\text{escala} = \\frac{\\text{medida no desenho}}{\\text{medida real}}$$\n\nA escala $1 : 500\\,000$ significa que 1 cm no mapa corresponde a $500\\,000$ cm no terreno, ou seja, $5\\,000$ m $= 5$ km.\n\n• Para achar a distância real, multiplique a medida do mapa pelo denominador da escala e converta: 3,4 cm num mapa $1 : 500\\,000$ valem $3{,}4 \\times 500\\,000 = 1\\,700\\,000$ cm $= 17$ km.\n• Para achar a medida no mapa, divida a medida real (em cm) pelo denominador.\n\nEscala grande × escala pequena: $1 : 1\\,000$ é maior que $1 : 1\\,000\\,000$ (a fração é maior) e mostra mais detalhes de uma área menor. Plantas de casas usam escalas grandes; mapas do Brasil, escalas pequenas.\n\nA escala gráfica (uma barra dividida) continua valendo mesmo se o mapa for ampliado ou reduzido na impressão.",
+        "figura": {
+          "src": "/apostila-etec/figuras/escala-mapa.svg",
+          "alt": "Barra de escala com quatro segmentos de 1 cm, cada um valendo 5 km, e a escala numérica 1 para 500 000.",
+          "largura": 560,
+          "altura": 200,
+          "legenda": "Escala gráfica e escala numérica dizem a mesma coisa: 1 cm no mapa vale 5 km no terreno."
+        }
+      },
+      {
+        "titulo": "Conversões de unidades",
+        "texto": "Quase toda questão de proporção da ETEC exige uma conversão. Faça-a antes de montar a conta.\n\n• Comprimento: 1 km = 1 000 m; 1 m = 100 cm; 1 cm = 10 mm.\n• Massa: 1 kg = 1 000 g; 1 g = 1 000 mg; 1 t = 1 000 kg.\n• Capacidade: 1 L = 1 000 mL; 1 m³ = 1 000 L; 1 dm³ = 1 L.\n• Tempo: 1 h = 60 min; 1 min = 60 s; 1 dia = 24 h.\n• Área: 1 m² = 10 000 cm²; 1 hectare (ha) = 10 000 m²; 1 km² = 100 ha.\n• Unidades regionais aparecem com o valor no enunciado: um alqueire paulista tem 2,42 ha.\n\nExemplo: a Anvisa exige pelo menos 15 mg de iodo por quilograma de sal. Quanto iodo há, no mínimo, em 1,5 g de sal?\n\n$$1{,}5 \\text{ g} = 0{,}0015 \\text{ kg} \\qquad 15 \\times 0{,}0015 = 0{,}0225 \\text{ mg} \\approx 0{,}02 \\text{ mg}$$"
+      },
+      {
+        "titulo": "Taxas, médias e “por unidade”",
+        "texto": "Muitas questões trazem uma taxa (“por hectare”, “por metro”, “por pessoa”) e uma fórmula curta no enunciado. O trabalho é substituir com cuidado.\n\nExemplo da adubação: a quantidade por metro de sulco é $\\dfrac{Q \\cdot E}{10}$ g/m, com $Q$ em kg/ha e $E$ em metros. Para $Q = 500$ e espaçamento de 60 cm:\n\n$$E = 60 \\text{ cm} = 0{,}6 \\text{ m} \\qquad \\frac{500 \\cdot 0{,}6}{10} = \\frac{300}{10} = 30 \\text{ g/m}$$\n\nNum sulco de 150 m: $30 \\times 150 = 4\\,500$ g $= 4{,}5$ kg.\n\nExemplo da taxa de lotação: 900 animais de 250 kg somam $900 \\times 250 = 225\\,000$ kg. Como 1 UA = 450 kg, são $225\\,000 \\div 450 = 500$ UA. Em 100 ha, a taxa é $500 \\div 100 = 5$ UA/ha."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Receita ou mistura reduzida ou ampliada proporcionalmente.\n• “Para cada x, existem y”: simplificar uma razão (habitantes por eleitor, cães-guia por pessoa).\n• Taxa por unidade com fórmula dada (adubação, lotação, concentração de sal ou de iodo).\n• Escala de mapas, plantas e maquetes.\n• Velocidade, tempo e distância, com conversão de minutos.\n• Grandezas inversas: pressão e área, velocidade e tempo.\n• Comparação de áreas ocupadas (ônibus, carros, bicicletas).\n\nEdital oculto: unidades de fora do Sistema Internacional (alqueire, unidade animal, quilate) sempre vêm definidas no texto."
+      }
+    ],
+    "armadilha": "Tratar como diretamente proporcionais grandezas que são inversas, ou esquecer a conversão. A ETEC coloca entre as alternativas o resultado de quem multiplica cruzado em uma relação inversa e o de quem mistura cm com m ou g com kg. Antes de calcular, pergunte “se uma dobra, a outra dobra ou cai pela metade?” e iguale as unidades.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Um bolo leva 3 ovos para cada 2 xícaras de farinha. Uma confeiteira tem 15 ovos e quer usar todos, mantendo a mesma proporção."
+        ],
+        "comando": "Quantas xícaras de farinha ela vai usar?",
+        "alternativas": [
+          "$7{,}5$",
+          "$10$",
+          "$22{,}5$",
+          "$30$",
+          "$45$"
+        ],
+        "passos": [
+          "Ovos e farinha são diretamente proporcionais: $\\dfrac{3}{2} = \\dfrac{15}{x}$.",
+          "Produto dos extremos igual ao dos meios: $3x = 2 \\cdot 15 = 30$.",
+          "$x = 30 \\div 3 = 10$ xícaras."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A divide 15 por 2, como se 2 xícaras correspondessem a 1 ovo.",
+          "C multiplica $15 \\times 3 \\div 2$, invertendo a razão.",
+          "D multiplica $15 \\times 2$ sem dividir por 3.",
+          "E multiplica $15 \\times 3$."
+        ]
+      },
+      {
+        "suporte": [
+          "Num mapa de escala $1 : 250\\,000$, duas cidades estão a 6 cm de distância."
+        ],
+        "comando": "A distância real entre as cidades, em quilômetros, é",
+        "alternativas": [
+          "$1{,}5$",
+          "$15$",
+          "$150$",
+          "$1\\,500$",
+          "$41{,}6$"
+        ],
+        "passos": [
+          "Distância real $= 6 \\times 250\\,000 = 1\\,500\\,000$ cm.",
+          "$1\\,500\\,000$ cm $= 15\\,000$ m.",
+          "$15\\,000$ m $= 15$ km."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A converte centímetros em quilômetros dividindo por $1\\,000\\,000$ em vez de $100\\,000$.",
+          "C divide por $10\\,000$, como se 1 km tivesse $10\\,000$ cm.",
+          "D para em metros e troca a unidade.",
+          "E divide $250\\,000$ por 6 em vez de multiplicar."
+        ]
+      },
+      {
+        "suporte": [
+          "Com 8 máquinas iguais, uma fábrica produz um lote de peças em 15 horas."
+        ],
+        "comando": "Com 12 máquinas iguais, no mesmo ritmo, o mesmo lote ficará pronto em",
+        "alternativas": [
+          "$10$ horas.",
+          "$12$ horas.",
+          "$18$ horas.",
+          "$22{,}5$ horas.",
+          "$7{,}5$ horas."
+        ],
+        "passos": [
+          "Mais máquinas, menos tempo: as grandezas são inversamente proporcionais.",
+          "O produto se mantém: $8 \\times 15 = 12 \\times x$.",
+          "$120 = 12x \\Rightarrow x = 10$ horas."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B não corresponde a nenhuma relação entre os dados.",
+          "C subtrai em vez de usar a proporção.",
+          "D trata as grandezas como diretas: $\\dfrac{8}{15} = \\dfrac{12}{x}$.",
+          "E divide o tempo por 2, como se as máquinas tivessem dobrado."
+        ]
+      },
+      {
+        "suporte": [
+          "Um soro contém 9 g de sal para cada 1 litro de solução."
+        ],
+        "comando": "Em uma bolsa de 250 mL desse soro, a massa de sal é",
+        "alternativas": [
+          "$0{,}225$ g.",
+          "$2{,}25$ g.",
+          "$22{,}5$ g.",
+          "$36$ g.",
+          "$2\\,250$ g."
+        ],
+        "passos": [
+          "Converta: $250$ mL $= 0{,}25$ L.",
+          "Proporção direta: $9 \\times 0{,}25 = 2{,}25$ g.",
+          "A bolsa tem $2{,}25$ g de sal."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A erra a vírgula e divide por 10 a mais.",
+          "C erra a vírgula e multiplica por 10 a mais.",
+          "D divide 9 por $0{,}25$.",
+          "E multiplica 9 por 250 sem converter mL em L."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma família de 4 pessoas consome 12 kg de arroz por mês. Ela vai receber 2 parentes, que ficarão o mês inteiro."
+        ],
+        "comando": "Mantido o consumo por pessoa, o consumo mensal de arroz passará a ser",
+        "alternativas": [
+          "$14$ kg.",
+          "$16$ kg.",
+          "$18$ kg.",
+          "$24$ kg.",
+          "$8$ kg."
+        ],
+        "passos": [
+          "Consumo por pessoa: $12 \\div 4 = 3$ kg por mês.",
+          "Total de pessoas: $4 + 2 = 6$.",
+          "Novo consumo: $3 \\times 6 = 18$ kg."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A soma 2 kg, como se cada parente consumisse 1 kg.",
+          "B soma 4 kg, um valor sem relação com o consumo por pessoa.",
+          "D dobra o consumo, como se a família tivesse dobrado.",
+          "E trata as grandezas como inversas."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q043",
+        "correta": "B",
+        "justificativa": "Massa total: $900 \\times 250 = 225\\,000$ kg. Unidades animais: $225\\,000 \\div 450 = 500$ UA. Taxa de lotação: $500 \\div 100 = 5{,}0$ UA/ha.",
+        "distratores": [
+          "A, $2{,}5$, é a metade do valor correto, como se a massa total fosse a metade.",
+          "C, $7{,}5$, não resulta de nenhuma etapa correta do cálculo.",
+          "D, $12{,}5$, não resulta de nenhuma etapa correta do cálculo.",
+          "E, $18{,}0$, ignora a conversão da massa em unidades animais."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q013",
+        "correta": "A",
+        "justificativa": "Cada cavalo faz $180 \\div 30 = 6$ sessões por dia e $6 \\times 4 = 24$ por semana. Os 12 cavalos fazem $24 \\times 12 = 288$ sessões. Como cada pessoa usa 2 sessões, são $288 \\div 2 = 144$ pessoas.",
+        "distratores": [
+          "B, 180, considera 5 dias de atendimento (de segunda a sexta) em vez de 4.",
+          "C, 288, é o número de sessões, e esquece que cada pessoa faz duas.",
+          "D, 360, usa 5 dias e esquece as duas sessões por pessoa.",
+          "E, 576, multiplica por 2 em vez de dividir."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q014",
+        "correta": "C",
+        "justificativa": "Com força constante, $P = \\dfrac{F}{A}$: pressão e área são inversamente proporcionais. Uma faca afiada tem área de contato menor, então a pressão é maior.",
+        "distratores": [
+          "A trata as grandezas como diretas e erra a conclusão.",
+          "B trata as grandezas como diretas e diz que a área aumenta.",
+          "D acerta a relação inversa, mas diz que a área aumenta.",
+          "E acerta a relação, mas conclui que a pressão diminui."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q023",
+        "correta": "B",
+        "justificativa": "O mínimo é 15 mg por kg. Como $1{,}5$ g $= 0{,}0015$ kg, o iodo mínimo é $15 \\times 0{,}0015 = 0{,}0225$ mg, cerca de $0{,}02$ mg.",
+        "distratores": [
+          "A, $0{,}01$, arredonda para baixo um valor que é $0{,}0225$.",
+          "C, $1{,}50$, repete a massa de sal em gramas.",
+          "D, $3{,}00$, não resulta da conversão correta de gramas para quilogramas.",
+          "E, $4{,}50$, não resulta da conversão correta e se aproxima do limite máximo (45 mg/kg)."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q004",
+        "correta": "B",
+        "justificativa": "Com $E = 0{,}6$ m: $\\dfrac{500 \\cdot 0{,}6}{10} = 30$ g/m. No sulco de 150 m: $30 \\times 150 = 4\\,500$ g $= 4{,}5$ kg.",
+        "distratores": [
+          "A, $3{,}0$, usa 100 m de sulco em vez de 150.",
+          "C, $30{,}0$, é a quantidade por metro, em gramas, sem multiplicar pelo comprimento.",
+          "D, $450{,}0$, erra a conversão de gramas para quilogramas.",
+          "E, $4\\,500{,}0$, dá o valor em gramas como se fosse em quilogramas."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q036",
+        "correta": "D",
+        "justificativa": "A razão habitantes : eleitores é $\\dfrac{12}{9} = \\dfrac{4}{3}$. Para cada 3 eleitores existem 4 habitantes.",
+        "distratores": [
+          "A, 75, confunde a razão com a porcentagem de eleitores ($9 \\div 12 = 75\\%$).",
+          "B, 40, não corresponde à razão.",
+          "C, 30, multiplica 3 por 10 sem relação com os dados.",
+          "E, 3, iguala habitantes e eleitores."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q019",
+        "correta": "C",
+        "justificativa": "Comprimento total: $25 \\times 0{,}30 = 7{,}5$ m. Tempo: $7{,}5 \\div 3 = 2{,}5$ min, ou seja, 2 min 30 s.",
+        "distratores": [
+          "A, 1 min 40 s, corresponde a 5 m de papel.",
+          "B, 2 min 20 s, converte $0{,}5$ min como se fossem 20 s.",
+          "D, 3 min 50 s, corresponde a mais papel que os 7,5 m do documento.",
+          "E, 3 min 40 s, corresponde a mais papel que os 7,5 m do documento."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q042",
+        "correta": "C",
+        "justificativa": "50 kg viram 125 garrafas, e cada 5 garrafas viram 40 copos. Logo, $125 \\div 5 = 25$ grupos e $25 \\times 40 = 1\\,000$ copos.",
+        "distratores": [
+          "A, $15\\,625$, multiplica $125 \\times 125$.",
+          "B, $1\\,600$, multiplica $40 \\times 40$.",
+          "D, 160, multiplica $40 \\times 4$.",
+          "E, 100, divide em vez de multiplicar."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q019",
+        "correta": "B",
+        "justificativa": "5 alqueires paulistas $= 5 \\times 2{,}42 = 12{,}1$ ha. A colheita esperada é $12{,}1 \\times 48 = 580{,}8$ sacas, mais próxima de 580.",
+        "distratores": [
+          "A, 250, multiplica 5 por 48 sem converter para hectares.",
+          "C, 840, não corresponde a nenhum alqueire do texto.",
+          "D, $1\\,160$, usa o alqueire mineiro (4,84 ha).",
+          "E, $4\\,640$, usa o alqueirão (19,36 ha)."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q037",
+        "correta": "D",
+        "justificativa": "Cada bicicleta ocupa $90 \\div 72 = 1{,}25$ m². O ônibus ocupa 30 m², o equivalente a $30 \\div 1{,}25 = 24$ bicicletas.",
+        "distratores": [
+          "A compara passageiros, não área ocupada, e o ônibus equivale a 60 carros em passageiros.",
+          "B confunde área (90 m²) com número de bicicletas.",
+          "C: cada carro ocupa cerca de $16{,}7$ m², então 30 m² equivalem a menos de 2 carros.",
+          "E multiplica em vez de dividir."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q016",
+        "correta": "B",
+        "justificativa": "A areia custa $2 \\times 75 = 150$ reais. O frete é $450 - 150 = 300$ reais. Como o frete é $5 \\times 2 = 10$ reais por km, a distância é $300 \\div 10 = 30$ km.",
+        "distratores": [
+          "A, 15, divide o frete por 20, dobrando o custo por km.",
+          "C, 45, divide o valor total por 10, sem descontar a areia.",
+          "D, 60, divide o frete por 5, esquecendo os 2 m³.",
+          "E, 75, repete o preço do metro cúbico."
+        ]
+      },
+      {
+        "id": "etec-2015-1-q016",
+        "correta": "C",
+        "justificativa": "3 min $= 180$ s. Fotogramas: $180 \\times 24 = 4\\,320$. Comprimento: $4\\,320 \\times 30 = 129\\,600$ mm $= 129{,}6$ m, cerca de 130 m.",
+        "distratores": [
+          "A, 70, corresponde a pouco mais da metade do comprimento correto.",
+          "B, 90, corresponde a cerca de 2 minutos de filme, não 3.",
+          "D, 150, supera o valor correto, de 129,6 m.",
+          "E, 220, supera muito o valor correto."
+        ]
+      }
+    ],
+    "resumo": [
+      "Razão $\\dfrac{a}{b}$: a ordem importa.",
+      "Proporção: $\\dfrac{a}{b} = \\dfrac{c}{d} \\Leftrightarrow ad = bc$.",
+      "Diretas: dobra uma, dobra a outra (razão constante).",
+      "Inversas: dobra uma, a outra cai pela metade (produto constante).",
+      "Regra de três: tabela, direta ou inversa, multiplique e confira.",
+      "Escala $1 : n$: medida real $=$ medida no mapa $\\times n$.",
+      "1 ha $= 10\\,000$ m²; 1 L $= 1\\,000$ mL; 1 kg $= 1\\,000$ g; 1 h $= 60$ min.",
+      "Converta antes de calcular."
+    ]
+  }
+}

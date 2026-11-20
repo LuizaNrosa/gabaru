@@ -333,5 +333,955 @@
       "1 ha $= 10\\,000$ m²; 1 L $= 1\\,000$ mL; 1 kg $= 1\\,000$ g; 1 h $= 60$ min.",
       "Converta antes de calcular."
     ]
+  },
+  "porcentagem-e-matematica-financeira": {
+    "materia": "Matéria 3 · Matemática",
+    "introducao": "Porcentagem aparece em 17 das 23 provas recentes da ETEC, quase sempre dentro de um texto sobre censo, saúde, ambiente ou consumo. Este capítulo ensina a calcular uma porcentagem, achar o total a partir de uma parte, trabalhar com aumentos e descontos, comparar variações e entender juros simples. Com o método dos fatores, a maior parte das contas cabe numa linha.",
+    "codigos": [
+      "MA04"
+    ],
+    "raioX": "As perguntas mais comuns: achar o total quando se conhece uma parte e sua porcentagem; calcular uma variação percentual entre dois valores; interpretar porcentagens de um gráfico ou tabela; e aplicar aumento, desconto ou imposto. Os distratores trazem a diferença de pontos percentuais no lugar da variação percentual, a porcentagem calculada sobre a base errada ou a soma de porcentagens que não se somam.",
+    "intuicao": [
+      "Porcentagem é uma fração de denominador 100: $25\\% = \\dfrac{25}{100} = 0{,}25$.",
+      "Pergunte sempre: “por cento de quê?”. A base da porcentagem decide a conta.",
+      "Aumento de $p\\%$: multiplique por $1 + \\dfrac{p}{100}$. Desconto de $p\\%$: multiplique por $1 - \\dfrac{p}{100}$.",
+      "Variação percentual $=$ diferença $\\div$ valor inicial. Nunca divida pelo valor final."
+    ],
+    "teoria": [
+      {
+        "titulo": "O que é porcentagem",
+        "texto": "Porcentagem é uma razão com denominador 100. O símbolo % se lê “por cento”, ou seja, “a cada cem”.\n\n$$p\\% = \\frac{p}{100}$$\n\nFormas equivalentes que você deve reconhecer:\n\n• $50\\% = \\dfrac{1}{2} = 0{,}5$\n• $25\\% = \\dfrac{1}{4} = 0{,}25$\n• $20\\% = \\dfrac{1}{5} = 0{,}2$\n• $10\\% = \\dfrac{1}{10} = 0{,}1$\n• $75\\% = \\dfrac{3}{4} = 0{,}75$\n• $1\\% = \\dfrac{1}{100} = 0{,}01$\n\nPara transformar uma fração em porcentagem, divida e multiplique por 100: $\\dfrac{7}{20} = 0{,}35 = 35\\%$."
+      },
+      {
+        "titulo": "Calcular uma porcentagem de um valor",
+        "texto": "Para calcular $p\\%$ de um valor, multiplique o valor pela forma decimal da porcentagem.\n\n$$p\\% \\text{ de } V = \\frac{p}{100} \\cdot V$$\n\nExemplos:\n\n• $55\\%$ de 70 kg: $0{,}55 \\times 70 = 38{,}5$ kg.\n• $12\\%$ de 350: $0{,}12 \\times 350 = 42$.\n\nTruques de cálculo mental:\n\n• $10\\%$: desloque a vírgula uma casa para a esquerda ($10\\%$ de 340 $= 34$).\n• $5\\%$: metade de $10\\%$ ($5\\%$ de 340 $= 17$).\n• $1\\%$: desloque duas casas ($1\\%$ de 340 $= 3{,}4$).\n• Combine: $15\\% = 10\\% + 5\\%$; $30\\% = 3 \\times 10\\%$."
+      },
+      {
+        "titulo": "Achar o total a partir de uma parte",
+        "texto": "Muitas questões dão a parte e a porcentagem e pedem o total. Monte a equação $\\dfrac{p}{100} \\cdot T = \\text{parte}$ e isole $T$.\n\nExemplo: 181 000 km² correspondem a $20\\%$ de uma região. Qual é a área total?\n\n$$0{,}2 \\cdot T = 181\\,000 \\;\\Rightarrow\\; T = \\frac{181\\,000}{0{,}2} = 905\\,000 \\text{ km}^2$$\n\nExemplo com evasão: uma escola tem hoje 600 alunos, depois de perder $30\\%$ dos matriculados no início do ano. Os 600 são os $70\\%$ que ficaram:\n\n$$0{,}7 \\cdot T = 600 \\;\\Rightarrow\\; T = \\frac{600}{0{,}7} \\approx 857$$\n\nCuidado: calcular $30\\%$ de 600 e somar (dando 780) é o erro mais comum, porque a base dos $30\\%$ é o total do início do ano, e não os 600."
+      },
+      {
+        "titulo": "Diferença entre porcentagens e o total",
+        "texto": "Quando o enunciado dá a diferença entre dois grupos em quantidade de pessoas e as porcentagens de cada grupo, use a diferença das porcentagens.\n\nExemplo: $32\\%$ de um grupo usam carro e $21\\%$ usam ônibus. Há 22 pessoas a mais no carro do que no ônibus. Quantas pessoas há no grupo?\n\n$$32\\% - 21\\% = 11\\% \\qquad 0{,}11 \\cdot T = 22 \\;\\Rightarrow\\; T = \\frac{22}{0{,}11} = 200$$\n\nConfira: $32\\%$ de 200 $= 64$ e $21\\%$ de 200 $= 42$; a diferença é $64 - 42 = 22$."
+      },
+      {
+        "titulo": "Aumentos e descontos com fatores",
+        "texto": "O jeito mais seguro de lidar com aumentos e descontos é usar o fator multiplicativo.\n\n• Aumento de $p\\%$: fator $1 + \\dfrac{p}{100}$. Aumento de $12\\%$: $\\times 1{,}12$.\n• Desconto de $p\\%$: fator $1 - \\dfrac{p}{100}$. Desconto de $30\\%$: $\\times 0{,}70$.\n\nSe um prêmio de valor $x$ aumentou $12\\%$, o novo valor é $y = 1{,}12\\,x$. Um imposto de $0{,}38\\%$ sobre uma compra multiplica o total por $1{,}0038$.\n\nAumentos e descontos sucessivos se multiplicam, não se somam. Um aumento de $20\\%$ seguido de um desconto de $20\\%$ não volta ao valor inicial:\n\n$$1{,}20 \\times 0{,}80 = 0{,}96$$\n\nO valor final é $96\\%$ do inicial, ou seja, houve uma queda de $4\\%$.",
+        "figura": {
+          "src": "/apostila-etec/figuras/porcentagem-fatores.svg",
+          "alt": "Barra de 100% comparada com 120% após aumento de 20% e com 80% após desconto de 20%.",
+          "largura": 560,
+          "altura": 230,
+          "legenda": "Aumentar é multiplicar por mais de 1; descontar é multiplicar por menos de 1."
+        }
+      },
+      {
+        "titulo": "Variação percentual",
+        "texto": "Variação percentual mede quanto um valor mudou em relação ao valor inicial:\n\n$$\\text{variação} = \\frac{\\text{valor final} - \\text{valor inicial}}{\\text{valor inicial}} \\times 100\\%$$\n\nExemplos:\n\n• Uma área de campos abertos passou de $13\\%$ para $20\\%$ do território: $\\dfrac{20 - 13}{13} = \\dfrac{7}{13} \\approx 0{,}538$, um aumento de cerca de $54\\%$.\n• Um seguro de 2 400 reais para um homem e 1 680 reais para uma mulher: $\\dfrac{2\\,400 - 1\\,680}{2\\,400} = \\dfrac{720}{2\\,400} = 0{,}30$. A mulher paga $30\\%$ a menos.\n• Uma saca de 60 kg de café verde rende 48 kg torrado: perda de $\\dfrac{12}{60} = 20\\%$.\n\nPontos percentuais × porcentagem: passar de $13\\%$ para $20\\%$ é um aumento de 7 pontos percentuais, mas de cerca de $54\\%$ em relação ao valor inicial. A ETEC explora essa diferença."
+      },
+      {
+        "titulo": "Porcentagens em gráficos e tabelas",
+        "texto": "Em gráficos de setores e tabelas com porcentagens, as partes de um mesmo total somam $100\\%$. Use isso para achar a parte que falta.\n\nExemplo: dormentes de uma ferrovia são $25\\%$ roliços, $30\\%$ semi-roliços, $35\\%$ de duas faces e o restante prismáticos. Prismáticos: $100\\% - 90\\% = 10\\%$.\n\nRazões entre grupos podem ser feitas direto com as porcentagens, porque a base é a mesma: duas faces : semi-roliços $= \\dfrac{35}{30} = \\dfrac{7}{6}$.\n\nAtenção às bases diferentes: se $75\\%$ dos usuários de um aplicativo são homens e $45\\%$ têm entre 25 e 34 anos, não dá para somar $75\\% + 45\\%$. São recortes do mesmo total, e podem se sobrepor.\n\nEm tabelas, leia o cabeçalho de cada coluna: “participação (%)” é a fatia do total; “crescimento (%)” é a variação no tempo."
+      },
+      {
+        "titulo": "Juros simples e compostos",
+        "texto": "Juro é o valor pago pelo uso do dinheiro emprestado (ou recebido numa aplicação). Os termos básicos:\n\n• Capital ($C$): valor inicial.\n• Taxa ($i$): porcentagem por período (ao mês, ao ano).\n• Tempo ($t$): número de períodos.\n• Montante ($M$): capital mais juros.\n\nJuros simples: o juro de cada período é sempre calculado sobre o capital inicial.\n\n$$J = C \\cdot i \\cdot t \\qquad M = C + J$$\n\nExemplo: 2 000 reais a $3\\%$ ao mês por 5 meses: $J = 2\\,000 \\times 0{,}03 \\times 5 = 300$ reais; $M = 2\\,300$ reais.\n\nJuros compostos: o juro de cada período entra no cálculo do seguinte (“juros sobre juros”). É o mesmo que aplicar aumentos sucessivos: $M = C \\cdot (1 + i)^t$. Com 2 000 reais a $3\\%$ ao mês por 2 meses: $2\\,000 \\times 1{,}03 \\times 1{,}03 = 2\\,121{,}80$ reais.\n\nNa ETEC, juros compostos aparecem pouco; quando aparecem, o período é curto e a conta pode ser feita multiplicando o fator mês a mês."
+      },
+      {
+        "titulo": "Educação financeira no cotidiano",
+        "texto": "O edital valoriza a aplicação da Matemática em decisões do dia a dia. Situações típicas:\n\n• Comparar preço à vista e parcelado: some as parcelas e calcule quanto a mais se paga.\n• Comparar ofertas: preço por unidade (por quilograma, por litro) ou “leve 3, pague 2”, que equivale a um desconto de $\\dfrac{1}{3} \\approx 33\\%$ por unidade.\n• Imposto e taxa: multiplicar pelo fator.\n• Câmbio: valor em reais $=$ valor em moeda estrangeira $\\times$ cotação.\n\nExemplo: 2 000 dólares a 2,10 reais custam $2\\,000 \\times 2{,}10 = 4\\,200$ reais. Com um imposto de $0{,}38\\%$: $4\\,200 \\times 1{,}0038 = 4\\,215{,}96$ reais."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Total a partir de uma parte (área, alunos, pessoas).\n• Diferença entre porcentagens de dois grupos e o total.\n• Variação percentual, inclusive “quanto a menos” e “perda de massa”.\n• Porcentagem de um valor (água no corpo, sal no soro, faixa de mata ciliar).\n• Leitura de gráficos e tabelas percentuais.\n• Aumento, desconto, imposto e câmbio por fatores.\n\nOs textos de apoio costumam ser longos e trazer números que não serão usados. Sublinhe só os dados que o comando pede."
+      }
+    ],
+    "armadilha": "Calcular a porcentagem sobre a base errada. “30% de evasão” é sobre os alunos do início do ano, não sobre os que ficaram; “a mulher paga X% a menos que o homem” divide a diferença pelo valor do homem. Antes de dividir, pergunte: “por cento de quê?”.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Uma camiseta custava 80 reais e entrou em promoção com $15\\%$ de desconto."
+        ],
+        "comando": "O preço na promoção é",
+        "alternativas": [
+          "$12$ reais.",
+          "$65$ reais.",
+          "$68$ reais.",
+          "$92$ reais.",
+          "$78{,}80$ reais."
+        ],
+        "passos": [
+          "Fator do desconto: $1 - 0{,}15 = 0{,}85$.",
+          "Preço novo: $80 \\times 0{,}85 = 68$.",
+          "A camiseta sai por 68 reais."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é o valor do desconto, não o preço final.",
+          "B subtrai 15 reais em vez de $15\\%$.",
+          "D aplica um aumento de $15\\%$.",
+          "E subtrai $1{,}5\\%$ em vez de $15\\%$."
+        ]
+      },
+      {
+        "suporte": [
+          "Em uma turma, $40\\%$ dos alunos fazem curso técnico à tarde. Esses alunos são 14."
+        ],
+        "comando": "O número total de alunos da turma é",
+        "alternativas": [
+          "$5{,}6$",
+          "$21$",
+          "$35$",
+          "$54$",
+          "$56$"
+        ],
+        "passos": [
+          "$0{,}4 \\cdot T = 14$.",
+          "$T = \\dfrac{14}{0{,}4} = 35$.",
+          "A turma tem 35 alunos."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A calcula $40\\%$ de 14, invertendo parte e total.",
+          "B soma 14 com $50\\%$ de 14.",
+          "D soma 14 com 40.",
+          "E multiplica 14 por 4."
+        ]
+      },
+      {
+        "suporte": [
+          "A conta de água de uma família passou de 120 reais para 150 reais."
+        ],
+        "comando": "O aumento percentual da conta foi de",
+        "alternativas": [
+          "$20\\%$",
+          "$25\\%$",
+          "$30\\%$",
+          "$80\\%$",
+          "$125\\%$"
+        ],
+        "passos": [
+          "Diferença: $150 - 120 = 30$.",
+          "Variação: $\\dfrac{30}{120} = 0{,}25$.",
+          "Aumento de $25\\%$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A divide a diferença pelo valor final: $\\dfrac{30}{150}$.",
+          "C usa a diferença em reais como porcentagem.",
+          "D calcula $\\dfrac{120}{150}$.",
+          "E calcula $\\dfrac{150}{120}$ e esquece de subtrair $100\\%$."
+        ]
+      },
+      {
+        "suporte": [
+          "Um produto de 200 reais teve aumento de $10\\%$ em janeiro e, em fevereiro, desconto de $10\\%$ sobre o novo preço."
+        ],
+        "comando": "Depois das duas mudanças, o preço é",
+        "alternativas": [
+          "$200$ reais.",
+          "$198$ reais.",
+          "$202$ reais.",
+          "$180$ reais.",
+          "$220$ reais."
+        ],
+        "passos": [
+          "Fatores sucessivos se multiplicam: $1{,}10 \\times 0{,}90 = 0{,}99$.",
+          "Preço final: $200 \\times 0{,}99 = 198$.",
+          "O preço caiu $1\\%$ no total."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A supõe que $+10\\%$ e $-10\\%$ se anulam.",
+          "C inverte o efeito, como se o resultado fosse maior.",
+          "D aplica só o desconto ao preço original.",
+          "E aplica só o aumento."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma pessoa aplica 1 500 reais a juros simples de $2\\%$ ao mês, durante 6 meses."
+        ],
+        "comando": "O montante ao final do período é",
+        "alternativas": [
+          "$1\\,530$ reais.",
+          "$1\\,680$ reais.",
+          "$1\\,800$ reais.",
+          "$180$ reais.",
+          "$1\\,590$ reais."
+        ],
+        "passos": [
+          "Juros: $J = 1\\,500 \\times 0{,}02 \\times 6 = 180$.",
+          "Montante: $M = 1\\,500 + 180 = 1\\,680$.",
+          "A pessoa terá 1 680 reais."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A considera só um mês de juros.",
+          "C usa $20\\%$ em vez de $12\\%$ no total.",
+          "D é só o juro, sem o capital.",
+          "E considera 3 meses."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q024",
+        "correta": "E",
+        "justificativa": "A diferença entre carro ($32\\%$) e ônibus ($21\\%$) é $11\\%$ do grupo, que equivale a 22 pessoas: $0{,}11 \\cdot T = 22 \\Rightarrow T = 200$.",
+        "distratores": [
+          "A, 22, é a diferença em pessoas, não o total.",
+          "B, 53, soma as porcentagens $32 + 21$ como se fossem pessoas.",
+          "C, 87, soma as quatro porcentagens.",
+          "D, 110, divide 22 por $0{,}2$, usando a porcentagem errada."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q026",
+        "correta": "E",
+        "justificativa": "Prismáticos são $100\\% - 25\\% - 30\\% - 35\\% = 10\\%$. A razão duas faces : semi-roliços é $\\dfrac{35}{30} = \\dfrac{7}{6}$.",
+        "distratores": [
+          "A: roliço : prismático é $\\dfrac{25}{10} = \\dfrac{5}{2}$, não $\\dfrac{2}{1}$.",
+          "B: semi-roliços e prismáticos somam $30\\% + 10\\% = 40\\%$.",
+          "C: $10\\%$ de 1 km correspondem a 100 m, não a 300 m.",
+          "D: a diferença entre duas faces e prismáticos é $35\\% - 10\\% = 25\\%$."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q005",
+        "correta": "D",
+        "justificativa": "A perda é $\\dfrac{60 - 48}{60} = \\dfrac{12}{60} = 20\\%$. Para 1 000 kg de café torrado: $\\dfrac{1\\,000}{48} \\approx 20{,}8$, ou seja, no mínimo 21 sacas.",
+        "distratores": [
+          "A acerta as sacas, mas calcula a perda como 12%, usando a diferença em kg como porcentagem.",
+          "B erra as duas lacunas.",
+          "C acerta a perda, mas o número de sacas não corresponde a $1\\,000 \\div 48$.",
+          "E erra a porcentagem e o número de sacas."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q018",
+        "correta": "B",
+        "justificativa": "Nas mulheres a água vai até $55\\%$ da massa. Para 70 kg: $0{,}55 \\times 70 = 38{,}5$ kg, que correspondem a $38{,}5$ L.",
+        "distratores": [
+          "A usa o mínimo de $52\\%$: $0{,}52 \\times 70 = 36{,}4$.",
+          "C usa a porcentagem dos homens ($60\\%$).",
+          "D repete a porcentagem como se fosse o volume.",
+          "E é a massa corporal, não o volume de água."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q001",
+        "correta": "D",
+        "justificativa": "Os 600 alunos são os $70\\%$ que restaram: $0{,}7 \\cdot T = 600 \\Rightarrow T \\approx 857$, cerca de 860.",
+        "distratores": [
+          "A dobra os 600 alunos.",
+          "B não corresponde a $600 \\div 0{,}7$.",
+          "C não corresponde a $600 \\div 0{,}7$.",
+          "E soma $5\\%$ aos 600, sem relação com a evasão de $30\\%$."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q037",
+        "correta": "B",
+        "justificativa": "Pelo exemplo do texto, a ordem dos números é N, P₂O₅ e K₂O. Logo, NPK 4–30–16 tem $4\\%$ de nitrogênio, $30\\%$ de P₂O₅ e $16\\%$ de K₂O.",
+        "distratores": [
+          "A repete os valores do adubo 4–14–8.",
+          "C troca a ordem dos nutrientes e usa os valores do outro adubo.",
+          "D troca a ordem dos nutrientes.",
+          "E troca a ordem dos nutrientes."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q027",
+        "correta": "B",
+        "justificativa": "$4\\%$ de 13 km $= 0{,}04 \\times 13\\,000 = 520$ m. Pelo Código Florestal, rios de 200 m a 600 m de largura exigem faixa de mata ciliar de 200 m.",
+        "distratores": [
+          "A, 500 m, é a faixa para rios com mais de 600 m.",
+          "C, 100 m, é a faixa para rios de 50 m a 200 m.",
+          "D, 50 m, é a faixa para rios de 10 m a 50 m.",
+          "E, 30 m, é a faixa para rios com menos de 10 m."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q036",
+        "correta": "D",
+        "justificativa": "Campos abertos passaram de $13\\%$ para $20\\%$: variação de $\\dfrac{20 - 13}{13} \\approx 54\\%$, mais de $50\\%$.",
+        "distratores": [
+          "A: a floresta diminuiu (de $61\\%$ para $46\\%$).",
+          "B: a água se manteve em $1\\%$.",
+          "C: as plantações aumentaram (de $20\\%$ para $25\\%$).",
+          "E: as áreas urbanas passaram de $5\\%$ para $8\\%$, aumento de $60\\%$, menos de $80\\%$."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q029",
+        "correta": "E",
+        "justificativa": "181 000 km² correspondem a $20\\%$ da área: $T = \\dfrac{181\\,000}{0{,}2} = 905\\,000$ km².",
+        "distratores": [
+          "A repete a área em desertificação.",
+          "B soma $20\\%$ a 181 000.",
+          "C dobra 181 000.",
+          "D não corresponde a $181\\,000 \\div 0{,}2$."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q041",
+        "correta": "C",
+        "justificativa": "A diferença é $2\\,400 - 1\\,680 = 720$ reais. Em relação ao homem: $\\dfrac{720}{2\\,400} = 0{,}30 = 30\\%$.",
+        "distratores": [
+          "A não corresponde à razão entre a diferença e o valor do homem.",
+          "B não corresponde à razão entre a diferença e o valor do homem.",
+          "D não corresponde a nenhuma razão entre os valores.",
+          "E é a razão $\\dfrac{1\\,680}{2\\,400} = 70\\%$, o quanto a mulher paga, não quanto paga a menos."
+        ]
+      }
+    ],
+    "resumo": [
+      "$p\\% = \\dfrac{p}{100}$; $p\\%$ de $V = \\dfrac{p}{100} \\cdot V$.",
+      "Total a partir da parte: $T = \\text{parte} \\div \\dfrac{p}{100}$.",
+      "Aumento de $p\\%$: $\\times\\left(1 + \\dfrac{p}{100}\\right)$; desconto: $\\times\\left(1 - \\dfrac{p}{100}\\right)$.",
+      "Sucessivos: multiplique os fatores ($1{,}2 \\times 0{,}8 = 0{,}96$).",
+      "Variação $= \\dfrac{\\text{final} - \\text{inicial}}{\\text{inicial}}$.",
+      "Pontos percentuais não são porcentagem de variação.",
+      "Juros simples: $J = C \\cdot i \\cdot t$; $M = C + J$.",
+      "Pergunte sempre: por cento de quê?"
+    ]
+  },
+  "geometria-plana-e-medidas": {
+    "materia": "Matéria 3 · Matemática",
+    "introducao": "Polígonos, triângulos, ângulos, perímetros e áreas aparecem em 15 das 23 provas recentes. A ETEC usa painéis de azulejo, mapas, terrenos, peças de tangram e cartões de visita para cobrar o reconhecimento das figuras e o cálculo de áreas e perímetros. Este capítulo reúne as definições e fórmulas do 9º ano que bastam para essas questões.",
+    "codigos": [
+      "MA08"
+    ],
+    "raioX": "As questões pedem para classificar um triângulo pelos lados e pelos ângulos, reconhecer um polígono pela descrição, calcular área ou perímetro (às vezes com expressões algébricas) e comparar áreas de figuras semelhantes. As fórmulas menos comuns, como a área do círculo, costumam vir no enunciado, com $\\pi = 3$.",
+    "intuicao": [
+      "Perímetro é contorno (soma dos lados, em metros); área é superfície (em metros quadrados).",
+      "Antes de calcular uma área, ponha todas as medidas na mesma unidade.",
+      "Se as medidas de uma figura dobram, o perímetro dobra e a área fica quatro vezes maior.",
+      "Figura complicada? Divida em retângulos e triângulos, ou calcule o todo e subtraia o que sobra."
+    ],
+    "teoria": [
+      {
+        "titulo": "Polígonos e seus nomes",
+        "texto": "Polígono é uma figura plana fechada formada por segmentos de reta (os lados). O nome depende do número de lados:\n\n• 3 lados: triângulo; 4: quadrilátero; 5: pentágono; 6: hexágono; 7: heptágono; 8: octógono; 10: decágono; 11: undecágono; 12: dodecágono.\n\nPolígono regular tem todos os lados iguais e todos os ângulos iguais (triângulo equilátero, quadrado, hexágono regular).\n\nPolígono convexo não tem “reentrâncias”: qualquer segmento ligando dois pontos de dentro fica dentro dele. Côncavo tem pelo menos uma reentrância.\n\nSoma dos ângulos internos de um polígono de $n$ lados:\n\n$$S = (n - 2) \\cdot 180^\\circ$$\n\nNo polígono regular, cada ângulo interno mede $\\dfrac{(n - 2) \\cdot 180^\\circ}{n}$. Pentágono regular: $\\dfrac{3 \\cdot 180^\\circ}{5} = 108^\\circ$. Hexágono regular: $120^\\circ$."
+      },
+      {
+        "titulo": "Quadriláteros notáveis",
+        "texto": "Os quadriláteros mais cobrados e o que os define:\n\n• Paralelogramo: lados opostos paralelos e iguais.\n• Retângulo: paralelogramo com quatro ângulos retos.\n• Losango: paralelogramo com quatro lados iguais; tem dois ângulos agudos e dois obtusos (quando não é quadrado).\n• Quadrado: quatro lados iguais e quatro ângulos retos. É ao mesmo tempo retângulo e losango.\n• Trapézio: apenas um par de lados paralelos (as bases). Trapézio retângulo tem dois ângulos retos; isósceles tem os lados não paralelos iguais.\n\nPara identificar a figura “obrigatoriamente” descrita, procure a que tem todas as propriedades citadas e nenhuma contradição: quatro lados iguais com dois ângulos agudos e dois obtusos é um losango; um quadrado não serve, porque tem todos os ângulos retos."
+      },
+      {
+        "titulo": "Triângulos: classificação por lados e por ângulos",
+        "texto": "Pelos lados:\n\n• Equilátero: três lados iguais (e três ângulos de $60^\\circ$).\n• Isósceles: pelo menos dois lados iguais; os ângulos da base são iguais.\n• Escaleno: três lados diferentes.\n\nPelos ângulos:\n\n• Acutângulo: três ângulos agudos (menores que $90^\\circ$).\n• Retângulo: um ângulo reto ($90^\\circ$).\n• Obtusângulo: um ângulo obtuso (maior que $90^\\circ$).\n\nA soma dos ângulos internos de qualquer triângulo é $180^\\circ$.\n\nComo saber pelos lados se o triângulo é acutângulo, retângulo ou obtusângulo? Sendo $a$ o maior lado:\n\n• $a^2 = b^2 + c^2$: retângulo.\n• $a^2 > b^2 + c^2$: obtusângulo.\n• $a^2 < b^2 + c^2$: acutângulo.\n\nExemplo: lados de 500 m, 500 m e 800 m. É isósceles (dois lados iguais). Como $800^2 = 640\\,000$ e $500^2 + 500^2 = 500\\,000$, temos $640\\,000 > 500\\,000$: é obtusângulo.\n\nDesigualdade triangular: cada lado é menor que a soma dos outros dois. Com 2, 3 e 7 não se forma triângulo."
+      },
+      {
+        "titulo": "Perímetro",
+        "texto": "Perímetro é a medida do contorno: a soma de todos os lados.\n\n• Retângulo de lados $a$ e $b$: $P = 2a + 2b$.\n• Quadrado de lado $\\ell$: $P = 4\\ell$.\n• Circunferência de raio $r$: $C = 2 \\pi r$.\n\nCom expressões algébricas: um painel retangular de lados $3x$ e $y$ tem perímetro $3x + y + 3x + y = 6x + 2y$.\n\nPara cercar um terreno, o comprimento da cerca é o perímetro. Se algum lado não aparece, ele pode ser obtido pelo teorema de Pitágoras (veja o capítulo de triângulos e sólidos)."
+      },
+      {
+        "titulo": "Área das figuras planas",
+        "texto": "Área mede a superfície ocupada pela figura e se expressa em unidades quadradas (cm², m², km², hectares).\n\n• Retângulo: $A = b \\cdot h$.\n• Quadrado: $A = \\ell^2$.\n• Paralelogramo: $A = b \\cdot h$ (altura perpendicular à base).\n• Triângulo: $A = \\dfrac{b \\cdot h}{2}$.\n• Losango: $A = \\dfrac{D \\cdot d}{2}$ (diagonais).\n• Trapézio: $A = \\dfrac{(B + b) \\cdot h}{2}$.\n• Círculo: $A = \\pi r^2$.\n\nExemplo com expressões: o painel de lados $3x$ e $y$ tem área $3x \\cdot y = 3xy$.\n\nCoroa circular (região entre dois círculos de mesmo centro) $=$ área do maior $-$ área do menor. Com raios 15 m e 10 m e $\\pi = 3$:\n\n$$A = 3 \\cdot 15^2 - 3 \\cdot 10^2 = 675 - 300 = 375 \\text{ m}^2$$",
+        "figura": {
+          "src": "/apostila-etec/figuras/areas-planas.svg",
+          "alt": "Retângulo, triângulo, trapézio e círculo com as fórmulas de área de cada um.",
+          "largura": 560,
+          "altura": 300,
+          "legenda": "As quatro fórmulas de área que resolvem quase todas as questões de geometria plana da ETEC."
+        }
+      },
+      {
+        "titulo": "Revestir uma superfície",
+        "texto": "Para saber quantas peças (azulejos, pisos, placas) cobrem uma superfície, divida a área total pela área de uma peça, na mesma unidade.\n\nExemplo: um painel de $1{,}5 \\text{ m} \\times 2{,}4 \\text{ m}$ será coberto com azulejos de $15 \\text{ cm} \\times 15 \\text{ cm}$.\n\n$$\\text{painel} = 150 \\cdot 240 = 36\\,000 \\text{ cm}^2 \\qquad \\text{azulejo} = 15 \\cdot 15 = 225 \\text{ cm}^2 \\qquad \\frac{36\\,000}{225} = 160$$\n\nTambém dá para contar por lado: $150 \\div 15 = 10$ azulejos numa direção e $240 \\div 15 = 16$ na outra; $10 \\times 16 = 160$.\n\nConversões de área: 1 m² $= 10\\,000$ cm² (porque $100 \\times 100$); 1 ha $= 10\\,000$ m²; 1 km² $= 1\\,000\\,000$ m². Um quadrado de $500 \\text{ m} \\times 500 \\text{ m}$ tem $250\\,000$ m² $= 25$ ha."
+      },
+      {
+        "titulo": "Ampliação, redução e área",
+        "texto": "Quando todas as medidas de uma figura são multiplicadas por um número $k$, as figuras são semelhantes e:\n\n• os perímetros ficam multiplicados por $k$;\n• as áreas ficam multiplicadas por $k^2$.\n\nExemplo: dois triângulos retângulos isósceles, um com catetos de 70 km e outro com catetos de 140 km. A razão é $k = 2$; a área do maior é $2^2 = 4$ vezes a do menor.\n\n$$\\frac{140 \\cdot 140}{2} = 9\\,800 \\qquad \\frac{70 \\cdot 70}{2} = 2\\,450 \\qquad \\frac{9\\,800}{2\\,450} = 4$$\n\nEsse é um dos distratores favoritos da ETEC: dizer que a área “dobra” quando os lados dobram."
+      },
+      {
+        "titulo": "Tangram e decomposição de figuras",
+        "texto": "O tangram é um quadrado dividido em sete peças: cinco triângulos retângulos isósceles (dois grandes, um médio e dois pequenos), um quadrado e um paralelogramo. Por isso, tem cinco triângulos e dois quadriláteros.\n\nAs áreas das peças são frações simples do quadrado inteiro:\n\n• Cada triângulo grande: $\\dfrac{1}{4}$ do total.\n• Triângulo médio, quadrado e paralelogramo: $\\dfrac{1}{8}$ cada.\n• Cada triângulo pequeno: $\\dfrac{1}{16}$.\n\nSe um triângulo grande tem 16 cm², o quadrado inteiro tem $4 \\times 16 = 64$ cm², e o quadradinho do tangram tem $64 \\div 8 = 8$ cm².\n\nA mesma estratégia vale para qualquer figura composta: divida em partes conhecidas, calcule cada área e some (ou calcule o todo e subtraia o que falta)."
+      },
+      {
+        "titulo": "Plano cartesiano e distância entre pontos",
+        "texto": "No plano cartesiano, cada ponto tem coordenadas $(x, y)$: $x$ no eixo horizontal e $y$ no vertical.\n\nA distância entre dois pontos sai do teorema de Pitágoras:\n\n$$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$\n\nPara saber se um ponto está dentro de um círculo de centro na origem e raio $r$, compare a distância até a origem com $r$. Muitas vezes basta comparar os quadrados: $(1, 6)$ está fora de um círculo de raio 6, porque $1^2 + 6^2 = 37 > 36$."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Classificar triângulos por lados e ângulos a partir de medidas.\n• Reconhecer o polígono descrito (losango, undecágono, pentágono regular).\n• Área e perímetro com expressões algébricas ($3xy$, $6x + 2y$).\n• Área de coroa circular ou de figura composta, com $\\pi = 3$.\n• Revestimento com azulejos.\n• Comparação de áreas de figuras semelhantes.\n• Tangram e decomposição.\n• Altura de triângulo com seno dado no enunciado.\n\nOs valores de $\\pi$, de seno e cosseno e as fórmulas menos comuns aparecem no próprio enunciado. Use exatamente os valores dados."
+      }
+    ],
+    "armadilha": "Achar que a área cresce na mesma proporção que os lados. Dobrando os lados, a área fica quatro vezes maior; triplicando, nove vezes. Outra armadilha é misturar unidades: 1 m² são $10\\,000$ cm², não 100.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Um terreno retangular mede 18 m por 25 m."
+        ],
+        "comando": "A área e o perímetro do terreno são, respectivamente,",
+        "alternativas": [
+          "$450$ m² e $86$ m.",
+          "$450$ m² e $43$ m.",
+          "$86$ m² e $450$ m.",
+          "$225$ m² e $86$ m.",
+          "$900$ m² e $86$ m."
+        ],
+        "passos": [
+          "Área: $18 \\times 25 = 450$ m².",
+          "Perímetro: $2 \\times 18 + 2 \\times 25 = 36 + 50 = 86$ m.",
+          "Resposta: 450 m² e 86 m."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B soma só dois lados para o perímetro.",
+          "C troca área e perímetro, e também as unidades.",
+          "D divide a área por 2, como se fosse um triângulo.",
+          "E dobra a área."
+        ]
+      },
+      {
+        "suporte": [
+          "Um triângulo tem lados de 6 cm, 8 cm e 11 cm."
+        ],
+        "comando": "Esse triângulo é",
+        "alternativas": [
+          "escaleno e retângulo.",
+          "escaleno e obtusângulo.",
+          "escaleno e acutângulo.",
+          "isósceles e obtusângulo.",
+          "equilátero e acutângulo."
+        ],
+        "passos": [
+          "Os três lados são diferentes: escaleno.",
+          "Maior lado ao quadrado: $11^2 = 121$. Soma dos outros: $6^2 + 8^2 = 36 + 64 = 100$.",
+          "Como $121 > 100$, o triângulo é obtusângulo."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A exigiria $121 = 100$.",
+          "C exigiria $121 < 100$.",
+          "D: não há lados iguais.",
+          "E: os lados não são iguais."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma praça circular tem raio de 20 m. No centro há um chafariz circular de raio 4 m. O restante será gramado. Use $\\pi = 3$."
+        ],
+        "comando": "A área a ser gramada é",
+        "alternativas": [
+          "$1\\,152$ m²",
+          "$1\\,200$ m²",
+          "$48$ m²",
+          "$96$ m²",
+          "$1\\,248$ m²"
+        ],
+        "passos": [
+          "Área da praça: $3 \\cdot 20^2 = 3 \\cdot 400 = 1\\,200$ m².",
+          "Área do chafariz: $3 \\cdot 4^2 = 48$ m².",
+          "Gramado: $1\\,200 - 48 = 1\\,152$ m²."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B esquece de descontar o chafariz.",
+          "C é só a área do chafariz.",
+          "D usa $2\\pi r$ do chafariz, que é comprimento.",
+          "E soma as áreas em vez de subtrair."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma cozinha retangular de $3 \\text{ m} \\times 4 \\text{ m}$ será revestida com pisos quadrados de 50 cm de lado."
+        ],
+        "comando": "O número mínimo de pisos necessários é",
+        "alternativas": [
+          "$12$",
+          "$24$",
+          "$48$",
+          "$96$",
+          "$4\\,800$"
+        ],
+        "passos": [
+          "Pisos por lado: $300 \\div 50 = 6$ e $400 \\div 50 = 8$.",
+          "Total: $6 \\times 8 = 48$.",
+          "Conferindo pela área: $12 \\div 0{,}25 = 48$."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é a área da cozinha em m².",
+          "B divide a área por $0{,}5$, usando o lado em vez da área do piso.",
+          "D dobra o número correto.",
+          "E divide $120\\,000$ por 25, esquecendo de elevar o lado ao quadrado."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma foto retangular de $10 \\text{ cm} \\times 15 \\text{ cm}$ foi ampliada, e cada lado ficou 3 vezes maior."
+        ],
+        "comando": "A área da foto ampliada é",
+        "alternativas": [
+          "$3$ vezes a original.",
+          "$6$ vezes a original.",
+          "$9$ vezes a original.",
+          "$12$ vezes a original.",
+          "igual à original."
+        ],
+        "passos": [
+          "Original: $10 \\times 15 = 150$ cm².",
+          "Ampliada: $30 \\times 45 = 1\\,350$ cm².",
+          "$1\\,350 \\div 150 = 9 = 3^2$."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A aplica o fator aos lados, não à área.",
+          "B soma os fatores ($3 + 3$).",
+          "D não corresponde a nenhuma relação.",
+          "E ignora a ampliação."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2023-2-q039",
+        "correta": "C",
+        "justificativa": "Dois lados medem 500 m: o triângulo é isósceles. Como $800^2 = 640\\,000 > 500^2 + 500^2 = 500\\,000$, o ângulo oposto ao maior lado é obtuso: obtusângulo.",
+        "distratores": [
+          "A acerta isósceles, mas o triângulo não é acutângulo.",
+          "B: com dois lados iguais, não é escaleno.",
+          "D: não é escaleno.",
+          "E: seria retângulo só se $800^2$ fosse igual a $500\\,000$."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q008",
+        "correta": "A",
+        "justificativa": "Quatro lados iguais, com dois ângulos agudos e dois obtusos: é o losango.",
+        "distratores": [
+          "B: o pentágono tem cinco lados.",
+          "C: o quadrado tem quatro ângulos retos.",
+          "D: o retângulo tem ângulos retos e, em geral, lados diferentes.",
+          "E: o triângulo tem três lados."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q040",
+        "correta": "D",
+        "justificativa": "Os dois triângulos são retângulos e isósceles ($45^\\circ$). Os catetos de DEF (140 km) são o dobro dos de ABC (70 km); logo, a área é $2^2 = 4$ vezes maior: $9\\,800 \\div 2\\,450 = 4$.",
+        "distratores": [
+          "A inverte a relação.",
+          "B inverte e eleva ao quadrado.",
+          "C aplica o fator 2 à área, sem elevar ao quadrado.",
+          "E não corresponde ao quadrado do fator de ampliação."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q035",
+        "correta": "D",
+        "justificativa": "O triângulo ABO é um dos triângulos grandes, $\\dfrac{1}{4}$ do quadrado: o quadrado inteiro tem $4 \\times 16 = 64$ cm². O quadrado OPQR é $\\dfrac{1}{8}$ do total: $64 \\div 8 = 8$ cm².",
+        "distratores": [
+          "A corresponde a $\\dfrac{1}{32}$ do total.",
+          "B é a área de um triângulo pequeno ($\\dfrac{1}{16}$ do total).",
+          "C não corresponde a nenhuma peça.",
+          "E não corresponde a nenhuma peça."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q034",
+        "correta": "E",
+        "justificativa": "O tangram tem cinco triângulos, um quadrado e um paralelogramo: dois quadriláteros e cinco triângulos.",
+        "distratores": [
+          "A: as peças são convexas.",
+          "B: há também um quadrado e um paralelogramo.",
+          "C: há triângulos, e o paralelogramo não é regular.",
+          "D: não há trapézios, mas um quadrado e um paralelogramo."
+        ]
+      },
+      {
+        "id": "etec-2016-2-q026",
+        "correta": "D",
+        "justificativa": "Coroa $=$ círculo maior $-$ círculo menor $= 3 \\cdot 15^2 - 3 \\cdot 10^2 = 675 - 300 = 375$ m².",
+        "distratores": [
+          "A usa $3 \\cdot (15 - 10)^2$.",
+          "B subtrai os quadrados sem multiplicar por $\\pi$.",
+          "C é $15^2$, sem $\\pi$ e sem subtrair.",
+          "E é só a área do círculo maior."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q036",
+        "correta": "A",
+        "justificativa": "Com azulejos de 15 cm: $150 \\div 15 = 10$ e $240 \\div 15 = 16$, total $10 \\times 16 = 160$. Pela área: $36\\,000 \\div 225 = 160$.",
+        "distratores": [
+          "B não cobre o painel inteiro.",
+          "C não cobre o painel inteiro.",
+          "D é a metade do necessário.",
+          "E não cobre o painel inteiro."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q030",
+        "correta": "D",
+        "justificativa": "Pela figura, o painel é um retângulo de lados $3x$ e $y$. Área: $3x \\cdot y = 3xy$. Perímetro: $2 \\cdot 3x + 2 \\cdot y = 6x + 2y$.",
+        "distratores": [
+          "A acerta a área, mas soma só dois lados no perímetro.",
+          "B soma em vez de multiplicar na área.",
+          "C eleva as medidas ao quadrado na área e erra o perímetro.",
+          "E erra a área e o perímetro."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q022",
+        "correta": "D",
+        "justificativa": "A altura relativa a AI é o cateto oposto ao ângulo de $60^\\circ$, com hipotenusa EI: $h = 2 \\cdot \\text{sen } 60^\\circ = 2 \\times 0{,}87 = 1{,}74$ m.",
+        "distratores": [
+          "A divide por 2 o valor do seno.",
+          "B usa só o seno, sem multiplicar por EI.",
+          "C usa $2 \\cdot \\cos 60^\\circ$.",
+          "E dobra o valor correto."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q033",
+        "correta": "A",
+        "justificativa": "As faces são pentágonos regulares. Cada ângulo interno mede $\\dfrac{(5 - 2) \\cdot 180^\\circ}{5} = 108^\\circ$.",
+        "distratores": [
+          "B é a soma dos ângulos de um triângulo.",
+          "C é a soma dos ângulos de um quadrilátero.",
+          "D não corresponde a nenhuma soma de ângulos.",
+          "E é a soma dos ângulos internos do pentágono, não um ângulo só."
+        ]
+      }
+    ],
+    "resumo": [
+      "Soma dos ângulos internos: $(n - 2) \\cdot 180^\\circ$; triângulo: $180^\\circ$.",
+      "Losango: 4 lados iguais; quadrado: 4 lados iguais e 4 ângulos retos.",
+      "Maior lado $a$: $a^2 = b^2 + c^2$ retângulo; $>$ obtusângulo; $<$ acutângulo.",
+      "Áreas: $bh$; $\\dfrac{bh}{2}$; $\\dfrac{(B + b)h}{2}$; $\\pi r^2$.",
+      "Perímetro: soma dos lados; circunferência $2\\pi r$.",
+      "Lados $\\times k$: perímetro $\\times k$, área $\\times k^2$.",
+      "1 m² $= 10\\,000$ cm²; 1 ha $= 10\\,000$ m².",
+      "Tangram: 5 triângulos e 2 quadriláteros."
+    ]
+  },
+  "triangulos-pitagoras-e-solidos": {
+    "materia": "Matéria 3 · Matemática",
+    "introducao": "Este capítulo junta dois assuntos que a ETEC costuma cobrar com figuras: os triângulos (semelhança, teorema de Pitágoras e as razões seno, cosseno e tangente) e os sólidos geométricos (volume de prismas e cilindros). Juntos, aparecem em 18 das 23 provas recentes. As fórmulas de trigonometria e de volume quase sempre vêm no enunciado; o que a prova testa é saber montar a figura e escolher a relação certa.",
+    "codigos": [
+      "MA09",
+      "MA10"
+    ],
+    "raioX": "Os formatos mais comuns são: distância em linha reta depois de deslocamentos para leste, norte e sul (Pitágoras); medidas de barragens, rampas e painéis solares com seno, cosseno ou tangente dados; pontos dentro ou fora de um círculo no plano cartesiano; e volume de cilindros (passagens de fauna, melanossomos) e de paralelepípedos (dormentes de ferrovia). Os distratores usam o diâmetro no lugar do raio, esquecem de elevar ao quadrado ou trocam seno por cosseno.",
+    "intuicao": [
+      "Desenhe sempre. Um esboço rápido do triângulo, com o ângulo reto marcado, já mostra qual lado é a hipotenusa.",
+      "Em Pitágoras, a hipotenusa é o maior lado e fica oposta ao ângulo reto: $a^2 = b^2 + c^2$.",
+      "Seno usa o cateto oposto, cosseno o adjacente e tangente os dois catetos.",
+      "Volume de prisma e de cilindro: área da base vezes altura. No cilindro, use o raio (metade do diâmetro)."
+    ],
+    "teoria": [
+      {
+        "titulo": "Semelhança de triângulos",
+        "texto": "Dois triângulos são semelhantes quando têm os mesmos ângulos. Nesse caso, os lados correspondentes são proporcionais.\n\n$$\\frac{a}{a'} = \\frac{b}{b'} = \\frac{c}{c'} = k$$\n\nO número $k$ é a razão de semelhança. Basta ter dois ângulos iguais para garantir a semelhança (o terceiro é igual automaticamente, porque a soma é $180^\\circ$).\n\nAplicação clássica: sombras. No mesmo instante, o Sol forma o mesmo ângulo com objetos verticais. Se um poste de 6 m faz sombra de 4 m e uma vara de 1,5 m faz sombra de 1 m, os triângulos são semelhantes: $\\dfrac{6}{4} = \\dfrac{1{,}5}{1} = 1{,}5$.\n\nTeorema de Tales: retas paralelas cortadas por duas transversais determinam segmentos proporcionais. É a mesma ideia de semelhança, usada para medir distâncias inacessíveis (a largura de um rio, a distância até um ponto no mar).",
+        "figura": {
+          "src": "/apostila-etec/figuras/semelhanca-tales.svg",
+          "alt": "Poste de 6 metros com sombra de 4 metros e vara de 1,5 metro com sombra de 1 metro, formando triângulos semelhantes.",
+          "largura": 560,
+          "altura": 250,
+          "legenda": "Sob o mesmo Sol, altura e sombra são proporcionais."
+        }
+      },
+      {
+        "titulo": "Teorema de Pitágoras",
+        "texto": "Em todo triângulo retângulo, o quadrado da hipotenusa é igual à soma dos quadrados dos catetos:\n\n$$a^2 = b^2 + c^2$$\n\nA hipotenusa ($a$) é o lado oposto ao ângulo reto e sempre o maior lado. Os catetos ($b$ e $c$) formam o ângulo reto.\n\nTernos que aparecem muito (e seus múltiplos):\n\n• $3, 4, 5$ (e $6, 8, 10$; $12, 16, 20$; $9, 12, 15$).\n• $5, 12, 13$.\n• $8, 15, 17$.\n\nExemplo: numa barragem com altura de 12 m e talude de 15 m, a parte da base sob o talude é $y$: $y^2 + 12^2 = 15^2 \\Rightarrow y^2 = 225 - 144 = 81 \\Rightarrow y = 9$ m.\n\nCuidado: Pitágoras só vale em triângulos retângulos.",
+        "figura": {
+          "src": "/apostila-etec/figuras/pitagoras.svg",
+          "alt": "Triângulo retângulo de catetos 3 e 4 e hipotenusa 5, com a relação a² = b² + c².",
+          "largura": 560,
+          "altura": 260,
+          "legenda": "O terno 3, 4, 5 é o mais cobrado, sozinho ou multiplicado."
+        }
+      },
+      {
+        "titulo": "Deslocamentos e distância em linha reta",
+        "texto": "Quando alguém anda para leste e depois para norte (ou sul), os dois deslocamentos formam um ângulo reto. A distância entre o ponto de partida e o de chegada é a hipotenusa.\n\nSe houver vários trechos, some primeiro tudo o que foi na direção leste-oeste e tudo o que foi na direção norte-sul (com sinais opostos para sentidos opostos).\n\nExemplo: 6 km a leste, 16 km ao sul, 10 km a leste e 4 km ao norte.\n\n• Leste: $6 + 10 = 16$ km.\n• Sul: $16 - 4 = 12$ km.\n• Distância: $\\sqrt{16^2 + 12^2} = \\sqrt{256 + 144} = \\sqrt{400} = 20$ km.\n\nNo plano cartesiano, a distância de $(x, y)$ até a origem é $\\sqrt{x^2 + y^2}$. Um ponto está fora de um círculo de raio $r$ centrado na origem quando $x^2 + y^2 > r^2$."
+      },
+      {
+        "titulo": "Seno, cosseno e tangente",
+        "texto": "Num triângulo retângulo, para um ângulo agudo $\\alpha$:\n\n$$\\text{sen } \\alpha = \\frac{\\text{cateto oposto}}{\\text{hipotenusa}} \\qquad \\cos \\alpha = \\frac{\\text{cateto adjacente}}{\\text{hipotenusa}} \\qquad \\text{tg } \\alpha = \\frac{\\text{cateto oposto}}{\\text{cateto adjacente}}$$\n\nNa ETEC, os valores de seno, cosseno e tangente vêm numa tabela no enunciado. O trabalho é decidir qual razão usar:\n\n• Conhece a hipotenusa e quer o lado oposto ao ângulo: seno.\n• Conhece a hipotenusa e quer o lado junto ao ângulo: cosseno.\n• Conhece um cateto e quer o outro: tangente.\n\nExemplo: um painel quadrado de 1 m de lado está inclinado $20^\\circ$. A altura do topo é o cateto oposto: $h = 1 \\cdot \\text{sen } 20^\\circ = 0{,}34$ m. Se a distância entre painéis deve ser 3,5 vezes essa altura: $3{,}5 \\times 0{,}34 = 1{,}19$ m."
+      },
+      {
+        "titulo": "Inclinação, rampas e declividade",
+        "texto": "A inclinação de uma rampa ou de um terreno costuma ser dada pela tangente do ângulo com a horizontal:\n\n$$\\text{inclinação} = \\text{tg } \\alpha = \\frac{\\text{altura vencida}}{\\text{distância horizontal}}$$\n\nUma taxa de $1 : 2{,}86$ significa subir 1 m a cada 2,86 m na horizontal: $\\text{tg } \\alpha = \\dfrac{1}{2{,}86} \\approx 0{,}35$. Na tabela do enunciado, procure o ângulo com tangente mais próxima.\n\nA declividade em porcentagem é a tangente vezes 100: $\\text{tg } \\alpha = 0{,}5$ é uma declividade de $50\\%$."
+      },
+      {
+        "titulo": "Sólidos geométricos",
+        "texto": "Sólidos são figuras com três dimensões. Os mais cobrados:\n\n• Prismas: duas bases iguais e paralelas, ligadas por faces retangulares. O paralelepípedo (forma de caixa) e o cubo são prismas.\n• Cilindro: duas bases circulares iguais e paralelas.\n• Pirâmide e cone: uma base e um vértice.\n• Esfera.\n\nPoliedros são sólidos com faces planas (prismas, pirâmides). Um poliedro é regular quando todas as faces são polígonos regulares iguais: tetraedro, cubo, octaedro, dodecaedro (faces pentagonais) e icosaedro.\n\nPlanificação é o “molde” do sólido aberto no plano: a de um cubo tem 6 quadrados; a de um cilindro, 2 círculos e 1 retângulo."
+      },
+      {
+        "titulo": "Volume de prismas e cilindros",
+        "texto": "Volume mede o espaço ocupado. Para prismas e cilindros, a regra é a mesma: área da base vezes altura.\n\n$$V_{\\text{paralelepípedo}} = a \\cdot b \\cdot c \\qquad V_{\\text{cubo}} = \\ell^3 \\qquad V_{\\text{cilindro}} = \\pi r^2 h$$\n\nExemplo: uma passagem de fauna cilíndrica tem 2 m de diâmetro e 82 m de comprimento. Com $\\pi = 3$: raio $= 1$ m, e $V = 3 \\cdot 1^2 \\cdot 82 = 246$ m³.\n\nExemplo: um dormente prismático mede $2 \\text{ m} \\times 0{,}24 \\text{ m} \\times 0{,}16 \\text{ m}$, com volume $2 \\times 0{,}24 \\times 0{,}16 = 0{,}0768$ m³. Com 1 600 dormentes por quilômetro, em 2 km são $3\\,200$ dormentes e $3\\,200 \\times 0{,}0768 = 245{,}76$ m³ de madeira.\n\nCone e pirâmide têm um terço do volume do cilindro e do prisma de mesma base e altura: $V = \\dfrac{\\pi r^2 h}{3}$.",
+        "figura": {
+          "src": "/apostila-etec/figuras/cilindro-volume.svg",
+          "alt": "Paralelepípedo de arestas a, b e c e cilindro de raio r e altura h, com as fórmulas de volume.",
+          "largura": 560,
+          "altura": 240,
+          "legenda": "Prisma e cilindro: volume é área da base vezes altura."
+        }
+      },
+      {
+        "titulo": "Unidades de volume e capacidade",
+        "texto": "Volume se mede em unidades cúbicas; capacidade, em litros. As ligações principais:\n\n• 1 m³ $= 1\\,000$ L.\n• 1 dm³ $= 1$ L.\n• 1 cm³ $= 1$ mL.\n• 1 m³ $= 1\\,000\\,000$ cm³ (porque $100 \\times 100 \\times 100$).\n\nPara medidas muito pequenas, como as de estruturas microscópicas, usa-se o nanômetro (nm), a bilionésima parte do metro. A conta é a mesma: um cilindro de diâmetro 300 nm e altura 500 nm tem raio 150 nm e volume $\\pi \\cdot 150^2 \\cdot 500$ nm³."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Distância em linha reta após deslocamentos em direções perpendiculares.\n• Ponto dentro ou fora de uma região circular no plano cartesiano.\n• Pitágoras em barragens, trapézios, terrenos e cercas.\n• Seno, cosseno e tangente com valores dados (painéis solares, rampas, telas de cinema).\n• Semelhança com sombras, paralelas e distâncias inacessíveis.\n• Volume de cilindro com $\\pi = 3$ e de paralelepípedo, com conversão de unidades.\n\nEdital oculto: trigonometria é conteúdo de Ensino Médio, mas a ETEC sempre fornece a tabela de valores e, muitas vezes, a definição de tangente ou de declividade."
+      }
+    ],
+    "armadilha": "Usar o diâmetro no lugar do raio, ou esquecer de elevar o raio ao quadrado. Num cilindro de 2 m de diâmetro, o raio é 1 m; com o diâmetro, o volume sairia 4 vezes maior. Em Pitágoras, a armadilha equivalente é somar os lados em vez de somar os quadrados.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Uma escada de 5 m está apoiada numa parede vertical. O pé da escada fica a 3 m da parede."
+        ],
+        "comando": "A altura, na parede, em que a escada se apoia é",
+        "alternativas": [
+          "$2$ m",
+          "$4$ m",
+          "$8$ m",
+          "$\\sqrt{34}$ m",
+          "$16$ m"
+        ],
+        "passos": [
+          "A escada é a hipotenusa (5 m) e a distância até a parede é um cateto (3 m).",
+          "$5^2 = 3^2 + h^2 \\Rightarrow 25 = 9 + h^2 \\Rightarrow h^2 = 16$.",
+          "$h = 4$ m."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A subtrai os lados sem elevar ao quadrado.",
+          "C soma os lados.",
+          "D soma os quadrados, tratando a escada como cateto.",
+          "E é $h^2$, esquecendo a raiz."
+        ]
+      },
+      {
+        "suporte": [
+          "Às 15 h, uma árvore projeta sombra de 9 m. No mesmo instante, uma pessoa de 1,6 m projeta sombra de 1,2 m."
+        ],
+        "comando": "A altura da árvore é",
+        "alternativas": [
+          "$6{,}75$ m",
+          "$10{,}8$ m",
+          "$12$ m",
+          "$14{,}4$ m",
+          "$9{,}4$ m"
+        ],
+        "passos": [
+          "Os triângulos são semelhantes: $\\dfrac{H}{9} = \\dfrac{1{,}6}{1{,}2}$.",
+          "$1{,}2 \\cdot H = 9 \\cdot 1{,}6 = 14{,}4$.",
+          "$H = 14{,}4 \\div 1{,}2 = 12$ m."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A inverte a razão: $9 \\times 1{,}2 \\div 1{,}6$.",
+          "B multiplica 9 por 1,2.",
+          "D esquece de dividir por 1,2.",
+          "E soma $9 + 1{,}6 - 1{,}2$."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma rampa sobe 1,5 m de altura e tem inclinação de $30^\\circ$ com o chão. Adote $\\text{sen } 30^\\circ = 0{,}5$, $\\cos 30^\\circ = 0{,}87$ e $\\text{tg } 30^\\circ = 0{,}58$."
+        ],
+        "comando": "O comprimento da rampa é",
+        "alternativas": [
+          "$0{,}75$ m",
+          "$1{,}5$ m",
+          "$1{,}72$ m",
+          "$2{,}59$ m",
+          "$3$ m"
+        ],
+        "passos": [
+          "A altura é o cateto oposto ao ângulo, e o comprimento da rampa é a hipotenusa.",
+          "$\\text{sen } 30^\\circ = \\dfrac{1{,}5}{L} \\Rightarrow 0{,}5 = \\dfrac{1{,}5}{L}$.",
+          "$L = 1{,}5 \\div 0{,}5 = 3$ m."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A multiplica pelo seno em vez de dividir.",
+          "B repete a altura.",
+          "C divide pelo cosseno.",
+          "D divide pela tangente, que dá a distância horizontal, não a rampa."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma caixa-d’água cilíndrica tem 2 m de diâmetro e 1,5 m de altura. Use $\\pi = 3$."
+        ],
+        "comando": "A capacidade da caixa, em litros, é",
+        "alternativas": [
+          "$1\\,500$",
+          "$4\\,500$",
+          "$9\\,000$",
+          "$18\\,000$",
+          "$4{,}5$"
+        ],
+        "passos": [
+          "Raio $= 2 \\div 2 = 1$ m.",
+          "$V = 3 \\cdot 1^2 \\cdot 1{,}5 = 4{,}5$ m³.",
+          "$4{,}5 \\text{ m}^3 = 4\\,500$ L."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A esquece o $\\pi$.",
+          "C usa o raio como 1 e multiplica por 2 a altura.",
+          "D usa o diâmetro como raio ($3 \\cdot 2^2 \\cdot 1{,}5 = 18$ m³).",
+          "E não converte m³ em litros."
+        ]
+      },
+      {
+        "suporte": [
+          "No plano cartesiano, uma antena em $(0, 0)$ tem alcance de 5 km. Uma casa está no ponto $(3, 4)$ e outra no ponto $(4, 4)$, com coordenadas em quilômetros."
+        ],
+        "comando": "Sobre o sinal da antena, é correto afirmar que",
+        "alternativas": [
+          "as duas casas recebem.",
+          "nenhuma das casas recebe.",
+          "só a casa em $(3, 4)$ recebe.",
+          "só a casa em $(4, 4)$ recebe.",
+          "não é possível saber sem medir."
+        ],
+        "passos": [
+          "Distância de $(3, 4)$: $\\sqrt{9 + 16} = 5$ km, no limite do alcance.",
+          "Distância de $(4, 4)$: $\\sqrt{16 + 16} = \\sqrt{32} \\approx 5{,}66$ km, fora do alcance.",
+          "Só a casa em $(3, 4)$ recebe o sinal."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A ignora que $\\sqrt{32} > 5$.",
+          "B esquece que 5 km está dentro do alcance.",
+          "D inverte as casas.",
+          "E: a distância pode ser calculada por Pitágoras."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2024-1-q013",
+        "correta": "B",
+        "justificativa": "Leste: $6 + 10 = 16$ km. Sul: $16 - 4 = 12$ km. Distância: $\\sqrt{16^2 + 12^2} = \\sqrt{400} = 20$ km.",
+        "distratores": [
+          "A não corresponde à hipotenusa dos deslocamentos.",
+          "C não corresponde à distância em linha reta; o resultado correto é a hipotenusa de catetos 16 e 12.",
+          "D soma $16 + 12$, os catetos, em vez de usar Pitágoras.",
+          "E não corresponde à distância em linha reta; somar os trechos percorridos daria 36 km."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q011",
+        "correta": "A",
+        "justificativa": "Fora da zona estão os pontos com $x^2 + y^2 > 36$. A: $0 + 49 = 49$ (fora). B: $1 + 36 = 37$ (fora). C: $4 + 25 = 29$ (dentro). D: $9 + 16 = 25$ (dentro).",
+        "distratores": [
+          "B inclui C, que está dentro ($29 < 36$).",
+          "C inclui D, que está a 5 km.",
+          "D inclui C e exclui A.",
+          "E inclui D e exclui A."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q043",
+        "correta": "B",
+        "justificativa": "3 passos para leste e 4 para o norte formam um triângulo 3-4-5: a distância é de 5 passos. Cada passo vale 7 léguas de 6,6 km: $5 \\times 7 \\times 6{,}6 = 231$ km.",
+        "distratores": [
+          "A soma os 7 passos dados: $7 \\times 7 \\times 6{,}6 = 323{,}4$.",
+          "C não corresponde à hipotenusa.",
+          "D é a distância de 1 passo: $7 \\times 6{,}6$.",
+          "E usa a légua portuguesa de 5 km: $5 \\times 7 = 35$ para um passo."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q031",
+        "correta": "D",
+        "justificativa": "A placa quadrada de 1 m² tem 1 m de lado. Inclinada $20^\\circ$, sua altura é $1 \\cdot \\text{sen } 20^\\circ = 0{,}34$ m. A distância é $3{,}5 \\times 0{,}34 = 1{,}19$ m.",
+        "distratores": [
+          "A é a altura, sem multiplicar por 3,5.",
+          "B usa a tangente sem multiplicar por 3,5.",
+          "C é o cosseno, a projeção horizontal da placa.",
+          "E usa a tangente: $3{,}5 \\times 0{,}36 = 1{,}26$."
+        ]
+      },
+      {
+        "id": "etec-2016-2-q029",
+        "correta": "D",
+        "justificativa": "No segundo triângulo: $y^2 + 12^2 = 15^2 \\Rightarrow y^2 = 81 \\Rightarrow y = 9$. A base é $x + \\text{crista} + y = 5 + 10 + 9 = 24$ m.",
+        "distratores": [
+          "A é só o valor de $x$.",
+          "B é só o valor de $y$.",
+          "C soma $x$ e $y$ e esquece a crista.",
+          "E soma talude, altura e crista sem relação geométrica."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q046",
+        "correta": "C",
+        "justificativa": "$\\text{tg } \\alpha = \\dfrac{1}{2{,}86} \\approx 0{,}35$. Na tabela, a tangente mais próxima é $0{,}344$, de $19^\\circ$.",
+        "distratores": [
+          "A: $\\text{tg } 12^\\circ = 0{,}213$, longe de $0{,}35$.",
+          "B: $\\text{tg } 15^\\circ = 0{,}268$.",
+          "D: $\\text{tg } 21^\\circ = 0{,}384$, mais distante que $0{,}344$.",
+          "E: $\\text{tg } 24^\\circ = 0{,}445$."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q037",
+        "correta": "A",
+        "justificativa": "No trapézio retângulo, o lado BC é a hipotenusa de um triângulo de catetos 12 m (altura) e $20 - 15 = 5$ m: $BC = \\sqrt{144 + 25} = 13$ m. O perímetro é $20 + 15 + 12 + 13 = 60$ m.",
+        "distratores": [
+          "B não corresponde ao perímetro com $BC = 13$.",
+          "C não corresponde ao perímetro com $BC = 13$.",
+          "D não corresponde ao perímetro com $BC = 13$.",
+          "E não corresponde ao perímetro com $BC = 13$."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q025",
+        "correta": "B",
+        "justificativa": "O diâmetro é 2 m, então o raio é 1 m. Com $\\pi = 3$: $V = 3 \\cdot 1^2 \\cdot 82 = 246$ m³.",
+        "distratores": [
+          "A divide o resultado por 2.",
+          "C dobra o volume, como se a área da base fosse $2\\pi$.",
+          "D multiplica por 3 a mais.",
+          "E usa o diâmetro como raio: $3 \\cdot 2^2 \\cdot 82 = 984$."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q027",
+        "correta": "A",
+        "justificativa": "O raio é metade do diâmetro: 150 nm. Volume $= \\pi \\cdot r^2 \\cdot h = \\pi \\cdot 150^2 \\cdot 500$. A expressão que multiplica $\\pi$ é $150^2 \\times 500$.",
+        "distratores": [
+          "B usa um raio de 250 nm e a altura de 300 nm, trocando as medidas.",
+          "C usa o diâmetro como raio.",
+          "D usa a altura como raio e o diâmetro como altura.",
+          "E dobra o diâmetro."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q025",
+        "correta": "D",
+        "justificativa": "Cada dormente tem $2 \\times 0{,}24 \\times 0{,}16 = 0{,}0768$ m³. Em 2 km há $2 \\times 1\\,600 = 3\\,200$ dormentes: $3\\,200 \\times 0{,}0768 = 245{,}76$ m³.",
+        "distratores": [
+          "A considera cerca de 1 000 dormentes.",
+          "B considera 1 600 dormentes, como se fosse só 1 km.",
+          "C não corresponde ao produto dos dados.",
+          "E considera 4 800 dormentes, como se fossem 3 km."
+        ]
+      }
+    ],
+    "resumo": [
+      "Semelhança: ângulos iguais, lados proporcionais ($k$); áreas na razão $k^2$.",
+      "Pitágoras: $a^2 = b^2 + c^2$, com $a$ a hipotenusa.",
+      "Ternos: 3-4-5, 5-12-13, 8-15-17 e múltiplos.",
+      "sen $=$ oposto $\\div$ hipotenusa; cos $=$ adjacente $\\div$ hipotenusa; tg $=$ oposto $\\div$ adjacente.",
+      "Inclinação $=$ tangente $=$ altura $\\div$ horizontal.",
+      "Distância no plano: $\\sqrt{\\Delta x^2 + \\Delta y^2}$.",
+      "Prisma: $V = a \\cdot b \\cdot c$; cilindro: $V = \\pi r^2 h$ (raio, não diâmetro).",
+      "1 m³ $= 1\\,000$ L; 1 cm³ $= 1$ mL."
+    ]
   }
 }

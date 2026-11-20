@@ -80,5 +80,271 @@
       "conta": "12 / 4 * 6",
       "esperado": 18
     }
+  ],
+  "porcentagem-e-matematica-financeira": [
+    {
+      "rotulo": "etec-2026-2-q024",
+      "conta": "22 / (0.32 - 0.21)",
+      "esperado": 200
+    },
+    {
+      "rotulo": "etec-2025-1-q026",
+      "conta": "35 / 30 * 6",
+      "esperado": 7
+    },
+    {
+      "rotulo": "etec-2025-1-q005-perda",
+      "conta": "(60 - 48) / 60 * 100",
+      "esperado": 20
+    },
+    {
+      "rotulo": "etec-2025-1-q005-sacas",
+      "conta": "1000 / 48",
+      "esperado": 20.83
+    },
+    {
+      "rotulo": "etec-2024-2-q018",
+      "conta": "0.55 * 70",
+      "esperado": 38.5
+    },
+    {
+      "rotulo": "etec-2022-2-q001",
+      "conta": "600 / 0.7",
+      "esperado": 860
+    },
+    {
+      "rotulo": "etec-2018-1-q027",
+      "conta": "0.04 * 13000",
+      "esperado": 520
+    },
+    {
+      "rotulo": "etec-2016-1-q036",
+      "conta": "(20 - 13) / 13 * 100",
+      "esperado": 53.85
+    },
+    {
+      "rotulo": "etec-2016-1-q029",
+      "conta": "181000 / 0.2",
+      "esperado": 905000
+    },
+    {
+      "rotulo": "etec-2013-2-q041",
+      "conta": "(2400 - 1680) / 2400 * 100",
+      "esperado": 30
+    },
+    {
+      "rotulo": "exemplo-1",
+      "conta": "80 * 0.85",
+      "esperado": 68
+    },
+    {
+      "rotulo": "exemplo-2",
+      "conta": "14 / 0.4",
+      "esperado": 35
+    },
+    {
+      "rotulo": "exemplo-3",
+      "conta": "(150 - 120) / 120 * 100",
+      "esperado": 25
+    },
+    {
+      "rotulo": "exemplo-4",
+      "conta": "200 * 1.10 * 0.90",
+      "esperado": 198
+    },
+    {
+      "rotulo": "exemplo-5",
+      "conta": "1500 + 1500 * 0.02 * 6",
+      "esperado": 1680
+    },
+    {
+      "rotulo": "teoria-cambio",
+      "conta": "2000 * 2.10 * 1.0038",
+      "esperado": 4215.96
+    },
+    {
+      "rotulo": "teoria-compostos",
+      "conta": "2000 * 1.03 * 1.03",
+      "esperado": 2121.8
+    },
+    {
+      "rotulo": "teoria-sucessivos",
+      "conta": "1.20 * 0.80",
+      "esperado": 0.96
+    }
+  ],
+  "geometria-plana-e-medidas": [
+    {
+      "rotulo": "etec-2023-2-q039",
+      "conta": "800 * 800 - (500 * 500 + 500 * 500)",
+      "esperado": 140000
+    },
+    {
+      "rotulo": "etec-2019-2-q040",
+      "conta": "(140 * 140 / 2) / (70 * 70 / 2)",
+      "esperado": 4
+    },
+    {
+      "rotulo": "etec-2017-2-q035",
+      "conta": "4 * 16 / 8",
+      "esperado": 8
+    },
+    {
+      "rotulo": "etec-2016-2-q026",
+      "conta": "3 * 15 * 15 - 3 * 10 * 10",
+      "esperado": 375
+    },
+    {
+      "rotulo": "etec-2014-2-q036",
+      "conta": "(150 * 240) / (15 * 15)",
+      "esperado": 160
+    },
+    {
+      "rotulo": "etec-2014-2-q022",
+      "conta": "2 * 0.87",
+      "esperado": 1.74
+    },
+    {
+      "rotulo": "etec-2020-1-q033",
+      "conta": "(5 - 2) * 180 / 5",
+      "esperado": 108
+    },
+    {
+      "rotulo": "exemplo-1-area",
+      "conta": "18 * 25",
+      "esperado": 450
+    },
+    {
+      "rotulo": "exemplo-1",
+      "conta": "2 * 18 + 2 * 25",
+      "esperado": 86
+    },
+    {
+      "rotulo": "exemplo-2",
+      "conta": "11 * 11 - (6 * 6 + 8 * 8)",
+      "esperado": 21
+    },
+    {
+      "rotulo": "exemplo-3",
+      "conta": "3 * 20 * 20 - 3 * 4 * 4",
+      "esperado": 1152
+    },
+    {
+      "rotulo": "exemplo-4",
+      "conta": "(300 / 50) * (400 / 50)",
+      "esperado": 48
+    },
+    {
+      "rotulo": "exemplo-5",
+      "conta": "(30 * 45) / (10 * 15)",
+      "esperado": 9
+    },
+    {
+      "rotulo": "teoria-azulejo",
+      "conta": "36000 / 225",
+      "esperado": 160
+    },
+    {
+      "rotulo": "teoria-pentagono",
+      "conta": "3 * 180 / 5",
+      "esperado": 108
+    }
+  ],
+  "triangulos-pitagoras-e-solidos": [
+    {
+      "rotulo": "etec-2024-1-q013",
+      "conta": "((6 + 10) * (6 + 10) + (16 - 4) * (16 - 4))",
+      "esperado": 400
+    },
+    {
+      "rotulo": "etec-2022-2-q011-B",
+      "conta": "1 * 1 + 6 * 6",
+      "esperado": 37
+    },
+    {
+      "rotulo": "etec-2022-2-q011-C",
+      "conta": "2 * 2 + 5 * 5",
+      "esperado": 29
+    },
+    {
+      "rotulo": "etec-2020-1-q043",
+      "conta": "5 * 7 * 6.6",
+      "esperado": 231
+    },
+    {
+      "rotulo": "etec-2018-2-q031",
+      "conta": "3.5 * 0.34",
+      "esperado": 1.19
+    },
+    {
+      "rotulo": "etec-2016-2-q029",
+      "conta": "5 + 10 + 9",
+      "esperado": 24
+    },
+    {
+      "rotulo": "etec-2016-2-q029-y",
+      "conta": "15 * 15 - 12 * 12",
+      "esperado": 81
+    },
+    {
+      "rotulo": "etec-2015-2-q046",
+      "conta": "1 / 2.86",
+      "esperado": 0.344
+    },
+    {
+      "rotulo": "etec-2018-1-q037",
+      "conta": "20 + 15 + 12 + 13",
+      "esperado": 60
+    },
+    {
+      "rotulo": "etec-2018-1-q037-bc",
+      "conta": "12 * 12 + 5 * 5",
+      "esperado": 169
+    },
+    {
+      "rotulo": "etec-2026-2-q025",
+      "conta": "3 * 1 * 1 * 82",
+      "esperado": 246
+    },
+    {
+      "rotulo": "etec-2026-1-q027",
+      "conta": "150 * 150 * 500",
+      "esperado": 11250000
+    },
+    {
+      "rotulo": "etec-2025-1-q025",
+      "conta": "2 * 1600 * 2 * 0.24 * 0.16",
+      "esperado": 245.76
+    },
+    {
+      "rotulo": "exemplo-1",
+      "conta": "25 - 9",
+      "esperado": 16
+    },
+    {
+      "rotulo": "exemplo-2",
+      "conta": "9 * 1.6 / 1.2",
+      "esperado": 12
+    },
+    {
+      "rotulo": "exemplo-3",
+      "conta": "1.5 / 0.5",
+      "esperado": 3
+    },
+    {
+      "rotulo": "exemplo-4",
+      "conta": "3 * 1 * 1 * 1.5 * 1000",
+      "esperado": 4500
+    },
+    {
+      "rotulo": "exemplo-5",
+      "conta": "4 * 4 + 4 * 4",
+      "esperado": 32
+    },
+    {
+      "rotulo": "teoria-dormente",
+      "conta": "2 * 0.24 * 0.16",
+      "esperado": 0.0768
+    }
   ]
 }

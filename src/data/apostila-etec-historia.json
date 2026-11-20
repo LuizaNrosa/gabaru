@@ -364,6 +364,284 @@
       "Roma: estradas, latim, direito; queda em 476.",
       "Idade Média: feudalismo, Igreja, inovações agrícolas, peste negra.",
       "Renascimento: humanismo e observação."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "O ano de 1789, da Revolução Francesa,"
+        ],
+        "comando": "pertence ao século",
+        "alternativas": [
+          "XVII.",
+          "XVIII.",
+          "XIX.",
+          "XVI.",
+          "XX."
+        ],
+        "passos": [
+          "Tire 89 e some 1 a 17: século XVIII."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A esquece de somar 1.",
+          "C soma 2.",
+          "D subtrai 1.",
+          "E não corresponde."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma moeda romana encontrada numa escavação é uma fonte"
+        ],
+        "comando": "do tipo",
+        "alternativas": [
+          "oral.",
+          "escrita.",
+          "material.",
+          "digital.",
+          "audiovisual."
+        ],
+        "passos": [
+          "Objeto produzido pelo ser humano: fonte material."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A são depoimentos.",
+          "B são textos.",
+          "D são registros eletrônicos.",
+          "E são filmes e gravações."
+        ]
+      },
+      {
+        "suporte": [
+          "No Neolítico, os grupos humanos desenvolveram a agricultura e domesticaram animais."
+        ],
+        "comando": "Uma consequência foi",
+        "alternativas": [
+          "o fim do uso do fogo.",
+          "o nomadismo constante.",
+          "a invenção da máquina a vapor.",
+          "a sedentarização e o surgimento das primeiras aldeias.",
+          "o abandono das ferramentas de pedra."
+        ],
+        "passos": [
+          "Plantar exige ficar no mesmo lugar."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: o fogo continuou essencial.",
+          "B é o oposto.",
+          "C é do século XVIII.",
+          "E: a pedra polida é marca do Neolítico."
+        ]
+      },
+      {
+        "suporte": [
+          "O Egito Antigo dependia das cheias do Nilo, que fertilizavam as margens."
+        ],
+        "comando": "Por isso, é classificado como",
+        "alternativas": [
+          "sociedade fluvial.",
+          "sociedade feudal.",
+          "império marítimo.",
+          "sociedade industrial.",
+          "povo nômade."
+        ],
+        "passos": [
+          "Organizado em torno do rio: sociedade fluvial."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é medieval.",
+          "C não descreve o Egito.",
+          "D é moderna.",
+          "E contradiz a vida fixa às margens."
+        ]
+      },
+      {
+        "suporte": [
+          "Na Mesopotâmia, a escrita cuneiforme era feita"
+        ],
+        "comando": "em",
+        "alternativas": [
+          "papel de celulose.",
+          "pergaminho de couro.",
+          "tela de pintura.",
+          "tábuas de argila, com cunhas.",
+          "papiro."
+        ],
+        "passos": [
+          "Cuneiforme = em forma de cunha, gravada na argila."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é muito posterior.",
+          "B é posterior e de outra região.",
+          "C não era suporte de escrita.",
+          "E era usado no Egito."
+        ]
+      },
+      {
+        "suporte": [
+          "Na democracia de Atenas,"
+        ],
+        "comando": "podiam votar",
+        "alternativas": [
+          "todos os moradores.",
+          "mulheres e escravizados.",
+          "apenas os estrangeiros.",
+          "os reis e sacerdotes.",
+          "os cidadãos homens, filhos de atenienses."
+        ],
+        "passos": [
+          "A cidadania era restrita a homens adultos atenienses."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A ignora as exclusões.",
+          "B eram excluídos.",
+          "C eram excluídos.",
+          "D: não havia rei em Atenas democrática."
+        ]
+      },
+      {
+        "suporte": [
+          "O latim, o direito e as estradas são heranças"
+        ],
+        "comando": "de qual civilização?",
+        "alternativas": [
+          "Mesopotâmica.",
+          "Egípcia.",
+          "Romana.",
+          "Chinesa.",
+          "Maia."
+        ],
+        "passos": [
+          "Roma espalhou o latim e o direito e construiu estradas."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A deixou a escrita cuneiforme.",
+          "B deixou hieróglifos e pirâmides.",
+          "D tem outra herança.",
+          "E é americana."
+        ]
+      },
+      {
+        "suporte": [
+          "Na Idade Média europeia, a terra era a base da riqueza e os servos trabalhavam para os senhores."
+        ],
+        "comando": "Esse sistema é o",
+        "alternativas": [
+          "capitalismo.",
+          "feudalismo.",
+          "socialismo.",
+          "mercantilismo.",
+          "liberalismo."
+        ],
+        "passos": [
+          "Senhores, servos e terra: feudalismo."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é posterior.",
+          "C é do século XIX em diante.",
+          "D é da Idade Moderna.",
+          "E é dos séculos XVIII e XIX."
+        ]
+      },
+      {
+        "suporte": [
+          "No século XIV, a peste negra matou cerca de um terço a metade da população europeia."
+        ],
+        "comando": "Ela chegou à Europa",
+        "alternativas": [
+          "por ratos e pulgas nos navios das rotas comerciais com o Oriente.",
+          "pela água contaminada de poços de Roma.",
+          "em aviões vindos da Ásia.",
+          "pelo frio do inverno.",
+          "por cães de caça da realeza."
+        ],
+        "passos": [
+          "A bactéria vinha em pulgas de ratos embarcados."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B não é a via.",
+          "C é anacrônico.",
+          "D não causa peste.",
+          "E não é a via."
+        ]
+      },
+      {
+        "suporte": [
+          "Os árabes, a partir do século VII, levaram à Península Ibérica"
+        ],
+        "comando": "avanços em",
+        "alternativas": [
+          "industrialização a vapor.",
+          "navegação a motor.",
+          "internet.",
+          "imprensa de Gutenberg.",
+          "álgebra, astronomia e medicina."
+        ],
+        "passos": [
+          "A cultura árabe medieval difundiu saberes científicos."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A é do século XVIII.",
+          "B é do século XIX.",
+          "C é do século XX.",
+          "D é alemã, do século XV."
+        ]
+      },
+      {
+        "suporte": [
+          "O Renascimento valorizou o ser humano, a razão e a observação."
+        ],
+        "comando": "Essa postura é chamada",
+        "alternativas": [
+          "teocentrismo.",
+          "feudalismo.",
+          "humanismo.",
+          "absolutismo.",
+          "nomadismo."
+        ],
+        "passos": [
+          "Colocar o ser humano no centro: humanismo."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A põe Deus no centro, típico da Idade Média.",
+          "B é sistema econômico.",
+          "D é forma de governo.",
+          "E é modo de vida."
+        ]
+      },
+      {
+        "suporte": [
+          "Nos séculos XV e XVI, o Tribunal do Santo Ofício perseguiu pessoas acusadas de heresia e bruxaria."
+        ],
+        "comando": "Esse tribunal era a",
+        "alternativas": [
+          "Reforma Protestante.",
+          "Inquisição.",
+          "Assembleia ateniense.",
+          "Revolução Francesa.",
+          "ONU."
+        ],
+        "passos": [
+          "O Santo Ofício é a Inquisição."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A foi um movimento religioso, não um tribunal católico.",
+          "C é grega e antiga.",
+          "D é de 1789.",
+          "E é de 1945."
+        ]
+      }
     ]
   },
   "expansao-colonizacao-e-escravidao": {
@@ -747,6 +1025,284 @@
       "Bandeiras, missões, drogas do sertão e tropeiros: além de Tordesilhas.",
       "Ouro: Minas, século XVIII, Barroco e Aleijadinho.",
       "Resistência: quilombos (Palmares), revoltas, cultura."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "O tratado assinado em 1494 entre Portugal e Espanha dividiu as terras descobertas e por descobrir."
+        ],
+        "comando": "Trata-se do Tratado de",
+        "alternativas": [
+          "Madri.",
+          "Versalhes.",
+          "Tordesilhas.",
+          "Petrópolis.",
+          "Paris."
+        ],
+        "passos": [
+          "1494: Tordesilhas, linha imaginária entre as duas Coroas."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é de 1750.",
+          "B é de 1919.",
+          "D é de 1903.",
+          "E não se refere a essa divisão."
+        ]
+      },
+      {
+        "suporte": [
+          "A embarcação leve, de velas triangulares, símbolo das Grandes Navegações, era a"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "caravela.",
+          "trirreme.",
+          "navio a vapor.",
+          "jangada.",
+          "submarino."
+        ],
+        "passos": [
+          "A caravela permitia navegar contra o vento."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é antiga, grega e romana.",
+          "C é do século XIX.",
+          "D é embarcação indígena e costeira.",
+          "E é do século XX."
+        ]
+      },
+      {
+        "suporte": [
+          "No século XVI, a primeira atividade econômica dos portugueses no Brasil foi a extração"
+        ],
+        "comando": "de",
+        "alternativas": [
+          "ouro.",
+          "café.",
+          "borracha.",
+          "algodão industrial.",
+          "pau-brasil."
+        ],
+        "passos": [
+          "O pau-brasil dava tinta vermelha e era extraído com trabalho indígena."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A é do século XVIII.",
+          "B é do século XIX.",
+          "C é do fim do século XIX.",
+          "D não foi a primeira atividade."
+        ]
+      },
+      {
+        "suporte": [
+          "Pelo pacto colonial, o Brasil"
+        ],
+        "comando": "devia",
+        "alternativas": [
+          "comerciar livremente com qualquer país.",
+          "produzir manufaturados para a Europa.",
+          "vender seus produtos só para Portugal e comprar dele os manufaturados.",
+          "eleger seus governantes.",
+          "proibir a escravidão."
+        ],
+        "passos": [
+          "Exclusividade comercial com a metrópole."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A só ocorreu após 1808.",
+          "B: a colônia não podia ter manufaturas.",
+          "D: os governantes eram nomeados.",
+          "E é o oposto."
+        ]
+      },
+      {
+        "suporte": [
+          "O engenho de açúcar nordestino seguia o modelo de plantation."
+        ],
+        "comando": "Suas características eram",
+        "alternativas": [
+          "pequenas propriedades e trabalho livre.",
+          "monocultura, latifúndio, trabalho escravizado e exportação.",
+          "produção industrial mecanizada.",
+          "agricultura de subsistência.",
+          "cooperativas de colonos."
+        ],
+        "passos": [
+          "Plantation reúne esses quatro elementos."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é o oposto.",
+          "C é moderna.",
+          "D: o açúcar era exportado.",
+          "E não existiam."
+        ]
+      },
+      {
+        "suporte": [
+          "Expedições armadas que partiam de São Paulo, nos séculos XVII e XVIII, para capturar indígenas e buscar metais eram as"
+        ],
+        "comando": "nome:",
+        "alternativas": [
+          "missões jesuíticas.",
+          "capitanias hereditárias.",
+          "monções do Pacífico.",
+          "bandeiras.",
+          "cruzadas."
+        ],
+        "passos": [
+          "Bandeirantes ampliaram o território além de Tordesilhas."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A eram aldeamentos religiosos.",
+          "B eram divisões administrativas.",
+          "C não corresponde.",
+          "E são medievais."
+        ]
+      },
+      {
+        "suporte": [
+          "No século XVIII, a descoberta de ouro levou a capital da colônia de Salvador para"
+        ],
+        "comando": "a cidade de",
+        "alternativas": [
+          "Rio de Janeiro.",
+          "São Paulo.",
+          "Ouro Preto.",
+          "Recife.",
+          "Brasília."
+        ],
+        "passos": [
+          "O porto do Rio escoava o ouro; a capital mudou em 1763."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B não foi capital colonial.",
+          "C era o centro minerador, não a capital.",
+          "D não foi capital.",
+          "E é de 1960."
+        ]
+      },
+      {
+        "suporte": [
+          "O governo de Maurício de Nassau em Pernambuco ficou conhecido"
+        ],
+        "comando": "pela",
+        "alternativas": [
+          "perseguição religiosa.",
+          "abolição da escravidão.",
+          "tolerância religiosa e urbanização do Recife.",
+          "fundação de São Paulo.",
+          "descoberta do ouro."
+        ],
+        "passos": [
+          "Nassau aceitou várias religiões e modernizou o Recife."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é o oposto.",
+          "B não ocorreu.",
+          "D é de 1554, por jesuítas.",
+          "E ocorreu em Minas."
+        ]
+      },
+      {
+        "suporte": [
+          "Palmares, em Alagoas, foi"
+        ],
+        "comando": "o",
+        "alternativas": [
+          "maior engenho holandês.",
+          "primeiro porto do Brasil.",
+          "aldeamento jesuíta.",
+          "centro da mineração.",
+          "maior e mais duradouro quilombo da história do Brasil."
+        ],
+        "passos": [
+          "Refúgio de escravizados, durou quase todo o século XVII."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A não era engenho.",
+          "B não era porto.",
+          "C não era missão.",
+          "D: a mineração foi em Minas."
+        ]
+      },
+      {
+        "suporte": [
+          "Zumbi dos Palmares é lembrado no dia 20 de novembro."
+        ],
+        "comando": "Essa data é o",
+        "alternativas": [
+          "Dia da Independência.",
+          "Dia Nacional de Zumbi e da Consciência Negra.",
+          "Dia do Índio.",
+          "Dia da Abolição.",
+          "Dia de Tiradentes."
+        ],
+        "passos": [
+          "20 de novembro marca a morte de Zumbi, em 1695."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é 7 de setembro.",
+          "C é 19 de abril.",
+          "D é 13 de maio.",
+          "E é 21 de abril."
+        ]
+      },
+      {
+        "suporte": [
+          "O mercantilismo dos séculos XV a XVIII defendia"
+        ],
+        "comando": "o seguinte:",
+        "alternativas": [
+          "livre concorrência sem Estado.",
+          "socialismo e propriedade coletiva.",
+          "acúmulo de metais preciosos e balança comercial favorável.",
+          "abolição das colônias.",
+          "industrialização com máquinas a vapor."
+        ],
+        "passos": [
+          "Metalismo, protecionismo e colônias como fonte de riqueza."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é o liberalismo.",
+          "B é do século XIX em diante.",
+          "D é o oposto.",
+          "E é da Revolução Industrial."
+        ]
+      },
+      {
+        "suporte": [
+          "A capoeira, o candomblé e o acarajé"
+        ],
+        "comando": "são exemplos de",
+        "alternativas": [
+          "herança cultural africana no Brasil.",
+          "cultura trazida pelos holandeses.",
+          "costumes indígenas do Sul.",
+          "tradições portuguesas medievais.",
+          "influência japonesa."
+        ],
+        "passos": [
+          "Trazidas pelos africanos escravizados e recriadas aqui."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: os holandeses não deixaram essas práticas.",
+          "C: são de origem africana, não indígena.",
+          "D: não vieram de Portugal.",
+          "E: a imigração japonesa é do século XX e não trouxe essas práticas."
+        ]
+      }
     ]
   },
   "revolucoes-independencias-e-imperio": {
@@ -1089,6 +1645,284 @@
       "1808 corte no Rio; 1822 independência; escravidão mantida.",
       "Regência: Cabanagem, Farroupilha, Malês.",
       "Segundo Reinado: café, ferrovias, imigrantes, Lei Áurea (1888)."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "\"Liberdade, igualdade e fraternidade\" foi o lema"
+        ],
+        "comando": "de qual movimento?",
+        "alternativas": [
+          "Revolução Industrial.",
+          "Revolução Francesa.",
+          "Reforma Protestante.",
+          "Revolução Russa.",
+          "Renascimento."
+        ],
+        "passos": [
+          "O lema marcou a Revolução Francesa de 1789."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A foi econômica e técnica.",
+          "C foi religiosa, no século XVI.",
+          "D é de 1917, com outro lema.",
+          "E foi cultural."
+        ]
+      },
+      {
+        "suporte": [
+          "Montesquieu propôs dividir o poder do Estado."
+        ],
+        "comando": "Os três poderes são",
+        "alternativas": [
+          "rei, nobreza e clero.",
+          "militar, religioso e econômico.",
+          "Executivo, Legislativo e Judiciário.",
+          "federal, estadual e municipal.",
+          "moderador, imperial e regencial."
+        ],
+        "passos": [
+          "Executar, fazer leis e julgar: três poderes independentes."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A são os estamentos do Antigo Regime.",
+          "B não é a teoria.",
+          "D são esferas de governo.",
+          "E mistura termos do Império brasileiro."
+        ]
+      },
+      {
+        "suporte": [
+          "A Primeira Revolução Industrial começou na Inglaterra, no século XVIII."
+        ],
+        "comando": "Sua principal fonte de energia era",
+        "alternativas": [
+          "o petróleo.",
+          "a eletricidade.",
+          "a energia nuclear.",
+          "o carvão, nas máquinas a vapor.",
+          "a energia solar."
+        ],
+        "passos": [
+          "Vapor gerado com carvão movia as máquinas."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A ganha força na Segunda Revolução.",
+          "B é da Segunda Revolução.",
+          "C é do século XX.",
+          "E é recente."
+        ]
+      },
+      {
+        "suporte": [
+          "Operários ingleses do início do século XIX quebravam máquinas, que viam como causa do desemprego."
+        ],
+        "comando": "Esse movimento é o",
+        "alternativas": [
+          "ludismo.",
+          "cartismo.",
+          "tenentismo.",
+          "iluminismo.",
+          "abolicionismo."
+        ],
+        "passos": [
+          "Quebra de máquinas: ludismo."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B reivindicava direitos políticos.",
+          "C é brasileiro, dos anos 1920.",
+          "D é filosófico.",
+          "E lutava contra a escravidão."
+        ]
+      },
+      {
+        "suporte": [
+          "A linha de montagem com esteiras, criada por Henry Ford,"
+        ],
+        "comando": "marca",
+        "alternativas": [
+          "a Primeira Revolução Industrial.",
+          "o feudalismo.",
+          "a Segunda Revolução Industrial.",
+          "a Idade Média.",
+          "o mercantilismo."
+        ],
+        "passos": [
+          "Fordismo: produção em massa, início do século XX."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A usava vapor e teares.",
+          "B é medieval.",
+          "D é anterior.",
+          "E é anterior."
+        ]
+      },
+      {
+        "suporte": [
+          "Em 1808, a família real portuguesa chegou ao Brasil fugindo"
+        ],
+        "comando": "de",
+        "alternativas": [
+          "Napoleão, que invadira Portugal.",
+          "uma epidemia de peste.",
+          "uma revolução comunista.",
+          "tropas holandesas.",
+          "um terremoto em Lisboa."
+        ],
+        "passos": [
+          "Portugal não aderiu ao Bloqueio Continental e foi invadido pelos franceses."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B não foi o motivo.",
+          "C é anacrônica.",
+          "D: os holandeses foram expulsos em 1654.",
+          "E: o grande terremoto foi em 1755."
+        ]
+      },
+      {
+        "suporte": [
+          "Ao chegar, Dom João decretou a abertura dos portos às nações amigas."
+        ],
+        "comando": "A medida significou",
+        "alternativas": [
+          "a independência do Brasil.",
+          "o fim do pacto colonial.",
+          "a abolição da escravidão.",
+          "a Proclamação da República.",
+          "o início do ciclo do ouro."
+        ],
+        "passos": [
+          "O Brasil pôde comerciar com outros países."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é de 1822.",
+          "C é de 1888.",
+          "D é de 1889.",
+          "E é do século XVIII."
+        ]
+      },
+      {
+        "suporte": [
+          "A Constituição de 1824 criou o Poder Moderador."
+        ],
+        "comando": "Esse poder era exercido",
+        "alternativas": [
+          "pelo povo, em eleições diretas.",
+          "pelo Senado.",
+          "pelos juízes.",
+          "pelo imperador.",
+          "pelos governadores."
+        ],
+        "passos": [
+          "O Moderador dava ao imperador a palavra final sobre os outros poderes."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A: o voto era censitário e indireto.",
+          "B não detinha esse poder.",
+          "C exerciam o Judiciário.",
+          "E não existia esse cargo."
+        ]
+      },
+      {
+        "suporte": [
+          "A Revolta dos Malês (Salvador, 1835) foi liderada por"
+        ],
+        "comando": "quem?",
+        "alternativas": [
+          "estancieiros gaúchos.",
+          "africanos muçulmanos escravizados e libertos.",
+          "imigrantes italianos.",
+          "tenentes do Exército.",
+          "bandeirantes paulistas."
+        ],
+        "passos": [
+          "\"Malê\" designava os africanos muçulmanos na Bahia."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A lideraram a Farroupilha.",
+          "C chegaram depois.",
+          "D atuaram nos anos 1920.",
+          "E são do período colonial."
+        ]
+      },
+      {
+        "suporte": [
+          "A lei de 1850 proibiu o tráfico de africanos escravizados para o Brasil."
+        ],
+        "comando": "Ela é conhecida como Lei",
+        "alternativas": [
+          "Áurea.",
+          "do Ventre Livre.",
+          "dos Sexagenários.",
+          "Eusébio de Queirós.",
+          "de Terras."
+        ],
+        "passos": [
+          "Fim do tráfico: Eusébio de Queirós, 1850."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A aboliu a escravidão em 1888.",
+          "B libertou filhos de escravizadas em 1871.",
+          "C libertou idosos em 1885.",
+          "E regulou a propriedade, também em 1850, mas não o tráfico."
+        ]
+      },
+      {
+        "suporte": [
+          "No Segundo Reinado, o principal produto de exportação brasileiro era"
+        ],
+        "comando": "o",
+        "alternativas": [
+          "açúcar.",
+          "ouro.",
+          "pau-brasil.",
+          "borracha.",
+          "café."
+        ],
+        "passos": [
+          "O café do Vale do Paraíba e do Oeste Paulista liderou as exportações."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A predominou na colônia.",
+          "B predominou no século XVIII.",
+          "C é do início da colonização.",
+          "D teve auge mais tarde e menor peso."
+        ]
+      },
+      {
+        "suporte": [
+          "Na Conferência de Berlim (1884–1885), as potências europeias"
+        ],
+        "comando": "decidiram",
+        "alternativas": [
+          "abolir as colônias.",
+          "unificar a Alemanha.",
+          "criar a ONU.",
+          "libertar a Índia.",
+          "dividir a África entre si."
+        ],
+        "passos": [
+          "Partilha da África: auge do imperialismo."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A é o oposto.",
+          "B ocorreu em 1871.",
+          "C é de 1945.",
+          "D ocorreu em 1947."
+        ]
+      }
     ]
   },
   "republicas-e-mundo-contemporaneo": {
@@ -1475,6 +2309,284 @@
       "ONU (1945) e Declaração dos Direitos Humanos (1948).",
       "Guerra Fria (1947–1991): corrida espacial, Coreia, Vietnã, Muro.",
       "Descolonização: Gandhi (1947); Revolução dos Cravos (1974)."
+    ],
+    "fixacao": [
+      {
+        "suporte": [
+          "Na Primeira República, São Paulo e Minas Gerais se revezavam na presidência."
+        ],
+        "comando": "Esse arranjo ficou conhecido como",
+        "alternativas": [
+          "Estado Novo.",
+          "política do café com leite.",
+          "Regência.",
+          "Diretas Já.",
+          "milagre econômico."
+        ],
+        "passos": [
+          "SP (café) e MG (leite) alternavam o poder."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é de 1937 a 1945.",
+          "C é de 1831 a 1840.",
+          "D é de 1984.",
+          "E é dos anos 1970."
+        ]
+      },
+      {
+        "suporte": [
+          "Em 1932, o Código Eleitoral garantiu o voto feminino, confirmado na Constituição de 1934."
+        ],
+        "comando": "Isso ocorreu no governo de",
+        "alternativas": [
+          "Dom Pedro II.",
+          "Juscelino Kubitschek.",
+          "Getúlio Vargas.",
+          "Médici.",
+          "Deodoro da Fonseca."
+        ],
+        "passos": [
+          "Anos 1930: Era Vargas."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A governou até 1889.",
+          "B governou de 1956 a 1961.",
+          "D governou de 1969 a 1974.",
+          "E governou de 1889 a 1891."
+        ]
+      },
+      {
+        "suporte": [
+          "A Consolidação das Leis do Trabalho (CLT) é de 1943."
+        ],
+        "comando": "Ela reuniu direitos como",
+        "alternativas": [
+          "voto aberto e censitário.",
+          "fim do tráfico de escravizados.",
+          "liberdade total de contratação sem regras.",
+          "carteira de trabalho, férias e jornada regulamentada.",
+          "monopólio do petróleo."
+        ],
+        "passos": [
+          "A CLT organizou os direitos trabalhistas urbanos."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é do Império.",
+          "B é de 1850.",
+          "C é o oposto.",
+          "E veio com a Petrobras, em 1953."
+        ]
+      },
+      {
+        "suporte": [
+          "A construção de Brasília e a vinda das montadoras de automóveis marcaram"
+        ],
+        "comando": "o governo de",
+        "alternativas": [
+          "Juscelino Kubitschek.",
+          "Getúlio Vargas.",
+          "Dom Pedro I.",
+          "Fernando Collor.",
+          "Prudente de Morais."
+        ],
+        "passos": [
+          "JK, \"50 anos em 5\", inaugurou Brasília em 1960."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B não construiu Brasília.",
+          "C é do século XIX.",
+          "D é dos anos 1990.",
+          "E é da Primeira República."
+        ]
+      },
+      {
+        "suporte": [
+          "O AI-5, de 1968, fechou o Congresso e ampliou a censura."
+        ],
+        "comando": "Ele foi um ato da",
+        "alternativas": [
+          "Primeira República.",
+          "Era Vargas.",
+          "Regência.",
+          "Nova República.",
+          "ditadura civil-militar."
+        ],
+        "passos": [
+          "Atos Institucionais foram instrumentos do regime de 1964 a 1985."
+        ],
+        "correta": "E",
+        "distratores": [
+          "A terminou em 1930.",
+          "B terminou em 1945.",
+          "C é do século XIX.",
+          "D começa em 1985."
+        ]
+      },
+      {
+        "suporte": [
+          "A Primeira Guerra Mundial (1914–1918) terminou com um tratado que impôs duras punições à Alemanha."
+        ],
+        "comando": "Esse tratado foi o de",
+        "alternativas": [
+          "Tordesilhas.",
+          "Versalhes.",
+          "Madri.",
+          "Petrópolis.",
+          "Viena."
+        ],
+        "passos": [
+          "Versalhes, 1919."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é de 1494.",
+          "C é de 1750.",
+          "D é de 1903.",
+          "E (o Congresso de Viena) é de 1815."
+        ]
+      },
+      {
+        "suporte": [
+          "A quebra da Bolsa de Nova York, em 1929, afetou o Brasil"
+        ],
+        "comando": "porque",
+        "alternativas": [
+          "o país exportava petróleo.",
+          "derrubou o preço e as vendas do café.",
+          "acabou com a escravidão.",
+          "causou a Proclamação da República.",
+          "o Brasil não tinha comércio exterior."
+        ],
+        "passos": [
+          "Com a crise, os compradores de café sumiram e o preço caiu."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o Brasil não exportava petróleo.",
+          "C é de 1888.",
+          "D é de 1889.",
+          "E: o Brasil dependia da exportação de café."
+        ]
+      },
+      {
+        "suporte": [
+          "O extermínio de cerca de 6 milhões de judeus pelo regime nazista"
+        ],
+        "comando": "é chamado de",
+        "alternativas": [
+          "Reforma.",
+          "Inquisição.",
+          "Holocausto.",
+          "Guerra Fria.",
+          "Partilha da África."
+        ],
+        "passos": [
+          "O genocídio nazista é o Holocausto."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A é religiosa, do século XVI.",
+          "B é eclesiástica, medieval e moderna.",
+          "D é posterior.",
+          "E é do século XIX."
+        ]
+      },
+      {
+        "suporte": [
+          "Após 1945, EUA e URSS disputaram influência no mundo sem guerra direta entre eles."
+        ],
+        "comando": "Esse período é a",
+        "alternativas": [
+          "Belle Époque.",
+          "Guerra dos Cem Anos.",
+          "Revolução Industrial.",
+          "Guerra Fria.",
+          "Idade Média."
+        ],
+        "passos": [
+          "1947–1991: Guerra Fria."
+        ],
+        "correta": "D",
+        "distratores": [
+          "A é anterior a 1914.",
+          "B é medieval.",
+          "C é dos séculos XVIII e XIX.",
+          "E é anterior."
+        ]
+      },
+      {
+        "suporte": [
+          "A queda do Muro de Berlim, em 1989,"
+        ],
+        "comando": "simbolizou",
+        "alternativas": [
+          "o início da Segunda Guerra.",
+          "a criação da ONU.",
+          "o fim da Guerra Fria.",
+          "a independência da Índia.",
+          "a unificação italiana."
+        ],
+        "passos": [
+          "O muro dividia o bloco capitalista do socialista."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A começou em 1939.",
+          "B é de 1945.",
+          "D é de 1947.",
+          "E é do século XIX."
+        ]
+      },
+      {
+        "suporte": [
+          "A Constituição de 1988 é chamada de Constituição Cidadã."
+        ],
+        "comando": "Ela",
+        "alternativas": [
+          "instituiu o Poder Moderador.",
+          "ampliou direitos sociais e consolidou a redemocratização.",
+          "proibiu o voto feminino.",
+          "criou o Estado Novo.",
+          "restabeleceu a monarquia."
+        ],
+        "passos": [
+          "Promulgada após a ditadura, ampliou direitos."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é de 1824.",
+          "C: o voto feminino é de 1932.",
+          "D é de 1937.",
+          "E: o Brasil é república desde 1889."
+        ]
+      },
+      {
+        "suporte": [
+          "Em 1948, a ONU aprovou um documento que garante dignidade, liberdade e igualdade a todas as pessoas."
+        ],
+        "comando": "Esse documento é a",
+        "alternativas": [
+          "Declaração Universal dos Direitos Humanos.",
+          "Lei Áurea.",
+          "Carta de Pero Vaz de Caminha.",
+          "CLT.",
+          "Constituição de 1824."
+        ],
+        "passos": [
+          "1948: Declaração Universal dos Direitos Humanos."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B é brasileira, de 1888.",
+          "C é de 1500.",
+          "D é brasileira, de 1943.",
+          "E é do Império."
+        ]
+      }
     ]
   }
 }

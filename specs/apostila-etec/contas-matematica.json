@@ -420,5 +420,82 @@
       "esperado": 1500
     }
   ],
-  "celulas-e-corpo-humano": []
+  "celulas-e-corpo-humano": [],
+  "numeros-operacoes-potencias-e-unidades": [
+    {
+      "rotulo": "etec-2026-1-q019",
+      "conta": "50*0.000001*100",
+      "esperado": 0.005
+    },
+    {
+      "rotulo": "etec-2023-2-q023",
+      "conta": "7200000*60*24",
+      "esperado": 10368000000
+    },
+    {
+      "rotulo": "etec-2020-1-q001",
+      "conta": "3*79",
+      "esperado": 237
+    },
+    {
+      "rotulo": "etec-2019-1-q040",
+      "conta": "450/6*3",
+      "esperado": 225
+    },
+    {
+      "rotulo": "etec-2017-2-q009",
+      "conta": "1/16/2",
+      "esperado": 0.03125
+    },
+    {
+      "rotulo": "etec-2014-2-q016",
+      "conta": "30-10-15/60*60",
+      "esperado": 5
+    },
+    {
+      "rotulo": "etec-2016-1-q012",
+      "conta": "4*0.25*100000/20",
+      "esperado": 5000
+    },
+    {
+      "rotulo": "etec-2016-2-q027",
+      "conta": "62200/40*60",
+      "esperado": 93300
+    },
+    {
+      "rotulo": "etec-2013-2-q008",
+      "conta": "93.4*50/48",
+      "esperado": 97.3
+    },
+    {
+      "rotulo": "etec-2020-1-q040",
+      "conta": "0.9*500/100",
+      "esperado": 4.5
+    },
+    {
+      "rotulo": "exemplo-1",
+      "conta": "320000*2000",
+      "esperado": 640000000
+    },
+    {
+      "rotulo": "exemplo-2",
+      "conta": "600*2/5*3/4",
+      "esperado": 180
+    },
+    {
+      "rotulo": "exemplo-3",
+      "conta": "2*2*3*3",
+      "esperado": 36
+    },
+    {
+      "rotulo": "exemplo-4",
+      "conta": "72000/3600",
+      "esperado": 20
+    },
+    {
+      "rotulo": "exemplo-5",
+      "conta": "2*2*2*3*3*5",
+      "esperado": 360
+    }
+  ]
 }

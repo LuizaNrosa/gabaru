@@ -1283,5 +1283,311 @@
       "Prisma: $V = a \\cdot b \\cdot c$; cilindro: $V = \\pi r^2 h$ (raio, não diâmetro).",
       "1 m³ $= 1\\,000$ L; 1 cm³ $= 1$ mL."
     ]
+  },
+  "numeros-operacoes-potencias-e-unidades": {
+    "materia": "Matéria 3 · Matemática",
+    "introducao": "Este capítulo junta a base de toda conta da prova: números primos, frações, potências, notação científica e conversão de unidades de tempo e de medida. Raramente a ETEC pergunta \"calcule a potência\"; ela pergunta quantos litros a Sabesp trata por dia ou quanto tempo dura uma eleição. A conta é simples. Saber organizá-la é o que separa o acerto do erro.",
+    "codigos": [
+      "MA01",
+      "MA02",
+      "MA05"
+    ],
+    "raioX": "Os itens pedem: reconhecer números primos; comparar frações e entender metades sucessivas; escrever números em notação científica; converter horas, minutos e segundos, quilômetros e centímetros, litros por segundo em litros por dia. Os distratores costumam errar uma potência de 10 ou esquecer uma etapa da conversão.",
+    "intuicao": [
+      "Número primo tem exatamente dois divisores: 1 e ele mesmo. O 2 é o único primo par.",
+      "Fração é divisão: $\\tfrac{3}{4}$ de algo é \"divide por 4 e pega 3\".",
+      "Notação científica é um número entre 1 e 10 vezes uma potência de 10.",
+      "Para converter, escreva a unidade junto do número e cancele como numa fração."
+    ],
+    "teoria": [
+      {
+        "titulo": "Conjuntos numéricos",
+        "texto": "• Naturais ($\\mathbb{N}$): 0, 1, 2, 3, …\n• Inteiros ($\\mathbb{Z}$): naturais e negativos: …, −2, −1, 0, 1, 2, …\n• Racionais ($\\mathbb{Q}$): podem ser escritos como fração $\\tfrac{a}{b}$, com $b \\neq 0$. Incluem decimais finitos (0,25) e dízimas periódicas (0,333…).\n• Irracionais: não viram fração; dízimas infinitas sem período: $\\sqrt{2}$, $\\pi$.\n• Reais ($\\mathbb{R}$): racionais e irracionais juntos; todos os pontos da reta numérica."
+      },
+      {
+        "titulo": "Ordem das operações",
+        "texto": "Numa expressão, resolva nesta ordem:\n\n• parênteses, colchetes e chaves, de dentro para fora;\n• potências e raízes;\n• multiplicações e divisões, da esquerda para a direita;\n• somas e subtrações, da esquerda para a direita.\n\n$2 + 3 \\cdot 4^2 = 2 + 3 \\cdot 16 = 2 + 48 = 50$\n\nRegra de sinais na multiplicação e na divisão: sinais iguais dão positivo; sinais diferentes dão negativo."
+      },
+      {
+        "titulo": "Divisibilidade e números primos",
+        "texto": "Critérios rápidos:\n\n• por 2: termina em número par;\n• por 3: a soma dos algarismos é múltipla de 3 (237: 2 + 3 + 7 = 12, então 237 é divisível por 3);\n• por 5: termina em 0 ou 5;\n• por 10: termina em 0.\n\nPrimos menores que 30: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29. Há apenas quatro primos menores que 10.\n\nO 1 não é primo nem composto. Todo número composto pode ser decomposto em fatores primos:\n\n$360 = 2^3 \\cdot 3^2 \\cdot 5$"
+      },
+      {
+        "titulo": "MMC e MDC",
+        "texto": "• MMC (mínimo múltiplo comum): o menor número que é múltiplo de todos. Resolve problemas de \"quando vão coincidir de novo\".\n• MDC (máximo divisor comum): o maior número que divide todos. Resolve problemas de \"dividir em partes iguais, o maior possível\".\n\nExemplo: um ônibus passa a cada 12 min e outro a cada 18 min. $12 = 2^2 \\cdot 3$ e $18 = 2 \\cdot 3^2$. O MMC pega cada fator com o maior expoente: $2^2 \\cdot 3^2 = 36$. Eles coincidem a cada 36 minutos."
+      },
+      {
+        "titulo": "Frações e decimais",
+        "texto": "• Fração de um número: $\\tfrac{3}{4}$ de 80 é $80 \\div 4 \\cdot 3 = 60$.\n• Somar ou subtrair: iguale os denominadores. $\\tfrac{1}{2} + \\tfrac{1}{3} = \\tfrac{3}{6} + \\tfrac{2}{6} = \\tfrac{5}{6}$.\n• Multiplicar: numerador por numerador, denominador por denominador.\n• Dividir: multiplique pelo inverso da segunda.\n• Comparar: transforme em decimal ou iguale os denominadores.\n\nMetades sucessivas formam a sequência $1, \\tfrac{1}{2}, \\tfrac{1}{4}, \\tfrac{1}{8}, \\tfrac{1}{16}, \\tfrac{1}{32}, \\tfrac{1}{64}$. É assim que funcionam as figuras rítmicas da música: semibreve, mínima, semínima, colcheia, semicolcheia, fusa e semifusa.\n\nPorcentagem também é fração: $0{,}9\\% = \\tfrac{0{,}9}{100}$."
+      },
+      {
+        "titulo": "Potências e raízes",
+        "texto": "$a^n$ é $a$ multiplicado por ele mesmo $n$ vezes. Propriedades:\n\n• $a^m \\cdot a^n = a^{m+n}$\n• $a^m \\div a^n = a^{m-n}$\n• $(a^m)^n = a^{m \\cdot n}$\n• $a^0 = 1$ (com $a \\neq 0$)\n• $a^{-n} = \\dfrac{1}{a^n}$: $10^{-6} = 0{,}000001$\n\nRaiz quadrada é a operação inversa do quadrado: $\\sqrt{81} = 9$ porque $9^2 = 81$."
+      },
+      {
+        "titulo": "Notação científica",
+        "texto": "Escreve-se $N = a \\cdot 10^n$, com $1 \\le a < 10$.\n\n• 72 000 000 = $7{,}2 \\cdot 10^7$ (a vírgula andou 7 casas para a esquerda).\n• 0,005 = $5 \\cdot 10^{-3}$ (andou 3 casas para a direita).\n\nMultiplicar: multiplique as mantissas e some os expoentes.\n\n$(1{,}2 \\cdot 10^5) \\cdot 60 = 72 \\cdot 10^5 = 7{,}2 \\cdot 10^6$\n\nPrefixos que aparecem: quilo ($10^3$), mega ($10^6$), giga ($10^9$), mili ($10^{-3}$), micro ($\\mu$, $10^{-6}$), nano ($10^{-9}$)."
+      },
+      {
+        "titulo": "Unidades de medida e de tempo",
+        "texto": "• 1 km = 1 000 m = 100 000 cm.\n• 1 h = 60 min = 3 600 s; 1 dia = 24 h = 1 440 min.\n• 1 L = 1 000 mL; 1 m³ = 1 000 L.\n• Velocidade: $72$ km/h $= \\dfrac{72}{3{,}6} = 20$ m/s.\n\nPara converter tempo em horas e minutos, divida os minutos por 60: 225 min = 3 h e 45 min, porque $3 \\cdot 60 = 180$ e sobram 45.\n\nDistância = velocidade × tempo. A 4 km/h, em 15 min (um quarto de hora), percorre-se 1 km."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Situação real com várias conversões em sequência (L/s → L/min → L/dia).\n• Resposta em notação científica ou com prefixos ($\\mu$T, milhões, bilhões).\n• Primos e divisibilidade com afirmações para julgar.\n• Tempo total de um processo dividido igualmente entre várias filas.\n\nAnote a unidade em cada passo. Quase todo distrator é o resultado de uma etapa esquecida."
+      }
+    ],
+    "armadilha": "Esquecer uma conversão no meio do caminho: calcular por minuto e responder como se fosse por dia, ou trocar 60 por 100 ao passar de minutos para horas. Em notação científica, a armadilha é andar a vírgula para o lado errado.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Um servidor processa $3{,}2 \\cdot 10^5$ mensagens por segundo durante $2 \\cdot 10^3$ segundos."
+        ],
+        "comando": "O total de mensagens processadas é",
+        "alternativas": [
+          "$6{,}4 \\cdot 10^8$",
+          "$6{,}4 \\cdot 10^{15}$",
+          "$5{,}2 \\cdot 10^8$",
+          "$1{,}6 \\cdot 10^2$",
+          "$6{,}4 \\cdot 10^7$"
+        ],
+        "passos": [
+          "Multiplique as mantissas: $3{,}2 \\cdot 2 = 6{,}4$.",
+          "Some os expoentes: $10^{5+3} = 10^8$.",
+          "Total: $6{,}4 \\cdot 10^8$."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B multiplica os expoentes em vez de somar.",
+          "C soma as mantissas.",
+          "D divide em vez de multiplicar.",
+          "E erra o expoente por uma casa."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma escola tem 600 alunos. Dois quintos estudam de manhã e, desses, três quartos vão de ônibus."
+        ],
+        "comando": "Quantos alunos da manhã vão de ônibus?",
+        "alternativas": [
+          "240",
+          "180",
+          "450",
+          "360",
+          "90"
+        ],
+        "passos": [
+          "Manhã: $\\tfrac{2}{5} \\cdot 600 = 240$.",
+          "De ônibus: $\\tfrac{3}{4} \\cdot 240 = 180$."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A para no primeiro passo.",
+          "C aplica $\\tfrac{3}{4}$ aos 600.",
+          "D é $\\tfrac{3}{5}$ de 600.",
+          "E é um quarto da manhã, não três quartos... na verdade $\\tfrac{3}{8}$ de 240."
+        ]
+      },
+      {
+        "suporte": [
+          "Dois ônibus saem juntos do terminal às 8h. Um volta a cada 12 minutos e o outro a cada 18 minutos."
+        ],
+        "comando": "Eles voltam a sair juntos às",
+        "alternativas": [
+          "8h30.",
+          "8h36.",
+          "8h54.",
+          "11h36.",
+          "8h06."
+        ],
+        "passos": [
+          "Procura-se o MMC de 12 e 18.",
+          "$12 = 2^2 \\cdot 3$ e $18 = 2 \\cdot 3^2$, então MMC $= 2^2 \\cdot 3^2 = 36$.",
+          "8h + 36 min = 8h36."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A soma 12 + 18 = 30.",
+          "C usa 54, que é múltiplo de 18, mas não de 12.",
+          "D multiplica 12 × 18 = 216 min.",
+          "E usa o MDC (6)."
+        ]
+      },
+      {
+        "suporte": [
+          "Um trem viaja a 72 km/h."
+        ],
+        "comando": "Em metros por segundo, a velocidade é",
+        "alternativas": [
+          "7,2 m/s.",
+          "20 m/s.",
+          "259,2 m/s.",
+          "72 m/s.",
+          "1,2 m/s."
+        ],
+        "passos": [
+          "72 km = 72 000 m; 1 h = 3 600 s.",
+          "$\\dfrac{72\\,000}{3\\,600} = 20$ m/s."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A divide por 10.",
+          "C multiplica por 3,6.",
+          "D não converte.",
+          "E divide por 60, como se fosse minuto."
+        ]
+      },
+      {
+        "suporte": [
+          "Considere as afirmações: (I) 51 é primo; (II) 2 é o único primo par; (III) 360 = $2^3 \\cdot 3^2 \\cdot 5$."
+        ],
+        "comando": "É correto o que se afirma em",
+        "alternativas": [
+          "I apenas.",
+          "II e III apenas.",
+          "I e II apenas.",
+          "I e III apenas.",
+          "I, II e III."
+        ],
+        "passos": [
+          "51: 5 + 1 = 6, divisível por 3; $51 = 3 \\cdot 17$. I é falsa.",
+          "Todo par maior que 2 é divisível por 2. II é verdadeira.",
+          "$8 \\cdot 9 \\cdot 5 = 360$. III é verdadeira."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A aceita a única falsa.",
+          "C aceita I, que é falsa.",
+          "D aceita I, que é falsa.",
+          "E aceita I, que é falsa."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q019",
+        "correta": "E",
+        "justificativa": "O campo da Terra, 50 µT $= 5 \\cdot 10^{-5}$ T, é um centésimo do ímã. O ímã tem $5 \\cdot 10^{-5} \\cdot 100 = 5 \\cdot 10^{-3}$ T.",
+        "distratores": [
+          "A divide por 100 em vez de multiplicar.",
+          "B não corresponde a 100 vezes 50 µT.",
+          "C é o próprio campo da Terra, sem multiplicar por 100.",
+          "D tem mantissa 0,5, dez vezes menor que o valor certo."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q023",
+        "correta": "D",
+        "justificativa": "Por minuto: $7{,}2 \\cdot 10^6$ L. Por dia: $7{,}2 \\cdot 10^6 \\cdot 1\\,440 \\approx 1{,}04 \\cdot 10^{10}$ L, ou seja, cerca de $1{,}0 \\cdot 10^{10}$ L.",
+        "distratores": [
+          "A está próximo do volume de 1 minuto.",
+          "B está perto do volume de cerca de 14 minutos.",
+          "C está perto do volume de cerca de 2 horas e meia.",
+          "E é dez vezes o volume de um dia."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q001",
+        "correta": "E",
+        "justificativa": "Os primos menores que 10 são 2, 3, 5 e 7: exatamente quatro.",
+        "distratores": [
+          "A: a posição do número no quadrinho não diz se ele é primo.",
+          "B: 16 é par, divisível por 2.",
+          "C: 237 = 3 × 79.",
+          "D: 2 é primo e par, e 5 termina em 5."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q040",
+        "correta": "B",
+        "justificativa": "Cada seção atende $450 \\div 6 = 75$ eleitores. $75 \\cdot 3 = 225$ min $= 3$ h $45$ min.",
+        "distratores": [
+          "A acrescenta 10 minutos indevidos.",
+          "C não vem da divisão por 6 seções.",
+          "D não vem da divisão por 6 seções.",
+          "E equivale a 75 minutos: conta só um minuto por eleitor."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q009",
+        "correta": "D",
+        "justificativa": "A partir da mínima, cada figura dura metade da anterior: 1, 1/2, 1/4, 1/8, 1/16, 1/32, 1/64.",
+        "distratores": [
+          "A: a fusa (1/32) dura metade da semicolcheia (1/16), não o dobro.",
+          "B: a mínima (1/2) dura o dobro da semínima (1/4).",
+          "C: duas semínimas somam 1/2, a duração da mínima, não da colcheia.",
+          "E inverte a relação: cada figura dura a metade, não o dobro."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q016",
+        "correta": "B",
+        "justificativa": "A oitava entrega tem 30 min, mas 10 já foram perdidos. O trajeto de 15 km a 60 km/h leva 15 min. Sobra $30 - 10 - 15 = 5$ min.",
+        "distratores": [
+          "A não resulta das contas de tempo.",
+          "C esquece o tempo do trajeto ou conta o atraso duas vezes.",
+          "D é o tempo do trajeto.",
+          "E esquece o atraso de 10 minutos."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q012",
+        "correta": "D",
+        "topicoComplementar": "MA03",
+        "justificativa": "Em 15 min (1/4 h) a 4 km/h, a máquina anda 1 km = 100 000 cm. Um grão a cada 20 cm: $100\\,000 \\div 20 = 5\\,000$ grãos.",
+        "distratores": [
+          "A não resulta da distância percorrida.",
+          "B é cerca da metade do valor certo.",
+          "C não resulta da distância percorrida.",
+          "E usa 22,5 min ou um espaçamento menor que 20 cm."
+        ]
+      },
+      {
+        "id": "etec-2016-2-q027",
+        "correta": "E",
+        "topicoComplementar": "MA03",
+        "justificativa": "Vazão das Cataratas: $62\\,200 \\div 40 = 1\\,555$ m³/s. Em um minuto: $1\\,555 \\cdot 60 = 93\\,300$ m³/min.",
+        "distratores": [
+          "A não resulta de 62 200 ÷ 40 × 60.",
+          "B não resulta de 62 200 ÷ 40 × 60.",
+          "C não resulta de 62 200 ÷ 40 × 60.",
+          "D não resulta de 62 200 ÷ 40 × 60."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q008",
+        "correta": "D",
+        "topicoComplementar": "MA03",
+        "justificativa": "Há 50 mulheres para 48 homens: $93{,}4 \\cdot \\dfrac{50}{48} \\approx 97{,}3$ milhões.",
+        "distratores": [
+          "A subtrai em vez de aumentar.",
+          "B usa a razão invertida (48/50).",
+          "C não resulta de 93,4 × 50/48.",
+          "E não resulta de 93,4 × 50/48."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q040",
+        "correta": "B",
+        "topicoComplementar": "MA03",
+        "justificativa": "O soro a 0,9% tem 0,9 g de sal em 100 mL. Em 500 mL, cinco vezes mais: $0{,}9 \\cdot 5 = 4{,}5$ g.",
+        "distratores": [
+          "A divide por 10 a mais.",
+          "C multiplica por 10 a mais.",
+          "D é a massa em 1 litro.",
+          "E é a massa em 100 mL."
+        ]
+      }
+    ],
+    "resumo": [
+      "Primo: só dois divisores. 2 é o único par. 1 não é primo.",
+      "Divisível por 3: soma dos algarismos múltipla de 3.",
+      "MMC: quando coincidem. MDC: maior parte igual.",
+      "Fração de um número: divide pelo denominador, multiplica pelo numerador.",
+      "$a^m \\cdot a^n = a^{m+n}$; $10^{-n}$ é decimal.",
+      "Notação científica: $a \\cdot 10^n$, com $1 \\le a < 10$.",
+      "1 h = 60 min; 1 dia = 1 440 min; km/h ÷ 3,6 = m/s.",
+      "Anote a unidade em cada passo."
+    ]
   }
 }

@@ -1710,5 +1710,356 @@
       "Relações: mutualismo (+ +), comensalismo e inquilinismo (+ 0), predatismo e parasitismo (+ −), competição (− −).",
       "Controle biológico usa inimigos naturais; espécie invasora sem predadores desequilibra o ecossistema."
     ]
+  },
+  "reproducao-heranca-e-diversidade": {
+    "materia": "Matéria 2 · Ciências da Natureza · Biologia",
+    "introducao": "Este capítulo reúne a diversidade dos seres vivos (como se classificam plantas e animais), a reprodução humana, a herança genética e a evolução. O assunto aparece em 17 das 23 provas recentes, quase sempre a partir de um texto sobre animais e plantas brasileiros, fósseis ou uma característica hereditária. A chave é reconhecer as características que definem cada grupo e usar o raciocínio de dominante e recessivo.",
+    "codigos": [
+      "BI04"
+    ],
+    "raioX": "A ETEC descreve animais ou plantas (do Pantanal, da Amazônia, de um jardim botânico) e pede a característica correta do grupo; apresenta uma tabela de características e pede o grupo; pergunta sobre fósseis e evolução; ou traz uma característica genética recessiva, como o albinismo, e pede a combinação dos pais. Os distratores atribuem a um grupo a característica de outro (aranha com antenas, planta com flor sem vasos, mamífero com ovo de casca dura).",
+    "intuicao": [
+      "Para classificar um animal, olhe esqueleto (interno ou externo), patas, respiração, temperatura do corpo e forma de reprodução.",
+      "Para classificar uma planta, faça quatro perguntas em ordem: tem vasos condutores? Tem sementes? As sementes ficam dentro de frutos? Tem flores?",
+      "Característica recessiva só aparece quando a pessoa recebe o gene recessivo dos dois pais.",
+      "Fóssil é qualquer vestígio preservado de um ser vivo do passado; o que se preserva com mais facilidade são as partes duras."
+    ],
+    "teoria": [
+      {
+        "titulo": "Classificar para entender a diversidade",
+        "texto": "Os cientistas agrupam os seres vivos por semelhanças, especialmente anatômicas e evolutivas. As grandes divisões usadas no Ensino Fundamental são os reinos:\n\n• Bactérias (moneras): seres unicelulares sem núcleo organizado.\n• Protistas: unicelulares com núcleo (protozoários) e algas.\n• Fungos: cogumelos, bolores, leveduras. Não fazem fotossíntese; absorvem nutrientes do ambiente, muitos como decompositores.\n• Plantas: pluricelulares, fazem fotossíntese.\n• Animais: pluricelulares, heterótrofos, a maioria com movimento.\n\nO nome científico de uma espécie tem duas palavras em latim, a primeira com inicial maiúscula (o gênero): Myocastor coypus (ratão-do-banhado), Agouti paca (paca), Pterois volitans (peixe-leão)."
+      },
+      {
+        "titulo": "Os grupos de plantas",
+        "texto": "As plantas se dividem em quatro grupos, do mais simples ao mais complexo. Cada grupo acrescenta uma novidade.\n\n• Briófitas (musgos): pequenas, sem vasos condutores de seiva. A água passa de célula para célula, por isso vivem em locais úmidos e sombreados. Fixam-se por rizoides. Reproduzem-se por esporos. Não têm sementes, flores nem frutos.\n• Pteridófitas (samambaias, avencas): têm vasos condutores, por isso podem ser maiores. Ainda sem sementes; reproduzem-se por esporos (os pontinhos marrons sob as folhas).\n• Gimnospermas (pinheiros, araucárias, ciprestes): têm vasos e sementes, mas as sementes ficam “nuas”, sem fruto. O pinhão é a semente da araucária, não um fruto.\n• Angiospermas (ipê, feijão, milho, roseira, maracujá, laranjeira): têm vasos, sementes, flores e frutos que envolvem as sementes. São o grupo mais numeroso e o que nos alimenta.\n\nResumo em perguntas: sem vasos → briófita. Com vasos e sem sementes → pteridófita. Com sementes sem fruto → gimnosperma. Com sementes dentro de frutos → angiosperma.\n\nGimnospermas e angiospermas têm em comum a presença de sementes. O Brasil é o país com a maior riqueza de plantas do mundo, e quase metade das espécies é endêmica, ou seja, só existe aqui."
+      },
+      {
+        "titulo": "Adaptações das plantas ao ambiente",
+        "texto": "A forma das plantas revela o ambiente em que vivem.\n\n• Caatinga (clima semiárido): folhas pequenas ou transformadas em espinhos, que reduzem a perda de água por transpiração; caules que armazenam água (cactos); muitas plantas perdem as folhas na seca; raízes profundas ou espalhadas.\n• Floresta Amazônica e Mata Atlântica (úmidas): árvores altas, folhas grandes e sempre verdes, muitas com ponta afilada “em goteira” para escorrer a água da chuva; plantas epífitas sobre os galhos.\n• Manguezal: raízes respiratórias (pneumatóforos) que saem da lama pobre em oxigênio.\n• Plantas aquáticas: tecidos com espaços cheios de ar que ajudam a flutuar (vitória-régia).\n\nAdaptações são características que aumentam a chance de sobrevivência e reprodução num ambiente. Elas resultam da seleção natural ao longo de muitas gerações."
+      },
+      {
+        "titulo": "Invertebrados: atenção aos artrópodes",
+        "texto": "Invertebrados não têm coluna vertebral. Os grupos mais citados são poríferos (esponjas), cnidários (águas-vivas, corais), platelmintos (tênia), nematódeos (lombriga), anelídeos (minhoca, sanguessuga), moluscos (caracol, lesma, polvo, lula, mexilhão), equinodermos (estrela-do-mar) e artrópodes.\n\nArtrópodes são o maior grupo de animais. Todos têm exoesqueleto (esqueleto externo rígido, trocado na muda ou ecdise), patas articuladas e corpo segmentado. As classes se distinguem assim:\n\n• Insetos (formiga, abelha, mosca, barata, gafanhoto, libélula, borboleta): 3 pares de patas, corpo em cabeça, tórax e abdome, 1 par de antenas; muitos têm asas.\n• Aracnídeos (aranha, escorpião, carrapato, ácaro): 4 pares de patas, corpo em cefalotórax e abdome, sem antenas, com quelíceras.\n• Crustáceos (camarão, siri, caranguejo, tatuzinho): 2 pares de antenas, muitas patas, a maioria aquática, respiração por brânquias.\n• Miriápodes (lacraia ou centopeia, piolho-de-cobra): muitos segmentos, com muitas patas.\n\nPegadinhas: aranha não é inseto e não tem antenas; lesma e caracol são moluscos, não artrópodes; minhoca é anelídeo, com corpo segmentado, e se move contraindo músculos de cada anel."
+      },
+      {
+        "titulo": "Vertebrados: os cinco grupos",
+        "texto": "Vertebrados têm esqueleto interno (endoesqueleto) com coluna vertebral.\n\n• Peixes: respiração por brânquias, nadadeiras, corpo geralmente com escamas. Muitos têm bexiga natatória (peixes ósseos); tubarões e raias não. Temperatura variável.\n• Anfíbios (sapo, rã, perereca): pele fina e úmida, larva aquática (girino) com brânquias e adulto com pulmões e respiração pela pele; fecundação geralmente externa e metamorfose.\n• Répteis (jacaré, cobra, lagarto, tartaruga): pele seca com escamas ou placas, respiração pulmonar, ovos com casca resistente postos em terra.\n• Aves: penas, bico sem dentes, ossos leves, ovos com casca calcária; temperatura do corpo constante.\n• Mamíferos: pelos e glândulas mamárias, a maioria com placenta e desenvolvimento dentro do útero, respiração pulmonar, temperatura constante. Inclui os aquáticos, como baleia, golfinho, boto e peixe-boi, que respiram ar.\n\nTemperatura do corpo:\n\n• Endotérmicos (homeotérmicos): aves e mamíferos mantêm a temperatura constante produzindo calor com o próprio metabolismo.\n• Ectotérmicos (heterotérmicos): peixes, anfíbios e répteis têm a temperatura que acompanha a do ambiente.\n\nMamíferos roedores (paca, capivara, ratão-do-banhado) têm incisivos fortes que crescem sempre. Alguns mamíferos hibernam: na hibernação, frequência cardíaca, respiração e temperatura do corpo caem muito, poupando energia no frio.\n\nTodos os animais citados, de peixes a mamíferos, dependem de oxigênio para a respiração celular, que libera a energia da glicose."
+      },
+      {
+        "titulo": "Reprodução sexuada e assexuada",
+        "texto": "• Assexuada: um só indivíduo origina descendentes idênticos a ele. Bactérias se dividem ao meio; batatas e cana brotam de pedaços do caule; algumas plantas brotam de folhas. É rápida, mas não gera variedade.\n• Sexuada: envolve a união de gametas (célula reprodutiva masculina e feminina) na fecundação. Os descendentes misturam características dos pais, o que gera variabilidade genética e ajuda as espécies a se adaptarem.\n\nFecundação externa: ocorre na água (maioria dos peixes e anfíbios). Fecundação interna: dentro do corpo da fêmea (répteis, aves, mamíferos, insetos).\n\nDesenvolvimento direto: o filhote nasce parecido com o adulto. Indireto: há fase de larva e metamorfose (sapo, borboleta).\n\nNas plantas com flores, a polinização leva o pólen até a parte feminina da flor, por vento, água ou animais (abelhas, beija-flores, morcegos). Na polinização cruzada, o pólen vai para outra planta da mesma espécie, aumentando a variabilidade."
+      },
+      {
+        "titulo": "Reprodução humana e puberdade",
+        "texto": "Na puberdade, hormônios sexuais provocam mudanças no corpo:\n\n• Nas meninas, o estrógeno (produzido nos ovários) estimula o desenvolvimento das mamas, o alargamento dos quadris, o surgimento de pelos e o início da menstruação.\n• Nos meninos, a testosterona (produzida nos testículos) estimula o crescimento de pelos, o engrossamento da voz, o aumento da massa muscular e a produção de espermatozoides.\n\nCiclo menstrual: a cada mês, um ovário libera um ovócito (ovulação), que segue pela tuba uterina. Se encontrar espermatozoides, pode ocorrer a fecundação, e o embrião se implanta no útero. Se não houver fecundação, a camada interna do útero se desprende: é a menstruação.\n\nMétodos contraceptivos:\n\n• Camisinha (masculina ou feminina): impede o encontro dos gametas e é o único que também protege contra infecções sexualmente transmissíveis.\n• Pílula anticoncepcional: hormônios que impedem a ovulação.\n• DIU, diafragma, injeções e implantes.\n• Laqueadura (corte das tubas) e vasectomia (corte dos canais deferentes): definitivos.\n• Pílula do dia seguinte: uso de emergência, não deve ser rotina.\n• Tabelinha: pouco segura."
+      },
+      {
+        "titulo": "Herança genética: genes, dominante e recessivo",
+        "texto": "As características hereditárias são determinadas por genes, trechos do DNA presentes nos cromossomos. Recebemos uma cópia de cada gene do pai e outra da mãe.\n\n• Gene dominante (letra maiúscula, A): basta uma cópia para a característica aparecer.\n• Gene recessivo (letra minúscula, a): a característica só aparece com duas cópias (aa).\n• Homozigoto: duas cópias iguais (AA ou aa). Heterozigoto: cópias diferentes (Aa).\n\nExemplo: o albinismo (falta de melanina na pele, nos olhos e nos pelos) é recessivo. Uma pessoa albina é aa. Pais não albinos podem ter um filho albino se os dois forem heterozigotos (Aa × Aa):\n\n• Combinações possíveis dos filhos: AA, Aa, Aa, aa.\n• Chance de cada filho ser albino: 1 em 4 (25%).\n\nSe um dos pais é albino (aa) e o outro é homozigoto dominante (AA), todos os filhos serão Aa, sem albinismo.\n\nCaracterísticas adquiridas na vida (uma cicatriz, músculos de academia, uma infecção, desnutrição) não são transmitidas pelos genes. Algumas doenças têm componente hereditário (predisposição a cardiopatias), mas também dependem de hábitos de vida."
+      },
+      {
+        "titulo": "Evolução e fósseis",
+        "texto": "As espécies mudam ao longo do tempo: é a evolução. As provas vêm dos fósseis, das semelhanças anatômicas e do DNA.\n\nFósseis são restos ou vestígios de seres que viveram no passado, preservados em rochas: ossos, dentes, conchas, carapaças, pegadas, troncos petrificados, impressões de folhas. Em geral, as partes moles se decompõem, e as partes duras, soterradas por sedimentos, são preservadas. Fósseis de plantas também existem.\n\n• Camadas de rocha mais profundas costumam ser mais antigas.\n• Em rochas muito antigas aparecem espécies que não existem mais, e não aparecem espécies atuais.\n• Os dinossauros foram extintos há cerca de 66 milhões de anos, muito antes do surgimento dos primeiros hominídeos. Desenhos de pessoas convivendo com dinossauros são erros científicos.\n\nSeleção natural (Charles Darwin): numa população há variações entre os indivíduos. Os que têm características mais vantajosas naquele ambiente sobrevivem e se reproduzem mais, passando essas características adiante. Com o tempo, a população muda. Darwin reuniu muitas observações nas ilhas Galápagos.\n\nNão é o indivíduo que “se esforça” para mudar: a seleção atua sobre variações que já existem na população."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Descrição de animais de um bioma e a característica correta do grupo (mamíferos endotérmicos, répteis pulmonados, insetos com três pares de patas).\n• Tabela de características para identificar o grupo (aracnídeos × insetos; angiospermas × gimnospermas).\n• Plantas: vasos condutores, sementes, frutos e flores.\n• Fósseis e erro científico em tirinha (dinossauros e humanos).\n• Herança recessiva: combinação dos pais.\n• Puberdade, hormônios e métodos contraceptivos.\n• Adaptações ao ambiente (caatinga, hibernação).\n\nPara eliminar alternativas, procure a característica atribuída ao grupo errado. É o tipo de distrator mais frequente neste assunto."
+      }
+    ],
+    "armadilha": "Atribuir a um grupo a característica de outro: aranha com antenas, réptil com pelos, angiosperma sem fruto, musgo com vasos condutores, boto com brânquias. Confira cada característica da alternativa contra a ficha do grupo, e não só a primeira.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Num passeio, um estudante encontrou um animal com corpo dividido em cefalotórax e abdome, quatro pares de patas e sem antenas."
+        ],
+        "comando": "O animal pertence ao grupo dos",
+        "alternativas": [
+          "insetos.",
+          "aracnídeos.",
+          "crustáceos.",
+          "miriápodes.",
+          "anelídeos."
+        ],
+        "passos": [
+          "Corpo em cefalotórax e abdome e ausência de antenas são marcas dos aracnídeos.",
+          "Quatro pares de patas confirmam.",
+          "É um aracnídeo, como uma aranha ou um escorpião."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: insetos têm três pares de patas, antenas e corpo em cabeça, tórax e abdome.",
+          "C: crustáceos têm dois pares de antenas.",
+          "D: miriápodes têm muitos segmentos e muitas patas.",
+          "E: anelídeos não têm patas articuladas."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma planta tem vasos condutores de seiva, produz sementes e não forma frutos. Suas sementes ficam expostas em estruturas chamadas cones (pinhas)."
+        ],
+        "comando": "Essa planta é",
+        "alternativas": [
+          "uma briófita, como o musgo.",
+          "uma pteridófita, como a samambaia.",
+          "uma gimnosperma, como o pinheiro.",
+          "uma angiosperma, como o feijão.",
+          "uma alga, como a do fitoplâncton."
+        ],
+        "passos": [
+          "Tem vasos: não é briófita.",
+          "Tem sementes: não é pteridófita.",
+          "Sementes sem fruto: gimnosperma."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: musgos não têm vasos nem sementes.",
+          "B: samambaias têm vasos, mas não têm sementes.",
+          "D: angiospermas formam frutos.",
+          "E: algas não têm vasos nem sementes."
+        ]
+      },
+      {
+        "suporte": [
+          "A fibrose cística é uma doença hereditária recessiva. Um casal sem a doença tem um filho com fibrose cística."
+        ],
+        "comando": "A partir dessa informação, conclui-se que",
+        "alternativas": [
+          "os dois pais são homozigotos dominantes.",
+          "os dois pais são heterozigotos.",
+          "só o pai transmitiu o gene da doença.",
+          "o filho adquiriu a doença por uma infecção.",
+          "a doença é dominante, pois apareceu no filho."
+        ],
+        "passos": [
+          "Doença recessiva: o filho doente é aa e recebeu um gene “a” de cada pai.",
+          "Como os pais não têm a doença, cada um tem também um gene “A”.",
+          "Logo, os dois são heterozigotos (Aa)."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: pais AA não teriam gene “a” para transmitir.",
+          "C: o filho precisa receber um gene recessivo de cada pai.",
+          "D: doença hereditária não é transmitida por infecção.",
+          "E: se fosse dominante, um dos pais teria a doença."
+        ]
+      },
+      {
+        "suporte": [
+          "Paleontólogos encontraram, numa rocha de 100 milhões de anos, ossos e dentes de um réptil gigante, mas nenhum vestígio de pele ou músculos."
+        ],
+        "comando": "A ausência de pele e músculos se explica porque",
+        "alternativas": [
+          "esses animais não tinham partes moles.",
+          "as partes moles costumam se decompor antes de serem preservadas, enquanto as partes duras se fossilizam com mais facilidade.",
+          "ossos e dentes são produzidos depois da morte do animal.",
+          "só animais atuais formam fósseis.",
+          "os fósseis são formados somente por plantas."
+        ],
+        "passos": [
+          "Após a morte, bactérias e fungos decompõem rapidamente as partes moles.",
+          "Partes duras, como ossos e dentes, resistem mais e podem ser cobertas por sedimentos.",
+          "Por isso são os vestígios mais comuns."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: todos os vertebrados têm pele e músculos.",
+          "C: ossos e dentes se formam durante a vida.",
+          "D: fósseis são justamente de seres do passado.",
+          "E: há fósseis de animais e de plantas."
+        ]
+      },
+      {
+        "suporte": [
+          "Na Caatinga, muitas plantas têm folhas pequenas ou transformadas em espinhos e caules grossos que armazenam água."
+        ],
+        "comando": "Essas características são adaptações que",
+        "alternativas": [
+          "aumentam a transpiração para refrescar a planta.",
+          "reduzem a perda de água em um clima com chuvas escassas.",
+          "surgiram porque cada planta decidiu mudar durante a vida.",
+          "servem para captar mais luz em florestas sombreadas.",
+          "permitem respirar em solo alagado."
+        ],
+        "passos": [
+          "A Caatinga tem clima semiárido, com pouca chuva.",
+          "Folhas pequenas ou espinhos diminuem a superfície de transpiração; caules suculentos guardam água.",
+          "São adaptações selecionadas porque reduzem a perda de água."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A inverte o efeito: as adaptações reduzem a transpiração.",
+          "C: adaptações surgem por seleção natural ao longo de gerações, não por decisão do indivíduo.",
+          "D descreve o problema de florestas úmidas, não da Caatinga.",
+          "E descreve raízes de mangue (pneumatóforos)."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q014",
+        "correta": "D",
+        "justificativa": "A tirinha mostra um filhote de dinossauro convivendo com pessoas, mas os dinossauros foram extintos milhões de anos antes do surgimento dos hominídeos.",
+        "distratores": [
+          "A: répteis, inclusive o tiranossauro, se desenvolviam em ovos, não no útero.",
+          "B parte de uma convivência entre dinossauros e humanos que nunca existiu.",
+          "C atribui ao tiranossauro um hábito sem base no texto e não aponta o erro da tirinha.",
+          "E: dinossauros não eram animais domésticos."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q018",
+        "correta": "C",
+        "justificativa": "As duas plantas têm flores e sementes dentro de frutos comestíveis: são angiospermas, que também têm vasos condutores e folhas.",
+        "distratores": [
+          "A: pteridófitas não têm flores, frutos nem sementes.",
+          "B: gimnospermas não formam frutos.",
+          "D: gimnospermas não têm frutos e têm vasos condutores.",
+          "E: angiospermas têm vasos condutores e flores."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q012",
+        "correta": "C",
+        "justificativa": "O albinismo é recessivo: a criança precisa receber um gene recessivo de cada pai. Pais não albinos e heterozigotos (Aa) podem ter um filho aa.",
+        "distratores": [
+          "A: uma infecção adquirida não altera a herança genética.",
+          "B: com um pai aa e outro AA, todos os filhos seriam Aa, sem albinismo.",
+          "D: pais não albinos homozigotos são AA e não têm o gene recessivo.",
+          "E: a desnutrição não é transmitida pelos genes."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q008",
+        "correta": "C",
+        "justificativa": "Peixes, o boto e o peixe-boi, todos vertebrados, usam oxigênio na respiração celular para oxidar a glicose e obter energia.",
+        "distratores": [
+          "A: os peixes respiram por brânquias, não por pulmões.",
+          "B: só o boto e o peixe-boi, mamíferos, mantêm a temperatura constante.",
+          "D: os mamíferos têm fecundação interna e não passam por metamorfose.",
+          "E: a raia e os mamíferos não têm bexiga natatória."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q042",
+        "correta": "D",
+        "justificativa": "Os fósseis encontrados permitem estudar o tamanho, a alimentação e a época dos titanossauros: registros paleontológicos revelam informações sobre seres de outras épocas.",
+        "distratores": [
+          "A: os fósseis mostram espécies diferentes das atuais.",
+          "B: organismos totalmente decompostos não deixam fósseis.",
+          "C: ossos e dentes são justamente as partes que mais se fossilizam.",
+          "E: bactérias e fungos decompõem as partes moles, o que dificulta a fossilização."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q040",
+        "correta": "B",
+        "justificativa": "Ciprestes e pinheiros são gimnospermas: formam sementes que não ficam envolvidas por frutos.",
+        "distratores": [
+          "A: a respiração consome oxigênio; quem o libera é a fotossíntese.",
+          "C: as plantas citadas têm clorofila e fazem fotossíntese.",
+          "D: pau-brasil e imbuia são árvores grandes com vasos condutores.",
+          "E: bichos-preguiça e bugios são herbívoros e fazem parte do ecossistema."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q034",
+        "correta": "C",
+        "justificativa": "O Grupo 1, com quatro pares de patas, cefalotórax e abdome, sem antenas e com quelíceras, reúne aracnídeos. O Grupo 2, com três pares de patas, cabeça, tórax e abdome e um par de antenas, reúne insetos.",
+        "distratores": [
+          "A inverte os grupos.",
+          "B classifica o Grupo 1 como crustáceos, que têm antenas.",
+          "D: os dois grupos não podem ser insetos, pois o Grupo 1 tem quatro pares de patas e não tem antenas.",
+          "E: os dois grupos não podem ser aracnídeos, pois o Grupo 2 tem antenas e três pares de patas."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q001",
+        "correta": "D",
+        "justificativa": "A libélula é um inseto: exoesqueleto, três pares de patas e corpo dividido em cabeça, tórax e abdome.",
+        "distratores": [
+          "A: nem todos têm asas, e artrópodes não têm corpo mole.",
+          "B: artrópodes têm exoesqueleto, não endoesqueleto calcário.",
+          "C: aranhas não têm antenas, e insetos têm três pares de patas.",
+          "E: os artrópodes têm corpo segmentado, e nem todos têm veneno."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q035",
+        "correta": "C",
+        "justificativa": "Na hibernação, os batimentos cardíacos e a respiração ficam mais lentos, e a temperatura do corpo cai muito, o que reduz o gasto de energia.",
+        "distratores": [
+          "A diz que a temperatura se mantém, o que não reduziria tanto o metabolismo.",
+          "B: frequências aceleradas aumentariam o gasto de energia.",
+          "D: o coração acelerado contradiz a redução do metabolismo.",
+          "E: temperatura mais alta e respiração acelerada aumentariam o gasto de energia."
+        ]
+      },
+      {
+        "id": "etec-2017-2-q014",
+        "correta": "E",
+        "justificativa": "Mamíferos são endotérmicos: produzem calor pelo próprio metabolismo e mantêm a temperatura do corpo constante.",
+        "distratores": [
+          "A: nem todos os répteis citados são peçonhentos.",
+          "B: aves têm fecundação interna.",
+          "C: mamíferos têm coração com quatro cavidades.",
+          "D: répteis respiram por pulmões, não por brânquias."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q032",
+        "correta": "D",
+        "justificativa": "No solo raso e seco da Caatinga, as plantas têm folhas pequenas ou transformadas em espinhos, que reduzem a perda de água por transpiração.",
+        "distratores": [
+          "A: a fixação não é a principal adaptação ao clima seco descrito.",
+          "B: folhas grandes aumentariam a perda de água.",
+          "C: pneumatóforos são raízes de mangue, em solo alagado.",
+          "E descreve plantas de floresta úmida."
+        ]
+      },
+      {
+        "id": "etec-2015-2-q023",
+        "correta": "D",
+        "justificativa": "O texto descreve os musgos como plantas pequenas, sem vasos condutores, com transporte de substâncias por difusão de célula a célula.",
+        "distratores": [
+          "A: musgos têm rizoides, sem raízes verdadeiras, flores ou frutos.",
+          "B: o texto diz que são macroscópicos, visíveis a olho nu.",
+          "C: musgos não produzem sementes; reproduzem-se por esporos.",
+          "E: musgos fazem fotossíntese e não são parasitas."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q046",
+        "correta": "D",
+        "justificativa": "A paca é um mamífero roedor: tem glândulas mamárias e dentes incisivos fortes, que desgasta roendo galhos.",
+        "distratores": [
+          "A: mamíferos respiram por pulmões, mesmo os que nadam bem.",
+          "B: roedores têm incisivos desenvolvidos, não caninos.",
+          "C: a paca tem gestação, não põe ovos.",
+          "E: a bolsa marsupial é dos marsupiais, como o gambá."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q002",
+        "correta": "C",
+        "justificativa": "Esqueleto interno, ovos, respiração pulmonar, ausência de penas e temperatura variável com o ambiente reúnem as características dos répteis, como tartarugas e iguanas.",
+        "distratores": [
+          "A: aves têm penas e temperatura constante.",
+          "B: insetos não têm esqueleto interno.",
+          "D: moluscos não têm esqueleto interno nem, em geral, respiração pulmonar.",
+          "E: mamíferos têm temperatura constante e, em geral, não põem ovos."
+        ]
+      }
+    ],
+    "resumo": [
+      "Plantas: sem vasos = briófita; vasos sem sementes = pteridófita; sementes sem fruto = gimnosperma; sementes em frutos e flores = angiosperma.",
+      "Artrópodes: exoesqueleto, patas articuladas, corpo segmentado.",
+      "Insetos: 3 pares de patas, antenas, cabeça-tórax-abdome. Aracnídeos: 4 pares, sem antenas, cefalotórax-abdome.",
+      "Vertebrados: peixes (brânquias), anfíbios (metamorfose), répteis (ovos com casca), aves (penas), mamíferos (pelos e mamas).",
+      "Aves e mamíferos são endotérmicos; peixes, anfíbios e répteis, ectotérmicos.",
+      "Recessivo só aparece em aa; pais Aa × Aa podem ter filho aa (1/4).",
+      "Característica adquirida não passa pelos genes.",
+      "Fóssil: vestígio do passado, geralmente partes duras. Dinossauros e humanos não conviveram.",
+      "Seleção natural: sobrevive e se reproduz mais quem tem variações vantajosas."
+    ]
   }
 }

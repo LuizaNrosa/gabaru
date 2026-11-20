@@ -679,5 +679,345 @@
       "Fibras não dão calorias, mas regulam o intestino.",
       "Na prova, a atitude saudável é a equilibrada; desconfie de extremos."
     ]
+  },
+  "atomos-elementos-e-formulas": {
+    "materia": "Matéria 2 · Ciências da Natureza · Química",
+    "introducao": "Átomos, elementos e fórmulas formam o assunto de Química que mais cai na ETEC: 43 questões em 20 das 23 provas recentes. As perguntas são previsíveis e muito pontuáveis: contar prótons, elétrons e nêutrons, ler uma fórmula, montar a fórmula de um composto iônico, distinguir substância simples de composta. Com as regras deste capítulo, quase todas se resolvem em menos de dois minutos.",
+    "codigos": [
+      "QU04"
+    ],
+    "raioX": "A banca apresenta um elemento com número atômico e número de massa e pede o número de partículas; mostra uma fórmula e pede quantos átomos e elementos ela tem; dá os íons e pede a fórmula do composto; ou define um conceito (isômero, radiação alfa) no próprio enunciado e pede que você o aplique. Os distratores trocam número atômico por número de massa, átomo por elemento, ou erram o índice da fórmula.",
+    "intuicao": [
+      "Número atômico (Z) = prótons. Número de massa (A) = prótons + nêutrons. Logo, nêutrons = A − Z.",
+      "Num átomo neutro, elétrons = prótons.",
+      "Em uma fórmula, cada símbolo é um elemento; o número pequeno embaixo (índice) diz quantos átomos daquele elemento existem.",
+      "Composto iônico precisa ter carga total zero: cruze as cargas dos íons para achar os índices."
+    ],
+    "teoria": [
+      {
+        "titulo": "Matéria, átomo e elemento químico",
+        "texto": "Tudo o que tem massa e ocupa espaço é matéria. A matéria é formada por átomos, partículas muito pequenas que se combinam para formar todas as substâncias.\n\nElemento químico é o conjunto de átomos com o mesmo número de prótons. Todo átomo com 8 prótons é oxigênio; todo átomo com 26 prótons é ferro. Hoje conhecemos 118 elementos, organizados na tabela periódica.\n\nCada elemento tem um símbolo, com uma ou duas letras, a primeira maiúscula. Alguns vêm do nome em latim e caem muito na prova:\n\n• H (hidrogênio), C (carbono), N (nitrogênio), O (oxigênio), Ca (cálcio), Cl (cloro).\n• Na (sódio, do latim natrium), K (potássio, kalium), Fe (ferro, ferrum).\n• Au (ouro, aurum), Ag (prata, argentum), Pb (chumbo, plumbum), Cu (cobre, cuprum), Hg (mercúrio).\n• Pt é platina, não prata. Essa troca já apareceu como distrator."
+      },
+      {
+        "titulo": "Estrutura do átomo: prótons, nêutrons e elétrons",
+        "texto": "O átomo tem duas regiões:\n\n• Núcleo: no centro, onde ficam os prótons (carga positiva) e os nêutrons (sem carga). Concentra quase toda a massa do átomo.\n• Eletrosfera: ao redor do núcleo, onde ficam os elétrons (carga negativa), muito mais leves.\n\nDois números identificam um átomo:\n\n• Número atômico (Z): quantidade de prótons. É a “identidade” do elemento.\n• Número de massa (A): soma de prótons e nêutrons. A = Z + N.\n\nRepresentação: o número de massa fica em cima e o número atômico embaixo, à esquerda do símbolo. O ferro com A = 56 e Z = 26 se escreve com 56 em cima e 26 embaixo, antes de “Fe”.\n\nExemplo resolvido: o ferro (Z = 26, A = 56) tem 26 prótons, 26 elétrons (átomo neutro) e 56 − 26 = 30 nêutrons. O iodo (Z = 53, A = 127) tem 53 prótons, 53 elétrons e 127 − 53 = 74 nêutrons.\n\nDica: o número maior é sempre o de massa, porque ele soma prótons e nêutrons."
+      },
+      {
+        "titulo": "Íons: átomos que ganharam ou perderam elétrons",
+        "texto": "Um átomo pode ganhar ou perder elétrons. Os prótons não mudam (se mudassem, seria outro elemento).\n\n• Cátion: perdeu elétrons e ficou com carga positiva. Na⁺ perdeu 1 elétron; Ca²⁺ perdeu 2.\n• Ânion: ganhou elétrons e ficou com carga negativa. Cl⁻ ganhou 1 elétron; O²⁻ ganhou 2.\n\nExemplo: o Ca²⁺ (Z = 20) tem 20 prótons e 20 − 2 = 18 elétrons.\n\nA mesma ideia explica a eletrização dos corpos: um objeto fica com carga positiva quando perde elétrons, e negativa quando ganha elétrons. Nunca é por ganhar ou perder prótons, que ficam presos no núcleo."
+      },
+      {
+        "titulo": "Isótopos e radioatividade",
+        "texto": "Isótopos são átomos do mesmo elemento (mesmo número de prótons) com números de massa diferentes, ou seja, com números de nêutrons diferentes. Exemplos: carbono-12 e carbono-14; iodo-127 e iodo-131. A diferença entre dois isótopos está sempre nos nêutrons.\n\nAlguns isótopos são instáveis e emitem radiação: são os radioisótopos. Eles são usados em exames médicos, tratamento de câncer, datação de fósseis e usinas nucleares.\n\n• Partícula alfa (α): 2 prótons e 2 nêutrons (número de massa 4, número atômico 2, igual ao núcleo do hélio). Quando um átomo emite alfa, seu número atômico diminui 2 e seu número de massa diminui 4.\n• Partícula beta (β): um elétron emitido pelo núcleo.\n• Radiação gama (γ): onda eletromagnética, sem massa e sem carga.\n\nFissão nuclear é a quebra de um núcleo grande (como o urânio) em núcleos menores, liberando muita energia: é o que acontece nas usinas nucleares, como Angra dos Reis, no Rio de Janeiro. Fusão nuclear é a união de núcleos pequenos, como ocorre no Sol."
+      },
+      {
+        "titulo": "A tabela periódica sem decorar",
+        "texto": "A tabela periódica organiza os elementos em ordem crescente de número atômico.\n\n• Linhas horizontais: períodos (7).\n• Colunas verticais: grupos ou famílias (18). Elementos do mesmo grupo têm propriedades químicas parecidas.\n\nFamílias mais citadas:\n\n• Grupo 1, metais alcalinos (Li, Na, K): formam íons +1 e reagem com o cloro na proporção 1 : 1 (NaCl, KCl, LiCl).\n• Grupo 2, metais alcalinoterrosos (Mg, Ca, Ba): formam íons +2.\n• Grupo 17, halogênios (F, Cl, Br, I): formam íons −1.\n• Grupo 18, gases nobres (He, Ne, Ar): muito estáveis, quase não reagem.\n\nMetais (a maioria, à esquerda) conduzem bem calor e eletricidade, são brilhantes e maleáveis. Ametais (à direita, como C, N, O, S, Cl) não conduzem bem. O hidrogênio é um caso especial: fica no grupo 1, mas não é metal."
+      },
+      {
+        "titulo": "Substância, molécula e fórmula química",
+        "texto": "A fórmula química mostra quais elementos formam uma substância e quantos átomos de cada um há em cada unidade.\n\n• H₂O: 2 átomos de hidrogênio e 1 de oxigênio, num total de 3 átomos e 2 elementos.\n• CO₂: 1 carbono e 2 oxigênios, 3 átomos e 2 elementos.\n• O₃ (ozônio): 3 átomos de 1 só elemento.\n• Al₂O₃ (óxido de alumínio, da bauxita): 2 alumínios e 3 oxigênios, 5 átomos e 2 elementos.\n• CaCO₃ (carbonato de cálcio, do calcário): 1 cálcio, 1 carbono e 3 oxigênios, 5 átomos e 3 elementos.\n• H₂SO₄ (ácido sulfúrico): 2 + 1 + 4 = 7 átomos e 3 elementos.\n\nQuando há parênteses, o índice de fora multiplica tudo o que está dentro: (NH₄)₂SO₄ tem 2 nitrogênios, 8 hidrogênios, 1 enxofre e 4 oxigênios.\n\nA pergunta mais comum: “quantos átomos?” (some os índices) ou “quantos elementos?” (conte os símbolos diferentes). A banca coloca as duas contagens nas alternativas para pegar quem confunde.\n\nAtenção: a água não é uma “mistura de hidrogênio e oxigênio”. É um composto, formado pela união química de 2 átomos de hidrogênio com 1 de oxigênio."
+      },
+      {
+        "titulo": "Substância simples, substância composta e mistura",
+        "texto": "• Substância simples: formada por um único elemento. O₂ (gás oxigênio), O₃ (ozônio), N₂, H₂, Fe, Au.\n• Substância composta: formada por dois ou mais elementos ligados quimicamente. H₂O, CO₂, NaCl, KCl, CaCO₃.\n• Mistura: duas ou mais substâncias juntas, sem formar uma nova. Água com sal, ar atmosférico, ligas metálicas (bronze, aço), água mineral.\n\nO₂ e O₃ são formados pelo mesmo elemento, mas são substâncias diferentes, com propriedades diferentes. Isso se chama alotropia. O carbono também tem formas alotrópicas: grafite e diamante.\n\nNa equação SO₂ + ½ O₂ → SO₃, a única substância simples é o O₂; as outras são compostas."
+      },
+      {
+        "titulo": "Ligações químicas e fórmulas de compostos iônicos",
+        "texto": "Os átomos se ligam para ficar mais estáveis. Os três tipos de ligação são:\n\n• Ligação iônica: entre um metal e um ametal. O metal perde elétrons (vira cátion) e o ametal ganha (vira ânion). Forma compostos iônicos, como o sal de cozinha (NaCl). Em geral são sólidos, com alto ponto de fusão, e conduzem eletricidade quando dissolvidos em água.\n• Ligação covalente: entre ametais, que compartilham elétrons. Forma moléculas, como H₂O, CO₂, O₂, CH₄.\n• Ligação metálica: entre átomos de metais, como no ferro e no cobre.\n\nMontando a fórmula de um composto iônico (a carga total deve ser zero):\n\n• Escreva o cátion primeiro e o ânion depois.\n• A carga de um vira o índice do outro (regra do “cruzamento”), simplificando se possível.\n• Na⁺ e Cl⁻ → NaCl. Ca²⁺ e Cl⁻ → CaCl₂. Ba²⁺ e Cl⁻ → BaCl₂. Al³⁺ e O²⁻ → Al₂O₃. Ca²⁺ e O²⁻ → CaO.\n• Íons formados por vários átomos mantêm o grupo: K⁺ e NO₃⁻ → KNO₃ (nitrato de potássio). Ca²⁺ e CO₃²⁻ → CaCO₃.\n\nNome: o ânion vem primeiro e o cátion depois, ligados por “de”: cloreto de sódio, nitrato de potássio, carbonato de cálcio."
+      },
+      {
+        "titulo": "Fórmula molecular, fórmula estrutural e isômeros",
+        "texto": "A fórmula molecular mostra quantos átomos de cada elemento a molécula tem (C₆H₁₂O₆, a glicose). A fórmula estrutural mostra como esses átomos estão ligados.\n\nPara contar os átomos a partir de uma fórmula estrutural, conte cada símbolo desenhado, inclusive os que aparecem em grupos como CH₃ (1 carbono e 3 hidrogênios) e OH (1 oxigênio e 1 hidrogênio).\n\nIsômeros são substâncias com a mesma fórmula molecular e fórmulas estruturais diferentes. Glicose e frutose têm a mesma fórmula molecular (C₆H₁₂O₆), mas os átomos estão arranjados de outro jeito, e por isso são substâncias diferentes.\n\nEsse é um caso típico de edital oculto: isomeria é conteúdo de Ensino Médio, mas a ETEC dá a definição no enunciado. Basta aplicá-la: compare as fórmulas moleculares (devem ser iguais) e as estruturais (devem ser diferentes)."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Partículas do átomo: “apresenta 26 prótons, … elétrons e … nêutrons”. Use Z, A e A − Z.\n• Representação: número de massa em cima, número atômico embaixo.\n• Contagem em fórmulas: número de átomos (soma dos índices) ou de elementos (símbolos diferentes).\n• Fórmula de composto iônico: cruzamento de cargas.\n• Classificação: substância simples, composta ou mistura.\n• Símbolos com origem latina: Na, K, Fe, Au, Ag, Pb, Cu.\n• Conceitos definidos no enunciado: isômeros, radiação alfa, fissão.\n\nOs temas de contexto são saúde (ferro na hemoglobina, iodo na tireoide, flúor nos dentes), ambiente (poluentes do ar, chuva ácida) e recursos minerais (bauxita, calcário, petróleo)."
+      }
+    ],
+    "armadilha": "Confundir átomos com elementos, e número atômico com número de massa. Em H₂O há 3 átomos, mas só 2 elementos; no ferro com A = 56 e Z = 26 há 26 prótons, e não 56. A ETEC sempre coloca as duas contagens nas alternativas.",
+    "exemplos": [
+      {
+        "suporte": [
+          "O cálcio, essencial para ossos e dentes, tem número atômico 20 e número de massa 40."
+        ],
+        "comando": "Um átomo neutro de cálcio apresenta",
+        "alternativas": [
+          "20 prótons, 20 elétrons e 20 nêutrons.",
+          "40 prótons, 20 elétrons e 20 nêutrons.",
+          "20 prótons, 40 elétrons e 20 nêutrons.",
+          "20 prótons, 20 elétrons e 40 nêutrons.",
+          "40 prótons, 40 elétrons e 0 nêutron."
+        ],
+        "passos": [
+          "Número atômico = prótons: 20.",
+          "Átomo neutro: elétrons = prótons = 20.",
+          "Nêutrons = A − Z = 40 − 20 = 20."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B usa o número de massa como número de prótons.",
+          "C usa o número de massa como número de elétrons.",
+          "D usa o número de massa como número de nêutrons, esquecendo de subtrair os prótons.",
+          "E trata o número de massa como prótons e elétrons e zera os nêutrons."
+        ]
+      },
+      {
+        "suporte": [
+          "O sulfato de alumínio, usado no tratamento de água, tem fórmula Al₂(SO₄)₃."
+        ],
+        "comando": "Em uma unidade dessa substância há",
+        "alternativas": [
+          "3 elementos e 17 átomos.",
+          "3 elementos e 9 átomos.",
+          "4 elementos e 17 átomos.",
+          "2 elementos e 7 átomos.",
+          "3 elementos e 7 átomos."
+        ],
+        "passos": [
+          "Elementos diferentes: Al, S e O, ou seja, 3 elementos.",
+          "O índice 3 fora dos parênteses multiplica S e O₄: 3 enxofres e 12 oxigênios.",
+          "Total de átomos: 2 Al + 3 S + 12 O = 17 átomos."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B esquece de multiplicar o conteúdo dos parênteses (2 + 1 + 4 + 2).",
+          "C conta 4 elementos, como se o índice fosse outro elemento.",
+          "D ignora o enxofre e não multiplica os parênteses.",
+          "E soma apenas 2 + 1 + 4, sem aplicar o índice 3."
+        ]
+      },
+      {
+        "suporte": [
+          "O magnésio forma o íon Mg²⁺, e o cloro forma o íon Cl⁻. Juntos, eles formam o cloreto de magnésio, presente na água do mar."
+        ],
+        "comando": "A fórmula do cloreto de magnésio é",
+        "alternativas": [
+          "MgCl.",
+          "MgCl₂.",
+          "Mg₂Cl.",
+          "Mg₂Cl₂.",
+          "ClMg₂."
+        ],
+        "passos": [
+          "A carga total do composto deve ser zero.",
+          "Cada Mg²⁺ tem carga +2; cada Cl⁻, −1. São necessários 2 Cl⁻ para cada Mg²⁺.",
+          "Fórmula: MgCl₂."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A deixa uma carga +1 sobrando.",
+          "C inverte o cruzamento: 2 Mg²⁺ (+4) com 1 Cl⁻ (−1) não fica neutro.",
+          "D não simplifica e ainda deixa carga sobrando (+4 − 2).",
+          "E escreve o ânion antes do cátion e erra a proporção."
+        ]
+      },
+      {
+        "suporte": [
+          "O gás oxigênio (O₂) e o ozônio (O₃) estão presentes na atmosfera. O primeiro é usado na respiração; o segundo, na alta atmosfera, filtra parte da radiação ultravioleta do Sol."
+        ],
+        "comando": "Sobre essas duas substâncias, é correto afirmar que",
+        "alternativas": [
+          "são a mesma substância, pois são formadas pelo mesmo elemento.",
+          "são substâncias compostas, pois têm mais de um átomo.",
+          "são substâncias simples diferentes, formadas pelo mesmo elemento químico.",
+          "formam uma mistura homogênea chamada água.",
+          "o ozônio tem um elemento químico a mais que o oxigênio."
+        ],
+        "passos": [
+          "As duas são formadas apenas pelo elemento oxigênio: são substâncias simples.",
+          "Têm números diferentes de átomos por molécula (2 e 3) e propriedades diferentes.",
+          "São substâncias simples diferentes do mesmo elemento (alotropia)."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A ignora que a quantidade de átomos e as propriedades são diferentes.",
+          "B confunde ter vários átomos com ter vários elementos.",
+          "D inventa uma relação com a água, que tem hidrogênio.",
+          "E confunde átomo com elemento: o O₃ tem um átomo a mais, não um elemento a mais."
+        ]
+      },
+      {
+        "suporte": [
+          "O carbono-12 e o carbono-14 são usados na datação de fósseis. Ambos têm número atômico 6."
+        ],
+        "comando": "Esses dois átomos diferem no número de",
+        "alternativas": [
+          "prótons.",
+          "elétrons.",
+          "nêutrons.",
+          "elementos.",
+          "cargas positivas."
+        ],
+        "passos": [
+          "Os dois são carbono, então têm 6 prótons.",
+          "Como são neutros, têm 6 elétrons.",
+          "Os números de massa (12 e 14) diferem; logo, os nêutrons são 6 e 8. São isótopos."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A: se os prótons fossem diferentes, seriam elementos diferentes.",
+          "B: átomos neutros do mesmo elemento têm o mesmo número de elétrons.",
+          "D: os dois são o mesmo elemento, carbono.",
+          "E: cargas positivas são os prótons, iguais nos dois."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q013",
+        "correta": "A",
+        "justificativa": "O enunciado define isômeros: mesma fórmula molecular e estruturas diferentes. Glicose e frutose têm a mesma fórmula molecular, C₆H₁₂O₆, e estruturas diferentes.",
+        "distratores": [
+          "B diz que as fórmulas moleculares são diferentes, o que contraria a definição de isômero.",
+          "C diz que as estruturas são iguais; se fossem, seriam a mesma substância.",
+          "D nega a isomeria com base em fórmulas moleculares diferentes, o que é falso.",
+          "E inverte a definição: molecular diferente e estrutural igual."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q010",
+        "correta": "B",
+        "justificativa": "Na representação, o número de massa (52) fica em cima e o número atômico (24) embaixo, à esquerda do símbolo Cr.",
+        "distratores": [
+          "A inverte as posições, com o número atômico em cima.",
+          "C soma e altera os valores sem fundamento.",
+          "D usa o símbolo Cu, que é o cobre.",
+          "E inverte as posições e ainda usa o símbolo do cobre."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q035",
+        "correta": "A",
+        "justificativa": "Na representação do ferro, 56 é o número de massa e 26 é o número atômico. Logo, o número de massa é 56.",
+        "distratores": [
+          "B confunde o número atômico (26) com o número de nêutrons (30).",
+          "C: são 26 prótons; 30 é o número de nêutrons.",
+          "D: átomo neutro tem 26 elétrons, iguais aos prótons.",
+          "E: os nêutrons são 56 − 26 = 30."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q028",
+        "correta": "E",
+        "justificativa": "A água é um composto: cada molécula resulta da união química de 2 átomos de hidrogênio com 1 átomo de oxigênio.",
+        "distratores": [
+          "A chama de mistura o que é uma ligação química entre átomos.",
+          "B confunde a água com uma mistura dos gases H₂ e O₂.",
+          "C conta 3 elementos, mas a água tem 2 (H e O) e 3 átomos.",
+          "D fala em moléculas de hidrogênio e oxigênio, quando são átomos."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q041",
+        "correta": "A",
+        "justificativa": "O cálcio tem número de massa 40 e número atômico 20; logo, 40 − 20 = 20 nêutrons.",
+        "distratores": [
+          "B: o número atômico do ferro é 26; 56 é o número de massa.",
+          "C: o número atômico do potássio é 19; 15 é o do fósforo.",
+          "D: o menor número de massa entre os dados é o do magnésio (24), não o do fósforo (31).",
+          "E: o magnésio tem 12 nêutrons, menos que o ferro (30)."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q044",
+        "correta": "A",
+        "justificativa": "A partícula alfa tem número atômico 2 e número de massa 4: 2 prótons e 4 − 2 = 2 nêutrons.",
+        "distratores": [
+          "B: a partícula alfa não tem elétrons; sua carga é positiva.",
+          "C: com 2 prótons e 4 nêutrons, o número de massa seria 6.",
+          "D: sem prótons, a partícula não teria carga positiva.",
+          "E não corresponde à representação dada."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q043",
+        "correta": "D",
+        "justificativa": "O carbonato de cálcio é formado por cálcio, carbono e oxigênio: Ca²⁺ com CO₃²⁻ dá CaCO₃.",
+        "distratores": [
+          "A, CaO, é o óxido de cálcio, sem carbono.",
+          "B, Na₂O, tem sódio em vez de cálcio.",
+          "C, CaC₂, não tem oxigênio.",
+          "E, NaC₂, não tem cálcio nem oxigênio."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q013",
+        "correta": "B",
+        "justificativa": "O ozônio, O₃, é formado por 3 átomos de um único elemento, o oxigênio.",
+        "distratores": [
+          "A: o SO₂ tem 2 elementos (S e O) e 3 átomos.",
+          "C: o NO₂ tem 2 elementos (N e O).",
+          "D: NO e NO₂ têm os mesmos elementos; diferem em um átomo de oxigênio.",
+          "E: CO e CO₂ têm os mesmos 2 elementos; diferem na quantidade de oxigênio."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q024",
+        "correta": "A",
+        "justificativa": "O número atômico do iodo é 53, e o número atômico é igual ao número de prótons.",
+        "distratores": [
+          "B: os nêutrons são 127 − 53 = 74.",
+          "C: no átomo neutro há 53 elétrons.",
+          "D: 74 é o número de nêutrons, não de prótons.",
+          "E: 127 é o número de massa."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q012",
+        "correta": "E",
+        "justificativa": "O texto diz que os metais alcalinos se ligam ao cloro na razão 1 : 1, como no NaCl. O lítio é alcalino; logo, o composto é LiCl.",
+        "distratores": [
+          "A usa a razão 2 : 1, contrariando o enunciado.",
+          "B não simplifica a fórmula e não segue a razão mínima.",
+          "C inverte a ordem e usa 2 lítios.",
+          "D inverte a ordem e não simplifica."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q008",
+        "correta": "A",
+        "justificativa": "O cálcio tem carga +2 e o cloreto −1. São necessários 2 Cl⁻ para cada Ca²⁺: CaCl₂.",
+        "distratores": [
+          "B: com 2 Ca²⁺ e 2 Cl⁻, a carga total seria +2.",
+          "C: carga total +3.",
+          "D: carga total +1.",
+          "E: carga total +1; falta um cloreto."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q029",
+        "correta": "A",
+        "justificativa": "K⁺ e NO₃⁻ são íons; a união de íons forma um composto iônico. O nome segue a regra ânion + de + cátion: nitrato de potássio.",
+        "distratores": [
+          "B acerta o tipo de composto, mas inventa o nome.",
+          "C acerta o nome, mas classifica como molecular um composto formado por íons.",
+          "D erra o tipo e o nome.",
+          "E: ligação metálica ocorre entre metais, e aqui há um íon poliatômico de ametais."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q006",
+        "correta": "A",
+        "justificativa": "O cloreto de potássio (KCl) é formado por dois elementos diferentes, K e Cl, ligados quimicamente: é uma substância composta.",
+        "distratores": [
+          "B: uma substância simples teria um só elemento.",
+          "C: o KCl é uma substância, não um elemento.",
+          "D: não é mistura, pois há uma única substância.",
+          "E: “mistura simples” não descreve um composto."
+        ]
+      }
+    ],
+    "resumo": [
+      "Z = prótons; A = prótons + nêutrons; nêutrons = A − Z; átomo neutro: elétrons = prótons.",
+      "Representação: A em cima, Z embaixo.",
+      "Cátion perdeu elétrons (+); ânion ganhou elétrons (−). Prótons não mudam.",
+      "Isótopos: mesmo elemento, nêutrons diferentes.",
+      "Alfa = 2 prótons + 2 nêutrons.",
+      "Átomos = soma dos índices; elementos = símbolos diferentes.",
+      "Substância simples: 1 elemento; composta: 2 ou mais; mistura: substâncias juntas sem reagir.",
+      "Composto iônico: cruze as cargas (CaCl₂, Al₂O₃, MgCl₂).",
+      "Na, K, Fe, Au, Ag, Pb, Cu vêm do latim. Pt é platina."
+    ]
   }
 }

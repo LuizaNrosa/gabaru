@@ -2740,5 +2740,352 @@
       "Sustentável: SAFs, controle biológico, feromônios, reutilizáveis, árvores nativas.",
       "Alternativa só vale se todas as ações citadas forem positivas."
     ]
+  },
+  "misturas-separacao-e-estados-fisicos": {
+    "materia": "Matéria 2 · Ciências da Natureza · Química",
+    "introducao": "Misturas, métodos de separação e mudanças de estado aparecem em 16 das 23 provas recentes, juntando os dois tópicos. A ETEC usa o tratamento de água, as salinas, a destilação do petróleo, o gelo-seco e a evaporação nas florestas para perguntar qual é o processo e qual propriedade da matéria ele usa.",
+    "codigos": [
+      "QU01",
+      "QU02"
+    ],
+    "raioX": "As perguntas mais comuns: nomear o método de separação de uma imagem ou texto (destilação, decantação, filtração, evaporação); dizer qual propriedade ele usa (densidade, ponto de ebulição, tamanho das partículas); classificar um material como substância ou mistura; e nomear a mudança de estado (evaporação, sublimação, condensação). Os distratores trocam o nome do processo ou chamam de químico um processo físico.",
+    "intuicao": [
+      "Substância pura tem composição fixa e propriedades definidas; mistura é a reunião de substâncias que não reagem entre si.",
+      "Cada método de separação aproveita uma diferença: tamanho das partículas (filtração), densidade (decantação), ponto de ebulição (destilação).",
+      "Separar uma mistura é processo físico: as substâncias continuam as mesmas.",
+      "Para mudanças de estado, pense na seta: sólido → líquido → gás (absorve calor); o caminho inverso libera calor."
+    ],
+    "teoria": [
+      {
+        "titulo": "Substância pura e mistura",
+        "texto": "• Substância pura: um só tipo de componente, com composição fixa e temperaturas de fusão e ebulição definidas. Pode ser simples (um elemento: O₂, Fe) ou composta (dois ou mais elementos: H₂O, glicose, NaCl).\n• Mistura: duas ou mais substâncias juntas, sem formar uma nova. Água mineral, ar, água do mar, ligas metálicas, petróleo.\n\nTipos de mistura:\n\n• Homogênea (solução): uma só fase, aspecto uniforme. Água com sal dissolvido, ar filtrado, álcool com água, bronze.\n• Heterogênea: duas ou mais fases visíveis. Água e óleo, água e areia, granito.\n\nExemplos que já caíram: o oxigênio (O₂) é substância simples e a glicose (C₆H₁₂O₆) é composta; a água mineral é mistura (água com sais dissolvidos); a lata de flandres é aço (mistura de ferro e carbono) revestido de estanho."
+      },
+      {
+        "titulo": "Separação de misturas heterogêneas",
+        "texto": "• Filtração: separa sólido de líquido (ou de gás) pelo tamanho das partículas, que ficam retidas no filtro. Coar café, filtro de barro, aspirador, camadas de areia e carvão na estação de tratamento.\n• Decantação: deixa a mistura em repouso para o componente mais denso ir para o fundo. Separa água e areia, ou água e óleo (com funil de separação). Usa a diferença de densidade.\n• Centrifugação: acelera a decantação girando a mistura. Separação do creme do leite, exames de sangue.\n• Catação, peneiração, ventilação e separação magnética (ímã atrai o ferro): separam sólidos.\n• Flotação: o componente menos denso flutua.\n\nÁgua e óleo podem ser separados sem aquecimento, por decantação."
+      },
+      {
+        "titulo": "Separação de misturas homogêneas",
+        "texto": "• Evaporação: aquece ou deixa ao sol para a água evaporar e o sólido dissolvido ficar. É como se obtém o sal nas salinas.\n• Destilação simples: aquece a mistura, o líquido de menor ponto de ebulição vira vapor, que é resfriado num condensador e recolhido. Separa água e sal (recuperando a água) ou extrai essências de plantas, como o eugenol do cravo.\n• Destilação fracionada: separa vários líquidos com pontos de ebulição diferentes, numa coluna. É o processo das refinarias de petróleo, que obtêm gás, gasolina, querosene, diesel e óleo combustível.\n\nA destilação usa a diferença de ponto de ebulição. O condensador é o tubo resfriado com água onde o vapor volta a ser líquido."
+      },
+      {
+        "titulo": "Tratamento de água",
+        "texto": "A água das estações de tratamento passa por etapas físicas e químicas:\n\n• Coagulação e floculação: produtos químicos fazem a sujeira se juntar em flocos.\n• Decantação: os flocos, mais densos, vão para o fundo dos tanques. Usa a densidade.\n• Filtração: a água passa por camadas de cascalho, areia e carvão que retêm as partículas menores.\n• Desinfecção (cloração): o cloro elimina microrganismos. Etapa química.\n• Fluoretação: adiciona flúor para proteger os dentes.\n\nDecantação e filtração são as etapas físicas que mais caem."
+      },
+      {
+        "titulo": "Estados físicos e mudanças de estado",
+        "texto": "A matéria aparece em três estados principais:\n\n• Sólido: forma e volume definidos; partículas muito próximas e organizadas.\n• Líquido: volume definido, forma do recipiente.\n• Gasoso: sem forma nem volume definidos; partículas afastadas e muito agitadas.\n\nMudanças de estado:\n\n• Fusão: sólido → líquido. Solidificação: líquido → sólido.\n• Vaporização: líquido → gás. Pode ser evaporação (lenta, na superfície, a qualquer temperatura), ebulição (fervura) ou calefação (gota sobre chapa muito quente).\n• Condensação ou liquefação: gás → líquido.\n• Sublimação: sólido → gás direto, sem passar pelo líquido. O gelo-seco (CO₂ sólido) sublima e forma névoa em eventos; a naftalina também.\n\nFusão, vaporização e sublimação absorvem calor; solidificação e condensação liberam calor. Por isso a evaporação resfria: o suor que evapora retira calor da pele, e a evapotranspiração das florestas refresca o ambiente."
+      },
+      {
+        "titulo": "O ciclo da água",
+        "texto": "A energia do Sol faz a água de oceanos, rios e solos evaporar e as plantas transpirarem. O vapor sobe, esfria e se condensa em gotículas, formando nuvens; depois cai como chuva (precipitação), infiltra no solo ou escoa para os rios.\n\n• Evaporação e condensação, movidas pela energia solar, são o motor do ciclo.\n• As florestas devolvem muita água à atmosfera pela evapotranspiração, influenciando as chuvas de regiões distantes.\n• Migrações de animais podem acompanhar as estações de chuva e seca."
+      },
+      {
+        "titulo": "Pontos de fusão e de ebulição",
+        "texto": "Cada substância pura tem temperaturas fixas de fusão e ebulição (ao nível do mar). A água funde a 0 °C e ferve a 100 °C.\n\n• Durante a mudança de estado de uma substância pura, a temperatura fica constante.\n• Em misturas, a temperatura varia durante a mudança de estado.\n• Em lugares altos, onde a pressão é menor, a água ferve abaixo de 100 °C.\n\nPara aquecer algo acima de 100 °C em banho, troque a água por um líquido de ponto de ebulição maior, como o azeite. Aumentar o fogo não faz a água fervente passar de 100 °C."
+      },
+      {
+        "titulo": "Processo físico ou químico?",
+        "texto": "• Físico: não forma novas substâncias. Mudanças de estado, dissolução, separação de misturas, moer, cortar, dilatar.\n• Químico: forma novas substâncias. Queima, ferrugem, cozimento de alimentos, fermentação, digestão.\n\nObter sal das salinas é físico (evaporação). Destilar o petróleo é físico (separa substâncias que já existiam). Queimar o combustível obtido é químico.\n\nOs combustíveis do petróleo (gás, gasolina, diesel) são de origem fóssil e, portanto, não renováveis."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Nomear o processo de uma figura (destilação de cravo, tratamento de água, salina).\n• Propriedade usada na separação: densidade na decantação, ponto de ebulição na destilação.\n• Classificar materiais: substância simples, composta, mistura homogênea ou heterogênea.\n• Nomear mudanças de estado e explicar resfriamento por evaporação.\n• Distinguir processo físico de químico.\n\nAtenção a alternativas que juntam um nome certo com uma explicação errada: as duas partes precisam estar corretas."
+      }
+    ],
+    "armadilha": "Trocar evaporação por sublimação, ou decantação por filtração. A salina evapora a água (líquido → gás); o gelo-seco sublima (sólido → gás). Decantação separa por densidade, com repouso; filtração separa por tamanho, com um filtro.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Para separar a areia misturada com água do mar e, depois, obter o sal, um estudante fez duas etapas."
+        ],
+        "comando": "As etapas adequadas, em ordem, são",
+        "alternativas": [
+          "filtração e evaporação.",
+          "evaporação e filtração.",
+          "destilação e decantação.",
+          "sublimação e filtração.",
+          "decantação e sublimação."
+        ],
+        "passos": [
+          "A areia não se dissolve: separa-se da água salgada por filtração.",
+          "O sal está dissolvido: evaporando a água, o sal fica.",
+          "Filtração e depois evaporação."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B inverte a ordem; evaporando primeiro, sal e areia ficariam juntos.",
+          "C: a decantação não recupera o sal dissolvido.",
+          "D: nada sublima nessa mistura.",
+          "E: o sal não sublima."
+        ]
+      },
+      {
+        "suporte": [
+          "Classifique: (I) água destilada; (II) ar atmosférico; (III) água e óleo; (IV) gás oxigênio."
+        ],
+        "comando": "A classificação correta é",
+        "alternativas": [
+          "I substância composta; II mistura homogênea; III mistura heterogênea; IV substância simples.",
+          "I mistura; II substância composta; III mistura homogênea; IV substância composta.",
+          "I substância simples; II mistura heterogênea; III mistura homogênea; IV substância simples.",
+          "I substância composta; II substância simples; III mistura heterogênea; IV mistura.",
+          "Todas são misturas."
+        ],
+        "passos": [
+          "Água destilada é só H₂O: substância composta.",
+          "Ar filtrado: mistura de gases, homogênea. Água e óleo: duas fases, heterogênea.",
+          "O₂: um só elemento, substância simples."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B erra quase tudo: a água destilada não é mistura.",
+          "C: H₂O tem dois elementos, e água e óleo formam duas fases.",
+          "D: o ar é mistura, e o O₂ é substância.",
+          "E ignora as substâncias puras."
+        ]
+      },
+      {
+        "suporte": [
+          "Depois de nadar, uma pessoa sente frio ao sair da piscina num dia com vento, mesmo com sol."
+        ],
+        "comando": "A sensação se explica porque",
+        "alternativas": [
+          "a água na pele sofre condensação e libera calor.",
+          "a água evapora, retirando calor da pele.",
+          "a água sublima com o vento.",
+          "o vento aquece a pele.",
+          "a água se solidifica na pele."
+        ],
+        "passos": [
+          "A água sobre a pele evapora, e o vento acelera isso.",
+          "A evaporação absorve calor.",
+          "Esse calor sai da pele, que esfria."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: condensação liberaria calor, aquecendo.",
+          "C: líquido não sublima.",
+          "D: o vento acelera a evaporação, não aquece.",
+          "E: a água não congela nessa situação."
+        ]
+      },
+      {
+        "suporte": [
+          "Numa refinaria, o petróleo é aquecido numa coluna e separado em gás, gasolina, querosene e diesel."
+        ],
+        "comando": "O processo e a propriedade utilizada são",
+        "alternativas": [
+          "filtração, pelo tamanho das moléculas.",
+          "destilação fracionada, pelos diferentes pontos de ebulição.",
+          "decantação, pela densidade.",
+          "combustão, pela energia liberada.",
+          "sublimação, pela pressão."
+        ],
+        "passos": [
+          "Os componentes são líquidos misturados.",
+          "Cada um vaporiza numa temperatura diferente e é recolhido numa altura da coluna.",
+          "É a destilação fracionada, baseada no ponto de ebulição."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: filtro não separa líquidos dissolvidos entre si.",
+          "C: a decantação é lenta e não separa tantas frações.",
+          "D: queimar destruiria os combustíveis.",
+          "E: não há sólido sublimando."
+        ]
+      },
+      {
+        "suporte": [
+          "Gelo-seco é dióxido de carbono sólido. Em shows, ele produz uma névoa sobre o palco."
+        ],
+        "comando": "A névoa surge porque o gelo-seco",
+        "alternativas": [
+          "funde e depois evapora.",
+          "sublima, passando direto para o estado gasoso.",
+          "condensa o vapor do ar e vira água.",
+          "reage com o oxigênio e queima.",
+          "solidifica a água do palco."
+        ],
+        "passos": [
+          "O CO₂ sólido passa direto a gás em temperatura ambiente.",
+          "Essa passagem é a sublimação.",
+          "O gás muito frio condensa a umidade do ar e forma a névoa visível."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: o gelo-seco não passa pelo estado líquido em pressão normal.",
+          "C descreve só o efeito na umidade, não a transformação do gelo-seco.",
+          "D: não há combustão.",
+          "E: não há congelamento do palco."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q032",
+        "correta": "E",
+        "justificativa": "O ciclo da água é movido pela energia solar, que provoca a evaporação; o vapor depois se condensa e forma as chuvas.",
+        "distratores": [
+          "A: aceleração dos ventos não é o princípio do ciclo.",
+          "B: o ciclo não depende da queda de pressão no solo.",
+          "C: rochas vulcânicas não movem o ciclo da água.",
+          "D: desertos têm baixa umidade."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q016",
+        "correta": "B",
+        "justificativa": "O oxigênio (O₂) tem um só elemento: substância simples. A glicose (C₆H₁₂O₆) tem três elementos: substância composta.",
+        "distratores": [
+          "A inverte as classificações.",
+          "C: o O₂ não é composto.",
+          "D: o O₂ não é composto e a glicose não é mistura.",
+          "E: a glicose é uma substância, não uma mistura."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q015",
+        "correta": "D",
+        "justificativa": "O aparato aquece o cravo com água, o vapor passa por um tubo resfriado com água fria e condensa: é uma destilação.",
+        "distratores": [
+          "A: não há filtro.",
+          "B: não há repouso para separar por densidade.",
+          "C: nada passa do sólido ao gás.",
+          "E: floculação é etapa do tratamento de água."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q044",
+        "correta": "B",
+        "justificativa": "Combustíveis do petróleo são de origem fóssil e não renováveis, porque o petróleo leva milhões de anos para se formar.",
+        "distratores": [
+          "A: fóssil não é renovável.",
+          "C: são de origem fóssil.",
+          "D: não são renováveis.",
+          "E: não são de origem vegetal recente nem renováveis."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q031",
+        "correta": "E",
+        "justificativa": "A evaporação absorve calor do ambiente; por isso a evapotranspiração das florestas resfria e regula o clima.",
+        "distratores": [
+          "A: arco-íris não aquece o ambiente e não é o papel da evapotranspiração.",
+          "B: a evaporação não produz gás hidrogênio.",
+          "C: a água evapora como H₂O, sem se separar em átomos.",
+          "D: a evaporação não consome oxigênio."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q046",
+        "correta": "E",
+        "justificativa": "A água mineral contém água e sais dissolvidos: é uma mistura.",
+        "distratores": [
+          "A: não é só H₂O.",
+          "B: não tem um só elemento.",
+          "C: não é pura, porque tem sais dissolvidos.",
+          "D: a água mineral não é destilada."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q024",
+        "correta": "E",
+        "justificativa": "Na decantação, os flocos mais densos vão para o fundo dos tanques: a propriedade usada é a densidade.",
+        "distratores": [
+          "A: os flocos não são fundidos.",
+          "B: os flocos não viram vapor.",
+          "C: os flocos não se dissolvem.",
+          "D: os flocos afundam, não sobem."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q022",
+        "correta": "A",
+        "justificativa": "O sal é obtido nas salinas pela vaporização da água ao sol: um processo físico.",
+        "distratores": [
+          "B: não há filtro.",
+          "C: o sal está dissolvido e não decanta.",
+          "D: a evaporação é física, não química.",
+          "E: o processo não é químico."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q028",
+        "correta": "B",
+        "justificativa": "A separação das partículas mais densas no fundo é a decantação; a retenção por camadas de cascalho, areia e carvão é a filtração.",
+        "distratores": [
+          "A: floculação junta a sujeira em flocos, não separa por densidade.",
+          "C: cloração é química.",
+          "D: a primeira etapa descrita é decantação.",
+          "E: cloração é química."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q021",
+        "correta": "A",
+        "justificativa": "A folha de flandres é aço (mistura de ferro e carbono) revestido de estanho.",
+        "distratores": [
+          "B: o aço é mistura, e o revestimento é de estanho.",
+          "C: o revestimento é de estanho.",
+          "D: o aço não é substância composta.",
+          "E: o aço não é substância simples."
+        ]
+      },
+      {
+        "id": "etec-2017-1-q016",
+        "correta": "E",
+        "justificativa": "Diesel e óleo combustível são frações do petróleo obtidas por destilação fracionada, pelos diferentes pontos de ebulição.",
+        "distratores": [
+          "A: filtração não separa líquidos misturados.",
+          "B: não há sublimação.",
+          "C: decantação não separa as frações do petróleo.",
+          "D: o petróleo é separado por ebulição, não por fusão."
+        ]
+      },
+      {
+        "id": "etec-2014-2-q030",
+        "correta": "B",
+        "justificativa": "O gelo-seco é CO₂ sólido e passa direto ao estado gasoso: sublimação.",
+        "distratores": [
+          "A: ebulição é de líquido para gás.",
+          "C: vaporização também parte do líquido.",
+          "D: o gelo-seco é sólido, e liquefação é gás → líquido.",
+          "E: o gelo-seco não é líquido."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q021",
+        "correta": "A",
+        "justificativa": "Nas salinas, a água evapora pela ação do sol e do vento, e o sal fica.",
+        "distratores": [
+          "B: água líquida não sublima.",
+          "C: o sal não funde.",
+          "D: nem a água nem o sal sublimam.",
+          "E: não há solidificação."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q012",
+        "correta": "B",
+        "justificativa": "Para passar de 100 °C, é preciso um líquido com temperatura de ebulição maior que a da água, como o azeite.",
+        "distratores": [
+          "A: com menor temperatura de ebulição, ferveria antes.",
+          "C: azeite e água não se misturam (mistura heterogênea).",
+          "D: aumentar o fogo não faz a água fervente passar de 100 °C.",
+          "E não responde como atingir temperaturas maiores."
+        ]
+      }
+    ],
+    "resumo": [
+      "Substância pura: composição fixa; simples (1 elemento) ou composta.",
+      "Mistura homogênea: 1 fase; heterogênea: 2 ou mais fases.",
+      "Filtração: tamanho. Decantação: densidade. Destilação: ponto de ebulição.",
+      "Salina: evaporação. Petróleo: destilação fracionada.",
+      "Tratamento de água: floculação, decantação, filtração, cloração.",
+      "Sublimação: sólido → gás (gelo-seco).",
+      "Evaporar absorve calor e resfria.",
+      "Separar e mudar de estado são processos físicos."
+    ]
   }
 }

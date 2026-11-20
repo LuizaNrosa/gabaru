@@ -2406,5 +2406,339 @@
       "Aquecer dilata e diminui a densidade; folgas em cabos e trilhos.",
       "Durante a mudança de estado, a temperatura fica constante."
     ]
+  },
+  "biodiversidade-e-conservacao": {
+    "materia": "Matéria 2 · Ciências da Natureza · Biologia",
+    "introducao": "Biodiversidade e impactos ambientais aparecem em 11 das 23 provas recentes, e o tema atravessa também Geografia e Atualidades. A ETEC cobra a ameaça a espécies (tartarugas, abelhas, elefantes), a poluição de águas e do ar, o desmatamento e, principalmente, a escolha da ação sustentável correta. Este capítulo organiza as causas, as consequências e as soluções que a banca considera adequadas.",
+    "codigos": [
+      "BI06"
+    ],
+    "raioX": "Quase todas as questões trazem um texto sobre um problema ambiental e pedem a ação adequada para enfrentá-lo, ou a explicação biológica da ameaça. As alternativas erradas são reconhecíveis: propõem jogar o problema em outro lugar (esgoto no rio em vez do mar), aumentar o consumo de descartáveis, derrubar floresta para produzir mais, ou atribuem a um ser vivo uma característica falsa (tartaruga com brânquias, abelha que poliniza mais com agrotóxico).",
+    "intuicao": [
+      "A ação sustentável resolve o problema na origem: tratar o esgoto, reduzir o consumo de descartáveis, preservar o hábitat.",
+      "Desconfie de alternativas que apenas transferem a poluição de lugar ou que “resolvem” proibindo tudo.",
+      "Para explicar uma ameaça a uma espécie, ligue a causa (luz artificial, rede de pesca, agrotóxico) a uma característica real do animal.",
+      "Biodiversidade inclui espécies, genes e ecossistemas, e também os conhecimentos dos povos que vivem neles."
+    ],
+    "teoria": [
+      {
+        "titulo": "O que é biodiversidade e por que importa",
+        "texto": "Biodiversidade é a variedade da vida: o número de espécies, a variação genética dentro de cada espécie e a variedade de ecossistemas.\n\nO Brasil é um dos países mais biodiversos do mundo, com seis biomas (Amazônia, Mata Atlântica, Cerrado, Caatinga, Pantanal e Pampa) e uma enorme área marinha.\n\nA biodiversidade fornece serviços que a sociedade usa sem perceber:\n\n• Alimentos, madeira, fibras e matérias-primas de remédios.\n• Polinização: abelhas e outros animais polinizam grande parte das culturas alimentares.\n• Regulação do clima e do ciclo da água; florestas e oceanos retêm carbono.\n• Proteção do solo contra a erosão e dos rios contra o assoreamento.\n• Conhecimentos tradicionais de povos indígenas e comunidades locais sobre plantas e animais.\n\nPor isso, a perda de florestas tem impacto global, no clima e na pesquisa de novos medicamentos, e não só local."
+      },
+      {
+        "titulo": "As principais ameaças",
+        "texto": "• Destruição e fragmentação de hábitats: desmatamento, queimadas, expansão de pastos e cidades. É a maior causa de extinção.\n• Poluição: esgoto não tratado, agrotóxicos, plásticos, metais pesados, derramamento de petróleo.\n• Espécies invasoras: espécies levadas pelo ser humano que se espalham sem predadores (peixe-leão, javali, caramujo-africano).\n• Caça, pesca predatória e tráfico de animais. Pesca predatória é retirar peixes mais rápido do que a espécie consegue se reproduzir.\n• Mudanças climáticas: alteram temperatura, chuvas e o nível do mar.\n• Fotopoluição: luz artificial que desorienta animais.\n\nExemplos que já caíram:\n\n• Tartarugas marinhas: capturadas acidentalmente em redes (respiram ar, por pulmões, e se afogam presas); filhotes atraídos pelas luzes das praias vão para o continente em vez do mar.\n• Abelhas: ameaçadas por desmatamento, agrotóxicos, parasitas e mudanças climáticas, que reduzem as flores disponíveis."
+      },
+      {
+        "titulo": "Poluição da água e eutrofização",
+        "texto": "Esgoto doméstico e industrial lançado sem tratamento contamina rios, lagos e mares, espalha doenças e mata organismos aquáticos.\n\nEutrofização é o excesso de nutrientes (nitratos e fosfatos de esgoto e fertilizantes) na água:\n\n• As algas da superfície se multiplicam e formam uma camada que bloqueia a luz.\n• As algas do fundo morrem sem luz.\n• Bactérias decompositoras se multiplicam e consomem o oxigênio da água.\n• Peixes e outros seres aeróbios morrem por falta de oxigênio.\n\nA solução que a ETEC espera é sempre tratar o esgoto antes de devolvê-lo à natureza. Despejar em outro corpo d’água (rio, lago, lençol freático) apenas transfere o problema."
+      },
+      {
+        "titulo": "Poluição do ar e do solo",
+        "texto": "Poluição do ar: gases e partículas de veículos, indústrias e queimadas. Causa doenças respiratórias, chuva ácida e intensifica o efeito estufa.\n\nMedidas adequadas: catalisadores nos escapamentos, filtros nas chaminés, transporte público e por trilhos, energias limpas e combate às queimadas.\n\nPoluição do solo: lixões, agrotóxicos e resíduos industriais contaminam o solo e os lençóis freáticos. Alternativas sustentáveis na agricultura: controle biológico, uso de feromônios específicos para atrair e capturar pragas, rotação de culturas e adubação verde.\n\nOs 3 Rs: reduzir o consumo (principalmente de descartáveis), reutilizar e reciclar. Trocar copos, talheres e canudos descartáveis por reutilizáveis reduz a poluição plástica nos oceanos. Microplásticos em cosméticos e roupas chegam ao mar pelo esgoto e entram nas cadeias alimentares."
+      },
+      {
+        "titulo": "Desmatamento e alternativas de uso da floresta",
+        "texto": "O desmatamento da Amazônia e do Cerrado está ligado à expansão da pecuária, da agricultura, da extração ilegal de madeira e do garimpo. Consequências: perda de espécies, mudanças no regime de chuvas, emissão de gás carbônico, aumento de doenças como a malária e ameaça aos povos da floresta.\n\nAlternativas que conciliam renda e conservação:\n\n• Sistemas agroflorestais (SAFs): cultivos agrícolas junto com árvores, recuperando áreas degradadas e aumentando a renda do produtor.\n• Extrativismo sustentável (castanha, açaí, borracha) e reservas extrativistas.\n• Manejo florestal certificado; preferir madeira e papel de reflorestamento ou com certificação de origem legal.\n• Plantio de árvores nativas.\n• Unidades de conservação e terras indígenas, que estão entre as áreas mais preservadas."
+      },
+      {
+        "titulo": "Conservação: o que funciona",
+        "texto": "A conservação da biodiversidade combina ações do poder público, das empresas e de cada pessoa.\n\n• Proteger hábitats: unidades de conservação, áreas de preservação permanente (matas ciliares, topos de morro) e reservas legais.\n• Recuperar áreas degradadas: reflorestamento com espécies nativas, regeneração natural de antigas pastagens.\n• Santuários e centros de reabilitação: acolhem animais resgatados e promovem empatia e respeito pelos animais.\n• Regras de pesca: tamanho mínimo, épocas de defeso (proibição durante a reprodução), redes adequadas.\n• Iluminação adequada em praias de desova de tartarugas.\n• Educação ambiental e consumo consciente.\n\nNa vida diária: economizar água (fechar a torneira ao escovar os dentes), reduzir descartáveis, separar o lixo reciclável, preferir produtos certificados, apoiar pequenos produtores locais."
+      },
+      {
+        "titulo": "Impacto ambiental positivo e negativo",
+        "texto": "Para o Conselho Nacional do Meio Ambiente (CONAMA), impacto ambiental é qualquer alteração do meio ambiente causada por atividades humanas, e pode ser positivo ou negativo.\n\n• Positivos: recuperação de áreas degradadas, reciclagem, uso de produtos biodegradáveis, energia eólica e solar, tratamento de esgoto.\n• Negativos: esgotamento de recursos naturais, destruição da camada de ozônio, intensificação do efeito estufa, desmatamento.\n\nUma alternativa só está correta se as duas ações citadas forem positivas. A banca costuma juntar uma ação boa com uma ruim na mesma alternativa."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Texto sobre uma espécie ameaçada e a explicação correta da ameaça.\n• “Uma atitude adequada para…”: escolher a ação sustentável.\n• Problemas de poluição da água, do ar e do mar, e a solução na origem.\n• Afirmações I, II e III sobre o impacto do desmatamento.\n• Sistemas agroflorestais, santuários e conservação.\n\nEssas questões ligam Biologia à competência C5 (avaliar ações segundo critérios) e ao eixo de cidadania e preservação ambiental do edital."
+      }
+    ],
+    "armadilha": "A alternativa que “resolve” transferindo o problema: despejar esgoto em rios em vez do mar, guardar poluentes em minas abandonadas, mandar a poluição para áreas não industriais. A solução correta trata o problema na origem.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Um município litorâneo despeja o esgoto de 30 mil moradores, sem tratamento, numa lagoa costeira. Peixes começaram a morrer, e a água ficou verde e com mau cheiro."
+        ],
+        "comando": "A medida mais adequada para resolver o problema é",
+        "alternativas": [
+          "desviar o esgoto para o rio mais próximo.",
+          "construir uma estação de tratamento de esgoto antes do lançamento.",
+          "colocar mais peixes na lagoa.",
+          "proibir a pesca na lagoa.",
+          "adicionar fertilizantes para as algas crescerem mais."
+        ],
+        "passos": [
+          "O excesso de nutrientes do esgoto causou eutrofização: algas em excesso, falta de oxigênio e morte de peixes.",
+          "A causa é o esgoto sem tratamento.",
+          "Tratar o esgoto resolve na origem."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A transfere o problema para o rio.",
+          "C: os peixes novos também morreriam sem oxigênio.",
+          "D não ataca a causa.",
+          "E agravaria a eutrofização."
+        ]
+      },
+      {
+        "suporte": [
+          "Em praias de desova, prefeituras trocam a iluminação branca da orla por luzes baixas e de tom âmbar durante a temporada de nascimento das tartarugas."
+        ],
+        "comando": "A medida protege os filhotes porque",
+        "alternativas": [
+          "eles se orientam pela claridade natural do horizonte no mar e, com luz artificial forte, se perdem em direção ao continente.",
+          "a luz forte aquece demais os ovos.",
+          "os filhotes têm brânquias e precisam de escuridão para respirar.",
+          "a luz atrai predadores marinhos.",
+          "tartarugas são noturnas e não toleram nenhuma luz."
+        ],
+        "passos": [
+          "Ao nascer, os filhotes seguem para a área mais clara, que naturalmente é o horizonte sobre o mar.",
+          "Luzes artificiais fortes na orla os desviam para o continente.",
+          "Reduzir e ajustar a luz evita essa desorientação (fotopoluição)."
+        ],
+        "correta": "A",
+        "distratores": [
+          "B: os ovos ficam enterrados e o problema é a orientação.",
+          "C: tartarugas respiram por pulmões.",
+          "D não explica o desvio para o continente.",
+          "E exagera; o problema é a luz artificial na direção errada."
+        ]
+      },
+      {
+        "suporte": [
+          "Leia as afirmações sobre o desmatamento da Amazônia.",
+          "I. Ameaça espécies que nem foram descritas pela ciência.",
+          "II. Afeta apenas as comunidades que vivem na floresta.",
+          "III. Interfere no regime de chuvas de outras regiões do país."
+        ],
+        "comando": "Está correto o que se afirma em",
+        "alternativas": [
+          "I, apenas.",
+          "II, apenas.",
+          "I e III, apenas.",
+          "II e III, apenas.",
+          "I, II e III."
+        ],
+        "passos": [
+          "I: correta; muitas espécies desconhecidas desaparecem com a floresta.",
+          "II: incorreta; os impactos são regionais e globais.",
+          "III: correta; a floresta influencia a umidade e as chuvas de outras regiões."
+        ],
+        "correta": "C",
+        "distratores": [
+          "A ignora a afirmação III.",
+          "B escolhe justamente a afirmação incorreta.",
+          "D inclui a afirmação II, que é falsa.",
+          "E inclui a II."
+        ]
+      },
+      {
+        "suporte": [
+          "Um agricultor quer reduzir o uso de inseticidas na horta sem perder a produção."
+        ],
+        "comando": "Uma alternativa sustentável é",
+        "alternativas": [
+          "aplicar inseticida em dobro uma única vez.",
+          "usar armadilhas com feromônios específicos das pragas e soltar joaninhas, predadoras de pulgões.",
+          "queimar a horta depois de cada colheita.",
+          "trocar as hortaliças por plantas de plástico.",
+          "cobrir o solo com plástico preto permanentemente."
+        ],
+        "passos": [
+          "Feromônios atraem apenas a espécie-praga para armadilhas.",
+          "Joaninhas fazem controle biológico dos pulgões.",
+          "As duas medidas reduzem o uso de químicos."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A aumenta a carga química.",
+          "C destrói o solo e a biodiversidade.",
+          "D não faz sentido para produção.",
+          "E prejudica o solo e a infiltração de água."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma escola quer reduzir o lixo plástico gerado na cantina."
+        ],
+        "comando": "A ação com maior impacto positivo é",
+        "alternativas": [
+          "oferecer copos e talheres descartáveis de cores diferentes.",
+          "substituir descartáveis por copos, pratos e talheres reutilizáveis.",
+          "enterrar o lixo plástico no pátio.",
+          "queimar o plástico no fim do dia.",
+          "jogar o lixo plástico no lixo comum."
+        ],
+        "passos": [
+          "O melhor é não gerar o resíduo (reduzir).",
+          "Reutilizáveis substituem milhares de descartáveis.",
+          "Enterrar e queimar poluem solo e ar."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A mantém os descartáveis.",
+          "C contamina o solo; o plástico não se decompõe rápido.",
+          "D polui o ar.",
+          "E não reduz nem recicla."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q049",
+        "correta": "C",
+        "justificativa": "A fotopoluição desorienta os filhotes: em vez de seguir a claridade natural do horizonte sobre o mar, eles vão em direção às luzes artificiais do continente.",
+        "distratores": [
+          "A: tartarugas marinhas vivem a maior parte da vida no mar, não nas praias.",
+          "B: tartarugas respiram por pulmões, e não por brânquias; por isso se afogam presas nas redes.",
+          "D descreve consequências das mudanças climáticas de forma errada, como se favorecessem a desova.",
+          "E não corresponde às ameaças do texto."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q047",
+        "correta": "D",
+        "justificativa": "O santuário promove empatia e respeito pelos elefantes e pelo bem-estar animal, além de recuperar áreas degradadas.",
+        "distratores": [
+          "A propõe reconectar as pessoas ao uso de animais em circos, o oposto da proposta.",
+          "B quer aumentar elefantes para zoológicos privados.",
+          "C culpa os elefantes por um desmatamento que não ocorreu; o texto fala em regeneração.",
+          "E não corresponde ao papel do santuário descrito."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q037",
+        "correta": "C",
+        "justificativa": "Feromônios sintetizados para armadilhas atraem apenas a espécie-praga; por serem específicos, são uma alternativa sustentável aos agrotóxicos.",
+        "distratores": [
+          "A descreve efeitos de agrotóxicos, não de feromônios.",
+          "B: feromônios são específicos e não exterminam todos os insetos.",
+          "D atribui aos feromônios a toxicidade dos agrotóxicos.",
+          "E: o uso de feromônios não gera poluição industrial do ar."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q001",
+        "correta": "C",
+        "justificativa": "Regar na medida certa evita que o solo fique encharcado; sem ar no solo, as raízes não conseguem respirar.",
+        "distratores": [
+          "A: adubar corretamente é necessário; o problema é o excesso.",
+          "B: lesmas e caramujos são pragas, não polinizadores.",
+          "D: o controle biológico ajuda a combater pragas.",
+          "E não traz uma ação de cultivo adequada."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q035",
+        "correta": "C",
+        "justificativa": "Os sistemas agroflorestais aliam renda ao produtor e recuperação ambiental, reduzindo o desmatamento.",
+        "distratores": [
+          "A propõe trocar floresta por pasto.",
+          "B favorece a madeira ilegal.",
+          "D foca em obras de transporte, não nos SAFs.",
+          "E favorece a concentração de terras e ameaça terras indígenas."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q033",
+        "correta": "E",
+        "justificativa": "Plantar árvores nativas é uma atitude individual que ajuda a recuperar hábitats e a preservar a biodiversidade.",
+        "distratores": [
+          "A culpa pequenos produtores sem fundamento.",
+          "B recomenda justamente produtos sem certificação.",
+          "C aumenta o consumo de descartáveis.",
+          "D aumenta o consumo de carne, ligado ao desmatamento."
+        ]
+      },
+      {
+        "id": "etec-2023-2-q011",
+        "correta": "C",
+        "justificativa": "Usar produtos biodegradáveis e reciclar materiais são dois impactos positivos.",
+        "distratores": [
+          "A junta uma ação positiva (recuperação) com uma negativa (esgotamento de recursos).",
+          "B junta destruição da camada de ozônio (negativa) com energia eólica (positiva).",
+          "D inclui a potencialização do efeito estufa, negativa.",
+          "E não reúne duas ações positivas."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q018",
+        "correta": "C",
+        "justificativa": "Substituir descartáveis por reutilizáveis reduz o lixo plástico que chega ao mar.",
+        "distratores": [
+          "A defende microplásticos, que contaminam a cadeia alimentar marinha.",
+          "B defende descartar recicláveis em locais inadequados.",
+          "D não reduz a poluição marinha.",
+          "E não reduz a poluição marinha."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q017",
+        "correta": "E",
+        "justificativa": "Tratar o esgoto antes de devolvê-lo ao oceano resolve o problema na origem.",
+        "distratores": [
+          "A transfere a poluição para os rios.",
+          "B contamina a água subterrânea.",
+          "C polui as lagoas costeiras.",
+          "D polui os reservatórios das hidrelétricas."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q018",
+        "correta": "D",
+        "justificativa": "I e III estão corretas: o desmatamento ameaça conhecimentos tradicionais e pode afetar o clima mundial e a pesquisa médica. II está errada, porque o impacto não se restringe aos povos locais.",
+        "distratores": [
+          "A ignora a afirmação III.",
+          "B escolhe a única afirmação incorreta.",
+          "C ignora a afirmação I.",
+          "E inclui a afirmação II, que é falsa."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q029",
+        "correta": "B",
+        "justificativa": "Esponjas são animais aquáticos e porosos que filtram partículas de alimento da água que circula por seus canais internos.",
+        "distratores": [
+          "A: cetáceos (baleias, golfinhos) não põem ovos com casca.",
+          "C: moluscos, estrelas-do-mar e águas-vivas não têm antenas, e crustáceos têm exoesqueleto e apêndices.",
+          "D não corresponde às características dos organismos citados.",
+          "E não corresponde às características dos organismos citados."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q014",
+        "correta": "D",
+        "justificativa": "Tratar a água e os esgotos residenciais e industriais permite devolvê-los limpos à natureza.",
+        "distratores": [
+          "A acumula esgoto sem tratamento.",
+          "B: cisternas guardam água da chuva e não tratam esgoto.",
+          "C proíbe o uso da água e fecha indústrias, sem resolver o problema.",
+          "E não é uma solução sanitária adequada."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q013",
+        "correta": "E",
+        "justificativa": "Catalisadores nos escapamentos e filtros nas chaminés reduzem a emissão de poluentes na origem.",
+        "distratores": [
+          "A atribui à energia eólica a dispersão de poluentes.",
+          "B guarda poluentes em minas e mantém combustíveis fósseis.",
+          "C transfere a poluição para outras áreas.",
+          "D tira os trens e incentiva o diesel, aumentando a poluição."
+        ]
+      }
+    ],
+    "resumo": [
+      "Biodiversidade: espécies, genes, ecossistemas e conhecimentos tradicionais.",
+      "Maior ameaça: destruição de hábitats (desmatamento, queimadas).",
+      "Eutrofização: excesso de nutrientes, algas, falta de oxigênio, morte de peixes.",
+      "Solução certa: tratar na origem (esgoto, emissões), não transferir.",
+      "Tartarugas: pulmões (se afogam em redes) e fotopoluição desorienta filhotes.",
+      "Abelhas: agrotóxicos, desmatamento e clima reduzem polinizadores.",
+      "Sustentável: SAFs, controle biológico, feromônios, reutilizáveis, árvores nativas.",
+      "Alternativa só vale se todas as ações citadas forem positivas."
+    ]
   }
 }

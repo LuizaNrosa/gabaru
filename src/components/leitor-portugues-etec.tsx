@@ -91,7 +91,7 @@ export function LeitorPortuguesEtec({ livro, slug, titulo, capitulo, marca, minu
         <Image src="/marca/gabaru-carimbo.webp" width={52} height={52} alt="Carimbo Gabaru" />
         <p className="gb-eyebrow">{capitulo.materia ?? 'Matéria 1 · Português e Interpretação de Texto'}</p>
         <h1>{titulo}</h1>
-        <p>{capitulo.introducao}</p>
+        <p><Rico texto={capitulo.introducao} /></p>
       </header>
       {temRaioX && <section aria-labelledby="raio-x">
         <h2 id="raio-x">Raio-X da banca</h2>
@@ -103,18 +103,18 @@ export function LeitorPortuguesEtec({ livro, slug, titulo, capitulo, marca, minu
             </li>
           ))}
         </ul>}
-        {capitulo.raioX && <p>{capitulo.raioX}</p>}
+        {capitulo.raioX && <p><Rico texto={capitulo.raioX} /></p>}
       </section>}
       <section aria-labelledby="desbloqueio">
         <h2 id="desbloqueio">Desbloqueio e intuição</h2>
-        <ol className="list-decimal pl-6">{capitulo.intuicao.map(passo => <li key={passo}>{passo}</li>)}</ol>
+        <ol className="list-decimal pl-6">{capitulo.intuicao.map(passo => <li key={passo}><Rico texto={passo} /></li>)}</ol>
       </section>
       <section aria-labelledby="teoria">
         <h2 id="teoria">Teoria calibrada ao edital</h2>
         {capitulo.teoria.map(item => <div key={item.titulo}><h3>{item.titulo}</h3><TextoTeoria texto={item.texto} />{item.figura && <Figura figura={item.figura} />}</div>)}
         <aside className="gb-exam-trap" aria-labelledby="armadilha">
           <h3 id="armadilha">Armadilha clássica da ETEC</h3>
-          <p>{capitulo.armadilha}</p>
+          <p><Rico texto={capitulo.armadilha} /></p>
         </aside>
       </section>
       {capitulo.exemplos.length > 0 && <section aria-labelledby="exemplos">

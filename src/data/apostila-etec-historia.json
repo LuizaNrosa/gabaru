@@ -1090,5 +1090,391 @@
       "Regência: Cabanagem, Farroupilha, Malês.",
       "Segundo Reinado: café, ferrovias, imigrantes, Lei Áurea (1888)."
     ]
+  },
+  "republicas-e-mundo-contemporaneo": {
+    "materia": "Matéria 4 · Ciências Humanas · História",
+    "introducao": "O último capítulo de História vai da Proclamação da República aos dias de hoje, no Brasil e no mundo. A ETEC usa fatos marcantes como porta de entrada: a cadela Laika, Hiroshima, Anne Frank, Gandhi, a Transamazônica, a Petrobras, a Revolução dos Cravos. O segredo é localizar o fato no tempo e reconhecer o período: Primeira Guerra, entreguerras, Segunda Guerra, Guerra Fria, Era Vargas, ditadura, redemocratização.",
+    "codigos": [
+      "HI06",
+      "HI07"
+    ],
+    "raioX": "Os itens pedem: características da Primeira República, da Era Vargas e da ditadura civil-militar; ciclo da borracha e imigração japonesa; Tratado de Versalhes, crise de 1929, Segunda Guerra e Holocausto, bomba atômica, ONU e direitos humanos, Guerra Fria, descolonização. Os distratores trocam guerras de lugar no tempo (Guerra Fria antes da ONU, Versalhes depois de 1945) ou misturam ditadores e países.",
+    "intuicao": [
+      "Primeira Guerra termina com Versalhes (1919); Segunda Guerra termina com a ONU (1945).",
+      "Guerra Fria (1947–1991) é disputa EUA × URSS sem guerra direta entre eles: corrida espacial, armamentista e guerras indiretas.",
+      "Era Vargas = Estado forte que industrializa e cria leis trabalhistas.",
+      "Ditadura civil-militar (1964–1985): obras gigantes, censura, repressão, fim com as Diretas Já e a Constituição de 1988."
+    ],
+    "teoria": [
+      {
+        "titulo": "Primeira República (1889–1930)",
+        "texto": "• 1889: Proclamação da República; Constituição de 1891 com voto aberto, só para homens alfabetizados.\n• República Oligárquica ou do Café com Leite: São Paulo e Minas Gerais se alternavam na presidência; coronelismo e voto de cabresto.\n• Ciclo da borracha (c. 1879–1912): a demanda mundial por pneus atraiu à Amazônia nordestinos fugidos da grande seca de 1877–1879. Manaus e Belém enriqueceram.\n• Acre: comprado da Bolívia pelo Tratado de Petrópolis (1903).\n• Imigração: em 1908, o Kasato Maru trouxe os primeiros japoneses para as fazendas de café de São Paulo.\n• Revoltas: Canudos, Contestado, Revolta da Vacina, Greve Geral de 1917.\n• Tenentismo: jovens oficiais contra as oligarquias; a Coluna Prestes (1925–1927) percorreu o interior do país."
+      },
+      {
+        "titulo": "Era Vargas (1930–1945)",
+        "texto": "A Revolução de 1930 levou Getúlio Vargas ao poder.\n\n• Constituição de 1934: voto secreto, voto feminino, salário mínimo previsto, riquezas do subsolo como patrimônio nacional.\n• Estado Novo (1937–1945): ditadura, censura, centralização.\n• O Estado conduziu a industrialização: CLT (1943), Companhia Siderúrgica Nacional e, no segundo governo, a Petrobras (1953), com o monopólio do petróleo.\n\nVargas voltou eleito em 1951 e governou até 1954."
+      },
+      {
+        "titulo": "Da democracia à ditadura e de volta",
+        "texto": "• 1945–1964: período democrático. Juscelino Kubitschek abriu o país ao capital estrangeiro, trouxe a indústria automobilística e construiu Brasília (1960).\n• 1964–1985: ditadura civil-militar. Atos Institucionais (o AI-5, de 1968, o mais duro), censura, tortura e exílio. \"Milagre econômico\" e grandes obras, como a Transamazônica, inaugurada no governo Médici, com a ideia de integrar o Norte e \"vencer\" a floresta.\n• Redemocratização: Anistia (1979), Diretas Já (1984), Constituição Cidadã de 1988, eleição direta para presidente em 1989."
+      },
+      {
+        "titulo": "Primeira Guerra Mundial e entreguerras",
+        "texto": "• Primeira Guerra (1914–1918): disputas imperialistas e nacionalismos. Tríplice Entente contra Tríplice Aliança.\n• Tratado de Versalhes (1919): a Alemanha foi responsabilizada pela guerra, perdeu colônias e territórios, foi desmilitarizada e obrigada a pagar indenização altíssima. Isso agravou sua crise e alimentou ressentimentos.\n• Revolução Russa (1917): nasce o primeiro Estado socialista, a futura URSS.\n• Crise de 1929: superprodução nos EUA, queda das exportações para a Europa e quebra da Bolsa de Nova York. Falências e desemprego se espalharam pelo mundo; no Brasil, o café despencou.\n• Totalitarismos: fascismo na Itália (Mussolini), nazismo na Alemanha (Hitler), salazarismo em Portugal e franquismo na Espanha."
+      },
+      {
+        "titulo": "Segunda Guerra Mundial (1939–1945)",
+        "texto": "• Começou com a invasão da Polônia pela Alemanha. Eixo (Alemanha, Itália, Japão) contra Aliados (Reino Unido, França, URSS, EUA).\n• Holocausto: o regime nazista exterminou cerca de 6 milhões de judeus, além de ciganos, homossexuais, deficientes e opositores. O diário de Anne Frank é um dos testemunhos mais lidos.\n• Dia D: desembarque aliado na Normandia (6 de junho de 1944).\n• A Alemanha se rendeu em maio de 1945. Em agosto, os EUA lançaram bombas atômicas sobre Hiroshima e Nagasaki, e o Japão se rendeu. Os sobreviventes sofreram com a radiação por décadas.\n• O Brasil participou com a Força Expedicionária Brasileira, na Itália."
+      },
+      {
+        "titulo": "ONU e direitos humanos",
+        "texto": "Em 1945, foi criada a Organização das Nações Unidas, para preservar as gerações futuras dos males da guerra, que por duas vezes trouxera sofrimentos à humanidade.\n\n• A Declaração Universal dos Direitos Humanos (1948) reúne muitos desses propósitos: dignidade humana, igualdade entre homens e mulheres, liberdade.\n• A ONU não impediu as guerras mundiais, porque é posterior a elas; foi criada justamente depois."
+      },
+      {
+        "titulo": "Guerra Fria (1947–1991)",
+        "texto": "Disputa entre EUA (capitalismo) e URSS (socialismo) por áreas de influência, sem confronto militar direto entre as duas superpotências.\n\n• Corrida armamentista e nuclear.\n• Corrida espacial: Sputnik (1957), a cadela Laika no Sputnik 2, Yuri Gagarin (1961), chegada à Lua (1969).\n• Guerras indiretas: Coreia (1950–1953) e Vietnã (1955–1975), que gerou campanhas pacifistas como a de John Lennon e Yoko Ono.\n• Muro de Berlim (1961–1989) e ditaduras na América Latina.\n• Fim: queda do muro (1989) e dissolução da URSS (1991).\n\nNo capitalismo, os preços se formam pela lei da oferta e da procura; no socialismo soviético, a economia era planificada pelo Estado."
+      },
+      {
+        "titulo": "Descolonização e o mundo atual",
+        "texto": "• Índia: Gandhi liderou a resistência não violenta contra o domínio britânico. Na Marcha do Sal (1930), os indianos produziram o próprio sal para não pagar o imposto inglês. A independência veio em 1947.\n• África: a maioria das colônias se tornou independente entre 1950 e 1975. A Revolução dos Cravos (1974), que derrubou a ditadura salazarista em Portugal, acelerou a independência de Angola, Moçambique, Cabo Verde e Guiné-Bissau em 1975.\n• Zoológicos com animais exóticos expostos na Europa do século XIX eram um símbolo do neocolonialismo: o poder sobre as terras distantes.\n• Pós-Guerra Fria: globalização, internet e novas tecnologias, que mudaram até o cinema, com a migração do público para streaming e televisão."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Um fato curioso (Laika, Hiroshima, Kasato Maru) e a pergunta sobre o período.\n• Trecho de documento (Versalhes, Carta da ONU) e o contexto.\n• Características de governos brasileiros.\n\nMonte uma linha do tempo mental: 1889, 1914–1918, 1929, 1930, 1937, 1939–1945, 1964, 1985, 1988, 1991. A maioria dos distratores cai fora dela."
+      }
+    ],
+    "armadilha": "Pôr a Guerra Fria antes de 1945, o Tratado de Versalhes depois da Segunda Guerra ou a ONU antes das guerras mundiais. E confundir Salazar (Portugal) com Franco (Espanha).",
+    "exemplos": [
+      {
+        "suporte": [
+          "Em 1943, foi aprovada a Consolidação das Leis do Trabalho (CLT), que reuniu direitos como férias e jornada de oito horas."
+        ],
+        "comando": "O Brasil era governado por",
+        "alternativas": [
+          "Dom Pedro II.",
+          "Getúlio Vargas, no Estado Novo.",
+          "Juscelino Kubitschek.",
+          "um general da ditadura.",
+          "Fernando Henrique Cardoso."
+        ],
+        "passos": [
+          "1943 está entre 1937 e 1945.",
+          "Esse período é o Estado Novo de Vargas."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A governou até 1889.",
+          "C governou de 1956 a 1961.",
+          "D: a ditadura militar começou em 1964.",
+          "E governou nos anos 1990."
+        ]
+      },
+      {
+        "suporte": [
+          "Em 1962, os EUA descobriram mísseis soviéticos em Cuba, e o mundo temeu uma guerra nuclear."
+        ],
+        "comando": "O episódio faz parte",
+        "alternativas": [
+          "da Primeira Guerra Mundial.",
+          "da Guerra Fria.",
+          "da Segunda Guerra Mundial.",
+          "da crise de 1929.",
+          "das Grandes Navegações."
+        ],
+        "passos": [
+          "EUA × URSS, ameaça nuclear, década de 1960.",
+          "É a Crise dos Mísseis, na Guerra Fria."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A terminou em 1918.",
+          "C terminou em 1945.",
+          "D é crise econômica.",
+          "E é dos séculos XV e XVI."
+        ]
+      },
+      {
+        "suporte": [
+          "Em 1919, a Alemanha perdeu colônias, teve o exército reduzido e foi obrigada a pagar grandes indenizações."
+        ],
+        "comando": "Essas imposições vieram",
+        "alternativas": [
+          "do Tratado de Tordesilhas.",
+          "do Tratado de Versalhes, após a Primeira Guerra.",
+          "da Carta da ONU.",
+          "da Conferência de Berlim.",
+          "do Plano Marshall."
+        ],
+        "passos": [
+          "1919: fim da Primeira Guerra.",
+          "O acordo de paz com a Alemanha foi o Tratado de Versalhes."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é de 1494.",
+          "C é de 1945.",
+          "D é de 1884–1885.",
+          "E é ajuda americana após 1947."
+        ]
+      },
+      {
+        "suporte": [
+          "A Constituição de 1988 ficou conhecida como Constituição Cidadã."
+        ],
+        "comando": "Ela marcou",
+        "alternativas": [
+          "o início da ditadura militar.",
+          "a redemocratização após a ditadura civil-militar.",
+          "a Proclamação da República.",
+          "o Estado Novo.",
+          "a independência."
+        ],
+        "passos": [
+          "A ditadura terminou em 1985.",
+          "A nova Constituição ampliou direitos e consolidou a democracia."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é de 1964.",
+          "C é de 1889.",
+          "D é de 1937.",
+          "E é de 1822."
+        ]
+      },
+      {
+        "suporte": [
+          "Gandhi defendia resistir ao domínio britânico sem violência, boicotando produtos ingleses."
+        ],
+        "comando": "Essa luta levou",
+        "alternativas": [
+          "à unificação da Alemanha.",
+          "à independência da Índia, em 1947.",
+          "à Revolução Russa.",
+          "ao fim do Império Romano.",
+          "à Guerra do Vietnã."
+        ],
+        "passos": [
+          "Gandhi liderou a resistência na Índia.",
+          "A independência veio em 1947."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A é de 1871.",
+          "C é de 1917.",
+          "D é de 476.",
+          "E foi no Sudeste Asiático, sem relação com Gandhi."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-1-q046",
+        "correta": "C",
+        "justificativa": "Os zoológicos de animais exóticos surgem no neocolonialismo: expansão territorial, econômica, política e cultural europeia sobre outros continentes.",
+        "distratores": [
+          "A: não houve revolução cultural educacional europeia com esse sentido.",
+          "B: \"pão e circo\" é uma expressão da Roma Antiga.",
+          "D: o absolutismo é anterior.",
+          "E: o processo não era democrático para os povos dominados."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q007",
+        "correta": "E",
+        "justificativa": "A corrida espacial entre EUA e URSS, com Laika e Gagarin, é característica da Guerra Fria.",
+        "distratores": [
+          "A: a Primeira Revolução Industrial é do século XVIII.",
+          "B: a Segunda Guerra acabou em 1945.",
+          "C: a reconstrução europeia não envolvia corrida espacial.",
+          "D: as navegações são dos séculos XV e XVI."
+        ]
+      },
+      {
+        "id": "etec-2025-1-q010",
+        "correta": "E",
+        "justificativa": "O evento é a Revolução dos Cravos, de 1974, em Portugal.",
+        "distratores": [
+          "A: a China teve as Guerras do Ópio, não \"da Papoula\".",
+          "B: a Guerra das Duas Rosas foi na Inglaterra medieval.",
+          "C: não existiu Revolução do Mandacaru.",
+          "D: não existiu Revolução do Lótus na Índia."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q045",
+        "correta": "D",
+        "justificativa": "Os bombardeios atômicos de 1945, em Hiroshima e Nagasaki, ocorreram na Segunda Guerra Mundial.",
+        "distratores": [
+          "A: a guerra russo-japonesa foi em 1904–1905.",
+          "B: a Guerra da Coreia começou em 1950.",
+          "C: o Vietnã é posterior.",
+          "E: a Primeira Guerra terminou em 1918, sem bombas atômicas."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q049",
+        "correta": "C",
+        "justificativa": "A rodovia inaugurada por Médici perto de Altamira é a Transamazônica, obra da ditadura civil-militar para integrar o Norte.",
+        "distratores": [
+          "A: a Rodovia dos Tamoios fica entre o Vale do Paraíba e o litoral paulista.",
+          "B: a Estrada Real é colonial.",
+          "D: a Estrada Velha de Santos é paulista.",
+          "E: a BR-116 não passa por Altamira."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q038",
+        "correta": "A",
+        "justificativa": "A falta de mão de obra na Amazônia coincidiu com a seca de 1877–1879, e muitos sertanejos migraram para os seringais.",
+        "distratores": [
+          "B: a demanda fez crescer, não cair, a extração do látex.",
+          "C: Vargas governou depois do auge da borracha.",
+          "D: Juscelino governou nos anos 1950.",
+          "E: a borracha era exportada como matéria-prima, não como pneus nacionais."
+        ]
+      },
+      {
+        "id": "etec-2022-2-q022",
+        "correta": "B",
+        "justificativa": "A crise de 1929 abalou mercados de todo o mundo, causou falências e desemprego.",
+        "distratores": [
+          "A: a crise se espalhou pelo mundo.",
+          "C: os países africanos também foram afetados.",
+          "D: o café brasileiro desabou.",
+          "E: muitos governos intervieram na economia, como no New Deal."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q041",
+        "correta": "E",
+        "justificativa": "Versalhes foi assinado após a Primeira Guerra: a Alemanha perdeu colônias e territórios, foi desmilitarizada e pagou altas indenizações.",
+        "distratores": [
+          "A: a divisão da Alemanha e o Muro são posteriores à Segunda Guerra.",
+          "B: a Guerra Franco-Prussiana terminou em 1871, com vitória alemã.",
+          "C: a Guerra Austro-Prussiana é de 1866.",
+          "D: a Guerra da Crimeia é de 1853–1856."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q020",
+        "correta": "E",
+        "justificativa": "Vargas usou o Estado para conduzir a industrialização, com a CLT e estatais em setores estratégicos, como a Petrobras.",
+        "distratores": [
+          "A: o incentivo ao etanol é do Proálcool, de 1975.",
+          "B: Vargas não fez intervenções militares na América Latina.",
+          "C: a política de Vargas era intervencionista, não liberal.",
+          "D: empreiteiras brasileiras na África são de décadas posteriores."
+        ]
+      },
+      {
+        "id": "etec-2018-2-q015",
+        "correta": "D",
+        "justificativa": "Hiroshima foi um dos últimos eventos da Segunda Guerra, quando a guerra na Europa já havia acabado.",
+        "distratores": [
+          "A: o Japão foi derrotado e ocupado.",
+          "B: a Guerra Fria começou depois, e os Sudetos ficam na Europa.",
+          "C: a Coreia do Norte ainda não existia.",
+          "E: a intervenção europeia na Ásia e na África é do século XIX."
+        ]
+      },
+      {
+        "id": "etec-2017-1-q008",
+        "correta": "C",
+        "justificativa": "A Declaração Universal dos Direitos Humanos, de 1948, reúne propósitos da ONU, como o respeito à dignidade humana.",
+        "distratores": [
+          "A: a ONU é de 1945, antes da Guerra Fria.",
+          "B: o Eixo não lutava pelo respeito entre nações.",
+          "D: a ONU foi criada depois das duas guerras.",
+          "E: a iniciativa partiu das grandes potências aliadas."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q046",
+        "correta": "E",
+        "justificativa": "A Constituição de 1934 e o Estado Novo, em 1937, são da Era Vargas.",
+        "distratores": [
+          "A: o Café com Leite terminou em 1930.",
+          "B: a Regência é de 1831 a 1840.",
+          "C: o Segundo Reinado acabou em 1889.",
+          "D: a ditadura militar é de 1964 a 1985."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q045",
+        "correta": "A",
+        "justificativa": "A Coluna Prestes foi um movimento tenentista contra as oligarquias da República do Café com Leite.",
+        "distratores": [
+          "B: o movimento criticava, não defendia, a fragmentação em \"feudos\".",
+          "C: nesse momento, o movimento não era comunista.",
+          "D: o integralismo é dos anos 1930.",
+          "E: o movimento era contra as oligarquias."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q022",
+        "correta": "B",
+        "justificativa": "A Marcha do Sal expressou a recusa de Gandhi à exploração neocolonial da Índia pela Inglaterra.",
+        "distratores": [
+          "A: Gandhi não governava a Índia nem cooperava com o império.",
+          "C: a marcha protestava contra impostos.",
+          "D: Gandhi rejeitava o domínio britânico.",
+          "E: o objetivo era produzir o próprio sal, não deixar de usá-lo."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q018",
+        "correta": "C",
+        "justificativa": "Os primeiros japoneses do Kasato Maru foram para as fazendas de café de São Paulo.",
+        "distratores": [
+          "A: o Pará não foi o destino nem o trigo, a lavoura.",
+          "B: o cacau era baiano.",
+          "D: a soja não era a lavoura da época.",
+          "E: Minas Gerais e a cana não foram o destino."
+        ]
+      },
+      {
+        "id": "etec-2014-1-q016",
+        "correta": "A",
+        "justificativa": "A diferença no comércio de bananas reflete o sistema capitalista, regido pela lei da oferta e da procura.",
+        "distratores": [
+          "B: planificação estatal é do socialismo.",
+          "C: o mercantilismo é dos séculos XV a XVIII.",
+          "D: preços tabelados pelo rei não existem hoje.",
+          "E: o comércio descrito não é socialista."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q049",
+        "correta": "D",
+        "justificativa": "Anne Frank viveu a Segunda Guerra, quando o nazismo exterminou judeus e opositores.",
+        "distratores": [
+          "A: Anne nasceu em 1929, depois da Primeira Guerra.",
+          "B: Anne não viveu a Primeira Guerra.",
+          "C: a primeira invasão de Hitler foi a Polônia, não a França.",
+          "E: Salazar era português, e o ditador espanhol era Franco."
+        ]
+      },
+      {
+        "id": "etec-2013-2-q023",
+        "correta": "D",
+        "justificativa": "A campanha de John e Yoko, em 1969, era pacifista, contra conflitos da Guerra Fria como a Guerra do Vietnã.",
+        "distratores": [
+          "A: a Segunda Guerra acabara havia mais de vinte anos, e o Japão perdeu.",
+          "B: a campanha era contra a guerra.",
+          "C: a Guerra da Coreia terminara em 1953; a campanha não criticava a imprensa.",
+          "E: a campanha não defendia ditaduras."
+        ]
+      }
+    ],
+    "resumo": [
+      "1889 República; Café com Leite até 1930; borracha e imigrantes.",
+      "Era Vargas (1930–1945): CLT, voto feminino, Estado Novo; Petrobras em 1953.",
+      "Ditadura (1964–1985): AI-5, grandes obras; Constituição de 1988.",
+      "1ª Guerra (1914–1918) → Versalhes. Crise de 1929.",
+      "2ª Guerra (1939–1945): Holocausto, Dia D, Hiroshima.",
+      "ONU (1945) e Declaração dos Direitos Humanos (1948).",
+      "Guerra Fria (1947–1991): corrida espacial, Coreia, Vietnã, Muro.",
+      "Descolonização: Gandhi (1947); Revolução dos Cravos (1974)."
+    ]
   }
 }

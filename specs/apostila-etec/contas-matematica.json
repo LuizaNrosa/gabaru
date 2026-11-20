@@ -387,5 +387,37 @@
       "conta": "12+32",
       "esperado": 44
     }
+  ],
+  "ondas-som-luz-e-astronomia": [
+    {
+      "rotulo": "etec-2023-1-q032",
+      "conta": "2*140/1400",
+      "esperado": 0.2
+    },
+    {
+      "rotulo": "etec-2023-1-q031",
+      "conta": "1400/100000",
+      "esperado": 0.014
+    },
+    {
+      "rotulo": "etec-2019-2-q005",
+      "conta": "340/1000",
+      "esperado": 0.34
+    },
+    {
+      "rotulo": "etec-2018-1-q042",
+      "conta": "2*(0.5+0.4)",
+      "esperado": 1.8
+    },
+    {
+      "rotulo": "exemplo-1",
+      "conta": "300000000/100000000",
+      "esperado": 3
+    },
+    {
+      "rotulo": "exemplo-2",
+      "conta": "1500*2/2",
+      "esperado": 1500
+    }
   ]
 }

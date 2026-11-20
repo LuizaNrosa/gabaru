@@ -3413,5 +3413,359 @@
       "pH < 7 ácido; 7 neutro; > 7 básico.",
       "Sal: -ídrico → -eto; -ico → -ato; -oso → -ito."
     ]
+  },
+  "ondas-som-luz-e-astronomia": {
+    "materia": "Matéria 2 · Ciências da Natureza · Física",
+    "introducao": "Som, luz e fenômenos do céu aparecem juntos em boa parte das provas recentes. A ETEC gosta de golfinhos e morcegos (ecolocalização), baleias (comunicação sonora), óculos, espelhos, eclipses, fases e distâncias da Lua e estações do ano. Quase todas as contas usam uma única fórmula, $v = \\lambda \\cdot f$, ou a ideia de que o eco faz ida e volta.",
+    "codigos": [
+      "FI04",
+      "FI05"
+    ],
+    "raioX": "Os itens pedem para nomear um fenômeno (reflexão, refração, interferência, difração), dizer se o som precisa de meio material, calcular comprimento de onda ou tempo de eco, escolher o tipo de lente que corrige um defeito de visão, achar a distância da imagem num espelho plano e explicar eclipses, equinócios e as posições da Lua. Os distratores trocam um fenômeno por outro de nome parecido ou atribuem ao equinócio ondas de calor.",
+    "intuicao": [
+      "Onda transporta energia, não matéria.",
+      "Som é onda mecânica: precisa de meio e não passa no vácuo. Luz é onda eletromagnética: passa no vácuo.",
+      "Bater e voltar é reflexão; mudar de meio e entortar é refração.",
+      "Eco percorre o caminho duas vezes: ida e volta.",
+      "Eclipse é sombra: a Lua tapa o Sol (solar) ou a Terra tapa a Lua (lunar)."
+    ],
+    "teoria": [
+      {
+        "titulo": "O que é uma onda",
+        "texto": "Onda é uma perturbação que se propaga transportando energia, sem transportar matéria. Uma rolha na água sobe e desce, mas não viaja com a onda.\n\n• Mecânica: precisa de um meio material (som, ondas na água, numa corda).\n• Eletromagnética: propaga-se também no vácuo (luz, rádio, micro-ondas, raios X).\n\nGrandezas:\n\n• Amplitude: \"altura\" da onda; no som, ligada à intensidade (volume).\n• Comprimento de onda ($\\lambda$): distância entre duas cristas, em metros.\n• Frequência ($f$): número de oscilações por segundo, em hertz (Hz).\n• Velocidade: $v = \\lambda \\cdot f$."
+      },
+      {
+        "titulo": "Usando $v = \\lambda \\cdot f$",
+        "texto": "A velocidade depende do meio. Para uma velocidade fixa, frequência e comprimento de onda são inversos: frequência maior, comprimento menor.\n\n• Morcego, som no ar a 340 m/s, frequência mínima de 1 000 Hz: $\\lambda = \\dfrac{340}{1\\,000} = 0{,}34$ m. É o maior comprimento audível por ele, porque corresponde à menor frequência.\n• Golfinho, som na água a 1 400 m/s, frequência de 100 000 Hz: $\\lambda = \\dfrac{1\\,400}{100\\,000} = 0{,}014$ m.\n\nNa ecolocalização, o animal só percebe objetos de tamanho igual ou maior que o comprimento de onda que emite."
+      },
+      {
+        "titulo": "Som",
+        "texto": "• O som é produzido por vibrações (cordas, pregas vocais, alto-falantes) e precisa de meio. No vácuo não há som.\n• É mais rápido em sólidos e líquidos que no ar: cerca de 340 m/s no ar e 1 400 a 1 500 m/s na água.\n• Intensidade (forte/fraco) depende da amplitude e diminui com a distância.\n• Altura (grave/agudo) depende da frequência: frequência alta = agudo; baixa = grave.\n• Timbre é o que diferencia a mesma nota tocada por instrumentos diferentes.\n\nNuma corda, quanto menor o comprimento que vibra, maior a frequência e mais agudo o som. Por isso o violeiro aperta a corda perto do corpo do instrumento para tirar notas agudas.\n\nHumanos ouvem cerca de 20 Hz a 20 000 Hz. Acima disso é ultrassom (morcegos, golfinhos, ultrassonografia); abaixo, infrassom (elefantes, baleias)."
+      },
+      {
+        "titulo": "Eco e ecolocalização",
+        "texto": "Eco é o som refletido que volta a quem emitiu. O tempo do eco cobre a ida e a volta:\n\n$t = \\dfrac{2d}{v}$\n\nGolfinho a 140 m de um peixe, som na água a 1 400 m/s: $t = \\dfrac{2 \\cdot 140}{1\\,400} = 0{,}2$ s.\n\nMorcegos, golfinhos e o sonar dos navios usam esse princípio para localizar objetos no escuro."
+      },
+      {
+        "titulo": "Fenômenos ondulatórios",
+        "texto": "• Reflexão: a onda bate numa superfície e volta para o mesmo meio. Eco, imagem num espelho ou na superfície de um lago.\n• Refração: a onda muda de meio e de velocidade, e em geral de direção. Canudo que parece quebrado no copo, lentes, formação da imagem no olho.\n• Difração: a onda contorna obstáculos ou passa por frestas. Ouvimos alguém atrás de um muro.\n• Interferência: duas ondas se encontram e se somam ou se anulam. O ruído dos navios se combina com o canto das baleias e altera o sinal: é interferência.\n• Absorção: a energia da onda fica no material. Cores escuras absorvem mais luz e esquentam.\n\nNa refração, a frequência não muda; mudam velocidade e comprimento de onda."
+      },
+      {
+        "titulo": "Luz, sombra e cores",
+        "texto": "• A luz se propaga em linha reta em meio homogêneo; por isso existem sombras.\n• Sombra: região que não recebe luz de nenhuma fonte. Penumbra: recebe luz de parte das fontes.\n• A luz branca é a mistura de todas as cores. Um objeto branco reflete quase todas; um preto absorve quase todas.\n\nPor isso telhados pintados de branco ficam mais frescos: refletem a maior parte da luz e devolvem a energia para fora."
+      },
+      {
+        "titulo": "Espelho plano",
+        "texto": "No espelho plano, a imagem fica atrás do espelho, à mesma distância que o objeto está à frente. A distância entre você e sua imagem é o dobro da sua distância ao espelho.\n\nSe você está a 0,5 m e o espelho se afasta mais 0,4 m, a distância ao espelho vira 0,9 m, e você fica a $2 \\cdot 0{,}9 = 1{,}8$ m da sua imagem."
+      },
+      {
+        "titulo": "Lentes e visão",
+        "texto": "• Lente convergente: bordas finas e centro grosso (biconvexa, plano-convexa, côncavo-convexa). Junta os raios de luz: lupa, gelo moldado em disco para acender fogo. Corrige a hipermetropia.\n• Lente divergente: bordas grossas e centro fino (bicôncava, plano-côncava, convexo-côncava). Espalha os raios. Corrige a miopia.\n\nNo olho, córnea e cristalino funcionam como lentes: a imagem se forma na retina por refração.\n\n• Miopia: o olho forma a imagem antes da retina; enxerga mal de longe. Usa divergente.\n• Hipermetropia: imagem atrás da retina; enxerga mal de perto. Usa convergente."
+      },
+      {
+        "titulo": "Terra, Lua e Sol",
+        "texto": "• Rotação: a Terra gira em torno de si em cerca de 24 h (dia e noite).\n• Translação: gira em torno do Sol em cerca de 365 dias.\n• Estações do ano: causadas pela inclinação do eixo da Terra. Quando é verão num hemisfério, é inverno no outro.\n• Equinócio: o Sol incide diretamente sobre o Equador, e o dia e a noite têm quase 12 h em todo o planeta. Marca o início do outono ou da primavera e não causa ondas de calor.\n• Solstício: dia mais longo (verão) ou mais curto (inverno) do ano.\n\nÓrbita da Lua em torno da Terra: perigeu é o ponto mais próximo (a Lua parece maior); apogeu é o mais distante (parece menor). Para a Terra em volta do Sol, os termos são periélio e afélio."
+      },
+      {
+        "titulo": "Fases da Lua e eclipses",
+        "texto": "A Lua não tem luz própria; reflete a luz do Sol. As fases (nova, crescente, cheia, minguante) dependem da parte iluminada que vemos, num ciclo de cerca de 29,5 dias.\n\n• Eclipse solar: a Lua passa entre a Terra e o Sol e tapa o disco solar. Acontece na lua nova. No eclipse solar total, só a coroa do Sol fica visível.\n• Eclipse lunar: a Terra passa entre o Sol e a Lua, e a sombra da Terra cobre a Lua. Acontece na lua cheia.\n\nUm instrumento com um disco opaco diante da câmera, escondendo o Sol para mostrar a coroa, imita um eclipse solar total."
+      },
+      {
+        "titulo": "Como a banca FAT/ETEC cobra este assunto",
+        "texto": "• Contas com $v = \\lambda \\cdot f$, sempre com a fórmula ou a velocidade dada no enunciado.\n• Eco: não esqueça de dobrar a distância.\n• Nome do fenômeno a partir de uma situação (lago espelhando a Lua, olho formando imagem, ruído atrapalhando baleias).\n• Lentes: tipo e formatos.\n• Astronomia: desmontar uma afirmação falsa (fake news do equinócio), eclipses, perigeu e apogeu, estações nos dois hemisférios."
+      }
+    ],
+    "armadilha": "No eco, usar a distância uma vez só e encontrar metade do tempo certo. Em astronomia, trocar perigeu/apogeu (Lua e Terra) por periélio/afélio (Terra e Sol), ou acreditar que o equinócio provoca calor extremo.",
+    "exemplos": [
+      {
+        "suporte": [
+          "Uma emissora de rádio transmite em 100 MHz ($1 \\cdot 10^8$ Hz). As ondas de rádio viajam a $3 \\cdot 10^8$ m/s."
+        ],
+        "comando": "O comprimento de onda dessa emissora é",
+        "alternativas": [
+          "0,3 m.",
+          "3 m.",
+          "30 m.",
+          "300 m.",
+          "1 m."
+        ],
+        "passos": [
+          "$\\lambda = \\dfrac{v}{f}$",
+          "$\\lambda = \\dfrac{3 \\cdot 10^8}{1 \\cdot 10^8} = 3$ m."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A divide por 10 a mais.",
+          "C multiplica por 10 a mais.",
+          "D erra por um fator de 100.",
+          "E ignora o 3 da velocidade."
+        ]
+      },
+      {
+        "suporte": [
+          "Um navio envia um pulso de sonar para o fundo do mar e recebe o eco 2 s depois. O som na água viaja a 1 500 m/s."
+        ],
+        "comando": "A profundidade do local é",
+        "alternativas": [
+          "750 m.",
+          "1 500 m.",
+          "3 000 m.",
+          "6 000 m.",
+          "3 750 m."
+        ],
+        "passos": [
+          "Em 2 s, o som percorre $1\\,500 \\cdot 2 = 3\\,000$ m.",
+          "Esse caminho é ida e volta: a profundidade é a metade, 1 500 m."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A divide duas vezes por 2.",
+          "C esquece que o som foi e voltou.",
+          "D dobra em vez de dividir.",
+          "E não vem de nenhuma conta com os dados."
+        ]
+      },
+      {
+        "suporte": [
+          "Um estudante vê o próprio reflexo numa janela de vidro à noite e, de dia, percebe que um lápis dentro de um copo de água parece quebrado."
+        ],
+        "comando": "Os fenômenos são, respectivamente,",
+        "alternativas": [
+          "refração e reflexão.",
+          "reflexão e refração.",
+          "difração e interferência.",
+          "reflexão e difração.",
+          "absorção e refração."
+        ],
+        "passos": [
+          "O reflexo é a luz que bate no vidro e volta: reflexão.",
+          "O lápis \"quebrado\" vem da luz mudando de meio (água para ar): refração."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A inverte os fenômenos.",
+          "C: não há contorno de obstáculo nem soma de ondas.",
+          "D: o lápis não é caso de difração.",
+          "E: o reflexo não é absorção."
+        ]
+      },
+      {
+        "suporte": [
+          "Uma pessoa míope enxerga bem de perto, mas mal de longe."
+        ],
+        "comando": "A lente indicada e um formato possível são",
+        "alternativas": [
+          "convergente, biconvexa.",
+          "divergente, bicôncava.",
+          "convergente, bicôncava.",
+          "divergente, plano-convexa.",
+          "espelho côncavo."
+        ],
+        "passos": [
+          "No míope, a imagem se forma antes da retina.",
+          "Uma lente divergente espalha os raios e empurra a imagem para a retina.",
+          "Lentes divergentes têm bordas grossas: bicôncava, plano-côncava, convexo-côncava."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A corrige a hipermetropia.",
+          "C: bicôncava é divergente, não convergente.",
+          "D: plano-convexa é convergente.",
+          "E: óculos usam lentes, não espelhos."
+        ]
+      },
+      {
+        "suporte": [
+          "Em dezembro, é verão no Brasil."
+        ],
+        "comando": "Nesse mês, em Portugal, no Hemisfério Norte, é",
+        "alternativas": [
+          "verão, porque a Terra está mais perto do Sol.",
+          "inverno, por causa da inclinação do eixo da Terra.",
+          "primavera, por causa do equinócio.",
+          "verão, pela rotação da Terra.",
+          "outono, porque a Lua está no apogeu."
+        ],
+        "passos": [
+          "As estações vêm da inclinação do eixo terrestre.",
+          "Os hemisférios têm estações opostas: verão no Sul, inverno no Norte."
+        ],
+        "correta": "B",
+        "distratores": [
+          "A: a distância ao Sol não explica as estações, e as estações são opostas.",
+          "C: dezembro tem solstício, não equinócio.",
+          "D: rotação explica dia e noite.",
+          "E: a Lua não define as estações."
+        ]
+      }
+    ],
+    "oficiais": [
+      {
+        "id": "etec-2026-2-q041",
+        "correta": "B",
+        "justificativa": "O som é onda mecânica: precisa de meio material e se propaga mais rápido na água do que no ar.",
+        "distratores": [
+          "A: na refração a velocidade muda.",
+          "C: a amplitude diminui com a distância.",
+          "D: o som não se propaga no vácuo.",
+          "E: a intensidade diminui com a distância."
+        ]
+      },
+      {
+        "id": "etec-2026-2-q040",
+        "correta": "E",
+        "justificativa": "Diferentes sons que se combinam e alteram o sinal percebido caracterizam a interferência.",
+        "distratores": [
+          "A: evaporação é mudança de estado.",
+          "B: absorção é a energia ficar no meio, não a combinação de sons.",
+          "C: timbre é uma qualidade do som, não um fenômeno de combinação.",
+          "D: difração é contornar obstáculos."
+        ]
+      },
+      {
+        "id": "etec-2026-1-q042",
+        "correta": "C",
+        "justificativa": "O equinócio decorre da inclinação do eixo da Terra; dia e noite têm cerca de 12 h, e ele não causa ondas de calor.",
+        "distratores": [
+          "A: o equinócio não provoca ondas de calor.",
+          "B: o Sol sobre o Equador não concentra radiação em todo o Brasil nem justifica 40 °C.",
+          "D: 40 °C não são previsíveis pelo equinócio.",
+          "E repete a ideia errada de que o equinócio aquece."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q036",
+        "correta": "E",
+        "justificativa": "O defeito do texto se corrige com lentes divergentes, que têm bordas grossas: bicôncavas, plano-côncavas e convexo-côncavas.",
+        "distratores": [
+          "A: convergentes não corrigem esse defeito.",
+          "B: os formatos citados são de lentes divergentes, não convergentes.",
+          "C: lente convexa (bordas finas) é convergente.",
+          "D: os formatos citados são de lentes convergentes."
+        ]
+      },
+      {
+        "id": "etec-2024-2-q035",
+        "correta": "B",
+        "justificativa": "Córnea e cristalino desviam a luz que muda de meio, formando a imagem na retina: refração.",
+        "distratores": [
+          "A: a imagem do olho não se forma por reflexão.",
+          "C: difração é contornar obstáculos.",
+          "D: polarização não forma a imagem.",
+          "E: dispersão é a separação das cores."
+        ]
+      },
+      {
+        "id": "etec-2024-1-q016",
+        "correta": "C",
+        "justificativa": "A superfície do lago funciona como espelho: a luz da Lua se reflete nela.",
+        "distratores": [
+          "A: a imagem não vem de refração no fundo do lago.",
+          "B: não é ilusão causada pelo movimento das águas.",
+          "D: luz absorvida não forma imagem.",
+          "E: não há projeção holográfica."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q032",
+        "correta": "B",
+        "justificativa": "O som vai e volta: $t = \\dfrac{2 \\cdot 140}{1\\,400} = 0{,}2$ s.",
+        "distratores": [
+          "A considera só a ida (140/1 400).",
+          "C não vem da conta de ida e volta.",
+          "D dobra o tempo certo.",
+          "E não vem da conta de ida e volta."
+        ]
+      },
+      {
+        "id": "etec-2023-1-q031",
+        "correta": "A",
+        "justificativa": "$\\lambda = \\dfrac{v}{f} = \\dfrac{1\\,400}{100\\,000} = 0{,}014$ m; o golfinho percebe objetos a partir desse tamanho.",
+        "distratores": [
+          "B é cinco vezes o comprimento de onda.",
+          "C seria a velocidade de 1 000 m/s, que não é a do som na água.",
+          "D não vem da relação v = λ·f.",
+          "E não vem da relação v = λ·f."
+        ]
+      },
+      {
+        "id": "etec-2020-1-q048",
+        "correta": "C",
+        "justificativa": "O disco opaco esconde todo o disco solar, como a Lua faz entre a Terra e o Sol num eclipse solar total.",
+        "distratores": [
+          "A: com a Lua entre a Terra e o Sol, o eclipse é solar, não lunar.",
+          "B: é o Sol que fica oculto, não a Lua.",
+          "D: a Terra entre a Lua e o Sol causa eclipse lunar.",
+          "E: o disco oculta o Sol inteiro, então é total."
+        ]
+      },
+      {
+        "id": "etec-2019-2-q005",
+        "correta": "B",
+        "justificativa": "O maior comprimento corresponde à menor frequência: $\\lambda = \\dfrac{340}{1\\,000} = 0{,}34$ m.",
+        "distratores": [
+          "A não sai de 340/1 000.",
+          "C é dez vezes o valor certo.",
+          "D confunde a frequência máxima com comprimento.",
+          "E aproxima a velocidade do som, não o comprimento."
+        ]
+      },
+      {
+        "id": "etec-2019-1-q013",
+        "correta": "E",
+        "justificativa": "A Lua parece maior quando está mais perto da Terra (perigeu) e menor quando está mais longe (apogeu).",
+        "distratores": [
+          "A inverte a ordem.",
+          "B: afélio e periélio se referem à órbita da Terra em volta do Sol.",
+          "C usa os termos da órbita terrestre.",
+          "D mistura perigeu com afélio, termo da órbita da Terra."
+        ]
+      },
+      {
+        "id": "etec-2018-1-q042",
+        "correta": "D",
+        "justificativa": "Nova distância ao espelho: 0,5 + 0,4 = 0,9 m. A imagem fica a 0,9 m atrás dele: $y = 2 \\cdot 0{,}9 = 1{,}8$ m.",
+        "distratores": [
+          "A é só o deslocamento do espelho.",
+          "B é o dobro do deslocamento, sem a distância inicial.",
+          "C é o dobro da distância inicial, sem o deslocamento.",
+          "E não vem de nenhuma conta com os dados."
+        ]
+      },
+      {
+        "id": "etec-2017-1-q011",
+        "correta": "C",
+        "justificativa": "A tinta branca reflete a maior parte da luz e devolve a energia para fora, deixando a construção mais fresca.",
+        "distratores": [
+          "A: o branco reflete, não absorve.",
+          "B: refletida, a energia não fica no telhado.",
+          "D: não há refração na tinta, e a energia não entra.",
+          "E: o fenômeno é reflexão, não refração."
+        ]
+      },
+      {
+        "id": "etec-2016-1-q044",
+        "correta": "B",
+        "justificativa": "O disco de gelo com bordas finas e centro grosso é uma lente convergente, que concentra os raios do Sol num ponto e acende o fogo.",
+        "distratores": [
+          "A: superfície especular reflete, não concentra a luz que a atravessa.",
+          "C: lente divergente espalha os raios.",
+          "D: o gelo transparente é atravessado pela luz, não funciona como espelho.",
+          "E: espelho convexo espalha os raios."
+        ]
+      }
+    ],
+    "resumo": [
+      "Onda leva energia, não matéria.",
+      "Som precisa de meio; é mais rápido na água que no ar.",
+      "$v = \\lambda \\cdot f$.",
+      "Eco: $t = 2d/v$.",
+      "Frequência alta: agudo. Corda curta: agudo.",
+      "Reflexão volta; refração muda de meio; interferência soma ondas.",
+      "Espelho plano: imagem a igual distância atrás.",
+      "Miopia: divergente. Hipermetropia: convergente.",
+      "Estações: inclinação do eixo. Equinócio: dia = noite.",
+      "Eclipse solar: Lua entre Terra e Sol."
+    ]
   }
 }

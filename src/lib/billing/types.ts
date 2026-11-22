@@ -1,7 +1,9 @@
 // © 2026 Luiza Nascimento Rosa. Todos os direitos reservados.
 export type BillingPlan='pix-30'|'pix-90'|'pix-365'|'cartao-mensal'|'cartao-anual';
 export type PlanConfig={id:BillingPlan;method:'pix'|'card';amountCents:number;days:number;months?:number};
-export type BillingOrder={id:string;uid:string;plan:BillingPlan;method:'pix'|'card';amountCents:number;days:number;months?:number;email:string;provider:'mercadopago'|'pagarme';resourceId?:string;status:string;checkout?:CheckoutResult;createdAt:number};
+/** Produto avulso (compra única, sem prazo). O preço vive só no servidor: src/lib/loja/produtos.ts. */
+export type ProdutoId='apostila-matematica-etec';
+export type BillingOrder={id:string;uid:string;plan:BillingPlan|'produto';produto?:ProdutoId;descricao?:string;method:'pix'|'card';amountCents:number;days:number;months?:number;email:string;provider:'mercadopago'|'pagarme';resourceId?:string;status:string;checkout?:CheckoutResult;createdAt:number};
 export type CheckoutResult={resourceId:string;kind:'pix'|'card';qrCode?:string;qrCodeBase64?:string;checkoutUrl?:string};
 export type BillingNotification={eventId:string;type:'payment'|'subscription_preapproval'|'subscription_authorized_payment';resourceId:string};
 export type BillingSnapshot={kind:'payment'|'subscription';resourceId:string;orderId:string;status:string;amountCents:number;currency:string;collectorId:string;paidAt:number|null;subscriptionId?:string};

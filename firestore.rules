@@ -19,6 +19,7 @@ service cloud.firestore {
   match /billing_orders/{id} { allow read, write: if false; }
   match /billing_payments/{id} { allow read, write: if false; }
   match /billing_entitlements/{id} { allow read, write: if false; }
+  match /apostilas_conteudo/{id} { allow read, write: if false; }
   match /stripe_events/{id} { allow read, write: if false; }
   match /processed_stripe_events/{id} { allow read, write: if false; }
   match /stripe_subscriptions/{id} { allow read, write: if false; }

@@ -24,6 +24,7 @@ export interface ValidatedEnv {
  FIRESTORE_EMULATOR_HOST?:string;
  BILLING_PROVIDER:'mercadopago'|'pagarme';
  BILLING_ENABLED:'0'|'1';
+ LOJA_ENABLED:'0'|'1';
  BILLING_EMULATOR_URL?:string;
  BILLING_PIX_30_CENTS?:string;
  BILLING_PIX_90_CENTS?:string;

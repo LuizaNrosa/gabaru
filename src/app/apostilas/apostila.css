@@ -1,0 +1,118 @@
+/* Apostila de Matemática ETEC no leitor do site. Mesmo HTML e figuras do PDF (ferramentas/apostila-matematica),
+   adaptado para tela: sem quebras de página, unidades relativas, uma coluna no celular. Cores = tokens do site. */
+.gb-apostila-mat { --ap-forest:#2e3f38; --ap-paper:#fbf8f1; --ap-ink:#1c1e1b; --ap-soft:#44483f; --ap-muted:#57534a; --ap-stamp:#b1251b;
+  --ap-ochre:#be965e; --ap-ochre-soft:#f2e5d2; --ap-sage:#dce9df; --ap-sky:#dfeaf0; --ap-line:#d5ccb8;
+  max-inline-size:72ch; font-variant-numeric:lining-nums; }
+.gb-apostila-mat p { margin:0 0 .75em; }
+.gb-apostila-mat a { color:inherit; }
+.gb-apostila-mat .kicker { font-size:.75rem; font-weight:800; letter-spacing:.14em; color:var(--ap-stamp); margin-bottom:.25rem; }
+.gb-apostila-mat section { margin-block:2.5rem; scroll-margin-top:1.5rem; }
+
+/* abertura */
+.gb-apostila-mat .ab-topo { display:flex; align-items:flex-end; gap:1rem; border-bottom:2px solid var(--ap-ink); padding-bottom:.5rem; }
+.gb-apostila-mat .ab-num { font-family:var(--font-display); font-size:clamp(3.5rem,10vw,5.5rem); line-height:.82; font-weight:900; color:var(--ap-stamp); letter-spacing:-.04em; }
+.gb-apostila-mat .ab-kicker { font-size:.8rem; font-weight:800; letter-spacing:.18em; padding-bottom:.4rem; }
+.gb-apostila-mat .ab-titulo { font-family:var(--font-display); font-size:clamp(1.75rem,4vw,2.5rem); line-height:1.15; font-weight:900; margin:1.25rem 0 .75rem; }
+.gb-apostila-mat .incid { font-size:.95rem; color:var(--ap-soft); margin-bottom:1.25rem; }
+.gb-apostila-mat .pill { display:inline-block; font-weight:800; letter-spacing:.1em; font-size:.72rem; padding:.2rem .6rem; border-radius:999px; color:#fbf8f1; background:var(--ap-forest); margin-right:.4rem; }
+.gb-apostila-mat .incid-alta .pill { background:var(--ap-stamp); }
+.gb-apostila-mat .incid-média .pill { background:#79591e; }
+.gb-apostila-mat .situacao { background:var(--ap-paper); border:1px solid var(--ap-soft); border-radius:12px; padding:1rem 1.25rem .5rem; margin-bottom:1rem; }
+.gb-apostila-mat .objetivo { display:flex; gap:1rem; align-items:flex-start; background:var(--ap-ochre-soft); border:1px solid var(--ap-soft); border-radius:12px; padding:1rem 1.25rem; }
+.gb-apostila-mat .objetivo > svg { flex:none; width:2.5rem; height:auto; }
+.gb-apostila-mat .obj-tit { font-weight:800; margin-bottom:.25rem; }
+.gb-apostila-mat .objetivo ul { margin:0; padding-left:1.1rem; list-style:disc; }
+
+/* partes */
+.gb-apostila-mat .parte-cab { margin-bottom:1.25rem; border-bottom:1.5px solid var(--ap-ink); padding-bottom:.4rem; }
+.gb-apostila-mat .parte-cab h2 { font-family:var(--font-display); font-size:clamp(1.5rem,3vw,2rem); font-weight:900; margin:0; }
+.gb-apostila-mat h3.tema { font-size:1.25rem; font-weight:800; margin:1.75rem 0 .6rem; }
+.gb-apostila-mat h3.tema::before { content:""; display:inline-block; width:.6rem; height:.6rem; background:var(--ap-stamp); border-radius:50%; margin-right:.6rem; vertical-align:.15rem; }
+.gb-apostila-mat .callout { background:var(--ap-sky); border-radius:8px; padding:.7rem 1rem; border-left:4px solid var(--ap-soft); }
+.gb-apostila-mat .resultado { background:var(--ap-sage); border-radius:8px; padding:.5rem 1rem; }
+.gb-apostila-mat .check { font-size:.9rem; font-weight:700; color:#2f6b3a; }
+.gb-apostila-mat .check::before { content:"✔ "; }
+.gb-apostila-mat .passo { padding-left:2.2rem; text-indent:-2.2rem; }
+.gb-apostila-mat .passo .num { display:inline-block; width:1.9rem; text-indent:0; font-weight:900; color:var(--ap-stamp); }
+.gb-apostila-mat .alt { margin:0 0 .4rem .75rem; }
+.gb-apostila-mat .contas { background:var(--ap-paper); border:1px solid var(--ap-soft); border-radius:8px; padding:.5rem 1rem .6rem; margin:.25rem 0 1rem; font-variant-numeric:tabular-nums; overflow-x:auto; }
+.gb-apostila-mat .contas-tit { font-size:.7rem; font-weight:800; letter-spacing:.16em; color:var(--ap-stamp); margin-bottom:.25rem; }
+.gb-apostila-mat .contas .linha { font-weight:600; padding:.15rem 0; border-bottom:1px dashed var(--ap-line); }
+.gb-apostila-mat .contas .linha:last-child { border-bottom:0; }
+.gb-apostila-mat .conta-solta { font-weight:600; background:var(--ap-paper); border-left:3px solid var(--ap-stamp); padding:.3rem .75rem; font-variant-numeric:tabular-nums; overflow-x:auto; }
+.gb-apostila-mat .pegadinha { margin-top:1.75rem; background:var(--ap-forest); color:#f6f2e9; border-radius:12px; padding:1.1rem 1.4rem; }
+.gb-apostila-mat .peg-tit { font-size:1.2rem; font-weight:900; margin-bottom:.5rem; }
+.gb-apostila-mat .peg-tit::before { content:"!"; display:inline-block; width:1.6rem; height:1.6rem; line-height:1.6rem; border-radius:50%; background:var(--ap-stamp); text-align:center; margin-right:.6rem; font-size:1rem; }
+.gb-apostila-mat .pegadinha ul { margin:0; padding-left:1.2rem; list-style:disc; }
+.gb-apostila-mat .pegadinha li { margin-bottom:.35rem; }
+
+/* exemplos e questões */
+.gb-apostila-mat .exemplo { margin-bottom:1.75rem; }
+.gb-apostila-mat .ex-tit,.gb-apostila-mat .q-tit,.gb-apostila-mat .g-tit { font-size:1.1rem; font-weight:800; margin:1.25rem 0 .6rem; }
+.gb-apostila-mat .ex-tit { background:var(--ap-ochre-soft); border-radius:8px; padding:.55rem 1rem; }
+.gb-apostila-mat .enunciado { border-left:3px solid var(--ap-soft); padding-left:1rem; margin-bottom:.75rem; }
+.gb-apostila-mat .resol-tit { font-size:.72rem; font-weight:900; letter-spacing:.18em; color:#fbf8f1; background:var(--ap-stamp); display:inline-block; padding:.2rem .7rem; border-radius:4px; margin-bottom:.6rem; }
+.gb-apostila-mat .tag-etec { display:inline-block; font-size:.68rem; font-weight:900; letter-spacing:.12em; color:#fbf8f1; background:var(--ap-stamp); padding:.15rem .55rem; border-radius:4px; margin-right:.55rem; vertical-align:.1rem; }
+.gb-apostila-mat .questao { border-top:1px solid var(--ap-line); padding-top:.25rem; margin-bottom:1rem; }
+.gb-apostila-mat .questao.etec { background:var(--ap-paper); border:1px solid var(--ap-soft); border-radius:10px; padding:.25rem 1rem .5rem; }
+.gb-apostila-mat .questao.fixacao { background:var(--ap-paper); border:1px solid var(--ap-line); border-left:4px solid var(--ap-ochre); border-radius:10px; padding:.25rem 1.25rem .5rem; }
+.gb-apostila-mat .questao.fixacao p { margin-bottom:.4rem; }
+.gb-apostila-mat .fonte { font-size:.88rem; color:var(--ap-muted); display:flex; flex-wrap:wrap; align-items:center; gap:.5rem; }
+.gb-apostila-mat .botao { display:inline-block; font-weight:800; font-size:.8rem; letter-spacing:.04em; color:#fbf8f1; background:var(--ap-forest); border-radius:6px; padding:.4rem .75rem; text-decoration:none; min-height:44px; line-height:1.9; }
+.gb-apostila-mat .botao:focus-visible { outline:3px solid var(--ap-stamp); outline-offset:2px; }
+
+/* gabarito: fechado até o aluno abrir */
+.gb-apostila-mat details.gab { border-top:1px solid var(--ap-line); margin-bottom:.5rem; }
+.gb-apostila-mat details.gab > summary { cursor:pointer; list-style:none; display:flex; align-items:center; gap:.6rem; min-height:44px; }
+.gb-apostila-mat details.gab > summary::-webkit-details-marker { display:none; }
+.gb-apostila-mat details.gab > summary::before { content:"+"; flex:none; width:1.6rem; height:1.6rem; border-radius:50%; background:var(--ap-forest); color:#fbf8f1; display:grid; place-items:center; font-weight:900; }
+.gb-apostila-mat details.gab[open] > summary::before { content:"−"; }
+.gb-apostila-mat details.gab > summary .g-tit { margin:.6rem 0; }
+.gb-apostila-mat details.gab > summary:focus-visible { outline:3px solid var(--ap-stamp); outline-offset:2px; }
+.gb-apostila-mat details.gab.fixacao[open] { columns:2 18rem; column-gap:2rem; }
+.gb-apostila-mat details.gab.fixacao > summary { column-span:all; }
+.gb-apostila-mat details.gab.fixacao p { font-size:.95rem; margin-bottom:.35rem; break-inside:avoid; }
+
+/* tabelas e figuras */
+.gb-apostila-mat table { border-collapse:collapse; margin:.5rem 0 1rem; font-size:.95rem; background:var(--ap-paper); display:block; max-inline-size:100%; overflow-x:auto; }
+.gb-apostila-mat th,.gb-apostila-mat td { border:1px solid var(--ap-soft); padding:.35rem .65rem; text-align:center; }
+.gb-apostila-mat th { background:var(--ap-ochre-soft); font-weight:800; }
+.gb-apostila-mat figure.figura { margin:.75rem 0 1.25rem; text-align:center; }
+.gb-apostila-mat svg.fig { max-width:100% !important; height:auto; } /* o SVG traz max-width inline do PDF */
+.gb-apostila-mat svg.fig-mini { width:2.2rem; height:auto; vertical-align:middle; }
+.gb-apostila-mat figure.figura figcaption { font-size:.88rem; color:var(--ap-muted); margin-top:.25rem; }
+
+/* fechamento */
+.gb-apostila-mat .fe-tit { font-family:var(--font-display); font-size:clamp(1.5rem,3vw,2rem); font-weight:900; margin:0 0 1.25rem; }
+.gb-apostila-mat .regras { counter-reset:r; list-style:none; padding:0; margin:0 0 2rem; }
+.gb-apostila-mat .regras li { counter-increment:r; position:relative; padding:.6rem 0 .6rem 3rem; border-bottom:1px solid var(--ap-line); font-weight:600; }
+.gb-apostila-mat .regras li::before { content:counter(r,decimal-leading-zero); position:absolute; left:0; top:.4rem; font-size:1.4rem; font-weight:900; color:var(--ap-stamp); }
+.gb-apostila-mat table.setem { display:table; width:100%; }
+.gb-apostila-mat table.setem th { background:var(--ap-forest); color:#f6f2e9; letter-spacing:.1em; font-size:.8rem; text-align:left; }
+.gb-apostila-mat table.setem td { text-align:left; }
+.gb-apostila-nav { display:flex; justify-content:space-between; gap:1rem; flex-wrap:wrap; border-top:1px solid #d5ccb8; padding-top:1rem; margin-top:2rem; }
+.gb-apostila-nav a { text-decoration:underline; min-height:44px; display:inline-flex; align-items:center; }
+
+/* página de venda */
+.gb-venda-hero { margin-block:1.5rem 2.5rem; }
+.gb-venda-numeros { display:grid; grid-template-columns:repeat(auto-fit,minmax(10rem,1fr)); gap:.75rem; margin:1.5rem 0; padding:0; list-style:none; }
+.gb-venda-numeros li { background:#2e3f38; color:#f6f2e9; border-radius:12px; padding:.9rem 1rem; }
+.gb-venda-numeros b { display:block; font-family:var(--font-display); font-size:1.9rem; line-height:1.1; }
+.gb-compra { background:#fbf8f1; border:1px solid #44483f; border-left:4px solid #b1251b; border-radius:12px; padding:1.25rem; margin-block:1rem; max-inline-size:36rem; }
+.gb-compra-preco strong { font-family:var(--font-display); font-size:2.25rem; color:#b1251b; }
+.gb-compra-preco span { display:block; color:#57534a; }
+.gb-compra-pix { display:grid; gap:.75rem; margin-top:1rem; }
+.gb-compra-pix textarea { width:100%; font-family:var(--font-mono); font-size:.8rem; border:1px solid #44483f; border-radius:8px; padding:.5rem; }
+.gb-compra-ok { font-weight:700; color:#2f6b3a; }
+.gb-venda-sumario { list-style:none; padding:0; }
+.gb-venda-sumario > li { display:grid; grid-template-columns:3.5rem minmax(0,1fr); gap:1rem; border-bottom:1px solid #d5ccb8; padding-block:1rem; }
+.gb-venda-num { font-family:var(--font-display); font-size:2rem; font-weight:900; color:#b1251b; line-height:1; }
+.gb-venda-sumario h3 { font-size:1.15rem; margin:0 0 .25rem; }
+.gb-venda-sumario h3 a { text-decoration:underline; text-underline-offset:3px; }
+.gb-venda-sumario details summary { cursor:pointer; min-height:44px; display:flex; align-items:center; }
+.gb-venda-sumario details ul { list-style:disc; padding-left:1.25rem; }
+.gb-incid { font-weight:700; }
+.gb-incid-alta { color:#b1251b; } .gb-incid-média { color:#79591e; }
+.gb-venda-passos { list-style:decimal; padding-left:1.5rem; display:grid; gap:.5rem; }
+@media (max-width:767px) { .gb-apostila-mat details.gab.fixacao[open] { columns:1; } .gb-venda-sumario > li { grid-template-columns:2.5rem minmax(0,1fr); } }
+@media print { .gb-apostila-mat details.gab > summary::before { display:none; } }

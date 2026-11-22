@@ -11,7 +11,9 @@ import {
 } from "react";
 import {
   createUserWithEmailAndPassword,
+  GoogleAuthProvider,
   onAuthStateChanged,
+  signInWithPopup,
   signInWithEmailAndPassword,
   signOut as fbSignOut,
   updateProfile,
@@ -26,6 +28,7 @@ type AuthContextValue = {
   available: boolean;
   signIn: (email: string, password: string) => Promise<void>;
   signUp: (name: string, email: string, password: string) => Promise<void>;
+  signInWithGoogle: () => Promise<void>;
   signOut: () => Promise<void>;
 };
 
@@ -52,6 +55,15 @@ export function friendlyAuthError(err: unknown): string {
       return "A senha precisa ter pelo menos 6 caracteres.";
     case "auth/too-many-requests":
       return "Muitas tentativas. Espere um pouco e tente de novo.";
+    case "auth/popup-closed-by-user":
+    case "auth/cancelled-popup-request":
+      return "A janela do Google foi fechada antes de terminar. Tente de novo.";
+    case "auth/popup-blocked":
+      return "O navegador bloqueou a janela do Google. Libere pop-ups para o Gabaru e tente de novo.";
+    case "auth/account-exists-with-different-credential":
+      return "Esse e-mail já tem conta com senha. Entre com e-mail e senha.";
+    case "auth/operation-not-allowed":
+      return "O login com Google ainda não está ativo. Use e-mail e senha por enquanto.";
     case "auth/network-request-failed":
       return "Sem conexão. Confira a internet e tente de novo.";
     default:
@@ -95,14 +107,21 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     await syncServerSession(cred.user);
   }, []);
 
+  const signInWithGoogle = useCallback(async () => {
+    const provider = new GoogleAuthProvider();
+    provider.setCustomParameters({ prompt: "select_account" });
+    const credential = await signInWithPopup(getClientAuth(), provider);
+    await syncServerSession(credential.user);
+  }, []);
+
   const signOut = useCallback(async () => {
     const response=await fetch('/api/auth/session',{method:'DELETE'});if(!response.ok)throw new Error('session-unavailable');
     await fbSignOut(getClientAuth());
   }, []);
 
   const value = useMemo(
-    () => ({ user, loading, available: isFirebaseConfigured, signIn, signUp, signOut }),
-    [user, loading, signIn, signUp, signOut],
+    () => ({ user, loading, available: isFirebaseConfigured, signIn, signUp, signInWithGoogle, signOut }),
+    [user, loading, signIn, signUp, signInWithGoogle, signOut],
   );
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;

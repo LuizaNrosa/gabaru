@@ -1,0 +1,291 @@
+{
+ "modoQuestoesEtec": "link",
+ "capitulos": [
+  {
+   "numero": 1,
+   "sha256": "e97f8be7998fb8fc847a59ef26445cb5485a33b45b178c3d385f630aec6cabc3",
+   "slug": "base-numerica-operacoes-fracoes-mmc-mdc-e-conjuntos",
+   "arquivo": "01-base-numerica-operacoes-fracoes-mmc-mdc-e-conjuntos.html",
+   "titulo": "Base numérica: operações, frações, MMC/MDC e conjuntos",
+   "resumo": "Inteiros, decimais, frações, MMC/MDC, primos e conjuntos.",
+   "incidencia": "média",
+   "incidenciaTexto": "caiu em 7 das 23 provas oficiais do Vestibulinho ETEC analisadas (7 questões)",
+   "objetivos": [
+    "fazer contas com inteiros, decimais e frações sem errar sinal nem vírgula",
+    "resolver problemas de fração do restante",
+    "usar MMC e MDC em situações do dia a dia",
+    "classificar números e ler diagramas de Venn"
+   ],
+   "figuras": 4,
+   "exemplos": 5,
+   "questoes": 16,
+   "questoesEtec": 2,
+   "fixacao": 15,
+   "minutos": 62
+  },
+  {
+   "numero": 2,
+   "sha256": "525a913a94f079ddf2caed638e04920dcf57b0020667ea4233603c317ced605f",
+   "slug": "medidas-razao-proporcao-escalas-e-regra-de-tres",
+   "arquivo": "02-medidas-razao-proporcao-escalas-e-regra-de-tres.html",
+   "titulo": "Medidas, razão, proporção, escalas e regra de três",
+   "resumo": "Unidades, razão, proporção, escalas e regra de três.",
+   "incidencia": "alta",
+   "incidenciaTexto": "caiu em 17 das 23 provas oficiais do Vestibulinho ETEC analisadas (35 questões)",
+   "objetivos": [
+    "converter unidades de comprimento, área, volume, massa e tempo",
+    "montar e resolver razões e proporções",
+    "ler escalas de mapas e plantas",
+    "decidir se a regra de três é direta ou inversa"
+   ],
+   "figuras": 1,
+   "exemplos": 6,
+   "questoes": 13,
+   "questoesEtec": 2,
+   "fixacao": 15,
+   "minutos": 51
+  },
+  {
+   "numero": 3,
+   "sha256": "86eace1094070fd02331f8bce5c451805145ad87335319b2b7f533d4367bf6dd",
+   "slug": "porcentagem-e-juros-simples",
+   "arquivo": "03-porcentagem-e-juros-simples.html",
+   "titulo": "Porcentagem e juros simples",
+   "resumo": "Porcentagem, aumentos, descontos e juros simples.",
+   "incidencia": "alta",
+   "incidenciaTexto": "caiu em 17 das 23 provas oficiais do Vestibulinho ETEC analisadas (27 questões)",
+   "objetivos": [
+    "calcular porcentagem de um valor de cabeça",
+    "aplicar aumentos e descontos com o fator multiplicador",
+    "resolver aumentos e descontos sucessivos",
+    "calcular juros simples e montante"
+   ],
+   "figuras": 0,
+   "exemplos": 5,
+   "questoes": 17,
+   "questoesEtec": 2,
+   "fixacao": 15,
+   "minutos": 51
+  },
+  {
+   "numero": 4,
+   "sha256": "c6f33f87b750da8bd7939b2fb3c0924e6685d3007777ac7ea934c85de8f587b2",
+   "slug": "graficos-tabelas-estatistica-e-sequencias",
+   "arquivo": "04-graficos-tabelas-estatistica-e-sequencias.html",
+   "titulo": "Gráficos, tabelas, estatística e sequências",
+   "resumo": "Gráficos, tabelas, média, moda, mediana e sequências.",
+   "incidencia": "alta",
+   "incidenciaTexto": "caiu em 11 das 23 provas oficiais do Vestibulinho ETEC analisadas (11 questões)",
+   "objetivos": [
+    "ler e comparar gráficos de barras, linhas e setores",
+    "montar tabelas de frequência",
+    "calcular média simples e ponderada, moda, mediana e amplitude",
+    "achar o termo de uma sequência e usar a regra da PA"
+   ],
+   "figuras": 9,
+   "exemplos": 3,
+   "questoes": 11,
+   "questoesEtec": 2,
+   "fixacao": 15,
+   "minutos": 38
+  },
+  {
+   "numero": 5,
+   "sha256": "bf71243512a72f55760b0fa1110e71256e592d35a5e48ac22ddcfc300e4bcfbb",
+   "slug": "contagem-e-probabilidade",
+   "arquivo": "05-contagem-e-probabilidade.html",
+   "titulo": "Contagem e probabilidade",
+   "resumo": "Princípio fundamental da contagem e probabilidade.",
+   "incidencia": "média",
+   "incidenciaTexto": "caiu em 6 das 23 provas oficiais do Vestibulinho ETEC analisadas (6 questões)",
+   "objetivos": [
+    "contar possibilidades sem listar uma a uma",
+    "montar árvores de possibilidades e tabelas de dupla entrada",
+    "calcular probabilidades simples e de eventos complementares",
+    "reconhecer quando a ordem importa"
+   ],
+   "figuras": 2,
+   "exemplos": 3,
+   "questoes": 11,
+   "questoesEtec": 2,
+   "fixacao": 15,
+   "minutos": 41
+  },
+  {
+   "numero": 6,
+   "sha256": "55371b752c8e40a5d6d9573cd47e425ea4b32df4f1fa3ac9be58462704a8b677",
+   "slug": "algebra-basica-expressoes-fatoracao-equacoes-e-sistemas-do-1-grau",
+   "arquivo": "06-algebra-basica-expressoes-fatoracao-equacoes-e-sistemas-do-1-grau.html",
+   "titulo": "Álgebra básica: expressões, fatoração, equações e sistemas do 1º grau",
+   "resumo": "Expressões, produtos notáveis, fatoração, equações, inequações e sistemas.",
+   "incidencia": "média",
+   "incidenciaTexto": "caiu em 7 das 23 provas oficiais do Vestibulinho ETEC analisadas (7 questões)",
+   "objetivos": [
+    "traduzir situações para linguagem algébrica",
+    "usar produtos notáveis e fatoração",
+    "resolver equações e inequações do 1º grau",
+    "resolver sistemas por substituição e por adição"
+   ],
+   "figuras": 4,
+   "exemplos": 4,
+   "questoes": 17,
+   "questoesEtec": 3,
+   "fixacao": 15,
+   "minutos": 62
+  },
+  {
+   "numero": 7,
+   "sha256": "78e97b2418f761c76b1d0b91b78d8f52e881bd0deff553e087759f1a47290783",
+   "slug": "potenciacao-radiciacao-e-notacao-cientifica",
+   "arquivo": "07-potenciacao-radiciacao-e-notacao-cientifica.html",
+   "titulo": "Potenciação, radiciação e notação científica",
+   "resumo": "Potências, raízes, radicais e notação científica.",
+   "incidencia": "média",
+   "incidenciaTexto": "caiu em 9 das 23 provas oficiais do Vestibulinho ETEC analisadas (10 questões)",
+   "objetivos": [
+    "aplicar as propriedades das potências",
+    "simplificar raízes e operar com radicais",
+    "escrever números em notação científica",
+    "usar prefixos como quilo, mega, giga, mili e micro"
+   ],
+   "figuras": 0,
+   "exemplos": 3,
+   "questoes": 14,
+   "questoesEtec": 2,
+   "fixacao": 15,
+   "minutos": 41
+  },
+  {
+   "numero": 8,
+   "sha256": "bc9f8c3552d435a16477d6b4c100f6db9109fb47c6afbda9ac485df1c7244c1c",
+   "slug": "equacoes-do-2-grau-e-nocoes-de-funcao",
+   "arquivo": "08-equacoes-do-2-grau-e-nocoes-de-funcao.html",
+   "titulo": "Equações do 2º grau e noções de função",
+   "resumo": "Equação do 2º grau, plano cartesiano e funções afim e quadrática.",
+   "incidencia": "média",
+   "incidenciaTexto": "caiu em 5 das 23 provas oficiais do Vestibulinho ETEC analisadas (6 questões)",
+   "objetivos": [
+    "localizar pontos e calcular distâncias no plano cartesiano",
+    "resolver equações do 2º grau completas e incompletas",
+    "ler e montar a lei de uma função afim",
+    "reconhecer a concavidade e o vértice de uma parábola"
+   ],
+   "figuras": 8,
+   "exemplos": 4,
+   "questoes": 13,
+   "questoesEtec": 2,
+   "fixacao": 15,
+   "minutos": 55
+  },
+  {
+   "numero": 9,
+   "sha256": "9008296df5ea3bf8f76b960d90e9e7bb900b9427cb4915e0c3b261d8be1daa92",
+   "slug": "angulos-retas-e-poligonos",
+   "arquivo": "09-angulos-retas-e-poligonos.html",
+   "titulo": "Ângulos, retas e polígonos",
+   "resumo": "Ângulos, retas paralelas, triângulos, polígonos e quadriláteros.",
+   "incidencia": "média",
+   "incidenciaTexto": "caiu em 5 das 23 provas oficiais do Vestibulinho ETEC analisadas (7 questões)",
+   "objetivos": [
+    "classificar ângulos e usar complementares e suplementares",
+    "achar ângulos em paralelas cortadas por transversal",
+    "classificar triângulos por lados e por ângulos",
+    "calcular soma dos ângulos internos e diagonais de polígonos"
+   ],
+   "figuras": 15,
+   "exemplos": 3,
+   "questoes": 12,
+   "questoesEtec": 2,
+   "fixacao": 15,
+   "minutos": 44
+  },
+  {
+   "numero": 10,
+   "sha256": "b1c563e59fa3fa1c99e5333f008786c38fb3b274d40150d2bc2ad5a3bd9f0a64",
+   "slug": "teorema-de-tales-e-semelhanca-de-triangulos",
+   "arquivo": "10-teorema-de-tales-e-semelhanca-de-triangulos.html",
+   "titulo": "Teorema de Tales e semelhança de triângulos",
+   "resumo": "Teorema de Tales e semelhança de triângulos.",
+   "incidencia": "média",
+   "incidenciaTexto": "caiu em 6 das 23 provas oficiais do Vestibulinho ETEC analisadas (7 questões)",
+   "objetivos": [
+    "aplicar o Teorema de Tales em feixes de paralelas",
+    "reconhecer triângulos semelhantes (encaixados e em ampulheta)",
+    "calcular alturas e distâncias inacessíveis",
+    "usar a razão k para perímetros e k² para áreas"
+   ],
+   "figuras": 13,
+   "exemplos": 4,
+   "questoes": 13,
+   "questoesEtec": 2,
+   "fixacao": 15,
+   "minutos": 47
+  },
+  {
+   "numero": 11,
+   "sha256": "452565b7223d3dc21c95383e98e77f1b1692efbe3cdcb8e79868c4ef3bd33189",
+   "slug": "teorema-de-pitagoras-e-trigonometria-no-triangulo-retangulo",
+   "arquivo": "11-teorema-de-pitagoras-e-trigonometria-no-triangulo-retangulo.html",
+   "titulo": "Teorema de Pitágoras e trigonometria no triângulo retângulo",
+   "resumo": "Teorema de Pitágoras, seno, cosseno e tangente.",
+   "incidencia": "média",
+   "incidenciaTexto": "caiu em 9 das 23 provas oficiais do Vestibulinho ETEC analisadas (9 questões)",
+   "objetivos": [
+    "identificar hipotenusa e catetos",
+    "aplicar Pitágoras e sua recíproca",
+    "usar seno, cosseno e tangente no triângulo retângulo",
+    "resolver rampas, alturas inacessíveis e diagonais"
+   ],
+   "figuras": 14,
+   "exemplos": 3,
+   "questoes": 12,
+   "questoesEtec": 2,
+   "fixacao": 15,
+   "minutos": 46
+  },
+  {
+   "numero": 12,
+   "sha256": "f49e11ab1d533e953077534b9071e250da95e70dbe464d796c6bacf69aad2c44",
+   "slug": "perimetros-e-areas-de-figuras-planas",
+   "arquivo": "12-perimetros-e-areas-de-figuras-planas.html",
+   "titulo": "Perímetros e áreas de figuras planas",
+   "resumo": "Perímetros e áreas de figuras planas, círculo e figuras compostas.",
+   "incidencia": "alta",
+   "incidenciaTexto": "caiu em 11 das 23 provas oficiais do Vestibulinho ETEC analisadas (13 questões)",
+   "objetivos": [
+    "calcular perímetros e áreas das figuras planas principais",
+    "usar comprimento da circunferência e área do círculo",
+    "resolver figuras compostas e áreas sombreadas",
+    "converter unidades de área"
+   ],
+   "figuras": 11,
+   "exemplos": 3,
+   "questoes": 14,
+   "questoesEtec": 2,
+   "fixacao": 15,
+   "minutos": 40
+  },
+  {
+   "numero": 13,
+   "sha256": "4b43c054ccf3d9055128a72b4d0bf92f88d03bfffb2d749d3bc1da36ec06365b",
+   "slug": "geometria-espacial-e-volumes",
+   "arquivo": "13-geometria-espacial-e-volumes.html",
+   "titulo": "Geometria espacial e volumes",
+   "resumo": "Sólidos, planificações, volumes e capacidade.",
+   "incidencia": "média",
+   "incidenciaTexto": "caiu em 8 das 23 provas oficiais do Vestibulinho ETEC analisadas (9 questões)",
+   "objetivos": [
+    "reconhecer sólidos e suas planificações",
+    "usar a relação de Euler",
+    "calcular volumes de prismas, cilindros, pirâmides, cones e esferas",
+    "converter volume em litros e resolver problemas de vazão"
+   ],
+   "figuras": 13,
+   "exemplos": 4,
+   "questoes": 12,
+   "questoesEtec": 2,
+   "fixacao": 15,
+   "minutos": 40
+  }
+ ]
+}

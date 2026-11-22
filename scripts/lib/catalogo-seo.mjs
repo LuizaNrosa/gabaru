@@ -1,4 +1,4 @@
-import {createHash} from 'node:crypto';
+import {createHash} from 'node:crypto';import {readFileSync} from 'node:fs';
 export const ORIGIN='https://gabaru.com.br';
 export const FAMILIES=['hubs','provas','disciplinas','questoes','livros'];
 export const digest=value=>createHash('sha256').update(typeof value==='string'?value:JSON.stringify(value)).digest('hex');
@@ -22,5 +22,7 @@ export function buildPublicCatalog({catalog,books=[],previous,sourceDate,pageFin
  for(const kind of ['disciplina','assunto'])for(const slug of [...new Set(questions.map(q=>q[kind]).filter(s=>s&&s!=='a-classificar'))].sort())add('disciplinas',`/${kind}/${slug}`,questions.filter(q=>q[kind]===slug),0.6);
  for(const q of questions)add('questoes','/questoes/'+q.slug,q,q.tier==='tier-2-completa'?0.9:0.8);
  add('livros','/livros',bookMetadata,0.7,'weekly');
+ // Página de venda da Apostila de Matemática ETEC (os capítulos exigem conta e ficam fora do índice).
+ add('livros','/apostilas/matematica-etec',JSON.parse(readFileSync('content/apostilas/matematica-etec/indice.json','utf8')),0.9,'weekly');
  return {version:1,origin:ORIGIN,books:bookMetadata,families};
 }

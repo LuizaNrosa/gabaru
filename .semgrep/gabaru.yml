@@ -1,0 +1,72 @@
+# Regras próprias do Gabaru (Next.js + Postgres/pg + Firebase + Mercado Pago).
+# Rodam junto com os pacotes do registro Semgrep no CI e no pre-commit,
+# e funcionam offline (não dependem de semgrep.dev).
+rules:
+  - id: gabaru-sql-interpolado
+    languages: [typescript, javascript]
+    severity: ERROR
+    message: >-
+      SQL montado com interpolação/concatenação. Use parâmetros ($1, $2...) em
+      db.query(texto, [valores]) para evitar SQL injection.
+    metadata: {cwe: "CWE-89", category: security}
+    pattern-either:
+      - pattern: $DB.query(`...${$X}...`, ...)
+      - pattern: $DB.query("..." + $X, ...)
+      - pattern: $DB.query($A + $B, ...)
+      - pattern: $DB.exec(`...${$X}...`)
+
+  - id: gabaru-html-sem-sanitizar
+    languages: [typescript, javascript]
+    severity: WARNING
+    message: >-
+      dangerouslySetInnerHTML com valor que não passa por sanitização
+      (DOMPurify/sanitize*) nem por JSON.stringify. Confirme que a origem é
+      confiável ou sanitize antes de renderizar.
+    metadata: {cwe: "CWE-79", category: security}
+    patterns:
+      - pattern: "<$EL dangerouslySetInnerHTML={{__html: $V}} />"
+      - pattern-not: "<$EL dangerouslySetInnerHTML={{__html: $F(...)}} />"
+      - pattern-not: "<$EL dangerouslySetInnerHTML={{__html: JSON.stringify(...).replace(...)}} />"
+
+  - id: gabaru-segredo-em-next-public
+    languages: [typescript, javascript]
+    severity: ERROR
+    message: >-
+      Variável NEXT_PUBLIC_* com nome de segredo. Tudo que começa com
+      NEXT_PUBLIC_ vai para o navegador; segredos devem ficar só no servidor.
+    metadata: {cwe: "CWE-200", category: security}
+    pattern-regex: NEXT_PUBLIC_[A-Z0-9_]*(SECRET|PRIVATE|ADMIN|ACCESS_TOKEN|WEBHOOK)[A-Z0-9_]*
+
+  - id: gabaru-redirect-aberto
+    languages: [typescript, javascript]
+    severity: WARNING
+    message: >-
+      Redirect usando valor vindo da requisição. Valide contra uma lista de
+      caminhos internos para evitar open redirect.
+    metadata: {cwe: "CWE-601", category: security}
+    pattern-either:
+      - pattern: NextResponse.redirect(new URL($REQ.nextUrl.searchParams.get(...), ...))
+      - pattern: NextResponse.redirect($REQ.nextUrl.searchParams.get(...))
+      - pattern: redirect($SP.get(...))
+
+  - id: gabaru-comando-shell-interpolado
+    languages: [typescript, javascript]
+    severity: ERROR
+    message: Comando de shell montado com interpolação. Use execFile/spawn com lista de argumentos.
+    metadata: {cwe: "CWE-78", category: security}
+    pattern-either:
+      - pattern: $CP.exec(`...${$X}...`, ...)
+      - pattern: $CP.execSync(`...${$X}...`, ...)
+      - pattern: exec(`...${$X}...`, ...)
+      - pattern: execSync(`...${$X}...`, ...)
+
+  - id: gabaru-token-com-math-random
+    languages: [typescript, javascript]
+    severity: WARNING
+    message: Math.random() não é criptograficamente seguro. Use crypto.randomUUID() ou randomBytes().
+    metadata: {cwe: "CWE-338", category: security}
+    patterns:
+      - pattern: $T = <... Math.random() ...>
+      - metavariable-regex:
+          metavariable: $T
+          regex: (?i).*(token|secret|senha|password|nonce|codigo|code|key|chave).*

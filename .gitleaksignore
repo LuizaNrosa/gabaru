@@ -1,0 +1,6 @@
+# Falsos positivos conferidos em 23/11/2026 (nomes de arquivo 'fuvest-AAAA-key.pdf' e o placeholder YOUR_API_KEY).
+e0d224562bf8d5d722965c97906eae5d39eba021:.agents/skills/seo/references/cwv-thresholds.md:curl-auth-header:101
+b13a825164edec84dff29c0d3ba270aee2ef6418:scripts/importar-fuvest-2016-2017-v.py:generic-api-key:4
+6c733a249a6b90162bd46749b5c4ef5ac4075264:scripts/importar-fuvest-2018-2019-v.py:generic-api-key:5
+acd1255b338aae38d43024abf8438a366fbfcc21:scripts/importar-fuvest-2022-todas.py:generic-api-key:5
+6fedf372c3098c00a65995c75fc9d7825e515dd7:scripts/importar-fuvest-2022-vk.py:generic-api-key:5

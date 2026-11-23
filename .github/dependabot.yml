@@ -21,8 +21,24 @@ updates:
           - "minor"
           - "patch"
 
-  # O próprio GitHub Actions (checkout, setup-node).
+  # App Android (Expo) em APK/: lockfile próprio, também escaneado no CI.
+  - package-ecosystem: npm
+    directory: /APK
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 3
+    groups:
+      apk-menor-patch:
+        update-types:
+          - "minor"
+          - "patch"
+
+  # GitHub Actions (checkout, setup-node, codeql, trivy...). As Actions estão
+  # fixadas por SHA; o Dependabot atualiza o SHA e o comentário da tag juntos.
   - package-ecosystem: github-actions
     directory: /
     schedule:
-      interval: monthly
+      interval: weekly
+    groups:
+      actions:
+        patterns: ["*"]

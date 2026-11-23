@@ -40,7 +40,7 @@ export default async function Page({params}:Props){
    </aside>
    <article className="gb-chapter gb-apostila-mat" aria-labelledby="titulo-capitulo">
     {amostra&&<p className="gb-sample-badge">Capítulo grátis para contas cadastradas · <Link href={`${base}#comprar`}>liberar os {lista.length} capítulos</Link></p>}
-    {/* HTML gerado no repositório por ferramentas/apostila-matematica/exportar_site.py (sem entrada de usuário). */}
+    {/* nosemgrep: gabaru-html-sem-sanitizar -- HTML gerado por nós, conferido por sha256 do indice.json em htmlCapitulo() (sem entrada de usuário). */}
     {corpo?<div dangerouslySetInnerHTML={{__html:corpo}}/>:<p role="alert">Este capítulo está sendo atualizado. Tente de novo em alguns minutos.</p>}
     <p className="gb-watermark">Leitura pessoal · sessão {marca}</p>
     <nav className="gb-apostila-nav" aria-label="Navegação entre capítulos">

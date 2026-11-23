@@ -1,0 +1,152 @@
+name: Segurança
+
+# Esteira DevSecOps do Gabaru. Bloqueia só o que é grave de verdade:
+#   - qualquer segredo novo (gitleaks);
+#   - vulnerabilidade ALTA/CRÍTICA em dependência (npm audit);
+#   - achado de severidade ERROR do Semgrep em código NOVO do PR.
+# O resto (moderadas, avisos) vai para a aba Security como relatório.
+# Todas as Actions estão fixadas por SHA; as ferramentas, por versão exata.
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 6 * * 1'   # segunda 03:17 (Brasília): varredura completa
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: seguranca-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  GITLEAKS_VERSION: v8.30.1
+  OSV_SCANNER_VERSION: v2.7.1
+  SEMGREP_VERSION: 1.186.0
+
+jobs:
+  segredos:
+    name: Segredos (gitleaks)
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-go@d8cbb8045d7f43706b9177cceb36c1f91a6644d5 # v7.1.0
+        with:
+          go-version: stable
+          cache: false
+      - name: Instalar gitleaks (versão fixada, conferida pelo sum.golang.org)
+        run: go install github.com/zricethezav/gitleaks/v8@${GITLEAKS_VERSION}
+      - name: Varredura
+        env:
+          EVENTO: ${{ github.event_name }}
+          BASE: ${{ github.event.pull_request.base.sha }}
+          HEAD: ${{ github.event.pull_request.head.sha }}
+          ANTES: ${{ github.event.before }}
+        run: |
+          case "$EVENTO" in
+            pull_request) INTERVALO="$BASE..$HEAD" ;;
+            push) if [ "$ANTES" = "0000000000000000000000000000000000000000" ]; then INTERVALO="--all"; else INTERVALO="$ANTES..$GITHUB_SHA"; fi ;;
+            *) INTERVALO="--all" ;;   # agendado/manual: histórico inteiro
+          esac
+          echo "Intervalo: $INTERVALO"
+          "$(go env GOPATH)/bin/gitleaks" git --redact --verbose --exit-code 1 --log-opts="$INTERVALO" .
+
+  dependencias:
+    name: Dependências (npm audit + OSV)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+      security-events: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version-file: .nvmrc
+      - name: Bloquear vulnerabilidade alta/crítica (site)
+        run: npm audit --audit-level=high
+      - name: Bloquear vulnerabilidade alta/crítica (app Android)
+        run: npm audit --audit-level=high --prefix APK
+      - uses: actions/setup-go@d8cbb8045d7f43706b9177cceb36c1f91a6644d5 # v7.1.0
+        with:
+          go-version: stable
+          cache: false
+      - name: OSV-Scanner (relatório completo, não bloqueia)
+        run: |
+          go install github.com/google/osv-scanner/v2/cmd/osv-scanner@${OSV_SCANNER_VERSION}
+          "$(go env GOPATH)/bin/osv-scanner" scan source \
+            -L package-lock.json -L APK/package-lock.json \
+            --format sarif --output osv.sarif || true
+          "$(go env GOPATH)/bin/osv-scanner" scan source \
+            -L package-lock.json -L APK/package-lock.json --format table || true
+      - name: Enviar para a aba Security
+        if: always() && hashFiles('osv.sarif') != ''
+        uses: github/codeql-action/upload-sarif@1bd86f2fdb4b86187fa4059f16f31a3202acc9ea # v4.39.4
+        with:
+          sarif_file: osv.sarif
+          category: osv-scanner
+
+  sast:
+    name: Código (Semgrep)
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+      security-events: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.13'
+      - name: Instalar Semgrep CE
+        run: pip install "semgrep==${SEMGREP_VERSION}"
+      - name: Varredura
+        env:
+          EVENTO: ${{ github.event_name }}
+          BASE: ${{ github.event.pull_request.base.sha }}
+        run: |
+          REGRAS="--config .semgrep/gabaru.yml --config p/javascript --config p/typescript --config p/react --config p/nextjs --config p/secrets"
+          ALVOS="src APK/src scripts"
+          if [ "$EVENTO" = "pull_request" ]; then
+            # Só o que o PR introduz: achados já existentes na main não contam.
+            semgrep scan $REGRAS --metrics=off --baseline-commit "$BASE" \
+              --severity ERROR --error $ALVOS
+          else
+            semgrep scan $REGRAS --metrics=off --sarif --output semgrep.sarif $ALVOS
+          fi
+      - name: Enviar para a aba Security
+        if: always() && hashFiles('semgrep.sarif') != ''
+        uses: github/codeql-action/upload-sarif@1bd86f2fdb4b86187fa4059f16f31a3202acc9ea # v4.39.4
+        with:
+          sarif_file: semgrep.sarif
+          category: semgrep
+
+  iac:
+    name: Containers e IaC (Trivy)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Procurar Dockerfile, Terraform, Kubernetes ou Helm
+        id: detectar
+        run: |
+          ACHADOS=$(git ls-files | grep -Ei '(^|/)(Dockerfile|docker-compose[^/]*\.ya?ml|[^/]+\.tf|Chart\.yaml)$|(^|/)(k8s|kubernetes|helm)/' || true)
+          if [ -n "$ACHADOS" ]; then echo "tem=1" >> "$GITHUB_OUTPUT"; echo "$ACHADOS"; else echo "tem=0" >> "$GITHUB_OUTPUT"; echo "Nenhum arquivo de container/IaC no repositório: Trivy pulado."; fi
+      - name: Trivy (falha só em ALTA/CRÍTICA)
+        if: steps.detectar.outputs.tem == '1'
+        uses: aquasecurity/trivy-action@ed142fd0673e97e23eac54620cfb913e5ce36c25 # v0.36.0
+        with:
+          scan-type: fs
+          scanners: vuln,misconfig
+          severity: HIGH,CRITICAL
+          ignore-unfixed: true
+          exit-code: '1'

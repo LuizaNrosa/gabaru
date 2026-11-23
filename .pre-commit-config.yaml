@@ -1,0 +1,26 @@
+# Defesa local: roda antes de cada commit.
+# Instalar uma vez:  pip install pre-commit  &&  pre-commit install
+# Rodar em tudo:     pre-commit run --all-files
+# Versões fixadas por SHA (a tag está no comentário). Atualize com:
+#   pre-commit autoupdate --freeze
+repos:
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: 83d9cd684c87d95d656c1458ef04895a7f1cbd8e  # frozen: v8.30.1
+    hooks:
+      - id: gitleaks
+
+  - repo: https://github.com/semgrep/pre-commit
+    rev: a68c2d451e989be0cfbe8234b6b1a9ea17424a0d  # frozen: v1.186.0
+    hooks:
+      - id: semgrep
+        # Regras próprias (offline) + pacotes do registro. Só bloqueia ERROR.
+        args:
+          - --config=.semgrep/gabaru.yml
+          - --config=p/javascript
+          - --config=p/typescript
+          - --config=p/nextjs
+          - --severity=ERROR
+          - --error
+          - --metrics=off
+          - --skip-unknown-extensions
+        files: ^(src|APK/src|scripts)/.*\.(ts|tsx|js|jsx|mjs)$

@@ -4,7 +4,7 @@ const kind=process.env.GABARU_SITEMAP_KIND||'index';
 const isIndex=kind==='index';
 if(!isIndex&&!Object.hasOwn(manifest.families,kind))throw new Error('Família de sitemap inválida');
 const children=Object.entries(manifest.families).flatMap(([name,entries])=>Array.from({length:Math.ceil(entries.length/2000)},(_,i)=>`${manifest.origin}/sitemap-${name}${i?'-'+i:''}.xml`));
-const disallow=['/painel','/painel/','/perfil','/perfil/','/login','/cadastro','/checkout','/checkout/','/api/','/*?*q=','/*?*sort=','/*?*page=','/*?*pagina=','/*?*busca=','/*?*banca=','/*?*disciplina=','/*?*assunto=','/*?*ano=','/*?*categoria=','/*?*status=','/*?*habilidade=','/*?*erros=','/*?*comentadas='];
+const disallow=['/questoes/indice-busca','/painel','/painel/','/perfil','/perfil/','/login','/cadastro','/checkout','/checkout/','/api/','/*?*q=','/*?*sort=','/*?*page=','/*?*pagina=','/*?*busca=','/*?*banca=','/*?*disciplina=','/*?*assunto=','/*?*ano=','/*?*categoria=','/*?*status=','/*?*habilidade=','/*?*erros=','/*?*comentadas='];
 /** @type {import('next-sitemap').IConfig} */
 module.exports={
  siteUrl:'https://gabaru.com.br',generateRobotsTxt:isIndex,generateIndexSitemap:isIndex,sitemapSize:2000,autoLastmod:true,

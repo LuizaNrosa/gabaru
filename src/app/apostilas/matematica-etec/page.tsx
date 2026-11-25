@@ -6,6 +6,7 @@ import {ComprarProduto} from '@/components/comprar-produto';
 import {apostilaMatematica,totaisApostila} from '@/lib/apostila-matematica';
 import {produtos,precoBRL} from '@/lib/loja/produtos';
 import {metaPagina,SITE_URL} from '@/lib/seo';
+import {produtoDigitalSchema} from '@/lib/seo/produto-schema.mjs';
 import '../apostila.css';
 
 const produto=produtos[apostilaMatematica.produto];
@@ -17,7 +18,11 @@ export const metadata=metaPagina({
  titulo:`Apostila de Matemática para o Vestibulinho ETEC 2027 por ${preco}`,
  descricao:`${t.capitulos} capítulos com teoria do zero, ${t.exemplos} exemplos resolvidos, ${t.fixacao} exercícios de fixação e gabarito comentado. Leitura no site, Capítulo 1 grátis.`,
  caminho:base,
+ imagem:{url:'/capas/apostila-matematica-etec-og.jpg',alt:'Capa da Apostila de Matemática para o Vestibulinho ETEC do Gabaru'},
 });
+
+/** Capa real da apostila (página 1 do PDF), nas proporções que o Google recomenda para produto. */
+const IMAGENS_PRODUTO=['1x1','4x3','16x9','capa'].map(v=>`/capas/apostila-matematica-etec-${v}.jpg`);
 
 const faq=[
  {question:'Como recebo a apostila?',answer:`A apostila é lida aqui no Gabaru, capítulo por capítulo, no computador ou no celular. Depois que o Pix é confirmado, os ${t.capitulos} capítulos ficam liberados na sua conta, sem prazo de validade.`},
@@ -30,9 +35,8 @@ export default function Page(){
  const vendaAberta=getServerEnv().LOJA_ENABLED==='1';
  const url=SITE_URL+base;
  const schema={'@context':'https://schema.org','@graph':[
-  {'@type':'Product','@id':url+'#produto',name:produto.titulo,description:metadata.description,url,brand:{'@type':'Brand',name:'Gabaru'},inLanguage:'pt-BR',
-   ...(vendaAberta?{offers:{'@type':'Offer',price:(produto.precoCentavos/100).toFixed(2),priceCurrency:'BRL',availability:'https://schema.org/InStock',url}}:{})},
-  {'@type':'Book','@id':url+'#livro',name:produto.titulo,inLanguage:'pt-BR',bookFormat:'https://schema.org/EBook',educationalLevel:'Ensino Fundamental II',
+  produtoDigitalSchema({siteUrl:SITE_URL,url,nome:produto.titulo,descricao:String(metadata.description),imagens:IMAGENS_PRODUTO,precoCentavos:produto.precoCentavos,vendaAberta}),
+  {'@type':'Book','@id':url+'#livro',name:produto.titulo,image:SITE_URL+IMAGENS_PRODUTO[3],inLanguage:'pt-BR',bookFormat:'https://schema.org/EBook',educationalLevel:'Ensino Fundamental II',
    hasPart:apostilaMatematica.capitulos.map(c=>({'@type':'Chapter',position:c.numero,name:c.titulo,url:`${url}/${c.slug}`}))},
   {'@type':'FAQPage','@id':url+'#faq',mainEntity:faq.map(f=>({'@type':'Question',name:f.question,acceptedAnswer:{'@type':'Answer',text:f.answer}}))},
   {'@type':'BreadcrumbList',itemListElement:[{name:'Início',path:'/'},{name:'Livros',path:'/livros'},{name:'Apostila de Matemática ETEC',path:base}].map((b,i)=>({'@type':'ListItem',position:i+1,name:b.name,item:SITE_URL+b.path}))},

@@ -31,6 +31,8 @@ type OpcoesPagina = {
   caminho: string;
   /** Páginas de conta/formulário: fora do índice mesmo após o lançamento. */
   semIndice?: boolean;
+  /** Imagem social da própria página (1200×630). Padrão: OG_IMAGEM. */
+  imagem?: {url: string; alt: string};
 };
 
 export function metaPagina({
@@ -38,6 +40,7 @@ export function metaPagina({
   descricao,
   caminho,
   semIndice = false,
+  imagem = {url: OG_IMAGEM, alt: "GABARU"},
 }: OpcoesPagina): Metadata {
   titulo=seoTitle(titulo);descricao=seoDescription(descricao);
   const indexar =
@@ -54,13 +57,13 @@ export function metaPagina({
       title: titulo,
       description: descricao,
       url: caminho,
-      images: [{ url: OG_IMAGEM, width: 1200, height: 630, alt: "GABARU" }],
+      images: [{ url: imagem.url, width: 1200, height: 630, alt: imagem.alt }],
     },
     twitter: {
       card: "summary_large_image",
       title: titulo,
       description: descricao,
-      images: [OG_IMAGEM],
+      images: [imagem.url],
     },
   };
 }
